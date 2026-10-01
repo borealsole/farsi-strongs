@@ -32,14 +32,17 @@ Hebrew is shown with vowel points but without cantillation marks, to keep chunks
 
 1. Start a **new chat** for each chunk, so earlier chunks don't crowd the conversation.
 2. Attach the chunk's `.md` file (or paste its contents), then paste the prompt below.
-3. Read the reply. The model makes mistakes too, so check its changes against the
-   original before using them, especially anything listed under "unsure".
-4. Apply the changes you agree with to NMV_strongs.json. Either retag the words in the sync.bible
-   app (alt/ctrl/cmd-click a Persian word, then click the original word), or edit the file
-   directly using the verse lines from the reply. Then commit it to sync.bible.
-5. Once a verse has been checked by a person, it is locked automatically on the next
-   `python -m retag run` if its tags changed. Add checked verses that needed no change to
-   `retag/locked_verses.txt` (see the main README).
+3. Save the whole reply as a file in `review_replies/pending/`, named after the chunk.
+4. Run `python review_replies.py check`, read the report it writes, fix or delete any lines
+   you disagree with, then move the reply into `review_replies/approved/`. The model makes
+   mistakes too, so check every change against the original, especially anything it
+   listed as "unsure".
+5. Run `python review_replies.py apply` to write the approved verses into sync.bible and lock
+   them. Then commit both repositories.
+
+The full steps are in [review_replies/README.md](../review_replies/README.md). Changes can also
+be made directly in the sync.bible app (alt/ctrl/cmd-click a Persian word, then click the
+original word); those verses are locked automatically on the next `python -m retag run`.
 
 ## Regenerating
 

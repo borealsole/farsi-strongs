@@ -48,13 +48,13 @@ def read_locked(grid, path=LOCKED_VERSES_FILE):
     return keys
 
 
-def record_locked(new_keys, path=LOCKED_VERSES_FILE):
+def record_locked(new_keys, path=LOCKED_VERSES_FILE, note='manual edit detected'):
     if not new_keys:
         return
     today = datetime.date.today().isoformat()
     with open(path, 'a', encoding='utf8') as f:
         for key in sorted(new_keys):
-            f.write(f'{data.reference(key)}  # manual edit detected {today}\n')
+            f.write(f'{data.reference(key)}  # {note} {today}\n')
 
 
 def locked_verses(current, grid, record=False):

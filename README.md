@@ -115,6 +115,9 @@ Run `python -m retag evaluate` after adding corrections to see the current figur
 `python make_review_chunks.py --sync-bible ../sync.bible` splits the current tagging and the
 Hebrew/Greek into ~25-verse files for review in a chat with Claude. Hand-reviewed verses are
 left out. [review_chunks/README.md](review_chunks/README.md) has the workflow and a prompt to use.
+Replies are saved into `review_replies/pending/`, checked with `python review_replies.py check`,
+approved by moving them to `review_replies/approved/`, and only then written into sync.bible by
+`python review_replies.py apply` (see [review_replies/README.md](review_replies/README.md)).
 
 ## Growing the gold standard: `retag/locked_verses.txt`
 
