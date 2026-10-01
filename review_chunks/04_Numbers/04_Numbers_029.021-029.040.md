@@ -1,0 +1,858 @@
+# NMV Strong's review: Numbers 29:21–40
+
+Chunk file: 04_Numbers_029.021-029.040.md. 20 verses to review.
+
+## Worked examples (already reviewed by hand; follow these conventions)
+
+### Genesis 1:1
+
+Original: בְּ/רֵאשִׁית בָּרָא אֱלֹהִים אֵת הַ/שָּׁמַיִם וְ/אֵת הָ/אָרֶץ
+Persian: در آغاز، خدا آسمانها و زمین را آفرید.
+
+Original words:
+- o1: בְּ/רֵאשִׁית = Hb "in" + H7225 רֵאשִׁית "the first, in place, time…" [HR/Ncfsa]
+- o2: בָּרָא = H1254 בָּרָא "absolutely) to create…" [HVqp3ms]
+- o3: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o4: אֵת = H853 אֵת "properly…" [HTo]
+- o5: הַ/שָּׁמַיִם = Hd "the" + H8064 שָׁמַיִם "the sky (as aloft…" [HTd/Ncmpa]
+- o6: וְ/אֵת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o7: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+
+Correct Persian tags (reviewed by hand):
+- p1: در  → Hb
+- p2: آغاز  → H7225
+- p3: ،
+- p4: خدا  → H430
+- p5: آسمانها  → H8064
+- p6: و  → Hc
+- p7: زمین  → H776
+- p8: را  → H853
+- p9: آفرید  → H1254
+- p10: .
+
+### Deuteronomy 26:7
+
+Original: וַ/נִּצְעַק אֶל יְהוָה אֱלֹהֵי אֲבֹתֵי/נוּ וַ/יִּשְׁמַע יְהוָה אֶת קֹלֵ/נוּ וַ/יַּרְא אֶת עָנְיֵ/נוּ וְ/אֶת עֲמָלֵ/נוּ וְ/אֶת לַחֲצֵ/נוּ
+Persian: آنگاه نزد یهوه خدای پدران خویش فریاد برآوردیم، و خداوند صدای ما را شنید و مشقت و محنت و مظلومیت ما را دید.
+
+Original words:
+- o1: וַ/נִּצְעַק = Hc "and" + H6817 צָעַק "to shriek…" [HC/Vqw1cp]
+- o2: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֱלֹהֵי = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc]
+- o5: אֲבֹתֵי/נוּ = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp1cp]
+- o6: וַ/יִּשְׁמַע = Hc "and" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HC/Vqw3ms]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: קֹלֵ/נוּ = H6963 קוֹל "a voice or sound" [HNcmsc/Sp1cp]
+- o10: וַ/יַּרְא = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw3ms]
+- o11: אֶת = H853 אֵת "properly…" [HTo]
+- o12: עָנְיֵ/נוּ = H6040 עֳנִי "depression, i.e. misery" [HNcmsc/Sp1cp]
+- o13: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o14: עֲמָלֵ/נוּ = H5999 עָמָל "toil, i.e. wearing effort…" [HNcbsc/Sp1cp]
+- o15: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o16: לַחֲצֵ/נוּ = H3906 לַחַץ "distress" [HNcmsc/Sp1cp]
+
+Correct Persian tags (reviewed by hand):
+- p1: آنگاه  → Hc
+- p2: نزد  → H413
+- p3: یهوه  → H3068
+- p4: خدای  → H430
+- p5: پدران  → H1
+- p6: خویش
+- p7: فریاد برآوردیم  → H6817
+- p8: ،
+- p9: و  → Hc
+- p10: خداوند  → H3068
+- p11: صدای  → H6963
+- p12: ما
+- p13: را  → H853
+- p14: شنید  → H8085
+- p15: و  → Hc
+- p16: مشقت  → H5999
+- p17: و  → Hc
+- p18: محنت  → H6040
+- p19: و  → Hc
+- p20: مظلومیت  → H3906
+- p21: ما
+- p22: را  → H853
+- p23: دید  → H7200
+- p24: .
+
+## Verses to review
+
+### Numbers 29:21
+
+Original: וּ/מִנְחָתָ/ם וְ/נִסְכֵּי/הֶם לַ/פָּרִים לָ/אֵילִם וְ/לַ/כְּבָשִׂים בְּ/מִסְפָּרָ/ם כַּ/מִּשְׁפָּט
+Persian: همراه با هدیۀ آردی و هدایای ریختنی آنها برای گوساله‌ها، قوچها و بره‌ها، به تعداد تعیین شده،
+
+Original words:
+- o1: וּ/מִנְחָתָ/ם = Hc "and" + H4503 מִנְחָה "a donation; euphemistically, tribute…" [HC/Ncfsc/Sp3mp]
+- o2: וְ/נִסְכֵּי/הֶם = Hc "and" + H5262 נֶסֶךְ "a libation; also a cast idol" [HC/Ncmpc/Sp3mp]
+- o3: לַ/פָּרִים = Hl "to" + H6499 פַּר "a bullock (apparently as breaking forth in wild…" [HRd/Ncmpa]
+- o4: לָ/אֵילִם = Hl "to" + H352 אַיִל "properly, strength; hence, anything strong…" [HRd/Ncmpa]
+- o5: וְ/לַ/כְּבָשִׂים = Hc "and" + Hl "to" + H3532 כֶּבֶשׂ "a ram (just old enough to butt)" [HC/Rd/Ncmpa]
+- o6: בְּ/מִסְפָּרָ/ם = Hb "in" + H4557 מִסְפָּר "a number…" [HR/Ncmsc/Sp3mp]
+- o7: כַּ/מִּשְׁפָּט = Hk "like" + H4941 מִשְׁפָּט "properly…" [HRd/Ncmsa]
+
+Persian entries and current tags:
+- p1: همراه
+- p2: با
+- p3: هدیۀ
+- p4: آردی  → H4503
+- p5: و  → Hc
+- p6: هدایای  → H5262
+- p7: ریختنی  → H5262 H4941
+- p8: آنها  → H5262
+- p9: برای  → Hl
+- p10: گوساله‌ها  → H6499
+- p11: ،
+- p12: قوچها  → H352 H3532
+- p13: و  → Hc
+- p14: بره‌ها  → H3532
+- p15: ،
+- p16: به  → Hb
+- p17: تعداد  → H4557
+- p18: تعیین
+- p19: شده  → H4941
+- p20: ،
+
+### Numbers 29:22
+
+Original: וּ/שְׂעִיר חַטָּאת אֶחָד מִ/לְּ/בַד עֹלַת הַ/תָּמִיד וּ/מִנְחָתָ/הּ וְ/נִסְכָּ/הּ
+Persian: و نیز یک بز نر به عنوان قربانی گناه، سوای قربانی تمام‌سوز دائمی، و هدیۀ آردی و ریختنی آن.
+
+Original words:
+- o1: וּ/שְׂעִיר = Hc "and" + H8163 שָׂעִיר "shaggy; as noun, a he-goat; by analogy, a faun" [HC/Ncmsc]
+- o2: חַטָּאת = H2403 חַטָּאָה "an offence (sometimes habitual sinfulness)…" [HNcfsa]
+- o3: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o4: מִ/לְּ/בַד = Hm "from" + Hl "to" + H905 בַּד "properly, separation…" [HR/R/Ncmsc]
+- o5: עֹלַת = H5930 עֹלָה "a step or (collectively, stairs, as ascending)…" [HNcfsc]
+- o6: הַ/תָּמִיד = Hd "the" + H8548 תָּמִיד "properly, continuance (as indefinite extension)…" [HTd/Ncmsa]
+- o7: וּ/מִנְחָתָ/הּ = Hc "and" + H4503 מִנְחָה "a donation; euphemistically, tribute…" [HC/Ncfsc/Sp3fs]
+- o8: וְ/נִסְכָּ/הּ = Hc "and" + H5262 נֶסֶךְ "a libation; also a cast idol" [HC/Ncmsc/Sp3fs]
+
+Persian entries and current tags:
+- p1: و  → Hc
+- p2: نیز
+- p3: یک  → H259
+- p4: بز نر  → H8163
+- p5: به
+- p6: عنوان
+- p7: قربانی  → H2403
+- p8: گناه  → H2403 H5930
+- p9: ،
+- p10: سوای  → H905
+- p11: قربانی تمام‌سوز  → H5930
+- p12: دائمی  → H8548
+- p13: ،
+- p14: و  → Hc
+- p15: هدیۀ
+- p16: آردی  → H4503
+- p17: و  → Hc
+- p18: ریختنی  → H5262
+- p19: آن
+- p20: .
+
+### Numbers 29:23
+
+Original: וּ/בַ/יּוֹם הָ/רְבִיעִי פָּרִים עֲשָׂרָה אֵילִם שְׁנָיִם כְּבָשִׂים בְּנֵי שָׁנָה אַרְבָּעָה עָשָׂר תְּמִימִם
+Persian: « روز چهارم، ده گوسالۀ نر، دو قوچ و چهارده برۀ نرینۀ یک ساله و بی‌عیب،
+
+Original words:
+- o1: וּ/בַ/יּוֹם = Hc "and" + Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HC/Rd/Ncmsa]
+- o2: הָ/רְבִיעִי = Hd "the" + H7243 רְבִיעִי "fourth; also (fractionally) a fourth" [HTd/Aomsa]
+- o3: פָּרִים = H6499 פַּר "a bullock (apparently as breaking forth in wild…" [HNcmpa]
+- o4: עֲשָׂרָה = H6235 עֶשֶׂר "ten (as an accumulation to the extent of the…" [HAcmsa]
+- o5: אֵילִם = H352 אַיִל "properly, strength; hence, anything strong…" [HNcmpa]
+- o6: שְׁנָיִם = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmda]
+- o7: כְּבָשִׂים = H3532 כֶּבֶשׂ "a ram (just old enough to butt)" [HNcmpa]
+- o8: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o9: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o10: אַרְבָּעָה = H702 אַרְבַּע "four" [HAcmsa]
+- o11: עָשָׂר = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcmsa]
+- o12: תְּמִימִם = H8549 תָּמִים "entire (literally, figuratively or morally)…" [HAampa]
+
+Persian entries and current tags:
+- p1: «
+- p2: روز  → H3117
+- p3: چهارم  → H7243
+- p4: ،
+- p5: ده  → H6235
+- p6: گوسالۀ  → H6499
+- p7: نر  → H6499 H352
+- p8: ،
+- p9: دو  → H8147
+- p10: قوچ  → H352
+- p11: و
+- p12: چهارده  → H702 H6240
+- p13: برۀ  → H3532
+- p14: نرینۀ  → H1121
+- p15: یک
+- p16: ساله  → H8141
+- p17: و
+- p18: بی‌عیب  → H8549
+- p19: ،
+
+### Numbers 29:24
+
+Original: מִנְחָתָ/ם וְ/נִסְכֵּי/הֶם לַ/פָּרִים לָ/אֵילִם וְ/לַ/כְּבָשִׂים בְּ/מִסְפָּרָ/ם כַּ/מִּשְׁפָּט
+Persian: همراه با هدیۀ آردی و هدایای ریختنی آنها برای گوساله‌ها، قوچها و بره‌ها، به تعداد تعیین شده،
+
+Original words:
+- o1: מִנְחָתָ/ם = H4503 מִנְחָה "a donation; euphemistically, tribute…" [HNcfsc/Sp3mp]
+- o2: וְ/נִסְכֵּי/הֶם = Hc "and" + H5262 נֶסֶךְ "a libation; also a cast idol" [HC/Ncmpc/Sp3mp]
+- o3: לַ/פָּרִים = Hl "to" + H6499 פַּר "a bullock (apparently as breaking forth in wild…" [HRd/Ncmpa]
+- o4: לָ/אֵילִם = Hl "to" + H352 אַיִל "properly, strength; hence, anything strong…" [HRd/Ncmpa]
+- o5: וְ/לַ/כְּבָשִׂים = Hc "and" + Hl "to" + H3532 כֶּבֶשׂ "a ram (just old enough to butt)" [HC/Rd/Ncmpa]
+- o6: בְּ/מִסְפָּרָ/ם = Hb "in" + H4557 מִסְפָּר "a number…" [HR/Ncmsc/Sp3mp]
+- o7: כַּ/מִּשְׁפָּט = Hk "like" + H4941 מִשְׁפָּט "properly…" [HRd/Ncmsa]
+
+Persian entries and current tags:
+- p1: همراه
+- p2: با
+- p3: هدیۀ
+- p4: آردی  → H4503
+- p5: و  → Hc
+- p6: هدایای
+- p7: ریختنی  → H5262 H4941
+- p8: آنها
+- p9: برای  → Hl
+- p10: گوساله‌ها  → H6499
+- p11: ،
+- p12: قوچها  → H352 H3532
+- p13: و  → Hc
+- p14: بره‌ها  → H3532
+- p15: ،
+- p16: به  → Hb
+- p17: تعداد  → H4557
+- p18: تعیین
+- p19: شده  → H4941
+- p20: ،
+
+### Numbers 29:25
+
+Original: וּ/שְׂעִיר עִזִּים אֶחָד חַטָּאת מִ/לְּ/בַד עֹלַת הַ/תָּמִיד מִנְחָתָ/הּ וְ/נִסְכָּ/הּ
+Persian: و نیز یک بز نر به عنوان قربانی گناه، سوای قربانی تمام‌سوز دائمی، و هدیۀ آردی و ریختنی آن.
+
+Original words:
+- o1: וּ/שְׂעִיר = Hc "and" + H8163 שָׂעִיר "shaggy; as noun, a he-goat; by analogy, a faun" [HC/Ncmsc]
+- o2: עִזִּים = H5795 עֵז "a she-goat (as strong)…" [HNcfpa]
+- o3: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o4: חַטָּאת = H2403 חַטָּאָה "an offence (sometimes habitual sinfulness)…" [HNcfsa]
+- o5: מִ/לְּ/בַד = Hm "from" + Hl "to" + H905 בַּד "properly, separation…" [HR/R/Ncmsc]
+- o6: עֹלַת = H5930 עֹלָה "a step or (collectively, stairs, as ascending)…" [HNcfsc]
+- o7: הַ/תָּמִיד = Hd "the" + H8548 תָּמִיד "properly, continuance (as indefinite extension)…" [HTd/Ncmsa]
+- o8: מִנְחָתָ/הּ = H4503 מִנְחָה "a donation; euphemistically, tribute…" [HNcfsc/Sp3fs]
+- o9: וְ/נִסְכָּ/הּ = Hc "and" + H5262 נֶסֶךְ "a libation; also a cast idol" [HC/Ncmsc/Sp3fs]
+
+Persian entries and current tags:
+- p1: و  → Hc
+- p2: نیز
+- p3: یک  → H259
+- p4: بز  → H8163 H5795
+- p5: نر  → H5795
+- p6: به
+- p7: عنوان
+- p8: قربانی
+- p9: گناه  → H2403 H5930
+- p10: ،
+- p11: سوای  → H905
+- p12: قربانی  → H5930
+- p13: تمام‌سوز  → H5930 H8548
+- p14: دائمی  → H8548
+- p15: ،
+- p16: و
+- p17: هدیۀ
+- p18: آردی  → H4503
+- p19: و  → Hc
+- p20: ریختنی  → H5262
+- p21: آن
+- p22: .
+
+### Numbers 29:26
+
+Original: וּ/בַ/יּוֹם הַ/חֲמִישִׁי פָּרִים תִּשְׁעָה אֵילִם שְׁנָיִם כְּבָשִׂים בְּנֵי שָׁנָה אַרְבָּעָה עָשָׂר תְּמִימִם
+Persian: « روز پنجم، نُه گوسالۀ نر، دو قوچ و چهارده برۀ نرینۀ یک ساله و بی‌عیب،
+
+Original words:
+- o1: וּ/בַ/יּוֹם = Hc "and" + Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HC/Rd/Ncmsa]
+- o2: הַ/חֲמִישִׁי = Hd "the" + H2549 חֲמִישִׁי "fifth; also a fifth" [HTd/Aomsa]
+- o3: פָּרִים = H6499 פַּר "a bullock (apparently as breaking forth in wild…" [HNcmpa]
+- o4: תִּשְׁעָה = H8672 תֵּשַׁע "nine or (ordinal) ninth" [HAcmsa]
+- o5: אֵילִם = H352 אַיִל "properly, strength; hence, anything strong…" [HNcmpa]
+- o6: שְׁנָיִם = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmda]
+- o7: כְּבָשִׂים = H3532 כֶּבֶשׂ "a ram (just old enough to butt)" [HNcmpa]
+- o8: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o9: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o10: אַרְבָּעָה = H702 אַרְבַּע "four" [HAcmsa]
+- o11: עָשָׂר = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcmsa]
+- o12: תְּמִימִם = H8549 תָּמִים "entire (literally, figuratively or morally)…" [HAampa]
+
+Persian entries and current tags:
+- p1: «
+- p2: روز  → H3117
+- p3: پنجم  → H2549
+- p4: ،
+- p5: نُه  → H8672
+- p6: گوسالۀ  → H6499
+- p7: نر  → H6499 H352
+- p8: ،
+- p9: دو  → H8147
+- p10: قوچ  → H352
+- p11: و
+- p12: چهارده  → H702 H6240
+- p13: برۀ  → H3532
+- p14: نرینۀ  → H1121
+- p15: یک
+- p16: ساله  → H8141
+- p17: و
+- p18: بی‌عیب  → H8549
+- p19: ،
+
+### Numbers 29:27
+
+Original: וּ/מִנְחָתָ/ם וְ/נִסְכֵּי/הֶם לַ/פָּרִים לָ/אֵילִם וְ/לַ/כְּבָשִׂים בְּ/מִסְפָּרָ/ם כַּ/מִּשְׁפָּט
+Persian: همراه با هدیۀ آردی و هدایای ریختنی آنها برای گوساله‌ها، قوچها و بره‌ها، به تعداد تعیین شده،
+
+Original words:
+- o1: וּ/מִנְחָתָ/ם = Hc "and" + H4503 מִנְחָה "a donation; euphemistically, tribute…" [HC/Ncfsc/Sp3mp]
+- o2: וְ/נִסְכֵּי/הֶם = Hc "and" + H5262 נֶסֶךְ "a libation; also a cast idol" [HC/Ncmpc/Sp3mp]
+- o3: לַ/פָּרִים = Hl "to" + H6499 פַּר "a bullock (apparently as breaking forth in wild…" [HRd/Ncmpa]
+- o4: לָ/אֵילִם = Hl "to" + H352 אַיִל "properly, strength; hence, anything strong…" [HRd/Ncmpa]
+- o5: וְ/לַ/כְּבָשִׂים = Hc "and" + Hl "to" + H3532 כֶּבֶשׂ "a ram (just old enough to butt)" [HC/Rd/Ncmpa]
+- o6: בְּ/מִסְפָּרָ/ם = Hb "in" + H4557 מִסְפָּר "a number…" [HR/Ncmsc/Sp3mp]
+- o7: כַּ/מִּשְׁפָּט = Hk "like" + H4941 מִשְׁפָּט "properly…" [HRd/Ncmsa]
+
+Persian entries and current tags:
+- p1: همراه
+- p2: با
+- p3: هدیۀ
+- p4: آردی  → H4503
+- p5: و  → Hc
+- p6: هدایای  → H5262
+- p7: ریختنی  → H5262 H4941
+- p8: آنها  → H5262
+- p9: برای  → Hl
+- p10: گوساله‌ها  → H6499
+- p11: ،
+- p12: قوچها  → H352 H3532
+- p13: و  → Hc
+- p14: بره‌ها  → H3532
+- p15: ،
+- p16: به  → Hb
+- p17: تعداد  → H4557
+- p18: تعیین
+- p19: شده  → H4941
+- p20: ،
+
+### Numbers 29:28
+
+Original: וּ/שְׂעִיר חַטָּאת אֶחָד מִ/לְּ/בַד עֹלַת הַ/תָּמִיד וּ/מִנְחָתָ/הּ וְ/נִסְכָּ/הּ
+Persian: و نیز یک بز نر به عنوان قربانی گناه، سوای قربانی تمام‌سوز دائمی، و هدیۀ آردی و ریختنی آن.
+
+Original words:
+- o1: וּ/שְׂעִיר = Hc "and" + H8163 שָׂעִיר "shaggy; as noun, a he-goat; by analogy, a faun" [HC/Ncmsc]
+- o2: חַטָּאת = H2403 חַטָּאָה "an offence (sometimes habitual sinfulness)…" [HNcfsa]
+- o3: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o4: מִ/לְּ/בַד = Hm "from" + Hl "to" + H905 בַּד "properly, separation…" [HR/R/Ncmsc]
+- o5: עֹלַת = H5930 עֹלָה "a step or (collectively, stairs, as ascending)…" [HNcfsc]
+- o6: הַ/תָּמִיד = Hd "the" + H8548 תָּמִיד "properly, continuance (as indefinite extension)…" [HTd/Ncmsa]
+- o7: וּ/מִנְחָתָ/הּ = Hc "and" + H4503 מִנְחָה "a donation; euphemistically, tribute…" [HC/Ncfsc/Sp3fs]
+- o8: וְ/נִסְכָּ/הּ = Hc "and" + H5262 נֶסֶךְ "a libation; also a cast idol" [HC/Ncmsc/Sp3fs]
+
+Persian entries and current tags:
+- p1: و  → Hc
+- p2: نیز
+- p3: یک  → H259
+- p4: بز نر  → H8163
+- p5: به
+- p6: عنوان
+- p7: قربانی
+- p8: گناه  → H2403 H5930
+- p9: ،
+- p10: سوای  → H905
+- p11: قربانی تمام‌سوز  → H5930
+- p12: دائمی  → H8548
+- p13: ،
+- p14: و  → Hc
+- p15: هدیۀ
+- p16: آردی  → H4503
+- p17: و  → Hc
+- p18: ریختنی  → H5262
+- p19: آن
+- p20: .
+
+### Numbers 29:29
+
+Original: וּ/בַ/יּוֹם הַ/שִּׁשִּׁי פָּרִים שְׁמֹנָה אֵילִם שְׁנָיִם כְּבָשִׂים בְּנֵי שָׁנָה אַרְבָּעָה עָשָׂר תְּמִימִם
+Persian: « روز ششم، هشت گوسالۀ نر، دو قوچ و چهارده برۀ نرینۀ یک ساله و بی‌عیب،
+
+Original words:
+- o1: וּ/בַ/יּוֹם = Hc "and" + Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HC/Rd/Ncmsa]
+- o2: הַ/שִּׁשִּׁי = Hd "the" + H8345 שִׁשִּׁי "sixth, ord. or (feminine) fractional" [HTd/Aomsa]
+- o3: פָּרִים = H6499 פַּר "a bullock (apparently as breaking forth in wild…" [HNcmpa]
+- o4: שְׁמֹנָה = H8083 שְׁמֹנֶה "a cardinal number…" [HAcmsa]
+- o5: אֵילִם = H352 אַיִל "properly, strength; hence, anything strong…" [HNcmpa]
+- o6: שְׁנָיִם = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmda]
+- o7: כְּבָשִׂים = H3532 כֶּבֶשׂ "a ram (just old enough to butt)" [HNcmpa]
+- o8: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o9: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o10: אַרְבָּעָה = H702 אַרְבַּע "four" [HAcmsa]
+- o11: עָשָׂר = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcmsa]
+- o12: תְּמִימִם = H8549 תָּמִים "entire (literally, figuratively or morally)…" [HAampa]
+
+Persian entries and current tags:
+- p1: «
+- p2: روز  → H3117
+- p3: ششم  → H8345
+- p4: ،
+- p5: هشت  → H8083
+- p6: گوسالۀ  → H6499
+- p7: نر  → H6499 H352
+- p8: ،
+- p9: دو  → H8147
+- p10: قوچ  → H352
+- p11: و
+- p12: چهارده  → H702 H6240
+- p13: برۀ  → H3532
+- p14: نرینۀ  → H1121
+- p15: یک
+- p16: ساله  → H8141
+- p17: و
+- p18: بی‌عیب  → H8549
+- p19: ،
+
+### Numbers 29:30
+
+Original: וּ/מִנְחָתָ/ם וְ/נִסְכֵּי/הֶם לַ/פָּרִים לָ/אֵילִם וְ/לַ/כְּבָשִׂים בְּ/מִסְפָּרָ/ם כַּ/מִּשְׁפָּט
+Persian: همراه با هدیۀ آردی و هدایای ریختنی آنها برای گوساله‌ها، قوچها و بره‌ها، به تعداد تعیین شده،
+
+Original words:
+- o1: וּ/מִנְחָתָ/ם = Hc "and" + H4503 מִנְחָה "a donation; euphemistically, tribute…" [HC/Ncfsc/Sp3mp]
+- o2: וְ/נִסְכֵּי/הֶם = Hc "and" + H5262 נֶסֶךְ "a libation; also a cast idol" [HC/Ncmpc/Sp3mp]
+- o3: לַ/פָּרִים = Hl "to" + H6499 פַּר "a bullock (apparently as breaking forth in wild…" [HRd/Ncmpa]
+- o4: לָ/אֵילִם = Hl "to" + H352 אַיִל "properly, strength; hence, anything strong…" [HRd/Ncmpa]
+- o5: וְ/לַ/כְּבָשִׂים = Hc "and" + Hl "to" + H3532 כֶּבֶשׂ "a ram (just old enough to butt)" [HC/Rd/Ncmpa]
+- o6: בְּ/מִסְפָּרָ/ם = Hb "in" + H4557 מִסְפָּר "a number…" [HR/Ncmsc/Sp3mp]
+- o7: כַּ/מִּשְׁפָּט = Hk "like" + H4941 מִשְׁפָּט "properly…" [HRd/Ncmsa]
+
+Persian entries and current tags:
+- p1: همراه
+- p2: با
+- p3: هدیۀ
+- p4: آردی  → H4503
+- p5: و  → Hc
+- p6: هدایای  → H5262
+- p7: ریختنی  → H5262 H4941
+- p8: آنها  → H5262
+- p9: برای  → Hl
+- p10: گوساله‌ها  → H6499
+- p11: ،
+- p12: قوچها  → H352 H3532
+- p13: و  → Hc
+- p14: بره‌ها  → H3532
+- p15: ،
+- p16: به  → Hb
+- p17: تعداد  → H4557
+- p18: تعیین
+- p19: شده  → H4941
+- p20: ،
+
+### Numbers 29:31
+
+Original: וּ/שְׂעִיר חַטָּאת אֶחָד מִ/לְּ/בַד עֹלַת הַ/תָּמִיד מִנְחָתָ/הּ וּ/נְסָכֶי/הָ
+Persian: و نیز یک بز نر به عنوان قربانی گناه، سوای قربانی تمام‌سوز دائمی، و هدیۀ آردی و ریختنی آن.
+
+Original words:
+- o1: וּ/שְׂעִיר = Hc "and" + H8163 שָׂעִיר "shaggy; as noun, a he-goat; by analogy, a faun" [HC/Ncmsc]
+- o2: חַטָּאת = H2403 חַטָּאָה "an offence (sometimes habitual sinfulness)…" [HNcfsa]
+- o3: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o4: מִ/לְּ/בַד = Hm "from" + Hl "to" + H905 בַּד "properly, separation…" [HR/R/Ncmsc]
+- o5: עֹלַת = H5930 עֹלָה "a step or (collectively, stairs, as ascending)…" [HNcfsc]
+- o6: הַ/תָּמִיד = Hd "the" + H8548 תָּמִיד "properly, continuance (as indefinite extension)…" [HTd/Ncmsa]
+- o7: מִנְחָתָ/הּ = H4503 מִנְחָה "a donation; euphemistically, tribute…" [HNcfsc/Sp3fs]
+- o8: וּ/נְסָכֶי/הָ = Hc "and" + H5262 נֶסֶךְ "a libation; also a cast idol" [HC/Ncmpc/Sp3fs]
+
+Persian entries and current tags:
+- p1: و  → Hc
+- p2: نیز
+- p3: یک  → H259
+- p4: بز  → H8163
+- p5: نر
+- p6: به
+- p7: عنوان
+- p8: قربانی  → H2403
+- p9: گناه  → H2403 H5930
+- p10: ،
+- p11: سوای  → H905
+- p12: قربانی  → H2403 H5930
+- p13: تمام‌سوز  → H5930 H8548
+- p14: دائمی  → H8548
+- p15: ،
+- p16: و  → Hc
+- p17: هدیۀ
+- p18: آردی  → H4503
+- p19: و  → Hc
+- p20: ریختنی  → H5262
+- p21: آن
+- p22: .
+
+### Numbers 29:32
+
+Original: וּ/בַ/יּוֹם הַ/שְּׁבִיעִי פָּרִים שִׁבְעָה אֵילִם שְׁנָיִם כְּבָשִׂים בְּנֵי שָׁנָה אַרְבָּעָה עָשָׂר תְּמִימִם
+Persian: « روز هفتم، هفت گوسالۀ نر، دو قوچ و چهارده برۀ نرینۀ یک ساله و بی‌عیب،
+
+Original words:
+- o1: וּ/בַ/יּוֹם = Hc "and" + Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HC/Rd/Ncmsa]
+- o2: הַ/שְּׁבִיעִי = Hd "the" + H7637 שְׁבִיעִי "seventh" [HTd/Aomsa]
+- o3: פָּרִים = H6499 פַּר "a bullock (apparently as breaking forth in wild…" [HNcmpa]
+- o4: שִׁבְעָה = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcmsa]
+- o5: אֵילִם = H352 אַיִל "properly, strength; hence, anything strong…" [HNcmpa]
+- o6: שְׁנָיִם = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmda]
+- o7: כְּבָשִׂים = H3532 כֶּבֶשׂ "a ram (just old enough to butt)" [HNcmpa]
+- o8: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o9: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o10: אַרְבָּעָה = H702 אַרְבַּע "four" [HAcmsa]
+- o11: עָשָׂר = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcmsa]
+- o12: תְּמִימִם = H8549 תָּמִים "entire (literally, figuratively or morally)…" [HAampa]
+
+Persian entries and current tags:
+- p1: «
+- p2: روز  → H3117
+- p3: هفتم  → H7637
+- p4: ،
+- p5: هفت  → H7637 H7651
+- p6: گوسالۀ  → H6499
+- p7: نر  → H6499 H352
+- p8: ،
+- p9: دو  → H8147
+- p10: قوچ  → H352
+- p11: و
+- p12: چهارده  → H702 H6240
+- p13: برۀ  → H3532
+- p14: نرینۀ  → H1121
+- p15: یک
+- p16: ساله  → H8141
+- p17: و
+- p18: بی‌عیب  → H8549
+- p19: ،
+
+### Numbers 29:33
+
+Original: וּ/מִנְחָתָ/ם וְ/נִסְכֵּ/הֶם לַ/פָּרִים לָ/אֵילִם וְ/לַ/כְּבָשִׂים בְּ/מִסְפָּרָ/ם כְּ/מִשְׁפָּטָ/ם
+Persian: همراه با هدیۀ آردی و هدایای ریختنی آنها برای گوساله‌ها، قوچها و بره‌ها، به تعداد تعیین شده،
+
+Original words:
+- o1: וּ/מִנְחָתָ/ם = Hc "and" + H4503 מִנְחָה "a donation; euphemistically, tribute…" [HC/Ncfsc/Sp3mp]
+- o2: וְ/נִסְכֵּ/הֶם = Hc "and" + H5262 נֶסֶךְ "a libation; also a cast idol" [HC/Ncmpc/Sp3mp]
+- o3: לַ/פָּרִים = Hl "to" + H6499 פַּר "a bullock (apparently as breaking forth in wild…" [HRd/Ncmpa]
+- o4: לָ/אֵילִם = Hl "to" + H352 אַיִל "properly, strength; hence, anything strong…" [HRd/Ncmpa]
+- o5: וְ/לַ/כְּבָשִׂים = Hc "and" + Hl "to" + H3532 כֶּבֶשׂ "a ram (just old enough to butt)" [HC/Rd/Ncmpa]
+- o6: בְּ/מִסְפָּרָ/ם = Hb "in" + H4557 מִסְפָּר "a number…" [HR/Ncmsc/Sp3mp]
+- o7: כְּ/מִשְׁפָּטָ/ם = Hk "like" + H4941 מִשְׁפָּט "properly…" [HR/Ncmsc/Sp3mp]
+
+Persian entries and current tags:
+- p1: همراه
+- p2: با
+- p3: هدیۀ
+- p4: آردی  → H4503
+- p5: و  → Hc
+- p6: هدایای  → H5262
+- p7: ریختنی  → H5262 H4941
+- p8: آنها  → H5262
+- p9: برای  → Hl
+- p10: گوساله‌ها  → H6499
+- p11: ،
+- p12: قوچها  → H352 H3532
+- p13: و  → Hc
+- p14: بره‌ها  → H3532
+- p15: ،
+- p16: به  → Hb
+- p17: تعداد  → H4557
+- p18: تعیین
+- p19: شده  → H4941
+- p20: ،
+
+### Numbers 29:34
+
+Original: וּ/שְׂעִיר חַטָּאת אֶחָד מִ/לְּ/בַד עֹלַת הַ/תָּמִיד מִנְחָתָ/הּ וְ/נִסְכָּ/הּ
+Persian: و نیز یک بز نر به عنوان قربانی گناه، سوای قربانی تمام‌سوز دائمی، و هدیۀ آردی و ریختنی آن.
+
+Original words:
+- o1: וּ/שְׂעִיר = Hc "and" + H8163 שָׂעִיר "shaggy; as noun, a he-goat; by analogy, a faun" [HC/Ncmsc]
+- o2: חַטָּאת = H2403 חַטָּאָה "an offence (sometimes habitual sinfulness)…" [HNcfsa]
+- o3: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o4: מִ/לְּ/בַד = Hm "from" + Hl "to" + H905 בַּד "properly, separation…" [HR/R/Ncmsc]
+- o5: עֹלַת = H5930 עֹלָה "a step or (collectively, stairs, as ascending)…" [HNcfsc]
+- o6: הַ/תָּמִיד = Hd "the" + H8548 תָּמִיד "properly, continuance (as indefinite extension)…" [HTd/Ncmsa]
+- o7: מִנְחָתָ/הּ = H4503 מִנְחָה "a donation; euphemistically, tribute…" [HNcfsc/Sp3fs]
+- o8: וְ/נִסְכָּ/הּ = Hc "and" + H5262 נֶסֶךְ "a libation; also a cast idol" [HC/Ncmsc/Sp3fs]
+
+Persian entries and current tags:
+- p1: و  → Hc
+- p2: نیز
+- p3: یک  → H259
+- p4: بز نر  → H8163
+- p5: به
+- p6: عنوان
+- p7: قربانی  → H2403
+- p8: گناه  → H2403 H5930
+- p9: ،
+- p10: سوای  → H905
+- p11: قربانی  → H2403 H5930
+- p12: تمام‌سوز  → H5930 H8548
+- p13: دائمی  → H8548
+- p14: ،
+- p15: و
+- p16: هدیۀ
+- p17: آردی  → H4503
+- p18: و  → Hc
+- p19: ریختنی  → H5262
+- p20: آن
+- p21: .
+
+### Numbers 29:35
+
+Original: בַּ/יּוֹם הַ/שְּׁמִינִי עֲצֶרֶת תִּהְיֶה לָ/כֶם כָּל מְלֶאכֶת עֲבֹדָה לֹא תַעֲשׂוּ
+Persian: « روز هشتم گردهم‌آییِ مخصوص برای شما باشد؛ در آن هیچ کار مکنید.
+
+Original words:
+- o1: בַּ/יּוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
+- o2: הַ/שְּׁמִינִי = Hd "the" + H8066 שְׁמִינִי "eight" [HTd/Aomsa]
+- o3: עֲצֶרֶת = H6116 עֲצָרָה "an assembly, especially on afestival or holiday" [HNcfsa]
+- o4: תִּהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3fs]
+- o5: לָ/כֶם = Hl "to" [HR/Sp2mp]
+- o6: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o7: מְלֶאכֶת = H4399 מְלָאכָה "properly, deputyship, i.e. ministry…" [HNcfsc]
+- o8: עֲבֹדָה = H5656 עֲבֹדָה "work of any kind" [HNcfsa]
+- o9: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o10: תַעֲשׂוּ = H6213 עָשָׂה "to do or make…" [HVqi2mp]
+
+Persian entries and current tags:
+- p1: «
+- p2: روز  → H3117
+- p3: هشتم  → H8066
+- p4: گردهم‌آییِ مخصوص  → H6116
+- p5: برای
+- p6: شما
+- p7: باشد  → H1961
+- p8: ؛
+- p9: در
+- p10: آن
+- p11: هیچ  → H3605
+- p12: کار  → H4399
+- p13: مکنید  → H5656 H6213
+- p14: .
+
+### Numbers 29:36
+
+Original: וְ/הִקְרַבְתֶּם עֹלָה אִשֵּׁה רֵיחַ נִיחֹחַ לַ/יהוָה פַּר אֶחָד אַיִל אֶחָד כְּבָשִׂים בְּנֵי שָׁנָה שִׁבְעָה תְּמִימִם
+Persian: قربانیهای تمام‌سوز و هدیۀ اختصاصی به عنوان رایحۀ خوشایند به خداوند تقدیم کنید: یک گوسالۀ نر، یک قوچ و هفت برۀ نرینۀ یک ساله و بی‌عیب،
+
+Original words:
+- o1: וְ/הִקְרַבְתֶּם = Hc "and" + H7126 קָרַב "to approach (causatively…" [HC/Vhq2mp]
+- o2: עֹלָה = H5930 עֹלָה "a step or (collectively, stairs, as ascending)…" [HNcfsa]
+- o3: אִשֵּׁה = H801 אִשָּׁה "properly, a burnt-offering…" [HNcmsc]
+- o4: רֵיחַ = H7381 רֵיחַ "odor (as if blown)" [HNcmsc]
+- o5: נִיחֹחַ = H5207 נִיחוֹחַ "properly, restful, i.e. pleasant…" [HNcmsa]
+- o6: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o7: פַּר = H6499 פַּר "a bullock (apparently as breaking forth in wild…" [HNcmsa]
+- o8: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o9: אַיִל = H352 אַיִל "properly, strength; hence, anything strong…" [HNcmsa]
+- o10: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o11: כְּבָשִׂים = H3532 כֶּבֶשׂ "a ram (just old enough to butt)" [HNcmpa]
+- o12: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o13: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o14: שִׁבְעָה = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcmsa]
+- o15: תְּמִימִם = H8549 תָּמִים "entire (literally, figuratively or morally)…" [HAampa]
+
+Persian entries and current tags:
+- p1: قربانیهای تمام‌سوز  → H5930
+- p2: و  → Hc
+- p3: هدیۀ
+- p4: اختصاصی  → H801
+- p5: به
+- p6: عنوان
+- p7: رایحۀ
+- p8: خوشایند  → H5930
+- p9: به  → Hl
+- p10: خداوند  → H3068
+- p11: تقدیم
+- p12: کنید
+- p13: :
+- p14: یک  → H259
+- p15: گوسالۀ  → H6499
+- p16: نر  → H352
+- p17: ،
+- p18: یک  → H259
+- p19: قوچ  → H6499
+- p20: و
+- p21: هفت  → H7651
+- p22: برۀ  → H3532
+- p23: نرینۀ
+- p24: یک  → H259
+- p25: ساله  → H8141
+- p26: و
+- p27: بی‌عیب  → H8549
+- p28: ،
+
+### Numbers 29:37
+
+Original: מִנְחָתָ/ם וְ/נִסְכֵּי/הֶם לַ/פָּר לָ/אַיִל וְ/לַ/כְּבָשִׂים בְּ/מִסְפָּרָ/ם כַּ/מִּשְׁפָּט
+Persian: همراه با هدیۀ آردی و هدایای ریختنی برای گوساله، قوچ و بره‌ها، به تعداد تعیین شده؛
+
+Original words:
+- o1: מִנְחָתָ/ם = H4503 מִנְחָה "a donation; euphemistically, tribute…" [HNcfsc/Sp3mp]
+- o2: וְ/נִסְכֵּי/הֶם = Hc "and" + H5262 נֶסֶךְ "a libation; also a cast idol" [HC/Ncmpc/Sp3mp]
+- o3: לַ/פָּר = Hl "to" + H6499 פַּר "a bullock (apparently as breaking forth in wild…" [HRd/Ncmsa]
+- o4: לָ/אַיִל = Hl "to" + H352 אַיִל "properly, strength; hence, anything strong…" [HRd/Ncmsa]
+- o5: וְ/לַ/כְּבָשִׂים = Hc "and" + Hl "to" + H3532 כֶּבֶשׂ "a ram (just old enough to butt)" [HC/Rd/Ncmpa]
+- o6: בְּ/מִסְפָּרָ/ם = Hb "in" + H4557 מִסְפָּר "a number…" [HR/Ncmsc/Sp3mp]
+- o7: כַּ/מִּשְׁפָּט = Hk "like" + H4941 מִשְׁפָּט "properly…" [HRd/Ncmsa]
+
+Persian entries and current tags:
+- p1: همراه
+- p2: با
+- p3: هدیۀ
+- p4: آردی  → H4503
+- p5: و  → Hc
+- p6: هدایای  → H5262
+- p7: ریختنی  → H5262 H4941
+- p8: برای  → Hl
+- p9: گوساله  → H6499
+- p10: ،
+- p11: قوچ  → H352
+- p12: و  → Hc
+- p13: بره‌ها  → H3532
+- p14: ،
+- p15: به  → Hb
+- p16: تعداد  → H4557
+- p17: تعیین
+- p18: شده  → H4941
+- p19: ؛
+
+### Numbers 29:38
+
+Original: וּ/שְׂעִיר חַטָּאת אֶחָד מִ/לְּ/בַד עֹלַת הַ/תָּמִיד וּ/מִנְחָתָ/הּ וְ/נִסְכָּ/הּ
+Persian: و نیز یک بز نر به عنوان قربانی گناه، سوای قربانی تمام‌سوز دائمی، و هدیۀ آردی و ریختنی آن.
+
+Original words:
+- o1: וּ/שְׂעִיר = Hc "and" + H8163 שָׂעִיר "shaggy; as noun, a he-goat; by analogy, a faun" [HC/Ncmsc]
+- o2: חַטָּאת = H2403 חַטָּאָה "an offence (sometimes habitual sinfulness)…" [HNcfsa]
+- o3: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o4: מִ/לְּ/בַד = Hm "from" + Hl "to" + H905 בַּד "properly, separation…" [HR/R/Ncmsc]
+- o5: עֹלַת = H5930 עֹלָה "a step or (collectively, stairs, as ascending)…" [HNcfsc]
+- o6: הַ/תָּמִיד = Hd "the" + H8548 תָּמִיד "properly, continuance (as indefinite extension)…" [HTd/Ncmsa]
+- o7: וּ/מִנְחָתָ/הּ = Hc "and" + H4503 מִנְחָה "a donation; euphemistically, tribute…" [HC/Ncfsc/Sp3fs]
+- o8: וְ/נִסְכָּ/הּ = Hc "and" + H5262 נֶסֶךְ "a libation; also a cast idol" [HC/Ncmsc/Sp3fs]
+
+Persian entries and current tags:
+- p1: و  → Hc
+- p2: نیز
+- p3: یک  → H259
+- p4: بز  → H8163
+- p5: نر
+- p6: به
+- p7: عنوان
+- p8: قربانی  → H2403
+- p9: گناه  → H2403 H5930
+- p10: ،
+- p11: سوای  → H905
+- p12: قربانی تمام‌سوز  → H5930
+- p13: دائمی  → H8548
+- p14: ،
+- p15: و  → Hc
+- p16: هدیۀ
+- p17: آردی  → H4503
+- p18: و  → Hc
+- p19: ریختنی  → H5262
+- p20: آن
+- p21: .
+
+### Numbers 29:39
+
+Original: אֵלֶּה תַּעֲשׂוּ לַ/יהוָה בְּ/מוֹעֲדֵי/כֶם לְ/בַד מִ/נִּדְרֵי/כֶם וְ/נִדְבֹתֵי/כֶם לְ/עֹלֹתֵי/כֶם וּ/לְ/מִנְחֹתֵי/כֶם וּ/לְ/נִסְכֵּי/כֶם וּ/לְ/שַׁלְמֵי/כֶם
+Persian: « اینها را در اعیاد خود به عنوان قربانی تمام‌سوز، هدیۀ آردی، هدیۀ ریختنی و قربانی رفاقت، سوای قربانیهای نذری و اختیاری خویش، به خداوند تقدیم کنید.»
+
+Original words:
+- o1: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o2: תַּעֲשׂוּ = H6213 עָשָׂה "to do or make…" [HVqi2mp]
+- o3: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o4: בְּ/מוֹעֲדֵי/כֶם = Hb "in" + H4150 מוֹעֵד "properly, an appointment…" [HR/Ncmpc/Sp2mp]
+- o5: לְ/בַד = Hl "to" + H905 בַּד "properly, separation…" [HR/Ncmsa]
+- o6: מִ/נִּדְרֵי/כֶם = Hm "from" + H5088 נֶדֶר "a promise (to God)…" [HR/Ncmpc/Sp2mp]
+- o7: וְ/נִדְבֹתֵי/כֶם = Hc "and" + H5071 נְדָבָה "properly (abstractly) spontaneity…" [HC/Ncfpc/Sp2mp]
+- o8: לְ/עֹלֹתֵי/כֶם = Hl "to" + H5930 עֹלָה "a step or (collectively, stairs, as ascending)…" [HR/Ncfpc/Sp2mp]
+- o9: וּ/לְ/מִנְחֹתֵי/כֶם = Hc "and" + Hl "to" + H4503 מִנְחָה "a donation; euphemistically, tribute…" [HC/R/Ncfpc/Sp2mp]
+- o10: וּ/לְ/נִסְכֵּי/כֶם = Hc "and" + Hl "to" + H5262 נֶסֶךְ "a libation; also a cast idol" [HC/R/Ncmpc/Sp2mp]
+- o11: וּ/לְ/שַׁלְמֵי/כֶם = Hc "and" + Hl "to" + H8002 שֶׁלֶם "properly, requital…" [HC/R/Ncmpc/Sp2mp]
+
+Persian entries and current tags:
+- p1: «
+- p2: اینها
+- p3: را
+- p4: در
+- p5: اعیاد  → H4150
+- p6: خود
+- p7: به
+- p8: عنوان
+- p9: قربانی  → H5930
+- p10: تمام‌سوز  → H5071 H5930
+- p11: ،
+- p12: هدیۀ  → H4503
+- p13: آردی  → H5088 H4503
+- p14: ،
+- p15: هدیۀ
+- p16: ریختنی  → H5262
+- p17: و  → Hc
+- p18: قربانی
+- p19: رفاقت  → H5071 H8002
+- p20: ،
+- p21: سوای  → H905
+- p22: قربانیهای  → H4503
+- p23: نذری  → H5088 H5930
+- p24: و  → Hc
+- p25: اختیاری  → H5071
+- p26: خویش
+- p27: ،
+- p28: به  → Hl
+- p29: خداوند  → H3068
+- p30: تقدیم کنید  → H6213
+- p31: .
+- p32: »
+
+### Numbers 29:40
+
+Original: וַ/יֹּאמֶר מֹשֶׁה אֶל בְּנֵי יִשְׂרָאֵל כְּ/כֹל אֲשֶׁר צִוָּה יְהוָה אֶת מֹשֶׁה
+Persian: پس موسی هرآنچه را که خداوند به او فرمان داده_بود، به بنی‌اسرائیل بازگفت.
+
+Original words:
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o5: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o6: כְּ/כֹל = Hk "like" + H3605 כֹּל "properly, the whole…" [HR/Ncmsa]
+- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o8: צִוָּה = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp3ms]
+- o9: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o10: אֶת = H853 אֵת "properly…" [HTo]
+- o11: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+
+Persian entries and current tags:
+- p1: پس
+- p2: موسی  → H4872
+- p3: هرآنچه  → H3605
+- p4: را  → H853
+- p5: که  → H834
+- p6: خداوند  → H3068
+- p7: به
+- p8: او  → H4872
+- p9: فرمان  → H6680
+- p10: داده_بود
+- p11: ،
+- p12: به  → H413
+- p13: بنی‌اسرائیل  → H3478
+- p14: بازگفت  → H559
+- p15: .
