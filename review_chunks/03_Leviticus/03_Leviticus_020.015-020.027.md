@@ -845,3 +845,45 @@ Persian entries and current tags:
 - p24: است
 - p25: .
 - p26: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 20:14 (context)
+
+- o1: וְ/אִישׁ = Hc "and" + H376 אִישׁ "a man as an individual or a male person…" [HC/Ncmsa]
+- o2: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o3: יִקַּח = H3947 לָקַח "to take (in the widest variety of applications)" [HVqi3ms]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: אִשָּׁה = H802 אִשָּׁה "a woman" [HNcfsa]
+- o6: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o7: אִמָּ/הּ = H517 אֵם "a mother (as the bond of the family)…" [HNcfsc/Sp3fs]
+- o8: זִמָּה = H2154 זִמָּה "a plan, especially a bad one" [HNcfsa]
+- o9: הִוא = H1931 הוּא "he (she or it)…" [HPp3fs]
+- o10: בָּ/אֵשׁ = Hb "in" + H784 אֵשׁ "fire (literally or figuratively)" [HRd/Ncbsa]
+- o11: יִשְׂרְפוּ = H8313 שָׂרַף "to be (causatively, set) on fire" [HVqi3mp]
+- o12: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o13: וְ/אֶתְ/הֶן = Hc "and" + H853 אֵת "properly…" [HC/To/Sp3fp]
+- o14: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o15: תִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3fs]
+- o16: זִמָּה = H2154 זִמָּה "a plan, especially a bad one" [HNcfsa]
+- o17: בְּ/תוֹכְ/כֶם = Hb "in" + H8432 תָּוֶךְ "a bisection, i.e. (by implication) the centre" [HR/Ncmsc/Sp2mp]
+
+### Leviticus 21:1 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: אֱמֹר = H559 אָמַר "to say (used with great latitude)" [HVqv2ms]
+- o6: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o7: הַ/כֹּהֲנִים = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmpa]
+- o8: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o9: אַהֲרֹן = H175 אַהֲרוֹן "Aharon, the brother of Moses" [HNp]
+- o10: וְ/אָמַרְתָּ = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqq2ms]
+- o11: אֲלֵ/הֶם = H413 אֵל "near, with or among; often in general, to" [HR/Sp3mp]
+- o12: לְ/נֶפֶשׁ = Hl "to" + H5315 נֶפֶשׁ "properly, a breathing creature…" [HR/Ncbsa]
+- o13: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o14: יִטַּמָּא = H2930 טָמֵא "to be foul…" [HVti3ms]
+- o15: בְּ/עַמָּי/ו = Hb "in" + H5971 עַם "a people (as a congregated unit)…" [HR/Ncmpc/Sp3ms]

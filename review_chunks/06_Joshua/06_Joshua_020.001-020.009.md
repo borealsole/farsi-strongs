@@ -614,3 +614,55 @@ Persian entries and current tags:
 - p40: مقتول  → H1818
 - p41: کشته_نشود  → H4191
 - p42: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Joshua 19:51 (context)
+
+- o1: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o2: הַ/נְּחָלֹת = Hd "the" + H5159 נַחֲלָה "properly, something inherited…" [HTd/Ncfpa]
+- o3: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o4: נִחֲלוּ = H5157 נָחַל "to inherit (as a (figurative) mode of descent)…" [HVpp3cp]
+- o5: אֶלְעָזָר = H499 אֶלְעָזָר "Elazar, the name of seven Israelites" [HNp]
+- o6: הַ/כֹּהֵן = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmsa]
+- o7: וִ/יהוֹשֻׁעַ = Hc "and" + H3091 יְהוֹשׁוּעַ "Jehoshua (i.e. Joshua), the Jewish leader" [HC/Np]
+- o8: בִּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o9: נוּן = H5126 נוּן "Nun or Non, the father of Joshua" [HNp]
+- o10: וְ/רָאשֵׁי = Hc "and" + H7218 רֹאשׁ "the head (as most easily shaken)…" [HC/Ncmpc]
+- o11: הָ/אָבוֹת = Hd "the" + H1 אָב "father, in a literal and immediate…" [HTd/Ncmpa]
+- o12: לְ/מַטּוֹת = Hl "to" + H4294 מַטֶּה "a branch (as extending); figuratively, a tribe…" [HR/Ncmpc]
+- o13: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o14: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o15: בְּ/גוֹרָל = Hb "in" + H1486 גּוֹרָל "properly, a pebble…" [HR/Ncmsa]
+- o16: בְּ/שִׁלֹה = Hb "in" + H7887 שִׁילֹה "Shiloh, a place in Palestine" [HR/Np]
+- o17: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o18: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o19: פֶּתַח = H6607 פֶּתַח "an opening (literally)…" [HNcmsc]
+- o20: אֹהֶל = H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HNcmsc]
+- o21: מוֹעֵד = H4150 מוֹעֵד "properly, an appointment…" [HNcmsa]
+- o22: וַ/יְכַלּוּ = Hc "and" + H3615 כָּלָה "to end, whether intransitive (to cease…" [HC/Vpw3mp]
+- o23: מֵ/חַלֵּק = Hm "from" + H2505 חָלַק "to be smooth (figuratively)…" [HR/Vpc]
+- o24: אֶת = H853 אֵת "properly…" [HTo]
+- o25: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+
+### Joshua 21:1 (context)
+
+- o1: וַ/יִּגְּשׁוּ = Hc "and" + H5066 נָגַשׁ "to be or come (causatively…" [HC/Vqw3mp]
+- o2: רָאשֵׁי = H7218 רֹאשׁ "the head (as most easily shaken)…" [HNcmpc]
+- o3: אֲבוֹת = H1 אָב "father, in a literal and immediate…" [HNcmpc]
+- o4: הַ/לְוִיִּם = Hd "the" + H3881 לֵוִיִּי "a Levite or descendant of Levi" [HTd/Ngmpa]
+- o5: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o6: אֶלְעָזָר = H499 אֶלְעָזָר "Elazar, the name of seven Israelites" [HNp]
+- o7: הַ/כֹּהֵן = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmsa]
+- o8: וְ/אֶל = Hc "and" + H413 אֵל "near, with or among; often in general, to" [HC/R]
+- o9: יְהוֹשֻׁעַ = H3091 יְהוֹשׁוּעַ "Jehoshua (i.e. Joshua), the Jewish leader" [HNp]
+- o10: בִּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o11: נוּן = H5126 נוּן "Nun or Non, the father of Joshua" [HNp]
+- o12: וְ/אֶל = Hc "and" + H413 אֵל "near, with or among; often in general, to" [HC/R]
+- o13: רָאשֵׁי = H7218 רֹאשׁ "the head (as most easily shaken)…" [HNcmpc]
+- o14: אֲבוֹת = H1 אָב "father, in a literal and immediate…" [HNcmpc]
+- o15: הַ/מַּטּוֹת = Hd "the" + H4294 מַטֶּה "a branch (as extending); figuratively, a tribe…" [HTd/Ncmpa]
+- o16: לִ/בְנֵי = Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmpc]
+- o17: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]

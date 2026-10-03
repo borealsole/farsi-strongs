@@ -1254,3 +1254,39 @@ Persian entries and current tags:
 - p18: مردگان  → G1347
 - p19: برخیزانیده شد  → G1453
 - p20: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Romans 3:31 (context)
+
+- o1: νόμον = G3551 νόμος "law" [N-ASM]
+- o2: οὖν = G3767 οὖν "and (so, truly), but, now (then)…" [CONJ]
+- o3: καταργοῦμεν = G2673 καταργέω "abolish, cease, cumber, deliver, destroy, do away…" [V-PAI-1P]
+- o4: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o5: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o6: πίστεως; = G4102 πίστις "assurance, belief, believe, faith, fidelity" [N-GSF]
+- o7: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o8: γένοιτο, = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-2ADO-3S]
+- o9: ἀλλὰ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o10: νόμον = G3551 νόμος "law" [N-ASM]
+- o11: ἱστάνομεν. = G2476 ἵστημι "abide, appoint, bring, continue, covenant…" [V-PAI-1P]
+
+### Romans 5:1 (context)
+
+- o1: Δικαιωθέντες = G1344 δικαιόω "free, justify(-ier), be righteous" [V-APP-NPM]
+- o2: οὖν = G3767 οὖν "and (so, truly), but, now (then)…" [CONJ]
+- o3: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o4: πίστεως = G4102 πίστις "assurance, belief, believe, faith, fidelity" [N-GSF]
+- o5: εἰρήνην = G1515 εἰρήνη "one, peace, quietness, rest, + set at one again" [N-ASF]
+- o6: ἔχωμεν = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAS-1P]
+- o7: πρὸς = G4314 πρός "about, according to , against, among, at…" [PREP]
+- o8: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o9: θεὸν = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-ASM]
+- o10: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o11: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o12: κυρίου = G2962 κύριος "God, Lord, master, Sir" [N-GSM]
+- o13: ἡμῶν = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+- o14: Ἰησοῦ = G2424 Ἰησοῦς "Jesus" [N-GSM]
+- o15: Χριστοῦ, = G5547 Χριστός "Christ" [N-GSM]

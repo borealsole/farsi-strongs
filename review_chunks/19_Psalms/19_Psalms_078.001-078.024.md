@@ -930,3 +930,27 @@ Persian entries and current tags:
 - p12: عطا
 - p13: فرمود
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 77:20 (context)
+
+- o1: נָחִיתָ = H5148 נָחָה "to guide…" [HVqp2ms]
+- o2: כַ/צֹּאן = Hk "like" + H6629 צֹאן "a collective name for a flock (of sheep or goats)…" [HRd/Ncbsa]
+- o3: עַמֶּ/ךָ = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp2ms]
+- o4: בְּ/יַד = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o5: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o6: וְ/אַהֲרֹן = Hc "and" + H175 אַהֲרוֹן "Aharon, the brother of Moses" [HC/Np]
+
+### Psalms 78:25 (context)
+
+- o1: לֶחֶם = H3899 לֶחֶם "food (for man or beast), especially bread…" [HNcbsc]
+- o2: אַבִּירִים = H47 אַבִּיר "mighty (spoken of God)" [HAampa]
+- o3: אָכַל = H398 אָכַל "to eat (literally or figuratively)" [HVqp3ms]
+- o4: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o5: צֵידָה = H6720 צֵידָה "food" [HNcbsa]
+- o6: שָׁלַח = H7971 שָׁלַח "to send away, for…" [HVqp3ms]
+- o7: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o8: לָ/שֹׂבַע = Hl "to" + H7648 שֹׂבַע "satisfaction (of food or (figuratively) joy)" [HR/Ncmsa]

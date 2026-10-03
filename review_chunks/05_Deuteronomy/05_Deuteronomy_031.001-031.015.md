@@ -921,3 +921,66 @@ Persian entries and current tags:
 - p15: خیمه  → H168
 - p16: بایستاد  → H5975
 - p17: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 30:20 (context)
+
+- o1: לְ/אַהֲבָה = Hl "to" + H157 אָהַב "to have affection for (sexually or otherwise)" [HR/Vqc]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֱלֹהֶי/ךָ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2ms]
+- o5: לִ/שְׁמֹעַ = Hl "to" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HR/Vqc]
+- o6: בְּ/קֹל/וֹ = Hb "in" + H6963 קוֹל "a voice or sound" [HR/Ncmsc/Sp3ms]
+- o7: וּ/לְ/דָבְקָה = Hc "and" + Hl "to" + H1692 דָּבַק "properly, to impinge, i.e. cling or adhere…" [HC/R/Vqc]
+- o8: ב/וֹ = Hb "in" [HR/Sp3ms]
+- o9: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o10: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o11: חַיֶּי/ךָ = H2416 חַי "alive; hence, raw (flesh)…" [HNcmpc/Sp2ms]
+- o12: וְ/אֹרֶךְ = Hc "and" + H753 אֹרֶךְ "length" [HC/Ncmsc]
+- o13: יָמֶי/ךָ = H3117 יוֹם "a day (as the warm hours)…" [HNcmpc/Sp2ms]
+- o14: לָ/שֶׁבֶת = Hl "to" + H3427 יָשַׁב "properly…" [HR/Vqc]
+- o15: עַל = H5921 עַל "above, over, upon…" [HR]
+- o16: הָ/אֲדָמָה = Hd "the" + H127 אֲדָמָה "soil (from its general redness)" [HTd/Ncfsa]
+- o17: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o18: נִשְׁבַּע = H7650 שָׁבַע "to seven oneself…" [HVNp3ms]
+- o19: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o20: לַ/אֲבֹתֶי/ךָ = Hl "to" + H1 אָב "father, in a literal and immediate…" [HR/Ncmpc/Sp2ms]
+- o21: לְ/אַבְרָהָם = Hl "to" + H85 אַבְרָהָם "Abraham, the later name of Abram" [HR/Np]
+- o22: לְ/יִצְחָק = Hl "to" + H3327 יִצְחָק "Jitschak (or Isaac), son of Abraham" [HR/Np]
+- o23: וּ/לְ/יַעֲקֹב = Hc "and" + Hl "to" + H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HC/R/Np]
+- o24: לָ/תֵת = Hl "to" + H5414 נָתַן "to give…" [HR/Vqc]
+- o25: לָ/הֶם = Hl "to" [HR/Sp3mp]
+
+### Deuteronomy 31:16 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: הִנְּ/ךָ = H2009 הִנֵּה "lo!" [HTm/Sp2ms]
+- o6: שֹׁכֵב = H7901 שָׁכַב "to lie down (for rest, sexual connection…" [HVqrmsa]
+- o7: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o8: אֲבֹתֶי/ךָ = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp2ms]
+- o9: וְ/קָם = Hc "and" + H6965 קוּם "to rise (in various applications, literal…" [HC/Vqq3ms]
+- o10: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o11: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o12: וְ/זָנָה = Hc "and" + H2181 זָנָה "to commit adultery (usually of the female…" [HC/Vqq3ms]
+- o13: אַחֲרֵי = H310 אַחַר "properly, the hind part…" [HR]
+- o14: אֱלֹהֵי = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc]
+- o15: נֵכַר = H5236 נֵכָר "foreign, or (concretely) a foreigner…" [HNcmsc]
+- o16: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o17: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o18: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o19: בָא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqrmsa]
+- o20: שָׁמָּ/ה = H8033 שָׁם "there (transferring to time) then…" [HD/Sd]
+- o21: בְּ/קִרְבּ/וֹ = Hb "in" + H7130 קֶרֶב "properly, the nearest part, i.e. the center…" [HR/Ncmsc/Sp3ms]
+- o22: וַ/עֲזָבַ/נִי = Hc "and" + H5800 עָזַב "to loosen, i.e. relinquish, permit, etc" [HC/Vqq3ms/Sp1cs]
+- o23: וְ/הֵפֵר = Hc "and" + H6565 פָּרַר "to break up (usually figuratively)…" [HC/Vhq3ms]
+- o24: אֶת = H853 אֵת "properly…" [HTo]
+- o25: בְּרִיתִ/י = H1285 בְּרִית "a compact (because made by passing between pieces…" [HNcfsc/Sp1cs]
+- o26: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o27: כָּרַתִּי = H3772 כָּרַת "to cut (off, down or asunder)…" [HVqp1cs]
+- o28: אִתּ/וֹ = H854 אֵת "properly…" [HR/Sp3ms]

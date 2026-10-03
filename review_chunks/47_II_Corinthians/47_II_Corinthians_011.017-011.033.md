@@ -848,3 +848,46 @@ Persian entries and current tags:
 - p18: چنگش  → G846
 - p19: گریختم
 - p20: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Corinthians 11:16 (context)
+
+- o1: Πάλιν = G3825 πάλιν "again" [ADV]
+- o2: λέγω, = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-1S]
+- o3: μή = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o4: τίς = G5100 τὶς "a (kind of), any (man, thing, thing at all)…" [X-NSM]
+- o5: με = G1473 ἐγώ "I, me" [P-1AS]
+- o6: δόξῃ = G1380 δοκέω "be accounted, (of own) please(-ure)…" [V-AAS-3S]
+- o7: ἄφρονα = G878 ἄφρων "fool(-ish), unwise" [A-ASM]
+- o8: εἶναι· = G1510 εἰμί "am, have been, it is I, was" [V-PAN]
+- o9: εἰ = G1487 εἰ "forasmuch as, if, that, (al-)though, whether" [COND]
+- o10: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o11: μήγε, = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o12: κἂν = G2579 κἄν "and (also) if (so much as), if but, at the least…" [COND-K]
+- o13: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
+- o14: ἄφρονα = G878 ἄφρων "fool(-ish), unwise" [A-ASM]
+- o15: δέξασθέ = G1209 δέχομαι "accept, receive, take" [V-ADM-2P]
+- o16: με, = G1473 ἐγώ "I, me" [P-1AS]
+- o17: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o18: κἀγὼ = G2504 κἀγώ "and, even, even so, so) I (also, in like wise)…" [P-1NS-K]
+- o19: μικρόν = G3398 μικρός "least, less, little, small" [A-ASN]
+- o20: τι = G5100 τὶς "a (kind of), any (man, thing, thing at all)…" [X-ASN]
+- o21: καυχήσωμαι. = G2744 καυχάομαι "(make) boast, glory, joy, rejoice" [V-ADS-1S]
+
+### II Corinthians 12:1 (context)
+
+- o1: Καυχᾶσθαι = G2744 καυχάομαι "(make) boast, glory, joy, rejoice" [V-PNN]
+- o2: δεῖ, = G1163 δεῖ "behoved, be meet, must (needs), (be) need(-ful)…" [V-PAI-3S]
+- o3: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o4: συμφέρον = G4851 συμφέρω "be better for, bring together, be expedient (for)…" [V-PAP-NSN]
+- o5: μέν, = G3303 μέν "even, indeed, so, some, truly, verily" [PRT]
+- o6: ἐλεύσομαι = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-FDI-1S]
+- o7: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o8: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o9: ὀπτασίας = G3701 ὀπτασία "vision" [N-APF]
+- o10: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o11: ἀποκαλύψεις = G602 ἀποκάλυψις "appearing, coming, lighten, manifestation…" [N-APF]
+- o12: κυρίου. = G2962 κύριος "God, Lord, master, Sir" [N-GSM]

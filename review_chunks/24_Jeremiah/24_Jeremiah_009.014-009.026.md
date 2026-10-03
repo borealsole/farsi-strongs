@@ -748,3 +748,37 @@ Persian entries and current tags:
 - p34: نامختونند  → H6189
 - p35: .
 - p36: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 9:13 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: עַל = H5921 עַל "above, over, upon…" [HR]
+- o4: עָזְבָ/ם = H5800 עָזַב "to loosen, i.e. relinquish, permit, etc" [HVqc/Sp3mp]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: תּוֹרָתִ/י = H8451 תּוֹרָה "a precept or statute…" [HNcfsc/Sp1cs]
+- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o8: נָתַתִּי = H5414 נָתַן "to give…" [HVqp1cs]
+- o9: לִ/פְנֵי/הֶם = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp3mp]
+- o10: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o11: שָׁמְעוּ = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqp3cp]
+- o12: בְ/קוֹלִ/י = Hb "in" + H6963 קוֹל "a voice or sound" [HR/Ncmsc/Sp1cs]
+- o13: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o14: הָלְכוּ = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVqp3cp]
+- o15: בָ/הּ = Hb "in" [HR/Sp3fs]
+
+### Jeremiah 10:1 (context)
+
+- o1: שִׁמְעוּ = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqv2mp]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]
+- o4: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o5: דִּבֶּר = H1696 דָבַר "perhaps properly, to arrange…" [HVpp3ms]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: עֲלֵי/כֶם = H5921 עַל "above, over, upon…" [HR/Sp2mp]
+- o8: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o9: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]

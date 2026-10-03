@@ -894,3 +894,39 @@ Persian entries and current tags:
 - p21: حمل کرد  → G941
 - p22: .
 - p23: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 7:29 (context)
+
+- o1: ἦν = G1510 εἰμί "am, have been, it is I, was" [V-IAI-3S]
+- o2: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o3: διδάσκων = G1321 διδάσκω "teach" [V-PAP-NSM]
+- o4: αὐτοὺς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-APM]
+- o5: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
+- o6: ἐξουσίαν = G1849 ἐξουσία "authority, jurisdiction, liberty, power, right…" [N-ASF]
+- o7: ἔχων = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAP-NSM]
+- o8: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o9: οὐχ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o10: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
+- o11: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o12: γραμματεῖς = G1122 γραμματεύς "scribe, town-clerk" [N-NPM]
+- o13: αὐτῶν. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]
+
+### Matthew 8:18 (context)
+
+- o1: Ἰδὼν = G3708 ὁράω "behold, perceive, see, take heed" [V-2AAP-NSM]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o4: Ἰησοῦς = G2424 Ἰησοῦς "Jesus" [N-NSM]
+- o5: πολλοὺς = G4183 πολύς "abundant, + altogether, common, + far (passed…" [A-APM]
+- o6: ὄχλους = G3793 ὄχλος "company, multitude, number (of people), people…" [N-APM]
+- o7: περὶ = G4012 περί "there-)about, above, against, at, on behalf of…" [PREP]
+- o8: αὐτὸν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASM]
+- o9: ἐκέλευσεν = G2753 κελεύω "bid, (at, give) command(-ment)" [V-AAI-3S]
+- o10: ἀπελθεῖν = G565 ἀπέρχομαι "come, depart, go (aside, away, back, out, … ways)…" [V-2AAN]
+- o11: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o12: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o13: πέραν. = G4008 πέραν "beyond, farther (other) side, over" [ADV]

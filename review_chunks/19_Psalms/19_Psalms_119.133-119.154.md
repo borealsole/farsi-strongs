@@ -705,3 +705,26 @@ Persian entries and current tags:
 - p15: زنده  → H2421
 - p16: بدار
 - p17: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 119:132 (context)
+
+- o1: פְּנֵה = H6437 פָּנָה "to turn…" [HVqv2ms]
+- o2: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o3: וְ/חָנֵּ/נִי = Hc "and" + H2603 חָנַן "properly…" [HC/Vqv2ms/Sp1cs]
+- o4: כְּ/מִשְׁפָּט = Hk "like" + H4941 מִשְׁפָּט "properly…" [HR/Ncmsa]
+- o5: לְ/אֹהֲבֵי = Hl "to" + H157 אָהַב "to have affection for (sexually or otherwise)" [HR/Vqrmpc]
+- o6: שְׁמֶ/ךָ = H8034 שֵׁם "an appellation…" [HNcmsc/Sp2ms]
+
+### Psalms 119:155 (context)
+
+- o1: רָחוֹק = H7350 רָחוֹק "remote, literally or figuratively…" [HAamsa]
+- o2: מֵ/רְשָׁעִים = Hm "from" + H7563 רָשָׁע "morally wrong…" [HR/Aampa]
+- o3: יְשׁוּעָה = H3444 יְשׁוּעָה "something saved, i.e. (abstractly) deliverance…" [HNcfsa]
+- o4: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o5: חֻקֶּי/ךָ = H2706 חֹק "an enactment…" [HNcmpc/Sp2ms]
+- o6: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o7: דָרָשׁוּ = H1875 דָּרַשׁ "properly, to tread or frequent…" [HVqp3cp]

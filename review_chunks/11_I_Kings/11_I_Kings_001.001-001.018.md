@@ -938,3 +938,28 @@ Persian entries and current tags:
 - p12: آگاهی  → H3045
 - p13: ندارد  → H3808
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 1:19 (context)
+
+- o1: וַ/יִּזְבַּח = Hc "and" + H2076 זָבַח "to slaughter an animal (usually in sacrifice)" [HC/Vqw3ms]
+- o2: שׁוֹר = H7794 שׁוֹר "a bullock (as a traveller)" [HNcmsa]
+- o3: וּ/מְרִיא = Hc "and" + H4806 מְרִיא "stall-fed; often (as noun) a beeve" [HC/Ncmsa]
+- o4: וְ/צֹאן = Hc "and" + H6629 צֹאן "a collective name for a flock (of sheep or goats)…" [HC/Ncbsa]
+- o5: לָ/רֹב = Hl "to" + H7230 רֹב "abundance (in any respect)" [HR/Ncbsa]
+- o6: וַ/יִּקְרָא = Hc "and" + H7121 קָרָא "to call out to (i.e. properly, address by name…" [HC/Vqw3ms]
+- o7: לְ/כָל = Hl "to" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o8: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o9: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o10: וּ/לְ/אֶבְיָתָר = Hc "and" + Hl "to" + H54 אֶבְיָתָר "Ebjathar, an Israelite" [HC/R/Np]
+- o11: הַ/כֹּהֵן = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmsa]
+- o12: וּ/לְ/יֹאָב = Hc "and" + Hl "to" + H3097 יוֹאָב "Joab, the name of three Israelites" [HC/R/Np]
+- o13: שַׂר = H8269 שַׂר "a head person (of any rank or class)" [HNcmsc]
+- o14: הַ/צָּבָא = Hd "the" + H6635 צָבָא "a mass of persons (or figuratively, things)…" [HTd/Ncbsa]
+- o15: וְ/לִ/שְׁלֹמֹה = Hc "and" + Hl "to" + H8010 שְׁלֹמֹה "Shelomah, David's successor" [HC/R/Np]
+- o16: עַבְדְּ/ךָ = H5650 עֶבֶד "a servant" [HNcmsc/Sp2ms]
+- o17: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o18: קָרָא = H7121 קָרָא "to call out to (i.e. properly, address by name…" [HVqp3ms]

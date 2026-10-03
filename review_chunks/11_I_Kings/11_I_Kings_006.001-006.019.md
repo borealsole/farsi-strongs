@@ -983,3 +983,41 @@ Persian entries and current tags:
 - p13: آنجا  → H8033
 - p14: گذاشته_شود  → H5414
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 5:18 (context)
+
+- o1: וַ/יִּפְסְלוּ = Hc "and" + H6458 פָּסַל "to carve, whether wood or stone" [HC/Vqw3mp]
+- o2: בֹּנֵי = H1129 בָּנָה "to build (literally and figuratively)" [HVqrmpc]
+- o3: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o4: וּ/בֹנֵי = Hc "and" + H1129 בָּנָה "to build (literally and figuratively)" [HC/Vqrmpc]
+- o5: חִירוֹם = H2438 חִירָם "Chiram or Chirom, the name of two Tyrians" [HNp]
+- o6: וְ/הַ/גִּבְלִים = Hc "and" + Hd "the" + H1382 גִּבְלִי "a Gebalite, or inhabitant of Gebal" [HC/Td/Ngmpa]
+- o7: וַ/יָּכִינוּ = Hc "and" + H3559 כּוּן "properly, to be erect (i.e. stand perpendicular)…" [HC/Vhw3mp]
+- o8: הָ/עֵצִים = Hd "the" + H6086 עֵץ "a tree (from its firmness)…" [HTd/Ncmpa]
+- o9: וְ/הָ/אֲבָנִים = Hc "and" + Hd "the" + H68 אֶבֶן "a stone" [HC/Td/Ncfpa]
+- o10: לִ/בְנוֹת = Hl "to" + H1129 בָּנָה "to build (literally and figuratively)" [HR/Vqc]
+- o11: הַ/בָּיִת = Hd "the" + H1004 בַּיִת "a house (in the greatest variation of…" [HTd/Ncmsa]
+
+### I Kings 6:20 (context)
+
+- o1: וְ/לִ/פְנֵי = Hc "and" + Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HC/R/Ncbpc]
+- o2: הַ/דְּבִיר = Hd "the" + H1687 דְּבִיר "the shrine or innermost part of the sanctuary" [HTd/Ncmsa]
+- o3: עֶשְׂרִים = H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HAcbpa]
+- o4: אַמָּה = H520 אַמָּה "properly, a mother (i.e. unit of measure…" [HNcfsa]
+- o5: אֹרֶךְ = H753 אֹרֶךְ "length" [HNcmsa]
+- o6: וְ/עֶשְׂרִים = Hc "and" + H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HC/Acbpa]
+- o7: אַמָּה = H520 אַמָּה "properly, a mother (i.e. unit of measure…" [HNcfsa]
+- o8: רֹחַב = H7341 רֹחַב "width (literally or figuratively)" [HNcmsa]
+- o9: וְ/עֶשְׂרִים = Hc "and" + H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HC/Acbpa]
+- o10: אַמָּה = H520 אַמָּה "properly, a mother (i.e. unit of measure…" [HNcfsa]
+- o11: קוֹמָת/וֹ = H6967 קוֹמָה "height" [HNcfsc/Sp3ms]
+- o12: וַ/יְצַפֵּ/הוּ = Hc "and" + H6823 צָפָה "to sheet over (especially with metal)" [HC/Vpw3ms/Sp3ms]
+- o13: זָהָב = H2091 זָהָב "gold, figuratively…" [HNcmsa]
+- o14: סָגוּר = H5462 סָגַר "to shut up; figuratively, to surrender" [HNcmsa]
+- o15: וַ/יְצַף = Hc "and" + H6823 צָפָה "to sheet over (especially with metal)" [HC/Vpw3ms]
+- o16: מִזְבֵּחַ = H4196 מִזְבֵּחַ "an altar" [HNcmsa]
+- o17: אָרֶז = H730 אֶרֶז "a cedar tree (from the tenacity of its roots)" [HNcmsa]

@@ -758,3 +758,48 @@ Persian entries and current tags:
 - p29: هیچ
 - p30: نگفت  → H3808
 - p31: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 10:14 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: דּוֹד = H1730 דּוֹד "figuratively) to love…" [HNcmsc]
+- o3: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o4: אֵלָי/ו = H413 אֵל "near, with or among; often in general, to" [HR/Sp3ms]
+- o5: וְ/אֶל = Hc "and" + H413 אֵל "near, with or among; often in general, to" [HC/R]
+- o6: נַעֲר/וֹ = H5288 נַעַר "concretely) a boy (as active)…" [HNcmsc/Sp3ms]
+- o7: אָן = H575 אָן "where?; hence, whither?, when?…" [HTi]
+- o8: הֲלַכְתֶּם = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVqp2mp]
+- o9: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o10: לְ/בַקֵּשׁ = Hl "to" + H1245 בָּקַשׁ "to search out (by any method…" [HR/Vpc]
+- o11: אֶת = H853 אֵת "properly…" [HTo]
+- o12: הָ/אֲתֹנוֹת = Hd "the" + H860 אָתוֹן "a female donkey (from its docility)" [HTd/Ncfpa]
+- o13: וַ/נִּרְאֶה = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw1cp]
+- o14: כִי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o15: אַיִן = H369 אַיִן "a non-entity…" [HTn]
+- o16: וַ/נָּבוֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw1cp]
+- o17: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o18: שְׁמוּאֵל = H8050 שְׁמוּאֵל "Shemuel, the name of three Israelites" [HNp]
+
+### I Samuel 11:1 (context)
+
+- o1: וַ/יַּעַל = Hc "and" + H5927 עָלָה "to ascend…" [HC/Vqw3ms]
+- o2: נָחָשׁ = H5176 נָחָשׁ "Nachash…" [HNp]
+- o3: הָ/עַמּוֹנִי = Hd "the" + H5984 עַמּוֹנִי "an Ammonite or (the adjective) Ammonitish" [HTd/Ngmsa]
+- o4: וַ/יִּחַן = Hc "and" + H2583 חָנָה "properly, to incline…" [HC/Vqw3ms]
+- o5: עַל = H5921 עַל "above, over, upon…" [HR]
+- o6: יָבֵשׁ = H3003 יָבֵשׁ "Jobesh…" [HNp]
+- o7: גִּלְעָד = H1568 גִּלְעָד "Gilad, a region East of the Jordan…" [HNp]
+- o8: וַ/יֹּאמְרוּ = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3mp]
+- o9: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o10: אַנְשֵׁי = H376 אִישׁ "a man as an individual or a male person…" [HNcmpc]
+- o11: יָבֵישׁ = H3003 יָבֵשׁ "Jobesh…" [HNp]
+- o12: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o13: נָחָשׁ = H5176 נָחָשׁ "Nachash…" [HNp]
+- o14: כְּרָת = H3772 כָּרַת "to cut (off, down or asunder)…" [HVqv2ms]
+- o15: לָ/נוּ = Hl "to" [HR/Sp1cp]
+- o16: בְרִית = H1285 בְּרִית "a compact (because made by passing between pieces…" [HNcfsa]
+- o17: וְ/נַעַבְדֶ/ךָּ = Hc "and" + H5647 עָבַד "to work (in any sense)…" [HC/Vqi1cp/Sp2ms]

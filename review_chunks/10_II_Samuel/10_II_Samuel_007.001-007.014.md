@@ -803,3 +803,34 @@ Persian entries and current tags:
 - p23: بنی‌آدم  → H120
 - p24: ادب خواهم_کرد  → H3198
 - p25: ،
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 6:23 (context)
+
+- o1: וּ/לְ/מִיכַל = Hc "and" + Hl "to" + H4324 מִיכָל "Mikal, Saul's daughter" [HC/R/Np]
+- o2: בַּת = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfsc]
+- o3: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o4: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o5: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o6: לָ/הּ = Hl "to" [HR/Sp3fs]
+- o7: יָלֶד = H3206 יֶלֶד "something born, i.e. a lad or offspring" [HNcmsa]
+- o8: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o9: יוֹם = H3117 יוֹם "a day (as the warm hours)…" [HNcmsc]
+- o10: מוֹתָ/הּ = H4194 מָוֶת "death (natural or violent)…" [HNcmsc/Sp3fs]
+
+### II Samuel 7:15 (context)
+
+- o1: וְ/חַסְדִּ/י = Hc "and" + H2617 חֵסֵד "kindness; by implication (towards God) piety…" [HC/Ncmsc/Sp1cs]
+- o2: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o3: יָסוּר = H5493 סוּר "to turn off (literal or figurative)" [HVqi3ms]
+- o4: מִמֶּ/נּוּ = H4480 מִן "properly, a part of…" [HR/Sp1cp]
+- o5: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o6: הֲסִרֹתִי = H5493 סוּר "to turn off (literal or figurative)" [HVhp1cs]
+- o7: מֵ/עִם = Hm "from" + H5973 עִם "adverb or preposition…" [HR/R]
+- o8: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o9: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o10: הֲסִרֹתִי = H5493 סוּר "to turn off (literal or figurative)" [HVhp1cs]
+- o11: מִ/לְּ/פָנֶי/ךָ = Hm "from" + Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/R/Ncbpc/Sp2ms]

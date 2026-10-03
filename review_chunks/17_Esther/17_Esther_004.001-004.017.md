@@ -1009,3 +1009,53 @@ Persian entries and current tags:
 - p12: انجام
 - p13: داد  → H6680
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Esther 3:15 (context)
+
+- o1: הָ/רָצִים = Hd "the" + H7323 רוּץ "to run (for whatever reason, especially to rush)" [HTd/Vqrmpa]
+- o2: יָצְאוּ = H3318 יָצָא "to go (causatively, bring) out…" [HVqp3cp]
+- o3: דְחוּפִים = H1765 דָּחַף "to urge, i.e. hasten" [HVqsmpa]
+- o4: בִּ/דְבַר = Hb "in" + H1697 דָּבָר "a word…" [HR/Ncmsc]
+- o5: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o6: וְ/הַ/דָּת = Hc "and" + Hd "the" + H1881 דָּת "a royal edict or statute" [HC/Td/Ncfsa]
+- o7: נִתְּנָה = H5414 נָתַן "to give…" [HVNp3fs]
+- o8: בְּ/שׁוּשַׁן = Hb "in" + H7800 שׁוּשַׁן "Shushan, a place in Persia" [HR/Np]
+- o9: הַ/בִּירָה = Hd "the" + H1002 בִּירָה "a castle or palace" [HTd/Ncfsa]
+- o10: וְ/הַ/מֶּלֶךְ = Hc "and" + Hd "the" + H4428 מֶלֶךְ "a king" [HC/Td/Ncmsa]
+- o11: וְ/הָמָן = Hc "and" + H2001 הָמָן "Haman, a Persian vizier" [HC/Np]
+- o12: יָשְׁבוּ = H3427 יָשַׁב "properly…" [HVqp3cp]
+- o13: לִ/שְׁתּוֹת = Hl "to" + H8354 שָׁתָה "to imbibe (literally or figuratively)" [HR/Vqc]
+- o14: וְ/הָ/עִיר = Hc "and" + Hd "the" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HC/Td/Ncfsa]
+- o15: שׁוּשָׁן = H7800 שׁוּשַׁן "Shushan, a place in Persia" [HNp]
+- o16: נָבוֹכָה = H943 בּוּךְ "to involve (literally or figuratively)" [HVNp3fs]
+
+### Esther 5:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: בַּ/יּוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
+- o3: הַ/שְּׁלִישִׁי = Hd "the" + H7992 שְׁלִישִׁי "third; feminine athird (part)…" [HTd/Aomsa]
+- o4: וַ/תִּלְבַּשׁ = Hc "and" + H3847 לָבַשׁ "properly, wrap around…" [HC/Vqw3fs]
+- o5: אֶסְתֵּר = H635 אֶסְתֵּר "Ester, the Jewish heroine" [HNp]
+- o6: מַלְכוּת = H4438 מַלְכוּת "a rule; concretely, a dominion" [HNcfsa]
+- o7: וַ/תַּעֲמֹד = Hc "and" + H5975 עָמַד "to stand…" [HC/Vqw3fs]
+- o8: בַּ/חֲצַר = Hb "in" + H2691 חָצֵר "a yard (as inclosed by a fence)…" [HR/Ncbsc]
+- o9: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o10: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o11: הַ/פְּנִימִית = Hd "the" + H6442 פְּנִימִי "interior" [HTd/Aafsa]
+- o12: נֹכַח = H5227 נֹכַח "properly, the front part…" [HR]
+- o13: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o14: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o15: וְ/הַ/מֶּלֶךְ = Hc "and" + Hd "the" + H4428 מֶלֶךְ "a king" [HC/Td/Ncmsa]
+- o16: יוֹשֵׁב = H3427 יָשַׁב "properly…" [HVqrmsa]
+- o17: עַל = H5921 עַל "above, over, upon…" [HR]
+- o18: כִּסֵּא = H3678 כִּסֵּא "properly, covered, i.e. a throne (as canopied)" [HNcmsc]
+- o19: מַלְכוּת/וֹ = H4438 מַלְכוּת "a rule; concretely, a dominion" [HNcfsc/Sp3ms]
+- o20: בְּ/בֵית = Hb "in" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc]
+- o21: הַ/מַּלְכוּת = Hd "the" + H4438 מַלְכוּת "a rule; concretely, a dominion" [HTd/Ncfsa]
+- o22: נֹכַח = H5227 נֹכַח "properly, the front part…" [HR]
+- o23: פֶּתַח = H6607 פֶּתַח "an opening (literally)…" [HNcmsc]
+- o24: הַ/בָּיִת = Hd "the" + H1004 בַּיִת "a house (in the greatest variation of…" [HTd/Ncmsa]

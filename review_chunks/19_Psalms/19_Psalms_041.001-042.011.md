@@ -1052,3 +1052,36 @@ Persian entries and current tags:
 - p30: من
 - p31: است
 - p32: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 40:17 (context)
+
+- o1: וַ/אֲנִי = Hc "and" + H589 אֲנִי "I" [HC/Pp1cs]
+- o2: עָנִי = H6041 עָנִי "depressed, in mind or circumstances" [HAamsa]
+- o3: וְ/אֶבְיוֹן = Hc "and" + H34 אֶבְיוֹן "destitute" [HC/Aamsa]
+- o4: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o5: יַחֲשָׁב = H2803 חָשַׁב "properly, to plait or interpenetrate…" [HVqi3ms]
+- o6: לִ/י = Hl "to" [HR/Sp1cs]
+- o7: עֶזְרָתִ/י = H5833 עֶזְרָה "aid" [HNcfsc/Sp1cs]
+- o8: וּ/מְפַלְטִ/י = Hc "and" + H6403 פָּלַט "to slip out, i.e. escape; causatively, to deliver" [HC/Vprmsc/Sp1cs]
+- o9: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o10: אֱלֹהַ/י = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp1cs]
+- o11: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o12: תְּאַחַר = H309 אָחַר "to loiter (i.e. be behind)…" [HVpj2ms]
+
+### Psalms 43:1 (context)
+
+- o1: שָׁפְטֵ/נִי = H8199 שָׁפַט "to judge…" [HVqv2ms/Sp1cs]
+- o2: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o3: וְ/רִיבָ/ה = Hc "and" + H7378 רִיב "properly, to toss, i.e. grapple…" [HC/Vqv2ms/Sh]
+- o4: רִיבִ/י = H7379 רִיב "a contest (personal or legal)" [HNcbsc/Sp1cs]
+- o5: מִ/גּוֹי = Hm "from" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HR/Ncmsa]
+- o6: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o7: חָסִיד = H2623 חָסִיד "properly, kind, i.e. (religiously) pious (a saint)" [HAamsa]
+- o8: מֵ/אִישׁ = Hm "from" + H376 אִישׁ "a man as an individual or a male person…" [HR/Ncmsc]
+- o9: מִרְמָה = H4820 מִרְמָה "fraud" [HNcfsa]
+- o10: וְ/עַוְלָה = Hc "and" + H5766 עֶוֶל "(moral) evil" [HC/Ncbsa]
+- o11: תְפַלְּטֵ/נִי = H6403 פָּלַט "to slip out, i.e. escape; causatively, to deliver" [HVpi2ms/Sp1cs]

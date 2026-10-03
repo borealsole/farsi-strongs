@@ -809,3 +809,33 @@ Persian entries and current tags:
 - p48: آن
 - p49: را  → H853
 - p50: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 20:21 (context)
+
+- o1: וַ/יִּשְׁכַּב = Hc "and" + H7901 שָׁכַב "to lie down (for rest, sexual connection…" [HC/Vqw3ms]
+- o2: חִזְקִיָּהוּ = H2396 חִזְקִיָּה "Chizkijah, a king of Judah…" [HNp]
+- o3: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o4: אֲבֹתָי/ו = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp3ms]
+- o5: וַ/יִּמְלֹךְ = Hc "and" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HC/Vqw3ms]
+- o6: מְנַשֶּׁה = H4519 מְנַשֶּׁה "Menashsheh, a grandson of Jacob…" [HNp]
+- o7: בְנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o8: תַּחְתָּי/ו = H8478 תַּחַת "the bottom (as depressed)…" [HR/Sp3ms]
+
+### II Kings 21:14 (context)
+
+- o1: וְ/נָטַשְׁתִּי = Hc "and" + H5203 נָטַשׁ "properly, to pound, i.e. smite…" [HC/Vqq1cs]
+- o2: אֵת = H853 אֵת "properly…" [HTo]
+- o3: שְׁאֵרִית = H7611 שְׁאֵרִית "a remainder or residual (surviving, final) portion" [HNcfsc]
+- o4: נַחֲלָתִ/י = H5159 נַחֲלָה "properly, something inherited…" [HNcfsc/Sp1cs]
+- o5: וּ/נְתַתִּי/ם = Hc "and" + H5414 נָתַן "to give…" [HC/Vqq1cs/Sp3mp]
+- o6: בְּ/יַד = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o7: אֹיְבֵי/הֶם = H341 אֹיֵב "hating; an adversary" [HVqrmpc/Sp3mp]
+- o8: וְ/הָיוּ = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3cp]
+- o9: לְ/בַז = Hl "to" + H957 בַּז "plunder" [HR/Ncmsa]
+- o10: וְ/לִ/מְשִׁסָּה = Hc "and" + Hl "to" + H4933 מְשִׁסָּה "plunder" [HC/R/Ncfsa]
+- o11: לְ/כָל = Hl "to" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o12: אֹיְבֵי/הֶם = H341 אֹיֵב "hating; an adversary" [HVqrmpc/Sp3mp]

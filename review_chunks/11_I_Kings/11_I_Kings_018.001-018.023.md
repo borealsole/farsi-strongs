@@ -1303,3 +1303,48 @@ Persian entries and current tags:
 - p42: آتش  → H784
 - p43: نمی‌افروزم  → H3808
 - p44: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 17:24 (context)
+
+- o1: וַ/תֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3fs]
+- o2: הָ/אִשָּׁה = Hd "the" + H802 אִשָּׁה "a woman" [HTd/Ncfsa]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: אֵלִיָּהוּ = H452 אֵלִיָּה "Elijah…" [HNp]
+- o5: עַתָּה = H6258 עַתָּה "at this time, whether adverb…" [HD]
+- o6: זֶה = H2088 זֶה "the masculine demonstrative pronoun, this or that" [HPdxms]
+- o7: יָדַעְתִּי = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqp1cs]
+- o8: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o9: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsc]
+- o10: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o11: אָתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o12: וּ/דְבַר = Hc "and" + H1697 דָּבָר "a word…" [HC/Ncmsc]
+- o13: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o14: בְּ/פִי/ךָ = Hb "in" + H6310 פֶּה "the mouth (as the means of blowing)…" [HR/Ncmsc/Sp2ms]
+- o15: אֱמֶת = H571 אֶמֶת "stability…" [HNcfsa]
+
+### I Kings 18:24 (context)
+
+- o1: וּ/קְרָאתֶם = Hc "and" + H7121 קָרָא "to call out to (i.e. properly, address by name…" [HC/Vqq2mp]
+- o2: בְּ/שֵׁם = Hb "in" + H8034 שֵׁם "an appellation…" [HR/Ncmsc]
+- o3: אֱלֹהֵי/כֶם = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2mp]
+- o4: וַ/אֲנִי = Hc "and" + H589 אֲנִי "I" [HC/Pp1cs]
+- o5: אֶקְרָא = H7121 קָרָא "to call out to (i.e. properly, address by name…" [HVqi1cs]
+- o6: בְ/שֵׁם = Hb "in" + H8034 שֵׁם "an appellation…" [HR/Ncmsc]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: וְ/הָיָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqp3ms]
+- o9: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o10: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o11: יַעֲנֶה = H6030 עָנָה "properly, to eye or (generally) to heed…" [HVqi3ms]
+- o12: בָ/אֵשׁ = Hb "in" + H784 אֵשׁ "fire (literally or figuratively)" [HRd/Ncbsa]
+- o13: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o14: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o15: וַ/יַּעַן = Hc "and" + H6030 עָנָה "properly, to eye or (generally) to heed…" [HC/Vqw3ms]
+- o16: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o17: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o18: וַ/יֹּאמְרוּ = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3mp]
+- o19: טוֹב = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAamsa]
+- o20: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]

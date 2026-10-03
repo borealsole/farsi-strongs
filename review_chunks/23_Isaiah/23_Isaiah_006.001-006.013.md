@@ -746,3 +746,52 @@ Persian entries and current tags:
 - p31: خواهد_بود
 - p32: .
 - p33: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 5:30 (context)
+
+- o1: וְ/יִנְהֹם = Hc "and" + H5098 נָהַם "to growl" [HC/Vqi3ms]
+- o2: עָלָי/ו = H5921 עַל "above, over, upon…" [HR/Sp3ms]
+- o3: בַּ/יּוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
+- o4: הַ/הוּא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3ms]
+- o5: כְּ/נַהֲמַת = Hk "like" + H5100 נְהָמָה "snarling" [HR/Ncfsc]
+- o6: יָם = H3220 יָם "a sea (as breaking in noisy surf) or large body…" [HNcmsa]
+- o7: וְ/נִבַּט = Hc "and" + H5027 נָבַט "to scan, i.e. look intently at…" [HC/Vpq3ms]
+- o8: לָ/אָרֶץ = Hl "to" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HRd/Ncbsa]
+- o9: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o10: חֹשֶׁךְ = H2822 חֹשֶׁךְ "the dark; hence (literally) darkness…" [HNcmsa]
+- o11: צַר = H6862 צַר "narrow…" [HAamsa]
+- o12: וָ/אוֹר = Hc "and" + H216 אוֹר "illumination or (concrete) luminary (in every…" [HC/Ncbsa]
+- o13: חָשַׁךְ = H2821 חָשַׁךְ "to be dark (as withholding light)…" [HVqp3ms]
+- o14: בַּ/עֲרִיפֶי/הָ = Hb "in" + H6183 עָרִיף "the sky (as dropping at the horizon)" [HR/Ncmpc/Sp3fs]
+
+### Isaiah 7:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: בִּ/ימֵי = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmpc]
+- o3: אָחָז = H271 אָחָז "Achaz…" [HNp]
+- o4: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o5: יוֹתָם = H3147 יוֹתָם "Jotham, the name of three Israelites" [HNp]
+- o6: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o7: עֻזִּיָּהוּ = H5818 עֻזִּיָּה "Uzzijah, the name of five Israelites" [HNp]
+- o8: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o9: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o10: עָלָה = H5927 עָלָה "to ascend…" [HVqp3ms]
+- o11: רְצִין = H7526 רְצִין "Retsin, the name of a Syrian and of an Israelite" [HNp]
+- o12: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o13: אֲרָם = H758 אֲרָם "Aram or Syria, and its inhabitants…" [HNp]
+- o14: וּ/פֶקַח = Hc "and" + H6492 פֶּקַח "Pekach, an Israelite king" [HC/Np]
+- o15: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o16: רְמַלְיָהוּ = H7425 רְמַלְיָהוּ "Remaljah, an Israelite" [HNp]
+- o17: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o18: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o19: יְרוּשָׁלִַם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+- o20: לַ/מִּלְחָמָה = Hl "to" + H4421 מִלְחָמָה "a battle (i.e. the engagement)…" [HRd/Ncfsa]
+- o21: עָלֶי/הָ = H5921 עַל "above, over, upon…" [HR/Sp3fs]
+- o22: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o23: יָכֹל = H3201 יָכֹל "to be able, literally (can…" [HVqp3ms]
+- o24: לְ/הִלָּחֵם = Hl "to" + H3898 לָחַם "to feed on; figuratively, to consume…" [HR/VNc]
+- o25: עָלֶי/הָ = H5921 עַל "above, over, upon…" [HR/Sp3fs]

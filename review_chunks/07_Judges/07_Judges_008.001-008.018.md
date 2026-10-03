@@ -1026,3 +1026,55 @@ Persian entries and current tags:
 - p36: می‌مانست  → H8389
 - p37: .
 - p38: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Judges 7:25 (context)
+
+- o1: וַ/יִּלְכְּדוּ = Hc "and" + H3920 לָכַד "to catch (in a net, trap or pit)…" [HC/Vqw3mp]
+- o2: שְׁנֵי = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmdc]
+- o3: שָׂרֵי = H8269 שַׂר "a head person (of any rank or class)" [HNcmpc]
+- o4: מִדְיָן = H4080 מִדְיָן "Midjan, a son of Abraham…" [HNp]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: עֹרֵב = H6159 עֹרֵב "Oreb…" [HNp]
+- o7: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o8: זְאֵב = H2062 זְאֵב "Zeeb, a Midianitish prince" [HNp]
+- o9: וַ/יַּהַרְגוּ = Hc "and" + H2026 הָרַג "to smite with deadly intent" [HC/Vqw3mp]
+- o10: אֶת = H853 אֵת "properly…" [HTo]
+- o11: עוֹרֵב = H6159 עֹרֵב "Oreb…" [HNp]
+- o12: בְּ/צוּר = Hb "in" + H6697 צוּר "properly, a cliff (or sharp rock, as compressed)…" [HR/Ncmsc]
+- o13: עוֹרֵב = H6159 עֹרֵב "Oreb…" [HNp]
+- o14: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o15: זְאֵב = H2062 זְאֵב "Zeeb, a Midianitish prince" [HNp]
+- o16: הָרְגוּ = H2026 הָרַג "to smite with deadly intent" [HVqp3cp]
+- o17: בְ/יֶקֶב = Hb "in" + H3342 יֶקֶב "a trough (as dug out)…" [HR/Ncmsc]
+- o18: זְאֵב = H2062 זְאֵב "Zeeb, a Midianitish prince" [HNp]
+- o19: וַ/יִּרְדְּפוּ = Hc "and" + H7291 רָדַף "to run after (usually with hostile intent…" [HC/Vqw3mp]
+- o20: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o21: מִדְיָן = H4080 מִדְיָן "Midjan, a son of Abraham…" [HNp]
+- o22: וְ/רֹאשׁ = Hc "and" + H7218 רֹאשׁ "the head (as most easily shaken)…" [HC/Ncmsc]
+- o23: עֹרֵב = H6159 עֹרֵב "Oreb…" [HNp]
+- o24: וּ/זְאֵב = Hc "and" + H2062 זְאֵב "Zeeb, a Midianitish prince" [HC/Np]
+- o25: הֵבִיאוּ = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVhp3cp]
+- o26: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o27: גִּדְעוֹן = H1439 גִּדְעוֹן "Gidon, an Israelite" [HNp]
+- o28: מֵ/עֵבֶר = Hm "from" + H5676 עֵבֶר "properly, a region across…" [HR/Ncmsa]
+- o29: לַ/יַּרְדֵּן = Hl "to" + H3383 יַרְדֵּן "Jarden, the principal river of Palestine" [HRd/Np]
+
+### Judges 8:19 (context)
+
+- o1: וַ/יֹּאמַר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: אַחַ/י = H251 אָח "a brother (used in the widest sense of literal…" [HNcmpc/Sp1cs]
+- o3: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o4: אִמִּ/י = H517 אֵם "a mother (as the bond of the family)…" [HNcfsc/Sp1cs]
+- o5: הֵם = H1992 הֵם "they (only used when emphatic)" [HPp3mp]
+- o6: חַי = H2416 חַי "alive; hence, raw (flesh)…" [HAamsa]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: לוּ = H3863 לוּא "a conditional particle; if…" [HC]
+- o9: הַחֲיִתֶם = H2421 חָיָה "to live, whether literally or figuratively…" [HVhp2mp]
+- o10: אוֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o11: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o12: הָרַגְתִּי = H2026 הָרַג "to smite with deadly intent" [HVqp1cs]
+- o13: אֶתְ/כֶם = H853 אֵת "properly…" [HTo/Sp2mp]

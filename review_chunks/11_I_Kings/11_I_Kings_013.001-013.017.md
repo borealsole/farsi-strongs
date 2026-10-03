@@ -1069,3 +1069,59 @@ Persian entries and current tags:
 - p23: .
 - p24: “
 - p25: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 12:33 (context)
+
+- o1: וַ/יַּעַל = Hc "and" + H5927 עָלָה "to ascend…" [HC/Vhw3ms]
+- o2: עַל = H5921 עַל "above, over, upon…" [HR]
+- o3: הַ/מִּזְבֵּחַ = Hd "the" + H4196 מִזְבֵּחַ "an altar" [HTd/Ncmsa]
+- o4: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o5: עָשָׂה = H6213 עָשָׂה "to do or make…" [HVqp3ms]
+- o6: בְּ/בֵית = Hb "in" + H1008 בֵּית־אֵל "Beth-El, a place in Palestine" [HR/Np]
+- o7: אֵל = H1008 בֵּית־אֵל "Beth-El, a place in Palestine" [HNp]
+- o8: בַּ/חֲמִשָּׁה = Hb "in" + H2568 חָמֵשׁ "five" [HRd/Acmsa]
+- o9: עָשָׂר = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcmsa]
+- o10: יוֹם = H3117 יוֹם "a day (as the warm hours)…" [HNcmsa]
+- o11: בַּ/חֹדֶשׁ = Hb "in" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HRd/Ncmsa]
+- o12: הַ/שְּׁמִינִי = Hd "the" + H8066 שְׁמִינִי "eight" [HTd/Aomsa]
+- o13: בַּ/חֹדֶשׁ = Hb "in" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HRd/Ncmsa]
+- o14: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o15: בָּדָא = H908 בָּדָא "(figuratively) to invent" [HVqp3ms]
+- o16: מ/ל/בד = Hm "from" + Hl "to" + H905 בַּד "properly, separation…" [HR/R/Ncmsa]
+- o17: וַ/יַּעַשׂ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3ms]
+- o18: חָג = H2282 חַג "a festival, or a victim therefor" [HNcmsa]
+- o19: לִ/בְנֵי = Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmpc]
+- o20: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o21: וַ/יַּעַל = Hc "and" + H5927 עָלָה "to ascend…" [HC/Vhw3ms]
+- o22: עַל = H5921 עַל "above, over, upon…" [HR]
+- o23: הַ/מִּזְבֵּחַ = Hd "the" + H4196 מִזְבֵּחַ "an altar" [HTd/Ncmsa]
+- o24: לְ/הַקְטִיר = Hl "to" + H6999 קָטַר "to smoke…" [HR/Vhc]
+
+### I Kings 13:18 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o3: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o4: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o5: נָבִיא = H5030 נָבִיא "a prophet or (generally) inspired man" [HNcmsa]
+- o6: כָּמוֹ/ךָ = H3644 כְּמוֹ "a form of the prefix 'k-', but used separately as…" [HR/Sp2ms]
+- o7: וּ/מַלְאָךְ = Hc "and" + H4397 מֲלְאָךְ "a messenger…" [HC/Ncmsa]
+- o8: דִּבֶּר = H1696 דָבַר "perhaps properly, to arrange…" [HVpp3ms]
+- o9: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o10: בִּ/דְבַר = Hb "in" + H1697 דָּבָר "a word…" [HR/Ncmsc]
+- o11: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o12: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o13: הֲשִׁבֵ/הוּ = H7725 שׁוּב "to turn back (hence…" [HVhv2ms/Sp3ms]
+- o14: אִתְּ/ךָ = H854 אֵת "properly…" [HR/Sp2ms]
+- o15: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o16: בֵּיתֶ/ךָ = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc/Sp2ms]
+- o17: וְ/יֹאכַל = Hc "and" + H398 אָכַל "to eat (literally or figuratively)" [HC/Vqi3ms]
+- o18: לֶחֶם = H3899 לֶחֶם "food (for man or beast), especially bread…" [HNcbsa]
+- o19: וְ/יֵשְׁתְּ = Hc "and" + H8354 שָׁתָה "to imbibe (literally or figuratively)" [HC/Vqi3ms]
+- o20: מָיִם = H4325 מַיִם "water; figuratively, juice…" [HNcmpa]
+- o21: כִּחֵשׁ = H3584 כָּחַשׁ "to be untrue, in word (to lie, feign…" [HVpp3ms]
+- o22: ל/וֹ = Hl "to" [HR/Sp3ms]

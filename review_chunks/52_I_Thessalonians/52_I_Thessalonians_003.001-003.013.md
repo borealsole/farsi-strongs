@@ -724,3 +724,51 @@ Persian entries and current tags:
 - p28: مقدّس  → G40
 - p29: باشید
 - p30: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Thessalonians 2:20 (context)
+
+- o1: ὑμεῖς = G5210 ὑμεῖς "ye (yourselves), you" [P-2NP]
+- o2: γάρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o3: ἐστε = G1510 εἰμί "am, have been, it is I, was" [V-PAI-2P]
+- o4: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o5: δόξα = G1391 δόξα "dignity, glory(-ious), honour, praise, worship" [N-NSF]
+- o6: ἡμῶν = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+- o7: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o8: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o9: χαρά. = G5479 χαρά "gladness, greatly, ( be exceeding) joy(-ful…" [N-NSF]
+
+### I Thessalonians 4:1 (context)
+
+- o1: Λοιπὸν = G3062 λοιποί "other, which remain, remnant, residue, rest" [A-ASN]
+- o2: οὖν, = G3767 οὖν "and (so, truly), but, now (then)…" [CONJ]
+- o3: ἀδελφοί, = G80 ἀδελφός "brother" [N-VPM]
+- o4: ἐρωτῶμεν = G2065 ἐρωτάω "ask, beseech, desire, intreat, pray" [V-PAI-1P]
+- o5: ὑμᾶς = G5210 ὑμεῖς "ye (yourselves), you" [P-2AP]
+- o6: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o7: παρακαλοῦμεν = G3870 παρακαλέω "beseech, call for, (be of good) comfort, desire…" [V-PAI-1P]
+- o8: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o9: κυρίῳ = G2962 κύριος "God, Lord, master, Sir" [N-DSM]
+- o10: Ἰησοῦ, = G2424 Ἰησοῦς "Jesus" [N-DSM]
+- o11: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o12: καθὼς = G2531 καθώς "according to, (according, even) as, how, when" [ADV]
+- o13: παρελάβετε = G3880 παραλαμβάνω "receive, take (unto, with)" [V-2AAI-2P]
+- o14: παρ’ = G3844 παρά "above, against, among, at, before, by…" [PREP]
+- o15: ἡμῶν = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+- o16: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o17: πῶς = G4459 πῶς "how, after (by) what manner (means), that" [ADV]
+- o18: δεῖ = G1163 δεῖ "behoved, be meet, must (needs), (be) need(-ful)…" [V-PAI-3S]
+- o19: ὑμᾶς = G5210 ὑμεῖς "ye (yourselves), you" [P-2AP]
+- o20: περιπατεῖν = G4043 περιπατέω "go, be occupied with, walk (about)" [V-PAN]
+- o21: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o22: ἀρέσκειν = G700 ἀρέσκω "please" [V-PAN]
+- o23: θεῷ, = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-DSM]
+- o24: καθὼς = G2531 καθώς "according to, (according, even) as, how, when" [ADV]
+- o25: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o26: περιπατεῖτε, = G4043 περιπατέω "go, be occupied with, walk (about)" [V-PAI-2P]
+- o27: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o28: περισσεύητε = G4052 περισσεύω "make, more) abound, (have…" [V-PAS-2P]
+- o29: μᾶλλον. = G3123 μᾶλλον "+ better, far, (the) more (and more)…" [ADV]

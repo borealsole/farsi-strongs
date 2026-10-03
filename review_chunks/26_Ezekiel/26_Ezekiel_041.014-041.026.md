@@ -658,3 +658,43 @@ Persian entries and current tags:
 - p14: سایبان  → H5646
 - p15: داشتند
 - p16: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 41:13 (context)
+
+- o1: וּ/מָדַד = Hc "and" + H4058 מָדַד "properly, to stretch…" [HC/Vqq3ms]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: הַ/בַּיִת = Hd "the" + H1004 בַּיִת "a house (in the greatest variation of…" [HTd/Ncmsa]
+- o4: אֹרֶךְ = H753 אֹרֶךְ "length" [HNcmsa]
+- o5: מֵאָה = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbsa]
+- o6: אַמָּה = H520 אַמָּה "properly, a mother (i.e. unit of measure…" [HNcfsa]
+- o7: וְ/הַ/גִּזְרָה = Hc "and" + Hd "the" + H1508 גִּזְרָה "the figure or person (as if cut out)…" [HC/Td/Ncfsa]
+- o8: וְ/הַ/בִּנְיָה = Hc "and" + Hd "the" + H1140 בִּנְיָה "a structure" [HC/Td/Ncfsa]
+- o9: וְ/קִירוֹתֶי/הָ = Hc "and" + H7023 קִיר "a wall (as built in a trench)" [HC/Ncmpc/Sp3fs]
+- o10: אֹרֶךְ = H753 אֹרֶךְ "length" [HNcmsa]
+- o11: מֵאָה = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbsa]
+- o12: אַמָּה = H520 אַמָּה "properly, a mother (i.e. unit of measure…" [HNcfsa]
+
+### Ezekiel 42:1 (context)
+
+- o1: וַ/יּוֹצִאֵ/נִי = Hc "and" + H3318 יָצָא "to go (causatively, bring) out…" [HC/Vhw3ms/Sp1cs]
+- o2: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o3: הֶ/חָצֵר = Hd "the" + H2691 חָצֵר "a yard (as inclosed by a fence)…" [HTd/Ncbsa]
+- o4: הַ/חִיצוֹנָה = Hd "the" + H2435 חִיצוֹן "properly, the (outer) wall side; hence, exterior…" [HTd/Aafsa]
+- o5: הַ/דֶּרֶךְ = Hd "the" + H1870 דֶּרֶךְ "a road (as trodden)…" [HTd/Ncbsa]
+- o6: דֶּרֶךְ = H1870 דֶּרֶךְ "a road (as trodden)…" [HNcbsc]
+- o7: הַ/צָּפוֹן = Hd "the" + H6828 צָפוֹן "properly, hidden, i.e. dark…" [HTd/Ncfsa]
+- o8: וַ/יְבִאֵ/נִי = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vhw3ms/Sp1cs]
+- o9: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o10: הַ/לִּשְׁכָּה = Hd "the" + H3957 לִשְׁכָּה "a room in a building (whether for storage, eating…" [HTd/Ncfsa]
+- o11: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o12: נֶגֶד = H5048 נֶגֶד "a front, i.e. part opposite…" [HR]
+- o13: הַ/גִּזְרָה = Hd "the" + H1508 גִּזְרָה "the figure or person (as if cut out)…" [HTd/Ncfsa]
+- o14: וַ/אֲשֶׁר = Hc "and" + H834 אֲשֶׁר "who, which, what, that…" [HC/Tr]
+- o15: נֶגֶד = H5048 נֶגֶד "a front, i.e. part opposite…" [HR]
+- o16: הַ/בִּנְיָן = Hd "the" + H1146 בִּנְיָן "an edifice" [HTd/Ncmsa]
+- o17: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o18: הַ/צָּפוֹן = Hd "the" + H6828 צָפוֹן "properly, hidden, i.e. dark…" [HTd/Ncfsa]

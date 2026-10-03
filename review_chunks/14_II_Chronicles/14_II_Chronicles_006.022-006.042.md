@@ -1369,3 +1369,46 @@ Persian entries and current tags:
 - p19: یاد آور  → H2142
 - p20: .
 - p21: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 6:21 (context)
+
+- o1: וְ/שָׁמַעְתָּ = Hc "and" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HC/Vqq2ms]
+- o2: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o3: תַּחֲנוּנֵי = H8469 תַּחֲנוּן "earnest prayer" [HNcmpc]
+- o4: עַבְדְּ/ךָ = H5650 עֶבֶד "a servant" [HNcmsc/Sp2ms]
+- o5: וְ/עַמְּ/ךָ = Hc "and" + H5971 עַם "a people (as a congregated unit)…" [HC/Ncmsc/Sp2ms]
+- o6: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o8: יִתְפַּלְלוּ = H6419 פָּלַל "to judge (officially or mentally)…" [HVti3mp]
+- o9: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o10: הַ/מָּקוֹם = Hd "the" + H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HTd/Ncmsa]
+- o11: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o12: וְ/אַתָּה = Hc "and" + H859 אַתָּה "thou and thee, or (plural) ye and you" [HC/Pp2ms]
+- o13: תִּשְׁמַע = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqi2ms]
+- o14: מִ/מְּקוֹם = Hm "from" + H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HR/Ncmsc]
+- o15: שִׁבְתְּ/ךָ = H3427 יָשַׁב "properly…" [HVqc/Sp2ms]
+- o16: מִן = H4480 מִן "properly, a part of…" [HR]
+- o17: הַ/שָּׁמַיִם = Hd "the" + H8064 שָׁמַיִם "the sky (as aloft…" [HTd/Ncmpa]
+- o18: וְ/שָׁמַעְתָּ = Hc "and" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HC/Vqq2ms]
+- o19: וְ/סָלָחְתָּ = Hc "and" + H5545 סָלַח "to forgive" [HC/Vqq2ms]
+
+### II Chronicles 7:1 (context)
+
+- o1: וּ/כְ/כַלּוֹת = Hc "and" + Hk "like" + H3615 כָּלָה "to end, whether intransitive (to cease…" [HC/R/Vpc]
+- o2: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o3: לְ/הִתְפַּלֵּל = Hl "to" + H6419 פָּלַל "to judge (officially or mentally)…" [HR/Vtc]
+- o4: וְ/הָ/אֵשׁ = Hc "and" + Hd "the" + H784 אֵשׁ "fire (literally or figuratively)" [HC/Td/Ncbsa]
+- o5: יָרְדָה = H3381 יָרַד "to descend (literally, to go downwards…" [HVqp3fs]
+- o6: מֵ/הַ/שָּׁמַיִם = Hm "from" + Hd "the" + H8064 שָׁמַיִם "the sky (as aloft…" [HR/Td/Ncmpa]
+- o7: וַ/תֹּאכַל = Hc "and" + H398 אָכַל "to eat (literally or figuratively)" [HC/Vqw3fs]
+- o8: הָ/עֹלָה = Hd "the" + H5930 עֹלָה "a step or (collectively, stairs, as ascending)…" [HTd/Ncfsa]
+- o9: וְ/הַ/זְּבָחִים = Hc "and" + Hd "the" + H2077 זֶבַח "properly, a slaughter…" [HC/Td/Ncmpa]
+- o10: וּ/כְבוֹד = Hc "and" + H3519 כָּבוֹד "properly, weight…" [HC/Ncbsc]
+- o11: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o12: מָלֵא = H4390 מָלֵא "to fill or (intransitively) be full of…" [HVqp3ms]
+- o13: אֶת = H853 אֵת "properly…" [HTo]
+- o14: הַ/בָּיִת = Hd "the" + H1004 בַּיִת "a house (in the greatest variation of…" [HTd/Ncmsa]

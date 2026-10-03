@@ -468,3 +468,50 @@ Persian entries and current tags:
 - p27: انجام
 - p28: کارهای اجباری  → H4522
 - p29: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Joshua 16:1 (context)
+
+- o1: וַ/יֵּצֵא = Hc "and" + H3318 יָצָא "to go (causatively, bring) out…" [HC/Vqw3ms]
+- o2: הַ/גּוֹרָל = Hd "the" + H1486 גּוֹרָל "properly, a pebble…" [HTd/Ncmsa]
+- o3: לִ/בְנֵי = Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmpc]
+- o4: יוֹסֵף = H3130 יוֹסֵף "Joseph, the name of seven Israelites" [HNp]
+- o5: מִ/יַּרְדֵּן = Hm "from" + H3383 יַרְדֵּן "Jarden, the principal river of Palestine" [HR/Np]
+- o6: יְרִיחוֹ = H3405 יְרִיחוֹ "Jericho or Jerecho, a place in Palestine" [HNp]
+- o7: לְ/מֵי = Hl "to" + H4325 מַיִם "water; figuratively, juice…" [HR/Ncmpc]
+- o8: יְרִיחוֹ = H3405 יְרִיחוֹ "Jericho or Jerecho, a place in Palestine" [HNp]
+- o9: מִזְרָחָ/ה = H4217 מִזְרָח "sunrise, i.e. the east" [HNcmsa/Sd]
+- o10: הַ/מִּדְבָּר = Hd "the" + H4057 מִדְבָּר "a pasture (i.e. open field…" [HTd/Ncmsa]
+- o11: עֹלֶה = H5927 עָלָה "to ascend…" [HVqrmsa]
+- o12: מִ/ירִיחוֹ = Hm "from" + H3405 יְרִיחוֹ "Jericho or Jerecho, a place in Palestine" [HR/Np]
+- o13: בָּ/הָר = Hb "in" + H2022 הַר "a mountain or range of hills (sometimes used…" [HRd/Ncmsa]
+- o14: בֵּית = H1008 בֵּית־אֵל "Beth-El, a place in Palestine" [HNp]
+- o15: אֵל = H1008 בֵּית־אֵל "Beth-El, a place in Palestine" [HNp]
+
+### Joshua 17:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: הַ/גּוֹרָל = Hd "the" + H1486 גּוֹרָל "properly, a pebble…" [HTd/Ncmsa]
+- o3: לְ/מַטֵּה = Hl "to" + H4294 מַטֶּה "a branch (as extending); figuratively, a tribe…" [HR/Ncmsc]
+- o4: מְנַשֶּׁה = H4519 מְנַשֶּׁה "Menashsheh, a grandson of Jacob…" [HNp]
+- o5: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o6: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o7: בְּכוֹר = H1060 בְּכוֹר "firstborn; hence, chief" [HNcmsc]
+- o8: יוֹסֵף = H3130 יוֹסֵף "Joseph, the name of seven Israelites" [HNp]
+- o9: לְ/מָכִיר = Hl "to" + H4353 מָכִיר "Makir, an Israelite" [HR/Np]
+- o10: בְּכוֹר = H1060 בְּכוֹר "firstborn; hence, chief" [HNcmsc]
+- o11: מְנַשֶּׁה = H4519 מְנַשֶּׁה "Menashsheh, a grandson of Jacob…" [HNp]
+- o12: אֲבִי = H1 אָב "father, in a literal and immediate…" [HNcmsc]
+- o13: הַ/גִּלְעָד = Hd "the" + H1568 גִּלְעָד "Gilad, a region East of the Jordan…" [HTd/Np]
+- o14: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o15: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o16: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o17: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsc]
+- o18: מִלְחָמָה = H4421 מִלְחָמָה "a battle (i.e. the engagement)…" [HNcfsa]
+- o19: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o20: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o21: הַ/גִּלְעָד = Hd "the" + H1568 גִּלְעָד "Gilad, a region East of the Jordan…" [HTd/Np]
+- o22: וְ/הַ/בָּשָׁן = Hc "and" + Hd "the" + H1316 בָּשָׁן "Bashan (often with the article)…" [HC/Td/Np]

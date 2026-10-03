@@ -33,6 +33,7 @@ class Proposal:
         self.path, self.line, self.ref, self.entries = path, line, ref, entries
         self.key = None
         self.errors = []
+        self.borrowed = {}  # Strong's number -> neighbouring verse key it was taken from
 
     def where(self):
         return f'{os.path.basename(self.path)}, line {self.line} ({self.ref})'
@@ -67,7 +68,8 @@ def parse_reply(path):
 
 
 class Context:
-    def __init__(self, sync_bible):
+    def __init__(self, sync_bible, window=1):
+        self.window = window
         paths = data.sync_bible_paths(sync_bible)
         self.nmv_path = paths['nmv_strongs']
         self.grid = data.load_token_grid()
@@ -80,6 +82,18 @@ class Context:
                              'run python -m retag run first.')
         self.locked = manual.read_locked(self.grid)
         self.dictionary = data.load_json(os.path.join(sync_bible, 'public', 'data', 'strongsDictionary.json'))
+        self.order = original.verse_order(self.accented)
+
+    def nearby_lemmas(self, key):
+        '''{Strong's number: nearest neighbouring verse key} for verses within the window.'''
+        out = {}
+        nearby = original.nearby_keys(self.order, key, self.window)
+        position = {k: i for i, k in enumerate(self.order.get(key[0], []))}
+        here = position.get(key[1:], None)
+        for k in sorted(nearby, key=lambda k: abs(position[k[1:]] - here) if here is not None else 0):
+            for _, lemma in original.morphemes(self.original(k)):
+                out.setdefault(lemma, k)
+        return out
 
     def original(self, key):
         book, ci, vi = key
@@ -119,6 +133,7 @@ def validate(p, ctx):
         return
 
     lemmas = {l for _, l in original.morphemes(ctx.original(p.key))}
+    nearby = ctx.nearby_lemmas(p.key)
     for n, entry in enumerate(entries, 1):
         words = entry[0].split(' ')
         tags = entry[1].split() if len(entry) > 1 else []
@@ -129,8 +144,13 @@ def validate(p, ctx):
         if tags and all(persian.is_punctuation(w) for w in words):
             p.errors.append(f'entry {n} "{entry[0]}": punctuation cannot be tagged')
         for tag in tags:
-            if tag not in lemmas:
-                p.errors.append(f'entry {n} "{entry[0]}": {tag} is not a Strong\'s number in this verse')
+            if tag in lemmas:
+                continue
+            if tag in nearby:
+                p.borrowed[tag] = nearby[tag]
+            else:
+                p.errors.append(f'entry {n} "{entry[0]}": {tag} is not a Strong\'s number in this verse '
+                                f'or the {ctx.window} verse(s) either side')
         if len(set(tags)) != len(tags):
             p.errors.append(f'entry {n} "{entry[0]}": repeated number')
 
@@ -154,8 +174,11 @@ def load_and_validate(files, ctx):
     return proposals, problems
 
 
-def tag_text(tags, ctx):
-    return '; '.join(f'{t} {gloss(t, ctx.dictionary, limit=30)}' for t in tags.split()) if tags else ''
+def tag_text(tags, ctx, borrowed=None):
+    borrowed = borrowed or {}
+    return '; '.join(f'{t} {gloss(t, ctx.dictionary, limit=30)}'
+                     + (f' (from {data.reference(borrowed[t])})' if t in borrowed else '')
+                     for t in tags.split()) if tags else ''
 
 
 def report_verse(p, ctx):
@@ -165,22 +188,29 @@ def report_verse(p, ctx):
     new_rows = [(e[0], e[1] if len(e) > 1 else '') for e in p.entries for _ in e[0].split(' ')]
     changed = sum(c != n for c, n in zip(cur_rows, new_rows))
     out = [f'### {data.reference(p.key)}: {changed} word(s) changed', '',
-           f'Reply line {p.line}.', '',
+           f'Reply line {p.line}.'
+           + (f' Uses numbers from neighbouring verses: '
+              + ', '.join(f'{t} ({data.reference(k)})' for t, k in sorted(p.borrowed.items())) + '.'
+              if p.borrowed else ''), '',
            'Original: ' + ' '.join(plain(w[0]) for w in ctx.original(p.key)),
            '', 'Persian: ' + persian_text(current), '', 'Original words:']
     out += original_lines(ctx.original(p.key), ctx.dictionary)
+    for key in sorted(set(p.borrowed.values())):
+        tags = ', '.join(sorted(t for t, k in p.borrowed.items() if k == key))
+        out += ['', f'Original words of {data.reference(key)} (neighbouring verse; this reply uses {tags} from it):']
+        out += original_lines(ctx.original(key), ctx.dictionary)
     out += ['', '| | Persian | Now | Proposed |', '| --- | --- | --- | --- |']
     for token, (c_text, c_tags), (n_text, n_tags) in zip(tokens, cur_rows, new_rows):
         mark = '✱' if (c_text, c_tags) != (n_text, n_tags) else ''
         c_label = (f'[{c_text}] ' if ' ' in c_text else '') + (tag_text(c_tags, ctx) if mark else c_tags)
-        n_label = (f'[{n_text}] ' if ' ' in n_text else '') + (tag_text(n_tags, ctx) if mark else n_tags)
+        n_label = (f'[{n_text}] ' if ' ' in n_text else '') + (tag_text(n_tags, ctx, p.borrowed) if mark else n_tags)
         out.append(f'| {mark} | {token} | {c_label} | {n_label} |')
     out.append('')
     return out, changed
 
 
 def check(args):
-    ctx = Context(args.sync_bible)
+    ctx = Context(args.sync_bible, args.window)
     total_errors = 0
     for folder in (PENDING, APPROVED):
         for path in reply_files(folder):
@@ -219,7 +249,7 @@ def apply(args):
     files = reply_files(APPROVED)
     if not files:
         raise SystemExit('Nothing to apply: no replies in review_replies/approved/.')
-    ctx = Context(args.sync_bible)
+    ctx = Context(args.sync_bible, args.window)
     proposals, problems = load_and_validate(files, ctx)
     errors = problems + [f'{p.where()}: {e}' for p in proposals for e in p.errors]
     if errors:
@@ -263,6 +293,8 @@ def main():
         p = sub.add_parser(name, help=help_text)
         p.add_argument('--sync-bible', default=os.path.join(data.REPO, '..', 'sync.bible'),
                        help='Path to a sync.bible checkout (default: ../sync.bible)')
+        p.add_argument('--window', type=int, default=1,
+                       help='Also accept Strong\'s numbers from this many verses either side (default 1; 0 = this verse only)')
         if name == 'apply':
             p.add_argument('--dry-run', action='store_true', help='Validate and count, but write nothing')
     args = parser.parse_args()

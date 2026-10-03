@@ -742,3 +742,44 @@ Persian entries and current tags:
 - p38: نه  → G3756
 - p39: انسان  → G444
 - p40: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Romans 2:14 (context)
+
+- o1: ὅταν = G3752 ὅταν "as long (soon) as, that, + till, when(-soever)…" [CONJ]
+- o2: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o3: ἔθνη = G1484 ἔθνος "Gentile, heathen, nation, people" [N-NPN]
+- o4: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPN]
+- o5: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o6: νόμον = G3551 νόμος "law" [N-ASM]
+- o7: ἔχοντα = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAP-NPN]
+- o8: φύσει = G5449 φύσις "(man-)kind, nature(-al)" [N-DSF]
+- o9: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
+- o10: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o11: νόμου = G3551 νόμος "law" [N-GSM]
+- o12: ποιῶσιν, = G4160 ποιέω "abide, + agree, appoint, avenge, + band together…" [V-PAS-3P]
+- o13: οὗτοι = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-NPM]
+- o14: νόμον = G3551 νόμος "law" [N-ASM]
+- o15: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o16: ἔχοντες = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAP-NPM]
+- o17: ἑαυτοῖς = G1438 ἑαυτοῦ "alone, her (own, -self), (he) himself, his (own)…" [F-3DPM]
+- o18: εἰσιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3P]
+- o19: νόμος· = G3551 νόμος "law" [N-NSM]
+
+### Romans 3:1 (context)
+
+- o1: Τί = G5101 τίς "every man, how (much), + no(-ne, thing)…" [I-NSN]
+- o2: οὖν = G3767 οὖν "and (so, truly), but, now (then)…" [CONJ]
+- o3: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o4: περισσὸν = G4053 περισσός "exceeding abundantly above, more abundantly…" [A-NSN]
+- o5: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o6: Ἰουδαίου, = G2453 Ἰουδαῖος "Jew(-ess), of Judæa" [A-GSM]
+- o7: ἢ = G2228 ἤ "and, but (either), (n-)either, except it be…" [PRT]
+- o8: τίς = G5101 τίς "every man, how (much), + no(-ne, thing)…" [I-NSF]
+- o9: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o10: ὠφέλεια = G5622 ὠφέλεια "advantage, profit" [N-NSF]
+- o11: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o12: περιτομῆς; = G4061 περιτομή "circumcised, circumcision" [N-GSF]

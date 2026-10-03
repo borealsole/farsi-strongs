@@ -770,3 +770,49 @@ Persian entries and current tags:
 - p44: هستم
 - p45: .
 - p46: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 49:13 (context)
+
+- o1: רָנּוּ = H7442 רָנַן "properly, to creak (or emit a stridulous sound)…" [HVqv2mp]
+- o2: שָׁמַיִם = H8064 שָׁמַיִם "the sky (as aloft…" [HNcmpa]
+- o3: וְ/גִילִי = Hc "and" + H1523 גִּיל "properly…" [HC/Vqv2fs]
+- o4: אָרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsa]
+- o5: יפצחו = H6476 פָּצַח "to break out (in joyful sound)" [HVqj3mp]
+- o6: הָרִים = H2022 הַר "a mountain or range of hills (sometimes used…" [HNcmpa]
+- o7: רִנָּה = H7440 רִנָּה "properly, a creaking (or shrill sound)…" [HNcfsa]
+- o8: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o9: נִחַם = H5162 נָחַם "properly, to sigh, i.e. breathe strongly…" [HVpp3ms]
+- o10: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o11: עַמּ/וֹ = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp3ms]
+- o12: וַ/עֲנִיָּ/ו = Hc "and" + H6041 עָנִי "depressed, in mind or circumstances" [HC/Aampc/Sp3ms]
+- o13: יְרַחֵם = H7355 רָחַם "to fondle…" [HVpi3ms]
+
+### Isaiah 50:1 (context)
+
+- o1: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o2: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֵי = H335 אַי "where? hence how?" [HTi]
+- o5: זֶה = H2088 זֶה "the masculine demonstrative pronoun, this or that" [HPdxms]
+- o6: סֵפֶר = H5612 סֵפֶר "properly, writing (the art or a document)…" [HNcmsc]
+- o7: כְּרִיתוּת = H3748 כְּרִיתוּת "a cutting (of the matrimonial bond), i.e. divorce" [HNcfsc]
+- o8: אִמְּ/כֶם = H517 אֵם "a mother (as the bond of the family)…" [HNcfsc/Sp2mp]
+- o9: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o10: שִׁלַּחְתִּי/הָ = H7971 שָׁלַח "to send away, for…" [HVpp1cs/Sp3fs]
+- o11: אוֹ = H176 אוֹ "desire (and so probably in Proverbs 31:4)…" [HC]
+- o12: מִי = H4310 מִי "who? (occasionally, by a peculiar idiom…" [HTi]
+- o13: מִ/נּוֹשַׁ/י = Hm "from" + H5383 נָשָׁה "to lend or (by reciprocity) borrow on security or…" [HR/Vqrmpc/Sp1cs]
+- o14: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o15: מָכַרְתִּי = H4376 מָכַר "to sell, literally (as merchandise…" [HVqp1cs]
+- o16: אֶתְ/כֶם = H853 אֵת "properly…" [HTo/Sp2mp]
+- o17: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o18: הֵן = H2005 הֵן "lo!; also (as expressing surprise) if" [HTm]
+- o19: בַּ/עֲוֺנֹתֵי/כֶם = Hb "in" + H5771 עָוֺן "perversity, i.e. (moral) evil" [HR/Ncbpc/Sp2mp]
+- o20: נִמְכַּרְתֶּם = H4376 מָכַר "to sell, literally (as merchandise…" [HVNp2mp]
+- o21: וּ/בְ/פִשְׁעֵי/כֶם = Hc "and" + Hb "in" + H6588 פֶּשַׁע "a revolt (national, moral or religious)" [HC/R/Ncmpc/Sp2mp]
+- o22: שֻׁלְּחָה = H7971 שָׁלַח "to send away, for…" [HVPp3fs]
+- o23: אִמְּ/כֶם = H517 אֵם "a mother (as the bond of the family)…" [HNcfsc/Sp2mp]

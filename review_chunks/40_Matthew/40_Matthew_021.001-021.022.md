@@ -1184,3 +1184,56 @@ Persian entries and current tags:
 - p10: خواهید_یافت  → G2983
 - p11: .
 - p12: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 20:34 (context)
+
+- o1: σπλαγχνισθεὶς = G4697 σπλαγχνίζομαι "have (be moved with) compassion" [V-AOP-NSM]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o4: Ἰησοῦς = G2424 Ἰησοῦς "Jesus" [N-NSM]
+- o5: ἥψατο = G680 ἅπτομαι "touch" [V-ADI-3S]
+- o6: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPN]
+- o7: ὀμμάτων = G3659 ὄμμα "eye" [N-GPN]
+- o8: αὐτῶν, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]
+- o9: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o10: εὐθέως = G2112 εὐθέως "anon, as soon as, forthwith, immediately, shortly…" [ADV]
+- o11: ἀνέβλεψαν = G308 ἀναβλέπω "look (up), see, receive sight" [V-AAI-3P]
+- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o13: ἠκολούθησαν = G190 ἀκολουθέω "follow, reach" [V-AAI-3P]
+- o14: αὐτῷ. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
+
+### Matthew 21:23 (context)
+
+- o1: Καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἐλθόντος = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-2AAP-GSM]
+- o3: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o4: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o5: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o6: ἱερὸν = G2411 ἱερόν "temple" [N-ASN]
+- o7: προσῆλθον = G4334 προσέρχομαι "as soon as he) come (unto), come thereunto…" [V-2AAI-3P]
+- o8: αὐτῷ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
+- o9: διδάσκοντι = G1321 διδάσκω "teach" [V-PAP-DSM]
+- o10: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o11: ἀρχιερεῖς = G749 ἀρχιερεύς "chief (high) priest, chief of the priests" [N-NPM]
+- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o13: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o14: πρεσβύτεροι = G4245 πρεσβύτερος "elder(-est), old" [A-NPM-C]
+- o15: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o16: λαοῦ = G2992 λαός "people" [N-GSM]
+- o17: λέγοντες· = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAP-NPM]
+- o18: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o19: ποίᾳ = G4169 ποῖος "what (manner of), which" [I-DSF]
+- o20: ἐξουσίᾳ = G1849 ἐξουσία "authority, jurisdiction, liberty, power, right…" [N-DSF]
+- o21: ταῦτα = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-APN]
+- o22: ποιεῖς; = G4160 ποιέω "abide, + agree, appoint, avenge, + band together…" [V-PAI-2S]
+- o23: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o24: τίς = G5101 τίς "every man, how (much), + no(-ne, thing)…" [I-NSM]
+- o25: σοι = G4771 σύ "thou" [P-2DS]
+- o26: ἔδωκεν = G1325 δίδωμι "adventure, bestow, bring forth, commit…" [V-AAI-3S]
+- o27: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o28: ἐξουσίαν = G1849 ἐξουσία "authority, jurisdiction, liberty, power, right…" [N-ASF]
+- o29: ταύτην; = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-ASF]

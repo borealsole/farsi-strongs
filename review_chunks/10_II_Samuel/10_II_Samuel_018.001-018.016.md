@@ -1050,3 +1050,51 @@ Persian entries and current tags:
 - p15: را  → H853
 - p16: بازداشت  → H2820
 - p17: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 17:29 (context)
+
+- o1: וּ/דְבַשׁ = Hc "and" + H1706 דְּבַשׁ "honey (from its stickiness); by analogy, syrup" [HC/Ncmsa]
+- o2: וְ/חֶמְאָה = Hc "and" + H2529 חֶמְאָה "curdled milk or cheese" [HC/Ncfsa]
+- o3: וְ/צֹאן = Hc "and" + H6629 צֹאן "a collective name for a flock (of sheep or goats)…" [HC/Ncbsa]
+- o4: וּ/שְׁפוֹת = Hc "and" + H8194 שָׁפָה "a cheese (as strained from the whey)" [HC/Ncfpc]
+- o5: בָּקָר = H1241 בָּקָר "beef cattle or an animal of the ox family of…" [HNcbsa]
+- o6: הִגִּישׁוּ = H5066 נָגַשׁ "to be or come (causatively…" [HVhp3cp]
+- o7: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o8: וְ/לָ/עָם = Hc "and" + Hl "to" + H5971 עַם "a people (as a congregated unit)…" [HC/Rd/Ncmsa]
+- o9: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o10: אִתּ/וֹ = H854 אֵת "properly…" [HR/Sp3ms]
+- o11: לֶ/אֱכוֹל = Hl "to" + H398 אָכַל "to eat (literally or figuratively)" [HR/Vqc]
+- o12: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o13: אָמְרוּ = H559 אָמַר "to say (used with great latitude)" [HVqp3cp]
+- o14: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o15: רָעֵב = H7457 רָעֵב "hungry (more or less intensely)" [HAamsa]
+- o16: וְ/עָיֵף = Hc "and" + H5889 עָיֵף "languid" [HC/Aamsa]
+- o17: וְ/צָמֵא = Hc "and" + H6771 צָמֵא "thirsty (literally or figuratively)" [HC/Aamsa]
+- o18: בַּ/מִּדְבָּר = Hb "in" + H4057 מִדְבָּר "a pasture (i.e. open field…" [HRd/Ncmsa]
+
+### II Samuel 18:17 (context)
+
+- o1: וַ/יִּקְחוּ = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqw3mp]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: אַבְשָׁלוֹם = H53 אֲבִישָׁלוֹם "Abshalom, a son of David…" [HNp]
+- o4: וַ/יַּשְׁלִיכוּ = Hc "and" + H7993 שָׁלַךְ "to throw out…" [HC/Vhw3mp]
+- o5: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o6: בַ/יַּעַר = Hb "in" + H3293 יַעַר "a copse of bushes; hence, a forest…" [HRd/Ncmsa]
+- o7: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o8: הַ/פַּחַת = Hd "the" + H6354 פַּחַת "a pit, especially forcatching animals" [HTd/Ncmsa]
+- o9: הַ/גָּדוֹל = Hd "the" + H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HTd/Aamsa]
+- o10: וַ/יַּצִּבוּ = Hc "and" + H5324 נָצַב "to station…" [HC/Vhw3mp]
+- o11: עָלָי/ו = H5921 עַל "above, over, upon…" [HR/Sp3ms]
+- o12: גַּל = H1530 גַּל "something rolled…" [HNcmsc]
+- o13: אֲבָנִים = H68 אֶבֶן "a stone" [HNcfpa]
+- o14: גָּדוֹל = H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HAamsa]
+- o15: מְאֹד = H3966 מְאֹד "properly, vehemence…" [HD]
+- o16: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o17: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o18: נָסוּ = H5127 נוּס "to flit, i.e. vanish away (subside, escape…" [HVqp3cp]
+- o19: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o20: ל/אהל/ו = Hl "to" + H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HR/Ncmsc/Sp3ms]

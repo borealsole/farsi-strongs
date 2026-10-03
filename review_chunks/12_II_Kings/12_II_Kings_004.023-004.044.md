@@ -1361,3 +1361,53 @@ Persian entries and current tags:
 - p15: زیاد
 - p16: آمد
 - p17: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 4:22 (context)
+
+- o1: וַ/תִּקְרָא = Hc "and" + H7121 קָרָא "to call out to (i.e. properly, address by name…" [HC/Vqw3fs]
+- o2: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o3: אִישָׁ/הּ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsc/Sp3fs]
+- o4: וַ/תֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3fs]
+- o5: שִׁלְחָ/ה = H7971 שָׁלַח "to send away, for…" [HVqv2ms/Sh]
+- o6: נָא = H4994 נָא "'I pray', 'now', or 'then'…" [HTe]
+- o7: לִ/י = Hl "to" [HR/Sp1cs]
+- o8: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o9: מִן = H4480 מִן "properly, a part of…" [HR]
+- o10: הַ/נְּעָרִים = Hd "the" + H5288 נַעַר "concretely) a boy (as active)…" [HTd/Ncmpa]
+- o11: וְ/אַחַת = Hc "and" + H259 אֶחָד "properly, united, i.e. one…" [HC/Acfsa]
+- o12: הָ/אֲתֹנוֹת = Hd "the" + H860 אָתוֹן "a female donkey (from its docility)" [HTd/Ncfpa]
+- o13: וְ/אָרוּצָה = Hc "and" + H7323 רוּץ "to run (for whatever reason, especially to rush)" [HC/Vqi1cs]
+- o14: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o15: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsc]
+- o16: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o17: וְ/אָשׁוּבָה = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqi1cs]
+
+### II Kings 5:1 (context)
+
+- o1: וְ/נַעֲמָן = Hc "and" + H5283 נַעֲמָן "Naaman…" [HC/Np]
+- o2: שַׂר = H8269 שַׂר "a head person (of any rank or class)" [HNcmsc]
+- o3: צְבָא = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbsc]
+- o4: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o5: אֲרָם = H758 אֲרָם "Aram or Syria, and its inhabitants…" [HNp]
+- o6: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o7: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o8: גָּדוֹל = H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HAamsa]
+- o9: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o10: אֲדֹנָי/ו = H113 אָדוֹן "sovereign, i.e. controller (human or divine)" [HNcmpc/Sp3ms]
+- o11: וּ/נְשֻׂא = Hc "and" + H5375 נָשָׂא "to lift, in a great variety of applications…" [HC/Vqsmsc]
+- o12: פָנִים = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpa]
+- o13: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o14: ב/וֹ = Hb "in" [HR/Sp3ms]
+- o15: נָתַן = H5414 נָתַן "to give…" [HVqp3ms]
+- o16: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o17: תְּשׁוּעָה = H8668 תְּשׁוּעָה "rescue (literal or figurative, persons…" [HNcfsa]
+- o18: לַ/אֲרָם = Hl "to" + H758 אֲרָם "Aram or Syria, and its inhabitants…" [HR/Np]
+- o19: וְ/הָ/אִישׁ = Hc "and" + Hd "the" + H376 אִישׁ "a man as an individual or a male person…" [HC/Td/Ncmsa]
+- o20: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o21: גִּבּוֹר = H1368 גִּבּוֹר "powerful; by implication, warrior, tyrant" [HAamsc]
+- o22: חַיִל = H2428 חַיִל "probably a force, whether of men…" [HNcmsa]
+- o23: מְצֹרָע = H6879 צָרַע "to scourge…" [HVPsmsa]

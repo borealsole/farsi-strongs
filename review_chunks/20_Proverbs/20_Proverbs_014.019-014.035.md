@@ -623,3 +623,27 @@ Persian entries and current tags:
 - p12: مایۀ  → H4428
 - p13: شرمساری است  → H954
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 14:18 (context)
+
+- o1: נָחֲלוּ = H5157 נָחַל "to inherit (as a (figurative) mode of descent)…" [HVqp3cp]
+- o2: פְתָאיִם = H6612 פְּתִי "silly (i.e. seducible)" [HNcmpa]
+- o3: אִוֶּלֶת = H200 אִוֶּלֶת "silliness" [HNcfsa]
+- o4: וַ/עֲרוּמִים = Hc "and" + H6175 עָרוּם "cunning (usually in a bad sense)" [HC/Aampa]
+- o5: יַכְתִּרוּ = H3803 כָּתַר "to enclose…" [HVhi3mp]
+- o6: דָעַת = H1847 דַּעַת "knowledge" [HNcfsa]
+
+### Proverbs 15:1 (context)
+
+- o1: מַעֲנֶה = H4617 מַעֲנֶה "a reply (favorable or contradictory)" [HNcmsa]
+- o2: רַּךְ = H7390 רַךְ "tender (literally or figuratively)…" [HAamsa]
+- o3: יָשִׁיב = H7725 שׁוּב "to turn back (hence…" [HVhi3ms]
+- o4: חֵמָה = H2534 חֵמָה "heat; figuratively, anger, poison (from its fever)" [HNcfsa]
+- o5: וּ/דְבַר = Hc "and" + H1697 דָּבָר "a word…" [HC/Ncmsc]
+- o6: עֶצֶב = H6089 עֶצֶב "an earthen vessel; usually (painful) toil…" [HNcmsa]
+- o7: יַעֲלֶה = H5927 עָלָה "to ascend…" [HVhi3ms]
+- o8: אָף = H639 אַף "properly, the nose or nostril…" [HNcmsa]

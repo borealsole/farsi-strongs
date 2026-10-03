@@ -846,3 +846,56 @@ Persian entries and current tags:
 - p32: شمارندگان  → H4487
 - p33: خواهند_گذشت  → H5674
 - p34: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 32:44 (context)
+
+- o1: שָׂדוֹת = H7704 שָׂדֶה "a field (as flat)" [HNcmpa]
+- o2: בַּ/כֶּסֶף = Hb "in" + H3701 כֶּסֶף "silver (from its pale color)…" [HRd/Ncmsa]
+- o3: יִקְנוּ = H7069 קָנָה "to erect, i.e. create…" [HVqi3mp]
+- o4: וְ/כָתוֹב = Hc "and" + H3789 כָּתַב "to grave, by implication, to write (describe…" [HC/Vqa]
+- o5: בַּ/סֵּפֶר = Hb "in" + H5612 סֵפֶר "properly, writing (the art or a document)…" [HRd/Ncmsa]
+- o6: וְ/חָתוֹם = Hc "and" + H2856 חָתַם "to close up; especially to seal" [HC/Vqa]
+- o7: וְ/הָעֵד = Hc "and" + H5749 עוּד "to duplicate or repeat…" [HC/Vha]
+- o8: עֵדִים = H5707 עֵד "concretely, a witness; abstractly, testimony…" [HNcmpa]
+- o9: בְּ/אֶרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o10: בִּנְיָמִן = H1144 בִּנְיָמִין "Binjamin, youngest son of Jacob…" [HNp]
+- o11: וּ/בִ/סְבִיבֵי = Hc "and" + Hb "in" + H5439 סָבִיב "as noun) a circle, neighbour, or environs…" [HC/R/Ncbpc]
+- o12: יְרוּשָׁלִַם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+- o13: וּ/בְ/עָרֵי = Hc "and" + Hb "in" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HC/R/Ncfpc]
+- o14: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o15: וּ/בְ/עָרֵי = Hc "and" + Hb "in" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HC/R/Ncfpc]
+- o16: הָ/הָר = Hd "the" + H2022 הַר "a mountain or range of hills (sometimes used…" [HTd/Ncmsa]
+- o17: וּ/בְ/עָרֵי = Hc "and" + Hb "in" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HC/R/Ncfpc]
+- o18: הַ/שְּׁפֵלָה = Hd "the" + H8219 שְׁפֵלָה "Lowland…" [HTd/Ncfsa]
+- o19: וּ/בְ/עָרֵי = Hc "and" + Hb "in" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HC/R/Ncfpc]
+- o20: הַ/נֶּגֶב = Hd "the" + H5045 נֶגֶב "the south (from its drought)…" [HTd/Ncmsa]
+- o21: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o22: אָשִׁיב = H7725 שׁוּב "to turn back (hence…" [HVhi1cs]
+- o23: אֶת = H853 אֵת "properly…" [HTo]
+- o24: שְׁבוּתָ/ם = H7622 שְׁבוּת "exile, concretely, prisoners…" [HNcfsc/Sp3mp]
+- o25: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o26: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### Jeremiah 33:14 (context)
+
+- o1: הִנֵּה = H2009 הִנֵּה "lo!" [HTm]
+- o2: יָמִים = H3117 יוֹם "a day (as the warm hours)…" [HNcmpa]
+- o3: בָּאִים = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqrmpa]
+- o4: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o5: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o6: וַ/הֲקִמֹתִי = Hc "and" + H6965 קוּם "to rise (in various applications, literal…" [HC/Vhq1cs]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]
+- o9: הַ/טּוֹב = Hd "the" + H2896 טוֹב "good (as an adjective) in the widest sense…" [HTd/Aamsa]
+- o10: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o11: דִּבַּרְתִּי = H1696 דָבַר "perhaps properly, to arrange…" [HVpp1cs]
+- o12: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o13: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o14: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o15: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o16: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o17: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]

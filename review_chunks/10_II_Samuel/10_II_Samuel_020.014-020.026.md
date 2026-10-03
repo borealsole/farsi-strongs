@@ -761,3 +761,53 @@ Persian entries and current tags:
 - p5: داوود  → H3548 H1732
 - p6: بود
 - p7: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 20:13 (context)
+
+- o1: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o2: הֹגָה = H3014 יָגָה "to push away" [HVhp3ms]
+- o3: מִן = H4480 מִן "properly, a part of…" [HR]
+- o4: הַ/מְסִלָּה = Hd "the" + H4546 מְסִלָּה "a thoroughfare (as turnpiked)…" [HTd/Ncfsa]
+- o5: עָבַר = H5674 עָבַר "to cross over…" [HVqp3ms]
+- o6: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o7: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o8: אַחֲרֵי = H310 אַחַר "properly, the hind part…" [HR]
+- o9: יוֹאָב = H3097 יוֹאָב "Joab, the name of three Israelites" [HNp]
+- o10: לִ/רְדֹּף = Hl "to" + H7291 רָדַף "to run after (usually with hostile intent…" [HR/Vqc]
+- o11: אַחֲרֵי = H310 אַחַר "properly, the hind part…" [HR]
+- o12: שֶׁבַע = H7652 שֶׁבַע "Sheba, the name of a place in Palestine…" [HAcfsa]
+- o13: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o14: בִּכְרִי = H1075 בִּכְרִי "Bikri, an Israelite" [HNp]
+
+### II Samuel 21:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: רָעָב = H7458 רָעָב "hunger (more or less extensive)" [HNcmsa]
+- o3: בִּ/ימֵי = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmpc]
+- o4: דָוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o5: שָׁלֹשׁ = H7969 שָׁלוֹשׁ "three…" [HAcfsa]
+- o6: שָׁנִים = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfpa]
+- o7: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o8: אַחֲרֵי = H310 אַחַר "properly, the hind part…" [HR]
+- o9: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o10: וַ/יְבַקֵּשׁ = Hc "and" + H1245 בָּקַשׁ "to search out (by any method…" [HC/Vpw3ms]
+- o11: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o12: אֶת = H853 אֵת "properly…" [HTo]
+- o13: פְּנֵי = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc]
+- o14: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o15: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o16: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o17: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o18: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o19: וְ/אֶל = Hc "and" + H413 אֵל "near, with or among; often in general, to" [HC/R]
+- o20: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o21: הַ/דָּמִים = Hd "the" + H1818 דָּם "blood (as that which when shed causes death) of…" [HTd/Ncmpa]
+- o22: עַל = H5921 עַל "above, over, upon…" [HR]
+- o23: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o24: הֵמִית = H4191 מוּת "to die (literally or figuratively)…" [HVhp3ms]
+- o25: אֶת = H853 אֵת "properly…" [HTo]
+- o26: הַ/גִּבְעֹנִים = Hd "the" + H1393 גִּבְעֹנִי "a Gibonite, or inhabitant of Gibon" [HTd/Ngmpa]

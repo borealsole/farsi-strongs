@@ -1188,3 +1188,26 @@ Persian entries and current tags:
 - p18: قائل  → H2889
 - p19: شوید
 - p20: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 11:24 (context)
+
+- o1: וּ/לְ/אֵלֶּה = Hc "and" + Hl "to" + H428 אֵלֶּה "these or those" [HC/R/Pdxcp]
+- o2: תִּטַּמָּאוּ = H2930 טָמֵא "to be foul…" [HVti2mp]
+- o3: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o4: הַ/נֹּגֵעַ = Hd "the" + H5060 נָגַע "properly, to touch…" [HTd/Vqrmsa]
+- o5: בְּ/נִבְלָתָ/ם = Hb "in" + H5038 נְבֵלָה "a flabby thing…" [HR/Ncfsc/Sp3mp]
+- o6: יִטְמָא = H2930 טָמֵא "to be foul…" [HVqi3ms]
+- o7: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o8: הָ/עָרֶב = Hd "the" + H6153 עֶרֶב "dusk" [HTd/Ncmsa]
+
+### Leviticus 12:1 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: לֵּ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

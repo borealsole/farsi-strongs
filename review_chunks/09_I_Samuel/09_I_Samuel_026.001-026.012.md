@@ -773,3 +773,36 @@ Persian entries and current tags:
 - p45: آنان
 - p46: مستولی شده_بود  → H5307
 - p47: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 25:44 (context)
+
+- o1: וְ/שָׁאוּל = Hc "and" + H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HC/Np]
+- o2: נָתַן = H5414 נָתַן "to give…" [HVqp3ms]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: מִיכַל = H4324 מִיכָל "Mikal, Saul's daughter" [HNp]
+- o5: בִּתּ/וֹ = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfsc/Sp3ms]
+- o6: אֵשֶׁת = H802 אִשָּׁה "a woman" [HNcfsc]
+- o7: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o8: לְ/פַלְטִי = Hl "to" + H6406 פַּלְטִי "Palti, the name of two Israelites" [HR/Np]
+- o9: בֶן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o10: לַיִשׁ = H3919 לַיִשׁ "Laish, the name of two places in Palestine" [HNp]
+- o11: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o12: מִ/גַּלִּים = Hm "from" + H1554 גַּלִּים "Gallim, a place in Palestine" [HR/Np]
+
+### I Samuel 26:13 (context)
+
+- o1: וַ/יַּעֲבֹר = Hc "and" + H5674 עָבַר "to cross over…" [HC/Vqw3ms]
+- o2: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o3: הָ/עֵבֶר = Hd "the" + H5676 עֵבֶר "properly, a region across…" [HTd/Ncmsa]
+- o4: וַ/יַּעֲמֹד = Hc "and" + H5975 עָמַד "to stand…" [HC/Vqw3ms]
+- o5: עַל = H5921 עַל "above, over, upon…" [HR]
+- o6: רֹאשׁ = H7218 רֹאשׁ "the head (as most easily shaken)…" [HNcmsc]
+- o7: הָ/הָר = Hd "the" + H2022 הַר "a mountain or range of hills (sometimes used…" [HTd/Ncmsa]
+- o8: מֵ/רָחֹק = Hm "from" + H7350 רָחוֹק "remote, literally or figuratively…" [HR/Aamsa]
+- o9: רַב = H7227 רַב "abundant (in quantity, size, age, number, rank…" [HAamsa]
+- o10: הַ/מָּקוֹם = Hd "the" + H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HTd/Ncmsa]
+- o11: בֵּינֵי/הֶם = H996 בֵּין "between (repeated before each noun…" [HR/Sp3mp]

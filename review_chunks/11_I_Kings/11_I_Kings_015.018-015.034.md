@@ -1063,3 +1063,39 @@ Persian entries and current tags:
 - p31: سلوک
 - p32: می‌کرد  → H3212
 - p33: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 15:17 (context)
+
+- o1: וַ/יַּעַל = Hc "and" + H5927 עָלָה "to ascend…" [HC/Vqw3ms]
+- o2: בַּעְשָׁא = H1201 בַּעְשָׁא "Basha, a king of Israel" [HNp]
+- o3: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o4: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o5: עַל = H5921 עַל "above, over, upon…" [HR]
+- o6: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o7: וַ/יִּבֶן = Hc "and" + H1129 בָּנָה "to build (literally and figuratively)" [HC/Vqw3ms]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: הָ/רָמָה = Hd "the" + H7414 רָמָה "Ramah, the name of four places in Palestine" [HTd/Np]
+- o10: לְ/בִלְתִּי = Hl "to" + H1115 בִּלְתִּי "properly, a failure of…" [HR/C]
+- o11: תֵּת = H5414 נָתַן "to give…" [HVqc]
+- o12: יֹצֵא = H3318 יָצָא "to go (causatively, bring) out…" [HVqrmsa]
+- o13: וָ/בָא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqrmsa]
+- o14: לְ/אָסָא = Hl "to" + H609 אָסָא "Asa, the name of a king and of a Levite" [HR/Np]
+- o15: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o16: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+
+### I Kings 16:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o5: יֵהוּא = H3058 יֵהוּא "Jehu, the name of five Israelites" [HNp]
+- o6: בֶן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o7: חֲנָנִי = H2607 חֲנָנִי "Chanani, the name of six Israelites" [HNp]
+- o8: עַל = H5921 עַל "above, over, upon…" [HR]
+- o9: בַּעְשָׁא = H1201 בַּעְשָׁא "Basha, a king of Israel" [HNp]
+- o10: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

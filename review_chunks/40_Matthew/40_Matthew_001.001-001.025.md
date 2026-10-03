@@ -1226,3 +1226,30 @@ Persian entries and current tags:
 - p18: عیسی  → G2424
 - p19: نامید  → G2564
 - p20: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 2:1 (context)
+
+- o1: Τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: Ἰησοῦ = G2424 Ἰησοῦς "Jesus" [N-GSM]
+- o4: γεννηθέντος = G1080 γεννάω "bear, beget, be born, bring forth, conceive…" [V-APP-GSM]
+- o5: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o6: Βηθλέεμ = G965 Βηθλεέμ "Bethlehem" [N-PRI]
+- o7: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o8: Ἰουδαίας = G2449 Ἰουδαία "Judæa" [N-GSF]
+- o9: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o10: ἡμέραις = G2250 ἡμέρα "age, + alway, (mid-)day (by day, (-ly))…" [N-DPF]
+- o11: Ἡρῴδου = G2264 Ἡρώδης "Herod" [N-GSM]
+- o12: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o13: βασιλέως, = G935 βασιλεύς "king" [N-GSM]
+- o14: ἰδοὺ = G3708 ὁράω "behold, perceive, see, take heed" [V-2AMM-2S]
+- o15: μάγοι = G3097 μάγος "sorcerer, wise man" [N-NPM]
+- o16: ἀπὸ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
+- o17: ἀνατολῶν = G395 ἀνατολή "dayspring, east, rising" [N-GPF]
+- o18: παρεγένοντο = G3854 παραγίνομαι "come, go, be present" [V-2ADI-3P]
+- o19: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o20: Ἱεροσόλυμα = G2414 Ἱεροσόλυμα "Jerusalem" [N-APN]

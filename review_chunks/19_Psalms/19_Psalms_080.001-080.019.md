@@ -701,3 +701,34 @@ Persian entries and current tags:
 - p15: تا
 - p16: نجات یابیم  → H3467
 - p17: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 79:13 (context)
+
+- o1: וַ/אֲנַחְנוּ = Hc "and" + H587 אֲנַחְנוּ "we" [HC/Pp1cp]
+- o2: עַמְּ/ךָ = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp2ms]
+- o3: וְ/צֹאן = Hc "and" + H6629 צֹאן "a collective name for a flock (of sheep or goats)…" [HC/Ncbsc]
+- o4: מַרְעִיתֶ/ךָ = H4830 מִרְעִית "pasturage; concretely, a flock" [HNcfsc/Sp2ms]
+- o5: נוֹדֶה = H3034 יָדָה "physically, to throw (a stone…" [HVhi1cp]
+- o6: לְּ/ךָ = Hl "to" [HR/Sp2ms]
+- o7: לְ/עוֹלָם = Hl "to" + H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HR/Ncmsa]
+- o8: לְ/דֹר = Hl "to" + H1755 דּוֹר "properly, a revolution of time…" [HR/Ncmsa]
+- o9: וָ/דֹר = Hc "and" + H1755 דּוֹר "properly, a revolution of time…" [HC/Ncmsa]
+- o10: נְסַפֵּר = H5608 סָפַר "properly…" [HVpi1cp]
+- o11: תְּהִלָּתֶ/ךָ = H8416 תְּהִלָּה "laudation; specifically (concretely) a hymn" [HNcfsc/Sp2ms]
+
+### Psalms 81:1 (context)
+
+- o1: לַ/מְנַצֵּחַ = Hl "to" + H5329 נָצַח "properly, to glitter from afar…" [HRd/Vprmsa]
+- o2: עַל = H5921 עַל "above, over, upon…" [HR]
+- o3: הַ/גִּתִּית = Hd "the" + H1665 גִּתִּית "a Gittite harp" [HTd/Ncfsa]
+- o4: לְ/אָסָף = Hl "to" + H623 אָסָף "Asaph, the name of three Israelites…" [HR/Np]
+- o5: הַרְנִינוּ = H7442 רָנַן "properly, to creak (or emit a stridulous sound)…" [HVhv2mp]
+- o6: לֵ/אלֹהִים = Hl "to" + H430 אֱלֹהִים "gods in the ordinary sense…" [HR/Ncmpa]
+- o7: עוּזֵּ/נוּ = H5797 עֹז "strength in various applications (force, security…" [HNcmsc/Sp1cp]
+- o8: הָרִיעוּ = H7321 רוּעַ "to mar (especially by breaking)…" [HVhv2mp]
+- o9: לֵ/אלֹהֵי = Hl "to" + H430 אֱלֹהִים "gods in the ordinary sense…" [HR/Ncmpc]
+- o10: יַעֲקֹב = H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HNp]

@@ -509,3 +509,30 @@ Persian entries and current tags:
 - p22: استوار
 - p23: می‌مانند
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 29:14 (context)
+
+- o1: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsa]
+- o2: שׁוֹפֵט = H8199 שָׁפַט "to judge…" [HVqrmsa]
+- o3: בֶּ/אֱמֶת = Hb "in" + H571 אֶמֶת "stability…" [HR/Ncfsa]
+- o4: דַּלִּים = H1800 דַּל "properly, dangling…" [HAampa]
+- o5: כִּסְא/וֹ = H3678 כִּסֵּא "properly, covered, i.e. a throne (as canopied)" [HNcmsc/Sp3ms]
+- o6: לָ/עַד = Hl "to" + H5703 עַד "properly, a (peremptory) terminus…" [HR/Ncmsa]
+- o7: יִכּוֹן = H3559 כּוּן "properly, to be erect (i.e. stand perpendicular)…" [HVNi3ms]
+
+### Proverbs 30:1 (context)
+
+- o1: דִּבְרֵי = H1697 דָּבָר "a word…" [HNcmpc]
+- o2: אָגוּר = H94 אָגוּר "Agur, a fanciful name for Solomon" [HNp]
+- o3: בִּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o4: יָקֶה = H3348 יָקֶה "Jakeh, a symbolical name (for Solomon)" [HNp]
+- o5: הַ/מַּשָּׂא = Hd "the" + H4853 מַשָּׂא "a burden…" [HTd/Ncmsa]
+- o6: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o7: הַ/גֶּבֶר = Hd "the" + H1397 גֶּבֶר "properly, a valiant man or warrior…" [HTd/Ncmsa]
+- o8: לְ/אִיתִיאֵל = Hl "to" + H384 אִיתִיאֵל "Ithiel, the name of an Israelite…" [HR/Np]
+- o9: לְ/אִיתִיאֵל = Hl "to" + H384 אִיתִיאֵל "Ithiel, the name of an Israelite…" [HR/Np]
+- o10: וְ/אֻכָל = Hc "and" + H401 אֻכָל "Ucal, a fancy name" [HC/Np]

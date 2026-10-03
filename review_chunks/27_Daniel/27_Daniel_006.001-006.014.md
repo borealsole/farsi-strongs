@@ -919,3 +919,44 @@ Persian entries and current tags:
 - p26: او
 - p27: می‌کوشید  → H7712
 - p28: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Daniel 5:31 (context)
+
+- o1: וְ/דָרְיָוֶשׁ = Hc "and" + H1868 דָּרְיָוֵשׁ "Darejavesh…" [AC/Np]
+- o2: מָדָיָ/א = H4077 מָדַי "a Madian or native of Madai" [ANgmsd/Td]
+- o3: קַבֵּל = H6902 קְבַל "to acquire" [AVpp3ms]
+- o4: מַלְכוּתָ/א = H4437 מַלְכוּ "dominion (abstractly or concretely)" [ANcfsd/Td]
+- o5: כְּ/בַר = Hk "like" + H1247 בַּר "a son, grandson, etc" [AR/Ncmsc]
+- o6: שְׁנִין = H8140 שְׁנָה "a year (as a revolution of time)" [ANcfpa]
+- o7: שִׁתִּין = H8361 שִׁתִּין "sixty" [AAcbpa]
+- o8: וְ/תַרְתֵּין = Hc "and" + H8648 תְּרֵין "two" [AC/Acbpa]
+
+### Daniel 6:15 (context)
+
+- o1: בֵּ/אדַיִן = Hb "in" + H116 אֱדַיִן "then (of time)" [AR/D]
+- o2: גֻּבְרַיָּ/א = H1400 גְּבַר "a person" [ANcmpd/Td]
+- o3: אִלֵּךְ = H479 אִלֵּךְ "these" [APdxmp]
+- o4: הַרְגִּשׁוּ = H7284 רְגַשׁ "to gather tumultuously" [AVhp3mp]
+- o5: עַל = H5922 עַל "above, over, upon…" [AR]
+- o6: מַלְכָּ/א = H4430 מֶלֶךְ "a king" [ANcmsd/Td]
+- o7: וְ/אָמְרִין = Hc "and" + H560 אֲמַר "to say (used with great latitude)" [AC/Vqrmpa]
+- o8: לְ/מַלְכָּ/א = Hl "to" + H4430 מֶלֶךְ "a king" [AR/Ncmsd/Td]
+- o9: דַּע = H3046 יְדַע "to know (properly, to ascertain by seeing)…" [AVqv2ms]
+- o10: מַלְכָּ/א = H4430 מֶלֶךְ "a king" [ANcmsd/Td]
+- o11: דִּי = H1768 דִּי "that, used as relative conjunction…" [ATr]
+- o12: דָת = H1882 דָּת "a royal edict or statute" [ANcfsa]
+- o13: לְ/מָדַי = Hl "to" + H4076 מָדַי "Madai, a country of central Asia" [AR/Np]
+- o14: וּ/פָרַס = Hc "and" + H6540 פָּרַס "Paras (i.e. Persia), an Eastern country…" [AC/Np]
+- o15: דִּי = H1768 דִּי "that, used as relative conjunction…" [ATr]
+- o16: כָל = H3606 כֹּל "properly, the whole…" [ANcmsc]
+- o17: אֱסָר = H633 אֱסָר "an interdict" [ANcmsc]
+- o18: וּ/קְיָם = Hc "and" + H7010 קְיָם "an edict (as arising in law)" [AC/Ncmsa]
+- o19: דִּי = H1768 דִּי "that, used as relative conjunction…" [ATr]
+- o20: מַלְכָּ/א = H4430 מֶלֶךְ "a king" [ANcmsd/Td]
+- o21: יְהָקֵים = H6966 קוּם "to rise (in various applications, literal…" [AVhi3ms]
+- o22: לָא = H3809 לָא "not (the simple or abs. negation)…" [ATn]
+- o23: לְ/הַשְׁנָיָה = Hl "to" + H8133 שְׁנָא "to alter" [AR/Vhc]

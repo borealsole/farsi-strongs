@@ -1337,3 +1337,38 @@ Persian entries and current tags:
 - p47: .
 - p48: “
 - p49: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Zechariah 11:17 (context)
+
+- o1: הוֹי = H1945 הוֹי "oh!" [HTj]
+- o2: רֹעִי = H7473 רֹעִי "pastoral; as noun, a shepherd" [HVqrmsc]
+- o3: הָ/אֱלִיל = Hd "the" + H457 אֱלִיל "good for nothing, by anal. vain or vanity…" [HTd/Ncmsa]
+- o4: עֹזְבִי = H5800 עָזַב "to loosen, i.e. relinquish, permit, etc" [HVqrmsc]
+- o5: הַ/צֹּאן = Hd "the" + H6629 צֹאן "a collective name for a flock (of sheep or goats)…" [HTd/Ncbsa]
+- o6: חֶרֶב = H2719 חֶרֶב "drought…" [HNcfsa]
+- o7: עַל = H5921 עַל "above, over, upon…" [HR]
+- o8: זְרוֹע/וֹ = H2220 זְרוֹעַ "the arm (as stretched out)…" [HNcbsc/Sp3ms]
+- o9: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o10: עֵין = H5869 עַיִן "an eye (literally or figuratively)…" [HNcbsc]
+- o11: יְמִינ/וֹ = H3225 יָמִין "the right hand or side (leg…" [HNcfsc/Sp3ms]
+- o12: זְרֹע/וֹ = H2220 זְרוֹעַ "the arm (as stretched out)…" [HNcbsc/Sp3ms]
+- o13: יָבוֹשׁ = H3001 יָבֵשׁ "to be ashamed, confused or disappointed…" [HVqa]
+- o14: תִּיבָשׁ = H3001 יָבֵשׁ "to be ashamed, confused or disappointed…" [HVqi3fs]
+- o15: וְ/עֵין = Hc "and" + H5869 עַיִן "an eye (literally or figuratively)…" [HC/Ncbsc]
+- o16: יְמִינ/וֹ = H3225 יָמִין "the right hand or side (leg…" [HNcfsc/Sp3ms]
+- o17: כָּהֹה = H3543 כָּהָה "to be weak…" [HVqa]
+- o18: תִכְהֶה = H3543 כָּהָה "to be weak…" [HVqi3fs]
+
+### Zechariah 14:1 (context)
+
+- o1: הִנֵּה = H2009 הִנֵּה "lo!" [HTm]
+- o2: יוֹם = H3117 יוֹם "a day (as the warm hours)…" [HNcmsa]
+- o3: בָּא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqrmsa]
+- o4: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o5: וְ/חֻלַּק = Hc "and" + H2505 חָלַק "to be smooth (figuratively)…" [HC/VPq3ms]
+- o6: שְׁלָלֵ/ךְ = H7998 שָׁלָל "booty" [HNcmsc/Sp3fs]
+- o7: בְּ/קִרְבֵּ/ךְ = Hb "in" + H7130 קֶרֶב "properly, the nearest part, i.e. the center…" [HR/Ncmsc/Sp2fs]

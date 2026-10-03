@@ -1163,3 +1163,28 @@ Persian entries and current tags:
 - p20: ،
 - p21: یاجور  → H3017
 - p22: ،
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Joshua 14:15 (context)
+
+- o1: וְ/שֵׁם = Hc "and" + H8034 שֵׁם "an appellation…" [HC/Ncmsc]
+- o2: חֶבְרוֹן = H2275 חֶבְרוֹן "Chebron, a place in Palestine…" [HNp]
+- o3: לְ/פָנִים = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpa]
+- o4: קִרְיַת = H7153 קִרְיַת אַרְבַּע "Kirjath-Arba or Kirjath-ha-Arba…" [HNp]
+- o5: אַרְבַּע = H7153 קִרְיַת אַרְבַּע "Kirjath-Arba or Kirjath-ha-Arba…" [HAcfsa]
+- o6: הָ/אָדָם = Hd "the" + H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HTd/Ncmsa]
+- o7: הַ/גָּדוֹל = Hd "the" + H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HTd/Aamsa]
+- o8: בָּ/עֲנָקִים = Hb "in" + H6062 עֲנָקִי "an Anakite or descendant of Anak" [HRd/Ngmpa]
+- o9: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o10: וְ/הָ/אָרֶץ = Hc "and" + Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HC/Td/Ncbsa]
+- o11: שָׁקְטָה = H8252 שָׁקַט "to repose (usually figurative)" [HVqp3fs]
+- o12: מִ/מִּלְחָמָה = Hm "from" + H4421 מִלְחָמָה "a battle (i.e. the engagement)…" [HR/Ncfsa]
+
+### Joshua 15:22 (context)
+
+- o1: וְ/קִינָה = Hc "and" + H7016 קִינָה "Kinah, a place in Palestine" [HC/Np]
+- o2: וְ/דִימוֹנָה = Hc "and" + H1776 דִּימוֹנָה "Dimonah, a place in Palestine" [HC/Np]
+- o3: וְ/עַדְעָדָה = Hc "and" + H5735 עֲדְעָדָה "Adadah, a place in Palestine" [HC/Np]

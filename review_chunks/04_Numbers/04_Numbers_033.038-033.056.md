@@ -820,3 +820,26 @@ Persian entries and current tags:
 - p10: کنم
 - p11: !
 - p12: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 33:37 (context)
+
+- o1: וַ/יִּסְעוּ = Hc "and" + H5265 נָסַע "properly, to pull up, especially the tent-pins…" [HC/Vqw3mp]
+- o2: מִ/קָּדֵשׁ = Hm "from" + H6946 קָדֵשׁ "Kadesh, a place in the Desert" [HR/Np]
+- o3: וַ/יַּחֲנוּ = Hc "and" + H2583 חָנָה "properly, to incline…" [HC/Vqw3mp]
+- o4: בְּ/הֹר = Hb "in" + H2023 הֹר "Hor…" [HR/Np]
+- o5: הָ/הָר = Hd "the" + H2022 הַר "a mountain or range of hills (sometimes used…" [HTd/Ncmsa]
+- o6: בִּ/קְצֵה = Hb "in" + H7097 קָצֶה "an extremity" [HR/Ncbsc]
+- o7: אֶרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsc]
+- o8: אֱדוֹם = H123 אֱדֹם "Edom, the elder twin-brother of Jacob…" [HNp]
+
+### Numbers 34:1 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: לֵּ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

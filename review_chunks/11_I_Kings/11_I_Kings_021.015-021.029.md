@@ -866,3 +866,29 @@ Persian entries and current tags:
 - p40: فرود خواهم_آورد  → H935
 - p41: .
 - p42: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 21:14 (context)
+
+- o1: וַ/יִּשְׁלְחוּ = Hc "and" + H7971 שָׁלַח "to send away, for…" [HC/Vqw3mp]
+- o2: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o3: אִיזֶבֶל = H348 אִיזֶבֶל "Izebel, the wife of king Ahab" [HNp]
+- o4: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o5: סֻקַּל = H5619 סָקַל "properly, to be weighty…" [HVPp3ms]
+- o6: נָבוֹת = H5022 נָבוֹת "Naboth, an Israelite" [HNp]
+- o7: וַ/יָּמֹת = Hc "and" + H4191 מוּת "to die (literally or figuratively)…" [HC/Vqw3ms]
+
+### I Kings 22:1 (context)
+
+- o1: וַ/יֵּשְׁבוּ = Hc "and" + H3427 יָשַׁב "properly…" [HC/Vqw3mp]
+- o2: שָׁלֹשׁ = H7969 שָׁלוֹשׁ "three…" [HAcfsa]
+- o3: שָׁנִים = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfpa]
+- o4: אֵין = H369 אַיִן "a non-entity…" [HTn]
+- o5: מִלְחָמָה = H4421 מִלְחָמָה "a battle (i.e. the engagement)…" [HNcfsa]
+- o6: בֵּין = H996 בֵּין "between (repeated before each noun…" [HR]
+- o7: אֲרָם = H758 אֲרָם "Aram or Syria, and its inhabitants…" [HNp]
+- o8: וּ/בֵין = Hc "and" + H996 בֵּין "between (repeated before each noun…" [HC/R]
+- o9: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]

@@ -1039,3 +1039,50 @@ Persian entries and current tags:
 - p24: بیرون  → H3423
 - p25: براند
 - p26: ،
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 31:54 (context)
+
+- o1: וַ/יִּקַּח = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqw3ms]
+- o2: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o3: וְ/אֶלְעָזָר = Hc "and" + H499 אֶלְעָזָר "Elazar, the name of seven Israelites" [HC/Np]
+- o4: הַ/כֹּהֵן = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmsa]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: הַ/זָּהָב = Hd "the" + H2091 זָהָב "gold, figuratively…" [HTd/Ncmsa]
+- o7: מֵ/אֵת = Hm "from" + H854 אֵת "properly…" [HR/R]
+- o8: שָׂרֵי = H8269 שַׂר "a head person (of any rank or class)" [HNcmpc]
+- o9: הָ/אֲלָפִים = Hd "the" + H505 אֶלֶף "hence (the ox's head being the first letter of…" [HTd/Acbpa]
+- o10: וְ/הַ/מֵּאוֹת = Hc "and" + Hd "the" + H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HC/Td/Acbpa]
+- o11: וַ/יָּבִאוּ = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vhw3mp]
+- o12: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o13: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o14: אֹהֶל = H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HNcmsc]
+- o15: מוֹעֵד = H4150 מוֹעֵד "properly, an appointment…" [HNcmsa]
+- o16: זִכָּרוֹן = H2146 זִכְרוֹן "a memento (or memorable thing, day or writing)" [HNcmsa]
+- o17: לִ/בְנֵי = Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmpc]
+- o18: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o19: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o20: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### Numbers 32:22 (context)
+
+- o1: וְ/נִכְבְּשָׁה = Hc "and" + H3533 כָּבַשׁ "to tread down; hence, negatively, to disregard…" [HC/VNq3fs]
+- o2: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o3: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: וְ/אַחַר = Hc "and" + H310 אַחַר "properly, the hind part…" [HC/D]
+- o6: תָּשֻׁבוּ = H7725 שׁוּב "to turn back (hence…" [HVqi2mp]
+- o7: וִ/הְיִיתֶם = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq2mp]
+- o8: נְקִיִּים = H5355 נָקִי "innocent" [HAampa]
+- o9: מֵ/יְהוָה = Hm "from" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o10: וּ/מִ/יִּשְׂרָאֵל = Hc "and" + Hm "from" + H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HC/R/Np]
+- o11: וְ/הָיְתָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3fs]
+- o12: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o13: הַ/זֹּאת = Hd "the" + H2063 זֹאת "this (often used adverb)" [HTd/Pdxfs]
+- o14: לָ/כֶם = Hl "to" [HR/Sp2mp]
+- o15: לַ/אֲחֻזָּה = Hl "to" + H272 אֲחֻזָּה "something seized…" [HR/Ncfsa]
+- o16: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o17: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]

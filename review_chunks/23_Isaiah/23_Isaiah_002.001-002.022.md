@@ -996,3 +996,39 @@ Persian entries and current tags:
 - p17: چه  → H4100
 - p18: چیز محسوب می‌شود  → H2803
 - p19: ؟
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 1:31 (context)
+
+- o1: וְ/הָיָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3ms]
+- o2: הֶ/חָסֹן = Hd "the" + H2634 חָסֹן "powerful" [HTd/Aamsa]
+- o3: לִ/נְעֹרֶת = Hl "to" + H5296 נְעֹרֶת "something shaken out…" [HR/Ncfsa]
+- o4: וּ/פֹעֲל/וֹ = Hc "and" + H6467 פֹּעַל "an act or work (concretely)" [HC/Ncmsc/Sp3ms]
+- o5: לְ/נִיצוֹץ = Hl "to" + H5213 נִיצוֹץ "a spark" [HR/Ncmsa]
+- o6: וּ/בָעֲרוּ = Hc "and" + H1197 בָּעַר "to kindle, i.e. consume (by fire or by eating)…" [HC/Vqq3cp]
+- o7: שְׁנֵי/הֶם = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmdc/Sp3mp]
+- o8: יַחְדָּו = H3162 יַחַד "properly, a unit, i.e. (adverb) unitedly" [HD]
+- o9: וְ/אֵין = Hc "and" + H369 אַיִן "a non-entity…" [HC/Tn]
+- o10: מְכַבֶּה = H3518 כָּבָה "to expire or (causatively) to extinguish (fire…" [HVprmsa]
+
+### Isaiah 3:1 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: הִנֵּה = H2009 הִנֵּה "lo!" [HTm]
+- o3: הָ/אָדוֹן = Hd "the" + H113 אָדוֹן "sovereign, i.e. controller (human or divine)" [HTd/Ncmsa]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: צְבָאוֹת = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbpa]
+- o6: מֵסִיר = H5493 סוּר "to turn off (literal or figurative)" [HVhrmsa]
+- o7: מִ/ירוּשָׁלִַם = Hm "from" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HR/Np]
+- o8: וּ/מִ/יהוּדָה = Hc "and" + Hm "from" + H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HC/R/Np]
+- o9: מַשְׁעֵן = H4937 מִשְׁעֵן "a support (concretely)…" [HNcmsa]
+- o10: וּ/מַשְׁעֵנָה = Hc "and" + H4938 מִשְׁעֵנָה "support (abstractly)…" [HC/Ncfsa]
+- o11: כֹּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o12: מִשְׁעַן = H4937 מִשְׁעֵן "a support (concretely)…" [HNcmsc]
+- o13: לֶחֶם = H3899 לֶחֶם "food (for man or beast), especially bread…" [HNcbsa]
+- o14: וְ/כֹל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o15: מִשְׁעַן = H4937 מִשְׁעֵן "a support (concretely)…" [HNcmsc]
+- o16: מָיִם = H4325 מַיִם "water; figuratively, juice…" [HNcmpa]

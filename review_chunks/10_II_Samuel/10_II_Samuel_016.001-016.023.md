@@ -1385,3 +1385,36 @@ Persian entries and current tags:
 - p32: بدین‌گونه
 - p33: بود
 - p34: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 15:37 (context)
+
+- o1: וַ/יָּבֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3ms]
+- o2: חוּשַׁי = H2365 חוּשַׁי "Chushai, an Israelite" [HNp]
+- o3: רֵעֶה = H7463 רֵעֶה "a (male) companion" [HNcmsc]
+- o4: דָוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o5: הָ/עִיר = Hd "the" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HTd/Ncfsa]
+- o6: וְ/אַבְשָׁלֹם = Hc "and" + H53 אֲבִישָׁלוֹם "Abshalom, a son of David…" [HC/Np]
+- o7: יָבֹא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqi3ms]
+- o8: יְרוּשָׁלִָם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+
+### II Samuel 17:1 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: אֲחִיתֹפֶל = H302 אֲחִיתֹפֶל "Achithophel, an Israelite" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: אַבְשָׁלֹם = H53 אֲבִישָׁלוֹם "Abshalom, a son of David…" [HNp]
+- o5: אֶבְחֲרָה = H977 בָּחַר "properly, to try, i.e. (by implication) select" [HVqh1cs]
+- o6: נָּא = H4994 נָא "'I pray', 'now', or 'then'…" [HTj]
+- o7: שְׁנֵים = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmda]
+- o8: עָשָׂר = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcmsa]
+- o9: אֶלֶף = H505 אֶלֶף "hence (the ox's head being the first letter of…" [HAcbsa]
+- o10: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o11: וְ/אָקוּמָה = Hc "and" + H6965 קוּם "to rise (in various applications, literal…" [HC/Vqh1cs]
+- o12: וְ/אֶרְדְּפָה = Hc "and" + H7291 רָדַף "to run after (usually with hostile intent…" [HC/Vqh1cs]
+- o13: אַחֲרֵי = H310 אַחַר "properly, the hind part…" [HR]
+- o14: דָוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o15: הַ/לָּיְלָה = Hd "the" + H3915 לַיִל "properly, a twist (away of the light), i.e. night…" [HTd/Ncmsa]

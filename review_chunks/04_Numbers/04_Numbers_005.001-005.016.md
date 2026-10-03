@@ -852,3 +852,49 @@ Persian entries and current tags:
 - p13: پا
 - p14: دارد
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 4:49 (context)
+
+- o1: עַל = H5921 עַל "above, over, upon…" [HR]
+- o2: פִּי = H6310 פֶּה "the mouth (as the means of blowing)…" [HNcmsc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: פָּקַד = H6485 פָּקַד "to visit (with friendly or hostile intent)…" [HVqp3ms]
+- o5: אוֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o6: בְּ/יַד = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o7: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o8: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o9: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o10: עַל = H5921 עַל "above, over, upon…" [HR]
+- o11: עֲבֹדָת/וֹ = H5656 עֲבֹדָה "work of any kind" [HNcfsc/Sp3ms]
+- o12: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o13: מַשָּׂא/וֹ = H4853 מַשָּׂא "a burden…" [HNcmsc/Sp3ms]
+- o14: וּ/פְקֻדָי/ו = Hc "and" + H6485 פָּקַד "to visit (with friendly or hostile intent)…" [HC/Vqsmpc/Sp3ms]
+- o15: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o16: צִוָּה = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp3ms]
+- o17: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o18: אֶת = H853 אֵת "properly…" [HTo]
+- o19: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+
+### Numbers 5:17 (context)
+
+- o1: וְ/לָקַח = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqq3ms]
+- o2: הַ/כֹּהֵן = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmsa]
+- o3: מַיִם = H4325 מַיִם "water; figuratively, juice…" [HNcmpa]
+- o4: קְדֹשִׁים = H6918 קָדוֹשׁ "sacred (ceremonially or morally)…" [HAampa]
+- o5: בִּ/כְלִי = Hb "in" + H3627 כְּלִי "something prepared…" [HR/Ncmsc]
+- o6: חָרֶשׂ = H2789 חֶרֶשׂ "a piece of pottery" [HNcmsa]
+- o7: וּ/מִן = Hc "and" + H4480 מִן "properly, a part of…" [HC/R]
+- o8: הֶ/עָפָר = Hd "the" + H6083 עָפָר "dust (as powdered or gray)…" [HTd/Ncmsa]
+- o9: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o10: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o11: בְּ/קַרְקַע = Hb "in" + H7172 קַרְקַע "floor (as if a pavement of pieces or tesseroe)…" [HR/Ncmsc]
+- o12: הַ/מִּשְׁכָּן = Hd "the" + H4908 מִשְׁכָּן "a residence (including a shepherd's hut…" [HTd/Ncmsa]
+- o13: יִקַּח = H3947 לָקַח "to take (in the widest variety of applications)" [HVqi3ms]
+- o14: הַ/כֹּהֵן = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmsa]
+- o15: וְ/נָתַן = Hc "and" + H5414 נָתַן "to give…" [HC/Vqq3ms]
+- o16: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o17: הַ/מָּיִם = Hd "the" + H4325 מַיִם "water; figuratively, juice…" [HTd/Ncmpa]

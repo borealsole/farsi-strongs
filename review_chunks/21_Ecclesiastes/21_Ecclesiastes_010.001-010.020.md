@@ -840,3 +840,31 @@ Persian entries and current tags:
 - p31: خبر  → H5046 H1697
 - p32: رسانَد
 - p33: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ecclesiastes 9:18 (context)
+
+- o1: טוֹבָה = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAafsa]
+- o2: חָכְמָה = H2451 חׇכְמָה "wisdom (in a good sense)" [HNcfsa]
+- o3: מִ/כְּלֵי = Hm "from" + H3627 כְּלִי "something prepared…" [HR/Ncmpc]
+- o4: קְרָב = H7128 קְרָב "hostile encounter" [HNcmsa]
+- o5: וְ/חוֹטֶא = Hc "and" + H2398 חָטָא "properly, to miss…" [HC/Vqrmsa]
+- o6: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o7: יְאַבֵּד = H6 אָבַד "properly, to wander away, i.e. lose oneself…" [HVpi3ms]
+- o8: טוֹבָה = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAafsa]
+- o9: הַרְבֵּה = H7235 רָבָה "to increase (in whatever respect)" [HVha]
+
+### Ecclesiastes 11:1 (context)
+
+- o1: שַׁלַּח = H7971 שָׁלַח "to send away, for…" [HVpv2ms]
+- o2: לַחְמְ/ךָ = H3899 לֶחֶם "food (for man or beast), especially bread…" [HNcbsc/Sp2ms]
+- o3: עַל = H5921 עַל "above, over, upon…" [HR]
+- o4: פְּנֵי = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc]
+- o5: הַ/מָּיִם = Hd "the" + H4325 מַיִם "water; figuratively, juice…" [HTd/Ncmpa]
+- o6: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o7: בְ/רֹב = Hb "in" + H7230 רֹב "abundance (in any respect)" [HR/Ncbsc]
+- o8: הַ/יָּמִים = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmpa]
+- o9: תִּמְצָאֶ/נּוּ = H4672 מָצָא "properly, to come forth to, i.e. appear or exist…" [HVqi2ms/Sp3ms]

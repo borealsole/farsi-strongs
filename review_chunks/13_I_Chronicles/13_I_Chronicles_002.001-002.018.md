@@ -678,3 +678,31 @@ Persian entries and current tags:
 - p24: و  → Hc
 - p25: اَردون  → H715
 - p26: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 1:54 (context)
+
+- o1: אַלּוּף = H441 אַלּוּף "familiar; a friend, also gentle…" [HNcmsa]
+- o2: מַגְדִּיאֵל = H4025 מַגְדִּיאֵל "Magdiel, an Idumaean" [HNp]
+- o3: אַלּוּף = H441 אַלּוּף "familiar; a friend, also gentle…" [HNcmsa]
+- o4: עִירָם = H5902 עִירָם "Iram, an Idumaean" [HNp]
+- o5: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o6: אַלּוּפֵי = H441 אַלּוּף "familiar; a friend, also gentle…" [HNcmpc]
+- o7: אֱדוֹם = H123 אֱדֹם "Edom, the elder twin-brother of Jacob…" [HNp]
+
+### I Chronicles 2:19 (context)
+
+- o1: וַ/תָּמָת = Hc "and" + H4191 מוּת "to die (literally or figuratively)…" [HC/Vqw3fs]
+- o2: עֲזוּבָה = H5806 עֲזוּבָה "Azubah, the name of two Israelitesses" [HNp]
+- o3: וַ/יִּקַּח = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqw3ms]
+- o4: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o5: כָלֵב = H3612 כָּלֵב "Caleb, the name of three Israelites" [HNp]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: אֶפְרָת = H672 אֶפְרָת "Ephrath, another name for Bethlehem" [HNp]
+- o8: וַ/תֵּלֶד = Hc "and" + H3205 יָלַד "to bear young; causatively, to beget…" [HC/Vqw3fs]
+- o9: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o10: אֶת = H853 אֵת "properly…" [HTo]
+- o11: חוּר = H2354 חוּר "Chur…" [HNp]

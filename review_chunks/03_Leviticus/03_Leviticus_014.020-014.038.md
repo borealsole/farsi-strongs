@@ -1004,3 +1004,35 @@ Persian entries and current tags:
 - p17: روز  → H3117
 - p18: ببندد  → H5462
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 14:19 (context)
+
+- o1: וְ/עָשָׂה = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqq3ms]
+- o2: הַ/כֹּהֵן = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmsa]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: הַ/חַטָּאת = Hd "the" + H2403 חַטָּאָה "an offence (sometimes habitual sinfulness)…" [HTd/Ncfsa]
+- o5: וְ/כִפֶּר = Hc "and" + H3722 כָּפַר "to cover (specifically with bitumen)…" [HC/Vpq3ms]
+- o6: עַל = H5921 עַל "above, over, upon…" [HR]
+- o7: הַ/מִּטַּהֵר = Hd "the" + H2891 טָהֵר "to be pure (physical sound, clear, unadulterated…" [HTd/Vtrmsa]
+- o8: מִ/טֻּמְאָת/וֹ = Hm "from" + H2932 טֻמְאָה "religious impurity" [HR/Ncfsc/Sp3ms]
+- o9: וְ/אַחַר = Hc "and" + H310 אַחַר "properly, the hind part…" [HC/D]
+- o10: יִשְׁחַט = H7819 שָׁחַט "to slaughter (in sacrifice or massacre)" [HVqi3ms]
+- o11: אֶת = H853 אֵת "properly…" [HTo]
+- o12: הָ/עֹלָה = Hd "the" + H5930 עֹלָה "a step or (collectively, stairs, as ascending)…" [HTd/Ncfsa]
+
+### Leviticus 14:39 (context)
+
+- o1: וְ/שָׁב = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqq3ms]
+- o2: הַ/כֹּהֵן = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmsa]
+- o3: בַּ/יּוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
+- o4: הַ/שְּׁבִיעִי = Hd "the" + H7637 שְׁבִיעִי "seventh" [HTd/Aomsa]
+- o5: וְ/רָאָה = Hc "and" + H7200 רָאָה "to see…" [HC/Vqq3ms]
+- o6: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o7: פָּשָׂה = H6581 פָּשָׂה "to spread" [HVqp3ms]
+- o8: הַ/נֶּגַע = Hd "the" + H5061 נֶגַע "a blow (figuratively, infliction)…" [HTd/Ncmsa]
+- o9: בְּ/קִירֹת = Hb "in" + H7023 קִיר "a wall (as built in a trench)" [HR/Ncmpc]
+- o10: הַ/בָּיִת = Hd "the" + H1004 בַּיִת "a house (in the greatest variation of…" [HTd/Ncmsa]

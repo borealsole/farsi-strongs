@@ -727,3 +727,29 @@ Persian entries and current tags:
 - p20: می‌دهیم
 - p21: !
 - p22: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 126:6 (context)
+
+- o1: הָלוֹךְ = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVqa]
+- o2: יֵלֵךְ = H3212 יָלַךְ "to walk (literally or figuratively)…" [HVqi3ms]
+- o3: וּ/בָכֹה = Hc "and" + H1058 בָּכָה "to weep; generally to bemoan" [HC/Vqa]
+- o4: נֹשֵׂא = H5375 נָשָׂא "to lift, in a great variety of applications…" [HVqrmsa]
+- o5: מֶשֶׁךְ = H4901 מֶשֶׁךְ "a sowing; also a possession" [HNcmsc]
+- o6: הַ/זָּרַע = Hd "the" + H2233 זֶרַע "seed…" [HTd/Ncmsa]
+- o7: בֹּא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqa]
+- o8: יָבוֹא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqi3ms]
+- o9: בְ/רִנָּה = Hb "in" + H7440 רִנָּה "properly, a creaking (or shrill sound)…" [HR/Ncfsa]
+- o10: נֹשֵׂא = H5375 נָשָׂא "to lift, in a great variety of applications…" [HVqrmsa]
+- o11: אֲלֻמֹּתָי/ו = H485 אֲלֻמָּה "something bound; a sheaf" [HNcfpc/Sp3ms]
+
+### Psalms 130:1 (context)
+
+- o1: שִׁיר = H7892 שִׁיר "a song; abstractly, singing" [HNcbsc]
+- o2: הַ/מַּעֲלוֹת = Hd "the" + H4609 מַעֲלָה "elevation, i.e. the act (literally…" [HTd/Ncfpa]
+- o3: מִ/מַּעֲמַקִּים = Hm "from" + H4615 מַעֲמָק "a deep" [HR/Ncmpa]
+- o4: קְרָאתִי/ךָ = H7121 קָרָא "to call out to (i.e. properly, address by name…" [HVqp1cs/Sp2ms]
+- o5: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]

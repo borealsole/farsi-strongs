@@ -1079,3 +1079,38 @@ Persian entries and current tags:
 - p14: بتها
 - p15: تسلیم کردی  → H5414
 - p16: ؟
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 15:8 (context)
+
+- o1: וְ/נָתַתִּי = Hc "and" + H5414 נָתַן "to give…" [HC/Vqq1cs]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o4: שְׁמָמָה = H8077 שְׁמָמָה "devastation; figuratively, astonishment" [HNcfsa]
+- o5: יַעַן = H3282 יַעַן "properly, heed…" [HC]
+- o6: מָעֲלוּ = H4603 מָעַל "properly, to cover up…" [HVqp3cp]
+- o7: מַעַל = H4604 מַעַל "treachery, i.e. sin" [HNcmsa]
+- o8: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o9: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o10: יְהוִה = H3069 יְהֹוִה "YHWH" [HNp]
+
+### Ezekiel 16:22 (context)
+
+- o1: וְ/אֵת = Hc "and" + H854 אֵת "properly…" [HC/R]
+- o2: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: תּוֹעֲבֹתַיִ/ךְ = H8441 תּוֹעֵבַה "properly, something disgusting (morally)…" [HNcfpc/Sp2fs]
+- o4: וְ/תַזְנֻתַיִ/ךְ = Hc "and" + H8457 תַּזְנוּת "harlotry, i.e. (figuratively) idolatry" [HC/Ncfpc/Sp2fs]
+- o5: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o6: זכרתי = H2142 זָכַר "properly, to mark (so as to be recognized)…" [HVqp2fs]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: יְמֵי = H3117 יוֹם "a day (as the warm hours)…" [HNcmpc]
+- o9: נְעוּרָיִ/ךְ = H5271 נָעוּר "only in plural collectively or emphatic form)…" [HNcbpc/Sp2fs]
+- o10: בִּ/הְיוֹתֵ/ךְ = Hb "in" + H1961 הָיָה "to exist, i.e. be or become…" [HR/Vqc/Sp2fs]
+- o11: עֵרֹם = H5903 עֵירֹם "nudity" [HAamsa]
+- o12: וְ/עֶרְיָה = Hc "and" + H6181 עֶרְיָה "nudity" [HC/Ncfsa]
+- o13: מִתְבּוֹסֶסֶת = H947 בּוּס "to trample (literally or figuratively)" [HVrrfsa]
+- o14: בְּ/דָמֵ/ךְ = Hb "in" + H1818 דָּם "blood (as that which when shed causes death) of…" [HR/Ncmsc/Sp2fs]
+- o15: הָיִית = H1961 הָיָה "to exist, i.e. be or become…" [HVqp2fs]

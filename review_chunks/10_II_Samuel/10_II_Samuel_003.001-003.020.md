@@ -1118,3 +1118,57 @@ Persian entries and current tags:
 - p22: پا
 - p23: داشت  → H6213
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 2:32 (context)
+
+- o1: וַ/יִּשְׂאוּ = Hc "and" + H5375 נָשָׂא "to lift, in a great variety of applications…" [HC/Vqw3mp]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: עֲשָׂהאֵל = H6214 עֲשָׂהאֵל "Asahel, the name of four Israelites" [HNp]
+- o4: וַ/יִּקְבְּרֻ/הוּ = Hc "and" + H6912 קָבַר "to inter" [HC/Vqw3mp/Sp3ms]
+- o5: בְּ/קֶבֶר = Hb "in" + H6913 קֶבֶר "a sepulchre" [HR/Ncmsc]
+- o6: אָבִי/ו = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp3ms]
+- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o8: בֵּית = H1035 בֵּית לֶחֶם "Beth-Lechem, a place in Palestine" [HNp]
+- o9: לָחֶם = H1035 בֵּית לֶחֶם "Beth-Lechem, a place in Palestine" [HNp]
+- o10: וַ/יֵּלְכוּ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3mp]
+- o11: כָל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o12: הַ/לַּיְלָה = Hd "the" + H3915 לַיִל "properly, a twist (away of the light), i.e. night…" [HTd/Ncmsa]
+- o13: יוֹאָב = H3097 יוֹאָב "Joab, the name of three Israelites" [HNp]
+- o14: וַ/אֲנָשָׁי/ו = Hc "and" + H376 אִישׁ "a man as an individual or a male person…" [HC/Ncmpc/Sp3ms]
+- o15: וַ/יֵּאֹר = Hc "and" + H215 אוֹר "to be (causative…" [HC/Vqw3ms]
+- o16: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o17: בְּ/חֶבְרוֹן = Hb "in" + H2275 חֶבְרוֹן "Chebron, a place in Palestine…" [HR/Np]
+
+### II Samuel 3:21 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: אַבְנֵר = H74 אַבְנֵר "Abner, an Israelite" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o5: אָקוּמָה = H6965 קוּם "to rise (in various applications, literal…" [HVqh1cs]
+- o6: וְ/אֵלֵכָה = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqh1cs]
+- o7: וְ/אֶקְבְּצָה = Hc "and" + H6908 קָבַץ "to grasp, i.e. collect" [HC/Vqh1cs]
+- o8: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o9: אֲדֹנִ/י = H113 אָדוֹן "sovereign, i.e. controller (human or divine)" [HNcmsc/Sp1cs]
+- o10: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o11: אֶת = H853 אֵת "properly…" [HTo]
+- o12: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o13: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o14: וְ/יִכְרְתוּ = Hc "and" + H3772 כָּרַת "to cut (off, down or asunder)…" [HC/Vqi3mp]
+- o15: אִתְּ/ךָ = H854 אֵת "properly…" [HR/Sp2ms]
+- o16: בְּרִית = H1285 בְּרִית "a compact (because made by passing between pieces…" [HNcfsa]
+- o17: וּ/מָלַכְתָּ = Hc "and" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HC/Vqq2ms]
+- o18: בְּ/כֹל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsa]
+- o19: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o20: תְּאַוֶּה = H183 אָוָה "to wish for" [HVpi3fs]
+- o21: נַפְשֶׁ/ךָ = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsc/Sp2ms]
+- o22: וַ/יְּשַׁלַּח = Hc "and" + H7971 שָׁלַח "to send away, for…" [HC/Vpw3ms]
+- o23: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o24: אֶת = H853 אֵת "properly…" [HTo]
+- o25: אַבְנֵר = H74 אַבְנֵר "Abner, an Israelite" [HNp]
+- o26: וַ/יֵּלֶךְ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3ms]
+- o27: בְּ/שָׁלוֹם = Hb "in" + H7965 שָׁלוֹם "safe, i.e. (figuratively) well, happy, friendly…" [HR/Ncmsa]

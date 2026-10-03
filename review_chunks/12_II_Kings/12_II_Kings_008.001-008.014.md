@@ -1010,3 +1010,34 @@ Persian entries and current tags:
 - p36: خواهی_یافت  → H2421
 - p37: .
 - p38: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 7:20 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o3: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o4: וַ/יִּרְמְסוּ = Hc "and" + H7429 רָמַס "to tread upon (as a potter…" [HC/Vqw3mp]
+- o5: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o6: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o7: בַּ/שַּׁעַר = Hb "in" + H8179 שַׁעַר "an opening, i.e. door or gate" [HRd/Ncmsa]
+- o8: וַ/יָּמֹת = Hc "and" + H4191 מוּת "to die (literally or figuratively)…" [HC/Vqw3ms]
+
+### II Kings 8:15 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: מִ/מָּחֳרָת = Hm "from" + H4283 מׇחֳרָת "the morrow or (adverbially) tomorrow" [HR/Ncfsa]
+- o3: וַ/יִּקַּח = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqw3ms]
+- o4: הַ/מַּכְבֵּר = Hd "the" + H4346 מַכְבָּר "a cloth (as netted)" [HTd/Ncmsa]
+- o5: וַ/יִּטְבֹּל = Hc "and" + H2881 טָבַל "to dip, to immerse" [HC/Vqw3ms]
+- o6: בַּ/מַּיִם = Hb "in" + H4325 מַיִם "water; figuratively, juice…" [HRd/Ncmpa]
+- o7: וַ/יִּפְרֹשׂ = Hc "and" + H6566 פָּרַשׂ "to break apart, disperse, etc" [HC/Vqw3ms]
+- o8: עַל = H5921 עַל "above, over, upon…" [HR]
+- o9: פָּנָי/ו = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc/Sp3ms]
+- o10: וַ/יָּמֹת = Hc "and" + H4191 מוּת "to die (literally or figuratively)…" [HC/Vqw3ms]
+- o11: וַ/יִּמְלֹךְ = Hc "and" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HC/Vqw3ms]
+- o12: חֲזָהאֵל = H2371 חֲזָאֵל "Chazael, a king of Syria" [HNp]
+- o13: תַּחְתָּי/ו = H8478 תַּחַת "the bottom (as depressed)…" [HR/Sp3ms]

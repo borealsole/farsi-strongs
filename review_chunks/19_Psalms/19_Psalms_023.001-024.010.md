@@ -642,3 +642,25 @@ Persian entries and current tags:
 - p11: جلال  → H3519
 - p12: !
 - p13: سِلاه  → H5542
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 22:31 (context)
+
+- o1: יָבֹאוּ = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqi3mp]
+- o2: וְ/יַגִּידוּ = Hc "and" + H5046 נָגַד "properly, to front…" [HC/Vhi3mp]
+- o3: צִדְקָת/וֹ = H6666 צְדָקָה "rightness (abstractly), subjectively (rectitude)…" [HNcfsc/Sp3ms]
+- o4: לְ/עַם = Hl "to" + H5971 עַם "a people (as a congregated unit)…" [HR/Ncmsa]
+- o5: נוֹלָד = H3205 יָלַד "to bear young; causatively, to beget…" [HVNrmsa]
+- o6: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o7: עָשָׂה = H6213 עָשָׂה "to do or make…" [HVqp3ms]
+
+### Psalms 25:1 (context)
+
+- o1: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o2: אֵלֶי/ךָ = H413 אֵל "near, with or among; often in general, to" [HR/Sp2ms]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: נַפְשִׁ/י = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsc/Sp1cs]
+- o5: אֶשָּׂא = H5375 נָשָׂא "to lift, in a great variety of applications…" [HVqi1cs]

@@ -1030,3 +1030,57 @@ Persian entries and current tags:
 - p22: واقع
 - p23: شده_بود  → H6597
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 29:18 (context)
+
+- o1: וַ/יָּבוֹאוּ = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3mp]
+- o2: פְנִימָה = H6441 פְּנִימָה "faceward, i.e. indoors" [HD]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: חִזְקִיָּהוּ = H2396 חִזְקִיָּה "Chizkijah, a king of Judah…" [HNp]
+- o5: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o6: וַ/יֹּאמְרוּ = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3mp]
+- o7: טִהַרְנוּ = H2891 טָהֵר "to be pure (physical sound, clear, unadulterated…" [HVpp1cp]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o10: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o11: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o12: אֶת = H853 אֵת "properly…" [HTo]
+- o13: מִזְבַּח = H4196 מִזְבֵּחַ "an altar" [HNcmsc]
+- o14: הָ/עוֹלָה = Hd "the" + H5930 עֹלָה "a step or (collectively, stairs, as ascending)…" [HTd/Ncfsa]
+- o15: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o16: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o17: כֵּלָי/ו = H3627 כְּלִי "something prepared…" [HNcmpc/Sp3ms]
+- o18: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o19: שֻׁלְחַן = H7979 שֻׁלְחָן "a table (as spread out); by implication, a meal" [HNcmsc]
+- o20: הַ/מַּעֲרֶכֶת = Hd "the" + H4635 מַעֲרֶכֶת "an arrangement…" [HTd/Ncfsa]
+- o21: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o22: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o23: כֵּלָי/ו = H3627 כְּלִי "something prepared…" [HNcmpc/Sp3ms]
+
+### II Chronicles 30:1 (context)
+
+- o1: וַ/יִּשְׁלַח = Hc "and" + H7971 שָׁלַח "to send away, for…" [HC/Vqw3ms]
+- o2: יְחִזְקִיָּהוּ = H2396 חִזְקִיָּה "Chizkijah, a king of Judah…" [HNp]
+- o3: עַל = H5921 עַל "above, over, upon…" [HR]
+- o4: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o5: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o6: וִ/יהוּדָה = Hc "and" + H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HC/Np]
+- o7: וְ/גַם = Hc "and" + H1571 גַּם "properly, assemblage…" [HC/Ta]
+- o8: אִגְּרוֹת = H107 אִגֶּרֶת "an epistle" [HNcfpa]
+- o9: כָּתַב = H3789 כָּתַב "to grave, by implication, to write (describe…" [HVqp3ms]
+- o10: עַל = H5921 עַל "above, over, upon…" [HR]
+- o11: אֶפְרַיִם = H669 אֶפְרַיִם "Ephrajim, a son of Joseph…" [HNp]
+- o12: וּ/מְנַשֶּׁה = Hc "and" + H4519 מְנַשֶּׁה "Menashsheh, a grandson of Jacob…" [HC/Np]
+- o13: לָ/בוֹא = Hl "to" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HR/Vqc]
+- o14: לְ/בֵית = Hl "to" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc]
+- o15: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o16: בִּ/ירוּשָׁלִָם = Hb "in" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HR/Np]
+- o17: לַ/עֲשׂוֹת = Hl "to" + H6213 עָשָׂה "to do or make…" [HR/Vqc]
+- o18: פֶּסַח = H6453 פֶּסַח "a pretermission, i.e. exemption…" [HNcmsa]
+- o19: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o20: אֱלֹהֵי = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc]
+- o21: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]

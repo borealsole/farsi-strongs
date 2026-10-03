@@ -606,3 +606,41 @@ Persian entries and current tags:
 - p4: به  → Hl
 - p5: نوعش  → H4327
 - p6: ؛
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 13:18 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: תִשְׁמַע = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqi2ms]
+- o3: בְּ/קוֹל = Hb "in" + H6963 קוֹל "a voice or sound" [HR/Ncmsc]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: אֱלֹהֶי/ךָ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2ms]
+- o6: לִ/שְׁמֹר = Hl "to" + H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HR/Vqc]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o9: מִצְוֺתָי/ו = H4687 מִצְוָה "a command, whether human or divine (collectively…" [HNcfpc/Sp3ms]
+- o10: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o11: אָנֹכִי = H595 אָנֹכִי "I" [HPp1cs]
+- o12: מְצַוְּ/ךָ = H6680 צָוָה "(intensively) to constitute, enjoin" [HVprmsc/Sp2ms]
+- o13: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o14: לַ/עֲשׂוֹת = Hl "to" + H6213 עָשָׂה "to do or make…" [HR/Vqc]
+- o15: הַ/יָּשָׁר = Hd "the" + H3477 יָשָׁר "straight (literally or figuratively)" [HTd/Aamsa]
+- o16: בְּ/עֵינֵי = Hb "in" + H5869 עַיִן "an eye (literally or figuratively)…" [HR/Ncbdc]
+- o17: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o18: אֱלֹהֶי/ךָ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2ms]
+
+### Deuteronomy 14:15 (context)
+
+- o1: וְ/אֵת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o2: בַּת = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfsc]
+- o3: הַ/יַּעֲנָה = Hd "the" + H3284 יַעֲנָה "the ostrich (probably from its answering cry" [HTd/Ncfsa]
+- o4: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o5: הַ/תַּחְמָס = Hd "the" + H8464 תַּחְמָס "a species of unclean bird (from its violence)…" [HTd/Ncmsa]
+- o6: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o7: הַ/שָּׁחַף = Hd "the" + H7828 שַׁחַף "the gull (as thin)" [HTd/Ncmsa]
+- o8: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o9: הַ/נֵּץ = Hd "the" + H5322 נֵץ "a flower (from its brilliancy)…" [HTd/Ncmsa]
+- o10: לְ/מִינֵ/הוּ = Hl "to" + H4327 מִין "a sort, i.e. species" [HR/Ncmsc/Sp3ms]

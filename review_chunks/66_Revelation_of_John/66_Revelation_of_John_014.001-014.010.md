@@ -748,3 +748,68 @@ Persian entries and current tags:
 - p34: مشتعل
 - p35: عذاب خواهد_شد  → G928
 - p36: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Revelation of John 13:18 (context)
+
+- o1: ὧδε = G5602 ὧδε "here, hither, (in) this place, there" [ADV]
+- o2: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o3: σοφία = G4678 σοφία "wisdom" [N-NSF]
+- o4: ἐστίν· = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o5: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o6: ἔχων = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAP-NSM]
+- o7: νοῦν = G3563 νοῦς "mind, understanding" [N-ASM]
+- o8: ψηφισάτω = G5585 ψηφίζω "count" [V-AAM-3S]
+- o9: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o10: ἀριθμὸν = G706 ἀριθμός "number" [N-ASM]
+- o11: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
+- o12: θηρίου, = G2342 θηρίον "(venomous, wild) beast" [N-GSN]
+- o13: ἀριθμὸς = G706 ἀριθμός "number" [N-NSM]
+- o14: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o15: ἀνθρώπου = G444 ἄνθρωπος "certain, man" [N-GSM]
+- o16: ἐστίν· = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o17: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o18: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o19: ἀριθμὸς = G706 ἀριθμός "number" [N-NSM]
+- o20: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSN]
+- o21: χξϛʹ. = G5516 χξϛ "six hundred threescore and six" [A-NUI-ABB]
+
+### Revelation of John 14:11 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o3: καπνὸς = G2586 καπνός "smoke" [N-NSM]
+- o4: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o5: βασανισμοῦ = G929 βασανισμός "torment" [N-GSM]
+- o6: αὐτῶν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]
+- o7: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o8: αἰῶνας = G165 αἰών "age, course, eternal, (for) ever(-more), (n-)ever…" [N-APM]
+- o9: αἰώνων = G165 αἰών "age, course, eternal, (for) ever(-more), (n-)ever…" [N-GPM]
+- o10: ἀναβαίνει, = G305 ἀναβαίνω "arise, ascend (up), climb (go, grow, rise…" [V-PAI-3S]
+- o11: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o12: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o13: ἔχουσιν = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAI-3P]
+- o14: ἀνάπαυσιν = G372 ἀνάπαυσις "rest" [N-ASF]
+- o15: ἡμέρας = G2250 ἡμέρα "age, + alway, (mid-)day (by day, (-ly))…" [N-GSF]
+- o16: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o17: νυκτός, = G3571 νύξ "(mid-)night" [N-GSF]
+- o18: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o19: προσκυνοῦντες = G4352 προσκυνέω "worship" [V-PAP-NPM]
+- o20: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o21: θηρίον = G2342 θηρίον "(venomous, wild) beast" [N-ASN]
+- o22: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o23: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o24: εἰκόνα = G1504 εἰκών "image" [N-ASF]
+- o25: αὐτοῦ, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSN]
+- o26: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o27: εἴ = G1487 εἰ "forasmuch as, if, that, (al-)though, whether" [COND]
+- o28: τις = G5100 τὶς "a (kind of), any (man, thing, thing at all)…" [X-NSM]
+- o29: λαμβάνει = G2983 λαμβάνω "accept, + be amazed, assay, attain, bring…" [V-PAI-3S]
+- o30: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o31: χάραγμα = G5480 χάραγμα "graven, mark" [N-ASN]
+- o32: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
+- o33: ὀνόματος = G3686 ὄνομα "called, (+ sur-)name(-d)" [N-GSN]
+- o34: αὐτοῦ. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSN]

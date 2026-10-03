@@ -920,3 +920,46 @@ Persian entries and current tags:
 - p15: وزیران  → H3548
 - p16: بودند
 - p17: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 7:29 (context)
+
+- o1: וְ/עַתָּה = Hc "and" + H6258 עַתָּה "at this time, whether adverb…" [HC/D]
+- o2: הוֹאֵל = H2974 יָאַל "properly, to yield, especially assent…" [HVhv2ms]
+- o3: וּ/בָרֵךְ = Hc "and" + H1288 בָרַךְ "to kneel…" [HC/Vpv2ms]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o6: עַבְדְּ/ךָ = H5650 עֶבֶד "a servant" [HNcmsc/Sp2ms]
+- o7: לִ/הְיוֹת = Hl "to" + H1961 הָיָה "to exist, i.e. be or become…" [HR/Vqc]
+- o8: לְ/עוֹלָם = Hl "to" + H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HR/Ncmsa]
+- o9: לְ/פָנֶי/ךָ = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp2ms]
+- o10: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o11: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o12: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o13: יְהוִה = H3069 יְהֹוִה "YHWH" [HNp]
+- o14: דִּבַּרְתָּ = H1696 דָבַר "perhaps properly, to arrange…" [HVpp2ms]
+- o15: וּ/מִ/בִּרְכָתְ/ךָ = Hc "and" + Hm "from" + H1293 בְּרָכָה "benediction; by implication prosperity" [HC/R/Ncfsc/Sp2ms]
+- o16: יְבֹרַךְ = H1288 בָרַךְ "to kneel…" [HVPi3ms]
+- o17: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o18: עַבְדְּ/ךָ = H5650 עֶבֶד "a servant" [HNcmsc/Sp2ms]
+- o19: לְ/עוֹלָם = Hl "to" + H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HR/Ncmsa]
+
+### II Samuel 9:1 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o3: הֲ/כִי = Hi "(untranslatable; interrogative particle)" + H3588 כִּי "by implication) very widely used as a relative…" [HTi/C]
+- o4: יֶשׁ = H3426 יֵשׁ "there is or are (or any other form of the verb to…" [HTm]
+- o5: עוֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: נוֹתַר = H3498 יָתַר "to jut over or exceed; by implication, to excel…" [HVNp3ms]
+- o8: לְ/בֵית = Hl "to" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc]
+- o9: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o10: וְ/אֶעֱשֶׂה = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqi1cs]
+- o11: עִמּ/וֹ = H5973 עִם "adverb or preposition…" [HR/Sp3ms]
+- o12: חֶסֶד = H2617 חֵסֵד "kindness; by implication (towards God) piety…" [HNcmsa]
+- o13: בַּ/עֲבוּר = Hb "in" + H5668 עָבוּר "properly, crossed, i.e. (abstractly) transit…" [HR/Ncmsc]
+- o14: יְהוֹנָתָן = H3083 יְהוֹנָתָן "Jehonathan, the name of four Israelites" [HNp]

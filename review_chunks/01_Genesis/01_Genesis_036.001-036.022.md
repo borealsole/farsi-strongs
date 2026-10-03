@@ -982,3 +982,35 @@ Persian entries and current tags:
 - p10: لوطان  → H3877
 - p11: بود
 - p12: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 35:29 (context)
+
+- o1: וַ/יִּגְוַע = Hc "and" + H1478 גָּוַע "to breathe out, i.e. (by implication) expire" [HC/Vqw3ms]
+- o2: יִצְחָק = H3327 יִצְחָק "Jitschak (or Isaac), son of Abraham" [HNp]
+- o3: וַ/יָּמָת = Hc "and" + H4191 מוּת "to die (literally or figuratively)…" [HC/Vqw3ms]
+- o4: וַ/יֵּאָסֶף = Hc "and" + H622 אָסַף "to gather for any purpose…" [HC/VNw3ms]
+- o5: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o6: עַמָּי/ו = H5971 עַם "a people (as a congregated unit)…" [HNcmpc/Sp3ms]
+- o7: זָקֵן = H2205 זָקֵן "old" [HAamsa]
+- o8: וּ/שְׂבַע = Hc "and" + H7649 שָׂבֵעַ "satiated (in a pleasant or disagreeable sense)" [HC/Aamsc]
+- o9: יָמִים = H3117 יוֹם "a day (as the warm hours)…" [HNcmpa]
+- o10: וַ/יִּקְבְּרוּ = Hc "and" + H6912 קָבַר "to inter" [HC/Vqw3mp]
+- o11: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o12: עֵשָׂו = H6215 עֵשָׂו "Esav, a son of Isaac, including his posterity" [HNp]
+- o13: וְ/יַעֲקֹב = Hc "and" + H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HC/Np]
+- o14: בָּנָי/ו = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc/Sp3ms]
+
+### Genesis 36:23 (context)
+
+- o1: וְ/אֵלֶּה = Hc "and" + H428 אֵלֶּה "these or those" [HC/Pdxcp]
+- o2: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o3: שׁוֹבָל = H7732 שׁוֹבָל "Shobal, the name of an Edomite and two Israelites" [HNp]
+- o4: עַלְוָן = H5935 עַלְוָן "Alvan or Aljan, an Idumaean" [HNp]
+- o5: וּ/מָנַחַת = Hc "and" + H4506 מָנַחַת "Manachath…" [HC/Np]
+- o6: וְ/עֵיבָל = Hc "and" + H5858 עֵיבָל "Ebal, a mountain of Palestine" [HC/Np]
+- o7: שְׁפוֹ = H8195 שְׁפוֹ "Shepho or Shephi, an Idumaean" [HNp]
+- o8: וְ/אוֹנָם = Hc "and" + H208 אוֹנָם "Onam, the name of an Edomite and of an Israelite" [HC/Np]

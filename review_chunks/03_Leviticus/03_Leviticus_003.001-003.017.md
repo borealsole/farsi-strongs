@@ -921,3 +921,29 @@ Persian entries and current tags:
 - p22: نخورید
 - p23: .
 - p24: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 2:16 (context)
+
+- o1: וְ/הִקְטִיר = Hc "and" + H6999 קָטַר "to smoke…" [HC/Vhq3ms]
+- o2: הַ/כֹּהֵן = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmsa]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: אַזְכָּרָתָ/הּ = H234 אַזְכָּרָה "a reminder; specifically remembrance-offering" [HNcfsc/Sp3fs]
+- o5: מִ/גִּרְשָׂ/הּ = Hm "from" + H1643 גֶּרֶשׂ "a kernel (collectively), i.e. grain" [HR/Ncmsc/Sp3fs]
+- o6: וּ/מִ/שַּׁמְנָ/הּ = Hc "and" + Hm "from" + H8081 שֶׁמֶן "grease, especially liquid (as from the olive…" [HC/R/Ncmsc/Sp3fs]
+- o7: עַל = H5921 עַל "above, over, upon…" [HR]
+- o8: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o9: לְבֹנָתָ/הּ = H3828 לְבוֹנָה "frankincense (from its whiteness or perhaps that…" [HNcfsc/Sp3fs]
+- o10: אִשֶּׁה = H801 אִשָּׁה "properly, a burnt-offering…" [HNcmsa]
+- o11: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+
+### Leviticus 4:1 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: לֵּ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

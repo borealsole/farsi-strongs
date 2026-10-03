@@ -713,3 +713,33 @@ Persian entries and current tags:
 - p18: است
 - p19: !
 - p20: “
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 29:27 (context)
+
+- o1: תּוֹעֲבַת = H8441 תּוֹעֵבַה "properly, something disgusting (morally)…" [HNcfsc]
+- o2: צַדִּיקִים = H6662 צַדִּיק "just" [HAampa]
+- o3: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsc]
+- o4: עָוֶל = H5766 עֶוֶל "(moral) evil" [HNcbsa]
+- o5: וְ/תוֹעֲבַת = Hc "and" + H8441 תּוֹעֵבַה "properly, something disgusting (morally)…" [HC/Ncfsc]
+- o6: רָשָׁע = H7563 רָשָׁע "morally wrong…" [HAamsa]
+- o7: יְשַׁר = H3477 יָשָׁר "straight (literally or figuratively)" [HAamsc]
+- o8: דָּרֶךְ = H1870 דֶּרֶךְ "a road (as trodden)…" [HNcbsa]
+
+### Proverbs 30:17 (context)
+
+- o1: עַיִן = H5869 עַיִן "an eye (literally or figuratively)…" [HNcbsa]
+- o2: תִּלְעַג = H3932 לָעַג "to deride…" [HVqi3fs]
+- o3: לְ/אָב = Hl "to" + H1 אָב "father, in a literal and immediate…" [HR/Ncmsa]
+- o4: וְ/תָבוּז = Hc "and" + H936 בּוּז "to disrespect" [HC/Vqi3fs]
+- o5: לִ/יקֲּהַת = Hl "to" + H3349 יִקָּהָה "obedience" [HR/Ncfsc]
+- o6: אֵם = H517 אֵם "a mother (as the bond of the family)…" [HNcfsa]
+- o7: יִקְּרוּ/הָ = H5365 נָקַר "to bore (penetrate, quarry)" [HVqi3mp/Sp3fs]
+- o8: עֹרְבֵי = H6158 עֹרֵב "a raven (from its dusky hue)" [HNcmpc]
+- o9: נַחַל = H5158 נַחַל "a stream, especially a winter torrent…" [HNcmsa]
+- o10: וְ/יֹאכְלוּ/הָ = Hc "and" + H398 אָכַל "to eat (literally or figuratively)" [HC/Vqi3mp/Sp3fs]
+- o11: בְנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o12: נָשֶׁר = H5404 נֶשֶׁר "the eagle (or other large bird of prey)" [HNcmsa]

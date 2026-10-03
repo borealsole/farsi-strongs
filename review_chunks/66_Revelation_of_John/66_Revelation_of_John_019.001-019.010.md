@@ -699,3 +699,52 @@ Persian entries and current tags:
 - p53: است
 - p54: .
 - p55: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Revelation of John 18:24 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o3: αὐτῇ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSF]
+- o4: αἷμα = G129 αἷμα "blood" [N-NSN]
+- o5: προφητῶν = G4396 προφήτης "prophet" [N-GPM]
+- o6: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o7: ἁγίων = G40 ἅγιος "(most) holy (one, thing), saint" [A-GPM]
+- o8: εὑρέθη = G2147 εὑρίσκω "find, get, obtain, perceive, see" [V-API-3S]
+- o9: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o10: πάντων = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-GPM]
+- o11: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o12: ἐσφαγμένων = G4969 σφάζω "kill, slay, wound" [V-RPP-GPM]
+- o13: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o14: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o15: γῆς. = G1093 γῆ "country, earth(-ly), ground, land, world" [N-GSF]
+
+### Revelation of John 19:11 (context)
+
+- o1: Καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: εἶδον = G3708 ὁράω "behold, perceive, see, take heed" [V-2AAI-1S]
+- o3: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o4: οὐρανὸν = G3772 οὐρανός "air, heaven(-ly), sky" [N-ASM]
+- o5: ἠνεῳγμένον, = G455 ἀνοίγω "open" [V-RPP-ASM]
+- o6: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o7: ἰδοὺ = G3708 ὁράω "behold, perceive, see, take heed" [V-2AMM-2S]
+- o8: ἵππος = G2462 ἵππος "horse" [N-NSM]
+- o9: λευκός, = G3022 λευκός "white" [A-NSM]
+- o10: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o11: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o12: καθήμενος = G2521 κάθημαι "dwell, sit (by, down)" [V-PNP-NSM]
+- o13: ἐπ’ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o14: αὐτὸν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASM]
+- o15: καλούμενος = G2564 καλέω "bid, call (forth), (whose…" [V-PPP-NSM]
+- o16: πιστὸς = G4103 πιστός "believe(-ing, -r), faithful(-ly), sure, true" [A-NSM]
+- o17: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o18: ἀληθινός, = G228 ἀληθινός "true" [A-NSM]
+- o19: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o20: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o21: δικαιοσύνῃ = G1343 δικαιοσύνη "righteousness" [N-DSF]
+- o22: κρίνει = G2919 κρίνω "avenge, conclude, condemn, damn, decree…" [V-PAI-3S]
+- o23: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o24: πολεμεῖ. = G4170 πολεμέω "fight, (make) war" [V-PAI-3S]

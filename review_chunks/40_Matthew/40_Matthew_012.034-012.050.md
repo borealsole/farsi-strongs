@@ -948,3 +948,54 @@ Persian entries and current tags:
 - p20: است  → G4160
 - p21: .
 - p22: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 12:33 (context)
+
+- o1: Ἢ = G2228 ἤ "and, but (either), (n-)either, except it be…" [PRT]
+- o2: ποιήσατε = G4160 ποιέω "abide, + agree, appoint, avenge, + band together…" [V-AAM-2P]
+- o3: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o4: δένδρον = G1186 δένδρον "tree" [N-ASN]
+- o5: καλὸν = G2570 καλός "better, fair, good(-ly), honest, meet, well…" [A-ASN]
+- o6: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o7: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o8: καρπὸν = G2590 καρπός "fruit" [N-ASM]
+- o9: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSN]
+- o10: καλόν, = G2570 καλός "better, fair, good(-ly), honest, meet, well…" [A-ASM]
+- o11: ἢ = G2228 ἤ "and, but (either), (n-)either, except it be…" [PRT]
+- o12: ποιήσατε = G4160 ποιέω "abide, + agree, appoint, avenge, + band together…" [V-AAM-2P]
+- o13: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o14: δένδρον = G1186 δένδρον "tree" [N-ASN]
+- o15: σαπρὸν = G4550 σαπρός "bad, corrupt" [A-ASN]
+- o16: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o17: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o18: καρπὸν = G2590 καρπός "fruit" [N-ASM]
+- o19: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSN]
+- o20: σαπρόν· = G4550 σαπρός "bad, corrupt" [A-ASM]
+- o21: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o22: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o23: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o24: καρποῦ = G2590 καρπός "fruit" [N-GSM]
+- o25: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o26: δένδρον = G1186 δένδρον "tree" [N-NSN]
+- o27: γινώσκεται. = G1097 γινώσκω "allow, be aware (of), feel, (have) know(-ledge)…" [V-PPI-3S]
+
+### Matthew 13:1 (context)
+
+- o1: Ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o2: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o3: ἡμέρᾳ = G2250 ἡμέρα "age, + alway, (mid-)day (by day, (-ly))…" [N-DSF]
+- o4: ἐκείνῃ = G1565 ἐκεῖνος "he, it, the other (same), selfsame, that (same…" [D-DSF]
+- o5: ἐξελθὼν = G1831 ἐξέρχομαι "come (forth, out), depart (out of), escape…" [V-2AAP-NSM]
+- o6: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o7: Ἰησοῦς = G2424 Ἰησοῦς "Jesus" [N-NSM]
+- o8: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o9: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o10: οἰκίας = G3614 οἰκία "home, house(-hold)" [N-GSF]
+- o11: ἐκάθητο = G2521 κάθημαι "dwell, sit (by, down)" [V-INI-3S]
+- o12: παρὰ = G3844 παρά "above, against, among, at, before, by…" [PREP]
+- o13: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o14: θάλασσαν· = G2281 θάλασσα "sea" [N-ASF]

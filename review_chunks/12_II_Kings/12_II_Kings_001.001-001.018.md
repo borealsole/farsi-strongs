@@ -1169,3 +1169,22 @@ Persian entries and current tags:
 - p17: اسرائیل  → H3478
 - p18: نوشته_نشده_است  → H3808 H3789
 - p19: ؟
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 2:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: בְּ/הַעֲלוֹת = Hb "in" + H5927 עָלָה "to ascend…" [HR/Vhc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: אֵלִיָּהוּ = H452 אֵלִיָּה "Elijah…" [HNp]
+- o6: בַּ/סְעָרָה = Hb "in" + H5591 סַעַר "a hurricane" [HRd/Ncfsa]
+- o7: הַ/שָּׁמָיִם = Hd "the" + H8064 שָׁמַיִם "the sky (as aloft…" [HTd/Ncmpa]
+- o8: וַ/יֵּלֶךְ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3ms]
+- o9: אֵלִיָּהוּ = H452 אֵלִיָּה "Elijah…" [HNp]
+- o10: וֶ/אֱלִישָׁע = Hc "and" + H477 אֱלִישָׁע "Elisha, the famous prophet" [HC/Np]
+- o11: מִן = H4480 מִן "properly, a part of…" [HR]
+- o12: הַ/גִּלְגָּל = Hd "the" + H1537 גִּלְגָּל "Gilgal, the name of three places in Palestine" [HTd/Np]

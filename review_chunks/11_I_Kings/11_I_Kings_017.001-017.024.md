@@ -1289,3 +1289,55 @@ Persian entries and current tags:
 - p24: است
 - p25: .
 - p26: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 16:34 (context)
+
+- o1: בְּ/יָמָי/ו = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmpc/Sp3ms]
+- o2: בָּנָה = H1129 בָּנָה "to build (literally and figuratively)" [HVqp3ms]
+- o3: חִיאֵל = H2419 חִיאֵל "Chiel, an Israelite" [HNp]
+- o4: בֵּית = H1017 בֵּית הָאֱלִי "a Beth-elite, or inhabitant of Bethel" [HNgmsc]
+- o5: הָאֱלִי = H1017 בֵּית הָאֱלִי "a Beth-elite, or inhabitant of Bethel" [HNgmsa]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: יְרִיחֹה = H3405 יְרִיחוֹ "Jericho or Jerecho, a place in Palestine" [HNp]
+- o8: בַּ/אֲבִירָם = Hb "in" + H48 אֲבִירָם "Abiram, the name of two Israelites" [HR/Np]
+- o9: בְּכֹר/וֹ = H1060 בְּכוֹר "firstborn; hence, chief" [HNcmsc/Sp3ms]
+- o10: יִסְּדָ/הּ = H3245 יָסַד "to set (literally or figuratively)…" [HVpp3ms/Sp3fs]
+- o11: ו/ב/שגיב = Hc "and" + Hb "in" + H7687 שְׂגוּב "Segub, the name of two Israelites" [HC/R/Np]
+- o12: צְעִיר/וֹ = H6810 צָעִיר "little; (in number) few…" [HAamsc/Sp3ms]
+- o13: הִצִּיב = H5324 נָצַב "to station…" [HVhp3ms]
+- o14: דְּלָתֶי/הָ = H1817 דֶּלֶת "something swinging, i.e. the valve of adoor" [HNcfdc/Sp3fs]
+- o15: כִּ/דְבַר = Hk "like" + H1697 דָּבָר "a word…" [HR/Ncmsc]
+- o16: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o17: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o18: דִּבֶּר = H1696 דָבַר "perhaps properly, to arrange…" [HVpp3ms]
+- o19: בְּ/יַד = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o20: יְהוֹשֻׁעַ = H3091 יְהוֹשׁוּעַ "Jehoshua (i.e. Joshua), the Jewish leader" [HNp]
+- o21: בִּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o22: נוּן = H5126 נוּן "Nun or Non, the father of Joshua" [HNp]
+
+### I Kings 18:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: יָמִים = H3117 יוֹם "a day (as the warm hours)…" [HNcmpa]
+- o3: רַבִּים = H7227 רַב "abundant (in quantity, size, age, number, rank…" [HAampa]
+- o4: וּ/דְבַר = Hc "and" + H1697 דָּבָר "a word…" [HC/Ncmsc]
+- o5: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o6: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o7: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o8: אֵלִיָּהוּ = H452 אֵלִיָּה "Elijah…" [HNp]
+- o9: בַּ/שָּׁנָה = Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HRd/Ncfsa]
+- o10: הַ/שְּׁלִישִׁית = Hd "the" + H7992 שְׁלִישִׁי "third; feminine athird (part)…" [HTd/Aofsa]
+- o11: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o12: לֵךְ = H3212 יָלַךְ "to walk (literally or figuratively)…" [HVqv2ms]
+- o13: הֵרָאֵה = H7200 רָאָה "to see…" [HVNv2ms]
+- o14: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o15: אַחְאָב = H256 אַחְאָב "Achab…" [HNp]
+- o16: וְ/אֶתְּנָה = Hc "and" + H5414 נָתַן "to give…" [HC/Vqh1cs]
+- o17: מָטָר = H4306 מָטַר "rain" [HNcmsa]
+- o18: עַל = H5921 עַל "above, over, upon…" [HR]
+- o19: פְּנֵי = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc]
+- o20: הָ/אֲדָמָה = Hd "the" + H127 אֲדָמָה "soil (from its general redness)" [HTd/Ncfsa]

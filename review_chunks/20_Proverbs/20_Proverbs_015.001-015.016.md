@@ -582,3 +582,29 @@ Persian entries and current tags:
 - p11: با
 - p12: پریشانی  → H4103
 - p13: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 14:35 (context)
+
+- o1: רְצוֹן = H7522 רָצוֹן "delight (especially as shown)" [HNcmsc]
+- o2: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsa]
+- o3: לְ/עֶבֶד = Hl "to" + H5650 עֶבֶד "a servant" [HR/Ncmsa]
+- o4: מַשְׂכִּיל = H7919 שָׂכַל "to be (causatively…" [HVhrmsa]
+- o5: וְ/עֶבְרָת/וֹ = Hc "and" + H5678 עֶבְרָה "an outburst of passion" [HC/Ncfsc/Sp3ms]
+- o6: תִּהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3fs]
+- o7: מֵבִישׁ = H954 בּוּשׁ "properly, to pale…" [HVhrmsa]
+
+### Proverbs 15:17 (context)
+
+- o1: טוֹב = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAamsa]
+- o2: אֲרֻחַת = H737 אֲרֻחָה "a ration of food" [HNcfsc]
+- o3: יָרָק = H3419 יָרָק "properly, green; concretely, a vegetable" [HNcmsa]
+- o4: וְ/אַהֲבָה = Hc "and" + H160 אַהֲבָה "affection (in a good or a bad sense)" [HC/Ncfsa]
+- o5: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o6: מִ/שּׁוֹר = Hm "from" + H7794 שׁוֹר "a bullock (as a traveller)" [HR/Ncmsa]
+- o7: אָבוּס = H75 אָבַס "to fodder" [HVqsmsa]
+- o8: וְ/שִׂנְאָה = Hc "and" + H8135 שִׂנְאָה "hate" [HC/Ncfsa]
+- o9: ב/וֹ = Hb "in" [HR/Sp3ms]

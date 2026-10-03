@@ -1216,3 +1216,57 @@ Persian entries and current tags:
 - p24: امر فرموده_است  → H6680
 - p25: .
 - p26: “
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 5:33 (context)
+
+- o1: בְּ/כָל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o2: הַ/דֶּרֶךְ = Hd "the" + H1870 דֶּרֶךְ "a road (as trodden)…" [HTd/Ncbsa]
+- o3: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o4: צִוָּה = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp3ms]
+- o5: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o6: אֱלֹהֵי/כֶם = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2mp]
+- o7: אֶתְ/כֶם = H853 אֵת "properly…" [HTo/Sp2mp]
+- o8: תֵּלֵכוּ = H3212 יָלַךְ "to walk (literally or figuratively)…" [HVqi2mp]
+- o9: לְמַעַן = H4616 מַעַן "properly, heed, i.e. purpose…" [HR]
+- o10: תִּחְיוּ/ן = H2421 חָיָה "to live, whether literally or figuratively…" [HVqi2mp/Sn]
+- o11: וְ/טוֹב = Hc "and" + H2895 טוֹב "to be (transitively…" [HC/Vqq3ms]
+- o12: לָ/כֶם = Hl "to" [HR/Sp2mp]
+- o13: וְ/הַאֲרַכְתֶּם = Hc "and" + H748 אָרַךְ "to be (causative…" [HC/Vhq2mp]
+- o14: יָמִים = H3117 יוֹם "a day (as the warm hours)…" [HNcmpa]
+- o15: בָּ/אָרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HRd/Ncbsa]
+- o16: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o17: תִּירָשׁוּ/ן = H3423 יָרַשׁ "to occupy (by driving out previous tenants…" [HVqi2mp/Sn]
+
+### Deuteronomy 7:1 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: יְבִיאֲ/ךָ = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVhi3ms/Sp2ms]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֱלֹהֶי/ךָ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2ms]
+- o5: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o6: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o8: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o9: בָא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqrmsa]
+- o10: שָׁמָּ/ה = H8033 שָׁם "there (transferring to time) then…" [HD/Sd]
+- o11: לְ/רִשְׁתָּ/הּ = Hl "to" + H3423 יָרַשׁ "to occupy (by driving out previous tenants…" [HR/Vqc/Sp3fs]
+- o12: וְ/נָשַׁל = Hc "and" + H5394 נָשַׁל "to pluck off, i.e. divest, eject or drop" [HC/Vqq3ms]
+- o13: גּוֹיִם = H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HNcmpa]
+- o14: רַבִּים = H7227 רַב "abundant (in quantity, size, age, number, rank…" [HAampa]
+- o15: מִ/פָּנֶי/ךָ = Hm "from" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp2ms]
+- o16: הַ/חִתִּי = Hd "the" + H2850 חִתִּי "a Chittite, or descendant of Cheth" [HTd/Ngmsa]
+- o17: וְ/הַ/גִּרְגָּשִׁי = Hc "and" + Hd "the" + H1622 גִּרְגָּשִׁי "a Girgashite, one of the native tribes of Canaan" [HC/Td/Ngmsa]
+- o18: וְ/הָ/אֱמֹרִי = Hc "and" + Hd "the" + H567 אֱמֹרִי "an Emorite, one of the Canaanitish tribes" [HC/Td/Ngmsa]
+- o19: וְ/הַ/כְּנַעֲנִי = Hc "and" + Hd "the" + H3669 כְּנַעַנִי "a Kenaanite or inhabitant of Kenaan…" [HC/Td/Ngmsa]
+- o20: וְ/הַ/פְּרִזִּי = Hc "and" + Hd "the" + H6522 פְּרִזִּי "a Perizzite, one of the Canaanitish tribes" [HC/Td/Ngmsa]
+- o21: וְ/הַ/חִוִּי = Hc "and" + Hd "the" + H2340 חִוִּי "a Chivvite…" [HC/Td/Ngmsa]
+- o22: וְ/הַ/יְבוּסִי = Hc "and" + Hd "the" + H2983 יְבוּסִי "a Jebusite or inhabitant of Jebus" [HC/Td/Ngmsa]
+- o23: שִׁבְעָה = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcmsa]
+- o24: גוֹיִם = H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HNcmpa]
+- o25: רַבִּים = H7227 רַב "abundant (in quantity, size, age, number, rank…" [HAampa]
+- o26: וַ/עֲצוּמִים = Hc "and" + H6099 עָצוּם "powerful (specifically, a paw)…" [HC/Aampa]
+- o27: מִמֶּ/ךָּ = H4480 מִן "properly, a part of…" [HR/Sp2ms]

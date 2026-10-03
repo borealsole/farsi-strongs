@@ -528,3 +528,17 @@ Persian entries and current tags:
 - p15: شهر  → H8179
 - p16: بستایند  → H1984
 - p17: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 31:16 (context)
+
+- o1: זָמְמָה = H2161 זָמַם "to plan, usually in a bad sense" [HVqp3fs]
+- o2: שָׂדֶה = H7704 שָׂדֶה "a field (as flat)" [HNcmsa]
+- o3: וַ/תִּקָּחֵ/הוּ = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqw3fs/Sp3ms]
+- o4: מִ/פְּרִי = Hm "from" + H6529 פְּרִי "fruit (literally or figuratively)" [HR/Ncmsc]
+- o5: כַפֶּי/הָ = H3709 כַּף "the hollow hand or palm (so of the paw of an…" [HNcfdc/Sp3fs]
+- o6: נטע = H5193 נָטַע "properly, to strike in, i.e. fix…" [HVqp3ms]
+- o7: כָּרֶם = H3754 כֶּרֶם "a garden or vineyard" [HNcbsa]

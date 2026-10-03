@@ -710,3 +710,44 @@ Persian entries and current tags:
 - p23: خویش
 - p24: پیوست  → H622
 - p25: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 24:67 (context)
+
+- o1: וַ/יְבִאֶ/הָ = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vhw3ms/Sp3fs]
+- o2: יִצְחָק = H3327 יִצְחָק "Jitschak (or Isaac), son of Abraham" [HNp]
+- o3: הָ/אֹהֱלָ/ה = Hd "the" + H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HTd/Ncmsa/Sd]
+- o4: שָׂרָה = H8283 שָׂרָה "Sarah, Abraham's wife" [HNp]
+- o5: אִמּ/וֹ = H517 אֵם "a mother (as the bond of the family)…" [HNcfsc/Sp3ms]
+- o6: וַ/יִּקַּח = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqw3ms]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: רִבְקָה = H7259 רִבְקָה "Ribkah, the wife of Isaac" [HNp]
+- o9: וַ/תְּהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3fs]
+- o10: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o11: לְ/אִשָּׁה = Hl "to" + H802 אִשָּׁה "a woman" [HR/Ncfsa]
+- o12: וַ/יֶּאֱהָבֶ/הָ = Hc "and" + H157 אָהַב "to have affection for (sexually or otherwise)" [HC/Vqw3ms/Sp3fs]
+- o13: וַ/יִּנָּחֵם = Hc "and" + H5162 נָחַם "properly, to sigh, i.e. breathe strongly…" [HC/VNw3ms]
+- o14: יִצְחָק = H3327 יִצְחָק "Jitschak (or Isaac), son of Abraham" [HNp]
+- o15: אַחֲרֵי = H310 אַחַר "properly, the hind part…" [HR]
+- o16: אִמּ/וֹ = H517 אֵם "a mother (as the bond of the family)…" [HNcfsc/Sp3ms]
+
+### Genesis 25:18 (context)
+
+- o1: וַ/יִּשְׁכְּנוּ = Hc "and" + H7931 שָׁכַן "to reside or permanently stay (literally or…" [HC/Vqw3mp]
+- o2: מֵ/חֲוִילָה = Hm "from" + H2341 חֲוִילָה "Chavilah…" [HR/Np]
+- o3: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o4: שׁוּר = H7793 שׁוּר "Shur, a region of the Desert" [HNp]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: עַל = H5921 עַל "above, over, upon…" [HR]
+- o7: פְּנֵי = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc]
+- o8: מִצְרַיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o9: בֹּאֲ/כָה = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqc/Sp2ms]
+- o10: אַשּׁוּרָ/ה = H804 אַשּׁוּר "Ashshur, the second son of Shem…" [HNp/Sd]
+- o11: עַל = H5921 עַל "above, over, upon…" [HR]
+- o12: פְּנֵי = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc]
+- o13: כָל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o14: אֶחָי/ו = H251 אָח "a brother (used in the widest sense of literal…" [HNcmpc/Sp3ms]
+- o15: נָפָל = H5307 נָפַל "to fall…" [HVqp3ms]

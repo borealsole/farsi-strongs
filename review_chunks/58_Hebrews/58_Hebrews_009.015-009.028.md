@@ -780,3 +780,69 @@ Persian entries and current tags:
 - p37: نجات  → G4991
 - p38: بخشد
 - p39: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Hebrews 9:14 (context)
+
+- o1: πόσῳ = G4214 πόσος "how great (long, many), what" [Q-DSN]
+- o2: μᾶλλον = G3123 μᾶλλον "+ better, far, (the) more (and more)…" [ADV]
+- o3: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o4: αἷμα = G129 αἷμα "blood" [N-NSN]
+- o5: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o6: Χριστοῦ, = G5547 Χριστός "Christ" [N-GSM]
+- o7: ὃς = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-NSM]
+- o8: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o9: πνεύματος = G4151 πνεῦμα "ghost, life, spirit(-ual, -ually), mind" [N-GSN]
+- o10: αἰωνίου = G166 αἰώνιος "eternal, for ever, everlasting, world (began)" [A-GSN]
+- o11: ἑαυτὸν = G1438 ἑαυτοῦ "alone, her (own, -self), (he) himself, his (own)…" [F-3ASM]
+- o12: προσήνεγκεν = G4374 προσφέρω "bring (to, unto), deal with, do, offer (unto, up)…" [V-AAI-3S]
+- o13: ἄμωμον = G299 ἄμωμος "without blame (blemish, fault, spot), faultless…" [A-ASM]
+- o14: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o15: θεῷ, = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-DSM]
+- o16: καθαριεῖ = G2511 καθαρίζω "(make) clean(-se), purge, purify" [V-FAI-3S-ATT]
+- o17: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o18: συνείδησιν = G4893 συνείδησις "conscience" [N-ASF]
+- o19: ὑμῶν = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
+- o20: ἀπὸ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
+- o21: νεκρῶν = G3498 νεκρός "dead" [A-GPN]
+- o22: ἔργων = G2041 ἔργον "deed, doing, labour, work" [N-GPN]
+- o23: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o24: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o25: λατρεύειν = G3000 λατρεύω "serve, do the service, worship(-per)" [V-PAN]
+- o26: θεῷ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-DSM]
+- o27: ζῶντι. = G2198 ζάω "life(-time), (a-)live(-ly), quick" [V-PAP-DSM]
+
+### Hebrews 10:1 (context)
+
+- o1: Σκιὰν = G4639 σκιά "shadow" [N-ASF]
+- o2: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o3: ἔχων = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAP-NSM]
+- o4: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o5: νόμος = G3551 νόμος "law" [N-NSM]
+- o6: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPN]
+- o7: μελλόντων = G3195 μέλλω "about, after that, be (almost), (that which is…" [V-PAP-GPN]
+- o8: ἀγαθῶν, = G18 ἀγαθός "benefit, good(-s, things), well" [A-GPN]
+- o9: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o10: αὐτὴν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASF]
+- o11: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o12: εἰκόνα = G1504 εἰκών "image" [N-ASF]
+- o13: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPN]
+- o14: πραγμάτων, = G4229 πρᾶγμα "business, matter, thing, work" [N-GPN]
+- o15: κατ’ = G2596 κατά "about, according as (to), after, against…" [PREP]
+- o16: ἐνιαυτὸν = G1763 ἐνιαυτός "year" [N-ASM]
+- o17: ταῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPF]
+- o18: αὐταῖς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPF]
+- o19: θυσίαις = G2378 θυσία "sacrifice" [N-DPF]
+- o20: αἷς = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-DPF]
+- o21: προσφέρουσιν = G4374 προσφέρω "bring (to, unto), deal with, do, offer (unto, up)…" [V-PAI-3P]
+- o22: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o23: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o24: διηνεκὲς = G1336 διηνεκής "+ continually, for ever" [A-ASN]
+- o25: οὐδέποτε = G3763 οὐδέποτε "neither at any time, never, nothing at any time" [ADV-N]
+- o26: δύναται = G1410 δύναμαι "be able, can (do, + -not), could, may, might…" [V-PNI-3S]
+- o27: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o28: προσερχομένους = G4334 προσέρχομαι "as soon as he) come (unto), come thereunto…" [V-PNP-APM]
+- o29: τελειῶσαι· = G5048 τελειόω "consecrate, finish, fulfil, make) perfect" [V-AAN]

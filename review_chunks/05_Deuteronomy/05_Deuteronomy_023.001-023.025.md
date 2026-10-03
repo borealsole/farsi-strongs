@@ -1214,3 +1214,47 @@ Persian entries and current tags:
 - p20: همسایه‌ات  → H7054 H7453
 - p21: مگذار  → H5130
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 22:30 (context)
+
+- o1: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o2: יִקַּח = H3947 לָקַח "to take (in the widest variety of applications)" [HVqi3ms]
+- o3: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: אֵשֶׁת = H802 אִשָּׁה "a woman" [HNcfsc]
+- o6: אָבִי/ו = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp3ms]
+- o7: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o8: יְגַלֶּה = H1540 גָּלָה "to denude (especially in a disgraceful sense)…" [HVpi3ms]
+- o9: כְּנַף = H3671 כָּנָף "an edge or extremity…" [HNcfsc]
+- o10: אָבִי/ו = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp3ms]
+
+### Deuteronomy 24:1 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: יִקַּח = H3947 לָקַח "to take (in the widest variety of applications)" [HVqi3ms]
+- o3: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o4: אִשָּׁה = H802 אִשָּׁה "a woman" [HNcfsa]
+- o5: וּ/בְעָלָ/הּ = Hc "and" + H1166 בָּעַל "to be master; hence, to marry" [HC/Vqq3ms/Sp3fs]
+- o6: וְ/הָיָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3ms]
+- o7: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o8: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o9: תִמְצָא = H4672 מָצָא "properly, to come forth to, i.e. appear or exist…" [HVqi3fs]
+- o10: חֵן = H2580 חֵן "graciousness, i.e. subjective (kindness…" [HNcmsa]
+- o11: בְּ/עֵינָי/ו = Hb "in" + H5869 עַיִן "an eye (literally or figuratively)…" [HR/Ncbdc/Sp3ms]
+- o12: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o13: מָצָא = H4672 מָצָא "properly, to come forth to, i.e. appear or exist…" [HVqp3ms]
+- o14: בָ/הּ = Hb "in" [HR/Sp3fs]
+- o15: עֶרְוַת = H6172 עֶרְוָה "nudity…" [HNcfsc]
+- o16: דָּבָר = H1697 דָּבָר "a word…" [HNcmsa]
+- o17: וְ/כָתַב = Hc "and" + H3789 כָּתַב "to grave, by implication, to write (describe…" [HC/Vqq3ms]
+- o18: לָ/הּ = Hl "to" [HR/Sp3fs]
+- o19: סֵפֶר = H5612 סֵפֶר "properly, writing (the art or a document)…" [HNcmsc]
+- o20: כְּרִיתֻת = H3748 כְּרִיתוּת "a cutting (of the matrimonial bond), i.e. divorce" [HNcfsa]
+- o21: וְ/נָתַן = Hc "and" + H5414 נָתַן "to give…" [HC/Vqq3ms]
+- o22: בְּ/יָדָ/הּ = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc/Sp3fs]
+- o23: וְ/שִׁלְּחָ/הּ = Hc "and" + H7971 שָׁלַח "to send away, for…" [HC/Vpq3ms/Sp3fs]
+- o24: מִ/בֵּית/וֹ = Hm "from" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc/Sp3ms]

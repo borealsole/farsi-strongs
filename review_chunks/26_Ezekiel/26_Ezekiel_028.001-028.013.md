@@ -684,3 +684,35 @@ Persian entries and current tags:
 - p53: مهیا  → H3559
 - p54: شده_بود  → H1254
 - p55: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 27:36 (context)
+
+- o1: סֹחֲרִים = H5503 סָחַר "to travel round (specifically as a pedlar)…" [HVqrmpa]
+- o2: בָּ/עַמִּים = Hb "in" + H5971 עַם "a people (as a congregated unit)…" [HRd/Ncmpa]
+- o3: שָׁרְקוּ = H8319 שָׁרַק "properly, to be shrill…" [HVqp3cp]
+- o4: עָלָיִ/ךְ = H5921 עַל "above, over, upon…" [HR/Sp2fs]
+- o5: בַּלָּהוֹת = H1091 בַּלָּהָה "alarm; hence, destruction" [HNcfpa]
+- o6: הָיִית = H1961 הָיָה "to exist, i.e. be or become…" [HVqp2fs]
+- o7: וְ/אֵינֵ/ךְ = Hc "and" + H369 אַיִן "a non-entity…" [HC/Tn/Sp2fs]
+- o8: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o9: עוֹלָם = H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HNcmsa]
+
+### Ezekiel 28:14 (context)
+
+- o1: אַתְּ = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2fs]
+- o2: כְּרוּב = H3742 כְּרוּב "a cherub or imaginary figure" [HNcmsc]
+- o3: מִמְשַׁח = H4473 מִמְשַׁח "outspread (i.e. with outstretched wings)" [HNcmsc]
+- o4: הַ/סּוֹכֵךְ = Hd "the" + H5526 סָכַךְ "properly, to entwine as ascreen…" [HTd/Vqrmsa]
+- o5: וּ/נְתַתִּי/ךָ = Hc "and" + H5414 נָתַן "to give…" [HC/Vqp1cs/Sp2ms]
+- o6: בְּ/הַר = Hb "in" + H2022 הַר "a mountain or range of hills (sometimes used…" [HR/Ncmsc]
+- o7: קֹדֶשׁ = H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HNcmsa]
+- o8: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o9: הָיִיתָ = H1961 הָיָה "to exist, i.e. be or become…" [HVqp2ms]
+- o10: בְּ/תוֹךְ = Hb "in" + H8432 תָּוֶךְ "a bisection, i.e. (by implication) the centre" [HR/Ncmsc]
+- o11: אַבְנֵי = H68 אֶבֶן "a stone" [HNcfpc]
+- o12: אֵשׁ = H784 אֵשׁ "fire (literally or figuratively)" [HNcbsa]
+- o13: הִתְהַלָּכְתָּ = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVtp2ms]

@@ -611,3 +611,24 @@ Persian entries and current tags:
 - p23: آینده
 - p24: رهایی می‌بخشد  → G4506
 - p25: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Thessalonians 2:1 (context)
+
+- o1: Αὐτοὶ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-NPM]
+- o2: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o3: οἴδατε, = G1492 εἴδω "be aware, behold, can (+ not tell), consider…" [V-RAI-2P]
+- o4: ἀδελφοί, = G80 ἀδελφός "brother" [N-VPM]
+- o5: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o6: εἴσοδον = G1529 εἴσοδος "coming, enter(-ing) in (to)" [N-ASF]
+- o7: ἡμῶν = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+- o8: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o9: πρὸς = G4314 πρός "about, according to , against, among, at…" [PREP]
+- o10: ὑμᾶς = G5210 ὑμεῖς "ye (yourselves), you" [P-2AP]
+- o11: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o12: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o13: κενὴ = G2756 κενός "empty, (in) vain" [A-NSF]
+- o14: γέγονεν, = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-2RAI-3S]

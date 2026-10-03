@@ -894,3 +894,45 @@ Persian entries and current tags:
 - p30: بکشانیم  → H5423
 - p31: .
 - p32: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Judges 20:16 (context)
+
+- o1: מִ/כֹּל = Hm "from" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o2: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o3: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o4: שְׁבַע = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcfsa]
+- o5: מֵאוֹת = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbpa]
+- o6: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o7: בָּחוּר = H977 בָּחַר "properly, to try, i.e. (by implication) select" [HVqsmsa]
+- o8: אִטֵּר = H334 אִטֵּר "shut up…" [HAamsc]
+- o9: יַד = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsc]
+- o10: יְמִינ/וֹ = H3225 יָמִין "the right hand or side (leg…" [HNcfsc/Sp3ms]
+- o11: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o12: זֶה = H2088 זֶה "the masculine demonstrative pronoun, this or that" [HPdxms]
+- o13: קֹלֵעַ = H7049 קָלַע "to sling…" [HVqrmsa]
+- o14: בָּ/אֶבֶן = Hb "in" + H68 אֶבֶן "a stone" [HRd/Ncfsa]
+- o15: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o16: הַ/שַּׂעֲרָה = Hd "the" + H8185 שַׂעֲרָה "hairiness" [HTd/Ncfsa]
+- o17: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o18: יַחֲטִא = H2398 חָטָא "properly, to miss…" [HVhi3ms]
+
+### Judges 20:33 (context)
+
+- o1: וְ/כֹל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o2: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsc]
+- o3: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o4: קָמוּ = H6965 קוּם "to rise (in various applications, literal…" [HVqp3cp]
+- o5: מִ/מְּקוֹמ/וֹ = Hm "from" + H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HR/Ncmsc/Sp3ms]
+- o6: וַ/יַּעַרְכוּ = Hc "and" + H6186 עָרַךְ "to set in a row, i.e. arrange…" [HC/Vqw3mp]
+- o7: בְּ/בַעַל = Hb "in" + H1193 בַּעַל תָּמָר "Baal-Tamar, a place in Palestine" [HR/Np]
+- o8: תָּמָר = H1193 בַּעַל תָּמָר "Baal-Tamar, a place in Palestine" [HNp]
+- o9: וְ/אֹרֵב = Hc "and" + H693 אָרַב "to lurk" [HC/Vqrmsc]
+- o10: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o11: מֵגִיחַ = H1518 גִּיחַ "to gush forth (as water), generally to issue" [HVhrmsa]
+- o12: מִ/מְּקֹמ/וֹ = Hm "from" + H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HR/Ncmsc/Sp3ms]
+- o13: מִ/מַּעֲרֵה = Hm "from" + H4629 מַעֲרֶה "a nude place, i.e. a common" [HR/Ncmsc]
+- o14: גָבַע = H1390 גִּבְעָה "Gibah; the name of three places in Palestine" [HNp]

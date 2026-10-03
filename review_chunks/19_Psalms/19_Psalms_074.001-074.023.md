@@ -911,3 +911,39 @@ Persian entries and current tags:
 - p17: بلند
 - p18: می‌شود
 - p19: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 73:28 (context)
+
+- o1: וַ/אֲנִי = Hc "and" + H589 אֲנִי "I" [HC/Pp1cs]
+- o2: קִרֲבַת = H7132 קְרָבָה "approach" [HNcfsc]
+- o3: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o4: לִ/י = Hl "to" [HR/Sp1cs]
+- o5: טוֹב = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAamsa]
+- o6: שַׁתִּי = H7896 שִׁית "to place (in a very wide application)" [HVqp1cs]
+- o7: בַּ/אדֹנָ/י = Hb "in" + H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HR/Ncmpc/Sp1cs]
+- o8: יְהֹוִה = H3069 יְהֹוִה "YHWH" [HNp]
+- o9: מַחְסִ/י = H4268 מַחֲסֶה "a shelter (literally or figuratively)" [HNcmsc/Sp1cs]
+- o10: לְ/סַפֵּר = Hl "to" + H5608 סָפַר "properly…" [HR/Vpc]
+- o11: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o12: מַלְאֲכוֹתֶי/ךָ = H4399 מְלָאכָה "properly, deputyship, i.e. ministry…" [HNcfpc/Sp2ms]
+
+### Psalms 75:1 (context)
+
+- o1: לַ/מְנַצֵּחַ = Hl "to" + H5329 נָצַח "properly, to glitter from afar…" [HRd/Vprmsa]
+- o2: אַל = H516 אַל תַּשְׁחֵת "'Thou must not destroy'…" [HTn]
+- o3: תַּשְׁחֵת = H516 אַל תַּשְׁחֵת "'Thou must not destroy'…" [HVhi2ms]
+- o4: מִזְמוֹר = H4210 מִזְמוֹר "properly, instrumental music…" [HNcmsa]
+- o5: לְ/אָסָף = Hl "to" + H623 אָסָף "Asaph, the name of three Israelites…" [HR/Np]
+- o6: שִׁיר = H7892 שִׁיר "a song; abstractly, singing" [HNcbsa]
+- o7: הוֹדִינוּ = H3034 יָדָה "physically, to throw (a stone…" [HVhp1cp]
+- o8: לְּ/ךָ = Hl "to" [HR/Sp2ms]
+- o9: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o10: הוֹדִינוּ = H3034 יָדָה "physically, to throw (a stone…" [HVhp1cp]
+- o11: וְ/קָרוֹב = Hc "and" + H7138 קָרוֹב "near (in place, kindred or time)" [HC/Aamsa]
+- o12: שְׁמֶ/ךָ = H8034 שֵׁם "an appellation…" [HNcmsc/Sp2ms]
+- o13: סִפְּרוּ = H5608 סָפַר "properly…" [HVpp3cp]
+- o14: נִפְלְאוֹתֶי/ךָ = H6381 פָּלָא "properly, perhaps to separate…" [HVNrfpc/Sp2ms]

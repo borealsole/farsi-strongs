@@ -447,3 +447,26 @@ Persian entries and current tags:
 - p9: .
 - p10: آمین
 - p11: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Thessalonians 5:14 (context)
+
+- o1: παρακαλοῦμεν = G3870 παρακαλέω "beseech, call for, (be of good) comfort, desire…" [V-PAI-1P]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: ὑμᾶς, = G5210 ὑμεῖς "ye (yourselves), you" [P-2AP]
+- o4: ἀδελφοί, = G80 ἀδελφός "brother" [N-VPM]
+- o5: νουθετεῖτε = G3560 νουθετέω "admonish, warn" [V-PAM-2P]
+- o6: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o7: ἀτάκτους, = G813 ἄτακτος "unruly" [A-APM]
+- o8: παραμυθεῖσθε = G3888 παραμυθέομαι "comfort" [V-PNM-2P]
+- o9: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o10: ὀλιγοψύχους, = G3642 ὀλιγόψυχος "feebleminded" [A-APM]
+- o11: ἀντέχεσθε = G472 ἀντέχομαι "hold fast, hold to, support" [V-PNM-2P]
+- o12: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o13: ἀσθενῶν, = G772 ἀσθενής "more feeble, impotent, sick, without strength…" [A-GPM]
+- o14: μακροθυμεῖτε = G3114 μακροθυμέω "bear (suffer) long, be longsuffering…" [V-PAM-2P]
+- o15: πρὸς = G4314 πρός "about, according to , against, among, at…" [PREP]
+- o16: πάντας. = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-APM]

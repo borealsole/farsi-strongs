@@ -627,3 +627,38 @@ Persian entries and current tags:
 - p22: سگان  → H3611
 - p23: بیندازید  → H7993
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 22:16 (context)
+
+- o1: וְ/כִי = Hc "and" + H3588 כִּי "by implication) very widely used as a relative…" [HC/C]
+- o2: יְפַתֶּה = H6601 פָּתָה "to open, i.e. be (causatively, make) roomy…" [HVpi3ms]
+- o3: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o4: בְּתוּלָה = H1330 בְּתוּלָה "a virgin (from her privacy)…" [HNcfsa]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o7: אֹרָשָׂה = H781 אָרַשׂ "to engage for matrimony" [HVPp3fs]
+- o8: וְ/שָׁכַב = Hc "and" + H7901 שָׁכַב "to lie down (for rest, sexual connection…" [HC/Vqp3ms]
+- o9: עִמָּ/הּ = H5973 עִם "adverb or preposition…" [HR/Sp3fs]
+- o10: מָהֹר = H4117 מָהַר "to bargain (for a wife), i.e. to wed" [HVqa]
+- o11: יִמְהָרֶ/נָּה = H4117 מָהַר "to bargain (for a wife), i.e. to wed" [HVqi3ms/Sp3fs]
+- o12: לּ/וֹ = Hl "to" [HR/Sp3ms]
+- o13: לְ/אִשָּׁה = Hl "to" + H802 אִשָּׁה "a woman" [HR/Ncfsa]
+
+### Exodus 23:1 (context)
+
+- o1: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o2: תִשָּׂא = H5375 נָשָׂא "to lift, in a great variety of applications…" [HVqi2ms]
+- o3: שֵׁמַע = H8088 שֵׁמַע "something heard, i.e. a sound, rumor…" [HNcmsc]
+- o4: שָׁוְא = H7723 שָׁוְא "evil (as destructive)…" [HNcmsa]
+- o5: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o6: תָּשֶׁת = H7896 שִׁית "to place (in a very wide application)" [HVqj2ms]
+- o7: יָדְ/ךָ = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsc/Sp2ms]
+- o8: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o9: רָשָׁע = H7563 רָשָׁע "morally wrong…" [HAamsa]
+- o10: לִ/הְיֹת = Hl "to" + H1961 הָיָה "to exist, i.e. be or become…" [HR/Vqc]
+- o11: עֵד = H5707 עֵד "concretely, a witness; abstractly, testimony…" [HNcmsc]
+- o12: חָמָס = H2555 חָמָס "violence; by implication, wrong…" [HNcmsa]

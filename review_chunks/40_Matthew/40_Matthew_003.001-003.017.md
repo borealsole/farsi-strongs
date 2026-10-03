@@ -913,3 +913,44 @@ Persian entries and current tags:
 - p16: خشنودم  → G2106
 - p17: .
 - p18: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 2:23 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἐλθὼν = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-2AAP-NSM]
+- o3: κατῴκησεν = G2730 κατοικέω "dwell(-er), inhabitant(-ter)" [V-AAI-3S]
+- o4: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o5: πόλιν = G4172 πόλις "city" [N-ASF]
+- o6: λεγομένην = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PPP-ASF]
+- o7: Ναζαρέθ· = G3478 Ναζαρέθ "Nazareth" [N-PRI]
+- o8: ὅπως = G3704 ὅπως "because, how, (so) that, to, when" [ADV]
+- o9: πληρωθῇ = G4137 πληρόω "accomplish, after, (be) complete, end, expire…" [V-APS-3S]
+- o10: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o11: ῥηθὲν = G2046 ἐρέω "call, say, speak (of), tell" [V-APP-NSN]
+- o12: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o13: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o14: προφητῶν = G4396 προφήτης "prophet" [N-GPM]
+- o15: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o16: Ναζωραῖος = G3480 Ναζωραῖος "Nazarene, of Nazareth" [N-NSM]
+- o17: κληθήσεται. = G2564 καλέω "bid, call (forth), (whose…" [V-FPI-3S]
+
+### Matthew 4:1 (context)
+
+- o1: Τότε = G5119 τότε "that time, then" [ADV]
+- o2: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o3: Ἰησοῦς = G2424 Ἰησοῦς "Jesus" [N-NSM]
+- o4: ἀνήχθη = G321 ἀνάγω "bring (again, forth, up again), depart…" [V-API-3S]
+- o5: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o6: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o7: ἔρημον = G2048 ἔρημος "desert, desolate, solitary, wilderness" [A-ASF]
+- o8: ὑπὸ = G5259 ὑπό "among, by, from, in, of, under, with" [PREP]
+- o9: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
+- o10: πνεύματος, = G4151 πνεῦμα "ghost, life, spirit(-ual, -ually), mind" [N-GSN]
+- o11: πειρασθῆναι = G3985 πειράζω "assay, examine, go about, prove, tempt(-er), try" [V-APN]
+- o12: ὑπὸ = G5259 ὑπό "among, by, from, in, of, under, with" [PREP]
+- o13: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o14: διαβόλου. = G1228 διάβολος "false accuser, devil, slanderer" [A-GSM]

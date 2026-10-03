@@ -808,3 +808,45 @@ Persian entries and current tags:
 - p21: سَجده  → H6040 H7812
 - p22: کردند  → H7812
 - p23: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 4:16 (context)
+
+- o1: וְ/דִבֶּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpq3ms]
+- o2: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o3: לְ/ךָ = Hl "to" [HR/Sp2ms]
+- o4: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o5: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o6: וְ/הָיָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3ms]
+- o7: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o8: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o9: לְּ/ךָ = Hl "to" [HR/Sp2ms]
+- o10: לְ/פֶה = Hl "to" + H6310 פֶּה "the mouth (as the means of blowing)…" [HR/Ncmsa]
+- o11: וְ/אַתָּה = Hc "and" + H859 אַתָּה "thou and thee, or (plural) ye and you" [HC/Pp2ms]
+- o12: תִּהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi2ms]
+- o13: לּ/וֹ = Hl "to" [HR/Sp3ms]
+- o14: לֵ/אלֹהִים = Hl "to" + H430 אֱלֹהִים "gods in the ordinary sense…" [HR/Ncmpa]
+
+### Exodus 5:1 (context)
+
+- o1: וְ/אַחַר = Hc "and" + H310 אַחַר "properly, the hind part…" [HC/D]
+- o2: בָּאוּ = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3cp]
+- o3: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o4: וְ/אַהֲרֹן = Hc "and" + H175 אַהֲרוֹן "Aharon, the brother of Moses" [HC/Np]
+- o5: וַ/יֹּאמְרוּ = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3mp]
+- o6: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o7: פַּרְעֹה = H6547 פַּרְעֹה "Paroh, a general title of Egyptian kings" [HNp]
+- o8: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o9: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o10: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o11: אֱלֹהֵי = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc]
+- o12: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o13: שַׁלַּח = H7971 שָׁלַח "to send away, for…" [HVpv2ms]
+- o14: אֶת = H853 אֵת "properly…" [HTo]
+- o15: עַמִּ/י = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp1cs]
+- o16: וְ/יָחֹגּוּ = Hc "and" + H2287 חָגַג "properly, to move in acircle…" [HC/Vqi3mp]
+- o17: לִ/י = Hl "to" [HR/Sp1cs]
+- o18: בַּ/מִּדְבָּר = Hb "in" + H4057 מִדְבָּר "a pasture (i.e. open field…" [HRd/Ncmsa]

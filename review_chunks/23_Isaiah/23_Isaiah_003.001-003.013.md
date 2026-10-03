@@ -649,3 +649,37 @@ Persian entries and current tags:
 - p10: قومها  → H5971
 - p11: ایستاده_است  → H5975
 - p12: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 2:22 (context)
+
+- o1: חִדְלוּ = H2308 חָדַל "properly, to be flabby…" [HVqv2mp]
+- o2: לָ/כֶם = Hl "to" [HR/Sp2mp]
+- o3: מִן = H4480 מִן "properly, a part of…" [HR]
+- o4: הָ/אָדָם = Hd "the" + H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HTd/Ncmsa]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: נְשָׁמָה = H5397 נְשָׁמָה "a puff, i.e. wind, angry or vital breath…" [HNcfsa]
+- o7: בְּ/אַפּ/וֹ = Hb "in" + H639 אַף "properly, the nose or nostril…" [HR/Ncmsc/Sp3ms]
+- o8: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o9: בַ/מֶּה = Hb "in" + H4100 מָה "properly…" [HR/Ti]
+- o10: נֶחְשָׁב = H2803 חָשַׁב "properly, to plait or interpenetrate…" [HVNrmsa]
+- o11: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+
+### Isaiah 3:14 (context)
+
+- o1: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o2: בְּ/מִשְׁפָּט = Hb "in" + H4941 מִשְׁפָּט "properly…" [HR/Ncmsa]
+- o3: יָבוֹא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqi3ms]
+- o4: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o5: זִקְנֵי = H2205 זָקֵן "old" [HAampc]
+- o6: עַמּ/וֹ = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp3ms]
+- o7: וְ/שָׂרָי/ו = Hc "and" + H8269 שַׂר "a head person (of any rank or class)" [HC/Ncmpc/Sp3ms]
+- o8: וְ/אַתֶּם = Hc "and" + H859 אַתָּה "thou and thee, or (plural) ye and you" [HC/Pp2mp]
+- o9: בִּעַרְתֶּם = H1197 בָּעַר "to kindle, i.e. consume (by fire or by eating)…" [HVpp2mp]
+- o10: הַ/כֶּרֶם = Hd "the" + H3754 כֶּרֶם "a garden or vineyard" [HTd/Ncbsa]
+- o11: גְּזֵלַת = H1500 גְּזֵלָה "robbery, or (concretely) plunder" [HNcfsc]
+- o12: הֶ/עָנִי = Hd "the" + H6041 עָנִי "depressed, in mind or circumstances" [HTd/Aamsa]
+- o13: בְּ/בָתֵּי/כֶם = Hb "in" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmpc/Sp2mp]

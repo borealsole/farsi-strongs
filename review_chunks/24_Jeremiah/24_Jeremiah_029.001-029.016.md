@@ -925,3 +925,41 @@ Persian entries and current tags:
 - p28: چنین  → H3541
 - p29: می‌فرماید  → H559
 - p30: :
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 28:17 (context)
+
+- o1: וַ/יָּמָת = Hc "and" + H4191 מוּת "to die (literally or figuratively)…" [HC/Vqw3ms]
+- o2: חֲנַנְיָה = H2608 חֲנַנְיָה "Chananjah, the name of thirteen Israelites" [HNp]
+- o3: הַ/נָּבִיא = Hd "the" + H5030 נָבִיא "a prophet or (generally) inspired man" [HTd/Ncmsa]
+- o4: בַּ/שָּׁנָה = Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HRd/Ncfsa]
+- o5: הַ/הִיא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3fs]
+- o6: בַּ/חֹדֶשׁ = Hb "in" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HRd/Ncmsa]
+- o7: הַ/שְּׁבִיעִי = Hd "the" + H7637 שְׁבִיעִי "seventh" [HTd/Aomsa]
+
+### Jeremiah 29:17 (context)
+
+- o1: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o2: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: צְבָאוֹת = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbpa]
+- o5: הִנְ/נִי = H2005 הֵן "lo!; also (as expressing surprise) if" [HTm/Sp1cs]
+- o6: מְשַׁלֵּחַ = H7971 שָׁלַח "to send away, for…" [HVprmsa]
+- o7: בָּ/ם = Hb "in" [HR/Sp3mp]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: הַ/חֶרֶב = Hd "the" + H2719 חֶרֶב "drought…" [HTd/Ncfsa]
+- o10: אֶת = H853 אֵת "properly…" [HTo]
+- o11: הָ/רָעָב = Hd "the" + H7458 רָעָב "hunger (more or less extensive)" [HTd/Ncmsa]
+- o12: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o13: הַ/דָּבֶר = Hd "the" + H1698 דֶּבֶר "a pestilence" [HTd/Ncmsa]
+- o14: וְ/נָתַתִּי = Hc "and" + H5414 נָתַן "to give…" [HC/Vqq1cs]
+- o15: אוֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o16: כַּ/תְּאֵנִים = Hk "like" + H8384 תְּאֵן "the fig (tree or fruit)" [HRd/Ncfpa]
+- o17: הַ/שֹּׁעָרִים = Hd "the" + H8182 שֹׁעָר "harsh or horrid, i.e. offensive" [HTd/Aampa]
+- o18: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o19: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o20: תֵאָכַלְנָה = H398 אָכַל "to eat (literally or figuratively)" [HVNi3fp]
+- o21: מֵ/רֹעַ = Hm "from" + H7455 רֹעַ "badness (as marring), physically or morally" [HR/Ncmsa]

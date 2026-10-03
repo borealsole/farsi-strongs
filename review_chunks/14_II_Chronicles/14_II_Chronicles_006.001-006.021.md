@@ -1236,3 +1236,41 @@ Persian entries and current tags:
 - p26: ،
 - p27: بیامرز  → H5545
 - p28: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 5:14 (context)
+
+- o1: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o2: יָכְלוּ = H3201 יָכֹל "to be able, literally (can…" [HVqp3cp]
+- o3: הַ/כֹּהֲנִים = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmpa]
+- o4: לַ/עֲמוֹד = Hl "to" + H5975 עָמַד "to stand…" [HR/Vqc]
+- o5: לְ/שָׁרֵת = Hl "to" + H8334 שָׁרַת "to attend as a menial or worshipper…" [HR/Vpc]
+- o6: מִ/פְּנֵי = Hm "from" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o7: הֶ/עָנָן = Hd "the" + H6051 עָנָן "a cloud (as covering the sky)…" [HTd/Ncmsa]
+- o8: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o9: מָלֵא = H4390 מָלֵא "to fill or (intransitively) be full of…" [HVqp3ms]
+- o10: כְבוֹד = H3519 כָּבוֹד "properly, weight…" [HNcbsc]
+- o11: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o12: אֶת = H853 אֵת "properly…" [HTo]
+- o13: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o14: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+
+### II Chronicles 6:22 (context)
+
+- o1: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o2: יֶחֱטָא = H2398 חָטָא "properly, to miss…" [HVqi3ms]
+- o3: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o4: לְ/רֵעֵ/הוּ = Hl "to" + H7453 רֵעַ "an associate (more or less close)" [HR/Ncmsc/Sp3ms]
+- o5: וְ/נָשָׁא = Hc "and" + H5375 נָשָׂא "to lift, in a great variety of applications…" [HC/Vqq3ms]
+- o6: ב/וֹ = Hb "in" [HR/Sp3ms]
+- o7: אָלָה = H422 אָלָה "properly, to adjure…" [HNcfsa]
+- o8: לְ/הַאֲלֹת/וֹ = Hl "to" + H423 אָלָה "an imprecation" [HR/Vhc/Sp3ms]
+- o9: וּ/בָא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqq3ms]
+- o10: אָלָה = H423 אָלָה "an imprecation" [HNcfsa]
+- o11: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o12: מִזְבַּחֲ/ךָ = H4196 מִזְבֵּחַ "an altar" [HNcmsc/Sp2ms]
+- o13: בַּ/בַּיִת = Hb "in" + H1004 בַּיִת "a house (in the greatest variation of…" [HRd/Ncmsa]
+- o14: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]

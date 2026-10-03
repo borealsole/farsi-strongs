@@ -592,3 +592,35 @@ Persian entries and current tags:
 - p12: همۀ  → H3605
 - p13: روز  → H3117
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 35:14 (context)
+
+- o1: כְּ/רֵעַ = Hk "like" + H7453 רֵעַ "an associate (more or less close)" [HR/Ncmsa]
+- o2: כְּ/אָח = Hk "like" + H251 אָח "a brother (used in the widest sense of literal…" [HR/Ncmsa]
+- o3: לִ/י = Hl "to" [HR/Sp1cs]
+- o4: הִתְהַלָּכְתִּי = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVtp1cs]
+- o5: כַּ/אֲבֶל = Hk "like" + H57 אָבֵל "lamenting" [HR/Aamsc]
+- o6: אֵם = H517 אֵם "a mother (as the bond of the family)…" [HNcfsa]
+- o7: קֹדֵר = H6937 קָדַר "to be ashy, i.e. darkcolored…" [HVqrmsa]
+- o8: שַׁחוֹתִי = H7817 שָׁחַח "to sink or depress (reflexive or causative)" [HVqp1cs]
+
+### Psalms 36:1 (context)
+
+- o1: לַ/מְנַצֵּחַ = Hl "to" + H5329 נָצַח "properly, to glitter from afar…" [HRd/Vprmsa]
+- o2: לְ/עֶבֶד = Hl "to" + H5650 עֶבֶד "a servant" [HR/Ncmsc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o5: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o6: פֶּשַׁע = H6588 פֶּשַׁע "a revolt (national, moral or religious)" [HNcmsa]
+- o7: לָ/רָשָׁע = Hl "to" + H7563 רָשָׁע "morally wrong…" [HRd/Aamsa]
+- o8: בְּ/קֶרֶב = Hb "in" + H7130 קֶרֶב "properly, the nearest part, i.e. the center…" [HR/Ncmsc]
+- o9: לִבִּ/י = H3820 לֵב "the heart…" [HNcmsc/Sp1cs]
+- o10: אֵין = H369 אַיִן "a non-entity…" [HTn]
+- o11: פַּחַד = H6343 פַּחַד "a (sudden) alarm (properly, the object feared…" [HNcmsc]
+- o12: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o13: לְ/נֶגֶד = Hl "to" + H5048 נֶגֶד "a front, i.e. part opposite…" [HR/R]
+- o14: עֵינָי/ו = H5869 עַיִן "an eye (literally or figuratively)…" [HNcbdc/Sp3ms]

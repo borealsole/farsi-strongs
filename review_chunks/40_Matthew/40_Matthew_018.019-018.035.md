@@ -882,3 +882,60 @@ Persian entries and current tags:
 - p22: نبخشید  → G863
 - p23: .
 - p24: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 18:18 (context)
+
+- o1: Ἀμὴν = G281 ἀμήν "amen, verily" [HEB]
+- o2: λέγω = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-1S]
+- o3: ὑμῖν, = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
+- o4: ὅσα = G3745 ὅσος "all (that), as (long, many, much) (as)…" [K-APN]
+- o5: ἐὰν = G1437 ἐάν "before, but, except, (and) if, (if) so, (what-…" [COND]
+- o6: δήσητε = G1210 δέω "bind, be in bonds, knit, tie, wind" [V-AAS-2P]
+- o7: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o8: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o9: γῆς = G1093 γῆ "country, earth(-ly), ground, land, world" [N-GSF]
+- o10: ἔσται = G1510 εἰμί "am, have been, it is I, was" [V-FDI-3S]
+- o11: δεδεμένα = G1210 δέω "bind, be in bonds, knit, tie, wind" [V-RPP-NPN]
+- o12: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o13: οὐρανῷ = G3772 οὐρανός "air, heaven(-ly), sky" [N-DSM]
+- o14: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o15: ὅσα = G3745 ὅσος "all (that), as (long, many, much) (as)…" [K-APN]
+- o16: ἐὰν = G1437 ἐάν "before, but, except, (and) if, (if) so, (what-…" [COND]
+- o17: λύσητε = G3089 λύω "break (up), destroy, dissolve, (un-)loose, melt…" [V-AAS-2P]
+- o18: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o19: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o20: γῆς = G1093 γῆ "country, earth(-ly), ground, land, world" [N-GSF]
+- o21: ἔσται = G1510 εἰμί "am, have been, it is I, was" [V-FDI-3S]
+- o22: λελυμένα = G3089 λύω "break (up), destroy, dissolve, (un-)loose, melt…" [V-RPP-NPN]
+- o23: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o24: οὐρανῷ. = G3772 οὐρανός "air, heaven(-ly), sky" [N-DSM]
+
+### Matthew 19:1 (context)
+
+- o1: Καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἐγένετο = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-2ADI-3S]
+- o3: ὅτε = G3753 ὅτε "after (that), as soon as, that, when, while" [ADV]
+- o4: ἐτέλεσεν = G5055 τελέω "accomplish, make an end, expire, fill up, finish…" [V-AAI-3S]
+- o5: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o6: Ἰησοῦς = G2424 Ἰησοῦς "Jesus" [N-NSM]
+- o7: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o8: λόγους = G3056 λόγος "account, cause, communication, concerning…" [N-APM]
+- o9: τούτους, = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-APM]
+- o10: μετῆρεν = G3332 μεταίρω "depart" [V-AAI-3S]
+- o11: ἀπὸ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
+- o12: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o13: Γαλιλαίας = G1056 Γαλιλαία "Galilee" [N-GSF]
+- o14: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o15: ἦλθεν = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-2AAI-3S]
+- o16: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o17: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
+- o18: ὅρια = G3725 ὅριον "border, coast" [N-APN]
+- o19: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o20: Ἰουδαίας = G2449 Ἰουδαία "Judæa" [N-GSF]
+- o21: πέραν = G4008 πέραν "beyond, farther (other) side, over" [ADV]
+- o22: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o23: Ἰορδάνου. = G2446 Ἰορδάνης "Jordan" [N-GSM]

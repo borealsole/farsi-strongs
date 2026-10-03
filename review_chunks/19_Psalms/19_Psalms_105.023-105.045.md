@@ -767,3 +767,27 @@ Persian entries and current tags:
 - p15: .
 - p16: هَلِلویاه  → H1984 H3050
 - p17: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 105:22 (context)
+
+- o1: לֶ/אְסֹר = Hl "to" + H631 אָסַר "to yoke or hitch…" [HR/Vqc]
+- o2: שָׂרָי/ו = H8269 שַׂר "a head person (of any rank or class)" [HNcmpc/Sp3ms]
+- o3: בְּ/נַפְשׁ/וֹ = Hb "in" + H5315 נֶפֶשׁ "properly, a breathing creature…" [HR/Ncbsc/Sp3ms]
+- o4: וּ/זְקֵנָי/ו = Hc "and" + H2205 זָקֵן "old" [HC/Aampc/Sp3ms]
+- o5: יְחַכֵּם = H2449 חָכַם "to be wise (in mind, word or act)" [HVpi3ms]
+
+### Psalms 106:1 (context)
+
+- o1: הַלְלוּ = H1984 הָלַל "to be clear (orig. of sound…" [HVpv2mp]
+- o2: יָהּ = H3050 יָהּ "Jah, the sacred name" [HNp]
+- o3: הוֹדוּ = H3034 יָדָה "physically, to throw (a stone…" [HVhv2mp]
+- o4: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o5: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o6: טוֹב = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAamsa]
+- o7: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o8: לְ/עוֹלָם = Hl "to" + H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HR/Ncmsa]
+- o9: חַסְדּ/וֹ = H2617 חֵסֵד "kindness; by implication (towards God) piety…" [HNcmsc/Sp3ms]

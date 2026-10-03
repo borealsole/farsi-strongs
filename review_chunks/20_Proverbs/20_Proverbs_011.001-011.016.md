@@ -560,3 +560,27 @@ Persian entries and current tags:
 - p9: تنها
 - p10: دولت  → H6239
 - p11: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 10:32 (context)
+
+- o1: שִׂפְתֵי = H8193 שָׂפָה "the lip (as a natural boundary)…" [HNcfdc]
+- o2: צַדִּיק = H6662 צַדִּיק "just" [HAamsa]
+- o3: יֵדְעוּ/ן = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqi3mp/Sn]
+- o4: רָצוֹן = H7522 רָצוֹן "delight (especially as shown)" [HNcmsa]
+- o5: וּ/פִי = Hc "and" + H6310 פֶּה "the mouth (as the means of blowing)…" [HC/Ncmsc]
+- o6: רְשָׁעִים = H7563 רָשָׁע "morally wrong…" [HAampa]
+- o7: תַּהְפֻּכוֹת = H8419 תַּהְפֻּכָה "a perversity or fraud" [HNcfpa]
+
+### Proverbs 11:17 (context)
+
+- o1: גֹּמֵל = H1580 גָּמַל "to treat a person (well or ill)…" [HVqrmsa]
+- o2: נַפְשׁ/וֹ = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsc/Sp3ms]
+- o3: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsc]
+- o4: חָסֶד = H2617 חֵסֵד "kindness; by implication (towards God) piety…" [HNcmsa]
+- o5: וְ/עֹכֵר = Hc "and" + H5916 עָכַר "properly, to roil water…" [HC/Vqrmsa]
+- o6: שְׁאֵר/וֹ = H7607 שְׁאֵר "flesh (as swelling out), as living or forfood…" [HNcmsc/Sp3ms]
+- o7: אַכְזָרִי = H394 אַכְזָרִי "terrible" [HAamsa]

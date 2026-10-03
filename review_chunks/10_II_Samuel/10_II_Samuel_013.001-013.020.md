@@ -1256,3 +1256,48 @@ Persian entries and current tags:
 - p43: اَبشالوم  → H53
 - p44: بماند
 - p45: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 12:31 (context)
+
+- o1: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o2: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o3: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o4: בָּ/הּ = Hb "in" [HR/Sp3fs]
+- o5: הוֹצִיא = H3318 יָצָא "to go (causatively, bring) out…" [HVhp3ms]
+- o6: וַ/יָּשֶׂם = Hc "and" + H7760 שׂוּם "to put (used in a great variety of applications…" [HC/Vqw3ms]
+- o7: בַּ/מְּגֵרָה = Hb "in" + H4050 מְגֵרָה "a saw" [HRd/Ncfsa]
+- o8: וּ/בַ/חֲרִצֵי = Hc "and" + Hb "in" + H2757 חָרִיץ "properly, incisure or (passively) incised…" [HC/R/Ncmpc]
+- o9: הַ/בַּרְזֶל = Hd "the" + H1270 בַּרְזֶל "iron (as cutting); by extension, an iron implement" [HTd/Ncmsa]
+- o10: וּ/בְ/מַגְזְרֹת = Hc "and" + Hb "in" + H4037 מַגְזֵרָה "a cutting implement, i.e. a blade" [HC/R/Ncfpc]
+- o11: הַ/בַּרְזֶל = Hd "the" + H1270 בַּרְזֶל "iron (as cutting); by extension, an iron implement" [HTd/Ncmsa]
+- o12: וְ/הֶעֱבִיר = Hc "and" + H5674 עָבַר "to cross over…" [HC/Vhp3ms]
+- o13: אוֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o14: ב/מלכן = Hb "in" + H4404 מַלְבֵּן "a brickkiln" [HRd/Ncmsa]
+- o15: וְ/כֵן = Hc "and" + H3651 כֵּן "properly, set upright…" [HC/Tm]
+- o16: יַעֲשֶׂה = H6213 עָשָׂה "to do or make…" [HVqi3ms]
+- o17: לְ/כֹל = Hl "to" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o18: עָרֵי = H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HNcfpc]
+- o19: בְנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o20: עַמּוֹן = H5983 עַמּוֹן "Ammon, a son of Lot…" [HNp]
+- o21: וַ/יָּשָׁב = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqw3ms]
+- o22: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o23: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o24: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o25: יְרוּשָׁלִָם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+
+### II Samuel 13:21 (context)
+
+- o1: וְ/הַ/מֶּלֶךְ = Hc "and" + Hd "the" + H4428 מֶלֶךְ "a king" [HC/Td/Ncmsa]
+- o2: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o3: שָׁמַע = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqp3ms]
+- o4: אֵת = H853 אֵת "properly…" [HTo]
+- o5: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o6: הַ/דְּבָרִים = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmpa]
+- o7: הָ/אֵלֶּה = Hd "the" + H428 אֵלֶּה "these or those" [HTd/Pdxcp]
+- o8: וַ/יִּחַר = Hc "and" + H2734 חָרָה "to glow or grow warm…" [HC/Vqw3ms]
+- o9: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o10: מְאֹד = H3966 מְאֹד "properly, vehemence…" [HD]

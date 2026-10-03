@@ -818,3 +818,24 @@ Persian entries and current tags:
 - p29: خویش
 - p30: شفقت می‌کند  → H7355
 - p31: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 48:22 (context)
+
+- o1: אֵין = H369 אַיִן "a non-entity…" [HTn]
+- o2: שָׁלוֹם = H7965 שָׁלוֹם "safe, i.e. (figuratively) well, happy, friendly…" [HNcmsa]
+- o3: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: לָ/רְשָׁעִים = Hl "to" + H7563 רָשָׁע "morally wrong…" [HRd/Aampa]
+
+### Isaiah 49:14 (context)
+
+- o1: וַ/תֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3fs]
+- o2: צִיּוֹן = H6726 צִיּוֹן "Tsijon (as a permanent capital)…" [HNp]
+- o3: עֲזָבַ/נִי = H5800 עָזַב "to loosen, i.e. relinquish, permit, etc" [HVqp3ms/Sp1cs]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: וַ/אדֹנָ/י = Hc "and" + H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HC/Ncmpc/Sp1cs]
+- o6: שְׁכֵחָ/נִי = H7911 שָׁכַח "to mislay, i.e. to be oblivious of…" [HVqp3ms/Sp1cs]

@@ -1351,3 +1351,43 @@ Persian entries and current tags:
 - p22: یهوه  → H3068
 - p23: هستم  → H589
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 37:28 (context)
+
+- o1: וְ/יָדְעוּ = Hc "and" + H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HC/Vqq3cp]
+- o2: הַ/גּוֹיִם = Hd "the" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HTd/Ncmpa]
+- o3: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o4: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o5: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o6: מְקַדֵּשׁ = H6942 קָדַשׁ "to be (causatively, make…" [HVprmsa]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o9: בִּ/הְיוֹת = Hb "in" + H1961 הָיָה "to exist, i.e. be or become…" [HR/Vqc]
+- o10: מִקְדָּשִׁ/י = H4720 מִקְדָּשׁ "a consecrated thing or place, especially…" [HNcmsc/Sp1cs]
+- o11: בְּ/תוֹכָ/ם = Hb "in" + H8432 תָּוֶךְ "a bisection, i.e. (by implication) the centre" [HR/Ncmsc/Sp3mp]
+- o12: לְ/עוֹלָם = Hl "to" + H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HR/Ncmsa]
+
+### Ezekiel 39:1 (context)
+
+- o1: וְ/אַתָּה = Hc "and" + H859 אַתָּה "thou and thee, or (plural) ye and you" [HC/Pp2ms]
+- o2: בֶן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o3: אָדָם = H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HNcmsa]
+- o4: הִנָּבֵא = H5012 נָבָא "to prophesy…" [HVNv2ms]
+- o5: עַל = H5921 עַל "above, over, upon…" [HR]
+- o6: גּוֹג = H1463 גּוֹג "Gog, the name of an Israelite…" [HNp]
+- o7: וְ/אָמַרְתָּ = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqq2ms]
+- o8: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o9: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o10: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o11: יְהוִה = H3069 יְהֹוִה "YHWH" [HNp]
+- o12: הִנְ/נִי = H2005 הֵן "lo!; also (as expressing surprise) if" [HTm/Sp1cs]
+- o13: אֵלֶי/ךָ = H413 אֵל "near, with or among; often in general, to" [HR/Sp2ms]
+- o14: גּוֹג = H1463 גּוֹג "Gog, the name of an Israelite…" [HNp]
+- o15: נְשִׂיא = H5387 נָשִׂיא "properly, an exalted one, i.e. a king or sheik…" [HNcmsc]
+- o16: רֹאשׁ = H7218 רֹאשׁ "the head (as most easily shaken)…" [HNcmsc]
+- o17: מֶשֶׁךְ = H4902 מֶשֶׁךְ "Meshek, a son of Japheth…" [HNp]
+- o18: וְ/תֻבָל = Hc "and" + H8422 תּוּבַל "Tubal, a postdiluvian patriarch and his posterity" [HC/Np]

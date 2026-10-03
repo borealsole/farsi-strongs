@@ -1082,3 +1082,25 @@ Persian entries and current tags:
 - p16: را
 - p17: برکت داد  → H1288
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 26:35 (context)
+
+- o1: וַ/תִּהְיֶיןָ = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3fp]
+- o2: מֹרַת = H4786 מֹרָה "bitterness, i.e. (figuratively) trouble" [HNcfsc]
+- o3: רוּחַ = H7307 רוּחַ "wind…" [HNcbsa]
+- o4: לְ/יִצְחָק = Hl "to" + H3327 יִצְחָק "Jitschak (or Isaac), son of Abraham" [HR/Np]
+- o5: וּ/לְ/רִבְקָה = Hc "and" + Hl "to" + H7259 רִבְקָה "Ribkah, the wife of Isaac" [HC/R/Np]
+
+### Genesis 27:24 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o3: זֶה = H2088 זֶה "the masculine demonstrative pronoun, this or that" [HPdxms]
+- o4: בְּנִ/י = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp1cs]
+- o5: עֵשָׂו = H6215 עֵשָׂו "Esav, a son of Isaac, including his posterity" [HNp]
+- o6: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o7: אָנִי = H589 אֲנִי "I" [HPp1cs]

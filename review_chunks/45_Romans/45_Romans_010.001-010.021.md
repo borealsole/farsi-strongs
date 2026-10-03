@@ -1077,3 +1077,52 @@ Persian entries and current tags:
 - p18: گردنکش  → G483
 - p19: .
 - p20: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Romans 9:33 (context)
+
+- o1: καθὼς = G2531 καθώς "according to, (according, even) as, how, when" [ADV]
+- o2: γέγραπται· = G1125 γράφω "describe, write(-ing, -ten)" [V-RPI-3S]
+- o3: ἰδοὺ = G3708 ὁράω "behold, perceive, see, take heed" [V-2AMM-2S]
+- o4: τίθημι = G5087 τίθημι "+ advise, appoint, bow, commit, conceive, give…" [V-PAI-1S]
+- o5: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o6: Σιὼν = G4622 Σιών "Sion" [N-PRI]
+- o7: λίθον = G3037 λίθος "(mill-, stumbling-)stone" [N-ASM]
+- o8: προσκόμματος = G4348 πρόσκομμα "offence, stumbling(-block, (-stone))" [N-GSN]
+- o9: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o10: πέτραν = G4073 πέτρα "rock" [N-ASF]
+- o11: σκανδάλου, = G4625 σκάνδαλον "occasion to fall (of stumbling), offence…" [N-GSN]
+- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o13: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o14: πιστεύων = G4100 πιστεύω "believe(-r), commit (to trust), put in trust with" [V-PAP-NSM]
+- o15: ἐπ’ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o16: αὐτῷ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
+- o17: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o18: καταισχυνθήσεται. = G2617 καταισχύνω "confound, dishonour, (be a-, make a-)shame(-d)" [V-FPI-3S]
+
+### Romans 11:1 (context)
+
+- o1: Λέγω = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-1S]
+- o2: οὖν, = G3767 οὖν "and (so, truly), but, now (then)…" [CONJ]
+- o3: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o4: ἀπώσατο = G683 ἀπωθέομαι "cast away, put away (from), thrust away (from)" [V-ADI-3S]
+- o5: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o6: θεὸς = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-NSM]
+- o7: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o8: λαὸν = G2992 λαός "people" [N-ASM]
+- o9: αὐτοῦ; = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o10: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o11: γένοιτο· = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-2ADO-3S]
+- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o13: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o14: ἐγὼ = G1473 ἐγώ "I, me" [P-1NS]
+- o15: Ἰσραηλείτης = G2475 Ἰσραηλίτης "Israelite" [N-NSM]
+- o16: εἰμί, = G1510 εἰμί "am, have been, it is I, was" [V-PAI-1S]
+- o17: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o18: σπέρματος = G4690 σπέρμα "issue, seed" [N-GSN]
+- o19: Ἀβραάμ, = G11 Ἀβραάμ "Abraham" [N-PRI]
+- o20: φυλῆς = G5443 φυλή "kindred, tribe" [N-GSF]
+- o21: Βενιαμείν. = G958 Βενιαμίν "Benjamin" [N-PRI]

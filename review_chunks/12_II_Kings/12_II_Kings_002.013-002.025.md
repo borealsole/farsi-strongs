@@ -793,3 +793,47 @@ Persian entries and current tags:
 - p13: سامِرِه  → H8111
 - p14: بازگشت  → H7725
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 2:12 (context)
+
+- o1: וֶ/אֱלִישָׁע = Hc "and" + H477 אֱלִישָׁע "Elisha, the famous prophet" [HC/Np]
+- o2: רֹאֶה = H7200 רָאָה "to see…" [HVqrmsa]
+- o3: וְ/הוּא = Hc "and" + H1931 הוּא "he (she or it)…" [HC/Pp3ms]
+- o4: מְצַעֵק = H6817 צָעַק "to shriek…" [HVprmsa]
+- o5: אָבִ/י = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp1cs]
+- o6: אָבִ/י = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp1cs]
+- o7: רֶכֶב = H7393 רֶכֶב "a vehicle; by implication, a team…" [HNcmsc]
+- o8: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o9: וּ/פָרָשָׁי/ו = Hc "and" + H6571 פָּרָשׁ "a steed (as stretched out to a vehicle…" [HC/Ncmpc/Sp3ms]
+- o10: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o11: רָאָ/הוּ = H7200 רָאָה "to see…" [HVqp3ms/Sp3ms]
+- o12: עוֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+- o13: וַ/יַּחֲזֵק = Hc "and" + H2388 חָזַק "to fasten upon…" [HC/Vhw3ms]
+- o14: בִּ/בְגָדָי/ו = Hb "in" + H899 בֶּגֶד "a covering, i.e. clothing…" [HR/Ncmpc/Sp3ms]
+- o15: וַ/יִּקְרָעֵ/ם = Hc "and" + H7167 קָרַע "to rend, literally or figuratively (revile…" [HC/Vqw3ms/Sp3mp]
+- o16: לִ/שְׁנַיִם = Hl "to" + H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HR/Acmda]
+- o17: קְרָעִים = H7168 קֶרַע "a rag" [HNcmpa]
+
+### II Kings 3:1 (context)
+
+- o1: וִ/יהוֹרָם = Hc "and" + H3088 יְהוֹרָם "Jehoram…" [HC/Np]
+- o2: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o3: אַחְאָב = H256 אַחְאָב "Achab…" [HNp]
+- o4: מָלַךְ = H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HVqp3ms]
+- o5: עַל = H5921 עַל "above, over, upon…" [HR]
+- o6: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o7: בְּ/שֹׁמְרוֹן = Hb "in" + H8111 שֹׁמְרוֹן "Shomeron, a place in Palestine" [HR/Np]
+- o8: בִּ/שְׁנַת = Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HR/Ncfsc]
+- o9: שְׁמֹנֶה = H8083 שְׁמֹנֶה "a cardinal number…" [HAcfsa]
+- o10: עֶשְׂרֵה = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcfsa]
+- o11: לִ/יהוֹשָׁפָט = Hl "to" + H3092 יְהוֹשָׁפָט "Jehoshaphat, the name of six Israelites…" [HR/Np]
+- o12: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o13: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o14: וַ/יִּמְלֹךְ = Hc "and" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HC/Vqw3ms]
+- o15: שְׁתֵּים = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcfda]
+- o16: עֶשְׂרֵה = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcfsa]
+- o17: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]

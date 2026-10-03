@@ -682,3 +682,36 @@ Persian entries and current tags:
 - p19: باد
 - p20: خدا  → H430
 - p21: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 68:18 (context)
+
+- o1: עָלִיתָ = H5927 עָלָה "to ascend…" [HVqp2ms]
+- o2: לַ/מָּרוֹם = Hl "to" + H4791 מָרוֹם "altitude, i.e. concretely (an elevated place)…" [HTd/Ncmsa]
+- o3: שָׁבִיתָ = H7617 שָׁבָה "to transport into captivity" [HVqp2ms]
+- o4: שֶּׁבִי = H7628 שְׁבִי "exiled; captured…" [HNcbsa]
+- o5: לָקַחְתָּ = H3947 לָקַח "to take (in the widest variety of applications)" [HVqp2ms]
+- o6: מַתָּנוֹת = H4979 מַתָּנָה "a present…" [HNcfpa]
+- o7: בָּ/אָדָם = Hb "in" + H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HRd/Ncmsa]
+- o8: וְ/אַף = Hc "and" + H637 אַף "meaning accession (used as an adverb or…" [HC/D]
+- o9: סוֹרְרִים = H5637 סָרַר "to turn away, i.e. (morally) be refractory" [HVqrmpa]
+- o10: לִ/שְׁכֹּן = Hl "to" + H7931 שָׁכַן "to reside or permanently stay (literally or…" [HR/Vqc]
+- o11: יָהּ = H3050 יָהּ "Jah, the sacred name" [HNp]
+- o12: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+
+### Psalms 69:1 (context)
+
+- o1: לַ/מְנַצֵּחַ = Hl "to" + H5329 נָצַח "properly, to glitter from afar…" [HRd/Vprmsa]
+- o2: עַל = H5921 עַל "above, over, upon…" [HR]
+- o3: שׁוֹשַׁנִּים = H7799 שׁוּשַׁן "a lily (from its whiteness)…" [HNcbpa]
+- o4: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o5: הוֹשִׁיעֵ/נִי = H3467 יָשַׁע "properly, to be open, wide or free…" [HVhv2ms/Sp1cs]
+- o6: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o7: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o8: בָאוּ = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3cp]
+- o9: מַיִם = H4325 מַיִם "water; figuratively, juice…" [HNcmpa]
+- o10: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o11: נָפֶשׁ = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsa]

@@ -905,3 +905,41 @@ Persian entries and current tags:
 - p22: آصیل  → H682
 - p23: بودند
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 9:22 (context)
+
+- o1: כֻּלָּ/ם = H3605 כֹּל "properly, the whole…" [HNcmsc/Sp3mp]
+- o2: הַ/בְּרוּרִים = Hd "the" + H1305 בָּרַר "to clarify (i.e. brighten), examine, select" [HTd/Vqsmpa]
+- o3: לְ/שֹׁעֲרִים = Hl "to" + H7778 שׁוֹעֵר "a janitor" [HR/Ncmpa]
+- o4: בַּ/סִּפִּים = Hb "in" + H5592 סַף "a vestibule (as a limit)…" [HRd/Ncmpa]
+- o5: מָאתַיִם = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbda]
+- o6: וּ/שְׁנֵים = Hc "and" + H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HC/Acmda]
+- o7: עָשָׂר = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcmsa]
+- o8: הֵמָּה = H1992 הֵם "they (only used when emphatic)" [HPp3mp]
+- o9: בְ/חַצְרֵי/הֶם = Hb "in" + H2691 חָצֵר "a yard (as inclosed by a fence)…" [HR/Ncbpc/Sp3mp]
+- o10: הִתְיַחְשָׂ/ם = H3187 יָחַשׂ "to enroll by pedigree" [HVtc/Sp3mp]
+- o11: הֵמָּה = H1992 הֵם "they (only used when emphatic)" [HPp3mp]
+- o12: יִסַּד = H3245 יָסַד "to set (literally or figuratively)…" [HVpp3ms]
+- o13: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o14: וּ/שְׁמוּאֵל = Hc "and" + H8050 שְׁמוּאֵל "Shemuel, the name of three Israelites" [HC/Np]
+- o15: הָ/רֹאֶה = Hd "the" + H7200 רָאָה "to see…" [HTd/Ncmsa]
+- o16: בֶּ/אֱמוּנָתָ/ם = Hb "in" + H530 אֱמוּנָה "literally firmness; figuratively security…" [HR/Ncfsc/Sp3mp]
+
+### I Chronicles 10:1 (context)
+
+- o1: וּ/פְלִשְׁתִּים = Hc "and" + H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HC/Ngmpa]
+- o2: נִלְחֲמוּ = H3898 לָחַם "to feed on; figuratively, to consume…" [HVNp3cp]
+- o3: בְ/יִשְׂרָאֵל = Hb "in" + H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HR/Np]
+- o4: וַ/יָּנָס = Hc "and" + H5127 נוּס "to flit, i.e. vanish away (subside, escape…" [HC/Vqw3ms]
+- o5: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsc]
+- o6: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o7: מִ/פְּנֵי = Hm "from" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o8: פְלִשְׁתִּים = H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HNgmpa]
+- o9: וַ/יִּפְּלוּ = Hc "and" + H5307 נָפַל "to fall…" [HC/Vqw3mp]
+- o10: חֲלָלִים = H2491 חָלָל "pierced (especially to death)…" [HAampa]
+- o11: בְּ/הַר = Hb "in" + H2022 הַר "a mountain or range of hills (sometimes used…" [HR/Ncmsc]
+- o12: גִּלְבֹּעַ = H1533 גִּלְבֹּעַ "Gilboa, a mountain of Palestine" [HNp]

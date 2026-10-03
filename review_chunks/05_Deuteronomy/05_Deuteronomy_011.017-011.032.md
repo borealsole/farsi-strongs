@@ -915,3 +915,45 @@ Persian entries and current tags:
 - p17: جای
 - p18: آورید  → H6213
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 11:16 (context)
+
+- o1: הִשָּׁמְרוּ = H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HVNv2mp]
+- o2: לָ/כֶם = Hl "to" [HR/Sp2mp]
+- o3: פֶּן = H6435 פֵּן "properly, removal…" [HC]
+- o4: יִפְתֶּה = H6601 פָּתָה "to open, i.e. be (causatively, make) roomy…" [HVqi3ms]
+- o5: לְבַבְ/כֶם = H3824 לֵבָב "the heart (as the most interior organ)" [HNcmsc/Sp2mp]
+- o6: וְ/סַרְתֶּם = Hc "and" + H5493 סוּר "to turn off (literal or figurative)" [HC/Vqq2mp]
+- o7: וַ/עֲבַדְתֶּם = Hc "and" + H5647 עָבַד "to work (in any sense)…" [HC/Vqq2mp]
+- o8: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o9: אֲחֵרִים = H312 אַחֵר "properly, hinder; generally, next, other, etc" [HAampa]
+- o10: וְ/הִשְׁתַּחֲוִיתֶם = Hc "and" + H7812 שָׁחָה "to depress, i.e. prostrate (especially reflexive…" [HC/Vvq2mp]
+- o11: לָ/הֶם = Hl "to" [HR/Sp3mp]
+
+### Deuteronomy 12:1 (context)
+
+- o1: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o2: הַ/חֻקִּים = Hd "the" + H2706 חֹק "an enactment…" [HTd/Ncmpa]
+- o3: וְ/הַ/מִּשְׁפָּטִים = Hc "and" + Hd "the" + H4941 מִשְׁפָּט "properly…" [HC/Td/Ncmpa]
+- o4: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o5: תִּשְׁמְרוּ/ן = H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HVqi2mp/Sn]
+- o6: לַ/עֲשׂוֹת = Hl "to" + H6213 עָשָׂה "to do or make…" [HR/Vqc]
+- o7: בָּ/אָרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HRd/Ncbsa]
+- o8: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o9: נָתַן = H5414 נָתַן "to give…" [HVqp3ms]
+- o10: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o11: אֱלֹהֵי = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc]
+- o12: אֲבֹתֶי/ךָ = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp2ms]
+- o13: לְ/ךָ = Hl "to" [HR/Sp2ms]
+- o14: לְ/רִשְׁתָּ/הּ = Hl "to" + H3423 יָרַשׁ "to occupy (by driving out previous tenants…" [HR/Vqc/Sp3fs]
+- o15: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o16: הַ/יָּמִים = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmpa]
+- o17: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o18: אַתֶּם = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2mp]
+- o19: חַיִּים = H2416 חַי "alive; hence, raw (flesh)…" [HAampa]
+- o20: עַל = H5921 עַל "above, over, upon…" [HR]
+- o21: הָ/אֲדָמָה = Hd "the" + H127 אֲדָמָה "soil (from its general redness)" [HTd/Ncfsa]

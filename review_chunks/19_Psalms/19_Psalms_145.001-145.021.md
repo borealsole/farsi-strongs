@@ -764,3 +764,27 @@ Persian entries and current tags:
 - p18: تا
 - p19: ابدالآباد  → H5703
 - p20: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 144:15 (context)
+
+- o1: אַשְׁרֵי = H835 אֶשֶׁר "happiness…" [HNcmpa]
+- o2: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o3: שֶׁ/כָּכָה = Hs "which" + H3602 כָּכָה "just so…" [HTr/D]
+- o4: לּ/וֹ = Hl "to" [HR/Sp3ms]
+- o5: אַשְׁרֵי = H835 אֶשֶׁר "happiness…" [HNcmpa]
+- o6: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o7: שֶׁ/יֲהוָה = Hs "which" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HTr/Np]
+- o8: אֱלֹהָי/ו = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp3ms]
+
+### Psalms 146:1 (context)
+
+- o1: הַלְלוּ = H1984 הָלַל "to be clear (orig. of sound…" [HVpv2mp]
+- o2: יָהּ = H3050 יָהּ "Jah, the sacred name" [HNp]
+- o3: הַלְלִי = H1984 הָלַל "to be clear (orig. of sound…" [HVpv2fs]
+- o4: נַפְשִׁ/י = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsc/Sp1cs]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]

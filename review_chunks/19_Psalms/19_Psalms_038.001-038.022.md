@@ -767,3 +767,37 @@ Persian entries and current tags:
 - p10: من
 - p11: هستی
 - p12: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 37:40 (context)
+
+- o1: וַ/יַּעְזְרֵ/ם = Hc "and" + H5826 עָזַר "to surround, i.e. protect or aid" [HC/Vqw3ms/Sp3mp]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: וַ/יְפַלְּטֵ/ם = Hc "and" + H6403 פָּלַט "to slip out, i.e. escape; causatively, to deliver" [HC/Vpw3ms/Sp3mp]
+- o4: יְפַלְּטֵ/ם = H6403 פָּלַט "to slip out, i.e. escape; causatively, to deliver" [HVpi3ms/Sp3mp]
+- o5: מֵ/רְשָׁעִים = Hm "from" + H7563 רָשָׁע "morally wrong…" [HR/Aampa]
+- o6: וְ/יוֹשִׁיעֵ/ם = Hc "and" + H3467 יָשַׁע "properly, to be open, wide or free…" [HC/Vhi3ms/Sp3mp]
+- o7: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o8: חָסוּ = H2620 חָסָה "to flee for protection…" [HVqp3cp]
+- o9: ב/וֹ = Hb "in" [HR/Sp3ms]
+
+### Psalms 39:1 (context)
+
+- o1: לַ/מְנַצֵּחַ = Hl "to" + H5329 נָצַח "properly, to glitter from afar…" [HRd/Vprmsa]
+- o2: ל/ידיתון = Hl "to" + H3038 יְדוּתוּן "Jeduthun, an Israelite" [HR/Np]
+- o3: מִזְמוֹר = H4210 מִזְמוֹר "properly, instrumental music…" [HNcmsa]
+- o4: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o5: אָמַרְתִּי = H559 אָמַר "to say (used with great latitude)" [HVqp1cs]
+- o6: אֶשְׁמְרָה = H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HVqh1cs]
+- o7: דְרָכַ/י = H1870 דֶּרֶךְ "a road (as trodden)…" [HNcbpc/Sp1cs]
+- o8: מֵ/חֲטוֹא = Hm "from" + H2398 חָטָא "properly, to miss…" [HR/Vqc]
+- o9: בִ/לְשׁוֹנִ/י = Hb "in" + H3956 לָשׁוֹן "the tongue (of man or animals)…" [HR/Ncbsc/Sp1cs]
+- o10: אֶשְׁמְרָה = H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HVqh1cs]
+- o11: לְ/פִ/י = Hl "to" + H6310 פֶּה "the mouth (as the means of blowing)…" [HR/Ncmsc/Sp1cs]
+- o12: מַחְסוֹם = H4269 מַחְסוֹם "a muzzle" [HNcmsa]
+- o13: בְּ/עֹד = Hb "in" + H5704 עַד "as far (or long, or much) as…" [HR/D]
+- o14: רָשָׁע = H7563 רָשָׁע "morally wrong…" [HAamsa]
+- o15: לְ/נֶגְדִּ/י = Hl "to" + H5048 נֶגֶד "a front, i.e. part opposite…" [HR/R/Sp1cs]

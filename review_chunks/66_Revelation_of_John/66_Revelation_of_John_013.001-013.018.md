@@ -1172,3 +1172,53 @@ Persian entries and current tags:
 - p34: شش  → G5516
 - p35: است
 - p36: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Revelation of John 12:18 (context)
+
+- o1: Καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἐστάθην = G2476 ἵστημι "abide, appoint, bring, continue, covenant…" [V-API-1S]
+- o3: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o4: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o5: ἄμμον = G285 ἄμμος "sand" [N-ASF]
+- o6: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o7: θαλάσσης. = G2281 θάλασσα "sea" [N-GSF]
+
+### Revelation of John 14:1 (context)
+
+- o1: Καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἴδον, = G3708 ὁράω "behold, perceive, see, take heed" [V-2AAI-1S]
+- o3: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o4: ἰδοὺ = G3708 ὁράω "behold, perceive, see, take heed" [V-2AMM-2S]
+- o5: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o6: ἀρνίον = G721 ἀρνίον "lamb" [N-NSN]
+- o7: ἑστὸς = G2476 ἵστημι "abide, appoint, bring, continue, covenant…" [V-2RAP-NSN]
+- o8: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o9: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o10: ὄρος = G3735 ὄρος "hill, mount(-ain)" [N-ASN]
+- o11: Σιών, = G4622 Σιών "Sion" [N-PRI]
+- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o13: μετ’ = G3326 μετά "after(-ward), that he again, against, among, and…" [PREP]
+- o14: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o15: ἑκατὸν = G1540 ἑκατόν "hundred" [A-NUI]
+- o16: τεσσεράκοντα = G5062 τεσσαράκοντα "forty" [A-NUI]
+- o17: τέσσαρες = G5064 τέσσαρες "four" [A-NPF]
+- o18: χιλιάδες = G5505 χιλιάς "thousand" [N-NPF]
+- o19: ἔχουσαι = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAP-NPF]
+- o20: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o21: ὄνομα = G3686 ὄνομα "called, (+ sur-)name(-d)" [N-ASN]
+- o22: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o23: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o24: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o25: ὄνομα = G3686 ὄνομα "called, (+ sur-)name(-d)" [N-ASN]
+- o26: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o27: πατρὸς = G3962 πατήρ "father, parent" [N-GSM]
+- o28: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o29: γεγραμμένον = G1125 γράφω "describe, write(-ing, -ten)" [V-RPP-ASN]
+- o30: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o31: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPN]
+- o32: μετώπων = G3359 μέτωπον "forehead" [N-GPN]
+- o33: αὐτῶν. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]

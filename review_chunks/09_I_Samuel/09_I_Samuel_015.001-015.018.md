@@ -1039,3 +1039,43 @@ Persian entries and current tags:
 - p28: شوند
 - p29: !
 - p30: “
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 14:52 (context)
+
+- o1: וַ/תְּהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3fs]
+- o2: הַ/מִּלְחָמָה = Hd "the" + H4421 מִלְחָמָה "a battle (i.e. the engagement)…" [HTd/Ncfsa]
+- o3: חֲזָקָה = H2389 חָזָק "strong (usu. in a bad sense, hard, bold, violent)" [HAafsa]
+- o4: עַל = H5921 עַל "above, over, upon…" [HR]
+- o5: פְּלִשְׁתִּים = H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HNgmpa]
+- o6: כֹּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o7: יְמֵי = H3117 יוֹם "a day (as the warm hours)…" [HNcmpc]
+- o8: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o9: וְ/רָאָה = Hc "and" + H7200 רָאָה "to see…" [HC/Vqq3ms]
+- o10: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o11: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o12: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o13: גִּבּוֹר = H1368 גִּבּוֹר "powerful; by implication, warrior, tyrant" [HAamsa]
+- o14: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o15: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o16: חַיִל = H2428 חַיִל "probably a force, whether of men…" [HNcmsa]
+- o17: וַ/יַּאַסְפֵ/הוּ = Hc "and" + H622 אָסַף "to gather for any purpose…" [HC/Vqw3ms/Sp3ms]
+- o18: אֵלָי/ו = H413 אֵל "near, with or among; often in general, to" [HR/Sp3ms]
+
+### I Samuel 15:19 (context)
+
+- o1: וְ/לָ/מָּה = Hc "and" + Hl "to" + H4100 מָה "properly…" [HC/R/Ti]
+- o2: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o3: שָׁמַעְתָּ = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqp2ms]
+- o4: בְּ/קוֹל = Hb "in" + H6963 קוֹל "a voice or sound" [HR/Ncmsc]
+- o5: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o6: וַ/תַּעַט = Hc "and" + H5860 עִיט "to swoop down upon (literally or figuratively)" [HC/Vqw2ms]
+- o7: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o8: הַ/שָּׁלָל = Hd "the" + H7998 שָׁלָל "booty" [HTd/Ncmsa]
+- o9: וַ/תַּעַשׂ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw2ms]
+- o10: הָ/רַע = Hd "the" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HTd/Aamsa]
+- o11: בְּ/עֵינֵי = Hb "in" + H5869 עַיִן "an eye (literally or figuratively)…" [HR/Ncbdc]
+- o12: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]

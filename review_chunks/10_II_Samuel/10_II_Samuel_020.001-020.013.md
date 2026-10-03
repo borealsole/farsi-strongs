@@ -916,3 +916,58 @@ Persian entries and current tags:
 - p19: بِکری  → H1075
 - p20: رفتند
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 19:43 (context)
+
+- o1: וַ/יַּעַן = Hc "and" + H6030 עָנָה "properly, to eye or (generally) to heed…" [HC/Vqw3ms]
+- o2: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsc]
+- o3: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsc]
+- o6: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o7: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o8: עֶשֶׂר = H6235 עֶשֶׂר "ten (as an accumulation to the extent of the…" [HAcfsa]
+- o9: יָדוֹת = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbpa]
+- o10: לִ/י = Hl "to" [HR/Sp1cs]
+- o11: בַ/מֶּלֶךְ = Hb "in" + H4428 מֶלֶךְ "a king" [HRd/Ncmsa]
+- o12: וְ/גַם = Hc "and" + H1571 גַּם "properly, assemblage…" [HC/Ta]
+- o13: בְּ/דָוִד = Hb "in" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o14: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o15: מִמְּ/ךָ = H4480 מִן "properly, a part of…" [HR/Sp2ms]
+- o16: וּ/מַדּוּעַ = Hc "and" + H4069 מַדּוּעַ "what (is) known?…" [HC/Ti]
+- o17: הֱקִלֹּתַ/נִי = H7043 קָלַל "to be (causatively, make) light, literally (swift…" [HVhp2ms/Sp1cs]
+- o18: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o19: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o20: דְבָרִ/י = H1697 דָּבָר "a word…" [HNcmsc/Sp1cs]
+- o21: רִאשׁוֹן = H7223 רִאשׁוֹן "first, in place…" [HAamsa]
+- o22: לִ/י = Hl "to" [HR/Sp1cs]
+- o23: לְ/הָשִׁיב = Hl "to" + H7725 שׁוּב "to turn back (hence…" [HR/Vhc]
+- o24: אֶת = H853 אֵת "properly…" [HTo]
+- o25: מַלְכִּ/י = H4428 מֶלֶךְ "a king" [HNcmsc/Sp1cs]
+- o26: וַ/יִּקֶשׁ = Hc "and" + H7185 קָשָׁה "properly, to be dense…" [HC/Vqw3ms]
+- o27: דְּבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o28: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsc]
+- o29: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o30: מִ/דְּבַר = Hm "from" + H1697 דָּבָר "a word…" [HR/Ncmsc]
+- o31: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsc]
+- o32: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+
+### II Samuel 20:14 (context)
+
+- o1: וַ/יַּעֲבֹר = Hc "and" + H5674 עָבַר "to cross over…" [HC/Vqw3ms]
+- o2: בְּ/כָל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o3: שִׁבְטֵי = H7626 שֵׁבֶט "a scion, i.e. (literally) a stick (for punishing…" [HNcmpc]
+- o4: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o5: אָבֵלָ/ה = H59 אָבֵל "Abel, the name of two places in Palestine" [HNp/Sd]
+- o6: וּ/בֵית = Hc "and" + H1038 בֵּית מַעֲכָה "Beth-Maakah, a place in Palestine" [HC/Np]
+- o7: מַעֲכָה = H1038 בֵּית מַעֲכָה "Beth-Maakah, a place in Palestine" [HNp]
+- o8: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o9: הַ/בֵּרִים = Hd "the" + H1276 בֵּרִי "only in the plural and with the article) the…" [HTd/Ngmpa]
+- o10: ו/יקלהו = Hc "and" + H7035 קָלַהּ "to assemble" [HC/VNw3mp]
+- o11: וַ/יָּבֹאוּ = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3mp]
+- o12: אַף = H637 אַף "meaning accession (used as an adverb or…" [HTa]
+- o13: אַחֲרָי/ו = H310 אַחַר "properly, the hind part…" [HR/Sp3ms]

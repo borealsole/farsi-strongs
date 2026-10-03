@@ -317,3 +317,42 @@ Persian entries and current tags:
 - p30: من
 - p31: است
 - p32: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 42:11 (context)
+
+- o1: מַה = H4100 מָה "properly…" [HTi]
+- o2: תִּשְׁתּוֹחֲחִי = H7817 שָׁחַח "to sink or depress (reflexive or causative)" [HVri2fs]
+- o3: נַפְשִׁ/י = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsc/Sp1cs]
+- o4: וּ/מַה = Hc "and" + H4100 מָה "properly…" [HC/Ti]
+- o5: תֶּהֱמִי = H1993 הָמָה "to make a loud sound (like English 'hum')…" [HVqi2fs]
+- o6: עָלָ/י = H5921 עַל "above, over, upon…" [HR/Sp1cs]
+- o7: הוֹחִילִי = H3176 יָחַל "to wait; by implication, to be patient, hope" [HVhv2fs]
+- o8: לֵ/אלֹהִים = Hl "to" + H430 אֱלֹהִים "gods in the ordinary sense…" [HR/Ncmpa]
+- o9: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o10: עוֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+- o11: אוֹדֶ/נּוּ = H3034 יָדָה "physically, to throw (a stone…" [HVhi1cs/Sp3ms]
+- o12: יְשׁוּעֹת = H3444 יְשׁוּעָה "something saved, i.e. (abstractly) deliverance…" [HNcfpc]
+- o13: פָּנַ/י = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc/Sp1cs]
+- o14: וֵ/אלֹהָ/י = Hc "and" + H430 אֱלֹהִים "gods in the ordinary sense…" [HC/Ncmpc/Sp1cs]
+
+### Psalms 44:1 (context)
+
+- o1: לַ/מְנַצֵּחַ = Hl "to" + H5329 נָצַח "properly, to glitter from afar…" [HRd/Vprmsa]
+- o2: לִ/בְנֵי = Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmpc]
+- o3: קֹרַח = H7141 קֹרַח "Korach…" [HNp]
+- o4: מַשְׂכִּיל = H4905 מַשְׂכִּיל "instructive, i.e. a didactic poem" [HNcmsa]
+- o5: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o6: בְּ/אָזְנֵי/נוּ = Hb "in" + H241 אֹזֶן "broadness. i.e. (concrete) the ear (from its form…" [HR/Ncfdc/Sp1cp]
+- o7: שָׁמַעְנוּ = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqp1cp]
+- o8: אֲבוֹתֵי/נוּ = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp1cp]
+- o9: סִפְּרוּ = H5608 סָפַר "properly…" [HVpp3cp]
+- o10: לָ/נוּ = Hl "to" [HR/Sp1cp]
+- o11: פֹּעַל = H6467 פֹּעַל "an act or work (concretely)" [HNcmsa]
+- o12: פָּעַלְתָּ = H6466 פָּעַל "to do or make (systematically and habitually)…" [HVqp2ms]
+- o13: בִ/ימֵי/הֶם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmpc/Sp3mp]
+- o14: בִּ/ימֵי = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmpc]
+- o15: קֶדֶם = H6924 קֶדֶם "the front, of place (absolutely, the fore part…" [HNcmsa]

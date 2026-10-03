@@ -917,3 +917,29 @@ Persian entries and current tags:
 - p41: عظیم  → H1419
 - p42: برافروختند  → H8313
 - p43: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 15:19 (context)
+
+- o1: וּ/מִלְחָמָה = Hc "and" + H4421 מִלְחָמָה "a battle (i.e. the engagement)…" [HC/Ncfsa]
+- o2: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o3: הָיָתָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3fs]
+- o4: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o5: שְׁנַת = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsc]
+- o6: שְׁלֹשִׁים = H7970 שְׁלוֹשִׁים "thirty; or (ordinal) thirtieth" [HAcbpa]
+- o7: וְ/חָמֵשׁ = Hc "and" + H2568 חָמֵשׁ "five" [HC/Acfsa]
+- o8: לְ/מַלְכוּת = Hl "to" + H4438 מַלְכוּת "a rule; concretely, a dominion" [HR/Ncfsc]
+- o9: אָסָא = H609 אָסָא "Asa, the name of a king and of a Levite" [HNp]
+
+### II Chronicles 17:1 (context)
+
+- o1: וַ/יִּמְלֹךְ = Hc "and" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HC/Vqw3ms]
+- o2: יְהוֹשָׁפָט = H3092 יְהוֹשָׁפָט "Jehoshaphat, the name of six Israelites…" [HNp]
+- o3: בְּנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o4: תַּחְתָּי/ו = H8478 תַּחַת "the bottom (as depressed)…" [HR/Sp3ms]
+- o5: וַ/יִּתְחַזֵּק = Hc "and" + H2388 חָזַק "to fasten upon…" [HC/Vtw3ms]
+- o6: עַל = H5921 עַל "above, over, upon…" [HR]
+- o7: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]

@@ -1001,3 +1001,50 @@ Persian entries and current tags:
 - p21: و  → Hc
 - p22: سنگ  → H68
 - p23: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 18:37 (context)
+
+- o1: וַ/יָּבֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3ms]
+- o2: אֶלְיָקִים = H471 אֶלְיָקִים "Eljakim, the name of four Israelites" [HNp]
+- o3: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o4: חִלְקִיָּה = H2518 חִלְקִיָּה "Chilhijah, the name of eight Israelites" [HNp]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: עַל = H5921 עַל "above, over, upon…" [HR]
+- o7: הַ/בַּיִת = Hd "the" + H1004 בַּיִת "a house (in the greatest variation of…" [HTd/Ncmsa]
+- o8: וְ/שֶׁבְנָא = Hc "and" + H7644 שֶׁבְנָא "Shebna or Shebnah, an Israelite" [HC/Np]
+- o9: הַ/סֹּפֵר = Hd "the" + H5608 סָפַר "properly…" [HTd/Ncmsa]
+- o10: וְ/יוֹאָח = Hc "and" + H3098 יוֹאָח "Joach, the name of four Israelites" [HC/Np]
+- o11: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o12: אָסָף = H623 אָסָף "Asaph, the name of three Israelites…" [HNp]
+- o13: הַ/מַּזְכִּיר = Hd "the" + H2142 זָכַר "properly, to mark (so as to be recognized)…" [HTd/Vhrmsa]
+- o14: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o15: חִזְקִיָּהוּ = H2396 חִזְקִיָּה "Chizkijah, a king of Judah…" [HNp]
+- o16: קְרוּעֵי = H7167 קָרַע "to rend, literally or figuratively (revile…" [HVqsmpc]
+- o17: בְגָדִים = H899 בֶּגֶד "a covering, i.e. clothing…" [HNcmpa]
+- o18: וַ/יַּגִּדוּ = Hc "and" + H5046 נָגַד "properly, to front…" [HC/Vhw3mp]
+- o19: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o20: דִּבְרֵי = H1697 דָּבָר "a word…" [HNcmpc]
+- o21: רַב = H7262 רַבְשָׁקֵה "Rabshakeh, a Babylonian official" [HNcmsc]
+- o22: שָׁקֵה = H7262 רַבְשָׁקֵה "Rabshakeh, a Babylonian official" [HNp]
+
+### II Kings 19:19 (context)
+
+- o1: וְ/עַתָּה = Hc "and" + H6258 עַתָּה "at this time, whether adverb…" [HC/D]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֱלֹהֵי/נוּ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp1cp]
+- o4: הוֹשִׁיעֵ/נוּ = H3467 יָשַׁע "properly, to be open, wide or free…" [HVhv2ms/Sp1cp]
+- o5: נָא = H4994 נָא "'I pray', 'now', or 'then'…" [HTe]
+- o6: מִ/יָּד/וֹ = Hm "from" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc/Sp3ms]
+- o7: וְ/יֵדְעוּ = Hc "and" + H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HC/Vqi3mp]
+- o8: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o9: מַמְלְכוֹת = H4467 מַמְלָכָה "dominion…" [HNcfpc]
+- o10: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o11: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o12: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o13: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o14: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o15: לְ/בַדֶּ/ךָ = Hl "to" + H905 בַּד "properly, separation…" [HR/Ncmsc/Sp2ms]

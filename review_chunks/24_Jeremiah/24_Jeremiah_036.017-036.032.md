@@ -1002,3 +1002,48 @@ Persian entries and current tags:
 - p44: آن
 - p45: افزوده_شد  → H3254
 - p46: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 36:16 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: כְּ/שָׁמְעָ/ם = Hk "like" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HR/Vqc/Sp3mp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o5: הַ/דְּבָרִים = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmpa]
+- o6: פָּחֲדוּ = H6342 פָּחַד "to be startled (by a sudden alarm)…" [HVqp3cp]
+- o7: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o8: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o9: רֵעֵ/הוּ = H7453 רֵעַ "an associate (more or less close)" [HNcmsc/Sp3ms]
+- o10: וַ/יֹּאמְרוּ = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3mp]
+- o11: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o12: בָּרוּךְ = H1263 בָּרוּךְ "Baruk, the name of three Israelites" [HNp]
+- o13: הַגֵּיד = H5046 נָגַד "properly, to front…" [HVha]
+- o14: נַגִּיד = H5046 נָגַד "properly, to front…" [HVhi1cp]
+- o15: לַ/מֶּלֶךְ = Hl "to" + H4428 מֶלֶךְ "a king" [HRd/Ncmsa]
+- o16: אֵת = H853 אֵת "properly…" [HTo]
+- o17: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o18: הַ/דְּבָרִים = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmpa]
+- o19: הָ/אֵלֶּה = Hd "the" + H428 אֵלֶּה "these or those" [HTd/Pdxcp]
+
+### Jeremiah 37:1 (context)
+
+- o1: וַ/יִּמְלָךְ = Hc "and" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HC/Vqw3ms]
+- o2: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsa]
+- o3: צִדְקִיָּהוּ = H6667 צִדְקִיָּה "Tsidkijah, the name of six Israelites" [HNp]
+- o4: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o5: יֹאשִׁיָּהוּ = H2977 יֹאשִׁיָּה "Joshijah, the name of two Israelites" [HNp]
+- o6: תַּחַת = H8478 תַּחַת "the bottom (as depressed)…" [HR]
+- o7: כָּנְיָהוּ = H3659 כׇּנְיָהוּ "Conjah, an Israelite king" [HNp]
+- o8: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o9: יְהוֹיָקִים = H3079 יְהוֹיָקִים "Jehojakim, a Jewish king" [HNp]
+- o10: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o11: הִמְלִיךְ = H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HVhp3ms]
+- o12: נְבוּכַדְרֶאצַּר = H5019 נְבוּכַדְנֶאצַּר "Nebukadnetstsar (or -retstsar, or -retstsor)…" [HNp]
+- o13: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o14: בָּבֶל = H894 בָּבֶל "Babel (i.e. Babylon)…" [HNp]
+- o15: בְּ/אֶרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o16: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]

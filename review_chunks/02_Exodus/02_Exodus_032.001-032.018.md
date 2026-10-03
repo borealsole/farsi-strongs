@@ -1064,3 +1064,49 @@ Persian entries and current tags:
 - p22: می‌رسد
 - p23: .
 - p24: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 31:18 (context)
+
+- o1: וַ/יִּתֵּן = Hc "and" + H5414 נָתַן "to give…" [HC/Vqw3ms]
+- o2: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o3: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o4: כְּ/כַלֹּת/וֹ = Hk "like" + H3615 כָּלָה "to end, whether intransitive (to cease…" [HR/Vpc/Sp3ms]
+- o5: לְ/דַבֵּר = Hl "to" + H1696 דָבַר "perhaps properly, to arrange…" [HR/Vpc]
+- o6: אִתּ/וֹ = H854 אֵת "properly…" [HR/Sp3ms]
+- o7: בְּ/הַר = Hb "in" + H2022 הַר "a mountain or range of hills (sometimes used…" [HR/Ncmsc]
+- o8: סִינַי = H5514 סִינַי "Sinai, mountain of Arabia" [HNp]
+- o9: שְׁנֵי = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmdc]
+- o10: לֻחֹת = H3871 לוּחַ "probably meaning to glisten…" [HNcmpc]
+- o11: הָ/עֵדֻת = Hd "the" + H5715 עֵדוּת "testimony" [HTd/Ncfsa]
+- o12: לֻחֹת = H3871 לוּחַ "probably meaning to glisten…" [HNcmpc]
+- o13: אֶבֶן = H68 אֶבֶן "a stone" [HNcfsa]
+- o14: כְּתֻבִים = H3789 כָּתַב "to grave, by implication, to write (describe…" [HVqsmpa]
+- o15: בְּ/אֶצְבַּע = Hb "in" + H676 אֶצְבַּע "something to sieze with, i.e. a finger…" [HR/Ncfsc]
+- o16: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+
+### Exodus 32:19 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o3: קָרַב = H7126 קָרַב "to approach (causatively…" [HVqp3ms]
+- o4: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o5: הַ/מַּחֲנֶה = Hd "the" + H4264 מַחֲנֶה "an encampment (of travellers or troops)…" [HTd/Ncbsa]
+- o6: וַ/יַּרְא = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw3ms]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: הָ/עֵגֶל = Hd "the" + H5695 עֵגֶל "a (male) calf (as frisking round)…" [HTd/Ncmsa]
+- o9: וּ/מְחֹלֹת = Hc "and" + H4246 מְחֹלָה "a dance" [HC/Ncfpa]
+- o10: וַ/יִּחַר = Hc "and" + H2734 חָרָה "to glow or grow warm…" [HC/Vqw3ms]
+- o11: אַף = H639 אַף "properly, the nose or nostril…" [HTa]
+- o12: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o13: וַ/יַּשְׁלֵךְ = Hc "and" + H7993 שָׁלַךְ "to throw out…" [HC/Vhw3ms]
+- o14: מ/יד/ו = Hm "from" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc/Sp3ms]
+- o15: אֶת = H853 אֵת "properly…" [HTo]
+- o16: הַ/לֻּחֹת = Hd "the" + H3871 לוּחַ "probably meaning to glisten…" [HTd/Ncmpa]
+- o17: וַ/יְשַׁבֵּר = Hc "and" + H7665 שָׁבַר "to burst (literally or figuratively)" [HC/Vpw3ms]
+- o18: אֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o19: תַּחַת = H8478 תַּחַת "the bottom (as depressed)…" [HR]
+- o20: הָ/הָר = Hd "the" + H2022 הַר "a mountain or range of hills (sometimes used…" [HTd/Ncmsa]

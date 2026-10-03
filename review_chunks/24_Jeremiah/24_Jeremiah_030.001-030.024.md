@@ -1318,3 +1318,59 @@ Persian entries and current tags:
 - p22: در
 - p23: خواهید_یافت  → H995
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 29:32 (context)
+
+- o1: לָ/כֵן = Hl "to" + H3651 כֵּן "properly, set upright…" [HR/D]
+- o2: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o3: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: הִנְ/נִי = H2005 הֵן "lo!; also (as expressing surprise) if" [HTm/Sp1cs]
+- o6: פֹקֵד = H6485 פָּקַד "to visit (with friendly or hostile intent)…" [HVqrmsa]
+- o7: עַל = H5921 עַל "above, over, upon…" [HR]
+- o8: שְׁמַעְיָה = H8098 שְׁמַעְיָה "Shemajah, the name of twenty-five Israelites" [HNp]
+- o9: הַ/נֶּחֱלָמִי = Hd "the" + H5161 נֶחֱלָמִי "a Nechelamite, or descendant of Nechlam" [HTd/Ngmsa]
+- o10: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o11: זַרְע/וֹ = H2233 זֶרַע "seed…" [HNcmsc/Sp3ms]
+- o12: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o13: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o14: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o15: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o16: יוֹשֵׁב = H3427 יָשַׁב "properly…" [HVqrmsa]
+- o17: בְּ/תוֹךְ = Hb "in" + H8432 תָּוֶךְ "a bisection, i.e. (by implication) the centre" [HR/Ncmsc]
+- o18: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o19: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o20: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o21: יִרְאֶה = H7200 רָאָה "to see…" [HVqi3ms]
+- o22: בַ/טּוֹב = Hb "in" + H2896 טוֹב "good (as an adjective) in the widest sense…" [HRd/Aamsa]
+- o23: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o24: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o25: עֹשֶׂה = H6213 עָשָׂה "to do or make…" [HVqrmsa]
+- o26: לְ/עַמִּ/י = Hl "to" + H5971 עַם "a people (as a congregated unit)…" [HR/Ncmsc/Sp1cs]
+- o27: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o28: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o29: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o30: סָרָה = H5627 סָרָה "apostasy, crime; figuratively, remission" [HNcfsa]
+- o31: דִבֶּר = H1696 דָבַר "perhaps properly, to arrange…" [HVpp3ms]
+- o32: עַל = H5921 עַל "above, over, upon…" [HR]
+- o33: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### Jeremiah 31:1 (context)
+
+- o1: בָּ/עֵת = Hb "in" + H6256 עֵת "time, especially (adverb with preposition) now…" [HRd/Ncbsa]
+- o2: הַ/הִיא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3fs]
+- o3: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: אֶהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi1cs]
+- o6: לֵ/אלֹהִים = Hl "to" + H430 אֱלֹהִים "gods in the ordinary sense…" [HR/Ncmpa]
+- o7: לְ/כֹל = Hl "to" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o8: מִשְׁפְּחוֹת = H4940 מִשְׁפָּחָה "a family, i.e. circle of relatives…" [HNcfpc]
+- o9: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o10: וְ/הֵמָּה = Hc "and" + H1992 הֵם "they (only used when emphatic)" [HC/Pp3mp]
+- o11: יִהְיוּ = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3mp]
+- o12: לִ/י = Hl "to" [HR/Sp1cs]
+- o13: לְ/עָם = Hl "to" + H5971 עַם "a people (as a congregated unit)…" [HR/Ncmsa]

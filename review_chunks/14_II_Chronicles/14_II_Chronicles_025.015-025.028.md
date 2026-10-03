@@ -911,3 +911,48 @@ Persian entries and current tags:
 - p14: به
 - p15: خاک سپردند  → H6912
 - p16: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 25:14 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: אַחֲרֵי = H310 אַחַר "properly, the hind part…" [HR]
+- o3: בוֹא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqc]
+- o4: אֲמַצְיָהוּ = H558 אֲמַצְיָה "Amatsjah, the name of four Israelites" [HNp]
+- o5: מֵ/הַכּוֹת = Hm "from" + H5221 נָכָה "to strike (lightly or severely…" [HR/Vhc]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: אֲדוֹמִים = H130 אֱדֹמִי "an Edomite…" [HNgmpa]
+- o8: וַ/יָּבֵא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vhw3ms]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: אֱלֹהֵי = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc]
+- o11: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o12: שֵׂעִיר = H8165 שֵׂעִיר "Seir…" [HNp]
+- o13: וַ/יַּעֲמִידֵ/ם = Hc "and" + H5975 עָמַד "to stand…" [HC/Vhw3ms/Sp3mp]
+- o14: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o15: לֵ/אלֹהִים = Hl "to" + H430 אֱלֹהִים "gods in the ordinary sense…" [HR/Ncmpa]
+- o16: וְ/לִ/פְנֵי/הֶם = Hc "and" + Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HC/R/Ncbpc/Sp3mp]
+- o17: יִשְׁתַּחֲוֶה = H7812 שָׁחָה "to depress, i.e. prostrate (especially reflexive…" [HVvi3ms]
+- o18: וְ/לָ/הֶם = Hc "and" + Hl "to" [HC/R/Sp3mp]
+- o19: יְקַטֵּר = H6999 קָטַר "to smoke…" [HVpi3ms]
+
+### II Chronicles 26:1 (context)
+
+- o1: וַ/יִּקְחוּ = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqw3mp]
+- o2: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: עַם = H5971 עַם "a people (as a congregated unit)…" [HNcmsc]
+- o4: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: עֻזִּיָּהוּ = H5818 עֻזִּיָּה "Uzzijah, the name of five Israelites" [HNp]
+- o7: וְ/הוּא = Hc "and" + H1931 הוּא "he (she or it)…" [HC/Pp3ms]
+- o8: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o9: שֵׁשׁ = H8337 שֵׁשׁ "six (as an overplus beyond five or the fingers of…" [HAcfsa]
+- o10: עֶשְׂרֵה = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcfsa]
+- o11: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o12: וַ/יַּמְלִיכוּ = Hc "and" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HC/Vhw3mp]
+- o13: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o14: תַּחַת = H8478 תַּחַת "the bottom (as depressed)…" [HR]
+- o15: אָבִי/ו = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp3ms]
+- o16: אֲמַצְיָהוּ = H558 אֲמַצְיָה "Amatsjah, the name of four Israelites" [HNp]

@@ -756,3 +756,54 @@ Persian entries and current tags:
 - p25: حرام  → H2764
 - p26: است
 - p27: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 7:13 (context)
+
+- o1: וַ/אֲהֵבְ/ךָ = Hc "and" + H157 אָהַב "to have affection for (sexually or otherwise)" [HC/Vqq3ms/Sp2ms]
+- o2: וּ/בֵרַכְ/ךָ = Hc "and" + H1288 בָרַךְ "to kneel…" [HC/Vpq3ms/Sp2ms]
+- o3: וְ/הִרְבֶּ/ךָ = Hc "and" + H7235 רָבָה "to increase (in whatever respect)" [HC/Vhq3ms/Sp2ms]
+- o4: וּ/בֵרַךְ = Hc "and" + H1288 בָרַךְ "to kneel…" [HC/Vpq3ms]
+- o5: פְּרִי = H6529 פְּרִי "fruit (literally or figuratively)" [HNcmsc]
+- o6: בִטְנְ/ךָ = H990 בֶּטֶן "the belly, especially the womb…" [HNcfsc/Sp2ms]
+- o7: וּ/פְרִי = Hc "and" + H6529 פְּרִי "fruit (literally or figuratively)" [HC/Ncmsc]
+- o8: אַדְמָתֶ/ךָ = H127 אֲדָמָה "soil (from its general redness)" [HNcfsc/Sp2ms]
+- o9: דְּגָנְ/ךָ = H1715 דָּגָן "properly, increase, i.e. grain" [HNcmsc/Sp2ms]
+- o10: וְ/תִירֹשְׁ/ךָ = Hc "and" + H8492 תִּירוֹשׁ "must or fresh grape-juice (as just squeezed out)…" [HC/Ncmsc/Sp2ms]
+- o11: וְ/יִצְהָרֶ/ךָ = Hc "and" + H3323 יִצְהָר "oil (as producing light); figuratively, anointing" [HC/Ncmsc/Sp2ms]
+- o12: שְׁגַר = H7698 שֶׁגֶר "the fetus (as finally expelled)" [HNcmsc]
+- o13: אֲלָפֶי/ךָ = H504 אֶלֶף "a family…" [HNcmpc/Sp2ms]
+- o14: וְ/עַשְׁתְּרֹת = Hc "and" + H6251 עַשְׁתְּרָה "increase" [HC/Np]
+- o15: צֹאנֶ/ךָ = H6629 צֹאן "a collective name for a flock (of sheep or goats)…" [HNcbsc/Sp2ms]
+- o16: עַל = H5921 עַל "above, over, upon…" [HR]
+- o17: הָ/אֲדָמָה = Hd "the" + H127 אֲדָמָה "soil (from its general redness)" [HTd/Ncfsa]
+- o18: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o19: נִשְׁבַּע = H7650 שָׁבַע "to seven oneself…" [HVNp3ms]
+- o20: לַ/אֲבֹתֶי/ךָ = Hl "to" + H1 אָב "father, in a literal and immediate…" [HR/Ncmpc/Sp2ms]
+- o21: לָ/תֶת = Hl "to" + H5414 נָתַן "to give…" [HR/Vqc]
+- o22: לָ/ךְ = Hl "to" [HR/Sp2fs]
+
+### Deuteronomy 8:1 (context)
+
+- o1: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o2: הַ/מִּצְוָה = Hd "the" + H4687 מִצְוָה "a command, whether human or divine (collectively…" [HTd/Ncfsa]
+- o3: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o4: אָנֹכִי = H595 אָנֹכִי "I" [HPp1cs]
+- o5: מְצַוְּ/ךָ = H6680 צָוָה "(intensively) to constitute, enjoin" [HVprmsc/Sp2ms]
+- o6: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o7: תִּשְׁמְרוּ/ן = H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HVqi2mp/Sn]
+- o8: לַ/עֲשׂוֹת = Hl "to" + H6213 עָשָׂה "to do or make…" [HR/Vqc]
+- o9: לְמַעַן = H4616 מַעַן "properly, heed, i.e. purpose…" [HR]
+- o10: תִּחְיוּ/ן = H2421 חָיָה "to live, whether literally or figuratively…" [HVqi2mp/Sn]
+- o11: וּ/רְבִיתֶם = Hc "and" + H7235 רָבָה "to increase (in whatever respect)" [HC/Vqq2mp]
+- o12: וּ/בָאתֶם = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqq2mp]
+- o13: וִ/ירִשְׁתֶּם = Hc "and" + H3423 יָרַשׁ "to occupy (by driving out previous tenants…" [HC/Vqq2mp]
+- o14: אֶת = H853 אֵת "properly…" [HTo]
+- o15: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o16: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o17: נִשְׁבַּע = H7650 שָׁבַע "to seven oneself…" [HVNp3ms]
+- o18: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o19: לַ/אֲבֹתֵי/כֶם = Hl "to" + H1 אָב "father, in a literal and immediate…" [HR/Ncmpc/Sp2mp]

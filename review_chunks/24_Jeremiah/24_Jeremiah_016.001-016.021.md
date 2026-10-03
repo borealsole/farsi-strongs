@@ -1281,3 +1281,32 @@ Persian entries and current tags:
 - p28: است
 - p29: !
 - p30: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 15:21 (context)
+
+- o1: וְ/הִצַּלְתִּי/ךָ = Hc "and" + H5337 נָצַל "to snatch away, whether in a good or a bad sense" [HC/Vhq1cs/Sp2ms]
+- o2: מִ/יַּד = Hm "from" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o3: רָעִים = H7451 רַע "bad or (as noun) evil (natural or moral)" [HAampa]
+- o4: וּ/פְדִתִי/ךָ = Hc "and" + H6299 פָּדָה "to sever, i.e. ransom; gener. to release, preserve" [HC/Vqp1cs/Sp2ms]
+- o5: מִ/כַּף = Hm "from" + H3709 כַּף "the hollow hand or palm (so of the paw of an…" [HR/Ncfsc]
+- o6: עָרִצִים = H6184 עָרִיץ "fearful, i.e. powerful or tyrannical" [HAampa]
+
+### Jeremiah 17:1 (context)
+
+- o1: חַטַּאת = H2403 חַטָּאָה "an offence (sometimes habitual sinfulness)…" [HNcfsc]
+- o2: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o3: כְּתוּבָה = H3789 כָּתַב "to grave, by implication, to write (describe…" [HVqsfsa]
+- o4: בְּ/עֵט = Hb "in" + H5842 עֵט "a stylus or marking stick" [HR/Ncmsc]
+- o5: בַּרְזֶל = H1270 בַּרְזֶל "iron (as cutting); by extension, an iron implement" [HNcmsa]
+- o6: בְּ/צִפֹּרֶן = Hb "in" + H6856 צִפֹּרֶן "properly, a claw, i.e. (human) nail…" [HR/Ncmsc]
+- o7: שָׁמִיר = H8068 שָׁמִיר "a thorn…" [HNcmsa]
+- o8: חֲרוּשָׁה = H2790 חָרַשׁ "to scratch, i.e. (by implication) to engrave…" [HVqsfsa]
+- o9: עַל = H5921 עַל "above, over, upon…" [HR]
+- o10: לוּחַ = H3871 לוּחַ "probably meaning to glisten…" [HNcmsc]
+- o11: לִבָּ/ם = H3820 לֵב "the heart…" [HNcmsc/Sp3mp]
+- o12: וּ/לְ/קַרְנוֹת = Hc "and" + Hl "to" + H7161 קֶרֶן "a horn (as projecting)…" [HC/R/Ncbpc]
+- o13: מִזְבְּחוֹתֵי/כֶם = H4196 מִזְבֵּחַ "an altar" [HNcmpc/Sp2mp]

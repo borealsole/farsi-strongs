@@ -634,3 +634,28 @@ Persian entries and current tags:
 - p20: بنوشم  → H6974
 - p21: ؟
 - p22: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 23:18 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o3: יֵשׁ = H3426 יֵשׁ "there is or are (or any other form of the verb to…" [HTm]
+- o4: אַחֲרִית = H319 אַחֲרִית "the last or end, hence, the future; also posterity" [HNcfsa]
+- o5: וְ/תִקְוָתְ/ךָ = Hc "and" + H8615 תִּקְוָה "literally a cord (as an attachment)…" [HC/Ncfsc/Sp2ms]
+- o6: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o7: תִכָּרֵת = H3772 כָּרַת "to cut (off, down or asunder)…" [HVNi3fs]
+
+### Proverbs 24:1 (context)
+
+- o1: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o2: תְּקַנֵּא = H7065 קָנָא "to be (causatively, make) zealous…" [HVpj2ms]
+- o3: בְּ/אַנְשֵׁי = Hb "in" + H376 אִישׁ "a man as an individual or a male person…" [HR/Ncmpc]
+- o4: רָעָה = H7451 רַע "bad or (as noun) evil (natural or moral)" [HNcfsa]
+- o5: וְ/אַל = Hc "and" + H408 אַל "not (the qualified negation…" [HC/Tn]
+- o6: תתאו = H183 אָוָה "to wish for" [HVtj2ms]
+- o7: לִ/הְיוֹת = Hl "to" + H1961 הָיָה "to exist, i.e. be or become…" [HR/Vqc]
+- o8: אִתָּ/ם = H854 אֵת "properly…" [HR/Sp3mp]

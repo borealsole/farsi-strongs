@@ -760,3 +760,36 @@ Persian entries and current tags:
 - p29: زندگی  → H1980
 - p30: نکردند  → H3808 H1980
 - p31: ،
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 8:22 (context)
+
+- o1: הַ/צֳרִי = Hd "the" + H6875 צְרִי "distillation, i.e. balsam" [HTi/Ncmsa]
+- o2: אֵין = H369 אַיִן "a non-entity…" [HTn]
+- o3: בְּ/גִלְעָד = Hb "in" + H1568 גִּלְעָד "Gilad, a region East of the Jordan…" [HR/Np]
+- o4: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o5: רֹפֵא = H7495 רָפָא "properly, to mend (by stitching)…" [HVqrmsa]
+- o6: אֵין = H369 אַיִן "a non-entity…" [HTn]
+- o7: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o8: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o9: מַדּוּעַ = H4069 מַדּוּעַ "what (is) known?…" [HTi]
+- o10: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o11: עָלְתָה = H5927 עָלָה "to ascend…" [HVqp3fs]
+- o12: אֲרֻכַת = H724 אֲרוּכָה "wholeness (literally or figuratively)" [HNcfsc]
+- o13: בַּת = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfsc]
+- o14: עַמִּ/י = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp1cs]
+
+### Jeremiah 9:14 (context)
+
+- o1: וַ/יֵּלְכוּ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3mp]
+- o2: אַחֲרֵי = H310 אַחַר "properly, the hind part…" [HR]
+- o3: שְׁרִרוּת = H8307 שְׁרִירוּת "obstinacy" [HNcfsc]
+- o4: לִבָּ/ם = H3820 לֵב "the heart…" [HNcmsc/Sp3mp]
+- o5: וְ/אַחֲרֵי = Hc "and" + H310 אַחַר "properly, the hind part…" [HC/R]
+- o6: הַ/בְּעָלִים = Hd "the" + H1168 בַּעַל "Baal, a Phoenician deity" [HTd/Np]
+- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o8: לִמְּדוּ/ם = H3925 לָמַד "properly, to goad…" [HVpp3cp/Sp3mp]
+- o9: אֲבוֹתָ/ם = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp3mp]

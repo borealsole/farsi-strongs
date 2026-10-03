@@ -1117,3 +1117,40 @@ Persian entries and current tags:
 - p33: امید بندم  → H3176
 - p34: ؟
 - p35: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 6:16 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o3: תִּירָא = H3372 יָרֵא "to fear; morally, to revere; caus. to frighten" [HVqj2ms]
+- o4: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o5: רַבִּים = H7227 רַב "abundant (in quantity, size, age, number, rank…" [HAampa]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: אִתָּ/נוּ = H854 אֵת "properly…" [HR/Sp1cp]
+- o8: מֵ/אֲשֶׁר = Hm "from" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o9: אוֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+
+### II Kings 7:1 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: אֱלִישָׁע = H477 אֱלִישָׁע "Elisha, the famous prophet" [HNp]
+- o3: שִׁמְעוּ = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqv2mp]
+- o4: דְּבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o5: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o6: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o7: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o8: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o9: כָּ/עֵת = Hk "like" + H6256 עֵת "time, especially (adverb with preposition) now…" [HRd/Ncbsa]
+- o10: מָחָר = H4279 מָחָר "properly, deferred, i.e. the morrow…" [HNcmsa]
+- o11: סְאָה = H5429 סְאָה "a seah…" [HNcfsa]
+- o12: סֹלֶת = H5560 סֹלֶת "flour (as chipped off)" [HNcfsa]
+- o13: בְּ/שֶׁקֶל = Hb "in" + H8255 שֶׁקֶל "probably a weight; used as a commercial standard" [HR/Ncmsa]
+- o14: וְ/סָאתַיִם = Hc "and" + H5429 סְאָה "a seah…" [HC/Ncfda]
+- o15: שְׂעֹרִים = H8184 שְׂעֹרָה "barley (as villose)" [HNcfpa]
+- o16: בְּ/שֶׁקֶל = Hb "in" + H8255 שֶׁקֶל "probably a weight; used as a commercial standard" [HR/Ncmsa]
+- o17: בְּ/שַׁעַר = Hb "in" + H8179 שַׁעַר "an opening, i.e. door or gate" [HR/Ncmsc]
+- o18: שֹׁמְרוֹן = H8111 שֹׁמְרוֹן "Shomeron, a place in Palestine" [HNp]

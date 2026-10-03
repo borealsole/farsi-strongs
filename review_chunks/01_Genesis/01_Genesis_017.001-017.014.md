@@ -735,3 +735,38 @@ Persian entries and current tags:
 - p22: شکسته_است  → H6565
 - p23: .
 - p24: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 16:16 (context)
+
+- o1: וְ/אַבְרָם = Hc "and" + H87 אַבְרָם "Abram, the original name of Abraham" [HC/Np]
+- o2: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o3: שְׁמֹנִים = H8084 שְׁמֹנִים "eighty, also eightieth" [HAcbpa]
+- o4: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o5: וְ/שֵׁשׁ = Hc "and" + H8337 שֵׁשׁ "six (as an overplus beyond five or the fingers of…" [HC/Acfsa]
+- o6: שָׁנִים = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfpa]
+- o7: בְּ/לֶדֶת = Hb "in" + H3205 יָלַד "to bear young; causatively, to beget…" [HR/Vqc]
+- o8: הָגָר = H1904 הָגָר "Hagar, the mother of Ishmael" [HNp]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: יִשְׁמָעֵאל = H3458 יִשְׁמָעֵאל "Jishmael, the name of Abraham's oldest son…" [HNp]
+- o11: לְ/אַבְרָם = Hl "to" + H87 אַבְרָם "Abram, the original name of Abraham" [HR/Np]
+
+### Genesis 17:15 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: אַבְרָהָם = H85 אַבְרָהָם "Abraham, the later name of Abram" [HNp]
+- o5: שָׂרַי = H8297 שָׂרַי "Sarai, the wife of Abraham" [HNp]
+- o6: אִשְׁתְּ/ךָ = H802 אִשָּׁה "a woman" [HNcfsc/Sp2ms]
+- o7: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o8: תִקְרָא = H7121 קָרָא "to call out to (i.e. properly, address by name…" [HVqi2ms]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: שְׁמָ/הּ = H8034 שֵׁם "an appellation…" [HNcmsc/Sp3fs]
+- o11: שָׂרָי = H8297 שָׂרַי "Sarai, the wife of Abraham" [HNp]
+- o12: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o13: שָׂרָה = H8283 שָׂרָה "Sarah, Abraham's wife" [HNp]
+- o14: שְׁמָ/הּ = H8034 שֵׁם "an appellation…" [HNcmsc/Sp3fs]

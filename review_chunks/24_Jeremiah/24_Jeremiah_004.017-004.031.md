@@ -812,3 +812,47 @@ Persian entries and current tags:
 - p50: می‌روم
 - p51: !
 - p52: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 4:16 (context)
+
+- o1: הַזְכִּירוּ = H2142 זָכַר "properly, to mark (so as to be recognized)…" [HVhv2mp]
+- o2: לַ/גּוֹיִם = Hl "to" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HRd/Ncmpa]
+- o3: הִנֵּה = H2009 הִנֵּה "lo!" [HTm]
+- o4: הַשְׁמִיעוּ = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVhv2mp]
+- o5: עַל = H5921 עַל "above, over, upon…" [HR]
+- o6: יְרוּשָׁלִַם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+- o7: נֹצְרִים = H5341 נָצַר "to guard, in a good sense (to protect, maintain…" [HVqrmpa]
+- o8: בָּאִים = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqrmpa]
+- o9: מֵ/אֶרֶץ = Hm "from" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o10: הַ/מֶּרְחָק = Hd "the" + H4801 מֶרְחָק "remoteness, i.e. (concretely) a distant place…" [HTd/Ncmsa]
+- o11: וַ/יִּתְּנוּ = Hc "and" + H5414 נָתַן "to give…" [HC/Vqw3mp]
+- o12: עַל = H5921 עַל "above, over, upon…" [HR]
+- o13: עָרֵי = H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HNcfpc]
+- o14: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o15: קוֹלָ/ם = H6963 קוֹל "a voice or sound" [HNcmsc/Sp3mp]
+
+### Jeremiah 5:1 (context)
+
+- o1: שׁוֹטְטוּ = H7751 שׁוּט "properly, to push forth…" [HVov2mp]
+- o2: בְּ/חוּצוֹת = Hb "in" + H2351 חוּץ "properly, separate by awall, i.e. outside…" [HR/Ncmpc]
+- o3: יְרוּשָׁלִַם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+- o4: וּ/רְאוּ = Hc "and" + H7200 רָאָה "to see…" [HC/Vqv2mp]
+- o5: נָא = H4994 נָא "'I pray', 'now', or 'then'…" [HTe]
+- o6: וּ/דְעוּ = Hc "and" + H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HC/Vqv2mp]
+- o7: וּ/בַקְשׁוּ = Hc "and" + H1245 בָּקַשׁ "to search out (by any method…" [HC/Vpv2mp]
+- o8: בִ/רְחוֹבוֹתֶי/הָ = Hb "in" + H7339 רְחֹב "a width, i.e. (concretely) avenue or area" [HR/Ncfpc/Sp3fs]
+- o9: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o10: תִּמְצְאוּ = H4672 מָצָא "properly, to come forth to, i.e. appear or exist…" [HVqi2mp]
+- o11: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o12: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o13: יֵשׁ = H3426 יֵשׁ "there is or are (or any other form of the verb to…" [HTm]
+- o14: עֹשֶׂה = H6213 עָשָׂה "to do or make…" [HVqrmsa]
+- o15: מִשְׁפָּט = H4941 מִשְׁפָּט "properly…" [HNcmsa]
+- o16: מְבַקֵּשׁ = H1245 בָּקַשׁ "to search out (by any method…" [HVprmsa]
+- o17: אֱמוּנָה = H530 אֱמוּנָה "literally firmness; figuratively security…" [HNcfsa]
+- o18: וְ/אֶסְלַח = Hc "and" + H5545 סָלַח "to forgive" [HC/Vqi1cs]
+- o19: לָ/הּ = Hl "to" [HR/Sp3fs]

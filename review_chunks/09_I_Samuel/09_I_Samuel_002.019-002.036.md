@@ -1124,3 +1124,38 @@ Persian entries and current tags:
 - p36: .
 - p37: “‘
 - p38: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 2:18 (context)
+
+- o1: וּ/שְׁמוּאֵל = Hc "and" + H8050 שְׁמוּאֵל "Shemuel, the name of three Israelites" [HC/Np]
+- o2: מְשָׁרֵת = H8334 שָׁרַת "to attend as a menial or worshipper…" [HVprmsa]
+- o3: אֶת = H854 אֵת "properly…" [HR]
+- o4: פְּנֵי = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc]
+- o5: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o6: נַעַר = H5288 נַעַר "concretely) a boy (as active)…" [HNcmsa]
+- o7: חָגוּר = H2296 חָגַר "to gird on (as a belt, armor, etc.)" [HVqsmsa]
+- o8: אֵפוֹד = H646 אֵפוֹד "a girdle…" [HNcmsc]
+- o9: בָּד = H906 בַּד "flaxen thread or yarn; hence, a linen garment" [HNcmsa]
+
+### I Samuel 3:1 (context)
+
+- o1: וְ/הַ/נַּעַר = Hc "and" + Hd "the" + H5288 נַעַר "concretely) a boy (as active)…" [HC/Td/Ncmsa]
+- o2: שְׁמוּאֵל = H8050 שְׁמוּאֵל "Shemuel, the name of three Israelites" [HNp]
+- o3: מְשָׁרֵת = H8334 שָׁרַת "to attend as a menial or worshipper…" [HVprmsa]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o6: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o7: עֵלִי = H5941 עֵלִי "Eli, an Israelite highpriest" [HNp]
+- o8: וּ/דְבַר = Hc "and" + H1697 דָּבָר "a word…" [HC/Ncmsc]
+- o9: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o10: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o11: יָקָר = H3368 יָקָר "valuable (objectively or subjectively)" [HAamsa]
+- o12: בַּ/יָּמִים = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmpa]
+- o13: הָ/הֵם = Hd "the" + H1992 הֵם "they (only used when emphatic)" [HTd/Pp3mp]
+- o14: אֵין = H369 אַיִן "a non-entity…" [HTn]
+- o15: חָזוֹן = H2377 חָזוֹן "a sight (mentally), i.e. a dream, revelation…" [HNcmsa]
+- o16: נִפְרָץ = H6555 פָּרַץ "to break out (in many applications…" [HVNrmsa]

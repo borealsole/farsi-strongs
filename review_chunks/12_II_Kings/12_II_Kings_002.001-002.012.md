@@ -839,3 +839,39 @@ Persian entries and current tags:
 - p34: را
 - p35: بدرید  → H7168
 - p36: ،
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 1:18 (context)
+
+- o1: וְ/יֶתֶר = Hc "and" + H3499 יֶתֶר "properly, an overhanging…" [HC/Ncmsc]
+- o2: דִּבְרֵי = H1697 דָּבָר "a word…" [HNcmpc]
+- o3: אֲחַזְיָהוּ = H274 אֲחַזְיָה "Achazjah…" [HNp]
+- o4: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o5: עָשָׂה = H6213 עָשָׂה "to do or make…" [HVqp3ms]
+- o6: הֲ/לוֹא = Hi "(untranslatable; interrogative particle)" + H3808 לֹא "not (the simple or abs. negation)…" [HTi/Tn]
+- o7: הֵמָּה = H1992 הֵם "they (only used when emphatic)" [HPp3mp]
+- o8: כְתוּבִים = H3789 כָּתַב "to grave, by implication, to write (describe…" [HVqsmpa]
+- o9: עַל = H5921 עַל "above, over, upon…" [HR]
+- o10: סֵפֶר = H5612 סֵפֶר "properly, writing (the art or a document)…" [HNcmsc]
+- o11: דִּבְרֵי = H1697 דָּבָר "a word…" [HNcmpc]
+- o12: הַ/יָּמִים = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmpa]
+- o13: לְ/מַלְכֵי = Hl "to" + H4428 מֶלֶךְ "a king" [HR/Ncmpc]
+- o14: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+
+### II Kings 2:13 (context)
+
+- o1: וַ/יָּרֶם = Hc "and" + H7311 רוּם "to be high actively…" [HC/Vhw3ms]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: אַדֶּרֶת = H155 אַדֶּרֶת "something ample (as a large vine, a wide dress)" [HNcfsc]
+- o4: אֵלִיָּהוּ = H452 אֵלִיָּה "Elijah…" [HNp]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: נָפְלָה = H5307 נָפַל "to fall…" [HVqp3fs]
+- o7: מֵ/עָלָי/ו = Hm "from" + H5921 עַל "above, over, upon…" [HR/R/Sp3ms]
+- o8: וַ/יָּשָׁב = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqw3ms]
+- o9: וַ/יַּעֲמֹד = Hc "and" + H5975 עָמַד "to stand…" [HC/Vqw3ms]
+- o10: עַל = H5921 עַל "above, over, upon…" [HR]
+- o11: שְׂפַת = H8193 שָׂפָה "the lip (as a natural boundary)…" [HNcfsc]
+- o12: הַ/יַּרְדֵּן = Hd "the" + H3383 יַרְדֵּן "Jarden, the principal river of Palestine" [HTd/Np]

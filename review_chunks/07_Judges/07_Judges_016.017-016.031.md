@@ -1046,3 +1046,30 @@ Persian entries and current tags:
 - p33: را  → H853
 - p34: داوری کرده_بود  → H8199
 - p35: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Judges 16:16 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o3: הֵצִיקָה = H6693 צוּק "to compress, i.e. (figuratively) oppress, distress" [HVhp3fs]
+- o4: לּ/וֹ = Hl "to" [HR/Sp3ms]
+- o5: בִ/דְבָרֶי/הָ = Hb "in" + H1697 דָּבָר "a word…" [HR/Ncmpc/Sp3fs]
+- o6: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o7: הַ/יָּמִים = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmpa]
+- o8: וַ/תְּאַלֲצֵ/הוּ = Hc "and" + H509 אָלַץ "to press" [HC/Vpw3fs/Sp3ms]
+- o9: וַ/תִּקְצַר = Hc "and" + H7114 קָצַר "to dock off…" [HC/Vqw3fs]
+- o10: נַפְשׁ/וֹ = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsc/Sp3ms]
+- o11: לָ/מוּת = Hl "to" + H4191 מוּת "to die (literally or figuratively)…" [HR/Vqc]
+
+### Judges 17:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o3: מֵ/הַר = Hm "from" + H2022 הַר "a mountain or range of hills (sometimes used…" [HR/Ncmsc]
+- o4: אֶפְרָיִם = H669 אֶפְרַיִם "Ephrajim, a son of Joseph…" [HNp]
+- o5: וּ/שְׁמ/וֹ = Hc "and" + H8034 שֵׁם "an appellation…" [HC/Ncmsc/Sp3ms]
+- o6: מִיכָיְהוּ = H4319 מִיכָהוּ "Mikehu, an Israelite prophet" [HNp]

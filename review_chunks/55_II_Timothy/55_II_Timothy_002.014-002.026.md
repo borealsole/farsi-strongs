@@ -681,3 +681,33 @@ Persian entries and current tags:
 - p17: ،
 - p18: برهند
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Timothy 2:13 (context)
+
+- o1: εἰ = G1487 εἰ "forasmuch as, if, that, (al-)though, whether" [COND]
+- o2: ἀπιστοῦμεν, = G569 ἀπιστέω "believe not" [V-PAI-1P]
+- o3: ἐκεῖνος = G1565 ἐκεῖνος "he, it, the other (same), selfsame, that (same…" [D-NSM]
+- o4: πιστὸς = G4103 πιστός "believe(-ing, -r), faithful(-ly), sure, true" [A-NSM]
+- o5: μένει, = G3306 μένω "abide, continue, dwell, endure, be present…" [V-PAI-3S]
+- o6: ἀρνήσασθαι = G720 ἀρνέομαι "deny, refuse" [V-ADN]
+- o7: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o8: ἑαυτὸν = G1438 ἑαυτοῦ "alone, her (own, -self), (he) himself, his (own)…" [F-3ASM]
+- o9: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o10: δύναται. = G1410 δύναμαι "be able, can (do, + -not), could, may, might…" [V-PNI-3S]
+
+### II Timothy 3:1 (context)
+
+- o1: Τοῦτο = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-ASN]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: γίνωσκε, = G1097 γινώσκω "allow, be aware (of), feel, (have) know(-ledge)…" [V-PAM-2S]
+- o4: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o5: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o6: ἐσχάταις = G2078 ἔσχατος "ends of, last, latter end, lowest, uttermost" [A-DPF-S]
+- o7: ἡμέραις = G2250 ἡμέρα "age, + alway, (mid-)day (by day, (-ly))…" [N-DPF]
+- o8: ἐνστήσονται = G1764 ἐνίστημι "come, be at hand, present" [V-FDI-3P]
+- o9: καιροὶ = G2540 καιρός "always, opportunity, (convenient, due) season…" [N-NPM]
+- o10: χαλεποί· = G5467 χαλεπός "fierce, perilous" [A-NPM]

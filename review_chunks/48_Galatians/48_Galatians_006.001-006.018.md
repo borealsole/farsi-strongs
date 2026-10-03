@@ -830,3 +830,17 @@ Persian entries and current tags:
 - p13: !
 - p14: آمین  → G281
 - p15: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Galatians 5:26 (context)
+
+- o1: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o2: γινώμεθα = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-PNS-1P]
+- o3: κενόδοξοι, = G2755 κενόδοξος "desirous of vain-glory" [A-NPM]
+- o4: ἀλλήλους = G240 ἀλλήλων "each other, mutual, one another, (the other)…" [C-APM]
+- o5: προκαλούμενοι, = G4292 προκαλέομαι "provoke" [V-PMP-NPM]
+- o6: ἀλλήλοις = G240 ἀλλήλων "each other, mutual, one another, (the other)…" [C-DPM]
+- o7: φθονοῦντες. = G5354 φθονέω "envy" [V-PAP-NPM]

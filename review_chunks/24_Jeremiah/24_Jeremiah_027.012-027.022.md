@@ -733,3 +733,57 @@ Persian entries and current tags:
 - p30: خداوند  → H3068
 - p31: .
 - p32: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 27:11 (context)
+
+- o1: וְ/הַ/גּוֹי = Hc "and" + Hd "the" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HC/Td/Ncmsa]
+- o2: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o3: יָבִיא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVhi3ms]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: צַוָּאר/וֹ = H6677 צַוָּאר "the back of the neck (as that on which burdens…" [HNcmsc/Sp3ms]
+- o6: בְּ/עֹל = Hb "in" + H5923 עֹל "a yoke (as imposed on the neck)…" [HR/Ncmsc]
+- o7: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o8: בָּבֶל = H894 בָּבֶל "Babel (i.e. Babylon)…" [HNp]
+- o9: וַ/עֲבָד/וֹ = Hc "and" + H5647 עָבַד "to work (in any sense)…" [HC/Vqq3ms/Sp3ms]
+- o10: וְ/הִנַּחְתִּי/ו = Hc "and" + H3240 יָנַח "to deposit; by implication, to allow to stay" [HC/Vhq1cs/Sp3ms]
+- o11: עַל = H5921 עַל "above, over, upon…" [HR]
+- o12: אַדְמָת/וֹ = H127 אֲדָמָה "soil (from its general redness)" [HNcfsc/Sp3ms]
+- o13: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o14: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o15: וַ/עֲבָדָ/הּ = Hc "and" + H5647 עָבַד "to work (in any sense)…" [HC/Vqq3ms/Sp3fs]
+- o16: וְ/יָשַׁב = Hc "and" + H3427 יָשַׁב "properly…" [HC/Vqq3ms]
+- o17: בָּ/הּ = Hb "in" [HR/Sp3fs]
+
+### Jeremiah 28:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: בַּ/שָּׁנָה = Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HRd/Ncfsa]
+- o3: הַ/הִיא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3fs]
+- o4: בְּ/רֵאשִׁית = Hb "in" + H7225 רֵאשִׁית "the first, in place, time…" [HR/Ncfsc]
+- o5: מַמְלֶכֶת = H4467 מַמְלָכָה "dominion…" [HNcfsc]
+- o6: צִדְקִיָּה = H6667 צִדְקִיָּה "Tsidkijah, the name of six Israelites" [HNp]
+- o7: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o8: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o9: ב/שנת = Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HRd/Ncfsa]
+- o10: הָ/רְבִעִית = Hd "the" + H7243 רְבִיעִי "fourth; also (fractionally) a fourth" [HTd/Aofsa]
+- o11: בַּ/חֹדֶשׁ = Hb "in" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HRd/Ncmsa]
+- o12: הַ/חֲמִישִׁי = Hd "the" + H2549 חֲמִישִׁי "fifth; also a fifth" [HTd/Aomsa]
+- o13: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o14: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o15: חֲנַנְיָה = H2608 חֲנַנְיָה "Chananjah, the name of thirteen Israelites" [HNp]
+- o16: בֶן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o17: עַזּוּר = H5809 עַזּוּר "Azzur, the name of three Israelites" [HNp]
+- o18: הַ/נָּבִיא = Hd "the" + H5030 נָבִיא "a prophet or (generally) inspired man" [HTd/Ncmsa]
+- o19: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o20: מִ/גִּבְעוֹן = Hm "from" + H1391 גִּבְעוֹן "Gibon, a place in Palestine" [HR/Np]
+- o21: בְּ/בֵית = Hb "in" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc]
+- o22: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o23: לְ/עֵינֵי = Hl "to" + H5869 עַיִן "an eye (literally or figuratively)…" [HR/Ncbdc]
+- o24: הַ/כֹּהֲנִים = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmpa]
+- o25: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o26: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o27: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

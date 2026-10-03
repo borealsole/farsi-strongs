@@ -1184,3 +1184,24 @@ Persian entries and current tags:
 - p36: را  → H853
 - p37: شمارش کرد  → H6485
 - p38: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 4:24 (context)
+
+- o1: זֹאת = H2063 זֹאת "this (often used adverb)" [HPdxfs]
+- o2: עֲבֹדַת = H5656 עֲבֹדָה "work of any kind" [HNcfsc]
+- o3: מִשְׁפְּחֹת = H4940 מִשְׁפָּחָה "a family, i.e. circle of relatives…" [HNcfpc]
+- o4: הַ/גֵּרְשֻׁנִּי = Hd "the" + H1649 גֵּרְשֻׁנִּי "a Gereshonite or descendant of Gereshon" [HTd/Ngmsa]
+- o5: לַ/עֲבֹד = Hl "to" + H5647 עָבַד "to work (in any sense)…" [HR/Vqc]
+- o6: וּ/לְ/מַשָּׂא = Hc "and" + Hl "to" + H4853 מַשָּׂא "a burden…" [HC/R/Ncmsa]
+
+### Numbers 5:1 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: לֵּ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

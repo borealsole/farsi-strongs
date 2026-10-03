@@ -1038,3 +1038,67 @@ Persian entries and current tags:
 - p34: خاندانم  → H1004
 - p35: بزدایی
 - p36: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 2:15 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: אַתְּ = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2fs]
+- o3: יָדַעַתְּ = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqp2fs]
+- o4: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o5: לִ/י = Hl "to" [HR/Sp1cs]
+- o6: הָיְתָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3fs]
+- o7: הַ/מְּלוּכָה = Hd "the" + H4410 מְלוּכָה "something ruled, i.e. a realm" [HTd/Ncfsa]
+- o8: וְ/עָלַ/י = Hc "and" + H5921 עַל "above, over, upon…" [HC/R/Sp1cs]
+- o9: שָׂמוּ = H7760 שׂוּם "to put (used in a great variety of applications…" [HVqp3cp]
+- o10: כָל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o11: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o12: פְּנֵי/הֶם = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc/Sp3mp]
+- o13: לִ/מְלֹךְ = Hl "to" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HR/Vqc]
+- o14: וַ/תִּסֹּב = Hc "and" + H5437 סָבַב "to revolve, surround, or border…" [HC/Vqw3fs]
+- o15: הַ/מְּלוּכָה = Hd "the" + H4410 מְלוּכָה "something ruled, i.e. a realm" [HTd/Ncfsa]
+- o16: וַ/תְּהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3fs]
+- o17: לְ/אָחִ/י = Hl "to" + H251 אָח "a brother (used in the widest sense of literal…" [HR/Ncmsc/Sp1cs]
+- o18: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o19: מֵ/יְהוָה = Hm "from" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o20: הָיְתָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3fs]
+- o21: לּ/וֹ = Hl "to" [HR/Sp3ms]
+
+### I Kings 2:32 (context)
+
+- o1: וְ/הֵשִׁיב = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vhq3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: דָּמ/וֹ = H1818 דָּם "blood (as that which when shed causes death) of…" [HNcmsc/Sp3ms]
+- o5: עַל = H5921 עַל "above, over, upon…" [HR]
+- o6: רֹאשׁ/וֹ = H7218 רֹאשׁ "the head (as most easily shaken)…" [HNcmsc/Sp3ms]
+- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o8: פָּגַע = H6293 פָּגַע "to impinge, by accident or violence…" [HVqp3ms]
+- o9: בִּ/שְׁנֵי = Hb "in" + H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HR/Acmdc]
+- o10: אֲנָשִׁים = H376 אִישׁ "a man as an individual or a male person…" [HNcmpa]
+- o11: צַדִּקִים = H6662 צַדִּיק "just" [HAampa]
+- o12: וְ/טֹבִים = Hc "and" + H2896 טוֹב "good (as an adjective) in the widest sense…" [HC/Aampa]
+- o13: מִמֶּ/נּוּ = H4480 מִן "properly, a part of…" [HR/Sp1cp]
+- o14: וַ/יַּהַרְגֵ/ם = Hc "and" + H2026 הָרַג "to smite with deadly intent" [HC/Vqw3ms/Sp3mp]
+- o15: בַּ/חֶרֶב = Hb "in" + H2719 חֶרֶב "drought…" [HRd/Ncfsa]
+- o16: וְ/אָבִ/י = Hc "and" + H1 אָב "father, in a literal and immediate…" [HC/Ncmsc/Sp1cs]
+- o17: דָוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o18: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o19: יָדָע = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqp3ms]
+- o20: אֶת = H853 אֵת "properly…" [HTo]
+- o21: אַבְנֵר = H74 אַבְנֵר "Abner, an Israelite" [HNp]
+- o22: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o23: נֵר = H5369 נֵר "Ner, an Israelite" [HNp]
+- o24: שַׂר = H8269 שַׂר "a head person (of any rank or class)" [HNcmsc]
+- o25: צְבָא = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbsc]
+- o26: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o27: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o28: עֲמָשָׂא = H6021 עֲמָשָׂא "Amasa, the name of two Israelites" [HNp]
+- o29: בֶן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o30: יֶתֶר = H3500 יֶתֶר "Jether…" [HNp]
+- o31: שַׂר = H8269 שַׂר "a head person (of any rank or class)" [HNcmsc]
+- o32: צְבָא = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbsc]
+- o33: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]

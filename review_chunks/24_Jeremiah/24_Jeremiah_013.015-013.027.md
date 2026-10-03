@@ -683,3 +683,38 @@ Persian entries and current tags:
 - p33: نخواهی_شد  → H3808
 - p34: ؟
 - p35: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 13:14 (context)
+
+- o1: וְ/נִפַּצְתִּי/ם = Hc "and" + H5310 נָפַץ "to dash to pieces, or scatter" [HC/Vpq1cs/Sp3mp]
+- o2: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: אָחִי/ו = H251 אָח "a brother (used in the widest sense of literal…" [HNcmsc/Sp3ms]
+- o5: וְ/הָ/אָבוֹת = Hc "and" + Hd "the" + H1 אָב "father, in a literal and immediate…" [HC/Td/Ncmpa]
+- o6: וְ/הַ/בָּנִים = Hc "and" + Hd "the" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/Td/Ncmpa]
+- o7: יַחְדָּו = H3162 יַחַד "properly, a unit, i.e. (adverb) unitedly" [HD]
+- o8: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o9: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o10: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o11: אֶחְמוֹל = H2550 חָמַל "to commiserate; by implication, to spare" [HVqi1cs]
+- o12: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o13: אָחוּס = H2347 חוּס "properly, to cover…" [HVqi1cs]
+- o14: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o15: אֲרַחֵם = H7355 רָחַם "to fondle…" [HVpi1cs]
+- o16: מֵ/הַשְׁחִיתָ/ם = Hm "from" + H7843 שָׁחַת "to decay…" [HR/Vhc/Sp3mp]
+
+### Jeremiah 14:1 (context)
+
+- o1: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o2: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o3: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o6: יִרְמְיָהוּ = H3414 יִרְמְיָה "Jirmejah, the name of eight or nine Israelites" [HNp]
+- o7: עַל = H5921 עַל "above, over, upon…" [HR]
+- o8: דִּבְרֵי = H1697 דָּבָר "a word…" [HNcmpc]
+- o9: הַ/בַּצָּרוֹת = Hd "the" + H1226 בַּצֹּרֶת "restraint (of rain), i.e. drought" [HTd/Ncfpa]

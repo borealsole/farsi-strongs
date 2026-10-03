@@ -576,3 +576,38 @@ Persian entries and current tags:
 - p19: نجات  → H3467
 - p20: بخشد
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 109:16 (context)
+
+- o1: יַעַן = H3282 יַעַן "properly, heed…" [HC]
+- o2: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o3: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o4: זָכַר = H2142 זָכַר "properly, to mark (so as to be recognized)…" [HVqp3ms]
+- o5: עֲשׂוֹת = H6213 עָשָׂה "to do or make…" [HVqc]
+- o6: חָסֶד = H2617 חֵסֵד "kindness; by implication (towards God) piety…" [HNcmsa]
+- o7: וַ/יִּרְדֹּף = Hc "and" + H7291 רָדַף "to run after (usually with hostile intent…" [HC/Vqw3ms]
+- o8: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o9: עָנִי = H6041 עָנִי "depressed, in mind or circumstances" [HAamsa]
+- o10: וְ/אֶבְיוֹן = Hc "and" + H34 אֶבְיוֹן "destitute" [HC/Aamsa]
+- o11: וְ/נִכְאֵה = Hc "and" + H3512 כָּאָה "to despond; causatively, to deject" [HC/VNrmsc]
+- o12: לֵבָב = H3824 לֵבָב "the heart (as the most interior organ)" [HNcmsa]
+- o13: לְ/מוֹתֵת = Hl "to" + H4191 מוּת "to die (literally or figuratively)…" [HR/Voc]
+
+### Psalms 110:1 (context)
+
+- o1: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o2: מִזְמוֹר = H4210 מִזְמוֹר "properly, instrumental music…" [HNcmsa]
+- o3: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: לַ/אדֹנִ/י = Hl "to" + H113 אָדוֹן "sovereign, i.e. controller (human or divine)" [HR/Ncmsc/Sp1cs]
+- o6: שֵׁב = H3427 יָשַׁב "properly…" [HVqv2ms]
+- o7: לִ/ימִינִ/י = Hl "to" + H3225 יָמִין "the right hand or side (leg…" [HR/Ncfsc/Sp1cs]
+- o8: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o9: אָשִׁית = H7896 שִׁית "to place (in a very wide application)" [HVqi1cs]
+- o10: אֹיְבֶי/ךָ = H341 אֹיֵב "hating; an adversary" [HVqrmpc/Sp2ms]
+- o11: הֲדֹם = H1916 הֲדֹם "a foot stool" [HNcmsa]
+- o12: לְ/רַגְלֶי/ךָ = Hl "to" + H7272 רֶגֶל "a foot (as used in walking)…" [HR/Ncfdc/Sp2ms]

@@ -1057,3 +1057,56 @@ Persian entries and current tags:
 - p15: خداوند  → H3068
 - p16: ساخت  → H1129
 - p17: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 14:17 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o3: לָ/עָם = Hl "to" + H5971 עַם "a people (as a congregated unit)…" [HRd/Ncmsa]
+- o4: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o5: אִתּ/וֹ = H854 אֵת "properly…" [HR/Sp3ms]
+- o6: פִּקְדוּ = H6485 פָּקַד "to visit (with friendly or hostile intent)…" [HVqv2mp]
+- o7: נָא = H4994 נָא "'I pray', 'now', or 'then'…" [HTe]
+- o8: וּ/רְאוּ = Hc "and" + H7200 רָאָה "to see…" [HC/Vqv2mp]
+- o9: מִי = H4310 מִי "who? (occasionally, by a peculiar idiom…" [HTi]
+- o10: הָלַךְ = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVqp3ms]
+- o11: מֵ/עִמָּ/נוּ = Hm "from" + H5973 עִם "adverb or preposition…" [HR/R/Sp1cp]
+- o12: וַ/יִּפְקְדוּ = Hc "and" + H6485 פָּקַד "to visit (with friendly or hostile intent)…" [HC/Vqw3mp]
+- o13: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o14: אֵין = H369 אַיִן "a non-entity…" [HTn]
+- o15: יוֹנָתָן = H3129 יוֹנָתָן "Jonathan, the name of ten Israelites" [HNp]
+- o16: וְ/נֹשֵׂא = Hc "and" + H5375 נָשָׂא "to lift, in a great variety of applications…" [HC/Vqrmsc]
+- o17: כֵלָי/ו = H3627 כְּלִי "something prepared…" [HNcmpc/Sp3ms]
+
+### I Samuel 14:36 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o3: נֵרְדָה = H3381 יָרַד "to descend (literally, to go downwards…" [HVqh1cp]
+- o4: אַחֲרֵי = H310 אַחַר "properly, the hind part…" [HR]
+- o5: פְלִשְׁתִּים = H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HNgmpa]
+- o6: לַיְלָה = H3915 לַיִל "properly, a twist (away of the light), i.e. night…" [HNcmsa]
+- o7: וְ/נָבֹזָה = Hc "and" + H962 בָּזַז "to plunder" [HC/Vqh1cp]
+- o8: בָ/הֶם = Hb "in" [HR/Sp3mp]
+- o9: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o10: אוֹר = H216 אוֹר "illumination or (concrete) luminary (in every…" [HNcbsc]
+- o11: הַ/בֹּקֶר = Hd "the" + H1242 בֹּקֶר "properly, dawn (as the break of day)…" [HTd/Ncmsa]
+- o12: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o13: נַשְׁאֵר = H7604 שָׁאַר "properly, to swell up, i.e. be (causatively…" [HVhh1cp]
+- o14: בָּ/הֶם = Hb "in" [HR/Sp3mp]
+- o15: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o16: וַ/יֹּאמְרוּ = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3mp]
+- o17: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o18: הַ/טּוֹב = Hd "the" + H2896 טוֹב "good (as an adjective) in the widest sense…" [HTd/Aamsa]
+- o19: בְּ/עֵינֶי/ךָ = Hb "in" + H5869 עַיִן "an eye (literally or figuratively)…" [HR/Ncbdc/Sp2ms]
+- o20: עֲשֵׂה = H6213 עָשָׂה "to do or make…" [HVqv2ms]
+- o21: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o22: הַ/כֹּהֵן = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmsa]
+- o23: נִקְרְבָה = H7126 קָרַב "to approach (causatively…" [HVqh1cp]
+- o24: הֲלֹם = H1988 הֲלֹם "hither" [HD]
+- o25: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o26: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]

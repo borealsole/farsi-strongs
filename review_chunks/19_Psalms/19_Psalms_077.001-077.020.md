@@ -749,3 +749,28 @@ Persian entries and current tags:
 - p12: و  → Hc
 - p13: هارون  → H175
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 76:12 (context)
+
+- o1: יִבְצֹר = H1219 בָּצַר "to gather grapes…" [HVqi3ms]
+- o2: רוּחַ = H7307 רוּחַ "wind…" [HNcbsc]
+- o3: נְגִידִים = H5057 נָגִיד "a commander (as occupying the front), civil…" [HNcmpa]
+- o4: נוֹרָא = H3372 יָרֵא "to fear; morally, to revere; caus. to frighten" [HVNrmsa]
+- o5: לְ/מַלְכֵי = Hl "to" + H4428 מֶלֶךְ "a king" [HR/Ncmpc]
+- o6: אָרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsa]
+
+### Psalms 78:1 (context)
+
+- o1: מַשְׂכִּיל = H4905 מַשְׂכִּיל "instructive, i.e. a didactic poem" [HNcmsa]
+- o2: לְ/אָסָף = Hl "to" + H623 אָסָף "Asaph, the name of three Israelites…" [HR/Np]
+- o3: הַאֲזִינָ/ה = H238 אָזַן "to broaden out the ear (with the hand)…" [HVhv2ms/Sh]
+- o4: עַמִּ/י = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp1cs]
+- o5: תּוֹרָתִ/י = H8451 תּוֹרָה "a precept or statute…" [HNcfsc/Sp1cs]
+- o6: הַטּוּ = H5186 נָטָה "to stretch or spread out…" [HVhv2mp]
+- o7: אָזְנְ/כֶם = H241 אֹזֶן "broadness. i.e. (concrete) the ear (from its form…" [HNcfsc/Sp2mp]
+- o8: לְ/אִמְרֵי = Hl "to" + H561 אֵמֶר "something said" [HR/Ncmpc]
+- o9: פִ/י = H6310 פֶּה "the mouth (as the means of blowing)…" [HNcmsc/Sp1cs]

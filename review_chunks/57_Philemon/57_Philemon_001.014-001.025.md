@@ -539,3 +539,26 @@ Persian entries and current tags:
 - p6: شما  → G5210
 - p7: باد
 - p8: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Philemon 1:13 (context)
+
+- o1: ὃν = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-ASM]
+- o2: ἐγὼ = G1473 ἐγώ "I, me" [P-1NS]
+- o3: ἐβουλόμην = G1014 βούλομαι "be disposed, minded, intend, list, (be…" [V-INI-1S]
+- o4: πρὸς = G4314 πρός "about, according to , against, among, at…" [PREP]
+- o5: ἐμαυτὸν = G1683 ἐμαυτοῦ "me, mine own (self), myself" [F-1ASM]
+- o6: κατέχειν, = G2722 κατέχω "have, hold (fast), keep (in memory), let…" [V-PAN]
+- o7: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o8: ὑπὲρ = G5228 ὑπέρ "+ exceeding, abundantly) above…" [PREP]
+- o9: σοῦ = G4771 σύ "thou" [P-2GS]
+- o10: μοι = G1473 ἐγώ "I, me" [P-1DS]
+- o11: διακονῇ = G1247 διακονέω "ad-)minister (unto), serve…" [V-PAS-3S]
+- o12: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o13: τοῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPM]
+- o14: δεσμοῖς = G1199 δεσμόν "band, bond, chain, string" [N-DPM]
+- o15: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
+- o16: εὐαγγελίου, = G2098 εὐαγγέλιον "gospel" [N-GSN]

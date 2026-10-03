@@ -840,3 +840,52 @@ Persian entries and current tags:
 - p22: .
 - p23: آمین  → G281
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Romans 11:18 (context)
+
+- o1: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o2: κατακαυχῶ = G2620 κατακαυχάομαι "boast (against), glory, rejoice against" [V-PNM-2S]
+- o3: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o4: κλάδων· = G2798 κλάδος "branch" [N-GPM]
+- o5: εἰ = G1487 εἰ "forasmuch as, if, that, (al-)though, whether" [COND]
+- o6: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o7: κατακαυχᾶσαι, = G2620 κατακαυχάομαι "boast (against), glory, rejoice against" [V-PNI-2S]
+- o8: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o9: σὺ = G4771 σύ "thou" [P-2NS]
+- o10: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o11: ῥίζαν = G4491 ῥίζα "root" [N-ASF]
+- o12: βαστάζεις = G941 βαστάζω "bear, carry, take up" [V-PAI-2S]
+- o13: ἀλλὰ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o14: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o15: ῥίζα = G4491 ῥίζα "root" [N-NSF]
+- o16: σέ. = G4771 σύ "thou" [P-2AS]
+
+### Romans 12:1 (context)
+
+- o1: Παρακαλῶ = G3870 παρακαλέω "beseech, call for, (be of good) comfort, desire…" [V-PAI-1S]
+- o2: οὖν = G3767 οὖν "and (so, truly), but, now (then)…" [CONJ]
+- o3: ὑμᾶς, = G5210 ὑμεῖς "ye (yourselves), you" [P-2AP]
+- o4: ἀδελφοί, = G80 ἀδελφός "brother" [N-VPM]
+- o5: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o6: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o7: οἰκτιρμῶν = G3628 οἰκτιρμός "mercy" [N-GPM]
+- o8: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o9: θεοῦ, = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o10: παραστῆσαι = G3936 παρίστημι "assist, bring before, command, commend…" [V-AAN]
+- o11: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
+- o12: σώματα = G4983 σῶμα "bodily, body, slave" [N-APN]
+- o13: ὑμῶν = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
+- o14: θυσίαν = G2378 θυσία "sacrifice" [N-ASF]
+- o15: ζῶσαν = G2198 ζάω "life(-time), (a-)live(-ly), quick" [V-PAP-ASF]
+- o16: ἁγίαν = G40 ἅγιος "(most) holy (one, thing), saint" [A-ASF]
+- o17: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o18: θεῷ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-DSM]
+- o19: εὐάρεστον, = G2101 εὐάρεστος "acceptable(-ted), wellpleasing" [A-ASF]
+- o20: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o21: λογικὴν = G3050 λογικός "reasonable, of the word" [A-ASF]
+- o22: λατρείαν = G2999 λατρεία "(divine) service" [N-ASF]
+- o23: ὑμῶν· = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]

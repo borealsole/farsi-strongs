@@ -825,3 +825,38 @@ Persian entries and current tags:
 - p22: را  → H853
 - p23: نجات داد  → H3467
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Judges 3:16 (context)
+
+- o1: וַ/יַּעַשׂ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3ms]
+- o2: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o3: אֵהוּד = H164 אֵהוּד "Ehud, the name of two or three Israelites" [HNp]
+- o4: חֶרֶב = H2719 חֶרֶב "drought…" [HNcfsa]
+- o5: וְ/לָ/הּ = Hc "and" + Hl "to" [HC/R/Sp3fs]
+- o6: שְׁנֵי = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmdc]
+- o7: פֵיוֹת = H6366 פֵּיָה "an edge" [HNcmpa]
+- o8: גֹּמֶד = H1574 גֹּמֶד "properly, a span" [HNcmsa]
+- o9: אָרְכָּ/הּ = H753 אֹרֶךְ "length" [HNcmsc/Sp3fs]
+- o10: וַ/יַּחְגֹּר = Hc "and" + H2296 חָגַר "to gird on (as a belt, armor, etc.)" [HC/Vqw3ms]
+- o11: אוֹתָ/הּ = H853 אֵת "properly…" [HTo/Sp3fs]
+- o12: מִ/תַּחַת = Hm "from" + H8478 תַּחַת "the bottom (as depressed)…" [HR/R]
+- o13: לְ/מַדָּי/ו = Hl "to" + H4055 מַד "properly, extent, i.e. height; also a measure…" [HR/Ncmpc/Sp3ms]
+- o14: עַל = H5921 עַל "above, over, upon…" [HR]
+- o15: יֶרֶךְ = H3409 יָרֵךְ "the thigh (from its fleshy softness)…" [HNcfsc]
+- o16: יְמִינ/וֹ = H3225 יָמִין "the right hand or side (leg…" [HNcfsc/Sp3ms]
+
+### Judges 4:1 (context)
+
+- o1: וַ/יֹּסִפוּ = Hc "and" + H3254 יָסַף "to add or augment (often adverbial…" [HC/Vhw3mp]
+- o2: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o3: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o4: לַ/עֲשׂוֹת = Hl "to" + H6213 עָשָׂה "to do or make…" [HR/Vqc]
+- o5: הָ/רַע = Hd "the" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HTd/Aamsa]
+- o6: בְּ/עֵינֵי = Hb "in" + H5869 עַיִן "an eye (literally or figuratively)…" [HR/Ncbdc]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: וְ/אֵהוּד = Hc "and" + H164 אֵהוּד "Ehud, the name of two or three Israelites" [HC/Np]
+- o9: מֵת = H4191 מוּת "to die (literally or figuratively)…" [HVqp3ms]

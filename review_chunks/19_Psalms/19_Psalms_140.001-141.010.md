@@ -936,3 +936,34 @@ Persian entries and current tags:
 - p17: سلامت
 - p18: می‌گذرم  → H5674
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 139:24 (context)
+
+- o1: וּ/רְאֵה = Hc "and" + H7200 רָאָה "to see…" [HC/Vqv2ms]
+- o2: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o3: דֶּרֶךְ = H1870 דֶּרֶךְ "a road (as trodden)…" [HNcbsc]
+- o4: עֹצֶב = H6090 עֹצֶב "an idol (as fashioned)…" [HNcmsa]
+- o5: בִּ/י = Hb "in" [HR/Sp1cs]
+- o6: וּ/נְחֵ/נִי = Hc "and" + H5148 נָחָה "to guide…" [HC/Vqv2ms/Sp1cs]
+- o7: בְּ/דֶרֶךְ = Hb "in" + H1870 דֶּרֶךְ "a road (as trodden)…" [HR/Ncbsc]
+- o8: עוֹלָם = H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HNcmsa]
+
+### Psalms 142:1 (context)
+
+- o1: מַשְׂכִּיל = H4905 מַשְׂכִּיל "instructive, i.e. a didactic poem" [HNcmsa]
+- o2: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o3: בִּ/הְיוֹת/וֹ = Hb "in" + H1961 הָיָה "to exist, i.e. be or become…" [HR/Vqc/Sp3ms]
+- o4: בַ/מְּעָרָה = Hb "in" + H4631 מְעָרָה "a cavern (as dark)" [HRd/Ncfsa]
+- o5: תְפִלָּה = H8605 תְּפִלָּה "intercession, supplication; by implication, a hymn" [HNcfsa]
+- o6: קוֹלִ/י = H6963 קוֹל "a voice or sound" [HNcmsc/Sp1cs]
+- o7: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o8: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o9: אֶזְעָק = H2199 זָעַק "to shriek (from anguish or danger)…" [HVqi1cs]
+- o10: קוֹלִ/י = H6963 קוֹל "a voice or sound" [HNcmsc/Sp1cs]
+- o11: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o12: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o13: אֶתְחַנָּן = H2603 חָנַן "properly…" [HVti1cs]

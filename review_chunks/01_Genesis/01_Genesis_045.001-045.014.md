@@ -783,3 +783,38 @@ Persian entries and current tags:
 - p14: وی
 - p15: بگریست  → H1058
 - p16: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 44:34 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: אֵיךְ = H349 אֵיךְ "how? or how!; also where" [HTi]
+- o3: אֶעֱלֶה = H5927 עָלָה "to ascend…" [HVqi1cs]
+- o4: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o5: אָבִ/י = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp1cs]
+- o6: וְ/הַ/נַּעַר = Hc "and" + Hd "the" + H5288 נַעַר "concretely) a boy (as active)…" [HC/Td/Ncmsa]
+- o7: אֵינֶ/נּוּ = H369 אַיִן "a non-entity…" [HTn/Sp3ms]
+- o8: אִתִּ/י = H854 אֵת "properly…" [HR/Sp1cs]
+- o9: פֶּן = H6435 פֵּן "properly, removal…" [HC]
+- o10: אֶרְאֶה = H7200 רָאָה "to see…" [HVqi1cs]
+- o11: בָ/רָע = Hb "in" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HRd/Aamsa]
+- o12: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o13: יִמְצָא = H4672 מָצָא "properly, to come forth to, i.e. appear or exist…" [HVqi3ms]
+- o14: אֶת = H853 אֵת "properly…" [HTo]
+- o15: אָבִ/י = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp1cs]
+
+### Genesis 45:15 (context)
+
+- o1: וַ/יְנַשֵּׁק = Hc "and" + H5401 נָשַׁק "to kiss, literally or figuratively (touch)…" [HC/Vpw3ms]
+- o2: לְ/כָל = Hl "to" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o3: אֶחָי/ו = H251 אָח "a brother (used in the widest sense of literal…" [HNcmpc/Sp3ms]
+- o4: וַ/יֵּבְךְּ = Hc "and" + H1058 בָּכָה "to weep; generally to bemoan" [HC/Vqw3ms]
+- o5: עֲלֵי/הֶם = H5921 עַל "above, over, upon…" [HR/Sp3mp]
+- o6: וְ/אַחֲרֵי = Hc "and" + H310 אַחַר "properly, the hind part…" [HC/R]
+- o7: כֵן = H3651 כֵּן "properly, set upright…" [HD]
+- o8: דִּבְּרוּ = H1696 דָבַר "perhaps properly, to arrange…" [HVpp3cp]
+- o9: אֶחָי/ו = H251 אָח "a brother (used in the widest sense of literal…" [HNcmpc/Sp3ms]
+- o10: אִתּ/וֹ = H854 אֵת "properly…" [HR/Sp3ms]

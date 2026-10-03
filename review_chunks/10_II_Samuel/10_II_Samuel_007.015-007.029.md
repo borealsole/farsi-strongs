@@ -907,3 +907,44 @@ Persian entries and current tags:
 - p40: مبارک خواهد_بود  → H1288
 - p41: .
 - p42: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 7:14 (context)
+
+- o1: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o2: אֶהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi1cs]
+- o3: לּ/וֹ = Hl "to" [HR/Sp3ms]
+- o4: לְ/אָב = Hl "to" + H1 אָב "father, in a literal and immediate…" [HR/Ncmsa]
+- o5: וְ/הוּא = Hc "and" + H1931 הוּא "he (she or it)…" [HC/Pp3ms]
+- o6: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o7: לִּ/י = Hl "to" [HR/Sp1cs]
+- o8: לְ/בֵן = Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmsa]
+- o9: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o10: בְּ/הַעֲוֺת/וֹ = Hb "in" + H5753 עָוָה "to crook, literally or figuratively" [HR/Vhc/Sp3ms]
+- o11: וְ/הֹכַחְתִּי/ו = Hc "and" + H3198 יָכַח "to be right (i.e. correct); reciprocal, to argue…" [HC/Vhq1cs/Sp3ms]
+- o12: בְּ/שֵׁבֶט = Hb "in" + H7626 שֵׁבֶט "a scion, i.e. (literally) a stick (for punishing…" [HR/Ncmsc]
+- o13: אֲנָשִׁים = H376 אִישׁ "a man as an individual or a male person…" [HNcmpa]
+- o14: וּ/בְ/נִגְעֵי = Hc "and" + Hb "in" + H5061 נֶגַע "a blow (figuratively, infliction)…" [HC/R/Ncmpc]
+- o15: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o16: אָדָם = H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HNcmsa]
+
+### II Samuel 8:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: אַחֲרֵי = H310 אַחַר "properly, the hind part…" [HR]
+- o3: כֵן = H3651 כֵּן "properly, set upright…" [HD]
+- o4: וַ/יַּךְ = Hc "and" + H5221 נָכָה "to strike (lightly or severely…" [HC/Vhw3ms]
+- o5: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: פְּלִשְׁתִּים = H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HNgmpa]
+- o8: וַ/יַּכְנִיעֵ/ם = Hc "and" + H3665 כָּנַע "properly, to bend the knee…" [HC/Vhw3ms/Sp3mp]
+- o9: וַ/יִּקַּח = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqw3ms]
+- o10: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o11: אֶת = H853 אֵת "properly…" [HTo]
+- o12: מֶתֶג = H4965 מֶתֶג הָאַמָּה "Metheg-ha-Ammah, an epithet of Gath" [HNcmsc]
+- o13: הָ/אַמָּה = Hd "the" + H4965 מֶתֶג הָאַמָּה "Metheg-ha-Ammah, an epithet of Gath" [HTd/Ncfsa]
+- o14: מִ/יַּד = Hm "from" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o15: פְּלִשְׁתִּים = H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HNgmpa]

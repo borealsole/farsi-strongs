@@ -748,3 +748,29 @@ Persian entries and current tags:
 - p28: سکونت  → H7931
 - p29: گزینی
 - p30: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 67:7 (context)
+
+- o1: יְבָרְכֵ/נוּ = H1288 בָרַךְ "to kneel…" [HVpi3ms/Sp1cp]
+- o2: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o3: וְ/יִירְאוּ = Hc "and" + H3372 יָרֵא "to fear; morally, to revere; caus. to frighten" [HC/Vqi3mp]
+- o4: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o5: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o6: אַפְסֵי = H657 אֶפֶס "cessation, i.e. an end (especially of the earth)…" [HNcmpc]
+- o7: אָרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsa]
+
+### Psalms 68:19 (context)
+
+- o1: בָּרוּךְ = H1288 בָרַךְ "to kneel…" [HVqsmsa]
+- o2: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o3: יוֹם = H3117 יוֹם "a day (as the warm hours)…" [HNcmsa]
+- o4: יוֹם = H3117 יוֹם "a day (as the warm hours)…" [HNcmsa]
+- o5: יַעֲמָס = H6006 עָמַס "to load, i.e. impose aburden (or figuratively…" [HVqi3ms]
+- o6: לָ/נוּ = Hl "to" [HR/Sp1cp]
+- o7: הָ/אֵל = Hd "the" + H410 אֵל "strength; as adjective, mighty…" [HTd/Ncmsa]
+- o8: יְשׁוּעָתֵ/נוּ = H3444 יְשׁוּעָה "something saved, i.e. (abstractly) deliverance…" [HNcfsc/Sp1cp]
+- o9: סֶלָה = H5542 סֶלָה "suspension (of music), i.e. pause" [HTj]

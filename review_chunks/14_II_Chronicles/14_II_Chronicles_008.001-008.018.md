@@ -993,3 +993,72 @@ Persian entries and current tags:
 - p42: پادشاه  → H4428
 - p43: آوردند  → H935
 - p44: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 7:22 (context)
+
+- o1: וְ/אָמְרוּ = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqq3cp]
+- o2: עַל = H5921 עַל "above, over, upon…" [HR]
+- o3: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o4: עָזְבוּ = H5800 עָזַב "to loosen, i.e. relinquish, permit, etc" [HVqp3cp]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: אֱלֹהֵי = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc]
+- o8: אֲבֹתֵי/הֶם = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp3mp]
+- o9: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o10: הוֹצִיאָ/ם = H3318 יָצָא "to go (causatively, bring) out…" [HVhp3ms/Sp3mp]
+- o11: מֵ/אֶרֶץ = Hm "from" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o12: מִצְרַיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o13: וַ/יַּחֲזִיקוּ = Hc "and" + H2388 חָזַק "to fasten upon…" [HC/Vhw3mp]
+- o14: בֵּ/אלֹהִים = Hb "in" + H430 אֱלֹהִים "gods in the ordinary sense…" [HR/Ncmpa]
+- o15: אֲחֵרִים = H312 אַחֵר "properly, hinder; generally, next, other, etc" [HAampa]
+- o16: וַ/יִּשְׁתַּחֲווּ = Hc "and" + H7812 שָׁחָה "to depress, i.e. prostrate (especially reflexive…" [HC/Vtw3mp]
+- o17: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o18: וַ/יַּעַבְדוּ/ם = Hc "and" + H5647 עָבַד "to work (in any sense)…" [HC/Vqw3mp/Sp3mp]
+- o19: עַל = H5921 עַל "above, over, upon…" [HR]
+- o20: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o21: הֵבִיא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVhp3ms]
+- o22: עֲלֵי/הֶם = H5921 עַל "above, over, upon…" [HR/Sp3mp]
+- o23: אֵת = H853 אֵת "properly…" [HTo]
+- o24: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o25: הָ/רָעָה = Hd "the" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HTd/Ncfsa]
+- o26: הַ/זֹּאת = Hd "the" + H2063 זֹאת "this (often used adverb)" [HTd/Pdxfs]
+
+### II Chronicles 9:1 (context)
+
+- o1: וּ/מַלְכַּת = Hc "and" + H4436 מַלְכָּה "a queen" [HC/Ncfsc]
+- o2: שְׁבָא = H7614 שְׁבָא "Sheba…" [HNp]
+- o3: שָׁמְעָה = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqp3fs]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: שֵׁמַע = H8088 שֵׁמַע "something heard, i.e. a sound, rumor…" [HNcmsc]
+- o6: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o7: וַ/תָּבוֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3fs]
+- o8: לְ/נַסּוֹת = Hl "to" + H5254 נָסָה "to test; by implication, to attempt" [HR/Vpc]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o11: בְ/חִידוֹת = Hb "in" + H2420 חִידָה "a puzzle, hence, a trick, conundrum…" [HR/Ncfpa]
+- o12: בִּ/ירוּשָׁלִַם = Hb "in" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HR/Np]
+- o13: בְּ/חַיִל = Hb "in" + H2428 חַיִל "probably a force, whether of men…" [HR/Ncmsa]
+- o14: כָּבֵד = H3515 כָּבֵד "heavy…" [HAamsa]
+- o15: מְאֹד = H3966 מְאֹד "properly, vehemence…" [HD]
+- o16: וּ/גְמַלִּים = Hc "and" + H1581 גָּמָל "a camel" [HC/Ncmpa]
+- o17: נֹשְׂאִים = H5375 נָשָׂא "to lift, in a great variety of applications…" [HVqrmpa]
+- o18: בְּשָׂמִים = H1314 בֶּשֶׂם "fragrance; by implication, spicery…" [HNcmpa]
+- o19: וְ/זָהָב = Hc "and" + H2091 זָהָב "gold, figuratively…" [HC/Ncmsa]
+- o20: לָ/רֹב = Hl "to" + H7230 רֹב "abundance (in any respect)" [HR/Ncbsa]
+- o21: וְ/אֶבֶן = Hc "and" + H68 אֶבֶן "a stone" [HC/Ncfsa]
+- o22: יְקָרָה = H3368 יָקָר "valuable (objectively or subjectively)" [HAafsa]
+- o23: וַ/תָּבוֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3fs]
+- o24: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o25: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o26: וַ/תְּדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3fs]
+- o27: עִמּ/וֹ = H5973 עִם "adverb or preposition…" [HR/Sp3ms]
+- o28: אֵת = H853 אֵת "properly…" [HTo]
+- o29: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o30: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o31: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o32: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o33: לְבָבָ/הּ = H3824 לֵבָב "the heart (as the most interior organ)" [HNcmsc/Sp3fs]

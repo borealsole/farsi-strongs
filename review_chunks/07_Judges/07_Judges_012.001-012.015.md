@@ -853,3 +853,38 @@ Persian entries and current tags:
 - p20: به
 - p21: خاک سپردند  → H6912
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Judges 11:40 (context)
+
+- o1: מִ/יָּמִים = Hm "from" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmpa]
+- o2: יָמִימָ/ה = H3117 יוֹם "a day (as the warm hours)…" [HNcmpa/Sd]
+- o3: תֵּלַכְנָה = H3212 יָלַךְ "to walk (literally or figuratively)…" [HVqi3fp]
+- o4: בְּנוֹת = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfpc]
+- o5: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o6: לְ/תַנּוֹת = Hl "to" + H8567 תָּנָה "to ascribe (praise), i.e. celebrate, commemorate" [HR/Vpc]
+- o7: לְ/בַת = Hl "to" + H1323 בַּת "a daughter (used in the same wide sense as other…" [HR/Ncfsc]
+- o8: יִפְתָּח = H3316 יִפְתָּח "Jiphtach, an Israelite; also a place in Palestine" [HNp]
+- o9: הַ/גִּלְעָדִי = Hd "the" + H1569 גִּלְעָדִי "a Giladite or descendant of Gilad" [HTd/Ngmsa]
+- o10: אַרְבַּעַת = H702 אַרְבַּע "four" [HAcmsc]
+- o11: יָמִים = H3117 יוֹם "a day (as the warm hours)…" [HNcmpa]
+- o12: בַּ/שָּׁנָה = Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HRd/Ncfsa]
+
+### Judges 13:1 (context)
+
+- o1: וַ/יֹּסִפוּ = Hc "and" + H3254 יָסַף "to add or augment (often adverbial…" [HC/Vhw3mp]
+- o2: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o3: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o4: לַ/עֲשׂוֹת = Hl "to" + H6213 עָשָׂה "to do or make…" [HR/Vqc]
+- o5: הָ/רַע = Hd "the" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HTd/Aamsa]
+- o6: בְּ/עֵינֵי = Hb "in" + H5869 עַיִן "an eye (literally or figuratively)…" [HR/Ncbdc]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: וַ/יִּתְּנֵ/ם = Hc "and" + H5414 נָתַן "to give…" [HC/Vqw3ms/Sp3mp]
+- o9: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o10: בְּ/יַד = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o11: פְּלִשְׁתִּים = H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HNgmpa]
+- o12: אַרְבָּעִים = H705 אַרְבָּעִים "forty" [HAcbpa]
+- o13: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]

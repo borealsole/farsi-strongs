@@ -639,3 +639,42 @@ Persian entries and current tags:
 - p13: مستولی
 - p14: شد
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 14:31 (context)
+
+- o1: וַ/יַּרְא = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw3ms]
+- o2: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: הַ/יָּד = Hd "the" + H3027 יָד "a hand (the open one (indicating power, means…" [HTd/Ncbsa]
+- o5: הַ/גְּדֹלָה = Hd "the" + H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HTd/Aafsa]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: עָשָׂה = H6213 עָשָׂה "to do or make…" [HVqp3ms]
+- o8: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o9: בְּ/מִצְרַיִם = Hb "in" + H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HR/Np]
+- o10: וַ/יִּירְאוּ = Hc "and" + H3372 יָרֵא "to fear; morally, to revere; caus. to frighten" [HC/Vqw3mp]
+- o11: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o12: אֶת = H853 אֵת "properly…" [HTo]
+- o13: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o14: וַ/יַּאֲמִינוּ = Hc "and" + H539 אָמַן "properly, to build up or support…" [HC/Vhw3mp]
+- o15: בַּ/יהוָה = Hb "in" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o16: וּ/בְ/מֹשֶׁה = Hc "and" + Hb "in" + H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HC/R/Np]
+- o17: עַבְדּ/וֹ = H5650 עֶבֶד "a servant" [HNcmsc/Sp3ms]
+
+### Exodus 15:15 (context)
+
+- o1: אָז = H227 אָז "at that time or place…" [HD]
+- o2: נִבְהֲלוּ = H926 בָּהַל "to tremble inwardly (or palpitate)…" [HVNp3cp]
+- o3: אַלּוּפֵי = H441 אַלּוּף "familiar; a friend, also gentle…" [HNcmpc]
+- o4: אֱדוֹם = H123 אֱדֹם "Edom, the elder twin-brother of Jacob…" [HNp]
+- o5: אֵילֵי = H352 אַיִל "properly, strength; hence, anything strong…" [HNcmpc]
+- o6: מוֹאָב = H4124 מוֹאָב "Moab, an incestuous son of Lot…" [HNp]
+- o7: יֹאחֲזֵ/מוֹ = H270 אָחַז "to seize (often with the accessory idea of…" [HVqi3ms/Sp3mp]
+- o8: רָעַד = H7461 רַעַד "a shudder" [HNcmsa]
+- o9: נָמֹגוּ = H4127 מוּג "to melt, i.e. literally (to soften, flow down…" [HVNp3cp]
+- o10: כֹּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o11: יֹשְׁבֵי = H3427 יָשַׁב "properly…" [HVqrmpc]
+- o12: כְנָעַן = H3667 כְּנַעַן "Kenaan, a son a Ham…" [HNp]

@@ -986,3 +986,15 @@ Persian entries and current tags:
 - p30: هولناک
 - p31: خواهد_آورد  → H6213
 - p32: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Zephaniah 2:1 (context)
+
+- o1: הִתְקוֹשְׁשׁוּ = H7197 קָשַׁשׁ "to forage for straw, stubble or wood…" [HVrv2mp]
+- o2: וָ/קוֹשּׁוּ = Hc "and" + H7197 קָשַׁשׁ "to forage for straw, stubble or wood…" [HC/Vqv2mp]
+- o3: הַ/גּוֹי = Hd "the" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HTd/Ncmsa]
+- o4: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o5: נִכְסָף = H3700 כָּסַף "properly, to become pale…" [HVNp3ms]

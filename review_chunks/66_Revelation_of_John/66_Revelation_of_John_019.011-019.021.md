@@ -748,3 +748,69 @@ Persian entries and current tags:
 - p22: آنان  → G846
 - p23: بیاکندند  → G5526
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Revelation of John 19:10 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἔπεσα = G4098 πίπτω "fail, fall (down), light on" [V-2AAI-1S]
+- o3: ἔμπροσθεν = G1715 ἔμπροσθεν "against, at, before, (in presence, sight) of" [PREP]
+- o4: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o5: ποδῶν = G4228 πούς "foot(-stool)" [N-GPM]
+- o6: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o7: προσκυνῆσαι = G4352 προσκυνέω "worship" [V-AAN]
+- o8: αὐτῷ. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
+- o9: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o10: λέγει = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-3S]
+- o11: μοι, = G1473 ἐγώ "I, me" [P-1DS]
+- o12: ὅρα = G3708 ὁράω "behold, perceive, see, take heed" [V-PAM-2S]
+- o13: μή· = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o14: σύνδουλός = G4889 σύνδουλος "fellowservant" [N-NSM]
+- o15: σού = G4771 σύ "thou" [P-2GS]
+- o16: εἰμι = G1510 εἰμί "am, have been, it is I, was" [V-PAI-1S]
+- o17: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o18: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o19: ἀδελφῶν = G80 ἀδελφός "brother" [N-GPM]
+- o20: σου = G4771 σύ "thou" [P-2GS]
+- o21: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o22: ἐχόντων = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAP-GPM]
+- o23: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o24: μαρτυρίαν = G3141 μαρτυρία "record, report, testimony, witness" [N-ASF]
+- o25: Ἰησοῦ· = G2424 Ἰησοῦς "Jesus" [N-GSM]
+- o26: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o27: θεῷ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-DSM]
+- o28: προσκύνησον. = G4352 προσκυνέω "worship" [V-AAM-2S]
+- o29: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o30: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o31: μαρτυρία = G3141 μαρτυρία "record, report, testimony, witness" [N-NSF]
+- o32: Ἰησοῦ = G2424 Ἰησοῦς "Jesus" [N-GSM]
+- o33: ἐστιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o34: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o35: πνεῦμα = G4151 πνεῦμα "ghost, life, spirit(-ual, -ually), mind" [N-NSN]
+- o36: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o37: προφητείας. = G4394 προφητεία "prophecy, prophesying" [N-GSF]
+
+### Revelation of John 20:1 (context)
+
+- o1: Καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἴδον = G3708 ὁράω "behold, perceive, see, take heed" [V-2AAI-1S]
+- o3: ἄγγελον = G32 ἄγγελος "angel, messenger" [N-ASM]
+- o4: καταβαίνοντα = G2597 καταβαίνω "come (get, go, step) down, fall (down)" [V-PAP-ASM]
+- o5: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o6: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o7: οὐρανοῦ, = G3772 οὐρανός "air, heaven(-ly), sky" [N-GSM]
+- o8: ἔχοντα = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAP-ASM]
+- o9: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o10: κλεῖν = G2807 κλείς "key" [N-ASF]
+- o11: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o12: ἀβύσσου = G12 ἄβυσσος "deep, (bottomless) pit" [N-GSF]
+- o13: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o14: ἅλυσιν = G254 ἅλυσις "bonds, chain" [N-ASF]
+- o15: μεγάλην = G3173 μέγας "+ fear) exceedingly, great(-est), high, large…" [A-ASF]
+- o16: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o17: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o18: χεῖρα = G5495 χείρ "hand" [N-ASF]
+- o19: αὐτοῦ. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]

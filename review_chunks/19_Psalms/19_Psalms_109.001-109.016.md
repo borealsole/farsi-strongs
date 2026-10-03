@@ -564,3 +564,27 @@ Persian entries and current tags:
 - p20: به
 - p21: مرگ  → H4191
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 108:13 (context)
+
+- o1: בֵּ/אלֹהִים = Hb "in" + H430 אֱלֹהִים "gods in the ordinary sense…" [HR/Ncmpa]
+- o2: נַעֲשֶׂה = H6213 עָשָׂה "to do or make…" [HVqi1cp]
+- o3: חָיִל = H2428 חַיִל "probably a force, whether of men…" [HNcmsa]
+- o4: וְ/הוּא = Hc "and" + H1931 הוּא "he (she or it)…" [HC/Pp3ms]
+- o5: יָבוּס = H947 בּוּס "to trample (literally or figuratively)" [HVqi3ms]
+- o6: צָרֵי/נוּ = H6862 צַר "narrow…" [HNcmpc/Sp1cp]
+
+### Psalms 109:17 (context)
+
+- o1: וַ/יֶּאֱהַב = Hc "and" + H157 אָהַב "to have affection for (sexually or otherwise)" [HC/Vqw3ms]
+- o2: קְלָלָה = H7045 קְלָלָה "vilification" [HNcfsa]
+- o3: וַ/תְּבוֹאֵ/הוּ = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3fs/Sp3ms]
+- o4: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o5: חָפֵץ = H2654 חָפֵץ "properly, to incline to…" [HVqp3ms]
+- o6: בִּ/בְרָכָה = Hb "in" + H1293 בְּרָכָה "benediction; by implication prosperity" [HR/Ncfsa]
+- o7: וַ/תִּרְחַק = Hc "and" + H7368 רָחַק "to widen (in any direction)…" [HC/Vqw3fs]
+- o8: מִמֶּ/נּוּ = H4480 מִן "properly, a part of…" [HR/Sp3ms]

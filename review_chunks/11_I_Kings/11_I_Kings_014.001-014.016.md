@@ -1016,3 +1016,36 @@ Persian entries and current tags:
 - p22: خواهد_کرد
 - p23: .
 - p24: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 13:34 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: בַּ/דָּבָר = Hb "in" + H1697 דָּבָר "a word…" [HRd/Ncmsa]
+- o3: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o4: לְ/חַטַּאת = Hl "to" + H2403 חַטָּאָה "an offence (sometimes habitual sinfulness)…" [HR/Ncfsc]
+- o5: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o6: יָרָבְעָם = H3379 יָרׇבְעָם "Jarobam, the name of two Israelite kings" [HNp]
+- o7: וּ/לְ/הַכְחִיד = Hc "and" + Hl "to" + H3582 כָּחַד "to secrete, by act or word…" [HC/R/Vhc]
+- o8: וּ/לְ/הַשְׁמִיד = Hc "and" + Hl "to" + H8045 שָׁמַד "to desolate" [HC/R/Vhc]
+- o9: מֵ/עַל = Hm "from" + H5921 עַל "above, over, upon…" [HR/R]
+- o10: פְּנֵי = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc]
+- o11: הָ/אֲדָמָה = Hd "the" + H127 אֲדָמָה "soil (from its general redness)" [HTd/Ncfsa]
+
+### I Kings 14:17 (context)
+
+- o1: וַ/תָּקָם = Hc "and" + H6965 קוּם "to rise (in various applications, literal…" [HC/Vqw3fs]
+- o2: אֵשֶׁת = H802 אִשָּׁה "a woman" [HNcfsc]
+- o3: יָרָבְעָם = H3379 יָרׇבְעָם "Jarobam, the name of two Israelite kings" [HNp]
+- o4: וַ/תֵּלֶךְ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3fs]
+- o5: וַ/תָּבֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3fs]
+- o6: תִרְצָתָ/ה = H8656 תִּרְצָה "Tirtsah, a place in Palestine; also an Israelitess" [HNp/Sd]
+- o7: הִיא = H1931 הוּא "he (she or it)…" [HPp3fs]
+- o8: בָּאָה = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqrfsa]
+- o9: בְ/סַף = Hb "in" + H5592 סַף "a vestibule (as a limit)…" [HR/Ncmsc]
+- o10: הַ/בַּיִת = Hd "the" + H1004 בַּיִת "a house (in the greatest variation of…" [HTd/Ncmsa]
+- o11: וְ/הַ/נַּעַר = Hc "and" + Hd "the" + H5288 נַעַר "concretely) a boy (as active)…" [HC/Td/Ncmsa]
+- o12: מֵת = H4191 מוּת "to die (literally or figuratively)…" [HVqp3ms]

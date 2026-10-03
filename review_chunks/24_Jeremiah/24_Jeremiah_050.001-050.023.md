@@ -1318,3 +1318,36 @@ Persian entries and current tags:
 - p20: وحشت  → H8047
 - p21: گشته_است
 - p22: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 49:39 (context)
+
+- o1: וְ/הָיָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3ms]
+- o2: בְּ/אַחֲרִית = Hb "in" + H319 אַחֲרִית "the last or end, hence, the future; also posterity" [HR/Ncfsc]
+- o3: הַ/יָּמִים = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmpa]
+- o4: אשוב = H7725 שׁוּב "to turn back (hence…" [HVqi1cs]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: שבית = H7622 שְׁבוּת "exile, concretely, prisoners…" [HNcfsc]
+- o7: עֵילָם = H5867 עֵילָם "Elam, a son of Shem and his descendants…" [HNp]
+- o8: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o9: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### Jeremiah 50:24 (context)
+
+- o1: יָקֹשְׁתִּי = H3369 יָקֹשׁ "to ensnare (literally or figuratively)" [HVqp1cs]
+- o2: לָ/ךְ = Hl "to" [HR/Sp2fs]
+- o3: וְ/גַם = Hc "and" + H1571 גַּם "properly, assemblage…" [HC/Ta]
+- o4: נִלְכַּדְתְּ = H3920 לָכַד "to catch (in a net, trap or pit)…" [HVNp2fs]
+- o5: בָּבֶל = H894 בָּבֶל "Babel (i.e. Babylon)…" [HNp]
+- o6: וְ/אַתְּ = Hc "and" + H859 אַתָּה "thou and thee, or (plural) ye and you" [HC/Pp2fs]
+- o7: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o8: יָדָעַתְּ = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqp2fs]
+- o9: נִמְצֵאת = H4672 מָצָא "properly, to come forth to, i.e. appear or exist…" [HVNp2fs]
+- o10: וְ/גַם = Hc "and" + H1571 גַּם "properly, assemblage…" [HC/Ta]
+- o11: נִתְפַּשְׂתְּ = H8610 תָּפַשׂ "to manipulate, i.e. seize…" [HVNp2fs]
+- o12: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o13: בַ/יהוָה = Hb "in" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o14: הִתְגָּרִית = H1624 גָּרָה "properly, to grate, i.e. (figuratively) to anger" [HVtp2fs]

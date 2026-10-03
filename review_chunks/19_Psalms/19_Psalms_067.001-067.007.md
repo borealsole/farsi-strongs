@@ -302,3 +302,32 @@ Persian entries and current tags:
 - p10: او
 - p11: خواهند_ترسید  → H3372
 - p12: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 66:20 (context)
+
+- o1: בָּרוּךְ = H1288 בָרַךְ "to kneel…" [HVqsmsa]
+- o2: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o3: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o4: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o5: הֵסִיר = H5493 סוּר "to turn off (literal or figurative)" [HVhp3ms]
+- o6: תְּפִלָּתִ/י = H8605 תְּפִלָּה "intercession, supplication; by implication, a hymn" [HNcfsc/Sp1cs]
+- o7: וְ/חַסְדּ/וֹ = Hc "and" + H2617 חֵסֵד "kindness; by implication (towards God) piety…" [HC/Ncmsc/Sp3ms]
+- o8: מֵ/אִתִּ/י = Hm "from" + H854 אֵת "properly…" [HR/R/Sp1cs]
+
+### Psalms 68:1 (context)
+
+- o1: לַ/מְנַצֵּחַ = Hl "to" + H5329 נָצַח "properly, to glitter from afar…" [HRd/Vprmsa]
+- o2: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o3: מִזְמוֹר = H4210 מִזְמוֹר "properly, instrumental music…" [HNcmsa]
+- o4: שִׁיר = H7892 שִׁיר "a song; abstractly, singing" [HNcbsa]
+- o5: יָקוּם = H6965 קוּם "to rise (in various applications, literal…" [HVqi3ms]
+- o6: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o7: יָפוּצוּ = H6327 פּוּץ "to dash in pieces…" [HVqi3mp]
+- o8: אוֹיְבָי/ו = H341 אֹיֵב "hating; an adversary" [HVqrmpc/Sp3ms]
+- o9: וְ/יָנוּסוּ = Hc "and" + H5127 נוּס "to flit, i.e. vanish away (subside, escape…" [HC/Vqi3mp]
+- o10: מְשַׂנְאָי/ו = H8130 שָׂנֵא "to hate (personally)" [HVprmpc/Sp3ms]
+- o11: מִ/פָּנָי/ו = Hm "from" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp3ms]

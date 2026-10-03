@@ -1246,3 +1246,50 @@ Persian entries and current tags:
 - p29: را
 - p30: یاری نخواهد_داد  → H5826
 - p31: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Daniel 11:22 (context)
+
+- o1: וּ/זְרֹעוֹת = Hc "and" + H2220 זְרוֹעַ "the arm (as stretched out)…" [HC/Ncbpc]
+- o2: הַ/שֶּׁטֶף = Hd "the" + H7858 שֶׁטֶף "a deluge (literally or figuratively)" [HTd/Ncmsa]
+- o3: יִשָּׁטְפוּ = H7857 שָׁטַף "to gush; by implication, to inundate, cleanse…" [HVNi3mp]
+- o4: מִ/לְּ/פָנָי/ו = Hm "from" + Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/R/Ncbpc/Sp3ms]
+- o5: וְ/יִשָּׁבֵרוּ = Hc "and" + H7665 שָׁבַר "to burst (literally or figuratively)" [HC/VNi3mp]
+- o6: וְ/גַם = Hc "and" + H1571 גַּם "properly, assemblage…" [HC/Ta]
+- o7: נְגִיד = H5057 נָגִיד "a commander (as occupying the front), civil…" [HNcmsc]
+- o8: בְּרִית = H1285 בְּרִית "a compact (because made by passing between pieces…" [HNcfsa]
+
+### Daniel 12:1 (context)
+
+- o1: וּ/בָ/עֵת = Hc "and" + Hb "in" + H6256 עֵת "time, especially (adverb with preposition) now…" [HC/Rd/Ncbsa]
+- o2: הַ/הִיא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3fs]
+- o3: יַעֲמֹד = H5975 עָמַד "to stand…" [HVqi3ms]
+- o4: מִיכָאֵל = H4317 מִיכָאֵל "Mikael…" [HNp]
+- o5: הַ/שַּׂר = Hd "the" + H8269 שַׂר "a head person (of any rank or class)" [HTd/Ncmsa]
+- o6: הַ/גָּדוֹל = Hd "the" + H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HTd/Aamsa]
+- o7: הָ/עֹמֵד = Hd "the" + H5975 עָמַד "to stand…" [HTd/Vqrmsa]
+- o8: עַל = H5921 עַל "above, over, upon…" [HR]
+- o9: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o10: עַמֶּ/ךָ = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp2ms]
+- o11: וְ/הָיְתָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3fs]
+- o12: עֵת = H6256 עֵת "time, especially (adverb with preposition) now…" [HNcbsc]
+- o13: צָרָה = H6869 צָרָה "tightness (i.e. figuratively, trouble)…" [HNcfsa]
+- o14: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o15: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o16: נִהְיְתָה = H1961 הָיָה "to exist, i.e. be or become…" [HVNp3fs]
+- o17: מִ/הְיוֹת = Hm "from" + H1961 הָיָה "to exist, i.e. be or become…" [HR/Vqc]
+- o18: גּוֹי = H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HNcmsa]
+- o19: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o20: הָ/עֵת = Hd "the" + H6256 עֵת "time, especially (adverb with preposition) now…" [HTd/Ncbsa]
+- o21: הַ/הִיא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3fs]
+- o22: וּ/בָ/עֵת = Hc "and" + Hb "in" + H6256 עֵת "time, especially (adverb with preposition) now…" [HC/Rd/Ncbsa]
+- o23: הַ/הִיא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3fs]
+- o24: יִמָּלֵט = H4422 מָלַט "properly, to be smooth…" [HVNi3ms]
+- o25: עַמְּ/ךָ = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp2ms]
+- o26: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o27: הַ/נִּמְצָא = Hd "the" + H4672 מָצָא "properly, to come forth to, i.e. appear or exist…" [HTd/VNrmsa]
+- o28: כָּתוּב = H3789 כָּתַב "to grave, by implication, to write (describe…" [HVqsmsa]
+- o29: בַּ/סֵּפֶר = Hb "in" + H5612 סֵפֶר "properly, writing (the art or a document)…" [HRd/Ncmsa]

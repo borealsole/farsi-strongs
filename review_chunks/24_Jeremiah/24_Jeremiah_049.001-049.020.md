@@ -1202,3 +1202,33 @@ Persian entries and current tags:
 - p34: یکسره
 - p35: متروک خواهد_شد  → H8074
 - p36: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 48:47 (context)
+
+- o1: וְ/שַׁבְתִּי = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqq1cs]
+- o2: שְׁבוּת = H7622 שְׁבוּת "exile, concretely, prisoners…" [HNcfsc]
+- o3: מוֹאָב = H4124 מוֹאָב "Moab, an incestuous son of Lot…" [HNp]
+- o4: בְּ/אַחֲרִית = Hb "in" + H319 אַחֲרִית "the last or end, hence, the future; also posterity" [HR/Ncfsc]
+- o5: הַ/יָּמִים = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmpa]
+- o6: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o9: הֵנָּה = H2008 הֵנָּה "hither or thither (but used both of place and…" [HD]
+- o10: מִשְׁפַּט = H4941 מִשְׁפָּט "properly…" [HNcmsc]
+- o11: מוֹאָב = H4124 מוֹאָב "Moab, an incestuous son of Lot…" [HNp]
+
+### Jeremiah 49:21 (context)
+
+- o1: מִ/קּוֹל = Hm "from" + H6963 קוֹל "a voice or sound" [HR/Ncmsc]
+- o2: נִפְלָ/ם = H5307 נָפַל "to fall…" [HVqc/Sp3mp]
+- o3: רָעֲשָׁה = H7493 רָעַשׁ "to undulate (as the earth, the sky, etc.…" [HVqp3fs]
+- o4: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o5: צְעָקָה = H6818 צַעֲקָה "a shriek" [HNcfsa]
+- o6: בְּ/יַם = Hb "in" + H3220 יָם "a sea (as breaking in noisy surf) or large body…" [HR/Ncmsc]
+- o7: סוּף = H5488 סוּף "a reed, especially the papyrus" [HNcmsa]
+- o8: נִשְׁמַע = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVNp3ms]
+- o9: קוֹלָ/הּ = H6963 קוֹל "a voice or sound" [HNcmsc/Sp3fs]

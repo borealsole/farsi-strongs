@@ -855,3 +855,58 @@ Persian entries and current tags:
 - p15: سرزمین  → H776
 - p16: سلطنت می‌کرد  → H4427
 - p17: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 21:20 (context)
+
+- o1: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o2: שְׁלֹשִׁים = H7970 שְׁלוֹשִׁים "thirty; or (ordinal) thirtieth" [HAcbpa]
+- o3: וּ/שְׁתַּיִם = Hc "and" + H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HC/Acfda]
+- o4: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o5: בְ/מָלְכ/וֹ = Hb "in" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HR/Vqc/Sp3ms]
+- o6: וּ/שְׁמוֹנֶה = Hc "and" + H8083 שְׁמֹנֶה "a cardinal number…" [HC/Acfsa]
+- o7: שָׁנִים = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfpa]
+- o8: מָלַךְ = H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HVqp3ms]
+- o9: בִּ/ירוּשָׁלִָם = Hb "in" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HR/Np]
+- o10: וַ/יֵּלֶךְ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3ms]
+- o11: בְּ/לֹא = Hb "in" + H3808 לֹא "not (the simple or abs. negation)…" [HR/Tn]
+- o12: חֶמְדָּה = H2532 חֶמְדָּה "delight" [HNcfsa]
+- o13: וַ/יִּקְבְּרֻ/הוּ = Hc "and" + H6912 קָבַר "to inter" [HC/Vqw3mp/Sp3ms]
+- o14: בְּ/עִיר = Hb "in" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HR/Ncfsc]
+- o15: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o16: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o17: בְּ/קִבְרוֹת = Hb "in" + H6913 קֶבֶר "a sepulchre" [HR/Ncmpc]
+- o18: הַ/מְּלָכִים = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmpa]
+
+### II Chronicles 23:1 (context)
+
+- o1: וּ/בַ/שָּׁנָה = Hc "and" + Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HC/Rd/Ncfsa]
+- o2: הַ/שְּׁבִעִית = Hd "the" + H7637 שְׁבִיעִי "seventh" [HTd/Aofsa]
+- o3: הִתְחַזַּק = H2388 חָזַק "to fasten upon…" [HVtp3ms]
+- o4: יְהוֹיָדָע = H3077 יְהוֹיָדָע "Jehojada, the name of three Israelites" [HNp]
+- o5: וַ/יִּקַּח = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqw3ms]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: שָׂרֵי = H8269 שַׂר "a head person (of any rank or class)" [HNcmpc]
+- o8: הַ/מֵּאוֹת = Hd "the" + H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HTd/Acbpa]
+- o9: לַ/עֲזַרְיָהוּ = Hl "to" + H5838 עֲזַרְיָה "Azarjah, the name of nineteen Israelites" [HR/Np]
+- o10: בֶן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o11: יְרֹחָם = H3395 יְרֹחָם "Jerocham, the name of seven or eight Israelites" [HNp]
+- o12: וּ/לְ/יִשְׁמָעֵאל = Hc "and" + Hl "to" + H3458 יִשְׁמָעֵאל "Jishmael, the name of Abraham's oldest son…" [HC/R/Np]
+- o13: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o14: יְהוֹחָנָן = H3076 יְהוֹחָנָן "Jehochanan, the name of eight Israelites" [HNp]
+- o15: וְ/לַ/עֲזַרְיָהוּ = Hc "and" + Hl "to" + H5838 עֲזַרְיָה "Azarjah, the name of nineteen Israelites" [HC/R/Np]
+- o16: בֶן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o17: עוֹבֵד = H5744 עוֹבֵד "Obed, the name of five Israelites" [HNp]
+- o18: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o19: מַעֲשֵׂיָהוּ = H4641 מַעֲשֵׂיָה "Maasejah, the name of sixteen Israelites" [HNp]
+- o20: בֶן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o21: עֲדָיָהוּ = H5718 עֲדָיָה "Adajah, the name of eight Israelites" [HNp]
+- o22: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o23: אֱלִישָׁפָט = H478 אֱלִישָׁפָט "Elishaphat, an Israelite" [HNp]
+- o24: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o25: זִכְרִי = H2147 זִכְרִי "Zicri, the name of twelve Israelites" [HNp]
+- o26: עִמּ/וֹ = H5973 עִם "adverb or preposition…" [HR/Sp3ms]
+- o27: בַ/בְּרִית = Hb "in" + H1285 בְּרִית "a compact (because made by passing between pieces…" [HRd/Ncfsa]

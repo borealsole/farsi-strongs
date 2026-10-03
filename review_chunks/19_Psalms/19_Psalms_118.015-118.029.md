@@ -522,3 +522,25 @@ Persian entries and current tags:
 - p10: جاودانه  → H5769 H2617
 - p11: است  → H5769
 - p12: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 118:14 (context)
+
+- o1: עָזִּ/י = H5797 עֹז "strength in various applications (force, security…" [HNcmsc/Sp1cs]
+- o2: וְ/זִמְרָת = Hc "and" + H2176 זִמְרָת "instrumental music; by implication, praise" [HC/Ncfsc]
+- o3: יָהּ = H3050 יָהּ "Jah, the sacred name" [HNp]
+- o4: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o5: לִ/י = Hl "to" [HR/Sp1cs]
+- o6: לִ/ישׁוּעָה = Hl "to" + H3444 יְשׁוּעָה "something saved, i.e. (abstractly) deliverance…" [HR/Ncfsa]
+
+### Psalms 119:1 (context)
+
+- o1: אַשְׁרֵי = H835 אֶשֶׁר "happiness…" [HNcmpa]
+- o2: תְמִימֵי = H8549 תָּמִים "entire (literally, figuratively or morally)…" [HAampc]
+- o3: דָרֶךְ = H1870 דֶּרֶךְ "a road (as trodden)…" [HNcbsa]
+- o4: הַ/הֹלְכִים = Hd "the" + H1980 הָלַךְ "to walk (in a great variety of applications…" [HTd/Vqrmpa]
+- o5: בְּ/תוֹרַת = Hb "in" + H8451 תּוֹרָה "a precept or statute…" [HR/Ncfsc]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]

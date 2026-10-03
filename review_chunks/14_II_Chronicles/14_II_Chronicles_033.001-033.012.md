@@ -724,3 +724,49 @@ Persian entries and current tags:
 - p22: به‌غایت  → H3966
 - p23: فروتن ساخت  → H3665
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 32:33 (context)
+
+- o1: וַ/יִּשְׁכַּב = Hc "and" + H7901 שָׁכַב "to lie down (for rest, sexual connection…" [HC/Vqw3ms]
+- o2: יְחִזְקִיָּהוּ = H2396 חִזְקִיָּה "Chizkijah, a king of Judah…" [HNp]
+- o3: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o4: אֲבֹתָי/ו = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp3ms]
+- o5: וַ/יִּקְבְּרֻ/הוּ = Hc "and" + H6912 קָבַר "to inter" [HC/Vqw3mp/Sp3ms]
+- o6: בְּ/מַעֲלֵה = Hb "in" + H4608 מַעֲלֶה "an elevation…" [HR/Ncmsc]
+- o7: קִבְרֵי = H6913 קֶבֶר "a sepulchre" [HNcmpc]
+- o8: בְנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o9: דָוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o10: וְ/כָבוֹד = Hc "and" + H3519 כָּבוֹד "properly, weight…" [HC/Ncbsa]
+- o11: עָשׂוּ = H6213 עָשָׂה "to do or make…" [HVqp3cp]
+- o12: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o13: בְ/מוֹת/וֹ = Hb "in" + H4194 מָוֶת "death (natural or violent)…" [HR/Ncmsc/Sp3ms]
+- o14: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o15: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o16: וְ/יֹשְׁבֵי = Hc "and" + H3427 יָשַׁב "properly…" [HC/Vqrmpc]
+- o17: יְרוּשָׁלִָם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+- o18: וַ/יִּמְלֹךְ = Hc "and" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HC/Vqw3ms]
+- o19: מְנַשֶּׁה = H4519 מְנַשֶּׁה "Menashsheh, a grandson of Jacob…" [HNp]
+- o20: בְנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o21: תַּחְתָּי/ו = H8478 תַּחַת "the bottom (as depressed)…" [HR/Sp3ms]
+
+### II Chronicles 33:13 (context)
+
+- o1: וַ/יִּתְפַּלֵּל = Hc "and" + H6419 פָּלַל "to judge (officially or mentally)…" [HC/Vtw3ms]
+- o2: אֵלָי/ו = H413 אֵל "near, with or among; often in general, to" [HR/Sp3ms]
+- o3: וַ/יֵּעָתֶר = Hc "and" + H6279 עָתַר "to burn incense in worship…" [HC/VNw3ms]
+- o4: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o5: וַ/יִּשְׁמַע = Hc "and" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HC/Vqw3ms]
+- o6: תְּחִנָּת/וֹ = H8467 תְּחִנָּה "graciousness; causatively, entreaty" [HNcfsc/Sp3ms]
+- o7: וַ/יְשִׁיבֵ/הוּ = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vhw3ms/Sp3ms]
+- o8: יְרוּשָׁלִַם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+- o9: לְ/מַלְכוּת/וֹ = Hl "to" + H4438 מַלְכוּת "a rule; concretely, a dominion" [HR/Ncfsc/Sp3ms]
+- o10: וַ/יֵּדַע = Hc "and" + H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HC/Vqw3ms]
+- o11: מְנַשֶּׁה = H4519 מְנַשֶּׁה "Menashsheh, a grandson of Jacob…" [HNp]
+- o12: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o13: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o14: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o15: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]

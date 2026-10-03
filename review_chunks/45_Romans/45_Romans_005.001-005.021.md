@@ -1204,3 +1204,35 @@ Persian entries and current tags:
 - p26: رهنمون
 - p27: شود  → G936
 - p28: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Romans 4:25 (context)
+
+- o1: ὃς = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-NSM]
+- o2: παρεδόθη = G3860 παραδίδωμι "betray, bring forth, cast, commit, deliver (up)…" [V-API-3S]
+- o3: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o4: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
+- o5: παραπτώματα = G3900 παράπτωμα "fall, fault, offence, sin, trespass" [N-APN]
+- o6: ἡμῶν = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+- o7: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o8: ἠγέρθη = G1453 ἐγείρω "awake, lift (up), raise (again, up), rear up…" [V-API-3S]
+- o9: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o10: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o11: δικαίωσιν = G1347 δικαίωσις "justification" [N-ASF]
+- o12: ἡμῶν. = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+
+### Romans 6:1 (context)
+
+- o1: Τί = G5101 τίς "every man, how (much), + no(-ne, thing)…" [I-ASN]
+- o2: οὖν = G3767 οὖν "and (so, truly), but, now (then)…" [CONJ]
+- o3: ἐροῦμεν; = G2046 ἐρέω "call, say, speak (of), tell" [V-FAI-1P]
+- o4: ἐπιμένωμεν = G1961 ἐπιμένω "abide (in), continue (in), tarry" [V-PAS-1P]
+- o5: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o6: ἁμαρτίᾳ, = G266 ἁμαρτία "offence, sin(-ful)" [N-DSF]
+- o7: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o8: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o9: χάρις = G5485 χάρις "acceptable, benefit, favour, gift, grace(- ious)…" [N-NSF]
+- o10: πλεονάσῃ; = G4121 πλεονάζω "abound, abundant, make to increase, have over" [V-AAS-3S]

@@ -894,3 +894,29 @@ Persian entries and current tags:
 - p17: تقدیم
 - p18: کنید
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 14:45 (context)
+
+- o1: וַ/יֵּרֶד = Hc "and" + H3381 יָרַד "to descend (literally, to go downwards…" [HC/Vqw3ms]
+- o2: הָ/עֲמָלֵקִי = Hd "the" + H6003 עֲמָלֵקִי "an Amalekite (or collectively the Amalekites) or…" [HTd/Ngmsa]
+- o3: וְ/הַ/כְּנַעֲנִי = Hc "and" + Hd "the" + H3669 כְּנַעַנִי "a Kenaanite or inhabitant of Kenaan…" [HC/Td/Ngmsa]
+- o4: הַ/יֹּשֵׁב = Hd "the" + H3427 יָשַׁב "properly…" [HTd/Vqrmsa]
+- o5: בָּ/הָר = Hb "in" + H2022 הַר "a mountain or range of hills (sometimes used…" [HRd/Ncmsa]
+- o6: הַ/הוּא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3ms]
+- o7: וַ/יַּכּוּ/ם = Hc "and" + H5221 נָכָה "to strike (lightly or severely…" [HC/Vhw3mp/Sp3mp]
+- o8: וַ/יַּכְּתוּ/ם = Hc "and" + H3807 כָּתַת "to bruise or violently strike" [HC/Vhw3mp/Sp3mp]
+- o9: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o10: הַ/חָרְמָה = Hd "the" + H2767 חׇרְמָה "Chormah, a place in Palestine" [HTd/Np]
+
+### Numbers 15:21 (context)
+
+- o1: מֵ/רֵאשִׁית = Hm "from" + H7225 רֵאשִׁית "the first, in place, time…" [HR/Ncfsc]
+- o2: עֲרִסֹתֵי/כֶם = H6182 עֲרִיסָה "meal" [HNcfpc/Sp2mp]
+- o3: תִּתְּנוּ = H5414 נָתַן "to give…" [HVqi2mp]
+- o4: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o5: תְּרוּמָה = H8641 תְּרוּמָה "a present (as offered up)…" [HNcfsa]
+- o6: לְ/דֹרֹתֵי/כֶם = Hl "to" + H1755 דּוֹר "properly, a revolution of time…" [HR/Ncmpc/Sp2mp]

@@ -700,3 +700,35 @@ Persian entries and current tags:
 - p30: درک  → H995
 - p31: نمی‌کردم  → H369
 - p32: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Daniel 8:14 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o3: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o4: עֶרֶב = H6153 עֶרֶב "dusk" [HNcmsa]
+- o5: בֹּקֶר = H1242 בֹּקֶר "properly, dawn (as the break of day)…" [HNcmsa]
+- o6: אַלְפַּיִם = H505 אֶלֶף "hence (the ox's head being the first letter of…" [HAcbpa]
+- o7: וּ/שְׁלֹשׁ = Hc "and" + H7969 שָׁלוֹשׁ "three…" [HC/Acfsa]
+- o8: מֵאוֹת = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbpa]
+- o9: וְ/נִצְדַּק = Hc "and" + H6663 צָדַק "to be (causatively…" [HC/VNq3ms]
+- o10: קֹדֶשׁ = H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HNcmsa]
+
+### Daniel 9:1 (context)
+
+- o1: בִּ/שְׁנַת = Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HR/Ncfsc]
+- o2: אַחַת = H259 אֶחָד "properly, united, i.e. one…" [HAcfsa]
+- o3: לְ/דָרְיָוֶשׁ = Hl "to" + H1867 דָּרְיָוֵשׁ "Darejavesh…" [HR/Np]
+- o4: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o5: אֲחַשְׁוֵרוֹשׁ = H325 אֲחַשְׁוֵרוֹשׁ "Achashverosh (i.e. Ahasuerus or Artaxerxes…" [HNp]
+- o6: מִ/זֶּרַע = Hm "from" + H2233 זֶרַע "seed…" [HR/Ncmsc]
+- o7: מָדָי = H4074 מָדַי "Madai, a country of central Asia" [HNp]
+- o8: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o9: הָמְלַךְ = H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HVHp3ms]
+- o10: עַל = H5921 עַל "above, over, upon…" [HR]
+- o11: מַלְכוּת = H4438 מַלְכוּת "a rule; concretely, a dominion" [HNcfsc]
+- o12: כַּשְׂדִּים = H3778 כַּשְׂדִּי "a Kasdite, or descendant of Kesed…" [HNp]

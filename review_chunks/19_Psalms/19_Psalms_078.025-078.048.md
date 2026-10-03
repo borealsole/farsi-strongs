@@ -834,3 +834,31 @@ Persian entries and current tags:
 - p10: به  → Hl
 - p11: صاعقه  → H7565
 - p12: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 78:24 (context)
+
+- o1: וַ/יַּמְטֵר = Hc "and" + H4305 מָטַר "to rain" [HC/Vhw3ms]
+- o2: עֲלֵי/הֶם = H5921 עַל "above, over, upon…" [HR/Sp3mp]
+- o3: מָן = H4478 מָן "literally a whatness (so to speak)…" [HNcmsa]
+- o4: לֶ/אֱכֹל = Hl "to" + H398 אָכַל "to eat (literally or figuratively)" [HR/Vqc]
+- o5: וּ/דְגַן = Hc "and" + H1715 דָּגָן "properly, increase, i.e. grain" [HC/Ncmsc]
+- o6: שָׁמַיִם = H8064 שָׁמַיִם "the sky (as aloft…" [HNcmpa]
+- o7: נָתַן = H5414 נָתַן "to give…" [HVqp3ms]
+- o8: לָ/מוֹ = Hl "to" [HR/Sp3mp]
+
+### Psalms 78:49 (context)
+
+- o1: יְשַׁלַּח = H7971 שָׁלַח "to send away, for…" [HVpi3ms]
+- o2: בָּ/ם = Hb "in" [HR/Sp3mp]
+- o3: חֲרוֹן = H2740 חָרוֹן "a burning of anger" [HNcmsc]
+- o4: אַפּ/וֹ = H639 אַף "properly, the nose or nostril…" [HNcmsc/Sp3ms]
+- o5: עֶבְרָה = H5678 עֶבְרָה "an outburst of passion" [HNcfsa]
+- o6: וָ/זַעַם = Hc "and" + H2195 זַעַם "strictly froth at the mouth…" [HC/Ncmsa]
+- o7: וְ/צָרָה = Hc "and" + H6869 צָרָה "tightness (i.e. figuratively, trouble)…" [HC/Ncfsa]
+- o8: מִשְׁלַחַת = H4917 מִשְׁלַחַת "a mission…" [HNcfsc]
+- o9: מַלְאֲכֵי = H4397 מֲלְאָךְ "a messenger…" [HNcmpc]
+- o10: רָעִים = H7451 רַע "bad or (as noun) evil (natural or moral)" [HAampa]

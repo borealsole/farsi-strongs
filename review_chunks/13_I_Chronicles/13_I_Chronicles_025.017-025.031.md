@@ -612,3 +612,28 @@ Persian entries and current tags:
 - p19: تن
 - p20: بودند
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 25:16 (context)
+
+- o1: הַ/תְּשִׁיעִי = Hd "the" + H8671 תְּשִׁיעִי "ninth" [HTd/Aomsa]
+- o2: מַתַּנְיָהוּ = H4983 מַתַּנְיָה "Mattanjah, the name of ten Israelites" [HNp]
+- o3: בָּנָי/ו = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc/Sp3ms]
+- o4: וְ/אֶחָי/ו = Hc "and" + H251 אָח "a brother (used in the widest sense of literal…" [HC/Ncmpc/Sp3ms]
+- o5: שְׁנֵים = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmda]
+- o6: עָשָׂר = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcmsa]
+
+### I Chronicles 26:1 (context)
+
+- o1: לְ/מַחְלְקוֹת = Hl "to" + H4256 מַחֲלֹקֶת "a section (of Levites, people or soldiers)" [HR/Ncfpa]
+- o2: לְ/שֹׁעֲרִים = Hl "to" + H7778 שׁוֹעֵר "a janitor" [HR/Ncmpa]
+- o3: לַ/קָּרְחִים = Hl "to" + H7145 קׇרְחִי "a Korchite (collectively) or descendants of Korach" [HRd/Ngmpa]
+- o4: מְשֶׁלֶמְיָהוּ = H4920 מְשֶׁלֶמְיָה "Meshelemjah, an Israelite" [HNp]
+- o5: בֶן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o6: קֹרֵא = H6981 קוֹרֵא "Kore, the name of two Israelites" [HNp]
+- o7: מִן = H4480 מִן "properly, a part of…" [HR]
+- o8: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o9: אָסָף = H623 אָסָף "Asaph, the name of three Israelites…" [HNp]

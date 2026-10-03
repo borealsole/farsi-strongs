@@ -655,3 +655,38 @@ Persian entries and current tags:
 - p25: بردبار
 - p26: باشید
 - p27: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Thessalonians 4:18 (context)
+
+- o1: ὥστε = G5620 ὥστε "insomuch) as, so that (then), (insomuch) that…" [CONJ]
+- o2: παρακαλεῖτε = G3870 παρακαλέω "beseech, call for, (be of good) comfort, desire…" [V-PAM-2P]
+- o3: ἀλλήλους = G240 ἀλλήλων "each other, mutual, one another, (the other)…" [C-APM]
+- o4: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o5: τοῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPM]
+- o6: λόγοις = G3056 λόγος "account, cause, communication, concerning…" [N-DPM]
+- o7: τούτοις. = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-DPM]
+
+### I Thessalonians 5:15 (context)
+
+- o1: ὁρᾶτε = G3708 ὁράω "behold, perceive, see, take heed" [V-PAM-2P]
+- o2: μή = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o3: τις = G5100 τὶς "a (kind of), any (man, thing, thing at all)…" [X-NSM]
+- o4: κακὸν = G2556 κακός "bad, evil, harm, ill, noisome, wicked" [A-ASN]
+- o5: ἀντὶ = G473 ἀντί "for, in the room of" [PREP]
+- o6: κακοῦ = G2556 κακός "bad, evil, harm, ill, noisome, wicked" [A-GSN]
+- o7: τινι = G5100 τὶς "a (kind of), any (man, thing, thing at all)…" [X-DSM]
+- o8: ἀποδοῖ, = G591 ἀποδίδωμι "deliver (again), give (again)…" [V-2AAS-3S]
+- o9: ἀλλὰ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o10: πάντοτε = G3842 πάντοτε "alway(-s), ever(-more)" [ADV]
+- o11: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o12: ἀγαθὸν = G18 ἀγαθός "benefit, good(-s, things), well" [A-ASN]
+- o13: διώκετε = G1377 διώκω "ensue, follow (after), given to…" [V-PAM-2P]
+- o14: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o15: ἀλλήλους = G240 ἀλλήλων "each other, mutual, one another, (the other)…" [C-APM]
+- o16: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o17: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o18: πάντας. = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-APM]

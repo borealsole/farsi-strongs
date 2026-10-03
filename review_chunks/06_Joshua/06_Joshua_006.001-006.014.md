@@ -800,3 +800,55 @@ Persian entries and current tags:
 - p20: چنین  → H3541 H6213
 - p21: کردند
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Joshua 5:15 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: שַׂר = H8269 שַׂר "a head person (of any rank or class)" [HNcmsc]
+- o3: צְבָא = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbsc]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o6: יְהוֹשֻׁעַ = H3091 יְהוֹשׁוּעַ "Jehoshua (i.e. Joshua), the Jewish leader" [HNp]
+- o7: שַׁל = H5394 נָשַׁל "to pluck off, i.e. divest, eject or drop" [HVqv2ms]
+- o8: נַעַלְ/ךָ = H5275 נַעַל "properly, a sandal tongue…" [HNcfsc/Sp2ms]
+- o9: מֵ/עַל = Hm "from" + H5921 עַל "above, over, upon…" [HR/R]
+- o10: רַגְלֶ/ךָ = H7272 רֶגֶל "a foot (as used in walking)…" [HNcfsc/Sp2ms]
+- o11: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o12: הַ/מָּקוֹם = Hd "the" + H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HTd/Ncmsa]
+- o13: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o14: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o15: עֹמֵד = H5975 עָמַד "to stand…" [HVqrmsa]
+- o16: עָלָי/ו = H5921 עַל "above, over, upon…" [HR/Sp3ms]
+- o17: קֹדֶשׁ = H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HNcmsa]
+- o18: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o19: וַ/יַּעַשׂ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3ms]
+- o20: יְהוֹשֻׁעַ = H3091 יְהוֹשׁוּעַ "Jehoshua (i.e. Joshua), the Jewish leader" [HNp]
+- o21: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+
+### Joshua 6:15 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: בַּ/יּוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
+- o3: הַ/שְּׁבִיעִי = Hd "the" + H7637 שְׁבִיעִי "seventh" [HTd/Aomsa]
+- o4: וַ/יַּשְׁכִּמוּ = Hc "and" + H7925 שָׁכַם "literally…" [HC/Vhw3mp]
+- o5: כַּ/עֲלוֹת = Hk "like" + H5927 עָלָה "to ascend…" [HR/Vqc]
+- o6: הַ/שַּׁחַר = Hd "the" + H7837 שַׁחַר "dawn (literal, figurative or adverbial)" [HTd/Ncmsa]
+- o7: וַ/יָּסֹבּוּ = Hc "and" + H5437 סָבַב "to revolve, surround, or border…" [HC/Vqw3mp]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: הָ/עִיר = Hd "the" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HTd/Ncfsa]
+- o10: כַּ/מִּשְׁפָּט = Hk "like" + H4941 מִשְׁפָּט "properly…" [HRd/Ncmsa]
+- o11: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o12: שֶׁבַע = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcfsa]
+- o13: פְּעָמִים = H6471 פַּעַם "a stroke…" [HNcfpa]
+- o14: רַק = H7535 רַק "properly, leanness…" [HTa]
+- o15: בַּ/יּוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
+- o16: הַ/הוּא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3ms]
+- o17: סָבְבוּ = H5437 סָבַב "to revolve, surround, or border…" [HVqp3cp]
+- o18: אֶת = H853 אֵת "properly…" [HTo]
+- o19: הָ/עִיר = Hd "the" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HTd/Ncfsa]
+- o20: שֶׁבַע = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcfsa]
+- o21: פְּעָמִים = H6471 פַּעַם "a stroke…" [HNcfpa]

@@ -1023,3 +1023,56 @@ Persian entries and current tags:
 - p26: او
 - p27: آمده_بودند  → H5674 H935
 - p28: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 14:33 (context)
+
+- o1: וַ/יָּבֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3ms]
+- o2: יוֹאָב = H3097 יוֹאָב "Joab, the name of three Israelites" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o5: וַ/יַּגֶּד = Hc "and" + H5046 נָגַד "properly, to front…" [HC/Vhw3ms]
+- o6: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o7: וַ/יִּקְרָא = Hc "and" + H7121 קָרָא "to call out to (i.e. properly, address by name…" [HC/Vqw3ms]
+- o8: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o9: אַבְשָׁלוֹם = H53 אֲבִישָׁלוֹם "Abshalom, a son of David…" [HNp]
+- o10: וַ/יָּבֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3ms]
+- o11: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o12: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o13: וַ/יִּשְׁתַּחוּ = Hc "and" + H7812 שָׁחָה "to depress, i.e. prostrate (especially reflexive…" [HC/Vtw3ms]
+- o14: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o15: עַל = H5921 עַל "above, over, upon…" [HR]
+- o16: אַפָּי/ו = H639 אַף "properly, the nose or nostril…" [HNcmdc/Sp3ms]
+- o17: אַרְצָ/ה = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsa/Sd]
+- o18: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o19: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o20: וַ/יִּשַּׁק = Hc "and" + H5401 נָשַׁק "to kiss, literally or figuratively (touch)…" [HC/Vqw3ms]
+- o21: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o22: לְ/אַבְשָׁלוֹם = Hl "to" + H53 אֲבִישָׁלוֹם "Abshalom, a son of David…" [HR/Np]
+
+### II Samuel 15:19 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: אִתַּי = H863 אִתַּי "Ittai or Ithai…" [HNp]
+- o5: הַ/גִּתִּי = Hd "the" + H1663 גִּתִּי "a Gittite or inhabitant of Gath" [HTd/Ngmsa]
+- o6: לָ/מָּה = Hl "to" + H4100 מָה "properly…" [HR/Ti]
+- o7: תֵלֵךְ = H3212 יָלַךְ "to walk (literally or figuratively)…" [HVqi2ms]
+- o8: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o9: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o10: אִתָּ/נוּ = H854 אֵת "properly…" [HR/Sp1cp]
+- o11: שׁוּב = H7725 שׁוּב "to turn back (hence…" [HVqv2ms]
+- o12: וְ/שֵׁב = Hc "and" + H3427 יָשַׁב "properly…" [HC/Vqv2ms]
+- o13: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o14: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o15: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o16: נָכְרִי = H5237 נׇכְרִי "strange…" [HAamsa]
+- o17: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o18: וְ/גַם = Hc "and" + H1571 גַּם "properly, assemblage…" [HC/Ta]
+- o19: גֹּלֶה = H1540 גָּלָה "to denude (especially in a disgraceful sense)…" [HVqrmsa]
+- o20: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o21: לִ/מְקוֹמֶ/ךָ = Hl "to" + H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HR/Ncmsc/Sp2ms]

@@ -915,3 +915,49 @@ Persian entries and current tags:
 - p46: جِدعون  → H1439
 - p47: آوردند  → H935
 - p48: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Judges 7:12 (context)
+
+- o1: וּ/מִדְיָן = Hc "and" + H4080 מִדְיָן "Midjan, a son of Abraham…" [HC/Np]
+- o2: וַ/עֲמָלֵק = Hc "and" + H6002 עֲמָלֵק "Amalek, a descendant of Esau…" [HC/Np]
+- o3: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o4: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o5: קֶדֶם = H6924 קֶדֶם "the front, of place (absolutely, the fore part…" [HNcmsa]
+- o6: נֹפְלִים = H5307 נָפַל "to fall…" [HVqrmpa]
+- o7: בָּ/עֵמֶק = Hb "in" + H6010 עֵמֶק "a vale (i.e. broad depression)" [HRd/Ncmsa]
+- o8: כָּ/אַרְבֶּה = Hk "like" + H697 אַרְבֶּה "a locust (from its rapid increase)" [HRd/Ncmsa]
+- o9: לָ/רֹב = Hl "to" + H7230 רֹב "abundance (in any respect)" [HR/Ncbsa]
+- o10: וְ/לִ/גְמַלֵּי/הֶם = Hc "and" + Hl "to" + H1581 גָּמָל "a camel" [HC/R/Ncmpc/Sp3mp]
+- o11: אֵין = H369 אַיִן "a non-entity…" [HTn]
+- o12: מִסְפָּר = H4557 מִסְפָּר "a number…" [HNcmsa]
+- o13: כַּ/חוֹל = Hk "like" + H2344 חוֹל "sand (as round or whirling particles)" [HRd/Ncmsa]
+- o14: שֶׁ/עַל = Hs "which" + H5921 עַל "above, over, upon…" [HTr/R]
+- o15: שְׂפַת = H8193 שָׂפָה "the lip (as a natural boundary)…" [HNcfsc]
+- o16: הַ/יָּם = Hd "the" + H3220 יָם "a sea (as breaking in noisy surf) or large body…" [HTd/Ncmsa]
+- o17: לָ/רֹב = Hl "to" + H7230 רֹב "abundance (in any respect)" [HR/Ncbsa]
+
+### Judges 8:1 (context)
+
+- o1: וַ/יֹּאמְרוּ = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3mp]
+- o2: אֵלָי/ו = H413 אֵל "near, with or among; often in general, to" [HR/Sp3ms]
+- o3: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsc]
+- o4: אֶפְרַיִם = H669 אֶפְרַיִם "Ephrajim, a son of Joseph…" [HNp]
+- o5: מָה = H4100 מָה "properly…" [HTi]
+- o6: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]
+- o7: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o8: עָשִׂיתָ = H6213 עָשָׂה "to do or make…" [HVqp2ms]
+- o9: לָּ/נוּ = Hl "to" [HR/Sp1cp]
+- o10: לְ/בִלְתִּי = Hl "to" + H1115 בִּלְתִּי "properly, a failure of…" [HR/C]
+- o11: קְרֹאות = H7121 קָרָא "to call out to (i.e. properly, address by name…" [HVqc]
+- o12: לָ/נוּ = Hl "to" [HR/Sp1cp]
+- o13: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o14: הָלַכְתָּ = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVqp2ms]
+- o15: לְ/הִלָּחֵם = Hl "to" + H3898 לָחַם "to feed on; figuratively, to consume…" [HR/VNc]
+- o16: בְּ/מִדְיָן = Hb "in" + H4080 מִדְיָן "Midjan, a son of Abraham…" [HR/Np]
+- o17: וַ/יְרִיבוּ/ן = Hc "and" + H7378 רִיב "properly, to toss, i.e. grapple…" [HC/Vqw3mp/Sn]
+- o18: אִתּ/וֹ = H854 אֵת "properly…" [HR/Sp3ms]
+- o19: בְּ/חָזְקָה = Hb "in" + H2394 חׇזְקָה "vehemence (usually in a bad sense)" [HR/Ncfsa]

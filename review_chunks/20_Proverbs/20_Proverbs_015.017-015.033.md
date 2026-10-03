@@ -614,3 +614,27 @@ Persian entries and current tags:
 - p10: پیشروِ  → H6440
 - p11: عزّت  → H3519 H6038
 - p12: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 15:16 (context)
+
+- o1: טוֹב = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAamsa]
+- o2: מְעַט = H4592 מְעַט "a little or few (often adverbial or compar.)" [HNcmsa]
+- o3: בְּ/יִרְאַת = Hb "in" + H3374 יִרְאָה "fear (also used as infinitive); morally, reverence" [HR/Ncfsc]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: מֵ/אוֹצָר = Hm "from" + H214 אוֹצָר "a depository" [HR/Ncmsa]
+- o6: רָב = H7227 רַב "abundant (in quantity, size, age, number, rank…" [HAamsa]
+- o7: וּ/מְהוּמָה = Hc "and" + H4103 מְהוּמָה "confusion or uproar" [HC/Ncfsa]
+- o8: ב/וֹ = Hb "in" [HR/Sp3ms]
+
+### Proverbs 16:1 (context)
+
+- o1: לְ/אָדָם = Hl "to" + H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HR/Ncmsa]
+- o2: מַעַרְכֵי = H4633 מַעֲרָךְ "an arrangement…" [HNcmpc]
+- o3: לֵב = H3820 לֵב "the heart…" [HNcmsa]
+- o4: וּ/מֵ/יְהוָה = Hc "and" + Hm "from" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HC/R/Np]
+- o5: מַעֲנֵה = H4617 מַעֲנֶה "a reply (favorable or contradictory)" [HNcmsc]
+- o6: לָשׁוֹן = H3956 לָשׁוֹן "the tongue (of man or animals)…" [HNcbsa]

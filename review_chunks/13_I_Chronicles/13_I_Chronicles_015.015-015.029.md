@@ -814,3 +814,39 @@ Persian entries and current tags:
 - p31: را  → H853
 - p32: خوار شمرد  → H959
 - p33: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 15:14 (context)
+
+- o1: וַ/יִּתְקַדְּשׁוּ = Hc "and" + H6942 קָדַשׁ "to be (causatively, make…" [HC/Vtw3mp]
+- o2: הַ/כֹּהֲנִים = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmpa]
+- o3: וְ/הַ/לְוִיִּם = Hc "and" + Hd "the" + H3881 לֵוִיִּי "a Levite or descendant of Levi" [HC/Td/Ngmpa]
+- o4: לְ/הַעֲלוֹת = Hl "to" + H5927 עָלָה "to ascend…" [HR/Vhc]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: אֲרוֹן = H727 אָרוֹן "a box" [HNcbsc]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: אֱלֹהֵי = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc]
+- o9: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+
+### I Chronicles 16:1 (context)
+
+- o1: וַ/יָּבִיאוּ = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vhw3mp]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: אֲרוֹן = H727 אָרוֹן "a box" [HNcbsc]
+- o4: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o5: וַ/יַּצִּיגוּ = Hc "and" + H3322 יָצַג "to place permanently" [HC/Vhw3mp]
+- o6: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o7: בְּ/תוֹךְ = Hb "in" + H8432 תָּוֶךְ "a bisection, i.e. (by implication) the centre" [HR/Ncmsc]
+- o8: הָ/אֹהֶל = Hd "the" + H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HTd/Ncmsa]
+- o9: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o10: נָטָה = H5186 נָטָה "to stretch or spread out…" [HVqp3ms]
+- o11: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o12: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o13: וַ/יַּקְרִיבוּ = Hc "and" + H7126 קָרַב "to approach (causatively…" [HC/Vhw3mp]
+- o14: עֹלוֹת = H5930 עֹלָה "a step or (collectively, stairs, as ascending)…" [HNcfpa]
+- o15: וּ/שְׁלָמִים = Hc "and" + H8002 שֶׁלֶם "properly, requital…" [HC/Ncmpa]
+- o16: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o17: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]

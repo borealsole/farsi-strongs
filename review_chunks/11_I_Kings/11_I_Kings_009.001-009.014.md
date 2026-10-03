@@ -878,3 +878,60 @@ Persian entries and current tags:
 - p6: پادشاه  → H4428
 - p7: فرستاده_بود  → H7971
 - p8: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 8:66 (context)
+
+- o1: בַּ/יּוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
+- o2: הַ/שְּׁמִינִי = Hd "the" + H8066 שְׁמִינִי "eight" [HTd/Aomsa]
+- o3: שִׁלַּח = H7971 שָׁלַח "to send away, for…" [HVpp3ms]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o6: וַ/יְבָרֲכוּ = Hc "and" + H1288 בָרַךְ "to kneel…" [HC/Vpw3mp]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o9: וַ/יֵּלְכוּ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3mp]
+- o10: לְ/אָהֳלֵי/הֶם = Hl "to" + H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HR/Ncmpc/Sp3mp]
+- o11: שְׂמֵחִים = H8056 שָׂמֵחַ "blithe or gleeful" [HAampa]
+- o12: וְ/טוֹבֵי = Hc "and" + H2896 טוֹב "good (as an adjective) in the widest sense…" [HC/Aampc]
+- o13: לֵב = H3820 לֵב "the heart…" [HNcmsa]
+- o14: עַל = H5921 עַל "above, over, upon…" [HR]
+- o15: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o16: הַ/טּוֹבָה = Hd "the" + H2896 טוֹב "good (as an adjective) in the widest sense…" [HTd/Aafsa]
+- o17: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o18: עָשָׂה = H6213 עָשָׂה "to do or make…" [HVqp3ms]
+- o19: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o20: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o21: עַבְדּ/וֹ = H5650 עֶבֶד "a servant" [HNcmsc/Sp3ms]
+- o22: וּ/לְ/יִשְׂרָאֵל = Hc "and" + Hl "to" + H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HC/R/Np]
+- o23: עַמּ/וֹ = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp3ms]
+
+### I Kings 9:15 (context)
+
+- o1: וְ/זֶה = Hc "and" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HC/Pdxms]
+- o2: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o3: הַ/מַּס = Hd "the" + H4522 מַס "properly, a burden (as causing to faint)…" [HTd/Ncmsa]
+- o4: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o5: הֶעֱלָה = H5927 עָלָה "to ascend…" [HVhp3ms]
+- o6: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o7: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o8: לִ/בְנוֹת = Hl "to" + H1129 בָּנָה "to build (literally and figuratively)" [HR/Vqc]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o11: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o12: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o13: בֵּית/וֹ = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc/Sp3ms]
+- o14: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o15: הַ/מִּלּוֹא = Hd "the" + H4407 מִלּוֹא "a rampart (as filled in), i.e. the citadel" [HTd/Np]
+- o16: וְ/אֵת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o17: חוֹמַת = H2346 חוֹמָה "a wall of protection" [HNcfsc]
+- o18: יְרוּשָׁלִָם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+- o19: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o20: חָצֹר = H2674 חָצוֹר "Chatsor…" [HNp]
+- o21: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o22: מְגִדּוֹ = H4023 מְגִדּוֹן "Megiddon or Megiddo, a place in Palestine" [HNp]
+- o23: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o24: גָּזֶר = H1507 גֶּזֶר "Gezer, a place in Palestine" [HNp]

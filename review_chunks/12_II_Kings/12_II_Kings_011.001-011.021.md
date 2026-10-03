@@ -1275,3 +1275,37 @@ Persian entries and current tags:
 - p5: که
 - p6: پادشاه شد  → H4427
 - p7: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 10:36 (context)
+
+- o1: וְ/הַ/יָּמִים = Hc "and" + Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HC/Td/Ncmpa]
+- o2: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o3: מָלַךְ = H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HVqp3ms]
+- o4: יֵהוּא = H3058 יֵהוּא "Jehu, the name of five Israelites" [HNp]
+- o5: עַל = H5921 עַל "above, over, upon…" [HR]
+- o6: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o7: עֶשְׂרִים = H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HAcbpa]
+- o8: וּ/שְׁמֹנֶה = Hc "and" + H8083 שְׁמֹנֶה "a cardinal number…" [HC/Acfsa]
+- o9: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o10: בְּ/שֹׁמְרוֹן = Hb "in" + H8111 שֹׁמְרוֹן "Shomeron, a place in Palestine" [HR/Np]
+
+### II Kings 12:1 (context)
+
+- o1: בִּ/שְׁנַת = Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HR/Ncfsc]
+- o2: שֶׁבַע = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcfsa]
+- o3: לְ/יֵהוּא = Hl "to" + H3058 יֵהוּא "Jehu, the name of five Israelites" [HR/Np]
+- o4: מָלַךְ = H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HVqp3ms]
+- o5: יְהוֹאָשׁ = H3060 יְהוֹאָשׁ "Jehoash, the name of two Israelite kings" [HNp]
+- o6: וְ/אַרְבָּעִים = Hc "and" + H705 אַרְבָּעִים "forty" [HC/Acbpa]
+- o7: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o8: מָלַךְ = H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HVqp3ms]
+- o9: בִּ/ירוּשָׁלִָם = Hb "in" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HR/Np]
+- o10: וְ/שֵׁם = Hc "and" + H8034 שֵׁם "an appellation…" [HC/Ncmsc]
+- o11: אִמּ/וֹ = H517 אֵם "a mother (as the bond of the family)…" [HNcfsc/Sp3ms]
+- o12: צִבְיָה = H6645 צִבְיָּה "Tsibjah, an Israelite" [HNp]
+- o13: מִ/בְּאֵר = Hm "from" + H884 בְּאֵר שֶׁבַע "Beer-Sheba, a place in Palestine" [HR/Np]
+- o14: שָׁבַע = H884 בְּאֵר שֶׁבַע "Beer-Sheba, a place in Palestine" [HNp]

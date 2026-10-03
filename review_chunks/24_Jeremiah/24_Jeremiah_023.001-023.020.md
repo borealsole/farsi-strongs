@@ -1207,3 +1207,48 @@ Persian entries and current tags:
 - p22: در
 - p23: خواهید_یافت
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 22:30 (context)
+
+- o1: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o2: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: כִּתְבוּ = H3789 כָּתַב "to grave, by implication, to write (describe…" [HVqv2mp]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: הָ/אִישׁ = Hd "the" + H376 אִישׁ "a man as an individual or a male person…" [HTd/Ncmsa]
+- o7: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o8: עֲרִירִי = H6185 עֲרִירִי "bare, i.e. destitute (of children)" [HAamsa]
+- o9: גֶּבֶר = H1397 גֶּבֶר "properly, a valiant man or warrior…" [HNcmsa]
+- o10: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o11: יִצְלַח = H6743 צָלַח "to push forward…" [HVqi3ms]
+- o12: בְּ/יָמָי/ו = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmpc/Sp3ms]
+- o13: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o14: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o15: יִצְלַח = H6743 צָלַח "to push forward…" [HVqi3ms]
+- o16: מִ/זַּרְע/וֹ = Hm "from" + H2233 זֶרַע "seed…" [HR/Ncmsc/Sp3ms]
+- o17: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o18: יֹשֵׁב = H3427 יָשַׁב "properly…" [HVqrmsa]
+- o19: עַל = H5921 עַל "above, over, upon…" [HR]
+- o20: כִּסֵּא = H3678 כִּסֵּא "properly, covered, i.e. a throne (as canopied)" [HNcmsc]
+- o21: דָוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o22: וּ/מֹשֵׁל = Hc "and" + H4910 מָשַׁל "to rule" [HC/Vqrmsa]
+- o23: עוֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+- o24: בִּ/יהוּדָה = Hb "in" + H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HR/Np]
+
+### Jeremiah 23:21 (context)
+
+- o1: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o2: שָׁלַחְתִּי = H7971 שָׁלַח "to send away, for…" [HVqp1cs]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: הַ/נְּבִאִים = Hd "the" + H5030 נָבִיא "a prophet or (generally) inspired man" [HTd/Ncmpa]
+- o5: וְ/הֵם = Hc "and" + H1992 הֵם "they (only used when emphatic)" [HC/Pp3mp]
+- o6: רָצוּ = H7323 רוּץ "to run (for whatever reason, especially to rush)" [HVqp3cp]
+- o7: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o8: דִבַּרְתִּי = H1696 דָבַר "perhaps properly, to arrange…" [HVpp1cs]
+- o9: אֲלֵי/הֶם = H413 אֵל "near, with or among; often in general, to" [HR/Sp3mp]
+- o10: וְ/הֵם = Hc "and" + H1992 הֵם "they (only used when emphatic)" [HC/Pp3mp]
+- o11: נִבָּאוּ = H5012 נָבָא "to prophesy…" [HVNp3cp]

@@ -918,3 +918,37 @@ Persian entries and current tags:
 - p19: او
 - p20: تاحَت  → H8480
 - p21: ،
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 6:81 (context)
+
+- o1: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o2: חֶשְׁבּוֹן = H2809 חֶשְׁבּוֹן "Cheshbon, a place East of the Jordan" [HNp]
+- o3: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o4: מִגְרָשֶׁי/הָ = H4054 מִגְרָשׁ "a suburb (i.e. open country whither flocks are…" [HNcmpc/Sp3fs]
+- o5: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o6: יַעְזֵיר = H3270 יַעֲזֵיר "Jaazer or Jazer, a place East of the Jordan" [HNp]
+- o7: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o8: מִגְרָשֶׁי/הָ = H4054 מִגְרָשׁ "a suburb (i.e. open country whither flocks are…" [HNcmpc/Sp3fs]
+
+### I Chronicles 7:21 (context)
+
+- o1: וְ/זָבָד = Hc "and" + H2066 זָבָד "Zabad, the name of seven Israelites" [HC/Np]
+- o2: בְּנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o3: וְ/שׁוּתֶלַח = Hc "and" + H7803 שׁוּתֶלַח "Shuthelach, the name of two Israelites" [HC/Np]
+- o4: בְּנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o5: וְ/עֵזֶר = Hc "and" + H5827 עֶזֶר "Ezer, the name of two Israelites" [HC/Np]
+- o6: וְ/אֶלְעָד = Hc "and" + H496 אֶלְעָד "Elad, an Israelite" [HC/Np]
+- o7: וַ/הֲרָגוּ/ם = Hc "and" + H2026 הָרַג "to smite with deadly intent" [HC/Vqp3cp/Sp3mp]
+- o8: אַנְשֵׁי = H376 אִישׁ "a man as an individual or a male person…" [HNcmpc]
+- o9: גַת = H1661 גַּת "Gath, a Philistine city" [HNp]
+- o10: הַ/נּוֹלָדִים = Hd "the" + H3205 יָלַד "to bear young; causatively, to beget…" [HTd/VNrmpa]
+- o11: בָּ/אָרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HRd/Ncbsa]
+- o12: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o13: יָרְדוּ = H3381 יָרַד "to descend (literally, to go downwards…" [HVqp3cp]
+- o14: לָ/קַחַת = Hl "to" + H3947 לָקַח "to take (in the widest variety of applications)" [HR/Vqc]
+- o15: אֶת = H853 אֵת "properly…" [HTo]
+- o16: מִקְנֵי/הֶם = H4735 מִקְנֶה "something bought, i.e. property…" [HNcmsc/Sp3mp]

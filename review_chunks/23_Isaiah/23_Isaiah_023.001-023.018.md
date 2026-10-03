@@ -906,3 +906,41 @@ Persian entries and current tags:
 - p38: فاخر  → H6266
 - p39: بپوشند
 - p40: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 22:25 (context)
+
+- o1: בַּ/יּוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
+- o2: הַ/הוּא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3ms]
+- o3: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: צְבָאוֹת = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbpa]
+- o6: תָּמוּשׁ = H4185 מוּשׁ "to withdraw (both literally and figuratively…" [HVqi3fs]
+- o7: הַ/יָּתֵד = Hd "the" + H3489 יָתֵד "a peg" [HTd/Ncfsa]
+- o8: הַ/תְּקוּעָה = Hd "the" + H8628 תָּקַע "to clatter, i.e. slap (the hands together)…" [HTd/Vqsfsa]
+- o9: בְּ/מָקוֹם = Hb "in" + H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HR/Ncmsa]
+- o10: נֶאֱמָן = H539 אָמַן "properly, to build up or support…" [HVNrmsa]
+- o11: וְ/נִגְדְּעָה = Hc "and" + H1438 גָּדַע "to fell a tree; generally, to destroy anything" [HC/VNq3fs]
+- o12: וְ/נָפְלָה = Hc "and" + H5307 נָפַל "to fall…" [HC/Vqq3fs]
+- o13: וְ/נִכְרַת = Hc "and" + H3772 כָּרַת "to cut (off, down or asunder)…" [HC/VNq3ms]
+- o14: הַ/מַּשָּׂא = Hd "the" + H4853 מַשָּׂא "a burden…" [HTd/Ncmsa]
+- o15: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o16: עָלֶי/הָ = H5921 עַל "above, over, upon…" [HR/Sp3fs]
+- o17: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o18: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o19: דִּבֵּר = H1696 דָבַר "perhaps properly, to arrange…" [HVpp3ms]
+
+### Isaiah 24:1 (context)
+
+- o1: הִנֵּה = H2009 הִנֵּה "lo!" [HTm]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: בּוֹקֵק = H1238 בָּקַק "to pour out, i.e. to empty, figuratively…" [HVqrmsa]
+- o4: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o5: וּ/בוֹלְקָ/הּ = Hc "and" + H1110 בָּלַק "to annihilate" [HC/Vqrmsc/Sp3fs]
+- o6: וְ/עִוָּה = Hc "and" + H5753 עָוָה "to crook, literally or figuratively" [HC/Vpq3ms]
+- o7: פָנֶי/הָ = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc/Sp3fs]
+- o8: וְ/הֵפִיץ = Hc "and" + H6327 פּוּץ "to dash in pieces…" [HC/Vhq3ms]
+- o9: יֹשְׁבֶי/הָ = H3427 יָשַׁב "properly…" [HVqrmpc/Sp3fs]

@@ -767,3 +767,35 @@ Persian entries and current tags:
 - p29: نگاه
 - p30: دارید
 - p31: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 22:31 (context)
+
+- o1: וְ/אַנְשֵׁי = Hc "and" + H376 אִישׁ "a man as an individual or a male person…" [HC/Ncmpc]
+- o2: קֹדֶשׁ = H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HNcmsa]
+- o3: תִּהְיוּ/ן = H1961 הָיָה "to exist, i.e. be or become…" [HVqi2mp/Sn]
+- o4: לִ/י = Hl "to" [HR/Sp1cs]
+- o5: וּ/בָשָׂר = Hc "and" + H1320 בָּשָׂר "flesh (from its freshness)…" [HC/Ncmsa]
+- o6: בַּ/שָּׂדֶה = Hb "in" + H7704 שָׂדֶה "a field (as flat)" [HRd/Ncmsa]
+- o7: טְרֵפָה = H2966 טְרֵפָה "prey, i.e. flocks devoured by animals" [HNcfsa]
+- o8: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o9: תֹאכֵלוּ = H398 אָכַל "to eat (literally or figuratively)" [HVqi2mp]
+- o10: לַ/כֶּלֶב = Hl "to" + H3611 כֶּלֶב "a dog; hence (by euphemism) a male prostitute" [HRd/Ncmsa]
+- o11: תַּשְׁלִכוּ/ן = H7993 שָׁלַךְ "to throw out…" [HVhi2mp/Sn]
+- o12: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+
+### Exodus 23:17 (context)
+
+- o1: שָׁלֹשׁ = H7969 שָׁלוֹשׁ "three…" [HAcfsa]
+- o2: פְּעָמִים = H6471 פַּעַם "a stroke…" [HNcfpa]
+- o3: בַּ/שָּׁנָה = Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HRd/Ncfsa]
+- o4: יֵרָאֶה = H7200 רָאָה "to see…" [HVNi3ms]
+- o5: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o6: זְכוּרְ/ךָ = H2138 זָכוּר "a male (of man or animals)" [HNcmsc/Sp2ms]
+- o7: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o8: פְּנֵי = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc]
+- o9: הָ/אָדֹן = Hd "the" + H113 אָדוֹן "sovereign, i.e. controller (human or divine)" [HTd/Ncmsa]
+- o10: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]

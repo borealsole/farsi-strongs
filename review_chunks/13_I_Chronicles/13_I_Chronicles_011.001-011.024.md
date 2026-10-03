@@ -1346,3 +1346,36 @@ Persian entries and current tags:
 - p17: کسب
 - p18: کرد
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 10:14 (context)
+
+- o1: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o2: דָרַשׁ = H1875 דָּרַשׁ "properly, to tread or frequent…" [HVqp3ms]
+- o3: בַּ/יהוָה = Hb "in" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o4: וַ/יְמִיתֵ/הוּ = Hc "and" + H4191 מוּת "to die (literally or figuratively)…" [HC/Vhw3ms/Sp3ms]
+- o5: וַ/יַּסֵּב = Hc "and" + H5437 סָבַב "to revolve, surround, or border…" [HC/Vhw3ms]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: הַ/מְּלוּכָה = Hd "the" + H4410 מְלוּכָה "something ruled, i.e. a realm" [HTd/Ncfsa]
+- o8: לְ/דָוִיד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o9: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o10: יִשָׁי = H3448 יִשַׁי "Jishai, David's father" [HNp]
+
+### I Chronicles 11:25 (context)
+
+- o1: מִן = H4480 מִן "properly, a part of…" [HR]
+- o2: הַ/שְּׁלוֹשִׁים = Hd "the" + H7970 שְׁלוֹשִׁים "thirty; or (ordinal) thirtieth" [HTd/Acbpa]
+- o3: הִנּ/וֹ = H2005 הֵן "lo!; also (as expressing surprise) if" [HTj/Sp3ms]
+- o4: נִכְבָּד = H3513 כָּבַד "to be heavy, i.e. in a bad sense (burdensome…" [HVNrmsa]
+- o5: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o6: וְ/אֶל = Hc "and" + H413 אֵל "near, with or among; often in general, to" [HC/R]
+- o7: הַ/שְּׁלוֹשָׁה = Hd "the" + H7969 שָׁלוֹשׁ "three…" [HTd/Acmsa]
+- o8: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o9: בָא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3ms]
+- o10: וַ/יְשִׂימֵ/הוּ = Hc "and" + H7760 שׂוּם "to put (used in a great variety of applications…" [HC/Vqw3ms/Sp3ms]
+- o11: דָוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o12: עַל = H5921 עַל "above, over, upon…" [HR]
+- o13: מִשְׁמַעְתּ/וֹ = H4928 מִשְׁמַעַת "audience, i.e. the royal court…" [HNcfsc/Sp3ms]

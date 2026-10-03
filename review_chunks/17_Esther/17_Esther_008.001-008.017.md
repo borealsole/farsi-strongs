@@ -1203,3 +1203,54 @@ Persian entries and current tags:
 - p47: مستولی
 - p48: شده_بود
 - p49: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Esther 7:10 (context)
+
+- o1: וַ/יִּתְלוּ = Hc "and" + H8518 תָּלָה "to suspend (especially to gibbet)" [HC/Vqw3mp]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: הָמָן = H2001 הָמָן "Haman, a Persian vizier" [HNp]
+- o4: עַל = H5921 עַל "above, over, upon…" [HR]
+- o5: הָ/עֵץ = Hd "the" + H6086 עֵץ "a tree (from its firmness)…" [HTd/Ncmsa]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: הֵכִין = H3559 כּוּן "properly, to be erect (i.e. stand perpendicular)…" [HVhp3ms]
+- o8: לְ/מָרְדֳּכָי = Hl "to" + H4782 מׇרְדְּכַי "Mordecai, an Israelite" [HR/Np]
+- o9: וַ/חֲמַת = Hc "and" + H2534 חֵמָה "heat; figuratively, anger, poison (from its fever)" [HC/Ncfsc]
+- o10: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o11: שָׁכָכָה = H7918 שָׁכַךְ "to weave (i.e. lay) a trap…" [HVqp3fs]
+
+### Esther 9:1 (context)
+
+- o1: וּ/בִ/שְׁנֵים = Hc "and" + Hb "in" + H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HC/R/Acmda]
+- o2: עָשָׂר = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcmsa]
+- o3: חֹדֶשׁ = H2320 חֹדֶשׁ "the new moon; by implication, a month" [HNcmsa]
+- o4: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o5: חֹדֶשׁ = H2320 חֹדֶשׁ "the new moon; by implication, a month" [HNcmsc]
+- o6: אֲדָר = H143 אֲדָר "Adar, the 12th Hebrew month" [HNp]
+- o7: בִּ/שְׁלוֹשָׁה = Hb "in" + H7969 שָׁלוֹשׁ "three…" [HR/Acmsa]
+- o8: עָשָׂר = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcmsa]
+- o9: יוֹם = H3117 יוֹם "a day (as the warm hours)…" [HNcmsa]
+- o10: בּ/וֹ = Hb "in" [HR/Sp3ms]
+- o11: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o12: הִגִּיעַ = H5060 נָגַע "properly, to touch…" [HVhp3ms]
+- o13: דְּבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o14: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o15: וְ/דָת/וֹ = Hc "and" + H1881 דָּת "a royal edict or statute" [HC/Ncfsc/Sp3ms]
+- o16: לְ/הֵעָשׂוֹת = Hl "to" + H6213 עָשָׂה "to do or make…" [HR/VNc]
+- o17: בַּ/יּוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
+- o18: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o19: שִׂבְּרוּ = H7663 שָׂבַר "to scrutinize…" [HVpp3cp]
+- o20: אֹיְבֵי = H341 אֹיֵב "hating; an adversary" [HVqrmpc]
+- o21: הַ/יְּהוּדִים = Hd "the" + H3064 יְהוּדִי "a Jehudite (i.e. Judaite or Jew)…" [HTd/Ngmpa]
+- o22: לִ/שְׁלוֹט = Hl "to" + H7980 שָׁלַט "to dominate, i.e. govern…" [HR/Vqc]
+- o23: בָּ/הֶם = Hb "in" [HR/Sp3mp]
+- o24: וְ/נַהֲפוֹךְ = Hc "and" + H2015 הָפַךְ "to turn about or over…" [HC/VNa]
+- o25: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o26: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o27: יִשְׁלְטוּ = H7980 שָׁלַט "to dominate, i.e. govern…" [HVqi3mp]
+- o28: הַ/יְּהוּדִים = Hd "the" + H3064 יְהוּדִי "a Jehudite (i.e. Judaite or Jew)…" [HTd/Ngmpa]
+- o29: הֵמָּה = H1992 הֵם "they (only used when emphatic)" [HPp3mp]
+- o30: בְּ/שֹׂנְאֵי/הֶם = Hb "in" + H8130 שָׂנֵא "to hate (personally)" [HR/Vqrmpc/Sp3mp]

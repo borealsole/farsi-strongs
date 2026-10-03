@@ -772,3 +772,32 @@ Persian entries and current tags:
 - p13: ’آن پرشکوه‘  → H117
 - p14: خواهد_افتاد  → H5307
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 10:17 (context)
+
+- o1: וְ/הָיָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3ms]
+- o2: אוֹר = H216 אוֹר "illumination or (concrete) luminary (in every…" [HNcbsc]
+- o3: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o4: לְ/אֵשׁ = Hl "to" + H784 אֵשׁ "fire (literally or figuratively)" [HR/Ncbsa]
+- o5: וּ/קְדוֹשׁ/וֹ = Hc "and" + H6918 קָדוֹשׁ "sacred (ceremonially or morally)…" [HC/Aamsc/Sp3ms]
+- o6: לְ/לֶהָבָה = Hl "to" + H3852 לֶהָבָה "a flash…" [HR/Ncfsa]
+- o7: וּ/בָעֲרָה = Hc "and" + H1197 בָּעַר "to kindle, i.e. consume (by fire or by eating)…" [HC/Vqq3fs]
+- o8: וְ/אָכְלָה = Hc "and" + H398 אָכַל "to eat (literally or figuratively)" [HC/Vqq3fs]
+- o9: שִׁית/וֹ = H7898 שַׁיִת "scrub or trash…" [HNcmsc/Sp3ms]
+- o10: וּ/שְׁמִיר/וֹ = Hc "and" + H8068 שָׁמִיר "a thorn…" [HC/Ncmsc/Sp3ms]
+- o11: בְּ/יוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmsa]
+- o12: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+
+### Isaiah 11:1 (context)
+
+- o1: וְ/יָצָא = Hc "and" + H3318 יָצָא "to go (causatively, bring) out…" [HC/Vqq3ms]
+- o2: חֹטֶר = H2415 חֹטֵר "a twig" [HNcmsa]
+- o3: מִ/גֵּזַע = Hm "from" + H1503 גֶּזַע "the trunk or stump of atree (as felled or as…" [HR/Ncmsc]
+- o4: יִשָׁי = H3448 יִשַׁי "Jishai, David's father" [HNp]
+- o5: וְ/נֵצֶר = Hc "and" + H5342 נֵצֶר "a shoot; figuratively, a descendant" [HC/Ncmsa]
+- o6: מִ/שָּׁרָשָׁי/ו = Hm "from" + H8328 שֶׁרֶשׁ "a root (literally or figuratively)" [HR/Ncmpc/Sp3ms]
+- o7: יִפְרֶה = H6509 פָּרָה "to bear fruit (literally or figuratively)" [HVqi3ms]

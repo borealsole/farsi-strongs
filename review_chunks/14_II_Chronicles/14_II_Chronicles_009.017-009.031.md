@@ -758,3 +758,40 @@ Persian entries and current tags:
 - p22: وی
 - p23: پادشاه شد  → H4427
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 9:16 (context)
+
+- o1: וּ/שְׁלֹשׁ = Hc "and" + H7969 שָׁלוֹשׁ "three…" [HC/Acfsa]
+- o2: מֵאוֹת = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbpa]
+- o3: מָגִנִּים = H4043 מָגֵן "a shield (i.e. the small one or buckler)…" [HNcbpa]
+- o4: זָהָב = H2091 זָהָב "gold, figuratively…" [HNcmsa]
+- o5: שָׁחוּט = H7820 שָׁחַט "to hammer out" [HVqsmsa]
+- o6: שְׁלֹשׁ = H7969 שָׁלוֹשׁ "three…" [HAcfsa]
+- o7: מֵאוֹת = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbpa]
+- o8: זָהָב = H2091 זָהָב "gold, figuratively…" [HNcmsa]
+- o9: יַעֲלֶה = H5927 עָלָה "to ascend…" [HVhi3ms]
+- o10: עַל = H5921 עַל "above, over, upon…" [HR]
+- o11: הַ/מָּגֵן = Hd "the" + H4043 מָגֵן "a shield (i.e. the small one or buckler)…" [HTd/Ncbsa]
+- o12: הָ/אֶחָת = Hd "the" + H259 אֶחָד "properly, united, i.e. one…" [HTd/Acfsa]
+- o13: וַ/יִּתְּנֵ/ם = Hc "and" + H5414 נָתַן "to give…" [HC/Vqw3ms/Sp3mp]
+- o14: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o15: בְּ/בֵית = Hb "in" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc]
+- o16: יַעַר = H3293 יַעַר "a copse of bushes; hence, a forest…" [HNcmsc]
+- o17: הַ/לְּבָנוֹן = Hd "the" + H3844 לְבָנוֹן "Lebanon, a mountain range in Palestine" [HTd/Np]
+
+### II Chronicles 10:1 (context)
+
+- o1: וַ/יֵּלֶךְ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3ms]
+- o2: רְחַבְעָם = H7346 רְחַבְעָם "Rechabam, an Israelite king" [HNp]
+- o3: שְׁכֶמָ/ה = H7927 שְׁכֶם "Shekem, a place in Palestine" [HNp/Sd]
+- o4: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o5: שְׁכֶם = H7927 שְׁכֶם "Shekem, a place in Palestine" [HNp]
+- o6: בָּאוּ = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3cp]
+- o7: כָל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o8: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o9: לְ/הַמְלִיךְ = Hl "to" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HR/Vhc]
+- o10: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]

@@ -709,3 +709,21 @@ Persian entries and current tags:
 - p16: با  → G1223
 - p17: حسن‌نیّت  → G2107
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Philippians 1:16 (context)
+
+- o1: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o2: μὲν = G3303 μέν "even, indeed, so, some, truly, verily" [PRT]
+- o3: ἐξ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o4: ἀγάπης, = G26 ἀγάπη "(feast of) charity(-ably), dear, love" [N-GSF]
+- o5: εἰδότες = G1492 εἴδω "be aware, behold, can (+ not tell), consider…" [V-RAP-NPM]
+- o6: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o7: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o8: ἀπολογίαν = G627 ἀπολογία "answer (for self), clearing of self, defence" [N-ASF]
+- o9: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
+- o10: εὐαγγελίου = G2098 εὐαγγέλιον "gospel" [N-GSN]
+- o11: κεῖμαι, = G2749 κεῖμαι "be (appointed, laid up, made, set), lay, lie" [V-PNI-1S]

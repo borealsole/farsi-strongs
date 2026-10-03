@@ -728,3 +728,38 @@ Persian entries and current tags:
 - p13: تهیه
 - p14: کرد  → H6213
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 37:14 (context)
+
+- o1: לְ/עֻמַּת = Hl "to" + H5980 עֻמָּה "conjunction, i.e. society…" [HR/Ncfsc]
+- o2: הַ/מִּסְגֶּרֶת = Hd "the" + H4526 מִסְגֶּרֶת "something enclosing, i.e. a margin (of a region…" [HTd/Ncfsa]
+- o3: הָיוּ = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3cp]
+- o4: הַ/טַּבָּעֹת = Hd "the" + H2885 טַבַּעַת "properly, a seal (as sunk into the wax)…" [HTd/Ncfpa]
+- o5: בָּתִּים = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmpa]
+- o6: לַ/בַּדִּים = Hl "to" + H905 בַּד "properly, separation…" [HRd/Ncmpa]
+- o7: לָ/שֵׂאת = Hl "to" + H5375 נָשָׂא "to lift, in a great variety of applications…" [HR/Vqc]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: הַ/שֻּׁלְחָן = Hd "the" + H7979 שֻׁלְחָן "a table (as spread out); by implication, a meal" [HTd/Ncmsa]
+
+### Exodus 38:1 (context)
+
+- o1: וַ/יַּעַשׂ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3ms]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: מִזְבַּח = H4196 מִזְבֵּחַ "an altar" [HNcmsc]
+- o4: הָ/עֹלָה = Hd "the" + H5930 עֹלָה "a step or (collectively, stairs, as ascending)…" [HTd/Ncfsa]
+- o5: עֲצֵי = H6086 עֵץ "a tree (from its firmness)…" [HNcmpc]
+- o6: שִׁטִּים = H7848 שִׁטָּה "the acacia (from its scourging thorns)" [HNcfpa]
+- o7: חָמֵשׁ = H2568 חָמֵשׁ "five" [HAcfsa]
+- o8: אַמּוֹת = H520 אַמָּה "properly, a mother (i.e. unit of measure…" [HNcfpa]
+- o9: אָרְכּ/וֹ = H753 אֹרֶךְ "length" [HNcmsc/Sp3ms]
+- o10: וְ/חָמֵשׁ = Hc "and" + H2568 חָמֵשׁ "five" [HC/Acfsa]
+- o11: אַמּוֹת = H520 אַמָּה "properly, a mother (i.e. unit of measure…" [HNcfpa]
+- o12: רָחְבּ/וֹ = H7341 רֹחַב "width (literally or figuratively)" [HNcmsc/Sp3ms]
+- o13: רָבוּעַ = H7251 רָבַע "to be quadrate" [HVqsmsa]
+- o14: וְ/שָׁלֹשׁ = Hc "and" + H7969 שָׁלוֹשׁ "three…" [HC/Acfsa]
+- o15: אַמּוֹת = H520 אַמָּה "properly, a mother (i.e. unit of measure…" [HNcfpa]
+- o16: קֹמָת/וֹ = H6967 קוֹמָה "height" [HNcfsc/Sp3ms]

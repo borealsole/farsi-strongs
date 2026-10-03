@@ -578,3 +578,38 @@ Persian entries and current tags:
 - p24: را
 - p25: خدمت کنید  → G1398
 - p26: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Galatians 4:31 (context)
+
+- o1: διό, = G1352 διό "for which cause, therefore, wherefore" [CONJ]
+- o2: ἀδελφοί, = G80 ἀδελφός "brother" [N-VPM]
+- o3: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o4: ἐσμὲν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-1P]
+- o5: παιδίσκης = G3814 παιδίσκη "bondmaid(-woman), damsel, maid(-en)" [N-GSF]
+- o6: τέκνα = G5043 τέκνον "child, daughter, son" [N-NPN]
+- o7: ἀλλὰ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o8: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o9: ἐλευθέρας. = G1658 ἐλεύθερος "free (man, woman), at liberty" [A-GSF]
+
+### Galatians 5:14 (context)
+
+- o1: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o2: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o3: πᾶς = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-NSM]
+- o4: νόμος = G3551 νόμος "law" [N-NSM]
+- o5: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o6: ἑνὶ = G1520 εἷς "a(-n, -ny, certain), + abundantly, man…" [A-DSM]
+- o7: λόγῳ = G3056 λόγος "account, cause, communication, concerning…" [N-DSM]
+- o8: πεπλήρωται, = G4137 πληρόω "accomplish, after, (be) complete, end, expire…" [V-RPI-3S]
+- o9: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o10: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o11: ἀγαπήσεις = G25 ἀγαπάω "(be-)love(-ed)" [V-FAI-2S]
+- o12: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o13: πλησίον = G4139 πλησίον "near, neighbour" [ADV]
+- o14: σου = G4771 σύ "thou" [P-2GS]
+- o15: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
+- o16: σεαυτόν. = G4572 σεαυτοῦ "thee, thine own self, (thou) thy(-self)" [F-2ASM]

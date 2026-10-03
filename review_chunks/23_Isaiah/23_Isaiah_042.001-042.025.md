@@ -1270,3 +1270,37 @@ Persian entries and current tags:
 - p40: عبرت
 - p41: نیاموختند
 - p42: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 41:29 (context)
+
+- o1: הֵן = H2005 הֵן "lo!; also (as expressing surprise) if" [HTm]
+- o2: כֻּלָּ/ם = H3605 כֹּל "properly, the whole…" [HNcmsc/Sp3mp]
+- o3: אָוֶן = H205 אָוֶן "strictly nothingness…" [HNcmsa]
+- o4: אֶפֶס = H657 אֶפֶס "cessation, i.e. an end (especially of the earth)…" [HNcmsa]
+- o5: מַעֲשֵׂי/הֶם = H4639 מַעֲשֶׂה "an action (good or bad); generally, a transaction…" [HNcmpc/Sp3mp]
+- o6: רוּחַ = H7307 רוּחַ "wind…" [HNcbsa]
+- o7: וָ/תֹהוּ = Hc "and" + H8414 תֹּהוּ "a desolation (of surface), i.e. desert…" [HC/Ncmsa]
+- o8: נִסְכֵּי/הֶם = H5262 נֶסֶךְ "a libation; also a cast idol" [HNcmpc/Sp3mp]
+
+### Isaiah 43:1 (context)
+
+- o1: וְ/עַתָּה = Hc "and" + H6258 עַתָּה "at this time, whether adverb…" [HC/D]
+- o2: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o3: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: בֹּרַאֲ/ךָ = H1254 בָּרָא "absolutely) to create…" [HVqrmsc/Sp2ms]
+- o6: יַעֲקֹב = H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HNp]
+- o7: וְ/יֹצֶרְ/ךָ = Hc "and" + H3335 יָצַר "to mould into a form; especially as apotter…" [HC/Vqrmsc/Sp2ms]
+- o8: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o9: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o10: תִּירָא = H3372 יָרֵא "to fear; morally, to revere; caus. to frighten" [HVqj2ms]
+- o11: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o12: גְאַלְתִּי/ךָ = H1350 גָּאַל "to be the next of kin (and as such to buy back a…" [HVqp1cs/Sp2ms]
+- o13: קָרָאתִי = H7121 קָרָא "to call out to (i.e. properly, address by name…" [HVqp1cs]
+- o14: בְ/שִׁמְ/ךָ = Hb "in" + H8034 שֵׁם "an appellation…" [HR/Ncmsc/Sp2ms]
+- o15: לִ/י = Hl "to" [HR/Sp1cs]
+- o16: אָתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]

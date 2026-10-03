@@ -977,3 +977,53 @@ Persian entries and current tags:
 - p16: خویش
 - p17: خواهند_گداخت
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 3:27 (context)
+
+- o1: וּ/בְ/דַבְּרִ/י = Hc "and" + Hb "in" + H1696 דָבַר "perhaps properly, to arrange…" [HC/R/Vpc/Sp1cs]
+- o2: אוֹתְ/ךָ = H853 אֵת "properly…" [HTo/Sp2ms]
+- o3: אֶפְתַּח = H6605 פָּתַח "to open wide (literally or figuratively)…" [HVqi1cs]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: פִּי/ךָ = H6310 פֶּה "the mouth (as the means of blowing)…" [HNcmsc/Sp2ms]
+- o6: וְ/אָמַרְתָּ = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqq2ms]
+- o7: אֲלֵי/הֶם = H413 אֵל "near, with or among; often in general, to" [HR/Sp3mp]
+- o8: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o9: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o10: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o11: יְהֹוִה = H3069 יְהֹוִה "YHWH" [HNp]
+- o12: הַ/שֹּׁמֵעַ = Hd "the" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HTd/Vqrmsa]
+- o13: יִשְׁמָע = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqi3ms]
+- o14: וְ/הֶ/חָדֵל = Hc "and" + Hd "the" + H2310 חָדֵל "vacant, i.e. ceasing or destitute" [HC/Td/Aamsa]
+- o15: יֶחְדָּל = H2308 חָדַל "properly, to be flabby…" [HVqi3ms]
+- o16: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o17: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o18: מְרִי = H4805 מְרִי "bitterness, i.e. (figuratively) rebellion…" [HNcmsa]
+- o19: הֵמָּה = H1992 הֵם "they (only used when emphatic)" [HPp3mp]
+
+### Ezekiel 5:1 (context)
+
+- o1: וְ/אַתָּה = Hc "and" + H859 אַתָּה "thou and thee, or (plural) ye and you" [HC/Pp2ms]
+- o2: בֶן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o3: אָדָם = H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HNcmsa]
+- o4: קַח = H3947 לָקַח "to take (in the widest variety of applications)" [HVqv2ms]
+- o5: לְ/ךָ = Hl "to" [HR/Sp2ms]
+- o6: חֶרֶב = H2719 חֶרֶב "drought…" [HNcfsa]
+- o7: חַדָּה = H2299 חַד "sharp" [HAafsa]
+- o8: תַּעַר = H8593 תַּעַר "a knife or razor (as making bare)…" [HNcbsc]
+- o9: הַ/גַּלָּבִים = Hd "the" + H1532 גַּלָּב "a barber" [HTd/Ncmpa]
+- o10: תִּקָּחֶ/נָּה = H3947 לָקַח "to take (in the widest variety of applications)" [HVqi2ms/Sp3fs]
+- o11: לָּ/ךְ = Hl "to" [HR/Sp2fs]
+- o12: וְ/הַעֲבַרְתָּ = Hc "and" + H5674 עָבַר "to cross over…" [HC/Vhq2ms]
+- o13: עַל = H5921 עַל "above, over, upon…" [HR]
+- o14: רֹאשְׁ/ךָ = H7218 רֹאשׁ "the head (as most easily shaken)…" [HNcmsc/Sp2ms]
+- o15: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o16: זְקָנֶ/ךָ = H2206 זָקָן "the beard (as indicating age)" [HNcbsc/Sp2ms]
+- o17: וְ/לָקַחְתָּ = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqq2ms]
+- o18: לְ/ךָ = Hl "to" [HR/Sp2ms]
+- o19: מֹאזְנֵי = H3976 מֹאזֵן "(only in the dual) a pair of scales" [HNcmdc]
+- o20: מִשְׁקָל = H4948 מִשְׁקָל "weight (numerically estimated)…" [HNcmsa]
+- o21: וְ/חִלַּקְתָּ/ם = Hc "and" + H2505 חָלַק "to be smooth (figuratively)…" [HC/Vpq2ms/Sp3mp]

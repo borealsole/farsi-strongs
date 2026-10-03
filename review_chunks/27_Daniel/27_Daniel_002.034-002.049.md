@@ -1064,3 +1064,40 @@ Persian entries and current tags:
 - p23: شاه  → H4430
 - p24: بود  → H8651
 - p25: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Daniel 2:33 (context)
+
+- o1: שָׁקוֹ/הִי = H8243 שָׁק "the leg" [ANcfpc/Sp3ms]
+- o2: דִּי = H1768 דִּי "that, used as relative conjunction…" [ATr]
+- o3: פַרְזֶל = H6523 פַּרְזֶל "iron" [ANcmsa]
+- o4: רַגְלוֹ/הִי = H7271 רְגַל "a foot, a step; by euphemistically the pudenda" [ANcfpc/Sp3ms]
+- o5: מנ/הון = H4481 מִן "properly, a part of…" [AR/Sp3mp]
+- o6: דִּי = H1768 דִּי "that, used as relative conjunction…" [ATr]
+- o7: פַרְזֶל = H6523 פַּרְזֶל "iron" [ANcmsa]
+- o8: ו/מנ/הון = Hc "and" + H4481 מִן "properly, a part of…" [AC/R/Sp3mp]
+- o9: דִּי = H1768 דִּי "that, used as relative conjunction…" [ATr]
+- o10: חֲסַף = H2635 חֲסַף "a clod" [ANcmsa]
+
+### Daniel 3:1 (context)
+
+- o1: נְבוּכַדְנֶצַּר = H5020 נְבוּכַדְנֶצַּר "Nebukadnetstsar (or -retstsar, or -retstsor)…" [ANp]
+- o2: מַלְכָּ/א = H4430 מֶלֶךְ "a king" [ANcmsd/Td]
+- o3: עֲבַד = H5648 עֲבַד "to do, make, prepare, keep, etc" [AVqp3ms]
+- o4: צְלֵם = H6755 צֶלֶם "an idolatrous figure" [ANcmsa]
+- o5: דִּי = H1768 דִּי "that, used as relative conjunction…" [ATr]
+- o6: דְהַב = H1722 דְּהַב "gold" [ANcmsa]
+- o7: רוּמֵ/הּ = H7314 רוּם "(literally) altitude" [ANcmsc/Sp3ms]
+- o8: אַמִּין = H521 אַמָּה "properly, a mother (i.e. unit of measure…" [ANcfsa]
+- o9: שִׁתִּין = H8361 שִׁתִּין "sixty" [AAcfpa]
+- o10: פְּתָיֵ/הּ = H6613 פְּתַי "open, i.e. (as noun) width" [ANcmsc/Sp3ms]
+- o11: אַמִּין = H521 אַמָּה "properly, a mother (i.e. unit of measure…" [ANcfsa]
+- o12: שִׁת = H8353 שֵׁת "six" [AAcfsa]
+- o13: אֲקִימֵ/הּ = H6966 קוּם "to rise (in various applications, literal…" [AVap3ms/Sp3ms]
+- o14: בְּ/בִקְעַת = Hb "in" + H1236 בִּקְעָא "properly, a split…" [AR/Ncfsc]
+- o15: דּוּרָא = H1757 דּוּרָא "Dura, a place in Babylonia" [ANp]
+- o16: בִּ/מְדִינַת = Hb "in" + H4083 מְדִינָה "properly, a judgeship, i.e. jurisdiction…" [AR/Ncfsc]
+- o17: בָּבֶל = H895 בַּבֶל "Babel (i.e. Babylon)…" [ANp]

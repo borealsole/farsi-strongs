@@ -1035,3 +1035,44 @@ Persian entries and current tags:
 - p20: او
 - p21: پادشاه شد  → H4427
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 15:19 (context)
+
+- o1: בָּא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3ms]
+- o2: פוּל = H6322 פּוּל "Pul…" [HNp]
+- o3: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o4: אַשּׁוּר = H804 אַשּׁוּר "Ashshur, the second son of Shem…" [HNp]
+- o5: עַל = H5921 עַל "above, over, upon…" [HR]
+- o6: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o7: וַ/יִּתֵּן = Hc "and" + H5414 נָתַן "to give…" [HC/Vqw3ms]
+- o8: מְנַחֵם = H4505 מְנַחֵם "Menachem, an Israelite" [HNp]
+- o9: לְ/פוּל = Hl "to" + H6322 פּוּל "Pul…" [HR/Np]
+- o10: אֶלֶף = H505 אֶלֶף "hence (the ox's head being the first letter of…" [HAcbsa]
+- o11: כִּכַּר = H3603 כִּכָּר "a circle…" [HNcbsc]
+- o12: כָּסֶף = H3701 כֶּסֶף "silver (from its pale color)…" [HNcmsa]
+- o13: לִ/הְיוֹת = Hl "to" + H1961 הָיָה "to exist, i.e. be or become…" [HR/Vqc]
+- o14: יָדָי/ו = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbdc/Sp3ms]
+- o15: אִתּ/וֹ = H854 אֵת "properly…" [HR/Sp3ms]
+- o16: לְ/הַחֲזִיק = Hl "to" + H2388 חָזַק "to fasten upon…" [HR/Vhc]
+- o17: הַ/מַּמְלָכָה = Hd "the" + H4467 מַמְלָכָה "dominion…" [HTd/Ncfsa]
+- o18: בְּ/יָד/וֹ = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc/Sp3ms]
+
+### II Kings 16:1 (context)
+
+- o1: בִּ/שְׁנַת = Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HR/Ncfsc]
+- o2: שְׁבַע = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcfsa]
+- o3: עֶשְׂרֵה = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcfsa]
+- o4: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o5: לְ/פֶקַח = Hl "to" + H6492 פֶּקַח "Pekach, an Israelite king" [HR/Np]
+- o6: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o7: רְמַלְיָהוּ = H7425 רְמַלְיָהוּ "Remaljah, an Israelite" [HNp]
+- o8: מָלַךְ = H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HVqp3ms]
+- o9: אָחָז = H271 אָחָז "Achaz…" [HNp]
+- o10: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o11: יוֹתָם = H3147 יוֹתָם "Jotham, the name of three Israelites" [HNp]
+- o12: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o13: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]

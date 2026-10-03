@@ -1285,3 +1285,42 @@ Persian entries and current tags:
 - p19: هستم  → H589
 - p20: .
 - p21: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 23:24 (context)
+
+- o1: וּ/בָאוּ = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqq3cp]
+- o2: עָלַיִ/ךְ = H5921 עַל "above, over, upon…" [HR/Sp2fs]
+- o3: הֹצֶן = H2021 הֹצֶן "a weapon of war" [HNcmsc]
+- o4: רֶכֶב = H7393 רֶכֶב "a vehicle; by implication, a team…" [HNcmsa]
+- o5: וְ/גַלְגַּל = Hc "and" + H1534 גַּלְגַּל "a wheel; by analogy, a whirlwind…" [HC/Ncmsa]
+- o6: וּ/בִ/קְהַל = Hc "and" + Hb "in" + H6951 קָהָל "assemblage (usually concretely)" [HC/R/Ncmsc]
+- o7: עַמִּים = H5971 עַם "a people (as a congregated unit)…" [HNcmpa]
+- o8: צִנָּה = H6793 צִנָּה "a hook (as pointed)…" [HNcfsa]
+- o9: וּ/מָגֵן = Hc "and" + H4043 מָגֵן "a shield (i.e. the small one or buckler)…" [HC/Ncbsa]
+- o10: וְ/קוֹבַע = Hc "and" + H6959 קוֹבַע "a helmet" [HC/Ncmsa]
+- o11: יָשִׂימוּ = H7760 שׂוּם "to put (used in a great variety of applications…" [HVqi3mp]
+- o12: עָלַיִ/ךְ = H5921 עַל "above, over, upon…" [HR/Sp2fs]
+- o13: סָבִיב = H5439 סָבִיב "as noun) a circle, neighbour, or environs…" [HNcbsa]
+- o14: וְ/נָתַתִּי = Hc "and" + H5414 נָתַן "to give…" [HC/Vqq1cs]
+- o15: לִ/פְנֵי/הֶם = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp3mp]
+- o16: מִשְׁפָּט = H4941 מִשְׁפָּט "properly…" [HNcmsa]
+- o17: וּ/שְׁפָטוּ/ךְ = Hc "and" + H8199 שָׁפַט "to judge…" [HC/Vqq3cp/Sp2fs]
+- o18: בְּ/מִשְׁפְּטֵי/הֶם = Hb "in" + H4941 מִשְׁפָּט "properly…" [HR/Ncmpc/Sp3mp]
+
+### Ezekiel 24:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o5: בַּ/שָּׁנָה = Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HRd/Ncfsa]
+- o6: הַ/תְּשִׁיעִית = Hd "the" + H8671 תְּשִׁיעִי "ninth" [HTd/Aofsa]
+- o7: בַּ/חֹדֶשׁ = Hb "in" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HRd/Ncmsa]
+- o8: הָ/עֲשִׂירִי = Hd "the" + H6224 עֲשִׂירִי "tenth…" [HTd/Aomsa]
+- o9: בֶּ/עָשׂוֹר = Hb "in" + H6218 עָשׂוֹר "ten…" [HRd/Ncmsa]
+- o10: לַ/חֹדֶשׁ = Hl "to" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HRd/Ncmsa]
+- o11: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

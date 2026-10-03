@@ -902,3 +902,34 @@ Persian entries and current tags:
 - p33: آنان
 - p34: خواهم_چشانید
 - p35: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 33:33 (context)
+
+- o1: וּ/בְ/בֹאָ/הּ = Hc "and" + Hb "in" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/R/Vqc/Sp3fs]
+- o2: הִנֵּה = H2009 הִנֵּה "lo!" [HTm]
+- o3: בָאָה = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqrfsa]
+- o4: וְ/יָדְעוּ = Hc "and" + H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HC/Vqq3cp]
+- o5: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o6: נָבִיא = H5030 נָבִיא "a prophet or (generally) inspired man" [HNcmsa]
+- o7: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o8: בְ/תוֹכָ/ם = Hb "in" + H8432 תָּוֶךְ "a bisection, i.e. (by implication) the centre" [HR/Ncmsc/Sp3mp]
+
+### Ezekiel 34:17 (context)
+
+- o1: וְ/אַתֵּנָה = Hc "and" + H859 אַתָּה "thou and thee, or (plural) ye and you" [HC/Pp2fp]
+- o2: צֹאנִ/י = H6629 צֹאן "a collective name for a flock (of sheep or goats)…" [HNcbsc/Sp1cs]
+- o3: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o4: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o5: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o6: יְהוִה = H3069 יְהֹוִה "YHWH" [HNp]
+- o7: הִנְ/נִי = H2005 הֵן "lo!; also (as expressing surprise) if" [HTm/Sp1cs]
+- o8: שֹׁפֵט = H8199 שָׁפַט "to judge…" [HVqrmsa]
+- o9: בֵּין = H996 בֵּין "between (repeated before each noun…" [HR]
+- o10: שֶׂה = H7716 שֶׂה "a member of a flock, i.e. a sheep or goat" [HNcbsa]
+- o11: לָ/שֶׂה = Hl "to" + H7716 שֶׂה "a member of a flock, i.e. a sheep or goat" [HR/Ncbsa]
+- o12: לָ/אֵילִים = Hl "to" + H352 אַיִל "properly, strength; hence, anything strong…" [HRd/Ncmpa]
+- o13: וְ/לָ/עַתּוּדִים = Hc "and" + Hl "to" + H6260 עַתּוּד "prepared, i.e. full grown…" [HC/Rd/Ncmpa]

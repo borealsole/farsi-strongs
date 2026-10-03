@@ -717,3 +717,29 @@ Persian entries and current tags:
 - p48: آنجا
 - p49: هستند
 - p50: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 5:13 (context)
+
+- o1: וַ/אֲחֵי/הֶם = Hc "and" + H251 אָח "a brother (used in the widest sense of literal…" [HC/Ncmpc/Sp3mp]
+- o2: לְ/בֵית = Hl "to" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc]
+- o3: אֲבוֹתֵי/הֶם = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp3mp]
+- o4: מִיכָאֵל = H4317 מִיכָאֵל "Mikael…" [HNp]
+- o5: וּ/מְשֻׁלָּם = Hc "and" + H4918 מְשֻׁלָּם "Meshullam, the name of seventeen Israelites" [HC/Np]
+- o6: וְ/שֶׁבַע = Hc "and" + H7652 שֶׁבַע "Sheba, the name of a place in Palestine…" [HC/Acfsa]
+- o7: וְ/יוֹרַי = Hc "and" + H3140 יוֹרַי "Jorai, an Israelite" [HC/Np]
+- o8: וְ/יַעְכָּן = Hc "and" + H3275 יַעְכָּן "Jakan, an Israelite" [HC/Np]
+- o9: וְ/זִיעַ = Hc "and" + H2127 זִיעַ "Zia, an Israelite" [HC/Np]
+- o10: וָ/עֵבֶר = Hc "and" + H5677 עֵבֵר "Eber…" [HC/Np]
+- o11: שִׁבְעָה = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcmsa]
+
+### I Chronicles 6:1 (context)
+
+- o1: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o2: לֵוִי = H3878 לֵוִי "Levi, a son of Jacob" [HNp]
+- o3: גֵּרְשׁוֹן = H1648 גֵּרְשׁוֹן "Gereshon or Gereshom, an Israelite" [HNp]
+- o4: קְהָת = H6955 קְהָת "Kehath, an Israelite" [HNp]
+- o5: וּ/מְרָרִי = Hc "and" + H4847 מְרָרִי "Merari, an Israelite" [HC/Np]

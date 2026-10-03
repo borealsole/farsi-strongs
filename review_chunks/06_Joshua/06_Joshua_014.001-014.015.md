@@ -922,3 +922,41 @@ Persian entries and current tags:
 - p19: جنگ  → H4421
 - p20: بیاسود  → H8252
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Joshua 13:33 (context)
+
+- o1: וּ/לְ/שֵׁבֶט = Hc "and" + Hl "to" + H7626 שֵׁבֶט "a scion, i.e. (literally) a stick (for punishing…" [HC/R/Ncmsc]
+- o2: הַ/לֵּוִי = Hd "the" + H3878 לֵוִי "Levi, a son of Jacob" [HTd/Ngmsa]
+- o3: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o4: נָתַן = H5414 נָתַן "to give…" [HVqp3ms]
+- o5: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o6: נַחֲלָה = H5159 נַחֲלָה "properly, something inherited…" [HNcfsa]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: אֱלֹהֵי = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc]
+- o9: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o10: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o11: נַחֲלָתָ/ם = H5159 נַחֲלָה "properly, something inherited…" [HNcfsc/Sp3mp]
+- o12: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o13: דִּבֶּר = H1696 דָבַר "perhaps properly, to arrange…" [HVpp3ms]
+- o14: לָ/הֶם = Hl "to" [HR/Sp3mp]
+
+### Joshua 15:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: הַ/גּוֹרָל = Hd "the" + H1486 גּוֹרָל "properly, a pebble…" [HTd/Ncmsa]
+- o3: לְ/מַטֵּה = Hl "to" + H4294 מַטֶּה "a branch (as extending); figuratively, a tribe…" [HR/Ncmsc]
+- o4: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o5: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o6: לְ/מִשְׁפְּחֹתָ/ם = Hl "to" + H4940 מִשְׁפָּחָה "a family, i.e. circle of relatives…" [HR/Ncfpc/Sp3mp]
+- o7: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o8: גְּבוּל = H1366 גְּבוּל "properly, a cord (as twisted)…" [HNcmsc]
+- o9: אֱדוֹם = H123 אֱדֹם "Edom, the elder twin-brother of Jacob…" [HNp]
+- o10: מִדְבַּר = H4057 מִדְבָּר "a pasture (i.e. open field…" [HNcmsc]
+- o11: צִן = H6790 צִן "Tsin, a part of the Desert" [HNp]
+- o12: נֶגְבָּ/ה = H5045 נֶגֶב "the south (from its drought)…" [HNcmsa/Sd]
+- o13: מִ/קְצֵה = Hm "from" + H7097 קָצֶה "an extremity" [HR/Ncbsc]
+- o14: תֵימָן = H8486 תֵּימָן "the south (as being on the right hand of a person…" [HNcfsa]

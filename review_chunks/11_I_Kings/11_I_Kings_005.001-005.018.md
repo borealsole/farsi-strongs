@@ -1060,3 +1060,53 @@ Persian entries and current tags:
 - p21: مهیا
 - p22: می‌ساختند
 - p23: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 4:34 (context)
+
+- o1: וַ/יָּבֹאוּ = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3mp]
+- o2: מִ/כָּל = Hm "from" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o3: הָ/עַמִּים = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmpa]
+- o4: לִ/שְׁמֹעַ = Hl "to" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HR/Vqc]
+- o5: אֵת = H853 אֵת "properly…" [HTo]
+- o6: חָכְמַת = H2451 חׇכְמָה "wisdom (in a good sense)" [HNcfsc]
+- o7: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o8: מֵ/אֵת = Hm "from" + H854 אֵת "properly…" [HR/R]
+- o9: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o10: מַלְכֵי = H4428 מֶלֶךְ "a king" [HNcmpc]
+- o11: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o12: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o13: שָׁמְעוּ = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqp3cp]
+- o14: אֶת = H853 אֵת "properly…" [HTo]
+- o15: חָכְמָת/וֹ = H2451 חׇכְמָה "wisdom (in a good sense)" [HNcfsc/Sp3ms]
+
+### I Kings 6:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: בִ/שְׁמוֹנִים = Hb "in" + H8084 שְׁמֹנִים "eighty, also eightieth" [HR/Acbpa]
+- o3: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o4: וְ/אַרְבַּע = Hc "and" + H702 אַרְבַּע "four" [HC/Acfsa]
+- o5: מֵאוֹת = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbpa]
+- o6: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o7: לְ/צֵאת = Hl "to" + H3318 יָצָא "to go (causatively, bring) out…" [HR/Vqc]
+- o8: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o9: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o10: מֵ/אֶרֶץ = Hm "from" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o11: מִצְרַיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o12: בַּ/שָּׁנָה = Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HRd/Ncfsa]
+- o13: הָ/רְבִיעִית = Hd "the" + H7243 רְבִיעִי "fourth; also (fractionally) a fourth" [HTd/Aofsa]
+- o14: בְּ/חֹדֶשׁ = Hb "in" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HR/Ncmsc]
+- o15: זִו = H2099 זִו "Ziv (corresponding to Ijar or May)" [HNp]
+- o16: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o17: הַ/חֹדֶשׁ = Hd "the" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HTd/Ncmsa]
+- o18: הַ/שֵּׁנִי = Hd "the" + H8145 שֵׁנִי "properly, double, i.e. second…" [HTd/Aomsa]
+- o19: לִ/מְלֹךְ = Hl "to" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HR/Vqc]
+- o20: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o21: עַל = H5921 עַל "above, over, upon…" [HR]
+- o22: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o23: וַ/יִּבֶן = Hc "and" + H1129 בָּנָה "to build (literally and figuratively)" [HC/Vqw3ms]
+- o24: הַ/בַּיִת = Hd "the" + H1004 בַּיִת "a house (in the greatest variation of…" [HTd/Ncmsa]
+- o25: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]

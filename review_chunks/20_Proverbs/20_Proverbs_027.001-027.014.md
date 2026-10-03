@@ -565,3 +565,28 @@ Persian entries and current tags:
 - p15: لعنت  → H7045
 - p16: محسوب می‌شود  → H2803
 - p17: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 26:28 (context)
+
+- o1: לְשׁוֹן = H3956 לָשׁוֹן "the tongue (of man or animals)…" [HNcbsc]
+- o2: שֶׁקֶר = H8267 שֶׁקֶר "an untruth…" [HNcmsa]
+- o3: יִשְׂנָא = H8130 שָׂנֵא "to hate (personally)" [HVqi3ms]
+- o4: דַכָּי/ו = H1790 דַּךְ "crushed, i.e. (figuratively) injured" [HAampc/Sp3ms]
+- o5: וּ/פֶה = Hc "and" + H6310 פֶּה "the mouth (as the means of blowing)…" [HC/Ncmsa]
+- o6: חָלָק = H2509 חָלָק "smooth (especially of tongue)" [HAamsa]
+- o7: יַעֲשֶׂה = H6213 עָשָׂה "to do or make…" [HVqi3ms]
+- o8: מִדְחֶה = H4072 מִדְחֶה "overthrow" [HNcmsa]
+
+### Proverbs 27:15 (context)
+
+- o1: דֶּלֶף = H1812 דֶּלֶף "a dripping" [HNcmsa]
+- o2: טוֹרֵד = H2956 טָרַד "to drive on; figuratively, to follow close" [HVqrmsa]
+- o3: בְּ/יוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmsc]
+- o4: סַגְרִיר = H5464 סַגְרִיד "a pouring rain" [HNcmsa]
+- o5: וְ/אֵשֶׁת = Hc "and" + H802 אִשָּׁה "a woman" [HC/Ncfsc]
+- o6: מדונים = H4066 מָדוֹן "a contest or quarrel" [HNcmpa]
+- o7: נִשְׁתָּוָה = H7737 שָׁוָה "properly, to level, i.e. equalize…" [HVDp3fs]

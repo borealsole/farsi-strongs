@@ -871,3 +871,34 @@ Persian entries and current tags:
 - p18: شکر  → H3034
 - p19: خواهم_گزارد  → H5769
 - p20: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 28:9 (context)
+
+- o1: הוֹשִׁיעָ/ה = H3467 יָשַׁע "properly, to be open, wide or free…" [HVhv2ms/Sh]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: עַמֶּ/ךָ = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp2ms]
+- o4: וּ/בָרֵךְ = Hc "and" + H1288 בָרַךְ "to kneel…" [HC/Vpv2ms]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: נַחֲלָתֶ/ךָ = H5159 נַחֲלָה "properly, something inherited…" [HNcfsc/Sp2ms]
+- o7: וּ/רְעֵ/ם = Hc "and" + H7462 רָעָה "to tend a flock; i.e. pasture it…" [HC/Vqv2ms/Sp3mp]
+- o8: וְ/נַשְּׂאֵ/ם = Hc "and" + H5375 נָשָׂא "to lift, in a great variety of applications…" [HC/Vpv2ms/Sp3mp]
+- o9: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o10: הָ/עוֹלָם = Hd "the" + H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HTd/Ncmsa]
+
+### Psalms 31:1 (context)
+
+- o1: לַ/מְנַצֵּחַ = Hl "to" + H5329 נָצַח "properly, to glitter from afar…" [HRd/Vprmsa]
+- o2: מִזְמוֹר = H4210 מִזְמוֹר "properly, instrumental music…" [HNcmsa]
+- o3: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o4: בְּ/ךָ = Hb "in" [HR/Sp2ms]
+- o5: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o6: חָסִיתִי = H2620 חָסָה "to flee for protection…" [HVqp1cs]
+- o7: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o8: אֵבוֹשָׁה = H954 בּוּשׁ "properly, to pale…" [HVqh1cs]
+- o9: לְ/עוֹלָם = Hl "to" + H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HR/Ncmsa]
+- o10: בְּ/צִדְקָתְ/ךָ = Hb "in" + H6666 צְדָקָה "rightness (abstractly), subjectively (rectitude)…" [HR/Ncfsc/Sp2ms]
+- o11: פַלְּטֵ/נִי = H6403 פָּלַט "to slip out, i.e. escape; causatively, to deliver" [HVpv2ms/Sp1cs]

@@ -926,3 +926,50 @@ Persian entries and current tags:
 - p28: تاج  → H3805
 - p29: دیگر  → H8145
 - p30: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 6:38 (context)
+
+- o1: וּ/בַ/שָּׁנָה = Hc "and" + Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HC/Rd/Ncfsa]
+- o2: הָ/אַחַת = Hd "the" + H259 אֶחָד "properly, united, i.e. one…" [HTd/Acfsa]
+- o3: עֶשְׂרֵה = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcfsa]
+- o4: בְּ/יֶרַח = Hb "in" + H3391 יֶרַח "a lunation, i.e. month" [HR/Ncmsc]
+- o5: בּוּל = H945 בּוּל "Bul, the eighth Hebrew month" [HNp]
+- o6: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o7: הַ/חֹדֶשׁ = Hd "the" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HTd/Ncmsa]
+- o8: הַ/שְּׁמִינִי = Hd "the" + H8066 שְׁמִינִי "eight" [HTd/Aomsa]
+- o9: כָּלָה = H3615 כָּלָה "to end, whether intransitive (to cease…" [HVqp3ms]
+- o10: הַ/בַּיִת = Hd "the" + H1004 בַּיִת "a house (in the greatest variation of…" [HTd/Ncmsa]
+- o11: לְ/כָל = Hl "to" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o12: דְּבָרָי/ו = H1697 דָּבָר "a word…" [HNcmpc/Sp3ms]
+- o13: וּ/לְ/כָל = Hc "and" + Hl "to" + H3605 כֹּל "properly, the whole…" [HC/R/Ncmsc]
+- o14: משפט/ו = H4941 מִשְׁפָּט "properly…" [HNcmsc/Sp3ms]
+- o15: וַ/יִּבְנֵ/הוּ = Hc "and" + H1129 בָּנָה "to build (literally and figuratively)" [HC/Vqw3ms/Sp3ms]
+- o16: שֶׁבַע = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcfsa]
+- o17: שָׁנִים = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfpa]
+
+### I Kings 7:18 (context)
+
+- o1: וַ/יַּעַשׂ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3ms]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: הָ/עַמּוּדִים = Hd "the" + H5982 עַמּוּד "a column (as standing)…" [HTd/Ncmpa]
+- o4: וּ/שְׁנֵי = Hc "and" + H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HC/Acmdc]
+- o5: טוּרִים = H2905 טוּר "a row; hence, a wall" [HNcmpa]
+- o6: סָבִיב = H5439 סָבִיב "as noun) a circle, neighbour, or environs…" [HNcbsa]
+- o7: עַל = H5921 עַל "above, over, upon…" [HR]
+- o8: הַ/שְּׂבָכָה = Hd "the" + H7639 שְׂבָכָה "a net-work, i.e. (in hunting) a snare…" [HTd/Ncfsa]
+- o9: הָ/אֶחָת = Hd "the" + H259 אֶחָד "properly, united, i.e. one…" [HTd/Acfsa]
+- o10: לְ/כַסּוֹת = Hl "to" + H3680 כָּסָה "properly, to plump, i.e. fill up hollows…" [HR/Vpc]
+- o11: אֶת = H853 אֵת "properly…" [HTo]
+- o12: הַ/כֹּתָרֹת = Hd "the" + H3805 כֹתֶרֶת "the capital of a column" [HTd/Ncfpa]
+- o13: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o14: עַל = H5921 עַל "above, over, upon…" [HR]
+- o15: רֹאשׁ = H7218 רֹאשׁ "the head (as most easily shaken)…" [HNcmsc]
+- o16: הָ/רִמֹּנִים = Hd "the" + H7416 רִמּוֹן "a pomegranate…" [HTd/Ncmpa]
+- o17: וְ/כֵן = Hc "and" + H3651 כֵּן "properly, set upright…" [HC/Tm]
+- o18: עָשָׂה = H6213 עָשָׂה "to do or make…" [HVqp3ms]
+- o19: לַ/כֹּתֶרֶת = Hl "to" + H3805 כֹתֶרֶת "the capital of a column" [HRd/Ncfsa]
+- o20: הַ/שֵּׁנִית = Hd "the" + H8145 שֵׁנִי "properly, double, i.e. second…" [HTd/Aofsa]

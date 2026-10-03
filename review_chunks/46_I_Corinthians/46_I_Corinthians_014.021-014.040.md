@@ -938,3 +938,44 @@ Persian entries and current tags:
 - p10: ترتیب  → G5010
 - p11: انجام شود  → G1096
 - p12: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Corinthians 14:20 (context)
+
+- o1: Ἀδελφοί, = G80 ἀδελφός "brother" [N-VPM]
+- o2: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o3: παιδία = G3813 παιδίον "(little, young) child, damsel" [N-NPN]
+- o4: γίνεσθε = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-PNM-2P]
+- o5: ταῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPF]
+- o6: φρεσίν, = G5424 φρήν "understanding" [N-DPF]
+- o7: ἀλλὰ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o8: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o9: κακίᾳ = G2549 κακία "evil, malice(-iousness), naughtiness, wickedness" [N-DSF]
+- o10: νηπιάζετε, = G3515 νηπιάζω "be a child" [V-PAM-2P]
+- o11: ταῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPF]
+- o12: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o13: φρεσὶν = G5424 φρήν "understanding" [N-DPF]
+- o14: τέλειοι = G5046 τέλειος "of full age, man, perfect" [A-NPM]
+- o15: γίνεσθε. = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-PNM-2P]
+
+### I Corinthians 15:1 (context)
+
+- o1: Γνωρίζω = G1107 γνωρίζω "certify, declare, make known, give to understand…" [V-PAI-1S]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: ὑμῖν, = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
+- o4: ἀδελφοί, = G80 ἀδελφός "brother" [N-VPM]
+- o5: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o6: εὐαγγέλιον = G2098 εὐαγγέλιον "gospel" [N-ASN]
+- o7: ὃ = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-ASN]
+- o8: εὐηγγελισάμην = G2097 εὐαγγελίζω "declare, bring (declare…" [V-AMI-1S]
+- o9: ὑμῖν, = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
+- o10: ὃ = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-ASN]
+- o11: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o12: παρελάβετε, = G3880 παραλαμβάνω "receive, take (unto, with)" [V-2AAI-2P]
+- o13: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o14: ᾧ = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-DSN]
+- o15: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o16: ἑστήκατε, = G2476 ἵστημι "abide, appoint, bring, continue, covenant…" [V-RAI-2P]

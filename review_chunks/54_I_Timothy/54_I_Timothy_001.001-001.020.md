@@ -983,3 +983,22 @@ Persian entries and current tags:
 - p19: کفر  → G987
 - p20: نگویند  → G3811 G3361
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Timothy 2:1 (context)
+
+- o1: Παρακαλῶ = G3870 παρακαλέω "beseech, call for, (be of good) comfort, desire…" [V-PAI-1S]
+- o2: οὖν = G3767 οὖν "and (so, truly), but, now (then)…" [CONJ]
+- o3: πρῶτον = G4412 πρῶτον "before, at the beginning, chiefly (at…" [ADV-S]
+- o4: πάντων = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-GPN]
+- o5: ποιεῖσθαι = G4160 ποιέω "abide, + agree, appoint, avenge, + band together…" [V-PPN]
+- o6: δεήσεις, = G1162 δέησις "prayer, request, supplication" [N-APF]
+- o7: προσευχάς, = G4335 προσευχή "pray earnestly, prayer" [N-APF]
+- o8: ἐντεύξεις, = G1783 ἔντευξις "intercession, prayer" [N-APF]
+- o9: εὐχαριστίας, = G2169 εὐχαριστία "thankfulness, (giving of) thanks(-giving)" [N-APF]
+- o10: ὑπὲρ = G5228 ὑπέρ "+ exceeding, abundantly) above…" [PREP]
+- o11: πάντων = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-GPM]
+- o12: ἀνθρώπων, = G444 ἄνθρωπος "certain, man" [N-GPM]

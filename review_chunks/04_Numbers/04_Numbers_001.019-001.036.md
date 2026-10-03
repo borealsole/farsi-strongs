@@ -792,3 +792,40 @@ Persian entries and current tags:
 - p26: ثبت  → H8435
 - p27: گردید
 - p28: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 1:18 (context)
+
+- o1: וְ/אֵת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o2: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: הָ/עֵדָה = Hd "the" + H5712 עֵדָה "a stated assemblage (specifically, a concourse…" [HTd/Ncfsa]
+- o4: הִקְהִילוּ = H6950 קָהַל "to convoke" [HVhp3cp]
+- o5: בְּ/אֶחָד = Hb "in" + H259 אֶחָד "properly, united, i.e. one…" [HR/Acmsa]
+- o6: לַ/חֹדֶשׁ = Hl "to" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HRd/Ncmsa]
+- o7: הַ/שֵּׁנִי = Hd "the" + H8145 שֵׁנִי "properly, double, i.e. second…" [HTd/Aomsa]
+- o8: וַ/יִּתְיַלְדוּ = Hc "and" + H3205 יָלַד "to bear young; causatively, to beget…" [HC/Vtw3mp]
+- o9: עַל = H5921 עַל "above, over, upon…" [HR]
+- o10: מִשְׁפְּחֹתָ/ם = H4940 מִשְׁפָּחָה "a family, i.e. circle of relatives…" [HNcfpc/Sp3mp]
+- o11: לְ/בֵית = Hl "to" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc]
+- o12: אֲבֹתָ/ם = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp3mp]
+- o13: בְּ/מִסְפַּר = Hb "in" + H4557 מִסְפָּר "a number…" [HR/Ncmsc]
+- o14: שֵׁמוֹת = H8034 שֵׁם "an appellation…" [HNcmpa]
+- o15: מִ/בֶּן = Hm "from" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmsc]
+- o16: עֶשְׂרִים = H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HAcbpa]
+- o17: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o18: וָ/מַעְלָ/ה = Hc "and" + H4605 מַעַל "properly, the upper part…" [HC/D/Sd]
+- o19: לְ/גֻלְגְּלֹתָ/ם = Hl "to" + H1538 גֻּלְגֹּלֶת "a skull (as round)…" [HR/Ncfpc/Sp3mp]
+
+### Numbers 1:37 (context)
+
+- o1: פְּקֻדֵי/הֶם = H6485 פָּקַד "to visit (with friendly or hostile intent)…" [HVqsmpc/Sp3mp]
+- o2: לְ/מַטֵּה = Hl "to" + H4294 מַטֶּה "a branch (as extending); figuratively, a tribe…" [HR/Ncmsc]
+- o3: בִנְיָמִן = H1144 בִּנְיָמִין "Binjamin, youngest son of Jacob…" [HNp]
+- o4: חֲמִשָּׁה = H2568 חָמֵשׁ "five" [HAcmsa]
+- o5: וּ/שְׁלֹשִׁים = Hc "and" + H7970 שְׁלוֹשִׁים "thirty; or (ordinal) thirtieth" [HC/Acbpa]
+- o6: אֶלֶף = H505 אֶלֶף "hence (the ox's head being the first letter of…" [HAcbsa]
+- o7: וְ/אַרְבַּע = Hc "and" + H702 אַרְבַּע "four" [HC/Acfsa]
+- o8: מֵאוֹת = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbpa]

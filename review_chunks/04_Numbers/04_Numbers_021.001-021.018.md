@@ -924,3 +924,31 @@ Persian entries and current tags:
 - p25: کوچ
 - p26: کردند
 - p27: ،
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 20:29 (context)
+
+- o1: וַ/יִּרְאוּ = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw3mp]
+- o2: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: הָ/עֵדָה = Hd "the" + H5712 עֵדָה "a stated assemblage (specifically, a concourse…" [HTd/Ncfsa]
+- o4: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o5: גָוַע = H1478 גָּוַע "to breathe out, i.e. (by implication) expire" [HVqp3ms]
+- o6: אַהֲרֹן = H175 אַהֲרוֹן "Aharon, the brother of Moses" [HNp]
+- o7: וַ/יִּבְכּוּ = Hc "and" + H1058 בָּכָה "to weep; generally to bemoan" [HC/Vqw3mp]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: אַהֲרֹן = H175 אַהֲרוֹן "Aharon, the brother of Moses" [HNp]
+- o10: שְׁלֹשִׁים = H7970 שְׁלוֹשִׁים "thirty; or (ordinal) thirtieth" [HAcbpa]
+- o11: יוֹם = H3117 יוֹם "a day (as the warm hours)…" [HNcmsa]
+- o12: כֹּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o13: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o14: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+
+### Numbers 21:19 (context)
+
+- o1: וּ/מִ/מַּתָּנָה = Hc "and" + Hm "from" + H4980 מַתָּנָה "Mattanah, a place in the Desert" [HC/R/Np]
+- o2: נַחֲלִיאֵל = H5160 נַחֲלִיאֵל "Nachaliel, a place in the Desert" [HNp]
+- o3: וּ/מִ/נַּחֲלִיאֵל = Hc "and" + Hm "from" + H5160 נַחֲלִיאֵל "Nachaliel, a place in the Desert" [HC/R/Np]
+- o4: בָּמוֹת = H1120 בָּמוֹת "Bamoth or Bamoth-Baal, a place East of the Jordan" [HNp]

@@ -841,3 +841,36 @@ Persian entries and current tags:
 - p18: را  → H853
 - p19: پر کرده_بود  → H4390
 - p20: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 4:22 (context)
+
+- o1: וְ/הַ/מְזַמְּרוֹת = Hc "and" + Hd "the" + H4212 מְזַמְּרָה "a tweezer (only in the plural)" [HC/Td/Ncfpa]
+- o2: וְ/הַ/מִּזְרָקוֹת = Hc "and" + Hd "the" + H4219 מִזְרָק "a bowl (as if for sprinkling)" [HC/Td/Ncmpa]
+- o3: וְ/הַ/כַּפּוֹת = Hc "and" + Hd "the" + H3709 כַּף "the hollow hand or palm (so of the paw of an…" [HC/Td/Ncfpa]
+- o4: וְ/הַ/מַּחְתּוֹת = Hc "and" + Hd "the" + H4289 מַחְתָּה "a pan for live coals" [HC/Td/Ncfpa]
+- o5: זָהָב = H2091 זָהָב "gold, figuratively…" [HNcmsa]
+- o6: סָגוּר = H5462 סָגַר "to shut up; figuratively, to surrender" [HNcmsa]
+- o7: וּ/פֶתַח = Hc "and" + H6607 פֶּתַח "an opening (literally)…" [HC/Ncmsc]
+- o8: הַ/בַּיִת = Hd "the" + H1004 בַּיִת "a house (in the greatest variation of…" [HTd/Ncmsa]
+- o9: דַּלְתוֹתָי/ו = H1817 דֶּלֶת "something swinging, i.e. the valve of adoor" [HNcfpc/Sp3ms]
+- o10: הַ/פְּנִימִיּוֹת = Hd "the" + H6442 פְּנִימִי "interior" [HTd/Aafpa]
+- o11: לְ/קֹדֶשׁ = Hl "to" + H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HR/Ncmsc]
+- o12: הַ/קֳּדָשִׁים = Hd "the" + H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HTd/Ncmpa]
+- o13: וְ/דַלְתֵי = Hc "and" + H1817 דֶּלֶת "something swinging, i.e. the valve of adoor" [HC/Ncfdc]
+- o14: הַ/בַּיִת = Hd "the" + H1004 בַּיִת "a house (in the greatest variation of…" [HTd/Ncmsa]
+- o15: לַ/הֵיכָל = Hl "to" + H1964 הֵיכָל "a large public building…" [HRd/Ncmsa]
+- o16: זָהָב = H2091 זָהָב "gold, figuratively…" [HNcmsa]
+
+### II Chronicles 6:1 (context)
+
+- o1: אָז = H227 אָז "at that time or place…" [HD]
+- o2: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o3: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o6: לִ/שְׁכּוֹן = Hl "to" + H7931 שָׁכַן "to reside or permanently stay (literally or…" [HR/Vqc]
+- o7: בָּ/עֲרָפֶל = Hb "in" + H6205 עֲרָפֶל "gloom (as of a lowering sky)" [HRd/Ncmsa]

@@ -1244,3 +1244,54 @@ Persian entries and current tags:
 - p24: باشند
 - p25: .
 - p26: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 18:7 (context)
+
+- o1: בָּ/עֵת = Hb "in" + H6256 עֵת "time, especially (adverb with preposition) now…" [HRd/Ncbsa]
+- o2: הַ/הִיא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3fs]
+- o3: יוּבַל = H2986 יָבַל "properly, to flow…" [HVHi3ms]
+- o4: שַׁי = H7862 שַׁי "a gift (as available)" [HNcmsa]
+- o5: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o6: צְבָאוֹת = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbpa]
+- o7: עַם = H5971 עַם "a people (as a congregated unit)…" [HNcmsa]
+- o8: מְמֻשָּׁךְ = H4900 מָשַׁךְ "to draw…" [HVPsmsa]
+- o9: וּ/מוֹרָט = Hc "and" + H4178 מוֹרָט "obstinate, i.e. independent" [HC/VPsmsa]
+- o10: וּ/מֵ/עַם = Hc "and" + Hm "from" + H5971 עַם "a people (as a congregated unit)…" [HC/R/Ncmsa]
+- o11: נוֹרָא = H3372 יָרֵא "to fear; morally, to revere; caus. to frighten" [HVNrmsa]
+- o12: מִן = H4480 מִן "properly, a part of…" [HR]
+- o13: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o14: וָ/הָלְאָה = Hc "and" + H1973 הָלְאָה "to the distance, i.e. far away…" [HC/D]
+- o15: גּוֹי = H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HNcmsc]
+- o16: קַו = H6978 קַו־קַו "stalwart" [HNcmsa]
+- o17: קָו = H6978 קַו־קַו "stalwart" [HNcmsa]
+- o18: וּ/מְבוּסָה = Hc "and" + H4001 מְבוּסָה "a trampling" [HC/Ncfsa]
+- o19: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o20: בָּזְאוּ = H958 בָּזָא "probably to cleave" [HVqp3cp]
+- o21: נְהָרִים = H5104 נָהָר "a stream (including the sea…" [HNcmpa]
+- o22: אַרְצ/וֹ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsc/Sp3ms]
+- o23: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o24: מְקוֹם = H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HNcmsc]
+- o25: שֵׁם = H8034 שֵׁם "an appellation…" [HNcmsc]
+- o26: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o27: צְבָאוֹת = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbpa]
+- o28: הַר = H2022 הַר "a mountain or range of hills (sometimes used…" [HNcmsc]
+- o29: צִיּוֹן = H6726 צִיּוֹן "Tsijon (as a permanent capital)…" [HNp]
+
+### Isaiah 20:1 (context)
+
+- o1: בִּ/שְׁנַת = Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HR/Ncfsc]
+- o2: בֹּא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqc]
+- o3: תַרְתָּן = H8661 תַּרְתָּן "Tartan, an Assyrian" [HNp]
+- o4: אַשְׁדּוֹדָ/ה = H795 אַשְׁדּוֹד "Ashdod, a place in Palestine" [HNp/Sd]
+- o5: בִּ/שְׁלֹח = Hb "in" + H7971 שָׁלַח "to send away, for…" [HR/Vqc]
+- o6: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o7: סַרְגוֹן = H5623 סַרְגּוֹן "Sargon, an Assyrian king" [HNp]
+- o8: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o9: אַשּׁוּר = H804 אַשּׁוּר "Ashshur, the second son of Shem…" [HNp]
+- o10: וַ/יִּלָּחֶם = Hc "and" + H3898 לָחַם "to feed on; figuratively, to consume…" [HC/VNw3ms]
+- o11: בְּ/אַשְׁדּוֹד = Hb "in" + H795 אַשְׁדּוֹד "Ashdod, a place in Palestine" [HR/Np]
+- o12: וַ/יִּלְכְּדָ/הּ = Hc "and" + H3920 לָכַד "to catch (in a net, trap or pit)…" [HC/Vqw3ms/Sp3fs]

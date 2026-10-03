@@ -900,3 +900,56 @@ Persian entries and current tags:
 - p22: خواهم_داد
 - p23: .
 - p24: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 46:34 (context)
+
+- o1: וַ/אֲמַרְתֶּם = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqq2mp]
+- o2: אַנְשֵׁי = H376 אִישׁ "a man as an individual or a male person…" [HNcmpc]
+- o3: מִקְנֶה = H4735 מִקְנֶה "something bought, i.e. property…" [HNcmsa]
+- o4: הָיוּ = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3cp]
+- o5: עֲבָדֶי/ךָ = H5650 עֶבֶד "a servant" [HNcmpc/Sp2ms]
+- o6: מִ/נְּעוּרֵי/נוּ = Hm "from" + H5271 נָעוּר "only in plural collectively or emphatic form)…" [HR/Ncbpc/Sp1cp]
+- o7: וְ/עַד = Hc "and" + H5704 עַד "as far (or long, or much) as…" [HC/R]
+- o8: עַתָּה = H6258 עַתָּה "at this time, whether adverb…" [HD]
+- o9: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o10: אֲנַחְנוּ = H587 אֲנַחְנוּ "we" [HPp1cp]
+- o11: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o12: אֲבֹתֵי/נוּ = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp1cp]
+- o13: בַּ/עֲבוּר = Hb "in" + H5668 עָבוּר "properly, crossed, i.e. (abstractly) transit…" [HR/Ncmsc]
+- o14: תֵּשְׁבוּ = H3427 יָשַׁב "properly…" [HVqi2mp]
+- o15: בְּ/אֶרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o16: גֹּשֶׁן = H1657 גֹּשֶׁן "Goshen, the residence of the Israelites in Egypt…" [HNp]
+- o17: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o18: תוֹעֲבַת = H8441 תּוֹעֵבַה "properly, something disgusting (morally)…" [HNcfsc]
+- o19: מִצְרַיִם = H4713 מִצְרִי "a Mitsrite, or inhabitant of Mitsrajim" [HNp]
+- o20: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o21: רֹעֵה = H7462 רָעָה "to tend a flock; i.e. pasture it…" [HVqrmsc]
+- o22: צֹאן = H6629 צֹאן "a collective name for a flock (of sheep or goats)…" [HNcbsa]
+
+### Genesis 47:17 (context)
+
+- o1: וַ/יָּבִיאוּ = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vhw3mp]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: מִקְנֵי/הֶם = H4735 מִקְנֶה "something bought, i.e. property…" [HNcmpc/Sp3mp]
+- o4: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o5: יוֹסֵף = H3130 יוֹסֵף "Joseph, the name of seven Israelites" [HNp]
+- o6: וַ/יִּתֵּן = Hc "and" + H5414 נָתַן "to give…" [HC/Vqw3ms]
+- o7: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o8: יוֹסֵף = H3130 יוֹסֵף "Joseph, the name of seven Israelites" [HNp]
+- o9: לֶחֶם = H3899 לֶחֶם "food (for man or beast), especially bread…" [HNcbsa]
+- o10: בַּ/סּוּסִים = Hb "in" + H5483 סוּס "a horse (as leaping)…" [HRd/Ncmpa]
+- o11: וּ/בְ/מִקְנֵה = Hc "and" + Hb "in" + H4735 מִקְנֶה "something bought, i.e. property…" [HC/R/Ncmsc]
+- o12: הַ/צֹּאן = Hd "the" + H6629 צֹאן "a collective name for a flock (of sheep or goats)…" [HTd/Ncbsa]
+- o13: וּ/בְ/מִקְנֵה = Hc "and" + Hb "in" + H4735 מִקְנֶה "something bought, i.e. property…" [HC/R/Ncmsc]
+- o14: הַ/בָּקָר = Hd "the" + H1241 בָּקָר "beef cattle or an animal of the ox family of…" [HTd/Ncbsa]
+- o15: וּ/בַ/חֲמֹרִים = Hc "and" + Hb "in" + H2543 חֲמוֹר "a male ass (from its dun red)" [HC/Rd/Ncbpa]
+- o16: וַ/יְנַהֲלֵ/ם = Hc "and" + H5095 נָהַל "properly, to run with asparkle, i.e. flow…" [HC/Vpw3ms/Sp3mp]
+- o17: בַּ/לֶּחֶם = Hb "in" + H3899 לֶחֶם "food (for man or beast), especially bread…" [HRd/Ncbsa]
+- o18: בְּ/כָל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o19: מִקְנֵ/הֶם = H4735 מִקְנֶה "something bought, i.e. property…" [HNcmsc/Sp3mp]
+- o20: בַּ/שָּׁנָה = Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HRd/Ncfsa]
+- o21: הַ/הִוא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3fs]

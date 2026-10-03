@@ -862,3 +862,46 @@ Persian entries and current tags:
 - p27: طویل خواهم_ساخت  → H748
 - p28: .
 - p29: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 2:46 (context)
+
+- o1: וַ/יְצַו = Hc "and" + H6680 צָוָה "(intensively) to constitute, enjoin" [HC/Vpw3ms]
+- o2: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: בְּנָיָהוּ = H1141 בְּנָיָה "Benajah, the name of twelve Israelites" [HNp]
+- o5: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o6: יְהוֹיָדָע = H3077 יְהוֹיָדָע "Jehojada, the name of three Israelites" [HNp]
+- o7: וַ/יֵּצֵא = Hc "and" + H3318 יָצָא "to go (causatively, bring) out…" [HC/Vqw3ms]
+- o8: וַ/יִּפְגַּע = Hc "and" + H6293 פָּגַע "to impinge, by accident or violence…" [HC/Vqw3ms]
+- o9: בּ/וֹ = Hb "in" [HR/Sp3ms]
+- o10: וַ/יָּמֹת = Hc "and" + H4191 מוּת "to die (literally or figuratively)…" [HC/Vqw3ms]
+- o11: וְ/הַ/מַּמְלָכָה = Hc "and" + Hd "the" + H4467 מַמְלָכָה "dominion…" [HC/Td/Ncfsa]
+- o12: נָכוֹנָה = H3559 כּוּן "properly, to be erect (i.e. stand perpendicular)…" [HVNp3fs]
+- o13: בְּ/יַד = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o14: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+
+### I Kings 3:15 (context)
+
+- o1: וַ/יִּקַץ = Hc "and" + H3364 יָקַץ "to awake (intransitive)" [HC/Vqw3ms]
+- o2: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o3: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o4: חֲלוֹם = H2472 חֲלוֹם "a dream" [HNcmsa]
+- o5: וַ/יָּבוֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3ms]
+- o6: יְרוּשָׁלִַם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+- o7: וַ/יַּעֲמֹד = Hc "and" + H5975 עָמַד "to stand…" [HC/Vqw3ms]
+- o8: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o9: אֲרוֹן = H727 אָרוֹן "a box" [HNcbsc]
+- o10: בְּרִית = H1285 בְּרִית "a compact (because made by passing between pieces…" [HNcfsc]
+- o11: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o12: וַ/יַּעַל = Hc "and" + H5927 עָלָה "to ascend…" [HC/Vhw3ms]
+- o13: עֹלוֹת = H5930 עֹלָה "a step or (collectively, stairs, as ascending)…" [HNcfpa]
+- o14: וַ/יַּעַשׂ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3ms]
+- o15: שְׁלָמִים = H8002 שֶׁלֶם "properly, requital…" [HNcmpa]
+- o16: וַ/יַּעַשׂ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3ms]
+- o17: מִשְׁתֶּה = H4960 מִשְׁתֶּה "drink, by implication, drinking (the act)…" [HNcmsa]
+- o18: לְ/כָל = Hl "to" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o19: עֲבָדָי/ו = H5650 עֶבֶד "a servant" [HNcmpc/Sp3ms]

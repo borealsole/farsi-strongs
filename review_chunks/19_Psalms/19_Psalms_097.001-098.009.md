@@ -778,3 +778,34 @@ Persian entries and current tags:
 - p22: به  → Hb
 - p23: انصاف  → H4339
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 96:13 (context)
+
+- o1: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o4: בָא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3ms]
+- o5: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o6: בָא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3ms]
+- o7: לִ/שְׁפֹּט = Hl "to" + H8199 שָׁפַט "to judge…" [HR/Vqc]
+- o8: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o9: יִשְׁפֹּט = H8199 שָׁפַט "to judge…" [HVqi3ms]
+- o10: תֵּבֵל = H8398 תֵּבֵל "the earth (as moist and therefore inhabited)…" [HNcfsa]
+- o11: בְּ/צֶדֶק = Hb "in" + H6664 צֶדֶק "the right (natural, moral or legal)…" [HR/Ncmsa]
+- o12: וְ/עַמִּים = Hc "and" + H5971 עַם "a people (as a congregated unit)…" [HC/Ncmpa]
+- o13: בֶּ/אֱמוּנָת/וֹ = Hb "in" + H530 אֱמוּנָה "literally firmness; figuratively security…" [HR/Ncfsc/Sp3ms]
+
+### Psalms 99:1 (context)
+
+- o1: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o2: מָלָךְ = H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HVqp3ms]
+- o3: יִרְגְּזוּ = H7264 רָגַז "to quiver (with any violent emotion…" [HVqi3mp]
+- o4: עַמִּים = H5971 עַם "a people (as a congregated unit)…" [HNcmpa]
+- o5: יֹשֵׁב = H3427 יָשַׁב "properly…" [HVqrmsa]
+- o6: כְּרוּבִים = H3742 כְּרוּב "a cherub or imaginary figure" [HNcmpa]
+- o7: תָּנוּט = H5120 נוּט "to quake" [HVqi3fs]
+- o8: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]

@@ -1351,3 +1351,51 @@ Persian entries and current tags:
 - p30: را  → H853
 - p31: ترک می‌کرد  → H5493
 - p32: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 15:35 (context)
+
+- o1: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o2: יָסַף = H3254 יָסַף "to add or augment (often adverbial…" [HVqp3ms]
+- o3: שְׁמוּאֵל = H8050 שְׁמוּאֵל "Shemuel, the name of three Israelites" [HNp]
+- o4: לִ/רְאוֹת = Hl "to" + H7200 רָאָה "to see…" [HR/Vqc]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o7: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o8: יוֹם = H3117 יוֹם "a day (as the warm hours)…" [HNcmsc]
+- o9: מוֹת/וֹ = H4194 מָוֶת "death (natural or violent)…" [HNcmsc/Sp3ms]
+- o10: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o11: הִתְאַבֵּל = H56 אָבַל "to bewail" [HVtp3ms]
+- o12: שְׁמוּאֵל = H8050 שְׁמוּאֵל "Shemuel, the name of three Israelites" [HNp]
+- o13: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o14: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o15: וַ/יהוָה = Hc "and" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HC/Np]
+- o16: נִחָם = H5162 נָחַם "properly, to sigh, i.e. breathe strongly…" [HVNp3ms]
+- o17: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o18: הִמְלִיךְ = H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HVhp3ms]
+- o19: אֶת = H853 אֵת "properly…" [HTo]
+- o20: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o21: עַל = H5921 עַל "above, over, upon…" [HR]
+- o22: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+
+### I Samuel 17:1 (context)
+
+- o1: וַ/יַּאַסְפוּ = Hc "and" + H622 אָסַף "to gather for any purpose…" [HC/Vqw3mp]
+- o2: פְלִשְׁתִּים = H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HNgmpa]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: מַחֲנֵי/הֶם = H4264 מַחֲנֶה "an encampment (of travellers or troops)…" [HNcbpc/Sp3mp]
+- o5: לַ/מִּלְחָמָה = Hl "to" + H4421 מִלְחָמָה "a battle (i.e. the engagement)…" [HRd/Ncfsa]
+- o6: וַ/יֵּאָסְפוּ = Hc "and" + H622 אָסַף "to gather for any purpose…" [HC/VNw3mp]
+- o7: שֹׂכֹה = H7755 שׂוֹכֹה "Sokoh or Soko, the name of two places in Palestine" [HNp]
+- o8: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o9: לִ/יהוּדָה = Hl "to" + H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HR/Np]
+- o10: וַ/יַּחֲנוּ = Hc "and" + H2583 חָנָה "properly, to incline…" [HC/Vqw3mp]
+- o11: בֵּין = H996 בֵּין "between (repeated before each noun…" [HR]
+- o12: שׂוֹכֹה = H7755 שׂוֹכֹה "Sokoh or Soko, the name of two places in Palestine" [HNp]
+- o13: וּ/בֵין = Hc "and" + H996 בֵּין "between (repeated before each noun…" [HC/R]
+- o14: עֲזֵקָה = H5825 עֲזֵקָה "Azekah, a place in Palestine" [HNp]
+- o15: בְּ/אֶפֶס = Hb "in" + H658 אֶפֶס דַּמִּים "Ephes-Dammim, a place in Palestine" [HR/Np]
+- o16: דַּמִּים = H658 אֶפֶס דַּמִּים "Ephes-Dammim, a place in Palestine" [HNp]

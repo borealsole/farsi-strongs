@@ -683,3 +683,30 @@ Persian entries and current tags:
 - p12: نابودشان فرما  → H8045
 - p13: .
 - p14: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Lamentations 3:44 (context)
+
+- o1: סַכּוֹתָה = H5526 סָכַךְ "properly, to entwine as ascreen…" [HVqp2ms]
+- o2: בֶ/עָנָן = Hb "in" + H6051 עָנָן "a cloud (as covering the sky)…" [HRd/Ncmsa]
+- o3: לָ/ךְ = Hl "to" [HR/Sp2fs]
+- o4: מֵ/עֲבוֹר = Hm "from" + H5674 עָבַר "to cross over…" [HR/Vqc]
+- o5: תְּפִלָּה = H8605 תְּפִלָּה "intercession, supplication; by implication, a hymn" [HNcfsa]
+
+### Lamentations 4:1 (context)
+
+- o1: אֵיכָה = H349 אֵיךְ "how? or how!; also where" [HTi]
+- o2: יוּעַם = H6004 עָמַם "to associate…" [HVHi3ms]
+- o3: זָהָב = H2091 זָהָב "gold, figuratively…" [HNcmsa]
+- o4: יִשְׁנֶא = H8132 שָׁנָא "to alter" [HVqi3ms]
+- o5: הַ/כֶּתֶם = Hd "the" + H3800 כֶּתֶם "properly, something carved out, i.e. ore…" [HTd/Ncmsa]
+- o6: הַ/טּוֹב = Hd "the" + H2896 טוֹב "good (as an adjective) in the widest sense…" [HTd/Aamsa]
+- o7: תִּשְׁתַּפֵּכְנָה = H8210 שָׁפַךְ "to spill forth (blood, a libation, liquid metal…" [HVti3fp]
+- o8: אַבְנֵי = H68 אֶבֶן "a stone" [HNcfpc]
+- o9: קֹדֶשׁ = H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HNcmsa]
+- o10: בְּ/רֹאשׁ = Hb "in" + H7218 רֹאשׁ "the head (as most easily shaken)…" [HR/Ncmsc]
+- o11: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o12: חוּצוֹת = H2351 חוּץ "properly, separate by awall, i.e. outside…" [HNcmpa]

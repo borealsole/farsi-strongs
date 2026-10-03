@@ -883,3 +883,46 @@ Persian entries and current tags:
 - p18: بیشترند  → H7227
 - p19: .
 - p20: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 5:27 (context)
+
+- o1: וְ/צָרַעַת = Hc "and" + H6883 צָרַעַת "leprosy" [HC/Ncfsc]
+- o2: נַעֲמָן = H5283 נַעֲמָן "Naaman…" [HNp]
+- o3: תִּדְבַּק = H1692 דָּבַק "properly, to impinge, i.e. cling or adhere…" [HVqi3fs]
+- o4: בְּ/ךָ = Hb "in" [HR/Sp2ms]
+- o5: וּ/בְ/זַרְעֲ/ךָ = Hc "and" + Hb "in" + H2233 זֶרַע "seed…" [HC/R/Ncmsc/Sp2ms]
+- o6: לְ/עוֹלָם = Hl "to" + H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HR/Ncmsa]
+- o7: וַ/יֵּצֵא = Hc "and" + H3318 יָצָא "to go (causatively, bring) out…" [HC/Vqw3ms]
+- o8: מִ/לְּ/פָנָי/ו = Hm "from" + Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/R/Ncbpc/Sp3ms]
+- o9: מְצֹרָע = H6879 צָרַע "to scourge…" [HVPsmsa]
+- o10: כַּ/שָּׁלֶג = Hk "like" + H7950 שֶׁלֶג "snow (probably from its whiteness)" [HRd/Ncmsa]
+
+### II Kings 6:17 (context)
+
+- o1: וַ/יִּתְפַּלֵּל = Hc "and" + H6419 פָּלַל "to judge (officially or mentally)…" [HC/Vtw3ms]
+- o2: אֱלִישָׁע = H477 אֱלִישָׁע "Elisha, the famous prophet" [HNp]
+- o3: וַ/יֹּאמַר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: פְּקַח = H6491 פָּקַח "to open (the senses, especially the eyes)…" [HVqv2ms]
+- o6: נָא = H4994 נָא "'I pray', 'now', or 'then'…" [HTe]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: עֵינָי/ו = H5869 עַיִן "an eye (literally or figuratively)…" [HNcbdc/Sp3ms]
+- o9: וְ/יִרְאֶה = Hc "and" + H7200 רָאָה "to see…" [HC/Vqi3ms]
+- o10: וַ/יִּפְקַח = Hc "and" + H6491 פָּקַח "to open (the senses, especially the eyes)…" [HC/Vqw3ms]
+- o11: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o12: אֶת = H853 אֵת "properly…" [HTo]
+- o13: עֵינֵי = H5869 עַיִן "an eye (literally or figuratively)…" [HNcbdc]
+- o14: הַ/נַּעַר = Hd "the" + H5288 נַעַר "concretely) a boy (as active)…" [HTd/Ncmsa]
+- o15: וַ/יַּרְא = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw3ms]
+- o16: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o17: הָ/הָר = Hd "the" + H2022 הַר "a mountain or range of hills (sometimes used…" [HTd/Ncmsa]
+- o18: מָלֵא = H4390 מָלֵא "to fill or (intransitively) be full of…" [HVqrmsa]
+- o19: סוּסִים = H5483 סוּס "a horse (as leaping)…" [HNcmpa]
+- o20: וְ/רֶכֶב = Hc "and" + H7393 רֶכֶב "a vehicle; by implication, a team…" [HC/Ncmsc]
+- o21: אֵשׁ = H784 אֵשׁ "fire (literally or figuratively)" [HNcbsa]
+- o22: סְבִיבֹת = H5439 סָבִיב "as noun) a circle, neighbour, or environs…" [HNcbpc]
+- o23: אֱלִישָׁע = H477 אֱלִישָׁע "Elisha, the famous prophet" [HNp]

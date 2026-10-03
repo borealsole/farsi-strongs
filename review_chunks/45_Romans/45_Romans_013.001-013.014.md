@@ -844,3 +844,35 @@ Persian entries and current tags:
 - p14: خود
 - p15: مباشید  → G3361
 - p16: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Romans 12:21 (context)
+
+- o1: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o2: νικῶ = G3528 νικάω "conquer, overcome, prevail, get the victory" [V-PPM-2S]
+- o3: ὑπὸ = G5259 ὑπό "among, by, from, in, of, under, with" [PREP]
+- o4: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
+- o5: κακοῦ, = G2556 κακός "bad, evil, harm, ill, noisome, wicked" [A-GSN]
+- o6: ἀλλὰ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o7: νίκα = G3528 νικάω "conquer, overcome, prevail, get the victory" [V-PAM-2S]
+- o8: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o9: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSN]
+- o10: ἀγαθῷ = G18 ἀγαθός "benefit, good(-s, things), well" [A-DSN]
+- o11: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o12: κακόν. = G2556 κακός "bad, evil, harm, ill, noisome, wicked" [A-ASN]
+
+### Romans 14:1 (context)
+
+- o1: Τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: ἀσθενοῦντα = G770 ἀσθενέω "be diseased, impotent folk (man), (be) sick, (be…" [V-PAP-ASM]
+- o4: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o5: πίστει = G4102 πίστις "assurance, belief, believe, faith, fidelity" [N-DSF]
+- o6: προσλαμβάνεσθε, = G4355 προσλαμβάνω "receive, take (unto)" [V-PMM-2P]
+- o7: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o8: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o9: διακρίσεις = G1253 διάκρισις "discern(-ing), disputation" [N-APF]
+- o10: διαλογισμῶν. = G1261 διαλογισμός "dispute, doubtful(-ing), imagination, reasoning…" [N-GPM]

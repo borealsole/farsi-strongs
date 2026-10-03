@@ -604,3 +604,40 @@ Persian entries and current tags:
 - p23: تن  → H1004
 - p24: بودند
 - p25: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 4:43 (context)
+
+- o1: וַ/יַּכּוּ = Hc "and" + H5221 נָכָה "to strike (lightly or severely…" [HC/Vhw3mp]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: שְׁאֵרִית = H7611 שְׁאֵרִית "a remainder or residual (surviving, final) portion" [HNcfsc]
+- o4: הַ/פְּלֵטָה = Hd "the" + H6413 פְּלֵיטָה "deliverance; concretely, an escaped portion" [HTd/Ncfsa]
+- o5: לַ/עֲמָלֵק = Hl "to" + H6002 עֲמָלֵק "Amalek, a descendant of Esau…" [HR/Np]
+- o6: וַ/יֵּשְׁבוּ = Hc "and" + H3427 יָשַׁב "properly…" [HC/Vqw3mp]
+- o7: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o8: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o9: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o10: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+
+### I Chronicles 5:14 (context)
+
+- o1: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o2: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o3: אֲבִיחַיִל = H32 אֲבִיהַיִל "Abihail or Abichail…" [HNp]
+- o4: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o5: חוּרִי = H2359 חוּרִי "Churi, an Israelite" [HNp]
+- o6: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o7: יָרוֹחַ = H3386 יָרוֹחַ "Jaroach, an Israelite" [HNp]
+- o8: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o9: גִּלְעָד = H1568 גִּלְעָד "Gilad, a region East of the Jordan…" [HNp]
+- o10: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o11: מִיכָאֵל = H4317 מִיכָאֵל "Mikael…" [HNp]
+- o12: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o13: יְשִׁישַׁי = H3454 יְשִׁישָׁי "Jeshishai, an Israelite" [HNp]
+- o14: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o15: יַחְדּוֹ = H3163 יַחְדוֹ "Jachdo, an Israelite" [HNp]
+- o16: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o17: בּוּז = H938 בּוּז "Buz, the name of a son of Nahor…" [HNp]

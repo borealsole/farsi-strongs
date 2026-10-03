@@ -806,3 +806,40 @@ Persian entries and current tags:
 - p38: آغاز
 - p39: خواهند_کرد
 - p40: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 38:23 (context)
+
+- o1: וְ/הִתְגַּדִּלְתִּי = Hc "and" + H1431 גָּדַל "to be (causatively make) large (in various senses…" [HC/Vtq1cs]
+- o2: וְ/הִתְקַדִּשְׁתִּי = Hc "and" + H6942 קָדַשׁ "to be (causatively, make…" [HC/Vtq1cs]
+- o3: וְ/נוֹדַעְתִּי = Hc "and" + H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HC/VNq1cs]
+- o4: לְ/עֵינֵי = Hl "to" + H5869 עַיִן "an eye (literally or figuratively)…" [HR/Ncbdc]
+- o5: גּוֹיִם = H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HNcmpa]
+- o6: רַבִּים = H7227 רַב "abundant (in quantity, size, age, number, rank…" [HAampa]
+- o7: וְ/יָדְעוּ = Hc "and" + H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HC/Vqq3cp]
+- o8: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o9: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o10: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### Ezekiel 39:15 (context)
+
+- o1: וְ/עָבְרוּ = Hc "and" + H5674 עָבַר "to cross over…" [HC/Vqq3cp]
+- o2: הָ/עֹבְרִים = Hd "the" + H5674 עָבַר "to cross over…" [HTd/Vqrmpa]
+- o3: בָּ/אָרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HRd/Ncbsa]
+- o4: וְ/רָאָה = Hc "and" + H7200 רָאָה "to see…" [HC/Vqq3ms]
+- o5: עֶצֶם = H6106 עֶצֶם "a bone (as strong); by extension, the body…" [HNcfsc]
+- o6: אָדָם = H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HNcmsa]
+- o7: וּ/בָנָה = Hc "and" + H1129 בָּנָה "to build (literally and figuratively)" [HC/Vqq3ms]
+- o8: אֶצְל/וֹ = H681 אֵצֶל "a side; (as a preposition) near" [HR/Sp3ms]
+- o9: צִיּוּן = H6725 צִיּוּן "a monumental or guiding pillar" [HNcmsa]
+- o10: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o11: קָבְרוּ = H6912 קָבַר "to inter" [HVqp3cp]
+- o12: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o13: הַ/מְקַבְּרִים = Hd "the" + H6912 קָבַר "to inter" [HTd/Vprmpa]
+- o14: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o15: גֵּיא = H1516 גַּיְא "a gorge (from its lofty sides…" [HNcbsc]
+- o16: הֲמוֹן = H1996 הֲמוֹן גּוֹג "the multitude of Gog…" [HNp]
+- o17: גּוֹג = H1996 הֲמוֹן גּוֹג "the multitude of Gog…" [HNp]

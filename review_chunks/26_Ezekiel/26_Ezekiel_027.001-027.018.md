@@ -842,3 +842,35 @@ Persian entries and current tags:
 - p17: تو
 - p18: مبادله می‌کرد  → H5503
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 26:21 (context)
+
+- o1: בַּלָּהוֹת = H1091 בַּלָּהָה "alarm; hence, destruction" [HNcfpa]
+- o2: אֶתְּנֵ/ךְ = H5414 נָתַן "to give…" [HVqi1cs/Sp2fs]
+- o3: וְ/אֵינֵ/ךְ = Hc "and" + H369 אַיִן "a non-entity…" [HC/Tn/Sp2fs]
+- o4: וּ/תְבֻקְשִׁי = Hc "and" + H1245 בָּקַשׁ "to search out (by any method…" [HC/VPi2fs]
+- o5: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o6: תִמָּצְאִי = H4672 מָצָא "properly, to come forth to, i.e. appear or exist…" [HVNi2fs]
+- o7: עוֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+- o8: לְ/עוֹלָם = Hl "to" + H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HR/Ncmsa]
+- o9: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o10: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o11: יְהֹוִה = H3069 יְהֹוִה "YHWH" [HNp]
+
+### Ezekiel 27:19 (context)
+
+- o1: וְדָן = H2051 וְדָן "Vedan (or Aden), a place in Arabia" [HNp]
+- o2: וְ/יָוָן = Hc "and" + H3120 יָוָן "Javan, the name of a son of Joktan…" [HC/Np]
+- o3: מְ/אוּזָּל = Hm "from" + H187 אוּזָל "Uzal, a son of Joktan" [HR/Np]
+- o4: בְּ/עִזְבוֹנַיִ/ךְ = Hb "in" + H5801 עִזָּבוֹן "trade…" [HR/Ncmpc/Sp2fs]
+- o5: נָתָנּוּ = H5414 נָתַן "to give…" [HVqp3cp]
+- o6: בַּרְזֶל = H1270 בַּרְזֶל "iron (as cutting); by extension, an iron implement" [HNcmsa]
+- o7: עָשׁוֹת = H6219 עָשׁוֹת "shining, i.e. polished" [HAamsa]
+- o8: קִדָּה = H6916 קִדָּה "cassia bark (as in shrivelled rolls)" [HNcfsa]
+- o9: וְ/קָנֶה = Hc "and" + H7070 קָנֶה "a reed (as erect)…" [HC/Ncmsa]
+- o10: בְּ/מַעֲרָבֵ/ךְ = Hb "in" + H4627 מַעֲרָב "traffic; by implication, mercantile goods" [HR/Ncmsc/Sp2fs]
+- o11: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]

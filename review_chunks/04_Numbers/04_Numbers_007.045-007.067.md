@@ -1028,3 +1028,25 @@ Persian entries and current tags:
 - p39: آردی  → H4503
 - p40: بودند
 - p41: ؛
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 7:44 (context)
+
+- o1: כַּף = H3709 כַּף "the hollow hand or palm (so of the paw of an…" [HNcfsc]
+- o2: אַחַת = H259 אֶחָד "properly, united, i.e. one…" [HAcfsa]
+- o3: עֲשָׂרָה = H6235 עֶשֶׂר "ten (as an accumulation to the extent of the…" [HAcmsa]
+- o4: זָהָב = H2091 זָהָב "gold, figuratively…" [HNcmsa]
+- o5: מְלֵאָה = H4392 מָלֵא "full (literally or figuratively) or filling…" [HAafsa]
+- o6: קְטֹרֶת = H7004 קְטֹרֶת "a fumigation" [HNcfsa]
+
+### Numbers 7:68 (context)
+
+- o1: כַּף = H3709 כַּף "the hollow hand or palm (so of the paw of an…" [HNcfsc]
+- o2: אַחַת = H259 אֶחָד "properly, united, i.e. one…" [HAcfsa]
+- o3: עֲשָׂרָה = H6235 עֶשֶׂר "ten (as an accumulation to the extent of the…" [HAcmsa]
+- o4: זָהָב = H2091 זָהָב "gold, figuratively…" [HNcmsa]
+- o5: מְלֵאָה = H4392 מָלֵא "full (literally or figuratively) or filling…" [HAafsa]
+- o6: קְטֹרֶת = H7004 קְטֹרֶת "a fumigation" [HNcfsa]

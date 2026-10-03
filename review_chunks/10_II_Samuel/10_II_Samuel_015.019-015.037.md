@@ -1143,3 +1143,57 @@ Persian entries and current tags:
 - p17: شهر  → H5892
 - p18: درآمد
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 15:18 (context)
+
+- o1: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o2: עֲבָדָי/ו = H5650 עֶבֶד "a servant" [HNcmpc/Sp3ms]
+- o3: עֹבְרִים = H5674 עָבַר "to cross over…" [HVqrmpa]
+- o4: עַל = H5921 עַל "above, over, upon…" [HR]
+- o5: יָד/וֹ = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsc/Sp3ms]
+- o6: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o7: הַ/כְּרֵתִי = Hd "the" + H3774 כְּרֵתִי "a Kerethite or life-guardsman" [HTd/Ngmsa]
+- o8: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o9: הַ/פְּלֵתִי = Hd "the" + H6432 פְּלֵתִי "a courier (collectively) or official messenger" [HTd/Ngmsa]
+- o10: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o11: הַ/גִּתִּים = Hd "the" + H1663 גִּתִּי "a Gittite or inhabitant of Gath" [HRd/Ngmsa]
+- o12: שֵׁשׁ = H8337 שֵׁשׁ "six (as an overplus beyond five or the fingers of…" [HAcfsa]
+- o13: מֵאוֹת = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbpa]
+- o14: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o15: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o16: בָּאוּ = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3cp]
+- o17: בְ/רַגְל/וֹ = Hb "in" + H7272 רֶגֶל "a foot (as used in walking)…" [HR/Ncfsc/Sp3ms]
+- o18: מִ/גַּת = Hm "from" + H1661 גַּת "Gath, a Philistine city" [HR/Np]
+- o19: עֹבְרִים = H5674 עָבַר "to cross over…" [HVqrmpa]
+- o20: עַל = H5921 עַל "above, over, upon…" [HR]
+- o21: פְּנֵי = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc]
+- o22: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+
+### II Samuel 16:1 (context)
+
+- o1: וְ/דָוִד = Hc "and" + H1732 דָּוִד "David, the youngest son of Jesse" [HC/Np]
+- o2: עָבַר = H5674 עָבַר "to cross over…" [HVqp3ms]
+- o3: מְעַט = H4592 מְעַט "a little or few (often adverbial or compar.)" [HNcmsa]
+- o4: מֵ/הָ/רֹאשׁ = Hm "from" + Hd "the" + H7218 רֹאשׁ "the head (as most easily shaken)…" [HR/Td/Ncmsa]
+- o5: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o6: צִיבָא = H6717 צִיבָא "Tsiba, an Israelite" [HNp]
+- o7: נַעַר = H5288 נַעַר "concretely) a boy (as active)…" [HNcmsc]
+- o8: מְפִי = H4648 מְפִיבֹשֶׁת "Mephibosheth, the name of two Israelites" [HNp]
+- o9: בֹשֶׁת = H4648 מְפִיבֹשֶׁת "Mephibosheth, the name of two Israelites" [HNp]
+- o10: לִ/קְרָאת/וֹ = Hl "to" + H7122 קָרָא "to encounter…" [HR/Vqc/Sp3ms]
+- o11: וְ/צֶמֶד = Hc "and" + H6776 צֶמֶד "hence…" [HC/Ncmsc]
+- o12: חֲמֹרִים = H2543 חֲמוֹר "a male ass (from its dun red)" [HNcbpa]
+- o13: חֲבֻשִׁים = H2280 חָבַשׁ "to wrap firmly (especially a turban, compress…" [HVqsmpa]
+- o14: וַ/עֲלֵי/הֶם = Hc "and" + H5921 עַל "above, over, upon…" [HC/R/Sp3mp]
+- o15: מָאתַיִם = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbda]
+- o16: לֶחֶם = H3899 לֶחֶם "food (for man or beast), especially bread…" [HNcbsa]
+- o17: וּ/מֵאָה = Hc "and" + H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HC/Acbsa]
+- o18: צִמּוּקִים = H6778 צַמּוּק "a cake of dried grapes" [HNcmpa]
+- o19: וּ/מֵאָה = Hc "and" + H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HC/Acbsa]
+- o20: קַיִץ = H7019 קַיִץ "harvest (as the crop)…" [HNcmsa]
+- o21: וְ/נֵבֶל = Hc "and" + H5035 נֶבֶל "a skin-bag for liquids (from collapsing when…" [HC/Ncmsc]
+- o22: יָיִן = H3196 יַיִן "wine (as fermented); by implication, intoxication" [HNcmsa]

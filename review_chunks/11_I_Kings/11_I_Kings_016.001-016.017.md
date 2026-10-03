@@ -971,3 +971,43 @@ Persian entries and current tags:
 - p13: را
 - p14: محاصره کردند  → H6696
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 15:34 (context)
+
+- o1: וַ/יַּעַשׂ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3ms]
+- o2: הָ/רַע = Hd "the" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HTd/Aamsa]
+- o3: בְּ/עֵינֵי = Hb "in" + H5869 עַיִן "an eye (literally or figuratively)…" [HR/Ncbdc]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: וַ/יֵּלֶךְ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3ms]
+- o6: בְּ/דֶרֶךְ = Hb "in" + H1870 דֶּרֶךְ "a road (as trodden)…" [HR/Ncbsc]
+- o7: יָרָבְעָם = H3379 יָרׇבְעָם "Jarobam, the name of two Israelite kings" [HNp]
+- o8: וּ/בְ/חַטָּאת/וֹ = Hc "and" + Hb "in" + H2403 חַטָּאָה "an offence (sometimes habitual sinfulness)…" [HC/R/Ncfsc/Sp3ms]
+- o9: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o10: הֶחֱטִיא = H2398 חָטָא "properly, to miss…" [HVhp3ms]
+- o11: אֶת = H853 אֵת "properly…" [HTo]
+- o12: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+
+### I Kings 16:18 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: כִּ/רְאוֹת = Hk "like" + H7200 רָאָה "to see…" [HR/Vqc]
+- o3: זִמְרִי = H2174 זִמְרִי "Zimri, the name of five Israelites…" [HNp]
+- o4: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o5: נִלְכְּדָה = H3920 לָכַד "to catch (in a net, trap or pit)…" [HVNp3fs]
+- o6: הָ/עִיר = Hd "the" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HTd/Ncfsa]
+- o7: וַ/יָּבֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3ms]
+- o8: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o9: אַרְמוֹן = H759 אַרְמוֹן "a citadel (from its height)" [HNcmsc]
+- o10: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o11: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o12: וַ/יִּשְׂרֹף = Hc "and" + H8313 שָׂרַף "to be (causatively, set) on fire" [HC/Vqw3ms]
+- o13: עָלָי/ו = H5921 עַל "above, over, upon…" [HR/Sp3ms]
+- o14: אֶת = H853 אֵת "properly…" [HTo]
+- o15: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o16: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsa]
+- o17: בָּ/אֵשׁ = Hb "in" + H784 אֵשׁ "fire (literally or figuratively)" [HRd/Ncbsa]
+- o18: וַ/יָּמֹת = Hc "and" + H4191 מוּת "to die (literally or figuratively)…" [HC/Vqw3ms]

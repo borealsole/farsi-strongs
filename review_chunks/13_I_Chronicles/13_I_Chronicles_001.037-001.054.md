@@ -701,3 +701,31 @@ Persian entries and current tags:
 - p7: اَدوم  → H123
 - p8: بودند
 - p9: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 1:36 (context)
+
+- o1: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o2: אֱלִיפָז = H464 אֱלִיפַז "Eliphaz, the name of one of Job's friends…" [HNp]
+- o3: תֵּימָן = H8487 תֵּימָן "Teman, the name of two Edomites…" [HNp]
+- o4: וְ/אוֹמָר = Hc "and" + H201 אוֹמָר "Omar, a grandson of Esau" [HC/Np]
+- o5: צְפִי = H6825 צְפוֹ "Tsepho or Tsephi, an Idumaean" [HNp]
+- o6: וְ/גַעְתָּם = Hc "and" + H1609 גַּעְתָּם "Gatam, an Edomite" [HC/Np]
+- o7: קְנַז = H7073 קְנַז "Kenaz…" [HNp]
+- o8: וְ/תִמְנָע = Hc "and" + H8555 תִּמְנָע "Timna, the name of two Edomites" [HC/Np]
+- o9: וַ/עֲמָלֵק = Hc "and" + H6002 עֲמָלֵק "Amalek, a descendant of Esau…" [HC/Np]
+
+### I Chronicles 2:1 (context)
+
+- o1: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o2: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o3: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o4: רְאוּבֵן = H7205 רְאוּבֵן "Reuben, a son of Jacob" [HNp]
+- o5: שִׁמְעוֹן = H8095 שִׁמְעוֹן "Shimon, one of Jacob's sons…" [HNp]
+- o6: לֵוִי = H3878 לֵוִי "Levi, a son of Jacob" [HNp]
+- o7: וִ/יהוּדָה = Hc "and" + H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HC/Np]
+- o8: יִשָׂשכָר = H3485 יִשָּׂשכָר "Jissaskar, a son of Jacob" [HNp]
+- o9: וּ/זְבֻלוּן = Hc "and" + H2074 זְבוּלוּן "Zebulon, a son of Jacob…" [HC/Np]

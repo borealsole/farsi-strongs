@@ -867,3 +867,48 @@ Persian entries and current tags:
 - p12: سرزمین  → H776
 - p13: پیچید
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Joshua 6:14 (context)
+
+- o1: וַ/יָּסֹבּוּ = Hc "and" + H5437 סָבַב "to revolve, surround, or border…" [HC/Vqw3mp]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: הָ/עִיר = Hd "the" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HTd/Ncfsa]
+- o4: בַּ/יּוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
+- o5: הַ/שֵּׁנִי = Hd "the" + H8145 שֵׁנִי "properly, double, i.e. second…" [HTd/Aomsa]
+- o6: פַּעַם = H6471 פַּעַם "a stroke…" [HNcfsc]
+- o7: אַחַת = H259 אֶחָד "properly, united, i.e. one…" [HAcfsa]
+- o8: וַ/יָּשֻׁבוּ = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqw3mp]
+- o9: הַ/מַּחֲנֶה = Hd "the" + H4264 מַחֲנֶה "an encampment (of travellers or troops)…" [HTd/Ncbsa]
+- o10: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o11: עָשׂוּ = H6213 עָשָׂה "to do or make…" [HVqp3cp]
+- o12: שֵׁשֶׁת = H8337 שֵׁשׁ "six (as an overplus beyond five or the fingers of…" [HAcmsc]
+- o13: יָמִים = H3117 יוֹם "a day (as the warm hours)…" [HNcmpa]
+
+### Joshua 7:1 (context)
+
+- o1: וַ/יִּמְעֲלוּ = Hc "and" + H4603 מָעַל "properly, to cover up…" [HC/Vqw3mp]
+- o2: בְנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o3: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o4: מַעַל = H4604 מַעַל "treachery, i.e. sin" [HNcmsa]
+- o5: בַּ/חֵרֶם = Hb "in" + H2764 חֵרֶם "physical (as shutting in) a net (either literally…" [HRd/Ncmsa]
+- o6: וַ/יִּקַּח = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqw3ms]
+- o7: עָכָן = H5912 עָכָן "Akan, an Israelite" [HNp]
+- o8: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o9: כַּרְמִי = H3756 כַּרְמִי "Karmi, the name of three Israelites" [HNp]
+- o10: בֶן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o11: זַבְדִּי = H2067 זַבְדִּי "Zabdi, the name of four Israelites" [HNp]
+- o12: בֶן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o13: זֶרַח = H2226 זֶרַח "Zerach, the name of three Israelites…" [HNp]
+- o14: לְ/מַטֵּה = Hl "to" + H4294 מַטֶּה "a branch (as extending); figuratively, a tribe…" [HR/Ncmsc]
+- o15: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o16: מִן = H4480 מִן "properly, a part of…" [HR]
+- o17: הַ/חֵרֶם = Hd "the" + H2764 חֵרֶם "physical (as shutting in) a net (either literally…" [HTd/Ncmsa]
+- o18: וַ/יִּחַר = Hc "and" + H2734 חָרָה "to glow or grow warm…" [HC/Vqw3ms]
+- o19: אַף = H639 אַף "properly, the nose or nostril…" [HTa]
+- o20: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o21: בִּ/בְנֵי = Hb "in" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmpc]
+- o22: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]

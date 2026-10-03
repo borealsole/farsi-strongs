@@ -630,3 +630,38 @@ Persian entries and current tags:
 - p4: ،
 - p5: اِلیئیل  → H447
 - p6: ،
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 7:40 (context)
+
+- o1: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o2: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o3: בְנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o4: אָשֵׁר = H836 אָשֵׁר "happy…" [HNp]
+- o5: רָאשֵׁי = H7218 רֹאשׁ "the head (as most easily shaken)…" [HNcmpc]
+- o6: בֵית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o7: הָ/אָבוֹת = Hd "the" + H1 אָב "father, in a literal and immediate…" [HTd/Ncmpa]
+- o8: בְּרוּרִים = H1305 בָּרַר "to clarify (i.e. brighten), examine, select" [HVqsmpa]
+- o9: גִּבּוֹרֵי = H1368 גִּבּוֹר "powerful; by implication, warrior, tyrant" [HAampc]
+- o10: חֲיָלִים = H2428 חַיִל "probably a force, whether of men…" [HNcmpa]
+- o11: רָאשֵׁי = H7218 רֹאשׁ "the head (as most easily shaken)…" [HNcmpc]
+- o12: הַ/נְּשִׂיאִים = Hd "the" + H5387 נָשִׂיא "properly, an exalted one, i.e. a king or sheik…" [HTd/Ncmpa]
+- o13: וְ/הִתְיַחְשָׂ/ם = Hc "and" + H3187 יָחַשׂ "to enroll by pedigree" [HC/Vtc/Sp3mp]
+- o14: בַּ/צָּבָא = Hb "in" + H6635 צָבָא "a mass of persons (or figuratively, things)…" [HRd/Ncbsa]
+- o15: בַּ/מִּלְחָמָה = Hb "in" + H4421 מִלְחָמָה "a battle (i.e. the engagement)…" [HRd/Ncfsa]
+- o16: מִסְפָּרָ/ם = H4557 מִסְפָּר "a number…" [HNcmsc/Sp3mp]
+- o17: אֲנָשִׁים = H376 אִישׁ "a man as an individual or a male person…" [HNcmpa]
+- o18: עֶשְׂרִים = H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HAcbpa]
+- o19: וְ/שִׁשָּׁה = Hc "and" + H8337 שֵׁשׁ "six (as an overplus beyond five or the fingers of…" [HC/Acmsa]
+- o20: אָלֶף = H505 אֶלֶף "hence (the ox's head being the first letter of…" [HAcbsa]
+
+### I Chronicles 8:21 (context)
+
+- o1: וַ/עֲדָיָה = Hc "and" + H5718 עֲדָיָה "Adajah, the name of eight Israelites" [HC/Np]
+- o2: וּ/בְרָאיָה = Hc "and" + H1256 בְּרָאיָה "Berajah, an Israelite" [HC/Np]
+- o3: וְ/שִׁמְרָת = Hc "and" + H8119 שִׁמְרָת "Shimrath, an Israelite" [HC/Np]
+- o4: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o5: שִׁמְעִי = H8096 שִׁמְעִי "Shimi, the name of twenty Israelites" [HNp]

@@ -712,3 +712,42 @@ Persian entries and current tags:
 - p38: یهوه  → H3069
 - p39: .
 - p40: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 43:14 (context)
+
+- o1: וּ/מֵ/חֵיק = Hc "and" + Hm "from" + H2436 חֵיק "the bosom (literally or figuratively)" [HC/R/Ncmsc]
+- o2: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o3: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o4: הָ/עֲזָרָה = Hd "the" + H5835 עֲזָרָה "an inclosure; also a border" [HTd/Ncfsa]
+- o5: הַ/תַּחְתּוֹנָה = Hd "the" + H8481 תַּחְתּוֹן "bottommost" [HTd/Aafsa]
+- o6: שְׁתַּיִם = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcfda]
+- o7: אַמּוֹת = H520 אַמָּה "properly, a mother (i.e. unit of measure…" [HNcfpa]
+- o8: וְ/רֹחַב = Hc "and" + H7341 רֹחַב "width (literally or figuratively)" [HC/Ncmsa]
+- o9: אַמָּה = H520 אַמָּה "properly, a mother (i.e. unit of measure…" [HNcfsa]
+- o10: אֶחָת = H259 אֶחָד "properly, united, i.e. one…" [HAcfsa]
+- o11: וּ/מֵ/הֳ/עֲזָרָה = Hc "and" + Hm "from" + Hd "the" + H5835 עֲזָרָה "an inclosure; also a border" [HC/R/Td/Ncfsa]
+- o12: הַ/קְּטַנָּה = Hd "the" + H6996 קָטָן "abbreviated, i.e. diminutive…" [HTd/Aafsa]
+- o13: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o14: הָ/עֲזָרָה = Hd "the" + H5835 עֲזָרָה "an inclosure; also a border" [HTd/Ncfsa]
+- o15: הַ/גְּדוֹלָה = Hd "the" + H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HTd/Aafsa]
+- o16: אַרְבַּע = H702 אַרְבַּע "four" [HAcfsa]
+- o17: אַמּוֹת = H520 אַמָּה "properly, a mother (i.e. unit of measure…" [HNcfpa]
+- o18: וְ/רֹחַב = Hc "and" + H7341 רֹחַב "width (literally or figuratively)" [HC/Ncmsa]
+- o19: הָ/אַמָּה = Hd "the" + H520 אַמָּה "properly, a mother (i.e. unit of measure…" [HTd/Ncfsa]
+
+### Ezekiel 44:1 (context)
+
+- o1: וַ/יָּשֶׁב = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vhw3ms]
+- o2: אֹתִ/י = H853 אֵת "properly…" [HTo/Sp1cs]
+- o3: דֶּרֶךְ = H1870 דֶּרֶךְ "a road (as trodden)…" [HNcbsc]
+- o4: שַׁעַר = H8179 שַׁעַר "an opening, i.e. door or gate" [HNcmsc]
+- o5: הַ/מִּקְדָּשׁ = Hd "the" + H4720 מִקְדָּשׁ "a consecrated thing or place, especially…" [HTd/Ncmsa]
+- o6: הַ/חִיצוֹן = Hd "the" + H2435 חִיצוֹן "properly, the (outer) wall side; hence, exterior…" [HTd/Aamsa]
+- o7: הַ/פֹּנֶה = Hd "the" + H6437 פָּנָה "to turn…" [HTd/Vqrmsa]
+- o8: קָדִים = H6921 קָדִים "the fore or front part…" [HNcmsa]
+- o9: וְ/הוּא = Hc "and" + H1931 הוּא "he (she or it)…" [HC/Pp3ms]
+- o10: סָגוּר = H5462 סָגַר "to shut up; figuratively, to surrender" [HVqsmsa]

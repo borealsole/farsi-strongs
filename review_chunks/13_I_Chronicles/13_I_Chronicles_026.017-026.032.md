@@ -773,3 +773,51 @@ Persian entries and current tags:
 - p45: پادشاه  → H4428
 - p46: نظارت کنند  → H6485
 - p47: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 26:16 (context)
+
+- o1: לְ/שֻׁפִּים = Hl "to" + H8206 שֻׁפִּים "Shuppim, an Israelite" [HR/Np]
+- o2: וּ/לְ/חֹסָה = Hc "and" + Hl "to" + H2621 חֹסָה "Chosah, an Israelite; also a place in Palestine" [HC/R/Np]
+- o3: לַ/מַּעֲרָב = Hl "to" + H4628 מַעֲרָב "the west (as a region of the evening sun)" [HRd/Ncmsa]
+- o4: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o5: שַׁעַר = H8179 שַׁעַר "an opening, i.e. door or gate" [HNcmsc]
+- o6: שַׁלֶּכֶת = H7996 שַׁלֶּכֶת "Shalleketh, a gate in Jerusalem" [HNp]
+- o7: בַּ/מְסִלָּה = Hb "in" + H4546 מְסִלָּה "a thoroughfare (as turnpiked)…" [HRd/Ncfsa]
+- o8: הָ/עוֹלָה = Hd "the" + H5927 עָלָה "to ascend…" [HTd/Vqrfsa]
+- o9: מִשְׁמָר = H4929 מִשְׁמָר "a guard (the man, the post or the prison)…" [HNcmsa]
+- o10: לְ/עֻמַּת = Hl "to" + H5980 עֻמָּה "conjunction, i.e. society…" [HR/Ncfsc]
+- o11: מִשְׁמָר = H4929 מִשְׁמָר "a guard (the man, the post or the prison)…" [HNcmsa]
+
+### I Chronicles 27:1 (context)
+
+- o1: וּ/בְנֵי = Hc "and" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/Ncmpc]
+- o2: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o3: לְ/מִסְפָּרָ/ם = Hl "to" + H4557 מִסְפָּר "a number…" [HR/Ncmsc/Sp3mp]
+- o4: רָאשֵׁי = H7218 רֹאשׁ "the head (as most easily shaken)…" [HNcmpc]
+- o5: הָ/אָבוֹת = Hd "the" + H1 אָב "father, in a literal and immediate…" [HTd/Ncmpa]
+- o6: וְ/שָׂרֵי = Hc "and" + H8269 שַׂר "a head person (of any rank or class)" [HC/Ncmpc]
+- o7: הָ/אֲלָפִים = Hd "the" + H505 אֶלֶף "hence (the ox's head being the first letter of…" [HTd/Acbpa]
+- o8: וְ/הַ/מֵּאוֹת = Hc "and" + Hd "the" + H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HC/Td/Acbpa]
+- o9: וְ/שֹׁטְרֵי/הֶם = Hc "and" + H7860 שֹׁטֵר "properly, a scribe…" [HC/Ncmpc/Sp3mp]
+- o10: הַ/מְשָׁרְתִים = Hd "the" + H8334 שָׁרַת "to attend as a menial or worshipper…" [HTd/Vprmpa]
+- o11: אֶת = H853 אֵת "properly…" [HTo]
+- o12: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o13: לְ/כֹל = Hl "to" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o14: דְּבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o15: הַ/מַּחְלְקוֹת = Hd "the" + H4256 מַחֲלֹקֶת "a section (of Levites, people or soldiers)" [HTd/Ncfpa]
+- o16: הַ/בָּאָה = Hd "the" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HTd/Vqrfsa]
+- o17: וְ/הַ/יֹּצֵאת = Hc "and" + Hd "the" + H3318 יָצָא "to go (causatively, bring) out…" [HC/Td/Vqrfsa]
+- o18: חֹדֶשׁ = H2320 חֹדֶשׁ "the new moon; by implication, a month" [HNcmsa]
+- o19: בְּ/חֹדֶשׁ = Hb "in" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HR/Ncmsa]
+- o20: לְ/כֹל = Hl "to" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o21: חָדְשֵׁי = H2320 חֹדֶשׁ "the new moon; by implication, a month" [HNcmpc]
+- o22: הַ/שָּׁנָה = Hd "the" + H8141 שָׁנֶה "a year (as a revolution of time)" [HTd/Ncfsa]
+- o23: הַ/מַּחֲלֹקֶת = Hd "the" + H4256 מַחֲלֹקֶת "a section (of Levites, people or soldiers)" [HTd/Ncfsa]
+- o24: הָ/אַחַת = Hd "the" + H259 אֶחָד "properly, united, i.e. one…" [HTd/Acfsa]
+- o25: עֶשְׂרִים = H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HAcbpa]
+- o26: וְ/אַרְבָּעָה = Hc "and" + H702 אַרְבַּע "four" [HC/Acmsa]
+- o27: אָלֶף = H505 אֶלֶף "hence (the ox's head being the first letter of…" [HAcbsa]

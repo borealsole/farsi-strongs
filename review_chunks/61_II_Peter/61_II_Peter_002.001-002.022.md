@@ -1197,3 +1197,45 @@ Persian entries and current tags:
 - p25: گِل  → G1004
 - p26: .
 - p27: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Peter 1:21 (context)
+
+- o1: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o2: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o3: θελήματι = G2307 θέλημα "desire, pleasure, will" [N-DSN]
+- o4: ἀνθρώπου = G444 ἄνθρωπος "certain, man" [N-GSM]
+- o5: ἠνέχθη = G5342 φέρω "be, bear, bring (forth), carry, come…" [V-API-3S]
+- o6: ποτέ = G4218 ποτέ "afore-(any, some-)time(-s), at length (the last)…" [PRT]
+- o7: προφητεία, = G4394 προφητεία "prophecy, prophesying" [N-NSF]
+- o8: ἀλλὰ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o9: ὑπὸ = G5259 ὑπό "among, by, from, in, of, under, with" [PREP]
+- o10: πνεύματος = G4151 πνεῦμα "ghost, life, spirit(-ual, -ually), mind" [N-GSN]
+- o11: ἁγίου = G40 ἅγιος "(most) holy (one, thing), saint" [A-GSN]
+- o12: φερόμενοι = G5342 φέρω "be, bear, bring (forth), carry, come…" [V-PPP-NPM]
+- o13: ἐλάλησαν = G2980 λαλέω "preach, say, speak (after), talk, tell, utter" [V-AAI-3P]
+- o14: ἀπὸ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
+- o15: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o16: ἄνθρωποι. = G444 ἄνθρωπος "certain, man" [N-NPM]
+
+### II Peter 3:1 (context)
+
+- o1: Ταύτην = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-ASF]
+- o2: ἤδη, = G2235 ἤδη "already, (even) now (already), by this time" [ADV]
+- o3: ἀγαπητοί, = G27 ἀγαπητός "(dearly, well) beloved, dear" [A-VPM]
+- o4: δευτέραν = G1208 δεύτερος "afterward, again, second(-arily, time)" [A-ASF]
+- o5: ὑμῖν = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
+- o6: γράφω = G1125 γράφω "describe, write(-ing, -ten)" [V-PAI-1S]
+- o7: ἐπιστολήν, = G1992 ἐπιστολή ""epistle," letter" [N-ASF]
+- o8: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o9: αἷς = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-DPF]
+- o10: διεγείρω = G1326 διεγείρω "arise, awake, raise, stir up" [V-PAI-1S]
+- o11: ὑμῶν = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
+- o12: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o13: ὑπομνήσει = G5280 ὑπόμνησις "remembrance" [N-DSF]
+- o14: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o15: εἰλικρινῆ = G1506 εἰλικρινής "pure, sincere" [A-ASF]
+- o16: διάνοιαν, = G1271 διάνοια "imagination, mind, understanding" [N-ASF]

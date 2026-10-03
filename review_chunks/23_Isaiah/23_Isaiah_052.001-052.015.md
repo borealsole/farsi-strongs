@@ -841,3 +841,34 @@ Persian entries and current tags:
 - p31: ،
 - p32: درک خواهند_کرد  → H995
 - p33: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 51:23 (context)
+
+- o1: וְ/שַׂמְתִּי/הָ = Hc "and" + H7760 שׂוּם "to put (used in a great variety of applications…" [HC/Vqq1cs/Sp3fs]
+- o2: בְּ/יַד = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o3: מוֹגַיִ/ךְ = H3013 יָגָה "to grieve" [HVhrmpc/Sp2fs]
+- o4: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o5: אָמְרוּ = H559 אָמַר "to say (used with great latitude)" [HVqp3cp]
+- o6: לְ/נַפְשֵׁ/ךְ = Hl "to" + H5315 נֶפֶשׁ "properly, a breathing creature…" [HR/Ncbsc/Sp2fs]
+- o7: שְׁחִי = H7812 שָׁחָה "to depress, i.e. prostrate (especially reflexive…" [HVqv2fs]
+- o8: וְ/נַעֲבֹרָה = Hc "and" + H5674 עָבַר "to cross over…" [HC/Vqh1cp]
+- o9: וַ/תָּשִׂימִי = Hc "and" + H7760 שׂוּם "to put (used in a great variety of applications…" [HC/Vqw2fs]
+- o10: כָ/אָרֶץ = Hk "like" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HRd/Ncbsa]
+- o11: גֵּוֵ/ךְ = H1460 גֵּו "the back; by analogy, the middle" [HNcmsc/Sp2fs]
+- o12: וְ/כַ/חוּץ = Hc "and" + Hk "like" + H2351 חוּץ "properly, separate by awall, i.e. outside…" [HC/Rd/Ncmsa]
+- o13: לַ/עֹבְרִים = Hl "to" + H5674 עָבַר "to cross over…" [HRd/Vqrmpa]
+
+### Isaiah 53:1 (context)
+
+- o1: מִי = H4310 מִי "who? (occasionally, by a peculiar idiom…" [HTi]
+- o2: הֶאֱמִין = H539 אָמַן "properly, to build up or support…" [HVhp3ms]
+- o3: לִ/שְׁמֻעָתֵ/נוּ = Hl "to" + H8052 שְׁמוּעָה "something heard, i.e. an announcement" [HR/Ncfsc/Sp1cp]
+- o4: וּ/זְרוֹעַ = Hc "and" + H2220 זְרוֹעַ "the arm (as stretched out)…" [HC/Ncbsc]
+- o5: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o6: עַל = H5921 עַל "above, over, upon…" [HR]
+- o7: מִי = H4310 מִי "who? (occasionally, by a peculiar idiom…" [HTi]
+- o8: נִגְלָתָה = H1540 גָּלָה "to denude (especially in a disgraceful sense)…" [HVNp3fs]

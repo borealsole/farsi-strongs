@@ -905,3 +905,32 @@ Persian entries and current tags:
 - p25: خداوند  → H3068
 - p26: تقدیم کنند  → H7126
 - p27: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 7:19 (context)
+
+- o1: וְ/הַ/בָּשָׂר = Hc "and" + Hd "the" + H1320 בָּשָׂר "flesh (from its freshness)…" [HC/Td/Ncmsa]
+- o2: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o3: יִגַּע = H5060 נָגַע "properly, to touch…" [HVqi3ms]
+- o4: בְּ/כָל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o5: טָמֵא = H2931 טָמֵא "foul in a religious sense" [HAamsa]
+- o6: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o7: יֵאָכֵל = H398 אָכַל "to eat (literally or figuratively)" [HVNi3ms]
+- o8: בָּ/אֵשׁ = Hb "in" + H784 אֵשׁ "fire (literally or figuratively)" [HRd/Ncbsa]
+- o9: יִשָּׂרֵף = H8313 שָׂרַף "to be (causatively, set) on fire" [HVNi3ms]
+- o10: וְ/הַ/בָּשָׂר = Hc "and" + Hd "the" + H1320 בָּשָׂר "flesh (from its freshness)…" [HC/Td/Ncmsa]
+- o11: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o12: טָהוֹר = H2889 טָהוֹר "pure (in a physical, chemical…" [HAamsa]
+- o13: יֹאכַל = H398 אָכַל "to eat (literally or figuratively)" [HVqi3ms]
+- o14: בָּשָׂר = H1320 בָּשָׂר "flesh (from its freshness)…" [HNcmsa]
+
+### Leviticus 8:1 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: לֵּ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

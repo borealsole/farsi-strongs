@@ -991,3 +991,48 @@ Persian entries and current tags:
 - p15: ایشان
 - p16: دادند
 - p17: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Joshua 20:9 (context)
+
+- o1: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o2: הָיוּ = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3cp]
+- o3: עָרֵי = H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HNcfpc]
+- o4: הַ/מּוּעָדָה = Hd "the" + H4152 מוּעָדָה "an appointed place, i.e. asylum" [HTd/Ncfsa]
+- o5: לְ/כֹל = Hl "to" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o6: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o7: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o8: וְ/לַ/גֵּר = Hc "and" + Hl "to" + H1616 גֵּר "properly, a guest; by implication, a foreigner" [HC/Rd/Ncmsa]
+- o9: הַ/גָּר = Hd "the" + H1481 גּוּר "properly…" [HTd/Vqrmsa]
+- o10: בְּ/תוֹכָ/ם = Hb "in" + H8432 תָּוֶךְ "a bisection, i.e. (by implication) the centre" [HR/Ncmsc/Sp3mp]
+- o11: לָ/נוּס = Hl "to" + H5127 נוּס "to flit, i.e. vanish away (subside, escape…" [HR/Vqc]
+- o12: שָׁמָּ/ה = H8033 שָׁם "there (transferring to time) then…" [HD/Sd]
+- o13: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o14: מַכֵּה = H5221 נָכָה "to strike (lightly or severely…" [HVhrmsc]
+- o15: נֶפֶשׁ = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsa]
+- o16: בִּ/שְׁגָגָה = Hb "in" + H7684 שְׁגָגָה "a mistake or inadvertent transgression" [HR/Ncfsa]
+- o17: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o18: יָמוּת = H4191 מוּת "to die (literally or figuratively)…" [HVqi3ms]
+- o19: בְּ/יַד = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o20: גֹּאֵל = H1350 גָּאַל "to be the next of kin (and as such to buy back a…" [HVqrmsc]
+- o21: הַ/דָּם = Hd "the" + H1818 דָּם "blood (as that which when shed causes death) of…" [HTd/Ncmsa]
+- o22: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o23: עָמְד/וֹ = H5975 עָמַד "to stand…" [HVqc/Sp3ms]
+- o24: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o25: הָ/עֵדָה = Hd "the" + H5712 עֵדָה "a stated assemblage (specifically, a concourse…" [HTd/Ncfsa]
+
+### Joshua 21:23 (context)
+
+- o1: וּ/מִ/מַּטֵּה = Hc "and" + Hm "from" + H4294 מַטֶּה "a branch (as extending); figuratively, a tribe…" [HC/R/Ncmsc]
+- o2: דָן = H1835 דָּן "Dan, one of the sons of Jacob…" [HNp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: אֶלְתְּקֵא = H514 אֶלְתְּקֵא "Eltekeh or Elteke, a place in Palestine" [HNp]
+- o5: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o6: מִגְרָשֶׁ/הָ = H4054 מִגְרָשׁ "a suburb (i.e. open country whither flocks are…" [HNcmpc/Sp3fs]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: גִּבְּתוֹן = H1405 גִּבְּתוֹן "Gibbethon, a place in Palestine" [HNp]
+- o9: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o10: מִגְרָשֶׁ/הָ = H4054 מִגְרָשׁ "a suburb (i.e. open country whither flocks are…" [HNcmpc/Sp3fs]

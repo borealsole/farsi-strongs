@@ -1104,3 +1104,24 @@ Persian entries and current tags:
 - p15: تو
 - p16: باد
 - p17: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Timothy 5:25 (context)
+
+- o1: ὡσαύτως = G5615 ὡσαύτως "even so, likewise, after the same (in like) manner" [ADV]
+- o2: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o3: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPN]
+- o4: ἔργα = G2041 ἔργον "deed, doing, labour, work" [N-NPN]
+- o5: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPN]
+- o6: καλὰ = G2570 καλός "better, fair, good(-ly), honest, meet, well…" [A-NPN]
+- o7: πρόδηλα, = G4271 πρόδηλος "evident, manifest (open) beforehand" [A-NPN]
+- o8: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o9: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPN]
+- o10: ἄλλως = G247 ἄλλως "otherwise" [ADV]
+- o11: ἔχοντα = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAP-NPN]
+- o12: κρυβῆναι = G2928 κρύπτω "hide (self), keep secret, secret(-ly)" [V-2APN]
+- o13: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o14: δύνανται. = G1410 δύναμαι "be able, can (do, + -not), could, may, might…" [V-PNI-3P]

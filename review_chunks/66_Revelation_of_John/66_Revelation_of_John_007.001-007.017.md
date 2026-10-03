@@ -1082,3 +1082,40 @@ Persian entries and current tags:
 - p29: خواهد_سترد  → G1813
 - p30: .
 - p31: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Revelation of John 6:17 (context)
+
+- o1: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o2: ἦλθεν = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-2AAI-3S]
+- o3: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o4: ἡμέρα = G2250 ἡμέρα "age, + alway, (mid-)day (by day, (-ly))…" [N-NSF]
+- o5: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o6: μεγάλη = G3173 μέγας "+ fear) exceedingly, great(-est), high, large…" [A-NSF]
+- o7: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o8: ὀργῆς = G3709 ὀργή "anger, indignation, vengeance, wrath" [N-GSF]
+- o9: αὐτῶν, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]
+- o10: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o11: τίς = G5101 τίς "every man, how (much), + no(-ne, thing)…" [I-NSM]
+- o12: δύναται = G1410 δύναμαι "be able, can (do, + -not), could, may, might…" [V-PNI-3S]
+- o13: σταθῆναι; = G2476 ἵστημι "abide, appoint, bring, continue, covenant…" [V-APN]
+
+### Revelation of John 8:1 (context)
+
+- o1: Καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ὅταν = G3752 ὅταν "as long (soon) as, that, + till, when(-soever)…" [CONJ]
+- o3: ἤνοιξεν = G455 ἀνοίγω "open" [V-AAI-3S]
+- o4: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o5: σφραγῖδα = G4973 σφραγίς "seal" [N-ASF]
+- o6: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o7: ἑβδόμην, = G1442 ἕβδομος "seventh" [A-ASF]
+- o8: ἐγένετο = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-2ADI-3S]
+- o9: σιγὴ = G4602 σιγή "silence" [N-NSF]
+- o10: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o11: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o12: οὐρανῷ = G3772 οὐρανός "air, heaven(-ly), sky" [N-DSM]
+- o13: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
+- o14: ἡμιώριον. = G2256 ἡμιώριον "half an hour" [N-ASN]

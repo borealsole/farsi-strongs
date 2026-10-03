@@ -925,3 +925,66 @@ Persian entries and current tags:
 - p18: و  → G2532
 - p19: نیایش کردند  → G4352
 - p20: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Revelation of John 4:11 (context)
+
+- o1: ἄξιος = G514 ἄξιος "due reward, meet, (un-)worthy" [A-NSM]
+- o2: εἶ, = G1510 εἰμί "am, have been, it is I, was" [V-PAI-2S]
+- o3: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o4: κύριος = G2962 κύριος "God, Lord, master, Sir" [N-NSM]
+- o5: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o6: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o7: θεὸς = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-NSM]
+- o8: ἡμῶν, = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+- o9: λαβεῖν = G2983 λαμβάνω "accept, + be amazed, assay, attain, bring…" [V-2AAN]
+- o10: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o11: δόξαν = G1391 δόξα "dignity, glory(-ious), honour, praise, worship" [N-ASF]
+- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o13: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o14: τιμὴν = G5092 τιμή "honour, precious, price, some" [N-ASF]
+- o15: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o16: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o17: δύναμιν, = G1411 δύναμις "ability, abundance, meaning, might(-ily, -y…" [N-ASF]
+- o18: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o19: σὺ = G4771 σύ "thou" [P-2NS]
+- o20: ἔκτισας = G2936 κτίζω "create, Creator, make" [V-AAI-2S]
+- o21: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
+- o22: πάντα, = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-APN]
+- o23: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o24: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o25: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o26: θέλημά = G2307 θέλημα "desire, pleasure, will" [N-ASN]
+- o27: σου = G4771 σύ "thou" [P-2GS]
+- o28: ἦσαν = G1510 εἰμί "am, have been, it is I, was" [V-IAI-3P]
+- o29: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o30: ἐκτίσθησαν. = G2936 κτίζω "create, Creator, make" [V-API-3P]
+
+### Revelation of John 6:1 (context)
+
+- o1: Καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἴδον = G3708 ὁράω "behold, perceive, see, take heed" [V-2AAI-1S]
+- o3: ὅτε = G3753 ὅτε "after (that), as soon as, that, when, while" [ADV]
+- o4: ἤνοιξεν = G455 ἀνοίγω "open" [V-AAI-3S]
+- o5: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o6: ἀρνίον = G721 ἀρνίον "lamb" [N-NSN]
+- o7: μίαν = G1520 εἷς "a(-n, -ny, certain), + abundantly, man…" [A-ASF]
+- o8: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o9: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPF]
+- o10: ἑπτὰ = G2033 ἑπτά "seven" [A-NUI]
+- o11: σφραγίδων, = G4973 σφραγίς "seal" [N-GPF]
+- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o13: ἤκουσα = G191 ἀκούω "give (in the) audience (of), come (to the ears)…" [V-AAI-1S]
+- o14: ἑνὸς = G1520 εἷς "a(-n, -ny, certain), + abundantly, man…" [A-GSN]
+- o15: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o16: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPN]
+- o17: τεσσάρων = G5064 τέσσαρες "four" [A-GPN]
+- o18: ζώων = G2226 ζῶον "beast" [N-GPN]
+- o19: λέγοντος = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAP-GSN]
+- o20: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
+- o21: φωνὴ = G5456 φωνή "noise, sound, voice" [N-NSF]
+- o22: βροντῆς, = G1027 βροντή "thunder(-ing)" [N-GSF]
+- o23: ἔρχου. = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-PNM-2S]

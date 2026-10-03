@@ -550,3 +550,42 @@ Persian entries and current tags:
 - p15: پای
 - p16: درآمدند  → H5307
 - p17: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 19:19 (context)
+
+- o1: וַ/יִּרְאוּ = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw3mp]
+- o2: עַבְדֵי = H5650 עֶבֶד "a servant" [HNcmpc]
+- o3: הֲדַדְעֶזֶר = H1909 הֲדַדְעֶזֶר "Hadadezer, a Syrian king" [HNp]
+- o4: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o5: נִגְּפוּ = H5062 נָגַף "to push, gore, defeat, stub (the toe)…" [HVNp3cp]
+- o6: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o7: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o8: וַ/יַּשְׁלִימוּ = Hc "and" + H7999 שָׁלַם "to be safe (in mind, body or estate)…" [HC/Vhw3mp]
+- o9: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o10: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o11: וַ/יַּעַבְדֻ/הוּ = Hc "and" + H5647 עָבַד "to work (in any sense)…" [HC/Vqw3mp/Sp3ms]
+- o12: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o13: אָבָה = H14 אָבָה "to breathe after…" [HVqp3ms]
+- o14: אֲרָם = H758 אֲרָם "Aram or Syria, and its inhabitants…" [HNp]
+- o15: לְ/הוֹשִׁיעַ = Hl "to" + H3467 יָשַׁע "properly, to be open, wide or free…" [HR/Vhc]
+- o16: אֶת = H853 אֵת "properly…" [HTo]
+- o17: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o18: עַמּוֹן = H5983 עַמּוֹן "Ammon, a son of Lot…" [HNp]
+- o19: עוֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+
+### I Chronicles 21:1 (context)
+
+- o1: וַ/יַּעֲמֹד = Hc "and" + H5975 עָמַד "to stand…" [HC/Vqw3ms]
+- o2: שָׂטָן = H7854 שָׂטָן "an opponent…" [HNcmsa]
+- o3: עַל = H5921 עַל "above, over, upon…" [HR]
+- o4: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o5: וַ/יָּסֶת = Hc "and" + H5496 סוּת "properly, to prick, i.e. (figuratively) stimulate…" [HC/Vhw3ms]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o8: לִ/מְנוֹת = Hl "to" + H4487 מָנָה "properly, to weigh out…" [HR/Vqc]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]

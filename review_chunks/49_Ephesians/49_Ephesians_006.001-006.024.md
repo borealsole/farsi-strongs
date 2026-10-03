@@ -1181,3 +1181,31 @@ Persian entries and current tags:
 - p12: را
 - p13: دوست می‌دارند  → G25
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ephesians 5:33 (context)
+
+- o1: πλὴν = G4133 πλήν "but (rather), except, nevertheless…" [ADV]
+- o2: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o3: ὑμεῖς = G5210 ὑμεῖς "ye (yourselves), you" [P-2NP]
+- o4: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o5: καθ’ = G2596 κατά "about, according as (to), after, against…" [PREP]
+- o6: ἕνα = G1520 εἷς "a(-n, -ny, certain), + abundantly, man…" [A-ASM]
+- o7: ἕκαστος = G1538 ἕκαστος "any, both, each (one), every (man, one, woman)…" [A-NSM]
+- o8: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o9: ἑαυτοῦ = G1438 ἑαυτοῦ "alone, her (own, -self), (he) himself, his (own)…" [F-3GSM]
+- o10: γυναῖκα = G1135 γυνή "wife, woman" [N-ASF]
+- o11: οὕτως = G3779 οὕτω "after that, after (in) this manner, as, even (so)…" [ADV]
+- o12: ἀγαπάτω = G25 ἀγαπάω "(be-)love(-ed)" [V-PAM-3S]
+- o13: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
+- o14: ἑαυτόν, = G1438 ἑαυτοῦ "alone, her (own, -self), (he) himself, his (own)…" [F-3ASM]
+- o15: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o16: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o17: γυνὴ = G1135 γυνή "wife, woman" [N-NSF]
+- o18: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o19: φοβῆται = G5399 φοβέω "be (+ sore) afraid, fear (exceedingly), reverence" [V-PNS-3S]
+- o20: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o21: ἄνδρα. = G435 ἀνήρ "fellow, husband, man, sir" [N-ASM]

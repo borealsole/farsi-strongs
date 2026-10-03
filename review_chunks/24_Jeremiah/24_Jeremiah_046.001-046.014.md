@@ -775,3 +775,47 @@ Persian entries and current tags:
 - p37: هلاک می‌کند  → H398
 - p38: !
 - p39: “
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 45:5 (context)
+
+- o1: וְ/אַתָּה = Hc "and" + H859 אַתָּה "thou and thee, or (plural) ye and you" [HC/Pp2ms]
+- o2: תְּבַקֶּשׁ = H1245 בָּקַשׁ "to search out (by any method…" [HVpi2ms]
+- o3: לְ/ךָ = Hl "to" [HR/Sp2ms]
+- o4: גְדֹלוֹת = H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HAafpa]
+- o5: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o6: תְּבַקֵּשׁ = H1245 בָּקַשׁ "to search out (by any method…" [HVpj2ms]
+- o7: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o8: הִנְ/נִי = H2005 הֵן "lo!; also (as expressing surprise) if" [HTm/Sp1cs]
+- o9: מֵבִיא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVhrmsa]
+- o10: רָעָה = H7451 רַע "bad or (as noun) evil (natural or moral)" [HNcfsa]
+- o11: עַל = H5921 עַל "above, over, upon…" [HR]
+- o12: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o13: בָּשָׂר = H1320 בָּשָׂר "flesh (from its freshness)…" [HNcmsa]
+- o14: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o15: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o16: וְ/נָתַתִּי = Hc "and" + H5414 נָתַן "to give…" [HC/Vqq1cs]
+- o17: לְ/ךָ = Hl "to" [HR/Sp2ms]
+- o18: אֶת = H853 אֵת "properly…" [HTo]
+- o19: נַפְשְׁ/ךָ = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsc/Sp2ms]
+- o20: לְ/שָׁלָל = Hl "to" + H7998 שָׁלָל "booty" [HR/Ncmsa]
+- o21: עַל = H5921 עַל "above, over, upon…" [HR]
+- o22: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o23: הַ/מְּקֹמוֹת = Hd "the" + H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HTd/Ncmpa]
+- o24: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o25: תֵּלֶךְ = H3212 יָלַךְ "to walk (literally or figuratively)…" [HVqi2ms]
+- o26: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+
+### Jeremiah 46:15 (context)
+
+- o1: מַדּוּעַ = H4069 מַדּוּעַ "what (is) known?…" [HTi]
+- o2: נִסְחַף = H5502 סָחַף "to scrape off" [HVNp3ms]
+- o3: אַבִּירֶי/ךָ = H47 אַבִּיר "mighty (spoken of God)" [HAampc/Sp2ms]
+- o4: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o5: עָמַד = H5975 עָמַד "to stand…" [HVqp3ms]
+- o6: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: הֲדָפ/וֹ = H1920 הָדַף "to push away or down" [HVqp3ms/Sp3ms]

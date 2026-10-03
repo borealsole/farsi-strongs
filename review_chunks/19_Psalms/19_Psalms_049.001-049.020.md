@@ -751,3 +751,35 @@ Persian entries and current tags:
 - p13: میان
 - p14: می‌روند  → H1820
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 48:14 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: זֶה = H2088 זֶה "the masculine demonstrative pronoun, this or that" [HPdxms]
+- o3: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o4: אֱלֹהֵי/נוּ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp1cp]
+- o5: עוֹלָם = H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HNcmsa]
+- o6: וָ/עֶד = Hc "and" + H5703 עַד "properly, a (peremptory) terminus…" [HC/Ncmsa]
+- o7: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o8: יְנַהֲגֵ/נוּ = H5090 נָהַג "to drive forth (a person, an animal or chariot)…" [HVpi3ms/Sp1cp]
+- o9: עַל = H5921 עַל "above, over, upon…" [HR]
+- o10: מוּת = H4192 מוּת "'To die for the son'…" [HVqc]
+
+### Psalms 50:1 (context)
+
+- o1: מִזְמוֹר = H4210 מִזְמוֹר "properly, instrumental music…" [HNcmsa]
+- o2: לְ/אָסָף = Hl "to" + H623 אָסָף "Asaph, the name of three Israelites…" [HR/Np]
+- o3: אֵל = H410 אֵל "strength; as adjective, mighty…" [HNcmsc]
+- o4: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o5: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o6: דִּבֶּר = H1696 דָבַר "perhaps properly, to arrange…" [HVpp3ms]
+- o7: וַ/יִּקְרָא = Hc "and" + H7121 קָרָא "to call out to (i.e. properly, address by name…" [HC/Vqw3ms]
+- o8: אָרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsa]
+- o9: מִ/מִּזְרַח = Hm "from" + H4217 מִזְרָח "sunrise, i.e. the east" [HR/Ncmsc]
+- o10: שֶׁמֶשׁ = H8121 שֶׁמֶשׁ "the sun; by implication, the east…" [HNcbsa]
+- o11: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o12: מְבֹא/וֹ = H3996 מָבוֹא "an entrance (the place or the act)…" [HNcmsc/Sp3ms]

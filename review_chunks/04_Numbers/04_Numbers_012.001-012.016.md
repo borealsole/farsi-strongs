@@ -790,3 +790,25 @@ Persian entries and current tags:
 - p12: فاران  → H6290
 - p13: اردو زدند  → H2583
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 11:35 (context)
+
+- o1: מִ/קִּבְרוֹת = Hm "from" + H6914 קִבְרוֹת הַתַּאֲוָה "Kibroth-hat-Taavh, a place in the Desert" [HR/Np]
+- o2: הַתַּאֲוָה = H6914 קִבְרוֹת הַתַּאֲוָה "Kibroth-hat-Taavh, a place in the Desert" [HNp]
+- o3: נָסְעוּ = H5265 נָסַע "properly, to pull up, especially the tent-pins…" [HVqp3cp]
+- o4: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o5: חֲצֵרוֹת = H2698 חֲצֵרוֹת "Chatseroth, a place in Palestine" [HNp]
+- o6: וַ/יִּהְיוּ = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3mp]
+- o7: בַּ/חֲצֵרוֹת = Hb "in" + H2698 חֲצֵרוֹת "Chatseroth, a place in Palestine" [HR/Np]
+
+### Numbers 13:1 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: לֵּ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

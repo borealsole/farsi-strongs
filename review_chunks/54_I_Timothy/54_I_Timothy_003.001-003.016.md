@@ -716,3 +716,47 @@ Persian entries and current tags:
 - p37: بالا  → G353
 - p38: برده_شد
 - p39: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Timothy 2:15 (context)
+
+- o1: σωθήσεται = G4982 σώζω "heal, preserve, save (self), do well…" [V-FPI-3S]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o4: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o5: τεκνογονίας, = G5042 τεκνογονία "childbearing" [N-GSF]
+- o6: ἐὰν = G1437 ἐάν "before, but, except, (and) if, (if) so, (what-…" [COND]
+- o7: μείνωσιν = G3306 μένω "abide, continue, dwell, endure, be present…" [V-AAS-3P]
+- o8: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o9: πίστει = G4102 πίστις "assurance, belief, believe, faith, fidelity" [N-DSF]
+- o10: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o11: ἀγάπῃ = G26 ἀγάπη "(feast of) charity(-ably), dear, love" [N-DSF]
+- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o13: ἁγιασμῷ = G38 ἁγιασμός "holiness, sanctification" [N-DSM]
+- o14: μετὰ = G3326 μετά "after(-ward), that he again, against, among, and…" [PREP]
+- o15: σωφροσύνης. = G4997 σωφροσύνη "soberness, sobriety" [N-GSF]
+
+### I Timothy 4:1 (context)
+
+- o1: Τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: πνεῦμα = G4151 πνεῦμα "ghost, life, spirit(-ual, -ually), mind" [N-NSN]
+- o4: ῥητῶς = G4490 ῥητῶς "expressly" [ADV]
+- o5: λέγει = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-3S]
+- o6: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o7: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o8: ὑστέροις = G5306 ὕστερος "latter" [A-DPM]
+- o9: καιροῖς = G2540 καιρός "always, opportunity, (convenient, due) season…" [N-DPM]
+- o10: ἀποστήσονταί = G868 ἀφίστημι "depart, draw (fall) away, refrain, withdraw self" [V-FDI-3P]
+- o11: τινες = G5100 τὶς "a (kind of), any (man, thing, thing at all)…" [X-NPM]
+- o12: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o13: πίστεως, = G4102 πίστις "assurance, belief, believe, faith, fidelity" [N-GSF]
+- o14: προσέχοντες = G4337 προσέχω "give) attend(-ance, -ance at, -ance to, unto)…" [V-PAP-NPM]
+- o15: πνεύμασιν = G4151 πνεῦμα "ghost, life, spirit(-ual, -ually), mind" [N-DPN]
+- o16: πλάνοις = G4108 πλάνος "--deceiver, seducing" [A-DPN]
+- o17: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o18: διδασκαλίαις = G1319 διδασκαλία "doctrine, learning, teaching" [N-DPF]
+- o19: δαιμονίων, = G1140 δαιμόνιον "devil, god" [N-GPN]

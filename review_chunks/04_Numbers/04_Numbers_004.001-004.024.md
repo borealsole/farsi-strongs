@@ -1186,3 +1186,46 @@ Persian entries and current tags:
 - p8: و  → Hc
 - p9: حملِ بار  → H4853
 - p10: :
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 3:51 (context)
+
+- o1: וַ/יִּתֵּן = Hc "and" + H5414 נָתַן "to give…" [HC/Vqw3ms]
+- o2: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: כֶּסֶף = H3701 כֶּסֶף "silver (from its pale color)…" [HNcmsc]
+- o5: הַ/פְּדֻיִם = Hd "the" + H6302 פָּדוּי "as abstractly (in plural masculine) a ransom" [HTd/Ncmpa]
+- o6: לְ/אַהֲרֹן = Hl "to" + H175 אַהֲרוֹן "Aharon, the brother of Moses" [HR/Np]
+- o7: וּ/לְ/בָנָי/ו = Hc "and" + Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/R/Ncmpc/Sp3ms]
+- o8: עַל = H5921 עַל "above, over, upon…" [HR]
+- o9: פִּי = H6310 פֶּה "the mouth (as the means of blowing)…" [HNcmsc]
+- o10: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o11: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o12: צִוָּה = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp3ms]
+- o13: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o14: אֶת = H853 אֵת "properly…" [HTo]
+- o15: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+
+### Numbers 4:25 (context)
+
+- o1: וְ/נָשְׂאוּ = Hc "and" + H5375 נָשָׂא "to lift, in a great variety of applications…" [HC/Vqq3cp]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: יְרִיעֹת = H3407 יְרִיעָה "a hanging (as tremulous)" [HNcfpc]
+- o4: הַ/מִּשְׁכָּן = Hd "the" + H4908 מִשְׁכָּן "a residence (including a shepherd's hut…" [HTd/Ncmsa]
+- o5: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o6: אֹהֶל = H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HNcmsc]
+- o7: מוֹעֵד = H4150 מוֹעֵד "properly, an appointment…" [HNcmsa]
+- o8: מִכְסֵ/הוּ = H4372 מִכְסֶה "a covering, i.e. weatherboarding" [HNcmsc/Sp3ms]
+- o9: וּ/מִכְסֵה = Hc "and" + H4372 מִכְסֶה "a covering, i.e. weatherboarding" [HC/Ncmsc]
+- o10: הַ/תַּחַשׁ = Hd "the" + H8476 תַּחַשׁ "a (clean) animal with fur…" [HTd/Ncmsa]
+- o11: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o12: עָלָי/ו = H5921 עַל "above, over, upon…" [HR/Sp3ms]
+- o13: מִ/לְ/מָעְלָ/ה = Hm "from" + Hl "to" + H4605 מַעַל "properly, the upper part…" [HR/R/D/Sd]
+- o14: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o15: מָסַךְ = H4539 מָסָךְ "a cover, i.e. veil" [HNcmsc]
+- o16: פֶּתַח = H6607 פֶּתַח "an opening (literally)…" [HNcmsc]
+- o17: אֹהֶל = H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HNcmsc]
+- o18: מוֹעֵד = H4150 מוֹעֵד "properly, an appointment…" [HNcmsa]

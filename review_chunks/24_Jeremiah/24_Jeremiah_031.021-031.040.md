@@ -1164,3 +1164,54 @@ Persian entries and current tags:
 - p36: نخواهد_شد  → H3808
 - p37: .
 - p38: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 31:20 (context)
+
+- o1: הֲ/בֵן = Hi "(untranslatable; interrogative particle)" + H1121 בֵּן "a son (as a builder of the family name)…" [HTi/Ncmsa]
+- o2: יַקִּיר = H3357 יַקִּיר "precious" [HAamsa]
+- o3: לִ/י = Hl "to" [HR/Sp1cs]
+- o4: אֶפְרַיִם = H669 אֶפְרַיִם "Ephrajim, a son of Joseph…" [HNp]
+- o5: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o6: יֶלֶד = H3206 יֶלֶד "something born, i.e. a lad or offspring" [HNcmsc]
+- o7: שַׁעֲשֻׁעִים = H8191 שַׁעְשֻׁעַ "enjoyment" [HNcmpa]
+- o8: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o9: מִ/דֵּי = Hm "from" + H1767 דַּי "enough (as noun or adverb)…" [HR/Ncmsc]
+- o10: דַבְּרִ/י = H1696 דָבַר "perhaps properly, to arrange…" [HVpc/Sp1cs]
+- o11: בּ/וֹ = Hb "in" [HR/Sp3ms]
+- o12: זָכֹר = H2142 זָכַר "properly, to mark (so as to be recognized)…" [HVqa]
+- o13: אֶזְכְּרֶ/נּוּ = H2142 זָכַר "properly, to mark (so as to be recognized)…" [HVqi1cs/Sp3ms]
+- o14: עוֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+- o15: עַל = H5921 עַל "above, over, upon…" [HR]
+- o16: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o17: הָמוּ = H1993 הָמָה "to make a loud sound (like English 'hum')…" [HVqp3cp]
+- o18: מֵעַ/י = H4578 מֵעֶה "used only in plural the intestines…" [HNcmpc/Sp1cs]
+- o19: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o20: רַחֵם = H7355 רָחַם "to fondle…" [HVpa]
+- o21: אֲרַחֲמֶ/נּוּ = H7355 רָחַם "to fondle…" [HVpi1cs/Sp3ms]
+- o22: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o23: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### Jeremiah 32:1 (context)
+
+- o1: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]
+- o2: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o3: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o4: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o5: יִרְמְיָהוּ = H3414 יִרְמְיָה "Jirmejah, the name of eight or nine Israelites" [HNp]
+- o6: מֵ/אֵת = Hm "from" + H854 אֵת "properly…" [HR/R]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: ב/שנת = Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HRd/Ncfsa]
+- o9: הָ/עֲשִׂרִית = Hd "the" + H6224 עֲשִׂירִי "tenth…" [HTd/Aofsa]
+- o10: לְ/צִדְקִיָּהוּ = Hl "to" + H6667 צִדְקִיָּה "Tsidkijah, the name of six Israelites" [HR/Np]
+- o11: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o12: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o13: הִיא = H1931 הוּא "he (she or it)…" [HPp3fs]
+- o14: הַ/שָּׁנָה = Hd "the" + H8141 שָׁנֶה "a year (as a revolution of time)" [HTd/Ncfsa]
+- o15: שְׁמֹנֶה = H8083 שְׁמֹנֶה "a cardinal number…" [HAcfsa]
+- o16: עֶשְׂרֵה = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcfsa]
+- o17: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o18: לִ/נְבוּכַדְרֶאצַּר = Hl "to" + H5019 נְבוּכַדְנֶאצַּר "Nebukadnetstsar (or -retstsar, or -retstsor)…" [HR/Np]

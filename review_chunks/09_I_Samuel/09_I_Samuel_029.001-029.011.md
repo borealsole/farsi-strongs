@@ -769,3 +769,42 @@ Persian entries and current tags:
 - p19: یِزرِعیل  → H3157
 - p20: برآمدند  → H5927
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 28:25 (context)
+
+- o1: וַ/תַּגֵּשׁ = Hc "and" + H5066 נָגַשׁ "to be or come (causatively…" [HC/Vhw3fs]
+- o2: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o3: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o4: וְ/לִ/פְנֵי = Hc "and" + Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HC/R/Ncbpc]
+- o5: עֲבָדָי/ו = H5650 עֶבֶד "a servant" [HNcmpc/Sp3ms]
+- o6: וַ/יֹּאכֵלוּ = Hc "and" + H398 אָכַל "to eat (literally or figuratively)" [HC/Vqw3mp]
+- o7: וַ/יָּקֻמוּ = Hc "and" + H6965 קוּם "to rise (in various applications, literal…" [HC/Vqw3mp]
+- o8: וַ/יֵּלְכוּ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3mp]
+- o9: בַּ/לַּיְלָה = Hb "in" + H3915 לַיִל "properly, a twist (away of the light), i.e. night…" [HRd/Ncmsa]
+- o10: הַ/הוּא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3ms]
+
+### I Samuel 30:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: בְּ/בֹא = Hb "in" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HR/Vqc]
+- o3: דָוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o4: וַ/אֲנָשָׁי/ו = Hc "and" + H376 אִישׁ "a man as an individual or a male person…" [HC/Ncmpc/Sp3ms]
+- o5: צִקְלַג = H6860 צִקְלַג "Tsiklag or Tsikelag, a place in Palestine" [HNp]
+- o6: בַּ/יּוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
+- o7: הַ/שְּׁלִישִׁי = Hd "the" + H7992 שְׁלִישִׁי "third; feminine athird (part)…" [HTd/Aomsa]
+- o8: וַ/עֲמָלֵקִי = Hc "and" + H6003 עֲמָלֵקִי "an Amalekite (or collectively the Amalekites) or…" [HC/Ngmsa]
+- o9: פָשְׁטוּ = H6584 פָּשַׁט "to spread out (i.e. deploy in hostile array)…" [HVqp3cp]
+- o10: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o11: נֶגֶב = H5045 נֶגֶב "the south (from its drought)…" [HNcmsa]
+- o12: וְ/אֶל = Hc "and" + H413 אֵל "near, with or among; often in general, to" [HC/R]
+- o13: צִקְלַג = H6860 צִקְלַג "Tsiklag or Tsikelag, a place in Palestine" [HNp]
+- o14: וַ/יַּכּוּ = Hc "and" + H5221 נָכָה "to strike (lightly or severely…" [HC/Vhw3mp]
+- o15: אֶת = H853 אֵת "properly…" [HTo]
+- o16: צִקְלַג = H6860 צִקְלַג "Tsiklag or Tsikelag, a place in Palestine" [HNp]
+- o17: וַ/יִּשְׂרְפוּ = Hc "and" + H8313 שָׂרַף "to be (causatively, set) on fire" [HC/Vqw3mp]
+- o18: אֹתָ/הּ = H853 אֵת "properly…" [HTo/Sp3fs]
+- o19: בָּ/אֵשׁ = Hb "in" + H784 אֵשׁ "fire (literally or figuratively)" [HRd/Ncbsa]

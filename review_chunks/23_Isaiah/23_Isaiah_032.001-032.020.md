@@ -855,3 +855,44 @@ Persian entries and current tags:
 - p17: به
 - p18: آزادی رها خواهید_ساخت  → H7971
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 31:9 (context)
+
+- o1: וְ/סַלְע/וֹ = Hc "and" + H5553 סֶלַע "a craggy rock…" [HC/Ncmsc/Sp3ms]
+- o2: מִ/מָּגוֹר = Hm "from" + H4032 מָגוֹר "a fright (objective or subjective)" [HR/Ncmsa]
+- o3: יַעֲבוֹר = H5674 עָבַר "to cross over…" [HVqi3ms]
+- o4: וְ/חַתּוּ = Hc "and" + H2865 חָתַת "properly, to prostrate…" [HC/Vqq3cp]
+- o5: מִ/נֵּס = Hm "from" + H5251 נֵס "a flag; also a sail; by implication, a flagstaff…" [HR/Ncmsa]
+- o6: שָׂרָי/ו = H8269 שַׂר "a head person (of any rank or class)" [HNcmpc/Sp3ms]
+- o7: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o8: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o9: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o10: אוּר = H217 אוּר "flame…" [HNcmsa]
+- o11: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o12: בְּ/צִיּוֹן = Hb "in" + H6726 צִיּוֹן "Tsijon (as a permanent capital)…" [HR/Np]
+- o13: וְ/תַנּוּר = Hc "and" + H8574 תַּנּוּר "a fire-pot" [HC/Ncmsa]
+- o14: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o15: בִּ/ירוּשָׁלִָם = Hb "in" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HR/Np]
+
+### Isaiah 33:1 (context)
+
+- o1: הוֹי = H1945 הוֹי "oh!" [HTj]
+- o2: שׁוֹדֵד = H7703 שָׁדַד "properly, to be burly…" [HVqrmsa]
+- o3: וְ/אַתָּה = Hc "and" + H859 אַתָּה "thou and thee, or (plural) ye and you" [HC/Pp2ms]
+- o4: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o5: שָׁדוּד = H7703 שָׁדַד "properly, to be burly…" [HVqsmsa]
+- o6: וּ/בוֹגֵד = Hc "and" + H898 בָּגַד "to cover (with a garment)…" [HC/Vqrmsa]
+- o7: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o8: בָגְדוּ = H898 בָּגַד "to cover (with a garment)…" [HVqp3cp]
+- o9: ב/וֹ = Hb "in" [HR/Sp3ms]
+- o10: כַּ/הֲתִמְ/ךָ = Hk "like" + H8552 תָּמַם "to complete, in a good or a bad sense, literal…" [HR/Vhc/Sp2ms]
+- o11: שׁוֹדֵד = H7703 שָׁדַד "properly, to be burly…" [HVqrmsa]
+- o12: תּוּשַּׁד = H7703 שָׁדַד "properly, to be burly…" [HVQi2ms]
+- o13: כַּ/נְּלֹתְ/ךָ = Hk "like" + H5239 נָלָה "to complete" [HR/Vhc/Sp2ms]
+- o14: לִ/בְגֹּד = Hl "to" + H898 בָּגַד "to cover (with a garment)…" [HR/Vqc]
+- o15: יִבְגְּדוּ = H898 בָּגַד "to cover (with a garment)…" [HVqi3mp]
+- o16: בָ/ךְ = Hb "in" [HR/Sp2fs]

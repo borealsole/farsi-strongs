@@ -945,3 +945,41 @@ Persian entries and current tags:
 - p14: به  → Hb
 - p15: سود  → H4768
 - p16: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 25:18 (context)
+
+- o1: וַ/עֲשִׂיתֶם = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqq2mp]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: חֻקֹּתַ/י = H2708 חֻקָּה "an enactment…" [HNcbpc/Sp1cs]
+- o4: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o5: מִשְׁפָּטַ/י = H4941 מִשְׁפָּט "properly…" [HNcmpc/Sp1cs]
+- o6: תִּשְׁמְרוּ = H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HVqi2mp]
+- o7: וַ/עֲשִׂיתֶם = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqq2mp]
+- o8: אֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o9: וִ/ישַׁבְתֶּם = Hc "and" + H3427 יָשַׁב "properly…" [HC/Vqq2mp]
+- o10: עַל = H5921 עַל "above, over, upon…" [HR]
+- o11: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o12: לָ/בֶטַח = Hl "to" + H983 בֶּטַח "properly, a place of refuge…" [HR/Ncmsa]
+
+### Leviticus 25:38 (context)
+
+- o1: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֱלֹהֵי/כֶם = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2mp]
+- o4: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o5: הוֹצֵאתִי = H3318 יָצָא "to go (causatively, bring) out…" [HVhp1cs]
+- o6: אֶתְ/כֶם = H853 אֵת "properly…" [HTo/Sp2mp]
+- o7: מֵ/אֶרֶץ = Hm "from" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o8: מִצְרָיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o9: לָ/תֵת = Hl "to" + H5414 נָתַן "to give…" [HR/Vqc]
+- o10: לָ/כֶם = Hl "to" [HR/Sp2mp]
+- o11: אֶת = H853 אֵת "properly…" [HTo]
+- o12: אֶרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsc]
+- o13: כְּנַעַן = H3667 כְּנַעַן "Kenaan, a son a Ham…" [HNp]
+- o14: לִ/הְיוֹת = Hl "to" + H1961 הָיָה "to exist, i.e. be or become…" [HR/Vqc]
+- o15: לָ/כֶם = Hl "to" [HR/Sp2mp]
+- o16: לֵ/אלֹהִים = Hl "to" + H430 אֱלֹהִים "gods in the ordinary sense…" [HR/Ncmpa]

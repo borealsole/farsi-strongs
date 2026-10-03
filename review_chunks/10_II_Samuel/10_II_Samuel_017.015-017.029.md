@@ -945,3 +945,50 @@ Persian entries and current tags:
 - p30: تشنه‌اند  → H6771
 - p31: .
 - p32: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 17:14 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: אַבְשָׁלוֹם = H53 אֲבִישָׁלוֹם "Abshalom, a son of David…" [HNp]
+- o3: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o4: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsc]
+- o5: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o6: טוֹבָה = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAafsa]
+- o7: עֲצַת = H6098 עֵצָה "advice; by implication, plan; also prudence" [HNcfsc]
+- o8: חוּשַׁי = H2365 חוּשַׁי "Chushai, an Israelite" [HNp]
+- o9: הָ/אַרְכִּי = Hd "the" + H757 אַרְכִּי "an Arkite or native of Erek" [HTd/Ngmsa]
+- o10: מֵ/עֲצַת = Hm "from" + H6098 עֵצָה "advice; by implication, plan; also prudence" [HR/Ncfsc]
+- o11: אֲחִיתֹפֶל = H302 אֲחִיתֹפֶל "Achithophel, an Israelite" [HNp]
+- o12: וַ/יהוָה = Hc "and" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HC/Np]
+- o13: צִוָּה = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp3ms]
+- o14: לְ/הָפֵר = Hl "to" + H6565 פָּרַר "to break up (usually figuratively)…" [HR/Vhc]
+- o15: אֶת = H853 אֵת "properly…" [HTo]
+- o16: עֲצַת = H6098 עֵצָה "advice; by implication, plan; also prudence" [HNcfsc]
+- o17: אֲחִיתֹפֶל = H302 אֲחִיתֹפֶל "Achithophel, an Israelite" [HNp]
+- o18: הַ/טּוֹבָה = Hd "the" + H2896 טוֹב "good (as an adjective) in the widest sense…" [HTd/Aafsa]
+- o19: לְ/בַ/עֲבוּר = Hl "to" + Hb "in" + H5668 עָבוּר "properly, crossed, i.e. (abstractly) transit…" [HR/R/C]
+- o20: הָבִיא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVhc]
+- o21: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o22: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o23: אַבְשָׁלוֹם = H53 אֲבִישָׁלוֹם "Abshalom, a son of David…" [HNp]
+- o24: אֶת = H853 אֵת "properly…" [HTo]
+- o25: הָ/רָעָה = Hd "the" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HTd/Ncfsa]
+
+### II Samuel 18:1 (context)
+
+- o1: וַ/יִּפְקֹד = Hc "and" + H6485 פָּקַד "to visit (with friendly or hostile intent)…" [HC/Vqw3ms]
+- o2: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: אִתּ/וֹ = H854 אֵת "properly…" [HR/Sp3ms]
+- o7: וַ/יָּשֶׂם = Hc "and" + H7760 שׂוּם "to put (used in a great variety of applications…" [HC/Vqw3ms]
+- o8: עֲלֵי/הֶם = H5921 עַל "above, over, upon…" [HR/Sp3mp]
+- o9: שָׂרֵי = H8269 שַׂר "a head person (of any rank or class)" [HNcmpc]
+- o10: אֲלָפִים = H505 אֶלֶף "hence (the ox's head being the first letter of…" [HAcbpa]
+- o11: וְ/שָׂרֵי = Hc "and" + H8269 שַׂר "a head person (of any rank or class)" [HC/Ncmpc]
+- o12: מֵאוֹת = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbpa]

@@ -679,3 +679,25 @@ Persian entries and current tags:
 - p14: را
 - p15: برمی‌افرازی
 - p16: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 88:18 (context)
+
+- o1: הִרְחַקְתָּ = H7368 רָחַק "to widen (in any direction)…" [HVhp2ms]
+- o2: מִמֶּ/נִּי = H4480 מִן "properly, a part of…" [HR/Sp1cs]
+- o3: אֹהֵב = H157 אָהַב "to have affection for (sexually or otherwise)" [HVqrmsa]
+- o4: וָ/רֵעַ = Hc "and" + H7453 רֵעַ "an associate (more or less close)" [HC/Ncmsa]
+- o5: מְיֻדָּעַ/י = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVPsmpc/Sp1cs]
+- o6: מַחְשָׁךְ = H4285 מַחְשָׁךְ "darkness; concretely, a dark place" [HNcmsa]
+
+### Psalms 89:18 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o3: מָגִנֵּ/נוּ = H4043 מָגֵן "a shield (i.e. the small one or buckler)…" [HNcbsc/Sp1cp]
+- o4: וְ/לִ/קְדוֹשׁ = Hc "and" + Hl "to" + H6918 קָדוֹשׁ "sacred (ceremonially or morally)…" [HC/R/Aamsc]
+- o5: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o6: מַלְכֵּ/נוּ = H4428 מֶלֶךְ "a king" [HNcmsc/Sp1cp]

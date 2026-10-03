@@ -862,3 +862,37 @@ Persian entries and current tags:
 - p36: براند
 - p37: .
 - p38: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 22:15 (context)
+
+- o1: הֲ/תִמְלֹךְ = Hi "(untranslatable; interrogative particle)" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HTi/Vqi2ms]
+- o2: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o3: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o4: מְתַחֲרֶה = H8474 תַּחָרָה "to vie with a rival" [HVcrmsa]
+- o5: בָ/אָרֶז = Hb "in" + H730 אֶרֶז "a cedar tree (from the tenacity of its roots)" [HRd/Ncmsa]
+- o6: אָבִי/ךָ = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp2ms]
+- o7: הֲ/לוֹא = Hi "(untranslatable; interrogative particle)" + H3808 לֹא "not (the simple or abs. negation)…" [HTi/Tn]
+- o8: אָכַל = H398 אָכַל "to eat (literally or figuratively)" [HVqp3ms]
+- o9: וְ/שָׁתָה = Hc "and" + H8354 שָׁתָה "to imbibe (literally or figuratively)" [HC/Vqp3ms]
+- o10: וְ/עָשָׂה = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqp3ms]
+- o11: מִשְׁפָּט = H4941 מִשְׁפָּט "properly…" [HNcmsa]
+- o12: וּ/צְדָקָה = Hc "and" + H6666 צְדָקָה "rightness (abstractly), subjectively (rectitude)…" [HC/Ncfsa]
+- o13: אָז = H227 אָז "at that time or place…" [HD]
+- o14: טוֹב = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAamsa]
+- o15: ל/וֹ = Hl "to" [HR/Sp3ms]
+
+### Jeremiah 23:1 (context)
+
+- o1: הוֹי = H1945 הוֹי "oh!" [HTj]
+- o2: רֹעִים = H7462 רָעָה "to tend a flock; i.e. pasture it…" [HVqrmpa]
+- o3: מְאַבְּדִים = H6 אָבַד "properly, to wander away, i.e. lose oneself…" [HVprmpa]
+- o4: וּ/מְפִצִים = Hc "and" + H6327 פּוּץ "to dash in pieces…" [HC/Vhrmpa]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: צֹאן = H6629 צֹאן "a collective name for a flock (of sheep or goats)…" [HNcbsc]
+- o7: מַרְעִיתִ/י = H4830 מִרְעִית "pasturage; concretely, a flock" [HNcfsc/Sp1cs]
+- o8: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o9: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]

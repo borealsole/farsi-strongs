@@ -880,3 +880,43 @@ Persian entries and current tags:
 - p52: نخواهید_داشت  → H3201
 - p53: .
 - p54: ‘
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Joshua 6:27 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶת = H854 אֵת "properly…" [HR]
+- o4: יְהוֹשֻׁעַ = H3091 יְהוֹשׁוּעַ "Jehoshua (i.e. Joshua), the Jewish leader" [HNp]
+- o5: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o6: שָׁמְע/וֹ = H8089 שֹׁמַע "a report" [HNcmsc/Sp3ms]
+- o7: בְּ/כָל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o8: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+
+### Joshua 7:14 (context)
+
+- o1: וְ/נִקְרַבְתֶּם = Hc "and" + H7126 קָרַב "to approach (causatively…" [HC/VNq2mp]
+- o2: בַּ/בֹּקֶר = Hb "in" + H1242 בֹּקֶר "properly, dawn (as the break of day)…" [HRd/Ncmsa]
+- o3: לְ/שִׁבְטֵי/כֶם = Hl "to" + H7626 שֵׁבֶט "a scion, i.e. (literally) a stick (for punishing…" [HR/Ncmpc/Sp2mp]
+- o4: וְ/הָיָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3ms]
+- o5: הַ/שֵּׁבֶט = Hd "the" + H7626 שֵׁבֶט "a scion, i.e. (literally) a stick (for punishing…" [HTd/Ncmsa]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: יִלְכְּדֶ/נּוּ = H3920 לָכַד "to catch (in a net, trap or pit)…" [HVqi3ms/Sp3ms]
+- o8: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o9: יִקְרַב = H7126 קָרַב "to approach (causatively…" [HVqi3ms]
+- o10: לַ/מִּשְׁפָּחוֹת = Hl "to" + H4940 מִשְׁפָּחָה "a family, i.e. circle of relatives…" [HRd/Ncfpa]
+- o11: וְ/הַ/מִּשְׁפָּחָה = Hc "and" + Hd "the" + H4940 מִשְׁפָּחָה "a family, i.e. circle of relatives…" [HC/Td/Ncfsa]
+- o12: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o13: יִלְכְּדֶ/נָּה = H3920 לָכַד "to catch (in a net, trap or pit)…" [HVqi3ms/Sp3fs]
+- o14: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o15: תִּקְרַב = H7126 קָרַב "to approach (causatively…" [HVqi3fs]
+- o16: לַ/בָּתִּים = Hl "to" + H1004 בַּיִת "a house (in the greatest variation of…" [HRd/Ncmpa]
+- o17: וְ/הַ/בַּיִת = Hc "and" + Hd "the" + H1004 בַּיִת "a house (in the greatest variation of…" [HC/Td/Ncmsa]
+- o18: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o19: יִלְכְּדֶ/נּוּ = H3920 לָכַד "to catch (in a net, trap or pit)…" [HVqi3ms/Sp3ms]
+- o20: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o21: יִקְרַב = H7126 קָרַב "to approach (causatively…" [HVqi3ms]
+- o22: לַ/גְּבָרִים = Hl "to" + H1397 גֶּבֶר "properly, a valiant man or warrior…" [HRd/Ncmpa]

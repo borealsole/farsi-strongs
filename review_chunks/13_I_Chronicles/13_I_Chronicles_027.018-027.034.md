@@ -743,3 +743,50 @@ Persian entries and current tags:
 - p16: پادشاه  → H4428
 - p17: بود
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 27:17 (context)
+
+- o1: לְ/לֵוִי = Hl "to" + H3881 לֵוִיִּי "a Levite or descendant of Levi" [HR/Np]
+- o2: חֲשַׁבְיָה = H2811 חֲשַׁבְיָה "Chashabjah, the name of nine Israelites" [HNp]
+- o3: בֶן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o4: קְמוּאֵל = H7055 קְמוּאֵל "Kemuel, the name of a relative of Abraham…" [HNp]
+- o5: לְ/אַהֲרֹן = Hl "to" + H175 אַהֲרוֹן "Aharon, the brother of Moses" [HR/Np]
+- o6: צָדוֹק = H6659 צָדוֹק "Tsadok, the name of eight or nine Israelites" [HNp]
+
+### I Chronicles 28:1 (context)
+
+- o1: וַ/יַּקְהֵל = Hc "and" + H6950 קָהַל "to convoke" [HC/Vhw3ms]
+- o2: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o5: שָׂרֵי = H8269 שַׂר "a head person (of any rank or class)" [HNcmpc]
+- o6: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o7: שָׂרֵי = H8269 שַׂר "a head person (of any rank or class)" [HNcmpc]
+- o8: הַ/שְּׁבָטִים = Hd "the" + H7626 שֵׁבֶט "a scion, i.e. (literally) a stick (for punishing…" [HTd/Ncmpa]
+- o9: וְ/שָׂרֵי = Hc "and" + H8269 שַׂר "a head person (of any rank or class)" [HC/Ncmpc]
+- o10: הַ/מַּחְלְקוֹת = Hd "the" + H4256 מַחֲלֹקֶת "a section (of Levites, people or soldiers)" [HTd/Ncfpa]
+- o11: הַ/מְשָׁרְתִים = Hd "the" + H8334 שָׁרַת "to attend as a menial or worshipper…" [HTd/Vprmpa]
+- o12: אֶת = H853 אֵת "properly…" [HTo]
+- o13: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o14: וְ/שָׂרֵי = Hc "and" + H8269 שַׂר "a head person (of any rank or class)" [HC/Ncmpc]
+- o15: הָ/אֲלָפִים = Hd "the" + H505 אֶלֶף "hence (the ox's head being the first letter of…" [HTd/Acbpa]
+- o16: וְ/שָׂרֵי = Hc "and" + H8269 שַׂר "a head person (of any rank or class)" [HC/Ncmpc]
+- o17: הַ/מֵּאוֹת = Hd "the" + H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HTd/Acbpa]
+- o18: וְ/שָׂרֵי = Hc "and" + H8269 שַׂר "a head person (of any rank or class)" [HC/Ncmpc]
+- o19: כָל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o20: רְכוּשׁ = H7399 רְכוּשׁ "property (as gathered)" [HNcmsa]
+- o21: וּ/מִקְנֶה = Hc "and" + H4735 מִקְנֶה "something bought, i.e. property…" [HC/Ncmsa]
+- o22: לַ/מֶּלֶךְ = Hl "to" + H4428 מֶלֶךְ "a king" [HRd/Ncmsa]
+- o23: וּ/לְ/בָנָי/ו = Hc "and" + Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/R/Ncmpc/Sp3ms]
+- o24: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o25: הַ/סָּרִיסִים = Hd "the" + H5631 סָרִיס "a eunuch…" [HTd/Ncmpa]
+- o26: וְ/הַ/גִּבּוֹרִים = Hc "and" + Hd "the" + H1368 גִּבּוֹר "powerful; by implication, warrior, tyrant" [HC/Td/Aampa]
+- o27: וּ/לְ/כָל = Hc "and" + Hl "to" + H3605 כֹּל "properly, the whole…" [HC/R/Ncmsc]
+- o28: גִּבּוֹר = H1368 גִּבּוֹר "powerful; by implication, warrior, tyrant" [HAamsc]
+- o29: חָיִל = H2428 חַיִל "probably a force, whether of men…" [HNcmsa]
+- o30: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o31: יְרוּשָׁלִָם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]

@@ -849,3 +849,48 @@ Persian entries and current tags:
 - p46: یورام  → H3141
 - p47: بیمار بود  → H2470
 - p48: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 8:14 (context)
+
+- o1: וַ/יֵּלֶךְ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3ms]
+- o2: מֵ/אֵת = Hm "from" + H854 אֵת "properly…" [HR/R]
+- o3: אֱלִישָׁע = H477 אֱלִישָׁע "Elisha, the famous prophet" [HNp]
+- o4: וַ/יָּבֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3ms]
+- o5: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o6: אֲדֹנָי/ו = H113 אָדוֹן "sovereign, i.e. controller (human or divine)" [HNcmpc/Sp3ms]
+- o7: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o8: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o9: מָה = H4100 מָה "properly…" [HTi]
+- o10: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o11: לְ/ךָ = Hl "to" [HR/Sp2ms]
+- o12: אֱלִישָׁע = H477 אֱלִישָׁע "Elisha, the famous prophet" [HNp]
+- o13: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o14: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o15: לִ/י = Hl "to" [HR/Sp1cs]
+- o16: חָיֹה = H2421 חָיָה "to live, whether literally or figuratively…" [HVqa]
+- o17: תִחְיֶה = H2421 חָיָה "to live, whether literally or figuratively…" [HVqi2ms]
+
+### II Kings 9:1 (context)
+
+- o1: וֶ/אֱלִישָׁע = Hc "and" + H477 אֱלִישָׁע "Elisha, the famous prophet" [HC/Np]
+- o2: הַ/נָּבִיא = Hd "the" + H5030 נָבִיא "a prophet or (generally) inspired man" [HTd/Ncmsa]
+- o3: קָרָא = H7121 קָרָא "to call out to (i.e. properly, address by name…" [HVqp3ms]
+- o4: לְ/אַחַד = Hl "to" + H259 אֶחָד "properly, united, i.e. one…" [HR/Acmsa]
+- o5: מִ/בְּנֵי = Hm "from" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmpc]
+- o6: הַ/נְּבִיאִים = Hd "the" + H5030 נָבִיא "a prophet or (generally) inspired man" [HTd/Ncmpa]
+- o7: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o8: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o9: חֲגֹר = H2296 חָגַר "to gird on (as a belt, armor, etc.)" [HVqv2ms]
+- o10: מָתְנֶי/ךָ = H4975 מֹתֶן "properly, the waist or small of the back…" [HNcmdc/Sp2ms]
+- o11: וְ/קַח = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqv2ms]
+- o12: פַּךְ = H6378 פַּךְ "a flask (from which a liquid may flow)" [HNcmsc]
+- o13: הַ/שֶּׁמֶן = Hd "the" + H8081 שֶׁמֶן "grease, especially liquid (as from the olive…" [HTd/Ncmsa]
+- o14: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o15: בְּ/יָדֶ/ךָ = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc/Sp2ms]
+- o16: וְ/לֵךְ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqv2ms]
+- o17: רָמֹת = H7433 רָמֹת גִּלעָד "Ramoth-Gilad, a place East of the Jordan" [HNp]
+- o18: גִּלְעָד = H1568 גִּלְעָד "Gilad, a region East of the Jordan…" [HNp]

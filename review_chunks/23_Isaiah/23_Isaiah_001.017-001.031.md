@@ -683,3 +683,31 @@ Persian entries and current tags:
 - p16: و  → Hc
 - p17: خاموش‌کننده‌ای نخواهد_بود  → H1197 H3518
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 1:16 (context)
+
+- o1: רַחֲצוּ = H7364 רָחַץ "to lave (the whole or a part of a thing)" [HVqv2mp]
+- o2: הִזַּכּוּ = H2135 זָכָה "to be translucent; figuratively, to be innocent" [HVtv2mp]
+- o3: הָסִירוּ = H5493 סוּר "to turn off (literal or figurative)" [HVhv2mp]
+- o4: רֹעַ = H7455 רֹעַ "badness (as marring), physically or morally" [HNcmsc]
+- o5: מַעַלְלֵי/כֶם = H4611 מַעֲלָל "an act (good or bad)" [HNcmpc/Sp2mp]
+- o6: מִ/נֶּגֶד = Hm "from" + H5048 נֶגֶד "a front, i.e. part opposite…" [HR/R]
+- o7: עֵינָ/י = H5869 עַיִן "an eye (literally or figuratively)…" [HNcbdc/Sp1cs]
+- o8: חִדְלוּ = H2308 חָדַל "properly, to be flabby…" [HVqv2mp]
+- o9: הָרֵעַ = H7489 רָעַע "properly, to spoil (literally…" [HVha]
+
+### Isaiah 2:1 (context)
+
+- o1: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]
+- o2: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o3: חָזָה = H2372 חָזָה "to gaze at…" [HVqp3ms]
+- o4: יְשַׁעְיָהוּ = H3470 יְשַׁעְיָה "Jeshajah, the name of seven Israelites" [HNp]
+- o5: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o6: אָמוֹץ = H531 אָמוֹץ "Amots, an Israelite" [HNp]
+- o7: עַל = H5921 עַל "above, over, upon…" [HR]
+- o8: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o9: וִ/ירוּשָׁלִָם = Hc "and" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HC/Np]

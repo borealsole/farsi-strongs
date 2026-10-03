@@ -1239,3 +1239,29 @@ Persian entries and current tags:
 - p29: آب  → H4325
 - p30: می‌رفت
 - p31: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Nehemiah 3:32 (context)
+
+- o1: וּ/בֵין = Hc "and" + H996 בֵּין "between (repeated before each noun…" [HC/R]
+- o2: עֲלִיַּת = H5944 עֲלִיָּה "something lofty, i.e. a stair-way…" [HNcfsc]
+- o3: הַ/פִּנָּה = Hd "the" + H6438 פִּנָּה "an angle; by implication, a pinnacle…" [HTd/Ncfsa]
+- o4: לְ/שַׁעַר = Hl "to" + H8179 שַׁעַר "an opening, i.e. door or gate" [HR/Ncmsc]
+- o5: הַ/צֹּאן = Hd "the" + H6629 צֹאן "a collective name for a flock (of sheep or goats)…" [HTd/Ncbsa]
+- o6: הֶחֱזִיקוּ = H2388 חָזַק "to fasten upon…" [HVhp3cp]
+- o7: הַ/צֹּרְפִים = Hd "the" + H6884 צָרַף "to fuse (metal)…" [HTd/Vqrmpa]
+- o8: וְ/הָ/רֹכְלִים = Hc "and" + Hd "the" + H7402 רָכַל "to travel for trading" [HC/Td/Vqrmpa]
+
+### Nehemiah 5:1 (context)
+
+- o1: וַ/תְּהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3fs]
+- o2: צַעֲקַת = H6818 צַעֲקָה "a shriek" [HNcfsc]
+- o3: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o4: וּ/נְשֵׁי/הֶם = Hc "and" + H802 אִשָּׁה "a woman" [HC/Ncfpc/Sp3mp]
+- o5: גְּדוֹלָה = H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HAafsa]
+- o6: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o7: אֲחֵי/הֶם = H251 אָח "a brother (used in the widest sense of literal…" [HNcmpc/Sp3mp]
+- o8: הַ/יְּהוּדִים = Hd "the" + H3064 יְהוּדִי "a Jehudite (i.e. Judaite or Jew)…" [HTd/Ngmpa]

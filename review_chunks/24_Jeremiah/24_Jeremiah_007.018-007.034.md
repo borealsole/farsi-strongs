@@ -998,3 +998,45 @@ Persian entries and current tags:
 - p26: بَدَل
 - p27: خواهد_شد
 - p28: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 7:17 (context)
+
+- o1: הַ/אֵינְ/ךָ = Hi "(untranslatable; interrogative particle)" + H369 אַיִן "a non-entity…" [HTi/Tn/Sp2ms]
+- o2: רֹאֶה = H7200 רָאָה "to see…" [HVqrmsa]
+- o3: מָה = H4100 מָה "properly…" [HTi]
+- o4: הֵמָּה = H1992 הֵם "they (only used when emphatic)" [HPp3mp]
+- o5: עֹשִׂים = H6213 עָשָׂה "to do or make…" [HVqrmpa]
+- o6: בְּ/עָרֵי = Hb "in" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HR/Ncfpc]
+- o7: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o8: וּ/בְ/חֻצוֹת = Hc "and" + Hb "in" + H2351 חוּץ "properly, separate by awall, i.e. outside…" [HC/R/Ncmpc]
+- o9: יְרוּשָׁלִָם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+
+### Jeremiah 8:1 (context)
+
+- o1: בָּ/עֵת = Hb "in" + H6256 עֵת "time, especially (adverb with preposition) now…" [HRd/Ncbsa]
+- o2: הַ/הִיא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3fs]
+- o3: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: ו/יציאו = Hc "and" + H3318 יָצָא "to go (causatively, bring) out…" [HC/Vhi3mp]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: עַצְמוֹת = H6106 עֶצֶם "a bone (as strong); by extension, the body…" [HNcfpc]
+- o8: מַלְכֵי = H4428 מֶלֶךְ "a king" [HNcmpc]
+- o9: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o10: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o11: עַצְמוֹת = H6106 עֶצֶם "a bone (as strong); by extension, the body…" [HNcfpc]
+- o12: שָׂרָי/ו = H8269 שַׂר "a head person (of any rank or class)" [HNcmpc/Sp3ms]
+- o13: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o14: עַצְמוֹת = H6106 עֶצֶם "a bone (as strong); by extension, the body…" [HNcfpc]
+- o15: הַ/כֹּהֲנִים = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmpa]
+- o16: וְ/אֵת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o17: עַצְמוֹת = H6106 עֶצֶם "a bone (as strong); by extension, the body…" [HNcfpc]
+- o18: הַ/נְּבִיאִים = Hd "the" + H5030 נָבִיא "a prophet or (generally) inspired man" [HTd/Ncmpa]
+- o19: וְ/אֵת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o20: עַצְמוֹת = H6106 עֶצֶם "a bone (as strong); by extension, the body…" [HNcfpc]
+- o21: יוֹשְׁבֵי = H3427 יָשַׁב "properly…" [HVqrmpc]
+- o22: יְרוּשָׁלִָם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+- o23: מִ/קִּבְרֵי/הֶם = Hm "from" + H6913 קֶבֶר "a sepulchre" [HR/Ncmpc/Sp3mp]

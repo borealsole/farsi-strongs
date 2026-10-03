@@ -868,3 +868,29 @@ Persian entries and current tags:
 - p15: رقّت‌انگیزتر  → G1652
 - p16: است
 - p17: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Corinthians 14:40 (context)
+
+- o1: πάντα = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-NPN]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: εὐσχημόνως = G2156 εὐσχημόνως "decently, honestly" [ADV]
+- o4: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o5: κατὰ = G2596 κατά "about, according as (to), after, against…" [PREP]
+- o6: τάξιν = G5010 τάξις "order" [N-ASF]
+- o7: γινέσθω. = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-PNM-3S]
+
+### I Corinthians 15:20 (context)
+
+- o1: Νυνὶ = G3570 νυνί "now" [ADV]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: Χριστὸς = G5547 Χριστός "Christ" [N-NSM]
+- o4: ἐγήγερται = G1453 ἐγείρω "awake, lift (up), raise (again, up), rear up…" [V-RPI-3S]
+- o5: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o6: νεκρῶν, = G3498 νεκρός "dead" [A-GPM]
+- o7: ἀπαρχὴ = G536 ἀπαρχή "first-fruits" [N-NSF]
+- o8: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o9: κεκοιμημένων. = G2837 κοιμάω "(be a-, fall a-, fall on) sleep, be dead" [V-RPP-GPM]

@@ -652,3 +652,27 @@ Persian entries and current tags:
 - p14: ،
 - p15: نخواهد_پذیرفت  → H3808 H14
 - p16: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 6:18 (context)
+
+- o1: לֵב = H3820 לֵב "the heart…" [HNcmsa]
+- o2: חֹרֵשׁ = H2790 חָרַשׁ "to scratch, i.e. (by implication) to engrave…" [HVqrmsa]
+- o3: מַחְשְׁבוֹת = H4284 מַחֲשָׁבָה "a contrivance, i.e. (concretely) a texture…" [HNcfpc]
+- o4: אָוֶן = H205 אָוֶן "strictly nothingness…" [HNcmsa]
+- o5: רַגְלַיִם = H7272 רֶגֶל "a foot (as used in walking)…" [HNcfda]
+- o6: מְמַהֲרוֹת = H4116 מָהַר "properly, to be liquid or flow easily…" [HVprfpa]
+- o7: לָ/רוּץ = Hl "to" + H7323 רוּץ "to run (for whatever reason, especially to rush)" [HR/Vqc]
+- o8: לָ/רָעָה = Hl "to" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HRd/Ncfsa]
+
+### Proverbs 7:1 (context)
+
+- o1: בְּנִ/י = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp1cs]
+- o2: שְׁמֹר = H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HVqv2ms]
+- o3: אֲמָרָ/י = H561 אֵמֶר "something said" [HNcmpc/Sp1cs]
+- o4: וּ/מִצְוֺתַ/י = Hc "and" + H4687 מִצְוָה "a command, whether human or divine (collectively…" [HC/Ncfpc/Sp1cs]
+- o5: תִּצְפֹּן = H6845 צָפַן "to hide (by covering over)…" [HVqi2ms]
+- o6: אִתָּ/ךְ = H854 אֵת "properly…" [HR/Sp2fs]

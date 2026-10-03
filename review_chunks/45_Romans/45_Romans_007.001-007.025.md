@@ -1374,3 +1374,40 @@ Persian entries and current tags:
 - p29: گناه  → G266
 - p30: را
 - p31: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Romans 6:23 (context)
+
+- o1: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPN]
+- o2: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o3: ὀψώνια = G3800 ὀψώνιον "wages" [N-NPN]
+- o4: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o5: ἁμαρτίας = G266 ἁμαρτία "offence, sin(-ful)" [N-GSF]
+- o6: θάνατος, = G2288 θάνατος "deadly, (be…) death" [N-NSM]
+- o7: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o8: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o9: χάρισμα = G5486 χάρισμα "(free) gift" [N-NSN]
+- o10: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o11: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o12: ζωὴ = G2222 ζωή "life(-time)" [N-NSF]
+- o13: αἰώνιος = G166 αἰώνιος "eternal, for ever, everlasting, world (began)" [A-NSF]
+- o14: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o15: Χριστῷ = G5547 Χριστός "Christ" [N-DSM]
+- o16: Ἰησοῦ = G2424 Ἰησοῦς "Jesus" [N-DSM]
+- o17: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o18: κυρίῳ = G2962 κύριος "God, Lord, master, Sir" [N-DSM]
+- o19: ἡμῶν. = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+
+### Romans 8:1 (context)
+
+- o1: Οὐδὲν = G3762 οὐδείς "any (man), aught, man, neither any (thing)…" [A-NSN-N]
+- o2: ἄρα = G686 ἄρα "haply, (what) manner (of man), no doubt, perhaps…" [PRT]
+- o3: νῦν = G3568 νῦν "henceforth, + hereafter, of late, soon, present…" [ADV]
+- o4: κατάκριμα = G2631 κατάκριμα "condemnation" [N-NSN]
+- o5: τοῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPM]
+- o6: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o7: Χριστῷ = G5547 Χριστός "Christ" [N-DSM]
+- o8: Ἰησοῦ. = G2424 Ἰησοῦς "Jesus" [N-DSM]

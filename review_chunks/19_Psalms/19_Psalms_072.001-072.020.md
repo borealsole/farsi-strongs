@@ -791,3 +791,33 @@ Persian entries and current tags:
 - p4: یَسا  → H3448
 - p5: پایان می‌یابد  → H3615
 - p6: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 71:24 (context)
+
+- o1: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o2: לְשׁוֹנִ/י = H3956 לָשׁוֹן "the tongue (of man or animals)…" [HNcbsc/Sp1cs]
+- o3: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o4: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o5: תֶּהְגֶּה = H1897 הָגָה "to murmur (in pleasure or anger)…" [HVqi3fs]
+- o6: צִדְקָתֶ/ךָ = H6666 צְדָקָה "rightness (abstractly), subjectively (rectitude)…" [HNcfsc/Sp2ms]
+- o7: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o8: בֹשׁוּ = H954 בּוּשׁ "properly, to pale…" [HVqp3cp]
+- o9: כִי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o10: חָפְרוּ = H2659 חָפֵר "to blush…" [HVqp3cp]
+- o11: מְבַקְשֵׁי = H1245 בָּקַשׁ "to search out (by any method…" [HVprmpc]
+- o12: רָעָתִ/י = H7451 רַע "bad or (as noun) evil (natural or moral)" [HNcfsc/Sp1cs]
+
+### Psalms 73:1 (context)
+
+- o1: מִזְמוֹר = H4210 מִזְמוֹר "properly, instrumental music…" [HNcmsa]
+- o2: לְ/אָסָף = Hl "to" + H623 אָסָף "Asaph, the name of three Israelites…" [HR/Np]
+- o3: אַךְ = H389 אַךְ "a particle of affirmation, surely…" [HTa]
+- o4: טוֹב = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAamsa]
+- o5: לְ/יִשְׂרָאֵל = Hl "to" + H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HR/Np]
+- o6: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o7: לְ/בָרֵי = Hl "to" + H1249 בַּר "beloved; also pure, empty" [HR/Aampc]
+- o8: לֵבָב = H3824 לֵבָב "the heart (as the most interior organ)" [HNcmsa]

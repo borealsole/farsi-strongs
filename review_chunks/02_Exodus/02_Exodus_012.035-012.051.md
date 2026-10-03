@@ -797,3 +797,29 @@ Persian entries and current tags:
 - p13: مصر  → H4714
 - p14: بیرون آورد  → H3318
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 12:34 (context)
+
+- o1: וַ/יִּשָּׂא = Hc "and" + H5375 נָשָׂא "to lift, in a great variety of applications…" [HC/Vqw3ms]
+- o2: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: בְּצֵק/וֹ = H1217 בָּצֵק "dough (as swelling by fermentation)" [HNcmsc/Sp3ms]
+- o5: טֶרֶם = H2962 טֶרֶם "properly, non-occurrence…" [HD]
+- o6: יֶחְמָץ = H2556 חָמֵץ "to be pungent…" [HVqi3ms]
+- o7: מִשְׁאֲרֹתָ/ם = H4863 מִשְׁאֶרֶת "a kneading-trough (in which the dough rises)" [HNcfpc/Sp3mp]
+- o8: צְרֻרֹת = H6887 צָרַר "to cramp, literally or figuratively…" [HVqsfpa]
+- o9: בְּ/שִׂמְלֹתָ/ם = Hb "in" + H8071 שִׂמְלָה "a dress, especially a mantle" [HR/Ncfpc/Sp3mp]
+- o10: עַל = H5921 עַל "above, over, upon…" [HR]
+- o11: שִׁכְמָ/ם = H7926 שְׁכֶם "the neck (between the shoulders) as the place of…" [HNcmsc/Sp3mp]
+
+### Exodus 13:1 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: לֵּ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

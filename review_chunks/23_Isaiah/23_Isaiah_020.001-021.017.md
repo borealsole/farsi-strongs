@@ -1182,3 +1182,36 @@ Persian entries and current tags:
 - p18: چنین فرموده_است  → H1696
 - p19: .
 - p20: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 19:25 (context)
+
+- o1: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o2: בֵּרֲכ/וֹ = H1288 בָרַךְ "to kneel…" [HVpp3ms/Sp3ms]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: צְבָאוֹת = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbpa]
+- o5: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o6: בָּרוּךְ = H1288 בָרַךְ "to kneel…" [HVqsmsa]
+- o7: עַמִּ/י = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp1cs]
+- o8: מִצְרַיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o9: וּ/מַעֲשֵׂה = Hc "and" + H4639 מַעֲשֶׂה "an action (good or bad); generally, a transaction…" [HC/Ncmsc]
+- o10: יָדַ/י = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbdc/Sp1cs]
+- o11: אַשּׁוּר = H804 אַשּׁוּר "Ashshur, the second son of Shem…" [HNp]
+- o12: וְ/נַחֲלָתִ/י = Hc "and" + H5159 נַחֲלָה "properly, something inherited…" [HC/Ncfsc/Sp1cs]
+- o13: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+
+### Isaiah 22:1 (context)
+
+- o1: מַשָּׂא = H4853 מַשָּׂא "a burden…" [HNcmsc]
+- o2: גֵּיא = H1516 גַּיְא "a gorge (from its lofty sides…" [HNcbsc]
+- o3: חִזָּיוֹן = H2384 חִזָּיוֹן "a revelation, expectation by dream" [HNcmsa]
+- o4: מַה = H4100 מָה "properly…" [HTi]
+- o5: לָּ/ךְ = Hl "to" [HR/Sp2fs]
+- o6: אֵפוֹא = H645 אֵפוֹ "strictly a demonstrative particle, here…" [HD]
+- o7: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o8: עָלִית = H5927 עָלָה "to ascend…" [HVqp2fs]
+- o9: כֻּלָּ/ךְ = H3605 כֹּל "properly, the whole…" [HNcmsc/Sp2fs]
+- o10: לַ/גַּגּוֹת = Hl "to" + H1406 גָּג "a roof; by analogy, the top of an altar" [HRd/Ncmpa]

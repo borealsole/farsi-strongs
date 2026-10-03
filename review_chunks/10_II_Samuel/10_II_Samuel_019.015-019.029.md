@@ -925,3 +925,44 @@ Persian entries and current tags:
 - p27: تقسیم کنید  → H2505
 - p28: .
 - p29: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 19:14 (context)
+
+- o1: וַ/יַּט = Hc "and" + H5186 נָטָה "to stretch or spread out…" [HC/Vhw3ms]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: לְבַב = H3824 לֵבָב "the heart (as the most interior organ)" [HNcmsc]
+- o4: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o5: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsc]
+- o6: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o7: כְּ/אִישׁ = Hk "like" + H376 אִישׁ "a man as an individual or a male person…" [HR/Ncmsa]
+- o8: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o9: וַ/יִּשְׁלְחוּ = Hc "and" + H7971 שָׁלַח "to send away, for…" [HC/Vqw3mp]
+- o10: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o11: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o12: שׁוּב = H7725 שׁוּב "to turn back (hence…" [HVqv2ms]
+- o13: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o14: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o15: עֲבָדֶי/ךָ = H5650 עֶבֶד "a servant" [HNcmpc/Sp2ms]
+
+### II Samuel 19:30 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: מְפִיבֹשֶׁת = H4648 מְפִיבֹשֶׁת "Mephibosheth, the name of two Israelites" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o5: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: הַ/כֹּל = Hd "the" + H3605 כֹּל "properly, the whole…" [HTd/Ncmsa]
+- o8: יִקָּח = H3947 לָקַח "to take (in the widest variety of applications)" [HVqj3ms]
+- o9: אַחֲרֵי = H310 אַחַר "properly, the hind part…" [HR]
+- o10: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o11: בָּא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3ms]
+- o12: אֲדֹנִ/י = H113 אָדוֹן "sovereign, i.e. controller (human or divine)" [HNcmsc/Sp1cs]
+- o13: הַ/מֶּלֶך = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o14: בְּ/שָׁלוֹם = Hb "in" + H7965 שָׁלוֹם "safe, i.e. (figuratively) well, happy, friendly…" [HR/Ncmsa]
+- o15: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o16: בֵּית/וֹ = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc/Sp3ms]

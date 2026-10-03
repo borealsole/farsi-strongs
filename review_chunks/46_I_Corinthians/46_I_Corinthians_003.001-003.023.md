@@ -1102,3 +1102,37 @@ Persian entries and current tags:
 - p9: آنِ  → G5547
 - p10: خداست  → G2316
 - p11: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Corinthians 2:16 (context)
+
+- o1: τίς = G5101 τίς "every man, how (much), + no(-ne, thing)…" [I-NSM]
+- o2: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o3: ἔγνω = G1097 γινώσκω "allow, be aware (of), feel, (have) know(-ledge)…" [V-2AAI-3S]
+- o4: νοῦν = G3563 νοῦς "mind, understanding" [N-ASM]
+- o5: κυρίου, = G2962 κύριος "God, Lord, master, Sir" [N-GSM]
+- o6: ὃς = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-NSM]
+- o7: συμβιβάσει = G4822 συμβιβάζω "compact, assuredly gather, intrust, knit together…" [V-FAI-3S]
+- o8: αὐτόν; = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASM]
+- o9: ἡμεῖς = G2249 ἡμεῖς "us, we (ourselves)" [P-1NP]
+- o10: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o11: νοῦν = G3563 νοῦς "mind, understanding" [N-ASM]
+- o12: Χριστοῦ = G5547 Χριστός "Christ" [N-GSM]
+- o13: ἔχομεν. = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAI-1P]
+
+### I Corinthians 4:1 (context)
+
+- o1: Οὕτως = G3779 οὕτω "after that, after (in) this manner, as, even (so)…" [ADV]
+- o2: ἡμᾶς = G2249 ἡμεῖς "us, we (ourselves)" [P-1AP]
+- o3: λογιζέσθω = G3049 λογίζομαι "conclude, (ac-)count (of), + despise, esteem…" [V-PNM-3S]
+- o4: ἄνθρωπος = G444 ἄνθρωπος "certain, man" [N-NSM]
+- o5: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
+- o6: ὑπηρέτας = G5257 ὑπηρέτης "minister, officer, servant" [N-APM]
+- o7: Χριστοῦ = G5547 Χριστός "Christ" [N-GSM]
+- o8: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o9: οἰκονόμους = G3623 οἰκονόμος "chamberlain, governor, steward" [N-APM]
+- o10: μυστηρίων = G3466 μυστήριον "mystery" [N-GPN]
+- o11: θεοῦ. = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]

@@ -721,3 +721,26 @@ Persian entries and current tags:
 - p16: از
 - p17: یاد نبرده‌ام  → H7911
 - p18: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 119:154 (context)
+
+- o1: רִיבָ/ה = H7378 רִיב "properly, to toss, i.e. grapple…" [HVqv2ms/Sh]
+- o2: רִיבִ/י = H7379 רִיב "a contest (personal or legal)" [HNcbsc/Sp1cs]
+- o3: וּ/גְאָלֵ/נִי = Hc "and" + H1350 גָּאַל "to be the next of kin (and as such to buy back a…" [HC/Vqv2ms/Sp1cs]
+- o4: לְ/אִמְרָתְ/ךָ = Hl "to" + H565 אִמְרָה "something said" [HR/Ncfsc/Sp2ms]
+- o5: חַיֵּ/נִי = H2421 חָיָה "to live, whether literally or figuratively…" [HVpv2ms/Sp1cs]
+
+### Psalms 120:1 (context)
+
+- o1: שִׁיר = H7892 שִׁיר "a song; abstractly, singing" [HNcbsc]
+- o2: הַ/מַּעֲלוֹת = Hd "the" + H4609 מַעֲלָה "elevation, i.e. the act (literally…" [HTd/Ncfpa]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: בַּ/צָּרָתָ/ה = Hb "in" + H6869 צָרָה "tightness (i.e. figuratively, trouble)…" [HRd/Ncfsa/Sh]
+- o6: לִּ/י = Hl "to" [HR/Sp1cs]
+- o7: קָרָאתִי = H7121 קָרָא "to call out to (i.e. properly, address by name…" [HVqp1cs]
+- o8: וַ/יַּעֲנֵ/נִי = Hc "and" + H6030 עָנָה "properly, to eye or (generally) to heed…" [HC/Vqw3ms/Sp1cs]

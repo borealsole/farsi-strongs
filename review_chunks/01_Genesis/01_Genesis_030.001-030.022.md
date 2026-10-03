@@ -1019,3 +1019,37 @@ Persian entries and current tags:
 - p14: را  → H853
 - p15: گشود  → H6605 H7358
 - p16: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 29:35 (context)
+
+- o1: וַ/תַּהַר = Hc "and" + H2029 הָרָה "to be (or become) pregnant…" [HC/Vqw3fs]
+- o2: עוֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+- o3: וַ/תֵּלֶד = Hc "and" + H3205 יָלַד "to bear young; causatively, to beget…" [HC/Vqw3fs]
+- o4: בֵּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsa]
+- o5: וַ/תֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3fs]
+- o6: הַ/פַּעַם = Hd "the" + H6471 פַּעַם "a stroke…" [HTd/Ncfsa]
+- o7: אוֹדֶה = H3034 יָדָה "physically, to throw (a stone…" [HVhi1cs]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o10: עַל = H5921 עַל "above, over, upon…" [HR]
+- o11: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o12: קָרְאָה = H7121 קָרָא "to call out to (i.e. properly, address by name…" [HVqp3fs]
+- o13: שְׁמ/וֹ = H8034 שֵׁם "an appellation…" [HNcmsc/Sp3ms]
+- o14: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o15: וַ/תַּעֲמֹד = Hc "and" + H5975 עָמַד "to stand…" [HC/Vqw3fs]
+- o16: מִ/לֶּדֶת = Hm "from" + H3205 יָלַד "to bear young; causatively, to beget…" [HR/Vqc]
+
+### Genesis 30:23 (context)
+
+- o1: וַ/תַּהַר = Hc "and" + H2029 הָרָה "to be (or become) pregnant…" [HC/Vqw3fs]
+- o2: וַ/תֵּלֶד = Hc "and" + H3205 יָלַד "to bear young; causatively, to beget…" [HC/Vqw3fs]
+- o3: בֵּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsa]
+- o4: וַ/תֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3fs]
+- o5: אָסַף = H622 אָסַף "to gather for any purpose…" [HVqp3ms]
+- o6: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: חֶרְפָּתִ/י = H2781 חֶרְפָּה "contumely, disgrace, the pudenda" [HNcfsc/Sp1cs]

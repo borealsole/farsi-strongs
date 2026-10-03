@@ -728,3 +728,25 @@ Persian entries and current tags:
 - p22: رها  → H7503
 - p23: مکن  → H408
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 136:26 (context)
+
+- o1: הוֹדוּ = H3034 יָדָה "physically, to throw (a stone…" [HVhv2mp]
+- o2: לְ/אֵל = Hl "to" + H410 אֵל "strength; as adjective, mighty…" [HR/Ncmsc]
+- o3: הַ/שָּׁמָיִם = Hd "the" + H8064 שָׁמַיִם "the sky (as aloft…" [HTd/Ncmpa]
+- o4: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o5: לְ/עוֹלָם = Hl "to" + H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HR/Ncmsa]
+- o6: חַסְדּ/וֹ = H2617 חֵסֵד "kindness; by implication (towards God) piety…" [HNcmsc/Sp3ms]
+
+### Psalms 139:1 (context)
+
+- o1: לַ/מְנַצֵּחַ = Hl "to" + H5329 נָצַח "properly, to glitter from afar…" [HRd/Vprmsa]
+- o2: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o3: מִזְמוֹר = H4210 מִזְמוֹר "properly, instrumental music…" [HNcmsa]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: חֲקַרְתַּ/נִי = H2713 חָקַר "properly, to penetrate…" [HVqp2ms/Sp1cs]
+- o6: וַ/תֵּדָע = Hc "and" + H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HC/Vqw2ms]

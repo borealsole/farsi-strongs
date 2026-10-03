@@ -726,3 +726,33 @@ Persian entries and current tags:
 - p21: دیگر
 - p22: بود  → H5980
 - p23: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 25:31 (context)
+
+- o1: לְ/אַרְבָּעָה = Hl "to" + H702 אַרְבַּע "four" [HR/Acmsa]
+- o2: וְ/עֶשְׂרִים = Hc "and" + H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HC/Acbpa]
+- o3: לְ/רוֹמַמְתִּי = Hl "to" + H7320 רוֹמַמְתִּי עֶזֶר "Romamti-Ezer, an Israelite" [HR/Np]
+- o4: עָזֶר = H7320 רוֹמַמְתִּי עֶזֶר "Romamti-Ezer, an Israelite" [HNp]
+- o5: בָּנָי/ו = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc/Sp3ms]
+- o6: וְ/אֶחָי/ו = Hc "and" + H251 אָח "a brother (used in the widest sense of literal…" [HC/Ncmpc/Sp3ms]
+- o7: שְׁנֵים = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmda]
+- o8: עָשָׂר = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcmsa]
+
+### I Chronicles 26:17 (context)
+
+- o1: לַ/מִּזְרָח = Hl "to" + H4217 מִזְרָח "sunrise, i.e. the east" [HRd/Ncmsa]
+- o2: הַ/לְוִיִּם = Hd "the" + H3881 לֵוִיִּי "a Levite or descendant of Levi" [HTd/Ngmpa]
+- o3: שִׁשָּׁה = H8337 שֵׁשׁ "six (as an overplus beyond five or the fingers of…" [HAcmsa]
+- o4: לַ/צָּפוֹנָ/ה = Hl "to" + H6828 צָפוֹן "properly, hidden, i.e. dark…" [HRd/Ncfsa/Sd]
+- o5: לַ/יּוֹם = Hl "to" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
+- o6: אַרְבָּעָה = H702 אַרְבַּע "four" [HAcmsa]
+- o7: לַ/נֶּגְבָּ/ה = Hl "to" + H5045 נֶגֶב "the south (from its drought)…" [HRd/Ncmsa/Sd]
+- o8: לַ/יּוֹם = Hl "to" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
+- o9: אַרְבָּעָה = H702 אַרְבַּע "four" [HAcmsa]
+- o10: וְ/לָ/אֲסֻפִּים = Hc "and" + Hl "to" + H624 אָסֻף "collected (only in the plural)…" [HC/Rd/Ncmpa]
+- o11: שְׁנַיִם = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmda]
+- o12: שְׁנָיִם = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmda]

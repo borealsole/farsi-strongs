@@ -1024,3 +1024,40 @@ Persian entries and current tags:
 - p24: این  → H7138
 - p25: نخواهد_پایید  → H3808 H4900
 - p26: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 12:6 (context)
+
+- o1: צַהֲלִי = H6670 צָהַל "to gleam, i.e. (figuratively) be cheerful…" [HVqv2fs]
+- o2: וָ/רֹנִּי = Hc "and" + H7442 רָנַן "properly, to creak (or emit a stridulous sound)…" [HC/Vqv2fs]
+- o3: יוֹשֶׁבֶת = H3427 יָשַׁב "properly…" [HVqrfsa]
+- o4: צִיּוֹן = H6726 צִיּוֹן "Tsijon (as a permanent capital)…" [HNp]
+- o5: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o6: גָדוֹל = H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HAamsa]
+- o7: בְּ/קִרְבֵּ/ךְ = Hb "in" + H7130 קֶרֶב "properly, the nearest part, i.e. the center…" [HR/Ncmsc/Sp2fs]
+- o8: קְדוֹשׁ = H6918 קָדוֹשׁ "sacred (ceremonially or morally)…" [HAamsc]
+- o9: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+
+### Isaiah 14:1 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: יְרַחֵם = H7355 רָחַם "to fondle…" [HVpi3ms]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: יַעֲקֹב = H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HNp]
+- o6: וּ/בָחַר = Hc "and" + H977 בָּחַר "properly, to try, i.e. (by implication) select" [HC/Vqq3ms]
+- o7: עוֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+- o8: בְּ/יִשְׂרָאֵל = Hb "in" + H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HR/Np]
+- o9: וְ/הִנִּיחָ/ם = Hc "and" + H3240 יָנַח "to deposit; by implication, to allow to stay" [HC/Vhq3ms/Sp3mp]
+- o10: עַל = H5921 עַל "above, over, upon…" [HR]
+- o11: אַדְמָתָ/ם = H127 אֲדָמָה "soil (from its general redness)" [HNcfsc/Sp3mp]
+- o12: וְ/נִלְוָה = Hc "and" + H3867 לָוָה "properly, to twine…" [HC/VNq3ms]
+- o13: הַ/גֵּר = Hd "the" + H1616 גֵּר "properly, a guest; by implication, a foreigner" [HTd/Ncmsa]
+- o14: עֲלֵי/הֶם = H5921 עַל "above, over, upon…" [HR/Sp3mp]
+- o15: וְ/נִסְפְּחוּ = Hc "and" + H5596 סָפַח "properly, to scrape out…" [HC/VNq3cp]
+- o16: עַל = H5921 עַל "above, over, upon…" [HR]
+- o17: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o18: יַעֲקֹב = H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HNp]

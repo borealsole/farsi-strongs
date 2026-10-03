@@ -741,3 +741,36 @@ Persian entries and current tags:
 - p9: دشمنتان  → G2190
 - p10: شده‌ام
 - p11: ؟
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Galatians 3:29 (context)
+
+- o1: εἰ = G1487 εἰ "forasmuch as, if, that, (al-)though, whether" [COND]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: ὑμεῖς = G5210 ὑμεῖς "ye (yourselves), you" [P-2NP]
+- o4: Χριστοῦ, = G5547 Χριστός "Christ" [N-GSM]
+- o5: ἄρα = G686 ἄρα "haply, (what) manner (of man), no doubt, perhaps…" [PRT]
+- o6: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o7: Ἀβραὰμ = G11 Ἀβραάμ "Abraham" [N-PRI]
+- o8: σπέρμα = G4690 σπέρμα "issue, seed" [N-NSN]
+- o9: ἐστέ, = G1510 εἰμί "am, have been, it is I, was" [V-PAI-2P]
+- o10: κατὰ = G2596 κατά "about, according as (to), after, against…" [PREP]
+- o11: ἐπαγγελίαν = G1860 ἐπαγγελία "message, promise" [N-ASF]
+- o12: κληρονόμοι. = G2818 κληρονόμος "heir" [N-NPM]
+
+### Galatians 4:17 (context)
+
+- o1: ζηλοῦσιν = G2206 ζηλόω "affect, covet (earnestly), (have) desire…" [V-PAI-3P]
+- o2: ὑμᾶς = G5210 ὑμεῖς "ye (yourselves), you" [P-2AP]
+- o3: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o4: καλῶς, = G2573 καλῶς "in a) good (place), honestly, + recover…" [ADV]
+- o5: ἀλλὰ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o6: ἐκκλεῖσαι = G1576 ἐκκλείω "exclude" [V-AAN]
+- o7: ὑμᾶς = G5210 ὑμεῖς "ye (yourselves), you" [P-2AP]
+- o8: θέλουσιν, = G2309 θέλω "desire, be disposed (forward), intend, list, love…" [V-PAI-3P]
+- o9: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o10: αὐτοὺς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-APM]
+- o11: ζηλοῦτε. = G2206 ζηλόω "affect, covet (earnestly), (have) desire…" [V-PAS-2P]

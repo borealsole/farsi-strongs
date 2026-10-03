@@ -1142,3 +1142,34 @@ Persian entries and current tags:
 - p12: بنی‌اسرائیل  → H3478
 - p13: گفت  → H1696
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 20:27 (context)
+
+- o1: וְ/אִישׁ = Hc "and" + H376 אִישׁ "a man as an individual or a male person…" [HC/Ncmsa]
+- o2: אוֹ = H176 אוֹ "desire (and so probably in Proverbs 31:4)…" [HC]
+- o3: אִשָּׁה = H802 אִשָּׁה "a woman" [HNcfsa]
+- o4: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o5: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o6: בָ/הֶם = Hb "in" [HR/Sp3mp]
+- o7: אוֹב = H178 אוֹב "properly, a mumble…" [HNcmsa]
+- o8: אוֹ = H176 אוֹ "desire (and so probably in Proverbs 31:4)…" [HC]
+- o9: יִדְּעֹנִי = H3049 יִדְּעֹנִי "properly, a knowing one; specifically, a conjurer…" [HNcmsa]
+- o10: מוֹת = H4191 מוּת "to die (literally or figuratively)…" [HVqa]
+- o11: יוּמָתוּ = H4191 מוּת "to die (literally or figuratively)…" [HVHi3mp]
+- o12: בָּ/אֶבֶן = Hb "in" + H68 אֶבֶן "a stone" [HRd/Ncfsa]
+- o13: יִרְגְּמוּ = H7275 רָגַם "to cast together (stones), i.e. to lapidate" [HVqi3mp]
+- o14: אֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o15: דְּמֵי/הֶם = H1818 דָּם "blood (as that which when shed causes death) of…" [HNcmpc/Sp3mp]
+- o16: בָּ/ם = Hb "in" [HR/Sp3mp]
+
+### Leviticus 22:1 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: לֵּ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

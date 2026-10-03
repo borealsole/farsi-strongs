@@ -952,3 +952,34 @@ Persian entries and current tags:
 - p32: کور گردد  → H3001 H3543
 - p33: !
 - p34: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Zechariah 10:12 (context)
+
+- o1: וְ/גִבַּרְתִּי/ם = Hc "and" + H1396 גָּבַר "to be strong…" [HC/Vpp1cs/Sp3mp]
+- o2: בַּ/יהוָה = Hb "in" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o3: וּ/בִ/שְׁמ/וֹ = Hc "and" + Hb "in" + H8034 שֵׁם "an appellation…" [HC/R/Ncmsc/Sp3ms]
+- o4: יִתְהַלָּכוּ = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVti3mp]
+- o5: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### Zechariah 12:1 (context)
+
+- o1: מַשָּׂא = H4853 מַשָּׂא "a burden…" [HNcmsa]
+- o2: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: עַל = H5921 עַל "above, over, upon…" [HR]
+- o5: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o6: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: נֹטֶה = H5186 נָטָה "to stretch or spread out…" [HVqrmsa]
+- o9: שָׁמַיִם = H8064 שָׁמַיִם "the sky (as aloft…" [HNcmpa]
+- o10: וְ/יֹסֵד = Hc "and" + H3245 יָסַד "to set (literally or figuratively)…" [HC/Vqrmsa]
+- o11: אָרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsa]
+- o12: וְ/יֹצֵר = Hc "and" + H3335 יָצַר "to mould into a form; especially as apotter…" [HC/Vqrmsa]
+- o13: רוּחַ = H7307 רוּחַ "wind…" [HNcbsc]
+- o14: אָדָם = H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HNcmsa]
+- o15: בְּ/קִרְבּ/וֹ = Hb "in" + H7130 קֶרֶב "properly, the nearest part, i.e. the center…" [HR/Ncmsc/Sp3ms]

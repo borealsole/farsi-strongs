@@ -971,3 +971,38 @@ Persian entries and current tags:
 - p18: !
 - p19: آمین  → G281
 - p20: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ephesians 2:22 (context)
+
+- o1: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o2: ᾧ = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-DSM]
+- o3: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o4: ὑμεῖς = G5210 ὑμεῖς "ye (yourselves), you" [P-2NP]
+- o5: συνοικοδομεῖσθε = G4925 συνοικοδομέω "build together" [V-PPI-2P]
+- o6: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o7: κατοικητήριον = G2732 κατοικητήριον "habitation" [N-ASN]
+- o8: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o9: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o10: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o11: πνεύματι. = G4151 πνεῦμα "ghost, life, spirit(-ual, -ually), mind" [N-DSN]
+
+### Ephesians 4:1 (context)
+
+- o1: Παρακαλῶ = G3870 παρακαλέω "beseech, call for, (be of good) comfort, desire…" [V-PAI-1S]
+- o2: οὖν = G3767 οὖν "and (so, truly), but, now (then)…" [CONJ]
+- o3: ὑμᾶς = G5210 ὑμεῖς "ye (yourselves), you" [P-2AP]
+- o4: ἐγὼ = G1473 ἐγώ "I, me" [P-1NS]
+- o5: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o6: δέσμιος = G1198 δέσμιος "in bonds, prisoner" [N-NSM]
+- o7: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o8: κυρίῳ = G2962 κύριος "God, Lord, master, Sir" [N-DSM]
+- o9: ἀξίως = G516 ἀξίως "as becometh, after a godly sort, worthily(-thy)" [ADV]
+- o10: περιπατῆσαι = G4043 περιπατέω "go, be occupied with, walk (about)" [V-AAN]
+- o11: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o12: κλήσεως = G2821 κλῆσις "calling" [N-GSF]
+- o13: ἧς = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-GSF]
+- o14: ἐκλήθητε, = G2564 καλέω "bid, call (forth), (whose…" [V-API-2P]

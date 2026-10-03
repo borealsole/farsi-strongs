@@ -1296,3 +1296,33 @@ Persian entries and current tags:
 - p18: پیامبر  → G4396
 - p19: می‌دانستند  → G2192
 - p20: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 21:22 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: πάντα = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-APN]
+- o3: ὅσα = G3745 ὅσος "all (that), as (long, many, much) (as)…" [K-APN]
+- o4: ἂν = G302 ἄν "(what-, where-, wither-, who-)soever" [PRT]
+- o5: αἰτήσητε = G154 αἰτέω "ask, beg, call for, crave, desire, require" [V-AAS-2P]
+- o6: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o7: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o8: προσευχῇ = G4335 προσευχή "pray earnestly, prayer" [N-DSF]
+- o9: πιστεύοντες = G4100 πιστεύω "believe(-r), commit (to trust), put in trust with" [V-PAP-NPM]
+- o10: λήμψεσθε. = G2983 λαμβάνω "accept, + be amazed, assay, attain, bring…" [V-FDI-2P]
+
+### Matthew 22:1 (context)
+
+- o1: Καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἀποκριθεὶς = G611 ἀποκρίνομαι "answer" [V-AOP-NSM]
+- o3: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o4: Ἰησοῦς = G2424 Ἰησοῦς "Jesus" [N-NSM]
+- o5: πάλιν = G3825 πάλιν "again" [ADV]
+- o6: εἶπεν = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-2AAI-3S]
+- o7: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o8: παραβολαῖς = G3850 παραβολή "comparison, figure, parable, proverb" [N-DPF]
+- o9: αὐτοῖς, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPM]
+- o10: λέγων· = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAP-NSM]

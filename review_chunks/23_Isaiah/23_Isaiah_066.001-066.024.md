@@ -1446,3 +1446,42 @@ Persian entries and current tags:
 - p30: خواهند_بود
 - p31: .
 - p32: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 65:25 (context)
+
+- o1: זְאֵב = H2061 זְאֵב "a wolf" [HNcmsa]
+- o2: וְ/טָלֶה = Hc "and" + H2924 טָלֶה "a lamb" [HC/Ncmsa]
+- o3: יִרְעוּ = H7462 רָעָה "to tend a flock; i.e. pasture it…" [HVqi3mp]
+- o4: כְ/אֶחָד = Hk "like" + H259 אֶחָד "properly, united, i.e. one…" [HR/Acmsa]
+- o5: וְ/אַרְיֵה = Hc "and" + H738 אֲרִי "a lion" [HC/Ncmsa]
+- o6: כַּ/בָּקָר = Hk "like" + H1241 בָּקָר "beef cattle or an animal of the ox family of…" [HRd/Ncbsa]
+- o7: יֹאכַל = H398 אָכַל "to eat (literally or figuratively)" [HVqi3ms]
+- o8: תֶּבֶן = H8401 תֶּבֶן "properly, material…" [HNcmsa]
+- o9: וְ/נָחָשׁ = Hc "and" + H5175 נָחָשׁ "a snake (from its hiss)" [HC/Ncmsa]
+- o10: עָפָר = H6083 עָפָר "dust (as powdered or gray)…" [HNcmsa]
+- o11: לַחְמ/וֹ = H3899 לֶחֶם "food (for man or beast), especially bread…" [HNcbsc/Sp3ms]
+- o12: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o13: יָרֵעוּ = H7489 רָעַע "properly, to spoil (literally…" [HVhi3mp]
+- o14: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o15: יַשְׁחִיתוּ = H7843 שָׁחַת "to decay…" [HVhi3mp]
+- o16: בְּ/כָל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o17: הַר = H2022 הַר "a mountain or range of hills (sometimes used…" [HNcmsc]
+- o18: קָדְשִׁ/י = H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HNcmsc/Sp1cs]
+- o19: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o20: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### Isaiah 66:13 (context)
+
+- o1: כְּ/אִישׁ = Hk "like" + H376 אִישׁ "a man as an individual or a male person…" [HR/Ncmsa]
+- o2: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o3: אִמּ/וֹ = H517 אֵם "a mother (as the bond of the family)…" [HNcfsc/Sp3ms]
+- o4: תְּנַחֲמֶ/נּוּ = H5162 נָחַם "properly, to sigh, i.e. breathe strongly…" [HVpi3fs/Sp3ms]
+- o5: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o6: אָנֹכִי = H595 אָנֹכִי "I" [HPp1cs]
+- o7: אֲנַחֶמְ/כֶם = H5162 נָחַם "properly, to sigh, i.e. breathe strongly…" [HVpi1cs/Sp2mp]
+- o8: וּ/בִ/ירוּשָׁלִַם = Hc "and" + Hb "in" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HC/R/Np]
+- o9: תְּנֻחָמוּ = H5162 נָחַם "properly, to sigh, i.e. breathe strongly…" [HVPi2mp]

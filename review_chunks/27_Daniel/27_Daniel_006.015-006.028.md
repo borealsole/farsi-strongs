@@ -878,3 +878,50 @@ Persian entries and current tags:
 - p11: ،
 - p12: کامروا می‌بود  → H6744
 - p13: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Daniel 6:14 (context)
+
+- o1: אֱדַיִן = H116 אֱדַיִן "then (of time)" [AD]
+- o2: מַלְכָּ/א = H4430 מֶלֶךְ "a king" [ANcmsd/Td]
+- o3: כְּ/דִי = Hk "like" + H1768 דִּי "that, used as relative conjunction…" [AC/C]
+- o4: מִלְּתָ/א = H4406 מִלָּה "a word, command, discourse, or subject" [ANcfsd/Td]
+- o5: שְׁמַע = H8086 שְׁמַע "to hear intelligently (often with implication of…" [AVqp3ms]
+- o6: שַׂגִּיא = H7690 שַׂגִּיא "large (in size, quantity or number…" [AAamsa]
+- o7: בְּאֵשׁ = H888 בְּאֵשׁ "to smell bad…" [AVqrmsa]
+- o8: עֲלוֹ/הִי = H5922 עַל "above, over, upon…" [AR/Sp3ms]
+- o9: וְ/עַל = Hc "and" + H5922 עַל "above, over, upon…" [AC/R]
+- o10: דָּנִיֵּאל = H1841 דָּנִיֵּאל "Danijel, the Hebrew prophet" [ANp]
+- o11: שָׂם = H7761 שׂוּם "to put (used in a great variety of applications…" [AVqp3ms]
+- o12: בָּל = H1079 בָּל "properly, anxiety…" [ANcmsa]
+- o13: לְ/שֵׁיזָבוּתֵ/הּ = Hl "to" + H7804 שְׁזַב "to leave, i.e. (causatively) free" [AR/Vec/Sp3ms]
+- o14: וְ/עַד = Hc "and" + H5705 עַד "as far (or long, or much) as…" [AC/R]
+- o15: מֶעָלֵי = H4606 מֵעָל "only in plural as singular) the setting (of the…" [ANcmpc]
+- o16: שִׁמְשָׁ/א = H8122 שֶׁמֶשׁ "the sun" [ANcbsd/Td]
+- o17: הֲוָא = H1934 הָוָא "to exist…" [AVqp3ms]
+- o18: מִשְׁתַּדַּר = H7712 שְׁדַר "to endeavor" [AVMrmsa]
+- o19: לְ/הַצָּלוּתֵ/הּ = Hl "to" + H5338 נְצַל "to extricate" [AR/Vhc/Sp3ms]
+
+### Daniel 7:1 (context)
+
+- o1: בִּ/שְׁנַת = Hb "in" + H8140 שְׁנָה "a year (as a revolution of time)" [AR/Ncfsc]
+- o2: חֲדָה = H2298 חַד "as card. one; as article single…" [AAcfsa]
+- o3: לְ/בֵלְאשַׁצַּר = Hl "to" + H1113 בֵּלְשַׁאצַּר "Belshatstsar, a Babylonian king" [AR/Np]
+- o4: מֶלֶךְ = H4430 מֶלֶךְ "a king" [ANcmsc]
+- o5: בָּבֶל = H895 בַּבֶל "Babel (i.e. Babylon)…" [ANp]
+- o6: דָּנִיֵּאל = H1841 דָּנִיֵּאל "Danijel, the Hebrew prophet" [ANp]
+- o7: חֵלֶם = H2493 חֵלֶם "a dream" [ANcmsa]
+- o8: חֲזָה = H2370 חֲזָא "to gaze upon…" [AVqp3ms]
+- o9: וְ/חֶזְוֵי = Hc "and" + H2376 חֵזֵו "a sight" [AC/Ncmpc]
+- o10: רֵאשֵׁ/הּ = H7217 רֵאשׁ "the head; figuratively, the sum" [ANcmsc/Sp3ms]
+- o11: עַל = H5922 עַל "above, over, upon…" [AR]
+- o12: מִשְׁכְּבֵ/הּ = H4903 מִשְׁכַּב "a bed" [ANcmsc/Sp3ms]
+- o13: בֵּ/אדַיִן = Hb "in" + H116 אֱדַיִן "then (of time)" [AR/D]
+- o14: חֶלְמָ/א = H2493 חֵלֶם "a dream" [ANcmsd/Td]
+- o15: כְתַב = H3790 כְּתַב "to grave, by implication, to write (describe…" [AVqp3ms]
+- o16: רֵאשׁ = H7217 רֵאשׁ "the head; figuratively, the sum" [ANcmsc]
+- o17: מִלִּין = H4406 מִלָּה "a word, command, discourse, or subject" [ANcfpa]
+- o18: אֲמַר = H560 אֲמַר "to say (used with great latitude)" [AVqp3ms]

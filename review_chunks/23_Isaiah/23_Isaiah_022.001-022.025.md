@@ -1225,3 +1225,38 @@ Persian entries and current tags:
 - p40: خداوند  → H3068
 - p41: چنین فرموده_است  → H1696
 - p42: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 21:17 (context)
+
+- o1: וּ/שְׁאָר = Hc "and" + H7605 שְׁאָר "a remainder" [HC/Ncmsc]
+- o2: מִסְפַּר = H4557 מִסְפָּר "a number…" [HNcmsc]
+- o3: קֶשֶׁת = H7198 קֶשֶׁת "a bow, forshooting (hence, figuratively…" [HNcfsa]
+- o4: גִּבּוֹרֵי = H1368 גִּבּוֹר "powerful; by implication, warrior, tyrant" [HAampc]
+- o5: בְנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o6: קֵדָר = H6938 קֵדָר "Kedar, a son of Ishmael…" [HNp]
+- o7: יִמְעָטוּ = H4591 מָעַט "properly, to pare off, i.e. lessen…" [HVqi3mp]
+- o8: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o9: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o10: אֱלֹהֵי = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc]
+- o11: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o12: דִּבֵּר = H1696 דָבַר "perhaps properly, to arrange…" [HVpp3ms]
+
+### Isaiah 23:1 (context)
+
+- o1: מַשָּׂא = H4853 מַשָּׂא "a burden…" [HNcmsc]
+- o2: צֹר = H6865 צֹר "Tsor, a place in Palestine" [HNp]
+- o3: הֵילִילוּ = H3213 יָלַל "to howl (with a wailing tone) or yell (with a…" [HVhv2mp]
+- o4: אֳנִיּוֹת = H591 אֳנִיָּה "a ship" [HNcfpc]
+- o5: תַּרְשִׁישׁ = H8659 תַּרְשִׁישׁ "Tarshish, a place on the Mediterranean, hence…" [HNp]
+- o6: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o7: שֻׁדַּד = H7703 שָׁדַד "properly, to be burly…" [HVPp3ms]
+- o8: מִ/בַּיִת = Hm "from" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsa]
+- o9: מִ/בּוֹא = Hm "from" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HR/Vqc]
+- o10: מֵ/אֶרֶץ = Hm "from" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o11: כִּתִּים = H3794 כִּתִּי "a Kittite or Cypriote…" [HNp]
+- o12: נִגְלָה = H1540 גָּלָה "to denude (especially in a disgraceful sense)…" [HVNp3ms]
+- o13: לָ/מוֹ = Hl "to" [HR/Sp3mp]

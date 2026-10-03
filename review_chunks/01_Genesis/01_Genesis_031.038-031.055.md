@@ -954,3 +954,38 @@ Persian entries and current tags:
 - p21: خویش
 - p22: بازگشت  → H7725
 - p23: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 31:37 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: מִשַּׁשְׁתָּ = H4959 מָשַׁשׁ "to feel of; by implication, to grope" [HVpp2ms]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o5: כֵּלַ/י = H3627 כְּלִי "something prepared…" [HNcmpc/Sp1cs]
+- o6: מַה = H4100 מָה "properly…" [HTi]
+- o7: מָּצָאתָ = H4672 מָצָא "properly, to come forth to, i.e. appear or exist…" [HVqp2ms]
+- o8: מִ/כֹּל = Hm "from" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o9: כְּלֵי = H3627 כְּלִי "something prepared…" [HNcmpc]
+- o10: בֵיתֶ/ךָ = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc/Sp2ms]
+- o11: שִׂים = H7760 שׂוּם "to put (used in a great variety of applications…" [HVqv2ms]
+- o12: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o13: נֶגֶד = H5048 נֶגֶד "a front, i.e. part opposite…" [HR]
+- o14: אַחַ/י = H251 אָח "a brother (used in the widest sense of literal…" [HNcmpc/Sp1cs]
+- o15: וְ/אַחֶי/ךָ = Hc "and" + H251 אָח "a brother (used in the widest sense of literal…" [HC/Ncmpc/Sp2ms]
+- o16: וְ/יוֹכִיחוּ = Hc "and" + H3198 יָכַח "to be right (i.e. correct); reciprocal, to argue…" [HC/Vhj3mp]
+- o17: בֵּין = H996 בֵּין "between (repeated before each noun…" [HR]
+- o18: שְׁנֵי/נוּ = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmdc/Sp1cp]
+
+### Genesis 32:1 (context)
+
+- o1: וְ/יַעֲקֹב = Hc "and" + H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HC/Np]
+- o2: הָלַךְ = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVqp3ms]
+- o3: לְ/דַרְכּ/וֹ = Hl "to" + H1870 דֶּרֶךְ "a road (as trodden)…" [HR/Ncbsc/Sp3ms]
+- o4: וַ/יִּפְגְּעוּ = Hc "and" + H6293 פָּגַע "to impinge, by accident or violence…" [HC/Vqw3mp]
+- o5: ב/וֹ = Hb "in" [HR/Sp3ms]
+- o6: מַלְאֲכֵי = H4397 מֲלְאָךְ "a messenger…" [HNcmpc]
+- o7: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]

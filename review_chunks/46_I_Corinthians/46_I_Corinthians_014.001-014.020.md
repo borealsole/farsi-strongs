@@ -986,3 +986,49 @@ Persian entries and current tags:
 - p24: بالغ  → G5046
 - p25: باشید
 - p26: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Corinthians 13:13 (context)
+
+- o1: νυνὶ = G3570 νυνί "now" [ADV]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: μένει = G3306 μένω "abide, continue, dwell, endure, be present…" [V-PAI-3S]
+- o4: πίστις, = G4102 πίστις "assurance, belief, believe, faith, fidelity" [N-NSF]
+- o5: ἐλπίς, = G1680 ἐλπίς "faith, hope" [N-NSF]
+- o6: ἀγάπη, = G26 ἀγάπη "(feast of) charity(-ably), dear, love" [N-NSF]
+- o7: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPN]
+- o8: τρία = G5140 τρεῖς "three" [A-NPN]
+- o9: ταῦτα· = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-NPN]
+- o10: μείζων = G3173 μέγας "+ fear) exceedingly, great(-est), high, large…" [A-NSF-C]
+- o11: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o12: τούτων = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-GPN]
+- o13: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o14: ἀγάπη. = G26 ἀγάπη "(feast of) charity(-ably), dear, love" [N-NSF]
+
+### I Corinthians 14:21 (context)
+
+- o1: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o2: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o3: νόμῳ = G3551 νόμος "law" [N-DSM]
+- o4: γέγραπται = G1125 γράφω "describe, write(-ing, -ten)" [V-RPI-3S]
+- o5: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o6: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o7: ἑτερογλώσσοις = G2084 ἑτερόγλωσσος "man of other tongue" [A-DPM]
+- o8: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o9: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o10: χείλεσιν = G5491 χεῖλος "lip, shore" [N-DPN]
+- o11: ἑτέρων = G2087 ἕτερος "altered, else, next (day), one, (an-)other, some…" [A-GPM]
+- o12: λαλήσω = G2980 λαλέω "preach, say, speak (after), talk, tell, utter" [V-FAI-1S]
+- o13: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o14: λαῷ = G2992 λαός "people" [N-DSM]
+- o15: τούτῳ, = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-DSM]
+- o16: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o17: οὐδ’ = G3761 οὐδέ "neither (indeed), never, no (more, nor, not)…" [CONJ-N]
+- o18: οὕτως = G3779 οὕτω "after that, after (in) this manner, as, even (so)…" [ADV]
+- o19: εἰσακούσονταί = G1522 εἰσακούω "hear" [V-FDI-3P]
+- o20: μου, = G1473 ἐγώ "I, me" [P-1GS]
+- o21: λέγει = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-3S]
+- o22: κύριος. = G2962 κύριος "God, Lord, master, Sir" [N-NSM]

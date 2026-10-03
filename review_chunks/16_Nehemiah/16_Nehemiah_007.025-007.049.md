@@ -645,3 +645,24 @@ Persian entries and current tags:
 - p7: پسران  → H1121
 - p8: جاحَر  → H1515
 - p9: ،
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Nehemiah 7:24 (context)
+
+- o1: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o2: חָרִיף = H2756 חָרִיף "Chariph, the name of two Israelites" [HNp]
+- o3: מֵאָה = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbsa]
+- o4: שְׁנֵים = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmda]
+- o5: עָשָׂר = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcmsa]
+
+### Nehemiah 7:50 (context)
+
+- o1: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o2: רְאָיָה = H7211 רְאָיָה "Reajah, the name of three Israelites" [HNp]
+- o3: בְנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o4: רְצִין = H7526 רְצִין "Retsin, the name of a Syrian and of an Israelite" [HNp]
+- o5: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o6: נְקוֹדָא = H5353 נְקוֹדָא "Nekoda, a Temple-servant" [HNp]

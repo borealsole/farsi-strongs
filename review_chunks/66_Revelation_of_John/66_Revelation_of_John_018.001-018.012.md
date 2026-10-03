@@ -840,3 +840,62 @@ Persian entries and current tags:
 - p41: آنان
 - p42: را
 - p43: ؛
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Revelation of John 17:18 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o3: γυνὴ = G1135 γυνή "wife, woman" [N-NSF]
+- o4: ἣν = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-ASF]
+- o5: εἶδες = G3708 ὁράω "behold, perceive, see, take heed" [V-2AAI-2S]
+- o6: ἔστιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o7: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o8: πόλις = G4172 πόλις "city" [N-NSF]
+- o9: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o10: μεγάλη = G3173 μέγας "+ fear) exceedingly, great(-est), high, large…" [A-NSF]
+- o11: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o12: ἔχουσα = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAP-NSF]
+- o13: βασιλείαν = G932 βασιλεία "kingdom, + reign" [N-ASF]
+- o14: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o15: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o16: βασιλέων = G935 βασιλεύς "king" [N-GPM]
+- o17: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o18: γῆς. = G1093 γῆ "country, earth(-ly), ground, land, world" [N-GSF]
+
+### Revelation of John 18:13 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: κιννάμωμον = G2792 κινάμωμον "cinnamon" [N-ASN]
+- o3: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o4: ἄμωμον = G299 ἄμωμος "without blame (blemish, fault, spot), faultless…" [N-ASN]
+- o5: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o6: θυμιάματα = G2368 θυμίαμα "incense, odour" [N-APN]
+- o7: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o8: μύρον = G3464 μύρον "ointment" [N-ASN]
+- o9: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o10: λίβανον = G3030 λίβανος "frankincense" [N-ASM]
+- o11: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o12: οἶνον = G3631 οἶνος "wine" [N-ASM]
+- o13: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o14: ἔλαιον = G1637 ἔλαιον "oil" [N-ASN]
+- o15: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o16: σεμίδαλιν = G4585 σεμίδαλις "fine flour" [N-ASF]
+- o17: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o18: σῖτον = G4621 σῖτος "corn, wheat" [N-ASM]
+- o19: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o20: κτήνη = G2934 κτῆνος "beast" [N-APN]
+- o21: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o22: πρόβατα, = G4263 πρόβατον "sheep(-fold)" [N-APN]
+- o23: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o24: ἵππων = G2462 ἵππος "horse" [N-GPM]
+- o25: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o26: ῥεδῶν = G4480 ῥέδα "chariot" [N-GPF]
+- o27: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o28: σωμάτων, = G4983 σῶμα "bodily, body, slave" [N-GPN]
+- o29: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o30: ψυχὰς = G5590 ψυχή "heart (+ -ily), life, mind, soul, + us, + you" [N-APF]
+- o31: ἀνθρώπων. = G444 ἄνθρωπος "certain, man" [N-GPM]

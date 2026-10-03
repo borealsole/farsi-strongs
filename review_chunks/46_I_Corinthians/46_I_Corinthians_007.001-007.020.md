@@ -1024,3 +1024,37 @@ Persian entries and current tags:
 - p8: فرا~خوانده شده  → G2564
 - p9: باقی بماند  → G3306
 - p10: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Corinthians 6:20 (context)
+
+- o1: ἠγοράσθητε = G59 ἀγοράζω "buy, redeem" [V-API-2P]
+- o2: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o3: τιμῆς· = G5092 τιμή "honour, precious, price, some" [N-GSF]
+- o4: δοξάσατε = G1392 δοξάζω "make) glorify(-ious), full of (have) glory…" [V-AAM-2P]
+- o5: δὴ = G1211 δή "also, and, doubtless, now, therefore" [PRT]
+- o6: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o7: θεὸν = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-ASM]
+- o8: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o9: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSN]
+- o10: σώματι = G4983 σῶμα "bodily, body, slave" [N-DSN]
+- o11: ὑμῶν. = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
+
+### I Corinthians 7:21 (context)
+
+- o1: δοῦλος = G1401 δοῦλος "bond(-man), servant" [N-NSM]
+- o2: ἐκλήθης; = G2564 καλέω "bid, call (forth), (whose…" [V-API-2S]
+- o3: μή = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o4: σοι = G4771 σύ "thou" [P-2DS]
+- o5: μελέτω· = G3199 μέλω "(take) care" [V-PAM-3S]
+- o6: ἀλλ’ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o7: εἰ = G1487 εἰ "forasmuch as, if, that, (al-)though, whether" [COND]
+- o8: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o9: δύνασαι = G1410 δύναμαι "be able, can (do, + -not), could, may, might…" [V-PNI-2S]
+- o10: ἐλεύθερος = G1658 ἐλεύθερος "free (man, woman), at liberty" [A-NSM]
+- o11: γενέσθαι, = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-2ADN]
+- o12: μᾶλλον = G3123 μᾶλλον "+ better, far, (the) more (and more)…" [ADV]
+- o13: χρῆσαι. = G5530 χράομαι "entreat, use" [V-ADM-2S]

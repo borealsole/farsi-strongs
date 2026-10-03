@@ -736,3 +736,41 @@ Persian entries and current tags:
 - p32: شهر  → H5892
 - p33: نبوّت کنم  → H5012
 - p34: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 25:38 (context)
+
+- o1: עָזַב = H5800 עָזַב "to loosen, i.e. relinquish, permit, etc" [HVqp3ms]
+- o2: כַּ/כְּפִיר = Hk "like" + H3715 כְּפִיר "a village (as covered in by walls)…" [HRd/Ncmsa]
+- o3: סֻכּ/וֹ = H5520 סֹךְ "a hut (as of entwined boughs); also a lair" [HNcmsc/Sp3ms]
+- o4: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o5: הָיְתָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3fs]
+- o6: אַרְצָ/ם = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsc/Sp3mp]
+- o7: לְ/שַׁמָּה = Hl "to" + H8047 שַׁמָּה "ruin; by implication, consternation" [HR/Ncfsa]
+- o8: מִ/פְּנֵי = Hm "from" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o9: חֲרוֹן = H2740 חָרוֹן "a burning of anger" [HNcmsc]
+- o10: הַ/יּוֹנָה = Hd "the" + H3238 יָנָה "to rage or be violent…" [HTd/Vqrfsa]
+- o11: וּ/מִ/פְּנֵי = Hc "and" + Hm "from" + H6440 פָּנִים "the face (as the part that turns)…" [HC/R/Ncbpc]
+- o12: חֲרוֹן = H2740 חָרוֹן "a burning of anger" [HNcmsc]
+- o13: אַפּ/וֹ = H639 אַף "properly, the nose or nostril…" [HNcmsc/Sp3ms]
+
+### Jeremiah 26:13 (context)
+
+- o1: וְ/עַתָּה = Hc "and" + H6258 עַתָּה "at this time, whether adverb…" [HC/D]
+- o2: הֵיטִיבוּ = H3190 יָטַב "to be (causative) make well, literally (sound…" [HVhv2mp]
+- o3: דַרְכֵי/כֶם = H1870 דֶּרֶךְ "a road (as trodden)…" [HNcbpc/Sp2mp]
+- o4: וּ/מַעַלְלֵי/כֶם = Hc "and" + H4611 מַעֲלָל "an act (good or bad)" [HC/Ncmpc/Sp2mp]
+- o5: וְ/שִׁמְעוּ = Hc "and" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HC/Vqv2mp]
+- o6: בְּ/קוֹל = Hb "in" + H6963 קוֹל "a voice or sound" [HR/Ncmsc]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: אֱלֹהֵי/כֶם = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2mp]
+- o9: וְ/יִנָּחֵם = Hc "and" + H5162 נָחַם "properly, to sigh, i.e. breathe strongly…" [HC/VNi3ms]
+- o10: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o11: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o12: הָ/רָעָה = Hd "the" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HTd/Ncfsa]
+- o13: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o14: דִּבֶּר = H1696 דָבַר "perhaps properly, to arrange…" [HVpp3ms]
+- o15: עֲלֵי/כֶם = H5921 עַל "above, over, upon…" [HR/Sp2mp]

@@ -1109,3 +1109,38 @@ Persian entries and current tags:
 - p35: عمل آور  → H6213
 - p36: .
 - p37: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 21:35 (context)
+
+- o1: וַ/יַּכּוּ = Hc "and" + H5221 נָכָה "to strike (lightly or severely…" [HC/Vhw3mp]
+- o2: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o3: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o4: בָּנָי/ו = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc/Sp3ms]
+- o5: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o6: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o7: עַמּ/וֹ = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp3ms]
+- o8: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o9: בִּלְתִּי = H1115 בִּלְתִּי "properly, a failure of…" [HC]
+- o10: הִשְׁאִיר = H7604 שָׁאַר "properly, to swell up, i.e. be (causatively…" [HVhp3ms]
+- o11: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o12: שָׂרִיד = H8300 שָׂרִיד "a survivor" [HNcmsa]
+- o13: וַ/יִּירְשׁוּ = Hc "and" + H3423 יָרַשׁ "to occupy (by driving out previous tenants…" [HC/Vqw3mp]
+- o14: אֶת = H853 אֵת "properly…" [HTo]
+- o15: אַרְצ/וֹ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsc/Sp3ms]
+
+### Numbers 22:21 (context)
+
+- o1: וַ/יָּקָם = Hc "and" + H6965 קוּם "to rise (in various applications, literal…" [HC/Vqw3ms]
+- o2: בִּלְעָם = H1109 בִּלְעָם "Bilam, a Mesopotamian prophet…" [HNp]
+- o3: בַּ/בֹּקֶר = Hb "in" + H1242 בֹּקֶר "properly, dawn (as the break of day)…" [HRd/Ncmsa]
+- o4: וַ/יַּחֲבֹשׁ = Hc "and" + H2280 חָבַשׁ "to wrap firmly (especially a turban, compress…" [HC/Vqw3ms]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: אֲתֹנ/וֹ = H860 אָתוֹן "a female donkey (from its docility)" [HNcfsc/Sp3ms]
+- o7: וַ/יֵּלֶךְ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3ms]
+- o8: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o9: שָׂרֵי = H8269 שַׂר "a head person (of any rank or class)" [HNcmpc]
+- o10: מוֹאָב = H4124 מוֹאָב "Moab, an incestuous son of Lot…" [HNp]

@@ -356,3 +356,50 @@ Persian entries and current tags:
 - p36: خواهم_بخشید  → H5414 H3212
 - p37: .
 - p38: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 44:30 (context)
+
+- o1: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o2: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: הִנְ/נִי = H2005 הֵן "lo!; also (as expressing surprise) if" [HTm/Sp1cs]
+- o5: נֹתֵן = H5414 נָתַן "to give…" [HVqrmsa]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: פַּרְעֹה = H6548 פַּרְעֹה חׇפְרַע "Paroh-Chophra, an Egyptian king" [HNp]
+- o8: חָפְרַע = H6548 פַּרְעֹה חׇפְרַע "Paroh-Chophra, an Egyptian king" [HNp]
+- o9: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o10: מִצְרַיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o11: בְּ/יַד = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o12: אֹיְבָי/ו = H341 אֹיֵב "hating; an adversary" [HVqrmpc/Sp3ms]
+- o13: וּ/בְ/יַד = Hc "and" + Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HC/R/Ncbsc]
+- o14: מְבַקְשֵׁי = H1245 בָּקַשׁ "to search out (by any method…" [HVprmpc]
+- o15: נַפְשׁ/וֹ = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsc/Sp3ms]
+- o16: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o17: נָתַתִּי = H5414 נָתַן "to give…" [HVqp1cs]
+- o18: אֶת = H853 אֵת "properly…" [HTo]
+- o19: צִדְקִיָּהוּ = H6667 צִדְקִיָּה "Tsidkijah, the name of six Israelites" [HNp]
+- o20: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o21: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o22: בְּ/יַד = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o23: נְבוּכַדְרֶאצַּר = H5019 נְבוּכַדְנֶאצַּר "Nebukadnetstsar (or -retstsar, or -retstsor)…" [HNp]
+- o24: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o25: בָּבֶל = H894 בָּבֶל "Babel (i.e. Babylon)…" [HNp]
+- o26: אֹיְב/וֹ = H341 אֹיֵב "hating; an adversary" [HVqrmsc/Sp3ms]
+- o27: וּ/מְבַקֵּשׁ = Hc "and" + H1245 בָּקַשׁ "to search out (by any method…" [HC/Vprmsa]
+- o28: נַפְשׁ/וֹ = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsc/Sp3ms]
+
+### Jeremiah 46:1 (context)
+
+- o1: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o2: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o3: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o6: יִרְמְיָהוּ = H3414 יִרְמְיָה "Jirmejah, the name of eight or nine Israelites" [HNp]
+- o7: הַ/נָּבִיא = Hd "the" + H5030 נָבִיא "a prophet or (generally) inspired man" [HTd/Ncmsa]
+- o8: עַל = H5921 עַל "above, over, upon…" [HR]
+- o9: הַ/גּוֹיִם = Hd "the" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HTd/Ncmpa]

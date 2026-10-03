@@ -701,3 +701,60 @@ Persian entries and current tags:
 - p28: شریعتی
 - p29: هستند
 - p30: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Romans 1:32 (context)
+
+- o1: οἵτινες = G3748 ὅστις "and (they), (such) as, (they) that, in that they…" [R-NPM]
+- o2: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o3: δικαίωμα = G1345 δικαίωμα "judgment, justification, ordinance, righteousness" [N-ASN]
+- o4: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o5: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o6: ἐπιγνόντες, = G1921 ἐπιγινώσκω "(ac-, have, take)know(-ledge, well), perceive" [V-2AAP-NPM]
+- o7: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o8: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o9: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
+- o10: τοιαῦτα = G5108 τοιοῦτος "like, such (an one)" [D-APN]
+- o11: πράσσοντες = G4238 πράσσω "commit, deeds, do, exact, keep, require, use arts" [V-PAP-NPM]
+- o12: ἄξιοι = G514 ἄξιος "due reward, meet, (un-)worthy" [A-NPM]
+- o13: θανάτου = G2288 θάνατος "deadly, (be…) death" [N-GSM]
+- o14: εἰσίν, = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3P]
+- o15: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o16: μόνον = G3440 μόνον "alone, but, only" [ADV]
+- o17: αὐτὰ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-APN]
+- o18: ποιοῦσιν = G4160 ποιέω "abide, + agree, appoint, avenge, + band together…" [V-PAI-3P]
+- o19: ἀλλὰ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o20: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o21: συνευδοκοῦσιν = G4909 συνευδοκέω "allow, assent, be pleased, have pleasure" [V-PAI-3P]
+- o22: τοῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPM]
+- o23: πράσσουσιν. = G4238 πράσσω "commit, deeds, do, exact, keep, require, use arts" [V-PAP-DPM]
+
+### Romans 2:15 (context)
+
+- o1: οἵτινες = G3748 ὅστις "and (they), (such) as, (they) that, in that they…" [R-NPM]
+- o2: ἐνδείκνυνται = G1731 ἐνδείκνυμι "do, show (forth)" [V-PMI-3P]
+- o3: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o4: ἔργον = G2041 ἔργον "deed, doing, labour, work" [N-ASN]
+- o5: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o6: νόμου = G3551 νόμος "law" [N-GSM]
+- o7: γραπτὸν = G1123 γραπτός "written" [A-ASN]
+- o8: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o9: ταῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPF]
+- o10: καρδίαις = G2588 καρδία "(+ broken-)heart(-ed)" [N-DPF]
+- o11: αὐτῶν, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]
+- o12: συνμαρτυρούσης = G4828 συμμαρτυρέω "testify unto, (also) bear witness (with)" [V-PAP-GSF]
+- o13: αὐτῶν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]
+- o14: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o15: συνειδήσεως = G4893 συνείδησις "conscience" [N-GSF]
+- o16: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o17: μεταξὺ = G3342 μεταξύ "between, mean while, next" [ADV]
+- o18: ἀλλήλων = G240 ἀλλήλων "each other, mutual, one another, (the other)…" [C-GPM]
+- o19: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o20: λογισμῶν = G3053 λογισμός "imagination, thought" [N-GPM]
+- o21: κατηγορούντων = G2723 κατηγορέω "accuse, object" [V-PAP-GPM]
+- o22: ἢ = G2228 ἤ "and, but (either), (n-)either, except it be…" [PRT]
+- o23: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o24: ἀπολογουμένων, = G626 ἀπολογέομαι "answer (for self), make defence, excuse (self)…" [V-PNP-GPM]

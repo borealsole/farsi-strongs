@@ -548,3 +548,28 @@ Persian entries and current tags:
 - p19: منازعه  → H7379
 - p20: بینجامد  → H1566
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 16:33 (context)
+
+- o1: בַּ/חֵיק = Hb "in" + H2436 חֵיק "the bosom (literally or figuratively)" [HRd/Ncmsa]
+- o2: יוּטַל = H2904 טוּל "to pitch over or reel…" [HVHi3ms]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: הַ/גּוֹרָל = Hd "the" + H1486 גּוֹרָל "properly, a pebble…" [HTd/Ncmsa]
+- o5: וּ/מֵ/יְהוָה = Hc "and" + Hm "from" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HC/R/Np]
+- o6: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o7: מִשְׁפָּט/וֹ = H4941 מִשְׁפָּט "properly…" [HNcmsc/Sp3ms]
+
+### Proverbs 17:15 (context)
+
+- o1: מַצְדִּיק = H6663 צָדַק "to be (causatively…" [HVhrmsa]
+- o2: רָשָׁע = H7563 רָשָׁע "morally wrong…" [HAamsa]
+- o3: וּ/מַרְשִׁיעַ = Hc "and" + H7561 רָשַׁע "to be (causatively, do or declare) wrong…" [HC/Vhrmsa]
+- o4: צַדִּיק = H6662 צַדִּיק "just" [HAamsa]
+- o5: תּוֹעֲבַת = H8441 תּוֹעֵבַה "properly, something disgusting (morally)…" [HNcfsc]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o8: שְׁנֵי/הֶם = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmdc/Sp3mp]

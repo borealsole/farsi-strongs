@@ -731,3 +731,32 @@ Persian entries and current tags:
 - p23: او
 - p24: پناه می‌جویند  → H2620
 - p25: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 37:20 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: רְשָׁעִים = H7563 רָשָׁע "morally wrong…" [HAampa]
+- o3: יֹאבֵדוּ = H6 אָבַד "properly, to wander away, i.e. lose oneself…" [HVqi3mp]
+- o4: וְ/אֹיְבֵי = Hc "and" + H341 אֹיֵב "hating; an adversary" [HC/Vqrmpc]
+- o5: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o6: כִּ/יקַר = Hk "like" + H3368 יָקָר "valuable (objectively or subjectively)" [HR/Aamsc]
+- o7: כָּרִים = H3733 כַּר "a ram (as full-grown and fat)…" [HNcmpa]
+- o8: כָּלוּ = H3615 כָּלָה "to end, whether intransitive (to cease…" [HVqp3cp]
+- o9: בֶ/עָשָׁן = Hb "in" + H6227 עָשָׁן "smoke, literally or figuratively (vapor, dust…" [HRd/Ncmsa]
+- o10: כָּלוּ = H3615 כָּלָה "to end, whether intransitive (to cease…" [HVqp3cp]
+
+### Psalms 38:1 (context)
+
+- o1: מִזְמוֹר = H4210 מִזְמוֹר "properly, instrumental music…" [HNcmsa]
+- o2: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o3: לְ/הַזְכִּיר = Hl "to" + H2142 זָכַר "properly, to mark (so as to be recognized)…" [HR/Vhc]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o6: בְּ/קֶצְפְּ/ךָ = Hb "in" + H7110 קֶצֶף "a splinter (as chipped off)…" [HR/Ncmsc/Sp2ms]
+- o7: תוֹכִיחֵ/נִי = H3198 יָכַח "to be right (i.e. correct); reciprocal, to argue…" [HVhi2ms/Sp1cs]
+- o8: וּ/בַ/חֲמָתְ/ךָ = Hc "and" + Hb "in" + H2534 חֵמָה "heat; figuratively, anger, poison (from its fever)" [HC/R/Ncfsc/Sp2ms]
+- o9: תְיַסְּרֵ/נִי = H3256 יָסַר "to chastise…" [HVpi2ms/Sp1cs]

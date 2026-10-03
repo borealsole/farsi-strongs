@@ -469,3 +469,30 @@ Persian entries and current tags:
 - p11: جاودانه  → H5769 H2617
 - p12: است  → H5769
 - p13: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 136:13 (context)
+
+- o1: לְ/גֹזֵר = Hl "to" + H1504 גָּזַר "to cut down or off…" [HR/Vqrmsc]
+- o2: יַם = H3220 יָם "a sea (as breaking in noisy surf) or large body…" [HNcmsc]
+- o3: סוּף = H5488 סוּף "a reed, especially the papyrus" [HNcmsa]
+- o4: לִ/גְזָרִים = Hl "to" + H1506 גֶּזֶר "something cut off; a portion" [HR/Ncmpa]
+- o5: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o6: לְ/עוֹלָם = Hl "to" + H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HR/Ncmsa]
+- o7: חַסְדּ/וֹ = H2617 חֵסֵד "kindness; by implication (towards God) piety…" [HNcmsc/Sp3ms]
+
+### Psalms 137:1 (context)
+
+- o1: עַל = H5921 עַל "above, over, upon…" [HR]
+- o2: נַהֲרוֹת = H5104 נָהָר "a stream (including the sea…" [HNcmpc]
+- o3: בָּבֶל = H894 בָּבֶל "Babel (i.e. Babylon)…" [HNp]
+- o4: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o5: יָשַׁבְנוּ = H3427 יָשַׁב "properly…" [HVqp1cp]
+- o6: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o7: בָּכִינוּ = H1058 בָּכָה "to weep; generally to bemoan" [HVqp1cp]
+- o8: בְּ/זָכְרֵ/נוּ = Hb "in" + H2142 זָכַר "properly, to mark (so as to be recognized)…" [HR/Vqc/Sp1cp]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: צִיּוֹן = H6726 צִיּוֹן "Tsijon (as a permanent capital)…" [HNp]

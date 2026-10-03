@@ -1203,3 +1203,46 @@ Persian entries and current tags:
 - p33: بروم
 - p34: !
 - p35: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 10:29 (context)
+
+- o1: וַ/תַּעֲלֶה = Hc "and" + H5927 עָלָה "to ascend…" [HC/Vqw3fs]
+- o2: וַ/תֵּצֵא = Hc "and" + H3318 יָצָא "to go (causatively, bring) out…" [HC/Vqw3fs]
+- o3: מֶרְכָּבָה = H4818 מֶרְכָּבָה "a chariot" [HNcfsa]
+- o4: מִ/מִּצְרַיִם = Hm "from" + H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HR/Np]
+- o5: בְּ/שֵׁשׁ = Hb "in" + H8337 שֵׁשׁ "six (as an overplus beyond five or the fingers of…" [HR/Acfsa]
+- o6: מֵאוֹת = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbpa]
+- o7: כֶּסֶף = H3701 כֶּסֶף "silver (from its pale color)…" [HNcmsa]
+- o8: וְ/סוּס = Hc "and" + H5483 סוּס "a horse (as leaping)…" [HC/Ncmsa]
+- o9: בַּ/חֲמִשִּׁים = Hb "in" + H2572 חֲמִשִּׁים "fifty" [HRd/Acbpa]
+- o10: וּ/מֵאָה = Hc "and" + H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HC/Acbsa]
+- o11: וְ/כֵן = Hc "and" + H3651 כֵּן "properly, set upright…" [HC/Tm]
+- o12: לְ/כָל = Hl "to" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o13: מַלְכֵי = H4428 מֶלֶךְ "a king" [HNcmpc]
+- o14: הַ/חִתִּים = Hd "the" + H2850 חִתִּי "a Chittite, or descendant of Cheth" [HTd/Ngmpa]
+- o15: וּ/לְ/מַלְכֵי = Hc "and" + Hl "to" + H4428 מֶלֶךְ "a king" [HC/R/Ncmpc]
+- o16: אֲרָם = H758 אֲרָם "Aram or Syria, and its inhabitants…" [HNp]
+- o17: בְּ/יָדָ/ם = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc/Sp3mp]
+- o18: יֹצִאוּ = H3318 יָצָא "to go (causatively, bring) out…" [HVhi3mp]
+
+### I Kings 11:23 (context)
+
+- o1: וַ/יָּקֶם = Hc "and" + H6965 קוּם "to rise (in various applications, literal…" [HC/Vhw3ms]
+- o2: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o3: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o4: שָׂטָן = H7854 שָׂטָן "an opponent…" [HNcmsa]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: רְזוֹן = H7331 רְזוֹן "Rezon, a Syrian" [HNp]
+- o7: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o8: אֶלְיָדָע = H450 אֶלְיָדָע "Eljada…" [HNp]
+- o9: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o10: בָּרַח = H1272 בָּרַח "to bolt, i.e. figuratively, to flee suddenly" [HVqp3ms]
+- o11: מֵ/אֵת = Hm "from" + H854 אֵת "properly…" [HR/R]
+- o12: הֲדַדְעֶזֶר = H1909 הֲדַדְעֶזֶר "Hadadezer, a Syrian king" [HNp]
+- o13: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o14: צוֹבָה = H6678 צוֹבָא "Zoba or Zobah, a region of Syria" [HNp]
+- o15: אֲדֹנָי/ו = H113 אָדוֹן "sovereign, i.e. controller (human or divine)" [HNcmpc/Sp3ms]

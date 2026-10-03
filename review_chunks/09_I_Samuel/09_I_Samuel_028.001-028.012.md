@@ -738,3 +738,42 @@ Persian entries and current tags:
 - p24: شائولی  → H7586
 - p25: !
 - p26: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 27:12 (context)
+
+- o1: וַ/יַּאֲמֵן = Hc "and" + H539 אָמַן "properly, to build up or support…" [HC/Vhw3ms]
+- o2: אָכִישׁ = H397 אֲכִישׁ "Akish, a Philistine king" [HNp]
+- o3: בְּ/דָוִד = Hb "in" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o4: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o5: הַבְאֵשׁ = H887 בָּאַשׁ "to smell bad…" [HVha]
+- o6: הִבְאִישׁ = H887 בָּאַשׁ "to smell bad…" [HVhp3ms]
+- o7: בְּ/עַמּ/וֹ = Hb "in" + H5971 עַם "a people (as a congregated unit)…" [HR/Ncmsc/Sp3ms]
+- o8: בְ/יִשְׂרָאֵל = Hb "in" + H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HR/Np]
+- o9: וְ/הָיָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3ms]
+- o10: לִ/י = Hl "to" [HR/Sp1cs]
+- o11: לְ/עֶבֶד = Hl "to" + H5650 עֶבֶד "a servant" [HR/Ncmsc]
+- o12: עוֹלָם = H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HNcmsa]
+
+### I Samuel 28:13 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: לָ/הּ = Hl "to" [HR/Sp3fs]
+- o3: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o4: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o5: תִּירְאִי = H3372 יָרֵא "to fear; morally, to revere; caus. to frighten" [HVqj2fs]
+- o6: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o7: מָה = H4100 מָה "properly…" [HTi]
+- o8: רָאִית = H7200 רָאָה "to see…" [HVqp2fs]
+- o9: וַ/תֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3fs]
+- o10: הָ/אִשָּׁה = Hd "the" + H802 אִשָּׁה "a woman" [HTd/Ncfsa]
+- o11: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o12: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o13: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o14: רָאִיתִי = H7200 רָאָה "to see…" [HVqp1cs]
+- o15: עֹלִים = H5927 עָלָה "to ascend…" [HVqrmpa]
+- o16: מִן = H4480 מִן "properly, a part of…" [HR]
+- o17: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]

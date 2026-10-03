@@ -754,3 +754,31 @@ Persian entries and current tags:
 - p45: باد  → H7307
 - p46: دویدن  → H7469
 - p47: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ecclesiastes 2:13 (context)
+
+- o1: וְ/רָאִיתִי = Hc "and" + H7200 רָאָה "to see…" [HC/Vqp1cs]
+- o2: אָנִי = H589 אֲנִי "I" [HPp1cs]
+- o3: שֶׁ/יֵּשׁ = Hs "which" + H3426 יֵשׁ "there is or are (or any other form of the verb to…" [HTr/Tm]
+- o4: יִתְרוֹן = H3504 יִתְרוֹן "preeminence, gain" [HNcmsa]
+- o5: לַ/חָכְמָה = Hl "to" + H2451 חׇכְמָה "wisdom (in a good sense)" [HRd/Ncfsa]
+- o6: מִן = H4480 מִן "properly, a part of…" [HR]
+- o7: הַ/סִּכְלוּת = Hd "the" + H5531 סִכְלוּת "silliness" [HTd/Ncfsa]
+- o8: כִּ/יתְרוֹן = Hk "like" + H3504 יִתְרוֹן "preeminence, gain" [HR/Ncmsc]
+- o9: הָ/אוֹר = Hd "the" + H216 אוֹר "illumination or (concrete) luminary (in every…" [HTd/Ncbsa]
+- o10: מִן = H4480 מִן "properly, a part of…" [HR]
+- o11: הַ/חֹשֶׁךְ = Hd "the" + H2822 חֹשֶׁךְ "the dark; hence (literally) darkness…" [HTd/Ncmsa]
+
+### Ecclesiastes 3:1 (context)
+
+- o1: לַ/כֹּל = Hl "to" + H3605 כֹּל "properly, the whole…" [HRd/Ncmsa]
+- o2: זְמָן = H2165 זְמָן "an appointed occasion" [HNcmsa]
+- o3: וְ/עֵת = Hc "and" + H6256 עֵת "time, especially (adverb with preposition) now…" [HC/Ncbsa]
+- o4: לְ/כָל = Hl "to" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o5: חֵפֶץ = H2656 חֵפֶץ "pleasure; hence (abstractly) desire…" [HNcmsa]
+- o6: תַּחַת = H8478 תַּחַת "the bottom (as depressed)…" [HR]
+- o7: הַ/שָּׁמָיִם = Hd "the" + H8064 שָׁמַיִם "the sky (as aloft…" [HTd/Ncmpa]

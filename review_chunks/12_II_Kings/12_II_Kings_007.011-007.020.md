@@ -740,3 +740,66 @@ Persian entries and current tags:
 - p13: او
 - p14: مرد  → H4191
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 7:10 (context)
+
+- o1: וַ/יָּבֹאוּ = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3mp]
+- o2: וַ/יִּקְרְאוּ = Hc "and" + H7121 קָרָא "to call out to (i.e. properly, address by name…" [HC/Vqw3mp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: שֹׁעֵר = H7778 שׁוֹעֵר "a janitor" [HNcmsc]
+- o5: הָ/עִיר = Hd "the" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HTd/Ncfsa]
+- o6: וַ/יַּגִּידוּ = Hc "and" + H5046 נָגַד "properly, to front…" [HC/Vhw3mp]
+- o7: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o8: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o9: בָּאנוּ = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp1cp]
+- o10: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o11: מַחֲנֵה = H4264 מַחֲנֶה "an encampment (of travellers or troops)…" [HNcbsc]
+- o12: אֲרָם = H758 אֲרָם "Aram or Syria, and its inhabitants…" [HNp]
+- o13: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o14: אֵין = H369 אַיִן "a non-entity…" [HTn]
+- o15: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o16: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o17: וְ/קוֹל = Hc "and" + H6963 קוֹל "a voice or sound" [HC/Ncmsc]
+- o18: אָדָם = H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HNcmsa]
+- o19: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o20: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o21: הַ/סּוּס = Hd "the" + H5483 סוּס "a horse (as leaping)…" [HTd/Ncmsa]
+- o22: אָסוּר = H631 אָסַר "to yoke or hitch…" [HVqsmsa]
+- o23: וְ/הַ/חֲמוֹר = Hc "and" + Hd "the" + H2543 חֲמוֹר "a male ass (from its dun red)" [HC/Td/Ncbsa]
+- o24: אָסוּר = H631 אָסַר "to yoke or hitch…" [HVqsmsa]
+- o25: וְ/אֹהָלִים = Hc "and" + H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HC/Ncmpa]
+- o26: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o27: הֵמָּה = H1992 הֵם "they (only used when emphatic)" [HPp3mp]
+
+### II Kings 8:1 (context)
+
+- o1: וֶ/אֱלִישָׁע = Hc "and" + H477 אֱלִישָׁע "Elisha, the famous prophet" [HC/Np]
+- o2: דִּבֶּר = H1696 דָבַר "perhaps properly, to arrange…" [HVpp3ms]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: הָ/אִשָּׁה = Hd "the" + H802 אִשָּׁה "a woman" [HTd/Ncfsa]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: הֶחֱיָה = H2421 חָיָה "to live, whether literally or figuratively…" [HVhp3ms]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: בְּנָ/הּ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3fs]
+- o9: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o10: קוּמִי = H6965 קוּם "to rise (in various applications, literal…" [HVqv2fs]
+- o11: וּ/לְכִי = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqv2fs]
+- o12: אתי = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2fs]
+- o13: וּ/בֵיתֵ/ךְ = Hc "and" + H1004 בַּיִת "a house (in the greatest variation of…" [HC/Ncmsc/Sp2fs]
+- o14: וְ/גוּרִי = Hc "and" + H1481 גּוּר "properly…" [HC/Vqv2fs]
+- o15: בַּ/אֲשֶׁר = Hb "in" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o16: תָּגוּרִי = H1481 גּוּר "properly…" [HVqi2fs]
+- o17: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o18: קָרָא = H7121 קָרָא "to call out to (i.e. properly, address by name…" [HVqp3ms]
+- o19: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o20: לָ/רָעָב = Hl "to" + H7458 רָעָב "hunger (more or less extensive)" [HRd/Ncmsa]
+- o21: וְ/גַם = Hc "and" + H1571 גַּם "properly, assemblage…" [HC/Ta]
+- o22: בָּא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3ms]
+- o23: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o24: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o25: שֶׁבַע = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcfsa]
+- o26: שָׁנִים = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfpa]

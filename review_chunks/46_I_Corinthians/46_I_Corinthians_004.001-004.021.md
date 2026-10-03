@@ -1088,3 +1088,38 @@ Persian entries and current tags:
 - p14: روحی  → G4151
 - p15: ملایم  → G4240
 - p16: ؟
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Corinthians 3:23 (context)
+
+- o1: ὑμεῖς = G5210 ὑμεῖς "ye (yourselves), you" [P-2NP]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: Χριστοῦ, = G5547 Χριστός "Christ" [N-GSM]
+- o4: Χριστὸς = G5547 Χριστός "Christ" [N-NSM]
+- o5: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o6: θεοῦ. = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+
+### I Corinthians 5:1 (context)
+
+- o1: Ὅλως = G3654 ὅλως "at all, commonly, utterly" [ADV]
+- o2: ἀκούεται = G191 ἀκούω "give (in the) audience (of), come (to the ears)…" [V-PPI-3S]
+- o3: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o4: ὑμῖν = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
+- o5: πορνεία, = G4202 πορνεία "fornication" [N-NSF]
+- o6: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o7: τοιαύτη = G5108 τοιοῦτος "like, such (an one)" [D-NSF]
+- o8: πορνεία = G4202 πορνεία "fornication" [N-NSF]
+- o9: ἥτις = G3748 ὅστις "and (they), (such) as, (they) that, in that they…" [R-NSF]
+- o10: οὐδὲ = G3761 οὐδέ "neither (indeed), never, no (more, nor, not)…" [CONJ-N]
+- o11: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o12: τοῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPN]
+- o13: ἔθνεσιν, = G1484 ἔθνος "Gentile, heathen, nation, people" [N-DPN]
+- o14: ὥστε = G5620 ὥστε "insomuch) as, so that (then), (insomuch) that…" [CONJ]
+- o15: γυναῖκά = G1135 γυνή "wife, woman" [N-ASF]
+- o16: τινα = G5100 τὶς "a (kind of), any (man, thing, thing at all)…" [X-ASM]
+- o17: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o18: πατρὸς = G3962 πατήρ "father, parent" [N-GSM]
+- o19: ἔχειν. = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAN]

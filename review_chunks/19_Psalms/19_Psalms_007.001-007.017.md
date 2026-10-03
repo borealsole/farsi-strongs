@@ -656,3 +656,38 @@ Persian entries and current tags:
 - p12: را
 - p13: خواهم_سرایید  → H2167
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 6:10 (context)
+
+- o1: יֵבֹשׁוּ = H954 בּוּשׁ "properly, to pale…" [HVqi3mp]
+- o2: וְ/יִבָּהֲלוּ = Hc "and" + H926 בָּהַל "to tremble inwardly (or palpitate)…" [HC/VNi3mp]
+- o3: מְאֹד = H3966 מְאֹד "properly, vehemence…" [HD]
+- o4: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o5: אֹיְבָ/י = H341 אֹיֵב "hating; an adversary" [HVqrmpc/Sp1cs]
+- o6: יָשֻׁבוּ = H7725 שׁוּב "to turn back (hence…" [HVqi3mp]
+- o7: יֵבֹשׁוּ = H954 בּוּשׁ "properly, to pale…" [HVqi3mp]
+- o8: רָגַע = H7281 רֶגַע "a wink (of the eyes)…" [HNcmsa]
+
+### Psalms 8:1 (context)
+
+- o1: לַ/מְנַצֵּחַ = Hl "to" + H5329 נָצַח "properly, to glitter from afar…" [HRd/Vprmsa]
+- o2: עַל = H5921 עַל "above, over, upon…" [HR]
+- o3: הַ/גִּתִּית = Hd "the" + H1665 גִּתִּית "a Gittite harp" [HTd/Ncfsa]
+- o4: מִזְמוֹר = H4210 מִזְמוֹר "properly, instrumental music…" [HNcmsa]
+- o5: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: אֲדֹנֵי/נוּ = H113 אָדוֹן "sovereign, i.e. controller (human or divine)" [HNcmpc/Sp1cp]
+- o8: מָה = H4100 מָה "properly…" [HTi]
+- o9: אַדִּיר = H117 אַדִּיר "wide or (generally) large; figuratively, powerful" [HAamsa]
+- o10: שִׁמְ/ךָ = H8034 שֵׁם "an appellation…" [HNcmsc/Sp2ms]
+- o11: בְּ/כָל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o12: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o13: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o14: תְּנָ/ה = H5414 נָתַן "to give…" [HVqv2ms/Sh]
+- o15: הוֹדְ/ךָ = H1935 הוֹד "grandeur (i.e. an imposing form and appearance)" [HNcmsc/Sp2ms]
+- o16: עַל = H5921 עַל "above, over, upon…" [HR]
+- o17: הַ/שָּׁמָיִם = Hd "the" + H8064 שָׁמַיִם "the sky (as aloft…" [HTd/Ncmpa]

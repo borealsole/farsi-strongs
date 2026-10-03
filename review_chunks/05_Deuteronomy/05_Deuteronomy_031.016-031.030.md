@@ -996,3 +996,31 @@ Persian entries and current tags:
 - p15: بیان
 - p16: کرد
 - p17: :
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 31:15 (context)
+
+- o1: וַ/יֵּרָא = Hc "and" + H7200 רָאָה "to see…" [HC/VNw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: בָּ/אֹהֶל = Hb "in" + H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HRd/Ncmsa]
+- o4: בְּ/עַמּוּד = Hb "in" + H5982 עַמּוּד "a column (as standing)…" [HR/Ncmsc]
+- o5: עָנָן = H6051 עָנָן "a cloud (as covering the sky)…" [HNcmsa]
+- o6: וַ/יַּעֲמֹד = Hc "and" + H5975 עָמַד "to stand…" [HC/Vqw3ms]
+- o7: עַמּוּד = H5982 עַמּוּד "a column (as standing)…" [HNcmsc]
+- o8: הֶ/עָנָן = Hd "the" + H6051 עָנָן "a cloud (as covering the sky)…" [HTd/Ncmsa]
+- o9: עַל = H5921 עַל "above, over, upon…" [HR]
+- o10: פֶּתַח = H6607 פֶּתַח "an opening (literally)…" [HNcmsc]
+- o11: הָ/אֹהֶל = Hd "the" + H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HTd/Ncmsa]
+
+### Deuteronomy 32:1 (context)
+
+- o1: הַאֲזִינוּ = H238 אָזַן "to broaden out the ear (with the hand)…" [HVhv2mp]
+- o2: הַ/שָּׁמַיִם = Hd "the" + H8064 שָׁמַיִם "the sky (as aloft…" [HTd/Ncmpa]
+- o3: וַ/אֲדַבֵּרָה = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vph1cs]
+- o4: וְ/תִשְׁמַע = Hc "and" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HC/Vqj3fs]
+- o5: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o6: אִמְרֵי = H561 אֵמֶר "something said" [HNcmpc]
+- o7: פִ/י = H6310 פֶּה "the mouth (as the means of blowing)…" [HNcmsc/Sp1cs]

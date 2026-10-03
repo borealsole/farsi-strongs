@@ -852,3 +852,29 @@ Persian entries and current tags:
 - p20: تو
 - p21: هستم  → H589
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 141:10 (context)
+
+- o1: יִפְּלוּ = H5307 נָפַל "to fall…" [HVqi3mp]
+- o2: בְ/מַכְמֹרָי/ו = Hb "in" + H4364 מַכְמָר "a (hunter's) net (as dark from concealment)" [HR/Ncmpc/Sp3ms]
+- o3: רְשָׁעִים = H7563 רָשָׁע "morally wrong…" [HAampa]
+- o4: יַחַד = H3162 יַחַד "properly, a unit, i.e. (adverb) unitedly" [HD]
+- o5: אָנֹכִי = H595 אָנֹכִי "I" [HPp1cs]
+- o6: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o7: אֶעֱבוֹר = H5674 עָבַר "to cross over…" [HVqi1cs]
+
+### Psalms 144:1 (context)
+
+- o1: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o2: בָּרוּךְ = H1288 בָרַךְ "to kneel…" [HVqsmsa]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: צוּרִ/י = H6697 צוּר "properly, a cliff (or sharp rock, as compressed)…" [HNcmsc/Sp1cs]
+- o5: הַ/מְלַמֵּד = Hd "the" + H3925 לָמַד "properly, to goad…" [HTd/Vprmsa]
+- o6: יָדַ/י = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbdc/Sp1cs]
+- o7: לַ/קְרָב = Hl "to" + H7128 קְרָב "hostile encounter" [HRd/Ncmsa]
+- o8: אֶצְבְּעוֹתַ/י = H676 אֶצְבַּע "something to sieze with, i.e. a finger…" [HNcfpc/Sp1cs]
+- o9: לַ/מִּלְחָמָה = Hl "to" + H4421 מִלְחָמָה "a battle (i.e. the engagement)…" [HRd/Ncfsa]

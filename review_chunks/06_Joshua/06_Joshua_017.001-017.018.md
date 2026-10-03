@@ -1159,3 +1159,43 @@ Persian entries and current tags:
 - p36: باشند  → H1931
 - p37: .
 - p38: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Joshua 16:10 (context)
+
+- o1: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o2: הוֹרִישׁוּ = H3423 יָרַשׁ "to occupy (by driving out previous tenants…" [HVhp3cp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: הַ/כְּנַעֲנִי = Hd "the" + H3669 כְּנַעַנִי "a Kenaanite or inhabitant of Kenaan…" [HTd/Ngmsa]
+- o5: הַ/יּוֹשֵׁב = Hd "the" + H3427 יָשַׁב "properly…" [HTd/Vqrmsa]
+- o6: בְּ/גָזֶר = Hb "in" + H1507 גֶּזֶר "Gezer, a place in Palestine" [HR/Np]
+- o7: וַ/יֵּשֶׁב = Hc "and" + H3427 יָשַׁב "properly…" [HC/Vqw3ms]
+- o8: הַ/כְּנַעֲנִי = Hd "the" + H3669 כְּנַעַנִי "a Kenaanite or inhabitant of Kenaan…" [HTd/Ngmsa]
+- o9: בְּ/קֶרֶב = Hb "in" + H7130 קֶרֶב "properly, the nearest part, i.e. the center…" [HR/Ncmsc]
+- o10: אֶפְרַיִם = H669 אֶפְרַיִם "Ephrajim, a son of Joseph…" [HNp]
+- o11: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o12: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o13: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o14: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o15: לְ/מַס = Hl "to" + H4522 מַס "properly, a burden (as causing to faint)…" [HR/Ncmsc]
+- o16: עֹבֵד = H5647 עָבַד "to work (in any sense)…" [HVqrmsa]
+
+### Joshua 18:1 (context)
+
+- o1: וַ/יִּקָּהֲלוּ = Hc "and" + H6950 קָהַל "to convoke" [HC/VNw3mp]
+- o2: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: עֲדַת = H5712 עֵדָה "a stated assemblage (specifically, a concourse…" [HNcfsc]
+- o4: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o5: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o6: שִׁלֹה = H7887 שִׁילֹה "Shiloh, a place in Palestine" [HNp]
+- o7: וַ/יַּשְׁכִּינוּ = Hc "and" + H7931 שָׁכַן "to reside or permanently stay (literally or…" [HC/Vhw3mp]
+- o8: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: אֹהֶל = H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HNcmsc]
+- o11: מוֹעֵד = H4150 מוֹעֵד "properly, an appointment…" [HNcmsa]
+- o12: וְ/הָ/אָרֶץ = Hc "and" + Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HC/Td/Ncbsa]
+- o13: נִכְבְּשָׁה = H3533 כָּבַשׁ "to tread down; hence, negatively, to disregard…" [HVNp3fs]
+- o14: לִ/פְנֵי/הֶם = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp3mp]

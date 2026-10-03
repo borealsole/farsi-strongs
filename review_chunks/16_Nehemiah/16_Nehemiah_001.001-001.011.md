@@ -731,3 +731,28 @@ Persian entries and current tags:
 - p45: پادشاه  → H4428
 - p46: بودم
 - p47: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Nehemiah 2:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: בְּ/חֹדֶשׁ = Hb "in" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HR/Ncmsc]
+- o3: נִיסָן = H5212 נִיסָן "Nisan, the first month of the Jewish sacred year" [HNp]
+- o4: שְׁנַת = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsc]
+- o5: עֶשְׂרִים = H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HAcbpa]
+- o6: לְ/אַרְתַּחְשַׁסְתְּא = Hl "to" + H783 אַרְתַּחְשַׁשְׁתָּא "Artachshasta (or Artaxerxes)…" [HR/Np]
+- o7: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o8: יַיִן = H3196 יַיִן "wine (as fermented); by implication, intoxication" [HNcmsa]
+- o9: לְ/פָנָי/ו = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp3ms]
+- o10: וָ/אֶשָּׂא = Hc "and" + H5375 נָשָׂא "to lift, in a great variety of applications…" [HC/Vqw1cs]
+- o11: אֶת = H853 אֵת "properly…" [HTo]
+- o12: הַ/יַּיִן = Hd "the" + H3196 יַיִן "wine (as fermented); by implication, intoxication" [HTd/Ncmsa]
+- o13: וָ/אֶתְּנָ/ה = Hc "and" + H5414 נָתַן "to give…" [HC/Vqw1cs/Sh]
+- o14: לַ/מֶּלֶךְ = Hl "to" + H4428 מֶלֶךְ "a king" [HRd/Ncmsa]
+- o15: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o16: הָיִיתִי = H1961 הָיָה "to exist, i.e. be or become…" [HVqp1cs]
+- o17: רַע = H7451 רַע "bad or (as noun) evil (natural or moral)" [HAamsa]
+- o18: לְ/פָנָי/ו = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp3ms]

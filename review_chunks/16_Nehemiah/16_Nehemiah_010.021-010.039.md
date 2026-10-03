@@ -994,3 +994,35 @@ Persian entries and current tags:
 - p40: نخواهیم_کرد
 - p41: .
 - p42: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Nehemiah 10:20 (context)
+
+- o1: מַגְפִּיעָשׁ = H4047 מַגְפִּיעָשׁ "Magpiash, an Israelite" [HNp]
+- o2: מְשֻׁלָּם = H4918 מְשֻׁלָּם "Meshullam, the name of seventeen Israelites" [HNp]
+- o3: חֵזִיר = H2387 חֵזִיר "Chezir, the name of two Israelites" [HNp]
+
+### Nehemiah 11:1 (context)
+
+- o1: וַ/יֵּשְׁבוּ = Hc "and" + H3427 יָשַׁב "properly…" [HC/Vqw3mp]
+- o2: שָׂרֵי = H8269 שַׂר "a head person (of any rank or class)" [HNcmpc]
+- o3: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o4: בִּ/ירוּשָׁלִָם = Hb "in" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HR/Np]
+- o5: וּ/שְׁאָר = Hc "and" + H7605 שְׁאָר "a remainder" [HC/Ncmsc]
+- o6: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o7: הִפִּילוּ = H5307 נָפַל "to fall…" [HVhp3cp]
+- o8: גוֹרָלוֹת = H1486 גּוֹרָל "properly, a pebble…" [HNcmpa]
+- o9: לְ/הָבִיא = Hl "to" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HR/Vhc]
+- o10: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o11: מִן = H4480 מִן "properly, a part of…" [HR]
+- o12: הָ/עֲשָׂרָה = Hd "the" + H6235 עֶשֶׂר "ten (as an accumulation to the extent of the…" [HTd/Acmsa]
+- o13: לָ/שֶׁבֶת = Hl "to" + H3427 יָשַׁב "properly…" [HR/Vqc]
+- o14: בִּ/ירוּשָׁלִַם = Hb "in" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HR/Np]
+- o15: עִיר = H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HNcfsc]
+- o16: הַ/קֹּדֶשׁ = Hd "the" + H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HTd/Ncmsa]
+- o17: וְ/תֵשַׁע = Hc "and" + H8672 תֵּשַׁע "nine or (ordinal) ninth" [HC/Acfsa]
+- o18: הַ/יָּדוֹת = Hd "the" + H3027 יָד "a hand (the open one (indicating power, means…" [HTd/Ncbpa]
+- o19: בֶּ/עָרִים = Hb "in" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HRd/Ncfpa]

@@ -741,3 +741,36 @@ Persian entries and current tags:
 - p20: متعال  → H3966 H5927
 - p21: است
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 45:17 (context)
+
+- o1: אַזְכִּירָה = H2142 זָכַר "properly, to mark (so as to be recognized)…" [HVhh1cs]
+- o2: שִׁמְ/ךָ = H8034 שֵׁם "an appellation…" [HNcmsc/Sp2ms]
+- o3: בְּ/כָל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o4: דֹּר = H1755 דּוֹר "properly, a revolution of time…" [HNcmsa]
+- o5: וָ/דֹר = Hc "and" + H1755 דּוֹר "properly, a revolution of time…" [HC/Ncmsa]
+- o6: עַל = H5921 עַל "above, over, upon…" [HR]
+- o7: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o8: עַמִּים = H5971 עַם "a people (as a congregated unit)…" [HNcmpa]
+- o9: יְהוֹדֻ/ךָ = H3034 יָדָה "physically, to throw (a stone…" [HVhi3mp/Sp2ms]
+- o10: לְ/עֹלָם = Hl "to" + H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HR/Ncmsa]
+- o11: וָ/עֶד = Hc "and" + H5703 עַד "properly, a (peremptory) terminus…" [HC/Ncmsa]
+
+### Psalms 48:1 (context)
+
+- o1: שִׁיר = H7892 שִׁיר "a song; abstractly, singing" [HNcbsa]
+- o2: מִזְמוֹר = H4210 מִזְמוֹר "properly, instrumental music…" [HNcmsa]
+- o3: לִ/בְנֵי = Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmpc]
+- o4: קֹרַח = H7141 קֹרַח "Korach…" [HNp]
+- o5: גָּדוֹל = H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HAamsa]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: וּ/מְהֻלָּל = Hc "and" + H1984 הָלַל "to be clear (orig. of sound…" [HC/VPsmsa]
+- o8: מְאֹד = H3966 מְאֹד "properly, vehemence…" [HD]
+- o9: בְּ/עִיר = Hb "in" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HR/Ncfsc]
+- o10: אֱלֹהֵי/נוּ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp1cp]
+- o11: הַר = H2022 הַר "a mountain or range of hills (sometimes used…" [HNcmsc]
+- o12: קָדְשׁ/וֹ = H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HNcmsc/Sp3ms]

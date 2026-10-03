@@ -614,3 +614,29 @@ Persian entries and current tags:
 - p6: جِرجاشیان  → H1622
 - p7: را  → H853
 - p8: ،
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 9:29 (context)
+
+- o1: וַ/יִּהְיוּ = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3mp]
+- o2: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: יְמֵי = H3117 יוֹם "a day (as the warm hours)…" [HNcmpc]
+- o4: נֹחַ = H5146 נֹחַ "Noach, the patriarch of the flood" [HNp]
+- o5: תְּשַׁע = H8672 תֵּשַׁע "nine or (ordinal) ninth" [HAcfsa]
+- o6: מֵאוֹת = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbpa]
+- o7: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o8: וַ/חֲמִשִּׁים = Hc "and" + H2572 חֲמִשִּׁים "fifty" [HC/Acbpa]
+- o9: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o10: וַ/יָּמֹת = Hc "and" + H4191 מוּת "to die (literally or figuratively)…" [HC/Vqw3ms]
+
+### Genesis 10:17 (context)
+
+- o1: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o2: הַ/חִוִּי = Hd "the" + H2340 חִוִּי "a Chivvite…" [HTd/Ngmsa]
+- o3: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o4: הַ/עַרְקִי = Hd "the" + H6208 עַרְקִי "an Arkite or inhabitant of Erek" [HTd/Ngmsa]
+- o5: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o6: הַ/סִּינִי = Hd "the" + H5513 סִינִי "a Sinite…" [HTd/Ngmsa]

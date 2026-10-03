@@ -633,3 +633,27 @@ Persian entries and current tags:
 - p10: و  → Hc
 - p11: عدالت  → H6666
 - p12: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 7:27 (context)
+
+- o1: דַּרְכֵי = H1870 דֶּרֶךְ "a road (as trodden)…" [HNcbpc]
+- o2: שְׁאוֹל = H7585 שְׁאוֹל "Hades or the world of the dead (as if a…" [HNp]
+- o3: בֵּיתָ/הּ = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc/Sp3fs]
+- o4: יֹרְדוֹת = H3381 יָרַד "to descend (literally, to go downwards…" [HVqrfpa]
+- o5: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o6: חַדְרֵי = H2315 חֶדֶר "an apartment (usually literal)" [HNcmpc]
+- o7: מָוֶת = H4194 מָוֶת "death (natural or violent)…" [HNcmsa]
+
+### Proverbs 8:19 (context)
+
+- o1: טוֹב = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAamsa]
+- o2: פִּרְיִ/י = H6529 פְּרִי "fruit (literally or figuratively)" [HNcmsc/Sp1cs]
+- o3: מֵ/חָרוּץ = Hm "from" + H2742 חֲרוּץ "properly, incised or (active) incisive…" [HR/Ncmsa]
+- o4: וּ/מִ/פָּז = Hc "and" + Hm "from" + H6337 פָּז "pure (gold); hence, gold itself (as refined)" [HC/R/Ncmsa]
+- o5: וּ/תְבוּאָתִ/י = Hc "and" + H8393 תְּבוּאָה "income, i.e. produce (literally or figuratively)" [HC/Ncfsc/Sp1cs]
+- o6: מִ/כֶּסֶף = Hm "from" + H3701 כֶּסֶף "silver (from its pale color)…" [HR/Ncmsa]
+- o7: נִבְחָר = H977 בָּחַר "properly, to try, i.e. (by implication) select" [HVNrmsa]

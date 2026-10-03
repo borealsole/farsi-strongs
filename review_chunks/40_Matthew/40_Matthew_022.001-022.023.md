@@ -1071,3 +1071,48 @@ Persian entries and current tags:
 - p15: او  → G846
 - p16: کرده
 - p17: ،
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 21:46 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ζητοῦντες = G2212 ζητέω "be (go) about, desire, endeavour, enquire (for)…" [V-PAP-NPM]
+- o3: αὐτὸν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASM]
+- o4: κρατῆσαι = G2902 κρατέω "hold (by, fast), keep, lay hand (hold) on, obtain…" [V-AAN]
+- o5: ἐφοβήθησαν = G5399 φοβέω "be (+ sore) afraid, fear (exceedingly), reverence" [V-AOI-3P]
+- o6: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o7: ὄχλους, = G3793 ὄχλος "company, multitude, number (of people), people…" [N-APM]
+- o8: ἐπεὶ = G1893 ἐπεί "because, else, for that (then, -asmuch as)…" [CONJ]
+- o9: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o10: προφήτην = G4396 προφήτης "prophet" [N-ASM]
+- o11: αὐτὸν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASM]
+- o12: εἶχον. = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-IAI-3P]
+
+### Matthew 22:24 (context)
+
+- o1: λέγοντες· = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAP-NPM]
+- o2: διδάσκαλε, = G1320 διδάσκαλος "doctor, master, teacher" [N-VSM]
+- o3: Μωϋσῆς = G3475 Μωσεύς "Moses" [N-NSM]
+- o4: εἶπεν· = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-2AAI-3S]
+- o5: ἐάν = G1437 ἐάν "before, but, except, (and) if, (if) so, (what-…" [COND]
+- o6: τις = G5100 τὶς "a (kind of), any (man, thing, thing at all)…" [X-NSM]
+- o7: ἀποθάνῃ = G599 ἀποθνήσκω "be dead, death, die, lie a-dying, be slain ( with)" [V-2AAS-3S]
+- o8: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o9: ἔχων = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAP-NSM]
+- o10: τέκνα, = G5043 τέκνον "child, daughter, son" [N-APN]
+- o11: ἐπιγαμβρεύσει = G1918 ἐπιγαμβρεύω "marry" [V-FAI-3S]
+- o12: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o13: ἀδελφὸς = G80 ἀδελφός "brother" [N-NSM]
+- o14: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o15: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o16: γυναῖκα = G1135 γυνή "wife, woman" [N-ASF]
+- o17: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o18: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o19: ἀναστήσει = G450 ἀνίστημι "arise, lift up, raise up (again), rise (again)…" [V-FAI-3S]
+- o20: σπέρμα = G4690 σπέρμα "issue, seed" [N-ASN]
+- o21: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o22: ἀδελφῷ = G80 ἀδελφός "brother" [N-DSM]
+- o23: αὐτοῦ. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]

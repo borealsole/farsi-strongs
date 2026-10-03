@@ -732,3 +732,43 @@ Persian entries and current tags:
 - p19: آب  → H4325
 - p20: اردو زدند  → H2583
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 15:14 (context)
+
+- o1: שָׁמְעוּ = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqp3cp]
+- o2: עַמִּים = H5971 עַם "a people (as a congregated unit)…" [HNcmpa]
+- o3: יִרְגָּזוּ/ן = H7264 רָגַז "to quiver (with any violent emotion…" [HVqi3mp/Sn]
+- o4: חִיל = H2427 חִיל "a throe (expectant of childbirth)" [HNcmsa]
+- o5: אָחַז = H270 אָחַז "to seize (often with the accessory idea of…" [HVqp3ms]
+- o6: יֹשְׁבֵי = H3427 יָשַׁב "properly…" [HVqrmpc]
+- o7: פְּלָשֶׁת = H6429 פְּלֶשֶׁת "Pelesheth, a region of Syria" [HNp]
+
+### Exodus 16:1 (context)
+
+- o1: וַ/יִּסְעוּ = Hc "and" + H5265 נָסַע "properly, to pull up, especially the tent-pins…" [HC/Vqw3mp]
+- o2: מֵ/אֵילִם = Hm "from" + H362 אֵילִם "Elim, a place in the Desert" [HR/Np]
+- o3: וַ/יָּבֹאוּ = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3mp]
+- o4: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o5: עֲדַת = H5712 עֵדָה "a stated assemblage (specifically, a concourse…" [HNcfsc]
+- o6: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o7: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o8: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o9: מִדְבַּר = H4057 מִדְבָּר "a pasture (i.e. open field…" [HNcmsc]
+- o10: סִין = H5512 סִין "Sin the name of an Egyptian town and (probably)…" [HNp]
+- o11: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o12: בֵּין = H996 בֵּין "between (repeated before each noun…" [HR]
+- o13: אֵילִם = H362 אֵילִם "Elim, a place in the Desert" [HNp]
+- o14: וּ/בֵין = Hc "and" + H996 בֵּין "between (repeated before each noun…" [HC/R]
+- o15: סִינָי = H5514 סִינַי "Sinai, mountain of Arabia" [HNp]
+- o16: בַּ/חֲמִשָּׁה = Hb "in" + H2568 חָמֵשׁ "five" [HRd/Acmsa]
+- o17: עָשָׂר = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcmsa]
+- o18: יוֹם = H3117 יוֹם "a day (as the warm hours)…" [HNcmsa]
+- o19: לַ/חֹדֶשׁ = Hl "to" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HRd/Ncmsa]
+- o20: הַ/שֵּׁנִי = Hd "the" + H8145 שֵׁנִי "properly, double, i.e. second…" [HTd/Aomsa]
+- o21: לְ/צֵאתָ/ם = Hl "to" + H3318 יָצָא "to go (causatively, bring) out…" [HR/Vqc/Sp3mp]
+- o22: מֵ/אֶרֶץ = Hm "from" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o23: מִצְרָיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]

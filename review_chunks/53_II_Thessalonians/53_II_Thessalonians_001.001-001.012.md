@@ -691,3 +691,27 @@ Persian entries and current tags:
 - p25: عیسی  → G2424 G5547
 - p26: مسیح  → G5547
 - p27: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Thessalonians 2:1 (context)
+
+- o1: Ἐρωτῶμεν = G2065 ἐρωτάω "ask, beseech, desire, intreat, pray" [V-PAI-1P]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: ὑμᾶς, = G5210 ὑμεῖς "ye (yourselves), you" [P-2AP]
+- o4: ἀδελφοί, = G80 ἀδελφός "brother" [N-VPM]
+- o5: ὑπὲρ = G5228 ὑπέρ "+ exceeding, abundantly) above…" [PREP]
+- o6: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o7: παρουσίας = G3952 παρουσία "coming, presence" [N-GSF]
+- o8: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o9: κυρίου = G2962 κύριος "God, Lord, master, Sir" [N-GSM]
+- o10: ἡμῶν = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+- o11: Ἰησοῦ = G2424 Ἰησοῦς "Jesus" [N-GSM]
+- o12: Χριστοῦ = G5547 Χριστός "Christ" [N-GSM]
+- o13: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o14: ἡμῶν = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+- o15: ἐπισυναγωγῆς = G1997 ἐπισυναγωγή "assembling (gathering) together" [N-GSF]
+- o16: ἐπ’ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o17: αὐτόν, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASM]

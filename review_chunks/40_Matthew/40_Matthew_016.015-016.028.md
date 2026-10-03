@@ -834,3 +834,55 @@ Persian entries and current tags:
 - p25: نخواهند_چشید
 - p26: .
 - p27: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 16:14 (context)
+
+- o1: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: εἶπαν· = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-2AAI-3P]
+- o4: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o5: μὲν = G3303 μέν "even, indeed, so, some, truly, verily" [PRT]
+- o6: Ἰωάννην = G2491 Ἰωάννης "John" [N-ASM]
+- o7: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o8: βαπτιστήν, = G910 Βαπτιστής "Baptist" [N-ASM]
+- o9: ἄλλοι = G243 ἄλλος "more, one (another), (an-, some an-)other(-s…" [A-NPM]
+- o10: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o11: Ἡλείαν, = G2243 Ἡλίας "Elias" [N-ASM]
+- o12: ἕτεροι = G2087 ἕτερος "altered, else, next (day), one, (an-)other, some…" [A-NPM]
+- o13: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o14: Ἰερεμίαν = G2408 Ἱερεμίας "Jeremiah" [N-ASM]
+- o15: ἢ = G2228 ἤ "and, but (either), (n-)either, except it be…" [PRT]
+- o16: ἕνα = G1520 εἷς "a(-n, -ny, certain), + abundantly, man…" [A-ASM]
+- o17: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o18: προφητῶν. = G4396 προφήτης "prophet" [N-GPM]
+
+### Matthew 17:1 (context)
+
+- o1: Καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: μεθ’ = G3326 μετά "after(-ward), that he again, against, among, and…" [PREP]
+- o3: ἡμέρας = G2250 ἡμέρα "age, + alway, (mid-)day (by day, (-ly))…" [N-APF]
+- o4: ἓξ = G1803 ἕξ "six" [A-NUI]
+- o5: παραλαμβάνει = G3880 παραλαμβάνω "receive, take (unto, with)" [V-PAI-3S]
+- o6: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o7: Ἰησοῦς = G2424 Ἰησοῦς "Jesus" [N-NSM]
+- o8: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o9: Πέτρον = G4074 Πέτρος "Peter, rock" [N-ASM]
+- o10: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o11: Ἰάκωβον = G2385 Ἰάκωβος "James" [N-ASM]
+- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o13: Ἰωάννην = G2491 Ἰωάννης "John" [N-ASM]
+- o14: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o15: ἀδελφὸν = G80 ἀδελφός "brother" [N-ASM]
+- o16: αὐτοῦ, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o17: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o18: ἀναφέρει = G399 ἀναφέρω "bear, bring (carry, lead) up, offer (up)" [V-PAI-3S]
+- o19: αὐτοὺς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-APM]
+- o20: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o21: ὄρος = G3735 ὄρος "hill, mount(-ain)" [N-ASN]
+- o22: ὑψηλὸν = G5308 ὑψηλός "high(-er, -ly) (esteemed)" [A-ASN]
+- o23: κατ’ = G2596 κατά "about, according as (to), after, against…" [PREP]
+- o24: ἰδίαν. = G2398 ἴδιος "his acquaintance, when they were alone, apart…" [A-ASF]

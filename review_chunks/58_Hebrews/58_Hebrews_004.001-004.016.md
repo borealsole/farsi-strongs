@@ -929,3 +929,42 @@ Persian entries and current tags:
 - p18: یاریمان
 - p19: دهد  → G996
 - p20: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Hebrews 3:19 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: βλέπομεν = G991 βλέπω "behold, beware, lie, look (on, to), perceive…" [V-PAI-1P]
+- o3: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o4: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o5: ἠδυνήθησαν = G1410 δύναμαι "be able, can (do, + -not), could, may, might…" [V-AOI-3P-ATT]
+- o6: εἰσελθεῖν = G1525 εἰσέρχομαι "arise, come (in, into), enter in(-to)…" [V-2AAN]
+- o7: δι’ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o8: ἀπιστίαν. = G570 ἀπιστία "unbelief" [N-ASF]
+
+### Hebrews 5:1 (context)
+
+- o1: Πᾶς = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-NSM]
+- o2: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o3: ἀρχιερεὺς = G749 ἀρχιερεύς "chief (high) priest, chief of the priests" [N-NSM]
+- o4: ἐξ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o5: ἀνθρώπων = G444 ἄνθρωπος "certain, man" [N-GPM]
+- o6: λαμβανόμενος = G2983 λαμβάνω "accept, + be amazed, assay, attain, bring…" [V-PPP-NSM]
+- o7: ὑπὲρ = G5228 ὑπέρ "+ exceeding, abundantly) above…" [PREP]
+- o8: ἀνθρώπων = G444 ἄνθρωπος "certain, man" [N-GPM]
+- o9: καθίσταται = G2525 καθίστημι "appoint, be, conduct, make, ordain, set" [V-PPI-3S]
+- o10: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
+- o11: πρὸς = G4314 πρός "about, according to , against, among, at…" [PREP]
+- o12: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o13: θεόν, = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-ASM]
+- o14: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o15: προσφέρῃ = G4374 προσφέρω "bring (to, unto), deal with, do, offer (unto, up)…" [V-PAS-3S]
+- o16: δῶρά = G1435 δῶρον "gift, offering" [N-APN]
+- o17: τε = G5037 τέ "also, and, both, even, then, whether" [PRT]
+- o18: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o19: θυσίας = G2378 θυσία "sacrifice" [N-APF]
+- o20: ὑπὲρ = G5228 ὑπέρ "+ exceeding, abundantly) above…" [PREP]
+- o21: ἁμαρτιῶν, = G266 ἁμαρτία "offence, sin(-ful)" [N-GPF]

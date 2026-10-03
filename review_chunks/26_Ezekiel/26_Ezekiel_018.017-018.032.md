@@ -967,3 +967,34 @@ Persian entries and current tags:
 - p18: مانید
 - p19: .
 - p20: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 18:16 (context)
+
+- o1: וְ/אִישׁ = Hc "and" + H376 אִישׁ "a man as an individual or a male person…" [HC/Ncmsa]
+- o2: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o3: הוֹנָה = H3238 יָנָה "to rage or be violent…" [HVhp3ms]
+- o4: חֲבֹל = H2258 חֲבֹל "a pawn (as security for debt)" [HNcmsa]
+- o5: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o6: חָבָל = H2254 חָבַל "to wind tightly (as a rope), i.e. to bind…" [HVqp3ms]
+- o7: וּ/גְזֵלָה = Hc "and" + H1500 גְּזֵלָה "robbery, or (concretely) plunder" [HC/Ncfsa]
+- o8: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o9: גָזָל = H1497 גָּזַל "to pluck off; specifically to flay, strip or rob" [HVqp3ms]
+- o10: לַחְמ/וֹ = H3899 לֶחֶם "food (for man or beast), especially bread…" [HNcbsc/Sp3ms]
+- o11: לְ/רָעֵב = Hl "to" + H7457 רָעֵב "hungry (more or less intensely)" [HR/Aamsa]
+- o12: נָתָן = H5414 נָתַן "to give…" [HVqp3ms]
+- o13: וְ/עֵרוֹם = Hc "and" + H5903 עֵירֹם "nudity" [HC/Aamsa]
+- o14: כִּסָּה = H3680 כָּסָה "properly, to plump, i.e. fill up hollows…" [HVpp3ms]
+- o15: בָגֶד = H899 בֶּגֶד "a covering, i.e. clothing…" [HNcmsa]
+
+### Ezekiel 19:1 (context)
+
+- o1: וְ/אַתָּה = Hc "and" + H859 אַתָּה "thou and thee, or (plural) ye and you" [HC/Pp2ms]
+- o2: שָׂא = H5375 נָשָׂא "to lift, in a great variety of applications…" [HVqv2ms]
+- o3: קִינָה = H7015 קִינָה "a dirge (as accompanied by beating the breasts or…" [HNcfsa]
+- o4: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o5: נְשִׂיאֵי = H5387 נָשִׂיא "properly, an exalted one, i.e. a king or sheik…" [HNcmpc]
+- o6: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]

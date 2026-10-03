@@ -733,3 +733,49 @@ Persian entries and current tags:
 - p22: را
 - p23: نجات خواهی_داد  → G4982
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Timothy 3:16 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ὁμολογουμένως = G3672 ὁμολογουμένως "without controversy" [ADV]
+- o3: μέγα = G3173 μέγας "+ fear) exceedingly, great(-est), high, large…" [A-NSN]
+- o4: ἐστὶν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o5: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o6: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o7: εὐσεβείας = G2150 εὐσέβεια "godliness, holiness" [N-GSF]
+- o8: μυστήριον· = G3466 μυστήριον "mystery" [N-NSN]
+- o9: ὃς = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-NSM]
+- o10: ἐφανερώθη = G5319 φανερόω "appear, manifestly declare…" [V-API-3S]
+- o11: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o12: σαρκί, = G4561 σάρξ "carnal(-ly, + -ly minded), flesh(-ly)" [N-DSF]
+- o13: ἐδικαιώθη = G1344 δικαιόω "free, justify(-ier), be righteous" [V-API-3S]
+- o14: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o15: πνεύματι, = G4151 πνεῦμα "ghost, life, spirit(-ual, -ually), mind" [N-DSN]
+- o16: ὤφθη = G3708 ὁράω "behold, perceive, see, take heed" [V-API-3S]
+- o17: ἀγγέλοις, = G32 ἄγγελος "angel, messenger" [N-DPM]
+- o18: ἐκηρύχθη = G2784 κηρύσσω "preacher(-er), proclaim, publish" [V-API-3S]
+- o19: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o20: ἔθνεσιν, = G1484 ἔθνος "Gentile, heathen, nation, people" [N-DPN]
+- o21: ἐπιστεύθη = G4100 πιστεύω "believe(-r), commit (to trust), put in trust with" [V-API-3S]
+- o22: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o23: κόσμῳ, = G2889 κόσμος "adorning, world" [N-DSM]
+- o24: ἀνελήμφθη = G353 ἀναλαμβάνω "receive up, take (in, unto, up)" [V-API-3S]
+- o25: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o26: δόξῃ. = G1391 δόξα "dignity, glory(-ious), honour, praise, worship" [N-DSF]
+
+### I Timothy 5:1 (context)
+
+- o1: Πρεσβυτέρῳ = G4245 πρεσβύτερος "elder(-est), old" [A-DSM-C]
+- o2: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o3: ἐπιπλήξῃς, = G1969 ἐπιπλήσσω "rebuke" [V-AAS-2S]
+- o4: ἀλλὰ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o5: παρακάλει = G3870 παρακαλέω "beseech, call for, (be of good) comfort, desire…" [V-PAM-2S]
+- o6: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
+- o7: πατέρα, = G3962 πατήρ "father, parent" [N-ASM]
+- o8: νεωτέρους = G3501 νέος "new, young" [A-APM-C]
+- o9: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
+- o10: ἀδελφούς, = G80 ἀδελφός "brother" [N-APM]

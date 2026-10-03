@@ -1114,3 +1114,30 @@ Persian entries and current tags:
 - p33: همچنان
 - p34: دراز است  → H5186
 - p35: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 8:22 (context)
+
+- o1: וְ/אֶל = Hc "and" + H413 אֵל "near, with or among; often in general, to" [HC/R]
+- o2: אֶרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsa]
+- o3: יַבִּיט = H5027 נָבַט "to scan, i.e. look intently at…" [HVhi3ms]
+- o4: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o5: צָרָה = H6869 צָרָה "tightness (i.e. figuratively, trouble)…" [HNcfsa]
+- o6: וַ/חֲשֵׁכָה = Hc "and" + H2825 חֲשֵׁכָה "darkness; figuratively, misery" [HC/Ncfsa]
+- o7: מְעוּף = H4588 מָעוּף "darkness" [HNcmsc]
+- o8: צוּקָה = H6695 צוֹק "a strait, i.e. (figuratively) distress" [HNcfsa]
+- o9: וַ/אֲפֵלָה = Hc "and" + H653 אֲפֵלָה "duskiness, figuratively, misfortune…" [HC/Ncfsa]
+- o10: מְנֻדָּח = H5080 נָדַח "to push off…" [HVPsmsa]
+
+### Isaiah 10:1 (context)
+
+- o1: הוֹי = H1945 הוֹי "oh!" [HTj]
+- o2: הַ/חֹקְקִים = Hd "the" + H2710 חָקַק "properly, to hack, i.e. engrave (Judges 5:14…" [HTd/Vqrmpa]
+- o3: חִקְקֵי = H2711 חֵקֶק "an enactment, a resolution" [HNcmpc]
+- o4: אָוֶן = H205 אָוֶן "strictly nothingness…" [HNcmsa]
+- o5: וּ/מְכַתְּבִים = Hc "and" + H3789 כָּתַב "to grave, by implication, to write (describe…" [HC/Vprmpa]
+- o6: עָמָל = H5999 עָמָל "toil, i.e. wearing effort…" [HNcbsa]
+- o7: כִּתֵּבוּ = H3789 כָּתַב "to grave, by implication, to write (describe…" [HVpp3cp]

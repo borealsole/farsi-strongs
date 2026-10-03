@@ -894,3 +894,38 @@ Persian entries and current tags:
 - p16: خداوند  → H3068
 - p17: برکَنَم  → H3772
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 98:9 (context)
+
+- o1: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o4: בָא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3ms]
+- o5: לִ/שְׁפֹּט = Hl "to" + H8199 שָׁפַט "to judge…" [HR/Vqc]
+- o6: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o7: יִשְׁפֹּט = H8199 שָׁפַט "to judge…" [HVqi3ms]
+- o8: תֵּבֵל = H8398 תֵּבֵל "the earth (as moist and therefore inhabited)…" [HNcfsa]
+- o9: בְּ/צֶדֶק = Hb "in" + H6664 צֶדֶק "the right (natural, moral or legal)…" [HR/Ncmsa]
+- o10: וְ/עַמִּים = Hc "and" + H5971 עַם "a people (as a congregated unit)…" [HC/Ncmpa]
+- o11: בְּ/מֵישָׁרִים = Hb "in" + H4339 מֵישָׁר "evenness…" [HR/Ncmpa]
+
+### Psalms 102:1 (context)
+
+- o1: תְּפִלָּה = H8605 תְּפִלָּה "intercession, supplication; by implication, a hymn" [HNcfsa]
+- o2: לְ/עָנִי = Hl "to" + H6041 עָנִי "depressed, in mind or circumstances" [HR/Aamsa]
+- o3: כִי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o4: יַעֲטֹף = H5848 עָטַף "to shroud…" [HVqi3ms]
+- o5: וְ/לִ/פְנֵי = Hc "and" + Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HC/R/Ncbpc]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: יִשְׁפֹּךְ = H8210 שָׁפַךְ "to spill forth (blood, a libation, liquid metal…" [HVqi3ms]
+- o8: שִׂיח/וֹ = H7879 שִׂיחַ "a contemplation; by implication, an utterance" [HNcmsc/Sp3ms]
+- o9: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o10: שִׁמְעָ/ה = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqv2ms/Sh]
+- o11: תְפִלָּתִ/י = H8605 תְּפִלָּה "intercession, supplication; by implication, a hymn" [HNcfsc/Sp1cs]
+- o12: וְ/שַׁוְעָתִ/י = Hc "and" + H7775 שַׁוְעָה "a hallooing" [HC/Ncfsc/Sp1cs]
+- o13: אֵלֶי/ךָ = H413 אֵל "near, with or among; often in general, to" [HR/Sp2ms]
+- o14: תָבוֹא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqi3fs]

@@ -1271,3 +1271,30 @@ Persian entries and current tags:
 - p41: پادشاه  → H4428
 - p42: رساندند  → H7725
 - p43: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 21:26 (context)
+
+- o1: וַ/יִּקְבְֹּר = Hc "and" + H6912 קָבַר "to inter" [HC/Vqw3ms]
+- o2: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o3: בִּ/קְבֻרָת/וֹ = Hb "in" + H6900 קְבוּרָה "sepulture; (concretely) a sepulchre" [HR/Ncfsc/Sp3ms]
+- o4: בְּ/גַן = Hb "in" + H1588 גַּן "a garden (as fenced)" [HR/Ncbsc]
+- o5: עֻזָּא = H5798 עֻזָּא "Uzza or Uzzah, the name of five Israelites" [HNp]
+- o6: וַ/יִּמְלֹךְ = Hc "and" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HC/Vqw3ms]
+- o7: יֹאשִׁיָּהוּ = H2977 יֹאשִׁיָּה "Joshijah, the name of two Israelites" [HNp]
+- o8: בְנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o9: תַּחְתָּי/ו = H8478 תַּחַת "the bottom (as depressed)…" [HR/Sp3ms]
+
+### II Kings 23:1 (context)
+
+- o1: וַ/יִּשְׁלַח = Hc "and" + H7971 שָׁלַח "to send away, for…" [HC/Vqw3ms]
+- o2: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o3: וַ/יַּאַסְפוּ = Hc "and" + H622 אָסַף "to gather for any purpose…" [HC/Vqw3mp]
+- o4: אֵלָי/ו = H413 אֵל "near, with or among; often in general, to" [HR/Sp3ms]
+- o5: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o6: זִקְנֵי = H2205 זָקֵן "old" [HAampc]
+- o7: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o8: וִ/ירוּשָׁלִָם = Hc "and" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HC/Np]

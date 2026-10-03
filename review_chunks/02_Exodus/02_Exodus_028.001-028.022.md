@@ -994,3 +994,49 @@ Persian entries and current tags:
 - p9: ریسمان  → H5688
 - p10: بساز  → H6213
 - p11: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 27:21 (context)
+
+- o1: בְּ/אֹהֶל = Hb "in" + H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HR/Ncmsc]
+- o2: מוֹעֵד = H4150 מוֹעֵד "properly, an appointment…" [HNcmsa]
+- o3: מִ/חוּץ = Hm "from" + H2351 חוּץ "properly, separate by awall, i.e. outside…" [HR/Ncmsa]
+- o4: לַ/פָּרֹכֶת = Hl "to" + H6532 פֹּרֶכֶת "a separatrix, i.e. (the sacred) screen" [HRd/Ncfsa]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: עַל = H5921 עַל "above, over, upon…" [HR]
+- o7: הָ/עֵדֻת = Hd "the" + H5715 עֵדוּת "testimony" [HTd/Ncfsa]
+- o8: יַעֲרֹךְ = H6186 עָרַךְ "to set in a row, i.e. arrange…" [HVqi3ms]
+- o9: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o10: אַהֲרֹן = H175 אַהֲרוֹן "Aharon, the brother of Moses" [HNp]
+- o11: וּ/בָנָי/ו = Hc "and" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/Ncmpc/Sp3ms]
+- o12: מֵ/עֶרֶב = Hm "from" + H6153 עֶרֶב "dusk" [HR/Ncmsa]
+- o13: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o14: בֹּקֶר = H1242 בֹּקֶר "properly, dawn (as the break of day)…" [HNcmsa]
+- o15: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o16: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o17: חֻקַּת = H2708 חֻקָּה "an enactment…" [HNcbsc]
+- o18: עוֹלָם = H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HNcmsa]
+- o19: לְ/דֹרֹתָ/ם = Hl "to" + H1755 דּוֹר "properly, a revolution of time…" [HR/Ncmpc/Sp3mp]
+- o20: מֵ/אֵת = Hm "from" + H854 אֵת "properly…" [HR/R]
+- o21: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o22: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+
+### Exodus 28:23 (context)
+
+- o1: וְ/עָשִׂיתָ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqq2ms]
+- o2: עַל = H5921 עַל "above, over, upon…" [HR]
+- o3: הַ/חֹשֶׁן = Hd "the" + H2833 חֹשֶׁן "perhaps a pocket (as holding the Urim and…" [HTd/Ncmsa]
+- o4: שְׁתֵּי = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcfdc]
+- o5: טַבְּעוֹת = H2885 טַבַּעַת "properly, a seal (as sunk into the wax)…" [HNcfpc]
+- o6: זָהָב = H2091 זָהָב "gold, figuratively…" [HNcmsa]
+- o7: וְ/נָתַתָּ = Hc "and" + H5414 נָתַן "to give…" [HC/Vqq2ms]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: שְׁתֵּי = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcfdc]
+- o10: הַ/טַּבָּעוֹת = Hd "the" + H2885 טַבַּעַת "properly, a seal (as sunk into the wax)…" [HTd/Ncfpa]
+- o11: עַל = H5921 עַל "above, over, upon…" [HR]
+- o12: שְׁנֵי = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmdc]
+- o13: קְצוֹת = H7098 קָצָה "a termination" [HNcbpc]
+- o14: הַ/חֹשֶׁן = Hd "the" + H2833 חֹשֶׁן "perhaps a pocket (as holding the Urim and…" [HTd/Ncmsa]

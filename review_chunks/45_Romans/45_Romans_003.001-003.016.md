@@ -717,3 +717,41 @@ Persian entries and current tags:
 - p9: جای
 - p10: می‌گذارند  → G846
 - p11: ،
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Romans 2:29 (context)
+
+- o1: ἀλλ’ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o2: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o3: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o4: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSN]
+- o5: κρυπτῷ = G2927 κρυπτός "hid(-den), inward(-ly), secret" [A-DSN]
+- o6: Ἰουδαῖος, = G2453 Ἰουδαῖος "Jew(-ess), of Judæa" [A-NSM]
+- o7: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o8: περιτομὴ = G4061 περιτομή "circumcised, circumcision" [N-NSF]
+- o9: καρδίας = G2588 καρδία "(+ broken-)heart(-ed)" [N-GSF]
+- o10: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o11: πνεύματι = G4151 πνεῦμα "ghost, life, spirit(-ual, -ually), mind" [N-DSN]
+- o12: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o13: γράμματι, = G1121 γράμμα "bill, learning, letter, scripture, writing…" [N-DSN]
+- o14: οὗ = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-GSM]
+- o15: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o16: ἔπαινος = G1868 ἔπαινος "praise" [N-NSM]
+- o17: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o18: ἐξ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o19: ἀνθρώπων = G444 ἄνθρωπος "certain, man" [N-GPM]
+- o20: ἀλλ’ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o21: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o22: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o23: θεοῦ. = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+
+### Romans 3:17 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ὁδὸν = G3598 ὁδός "journey, (high-)way" [N-ASF]
+- o3: εἰρήνης = G1515 εἰρήνη "one, peace, quietness, rest, + set at one again" [N-GSF]
+- o4: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o5: ἔγνωσαν. = G1097 γινώσκω "allow, be aware (of), feel, (have) know(-ledge)…" [V-2AAI-3P]

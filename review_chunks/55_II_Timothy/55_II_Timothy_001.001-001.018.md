@@ -959,3 +959,22 @@ Persian entries and current tags:
 - p21: نیک
 - p22: آگاهی  → G1097
 - p23: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Timothy 2:1 (context)
+
+- o1: Σὺ = G4771 σύ "thou" [P-2NS]
+- o2: οὖν, = G3767 οὖν "and (so, truly), but, now (then)…" [CONJ]
+- o3: τέκνον = G5043 τέκνον "child, daughter, son" [N-VSN]
+- o4: μου, = G1473 ἐγώ "I, me" [P-1GS]
+- o5: ἐνδυναμοῦ = G1743 ἐνδυναμόω "enable, (increase in) strength(-en)…" [V-PPM-2S]
+- o6: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o7: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o8: χάριτι = G5485 χάρις "acceptable, benefit, favour, gift, grace(- ious)…" [N-DSF]
+- o9: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o10: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o11: Χριστῷ = G5547 Χριστός "Christ" [N-DSM]
+- o12: Ἰησοῦ, = G2424 Ἰησοῦς "Jesus" [N-DSM]

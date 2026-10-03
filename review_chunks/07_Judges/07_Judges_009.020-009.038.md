@@ -1084,3 +1084,36 @@ Persian entries and current tags:
 - p35: بجنگ  → H3898
 - p36: !
 - p37: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Judges 9:19 (context)
+
+- o1: וְ/אִם = Hc "and" + H518 אִם "used very widely as demonstrative, lo!…" [HC/C]
+- o2: בֶּ/אֱמֶת = Hb "in" + H571 אֶמֶת "stability…" [HR/Ncfsa]
+- o3: וּ/בְ/תָמִים = Hc "and" + Hb "in" + H8549 תָּמִים "entire (literally, figuratively or morally)…" [HC/R/Aamsa]
+- o4: עֲשִׂיתֶם = H6213 עָשָׂה "to do or make…" [HVqp2mp]
+- o5: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o6: יְרֻבַּעַל = H3378 יְרֻבַּעַל "Jerubbaal, a symbolic name of Gideon" [HNp]
+- o7: וְ/עִם = Hc "and" + H5973 עִם "adverb or preposition…" [HC/R]
+- o8: בֵּית/וֹ = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc/Sp3ms]
+- o9: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o10: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o11: שִׂמְחוּ = H8055 שָׂמַח "probably to brighten up…" [HVqv2mp]
+- o12: בַּ/אֲבִימֶלֶךְ = Hb "in" + H40 אֲבִימֶלֶךְ "Abimelek…" [HR/Np]
+- o13: וְ/יִשְׂמַח = Hc "and" + H8055 שָׂמַח "probably to brighten up…" [HC/Vqi3ms]
+- o14: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o15: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o16: בָּ/כֶם = Hb "in" [HR/Sp2mp]
+
+### Judges 9:39 (context)
+
+- o1: וַ/יֵּצֵא = Hc "and" + H3318 יָצָא "to go (causatively, bring) out…" [HC/Vqw3ms]
+- o2: גַעַל = H1603 גַּעַל "Gaal, an Israelite" [HNp]
+- o3: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o4: בַּעֲלֵי = H1167 בַּעַל "a master…" [HNcmpc]
+- o5: שְׁכֶם = H7927 שְׁכֶם "Shekem, a place in Palestine" [HNp]
+- o6: וַ/יִּלָּחֶם = Hc "and" + H3898 לָחַם "to feed on; figuratively, to consume…" [HC/VNw3ms]
+- o7: בַּ/אֲבִימֶלֶךְ = Hb "in" + H40 אֲבִימֶלֶךְ "Abimelek…" [HR/Np]

@@ -1242,3 +1242,41 @@ Persian entries and current tags:
 - p39: اندوهگین
 - p40: شوم
 - p41: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Corinthians 11:33 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o3: θυρίδος = G2376 θυρίς "window" [N-GSF]
+- o4: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o5: σαργάνῃ = G4553 σαργάνη "basket" [N-DSF]
+- o6: ἐχαλάσθην = G5465 χαλάω "let down, strike" [V-API-1S]
+- o7: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o8: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
+- o9: τείχους = G5038 τεῖχος "wall" [N-GSN]
+- o10: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o11: ἐξέφυγον = G1628 ἐκφεύγω "escape, flee" [V-2AAI-1S]
+- o12: τὰς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APF]
+- o13: χεῖρας = G5495 χείρ "hand" [N-APF]
+- o14: αὐτοῦ. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+
+### II Corinthians 13:1 (context)
+
+- o1: Τρίτον = G5154 τρίτος "third(-ly)" [A-ASN]
+- o2: τοῦτο = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-ASN]
+- o3: ἔρχομαι = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-PNI-1S]
+- o4: πρὸς = G4314 πρός "about, according to , against, among, at…" [PREP]
+- o5: ὑμᾶς· = G5210 ὑμεῖς "ye (yourselves), you" [P-2AP]
+- o6: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o7: στόματος = G4750 στόμα "edge, face, mouth" [N-GSN]
+- o8: δύο = G1417 δύο "both, twain, two" [A-NUI]
+- o9: μαρτύρων = G3144 μάρτυς "martyr, record, witness" [N-GPM]
+- o10: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o11: τριῶν = G5140 τρεῖς "three" [A-GPM]
+- o12: σταθήσεται = G2476 ἵστημι "abide, appoint, bring, continue, covenant…" [V-FPI-3S]
+- o13: πᾶν = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-NSN]
+- o14: ῥῆμα. = G4487 ῥῆμα "+ evil, + nothing, saying, word" [N-NSN]

@@ -904,3 +904,34 @@ Persian entries and current tags:
 - p13: دشمنانم  → H341
 - p14: نگریسته_است
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 51:19 (context)
+
+- o1: אָז = H227 אָז "at that time or place…" [HD]
+- o2: תַּחְפֹּץ = H2654 חָפֵץ "properly, to incline to…" [HVqi2ms]
+- o3: זִבְחֵי = H2077 זֶבַח "properly, a slaughter…" [HNcmpc]
+- o4: צֶדֶק = H6664 צֶדֶק "the right (natural, moral or legal)…" [HNcmsa]
+- o5: עוֹלָה = H5930 עֹלָה "a step or (collectively, stairs, as ascending)…" [HNcfsa]
+- o6: וְ/כָלִיל = Hc "and" + H3632 כָּלִיל "complete…" [HC/Aamsa]
+- o7: אָז = H227 אָז "at that time or place…" [HD]
+- o8: יַעֲלוּ = H5927 עָלָה "to ascend…" [HVhi3mp]
+- o9: עַל = H5921 עַל "above, over, upon…" [HR]
+- o10: מִזְבַּחֲ/ךָ = H4196 מִזְבֵּחַ "an altar" [HNcmsc/Sp2ms]
+- o11: פָרִים = H6499 פַּר "a bullock (apparently as breaking forth in wild…" [HNcmpa]
+
+### Psalms 55:1 (context)
+
+- o1: לַ/מְנַצֵּחַ = Hl "to" + H5329 נָצַח "properly, to glitter from afar…" [HRd/Vprmsa]
+- o2: בִּ/נְגִינֹת = Hb "in" + H5058 נְגִינָה "properly, instrumental music…" [HR/Ncfpa]
+- o3: מַשְׂכִּיל = H4905 מַשְׂכִּיל "instructive, i.e. a didactic poem" [HNcmsa]
+- o4: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o5: הַאֲזִינָ/ה = H238 אָזַן "to broaden out the ear (with the hand)…" [HVhv2ms/Sh]
+- o6: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o7: תְּפִלָּתִ/י = H8605 תְּפִלָּה "intercession, supplication; by implication, a hymn" [HNcfsc/Sp1cs]
+- o8: וְ/אַל = Hc "and" + H408 אַל "not (the qualified negation…" [HC/Tn]
+- o9: תִּתְעַלַּם = H5956 עָלַם "to veil from sight…" [HVtj2ms]
+- o10: מִ/תְּחִנָּתִ/י = Hm "from" + H8467 תְּחִנָּה "graciousness; causatively, entreaty" [HR/Ncfsc/Sp1cs]

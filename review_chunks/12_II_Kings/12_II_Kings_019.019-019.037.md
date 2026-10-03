@@ -1106,3 +1106,52 @@ Persian entries and current tags:
 - p38: وی
 - p39: پادشاه شد  → H4427
 - p40: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 19:18 (context)
+
+- o1: וְ/נָתְנוּ = Hc "and" + H5414 נָתַן "to give…" [HC/Vqp3cp]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: אֱלֹהֵי/הֶם = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp3mp]
+- o4: בָּ/אֵשׁ = Hb "in" + H784 אֵשׁ "fire (literally or figuratively)" [HRd/Ncbsa]
+- o5: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o6: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o7: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o8: הֵמָּה = H1992 הֵם "they (only used when emphatic)" [HPp3mp]
+- o9: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o10: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o11: מַעֲשֵׂה = H4639 מַעֲשֶׂה "an action (good or bad); generally, a transaction…" [HNcmsc]
+- o12: יְדֵי = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbdc]
+- o13: אָדָם = H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HNcmsa]
+- o14: עֵץ = H6086 עֵץ "a tree (from its firmness)…" [HNcmsa]
+- o15: וָ/אֶבֶן = Hc "and" + H68 אֶבֶן "a stone" [HC/Ncfsa]
+- o16: וַ/יְאַבְּדוּ/ם = Hc "and" + H6 אָבַד "properly, to wander away, i.e. lose oneself…" [HC/Vpw3mp/Sp3mp]
+
+### II Kings 20:1 (context)
+
+- o1: בַּ/יָּמִים = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmpa]
+- o2: הָ/הֵם = Hd "the" + H1992 הֵם "they (only used when emphatic)" [HTd/Pp3mp]
+- o3: חָלָה = H2470 חָלָה "properly, to be rubbed or worn…" [HVqp3ms]
+- o4: חִזְקִיָּהוּ = H2396 חִזְקִיָּה "Chizkijah, a king of Judah…" [HNp]
+- o5: לָ/מוּת = Hl "to" + H4191 מוּת "to die (literally or figuratively)…" [HR/Vqc]
+- o6: וַ/יָּבֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3ms]
+- o7: אֵלָי/ו = H413 אֵל "near, with or among; often in general, to" [HR/Sp3ms]
+- o8: יְשַׁעְיָהוּ = H3470 יְשַׁעְיָה "Jeshajah, the name of seven Israelites" [HNp]
+- o9: בֶן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o10: אָמוֹץ = H531 אָמוֹץ "Amots, an Israelite" [HNp]
+- o11: הַ/נָּבִיא = Hd "the" + H5030 נָבִיא "a prophet or (generally) inspired man" [HTd/Ncmsa]
+- o12: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o13: אֵלָי/ו = H413 אֵל "near, with or among; often in general, to" [HR/Sp3ms]
+- o14: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o15: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o16: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o17: צַו = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpv2ms]
+- o18: לְ/בֵיתֶ/ךָ = Hl "to" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc/Sp2ms]
+- o19: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o20: מֵת = H4191 מוּת "to die (literally or figuratively)…" [HVqrmsa]
+- o21: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o22: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o23: תִחְיֶה = H2421 חָיָה "to live, whether literally or figuratively…" [HVqi2ms]

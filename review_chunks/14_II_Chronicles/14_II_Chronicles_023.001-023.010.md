@@ -674,3 +674,42 @@ Persian entries and current tags:
 - p30: مستقر
 - p31: ساخت  → H5975
 - p32: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 22:12 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: אִתָּ/ם = H854 אֵת "properly…" [HR/Sp3mp]
+- o3: בְּ/בֵית = Hb "in" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc]
+- o4: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o5: מִתְחַבֵּא = H2244 חָבָא "to secrete" [HVtrmsa]
+- o6: שֵׁשׁ = H8337 שֵׁשׁ "six (as an overplus beyond five or the fingers of…" [HAcfsa]
+- o7: שָׁנִים = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfpa]
+- o8: וַ/עֲתַלְיָה = Hc "and" + H6271 עֲתַלְיָה "Athaljah…" [HC/Np]
+- o9: מֹלֶכֶת = H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HVqrfsa]
+- o10: עַל = H5921 עַל "above, over, upon…" [HR]
+- o11: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+
+### II Chronicles 23:11 (context)
+
+- o1: וַ/יּוֹצִיאוּ = Hc "and" + H3318 יָצָא "to go (causatively, bring) out…" [HC/Vhw3mp]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o4: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o5: וַ/יִּתְּנוּ = Hc "and" + H5414 נָתַן "to give…" [HC/Vqw3mp]
+- o6: עָלָי/ו = H5921 עַל "above, over, upon…" [HR/Sp3ms]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: הַ/נֵּזֶר = Hd "the" + H5145 נֶזֶר "properly, something set apart…" [HTd/Ncmsa]
+- o9: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o10: הָ/עֵדוּת = Hd "the" + H5715 עֵדוּת "testimony" [HTd/Ncfsa]
+- o11: וַ/יַּמְלִיכוּ = Hc "and" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HC/Vhw3mp]
+- o12: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o13: וַ/יִּמְשָׁחֻ/הוּ = Hc "and" + H4886 מָשַׁח "to rub with oil, i.e. to anoint…" [HC/Vqw3mp/Sp3ms]
+- o14: יְהוֹיָדָע = H3077 יְהוֹיָדָע "Jehojada, the name of three Israelites" [HNp]
+- o15: וּ/בָנָי/ו = Hc "and" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/Ncmpc/Sp3ms]
+- o16: וַ/יֹּאמְרוּ = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3mp]
+- o17: יְחִי = H2421 חָיָה "to live, whether literally or figuratively…" [HVqj3ms]
+- o18: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]

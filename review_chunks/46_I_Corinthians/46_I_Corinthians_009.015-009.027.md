@@ -706,3 +706,47 @@ Persian entries and current tags:
 - p21: مردود  → G96
 - p22: گردم  → G1096
 - p23: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Corinthians 9:14 (context)
+
+- o1: οὕτως = G3779 οὕτω "after that, after (in) this manner, as, even (so)…" [ADV]
+- o2: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o3: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o4: κύριος = G2962 κύριος "God, Lord, master, Sir" [N-NSM]
+- o5: διέταξεν = G1299 διατάσσω "appoint, command, give, (set in) order, ordain" [V-AAI-3S]
+- o6: τοῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPM]
+- o7: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o8: εὐαγγέλιον = G2098 εὐαγγέλιον "gospel" [N-ASN]
+- o9: καταγγέλλουσιν = G2605 καταγγέλλω "declare, preach, shew, speak of, teach" [V-PAP-DPM]
+- o10: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o11: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
+- o12: εὐαγγελίου = G2098 εὐαγγέλιον "gospel" [N-GSN]
+- o13: ζῆν. = G2198 ζάω "life(-time), (a-)live(-ly), quick" [V-PAN]
+
+### I Corinthians 10:1 (context)
+
+- o1: Οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o2: θέλω = G2309 θέλω "desire, be disposed (forward), intend, list, love…" [V-PAI-1S]
+- o3: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o4: ὑμᾶς = G5210 ὑμεῖς "ye (yourselves), you" [P-2AP]
+- o5: ἀγνοεῖν, = G50 ἀγνοέω "be) ignorant(-ly), not know, not understand…" [V-PAN]
+- o6: ἀδελφοί, = G80 ἀδελφός "brother" [N-VPM]
+- o7: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o8: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o9: πατέρες = G3962 πατήρ "father, parent" [N-NPM]
+- o10: ἡμῶν = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+- o11: πάντες = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-NPM]
+- o12: ὑπὸ = G5259 ὑπό "among, by, from, in, of, under, with" [PREP]
+- o13: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o14: νεφέλην = G3507 νεφέλη "cloud" [N-ASF]
+- o15: ἦσαν = G1510 εἰμί "am, have been, it is I, was" [V-IAI-3P]
+- o16: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o17: πάντες = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-NPM]
+- o18: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o19: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o20: θαλάσσης = G2281 θάλασσα "sea" [N-GSF]
+- o21: διῆλθον, = G1330 διέρχομαι "come, depart, go (about, abroad, everywhere, over…" [V-2AAI-3P]

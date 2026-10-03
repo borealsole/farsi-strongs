@@ -713,3 +713,29 @@ Persian entries and current tags:
 - p7: رِمّون‌فِرِص  → H7428
 - p8: اردو زدند  → H2583
 - p9: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 32:42 (context)
+
+- o1: וְ/נֹבַח = Hc "and" + H5025 נֹבַח "Nobach, the name of an Israelite…" [HC/Np]
+- o2: הָלַךְ = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVqp3ms]
+- o3: וַ/יִּלְכֹּד = Hc "and" + H3920 לָכַד "to catch (in a net, trap or pit)…" [HC/Vqw3ms]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: קְנָת = H7079 קְנָת "Kenath, a place East of the Jordan" [HNp]
+- o6: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o7: בְּנֹתֶי/הָ = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfpc/Sp3fs]
+- o8: וַ/יִּקְרָא = Hc "and" + H7121 קָרָא "to call out to (i.e. properly, address by name…" [HC/Vqw3ms]
+- o9: לָ/ה = Hl "to" [HR/Sp3fs]
+- o10: נֹבַח = H5025 נֹבַח "Nobach, the name of an Israelite…" [HNp]
+- o11: בִּ/שְׁמ/וֹ = Hb "in" + H8034 שֵׁם "an appellation…" [HR/Ncmsc/Sp3ms]
+
+### Numbers 33:20 (context)
+
+- o1: וַ/יִּסְעוּ = Hc "and" + H5265 נָסַע "properly, to pull up, especially the tent-pins…" [HC/Vqw3mp]
+- o2: מֵ/רִמֹּן = Hm "from" + H7428 רִמֹּן פֶּרֶץ "Rimmon-Perets, a place in the Desert" [HR/Np]
+- o3: פָּרֶץ = H7428 רִמֹּן פֶּרֶץ "Rimmon-Perets, a place in the Desert" [HNp]
+- o4: וַ/יַּחֲנוּ = Hc "and" + H2583 חָנָה "properly, to incline…" [HC/Vqw3mp]
+- o5: בְּ/לִבְנָה = Hb "in" + H3841 לִבְנָה "Libnah, a place in the Desert and one in Palestine" [HR/Np]

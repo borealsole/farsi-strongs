@@ -796,3 +796,28 @@ Persian entries and current tags:
 - p23: پدر  → H1
 - p24: اَدومیان  → H123
 - p25: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 36:22 (context)
+
+- o1: וַ/יִּהְיוּ = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3mp]
+- o2: בְנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o3: לוֹטָן = H3877 לוֹטָן "Lotan, an Idumaean" [HNp]
+- o4: חֹרִי = H2753 חֹרִי "Chori, the name of two men" [HNp]
+- o5: וְ/הֵימָם = Hc "and" + H1967 הֵימָם "Hemam, an Idumaean" [HC/Np]
+- o6: וַ/אֲחוֹת = Hc "and" + H269 אָחוֹת "a sister (used very widely (like brother)…" [HC/Ncfsc]
+- o7: לוֹטָן = H3877 לוֹטָן "Lotan, an Idumaean" [HNp]
+- o8: תִּמְנָע = H8555 תִּמְנָע "Timna, the name of two Edomites" [HNp]
+
+### Genesis 37:1 (context)
+
+- o1: וַ/יֵּשֶׁב = Hc "and" + H3427 יָשַׁב "properly…" [HC/Vqw3ms]
+- o2: יַעֲקֹב = H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HNp]
+- o3: בְּ/אֶרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o4: מְגוּרֵי = H4033 מָגוּר "a temporary abode…" [HNcmpc]
+- o5: אָבִי/ו = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp3ms]
+- o6: בְּ/אֶרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o7: כְּנָעַן = H3667 כְּנַעַן "Kenaan, a son a Ham…" [HNp]

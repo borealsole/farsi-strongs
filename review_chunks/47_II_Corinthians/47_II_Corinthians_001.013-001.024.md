@@ -646,3 +646,59 @@ Persian entries and current tags:
 - p20: ایمان  → G5479 G4102
 - p21: استوارید  → G2476
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Corinthians 1:12 (context)
+
+- o1: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o2: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o3: καύχησις = G2746 καύχησις "boasting, whereof I may glory, glorying, rejoicing" [N-NSF]
+- o4: ἡμῶν = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+- o5: αὕτη = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-NSF]
+- o6: ἐστίν, = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o7: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o8: μαρτύριον = G3142 μαρτύριον "to be testified, testimony, witness" [N-NSN]
+- o9: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o10: συνειδήσεως = G4893 συνείδησις "conscience" [N-GSF]
+- o11: ἡμῶν, = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+- o12: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o13: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o14: ἁγιότητι = G41 ἁγιότης "holiness" [N-DSF]
+- o15: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o16: εἰλικρινίᾳ = G1505 εἰλικρίνεια "sincerity" [N-DSF]
+- o17: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o18: θεοῦ, = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o19: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o20: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o21: σοφίᾳ = G4678 σοφία "wisdom" [N-DSF]
+- o22: σαρκικῇ = G4559 σαρκικός "carnal, fleshly" [A-DSF]
+- o23: ἀλλ’ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o24: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o25: χάριτι = G5485 χάρις "acceptable, benefit, favour, gift, grace(- ious)…" [N-DSF]
+- o26: θεοῦ, = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o27: ἀνεστράφημεν = G390 ἀναστρέφω "abide, behave self, have conversation, live…" [V-2API-1P]
+- o28: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o29: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o30: κόσμῳ, = G2889 κόσμος "adorning, world" [N-DSM]
+- o31: περισσοτέρως = G4056 περισσοτέρως "more abundant(-ly), the more earnest…" [ADV-C]
+- o32: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o33: πρὸς = G4314 πρός "about, according to , against, among, at…" [PREP]
+- o34: ὑμᾶς. = G5210 ὑμεῖς "ye (yourselves), you" [P-2AP]
+
+### II Corinthians 2:1 (context)
+
+- o1: Ἔκρινα = G2919 κρίνω "avenge, conclude, condemn, damn, decree…" [V-AAI-1S]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: ἐμαυτῷ = G1683 ἐμαυτοῦ "me, mine own (self), myself" [F-1DSM]
+- o4: τοῦτο, = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-ASN]
+- o5: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o6: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o7: πάλιν = G3825 πάλιν "again" [ADV]
+- o8: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o9: λύπῃ = G3077 λύπη "grief, grievous, + grudgingly, heaviness, sorrow" [N-DSF]
+- o10: πρὸς = G4314 πρός "about, according to , against, among, at…" [PREP]
+- o11: ὑμᾶς = G5210 ὑμεῖς "ye (yourselves), you" [P-2AP]
+- o12: ἐλθεῖν· = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-2AAN]

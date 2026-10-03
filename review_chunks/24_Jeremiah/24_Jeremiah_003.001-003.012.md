@@ -764,3 +764,47 @@ Persian entries and current tags:
 - p49: فرمودۀ  → H5002
 - p50: خداوند
 - p51: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 2:37 (context)
+
+- o1: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o2: מֵ/אֵת = Hm "from" + H854 אֵת "properly…" [HR/R]
+- o3: זֶה = H2088 זֶה "the masculine demonstrative pronoun, this or that" [HPdxms]
+- o4: תֵּצְאִי = H3318 יָצָא "to go (causatively, bring) out…" [HVqi2fs]
+- o5: וְ/יָדַיִ/ךְ = Hc "and" + H3027 יָד "a hand (the open one (indicating power, means…" [HC/Ncbdc/Sp2fs]
+- o6: עַל = H5921 עַל "above, over, upon…" [HR]
+- o7: רֹאשֵׁ/ךְ = H7218 רֹאשׁ "the head (as most easily shaken)…" [HNcmsc/Sp2fs]
+- o8: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o9: מָאַס = H3988 מָאַס "to spurn; also (intransitively) to disappear" [HVqp3ms]
+- o10: יְהֹוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o11: בְּ/מִבְטַחַיִ/ךְ = Hb "in" + H4009 מִבְטָח "properly, a refuge, i.e. (objective) security…" [HR/Ncmpc/Sp2fs]
+- o12: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o13: תַצְלִיחִי = H6743 צָלַח "to push forward…" [HVhi2fs]
+- o14: לָ/הֶם = Hl "to" [HR/Sp3mp]
+
+### Jeremiah 3:13 (context)
+
+- o1: אַךְ = H389 אַךְ "a particle of affirmation, surely…" [HTa]
+- o2: דְּעִי = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqv2fs]
+- o3: עֲוֺנֵ/ךְ = H5771 עָוֺן "perversity, i.e. (moral) evil" [HNcbsc/Sp2fs]
+- o4: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o5: בַּ/יהוָה = Hb "in" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o6: אֱלֹהַיִ/ךְ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2fs]
+- o7: פָּשָׁעַתְּ = H6586 פָּשַׁע "to break away (from just authority)…" [HVqp2fs]
+- o8: וַ/תְּפַזְּרִי = Hc "and" + H6340 פָּזַר "to scatter, whether in enmity or bounty" [HC/Vpw2fs]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: דְּרָכַיִ/ךְ = H1870 דֶּרֶךְ "a road (as trodden)…" [HNcbpc/Sp2fs]
+- o11: לַ/זָּרִים = Hl "to" + H2114 זוּר "to turn aside (especially for lodging)…" [HRd/Aampa]
+- o12: תַּחַת = H8478 תַּחַת "the bottom (as depressed)…" [HR]
+- o13: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o14: עֵץ = H6086 עֵץ "a tree (from its firmness)…" [HNcmsa]
+- o15: רַעֲנָן = H7488 רַעֲנָן "verdant; by analogy, new; figuratively, prosperous" [HAamsa]
+- o16: וּ/בְ/קוֹלִ/י = Hc "and" + Hb "in" + H6963 קוֹל "a voice or sound" [HC/R/Ncmsc/Sp1cs]
+- o17: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o18: שְׁמַעְתֶּם = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqp2mp]
+- o19: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o20: יְהֹוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]

@@ -667,3 +667,44 @@ Persian entries and current tags:
 - p24: .
 - p25: “
 - p26: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 23:40 (context)
+
+- o1: וְ/נָתַתִּי = Hc "and" + H5414 נָתַן "to give…" [HC/Vqq1cs]
+- o2: עֲלֵי/כֶם = H5921 עַל "above, over, upon…" [HR/Sp2mp]
+- o3: חֶרְפַּת = H2781 חֶרְפָּה "contumely, disgrace, the pudenda" [HNcfsc]
+- o4: עוֹלָם = H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HNcmsa]
+- o5: וּ/כְלִמּוּת = Hc "and" + H3640 כְּלִמּוּת "disgrace" [HC/Ncfsc]
+- o6: עוֹלָם = H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HNcmsa]
+- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o8: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o9: תִשָּׁכֵחַ = H7911 שָׁכַח "to mislay, i.e. to be oblivious of…" [HVNi3fs]
+
+### Jeremiah 25:1 (context)
+
+- o1: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]
+- o2: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o3: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o4: עַל = H5921 עַל "above, over, upon…" [HR]
+- o5: יִרְמְיָהוּ = H3414 יִרְמְיָה "Jirmejah, the name of eight or nine Israelites" [HNp]
+- o6: עַל = H5921 עַל "above, over, upon…" [HR]
+- o7: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o8: עַם = H5971 עַם "a people (as a congregated unit)…" [HNcmsc]
+- o9: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o10: בַּ/שָּׁנָה = Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HRd/Ncfsa]
+- o11: הָ/רְבִעִית = Hd "the" + H7243 רְבִיעִי "fourth; also (fractionally) a fourth" [HTd/Aofsa]
+- o12: לִ/יהוֹיָקִים = Hl "to" + H3079 יְהוֹיָקִים "Jehojakim, a Jewish king" [HR/Np]
+- o13: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o14: יֹאשִׁיָּהוּ = H2977 יֹאשִׁיָּה "Joshijah, the name of two Israelites" [HNp]
+- o15: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o16: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o17: הִיא = H1931 הוּא "he (she or it)…" [HPp3fs]
+- o18: הַ/שָּׁנָה = Hd "the" + H8141 שָׁנֶה "a year (as a revolution of time)" [HTd/Ncfsa]
+- o19: הָ/רִאשֹׁנִית = Hd "the" + H7224 רִאשֹׁנִי "first" [HTd/Aafsa]
+- o20: לִ/נְבוּכַדְרֶאצַּר = Hl "to" + H5019 נְבוּכַדְנֶאצַּר "Nebukadnetstsar (or -retstsar, or -retstsor)…" [HR/Np]
+- o21: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o22: בָּבֶל = H894 בָּבֶל "Babel (i.e. Babylon)…" [HNp]

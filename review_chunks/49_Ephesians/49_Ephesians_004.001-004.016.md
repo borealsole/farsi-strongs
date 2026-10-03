@@ -785,3 +785,52 @@ Persian entries and current tags:
 - p36: بنا  → G3619
 - p37: می‌نماید
 - p38: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ephesians 3:21 (context)
+
+- o1: αὐτῷ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
+- o2: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o3: δόξα = G1391 δόξα "dignity, glory(-ious), honour, praise, worship" [N-NSF]
+- o4: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o5: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o6: ἐκκλησίᾳ = G1577 ἐκκλησία "assembly, church" [N-DSF]
+- o7: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o8: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o9: Χριστῷ = G5547 Χριστός "Christ" [N-DSM]
+- o10: Ἰησοῦ = G2424 Ἰησοῦς "Jesus" [N-DSM]
+- o11: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o12: πάσας = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-APF]
+- o13: τὰς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APF]
+- o14: γενεὰς = G1074 γενεά "age, generation, nation, time" [N-APF]
+- o15: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o16: αἰῶνος = G165 αἰών "age, course, eternal, (for) ever(-more), (n-)ever…" [N-GSM]
+- o17: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o18: αἰώνων· = G165 αἰών "age, course, eternal, (for) ever(-more), (n-)ever…" [N-GPM]
+- o19: ἀμήν. = G281 ἀμήν "amen, verily" [HEB]
+
+### Ephesians 4:17 (context)
+
+- o1: Τοῦτο = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-ASN]
+- o2: οὖν = G3767 οὖν "and (so, truly), but, now (then)…" [CONJ]
+- o3: λέγω = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-1S]
+- o4: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o5: μαρτύρομαι = G3143 μαρτύρομαι "take to record, testify" [V-PNI-1S]
+- o6: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o7: κυρίῳ, = G2962 κύριος "God, Lord, master, Sir" [N-DSM]
+- o8: μηκέτι = G3371 μηκέτι "any longer, (not) henceforth, hereafter…" [ADV-N]
+- o9: ὑμᾶς = G5210 ὑμεῖς "ye (yourselves), you" [P-2AP]
+- o10: περιπατεῖν = G4043 περιπατέω "go, be occupied with, walk (about)" [V-PAN]
+- o11: καθὼς = G2531 καθώς "according to, (according, even) as, how, when" [ADV]
+- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o13: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPN]
+- o14: ἔθνη = G1484 ἔθνος "Gentile, heathen, nation, people" [N-NPN]
+- o15: περιπατεῖ = G4043 περιπατέω "go, be occupied with, walk (about)" [V-PAI-3S]
+- o16: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o17: ματαιότητι = G3153 ματαιότης "vanity" [N-DSF]
+- o18: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o19: νοὸς = G3563 νοῦς "mind, understanding" [N-GSM]
+- o20: αὐτῶν, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPN]

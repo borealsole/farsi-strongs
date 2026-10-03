@@ -814,3 +814,38 @@ Persian entries and current tags:
 - p39: خاندانی  → H1004
 - p40: عِصیانگرند  → H4805
 - p41: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 3:14 (context)
+
+- o1: וְ/רוּחַ = Hc "and" + H7307 רוּחַ "wind…" [HC/Ncbsa]
+- o2: נְשָׂאַתְ/נִי = H5375 נָשָׂא "to lift, in a great variety of applications…" [HVqp3fs/Sp1cs]
+- o3: וַ/תִּקָּחֵ/נִי = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqw3fs/Sp1cs]
+- o4: וָ/אֵלֵךְ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw1cs]
+- o5: מַר = H4751 מַר "bitter (literally or figuratively)…" [HAamsa]
+- o6: בַּ/חֲמַת = Hb "in" + H2534 חֵמָה "heat; figuratively, anger, poison (from its fever)" [HR/Ncfsc]
+- o7: רוּחִ/י = H7307 רוּחַ "wind…" [HNcbsc/Sp1cs]
+- o8: וְ/יַד = Hc "and" + H3027 יָד "a hand (the open one (indicating power, means…" [HC/Ncbsc]
+- o9: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o10: עָלַ/י = H5921 עַל "above, over, upon…" [HR/Sp1cs]
+- o11: חָזָקָה = H2388 חָזַק "to fasten upon…" [HVqp3fs]
+
+### Ezekiel 4:1 (context)
+
+- o1: וְ/אַתָּה = Hc "and" + H859 אַתָּה "thou and thee, or (plural) ye and you" [HC/Pp2ms]
+- o2: בֶן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o3: אָדָם = H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HNcmsa]
+- o4: קַח = H3947 לָקַח "to take (in the widest variety of applications)" [HVqv2ms]
+- o5: לְ/ךָ = Hl "to" [HR/Sp2ms]
+- o6: לְבֵנָה = H3843 לְבֵנָה "a brick (from the whiteness of the clay)" [HNcfsa]
+- o7: וְ/נָתַתָּה = Hc "and" + H5414 נָתַן "to give…" [HC/Vqq2ms]
+- o8: אוֹתָ/הּ = H853 אֵת "properly…" [HTo/Sp3fs]
+- o9: לְ/פָנֶי/ךָ = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp2ms]
+- o10: וְ/חַקּוֹתָ = Hc "and" + H2710 חָקַק "properly, to hack, i.e. engrave (Judges 5:14…" [HC/Vqq2ms]
+- o11: עָלֶי/הָ = H5921 עַל "above, over, upon…" [HR/Sp3fs]
+- o12: עִיר = H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HNcfsa]
+- o13: אֶת = H853 אֵת "properly…" [HTo]
+- o14: יְרוּשָׁלִָם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]

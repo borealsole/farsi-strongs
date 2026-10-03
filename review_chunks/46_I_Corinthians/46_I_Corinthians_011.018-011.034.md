@@ -870,3 +870,37 @@ Persian entries and current tags:
 - p27: را
 - p28: خواهم_داد
 - p29: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Corinthians 11:17 (context)
+
+- o1: Τοῦτο = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-ASN]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: παραγγέλλων = G3853 παραγγέλλω "(give in) charge, (give) command(-ment), declare" [V-PAP-NSM]
+- o4: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o5: ἐπαινῶ = G1867 ἐπαινέω "commend, laud, praise" [V-PAI-1S]
+- o6: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o7: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o8: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o9: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o10: κρεῖσσον = G2908 κρεῖσσον "better" [A-ASN-C]
+- o11: ἀλλὰ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o12: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o13: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o14: ἧσσον = G2276 ἥττον "less, worse" [A-ASN-C]
+- o15: συνέρχεσθε. = G4905 συνέρχομαι "accompany, assemble (with), come (together)…" [V-PNI-2P]
+
+### I Corinthians 12:1 (context)
+
+- o1: Περὶ = G4012 περί "there-)about, above, against, at, on behalf of…" [PREP]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPN]
+- o4: πνευματικῶν, = G4152 πνευματικός "spiritual" [A-GPN]
+- o5: ἀδελφοί, = G80 ἀδελφός "brother" [N-VPM]
+- o6: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o7: θέλω = G2309 θέλω "desire, be disposed (forward), intend, list, love…" [V-PAI-1S]
+- o8: ὑμᾶς = G5210 ὑμεῖς "ye (yourselves), you" [P-2AP]
+- o9: ἀγνοεῖν. = G50 ἀγνοέω "be) ignorant(-ly), not know, not understand…" [V-PAN]

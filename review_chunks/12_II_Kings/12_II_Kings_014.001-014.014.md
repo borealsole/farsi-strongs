@@ -870,3 +870,60 @@ Persian entries and current tags:
 - p28: سامِرِه  → H8111
 - p29: بازگشت  → H7725
 - p30: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 13:25 (context)
+
+- o1: וַ/יָּשָׁב = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqw3ms]
+- o2: יְהוֹאָשׁ = H3060 יְהוֹאָשׁ "Jehoash, the name of two Israelite kings" [HNp]
+- o3: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o4: יְהוֹאָחָז = H3059 יְהוֹאָחָז "Jehoachaz, the name of three Israelites" [HNp]
+- o5: וַ/יִּקַּח = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqw3ms]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: הֶ/עָרִים = Hd "the" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HTd/Ncfpa]
+- o8: מִ/יַּד = Hm "from" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o9: בֶּן = H1130 בֶּן־הֲדַד "Ben-Hadad, the name of several Syrian kings" [HNp]
+- o10: הֲדַד = H1130 בֶּן־הֲדַד "Ben-Hadad, the name of several Syrian kings" [HNp]
+- o11: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o12: חֲזָאֵל = H2371 חֲזָאֵל "Chazael, a king of Syria" [HNp]
+- o13: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o14: לָקַח = H3947 לָקַח "to take (in the widest variety of applications)" [HVqp3ms]
+- o15: מִ/יַּד = Hm "from" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o16: יְהוֹאָחָז = H3059 יְהוֹאָחָז "Jehoachaz, the name of three Israelites" [HNp]
+- o17: אָבִי/ו = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp3ms]
+- o18: בַּ/מִּלְחָמָה = Hb "in" + H4421 מִלְחָמָה "a battle (i.e. the engagement)…" [HRd/Ncfsa]
+- o19: שָׁלֹשׁ = H7969 שָׁלוֹשׁ "three…" [HAcfsa]
+- o20: פְּעָמִים = H6471 פַּעַם "a stroke…" [HNcfpa]
+- o21: הִכָּ/הוּ = H5221 נָכָה "to strike (lightly or severely…" [HVhp3ms/Sp3ms]
+- o22: יוֹאָשׁ = H3101 יוֹאָשׁ "Joash, the name of six Israelites" [HNp]
+- o23: וַ/יָּשֶׁב = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vhw3ms]
+- o24: אֶת = H853 אֵת "properly…" [HTo]
+- o25: עָרֵי = H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HNcfpc]
+- o26: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+
+### II Kings 14:15 (context)
+
+- o1: וְ/יֶתֶר = Hc "and" + H3499 יֶתֶר "properly, an overhanging…" [HC/Ncmsc]
+- o2: דִּבְרֵי = H1697 דָּבָר "a word…" [HNcmpc]
+- o3: יְהוֹאָשׁ = H3060 יְהוֹאָשׁ "Jehoash, the name of two Israelite kings" [HNp]
+- o4: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o5: עָשָׂה = H6213 עָשָׂה "to do or make…" [HVqp3ms]
+- o6: וּ/גְבוּרָת/וֹ = Hc "and" + H1369 גְּבוּרָה "force (literally or figuratively)…" [HC/Ncfsc/Sp3ms]
+- o7: וַ/אֲשֶׁר = Hc "and" + H834 אֲשֶׁר "who, which, what, that…" [HC/Tr]
+- o8: נִלְחַם = H3898 לָחַם "to feed on; figuratively, to consume…" [HVNp3ms]
+- o9: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o10: אֲמַצְיָהוּ = H558 אֲמַצְיָה "Amatsjah, the name of four Israelites" [HNp]
+- o11: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o12: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o13: הֲ/לֹא = Hi "(untranslatable; interrogative particle)" + H3808 לֹא "not (the simple or abs. negation)…" [HTi/Tn]
+- o14: הֵם = H1992 הֵם "they (only used when emphatic)" [HPp3mp]
+- o15: כְּתוּבִים = H3789 כָּתַב "to grave, by implication, to write (describe…" [HVqsmpa]
+- o16: עַל = H5921 עַל "above, over, upon…" [HR]
+- o17: סֵפֶר = H5612 סֵפֶר "properly, writing (the art or a document)…" [HNcmsc]
+- o18: דִּבְרֵי = H1697 דָּבָר "a word…" [HNcmpc]
+- o19: הַ/יָּמִים = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmpa]
+- o20: לְ/מַלְכֵי = Hl "to" + H4428 מֶלֶךְ "a king" [HR/Ncmpc]
+- o21: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]

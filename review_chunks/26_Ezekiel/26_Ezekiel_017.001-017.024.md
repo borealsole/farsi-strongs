@@ -1368,3 +1368,37 @@ Persian entries and current tags:
 - p40: عمل خواهم_آورد  → H6213
 - p41: .
 - p42: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 16:63 (context)
+
+- o1: לְמַעַן = H4616 מַעַן "properly, heed, i.e. purpose…" [HR]
+- o2: תִּזְכְּרִי = H2142 זָכַר "properly, to mark (so as to be recognized)…" [HVqi2fs]
+- o3: וָ/בֹשְׁתְּ = Hc "and" + H954 בּוּשׁ "properly, to pale…" [HC/Vqq2fs]
+- o4: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o5: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o6: לָּ/ךְ = Hl "to" [HR/Sp2fs]
+- o7: עוֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+- o8: פִּתְחוֹן = H6610 פִּתְחוֹן "opening (the act)" [HNcmsc]
+- o9: פֶּה = H6310 פֶּה "the mouth (as the means of blowing)…" [HNcmsa]
+- o10: מִ/פְּנֵי = Hm "from" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o11: כְּלִמָּתֵ/ךְ = H3639 כְּלִמָּה "disgrace" [HNcfsc/Sp2fs]
+- o12: בְּ/כַפְּרִ/י = Hb "in" + H3722 כָּפַר "to cover (specifically with bitumen)…" [HR/Vpc/Sp1cs]
+- o13: לָ/ךְ = Hl "to" [HR/Sp2fs]
+- o14: לְ/כָל = Hl "to" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o15: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o16: עָשִׂית = H6213 עָשָׂה "to do or make…" [HVqp2fs]
+- o17: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o18: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o19: יְהוִה = H3069 יְהֹוִה "YHWH" [HNp]
+
+### Ezekiel 18:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o5: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

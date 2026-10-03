@@ -878,3 +878,47 @@ Persian entries and current tags:
 - p23: باشد
 - p24: ؟
 - p25: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 41:19 (context)
+
+- o1: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o2: שֶׁבַע = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcfsa]
+- o3: פָּרוֹת = H6510 פָּרָה "a heifer" [HNcfpa]
+- o4: אֲחֵרוֹת = H312 אַחֵר "properly, hinder; generally, next, other, etc" [HAafpa]
+- o5: עֹלוֹת = H5927 עָלָה "to ascend…" [HVqrfpa]
+- o6: אַחֲרֵי/הֶן = H310 אַחַר "properly, the hind part…" [HR/Sp3fp]
+- o7: דַּלּוֹת = H1803 דַּלָּה "properly, something dangling…" [HAafpa]
+- o8: וְ/רָעוֹת = Hc "and" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HC/Aafpc]
+- o9: תֹּאַר = H8389 תֹּאַר "outline, i.e. figure or appearance" [HNcmsa]
+- o10: מְאֹד = H3966 מְאֹד "properly, vehemence…" [HD]
+- o11: וְ/רַקּוֹת = Hc "and" + H7534 רַק "emaciated (as if flattened out)" [HC/Aafpc]
+- o12: בָּשָׂר = H1320 בָּשָׂר "flesh (from its freshness)…" [HNcmsa]
+- o13: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o14: רָאִיתִי = H7200 רָאָה "to see…" [HVqp1cs]
+- o15: כָ/הֵנָּה = Hk "like" + H2007 הֵנָּה "themselves (often used emphatic for the copula…" [HR/Pp3fp]
+- o16: בְּ/כָל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o17: אֶרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsc]
+- o18: מִצְרַיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o19: לָ/רֹעַ = Hl "to" + H7455 רֹעַ "badness (as marring), physically or morally" [HRd/Ncmsa]
+
+### Genesis 41:39 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: פַּרְעֹה = H6547 פַּרְעֹה "Paroh, a general title of Egyptian kings" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: יוֹסֵף = H3130 יוֹסֵף "Joseph, the name of seven Israelites" [HNp]
+- o5: אַחֲרֵי = H310 אַחַר "properly, the hind part…" [HR]
+- o6: הוֹדִיעַ = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVhc]
+- o7: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o8: אוֹתְ/ךָ = H853 אֵת "properly…" [HTo/Sp2ms]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o11: זֹאת = H2063 זֹאת "this (often used adverb)" [HPdxfs]
+- o12: אֵין = H369 אַיִן "a non-entity…" [HTn]
+- o13: נָבוֹן = H995 בִּין "to separate mentally (or distinguish)…" [HVNrmsa]
+- o14: וְ/חָכָם = Hc "and" + H2450 חָכָם "wise, (i.e. intelligent, skilful or artful)" [HC/Aamsa]
+- o15: כָּמוֹ/ךָ = H3644 כְּמוֹ "a form of the prefix 'k-', but used separately as…" [HR/Sp2ms]

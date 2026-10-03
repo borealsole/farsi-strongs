@@ -1256,3 +1256,46 @@ Persian entries and current tags:
 - p26: می‌زنند
 - p27: .
 - p28: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Nehemiah 9:19 (context)
+
+- o1: וְ/אַתָּה = Hc "and" + H859 אַתָּה "thou and thee, or (plural) ye and you" [HC/Pp2ms]
+- o2: בְּ/רַחֲמֶי/ךָ = Hb "in" + H7356 רַחַם "compassion (in the plural)…" [HR/Ncmpc/Sp2ms]
+- o3: הָ/רַבִּים = Hd "the" + H7227 רַב "abundant (in quantity, size, age, number, rank…" [HTd/Aampa]
+- o4: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o5: עֲזַבְתָּ/ם = H5800 עָזַב "to loosen, i.e. relinquish, permit, etc" [HVqp2ms/Sp3mp]
+- o6: בַּ/מִּדְבָּר = Hb "in" + H4057 מִדְבָּר "a pasture (i.e. open field…" [HRd/Ncmsa]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: עַמּוּד = H5982 עַמּוּד "a column (as standing)…" [HNcmsc]
+- o9: הֶ/עָנָן = Hd "the" + H6051 עָנָן "a cloud (as covering the sky)…" [HTd/Ncmsa]
+- o10: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o11: סָר = H5493 סוּר "to turn off (literal or figurative)" [HVqp3ms]
+- o12: מֵ/עֲלֵי/הֶם = Hm "from" + H5921 עַל "above, over, upon…" [HR/R/Sp3mp]
+- o13: בְּ/יוֹמָם = Hb "in" + H3119 יוֹמָם "daily" [HR/Ncmsa]
+- o14: לְ/הַנְחֹתָ/ם = Hl "to" + H5148 נָחָה "to guide…" [HR/Vhc/Sp3mp]
+- o15: בְּ/הַ/דֶּרֶךְ = Hb "in" + Hd "the" + H1870 דֶּרֶךְ "a road (as trodden)…" [HR/Td/Ncbsa]
+- o16: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o17: עַמּוּד = H5982 עַמּוּד "a column (as standing)…" [HNcmsc]
+- o18: הָ/אֵשׁ = Hd "the" + H784 אֵשׁ "fire (literally or figuratively)" [HTd/Ncbsa]
+- o19: בְּ/לַיְלָה = Hb "in" + H3915 לַיִל "properly, a twist (away of the light), i.e. night…" [HR/Ncmsa]
+- o20: לְ/הָאִיר = Hl "to" + H215 אוֹר "to be (causative…" [HR/Vhc]
+- o21: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o22: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o23: הַ/דֶּרֶךְ = Hd "the" + H1870 דֶּרֶךְ "a road (as trodden)…" [HTd/Ncbsa]
+- o24: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o25: יֵלְכוּ = H3212 יָלַךְ "to walk (literally or figuratively)…" [HVqi3mp]
+- o26: בָ/הּ = Hb "in" [HR/Sp3fs]
+
+### Nehemiah 10:1 (context)
+
+- o1: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o2: הַ/חֲתוּמִים = Hd "the" + H2856 חָתַם "to close up; especially to seal" [HTd/Vqsmpa]
+- o3: נְחֶמְיָה = H5166 נְחֶמְיָה "Nechemjah, the name of three Israelites" [HNp]
+- o4: הַ/תִּרְשָׁתָא = Hd "the" + H8660 תִּרְשָׁתָא "Tirshatha…" [HTd/Ncmsa]
+- o5: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o6: חֲכַלְיָה = H2446 חֲכַלְיָה "Chakaljah, an Israelite" [HNp]
+- o7: וְ/צִדְקִיָּה = Hc "and" + H6667 צִדְקִיָּה "Tsidkijah, the name of six Israelites" [HC/Np]

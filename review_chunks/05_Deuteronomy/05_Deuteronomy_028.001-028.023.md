@@ -1134,3 +1134,40 @@ Persian entries and current tags:
 - p13: به
 - p14: آهن  → H1270
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 27:26 (context)
+
+- o1: אָרוּר = H779 אָרַר "to execrate" [HVqsmsa]
+- o2: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o3: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o4: יָקִים = H6965 קוּם "to rise (in various applications, literal…" [HVhi3ms]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: דִּבְרֵי = H1697 דָּבָר "a word…" [HNcmpc]
+- o7: הַ/תּוֹרָה = Hd "the" + H8451 תּוֹרָה "a precept or statute…" [HTd/Ncfsa]
+- o8: הַ/זֹּאת = Hd "the" + H2063 זֹאת "this (often used adverb)" [HTd/Pdxfs]
+- o9: לַ/עֲשׂוֹת = Hl "to" + H6213 עָשָׂה "to do or make…" [HR/Vqc]
+- o10: אוֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o11: וְ/אָמַר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqq3ms]
+- o12: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o13: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o14: אָמֵן = H543 אָמֵן "sure; abstract, faithfulness; adverb, truly" [HD]
+
+### Deuteronomy 28:24 (context)
+
+- o1: יִתֵּן = H5414 נָתַן "to give…" [HVqi3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: מְטַר = H4306 מָטַר "rain" [HNcmsc]
+- o5: אַרְצְ/ךָ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsc/Sp2ms]
+- o6: אָבָק = H80 אָבָק "light particles (as volatile)" [HNcmsa]
+- o7: וְ/עָפָר = Hc "and" + H6083 עָפָר "dust (as powdered or gray)…" [HC/Ncmsa]
+- o8: מִן = H4480 מִן "properly, a part of…" [HR]
+- o9: הַ/שָּׁמַיִם = Hd "the" + H8064 שָׁמַיִם "the sky (as aloft…" [HTd/Ncmpa]
+- o10: יֵרֵד = H3381 יָרַד "to descend (literally, to go downwards…" [HVqi3ms]
+- o11: עָלֶי/ךָ = H5921 עַל "above, over, upon…" [HR/Sp2ms]
+- o12: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o13: הִשָּׁמְדָ/ךְ = H8045 שָׁמַד "to desolate" [HVNc/Sp2fs]

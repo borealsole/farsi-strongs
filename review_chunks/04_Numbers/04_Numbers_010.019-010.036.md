@@ -767,3 +767,40 @@ Persian entries and current tags:
 - p17: بازگرد  → H7725
 - p18: .
 - p19: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 10:18 (context)
+
+- o1: וְ/נָסַע = Hc "and" + H5265 נָסַע "properly, to pull up, especially the tent-pins…" [HC/Vqq3ms]
+- o2: דֶּגֶל = H1714 דֶּגֶל "a flag" [HNcmsc]
+- o3: מַחֲנֵה = H4264 מַחֲנֶה "an encampment (of travellers or troops)…" [HNcbsc]
+- o4: רְאוּבֵן = H7205 רְאוּבֵן "Reuben, a son of Jacob" [HNp]
+- o5: לְ/צִבְאֹתָ/ם = Hl "to" + H6635 צָבָא "a mass of persons (or figuratively, things)…" [HR/Ncbpc/Sp3mp]
+- o6: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o7: צְבָא/וֹ = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbsc/Sp3ms]
+- o8: אֱלִיצוּר = H468 אֱלִיצוּר "Elitsur, an Israelite" [HNp]
+- o9: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o10: שְׁדֵיאוּר = H7707 שְׁדֵיאוּר "Shedejur, an Israelite" [HNp]
+
+### Numbers 11:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o3: כְּ/מִתְאֹנְנִים = Hk "like" + H596 אָנַן "to mourn, i.e. complain" [HR/Vrrmpa]
+- o4: רַע = H7451 רַע "bad or (as noun) evil (natural or moral)" [HAamsa]
+- o5: בְּ/אָזְנֵי = Hb "in" + H241 אֹזֶן "broadness. i.e. (concrete) the ear (from its form…" [HR/Ncfdc]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: וַ/יִּשְׁמַע = Hc "and" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HC/Vqw3ms]
+- o8: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o9: וַ/יִּחַר = Hc "and" + H2734 חָרָה "to glow or grow warm…" [HC/Vqw3ms]
+- o10: אַפּ/וֹ = H639 אַף "properly, the nose or nostril…" [HNcmsc/Sp3ms]
+- o11: וַ/תִּבְעַר = Hc "and" + H1197 בָּעַר "to kindle, i.e. consume (by fire or by eating)…" [HC/Vqw3fs]
+- o12: בָּ/ם = Hb "in" [HR/Sp3mp]
+- o13: אֵשׁ = H784 אֵשׁ "fire (literally or figuratively)" [HNcbsc]
+- o14: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o15: וַ/תֹּאכַל = Hc "and" + H398 אָכַל "to eat (literally or figuratively)" [HC/Vqw3fs]
+- o16: בִּ/קְצֵה = Hb "in" + H7097 קָצֶה "an extremity" [HR/Ncbsc]
+- o17: הַ/מַּחֲנֶה = Hd "the" + H4264 מַחֲנֶה "an encampment (of travellers or troops)…" [HTd/Ncbsa]

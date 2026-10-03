@@ -996,3 +996,41 @@ Persian entries and current tags:
 - p21: نازک  → H8476
 - p22: کشیدند
 - p23: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 35:35 (context)
+
+- o1: מִלֵּא = H4390 מָלֵא "to fill or (intransitively) be full of…" [HVpp3ms]
+- o2: אֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o3: חָכְמַת = H2451 חׇכְמָה "wisdom (in a good sense)" [HNcfsc]
+- o4: לֵב = H3820 לֵב "the heart…" [HNcmsa]
+- o5: לַ/עֲשׂוֹת = Hl "to" + H6213 עָשָׂה "to do or make…" [HR/Vqc]
+- o6: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o7: מְלֶאכֶת = H4399 מְלָאכָה "properly, deputyship, i.e. ministry…" [HNcfsc]
+- o8: חָרָשׁ = H2796 חָרָשׁ "a fabricator or any material" [HNcmsa]
+- o9: וְ/חֹשֵׁב = Hc "and" + H2803 חָשַׁב "properly, to plait or interpenetrate…" [HC/Vqrmsa]
+- o10: וְ/רֹקֵם = Hc "and" + H7551 רָקַם "to variegate color, i.e. embroider…" [HC/Vqrmsa]
+- o11: בַּ/תְּכֵלֶת = Hb "in" + H8504 תְּכֵלֶת "the cerulean mussel…" [HRd/Ncfsa]
+- o12: וּ/בָ/אַרְגָּמָן = Hc "and" + Hb "in" + H713 אַרְגָּמָן "purple (the color or the dyed stuff)" [HC/Rd/Ncmsa]
+- o13: בְּ/תוֹלַעַת = Hb "in" + H8438 תּוֹלָע "the crimson-grub…" [HR/Ncfsc]
+- o14: הַ/שָּׁנִי = Hd "the" + H8144 שָׁנִי "crimson, properly, the insect or its color…" [HTd/Ncmsa]
+- o15: וּ/בַ/שֵּׁשׁ = Hc "and" + Hb "in" + H8336 שֵׁשׁ "bleached stuff…" [HC/Rd/Ncmsa]
+- o16: וְ/אֹרֵג = Hc "and" + H707 אָרַג "to plait or weave" [HC/Vqrmsa]
+- o17: עֹשֵׂי = H6213 עָשָׂה "to do or make…" [HVqrmpc]
+- o18: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o19: מְלָאכָה = H4399 מְלָאכָה "properly, deputyship, i.e. ministry…" [HNcfsa]
+- o20: וְ/חֹשְׁבֵי = Hc "and" + H2803 חָשַׁב "properly, to plait or interpenetrate…" [HC/Vqrmpc]
+- o21: מַחֲשָׁבֹת = H4284 מַחֲשָׁבָה "a contrivance, i.e. (concretely) a texture…" [HNcfpa]
+
+### Exodus 36:20 (context)
+
+- o1: וַ/יַּעַשׂ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3ms]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: הַ/קְּרָשִׁים = Hd "the" + H7175 קֶרֶשׁ "a slab or plank; by implication, a deck of aship" [HTd/Ncmpa]
+- o4: לַ/מִּשְׁכָּן = Hl "to" + H4908 מִשְׁכָּן "a residence (including a shepherd's hut…" [HRd/Ncmsa]
+- o5: עֲצֵי = H6086 עֵץ "a tree (from its firmness)…" [HNcmpc]
+- o6: שִׁטִּים = H7848 שִׁטָּה "the acacia (from its scourging thorns)" [HNcfpa]
+- o7: עֹמְדִים = H5975 עָמַד "to stand…" [HVqrmpa]

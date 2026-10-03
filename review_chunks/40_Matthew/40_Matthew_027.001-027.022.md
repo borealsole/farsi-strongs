@@ -1016,3 +1016,46 @@ Persian entries and current tags:
 - p20: صلیبش کن  → G4717
 - p21: !
 - p22: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 26:75 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἐμνήσθη = G3403 μιμνήσκω "be mindful, remember" [V-API-3S]
+- o3: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o4: Πέτρος = G4074 Πέτρος "Peter, rock" [N-NSM]
+- o5: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
+- o6: ῥήματος = G4487 ῥῆμα "+ evil, + nothing, saying, word" [N-GSN]
+- o7: Ἰησοῦ = G2424 Ἰησοῦς "Jesus" [N-GSM]
+- o8: εἰρηκότος = G2046 ἐρέω "call, say, speak (of), tell" [V-RAP-GSM-ATT]
+- o9: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o10: πρὶν = G4250 πρίν "before (that), ere" [ADV]
+- o11: ἀλέκτορα = G220 ἀλέκτωρ "cock" [N-ASM]
+- o12: φωνῆσαι = G5455 φωνέω "call (for), crow, cry" [V-AAN]
+- o13: τρὶς = G5151 τρίς "three times, thrice" [ADV]
+- o14: ἀπαρνήσῃ = G533 ἀπαρνέομαι "deny" [V-FDI-2S]
+- o15: με· = G1473 ἐγώ "I, me" [P-1AS]
+- o16: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o17: ἐξελθὼν = G1831 ἐξέρχομαι "come (forth, out), depart (out of), escape…" [V-2AAP-NSM]
+- o18: ἔξω = G1854 ἔξω "away, forth, (with-)out (of, -ward), strange" [ADV]
+- o19: ἔκλαυσεν = G2799 κλαίω "bewail, weep" [V-AAI-3S]
+- o20: πικρῶς. = G4090 πικρῶς "bitterly" [ADV]
+
+### Matthew 27:23 (context)
+
+- o1: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: ἔφη· = G5346 φημί "affirm, say" [V-IAI-3S]
+- o4: τί = G5101 τίς "every man, how (much), + no(-ne, thing)…" [I-ASN]
+- o5: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o6: κακὸν = G2556 κακός "bad, evil, harm, ill, noisome, wicked" [A-ASN]
+- o7: ἐποίησεν; = G4160 ποιέω "abide, + agree, appoint, avenge, + band together…" [V-AAI-3S]
+- o8: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o9: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o10: περισσῶς = G4057 περισσῶς "exceedingly, out of measure, the more" [ADV]
+- o11: ἔκραζον = G2896 κράζω "cry (out)" [V-IAI-3P]
+- o12: λέγοντες· = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAP-NPM]
+- o13: σταυρωθήτω. = G4717 σταυρόω "crucify" [V-APM-3S]

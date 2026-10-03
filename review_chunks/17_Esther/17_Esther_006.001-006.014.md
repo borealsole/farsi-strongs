@@ -951,3 +951,50 @@ Persian entries and current tags:
 - p23: ،
 - p24: بردند  → H926 H935
 - p25: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Esther 5:14 (context)
+
+- o1: וַ/תֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3fs]
+- o2: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o3: זֶרֶשׁ = H2238 זֶרֶשׁ "Zeresh, Haman's wife" [HNp]
+- o4: אִשְׁתּ/וֹ = H802 אִשָּׁה "a woman" [HNcfsc/Sp3ms]
+- o5: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o6: אֹהֲבָי/ו = H157 אָהַב "to have affection for (sexually or otherwise)" [HVqrmpc/Sp3ms]
+- o7: יַעֲשׂוּ = H6213 עָשָׂה "to do or make…" [HVqj3mp]
+- o8: עֵץ = H6086 עֵץ "a tree (from its firmness)…" [HNcmsa]
+- o9: גָּבֹהַּ = H1364 גָּבֹהַּ "elevated (or elated), powerful, arrogant" [HAamsa]
+- o10: חֲמִשִּׁים = H2572 חֲמִשִּׁים "fifty" [HAcbpa]
+- o11: אַמָּה = H520 אַמָּה "properly, a mother (i.e. unit of measure…" [HNcfsa]
+- o12: וּ/בַ/בֹּקֶר = Hc "and" + Hb "in" + H1242 בֹּקֶר "properly, dawn (as the break of day)…" [HC/Rd/Ncmsa]
+- o13: אֱמֹר = H559 אָמַר "to say (used with great latitude)" [HVqv2ms]
+- o14: לַ/מֶּלֶךְ = Hl "to" + H4428 מֶלֶךְ "a king" [HRd/Ncmsa]
+- o15: וְ/יִתְלוּ = Hc "and" + H8518 תָּלָה "to suspend (especially to gibbet)" [HC/Vqj3mp]
+- o16: אֶת = H853 אֵת "properly…" [HTo]
+- o17: מָרְדֳּכַי = H4782 מׇרְדְּכַי "Mordecai, an Israelite" [HNp]
+- o18: עָלָי/ו = H5921 עַל "above, over, upon…" [HR/Sp3ms]
+- o19: וּ/בֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqv2ms]
+- o20: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o21: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o22: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o23: הַ/מִּשְׁתֶּה = Hd "the" + H4960 מִשְׁתֶּה "drink, by implication, drinking (the act)…" [HTd/Ncmsa]
+- o24: שָׂמֵחַ = H8056 שָׂמֵחַ "blithe or gleeful" [HAamsa]
+- o25: וַ/יִּיטַב = Hc "and" + H3190 יָטַב "to be (causative) make well, literally (sound…" [HC/Vqw3ms]
+- o26: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]
+- o27: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o28: הָמָן = H2001 הָמָן "Haman, a Persian vizier" [HNp]
+- o29: וַ/יַּעַשׂ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3ms]
+- o30: הָ/עֵץ = Hd "the" + H6086 עֵץ "a tree (from its firmness)…" [HTd/Ncmsa]
+
+### Esther 7:1 (context)
+
+- o1: וַ/יָּבֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3ms]
+- o2: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o3: וְ/הָמָן = Hc "and" + H2001 הָמָן "Haman, a Persian vizier" [HC/Np]
+- o4: לִ/שְׁתּוֹת = Hl "to" + H8354 שָׁתָה "to imbibe (literally or figuratively)" [HR/Vqc]
+- o5: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o6: אֶסְתֵּר = H635 אֶסְתֵּר "Ester, the Jewish heroine" [HNp]
+- o7: הַ/מַּלְכָּה = Hd "the" + H4436 מַלְכָּה "a queen" [HTd/Ncfsa]

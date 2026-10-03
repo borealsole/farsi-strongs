@@ -775,3 +775,41 @@ Persian entries and current tags:
 - p37: خواهم_ساخت  → H5414
 - p38: .
 - p39: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 34:11 (context)
+
+- o1: וַ/יָּשׁוּבוּ = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqw3mp]
+- o2: אַחֲרֵי = H310 אַחַר "properly, the hind part…" [HR]
+- o3: כֵן = H3651 כֵּן "properly, set upright…" [HD]
+- o4: וַ/יָּשִׁבוּ = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vhw3mp]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: הָ/עֲבָדִים = Hd "the" + H5650 עֶבֶד "a servant" [HTd/Ncmpa]
+- o7: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o8: הַ/שְּׁפָחוֹת = Hd "the" + H8198 שִׁפְחָה "a female slave (as a member of the household)" [HTd/Ncfpa]
+- o9: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o10: שִׁלְּחוּ = H7971 שָׁלַח "to send away, for…" [HVpp3cp]
+- o11: חָפְשִׁים = H2670 חׇפְשִׁי "exempt (from bondage, tax or care)" [HAampa]
+- o12: ו/יכבישו/ם = Hc "and" + H3533 כָּבַשׁ "to tread down; hence, negatively, to disregard…" [HC/Vhw3mp/Sp3mp]
+- o13: לַ/עֲבָדִים = Hl "to" + H5650 עֶבֶד "a servant" [HR/Ncmpa]
+- o14: וְ/לִ/שְׁפָחוֹת = Hc "and" + Hl "to" + H8198 שִׁפְחָה "a female slave (as a member of the household)" [HC/R/Ncfpa]
+
+### Jeremiah 35:1 (context)
+
+- o1: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]
+- o2: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o3: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o4: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o5: יִרְמְיָהוּ = H3414 יִרְמְיָה "Jirmejah, the name of eight or nine Israelites" [HNp]
+- o6: מֵ/אֵת = Hm "from" + H854 אֵת "properly…" [HR/R]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: בִּ/ימֵי = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmpc]
+- o9: יְהוֹיָקִים = H3079 יְהוֹיָקִים "Jehojakim, a Jewish king" [HNp]
+- o10: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o11: יֹאשִׁיָּהוּ = H2977 יֹאשִׁיָּה "Joshijah, the name of two Israelites" [HNp]
+- o12: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o13: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o14: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

@@ -856,3 +856,39 @@ Persian entries and current tags:
 - p13: بنی‌اسرائیل  → H3478
 - p14: بازگفت  → H559
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 29:20 (context)
+
+- o1: וּ/בַ/יּוֹם = Hc "and" + Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HC/Rd/Ncmsa]
+- o2: הַ/שְּׁלִישִׁי = Hd "the" + H7992 שְׁלִישִׁי "third; feminine athird (part)…" [HTd/Aomsa]
+- o3: פָּרִים = H6499 פַּר "a bullock (apparently as breaking forth in wild…" [HNcmpa]
+- o4: עַשְׁתֵּי = H6249 עַשְׁתֵּי "eleven or (ordinal) eleventh" [HAobpc]
+- o5: עָשָׂר = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcmsa]
+- o6: אֵילִם = H352 אַיִל "properly, strength; hence, anything strong…" [HNcmpa]
+- o7: שְׁנָיִם = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmda]
+- o8: כְּבָשִׂים = H3532 כֶּבֶשׂ "a ram (just old enough to butt)" [HNcmpa]
+- o9: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o10: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o11: אַרְבָּעָה = H702 אַרְבַּע "four" [HAcmsa]
+- o12: עָשָׂר = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcmsa]
+- o13: תְּמִימִם = H8549 תָּמִים "entire (literally, figuratively or morally)…" [HAampa]
+
+### Numbers 30:1 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: רָאשֵׁי = H7218 רֹאשׁ "the head (as most easily shaken)…" [HNcmpc]
+- o5: הַ/מַּטּוֹת = Hd "the" + H4294 מַטֶּה "a branch (as extending); figuratively, a tribe…" [HTd/Ncmpa]
+- o6: לִ/בְנֵי = Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmpc]
+- o7: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o8: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o9: זֶה = H2088 זֶה "the masculine demonstrative pronoun, this or that" [HPdxms]
+- o10: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]
+- o11: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o12: צִוָּה = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp3ms]
+- o13: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]

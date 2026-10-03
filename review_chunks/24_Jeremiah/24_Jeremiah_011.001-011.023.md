@@ -1364,3 +1364,53 @@ Persian entries and current tags:
 - p17: خواهم_فرستاد
 - p18: .
 - p19: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 10:25 (context)
+
+- o1: שְׁפֹךְ = H8210 שָׁפַךְ "to spill forth (blood, a libation, liquid metal…" [HVqv2ms]
+- o2: חֲמָתְ/ךָ = H2534 חֵמָה "heat; figuratively, anger, poison (from its fever)" [HNcfsc/Sp2ms]
+- o3: עַל = H5921 עַל "above, over, upon…" [HR]
+- o4: הַ/גּוֹיִם = Hd "the" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HTd/Ncmpa]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o7: יְדָעוּ/ךָ = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqp3cp/Sp2ms]
+- o8: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o9: מִשְׁפָּחוֹת = H4940 מִשְׁפָּחָה "a family, i.e. circle of relatives…" [HNcfpa]
+- o10: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o11: בְּ/שִׁמְ/ךָ = Hb "in" + H8034 שֵׁם "an appellation…" [HR/Ncmsc/Sp2ms]
+- o12: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o13: קָרָאוּ = H7121 קָרָא "to call out to (i.e. properly, address by name…" [HVqp3cp]
+- o14: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o15: אָכְלוּ = H398 אָכַל "to eat (literally or figuratively)" [HVqp3cp]
+- o16: אֶת = H853 אֵת "properly…" [HTo]
+- o17: יַעֲקֹב = H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HNp]
+- o18: וַ/אֲכָלֻ/הוּ = Hc "and" + H398 אָכַל "to eat (literally or figuratively)" [HC/Vqp3cp/Sp3ms]
+- o19: וַ/יְכַלֻּ/הוּ = Hc "and" + H3615 כָּלָה "to end, whether intransitive (to cease…" [HC/Vpw3mp/Sp3ms]
+- o20: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o21: נָוֵ/הוּ = H5116 נָוֶה "adjectively) at home…" [HNcbsc/Sp3ms]
+- o22: הֵשַׁמּוּ = H8074 שָׁמֵם "to stun (or intransitively, grow numb)…" [HVhp3cp]
+
+### Jeremiah 12:1 (context)
+
+- o1: צַדִּיק = H6662 צַדִּיק "just" [HAamsa]
+- o2: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o5: אָרִיב = H7378 רִיב "properly, to toss, i.e. grapple…" [HVqi1cs]
+- o6: אֵלֶי/ךָ = H413 אֵל "near, with or among; often in general, to" [HR/Sp2ms]
+- o7: אַךְ = H389 אַךְ "a particle of affirmation, surely…" [HTa]
+- o8: מִשְׁפָּטִים = H4941 מִשְׁפָּט "properly…" [HNcmpa]
+- o9: אֲדַבֵּר = H1696 דָבַר "perhaps properly, to arrange…" [HVpi1cs]
+- o10: אוֹתָ/ךְ = H853 אֵת "properly…" [HTo/Sp2fs]
+- o11: מַדּוּעַ = H4069 מַדּוּעַ "what (is) known?…" [HTi]
+- o12: דֶּרֶךְ = H1870 דֶּרֶךְ "a road (as trodden)…" [HNcbsc]
+- o13: רְשָׁעִים = H7563 רָשָׁע "morally wrong…" [HAampa]
+- o14: צָלֵחָה = H6743 צָלַח "to push forward…" [HVqp3fs]
+- o15: שָׁלוּ = H7951 שָׁלָה "to be tranquil, i.e. secure or successful" [HVqp3cp]
+- o16: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o17: בֹּגְדֵי = H898 בָּגַד "to cover (with a garment)…" [HVqrmpc]
+- o18: בָגֶד = H899 בֶּגֶד "a covering, i.e. clothing…" [HNcmsa]

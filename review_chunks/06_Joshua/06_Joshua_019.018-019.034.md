@@ -689,3 +689,27 @@ Persian entries and current tags:
 - p37: اردن  → H3383
 - p38: می‌رسید
 - p39: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Joshua 19:17 (context)
+
+- o1: לְ/יִשָּׂשכָר = Hl "to" + H3485 יִשָּׂשכָר "Jissaskar, a son of Jacob" [HR/Np]
+- o2: יָצָא = H3318 יָצָא "to go (causatively, bring) out…" [HVqp3ms]
+- o3: הַ/גּוֹרָל = Hd "the" + H1486 גּוֹרָל "properly, a pebble…" [HTd/Ncmsa]
+- o4: הָ/רְבִיעִי = Hd "the" + H7243 רְבִיעִי "fourth; also (fractionally) a fourth" [HTd/Aomsa]
+- o5: לִ/בְנֵי = Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmpc]
+- o6: יִשָּׂשכָר = H3485 יִשָּׂשכָר "Jissaskar, a son of Jacob" [HNp]
+- o7: לְ/מִשְׁפְּחוֹתָ/ם = Hl "to" + H4940 מִשְׁפָּחָה "a family, i.e. circle of relatives…" [HR/Ncfpc/Sp3mp]
+
+### Joshua 19:35 (context)
+
+- o1: וְ/עָרֵי = Hc "and" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HC/Ncfpc]
+- o2: מִבְצָר = H4013 מִבְצָר "a fortification, castle, or fortified city…" [HNcmsa]
+- o3: הַ/צִּדִּים = Hd "the" + H6661 צִדִּים "Tsiddim (with the article), a place in Palestine" [HTd/Np]
+- o4: צֵר = H6863 צֵר "Tser, a place in Palestine" [HNp]
+- o5: וְ/חַמַּת = Hc "and" + H2575 חַמַּת "Chammath, a place in Palestine" [HC/Np]
+- o6: רַקַּת = H7557 רַקַּת "Rakkath, a place in Palestine" [HNp]
+- o7: וְ/כִנָּרֶת = Hc "and" + H3672 כִּנְּרוֹת "Kinneroth or Kinnereth, a place in Palestine" [HC/Np]

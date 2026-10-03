@@ -995,3 +995,43 @@ Persian entries and current tags:
 - p33: ملاقات  → H4150 H3722
 - p34: باشد  → H1961
 - p35: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 15:33 (context)
+
+- o1: וְ/הַ/דָּוָה = Hc "and" + Hd "the" + H1739 דָּוֶה "sick (especially in menstruation)" [HC/Td/Aafsa]
+- o2: בְּ/נִדָּתָ/הּ = Hb "in" + H5079 נִדָּה "properly, rejection…" [HR/Ncfsc/Sp3fs]
+- o3: וְ/הַ/זָּב = Hc "and" + Hd "the" + H2100 זוּב "to flow freely (as water)…" [HC/Td/Vqrmsa]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: זוֹב/וֹ = H2101 זוֹב "a seminal or menstrual flux" [HNcmsc/Sp3ms]
+- o6: לַ/זָּכָר = Hl "to" + H2145 זָכָר "properly, remembered…" [HRd/Ncmsa]
+- o7: וְ/לַ/נְּקֵבָה = Hc "and" + Hl "to" + H5347 נְקֵבָה "female (from the sexual form)" [HC/Rd/Ncfsa]
+- o8: וּ/לְ/אִישׁ = Hc "and" + Hl "to" + H376 אִישׁ "a man as an individual or a male person…" [HC/R/Ncmsa]
+- o9: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o10: יִשְׁכַּב = H7901 שָׁכַב "to lie down (for rest, sexual connection…" [HVqi3ms]
+- o11: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o12: טְמֵאָה = H2931 טָמֵא "foul in a religious sense" [HAafsa]
+
+### Leviticus 16:18 (context)
+
+- o1: וְ/יָצָא = Hc "and" + H3318 יָצָא "to go (causatively, bring) out…" [HC/Vqq3ms]
+- o2: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o3: הַ/מִּזְבֵּחַ = Hd "the" + H4196 מִזְבֵּחַ "an altar" [HTd/Ncmsa]
+- o4: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o5: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: וְ/כִפֶּר = Hc "and" + H3722 כָּפַר "to cover (specifically with bitumen)…" [HC/Vpq3ms]
+- o8: עָלָי/ו = H5921 עַל "above, over, upon…" [HR/Sp3ms]
+- o9: וְ/לָקַח = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqq3ms]
+- o10: מִ/דַּם = Hm "from" + H1818 דָּם "blood (as that which when shed causes death) of…" [HR/Ncmsc]
+- o11: הַ/פָּר = Hd "the" + H6499 פַּר "a bullock (apparently as breaking forth in wild…" [HTd/Ncmsa]
+- o12: וּ/מִ/דַּם = Hc "and" + Hm "from" + H1818 דָּם "blood (as that which when shed causes death) of…" [HC/R/Ncmsc]
+- o13: הַ/שָּׂעִיר = Hd "the" + H8163 שָׂעִיר "shaggy; as noun, a he-goat; by analogy, a faun" [HTd/Ncmsa]
+- o14: וְ/נָתַן = Hc "and" + H5414 נָתַן "to give…" [HC/Vqq3ms]
+- o15: עַל = H5921 עַל "above, over, upon…" [HR]
+- o16: קַרְנוֹת = H7161 קֶרֶן "a horn (as projecting)…" [HNcbpc]
+- o17: הַ/מִּזְבֵּחַ = Hd "the" + H4196 מִזְבֵּחַ "an altar" [HTd/Ncmsa]
+- o18: סָבִיב = H5439 סָבִיב "as noun) a circle, neighbour, or environs…" [HNcbsa]

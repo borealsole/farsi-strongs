@@ -881,3 +881,53 @@ Persian entries and current tags:
 - p23: خواهند_خواند  → H6969
 - p24: .
 - p25: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 31:18 (context)
+
+- o1: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o2: מִי = H4310 מִי "who? (occasionally, by a peculiar idiom…" [HTi]
+- o3: דָמִיתָ = H1819 דָּמָה "to compare…" [HVqp2ms]
+- o4: כָּכָה = H3602 כָּכָה "just so…" [HD]
+- o5: בְּ/כָבוֹד = Hb "in" + H3519 כָּבוֹד "properly, weight…" [HR/Ncbsa]
+- o6: וּ/בְ/גֹדֶל = Hc "and" + Hb "in" + H1433 גֹּדֶל "magnitude (literally or figuratively)" [HC/R/Ncmsa]
+- o7: בַּ/עֲצֵי = Hb "in" + H6086 עֵץ "a tree (from its firmness)…" [HR/Ncmpc]
+- o8: עֵדֶן = H5731 עֵדֶן "Eden, the region of Adam's home" [HNp]
+- o9: וְ/הוּרַדְתָּ = Hc "and" + H3381 יָרַד "to descend (literally, to go downwards…" [HC/VHq2ms]
+- o10: אֶת = H854 אֵת "properly…" [HR]
+- o11: עֲצֵי = H6086 עֵץ "a tree (from its firmness)…" [HNcmpc]
+- o12: עֵדֶן = H5731 עֵדֶן "Eden, the region of Adam's home" [HNp]
+- o13: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o14: אֶרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsa]
+- o15: תַּחְתִּית = H8482 תַּחְתִּי "lowermost…" [HAafsa]
+- o16: בְּ/תוֹךְ = Hb "in" + H8432 תָּוֶךְ "a bisection, i.e. (by implication) the centre" [HR/Ncmsc]
+- o17: עֲרֵלִים = H6189 עָרֵל "uncircumcised (i.e. still having the prepuce…" [HAampa]
+- o18: תִּשְׁכַּב = H7901 שָׁכַב "to lie down (for rest, sexual connection…" [HVqi2ms]
+- o19: אֶת = H854 אֵת "properly…" [HR]
+- o20: חַלְלֵי = H2491 חָלָל "pierced (especially to death)…" [HAampc]
+- o21: חֶרֶב = H2719 חֶרֶב "drought…" [HNcfsa]
+- o22: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o23: פַרְעֹה = H6547 פַּרְעֹה "Paroh, a general title of Egyptian kings" [HNp]
+- o24: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o25: הֲמוֹנֹ/ה = H1995 הָמוֹן "a noise, tumult, crowd; also disquietude, wealth" [HNcmsc/Sp3ms]
+- o26: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o27: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o28: יְהוִה = H3069 יְהֹוִה "YHWH" [HNp]
+
+### Ezekiel 32:17 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: בִּ/שְׁתֵּי = Hb "in" + H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HR/Acfdc]
+- o3: עֶשְׂרֵה = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcfsa]
+- o4: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o5: בַּ/חֲמִשָּׁה = Hb "in" + H2568 חָמֵשׁ "five" [HRd/Acmsa]
+- o6: עָשָׂר = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcmsa]
+- o7: לַ/חֹדֶשׁ = Hl "to" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HRd/Ncmsa]
+- o8: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o9: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o10: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o11: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o12: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

@@ -829,3 +829,38 @@ Persian entries and current tags:
 - p47: ،
 - p48: برکت خواهد_داد  → H1288
 - p49: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 6:25 (context)
+
+- o1: וּ/צְדָקָה = Hc "and" + H6666 צְדָקָה "rightness (abstractly), subjectively (rectitude)…" [HC/Ncfsa]
+- o2: תִּהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3fs]
+- o3: לָּ/נוּ = Hl "to" [HR/Sp1cp]
+- o4: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o5: נִשְׁמֹר = H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HVqi1cp]
+- o6: לַ/עֲשׂוֹת = Hl "to" + H6213 עָשָׂה "to do or make…" [HR/Vqc]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o9: הַ/מִּצְוָה = Hd "the" + H4687 מִצְוָה "a command, whether human or divine (collectively…" [HTd/Ncfsa]
+- o10: הַ/זֹּאת = Hd "the" + H2063 זֹאת "this (often used adverb)" [HTd/Pdxfs]
+- o11: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o12: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o13: אֱלֹהֵי/נוּ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp1cp]
+- o14: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o15: צִוָּ/נוּ = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp3ms/Sp1cp]
+
+### Deuteronomy 7:14 (context)
+
+- o1: בָּרוּךְ = H1288 בָרַךְ "to kneel…" [HVqsmsa]
+- o2: תִּהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi2ms]
+- o3: מִ/כָּל = Hm "from" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o4: הָ/עַמִּים = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmpa]
+- o5: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o6: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o7: בְ/ךָ = Hb "in" [HR/Sp2ms]
+- o8: עָקָר = H6135 עָקָר "sterile (as if extirpated in the generative…" [HAamsa]
+- o9: וַ/עֲקָרָה = Hc "and" + H6135 עָקָר "sterile (as if extirpated in the generative…" [HC/Aafsa]
+- o10: וּ/בִ/בְהֶמְתֶּ/ךָ = Hc "and" + Hb "in" + H929 בְּהֵמָה "properly, a dumb beast…" [HC/R/Ncfsc/Sp2ms]

@@ -759,3 +759,39 @@ Persian entries and current tags:
 - p15: شِدیئور  → H7707
 - p16: بود
 - p17: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 9:23 (context)
+
+- o1: עַל = H5921 עַל "above, over, upon…" [HR]
+- o2: פִּי = H6310 פֶּה "the mouth (as the means of blowing)…" [HNcmsc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: יַחֲנוּ = H2583 חָנָה "properly, to incline…" [HVqi3mp]
+- o5: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o6: פִּי = H6310 פֶּה "the mouth (as the means of blowing)…" [HNcmsc]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: יִסָּעוּ = H5265 נָסַע "properly, to pull up, especially the tent-pins…" [HVqi3mp]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: מִשְׁמֶרֶת = H4931 מִשְׁמֶרֶת "watch, i.e. the act (custody)…" [HNcfsc]
+- o11: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o12: שָׁמָרוּ = H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HVqp3cp]
+- o13: עַל = H5921 עַל "above, over, upon…" [HR]
+- o14: פִּי = H6310 פֶּה "the mouth (as the means of blowing)…" [HNcmsc]
+- o15: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o16: בְּ/יַד = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o17: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+
+### Numbers 10:19 (context)
+
+- o1: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o2: צְבָא = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbsc]
+- o3: מַטֵּה = H4294 מַטֶּה "a branch (as extending); figuratively, a tribe…" [HNcmsc]
+- o4: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o5: שִׁמְעוֹן = H8095 שִׁמְעוֹן "Shimon, one of Jacob's sons…" [HNp]
+- o6: שְׁלֻמִיאֵל = H8017 שְׁלֻמִיאֵל "Shelumiel, an Israelite" [HNp]
+- o7: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o8: צוּרִי = H6701 צוּרִישַׁדַּי "Tsurishaddai, an Israelite" [HNp]
+- o9: שַׁדָּי = H6701 צוּרִישַׁדַּי "Tsurishaddai, an Israelite" [HNp]

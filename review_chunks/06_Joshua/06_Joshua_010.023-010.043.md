@@ -1289,3 +1289,43 @@ Persian entries and current tags:
 - p8: جِلجال  → H1537
 - p9: بازگشتند  → H7725
 - p10: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Joshua 10:22 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: יְהוֹשֻׁעַ = H3091 יְהוֹשׁוּעַ "Jehoshua (i.e. Joshua), the Jewish leader" [HNp]
+- o3: פִּתְחוּ = H6605 פָּתַח "to open wide (literally or figuratively)…" [HVqv2mp]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: פִּי = H6310 פֶּה "the mouth (as the means of blowing)…" [HNcmsc]
+- o6: הַ/מְּעָרָה = Hd "the" + H4631 מְעָרָה "a cavern (as dark)" [HTd/Ncfsa]
+- o7: וְ/הוֹצִיאוּ = Hc "and" + H3318 יָצָא "to go (causatively, bring) out…" [HC/Vhv2mp]
+- o8: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: חֲמֵשֶׁת = H2568 חָמֵשׁ "five" [HAcmsc]
+- o11: הַ/מְּלָכִים = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmpa]
+- o12: הָ/אֵלֶּה = Hd "the" + H428 אֵלֶּה "these or those" [HTd/Pdxcp]
+- o13: מִן = H4480 מִן "properly, a part of…" [HR]
+- o14: הַ/מְּעָרָה = Hd "the" + H4631 מְעָרָה "a cavern (as dark)" [HTd/Ncfsa]
+
+### Joshua 11:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: כִּ/שְׁמֹעַ = Hk "like" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HR/Vqc]
+- o3: יָבִין = H2985 יָבִין "Jabin, the name of two Canaanitish kings" [HNp]
+- o4: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o5: חָצוֹר = H2674 חָצוֹר "Chatsor…" [HNp]
+- o6: וַ/יִּשְׁלַח = Hc "and" + H7971 שָׁלַח "to send away, for…" [HC/Vqw3ms]
+- o7: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o8: יוֹבָב = H3103 יוֹבָב "Jobab…" [HNp]
+- o9: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o10: מָדוֹן = H4068 מָדוֹן "Madon, a place in Palestine" [HNp]
+- o11: וְ/אֶל = Hc "and" + H413 אֵל "near, with or among; often in general, to" [HC/R]
+- o12: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o13: שִׁמְרוֹן = H8110 שִׁמְרוֹן "Shimron…" [HNp]
+- o14: וְ/אֶל = Hc "and" + H413 אֵל "near, with or among; often in general, to" [HC/R]
+- o15: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o16: אַכְשָׁף = H407 אַכְשָׁף "Acshaph, a place in Palestine" [HNp]

@@ -996,3 +996,33 @@ Persian entries and current tags:
 - p29: سلاحدارش  → H5375 H3627
 - p30: غایبند
 - p31: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 13:23 (context)
+
+- o1: וַ/יֵּצֵא = Hc "and" + H3318 יָצָא "to go (causatively, bring) out…" [HC/Vqw3ms]
+- o2: מַצַּב = H4673 מַצָּב "a fixed spot…" [HNcmsc]
+- o3: פְּלִשְׁתִּים = H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HNgmpa]
+- o4: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o5: מַעֲבַר = H4569 מַעֲבָר "a crossing-place (of a river, a ford…" [HNcmsc]
+- o6: מִכְמָשׂ = H4363 מִכְמָס "Mikmas or Mikmash, a place in Palestine" [HNp]
+
+### I Samuel 14:18 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o3: לַ/אֲחִיָּה = Hl "to" + H281 אֲחִיָּה "Achijah, the name of nine Israelites" [HR/Np]
+- o4: הַגִּישָׁ/ה = H5066 נָגַשׁ "to be or come (causatively…" [HVhv2ms/Sh]
+- o5: אֲרוֹן = H727 אָרוֹן "a box" [HNcbsc]
+- o6: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o7: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o8: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o9: אֲרוֹן = H727 אָרוֹן "a box" [HNcbsc]
+- o10: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o11: בַּ/יּוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
+- o12: הַ/הוּא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3ms]
+- o13: וּ/בְנֵי = Hc "and" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/Ncmpc]
+- o14: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]

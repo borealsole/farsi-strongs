@@ -604,3 +604,26 @@ Persian entries and current tags:
 - p13: سوراخ  → H3738
 - p14: کرده‌اند
 - p15: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 21:13 (context)
+
+- o1: רוּמָ/ה = H7311 רוּם "to be high actively…" [HVqv2ms/Sh]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: בְּ/עֻזֶּ/ךָ = Hb "in" + H5797 עֹז "strength in various applications (force, security…" [HR/Ncmsc/Sp2ms]
+- o4: נָשִׁירָה = H7891 שִׁיר "to sing" [HVqh1cp]
+- o5: וּ/נְזַמְּרָה = Hc "and" + H2167 זָמַר "play upon it…" [HC/Vph1cp]
+- o6: גְּבוּרָתֶ/ךָ = H1369 גְּבוּרָה "force (literally or figuratively)…" [HNcfsc/Sp2ms]
+
+### Psalms 22:17 (context)
+
+- o1: אֲסַפֵּר = H5608 סָפַר "properly…" [HVpi1cs]
+- o2: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: עַצְמוֹתָ/י = H6106 עֶצֶם "a bone (as strong); by extension, the body…" [HNcfpc/Sp1cs]
+- o4: הֵמָּה = H1992 הֵם "they (only used when emphatic)" [HPp3mp]
+- o5: יַבִּיטוּ = H5027 נָבַט "to scan, i.e. look intently at…" [HVhi3mp]
+- o6: יִרְאוּ = H7200 רָאָה "to see…" [HVqi3mp]
+- o7: בִ/י = Hb "in" [HR/Sp1cs]

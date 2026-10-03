@@ -900,3 +900,37 @@ Persian entries and current tags:
 - p21: خواهد_بود
 - p22: .
 - p23: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 16:36 (context)
+
+- o1: וְ/הָ/עֹמֶר = Hc "and" + Hd "the" + H6016 עֹמֶר "properly, a heap, i.e. a sheaf…" [HC/Td/Ncmsa]
+- o2: עֲשִׂרִית = H6224 עֲשִׂירִי "tenth…" [HAofsc]
+- o3: הָ/אֵיפָה = Hd "the" + H374 אֵיפָה "an ephah or measure for grain…" [HTd/Ncfsa]
+- o4: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+
+### Exodus 18:1 (context)
+
+- o1: וַ/יִּשְׁמַע = Hc "and" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HC/Vqw3ms]
+- o2: יִתְרוֹ = H3503 יִתְרוֹ "Jethro, Moses' father-in-law" [HNp]
+- o3: כֹהֵן = H3548 כֹּהֵן "literally one officiating, a priest…" [HNcmsc]
+- o4: מִדְיָן = H4080 מִדְיָן "Midjan, a son of Abraham…" [HNp]
+- o5: חֹתֵן = H2859 חָתַן "to give (a daughter) away in marriage…" [HVqrmsc]
+- o6: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o7: אֵת = H853 אֵת "properly…" [HTo]
+- o8: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o9: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o10: עָשָׂה = H6213 עָשָׂה "to do or make…" [HVqp3ms]
+- o11: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o12: לְ/מֹשֶׁה = Hl "to" + H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HR/Np]
+- o13: וּ/לְ/יִשְׂרָאֵל = Hc "and" + Hl "to" + H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HC/R/Np]
+- o14: עַמּ/וֹ = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp3ms]
+- o15: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o16: הוֹצִיא = H3318 יָצָא "to go (causatively, bring) out…" [HVhp3ms]
+- o17: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o18: אֶת = H853 אֵת "properly…" [HTo]
+- o19: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o20: מִ/מִּצְרָיִם = Hm "from" + H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HR/Np]

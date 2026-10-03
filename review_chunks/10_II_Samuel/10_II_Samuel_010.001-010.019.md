@@ -1102,3 +1102,53 @@ Persian entries and current tags:
 - p32: عَمّونیان  → H1121 H5983
 - p33: می‌ترسیدند  → H3372
 - p34: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 9:13 (context)
+
+- o1: וּ/מְפִיבֹשֶׁת = Hc "and" + H4648 מְפִיבֹשֶׁת "Mephibosheth, the name of two Israelites" [HC/Np]
+- o2: יֹשֵׁב = H3427 יָשַׁב "properly…" [HVqrmsa]
+- o3: בִּ/ירוּשָׁלִַם = Hb "in" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HR/Np]
+- o4: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o5: עַל = H5921 עַל "above, over, upon…" [HR]
+- o6: שֻׁלְחַן = H7979 שֻׁלְחָן "a table (as spread out); by implication, a meal" [HNcmsc]
+- o7: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o8: תָּמִיד = H8548 תָּמִיד "properly, continuance (as indefinite extension)…" [HNcmsa]
+- o9: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o10: אֹכֵל = H398 אָכַל "to eat (literally or figuratively)" [HVqrmsa]
+- o11: וְ/הוּא = Hc "and" + H1931 הוּא "he (she or it)…" [HC/Pp3ms]
+- o12: פִסֵּחַ = H6455 פִּסֵּחַ "lame" [HAamsa]
+- o13: שְׁתֵּי = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcfdc]
+- o14: רַגְלָי/ו = H7272 רֶגֶל "a foot (as used in walking)…" [HNcfdc/Sp3ms]
+
+### II Samuel 11:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: לִ/תְשׁוּבַת = Hl "to" + H8666 תְּשׁוּבָה "a recurrence (of time or place)…" [HR/Ncfsc]
+- o3: הַ/שָּׁנָה = Hd "the" + H8141 שָׁנֶה "a year (as a revolution of time)" [HTd/Ncfsa]
+- o4: לְ/עֵת = Hl "to" + H6256 עֵת "time, especially (adverb with preposition) now…" [HR/Ncbsc]
+- o5: צֵאת = H3318 יָצָא "to go (causatively, bring) out…" [HVqc]
+- o6: הַ/מַּלְאכִים = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmpa]
+- o7: וַ/יִּשְׁלַח = Hc "and" + H7971 שָׁלַח "to send away, for…" [HC/Vqw3ms]
+- o8: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: יוֹאָב = H3097 יוֹאָב "Joab, the name of three Israelites" [HNp]
+- o11: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o12: עֲבָדָי/ו = H5650 עֶבֶד "a servant" [HNcmpc/Sp3ms]
+- o13: עִמּ/וֹ = H5973 עִם "adverb or preposition…" [HR/Sp3ms]
+- o14: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o15: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o16: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o17: וַ/יַּשְׁחִתוּ = Hc "and" + H7843 שָׁחַת "to decay…" [HC/Vhw3mp]
+- o18: אֶת = H853 אֵת "properly…" [HTo]
+- o19: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o20: עַמּוֹן = H5983 עַמּוֹן "Ammon, a son of Lot…" [HNp]
+- o21: וַ/יָּצֻרוּ = Hc "and" + H6696 צוּר "to cramp, i.e. confine (in many applications…" [HC/Vqw3mp]
+- o22: עַל = H5921 עַל "above, over, upon…" [HR]
+- o23: רַבָּה = H7237 רַבָּה "Rabbah, the name of two places in Palestine…" [HNp]
+- o24: וְ/דָוִד = Hc "and" + H1732 דָּוִד "David, the youngest son of Jesse" [HC/Np]
+- o25: יוֹשֵׁב = H3427 יָשַׁב "properly…" [HVqrmsa]
+- o26: בִּ/ירוּשָׁלִָם = Hb "in" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HR/Np]

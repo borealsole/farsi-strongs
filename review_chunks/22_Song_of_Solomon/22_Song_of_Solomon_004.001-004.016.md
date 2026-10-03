@@ -776,3 +776,49 @@ Persian entries and current tags:
 - p34: کام
 - p35: یابَد
 - p36: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Song of Solomon 3:11 (context)
+
+- o1: צְאֶינָה = H3318 יָצָא "to go (causatively, bring) out…" [HVqv2fp]
+- o2: וּ/רְאֶינָה = Hc "and" + H7200 רָאָה "to see…" [HC/Vqv2fp]
+- o3: בְּנוֹת = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfpc]
+- o4: צִיּוֹן = H6726 צִיּוֹן "Tsijon (as a permanent capital)…" [HNp]
+- o5: בַּ/מֶּלֶךְ = Hb "in" + H4428 מֶלֶךְ "a king" [HRd/Ncmsa]
+- o6: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o7: בָּ/עֲטָרָה = Hb "in" + H5850 עֲטָרָה "a crown" [HRd/Ncfsa]
+- o8: שֶׁ/עִטְּרָה = Hs "which" + H5849 עָטַר "to encircle (for attack or protection)…" [HTr/Vpp3fs]
+- o9: לּ/וֹ = Hl "to" [HR/Sp3ms]
+- o10: אִמּ/וֹ = H517 אֵם "a mother (as the bond of the family)…" [HNcfsc/Sp3ms]
+- o11: בְּ/יוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmsc]
+- o12: חֲתֻנָּת/וֹ = H2861 חֲתֻנָּה "a wedding" [HNcfsc/Sp3ms]
+- o13: וּ/בְ/יוֹם = Hc "and" + Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HC/R/Ncmsc]
+- o14: שִׂמְחַת = H8057 שִׂמְחָה "blithesomeness or glee, (religious or festival)" [HNcfsc]
+- o15: לִבּ/וֹ = H3820 לֵב "the heart…" [HNcmsc/Sp3ms]
+
+### Song of Solomon 5:1 (context)
+
+- o1: בָּאתִי = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp1cs]
+- o2: לְ/גַנִּ/י = Hl "to" + H1588 גַּן "a garden (as fenced)" [HR/Ncbsc/Sp1cs]
+- o3: אֲחֹתִ/י = H269 אָחוֹת "a sister (used very widely (like brother)…" [HNcfsc/Sp1cs]
+- o4: כַלָּה = H3618 כַּלָּה "a bride (as if perfect); hence, a son's wife" [HNcfsa]
+- o5: אָרִיתִי = H717 אָרָה "to pluck" [HVqp1cs]
+- o6: מוֹרִ/י = H4753 מֹר "myrrh (as distilling in drops, and also as bitter)" [HNcmsc/Sp1cs]
+- o7: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o8: בְּשָׂמִ/י = H1313 בָּשָׂם "the balsam plant" [HNcmsc/Sp1cs]
+- o9: אָכַלְתִּי = H398 אָכַל "to eat (literally or figuratively)" [HVqp1cs]
+- o10: יַעְרִ/י = H3293 יַעַר "a copse of bushes; hence, a forest…" [HNcmsc/Sp1cs]
+- o11: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o12: דִּבְשִׁ/י = H1706 דְּבַשׁ "honey (from its stickiness); by analogy, syrup" [HNcmsc/Sp1cs]
+- o13: שָׁתִיתִי = H8354 שָׁתָה "to imbibe (literally or figuratively)" [HVqp1cs]
+- o14: יֵינִ/י = H3196 יַיִן "wine (as fermented); by implication, intoxication" [HNcmsc/Sp1cs]
+- o15: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o16: חֲלָבִ/י = H2461 חָלָב "milk (as the richness of kine)" [HNcmsc/Sp1cs]
+- o17: אִכְלוּ = H398 אָכַל "to eat (literally or figuratively)" [HVqv2mp]
+- o18: רֵעִים = H7453 רֵעַ "an associate (more or less close)" [HNcmpa]
+- o19: שְׁתוּ = H8354 שָׁתָה "to imbibe (literally or figuratively)" [HVqv2mp]
+- o20: וְ/שִׁכְרוּ = Hc "and" + H7937 שָׁכַר "to become tipsy…" [HC/Vqv2mp]
+- o21: דּוֹדִים = H1730 דּוֹד "figuratively) to love…" [HNcmpa]

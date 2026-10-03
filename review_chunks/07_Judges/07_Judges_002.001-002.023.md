@@ -1266,3 +1266,37 @@ Persian entries and current tags:
 - p19: تسلیمشان  → H5414
 - p20: نکرد  → H3808
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Judges 1:36 (context)
+
+- o1: וּ/גְבוּל = Hc "and" + H1366 גְּבוּל "properly, a cord (as twisted)…" [HC/Ncmsc]
+- o2: הָ/אֱמֹרִי = Hd "the" + H567 אֱמֹרִי "an Emorite, one of the Canaanitish tribes" [HTd/Ngmsa]
+- o3: מִ/מַּעֲלֵה = Hm "from" + H4610 מַעֲלֵה עַקְרַבִּים "Steep of Scorpions, a place in the Desert" [HR/Ncmsc]
+- o4: עַקְרַבִּים = H4610 מַעֲלֵה עַקְרַבִּים "Steep of Scorpions, a place in the Desert" [HNp]
+- o5: מֵ/הַ/סֶּלַע = Hm "from" + Hd "the" + H5553 סֶלַע "a craggy rock…" [HR/Td/Np]
+- o6: וָ/מָעְלָ/ה = Hc "and" + H4605 מַעַל "properly, the upper part…" [HC/D/Sd]
+
+### Judges 3:1 (context)
+
+- o1: וְ/אֵלֶּה = Hc "and" + H428 אֵלֶּה "these or those" [HC/Pdxcp]
+- o2: הַ/גּוֹיִם = Hd "the" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HTd/Ncmpa]
+- o3: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o4: הִנִּיחַ = H3240 יָנַח "to deposit; by implication, to allow to stay" [HVhp3ms]
+- o5: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o6: לְ/נַסּוֹת = Hl "to" + H5254 נָסָה "to test; by implication, to attempt" [HR/Vpc]
+- o7: בָּ/ם = Hb "in" [HR/Sp3mp]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o10: אֵת = H853 אֵת "properly…" [HTo]
+- o11: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o12: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o13: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o14: יָדְעוּ = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqp3cp]
+- o15: אֵת = H853 אֵת "properly…" [HTo]
+- o16: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o17: מִלְחֲמוֹת = H4421 מִלְחָמָה "a battle (i.e. the engagement)…" [HNcfpc]
+- o18: כְּנָעַן = H3667 כְּנַעַן "Kenaan, a son a Ham…" [HNp]

@@ -633,3 +633,27 @@ Persian entries and current tags:
 - p12: .
 - p13: هَلِلویاه  → H1984 H3050
 - p14: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 114:8 (context)
+
+- o1: הַ/הֹפְכִי = Hd "the" + H2015 הָפַךְ "to turn about or over…" [HTd/Vqrmsc]
+- o2: הַ/צּוּר = Hd "the" + H6697 צוּר "properly, a cliff (or sharp rock, as compressed)…" [HTd/Ncmsa]
+- o3: אֲגַם = H98 אֲגַם "a marsh; hence a rush (as growing in swamps)…" [HNcmsc]
+- o4: מָיִם = H4325 מַיִם "water; figuratively, juice…" [HNcmpa]
+- o5: חַלָּמִישׁ = H2496 חַלָּמִישׁ "flint" [HNcmsa]
+- o6: לְ/מַעְיְנ/וֹ = Hl "to" + H4599 מַעְיָן "a fountain (also collectively), figuratively…" [HR/Ncmsc/Sp3ms]
+- o7: מָיִם = H4325 מַיִם "water; figuratively, juice…" [HNcmpa]
+
+### Psalms 116:1 (context)
+
+- o1: אָהַבְתִּי = H157 אָהַב "to have affection for (sexually or otherwise)" [HVqp1cs]
+- o2: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o3: יִשְׁמַע = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqi3ms]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: קוֹלִ/י = H6963 קוֹל "a voice or sound" [HNcmsc/Sp1cs]
+- o7: תַּחֲנוּנָ/י = H8469 תַּחֲנוּן "earnest prayer" [HNcmpc/Sp1cs]

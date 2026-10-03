@@ -838,3 +838,31 @@ Persian entries and current tags:
 - p34: برای  → Hl
 - p35: خداوند  → H3068
 - p36: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 5:19 (context)
+
+- o1: אָשָׁם = H817 אָשָׁם "guilt; by implication, a fault…" [HNcmsa]
+- o2: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o3: אָשֹׁם = H816 אָשַׁם "to be guilty…" [HVqa]
+- o4: אָשַׁם = H816 אָשַׁם "to be guilty…" [HVqp3ms]
+- o5: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+
+### Leviticus 6:16 (context)
+
+- o1: וְ/הַ/נּוֹתֶרֶת = Hc "and" + Hd "the" + H3498 יָתַר "to jut over or exceed; by implication, to excel…" [HC/Td/VNrfsa]
+- o2: מִמֶּ/נָּה = H4480 מִן "properly, a part of…" [HR/Sp3fs]
+- o3: יֹאכְלוּ = H398 אָכַל "to eat (literally or figuratively)" [HVqi3mp]
+- o4: אַהֲרֹן = H175 אַהֲרוֹן "Aharon, the brother of Moses" [HNp]
+- o5: וּ/בָנָי/ו = Hc "and" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/Ncmpc/Sp3ms]
+- o6: מַצּוֹת = H4682 מַצָּה "properly, sweetness…" [HNcfpa]
+- o7: תֵּאָכֵל = H398 אָכַל "to eat (literally or figuratively)" [HVNi3fs]
+- o8: בְּ/מָקוֹם = Hb "in" + H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HR/Ncmsa]
+- o9: קָדֹשׁ = H6918 קָדוֹשׁ "sacred (ceremonially or morally)…" [HAamsa]
+- o10: בַּ/חֲצַר = Hb "in" + H2691 חָצֵר "a yard (as inclosed by a fence)…" [HR/Ncbsc]
+- o11: אֹהֶל = H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HNcmsc]
+- o12: מוֹעֵד = H4150 מוֹעֵד "properly, an appointment…" [HNcmsa]
+- o13: יֹאכְלוּ/הָ = H398 אָכַל "to eat (literally or figuratively)" [HVqi3mp/Sp3fs]

@@ -909,3 +909,25 @@ Persian entries and current tags:
 - p22: گفته‌ام  → H1696
 - p23: .
 - p24: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 21:16 (context)
+
+- o1: הִתְאַחֲדִי = H258 אָחַד "to unify…" [HVtv2fs]
+- o2: הֵימִנִי = H3231 יָמַן "to be right-handed or take the right-hand side" [HVhv2fs]
+- o3: הָשִׂימִי = H7760 שׂוּם "to put (used in a great variety of applications…" [HVhv2fs]
+- o4: הַשְׂמִילִי = H8041 שָׂמַאל "to use the left hand or pass in that direction)" [HVhv2fs]
+- o5: אָנָה = H575 אָן "where?; hence, whither?, when?…" [HD]
+- o6: פָּנַיִ/ךְ = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc/Sp2fs]
+- o7: מֻעָדוֹת = H3259 יָעַד "to fix upon (by agreement or appointment)…" [HVHsfpa]
+
+### Ezekiel 22:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o5: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

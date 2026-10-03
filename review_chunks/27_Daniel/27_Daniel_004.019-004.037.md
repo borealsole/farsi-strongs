@@ -1290,3 +1290,51 @@ Persian entries and current tags:
 - p33: ،
 - p34: پست گرداند  → H8214
 - p35: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Daniel 4:18 (context)
+
+- o1: דְּנָה = H1836 דֵּן "this" [APdxms]
+- o2: חֶלְמָ/א = H2493 חֵלֶם "a dream" [ANcmsd/Td]
+- o3: חֲזֵית = H2370 חֲזָא "to gaze upon…" [AVqp1cs]
+- o4: אֲנָה = H576 אֲנָא "I" [APp1cs]
+- o5: מַלְכָּ/א = H4430 מֶלֶךְ "a king" [ANcmsd/Td]
+- o6: נְבוּכַדְנֶצַּר = H5020 נְבוּכַדְנֶצַּר "Nebukadnetstsar (or -retstsar, or -retstsor)…" [ANp]
+- o7: ו/אנתה = Hc "and" + H607 אַנְתָּה "thou" [AC/Pp2ms]
+- o8: בֵּלְטְשַׁאצַּר = H1096 בֵּלְטְשַׁאצַּר "Belteshatstsar, the Babylonian name of Daniel" [ANp]
+- o9: פִּשְׁרֵ/א = H6591 פְּשַׁר "an interpretation" [ANcmsd/Td]
+- o10: אֱמַר = H560 אֲמַר "to say (used with great latitude)" [AVqv2ms]
+- o11: כָּ/ל = Hk "like" + H3606 כֹּל "properly, the whole…" [AC/C]
+- o12: קֳבֵל = H6903 קְבֵל "adverbially) in front of…" [AC]
+- o13: דִּי = H1768 דִּי "that, used as relative conjunction…" [AC]
+- o14: כָּל = H3606 כֹּל "properly, the whole…" [ANcmsc]
+- o15: חַכִּימֵי = H2445 חַכִּים "wise, i.e. a Magian" [ANcmpc]
+- o16: מַלְכוּתִ/י = H4437 מַלְכוּ "dominion (abstractly or concretely)" [ANcfsc/Sp1cs]
+- o17: לָא = H3809 לָא "not (the simple or abs. negation)…" [ATn]
+- o18: יָכְלִין = H3202 יְכֵל "to be able, literally (can…" [AVqrmpa]
+- o19: פִּשְׁרָ/א = H6591 פְּשַׁר "an interpretation" [ANcmsd/Td]
+- o20: לְ/הוֹדָעֻתַ/נִי = Hl "to" + H3046 יְדַע "to know (properly, to ascertain by seeing)…" [AR/Vhc/Sp1cs]
+- o21: ו/אנתה = Hc "and" + H607 אַנְתָּה "thou" [AC/Pp2ms]
+- o22: כָּהֵל = H3546 כְּהַל "to be able" [AVqrmsa]
+- o23: דִּי = H1768 דִּי "that, used as relative conjunction…" [AC]
+- o24: רוּחַ = H7308 רוּחַ "wind…" [ANcfsc]
+- o25: אֱלָהִין = H426 אֱלָהּ "God" [ANcmpa]
+- o26: קַדִּישִׁין = H6922 קַדִּישׁ "sacred (ceremonially or morally)…" [AAampa]
+- o27: בָּ/ךְ = Hb "in" [AR/Sp2ms]
+
+### Daniel 5:1 (context)
+
+- o1: בֵּלְשַׁאצַּר = H1113 בֵּלְשַׁאצַּר "Belshatstsar, a Babylonian king" [ANp]
+- o2: מַלְכָּ/א = H4430 מֶלֶךְ "a king" [ANcmsd/Td]
+- o3: עֲבַד = H5648 עֲבַד "to do, make, prepare, keep, etc" [AVqp3ms]
+- o4: לְחֶם = H3900 לְחֶם "for man or beast), especially bread…" [ANcmsa]
+- o5: רַב = H7229 רַב "abundant" [AAamsa]
+- o6: לְ/רַבְרְבָנוֹ/הִי = Hl "to" + H7261 רַבְרְבָן "a magnate" [AR/Ncmpc/Sp3ms]
+- o7: אֲלַף = H506 אֲלַף "hence (the ox's head being the first letter of…" [AAcmsa]
+- o8: וְ/לָ/קֳבֵל = Hc "and" + Hl "to" + H6903 קְבֵל "adverbially) in front of…" [AC/R/R]
+- o9: אַלְפָּ/א = H506 אֲלַף "hence (the ox's head being the first letter of…" [AAcmsd/Td]
+- o10: חַמְרָ/א = H2562 חֲמַר "wine" [ANcmsd/Td]
+- o11: שָׁתֵה = H8355 שְׁתָה "to imbibe (literally or figuratively)" [AVqrmsa]

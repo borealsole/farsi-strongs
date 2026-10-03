@@ -648,3 +648,24 @@ Persian entries and current tags:
 - p23: استوار  → H3559
 - p24: گردان
 - p25: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 89:52 (context)
+
+- o1: בָּרוּךְ = H1288 בָרַךְ "to kneel…" [HVqsmsa]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: לְ/עוֹלָם = Hl "to" + H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HR/Ncmsa]
+- o4: אָמֵן = H543 אָמֵן "sure; abstract, faithfulness; adverb, truly" [HD]
+- o5: וְ/אָמֵן = Hc "and" + H543 אָמֵן "sure; abstract, faithfulness; adverb, truly" [HC/D]
+
+### Psalms 91:1 (context)
+
+- o1: יֹשֵׁב = H3427 יָשַׁב "properly…" [HVqrmsa]
+- o2: בְּ/סֵתֶר = Hb "in" + H5643 סֵתֶר "a cover (in a good or a bad…" [HR/Ncmsc]
+- o3: עֶלְיוֹן = H5945 עֶלְיוֹן "an elevation, i.e. (adj.) lofty (compar.)…" [HAamsa]
+- o4: בְּ/צֵל = Hb "in" + H6738 צֵל "shade, whether literal or figurative" [HR/Ncmsc]
+- o5: שַׁדַּי = H7706 שַׁדַּי "the Almighty" [HNp]
+- o6: יִתְלוֹנָן = H3885 לוּן "to stop (usually over night)…" [HVri3ms]

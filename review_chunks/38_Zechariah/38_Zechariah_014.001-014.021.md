@@ -1225,3 +1225,35 @@ Persian entries and current tags:
 - p46: لشکرها  → H6635
 - p47: نخواهد_بود  → H3808
 - p48: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Zechariah 13:9 (context)
+
+- o1: וְ/הֵבֵאתִי = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vhq1cs]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: הַ/שְּׁלִשִׁית = Hd "the" + H7992 שְׁלִישִׁי "third; feminine athird (part)…" [HTd/Ncfsa]
+- o4: בָּ/אֵשׁ = Hb "in" + H784 אֵשׁ "fire (literally or figuratively)" [HRd/Ncbsa]
+- o5: וּ/צְרַפְתִּי/ם = Hc "and" + H6884 צָרַף "to fuse (metal)…" [HC/Vqq1cs/Sp3mp]
+- o6: כִּ/צְרֹף = Hk "like" + H6884 צָרַף "to fuse (metal)…" [HR/Vqc]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: הַ/כֶּסֶף = Hd "the" + H3701 כֶּסֶף "silver (from its pale color)…" [HTd/Ncmsa]
+- o9: וּ/בְחַנְתִּי/ם = Hc "and" + H974 בָּחַן "to test (especially metals)…" [HC/Vqq1cs/Sp3mp]
+- o10: כִּ/בְחֹן = Hk "like" + H974 בָּחַן "to test (especially metals)…" [HR/Vqc]
+- o11: אֶת = H853 אֵת "properly…" [HTo]
+- o12: הַ/זָּהָב = Hd "the" + H2091 זָהָב "gold, figuratively…" [HTd/Ncmsa]
+- o13: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o14: יִקְרָא = H7121 קָרָא "to call out to (i.e. properly, address by name…" [HVqi3ms]
+- o15: בִ/שְׁמִ/י = Hb "in" + H8034 שֵׁם "an appellation…" [HR/Ncmsc/Sp1cs]
+- o16: וַ/אֲנִי = Hc "and" + H589 אֲנִי "I" [HC/Pp1cs]
+- o17: אֶעֱנֶה = H6030 עָנָה "properly, to eye or (generally) to heed…" [HVqi1cs]
+- o18: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o19: אָמַרְתִּי = H559 אָמַר "to say (used with great latitude)" [HVqp1cs]
+- o20: עַמִּ/י = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp1cs]
+- o21: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o22: וְ/הוּא = Hc "and" + H1931 הוּא "he (she or it)…" [HC/Pp3ms]
+- o23: יֹאמַר = H559 אָמַר "to say (used with great latitude)" [HVqi3ms]
+- o24: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o25: אֱלֹהָ/י = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp1cs]

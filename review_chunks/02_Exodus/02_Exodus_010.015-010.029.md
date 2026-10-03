@@ -819,3 +819,58 @@ Persian entries and current tags:
 - p14: نخواهم_دید
 - p15: !
 - p16: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 10:14 (context)
+
+- o1: וַ/יַּעַל = Hc "and" + H5927 עָלָה "to ascend…" [HC/Vqw3ms]
+- o2: הָ/אַרְבֶּה = Hd "the" + H697 אַרְבֶּה "a locust (from its rapid increase)" [HTd/Ncmsa]
+- o3: עַל = H5921 עַל "above, over, upon…" [HR]
+- o4: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o5: אֶרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsc]
+- o6: מִצְרַיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o7: וַ/יָּנַח = Hc "and" + H5117 נוּחַ "to rest, i.e. settle down…" [HC/Vqw3ms]
+- o8: בְּ/כֹל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o9: גְּבוּל = H1366 גְּבוּל "properly, a cord (as twisted)…" [HNcmsc]
+- o10: מִצְרָיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o11: כָּבֵד = H3515 כָּבֵד "heavy…" [HAamsa]
+- o12: מְאֹד = H3966 מְאֹד "properly, vehemence…" [HD]
+- o13: לְ/פָנָי/ו = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp3ms]
+- o14: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o15: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o16: כֵן = H3651 כֵּן "properly, set upright…" [HD]
+- o17: אַרְבֶּה = H697 אַרְבֶּה "a locust (from its rapid increase)" [HNcmsa]
+- o18: כָּמֹ/הוּ = H3644 כְּמוֹ "a form of the prefix 'k-', but used separately as…" [HR/Sp3ms]
+- o19: וְ/אַחֲרָי/ו = Hc "and" + H310 אַחַר "properly, the hind part…" [HC/R/Sp3ms]
+- o20: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o21: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o22: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+
+### Exodus 11:1 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: עוֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+- o6: נֶגַע = H5061 נֶגַע "a blow (figuratively, infliction)…" [HNcmsa]
+- o7: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o8: אָבִיא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVhi1cs]
+- o9: עַל = H5921 עַל "above, over, upon…" [HR]
+- o10: פַּרְעֹה = H6547 פַּרְעֹה "Paroh, a general title of Egyptian kings" [HNp]
+- o11: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o12: מִצְרַיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o13: אַחֲרֵי = H310 אַחַר "properly, the hind part…" [HR]
+- o14: כֵן = H3651 כֵּן "properly, set upright…" [HD]
+- o15: יְשַׁלַּח = H7971 שָׁלַח "to send away, for…" [HVpi3ms]
+- o16: אֶתְ/כֶם = H853 אֵת "properly…" [HTo/Sp2mp]
+- o17: מִ/זֶּה = Hm "from" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HR/Pdxms]
+- o18: כְּ/שַׁלְּח/וֹ = Hk "like" + H7971 שָׁלַח "to send away, for…" [HR/Vpc/Sp3ms]
+- o19: כָּלָה = H3617 כָּלָה "a completion; adverb, completely; also destruction" [HNcfsa]
+- o20: גָּרֵשׁ = H1644 גָּרַשׁ "to drive out from a possession…" [HVpa]
+- o21: יְגָרֵשׁ = H1644 גָּרַשׁ "to drive out from a possession…" [HVpi3ms]
+- o22: אֶתְ/כֶם = H853 אֵת "properly…" [HTo/Sp2mp]
+- o23: מִ/זֶּה = Hm "from" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HR/Pdxms]

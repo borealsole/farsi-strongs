@@ -684,3 +684,31 @@ Persian entries and current tags:
 - p13: .
 - p14: هللویاه  → H1984 H3050
 - p15: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 146:10 (context)
+
+- o1: יִמְלֹךְ = H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HVqi3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: לְ/עוֹלָם = Hl "to" + H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HR/Ncmsa]
+- o4: אֱלֹהַיִ/ךְ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2fs]
+- o5: צִיּוֹן = H6726 צִיּוֹן "Tsijon (as a permanent capital)…" [HNp]
+- o6: לְ/דֹר = Hl "to" + H1755 דּוֹר "properly, a revolution of time…" [HR/Ncmsa]
+- o7: וָ/דֹר = Hc "and" + H1755 דּוֹר "properly, a revolution of time…" [HC/Ncmsa]
+- o8: הַלְלוּ = H1984 הָלַל "to be clear (orig. of sound…" [HVpv2mp]
+- o9: יָהּ = H3050 יָהּ "Jah, the sacred name" [HNp]
+
+### Psalms 148:1 (context)
+
+- o1: הַלְלוּ = H1984 הָלַל "to be clear (orig. of sound…" [HVpv2mp]
+- o2: יָהּ = H3050 יָהּ "Jah, the sacred name" [HNp]
+- o3: הַלְלוּ = H1984 הָלַל "to be clear (orig. of sound…" [HVpv2mp]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o6: מִן = H4480 מִן "properly, a part of…" [HR]
+- o7: הַ/שָּׁמַיִם = Hd "the" + H8064 שָׁמַיִם "the sky (as aloft…" [HTd/Ncmpa]
+- o8: הַלְלוּ/הוּ = H1984 הָלַל "to be clear (orig. of sound…" [HVpv2mp/Sp3ms]
+- o9: בַּ/מְּרוֹמִים = Hb "in" + H4791 מָרוֹם "altitude, i.e. concretely (an elevated place)…" [HRd/Ncmpa]

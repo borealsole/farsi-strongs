@@ -1131,3 +1131,47 @@ Persian entries and current tags:
 - p26: گفتی  → G3004
 - p27: !
 - p28: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 25:46 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἀπελεύσονται = G565 ἀπέρχομαι "come, depart, go (aside, away, back, out, … ways)…" [V-FDI-3P]
+- o3: οὗτοι = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-NPM]
+- o4: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o5: κόλασιν = G2851 κόλασις "punishment, torment" [N-ASF]
+- o6: αἰώνιον, = G166 αἰώνιος "eternal, for ever, everlasting, world (began)" [A-ASF]
+- o7: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o8: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o9: δίκαιοι = G1342 δίκαιος "just, meet, right(-eous)" [A-NPM]
+- o10: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o11: ζωὴν = G2222 ζωή "life(-time)" [N-ASF]
+- o12: αἰώνιον. = G166 αἰώνιος "eternal, for ever, everlasting, world (began)" [A-ASF]
+
+### Matthew 26:26 (context)
+
+- o1: Ἐσθιόντων = G2068 ἐσθίω "devour, eat, live" [V-PAP-GPM]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: αὐτῶν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]
+- o4: λαβὼν = G2983 λαμβάνω "accept, + be amazed, assay, attain, bring…" [V-2AAP-NSM]
+- o5: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o6: Ἰησοῦς = G2424 Ἰησοῦς "Jesus" [N-NSM]
+- o7: ἄρτον = G740 ἄρτος "(shew-)bread, loaf" [N-ASM]
+- o8: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o9: εὐλογήσας = G2127 εὐλογέω "bless, praise" [V-AAP-NSM]
+- o10: ἔκλασεν = G2806 κλάω "break" [V-AAI-3S]
+- o11: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o12: δοὺς = G1325 δίδωμι "adventure, bestow, bring forth, commit…" [V-2AAP-NSM]
+- o13: τοῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPM]
+- o14: μαθηταῖς = G3101 μαθητής "disciple" [N-DPM]
+- o15: εἶπεν· = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-2AAI-3S]
+- o16: λάβετε = G2983 λαμβάνω "accept, + be amazed, assay, attain, bring…" [V-2AAM-2P]
+- o17: φάγετε· = G5315 φάγω "eat, meat" [V-2AAM-2P]
+- o18: τοῦτό = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-NSN]
+- o19: ἐστιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o20: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o21: σῶμά = G4983 σῶμα "bodily, body, slave" [N-NSN]
+- o22: μου. = G1473 ἐγώ "I, me" [P-1GS]

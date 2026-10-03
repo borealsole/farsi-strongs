@@ -661,3 +661,18 @@ Persian entries and current tags:
 - p43: ثبت
 - p44: شدند
 - p45: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 1:19 (context)
+
+- o1: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o2: צִוָּה = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp3ms]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o6: וַ/יִּפְקְדֵ/ם = Hc "and" + H6485 פָּקַד "to visit (with friendly or hostile intent)…" [HC/Vqw3ms/Sp3mp]
+- o7: בְּ/מִדְבַּר = Hb "in" + H4057 מִדְבָּר "a pasture (i.e. open field…" [HR/Ncmsc]
+- o8: סִינָי = H5514 סִינַי "Sinai, mountain of Arabia" [HNp]

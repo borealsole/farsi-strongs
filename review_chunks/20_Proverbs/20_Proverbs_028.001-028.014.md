@@ -573,3 +573,30 @@ Persian entries and current tags:
 - p19: بلا گرفتار  → H7451
 - p20: خواهد_شد
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 27:27 (context)
+
+- o1: וְ/דֵי = Hc "and" + H1767 דַּי "enough (as noun or adverb)…" [HC/Ncmsc]
+- o2: חֲלֵב = H2461 חָלָב "milk (as the richness of kine)" [HNcmsc]
+- o3: עִזִּים = H5795 עֵז "a she-goat (as strong)…" [HNcfpa]
+- o4: לְ/לַחְמְ/ךָ = Hl "to" + H3899 לֶחֶם "food (for man or beast), especially bread…" [HR/Ncbsc/Sp2ms]
+- o5: לְ/לֶחֶם = Hl "to" + H3899 לֶחֶם "food (for man or beast), especially bread…" [HR/Ncbsc]
+- o6: בֵּיתֶ/ךָ = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc/Sp2ms]
+- o7: וְ/חַיִּים = Hc "and" + H2416 חַי "alive; hence, raw (flesh)…" [HC/Ncmpa]
+- o8: לְ/נַעֲרוֹתֶי/ךָ = Hl "to" + H5291 נַעֲרָה "a girl (from infancy to adolescence)" [HR/Ncfpc/Sp2ms]
+
+### Proverbs 28:15 (context)
+
+- o1: אֲרִי = H738 אֲרִי "a lion" [HNcmsa]
+- o2: נֹהֵם = H5098 נָהַם "to growl" [HVqrmsa]
+- o3: וְ/דֹב = Hc "and" + H1677 דֹּב "the bear (as slow)" [HC/Ncmsa]
+- o4: שׁוֹקֵק = H8264 שָׁקַק "to course (like a beast of prey)…" [HVqrmsa]
+- o5: מֹשֵׁל = H4910 מָשַׁל "to rule" [HVqrmsa]
+- o6: רָשָׁע = H7563 רָשָׁע "morally wrong…" [HAamsa]
+- o7: עַל = H5921 עַל "above, over, upon…" [HR]
+- o8: עַם = H5971 עַם "a people (as a congregated unit)…" [HNcmsa]
+- o9: דָּל = H1800 דַּל "properly, dangling…" [HAamsa]

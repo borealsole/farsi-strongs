@@ -1279,3 +1279,36 @@ Persian entries and current tags:
 - p22: خود
 - p23: رفتند  → H5927
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 23:29 (context)
+
+- o1: וַ/יַּעַל = Hc "and" + H5927 עָלָה "to ascend…" [HC/Vqw3ms]
+- o2: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o3: מִ/שָּׁם = Hm "from" + H8033 שָׁם "there (transferring to time) then…" [HR/D]
+- o4: וַ/יֵּשֶׁב = Hc "and" + H3427 יָשַׁב "properly…" [HC/Vqw3ms]
+- o5: בִּ/מְצָדוֹת = Hb "in" + H4679 מְצַד "a fastness (as a covert of ambush)" [HR/Ncfpc]
+- o6: עֵין = H5872 עֵין גֶּדִי "En-Gedi, a place in Palestine" [HNp]
+- o7: גֶּדִי = H5872 עֵין גֶּדִי "En-Gedi, a place in Palestine" [HNp]
+
+### I Samuel 25:1 (context)
+
+- o1: וַ/יָּמָת = Hc "and" + H4191 מוּת "to die (literally or figuratively)…" [HC/Vqw3ms]
+- o2: שְׁמוּאֵל = H8050 שְׁמוּאֵל "Shemuel, the name of three Israelites" [HNp]
+- o3: וַ/יִּקָּבְצוּ = Hc "and" + H6908 קָבַץ "to grasp, i.e. collect" [HC/VNw3mp]
+- o4: כָל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o5: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o6: וַ/יִּסְפְּדוּ = Hc "and" + H5594 סָפַד "properly…" [HC/Vqw3mp]
+- o7: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o8: וַ/יִּקְבְּרֻ/הוּ = Hc "and" + H6912 קָבַר "to inter" [HC/Vqw3mp/Sp3ms]
+- o9: בְּ/בֵית/וֹ = Hb "in" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc/Sp3ms]
+- o10: בָּ/רָמָה = Hb "in" + H7414 רָמָה "Ramah, the name of four places in Palestine" [HRd/Np]
+- o11: וַ/יָּקָם = Hc "and" + H6965 קוּם "to rise (in various applications, literal…" [HC/Vqw3ms]
+- o12: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o13: וַ/יֵּרֶד = Hc "and" + H3381 יָרַד "to descend (literally, to go downwards…" [HC/Vqw3ms]
+- o14: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o15: מִדְבַּר = H4057 מִדְבָּר "a pasture (i.e. open field…" [HNcmsc]
+- o16: פָּארָן = H6290 פָּארָן "Paran, a desert of Arabia" [HNp]

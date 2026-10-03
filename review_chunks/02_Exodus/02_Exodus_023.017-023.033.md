@@ -845,3 +845,44 @@ Persian entries and current tags:
 - p27: خواهد_بود
 - p28: .
 - p29: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 23:16 (context)
+
+- o1: וְ/חַג = Hc "and" + H2282 חַג "a festival, or a victim therefor" [HC/Ncmsc]
+- o2: הַ/קָּצִיר = Hd "the" + H7105 קָצִיר "severed, i.e. harvest (as reaped), the crop…" [HTd/Ncmsa]
+- o3: בִּכּוּרֵי = H1061 בִּכּוּר "the first-fruits of the crop" [HNcbpc]
+- o4: מַעֲשֶׂי/ךָ = H4639 מַעֲשֶׂה "an action (good or bad); generally, a transaction…" [HNcmpc/Sp2ms]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: תִּזְרַע = H2232 זָרַע "to sow…" [HVqi2ms]
+- o7: בַּ/שָּׂדֶה = Hb "in" + H7704 שָׂדֶה "a field (as flat)" [HRd/Ncmsa]
+- o8: וְ/חַג = Hc "and" + H2282 חַג "a festival, or a victim therefor" [HC/Ncmsc]
+- o9: הָ/אָסִף = Hd "the" + H614 אָסִיף "gathered…" [HTd/Ncmsa]
+- o10: בְּ/צֵאת = Hb "in" + H3318 יָצָא "to go (causatively, bring) out…" [HR/Vqc]
+- o11: הַ/שָּׁנָה = Hd "the" + H8141 שָׁנֶה "a year (as a revolution of time)" [HTd/Ncfsa]
+- o12: בְּ/אָסְפְּ/ךָ = Hb "in" + H622 אָסַף "to gather for any purpose…" [HR/Vqc/Sp2ms]
+- o13: אֶת = H853 אֵת "properly…" [HTo]
+- o14: מַעֲשֶׂי/ךָ = H4639 מַעֲשֶׂה "an action (good or bad); generally, a transaction…" [HNcmpc/Sp2ms]
+- o15: מִן = H4480 מִן "properly, a part of…" [HR]
+- o16: הַ/שָּׂדֶה = Hd "the" + H7704 שָׂדֶה "a field (as flat)" [HTd/Ncmsa]
+
+### Exodus 24:1 (context)
+
+- o1: וְ/אֶל = Hc "and" + H413 אֵל "near, with or among; often in general, to" [HC/R]
+- o2: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o3: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o4: עֲלֵה = H5927 עָלָה "to ascend…" [HVqv2ms]
+- o5: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o8: וְ/אַהֲרֹן = Hc "and" + H175 אַהֲרוֹן "Aharon, the brother of Moses" [HC/Np]
+- o9: נָדָב = H5070 נָדָב "Nadab, the name of four Israelites" [HNp]
+- o10: וַ/אֲבִיהוּא = Hc "and" + H30 אֲבִיהוּא "Abihu, a son of Aaron" [HC/Np]
+- o11: וְ/שִׁבְעִים = Hc "and" + H7657 שִׁבְעִים "seventy" [HC/Acbpa]
+- o12: מִ/זִּקְנֵי = Hm "from" + H2205 זָקֵן "old" [HR/Aampc]
+- o13: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o14: וְ/הִשְׁתַּחֲוִיתֶם = Hc "and" + H7812 שָׁחָה "to depress, i.e. prostrate (especially reflexive…" [HC/Vvq2mp]
+- o15: מֵ/רָחֹק = Hm "from" + H7350 רָחוֹק "remote, literally or figuratively…" [HR/Aamsa]

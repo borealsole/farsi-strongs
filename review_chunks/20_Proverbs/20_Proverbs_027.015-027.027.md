@@ -472,3 +472,29 @@ Persian entries and current tags:
 - p13: و  → Hc
 - p14: معیشت کنیزانت  → H5291
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 27:14 (context)
+
+- o1: מְבָרֵךְ = H1288 בָרַךְ "to kneel…" [HVprmsa]
+- o2: רֵעֵ/הוּ = H7453 רֵעַ "an associate (more or less close)" [HNcmsc/Sp3ms]
+- o3: בְּ/קוֹל = Hb "in" + H6963 קוֹל "a voice or sound" [HR/Ncmsa]
+- o4: גָּדוֹל = H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HAamsa]
+- o5: בַּ/בֹּקֶר = Hb "in" + H1242 בֹּקֶר "properly, dawn (as the break of day)…" [HRd/Ncmsa]
+- o6: הַשְׁכֵּים = H7925 שָׁכַם "literally…" [HVha]
+- o7: קְלָלָה = H7045 קְלָלָה "vilification" [HNcfsa]
+- o8: תֵּחָשֶׁב = H2803 חָשַׁב "properly, to plait or interpenetrate…" [HVNi3fs]
+- o9: ל/וֹ = Hl "to" [HR/Sp3ms]
+
+### Proverbs 28:1 (context)
+
+- o1: נָסוּ = H5127 נוּס "to flit, i.e. vanish away (subside, escape…" [HVqp3cp]
+- o2: וְ/אֵין = Hc "and" + H369 אַיִן "a non-entity…" [HC/Tn]
+- o3: רֹדֵף = H7291 רָדַף "to run after (usually with hostile intent…" [HVqrmsa]
+- o4: רָשָׁע = H7563 רָשָׁע "morally wrong…" [HAamsa]
+- o5: וְ/צַדִּיקִים = Hc "and" + H6662 צַדִּיק "just" [HC/Aampa]
+- o6: כִּ/כְפִיר = Hk "like" + H3715 כְּפִיר "a village (as covered in by walls)…" [HR/Ncmsa]
+- o7: יִבְטָח = H982 בָּטַח "figuratively, to trust, be confident or sure" [HVqi3ms]

@@ -1166,3 +1166,52 @@ Persian entries and current tags:
 - p12: جاودان  → G166
 - p13: .
 - p14: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 25:23 (context)
+
+- o1: ἔφη = G5346 φημί "affirm, say" [V-IAI-3S]
+- o2: αὐτῷ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
+- o3: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o4: κύριος = G2962 κύριος "God, Lord, master, Sir" [N-NSM]
+- o5: αὐτοῦ· = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o6: εὖ, = G2095 εὖ "good, well (done)" [ADV]
+- o7: δοῦλε = G1401 δοῦλος "bond(-man), servant" [N-VSM]
+- o8: ἀγαθὲ = G18 ἀγαθός "benefit, good(-s, things), well" [A-VSM]
+- o9: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o10: πιστέ, = G4103 πιστός "believe(-ing, -r), faithful(-ly), sure, true" [A-VSM]
+- o11: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o12: ὀλίγα = G3641 ὀλίγος "+ almost, brief(-ly), few, (a) little, + long…" [A-APN]
+- o13: ἦς = G1510 εἰμί "am, have been, it is I, was" [V-IAI-2S]
+- o14: πιστός, = G4103 πιστός "believe(-ing, -r), faithful(-ly), sure, true" [A-NSM]
+- o15: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o16: πολλῶν = G4183 πολύς "abundant, + altogether, common, + far (passed…" [A-GPN]
+- o17: σε = G4771 σύ "thou" [P-2AS]
+- o18: καταστήσω· = G2525 καθίστημι "appoint, be, conduct, make, ordain, set" [V-FAI-1S]
+- o19: εἴσελθε = G1525 εἰσέρχομαι "arise, come (in, into), enter in(-to)…" [V-2AAM-2S]
+- o20: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o21: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o22: χαρὰν = G5479 χαρά "gladness, greatly, ( be exceeding) joy(-ful…" [N-ASF]
+- o23: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o24: κυρίου = G2962 κύριος "God, Lord, master, Sir" [N-GSM]
+- o25: σου. = G4771 σύ "thou" [P-2GS]
+
+### Matthew 26:1 (context)
+
+- o1: Καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἐγένετο = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-2ADI-3S]
+- o3: ὅτε = G3753 ὅτε "after (that), as soon as, that, when, while" [ADV]
+- o4: ἐτέλεσεν = G5055 τελέω "accomplish, make an end, expire, fill up, finish…" [V-AAI-3S]
+- o5: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o6: Ἰησοῦς = G2424 Ἰησοῦς "Jesus" [N-NSM]
+- o7: πάντας = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-APM]
+- o8: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o9: λόγους = G3056 λόγος "account, cause, communication, concerning…" [N-APM]
+- o10: τούτους, = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-APM]
+- o11: εἶπεν = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-2AAI-3S]
+- o12: τοῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPM]
+- o13: μαθηταῖς = G3101 μαθητής "disciple" [N-DPM]
+- o14: αὐτοῦ· = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]

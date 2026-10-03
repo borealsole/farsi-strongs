@@ -807,3 +807,50 @@ Persian entries and current tags:
 - p43: نشنیده‌ایم  → H3808 H8085
 - p44: .
 - p45: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 3:12 (context)
+
+- o1: הָלֹךְ = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVqa]
+- o2: וְ/קָרָאתָ = Hc "and" + H7121 קָרָא "to call out to (i.e. properly, address by name…" [HC/Vqq2ms]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: הַ/דְּבָרִים = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmpa]
+- o5: הָ/אֵלֶּה = Hd "the" + H428 אֵלֶּה "these or those" [HTd/Pdxcp]
+- o6: צָפוֹנָ/ה = H6828 צָפוֹן "properly, hidden, i.e. dark…" [HNcfsa/Sd]
+- o7: וְ/אָמַרְתָּ = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqq2ms]
+- o8: שׁוּבָ/ה = H7725 שׁוּב "to turn back (hence…" [HVqv2ms/Sh]
+- o9: מְשֻׁבָה = H4878 מְשׁוּבָה "apostasy" [HNcfsa]
+- o10: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o11: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o12: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o13: לוֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o14: אַפִּיל = H5307 נָפַל "to fall…" [HVhi1cs]
+- o15: פָּנַ/י = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc/Sp1cs]
+- o16: בָּ/כֶם = Hb "in" [HR/Sp2mp]
+- o17: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o18: חָסִיד = H2623 חָסִיד "properly, kind, i.e. (religiously) pious (a saint)" [HAamsa]
+- o19: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o20: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o21: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o22: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o23: אֶטּוֹר = H5201 נָטַר "to guard; figuratively, to cherish (anger)" [HVqi1cs]
+- o24: לְ/עוֹלָם = Hl "to" + H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HR/Ncmsa]
+
+### Jeremiah 4:1 (context)
+
+- o1: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o2: תָּשׁוּב = H7725 שׁוּב "to turn back (hence…" [HVqi2ms]
+- o3: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o4: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o5: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o6: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o7: תָּשׁוּב = H7725 שׁוּב "to turn back (hence…" [HVqi2ms]
+- o8: וְ/אִם = Hc "and" + H518 אִם "used very widely as demonstrative, lo!…" [HC/C]
+- o9: תָּסִיר = H5493 סוּר "to turn off (literal or figurative)" [HVhi2ms]
+- o10: שִׁקּוּצֶי/ךָ = H8251 שִׁקּוּץ "disgusting, i.e. filthy…" [HNcmpc/Sp2ms]
+- o11: מִ/פָּנַ/י = Hm "from" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp1cs]
+- o12: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o13: תָנוּד = H5110 נוּד "to nod, i.e. waver…" [HVqi2ms]

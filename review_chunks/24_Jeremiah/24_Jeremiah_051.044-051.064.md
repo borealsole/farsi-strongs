@@ -1165,3 +1165,47 @@ Persian entries and current tags:
 - p27: تا  → H5704
 - p28: بدین‌جاست  → H2008
 - p29: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 51:43 (context)
+
+- o1: הָיוּ = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3cp]
+- o2: עָרֶי/הָ = H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HNcfpc/Sp3fs]
+- o3: לְ/שַׁמָּה = Hl "to" + H8047 שַׁמָּה "ruin; by implication, consternation" [HR/Ncfsa]
+- o4: אֶרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsc]
+- o5: צִיָּה = H6723 צִיָּה "aridity; concretely, a desert" [HNcfsa]
+- o6: וַ/עֲרָבָה = Hc "and" + H6160 עֲרָבָה "a desert…" [HC/Ncfsa]
+- o7: אֶרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsa]
+- o8: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o9: יֵשֵׁב = H3427 יָשַׁב "properly…" [HVqi3ms]
+- o10: בָּ/הֵן = Hb "in" [HR/Sp3fp]
+- o11: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o12: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o13: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o14: יַעֲבֹר = H5674 עָבַר "to cross over…" [HVqi3ms]
+- o15: בָּ/הֵן = Hb "in" + H2004 הֵן "they (only used when emphatic)" [HR/Sp3fp]
+- o16: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o17: אָדָם = H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HNcmsa]
+
+### Jeremiah 52:1 (context)
+
+- o1: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o2: עֶשְׂרִים = H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HAcbpa]
+- o3: וְ/אַחַת = Hc "and" + H259 אֶחָד "properly, united, i.e. one…" [HC/Acfsa]
+- o4: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o5: צִדְקִיָּהוּ = H6667 צִדְקִיָּה "Tsidkijah, the name of six Israelites" [HNp]
+- o6: בְ/מָלְכ/וֹ = Hb "in" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HR/Vqc/Sp3ms]
+- o7: וְ/אַחַת = Hc "and" + H259 אֶחָד "properly, united, i.e. one…" [HC/Acfsa]
+- o8: עֶשְׂרֵה = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcfsa]
+- o9: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o10: מָלַךְ = H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HVqp3ms]
+- o11: בִּ/ירוּשָׁלִָם = Hb "in" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HR/Np]
+- o12: וְ/שֵׁם = Hc "and" + H8034 שֵׁם "an appellation…" [HC/Ncmsc]
+- o13: אִמּ/וֹ = H517 אֵם "a mother (as the bond of the family)…" [HNcfsc/Sp3ms]
+- o14: חמיטל = H2537 חֲמוּטַל "Chamutal or Chamital, an Israelitess" [HNp]
+- o15: בַּת = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfsc]
+- o16: יִרְמְיָהוּ = H3414 יִרְמְיָה "Jirmejah, the name of eight or nine Israelites" [HNp]
+- o17: מִ/לִּבְנָה = Hm "from" + H3841 לִבְנָה "Libnah, a place in the Desert and one in Palestine" [HR/Np]

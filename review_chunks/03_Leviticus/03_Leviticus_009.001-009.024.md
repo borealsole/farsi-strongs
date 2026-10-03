@@ -1193,3 +1193,46 @@ Persian entries and current tags:
 - p25: روی  → H6440
 - p26: درافتادند  → H5307
 - p27: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 8:36 (context)
+
+- o1: וַ/יַּעַשׂ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3ms]
+- o2: אַהֲרֹן = H175 אַהֲרוֹן "Aharon, the brother of Moses" [HNp]
+- o3: וּ/בָנָי/ו = Hc "and" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/Ncmpc/Sp3ms]
+- o4: אֵת = H853 אֵת "properly…" [HTo]
+- o5: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o6: הַ/דְּבָרִים = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmpa]
+- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o8: צִוָּה = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp3ms]
+- o9: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o10: בְּ/יַד = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o11: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+
+### Leviticus 10:1 (context)
+
+- o1: וַ/יִּקְחוּ = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqw3mp]
+- o2: בְנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o3: אַהֲרֹן = H175 אַהֲרוֹן "Aharon, the brother of Moses" [HNp]
+- o4: נָדָב = H5070 נָדָב "Nadab, the name of four Israelites" [HNp]
+- o5: וַ/אֲבִיהוּא = Hc "and" + H30 אֲבִיהוּא "Abihu, a son of Aaron" [HC/Np]
+- o6: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o7: מַחְתָּת/וֹ = H4289 מַחְתָּה "a pan for live coals" [HNcfsc/Sp3ms]
+- o8: וַ/יִּתְּנוּ = Hc "and" + H5414 נָתַן "to give…" [HC/Vqw3mp]
+- o9: בָ/הֵן = Hb "in" + H2004 הֵן "they (only used when emphatic)" [HR/Sp3fp]
+- o10: אֵשׁ = H784 אֵשׁ "fire (literally or figuratively)" [HNcbsa]
+- o11: וַ/יָּשִׂימוּ = Hc "and" + H7760 שׂוּם "to put (used in a great variety of applications…" [HC/Vqw3mp]
+- o12: עָלֶי/הָ = H5921 עַל "above, over, upon…" [HR/Sp3fs]
+- o13: קְטֹרֶת = H7004 קְטֹרֶת "a fumigation" [HNcfsa]
+- o14: וַ/יַּקְרִבוּ = Hc "and" + H7126 קָרַב "to approach (causatively…" [HC/Vhw3mp]
+- o15: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o16: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o17: אֵשׁ = H784 אֵשׁ "fire (literally or figuratively)" [HNcbsa]
+- o18: זָרָה = H2114 זוּר "to turn aside (especially for lodging)…" [HAafsa]
+- o19: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o20: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o21: צִוָּה = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp3ms]
+- o22: אֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]

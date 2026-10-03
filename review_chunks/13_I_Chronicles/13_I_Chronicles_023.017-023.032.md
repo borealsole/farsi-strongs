@@ -801,3 +801,26 @@ Persian entries and current tags:
 - p35: جا
 - p36: می‌آوردند
 - p37: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 23:16 (context)
+
+- o1: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o2: גֵרְשׁוֹם = H1647 גֵּרְשֹׁם "Gereshom, the name of four Israelites" [HNp]
+- o3: שְׁבוּאֵל = H7619 שְׁבוּאֵל "Shebuel or Shubael, the name of two Israelites" [HNp]
+- o4: הָ/רֹאשׁ = Hd "the" + H7218 רֹאשׁ "the head (as most easily shaken)…" [HTd/Ncmsa]
+
+### I Chronicles 24:1 (context)
+
+- o1: וְ/לִ/בְנֵי = Hc "and" + Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/R/Ncmpc]
+- o2: אַהֲרֹן = H175 אַהֲרוֹן "Aharon, the brother of Moses" [HNp]
+- o3: מַחְלְקוֹתָ/ם = H4256 מַחֲלֹקֶת "a section (of Levites, people or soldiers)" [HNcfpc/Sp3mp]
+- o4: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o5: אַהֲרֹן = H175 אַהֲרוֹן "Aharon, the brother of Moses" [HNp]
+- o6: נָדָב = H5070 נָדָב "Nadab, the name of four Israelites" [HNp]
+- o7: וַ/אֲבִיהוּא = Hc "and" + H30 אֲבִיהוּא "Abihu, a son of Aaron" [HC/Np]
+- o8: אֶלְעָזָר = H499 אֶלְעָזָר "Elazar, the name of seven Israelites" [HNp]
+- o9: וְ/אִיתָמָר = Hc "and" + H385 אִיתָמָר "Ithamar, a son of Aaron" [HC/Np]

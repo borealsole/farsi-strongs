@@ -712,3 +712,44 @@ Persian entries and current tags:
 - p44: هستم
 - p45: !
 - p46: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 7:14 (context)
+
+- o1: תָּקְעוּ = H8628 תָּקַע "to clatter, i.e. slap (the hands together)…" [HVqp3cp]
+- o2: בַ/תָּקוֹעַ = Hb "in" + H8619 תָּקוֹעַ "a trumpet" [HRd/Ncmsa]
+- o3: וְ/הָכִין = Hc "and" + H3559 כּוּן "properly, to be erect (i.e. stand perpendicular)…" [HC/Vhc]
+- o4: הַ/כֹּל = Hd "the" + H3605 כֹּל "properly, the whole…" [HTd/Ncmsa]
+- o5: וְ/אֵין = Hc "and" + H369 אַיִן "a non-entity…" [HC/Tn]
+- o6: הֹלֵךְ = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVqrmsa]
+- o7: לַ/מִּלְחָמָה = Hl "to" + H4421 מִלְחָמָה "a battle (i.e. the engagement)…" [HRd/Ncfsa]
+- o8: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o9: חֲרוֹנִ/י = H2740 חָרוֹן "a burning of anger" [HNcmsc/Sp1cs]
+- o10: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o11: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o12: הֲמוֹנָ/הּ = H1995 הָמוֹן "a noise, tumult, crowd; also disquietude, wealth" [HNcmsc/Sp3fs]
+
+### Ezekiel 8:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: בַּ/שָּׁנָה = Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HRd/Ncfsa]
+- o3: הַ/שִּׁשִּׁית = Hd "the" + H8345 שִׁשִּׁי "sixth, ord. or (feminine) fractional" [HTd/Aofsa]
+- o4: בַּ/שִּׁשִּׁי = Hb "in" + H8345 שִׁשִּׁי "sixth, ord. or (feminine) fractional" [HRd/Aomsa]
+- o5: בַּ/חֲמִשָּׁה = Hb "in" + H2568 חָמֵשׁ "five" [HRd/Acmsa]
+- o6: לַ/חֹדֶשׁ = Hl "to" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HRd/Ncmsa]
+- o7: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o8: יוֹשֵׁב = H3427 יָשַׁב "properly…" [HVqrmsa]
+- o9: בְּ/בֵיתִ/י = Hb "in" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc/Sp1cs]
+- o10: וְ/זִקְנֵי = Hc "and" + H2205 זָקֵן "old" [HC/Aampc]
+- o11: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o12: יוֹשְׁבִים = H3427 יָשַׁב "properly…" [HVqrmpa]
+- o13: לְ/פָנָ/י = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp1cs]
+- o14: וַ/תִּפֹּל = Hc "and" + H5307 נָפַל "to fall…" [HC/Vqw3fs]
+- o15: עָלַ/י = H5921 עַל "above, over, upon…" [HR/Sp1cs]
+- o16: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o17: יַד = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsc]
+- o18: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o19: יְהֹוִה = H3069 יְהֹוִה "YHWH" [HNp]

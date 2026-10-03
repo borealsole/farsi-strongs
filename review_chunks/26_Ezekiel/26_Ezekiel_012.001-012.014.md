@@ -817,3 +817,32 @@ Persian entries and current tags:
 - p16: پی‌شان  → H310
 - p17: خواهم_فرستاد  → H2219
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 11:25 (context)
+
+- o1: וָ/אֲדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw1cs]
+- o2: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o3: הַ/גּוֹלָה = Hd "the" + H1473 גּוֹלָה "exile; concretely and collectively exiles" [HTd/Ncfsa]
+- o4: אֵת = H853 אֵת "properly…" [HTo]
+- o5: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o6: דִּבְרֵי = H1697 דָּבָר "a word…" [HNcmpc]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o9: הֶרְאָ/נִי = H7200 רָאָה "to see…" [HVhp3ms/Sp1cs]
+
+### Ezekiel 12:15 (context)
+
+- o1: וְ/יָדְעוּ = Hc "and" + H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HC/Vqq3cp]
+- o2: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o3: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: בַּ/הֲפִיצִ/י = Hb "in" + H6327 פּוּץ "to dash in pieces…" [HR/Vhc/Sp1cs]
+- o6: אוֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o7: בַּ/גּוֹיִם = Hb "in" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HRd/Ncmpa]
+- o8: וְ/זֵרִיתִי = Hc "and" + H2219 זָרָה "to toss about; by implication, to diffuse, winnow" [HC/Vpq1cs]
+- o9: אוֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o10: בָּ/אֲרָצוֹת = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HRd/Ncbpa]

@@ -1240,3 +1240,47 @@ Persian entries and current tags:
 - p32: ویران  → H5116 H8074
 - p33: کرده‌اند
 - p34: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 9:26 (context)
+
+- o1: עַל = H5921 עַל "above, over, upon…" [HR]
+- o2: מִצְרַיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o3: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o4: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o5: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o6: אֱדוֹם = H123 אֱדֹם "Edom, the elder twin-brother of Jacob…" [HNp]
+- o7: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o8: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o9: עַמּוֹן = H5983 עַמּוֹן "Ammon, a son of Lot…" [HNp]
+- o10: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o11: מוֹאָב = H4124 מוֹאָב "Moab, an incestuous son of Lot…" [HNp]
+- o12: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o13: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o14: קְצוּצֵי = H7112 קָצַץ "to chop off (literally or figuratively)" [HVqsmpc]
+- o15: פֵאָה = H6285 פֵּאָה "properly, mouth in a figurative sense…" [HNcfsa]
+- o16: הַ/יֹּשְׁבִים = Hd "the" + H3427 יָשַׁב "properly…" [HTd/Vqrmpa]
+- o17: בַּ/מִּדְבָּר = Hb "in" + H4057 מִדְבָּר "a pasture (i.e. open field…" [HRd/Ncmsa]
+- o18: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o19: כָל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o20: הַ/גּוֹיִם = Hd "the" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HTd/Ncmpa]
+- o21: עֲרֵלִים = H6189 עָרֵל "uncircumcised (i.e. still having the prepuce…" [HAampa]
+- o22: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o23: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o24: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o25: עַרְלֵי = H6189 עָרֵל "uncircumcised (i.e. still having the prepuce…" [HAampc]
+- o26: לֵב = H3820 לֵב "the heart…" [HNcmsa]
+
+### Jeremiah 11:1 (context)
+
+- o1: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]
+- o2: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o3: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o4: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o5: יִרְמְיָהוּ = H3414 יִרְמְיָה "Jirmejah, the name of eight or nine Israelites" [HNp]
+- o6: מֵ/אֵת = Hm "from" + H854 אֵת "properly…" [HR/R]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

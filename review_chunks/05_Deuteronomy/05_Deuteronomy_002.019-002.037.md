@@ -1045,3 +1045,35 @@ Persian entries and current tags:
 - p25: ،
 - p26: نزدیک نشدیم  → H7126
 - p27: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 2:18 (context)
+
+- o1: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o2: עֹבֵר = H5674 עָבַר "to cross over…" [HVqrmsa]
+- o3: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: גְּבוּל = H1366 גְּבוּל "properly, a cord (as twisted)…" [HNcmsc]
+- o6: מוֹאָב = H4124 מוֹאָב "Moab, an incestuous son of Lot…" [HNp]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: עָר = H6144 עָר "Ar, a place in Moab" [HNp]
+
+### Deuteronomy 3:1 (context)
+
+- o1: וַ/נֵּפֶן = Hc "and" + H6437 פָּנָה "to turn…" [HC/Vqw1cp]
+- o2: וַ/נַּעַל = Hc "and" + H5927 עָלָה "to ascend…" [HC/Vqw1cp]
+- o3: דֶּרֶךְ = H1870 דֶּרֶךְ "a road (as trodden)…" [HNcbsc]
+- o4: הַ/בָּשָׁן = Hd "the" + H1316 בָּשָׁן "Bashan (often with the article)…" [HTd/Np]
+- o5: וַ/יֵּצֵא = Hc "and" + H3318 יָצָא "to go (causatively, bring) out…" [HC/Vqw3ms]
+- o6: עוֹג = H5747 עוֹג "Og, a king of Bashan" [HNp]
+- o7: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o8: הַ/בָּשָׁן = Hd "the" + H1316 בָּשָׁן "Bashan (often with the article)…" [HTd/Np]
+- o9: לִ/קְרָאתֵ/נוּ = Hl "to" + H7125 קִרְאָה "an encountering, accidental…" [HR/Vqc/Sp1cp]
+- o10: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o11: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o12: עַמּ/וֹ = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp3ms]
+- o13: לַ/מִּלְחָמָה = Hl "to" + H4421 מִלְחָמָה "a battle (i.e. the engagement)…" [HRd/Ncfsa]
+- o14: אֶדְרֶעִי = H154 אֶדְרֶעִי "Edrei, the name of two places in Palestine" [HNp]

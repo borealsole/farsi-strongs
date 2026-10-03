@@ -904,3 +904,50 @@ Persian entries and current tags:
 - p23: از
 - p24: پا درآوردند  → H5221
 - p25: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 20:14 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: אַחְאָב = H256 אַחְאָב "Achab…" [HNp]
+- o3: בְּ/מִי = Hb "in" + H4310 מִי "who? (occasionally, by a peculiar idiom…" [HR/Ti]
+- o4: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o5: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o6: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: בְּ/נַעֲרֵי = Hb "in" + H5288 נַעַר "concretely) a boy (as active)…" [HR/Ncmpc]
+- o9: שָׂרֵי = H8269 שַׂר "a head person (of any rank or class)" [HNcmpc]
+- o10: הַ/מְּדִינוֹת = Hd "the" + H4082 מְדִינָה "properly, a judgeship, i.e. jurisdiction…" [HTd/Ncfpa]
+- o11: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o12: מִי = H4310 מִי "who? (occasionally, by a peculiar idiom…" [HTi]
+- o13: יֶאְסֹר = H631 אָסַר "to yoke or hitch…" [HVqi3ms]
+- o14: הַ/מִּלְחָמָה = Hd "the" + H4421 מִלְחָמָה "a battle (i.e. the engagement)…" [HTd/Ncfsa]
+- o15: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o16: אָתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+
+### I Kings 20:30 (context)
+
+- o1: וַ/יָּנֻסוּ = Hc "and" + H5127 נוּס "to flit, i.e. vanish away (subside, escape…" [HC/Vqw3mp]
+- o2: הַ/נּוֹתָרִים = Hd "the" + H3498 יָתַר "to jut over or exceed; by implication, to excel…" [HTd/VNrmpa]
+- o3: אֲפֵקָ/ה = H663 אֲפֵק "Aphek (or Aphik)…" [HNp/Sd]
+- o4: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o5: הָ/עִיר = Hd "the" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HTd/Ncfsa]
+- o6: וַ/תִּפֹּל = Hc "and" + H5307 נָפַל "to fall…" [HC/Vqw3fs]
+- o7: הַ/חוֹמָה = Hd "the" + H2346 חוֹמָה "a wall of protection" [HTd/Ncfsa]
+- o8: עַל = H5921 עַל "above, over, upon…" [HR]
+- o9: עֶשְׂרִים = H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HAcbpa]
+- o10: וְ/שִׁבְעָה = Hc "and" + H7651 שֶׁבַע "seven (as the sacred full one)…" [HC/Acmsa]
+- o11: אֶלֶף = H505 אֶלֶף "hence (the ox's head being the first letter of…" [HAcbsa]
+- o12: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o13: הַ/נּוֹתָרִים = Hd "the" + H3498 יָתַר "to jut over or exceed; by implication, to excel…" [HTd/VNrmpa]
+- o14: וּ/בֶן = Hc "and" + H1130 בֶּן־הֲדַד "Ben-Hadad, the name of several Syrian kings" [HC/Np]
+- o15: הֲדַד = H1130 בֶּן־הֲדַד "Ben-Hadad, the name of several Syrian kings" [HNp]
+- o16: נָס = H5127 נוּס "to flit, i.e. vanish away (subside, escape…" [HVqp3ms]
+- o17: וַ/יָּבֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3ms]
+- o18: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o19: הָ/עִיר = Hd "the" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HTd/Ncfsa]
+- o20: חֶדֶר = H2315 חֶדֶר "an apartment (usually literal)" [HNcmsa]
+- o21: בְּ/חָדֶר = Hb "in" + H2315 חֶדֶר "an apartment (usually literal)" [HR/Ncmsa]

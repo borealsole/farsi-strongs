@@ -1091,3 +1091,39 @@ Persian entries and current tags:
 - p39: ابدی  → H5769
 - p40: خواهد_بود
 - p41: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 28:22 (context)
+
+- o1: וְ/עָשִׂיתָ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqq2ms]
+- o2: עַל = H5921 עַל "above, over, upon…" [HR]
+- o3: הַ/חֹשֶׁן = Hd "the" + H2833 חֹשֶׁן "perhaps a pocket (as holding the Urim and…" [HTd/Ncmsa]
+- o4: שַׁרְשֹׁת = H8331 שַׁרְשָׁה "a chain (as rooted, i.e. linked)" [HNcfpc]
+- o5: גַּבְלֻת = H1383 גַּבְלֻת "a twisted chain or lace" [HNcfsa]
+- o6: מַעֲשֵׂה = H4639 מַעֲשֶׂה "an action (good or bad); generally, a transaction…" [HNcmsc]
+- o7: עֲבֹת = H5688 עֲבֹת "something intwined, i.e. a string…" [HNcbsa]
+- o8: זָהָב = H2091 זָהָב "gold, figuratively…" [HNcmsa]
+- o9: טָהוֹר = H2889 טָהוֹר "pure (in a physical, chemical…" [HAamsa]
+
+### Exodus 29:1 (context)
+
+- o1: וְ/זֶה = Hc "and" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HC/Pdxms]
+- o2: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]
+- o3: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o4: תַּעֲשֶׂה = H6213 עָשָׂה "to do or make…" [HVqi2ms]
+- o5: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o6: לְ/קַדֵּשׁ = Hl "to" + H6942 קָדַשׁ "to be (causatively, make…" [HR/Vpc]
+- o7: אֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o8: לְ/כַהֵן = Hl "to" + H3547 כָּהַן "to officiate as a priest…" [HR/Vpc]
+- o9: לִ/י = Hl "to" [HR/Sp1cs]
+- o10: לְקַח = H3947 לָקַח "to take (in the widest variety of applications)" [HVqv2ms]
+- o11: פַּר = H6499 פַּר "a bullock (apparently as breaking forth in wild…" [HNcmsa]
+- o12: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o13: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o14: בָּקָר = H1241 בָּקָר "beef cattle or an animal of the ox family of…" [HNcbsa]
+- o15: וְ/אֵילִם = Hc "and" + H352 אַיִל "properly, strength; hence, anything strong…" [HC/Ncmpa]
+- o16: שְׁנַיִם = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmda]
+- o17: תְּמִימִם = H8549 תָּמִים "entire (literally, figuratively or morally)…" [HAampa]

@@ -636,3 +636,26 @@ Persian entries and current tags:
 - p17: ،
 - p18: برکت  → H833
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 2:22 (context)
+
+- o1: וּ/רְשָׁעִים = Hc "and" + H7563 רָשָׁע "morally wrong…" [HC/Aampa]
+- o2: מֵ/אֶרֶץ = Hm "from" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsa]
+- o3: יִכָּרֵתוּ = H3772 כָּרַת "to cut (off, down or asunder)…" [HVNi3mp]
+- o4: וּ/בוֹגְדִים = Hc "and" + H898 בָּגַד "to cover (with a garment)…" [HC/Vqrmpa]
+- o5: יִסְּחוּ = H5255 נָסַח "to tear away" [HVqi3mp]
+- o6: מִמֶּ/נָּה = H4480 מִן "properly, a part of…" [HR/Sp3fs]
+
+### Proverbs 3:19 (context)
+
+- o1: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o2: בְּ/חָכְמָה = Hb "in" + H2451 חׇכְמָה "wisdom (in a good sense)" [HR/Ncfsa]
+- o3: יָסַד = H3245 יָסַד "to set (literally or figuratively)…" [HVqp3ms]
+- o4: אָרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsa]
+- o5: כּוֹנֵן = H3559 כּוּן "properly, to be erect (i.e. stand perpendicular)…" [HVop3ms]
+- o6: שָׁמַיִם = H8064 שָׁמַיִם "the sky (as aloft…" [HNcmpa]
+- o7: בִּ/תְבוּנָה = Hb "in" + H8394 תָּבוּן "intelligence; by implication, an argument…" [HR/Ncfsa]

@@ -777,3 +777,41 @@ Persian entries and current tags:
 - p32: آفریده شد  → G2936
 - p33: .
 - p34: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Revelation of John 3:22 (context)
+
+- o1: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o2: ἔχων = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAP-NSM]
+- o3: οὖς = G3775 οὖς "ear" [N-ASN]
+- o4: ἀκουσάτω = G191 ἀκούω "give (in the) audience (of), come (to the ears)…" [V-AAM-3S]
+- o5: τί = G5101 τίς "every man, how (much), + no(-ne, thing)…" [I-ASN]
+- o6: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o7: πνεῦμα = G4151 πνεῦμα "ghost, life, spirit(-ual, -ually), mind" [N-NSN]
+- o8: λέγει = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-3S]
+- o9: ταῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPF]
+- o10: ἐκκλησίαις. = G1577 ἐκκλησία "assembly, church" [N-DPF]
+
+### Revelation of John 5:1 (context)
+
+- o1: Καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: εἶδον = G3708 ὁράω "behold, perceive, see, take heed" [V-2AAI-1S]
+- o3: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o4: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o5: δεξιὰν = G1188 δεξιός "right (hand, side)" [A-ASF]
+- o6: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o7: καθημένου = G2521 κάθημαι "dwell, sit (by, down)" [V-PNP-GSM]
+- o8: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o9: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o10: θρόνου = G2362 θρόνος "seat, throne" [N-GSM]
+- o11: βιβλίον = G975 βιβλίον "bill, book, scroll, writing" [N-ASN]
+- o12: γεγραμμένον = G1125 γράφω "describe, write(-ing, -ten)" [V-RPP-ASN]
+- o13: ἔσωθεν = G2081 ἔσωθεν "inward(-ly), (from) within, without" [ADV]
+- o14: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o15: ὄπισθεν, = G3693 ὄπισθεν "after, backside, behind" [ADV]
+- o16: κατεσφραγισμένον = G2696 κατασφραγίζω "seal" [V-RPP-ASN]
+- o17: σφραγῖσιν = G4973 σφραγίς "seal" [N-DPF]
+- o18: ἑπτά. = G2033 ἑπτά "seven" [A-NUI]

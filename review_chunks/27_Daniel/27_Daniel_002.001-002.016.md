@@ -877,3 +877,30 @@ Persian entries and current tags:
 - p14: پادشاه  → H4430
 - p15: بیان کند  → H2324
 - p16: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Daniel 1:21 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: דָּנִיֵּאל = H1840 דָנִיֵּאל "Daniel or Danijel, the name of two Israelites" [HNp]
+- o3: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o4: שְׁנַת = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsc]
+- o5: אַחַת = H259 אֶחָד "properly, united, i.e. one…" [HAcfsa]
+- o6: לְ/כוֹרֶשׁ = Hl "to" + H3566 כּוֹרֶשׁ "Koresh (or Cyrus), the Persian king" [HR/Np]
+- o7: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+
+### Daniel 2:17 (context)
+
+- o1: אֱדַיִן = H116 אֱדַיִן "then (of time)" [AD]
+- o2: דָּנִיֵּאל = H1841 דָּנִיֵּאל "Danijel, the Hebrew prophet" [ANp]
+- o3: לְ/בַיְתֵ/הּ = Hl "to" + H1005 בַּיִת "a house (in the greatest variation of…" [AR/Ncmsc/Sp3ms]
+- o4: אֲזַל = H236 אֲזַל "to depart" [AVqp3ms]
+- o5: וְ/לַ/חֲנַנְיָה = Hc "and" + Hl "to" + H2608 חֲנַנְיָה "Chananjah, the name of thirteen Israelites" [AC/R/Np]
+- o6: מִישָׁאֵל = H4333 מִישָׁאֵל "Mishael, an Israelite" [ANp]
+- o7: וַ/עֲזַרְיָה = Hc "and" + H5839 עֲזַרְיָה "Azarjah, one of Daniel's companions" [AC/Np]
+- o8: חַבְרוֹ/הִי = H2269 חֲבַר "an associate" [ANcmpc/Sp3ms]
+- o9: מִלְּתָ/א = H4406 מִלָּה "a word, command, discourse, or subject" [ANcfsd/Td]
+- o10: הוֹדַע = H3046 יְדַע "to know (properly, to ascertain by seeing)…" [AVhp3ms]

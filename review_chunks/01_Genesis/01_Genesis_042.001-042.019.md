@@ -938,3 +938,36 @@ Persian entries and current tags:
 - p27: خود
 - p28: ببرید
 - p29: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 41:57 (context)
+
+- o1: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o2: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o3: בָּאוּ = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3cp]
+- o4: מִצְרַיְמָ/ה = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp/Sd]
+- o5: לִ/שְׁבֹּר = Hl "to" + H7666 שָׁבַר "to deal in grain" [HR/Vqc]
+- o6: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o7: יוֹסֵף = H3130 יוֹסֵף "Joseph, the name of seven Israelites" [HNp]
+- o8: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o9: חָזַק = H2388 חָזַק "to fasten upon…" [HVqp3ms]
+- o10: הָ/רָעָב = Hd "the" + H7458 רָעָב "hunger (more or less extensive)" [HTd/Ncmsa]
+- o11: בְּ/כָל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o12: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+
+### Genesis 42:20 (context)
+
+- o1: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o2: אֲחִי/כֶם = H251 אָח "a brother (used in the widest sense of literal…" [HNcmsc/Sp2mp]
+- o3: הַ/קָּטֹן = Hd "the" + H6996 קָטָן "abbreviated, i.e. diminutive…" [HTd/Aamsa]
+- o4: תָּבִיאוּ = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVhi2mp]
+- o5: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o6: וְ/יֵאָמְנוּ = Hc "and" + H539 אָמַן "properly, to build up or support…" [HC/VNi3mp]
+- o7: דִבְרֵי/כֶם = H1697 דָּבָר "a word…" [HNcmpc/Sp2mp]
+- o8: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o9: תָמוּתוּ = H4191 מוּת "to die (literally or figuratively)…" [HVqi2mp]
+- o10: וַ/יַּעֲשׂוּ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3mp]
+- o11: כֵן = H3651 כֵּן "properly, set upright…" [HD]

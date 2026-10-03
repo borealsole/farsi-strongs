@@ -820,3 +820,34 @@ Persian entries and current tags:
 - p21: .
 - p22: “
 - p23: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 16:43 (context)
+
+- o1: וַ/יֵּלְכוּ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3mp]
+- o2: כָל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o4: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o5: לְ/בֵית/וֹ = Hl "to" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc/Sp3ms]
+- o6: וַ/יִּסֹּב = Hc "and" + H5437 סָבַב "to revolve, surround, or border…" [HC/Vqw3ms]
+- o7: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o8: לְ/בָרֵךְ = Hl "to" + H1288 בָרַךְ "to kneel…" [HR/Vpc]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: בֵּית/וֹ = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc/Sp3ms]
+
+### I Chronicles 17:15 (context)
+
+- o1: כְּ/כֹל = Hk "like" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o2: הַ/דְּבָרִים = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmpa]
+- o3: הָ/אֵלֶּה = Hd "the" + H428 אֵלֶּה "these or those" [HTd/Pdxcp]
+- o4: וּ/כְ/כֹל = Hc "and" + Hk "like" + H3605 כֹּל "properly, the whole…" [HC/R/Ncmsc]
+- o5: הֶ/חָזוֹן = Hd "the" + H2377 חָזוֹן "a sight (mentally), i.e. a dream, revelation…" [HTd/Ncmsa]
+- o6: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o7: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o8: דִּבֶּר = H1696 דָבַר "perhaps properly, to arrange…" [HVpp3ms]
+- o9: נָתָן = H5416 נָתָן "Nathan, the name of five Israelites" [HNp]
+- o10: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o11: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]

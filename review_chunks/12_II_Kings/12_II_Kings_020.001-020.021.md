@@ -1237,3 +1237,47 @@ Persian entries and current tags:
 - p11: او
 - p12: پادشاه شد  → H4427
 - p13: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 19:37 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o3: מִשְׁתַּחֲוֶה = H7812 שָׁחָה "to depress, i.e. prostrate (especially reflexive…" [HVvrmsa]
+- o4: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o5: נִסְרֹךְ = H5268 נִסְרֹךְ "Nisrok, a Babylonian idol" [HNp]
+- o6: אֱלֹהָי/ו = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp3ms]
+- o7: וְ/אַדְרַמֶּלֶךְ = Hc "and" + H152 אֲדְרַמֶּלֶךְ "Adrammelek, the name of an Assyrian idol…" [HC/Np]
+- o8: וְ/שַׂרְאֶצֶר = Hc "and" + H8272 שַׁרְאֶצֶר "Sharetser…" [HC/Np]
+- o9: הִכֻּ/הוּ = H5221 נָכָה "to strike (lightly or severely…" [HVhp3cp/Sp3ms]
+- o10: בַ/חֶרֶב = Hb "in" + H2719 חֶרֶב "drought…" [HRd/Ncfsa]
+- o11: וְ/הֵמָּה = Hc "and" + H1992 הֵם "they (only used when emphatic)" [HC/Pp3mp]
+- o12: נִמְלְטוּ = H4422 מָלַט "properly, to be smooth…" [HVNp3cp]
+- o13: אֶרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsc]
+- o14: אֲרָרָט = H780 אֲרָרַט "Ararat (or rather Armenia)" [HNp]
+- o15: וַ/יִּמְלֹךְ = Hc "and" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HC/Vqw3ms]
+- o16: אֵסַר = H634 אֵסַר־חַדּוֹן "Esar-chaddon, an Assyrian king" [HNp]
+- o17: חַדֹּן = H634 אֵסַר־חַדּוֹן "Esar-chaddon, an Assyrian king" [HNp]
+- o18: בְּנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o19: תַּחְתָּי/ו = H8478 תַּחַת "the bottom (as depressed)…" [HR/Sp3ms]
+
+### II Kings 21:1 (context)
+
+- o1: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o2: שְׁתֵּים = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcfda]
+- o3: עֶשְׂרֵה = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcfsa]
+- o4: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o5: מְנַשֶּׁה = H4519 מְנַשֶּׁה "Menashsheh, a grandson of Jacob…" [HNp]
+- o6: בְ/מָלְכ/וֹ = Hb "in" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HR/Vqc/Sp3ms]
+- o7: וַ/חֲמִשִּׁים = Hc "and" + H2572 חֲמִשִּׁים "fifty" [HC/Acbpa]
+- o8: וְ/חָמֵשׁ = Hc "and" + H2568 חָמֵשׁ "five" [HC/Acfsa]
+- o9: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o10: מָלַךְ = H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HVqp3ms]
+- o11: בִּ/ירוּשָׁלִָם = Hb "in" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HR/Np]
+- o12: וְ/שֵׁם = Hc "and" + H8034 שֵׁם "an appellation…" [HC/Ncmsc]
+- o13: אִמּ/וֹ = H517 אֵם "a mother (as the bond of the family)…" [HNcfsc/Sp3ms]
+- o14: חֶפְצִי = H2657 חֶפְצִי בָּהּ "Cheptsi-bah, a fanciful name for Palestine" [HNp]
+- o15: בָהּ = H2657 חֶפְצִי בָּהּ "Cheptsi-bah, a fanciful name for Palestine" [HNp]

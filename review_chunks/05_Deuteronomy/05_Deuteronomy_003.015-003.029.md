@@ -848,3 +848,60 @@ Persian entries and current tags:
 - p7: بِیت‌فِعور  → H1047
 - p8: ماندیم
 - p9: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 3:14 (context)
+
+- o1: יָאִיר = H2971 יָאִיר "Jair, the name of four Israelites" [HNp]
+- o2: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o3: מְנַשֶּׁה = H4519 מְנַשֶּׁה "Menashsheh, a grandson of Jacob…" [HNp]
+- o4: לָקַח = H3947 לָקַח "to take (in the widest variety of applications)" [HVqp3ms]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o7: חֶבֶל = H2256 חֶבֶל "a rope (as twisted), especially a measuring line…" [HNcbsc]
+- o8: אַרְגֹּב = H709 אַרְגֹּב "Argob, a district of Palestine" [HNp]
+- o9: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o10: גְּבוּל = H1366 גְּבוּל "properly, a cord (as twisted)…" [HNcmsc]
+- o11: הַ/גְּשׁוּרִי = Hd "the" + H1651 גְּשׁוּרִי "a Geshurite (also collectively) or inhabitants of…" [HTd/Ngmsa]
+- o12: וְ/הַ/מַּעֲכָתִי = Hc "and" + Hd "the" + H4602 מַעֲכָתִי "a Maakathite, or inhabitant of Maakah" [HC/Td/Ngmsa]
+- o13: וַ/יִּקְרָא = Hc "and" + H7121 קָרָא "to call out to (i.e. properly, address by name…" [HC/Vqw3ms]
+- o14: אֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o15: עַל = H5921 עַל "above, over, upon…" [HR]
+- o16: שְׁמ/וֹ = H8034 שֵׁם "an appellation…" [HNcmsc/Sp3ms]
+- o17: אֶת = H853 אֵת "properly…" [HTo]
+- o18: הַ/בָּשָׁן = Hd "the" + H1316 בָּשָׁן "Bashan (often with the article)…" [HTd/Np]
+- o19: חַוֺּת = H2334 חַוּוֹת יָעִיר "hamlets of Jair, a region of Palestine" [HNcfpc]
+- o20: יָאִיר = H2334 חַוּוֹת יָעִיר "hamlets of Jair, a region of Palestine" [HNp]
+- o21: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o22: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o23: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+
+### Deuteronomy 4:1 (context)
+
+- o1: וְ/עַתָּה = Hc "and" + H6258 עַתָּה "at this time, whether adverb…" [HC/D]
+- o2: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o3: שְׁמַע = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqv2ms]
+- o4: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o5: הַ/חֻקִּים = Hd "the" + H2706 חֹק "an enactment…" [HTd/Ncmpa]
+- o6: וְ/אֶל = Hc "and" + H413 אֵל "near, with or among; often in general, to" [HC/R]
+- o7: הַ/מִּשְׁפָּטִים = Hd "the" + H4941 מִשְׁפָּט "properly…" [HTd/Ncmpa]
+- o8: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o9: אָנֹכִי = H595 אָנֹכִי "I" [HPp1cs]
+- o10: מְלַמֵּד = H3925 לָמַד "properly, to goad…" [HVprmsa]
+- o11: אֶתְ/כֶם = H853 אֵת "properly…" [HTo/Sp2mp]
+- o12: לַ/עֲשׂוֹת = Hl "to" + H6213 עָשָׂה "to do or make…" [HR/Vqc]
+- o13: לְמַעַן = H4616 מַעַן "properly, heed, i.e. purpose…" [HR]
+- o14: תִּחְיוּ = H2421 חָיָה "to live, whether literally or figuratively…" [HVqi2mp]
+- o15: וּ/בָאתֶם = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqq2mp]
+- o16: וִ/ירִשְׁתֶּם = Hc "and" + H3423 יָרַשׁ "to occupy (by driving out previous tenants…" [HC/Vqq2mp]
+- o17: אֶת = H853 אֵת "properly…" [HTo]
+- o18: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o19: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o20: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o21: אֱלֹהֵי = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc]
+- o22: אֲבֹתֵי/כֶם = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp2mp]
+- o23: נֹתֵן = H5414 נָתַן "to give…" [HVqrmsa]
+- o24: לָ/כֶם = Hl "to" [HR/Sp2mp]

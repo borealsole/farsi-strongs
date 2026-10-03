@@ -534,3 +534,29 @@ Persian entries and current tags:
 - p20: را
 - p21: بازگویم  → H5608
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 73:14 (context)
+
+- o1: וָ/אֱהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw1cs]
+- o2: נָגוּעַ = H5060 נָגַע "properly, to touch…" [HVqsmsa]
+- o3: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o4: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o5: וְ/תוֹכַחְתִּ/י = Hc "and" + H8433 תּוֹכֵחָה "chastisement…" [HC/Ncfsc/Sp1cs]
+- o6: לַ/בְּקָרִים = Hl "to" + H1242 בֹּקֶר "properly, dawn (as the break of day)…" [HRd/Ncmpa]
+
+### Psalms 74:1 (context)
+
+- o1: מַשְׂכִּיל = H4905 מַשְׂכִּיל "instructive, i.e. a didactic poem" [HNcmsa]
+- o2: לְ/אָסָף = Hl "to" + H623 אָסָף "Asaph, the name of three Israelites…" [HR/Np]
+- o3: לָ/מָה = Hl "to" + H4100 מָה "properly…" [HR/Ti]
+- o4: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o5: זָנַחְתָּ = H2186 זָנַח "reject, forsake, fail" [HVqp2ms]
+- o6: לָ/נֶצַח = Hl "to" + H5331 נֶצַח "properly, a goal…" [HR/Ncmsa]
+- o7: יֶעְשַׁן = H6225 עָשַׁן "to smoke, whether literal or figurative" [HVqi3ms]
+- o8: אַפְּ/ךָ = H639 אַף "properly, the nose or nostril…" [HNcmsc/Sp2ms]
+- o9: בְּ/צֹאן = Hb "in" + H6629 צֹאן "a collective name for a flock (of sheep or goats)…" [HR/Ncbsc]
+- o10: מַרְעִיתֶ/ךָ = H4830 מִרְעִית "pasturage; concretely, a flock" [HNcfsc/Sp2ms]

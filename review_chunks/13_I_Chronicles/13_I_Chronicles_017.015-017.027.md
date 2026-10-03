@@ -755,3 +755,37 @@ Persian entries and current tags:
 - p32: مبارک خواهد_بود  → H1288
 - p33: .
 - p34: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 17:14 (context)
+
+- o1: וְ/הַעֲמַדְתִּי/הוּ = Hc "and" + H5975 עָמַד "to stand…" [HC/Vhq1cs/Sp3ms]
+- o2: בְּ/בֵיתִ/י = Hb "in" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc/Sp1cs]
+- o3: וּ/בְ/מַלְכוּתִ/י = Hc "and" + Hb "in" + H4438 מַלְכוּת "a rule; concretely, a dominion" [HC/R/Ncfsc/Sp1cs]
+- o4: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o5: הָ/עוֹלָם = Hd "the" + H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HTd/Ncmsa]
+- o6: וְ/כִסְא/וֹ = Hc "and" + H3678 כִּסֵּא "properly, covered, i.e. a throne (as canopied)" [HC/Ncmsc/Sp3ms]
+- o7: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o8: נָכוֹן = H3559 כּוּן "properly, to be erect (i.e. stand perpendicular)…" [HVNrmsa]
+- o9: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o10: עוֹלָם = H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HNcmsa]
+
+### I Chronicles 18:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: אַחֲרֵי = H310 אַחַר "properly, the hind part…" [HR]
+- o3: כֵן = H3651 כֵּן "properly, set upright…" [HD]
+- o4: וַ/יַּךְ = Hc "and" + H5221 נָכָה "to strike (lightly or severely…" [HC/Vhw3ms]
+- o5: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: פְּלִשְׁתִּים = H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HNgmpa]
+- o8: וַ/יַּכְנִיעֵ/ם = Hc "and" + H3665 כָּנַע "properly, to bend the knee…" [HC/Vhw3ms/Sp3mp]
+- o9: וַ/יִּקַּח = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqw3ms]
+- o10: אֶת = H853 אֵת "properly…" [HTo]
+- o11: גַּת = H1661 גַּת "Gath, a Philistine city" [HNp]
+- o12: וּ/בְנֹתֶי/הָ = Hc "and" + H1323 בַּת "a daughter (used in the same wide sense as other…" [HC/Ncfpc/Sp3fs]
+- o13: מִ/יַּד = Hm "from" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o14: פְּלִשְׁתִּים = H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HNgmpa]

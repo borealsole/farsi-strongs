@@ -838,3 +838,65 @@ Persian entries and current tags:
 - p30: کاهنان  → H3548
 - p31: تدارک دیدند  → H3559
 - p32: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 34:33 (context)
+
+- o1: וַ/יָּסַר = Hc "and" + H5493 סוּר "to turn off (literal or figurative)" [HC/Vhw3ms]
+- o2: יֹאשִׁיָּהוּ = H2977 יֹאשִׁיָּה "Joshijah, the name of two Israelites" [HNp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o5: הַ/תּוֹעֵבוֹת = Hd "the" + H8441 תּוֹעֵבַה "properly, something disgusting (morally)…" [HTd/Ncfpa]
+- o6: מִ/כָּל = Hm "from" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o7: הָ/אֲרָצוֹת = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbpa]
+- o8: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o9: לִ/בְנֵי = Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmpc]
+- o10: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o11: וַ/יַּעֲבֵד = Hc "and" + H5647 עָבַד "to work (in any sense)…" [HC/Vhw3ms]
+- o12: אֵת = H853 אֵת "properly…" [HTo]
+- o13: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o14: הַ/נִּמְצָא = Hd "the" + H4672 מָצָא "properly, to come forth to, i.e. appear or exist…" [HTd/VNrmsa]
+- o15: בְּ/יִשְׂרָאֵל = Hb "in" + H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HR/Np]
+- o16: לַ/עֲבוֹד = Hl "to" + H5647 עָבַד "to work (in any sense)…" [HR/Vqc]
+- o17: אֶת = H853 אֵת "properly…" [HTo]
+- o18: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o19: אֱלֹהֵי/הֶם = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp3mp]
+- o20: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o21: יָמָי/ו = H3117 יוֹם "a day (as the warm hours)…" [HNcmpc/Sp3ms]
+- o22: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o23: סָרוּ = H5493 סוּר "to turn off (literal or figurative)" [HVqp3cp]
+- o24: מֵ/אַחֲרֵי = Hm "from" + H310 אַחַר "properly, the hind part…" [HR/R]
+- o25: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o26: אֱלֹהֵי = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc]
+- o27: אֲבוֹתֵי/הֶם = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp3mp]
+
+### II Chronicles 35:15 (context)
+
+- o1: וְ/הַ/מְשֹׁרֲרִים = Hc "and" + Hd "the" + H7891 שִׁיר "to sing" [HC/Td/Vormpa]
+- o2: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o3: אָסָף = H623 אָסָף "Asaph, the name of three Israelites…" [HNp]
+- o4: עַל = H5921 עַל "above, over, upon…" [HR]
+- o5: מַעֲמָדָ/ם = H4612 מַעֲמָד "(figuratively) a position" [HNcmsc/Sp3mp]
+- o6: כְּ/מִצְוַת = Hk "like" + H4687 מִצְוָה "a command, whether human or divine (collectively…" [HR/Ncfsc]
+- o7: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o8: וְ/אָסָף = Hc "and" + H623 אָסָף "Asaph, the name of three Israelites…" [HC/Np]
+- o9: וְ/הֵימָן = Hc "and" + H1968 הֵימָן "Heman, the name of at least two Israelites" [HC/Np]
+- o10: וִ/ידֻתוּן = Hc "and" + H3038 יְדוּתוּן "Jeduthun, an Israelite" [HC/Np]
+- o11: חוֹזֵה = H2374 חֹזֶה "a beholder in vision…" [HNcmsc]
+- o12: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o13: וְ/הַ/שֹּׁעֲרִים = Hc "and" + Hd "the" + H7778 שׁוֹעֵר "a janitor" [HC/Td/Ncmpa]
+- o14: לְ/שַׁעַר = Hl "to" + H8179 שַׁעַר "an opening, i.e. door or gate" [HR/Ncmsa]
+- o15: וָ/שָׁעַר = Hc "and" + H8179 שַׁעַר "an opening, i.e. door or gate" [HC/Ncmsa]
+- o16: אֵין = H369 אַיִן "a non-entity…" [HTn]
+- o17: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o18: לָ/סוּר = Hl "to" + H5493 סוּר "to turn off (literal or figurative)" [HR/Vqc]
+- o19: מֵ/עַל = Hm "from" + H5921 עַל "above, over, upon…" [HR/R]
+- o20: עֲבֹדָתָ/ם = H5656 עֲבֹדָה "work of any kind" [HNcfsc/Sp3mp]
+- o21: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o22: אֲחֵי/הֶם = H251 אָח "a brother (used in the widest sense of literal…" [HNcmpc/Sp3mp]
+- o23: הַ/לְוִיִּם = Hd "the" + H3881 לֵוִיִּי "a Levite or descendant of Levi" [HTd/Ngmpa]
+- o24: הֵכִינוּ = H3559 כּוּן "properly, to be erect (i.e. stand perpendicular)…" [HVhp3cp]
+- o25: לָ/הֶם = Hl "to" [HR/Sp3mp]

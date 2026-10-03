@@ -1353,3 +1353,52 @@ Persian entries and current tags:
 - p21: او
 - p22: بدهید  → H5414
 - p23: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 46:24 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: אֵלָ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o3: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o4: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o5: הַ/מְבַשְּׁלִים = Hd "the" + H1310 בָּשַׁל "properly, to boil up…" [HTd/Vprmpa]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: יְבַשְּׁלוּ = H1310 בָּשַׁל "properly, to boil up…" [HVpi3mp]
+- o8: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o9: מְשָׁרְתֵי = H8334 שָׁרַת "to attend as a menial or worshipper…" [HVprmpc]
+- o10: הַ/בַּיִת = Hd "the" + H1004 בַּיִת "a house (in the greatest variation of…" [HTd/Ncmsa]
+- o11: אֶת = H853 אֵת "properly…" [HTo]
+- o12: זֶבַח = H2077 זֶבַח "properly, a slaughter…" [HNcmsc]
+- o13: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+
+### Ezekiel 48:1 (context)
+
+- o1: וְ/אֵלֶּה = Hc "and" + H428 אֵלֶּה "these or those" [HC/Pdxcp]
+- o2: שְׁמוֹת = H8034 שֵׁם "an appellation…" [HNcmpc]
+- o3: הַ/שְּׁבָטִים = Hd "the" + H7626 שֵׁבֶט "a scion, i.e. (literally) a stick (for punishing…" [HTd/Ncmpa]
+- o4: מִ/קְצֵה = Hm "from" + H7097 קָצֶה "an extremity" [HR/Ncbsc]
+- o5: צָפוֹנָ/ה = H6828 צָפוֹן "properly, hidden, i.e. dark…" [HNcfsa/Sd]
+- o6: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o7: יַד = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsc]
+- o8: דֶּרֶךְ = H1870 דֶּרֶךְ "a road (as trodden)…" [HNcbsc]
+- o9: חֶתְלֹן = H2855 חֶתְלֹן "Chethlon, a place in Palestine" [HNp]
+- o10: לְבוֹא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HNp]
+- o11: חֲמָת = H2574 חֲמָת "Chamath, a place in Syria" [HNp]
+- o12: חֲצַר = H2704 חֲצַר עֵינָן "Chatsar-Enan, a place in Palestine" [HNp]
+- o13: עֵינָן = H2704 חֲצַר עֵינָן "Chatsar-Enan, a place in Palestine" [HNp]
+- o14: גְּבוּל = H1366 גְּבוּל "properly, a cord (as twisted)…" [HNcmsc]
+- o15: דַּמֶּשֶׂק = H1834 דַּמֶּשֶׂק "Damascus, a city of Syria" [HNp]
+- o16: צָפוֹנָ/ה = H6828 צָפוֹן "properly, hidden, i.e. dark…" [HNcfsa/Sd]
+- o17: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o18: יַד = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsc]
+- o19: חֲמָת = H2574 חֲמָת "Chamath, a place in Syria" [HNp]
+- o20: וְ/הָיוּ = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3cp]
+- o21: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o22: פְאַת = H6285 פֵּאָה "properly, mouth in a figurative sense…" [HNcfsc]
+- o23: קָדִים = H6921 קָדִים "the fore or front part…" [HNcmsa]
+- o24: הַ/יָּם = Hd "the" + H3220 יָם "a sea (as breaking in noisy surf) or large body…" [HTd/Ncmsa]
+- o25: דָּן = H1835 דָּן "Dan, one of the sons of Jacob…" [HNp]
+- o26: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]

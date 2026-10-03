@@ -746,3 +746,40 @@ Persian entries and current tags:
 - p22: به  → Hl
 - p23: بندگی گرفتند  → H3533
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 33:26 (context)
+
+- o1: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o2: זֶרַע = H2233 זֶרַע "seed…" [HNcmsc]
+- o3: יַעֲקוֹב = H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HNp]
+- o4: וְ/דָוִד = Hc "and" + H1732 דָּוִד "David, the youngest son of Jesse" [HC/Np]
+- o5: עַבְדִּ/י = H5650 עֶבֶד "a servant" [HNcmsc/Sp1cs]
+- o6: אֶמְאַס = H3988 מָאַס "to spurn; also (intransitively) to disappear" [HVqi1cs]
+- o7: מִ/קַּחַת = Hm "from" + H3947 לָקַח "to take (in the widest variety of applications)" [HR/Vqc]
+- o8: מִ/זַּרְע/וֹ = Hm "from" + H2233 זֶרַע "seed…" [HR/Ncmsc/Sp3ms]
+- o9: מֹשְׁלִים = H4910 מָשַׁל "to rule" [HVqrmpa]
+- o10: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o11: זֶרַע = H2233 זֶרַע "seed…" [HNcmsc]
+- o12: אַבְרָהָם = H85 אַבְרָהָם "Abraham, the later name of Abram" [HNp]
+- o13: יִשְׂחָק = H3446 יִשְׂחָק "Jischak, the heir of Abraham" [HNp]
+- o14: וְ/יַעֲקֹב = Hc "and" + H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HC/Np]
+- o15: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o16: אשוב = H7725 שׁוּב "to turn back (hence…" [HVqi1cs]
+- o17: אֶת = H853 אֵת "properly…" [HTo]
+- o18: שְׁבוּתָ/ם = H7622 שְׁבוּת "exile, concretely, prisoners…" [HNcfsc/Sp3mp]
+- o19: וְ/רִחַמְתִּי/ם = Hc "and" + H7355 רָחַם "to fondle…" [HC/Vpq1cs/Sp3mp]
+
+### Jeremiah 34:12 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o5: יִרְמְיָהוּ = H3414 יִרְמְיָה "Jirmejah, the name of eight or nine Israelites" [HNp]
+- o6: מֵ/אֵת = Hm "from" + H854 אֵת "properly…" [HR/R]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

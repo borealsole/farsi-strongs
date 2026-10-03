@@ -570,3 +570,29 @@ Persian entries and current tags:
 - p8: پشت  → H1460
 - p9: جاهلان  → H3684
 - p10: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 19:14 (context)
+
+- o1: בַּיִת = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsa]
+- o2: וָ/הוֹן = Hc "and" + H1952 הוֹן "wealth; by implication, enough" [HC/Ncmsa]
+- o3: נַחֲלַת = H5159 נַחֲלָה "properly, something inherited…" [HNcfsc]
+- o4: אָבוֹת = H1 אָב "father, in a literal and immediate…" [HNcmpa]
+- o5: וּ/מֵ/יְהוָה = Hc "and" + Hm "from" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HC/R/Np]
+- o6: אִשָּׁה = H802 אִשָּׁה "a woman" [HNcfsa]
+- o7: מַשְׂכָּלֶת = H7919 שָׂכַל "to be (causatively…" [HVhrfsa]
+
+### Proverbs 20:1 (context)
+
+- o1: לֵץ = H3887 לוּץ "properly, to make mouths at, i.e. to scoff…" [HAamsa]
+- o2: הַ/יַּין = Hd "the" + H3196 יַיִן "wine (as fermented); by implication, intoxication" [HTd/Ncmsa]
+- o3: הֹמֶה = H1993 הָמָה "to make a loud sound (like English 'hum')…" [HVqrmsa]
+- o4: שֵׁכָר = H7941 שֵׁכָר "an intoxicant, i.e. intensely alcoholic liquor" [HNcmsa]
+- o5: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o6: שֹׁגֶה = H7686 שָׁגָה "to stray (causatively, mislead)…" [HVqrmsa]
+- o7: בּ/וֹ = Hb "in" [HR/Sp3ms]
+- o8: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o9: יֶחְכָּם = H2449 חָכַם "to be wise (in mind, word or act)" [HVqi3ms]

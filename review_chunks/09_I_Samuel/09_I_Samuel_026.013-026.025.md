@@ -896,3 +896,67 @@ Persian entries and current tags:
 - p37: خود
 - p38: بازگشت  → H7725
 - p39: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 26:12 (context)
+
+- o1: וַ/יִּקַּח = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqw3ms]
+- o2: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: הַ/חֲנִית = Hd "the" + H2595 חֲנִית "a lance (for thrusting, like pitching a tent)" [HTd/Ncfsa]
+- o5: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o6: צַפַּחַת = H6835 צַפַּחַת "a saucer (as flat)" [HNcfsc]
+- o7: הַ/מַּיִם = Hd "the" + H4325 מַיִם "water; figuratively, juice…" [HTd/Ncmpa]
+- o8: מֵרַאֲשֹׁתֵי = H7226 רַאֲשֹׁת "a pillow (being for the head)" [HNcfpc]
+- o9: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o10: וַ/יֵּלְכוּ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3mp]
+- o11: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o12: וְ/אֵין = Hc "and" + H369 אַיִן "a non-entity…" [HC/Tn]
+- o13: רֹאֶה = H7200 רָאָה "to see…" [HVqrmsa]
+- o14: וְ/אֵין = Hc "and" + H369 אַיִן "a non-entity…" [HC/Tn]
+- o15: יוֹדֵעַ = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqrmsa]
+- o16: וְ/אֵין = Hc "and" + H369 אַיִן "a non-entity…" [HC/Tn]
+- o17: מֵקִיץ = H6974 קוּץ "to awake (literally or figuratively)" [HVhrmsa]
+- o18: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o19: כֻלָּ/ם = H3605 כֹּל "properly, the whole…" [HNcmsc/Sp3mp]
+- o20: יְשֵׁנִים = H3462 יָשֵׁן "properly, to be slack or languid…" [HAampa]
+- o21: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o22: תַּרְדֵּמַת = H8639 תַּרְדֵּמָה "a lethargy or (by implication) trance" [HNcfsc]
+- o23: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o24: נָפְלָה = H5307 נָפַל "to fall…" [HVqp3fs]
+- o25: עֲלֵי/הֶם = H5921 עַל "above, over, upon…" [HR/Sp3mp]
+
+### I Samuel 27:1 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: לִבּ/וֹ = H3820 לֵב "the heart…" [HNcmsc/Sp3ms]
+- o5: עַתָּה = H6258 עַתָּה "at this time, whether adverb…" [HD]
+- o6: אֶסָּפֶה = H5595 סָפָה "properly, to scrape (literally, to shave…" [HVNi1cs]
+- o7: יוֹם = H3117 יוֹם "a day (as the warm hours)…" [HNcmsa]
+- o8: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o9: בְּ/יַד = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o10: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o11: אֵין = H369 אַיִן "a non-entity…" [HTn]
+- o12: לִ/י = Hl "to" [HR/Sp1cs]
+- o13: טוֹב = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAamsa]
+- o14: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o15: הִמָּלֵט = H4422 מָלַט "properly, to be smooth…" [HVNc]
+- o16: אִמָּלֵט = H4422 מָלַט "properly, to be smooth…" [HVNi1cs]
+- o17: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o18: אֶרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsc]
+- o19: פְּלִשְׁתִּים = H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HNgmpa]
+- o20: וְ/נוֹאַשׁ = Hc "and" + H2976 יָאַשׁ "to desist, i.e. (figuratively) to despond" [HC/VNp3ms]
+- o21: מִמֶּ/נִּי = H4480 מִן "properly, a part of…" [HR/Sp1cs]
+- o22: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o23: לְ/בַקְשֵׁ/נִי = Hl "to" + H1245 בָּקַשׁ "to search out (by any method…" [HR/Vpc/Sp1cs]
+- o24: עוֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+- o25: בְּ/כָל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o26: גְּבוּל = H1366 גְּבוּל "properly, a cord (as twisted)…" [HNcmsc]
+- o27: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o28: וְ/נִמְלַטְתִּי = Hc "and" + H4422 מָלַט "properly, to be smooth…" [HC/VNq1cs]
+- o29: מִ/יָּד/וֹ = Hm "from" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc/Sp3ms]

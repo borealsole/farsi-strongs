@@ -703,3 +703,49 @@ Persian entries and current tags:
 - p19: او  → G80
 - p20: نشوم  → G4624
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Corinthians 7:40 (context)
+
+- o1: μακαριωτέρα = G3107 μακάριος "blessed, happy( -ier)" [A-NSF-C]
+- o2: δέ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: ἐστιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o4: ἐὰν = G1437 ἐάν "before, but, except, (and) if, (if) so, (what-…" [COND]
+- o5: οὕτως = G3779 οὕτω "after that, after (in) this manner, as, even (so)…" [ADV]
+- o6: μείνῃ, = G3306 μένω "abide, continue, dwell, endure, be present…" [V-AAS-3S]
+- o7: κατὰ = G2596 κατά "about, according as (to), after, against…" [PREP]
+- o8: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o9: ἐμὴν = G1699 ἐμός "of me, mine (own), my" [S-1SASF]
+- o10: γνώμην, = G1106 γνώμη "advice, + agree, judgment, mind, purpose, will" [N-ASF]
+- o11: δοκῶ = G1380 δοκέω "be accounted, (of own) please(-ure)…" [V-PAI-1S]
+- o12: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o13: κἀγὼ = G2504 κἀγώ "and, even, even so, so) I (also, in like wise)…" [P-1NS-K]
+- o14: πνεῦμα = G4151 πνεῦμα "ghost, life, spirit(-ual, -ually), mind" [N-ASN]
+- o15: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o16: ἔχειν. = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAN]
+
+### I Corinthians 9:1 (context)
+
+- o1: Οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o2: εἰμὶ = G1510 εἰμί "am, have been, it is I, was" [V-PAI-1S]
+- o3: ἐλεύθερος; = G1658 ἐλεύθερος "free (man, woman), at liberty" [A-NSM]
+- o4: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o5: εἰμὶ = G1510 εἰμί "am, have been, it is I, was" [V-PAI-1S]
+- o6: ἀπόστολος; = G652 ἀπόστολος "apostle, messenger, he that is sent" [N-NSM]
+- o7: οὐχὶ = G3780 οὐχί "nay, not" [PRT-I]
+- o8: Ἰησοῦν = G2424 Ἰησοῦς "Jesus" [N-ASM]
+- o9: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o10: κύριον = G2962 κύριος "God, Lord, master, Sir" [N-ASM]
+- o11: ἡμῶν = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+- o12: ἑόρακα; = G3708 ὁράω "behold, perceive, see, take heed" [V-RAI-1S]
+- o13: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o14: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o15: ἔργον = G2041 ἔργον "deed, doing, labour, work" [N-NSN]
+- o16: μου = G1473 ἐγώ "I, me" [P-1GS]
+- o17: ὑμεῖς = G5210 ὑμεῖς "ye (yourselves), you" [P-2NP]
+- o18: ἐστὲ = G1510 εἰμί "am, have been, it is I, was" [V-PAI-2P]
+- o19: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o20: κυρίῳ; = G2962 κύριος "God, Lord, master, Sir" [N-DSM]

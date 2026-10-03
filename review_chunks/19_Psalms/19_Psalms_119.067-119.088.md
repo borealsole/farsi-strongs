@@ -747,3 +747,25 @@ Persian entries and current tags:
 - p14: نگاه  → H8104
 - p15: دارم  → H2421
 - p16: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 119:66 (context)
+
+- o1: טוּב = H2898 טוּב "good (as a noun), in the widest sense…" [HNcmsc]
+- o2: טַעַם = H2940 טַעַם "properly, a taste, i.e. (figuratively) perception…" [HNcmsa]
+- o3: וָ/דַעַת = Hc "and" + H1847 דַּעַת "knowledge" [HC/Ncfsa]
+- o4: לַמְּדֵ/נִי = H3925 לָמַד "properly, to goad…" [HVpv2ms/Sp1cs]
+- o5: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o6: בְ/מִצְוֺתֶי/ךָ = Hb "in" + H4687 מִצְוָה "a command, whether human or divine (collectively…" [HR/Ncfpc/Sp2ms]
+- o7: הֶאֱמָנְתִּי = H539 אָמַן "properly, to build up or support…" [HVhp1cs]
+
+### Psalms 119:89 (context)
+
+- o1: לְ/עוֹלָם = Hl "to" + H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HR/Ncmsa]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: דְּבָרְ/ךָ = H1697 דָּבָר "a word…" [HNcmsc/Sp2ms]
+- o4: נִצָּב = H5324 נָצַב "to station…" [HVNrmsa]
+- o5: בַּ/שָּׁמָיִם = Hb "in" + H8064 שָׁמַיִם "the sky (as aloft…" [HRd/Ncmpa]

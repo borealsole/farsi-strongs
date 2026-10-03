@@ -964,3 +964,37 @@ Persian entries and current tags:
 - p18: او  → G846
 - p19: بکند
 - p20: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 22:23 (context)
+
+- o1: Ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o2: ἐκείνῃ = G1565 ἐκεῖνος "he, it, the other (same), selfsame, that (same…" [D-DSF]
+- o3: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o4: ἡμέρᾳ = G2250 ἡμέρα "age, + alway, (mid-)day (by day, (-ly))…" [N-DSF]
+- o5: προσῆλθον = G4334 προσέρχομαι "as soon as he) come (unto), come thereunto…" [V-2AAI-3P]
+- o6: αὐτῷ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
+- o7: Σαδδουκαῖοι = G4523 Σαδδουκαῖος "Sadducee" [N-NPM]
+- o8: λέγοντες = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAP-NPM]
+- o9: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o10: εἶναι = G1510 εἰμί "am, have been, it is I, was" [V-PAN]
+- o11: ἀνάστασιν, = G386 ἀνάστασις "raised to life again, resurrection…" [N-ASF]
+- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o13: ἐπηρώτησαν = G1905 ἐπερωτάω "ask (after, questions), demand, desire, question" [V-AAI-3P]
+- o14: αὐτὸν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASM]
+
+### Matthew 23:1 (context)
+
+- o1: Τότε = G5119 τότε "that time, then" [ADV]
+- o2: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o3: Ἰησοῦς = G2424 Ἰησοῦς "Jesus" [N-NSM]
+- o4: ἐλάλησεν = G2980 λαλέω "preach, say, speak (after), talk, tell, utter" [V-AAI-3S]
+- o5: τοῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPM]
+- o6: ὄχλοις = G3793 ὄχλος "company, multitude, number (of people), people…" [N-DPM]
+- o7: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o8: τοῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPM]
+- o9: μαθηταῖς = G3101 μαθητής "disciple" [N-DPM]
+- o10: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]

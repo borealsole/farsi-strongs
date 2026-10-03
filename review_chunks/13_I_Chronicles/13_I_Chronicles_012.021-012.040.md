@@ -906,3 +906,38 @@ Persian entries and current tags:
 - p44: شادمانی  → H8057
 - p45: بود
 - p46: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 12:20 (context)
+
+- o1: בְּ/לֶכְתּ/וֹ = Hb "in" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HR/Vqc/Sp3ms]
+- o2: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o3: צִיקְלַג = H6860 צִקְלַג "Tsiklag or Tsikelag, a place in Palestine" [HNp]
+- o4: נָפְלוּ = H5307 נָפַל "to fall…" [HVqp3cp]
+- o5: עָלָי/ו = H5921 עַל "above, over, upon…" [HR/Sp3ms]
+- o6: מִ/מְּנַשֶּׁה = Hm "from" + H4519 מְנַשֶּׁה "Menashsheh, a grandson of Jacob…" [HR/Np]
+- o7: עַדְנַח = H5734 עַדְנָה "Adnah, the name of two Israelites" [HNp]
+- o8: וְ/יוֹזָבָד = Hc "and" + H3107 יוֹזָבָד "Jozabad, the name of ten Israelites" [HC/Np]
+- o9: וִ/ידִיעֲאֵל = Hc "and" + H3043 יְדִיעֲאֵל "Jediael, the name of three Israelites" [HC/Np]
+- o10: וּ/מִיכָאֵל = Hc "and" + H4317 מִיכָאֵל "Mikael…" [HC/Np]
+- o11: וְ/יוֹזָבָד = Hc "and" + H3107 יוֹזָבָד "Jozabad, the name of ten Israelites" [HC/Np]
+- o12: וֶ/אֱלִיהוּא = Hc "and" + H453 אֱלִיהוּ "Elihu, the name of one of Job's friends…" [HC/Np]
+- o13: וְ/צִלְּתָי = Hc "and" + H6769 צִלְּתַי "Tsillethai, the name of two Israelites" [HC/Np]
+- o14: רָאשֵׁי = H7218 רֹאשׁ "the head (as most easily shaken)…" [HNcmpc]
+- o15: הָ/אֲלָפִים = Hd "the" + H505 אֶלֶף "hence (the ox's head being the first letter of…" [HTd/Acbpa]
+- o16: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o17: לִ/מְנַשֶּׁה = Hl "to" + H4519 מְנַשֶּׁה "Menashsheh, a grandson of Jacob…" [HR/Np]
+
+### I Chronicles 13:1 (context)
+
+- o1: וַ/יִּוָּעַץ = Hc "and" + H3289 יָעַץ "to advise; reflexively, to deliberate or resolve" [HC/VNw3ms]
+- o2: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o3: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o4: שָׂרֵי = H8269 שַׂר "a head person (of any rank or class)" [HNcmpc]
+- o5: הָ/אֲלָפִים = Hd "the" + H505 אֶלֶף "hence (the ox's head being the first letter of…" [HTd/Acbpa]
+- o6: וְ/הַ/מֵּאוֹת = Hc "and" + Hd "the" + H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HC/Td/Acbpa]
+- o7: לְ/כָל = Hl "to" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o8: נָגִיד = H5057 נָגִיד "a commander (as occupying the front), civil…" [HNcmsa]

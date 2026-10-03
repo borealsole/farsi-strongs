@@ -778,3 +778,39 @@ Persian entries and current tags:
 - p33: او
 - p34: پادشاه شد  → H4427
 - p35: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 28:14 (context)
+
+- o1: וַ/יַּעֲזֹב = Hc "and" + H5800 עָזַב "to loosen, i.e. relinquish, permit, etc" [HC/Vqw3ms]
+- o2: הֶ/חָלוּץ = Hd "the" + H2502 חָלַץ "to pull off…" [HTd/Vqsmsa]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: הַ/שִּׁבְיָה = Hd "the" + H7633 שִׁבְיָה "exile (abstractly or concretely and collectively)" [HTd/Ncbsa]
+- o5: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o6: הַ/בִּזָּה = Hd "the" + H961 בִּזָּה "booty" [HTd/Ncfsa]
+- o7: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o8: הַ/שָּׂרִים = Hd "the" + H8269 שַׂר "a head person (of any rank or class)" [HTd/Ncmpa]
+- o9: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o10: הַ/קָּהָל = Hd "the" + H6951 קָהָל "assemblage (usually concretely)" [HTd/Ncmsa]
+
+### II Chronicles 29:1 (context)
+
+- o1: יְחִזְקִיָּהוּ = H2396 חִזְקִיָּה "Chizkijah, a king of Judah…" [HNp]
+- o2: מָלַךְ = H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HVqp3ms]
+- o3: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o4: עֶשְׂרִים = H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HAcbpa]
+- o5: וְ/חָמֵשׁ = Hc "and" + H2568 חָמֵשׁ "five" [HC/Acfsa]
+- o6: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o7: וְ/עֶשְׂרִים = Hc "and" + H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HC/Acbpa]
+- o8: וָ/תֵשַׁע = Hc "and" + H8672 תֵּשַׁע "nine or (ordinal) ninth" [HC/Acfsa]
+- o9: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o10: מָלַךְ = H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HVqp3ms]
+- o11: בִּ/ירוּשָׁלִָם = Hb "in" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HR/Np]
+- o12: וְ/שֵׁם = Hc "and" + H8034 שֵׁם "an appellation…" [HC/Ncmsc]
+- o13: אִמּ/וֹ = H517 אֵם "a mother (as the bond of the family)…" [HNcfsc/Sp3ms]
+- o14: אֲבִיָּה = H29 אֲבִיָּה "Abijah…" [HNp]
+- o15: בַּת = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfsc]
+- o16: זְכַרְיָהוּ = H2148 זְכַרְיָה "Zecarjah, the name of twenty-nine Israelites" [HNp]

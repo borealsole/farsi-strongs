@@ -700,3 +700,37 @@ Persian entries and current tags:
 - p29: پدید
 - p30: آمدند
 - p31: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 2:37 (context)
+
+- o1: וְ/זָבָד = Hc "and" + H2066 זָבָד "Zabad, the name of seven Israelites" [HC/Np]
+- o2: הוֹלִיד = H3205 יָלַד "to bear young; causatively, to beget…" [HVhp3ms]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: אֶפְלָל = H654 אֶפְלָל "Ephlal, an Israelite" [HNp]
+- o5: וְ/אֶפְלָל = Hc "and" + H654 אֶפְלָל "Ephlal, an Israelite" [HC/Np]
+- o6: הוֹלִיד = H3205 יָלַד "to bear young; causatively, to beget…" [HVhp3ms]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: עוֹבֵד = H5744 עוֹבֵד "Obed, the name of five Israelites" [HNp]
+
+### I Chronicles 3:1 (context)
+
+- o1: וְ/אֵלֶּה = Hc "and" + H428 אֵלֶּה "these or those" [HC/Pdxcp]
+- o2: הָיוּ = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3cp]
+- o3: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o4: דָויִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: נוֹלַד = H3205 יָלַד "to bear young; causatively, to beget…" [HVNp3ms]
+- o7: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o8: בְּ/חֶבְרוֹן = Hb "in" + H2275 חֶבְרוֹן "Chebron, a place in Palestine…" [HR/Np]
+- o9: הַ/בְּכוֹר = Hd "the" + H1060 בְּכוֹר "firstborn; hence, chief" [HTd/Ncmsa]
+- o10: אַמְנֹן = H550 אַמְנוֹן "Amnon (or Aminon), a son of David" [HNp]
+- o11: לַ/אֲחִינֹעַם = Hl "to" + H293 אֲחִינֹעַם "Achinoam, the name of two Israelitesses" [HR/Np]
+- o12: הַ/יִּזְרְעֵאלִית = Hd "the" + H3159 יִזְרְעֵאלִית "a Jezreelitess" [HTd/Ngfsa]
+- o13: שֵׁנִי = H8145 שֵׁנִי "properly, double, i.e. second…" [HAomsa]
+- o14: דָּנִיֵּאל = H1840 דָנִיֵּאל "Daniel or Danijel, the name of two Israelites" [HNp]
+- o15: לַ/אֲבִיגַיִל = Hl "to" + H26 אֲבִיגַיִל "Abigail or Abigal, the name of two Israelitesses" [HR/Np]
+- o16: הַ/כַּרְמְלִית = Hd "the" + H3762 כַּרְמְלִית "a Karmelitess or female inhabitant of Karmel" [HTd/Ngfsa]

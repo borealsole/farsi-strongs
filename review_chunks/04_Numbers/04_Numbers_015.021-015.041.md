@@ -1081,3 +1081,40 @@ Persian entries and current tags:
 - p24: هستم  → H589
 - p25: .
 - p26: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 15:20 (context)
+
+- o1: רֵאשִׁית = H7225 רֵאשִׁית "the first, in place, time…" [HNcfsc]
+- o2: עֲרִסֹתֵ/כֶם = H6182 עֲרִיסָה "meal" [HNcfpc/Sp2mp]
+- o3: חַלָּה = H2471 חַלָּה "a cake (as usually punctured)" [HNcfsa]
+- o4: תָּרִימוּ = H7311 רוּם "to be high actively…" [HVhi2mp]
+- o5: תְרוּמָה = H8641 תְּרוּמָה "a present (as offered up)…" [HNcfsa]
+- o6: כִּ/תְרוּמַת = Hk "like" + H8641 תְּרוּמָה "a present (as offered up)…" [HR/Ncfsc]
+- o7: גֹּרֶן = H1637 גֹּרֶן "a threshing-floor (as made even)…" [HNcbsa]
+- o8: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o9: תָּרִימוּ = H7311 רוּם "to be high actively…" [HVhi2mp]
+- o10: אֹתָ/הּ = H853 אֵת "properly…" [HTo/Sp3fs]
+
+### Numbers 16:1 (context)
+
+- o1: וַ/יִּקַּח = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqw3ms]
+- o2: קֹרַח = H7141 קֹרַח "Korach…" [HNp]
+- o3: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o4: יִצְהָר = H3324 יִצְהָר "Jitshar, an Israelite" [HNp]
+- o5: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o6: קְהָת = H6955 קְהָת "Kehath, an Israelite" [HNp]
+- o7: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o8: לֵוִי = H3878 לֵוִי "Levi, a son of Jacob" [HNp]
+- o9: וְ/דָתָן = Hc "and" + H1885 דָּתָן "Dathan, an Israelite" [HC/Np]
+- o10: וַ/אֲבִירָם = Hc "and" + H48 אֲבִירָם "Abiram, the name of two Israelites" [HC/Np]
+- o11: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o12: אֱלִיאָב = H446 אֱלִיאָב "Eliab, the name of six Israelites" [HNp]
+- o13: וְ/אוֹן = Hc "and" + H203 אוֹן "On, an Israelite" [HC/Np]
+- o14: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o15: פֶּלֶת = H6431 פֶּלֶת "Peleth, the name of two Israelites" [HNp]
+- o16: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o17: רְאוּבֵן = H7205 רְאוּבֵן "Reuben, a son of Jacob" [HNp]

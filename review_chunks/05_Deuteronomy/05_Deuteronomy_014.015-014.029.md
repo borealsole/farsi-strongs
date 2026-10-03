@@ -765,3 +765,22 @@ Persian entries and current tags:
 - p41: ،
 - p42: برکت دهد  → H1288
 - p43: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 14:14 (context)
+
+- o1: וְ/אֵת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o2: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: עֹרֵב = H6158 עֹרֵב "a raven (from its dusky hue)" [HNcmsa]
+- o4: לְ/מִינ/וֹ = Hl "to" + H4327 מִין "a sort, i.e. species" [HR/Ncmsc/Sp3ms]
+
+### Deuteronomy 15:1 (context)
+
+- o1: מִ/קֵּץ = Hm "from" + H7093 קֵץ "an extremity…" [HR/Ncmsc]
+- o2: שֶׁבַע = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcfsa]
+- o3: שָׁנִים = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfpa]
+- o4: תַּעֲשֶׂה = H6213 עָשָׂה "to do or make…" [HVqi2ms]
+- o5: שְׁמִטָּה = H8059 שְׁמִטָּה "remission (of debt) or suspension of labor)" [HNcfsa]

@@ -1011,3 +1011,42 @@ Persian entries and current tags:
 - p15: ثبت  → H3789
 - p16: رسید
 - p17: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Esther 9:16 (context)
+
+- o1: וּ/שְׁאָר = Hc "and" + H7605 שְׁאָר "a remainder" [HC/Ncmsc]
+- o2: הַ/יְּהוּדִים = Hd "the" + H3064 יְהוּדִי "a Jehudite (i.e. Judaite or Jew)…" [HTd/Ngmpa]
+- o3: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o4: בִּ/מְדִינוֹת = Hb "in" + H4082 מְדִינָה "properly, a judgeship, i.e. jurisdiction…" [HR/Ncfpc]
+- o5: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o6: נִקְהֲלוּ = H6950 קָהַל "to convoke" [HVNp3cp]
+- o7: וְ/עָמֹד = Hc "and" + H5975 עָמַד "to stand…" [HC/Vqa]
+- o8: עַל = H5921 עַל "above, over, upon…" [HR]
+- o9: נַפְשָׁ/ם = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsc/Sp3mp]
+- o10: וְ/נוֹחַ = Hc "and" + H5118 נוּחַ "quiet" [HC/Vqa]
+- o11: מֵ/אֹיְבֵי/הֶם = Hm "from" + H341 אֹיֵב "hating; an adversary" [HR/Vqrmpc/Sp3mp]
+- o12: וְ/הָרֹג = Hc "and" + H2026 הָרַג "to smite with deadly intent" [HC/Vqa]
+- o13: בְּ/שֹׂנְאֵי/הֶם = Hb "in" + H8130 שָׂנֵא "to hate (personally)" [HR/Vqrmpc/Sp3mp]
+- o14: חֲמִשָּׁה = H2568 חָמֵשׁ "five" [HAcmsa]
+- o15: וְ/שִׁבְעִים = Hc "and" + H7657 שִׁבְעִים "seventy" [HC/Acbpa]
+- o16: אָלֶף = H505 אֶלֶף "hence (the ox's head being the first letter of…" [HAcbsa]
+- o17: וּ/בַ/בִּזָּה = Hc "and" + Hb "in" + H961 בִּזָּה "booty" [HC/Rd/Ncfsa]
+- o18: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o19: שָׁלְחוּ = H7971 שָׁלַח "to send away, for…" [HVqp3cp]
+- o20: אֶת = H853 אֵת "properly…" [HTo]
+- o21: יָדָ/ם = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsc/Sp3mp]
+
+### Esther 10:1 (context)
+
+- o1: וַ/יָּשֶׂם = Hc "and" + H7760 שׂוּם "to put (used in a great variety of applications…" [HC/Vqw3ms]
+- o2: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o3: אחשרש = H325 אֲחַשְׁוֵרוֹשׁ "Achashverosh (i.e. Ahasuerus or Artaxerxes…" [HNp]
+- o4: מַס = H4522 מַס "properly, a burden (as causing to faint)…" [HNcmsa]
+- o5: עַל = H5921 עַל "above, over, upon…" [HR]
+- o6: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o7: וְ/אִיֵּי = Hc "and" + H339 אִי "properly, a habitable spot (as desirable)…" [HC/Ncmpc]
+- o8: הַ/יָּם = Hd "the" + H3220 יָם "a sea (as breaking in noisy surf) or large body…" [HTd/Ncmsa]

@@ -767,3 +767,43 @@ Persian entries and current tags:
 - p13: فرود  → G2597
 - p14: نیاید  → G846
 - p15: ؛
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 23:39 (context)
+
+- o1: λέγω = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-1S]
+- o2: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o3: ὑμῖν, = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
+- o4: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o5: μή = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o6: με = G1473 ἐγώ "I, me" [P-1AS]
+- o7: ἴδητε = G3708 ὁράω "behold, perceive, see, take heed" [V-2AAS-2P]
+- o8: ἀπ’ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
+- o9: ἄρτι = G737 ἄρτι "this day (hour), hence(-forth), here(-after)…" [ADV]
+- o10: ἕως = G2193 ἕως "even (until, unto), (as) far (as), how long…" [ADV]
+- o11: ἂν = G302 ἄν "(what-, where-, wither-, who-)soever" [PRT]
+- o12: εἴπητε· = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-2AAS-2P]
+- o13: εὐλογημένος = G2127 εὐλογέω "bless, praise" [V-RPP-NSM]
+- o14: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o15: ἐρχόμενος = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-PNP-NSM]
+- o16: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o17: ὀνόματι = G3686 ὄνομα "called, (+ sur-)name(-d)" [N-DSN]
+- o18: κυρίου. = G2962 κύριος "God, Lord, master, Sir" [N-GSM]
+
+### Matthew 24:18 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o3: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o4: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o5: ἀγρῷ = G68 ἀγρός "country, farm, piece of ground, land" [N-DSM]
+- o6: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o7: ἐπιστρεψάτω = G1994 ἐπιστρέφω "come (go) again, convert, (re-)turn (about, again)" [V-AAM-3S]
+- o8: ὀπίσω = G3694 ὀπίσω "after, back(-ward), (+ get) behind, + follow" [ADV]
+- o9: ἆραι = G142 αἴρω "away with, bear (up), carry, lift up, loose…" [V-AAN]
+- o10: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o11: ἱμάτιον = G2440 ἱμάτιον "apparel, cloke, clothes, garment, raiment, robe…" [N-ASN]
+- o12: αὐτοῦ. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]

@@ -952,3 +952,49 @@ Persian entries and current tags:
 - p10: یک  → H7970 H259
 - p11: پادشاه  → H4428
 - p12: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Joshua 11:23 (context)
+
+- o1: וַ/יִּקַּח = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqw3ms]
+- o2: יְהוֹשֻׁעַ = H3091 יְהוֹשׁוּעַ "Jehoshua (i.e. Joshua), the Jewish leader" [HNp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o5: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o6: כְּ/כֹל = Hk "like" + H3605 כֹּל "properly, the whole…" [HR/Ncmsa]
+- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o8: דִּבֶּר = H1696 דָבַר "perhaps properly, to arrange…" [HVpp3ms]
+- o9: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o10: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o11: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o12: וַ/יִּתְּנָ/הּ = Hc "and" + H5414 נָתַן "to give…" [HC/Vqw3ms/Sp3fs]
+- o13: יְהוֹשֻׁעַ = H3091 יְהוֹשׁוּעַ "Jehoshua (i.e. Joshua), the Jewish leader" [HNp]
+- o14: לְ/נַחֲלָה = Hl "to" + H5159 נַחֲלָה "properly, something inherited…" [HR/Ncfsa]
+- o15: לְ/יִשְׂרָאֵל = Hl "to" + H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HR/Np]
+- o16: כְּ/מַחְלְקֹתָ/ם = Hk "like" + H4256 מַחֲלֹקֶת "a section (of Levites, people or soldiers)" [HR/Ncfpc/Sp3mp]
+- o17: לְ/שִׁבְטֵי/הֶם = Hl "to" + H7626 שֵׁבֶט "a scion, i.e. (literally) a stick (for punishing…" [HR/Ncmpc/Sp3mp]
+- o18: וְ/הָ/אָרֶץ = Hc "and" + Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HC/Td/Ncbsa]
+- o19: שָׁקְטָה = H8252 שָׁקַט "to repose (usually figurative)" [HVqp3fs]
+- o20: מִ/מִּלְחָמָה = Hm "from" + H4421 מִלְחָמָה "a battle (i.e. the engagement)…" [HR/Ncfsa]
+
+### Joshua 13:1 (context)
+
+- o1: וִ/יהוֹשֻׁעַ = Hc "and" + H3091 יְהוֹשׁוּעַ "Jehoshua (i.e. Joshua), the Jewish leader" [HC/Np]
+- o2: זָקֵן = H2204 זָקֵן "to be old" [HVqp3ms]
+- o3: בָּא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3ms]
+- o4: בַּ/יָּמִים = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmpa]
+- o5: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: אֵלָי/ו = H413 אֵל "near, with or among; often in general, to" [HR/Sp3ms]
+- o8: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o9: זָקַנְתָּה = H2204 זָקֵן "to be old" [HVqp2ms]
+- o10: בָּאתָ = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp2ms]
+- o11: בַ/יָּמִים = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmpa]
+- o12: וְ/הָ/אָרֶץ = Hc "and" + Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HC/Td/Ncbsa]
+- o13: נִשְׁאֲרָה = H7604 שָׁאַר "properly, to swell up, i.e. be (causatively…" [HVNp3fs]
+- o14: הַרְבֵּה = H7235 רָבָה "to increase (in whatever respect)" [HVha]
+- o15: מְאֹד = H3966 מְאֹד "properly, vehemence…" [HD]
+- o16: לְ/רִשְׁתָּ/הּ = Hl "to" + H3423 יָרַשׁ "to occupy (by driving out previous tenants…" [HR/Vqc/Sp3fs]

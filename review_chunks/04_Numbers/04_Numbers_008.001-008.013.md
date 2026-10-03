@@ -627,3 +627,45 @@ Persian entries and current tags:
 - p20: خداوند  → H3068
 - p21: تقدیم کن  → H5130
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 7:89 (context)
+
+- o1: וּ/בְ/בֹא = Hc "and" + Hb "in" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/R/Vqc]
+- o2: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: אֹהֶל = H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HNcmsc]
+- o5: מוֹעֵד = H4150 מוֹעֵד "properly, an appointment…" [HNcmsa]
+- o6: לְ/דַבֵּר = Hl "to" + H1696 דָבַר "perhaps properly, to arrange…" [HR/Vpc]
+- o7: אִתּ/וֹ = H854 אֵת "properly…" [HR/Sp3ms]
+- o8: וַ/יִּשְׁמַע = Hc "and" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HC/Vqw3ms]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: הַ/קּוֹל = Hd "the" + H6963 קוֹל "a voice or sound" [HTd/Ncmsa]
+- o11: מִדַּבֵּר = H1696 דָבַר "perhaps properly, to arrange…" [HVtrmsa]
+- o12: אֵלָי/ו = H413 אֵל "near, with or among; often in general, to" [HR/Sp3ms]
+- o13: מֵ/עַל = Hm "from" + H5921 עַל "above, over, upon…" [HR/R]
+- o14: הַ/כַּפֹּרֶת = Hd "the" + H3727 כַּפֹּרֶת "a lid (used only of the cover of the sacred Ark)" [HTd/Ncfsa]
+- o15: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o16: עַל = H5921 עַל "above, over, upon…" [HR]
+- o17: אֲרֹן = H727 אָרוֹן "a box" [HNcbsc]
+- o18: הָ/עֵדֻת = Hd "the" + H5715 עֵדוּת "testimony" [HTd/Ncfsa]
+- o19: מִ/בֵּין = Hm "from" + H996 בֵּין "between (repeated before each noun…" [HR/R]
+- o20: שְׁנֵי = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmdc]
+- o21: הַ/כְּרֻבִים = Hd "the" + H3742 כְּרוּב "a cherub or imaginary figure" [HTd/Ncmpa]
+- o22: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o23: אֵלָי/ו = H413 אֵל "near, with or among; often in general, to" [HR/Sp3ms]
+
+### Numbers 8:14 (context)
+
+- o1: וְ/הִבְדַּלְתָּ = Hc "and" + H914 בָּדַל "to divide (in variation senses literally or…" [HC/Vhq2ms]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: הַ/לְוִיִּם = Hd "the" + H3881 לֵוִיִּי "a Levite or descendant of Levi" [HTd/Ngmpa]
+- o4: מִ/תּוֹךְ = Hm "from" + H8432 תָּוֶךְ "a bisection, i.e. (by implication) the centre" [HR/Ncmsc]
+- o5: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o6: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o7: וְ/הָיוּ = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3cp]
+- o8: לִ/י = Hl "to" [HR/Sp1cs]
+- o9: הַ/לְוִיִּם = Hd "the" + H3881 לֵוִיִּי "a Levite or descendant of Levi" [HTd/Ngmpa]

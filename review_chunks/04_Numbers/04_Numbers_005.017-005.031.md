@@ -878,3 +878,24 @@ Persian entries and current tags:
 - p13: خواهد_شد
 - p14: .
 - p15: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 5:16 (context)
+
+- o1: וְ/הִקְרִיב = Hc "and" + H7126 קָרַב "to approach (causatively…" [HC/Vhq3ms]
+- o2: אֹתָ/הּ = H853 אֵת "properly…" [HTo/Sp3fs]
+- o3: הַ/כֹּהֵן = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmsa]
+- o4: וְ/הֶעֱמִדָ/הּ = Hc "and" + H5975 עָמַד "to stand…" [HC/Vhq3ms/Sp3fs]
+- o5: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### Numbers 6:1 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: לֵּ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

@@ -896,3 +896,23 @@ Persian entries and current tags:
 - p22: ممالک  → H776
 - p23: گذشت  → H5674
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 29:15 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: גֵרִים = H1616 גֵּר "properly, a guest; by implication, a foreigner" [HNcmpa]
+- o3: אֲנַחְנוּ = H587 אֲנַחְנוּ "we" [HPp1cp]
+- o4: לְ/פָנֶי/ךָ = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp2ms]
+- o5: וְ/תוֹשָׁבִים = Hc "and" + H8453 תּוֹשָׁב "resident alien" [HC/Ncmpa]
+- o6: כְּ/כָל = Hk "like" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o7: אֲבֹתֵי/נוּ = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp1cp]
+- o8: כַּ/צֵּל = Hk "like" + H6738 צֵל "shade, whether literal or figurative" [HRd/Ncmsa]
+- o9: יָמֵי/נוּ = H3117 יוֹם "a day (as the warm hours)…" [HNcmpc/Sp1cp]
+- o10: עַל = H5921 עַל "above, over, upon…" [HR]
+- o11: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o12: וְ/אֵין = Hc "and" + H369 אַיִן "a non-entity…" [HC/Tn]
+- o13: מִקְוֶה = H4723 מִקְוֶה "something waited for…" [HNcmsa]

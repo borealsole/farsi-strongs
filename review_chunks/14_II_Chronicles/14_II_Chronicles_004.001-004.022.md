@@ -1112,3 +1112,55 @@ Persian entries and current tags:
 - p31: از
 - p32: طلا  → H2091
 - p33: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 3:17 (context)
+
+- o1: וַ/יָּקֶם = Hc "and" + H6965 קוּם "to rise (in various applications, literal…" [HC/Vhw3ms]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: הָ/עַמּוּדִים = Hd "the" + H5982 עַמּוּד "a column (as standing)…" [HTd/Ncmpa]
+- o4: עַל = H5921 עַל "above, over, upon…" [HR]
+- o5: פְּנֵי = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc]
+- o6: הַ/הֵיכָל = Hd "the" + H1964 הֵיכָל "a large public building…" [HTd/Ncmsa]
+- o7: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o8: מִ/יָּמִין = Hm "from" + H3225 יָמִין "the right hand or side (leg…" [HR/Ncfsa]
+- o9: וְ/אֶחָד = Hc "and" + H259 אֶחָד "properly, united, i.e. one…" [HC/Acmsa]
+- o10: מֵ/הַ/שְּׂמֹאול = Hm "from" + Hd "the" + H8042 שְׂמָאלִי "situated on the left side" [HR/Td/Ncmsa]
+- o11: וַ/יִּקְרָא = Hc "and" + H7121 קָרָא "to call out to (i.e. properly, address by name…" [HC/Vqw3ms]
+- o12: שֵׁם = H8034 שֵׁם "an appellation…" [HNcmsc]
+- o13: ה/ימיני = Hd "the" + H3227 יְמִינִי "right" [HTd/Aamsa]
+- o14: יָכִין = H3199 יָכִין "Jakin…" [HNp]
+- o15: וְ/שֵׁם = Hc "and" + H8034 שֵׁם "an appellation…" [HC/Ncmsc]
+- o16: הַ/שְּׂמָאלִי = Hd "the" + H8040 שְׂמֹאול "properly, dark (as enveloped), i.e. the north…" [HTd/Aamsa]
+- o17: בֹּעַז = H1162 בֹּעַז "Boaz, the ancestor of David…" [HNp]
+
+### II Chronicles 5:1 (context)
+
+- o1: וַ/תִּשְׁלַם = Hc "and" + H7999 שָׁלַם "to be safe (in mind, body or estate)…" [HC/Vqw3fs]
+- o2: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: הַ/מְּלָאכָה = Hd "the" + H4399 מְלָאכָה "properly, deputyship, i.e. ministry…" [HTd/Ncfsa]
+- o4: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o5: עָשָׂה = H6213 עָשָׂה "to do or make…" [HVqp3ms]
+- o6: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o7: לְ/בֵית = Hl "to" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc]
+- o8: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o9: וַ/יָּבֵא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vhw3ms]
+- o10: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o11: אֶת = H853 אֵת "properly…" [HTo]
+- o12: קָדְשֵׁי = H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HNcmpc]
+- o13: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o14: אָבִי/ו = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp3ms]
+- o15: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o16: הַ/כֶּסֶף = Hd "the" + H3701 כֶּסֶף "silver (from its pale color)…" [HTd/Ncmsa]
+- o17: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o18: הַ/זָּהָב = Hd "the" + H2091 זָהָב "gold, figuratively…" [HTd/Ncmsa]
+- o19: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o20: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o21: הַ/כֵּלִים = Hd "the" + H3627 כְּלִי "something prepared…" [HTd/Ncmpa]
+- o22: נָתַן = H5414 נָתַן "to give…" [HVqp3ms]
+- o23: בְּ/אֹצְרוֹת = Hb "in" + H214 אוֹצָר "a depository" [HR/Ncmpc]
+- o24: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o25: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]

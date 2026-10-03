@@ -1148,3 +1148,40 @@ Persian entries and current tags:
 - p32: و  → Hc
 - p33: بمیرم  → H4191
 - p34: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 18:33 (context)
+
+- o1: וַ/יֵּלֶךְ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o4: כִּלָּה = H3615 כָּלָה "to end, whether intransitive (to cease…" [HVpp3ms]
+- o5: לְ/דַבֵּר = Hl "to" + H1696 דָבַר "perhaps properly, to arrange…" [HR/Vpc]
+- o6: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o7: אַבְרָהָם = H85 אַבְרָהָם "Abraham, the later name of Abram" [HNp]
+- o8: וְ/אַבְרָהָם = Hc "and" + H85 אַבְרָהָם "Abraham, the later name of Abram" [HC/Np]
+- o9: שָׁב = H7725 שׁוּב "to turn back (hence…" [HVqp3ms]
+- o10: לִ/מְקֹמ/וֹ = Hl "to" + H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HR/Ncmsc/Sp3ms]
+
+### Genesis 19:20 (context)
+
+- o1: הִנֵּה = H2009 הִנֵּה "lo!" [HTm]
+- o2: נָא = H4994 נָא "'I pray', 'now', or 'then'…" [HTe]
+- o3: הָ/עִיר = Hd "the" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HTd/Ncfsa]
+- o4: הַ/זֹּאת = Hd "the" + H2063 זֹאת "this (often used adverb)" [HTd/Pdxfs]
+- o5: קְרֹבָה = H7138 קָרוֹב "near (in place, kindred or time)" [HAafsa]
+- o6: לָ/נוּס = Hl "to" + H5127 נוּס "to flit, i.e. vanish away (subside, escape…" [HR/Vqc]
+- o7: שָׁמָּ/ה = H8033 שָׁם "there (transferring to time) then…" [HD/Sd]
+- o8: וְ/הִיא = Hc "and" + H1931 הוּא "he (she or it)…" [HC/Pp3fs]
+- o9: מִצְעָר = H4705 מִצְעָר "petty (in size or number)…" [HNcmsa]
+- o10: אִמָּלְטָה = H4422 מָלַט "properly, to be smooth…" [HVNh1cs]
+- o11: נָּא = H4994 נָא "'I pray', 'now', or 'then'…" [HTj]
+- o12: שָׁמָּ/ה = H8033 שָׁם "there (transferring to time) then…" [HD/Sd]
+- o13: הֲ/לֹא = Hi "(untranslatable; interrogative particle)" + H3808 לֹא "not (the simple or abs. negation)…" [HTi/Tn]
+- o14: מִצְעָר = H4705 מִצְעָר "petty (in size or number)…" [HNcmsa]
+- o15: הִוא = H1931 הוּא "he (she or it)…" [HPp3fs]
+- o16: וּ/תְחִי = Hc "and" + H2421 חָיָה "to live, whether literally or figuratively…" [HC/Vqi3fs]
+- o17: נַפְשִׁ/י = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsc/Sp1cs]

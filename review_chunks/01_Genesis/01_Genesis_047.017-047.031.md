@@ -960,3 +960,41 @@ Persian entries and current tags:
 - p24: خود
 - p25: سَجده کرد  → H7812
 - p26: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 47:16 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: יוֹסֵף = H3130 יוֹסֵף "Joseph, the name of seven Israelites" [HNp]
+- o3: הָבוּ = H3051 יָהַב "to give (whether literal or figurative)…" [HVqv2mp]
+- o4: מִקְנֵי/כֶם = H4735 מִקְנֶה "something bought, i.e. property…" [HNcmpc/Sp2mp]
+- o5: וְ/אֶתְּנָה = Hc "and" + H5414 נָתַן "to give…" [HC/Vqh1cs]
+- o6: לָ/כֶם = Hl "to" [HR/Sp2mp]
+- o7: בְּ/מִקְנֵי/כֶם = Hb "in" + H4735 מִקְנֶה "something bought, i.e. property…" [HR/Ncmpc/Sp2ms]
+- o8: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o9: אָפֵס = H656 אָפֵס "to disappear, i.e. cease" [HVqp3ms]
+- o10: כָּסֶף = H3701 כֶּסֶף "silver (from its pale color)…" [HNcmsa]
+
+### Genesis 48:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: אַחֲרֵי = H310 אַחַר "properly, the hind part…" [HR]
+- o3: הַ/דְּבָרִים = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmpa]
+- o4: הָ/אֵלֶּה = Hd "the" + H428 אֵלֶּה "these or those" [HTd/Pdxcp]
+- o5: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o6: לְ/יוֹסֵף = Hl "to" + H3130 יוֹסֵף "Joseph, the name of seven Israelites" [HR/Np]
+- o7: הִנֵּה = H2009 הִנֵּה "lo!" [HTm]
+- o8: אָבִי/ךָ = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp2ms]
+- o9: חֹלֶה = H2470 חָלָה "properly, to be rubbed or worn…" [HVqrmsa]
+- o10: וַ/יִּקַּח = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqw3ms]
+- o11: אֶת = H853 אֵת "properly…" [HTo]
+- o12: שְׁנֵי = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmdc]
+- o13: בָנָי/ו = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc/Sp3ms]
+- o14: עִמּ/וֹ = H5973 עִם "adverb or preposition…" [HR/Sp3ms]
+- o15: אֶת = H853 אֵת "properly…" [HTo]
+- o16: מְנַשֶּׁה = H4519 מְנַשֶּׁה "Menashsheh, a grandson of Jacob…" [HNp]
+- o17: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o18: אֶפְרָיִם = H669 אֶפְרַיִם "Ephrajim, a son of Joseph…" [HNp]

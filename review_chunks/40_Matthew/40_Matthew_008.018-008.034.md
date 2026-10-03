@@ -866,3 +866,42 @@ Persian entries and current tags:
 - p20: ترک  → G3327 G575
 - p21: گوید
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 8:17 (context)
+
+- o1: ὅπως = G3704 ὅπως "because, how, (so) that, to, when" [ADV]
+- o2: πληρωθῇ = G4137 πληρόω "accomplish, after, (be) complete, end, expire…" [V-APS-3S]
+- o3: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o4: ῥηθὲν = G2046 ἐρέω "call, say, speak (of), tell" [V-APP-NSN]
+- o5: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o6: Ἡσαΐου = G2268 Ἡσαΐας "Esaias" [N-GSM]
+- o7: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o8: προφήτου = G4396 προφήτης "prophet" [N-GSM]
+- o9: λέγοντος· = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAP-GSM]
+- o10: αὐτὸς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-NSM]
+- o11: τὰς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APF]
+- o12: ἀσθενείας = G769 ἀσθένεια "disease, infirmity, sickness, weakness" [N-APF]
+- o13: ἡμῶν = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+- o14: ἔλαβεν = G2983 λαμβάνω "accept, + be amazed, assay, attain, bring…" [V-2AAI-3S]
+- o15: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o16: τὰς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APF]
+- o17: νόσους = G3554 νόσος "disease, infirmity, sickness" [N-APF]
+- o18: ἐβάστασεν. = G941 βαστάζω "bear, carry, take up" [V-AAI-3S]
+
+### Matthew 9:1 (context)
+
+- o1: Καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἐμβὰς = G1684 ἐμβαίνω "come (get) into, enter (into), go (up) into…" [V-2AAP-NSM]
+- o3: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o4: πλοῖον = G4143 πλοῖον "ship(-ing)" [N-ASN]
+- o5: διεπέρασεν, = G1276 διαπεράω "go over, pass (over), sail over" [V-AAI-3S]
+- o6: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o7: ἦλθεν = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-2AAI-3S]
+- o8: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o9: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o10: ἰδίαν = G2398 ἴδιος "his acquaintance, when they were alone, apart…" [A-ASF]
+- o11: πόλιν. = G4172 πόλις "city" [N-ASF]

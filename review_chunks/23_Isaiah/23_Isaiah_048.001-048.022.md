@@ -1152,3 +1152,38 @@ Persian entries and current tags:
 - p9: نیست  → H369
 - p10: .
 - p11: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 47:15 (context)
+
+- o1: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o2: הָיוּ = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3cp]
+- o3: לָ/ךְ = Hl "to" [HR/Sp2fs]
+- o4: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o5: יָגָעַתְּ = H3021 יָגַע "properly, to gasp…" [HVqp2fs]
+- o6: סֹחֲרַיִ/ךְ = H5503 סָחַר "to travel round (specifically as a pedlar)…" [HVqrmpc/Sp2fs]
+- o7: מִ/נְּעוּרַיִ/ךְ = Hm "from" + H5271 נָעוּר "only in plural collectively or emphatic form)…" [HR/Ncbpc/Sp2fs]
+- o8: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o9: לְ/עֶבְר/וֹ = Hl "to" + H5676 עֵבֶר "properly, a region across…" [HR/Ncmsc/Sp3ms]
+- o10: תָּעוּ = H8582 תָּעָה "to vacillate…" [HVqp3cp]
+- o11: אֵין = H369 אַיִן "a non-entity…" [HTn]
+- o12: מוֹשִׁיעֵ/ךְ = H3467 יָשַׁע "properly, to be open, wide or free…" [HVhrmsc/Sp2fs]
+
+### Isaiah 49:1 (context)
+
+- o1: שִׁמְעוּ = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqv2mp]
+- o2: אִיִּים = H339 אִי "properly, a habitable spot (as desirable)…" [HNcmpa]
+- o3: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o4: וְ/הַקְשִׁיבוּ = Hc "and" + H7181 קָשַׁב "to prick up the ears, i.e. hearken" [HC/Vhv2mp]
+- o5: לְאֻמִּים = H3816 לְאֹם "a community" [HNcmpa]
+- o6: מֵ/רָחוֹק = Hm "from" + H7350 רָחוֹק "remote, literally or figuratively…" [HR/Aamsa]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: מִ/בֶּטֶן = Hm "from" + H990 בֶּטֶן "the belly, especially the womb…" [HR/Ncfsa]
+- o9: קְרָאָ/נִי = H7121 קָרָא "to call out to (i.e. properly, address by name…" [HVqp3ms/Sp1cs]
+- o10: מִ/מְּעֵי = Hm "from" + H4578 מֵעֶה "used only in plural the intestines…" [HR/Ncmpc]
+- o11: אִמִּ/י = H517 אֵם "a mother (as the bond of the family)…" [HNcfsc/Sp1cs]
+- o12: הִזְכִּיר = H2142 זָכַר "properly, to mark (so as to be recognized)…" [HVhp3ms]
+- o13: שְׁמִ/י = H8034 שֵׁם "an appellation…" [HNcmsc/Sp1cs]

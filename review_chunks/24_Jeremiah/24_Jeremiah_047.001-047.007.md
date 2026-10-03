@@ -441,3 +441,58 @@ Persian entries and current tags:
 - p20: برگماشته است  → H3259
 - p21: ؟
 - p22: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 46:28 (context)
+
+- o1: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o2: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o3: תִּירָא = H3372 יָרֵא "to fear; morally, to revere; caus. to frighten" [HVqj2ms]
+- o4: עַבְדִּ/י = H5650 עֶבֶד "a servant" [HNcmsc/Sp1cs]
+- o5: יַעֲקֹב = H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HNp]
+- o6: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o9: אִתְּ/ךָ = H854 אֵת "properly…" [HR/Sp2ms]
+- o10: אָנִי = H589 אֲנִי "I" [HPp1cs]
+- o11: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o12: אֶעֱשֶׂה = H6213 עָשָׂה "to do or make…" [HVqi1cs]
+- o13: כָלָה = H3617 כָּלָה "a completion; adverb, completely; also destruction" [HNcfsa]
+- o14: בְּ/כָל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o15: הַ/גּוֹיִם = Hd "the" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HTd/Ncmpa]
+- o16: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o17: הִדַּחְתִּי/ךָ = H5080 נָדַח "to push off…" [HVhp1cs/Sp2ms]
+- o18: שָׁמָּ/ה = H8033 שָׁם "there (transferring to time) then…" [HD/Sd]
+- o19: וְ/אֹתְ/ךָ = Hc "and" + H853 אֵת "properly…" [HC/To/Sp2ms]
+- o20: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o21: אֶעֱשֶׂה = H6213 עָשָׂה "to do or make…" [HVqi1cs]
+- o22: כָלָה = H3617 כָּלָה "a completion; adverb, completely; also destruction" [HNcfsa]
+- o23: וְ/יִסַּרְתִּי/ךָ = Hc "and" + H3256 יָסַר "to chastise…" [HC/Vpq1cs/Sp2ms]
+- o24: לַ/מִּשְׁפָּט = Hl "to" + H4941 מִשְׁפָּט "properly…" [HRd/Ncmsa]
+- o25: וְ/נַקֵּה = Hc "and" + H5352 נָקָה "to be (or make) clean (literally or figuratively)…" [HC/Vpa]
+- o26: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o27: אֲנַקֶּ/ךָּ = H5352 נָקָה "to be (or make) clean (literally or figuratively)…" [HVpi1cs/Sp2ms]
+
+### Jeremiah 48:1 (context)
+
+- o1: לְ/מוֹאָב = Hl "to" + H4124 מוֹאָב "Moab, an incestuous son of Lot…" [HR/Np]
+- o2: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o3: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: צְבָאוֹת = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbpa]
+- o6: אֱלֹהֵי = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc]
+- o7: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o8: הוֹי = H1945 הוֹי "oh!" [HTj]
+- o9: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o10: נְבוֹ = H5015 נְבוֹ "Nebo, the name of a Babylonian deity…" [HNp]
+- o11: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o12: שֻׁדָּדָה = H7703 שָׁדַד "properly, to be burly…" [HVPp3fs]
+- o13: הֹבִישָׁה = H3001 יָבֵשׁ "to be ashamed, confused or disappointed…" [HVhp3fs]
+- o14: נִלְכְּדָה = H3920 לָכַד "to catch (in a net, trap or pit)…" [HVNp3fs]
+- o15: קִרְיָתָיִם = H7156 קִרְיָתַיִם "Kirjathaim, the name of two placed in Palestine" [HNp]
+- o16: הֹבִישָׁה = H3001 יָבֵשׁ "to be ashamed, confused or disappointed…" [HVhp3fs]
+- o17: הַ/מִּשְׂגָּב = Hd "the" + H4869 מִשְׂגָּב "defence, high fort (tower), refuge, Misgab…" [HTd/Ncmsa]
+- o18: וָ/חָתָּה = Hc "and" + H2865 חָתַת "properly, to prostrate…" [HC/Vqp3fs]

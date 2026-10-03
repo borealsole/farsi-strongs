@@ -1228,3 +1228,39 @@ Persian entries and current tags:
 - p14: فدیه خواهم_کرد  → H6299
 - p15: .
 - p16: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 14:22 (context)
+
+- o1: הֲ/יֵשׁ = Hi "(untranslatable; interrogative particle)" + H3426 יֵשׁ "there is or are (or any other form of the verb to…" [HTi/Tm]
+- o2: בְּ/הַבְלֵי = Hb "in" + H1892 הֶבֶל "emptiness or vanity…" [HR/Ncmpc]
+- o3: הַ/גּוֹיִם = Hd "the" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HTd/Ncmpa]
+- o4: מַגְשִׁמִים = H1652 גָּשַׁם "to shower violently" [HVhrmpa]
+- o5: וְ/אִם = Hc "and" + H518 אִם "used very widely as demonstrative, lo!…" [HC/C]
+- o6: הַ/שָּׁמַיִם = Hd "the" + H8064 שָׁמַיִם "the sky (as aloft…" [HTd/Ncmpa]
+- o7: יִתְּנוּ = H5414 נָתַן "to give…" [HVqi3mp]
+- o8: רְבִבִים = H7241 רָבִיב "a rain (as an accumulation of drops)" [HNcmpa]
+- o9: הֲ/לֹא = Hi "(untranslatable; interrogative particle)" + H3808 לֹא "not (the simple or abs. negation)…" [HTi/Tn]
+- o10: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o11: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o12: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o13: אֱלֹהֵי/נוּ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp1cp]
+- o14: וּ/נְקַוֶּה = Hc "and" + H6960 קָוָה "to bind together (perhaps by twisting)…" [HC/Vpi1cp]
+- o15: לָּ/ךְ = Hl "to" [HR/Sp2fs]
+- o16: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o17: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o18: עָשִׂיתָ = H6213 עָשָׂה "to do or make…" [HVqp2ms]
+- o19: אֶת = H853 אֵת "properly…" [HTo]
+- o20: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o21: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+
+### Jeremiah 16:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o5: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

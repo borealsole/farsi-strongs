@@ -673,3 +673,25 @@ Persian entries and current tags:
 - p23: دوست داشته_است  → H157
 - p24: !
 - p25: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 8:18 (context)
+
+- o1: עֹשֶׁר = H6239 עֹשֶׁר "wealth" [HNcmsa]
+- o2: וְ/כָבוֹד = Hc "and" + H3519 כָּבוֹד "properly, weight…" [HC/Ncbsa]
+- o3: אִתִּ/י = H854 אֵת "properly…" [HR/Sp1cs]
+- o4: הוֹן = H1952 הוֹן "wealth; by implication, enough" [HNcmsa]
+- o5: עָתֵק = H6276 עָתֵק "antique, i.e. valued" [HAamsa]
+- o6: וּ/צְדָקָה = Hc "and" + H6666 צְדָקָה "rightness (abstractly), subjectively (rectitude)…" [HC/Ncfsa]
+
+### Proverbs 9:1 (context)
+
+- o1: חָכְמוֹת = H2454 חׇכְמוֹת "wisdom" [HNcfpa]
+- o2: בָּנְתָה = H1129 בָּנָה "to build (literally and figuratively)" [HVqp3fs]
+- o3: בֵיתָ/הּ = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc/Sp3fs]
+- o4: חָצְבָה = H2672 חָצַב "to cut or carve (wood, stone or other material)…" [HVqp3fs]
+- o5: עַמּוּדֶי/הָ = H5982 עַמּוּד "a column (as standing)…" [HNcmpc/Sp3fs]
+- o6: שִׁבְעָה = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcmsa]

@@ -1245,3 +1245,37 @@ Persian entries and current tags:
 - p38: اَمَصیا  → H558
 - p39: پادشاه شد  → H4427
 - p40: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 11:21 (context)
+
+- o1: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o2: שֶׁבַע = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcfsa]
+- o3: שָׁנִים = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfpa]
+- o4: יְהוֹאָשׁ = H3060 יְהוֹאָשׁ "Jehoash, the name of two Israelite kings" [HNp]
+- o5: בְּ/מָלְכ/וֹ = Hb "in" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HR/Vqc/Sp3ms]
+
+### II Kings 13:1 (context)
+
+- o1: בִּ/שְׁנַת = Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HR/Ncfsc]
+- o2: עֶשְׂרִים = H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HAcbpa]
+- o3: וְ/שָׁלֹשׁ = Hc "and" + H7969 שָׁלוֹשׁ "three…" [HC/Acfsa]
+- o4: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o5: לְ/יוֹאָשׁ = Hl "to" + H3101 יוֹאָשׁ "Joash, the name of six Israelites" [HR/Np]
+- o6: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o7: אֲחַזְיָהוּ = H274 אֲחַזְיָה "Achazjah…" [HNp]
+- o8: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o9: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o10: מָלַךְ = H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HVqp3ms]
+- o11: יְהוֹאָחָז = H3059 יְהוֹאָחָז "Jehoachaz, the name of three Israelites" [HNp]
+- o12: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o13: יֵהוּא = H3058 יֵהוּא "Jehu, the name of five Israelites" [HNp]
+- o14: עַל = H5921 עַל "above, over, upon…" [HR]
+- o15: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o16: בְּ/שֹׁמְרוֹן = Hb "in" + H8111 שֹׁמְרוֹן "Shomeron, a place in Palestine" [HR/Np]
+- o17: שְׁבַע = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcfsa]
+- o18: עֶשְׂרֵה = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcfsa]
+- o19: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]

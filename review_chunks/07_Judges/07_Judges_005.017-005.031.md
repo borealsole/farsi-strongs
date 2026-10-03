@@ -756,3 +756,37 @@ Persian entries and current tags:
 - p29: در
 - p30: آرامش بود  → H8252
 - p31: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Judges 5:16 (context)
+
+- o1: לָ/מָּה = Hl "to" + H4100 מָה "properly…" [HR/Ti]
+- o2: יָשַׁבְתָּ = H3427 יָשַׁב "properly…" [HVqp2ms]
+- o3: בֵּין = H996 בֵּין "between (repeated before each noun…" [HR]
+- o4: הַ/מִּשְׁפְּתַיִם = Hd "the" + H4942 מִשְׁפָּת "a stall for cattle (only dual)" [HTd/Ncmda]
+- o5: לִ/שְׁמֹעַ = Hl "to" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HR/Vqc]
+- o6: שְׁרִקוֹת = H8292 שְׁרוּקָה "a whistling (in scorn); by analogy, a piping" [HNcfpc]
+- o7: עֲדָרִים = H5739 עֵדֶר "an arrangement, i.e. muster (of animals)" [HNcmpa]
+- o8: לִ/פְלַגּוֹת = Hl "to" + H6391 פְּלֻגָּה "a section" [HR/Ncfpc]
+- o9: רְאוּבֵן = H7205 רְאוּבֵן "Reuben, a son of Jacob" [HNp]
+- o10: גְּדוֹלִים = H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HAampa]
+- o11: חִקְרֵי = H2714 חֵקֶר "examination, enumeration, deliberation" [HNcmpc]
+- o12: לֵב = H3820 לֵב "the heart…" [HNcmsa]
+
+### Judges 6:1 (context)
+
+- o1: וַ/יַּעֲשׂוּ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3mp]
+- o2: בְנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o3: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o4: הָ/רַע = Hd "the" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HTd/Aamsa]
+- o5: בְּ/עֵינֵי = Hb "in" + H5869 עַיִן "an eye (literally or figuratively)…" [HR/Ncbdc]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: וַ/יִּתְּנֵ/ם = Hc "and" + H5414 נָתַן "to give…" [HC/Vqw3ms/Sp3mp]
+- o8: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o9: בְּ/יַד = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o10: מִדְיָן = H4080 מִדְיָן "Midjan, a son of Abraham…" [HNp]
+- o11: שֶׁבַע = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcfsa]
+- o12: שָׁנִים = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfpa]

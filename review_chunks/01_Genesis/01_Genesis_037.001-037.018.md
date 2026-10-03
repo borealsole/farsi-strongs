@@ -951,3 +951,36 @@ Persian entries and current tags:
 - p19: را  → H853
 - p20: بکشند  → H4191
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 36:43 (context)
+
+- o1: אַלּוּף = H441 אַלּוּף "familiar; a friend, also gentle…" [HNcmsa]
+- o2: מַגְדִּיאֵל = H4025 מַגְדִּיאֵל "Magdiel, an Idumaean" [HNp]
+- o3: אַלּוּף = H441 אַלּוּף "familiar; a friend, also gentle…" [HNcmsa]
+- o4: עִירָם = H5902 עִירָם "Iram, an Idumaean" [HNp]
+- o5: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o6: אַלּוּפֵי = H441 אַלּוּף "familiar; a friend, also gentle…" [HNcmpc]
+- o7: אֱדוֹם = H123 אֱדֹם "Edom, the elder twin-brother of Jacob…" [HNp]
+- o8: לְ/מֹשְׁבֹתָ/ם = Hl "to" + H4186 מוֹשָׁב "a seat; figuratively, a site…" [HR/Ncmpc/Sp3mp]
+- o9: בְּ/אֶרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o10: אֲחֻזָּתָ/ם = H272 אֲחֻזָּה "something seized…" [HNcfsc/Sp3mp]
+- o11: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o12: עֵשָׂו = H6215 עֵשָׂו "Esav, a son of Isaac, including his posterity" [HNp]
+- o13: אֲבִי = H1 אָב "father, in a literal and immediate…" [HNcmsc]
+- o14: אֱדוֹם = H123 אֱדֹם "Edom, the elder twin-brother of Jacob…" [HNp]
+
+### Genesis 37:19 (context)
+
+- o1: וַ/יֹּאמְרוּ = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3mp]
+- o2: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: אָחִי/ו = H251 אָח "a brother (used in the widest sense of literal…" [HNcmsc/Sp3ms]
+- o5: הִנֵּה = H2009 הִנֵּה "lo!" [HTm]
+- o6: בַּעַל = H1167 בַּעַל "a master…" [HNcmsc]
+- o7: הַ/חֲלֹמוֹת = Hd "the" + H2472 חֲלוֹם "a dream" [HTd/Ncmpa]
+- o8: הַלָּזֶה = H1976 הַלָּזֶה "this very" [HPdxms]
+- o9: בָּא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqrmsa]

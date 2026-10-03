@@ -1024,3 +1024,37 @@ Persian entries and current tags:
 - p22: گشته_است
 - p23: .
 - p24: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 25:19 (context)
+
+- o1: אֶת = H853 אֵת "properly…" [HTo]
+- o2: פַּרְעֹה = H6547 פַּרְעֹה "Paroh, a general title of Egyptian kings" [HNp]
+- o3: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o4: מִצְרַיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o5: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o6: עֲבָדָי/ו = H5650 עֶבֶד "a servant" [HNcmpc/Sp3ms]
+- o7: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o8: שָׂרָי/ו = H8269 שַׂר "a head person (of any rank or class)" [HNcmpc/Sp3ms]
+- o9: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o10: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o11: עַמּ/וֹ = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp3ms]
+
+### Jeremiah 26:1 (context)
+
+- o1: בְּ/רֵאשִׁית = Hb "in" + H7225 רֵאשִׁית "the first, in place, time…" [HR/Ncfsc]
+- o2: מַמְלְכוּת = H4468 מַמְלָכוּת "dominion…" [HNcfsc]
+- o3: יְהוֹיָקִים = H3079 יְהוֹיָקִים "Jehojakim, a Jewish king" [HNp]
+- o4: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o5: יֹאשִׁיָּהוּ = H2977 יֹאשִׁיָּה "Joshijah, the name of two Israelites" [HNp]
+- o6: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o7: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o8: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o9: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]
+- o10: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o11: מֵ/אֵת = Hm "from" + H854 אֵת "properly…" [HR/R]
+- o12: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o13: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

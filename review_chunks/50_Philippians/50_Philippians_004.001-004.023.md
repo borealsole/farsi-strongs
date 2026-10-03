@@ -1125,3 +1125,34 @@ Persian entries and current tags:
 - p9: .
 - p10: آمین
 - p11: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Philippians 3:21 (context)
+
+- o1: ὃς = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-NSM]
+- o2: μετασχηματίσει = G3345 μετασχηματίζω "transfer, transform (self)" [V-FAI-3S]
+- o3: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o4: σῶμα = G4983 σῶμα "bodily, body, slave" [N-ASN]
+- o5: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o6: ταπεινώσεως = G5014 ταπείνωσις "humiliation, be made low, low estate, vile" [N-GSF]
+- o7: ἡμῶν = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+- o8: σύνμορφον = G4832 σύμμορφος "conformed to, fashioned like unto" [A-ASN]
+- o9: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSN]
+- o10: σώματι = G4983 σῶμα "bodily, body, slave" [N-DSN]
+- o11: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o12: δόξης = G1391 δόξα "dignity, glory(-ious), honour, praise, worship" [N-GSF]
+- o13: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o14: κατὰ = G2596 κατά "about, according as (to), after, against…" [PREP]
+- o15: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o16: ἐνέργειαν = G1753 ἐνέργεια "operation, strong, (effectual) working" [N-ASF]
+- o17: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
+- o18: δύνασθαι = G1410 δύναμαι "be able, can (do, + -not), could, may, might…" [V-PNN]
+- o19: αὐτὸν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASM]
+- o20: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o21: ὑποτάξαι = G5293 ὑποτάσσω "be under obedience (obedient), put under…" [V-AAN]
+- o22: αὐτῷ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
+- o23: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
+- o24: πάντα. = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-APN]

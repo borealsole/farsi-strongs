@@ -985,3 +985,42 @@ Persian entries and current tags:
 - p29: اردن  → H3383
 - p30: گذشتند  → H5674
 - p31: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Joshua 2:24 (context)
+
+- o1: וַ/יֹּאמְרוּ = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3mp]
+- o2: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o3: יְהוֹשֻׁעַ = H3091 יְהוֹשׁוּעַ "Jehoshua (i.e. Joshua), the Jewish leader" [HNp]
+- o4: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o5: נָתַן = H5414 נָתַן "to give…" [HVqp3ms]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: בְּ/יָדֵ/נוּ = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc/Sp1cp]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o10: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o11: וְ/גַם = Hc "and" + H1571 גַּם "properly, assemblage…" [HC/Ta]
+- o12: נָמֹגוּ = H4127 מוּג "to melt, i.e. literally (to soften, flow down…" [HVNp3cp]
+- o13: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o14: יֹשְׁבֵי = H3427 יָשַׁב "properly…" [HVqrmpc]
+- o15: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o16: מִ/פָּנֵי/נוּ = Hm "from" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp1cp]
+
+### Joshua 4:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o3: תַּמּוּ = H8552 תָּמַם "to complete, in a good or a bad sense, literal…" [HVqp3cp]
+- o4: כָל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o5: הַ/גּוֹי = Hd "the" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HTd/Ncmsa]
+- o6: לַ/עֲבוֹר = Hl "to" + H5674 עָבַר "to cross over…" [HR/Vqc]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: הַ/יַּרְדֵּן = Hd "the" + H3383 יַרְדֵּן "Jarden, the principal river of Palestine" [HTd/Np]
+- o9: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o10: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o11: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o12: יְהוֹשֻׁעַ = H3091 יְהוֹשׁוּעַ "Jehoshua (i.e. Joshua), the Jewish leader" [HNp]
+- o13: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

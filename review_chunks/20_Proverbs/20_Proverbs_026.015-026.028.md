@@ -513,3 +513,30 @@ Persian entries and current tags:
 - p13: بار
 - p14: می‌آورد
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 26:14 (context)
+
+- o1: הַ/דֶּלֶת = Hd "the" + H1817 דֶּלֶת "something swinging, i.e. the valve of adoor" [HTd/Ncfsa]
+- o2: תִּסּוֹב = H5437 סָבַב "to revolve, surround, or border…" [HVqi3fs]
+- o3: עַל = H5921 עַל "above, over, upon…" [HR]
+- o4: צִירָ/הּ = H6735 צִיר "a hinge (as pressed in turning)…" [HNcmsc/Sp3fs]
+- o5: וְ/עָצֵל = Hc "and" + H6102 עָצֵל "indolent" [HC/Aamsa]
+- o6: עַל = H5921 עַל "above, over, upon…" [HR]
+- o7: מִטָּת/וֹ = H4296 מִטָּה "a bed (as extended) forsleeping or eating…" [HNcfsc/Sp3ms]
+
+### Proverbs 27:1 (context)
+
+- o1: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o2: תִּתְהַלֵּל = H1984 הָלַל "to be clear (orig. of sound…" [HVtj2ms]
+- o3: בְּ/יוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmsc]
+- o4: מָחָר = H4279 מָחָר "properly, deferred, i.e. the morrow…" [HNcmsa]
+- o5: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o6: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o7: תֵדַע = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqi2ms]
+- o8: מַה = H4100 מָה "properly…" [HTi]
+- o9: יֵּלֶד = H3205 יָלַד "to bear young; causatively, to beget…" [HVqi3ms]
+- o10: יוֹם = H3117 יוֹם "a day (as the warm hours)…" [HNcmsa]

@@ -1363,3 +1363,42 @@ Persian entries and current tags:
 - p33: یکسان  → H4060
 - p34: بود
 - p35: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 39:29 (context)
+
+- o1: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o2: אַסְתִּיר = H5641 סָתַר "to hide (by covering), literally or figuratively" [HVhi1cs]
+- o3: עוֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+- o4: פָּנַ/י = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc/Sp1cs]
+- o5: מֵ/הֶם = Hm "from" [HR/Sp3mp]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: שָׁפַכְתִּי = H8210 שָׁפַךְ "to spill forth (blood, a libation, liquid metal…" [HVqp1cs]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: רוּחִ/י = H7307 רוּחַ "wind…" [HNcbsc/Sp1cs]
+- o10: עַל = H5921 עַל "above, over, upon…" [HR]
+- o11: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o12: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o13: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o14: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o15: יְהוִה = H3069 יְהֹוִה "YHWH" [HNp]
+
+### Ezekiel 40:25 (context)
+
+- o1: וְ/חַלּוֹנִים = Hc "and" + H2474 חַלּוֹן "a window (as perforated)" [HC/Ncbpa]
+- o2: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o3: ו/ל/אילמ/ו = Hc "and" + Hl "to" + H361 אֵילָם "a pillar-space (or colonnade)…" [HC/R/Ncmsc/Sp3ms]
+- o4: סָבִיב = H5439 סָבִיב "as noun) a circle, neighbour, or environs…" [HNcbsa]
+- o5: סָבִיב = H5439 סָבִיב "as noun) a circle, neighbour, or environs…" [HNcbsa]
+- o6: כְּ/הַ/חֲלֹּנוֹת = Hk "like" + Hd "the" + H2474 חַלּוֹן "a window (as perforated)" [HR/Td/Ncbpa]
+- o7: הָ/אֵלֶּה = Hd "the" + H428 אֵלֶּה "these or those" [HTd/Pdxcp]
+- o8: חֲמִשִּׁים = H2572 חֲמִשִּׁים "fifty" [HAcbpa]
+- o9: אַמָּה = H520 אַמָּה "properly, a mother (i.e. unit of measure…" [HNcfsa]
+- o10: אֹרֶךְ = H753 אֹרֶךְ "length" [HNcmsa]
+- o11: וְ/רֹחַב = Hc "and" + H7341 רֹחַב "width (literally or figuratively)" [HC/Ncmsa]
+- o12: חָמֵשׁ = H2568 חָמֵשׁ "five" [HAcfsa]
+- o13: וְ/עֶשְׂרִים = Hc "and" + H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HC/Acbpa]
+- o14: אַמָּה = H520 אַמָּה "properly, a mother (i.e. unit of measure…" [HNcfsa]

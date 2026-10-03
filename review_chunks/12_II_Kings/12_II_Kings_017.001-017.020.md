@@ -1191,3 +1191,46 @@ Persian entries and current tags:
 - p29: بیرون  → H7993
 - p30: راند
 - p31: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 16:20 (context)
+
+- o1: וַ/יִּשְׁכַּב = Hc "and" + H7901 שָׁכַב "to lie down (for rest, sexual connection…" [HC/Vqw3ms]
+- o2: אָחָז = H271 אָחָז "Achaz…" [HNp]
+- o3: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o4: אֲבֹתָי/ו = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp3ms]
+- o5: וַ/יִּקָּבֵר = Hc "and" + H6912 קָבַר "to inter" [HC/VNw3ms]
+- o6: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o7: אֲבֹתָי/ו = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp3ms]
+- o8: בְּ/עִיר = Hb "in" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HR/Ncfsc]
+- o9: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o10: וַ/יִּמְלֹךְ = Hc "and" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HC/Vqw3ms]
+- o11: חִזְקִיָּהוּ = H2396 חִזְקִיָּה "Chizkijah, a king of Judah…" [HNp]
+- o12: בְנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o13: תַּחְתָּי/ו = H8478 תַּחַת "the bottom (as depressed)…" [HR/Sp3ms]
+
+### II Kings 17:21 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: קָרַע = H7167 קָרַע "to rend, literally or figuratively (revile…" [HVqp3ms]
+- o3: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o4: מֵ/עַל = Hm "from" + H5921 עַל "above, over, upon…" [HR/R]
+- o5: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o6: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o7: וַ/יַּמְלִיכוּ = Hc "and" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HC/Vhw3mp]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: יָרָבְעָם = H3379 יָרׇבְעָם "Jarobam, the name of two Israelite kings" [HNp]
+- o10: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o11: נְבָט = H5028 נְבָט "Nebat, the father of Jeroboam I" [HNp]
+- o12: ו/ידא = Hc "and" + H5077 נָדָה "properly, to toss…" [HC/Vhw3ms]
+- o13: יָרָבְעָם = H3379 יָרׇבְעָם "Jarobam, the name of two Israelite kings" [HNp]
+- o14: אֶת = H853 אֵת "properly…" [HTo]
+- o15: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o16: מֵ/אַחֲרֵי = Hm "from" + H310 אַחַר "properly, the hind part…" [HR/R]
+- o17: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o18: וְ/הֶחֱטֵיאָ/ם = Hc "and" + H2398 חָטָא "properly, to miss…" [HC/Vhp3ms/Sp3mp]
+- o19: חֲטָאָה = H2401 חֲטָאָה "an offence, or a sacrifice forit" [HNcfsa]
+- o20: גְדוֹלָה = H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HAafsa]

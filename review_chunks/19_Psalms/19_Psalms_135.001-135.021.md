@@ -754,3 +754,26 @@ Persian entries and current tags:
 - p12: !
 - p13: هَلِلویاه  → H1984 H3050
 - p14: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 134:3 (context)
+
+- o1: יְבָרֶכְ/ךָ = H1288 בָרַךְ "to kneel…" [HVpi3ms/Sp2ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: מִ/צִּיּוֹן = Hm "from" + H6726 צִיּוֹן "Tsijon (as a permanent capital)…" [HR/Np]
+- o4: עֹשֵׂה = H6213 עָשָׂה "to do or make…" [HVqrmsc]
+- o5: שָׁמַיִם = H8064 שָׁמַיִם "the sky (as aloft…" [HNcmpa]
+- o6: וָ/אָרֶץ = Hc "and" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HC/Ncbsa]
+
+### Psalms 136:1 (context)
+
+- o1: הוֹדוּ = H3034 יָדָה "physically, to throw (a stone…" [HVhv2mp]
+- o2: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o3: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o4: טוֹב = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAamsa]
+- o5: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o6: לְ/עוֹלָם = Hl "to" + H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HR/Ncmsa]
+- o7: חַסְדּ/וֹ = H2617 חֵסֵד "kindness; by implication (towards God) piety…" [HNcmsc/Sp3ms]

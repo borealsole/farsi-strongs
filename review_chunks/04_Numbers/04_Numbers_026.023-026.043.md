@@ -815,3 +815,34 @@ Persian entries and current tags:
 - p9: تن  → H505
 - p10: بودند
 - p11: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 26:22 (context)
+
+- o1: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o2: מִשְׁפְּחֹת = H4940 מִשְׁפָּחָה "a family, i.e. circle of relatives…" [HNcfpc]
+- o3: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o4: לִ/פְקֻדֵי/הֶם = Hl "to" + H6485 פָּקַד "to visit (with friendly or hostile intent)…" [HR/Vqsmpc/Sp3mp]
+- o5: שִׁשָּׁה = H8337 שֵׁשׁ "six (as an overplus beyond five or the fingers of…" [HAcmsa]
+- o6: וְ/שִׁבְעִים = Hc "and" + H7657 שִׁבְעִים "seventy" [HC/Acbpa]
+- o7: אֶלֶף = H505 אֶלֶף "hence (the ox's head being the first letter of…" [HAcbsa]
+- o8: וַ/חֲמֵשׁ = Hc "and" + H2568 חָמֵשׁ "five" [HC/Acfsa]
+- o9: מֵאוֹת = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbpa]
+
+### Numbers 26:44 (context)
+
+- o1: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o2: אָשֵׁר = H836 אָשֵׁר "happy…" [HNp]
+- o3: לְ/מִשְׁפְּחֹתָ/ם = Hl "to" + H4940 מִשְׁפָּחָה "a family, i.e. circle of relatives…" [HR/Ncfpc/Sp3mp]
+- o4: לְ/יִמְנָה = Hl "to" + H3232 יִמְנָה "Jimnah, the name of two Israelites…" [HR/Np]
+- o5: מִשְׁפַּחַת = H4940 מִשְׁפָּחָה "a family, i.e. circle of relatives…" [HNcfsc]
+- o6: הַ/יִּמְנָה = Hd "the" + H3232 יִמְנָה "Jimnah, the name of two Israelites…" [HTd/Np]
+- o7: לְ/יִשְׁוִי = Hl "to" + H3440 יִשְׁוִי "Jishvi, the name of two Israelites" [HR/Np]
+- o8: מִשְׁפַּחַת = H4940 מִשְׁפָּחָה "a family, i.e. circle of relatives…" [HNcfsc]
+- o9: הַ/יִּשְׁוִי = Hd "the" + H3441 יִשְׁוִי "a Jishvite (collectively) or descendants of Jishvi" [HTd/Ngmsa]
+- o10: לִ/בְרִיעָה = Hl "to" + H1283 בְּרִיעָה "Beriah, the name of four Israelites" [HR/Np]
+- o11: מִשְׁפַּחַת = H4940 מִשְׁפָּחָה "a family, i.e. circle of relatives…" [HNcfsc]
+- o12: הַ/בְּרִיעִי = Hd "the" + H1284 בְּרִיעִי "a Beriite (collectively) or descendants of Beriah" [HTd/Ngmsa]

@@ -665,3 +665,33 @@ Persian entries and current tags:
 - p26: خاک  → H4191 H6912
 - p27: سپردند  → H6912
 - p28: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 35:14 (context)
+
+- o1: וַ/יַּצֵּב = Hc "and" + H5324 נָצַב "to station…" [HC/Vhw3ms]
+- o2: יַעֲקֹב = H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HNp]
+- o3: מַצֵּבָה = H4676 מַצֵּבָה "something stationed…" [HNcfsa]
+- o4: בַּ/מָּקוֹם = Hb "in" + H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HRd/Ncmsa]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: דִּבֶּר = H1696 דָבַר "perhaps properly, to arrange…" [HVpp3ms]
+- o7: אִתּ/וֹ = H854 אֵת "properly…" [HR/Sp3ms]
+- o8: מַצֶּבֶת = H4678 מַצֶּבֶת "something stationary, i.e. a monumental stone…" [HNcfsc]
+- o9: אָבֶן = H68 אֶבֶן "a stone" [HNcfsa]
+- o10: וַ/יַּסֵּךְ = Hc "and" + H5258 נָסַךְ "to pour out, especially a libation…" [HC/Vhw3ms]
+- o11: עָלֶי/הָ = H5921 עַל "above, over, upon…" [HR/Sp3fs]
+- o12: נֶסֶךְ = H5262 נֶסֶךְ "a libation; also a cast idol" [HNcmsa]
+- o13: וַ/יִּצֹק = Hc "and" + H3332 יָצַק "properly…" [HC/Vqw3ms]
+- o14: עָלֶי/הָ = H5921 עַל "above, over, upon…" [HR/Sp3fs]
+- o15: שָׁמֶן = H8081 שֶׁמֶן "grease, especially liquid (as from the olive…" [HNcmsa]
+
+### Genesis 36:1 (context)
+
+- o1: וְ/אֵלֶּה = Hc "and" + H428 אֵלֶּה "these or those" [HC/Pdxcp]
+- o2: תֹּלְדוֹת = H8435 תּוֹלְדָה "plural only) descent, i.e. family…" [HNcfpc]
+- o3: עֵשָׂו = H6215 עֵשָׂו "Esav, a son of Isaac, including his posterity" [HNp]
+- o4: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o5: אֱדוֹם = H123 אֱדֹם "Edom, the elder twin-brother of Jacob…" [HNp]

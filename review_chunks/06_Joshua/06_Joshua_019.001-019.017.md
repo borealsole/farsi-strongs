@@ -697,3 +697,34 @@ Persian entries and current tags:
 - p12: حسب  → Hl
 - p13: طوایفشان  → H4940
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Joshua 18:28 (context)
+
+- o1: וְ/צֵלַע = Hc "and" + H6762 צֶלַע "Tsela, a place in Palestine" [HC/Np]
+- o2: הָאֶלֶף = H507 אֶלֶף "Eleph, a place in Palestine" [HNp]
+- o3: וְ/הַ/יְבוּסִי = Hc "and" + Hd "the" + H2983 יְבוּסִי "a Jebusite or inhabitant of Jebus" [HC/Td/Ngmsa]
+- o4: הִיא = H1931 הוּא "he (she or it)…" [HPp3fs]
+- o5: יְרוּשָׁלִַם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+- o6: גִּבְעַת = H1394 גִּבְעַת "Gibath" [HNp]
+- o7: קִרְיַת = H7157 קִרְיַת יְעָרִים "Kirjath-Jearim or Kirjath-Arim…" [HNp]
+- o8: עָרִים = H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HNcfpa]
+- o9: אַרְבַּע = H702 אַרְבַּע "four" [HAcfsa]
+- o10: עֶשְׂרֵה = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcfsa]
+- o11: וְ/חַצְרֵי/הֶן = Hc "and" + H2691 חָצֵר "a yard (as inclosed by a fence)…" [HC/Ncbpc/Sp3fp]
+- o12: זֹאת = H2063 זֹאת "this (often used adverb)" [HPdxfs]
+- o13: נַחֲלַת = H5159 נַחֲלָה "properly, something inherited…" [HNcfsc]
+- o14: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o15: בִנְיָמִן = H1144 בִּנְיָמִין "Binjamin, youngest son of Jacob…" [HNp]
+- o16: לְ/מִשְׁפְּחֹתָ/ם = Hl "to" + H4940 מִשְׁפָּחָה "a family, i.e. circle of relatives…" [HR/Ncfpc/Sp3mp]
+
+### Joshua 19:18 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: גְּבוּלָ/ם = H1366 גְּבוּל "properly, a cord (as twisted)…" [HNcmsc/Sp3mp]
+- o3: יִזְרְעֶאלָ/ה = H3157 יִזְרְעֵאל "Jizreel…" [HNp/Sd]
+- o4: וְ/הַ/כְּסוּלֹת = Hc "and" + Hd "the" + H3694 כְּסֻלּוֹת "Kesulloth, a place in Palestine" [HC/Td/Np]
+- o5: וְ/שׁוּנֵם = Hc "and" + H7766 שׁוּנֵם "Shunem, a place in Pal" [HC/Np]

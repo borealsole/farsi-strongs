@@ -1310,3 +1310,37 @@ Persian entries and current tags:
 - p22: گرفتم  → H3947
 - p23: .
 - p24: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 47:31 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: הִשָּׁבְעָ/ה = H7650 שָׁבַע "to seven oneself…" [HVNv2ms/Sh]
+- o3: לִ/י = Hl "to" [HR/Sp1cs]
+- o4: וַ/יִּשָּׁבַע = Hc "and" + H7650 שָׁבַע "to seven oneself…" [HC/VNw3ms]
+- o5: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o6: וַ/יִּשְׁתַּחוּ = Hc "and" + H7812 שָׁחָה "to depress, i.e. prostrate (especially reflexive…" [HC/Vtw3ms]
+- o7: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o8: עַל = H5921 עַל "above, over, upon…" [HR]
+- o9: רֹאשׁ = H7218 רֹאשׁ "the head (as most easily shaken)…" [HNcmsc]
+- o10: הַ/מִּטָּה = Hd "the" + H4296 מִטָּה "a bed (as extended) forsleeping or eating…" [HTd/Ncfsa]
+
+### Genesis 49:1 (context)
+
+- o1: וַ/יִּקְרָא = Hc "and" + H7121 קָרָא "to call out to (i.e. properly, address by name…" [HC/Vqw3ms]
+- o2: יַעֲקֹב = H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: בָּנָי/ו = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc/Sp3ms]
+- o5: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o6: הֵאָסְפוּ = H622 אָסַף "to gather for any purpose…" [HVNv2mp]
+- o7: וְ/אַגִּידָה = Hc "and" + H5046 נָגַד "properly, to front…" [HC/Vhi1cs]
+- o8: לָ/כֶם = Hl "to" [HR/Sp2mp]
+- o9: אֵת = H853 אֵת "properly…" [HTo]
+- o10: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o11: יִקְרָא = H7122 קָרָא "to encounter…" [HVqi3ms]
+- o12: אֶתְ/כֶם = H853 אֵת "properly…" [HTo/Sp2mp]
+- o13: בְּ/אַחֲרִית = Hb "in" + H319 אַחֲרִית "the last or end, hence, the future; also posterity" [HR/Ncfsc]
+- o14: הַ/יָּמִים = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmpa]

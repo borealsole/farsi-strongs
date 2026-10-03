@@ -876,3 +876,42 @@ Persian entries and current tags:
 - p44: سر خویش  → H3027
 - p45: تکان خواهد_داد  → H5128
 - p46: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Zephaniah 1:18 (context)
+
+- o1: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o2: כַּסְפָּ/ם = H3701 כֶּסֶף "silver (from its pale color)…" [HNcmsc/Sp3mp]
+- o3: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o4: זְהָבָ/ם = H2091 זָהָב "gold, figuratively…" [HNcmsc/Sp3mp]
+- o5: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o6: יוּכַל = H3201 יָכֹל "to be able, literally (can…" [HVqi3ms]
+- o7: לְ/הַצִּילָ/ם = Hl "to" + H5337 נָצַל "to snatch away, whether in a good or a bad sense" [HR/Vhc/Sp3mp]
+- o8: בְּ/יוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmsc]
+- o9: עֶבְרַת = H5678 עֶבְרָה "an outburst of passion" [HNcfsc]
+- o10: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o11: וּ/בְ/אֵשׁ = Hc "and" + Hb "in" + H784 אֵשׁ "fire (literally or figuratively)" [HC/R/Ncbsc]
+- o12: קִנְאָת/וֹ = H7068 קִנְאָה "jealousy or envy" [HNcfsc/Sp3ms]
+- o13: תֵּאָכֵל = H398 אָכַל "to eat (literally or figuratively)" [HVNi3fs]
+- o14: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o15: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o16: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o17: כָלָה = H3617 כָּלָה "a completion; adverb, completely; also destruction" [HNcfsa]
+- o18: אַךְ = H389 אַךְ "a particle of affirmation, surely…" [HTa]
+- o19: נִבְהָלָה = H926 בָּהַל "to tremble inwardly (or palpitate)…" [HVNsfsa]
+- o20: יַעֲשֶׂה = H6213 עָשָׂה "to do or make…" [HVqi3ms]
+- o21: אֵת = H853 אֵת "properly…" [HTo]
+- o22: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o23: יֹשְׁבֵי = H3427 יָשַׁב "properly…" [HVqrmpc]
+- o24: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+
+### Zephaniah 3:1 (context)
+
+- o1: הוֹי = H1945 הוֹי "oh!" [HTj]
+- o2: מֹרְאָה = H4754 מָרָא "to rebel…" [HVqrfsa]
+- o3: וְ/נִגְאָלָה = Hc "and" + H1351 גָּאַל "to soil or (figuratively) desecrate" [HC/VNsfsa]
+- o4: הָ/עִיר = Hd "the" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HTd/Ncfsa]
+- o5: הַ/יּוֹנָה = Hd "the" + H3238 יָנָה "to rage or be violent…" [HTd/Vqrfsa]

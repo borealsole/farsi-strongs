@@ -861,3 +861,39 @@ Persian entries and current tags:
 - p25: قِدرون  → H6939
 - p26: افکندند  → H7993
 - p27: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 29:36 (context)
+
+- o1: וַ/יִּשְׂמַח = Hc "and" + H8055 שָׂמַח "probably to brighten up…" [HC/Vqw3ms]
+- o2: יְחִזְקִיָּהוּ = H2396 חִזְקִיָּה "Chizkijah, a king of Judah…" [HNp]
+- o3: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o4: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o5: עַל = H5921 עַל "above, over, upon…" [HR]
+- o6: הַ/הֵכִין = Hd "the" + H3559 כּוּן "properly, to be erect (i.e. stand perpendicular)…" [HTr/Vhp3ms]
+- o7: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o8: לָ/עָם = Hl "to" + H5971 עַם "a people (as a congregated unit)…" [HRd/Ncmsa]
+- o9: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o10: בְּ/פִתְאֹם = Hb "in" + H6597 פִּתְאוֹם "instantly" [HR/D]
+- o11: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o12: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]
+
+### II Chronicles 30:15 (context)
+
+- o1: וַ/יִּשְׁחֲטוּ = Hc "and" + H7819 שָׁחַט "to slaughter (in sacrifice or massacre)" [HC/Vqw3mp]
+- o2: הַ/פֶּסַח = Hd "the" + H6453 פֶּסַח "a pretermission, i.e. exemption…" [HTd/Ncmsa]
+- o3: בְּ/אַרְבָּעָה = Hb "in" + H702 אַרְבַּע "four" [HR/Acmsa]
+- o4: עָשָׂר = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcmsa]
+- o5: לַ/חֹדֶשׁ = Hl "to" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HRd/Ncmsa]
+- o6: הַ/שֵּׁנִי = Hd "the" + H8145 שֵׁנִי "properly, double, i.e. second…" [HTd/Aomsa]
+- o7: וְ/הַ/כֹּהֲנִים = Hc "and" + Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HC/Td/Ncmpa]
+- o8: וְ/הַ/לְוִיִּם = Hc "and" + Hd "the" + H3881 לֵוִיִּי "a Levite or descendant of Levi" [HC/Td/Ngmpa]
+- o9: נִכְלְמוּ = H3637 כָּלַם "properly, to wound…" [HVNp3cp]
+- o10: וַ/יִּתְקַדְּשׁוּ = Hc "and" + H6942 קָדַשׁ "to be (causatively, make…" [HC/Vtw3mp]
+- o11: וַ/יָּבִיאוּ = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vhw3mp]
+- o12: עֹלוֹת = H5930 עֹלָה "a step or (collectively, stairs, as ascending)…" [HNcfpa]
+- o13: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o14: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]

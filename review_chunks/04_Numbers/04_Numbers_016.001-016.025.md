@@ -1304,3 +1304,47 @@ Persian entries and current tags:
 - p16: او
 - p17: رفتند  → H3212 H310
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 15:41 (context)
+
+- o1: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֱלֹהֵי/כֶם = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2mp]
+- o4: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o5: הוֹצֵאתִי = H3318 יָצָא "to go (causatively, bring) out…" [HVhp1cs]
+- o6: אֶתְ/כֶם = H853 אֵת "properly…" [HTo/Sp2mp]
+- o7: מֵ/אֶרֶץ = Hm "from" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o8: מִצְרַיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o9: לִ/הְיוֹת = Hl "to" + H1961 הָיָה "to exist, i.e. be or become…" [HR/Vqc]
+- o10: לָ/כֶם = Hl "to" [HR/Sp2mp]
+- o11: לֵ/אלֹהִים = Hl "to" + H430 אֱלֹהִים "gods in the ordinary sense…" [HR/Ncmpa]
+- o12: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o13: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o14: אֱלֹהֵי/כֶם = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2mp]
+
+### Numbers 16:26 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o3: הָ/עֵדָה = Hd "the" + H5712 עֵדָה "a stated assemblage (specifically, a concourse…" [HTd/Ncfsa]
+- o4: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o5: סוּרוּ = H5493 סוּר "to turn off (literal or figurative)" [HVqv2mp]
+- o6: נָא = H4994 נָא "'I pray', 'now', or 'then'…" [HTe]
+- o7: מֵ/עַל = Hm "from" + H5921 עַל "above, over, upon…" [HR/R]
+- o8: אָהֳלֵי = H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HNcmpc]
+- o9: הָ/אֲנָשִׁים = Hd "the" + H376 אִישׁ "a man as an individual or a male person…" [HTd/Ncmpa]
+- o10: הָ/רְשָׁעִים = Hd "the" + H7563 רָשָׁע "morally wrong…" [HTd/Aampa]
+- o11: הָ/אֵלֶּה = Hd "the" + H428 אֵלֶּה "these or those" [HTd/Pdxcp]
+- o12: וְ/אַל = Hc "and" + H408 אַל "not (the qualified negation…" [HC/Tn]
+- o13: תִּגְּעוּ = H5060 נָגַע "properly, to touch…" [HVqj2mp]
+- o14: בְּ/כָל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o15: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o16: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o17: פֶּן = H6435 פֵּן "properly, removal…" [HC]
+- o18: תִּסָּפוּ = H5595 סָפָה "properly, to scrape (literally, to shave…" [HVNi2mp]
+- o19: בְּ/כָל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o20: חַטֹּאתָ/ם = H2403 חַטָּאָה "an offence (sometimes habitual sinfulness)…" [HNcfpc/Sp3mp]

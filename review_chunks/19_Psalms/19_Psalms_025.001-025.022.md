@@ -784,3 +784,35 @@ Persian entries and current tags:
 - p7: تنگیهایش  → H6869
 - p8: فدیه کن  → H6299
 - p9: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 24:10 (context)
+
+- o1: מִי = H4310 מִי "who? (occasionally, by a peculiar idiom…" [HTi]
+- o2: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o3: זֶה = H2088 זֶה "the masculine demonstrative pronoun, this or that" [HPdxms]
+- o4: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o5: הַ/כָּבוֹד = Hd "the" + H3519 כָּבוֹד "properly, weight…" [HTd/Ncbsa]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: צְבָאוֹת = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbpa]
+- o8: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o9: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o10: הַ/כָּבוֹד = Hd "the" + H3519 כָּבוֹד "properly, weight…" [HTd/Ncbsa]
+- o11: סֶלָה = H5542 סֶלָה "suspension (of music), i.e. pause" [HTj]
+
+### Psalms 26:1 (context)
+
+- o1: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o2: שָׁפְטֵ/נִי = H8199 שָׁפַט "to judge…" [HVqv2ms/Sp1cs]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o5: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o6: בְּ/תֻמִּ/י = Hb "in" + H8537 תֹּם "completeness; figuratively, prosperity…" [HR/Ncmsc/Sp1cs]
+- o7: הָלַכְתִּי = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVqp1cs]
+- o8: וּ/בַ/יהוָה = Hc "and" + Hb "in" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HC/R/Np]
+- o9: בָּטַחְתִּי = H982 בָּטַח "figuratively, to trust, be confident or sure" [HVqp1cs]
+- o10: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o11: אֶמְעָד = H4571 מָעַד "to waver" [HVqi1cs]

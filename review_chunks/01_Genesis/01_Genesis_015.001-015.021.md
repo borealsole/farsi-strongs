@@ -985,3 +985,40 @@ Persian entries and current tags:
 - p8: را  → H853
 - p9: .
 - p10: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 14:24 (context)
+
+- o1: בִּלְעָדַ/י = H1107 בִּלְעֲדֵי "except, without, besides" [HR/Sp1cs]
+- o2: רַק = H7535 רַק "properly, leanness…" [HTa]
+- o3: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o4: אָכְלוּ = H398 אָכַל "to eat (literally or figuratively)" [HVqp3cp]
+- o5: הַ/נְּעָרִים = Hd "the" + H5288 נַעַר "concretely) a boy (as active)…" [HTd/Ncmpa]
+- o6: וְ/חֵלֶק = Hc "and" + H2506 חֵלֶק "properly, smoothness (of the tongue)…" [HC/Ncmsc]
+- o7: הָ/אֲנָשִׁים = Hd "the" + H376 אִישׁ "a man as an individual or a male person…" [HTd/Ncmpa]
+- o8: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o9: הָלְכוּ = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVqp3cp]
+- o10: אִתִּ/י = H854 אֵת "properly…" [HR/Sp1cs]
+- o11: עָנֵר = H6063 עָנֵר "Aner, a Amorite, also a place in Palestine" [HNp]
+- o12: אֶשְׁכֹּל = H812 אֶשְׁכֹּל "Eshcol, the name of an Amorite…" [HNp]
+- o13: וּ/מַמְרֵא = Hc "and" + H4471 מַמְרֵא "Mamre, an Amorite" [HC/Np]
+- o14: הֵם = H1992 הֵם "they (only used when emphatic)" [HPp3mp]
+- o15: יִקְחוּ = H3947 לָקַח "to take (in the widest variety of applications)" [HVqj3mp]
+- o16: חֶלְקָ/ם = H2506 חֵלֶק "properly, smoothness (of the tongue)…" [HNcmsc/Sp3mp]
+
+### Genesis 16:1 (context)
+
+- o1: וְ/שָׂרַי = Hc "and" + H8297 שָׂרַי "Sarai, the wife of Abraham" [HC/Np]
+- o2: אֵשֶׁת = H802 אִשָּׁה "a woman" [HNcfsc]
+- o3: אַבְרָם = H87 אַבְרָם "Abram, the original name of Abraham" [HNp]
+- o4: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o5: יָלְדָה = H3205 יָלַד "to bear young; causatively, to beget…" [HVqp3fs]
+- o6: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o7: וְ/לָ/הּ = Hc "and" + Hl "to" [HC/R/Sp3fs]
+- o8: שִׁפְחָה = H8198 שִׁפְחָה "a female slave (as a member of the household)" [HNcfsa]
+- o9: מִצְרִית = H4713 מִצְרִי "a Mitsrite, or inhabitant of Mitsrajim" [HNgfsa]
+- o10: וּ/שְׁמָ/הּ = Hc "and" + H8034 שֵׁם "an appellation…" [HC/Ncmsc/Sp3fs]
+- o11: הָגָר = H1904 הָגָר "Hagar, the mother of Ishmael" [HNp]

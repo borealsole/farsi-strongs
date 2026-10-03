@@ -896,3 +896,42 @@ Persian entries and current tags:
 - p32: نشود  → G3756 G2617
 - p33: .
 - p34: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Romans 9:16 (context)
+
+- o1: ἄρα = G686 ἄρα "haply, (what) manner (of man), no doubt, perhaps…" [PRT]
+- o2: οὖν = G3767 οὖν "and (so, truly), but, now (then)…" [CONJ]
+- o3: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o4: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o5: θέλοντος = G2309 θέλω "desire, be disposed (forward), intend, list, love…" [V-PAP-GSM]
+- o6: οὐδὲ = G3761 οὐδέ "neither (indeed), never, no (more, nor, not)…" [CONJ-N]
+- o7: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o8: τρέχοντος, = G5143 τρέχω "have course, run" [V-PAP-GSM]
+- o9: ἀλλὰ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o10: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o11: ἐλεῶντος = G1653 ἐλεέω "have compassion (pity on), have (obtain, receive…" [V-PAP-GSM]
+- o12: θεοῦ. = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+
+### Romans 10:1 (context)
+
+- o1: Ἀδελφοί, = G80 ἀδελφός "brother" [N-VPM]
+- o2: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o3: μὲν = G3303 μέν "even, indeed, so, some, truly, verily" [PRT]
+- o4: εὐδοκία = G2107 εὐδοκία "desire, good pleasure (will), seem good" [N-NSF]
+- o5: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o6: ἐμῆς = G1699 ἐμός "of me, mine (own), my" [S-1SGSF]
+- o7: καρδίας = G2588 καρδία "(+ broken-)heart(-ed)" [N-GSF]
+- o8: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o9: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o10: δέησις = G1162 δέησις "prayer, request, supplication" [N-NSF]
+- o11: πρὸς = G4314 πρός "about, according to , against, among, at…" [PREP]
+- o12: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o13: θεὸν = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-ASM]
+- o14: ὑπὲρ = G5228 ὑπέρ "+ exceeding, abundantly) above…" [PREP]
+- o15: αὐτῶν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]
+- o16: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o17: σωτηρίαν. = G4991 σωτηρία "deliver, health, salvation, save, saving" [N-ASF]

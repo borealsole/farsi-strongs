@@ -621,3 +621,33 @@ Persian entries and current tags:
 - p10: تعلق
 - p11: داشتند
 - p12: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Nehemiah 11:18 (context)
+
+- o1: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o2: הַ/לְוִיִּם = Hd "the" + H3881 לֵוִיִּי "a Levite or descendant of Levi" [HTd/Ngmpa]
+- o3: בְּ/עִיר = Hb "in" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HR/Ncfsc]
+- o4: הַ/קֹּדֶשׁ = Hd "the" + H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HTd/Ncmsa]
+- o5: מָאתַיִם = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbda]
+- o6: שְׁמֹנִים = H8084 שְׁמֹנִים "eighty, also eightieth" [HAcbpa]
+- o7: וְ/אַרְבָּעָה = Hc "and" + H702 אַרְבַּע "four" [HC/Acmsa]
+
+### Nehemiah 12:1 (context)
+
+- o1: וְ/אֵלֶּה = Hc "and" + H428 אֵלֶּה "these or those" [HC/Pdxcp]
+- o2: הַ/כֹּהֲנִים = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmpa]
+- o3: וְ/הַ/לְוִיִּם = Hc "and" + Hd "the" + H3881 לֵוִיִּי "a Levite or descendant of Levi" [HC/Td/Ngmpa]
+- o4: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o5: עָלוּ = H5927 עָלָה "to ascend…" [HVqp3cp]
+- o6: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o7: זְרֻבָּבֶל = H2216 זְרֻבָּבֶל "Zerubbabel, an Israelite" [HNp]
+- o8: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o9: שְׁאַלְתִּיאֵל = H7597 שְׁאַלְתִּיאֵל "Shealtiel, an Israelite" [HNp]
+- o10: וְ/יֵשׁוּעַ = Hc "and" + H3442 יֵשׁוּעַ "Jeshua, the name of ten Israelites…" [HC/Np]
+- o11: שְׂרָיָה = H8304 שְׂרָיָה "Serajah, the name of nine Israelites" [HNp]
+- o12: יִרְמְיָה = H3414 יִרְמְיָה "Jirmejah, the name of eight or nine Israelites" [HNp]
+- o13: עֶזְרָא = H5830 עֶזְרָא "Ezra, an Israelite" [HNp]

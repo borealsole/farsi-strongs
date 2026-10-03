@@ -927,3 +927,55 @@ Persian entries and current tags:
 - p33: تکرار
 - p34: نخواهد_شد  → H310
 - p35: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 9:35 (context)
+
+- o1: וַ/יֶּחֱזַק = Hc "and" + H2388 חָזַק "to fasten upon…" [HC/Vqw3ms]
+- o2: לֵב = H3820 לֵב "the heart…" [HNcmsc]
+- o3: פַּרְעֹה = H6547 פַּרְעֹה "Paroh, a general title of Egyptian kings" [HNp]
+- o4: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o5: שִׁלַּח = H7971 שָׁלַח "to send away, for…" [HVpp3ms]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o8: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o9: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o10: דִּבֶּר = H1696 דָבַר "perhaps properly, to arrange…" [HVpp3ms]
+- o11: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o12: בְּ/יַד = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o13: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+
+### Exodus 10:15 (context)
+
+- o1: וַ/יְכַס = Hc "and" + H3680 כָּסָה "properly, to plump, i.e. fill up hollows…" [HC/Vpw3ms]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: עֵין = H5869 עַיִן "an eye (literally or figuratively)…" [HNcbsc]
+- o4: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o5: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o6: וַ/תֶּחְשַׁךְ = Hc "and" + H2821 חָשַׁךְ "to be dark (as withholding light)…" [HC/Vqw3fs]
+- o7: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o8: וַ/יֹּאכַל = Hc "and" + H398 אָכַל "to eat (literally or figuratively)" [HC/Vqw3ms]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o11: עֵשֶׂב = H6212 עֶשֶׂב "grass (or any tender shoot)" [HNcmsc]
+- o12: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o13: וְ/אֵת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o14: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o15: פְּרִי = H6529 פְּרִי "fruit (literally or figuratively)" [HNcmsc]
+- o16: הָ/עֵץ = Hd "the" + H6086 עֵץ "a tree (from its firmness)…" [HTd/Ncmsa]
+- o17: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o18: הוֹתִיר = H3498 יָתַר "to jut over or exceed; by implication, to excel…" [HVhp3ms]
+- o19: הַ/בָּרָד = Hd "the" + H1259 בָּרָד "hail" [HTd/Ncmsa]
+- o20: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o21: נוֹתַר = H3498 יָתַר "to jut over or exceed; by implication, to excel…" [HVNp3ms]
+- o22: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o23: יֶרֶק = H3418 יֶרֶק "properly, pallor, i.e. hence…" [HNcmsa]
+- o24: בָּ/עֵץ = Hb "in" + H6086 עֵץ "a tree (from its firmness)…" [HRd/Ncmsa]
+- o25: וּ/בְ/עֵשֶׂב = Hc "and" + Hb "in" + H6212 עֶשֶׂב "grass (or any tender shoot)" [HC/R/Ncmsc]
+- o26: הַ/שָּׂדֶה = Hd "the" + H7704 שָׂדֶה "a field (as flat)" [HTd/Ncmsa]
+- o27: בְּ/כָל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o28: אֶרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsc]
+- o29: מִצְרָיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]

@@ -887,3 +887,40 @@ Persian entries and current tags:
 - p30: تو
 - p31: توکل خواهم_کرد  → H982
 - p32: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 54:7 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: מִ/כָּל = Hm "from" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o3: צָרָה = H6869 צָרָה "tightness (i.e. figuratively, trouble)…" [HNcfsa]
+- o4: הִצִּילָ/נִי = H5337 נָצַל "to snatch away, whether in a good or a bad sense" [HVhp3ms/Sp1cs]
+- o5: וּ/בְ/אֹיְבַ/י = Hc "and" + Hb "in" + H341 אֹיֵב "hating; an adversary" [HC/R/Vqrmpc/Sp1cs]
+- o6: רָאֲתָה = H7200 רָאָה "to see…" [HVqp3fs]
+- o7: עֵינִ/י = H5869 עַיִן "an eye (literally or figuratively)…" [HNcbsc/Sp1cs]
+
+### Psalms 56:1 (context)
+
+- o1: לַ/מְנַצֵּחַ = Hl "to" + H5329 נָצַח "properly, to glitter from afar…" [HRd/Vprmsa]
+- o2: עַל = H5921 עַל "above, over, upon…" [HR]
+- o3: יוֹנַת = H3123 יוֹנָה "a dove (apparently from the warmth of their…" [HNcfsc]
+- o4: אֵלֶם = H482 אֵלֶם "silence (i.e. mute justice)" [HNcmsa]
+- o5: רְחֹקִים = H7350 רָחוֹק "remote, literally or figuratively…" [HAampa]
+- o6: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o7: מִכְתָּם = H4387 מִכְתָּם "an engraving, i.e. (techn.) a poem" [HNcmsa]
+- o8: בֶּ/אֱחֹז = Hb "in" + H270 אָחַז "to seize (often with the accessory idea of…" [HR/Vqc]
+- o9: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o10: פְלִשְׁתִּים = H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HNgmpa]
+- o11: בְּ/גַת = Hb "in" + H1661 גַּת "Gath, a Philistine city" [HR/Np]
+- o12: חָנֵּ/נִי = H2603 חָנַן "properly…" [HVqv2ms/Sp1cs]
+- o13: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o14: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o15: שְׁאָפַ/נִי = H7602 שָׁאַף "to inhale eagerly; figuratively, to cover…" [HVqp3ms/Sp1cs]
+- o16: אֱנוֹשׁ = H582 אֱנוֹשׁ "a man in general (singly or collectively)" [HNcmsa]
+- o17: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o18: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o19: לֹחֵם = H3898 לָחַם "to feed on; figuratively, to consume…" [HVqrmsa]
+- o20: יִלְחָצֵ/נִי = H3905 לָחַץ "properly, to press…" [HVqi3ms/Sp1cs]

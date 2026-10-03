@@ -904,3 +904,30 @@ Persian entries and current tags:
 - p20: خواهد_بود
 - p21: .
 - p22: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 48:18 (context)
+
+- o1: וְ/הַ/נּוֹתָר = Hc "and" + Hd "the" + H3498 יָתַר "to jut over or exceed; by implication, to excel…" [HC/Td/VNrmsa]
+- o2: בָּ/אֹרֶךְ = Hb "in" + H753 אֹרֶךְ "length" [HRd/Ncmsa]
+- o3: לְ/עֻמַּת = Hl "to" + H5980 עֻמָּה "conjunction, i.e. society…" [HR/Ncfsc]
+- o4: תְּרוּמַת = H8641 תְּרוּמָה "a present (as offered up)…" [HNcfsc]
+- o5: הַ/קֹּדֶשׁ = Hd "the" + H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HTd/Ncmsa]
+- o6: עֲשֶׂרֶת = H6235 עֶשֶׂר "ten (as an accumulation to the extent of the…" [HAcmsc]
+- o7: אֲלָפִים = H505 אֶלֶף "hence (the ox's head being the first letter of…" [HAcbpa]
+- o8: קָדִימָ/ה = H6921 קָדִים "the fore or front part…" [HNcmsa/Sd]
+- o9: וַ/עֲשֶׂרֶת = Hc "and" + H6235 עֶשֶׂר "ten (as an accumulation to the extent of the…" [HC/Acmsc]
+- o10: אֲלָפִים = H505 אֶלֶף "hence (the ox's head being the first letter of…" [HAcbpa]
+- o11: יָמָּ/ה = H3220 יָם "a sea (as breaking in noisy surf) or large body…" [HNcmsa/Sd]
+- o12: וְ/הָיָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3ms]
+- o13: לְ/עֻמַּת = Hl "to" + H5980 עֻמָּה "conjunction, i.e. society…" [HR/Ncfsc]
+- o14: תְּרוּמַת = H8641 תְּרוּמָה "a present (as offered up)…" [HNcfsc]
+- o15: הַ/קֹּדֶשׁ = Hd "the" + H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HTd/Ncmsa]
+- o16: וְ/הָיְתָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3fs]
+- o17: תבואת/ה = H8393 תְּבוּאָה "income, i.e. produce (literally or figuratively)" [HNcfsc/Sp3fs]
+- o18: לְ/לֶחֶם = Hl "to" + H3899 לֶחֶם "food (for man or beast), especially bread…" [HR/Ncbsa]
+- o19: לְ/עֹבְדֵי = Hl "to" + H5647 עָבַד "to work (in any sense)…" [HR/Vqrmpc]
+- o20: הָ/עִיר = Hd "the" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HTd/Ncfsa]

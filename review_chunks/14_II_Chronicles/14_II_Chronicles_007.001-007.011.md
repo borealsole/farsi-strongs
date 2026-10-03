@@ -735,3 +735,39 @@ Persian entries and current tags:
 - p30: انجام  → H6743
 - p31: رسانید
 - p32: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 6:42 (context)
+
+- o1: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o2: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o3: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o4: תָּשֵׁב = H7725 שׁוּב "to turn back (hence…" [HVhj2ms]
+- o5: פְּנֵי = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc]
+- o6: מְשִׁיחֶי/ךָ = H4899 מָשִׁיחַ "anointed…" [HNcmpc/Sp2ms]
+- o7: זָכְרָ/ה = H2142 זָכַר "properly, to mark (so as to be recognized)…" [HVqv2ms/Sh]
+- o8: לְ/חַסְדֵי = Hl "to" + H2617 חֵסֵד "kindness; by implication (towards God) piety…" [HR/Ncmpc]
+- o9: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o10: עַבְדֶּ/ךָ = H5650 עֶבֶד "a servant" [HNcmsc/Sp2ms]
+
+### II Chronicles 7:12 (context)
+
+- o1: וַ/יֵּרָא = Hc "and" + H7200 רָאָה "to see…" [HC/VNw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o5: בַּ/לָּיְלָה = Hb "in" + H3915 לַיִל "properly, a twist (away of the light), i.e. night…" [HRd/Ncmsa]
+- o6: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o7: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o8: שָׁמַעְתִּי = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqp1cs]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: תְּפִלָּתֶ/ךָ = H8605 תְּפִלָּה "intercession, supplication; by implication, a hymn" [HNcfsc/Sp2ms]
+- o11: וּ/בָחַרְתִּי = Hc "and" + H977 בָּחַר "properly, to try, i.e. (by implication) select" [HC/Vqp1cs]
+- o12: בַּ/מָּקוֹם = Hb "in" + H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HRd/Ncmsa]
+- o13: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o14: לִ/י = Hl "to" [HR/Sp1cs]
+- o15: לְ/בֵית = Hl "to" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc]
+- o16: זָבַח = H2077 זֶבַח "properly, a slaughter…" [HNcmsa]

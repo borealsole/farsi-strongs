@@ -740,3 +740,41 @@ Persian entries and current tags:
 - p20: کهانت  → G2409
 - p21: نگفت  → G2980
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Hebrews 6:20 (context)
+
+- o1: ὅπου = G3699 ὅπου "in what place, where(-as, -soever)…" [ADV]
+- o2: πρόδρομος = G4274 πρόδρομος "forerunner" [A-NSM]
+- o3: ὑπὲρ = G5228 ὑπέρ "+ exceeding, abundantly) above…" [PREP]
+- o4: ἡμῶν = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+- o5: εἰσῆλθεν = G1525 εἰσέρχομαι "arise, come (in, into), enter in(-to)…" [V-2AAI-3S]
+- o6: Ἰησοῦς, = G2424 Ἰησοῦς "Jesus" [N-NSM]
+- o7: κατὰ = G2596 κατά "about, according as (to), after, against…" [PREP]
+- o8: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o9: τάξιν = G5010 τάξις "order" [N-ASF]
+- o10: Μελχισέδεκ = G3198 Μελχισεδέκ "Melchisedec" [N-PRI]
+- o11: ἀρχιερεὺς = G749 ἀρχιερεύς "chief (high) priest, chief of the priests" [N-NSM]
+- o12: γενόμενος = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-2ADP-NSM]
+- o13: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o14: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o15: αἰῶνα. = G165 αἰών "age, course, eternal, (for) ever(-more), (n-)ever…" [N-ASM]
+
+### Hebrews 7:15 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: περισσότερον = G4054 περισσότερον "more abundantly, a great deal, far more" [ADV-C]
+- o3: ἔτι = G2089 ἔτι "after that, also, ever, (any) further…" [ADV]
+- o4: κατάδηλόν = G2612 κατάδηλος "far more evident" [A-NSN]
+- o5: ἐστιν, = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o6: εἰ = G1487 εἰ "forasmuch as, if, that, (al-)though, whether" [COND]
+- o7: κατὰ = G2596 κατά "about, according as (to), after, against…" [PREP]
+- o8: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o9: ὁμοιότητα = G3665 ὁμοιότης "like as, similitude" [N-ASF]
+- o10: Μελχισέδεκ = G3198 Μελχισεδέκ "Melchisedec" [N-PRI]
+- o11: ἀνίσταται = G450 ἀνίστημι "arise, lift up, raise up (again), rise (again)…" [V-PMI-3S]
+- o12: ἱερεὺς = G2409 ἱερεύς "(high) priest" [N-NSM]
+- o13: ἕτερος, = G2087 ἕτερος "altered, else, next (day), one, (an-)other, some…" [A-NSM]

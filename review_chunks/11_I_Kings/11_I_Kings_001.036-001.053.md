@@ -1031,3 +1031,39 @@ Persian entries and current tags:
 - p34: برو  → H3212
 - p35: .
 - p36: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 1:35 (context)
+
+- o1: וַ/עֲלִיתֶם = Hc "and" + H5927 עָלָה "to ascend…" [HC/Vqq2mp]
+- o2: אַחֲרָי/ו = H310 אַחַר "properly, the hind part…" [HR/Sp3ms]
+- o3: וּ/בָא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqq3ms]
+- o4: וְ/יָשַׁב = Hc "and" + H3427 יָשַׁב "properly…" [HC/Vqq3ms]
+- o5: עַל = H5921 עַל "above, over, upon…" [HR]
+- o6: כִּסְאִ/י = H3678 כִּסֵּא "properly, covered, i.e. a throne (as canopied)" [HNcmsc/Sp1cs]
+- o7: וְ/הוּא = Hc "and" + H1931 הוּא "he (she or it)…" [HC/Pp3ms]
+- o8: יִמְלֹךְ = H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HVqi3ms]
+- o9: תַּחְתָּ/י = H8478 תַּחַת "the bottom (as depressed)…" [HR/Sp1cs]
+- o10: וְ/אֹת/וֹ = Hc "and" + H853 אֵת "properly…" [HC/To/Sp3ms]
+- o11: צִוִּיתִי = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp1cs]
+- o12: לִ/הְיוֹת = Hl "to" + H1961 הָיָה "to exist, i.e. be or become…" [HR/Vqc]
+- o13: נָגִיד = H5057 נָגִיד "a commander (as occupying the front), civil…" [HNcmsa]
+- o14: עַל = H5921 עַל "above, over, upon…" [HR]
+- o15: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o16: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o17: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+
+### I Kings 2:1 (context)
+
+- o1: וַ/יִּקְרְבוּ = Hc "and" + H7126 קָרַב "to approach (causatively…" [HC/Vqw3mp]
+- o2: יְמֵי = H3117 יוֹם "a day (as the warm hours)…" [HNcmpc]
+- o3: דָוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o4: לָ/מוּת = Hl "to" + H4191 מוּת "to die (literally or figuratively)…" [HR/Vqc]
+- o5: וַ/יְצַו = Hc "and" + H6680 צָוָה "(intensively) to constitute, enjoin" [HC/Vpw3ms]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o8: בְנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o9: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

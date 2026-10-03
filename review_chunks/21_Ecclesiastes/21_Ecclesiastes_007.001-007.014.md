@@ -610,3 +610,48 @@ Persian entries and current tags:
 - p34: چه
 - p35: خواهد_شد
 - p36: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ecclesiastes 6:12 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: מִי = H4310 מִי "who? (occasionally, by a peculiar idiom…" [HTi]
+- o3: יוֹדֵעַ = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqrmsa]
+- o4: מַה = H4100 מָה "properly…" [HTi]
+- o5: טּוֹב = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAamsa]
+- o6: לָ/אָדָם = Hl "to" + H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HRd/Ncmsa]
+- o7: בַּ/חַיִּים = Hb "in" + H2416 חַי "alive; hence, raw (flesh)…" [HRd/Ncmpa]
+- o8: מִסְפַּר = H4557 מִסְפָּר "a number…" [HNcmsc]
+- o9: יְמֵי = H3117 יוֹם "a day (as the warm hours)…" [HNcmpc]
+- o10: חַיֵּי = H2416 חַי "alive; hence, raw (flesh)…" [HNcmpc]
+- o11: הֶבְל/וֹ = H1892 הֶבֶל "emptiness or vanity…" [HNcmsc/Sp3ms]
+- o12: וְ/יַעֲשֵׂ/ם = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqi3ms/Sp3mp]
+- o13: כַּ/צֵּל = Hk "like" + H6738 צֵל "shade, whether literal or figurative" [HRd/Ncmsa]
+- o14: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o15: מִי = H4310 מִי "who? (occasionally, by a peculiar idiom…" [HTi]
+- o16: יַגִּיד = H5046 נָגַד "properly, to front…" [HVhi3ms]
+- o17: לָ/אָדָם = Hl "to" + H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HRd/Ncmsa]
+- o18: מַה = H4100 מָה "properly…" [HTi]
+- o19: יִּהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o20: אַחֲרָי/ו = H310 אַחַר "properly, the hind part…" [HR/Sp3ms]
+- o21: תַּחַת = H8478 תַּחַת "the bottom (as depressed)…" [HR]
+- o22: הַ/שָּׁמֶשׁ = Hd "the" + H8121 שֶׁמֶשׁ "the sun; by implication, the east…" [HTd/Ncbsa]
+
+### Ecclesiastes 7:15 (context)
+
+- o1: אֶת = H853 אֵת "properly…" [HTo]
+- o2: הַ/כֹּל = Hd "the" + H3605 כֹּל "properly, the whole…" [HTd/Ncmsa]
+- o3: רָאִיתִי = H7200 רָאָה "to see…" [HVqp1cs]
+- o4: בִּ/ימֵי = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmpc]
+- o5: הֶבְלִ/י = H1892 הֶבֶל "emptiness or vanity…" [HNcmsc/Sp1cs]
+- o6: יֵשׁ = H3426 יֵשׁ "there is or are (or any other form of the verb to…" [HTm]
+- o7: צַדִּיק = H6662 צַדִּיק "just" [HAamsa]
+- o8: אֹבֵד = H6 אָבַד "properly, to wander away, i.e. lose oneself…" [HVqrmsa]
+- o9: בְּ/צִדְק/וֹ = Hb "in" + H6664 צֶדֶק "the right (natural, moral or legal)…" [HR/Ncmsc/Sp3ms]
+- o10: וְ/יֵשׁ = Hc "and" + H3426 יֵשׁ "there is or are (or any other form of the verb to…" [HC/Tm]
+- o11: רָשָׁע = H7563 רָשָׁע "morally wrong…" [HAamsa]
+- o12: מַאֲרִיךְ = H748 אָרַךְ "to be (causative…" [HVhrmsa]
+- o13: בְּ/רָעָת/וֹ = Hb "in" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HR/Ncfsc/Sp3ms]

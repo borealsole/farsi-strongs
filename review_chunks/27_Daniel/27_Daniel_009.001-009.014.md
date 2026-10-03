@@ -872,3 +872,46 @@ Persian entries and current tags:
 - p31: گوش  → H8085
 - p32: نسپرده‌ایم  → H3808 H8085
 - p33: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Daniel 8:27 (context)
+
+- o1: וַ/אֲנִי = Hc "and" + H589 אֲנִי "I" [HC/Pp1cs]
+- o2: דָנִיֵּאל = H1840 דָנִיֵּאל "Daniel or Danijel, the name of two Israelites" [HNp]
+- o3: נִהְיֵיתִי = H1961 הָיָה "to exist, i.e. be or become…" [HVNp1cs]
+- o4: וְ/נֶחֱלֵיתִי = Hc "and" + H2470 חָלָה "properly, to be rubbed or worn…" [HC/VNp1cs]
+- o5: יָמִים = H3117 יוֹם "a day (as the warm hours)…" [HNcmpa]
+- o6: וָ/אָקוּם = Hc "and" + H6965 קוּם "to rise (in various applications, literal…" [HC/Vqw1cs]
+- o7: וָ/אֶעֱשֶׂה = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw1cs]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: מְלֶאכֶת = H4399 מְלָאכָה "properly, deputyship, i.e. ministry…" [HNcfsc]
+- o10: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o11: וָ/אֶשְׁתּוֹמֵם = Hc "and" + H8074 שָׁמֵם "to stun (or intransitively, grow numb)…" [HC/Vrw1cs]
+- o12: עַל = H5921 עַל "above, over, upon…" [HR]
+- o13: הַ/מַּרְאֶה = Hd "the" + H4758 מַרְאֶה "a view (the act of seeing)…" [HTd/Ncmsa]
+- o14: וְ/אֵין = Hc "and" + H369 אַיִן "a non-entity…" [HC/Tn]
+- o15: מֵבִין = H995 בִּין "to separate mentally (or distinguish)…" [HVhrmsa]
+
+### Daniel 9:15 (context)
+
+- o1: וְ/עַתָּה = Hc "and" + H6258 עַתָּה "at this time, whether adverb…" [HC/D]
+- o2: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o3: אֱלֹהֵי/נוּ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp1cp]
+- o4: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o5: הוֹצֵאתָ = H3318 יָצָא "to go (causatively, bring) out…" [HVhp2ms]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: עַמְּ/ךָ = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp2ms]
+- o8: מֵ/אֶרֶץ = Hm "from" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o9: מִצְרַיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o10: בְּ/יָד = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsa]
+- o11: חֲזָקָה = H2389 חָזָק "strong (usu. in a bad sense, hard, bold, violent)" [HAafsa]
+- o12: וַ/תַּעַשׂ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw2ms]
+- o13: לְ/ךָ = Hl "to" [HR/Sp2ms]
+- o14: שֵׁם = H8034 שֵׁם "an appellation…" [HNcmsa]
+- o15: כַּ/יּוֹם = Hk "like" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
+- o16: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o17: חָטָאנוּ = H2398 חָטָא "properly, to miss…" [HVqp1cp]
+- o18: רָשָׁעְנוּ = H7561 רָשַׁע "to be (causatively, do or declare) wrong…" [HVqp1cp]

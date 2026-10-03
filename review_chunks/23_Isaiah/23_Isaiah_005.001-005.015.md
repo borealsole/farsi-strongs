@@ -809,3 +809,30 @@ Persian entries and current tags:
 - p11: متکبران  → H1364
 - p12: پست خواهد_گردید  → H8213
 - p13: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 4:6 (context)
+
+- o1: וְ/סֻכָּה = Hc "and" + H5521 סֻכָּה "a hut or lair" [HC/Ncfsa]
+- o2: תִּהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3fs]
+- o3: לְ/צֵל = Hl "to" + H6738 צֵל "shade, whether literal or figurative" [HR/Ncmsa]
+- o4: יוֹמָם = H3119 יוֹמָם "daily" [HD]
+- o5: מֵ/חֹרֶב = Hm "from" + H2721 חֹרֶב "drought or desolation" [HR/Ncmsa]
+- o6: וּ/לְ/מַחְסֶה = Hc "and" + Hl "to" + H4268 מַחֲסֶה "a shelter (literally or figuratively)" [HC/R/Ncmsa]
+- o7: וּ/לְ/מִסְתּוֹר = Hc "and" + Hl "to" + H4563 מִסְתּוֹר "a refuge" [HC/R/Ncmsa]
+- o8: מִ/זֶּרֶם = Hm "from" + H2230 זֶרֶם "a gush of water" [HR/Ncmsa]
+- o9: וּ/מִ/מָּטָר = Hc "and" + Hm "from" + H4306 מָטַר "rain" [HC/R/Ncmsa]
+
+### Isaiah 5:16 (context)
+
+- o1: וַ/יִּגְבַּה = Hc "and" + H1361 גָּבַהּ "to soar, i.e. be lofty…" [HC/Vqw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: צְבָאוֹת = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbpa]
+- o4: בַּ/מִּשְׁפָּט = Hb "in" + H4941 מִשְׁפָּט "properly…" [HRd/Ncmsa]
+- o5: וְ/הָ/אֵל = Hc "and" + Hd "the" + H410 אֵל "strength; as adjective, mighty…" [HC/Td/Ncmsa]
+- o6: הַ/קָּדוֹשׁ = Hd "the" + H6918 קָדוֹשׁ "sacred (ceremonially or morally)…" [HTd/Aamsa]
+- o7: נִקְדָּשׁ = H6942 קָדַשׁ "to be (causatively, make…" [HVNrmsa]
+- o8: בִּ/צְדָקָה = Hb "in" + H6666 צְדָקָה "rightness (abstractly), subjectively (rectitude)…" [HR/Ncfsa]

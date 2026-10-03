@@ -1143,3 +1143,35 @@ Persian entries and current tags:
 - p25: ایشان
 - p26: هستم  → H589
 - p27: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 29:23 (context)
+
+- o1: וְ/כִכַּר = Hc "and" + H3603 כִּכָּר "a circle…" [HC/Ncbsc]
+- o2: לֶחֶם = H3899 לֶחֶם "food (for man or beast), especially bread…" [HNcbsa]
+- o3: אַחַת = H259 אֶחָד "properly, united, i.e. one…" [HAcfsa]
+- o4: וַ/חַלַּת = Hc "and" + H2471 חַלָּה "a cake (as usually punctured)" [HC/Ncfsc]
+- o5: לֶחֶם = H3899 לֶחֶם "food (for man or beast), especially bread…" [HNcbsc]
+- o6: שֶׁמֶן = H8081 שֶׁמֶן "grease, especially liquid (as from the olive…" [HNcmsa]
+- o7: אַחַת = H259 אֶחָד "properly, united, i.e. one…" [HAcfsa]
+- o8: וְ/רָקִיק = Hc "and" + H7550 רָקִיק "a thin cake" [HC/Ncmsa]
+- o9: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o10: מִ/סַּל = Hm "from" + H5536 סַל "properly, a willow twig (as pendulous)…" [HR/Ncmsc]
+- o11: הַ/מַּצּוֹת = Hd "the" + H4682 מַצָּה "properly, sweetness…" [HTd/Ncfpa]
+- o12: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o13: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o14: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### Exodus 30:1 (context)
+
+- o1: וְ/עָשִׂיתָ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqq2ms]
+- o2: מִזְבֵּחַ = H4196 מִזְבֵּחַ "an altar" [HNcmsa]
+- o3: מִקְטַר = H4729 מִקְטָר "something to fume (incense) on i.e. a hearth place" [HNcmsc]
+- o4: קְטֹרֶת = H7004 קְטֹרֶת "a fumigation" [HNcfsa]
+- o5: עֲצֵי = H6086 עֵץ "a tree (from its firmness)…" [HNcmpc]
+- o6: שִׁטִּים = H7848 שִׁטָּה "the acacia (from its scourging thorns)" [HNcfpa]
+- o7: תַּעֲשֶׂה = H6213 עָשָׂה "to do or make…" [HVqi2ms]
+- o8: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]

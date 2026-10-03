@@ -600,3 +600,29 @@ Persian entries and current tags:
 - p12: در
 - p13: خواهد_آورد
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 20:30 (context)
+
+- o1: חַבֻּרוֹת = H2250 חַבּוּרָה "properly, bound (with stripes)…" [HNcfpc]
+- o2: פֶּצַע = H6482 פֶּצַע "a wound" [HNcmsa]
+- o3: תמריק = H4838 מָרַק "to polish; by implication, to sharpen…" [HVhi3fs]
+- o4: בְּ/רָע = Hb "in" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HR/Aamsa]
+- o5: וּ/מַכּוֹת = Hc "and" + H4347 מַכָּה "a wound; figuratively, carnage, also pestilence" [HC/Ncfpc]
+- o6: חַדְרֵי = H2315 חֶדֶר "an apartment (usually literal)" [HNcmpc]
+- o7: בָטֶן = H990 בֶּטֶן "the belly, especially the womb…" [HNcfsa]
+
+### Proverbs 21:17 (context)
+
+- o1: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsc]
+- o2: מַחְסוֹר = H4270 מַחְסוֹר "deficiency; hence, impoverishment" [HNcmsa]
+- o3: אֹהֵב = H157 אָהַב "to have affection for (sexually or otherwise)" [HVqrmsa]
+- o4: שִׂמְחָה = H8057 שִׂמְחָה "blithesomeness or glee, (religious or festival)" [HNcfsa]
+- o5: אֹהֵב = H157 אָהַב "to have affection for (sexually or otherwise)" [HVqrmsa]
+- o6: יַיִן = H3196 יַיִן "wine (as fermented); by implication, intoxication" [HNcmsa]
+- o7: וָ/שֶׁמֶן = Hc "and" + H8081 שֶׁמֶן "grease, especially liquid (as from the olive…" [HC/Ncmsa]
+- o8: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o9: יַעֲשִׁיר = H6238 עָשַׁר "properly, to accumulate…" [HVhi3ms]

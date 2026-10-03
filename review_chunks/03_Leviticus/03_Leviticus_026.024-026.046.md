@@ -1184,3 +1184,26 @@ Persian entries and current tags:
 - p21: قرار
 - p22: داد  → H5414
 - p23: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 26:23 (context)
+
+- o1: וְ/אִם = Hc "and" + H518 אִם "used very widely as demonstrative, lo!…" [HC/C]
+- o2: בְּ/אֵלֶּה = Hb "in" + H428 אֵלֶּה "these or those" [HR/Pdxcp]
+- o3: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o4: תִוָּסְרוּ = H3256 יָסַר "to chastise…" [HVNi2mp]
+- o5: לִ/י = Hl "to" [HR/Sp1cs]
+- o6: וַ/הֲלַכְתֶּם = Hc "and" + H1980 הָלַךְ "to walk (in a great variety of applications…" [HC/Vqq2mp]
+- o7: עִמִּ/י = H5973 עִם "adverb or preposition…" [HR/Sp1cs]
+- o8: קֶרִי = H7147 קְרִי "hostile encounter" [HNcmsa]
+
+### Leviticus 27:1 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: לֵּ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

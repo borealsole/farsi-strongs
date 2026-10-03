@@ -1064,3 +1064,51 @@ Persian entries and current tags:
 - p25: عهده  → H4931
 - p26: داشته_باشند
 - p27: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 43:27 (context)
+
+- o1: וִ/יכַלּוּ = Hc "and" + H3615 כָּלָה "to end, whether intransitive (to cease…" [HC/Vpi3mp]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: הַ/יָּמִים = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmpa]
+- o4: וְ/הָיָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3ms]
+- o5: בַ/יּוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
+- o6: הַ/שְּׁמִינִי = Hd "the" + H8066 שְׁמִינִי "eight" [HTd/Aomsa]
+- o7: וָ/הָלְאָה = Hc "and" + H1973 הָלְאָה "to the distance, i.e. far away…" [HC/D]
+- o8: יַעֲשׂוּ = H6213 עָשָׂה "to do or make…" [HVqi3mp]
+- o9: הַ/כֹּהֲנִים = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmpa]
+- o10: עַל = H5921 עַל "above, over, upon…" [HR]
+- o11: הַ/מִּזְבֵּחַ = Hd "the" + H4196 מִזְבֵּחַ "an altar" [HTd/Ncmsa]
+- o12: אֶת = H853 אֵת "properly…" [HTo]
+- o13: עוֹלוֹתֵי/כֶם = H5930 עֹלָה "a step or (collectively, stairs, as ascending)…" [HNcfpc/Sp2mp]
+- o14: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o15: שַׁלְמֵי/כֶם = H8002 שֶׁלֶם "properly, requital…" [HNcmpc/Sp2mp]
+- o16: וְ/רָצִאתִי = Hc "and" + H7521 רָצָה "to be pleased with; specifically, to satisfy adebt" [HC/Vqq1cs]
+- o17: אֶתְ/כֶם = H853 אֵת "properly…" [HTo/Sp2mp]
+- o18: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o19: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o20: יְהֹוִה = H3069 יְהֹוִה "YHWH" [HNp]
+
+### Ezekiel 44:17 (context)
+
+- o1: וְ/הָיָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3ms]
+- o2: בְּ/בוֹאָ/ם = Hb "in" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HR/Vqc/Sp3mp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: שַׁעֲרֵי = H8179 שַׁעַר "an opening, i.e. door or gate" [HNcmpc]
+- o5: הֶ/חָצֵר = Hd "the" + H2691 חָצֵר "a yard (as inclosed by a fence)…" [HTd/Ncbsa]
+- o6: הַ/פְּנִימִית = Hd "the" + H6442 פְּנִימִי "interior" [HTd/Aafsa]
+- o7: בִּגְדֵי = H899 בֶּגֶד "a covering, i.e. clothing…" [HNcmpc]
+- o8: פִשְׁתִּים = H6593 פִּשְׁתֶּה "linen (i.e. the thread, as carded)" [HNcmpa]
+- o9: יִלְבָּשׁוּ = H3847 לָבַשׁ "properly, wrap around…" [HVqi3mp]
+- o10: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o11: יַעֲלֶה = H5927 עָלָה "to ascend…" [HVqi3ms]
+- o12: עֲלֵי/הֶם = H5921 עַל "above, over, upon…" [HR/Sp3mp]
+- o13: צֶמֶר = H6785 צֶמֶר "wool" [HNcmsa]
+- o14: בְּ/שָׁרְתָ/ם = Hb "in" + H8334 שָׁרַת "to attend as a menial or worshipper…" [HR/Vpc/Sp3mp]
+- o15: בְּ/שַׁעֲרֵי = Hb "in" + H8179 שַׁעַר "an opening, i.e. door or gate" [HR/Ncmpc]
+- o16: הֶ/חָצֵר = Hd "the" + H2691 חָצֵר "a yard (as inclosed by a fence)…" [HTd/Ncbsa]
+- o17: הַ/פְּנִימִית = Hd "the" + H6442 פְּנִימִי "interior" [HTd/Aafsa]
+- o18: וָ/בָיְתָ/ה = Hc "and" + H1004 בַּיִת "a house (in the greatest variation of…" [HC/Ncmsa/Sd]

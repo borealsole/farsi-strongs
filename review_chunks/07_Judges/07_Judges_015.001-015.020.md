@@ -1177,3 +1177,29 @@ Persian entries and current tags:
 - p10: را  → H853
 - p11: داوری کرد  → H8199
 - p12: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Judges 14:20 (context)
+
+- o1: וַ/תְּהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3fs]
+- o2: אֵשֶׁת = H802 אִשָּׁה "a woman" [HNcfsc]
+- o3: שִׁמְשׁוֹן = H8123 שִׁמְשׁוֹן "Shimshon, an Israelite" [HNp]
+- o4: לְ/מֵרֵעֵ/הוּ = Hl "to" + H4828 מֵרֵעַ "a friend" [HR/Ncmsc/Sp3ms]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: רֵעָה = H7462 רָעָה "to tend a flock; i.e. pasture it…" [HVpp3ms]
+- o7: ל/וֹ = Hl "to" [HR/Sp3ms]
+
+### Judges 16:1 (context)
+
+- o1: וַ/יֵּלֶךְ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3ms]
+- o2: שִׁמְשׁוֹן = H8123 שִׁמְשׁוֹן "Shimshon, an Israelite" [HNp]
+- o3: עַזָּתָ/ה = H5804 עַזָּה "Azzah, a place in Palestine" [HNp/Sd]
+- o4: וַ/יַּרְא = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw3ms]
+- o5: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o6: אִשָּׁה = H802 אִשָּׁה "a woman" [HNcfsa]
+- o7: זוֹנָה = H2181 זָנָה "to commit adultery (usually of the female…" [HVqrfsa]
+- o8: וַ/יָּבֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3ms]
+- o9: אֵלֶי/הָ = H413 אֵל "near, with or among; often in general, to" [HR/Sp3fs]

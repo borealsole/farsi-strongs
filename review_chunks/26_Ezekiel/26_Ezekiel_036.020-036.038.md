@@ -1037,3 +1037,34 @@ Persian entries and current tags:
 - p29: هستم
 - p30: .
 - p31: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 36:19 (context)
+
+- o1: וָ/אָפִיץ = Hc "and" + H6327 פּוּץ "to dash in pieces…" [HC/Vhw1cs]
+- o2: אֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o3: בַּ/גּוֹיִם = Hb "in" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HRd/Ncmpa]
+- o4: וַ/יִּזָּרוּ = Hc "and" + H2219 זָרָה "to toss about; by implication, to diffuse, winnow" [HC/VNw3mp]
+- o5: בָּ/אֲרָצוֹת = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HRd/Ncbpa]
+- o6: כְּ/דַרְכָּ/ם = Hk "like" + H1870 דֶּרֶךְ "a road (as trodden)…" [HR/Ncbsc/Sp3mp]
+- o7: וְ/כַ/עֲלִילוֹתָ/ם = Hc "and" + Hk "like" + H5949 עֲלִילָה "an exploit (of God), or a performance (of man…" [HC/R/Ncfpc/Sp3mp]
+- o8: שְׁפַטְתִּי/ם = H8199 שָׁפַט "to judge…" [HVqp1cs/Sp3mp]
+
+### Ezekiel 37:1 (context)
+
+- o1: הָיְתָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3fs]
+- o2: עָלַ/י = H5921 עַל "above, over, upon…" [HR/Sp1cs]
+- o3: יַד = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsc]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: וַ/יּוֹצִאֵ/נִי = Hc "and" + H3318 יָצָא "to go (causatively, bring) out…" [HC/Vhw3ms/Sp1cs]
+- o6: בְ/רוּחַ = Hb "in" + H7307 רוּחַ "wind…" [HR/Ncbsc]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: וַ/יְנִיחֵ/נִי = Hc "and" + H5117 נוּחַ "to rest, i.e. settle down…" [HC/Vhw3ms/Sp1cs]
+- o9: בְּ/תוֹךְ = Hb "in" + H8432 תָּוֶךְ "a bisection, i.e. (by implication) the centre" [HR/Ncmsc]
+- o10: הַ/בִּקְעָה = Hd "the" + H1237 בִּקְעָה "properly, a split…" [HTd/Ncfsa]
+- o11: וְ/הִיא = Hc "and" + H1931 הוּא "he (she or it)…" [HC/Pp3fs]
+- o12: מְלֵאָה = H4392 מָלֵא "full (literally or figuratively) or filling…" [HAafsa]
+- o13: עֲצָמוֹת = H6106 עֶצֶם "a bone (as strong); by extension, the body…" [HNcfpa]

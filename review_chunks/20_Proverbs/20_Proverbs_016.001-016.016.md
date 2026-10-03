@@ -581,3 +581,28 @@ Persian entries and current tags:
 - p15: از  → Hm
 - p16: نقره  → H3701
 - p17: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 15:33 (context)
+
+- o1: יִרְאַת = H3374 יִרְאָה "fear (also used as infinitive); morally, reverence" [HNcfsc]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: מוּסַר = H4148 מוּסָר "properly, chastisement…" [HNcmsc]
+- o4: חָכְמָה = H2451 חׇכְמָה "wisdom (in a good sense)" [HNcfsa]
+- o5: וְ/לִ/פְנֵי = Hc "and" + Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HC/R/Ncbpc]
+- o6: כָבוֹד = H3519 כָּבוֹד "properly, weight…" [HNcbsa]
+- o7: עֲנָוָה = H6038 עֲנָוָה "condescension, human and subjective (modesty)…" [HNcfsa]
+
+### Proverbs 16:17 (context)
+
+- o1: מְסִלַּת = H4546 מְסִלָּה "a thoroughfare (as turnpiked)…" [HNcfsc]
+- o2: יְשָׁרִים = H3477 יָשָׁר "straight (literally or figuratively)" [HAampa]
+- o3: סוּר = H5493 סוּר "to turn off (literal or figurative)" [HVqc]
+- o4: מֵ/רָע = Hm "from" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HR/Aamsa]
+- o5: שֹׁמֵר = H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HVqrmsa]
+- o6: נַפְשׁ/וֹ = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsc/Sp3ms]
+- o7: נֹצֵר = H5341 נָצַר "to guard, in a good sense (to protect, maintain…" [HVqrmsa]
+- o8: דַּרְכּ/וֹ = H1870 דֶּרֶךְ "a road (as trodden)…" [HNcbsc/Sp3ms]

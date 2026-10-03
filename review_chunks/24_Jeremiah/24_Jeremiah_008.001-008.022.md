@@ -1252,3 +1252,44 @@ Persian entries and current tags:
 - p21: باز  → H5927
 - p22: نیافته_است  → H3808
 - p23: ؟
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 7:34 (context)
+
+- o1: וְ/הִשְׁבַּתִּי = Hc "and" + H7673 שָׁבַת "to repose, i.e. desist from exertion…" [HC/Vhq1cs]
+- o2: מֵ/עָרֵי = Hm "from" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HR/Ncfpc]
+- o3: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o4: וּ/מֵ/חֻצוֹת = Hc "and" + Hm "from" + H2351 חוּץ "properly, separate by awall, i.e. outside…" [HC/R/Ncmpc]
+- o5: יְרוּשָׁלִַם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+- o6: קוֹל = H6963 קוֹל "a voice or sound" [HNcmsc]
+- o7: שָׂשׂוֹן = H8342 שָׂשׂוֹן "cheerfulness; specifically, welcome" [HNcmsa]
+- o8: וְ/קוֹל = Hc "and" + H6963 קוֹל "a voice or sound" [HC/Ncmsc]
+- o9: שִׂמְחָה = H8057 שִׂמְחָה "blithesomeness or glee, (religious or festival)" [HNcfsa]
+- o10: קוֹל = H6963 קוֹל "a voice or sound" [HNcmsc]
+- o11: חָתָן = H2860 חָתָן "a relative by marriage (especially through the…" [HNcmsa]
+- o12: וְ/קוֹל = Hc "and" + H6963 קוֹל "a voice or sound" [HC/Ncmsc]
+- o13: כַּלָּה = H3618 כַּלָּה "a bride (as if perfect); hence, a son's wife" [HNcfsa]
+- o14: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o15: לְ/חָרְבָּה = Hl "to" + H2723 חׇרְבָּה "properly, drought…" [HR/Ncfsa]
+- o16: תִּהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3fs]
+- o17: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+
+### Jeremiah 9:1 (context)
+
+- o1: מִי = H4310 מִי "who? (occasionally, by a peculiar idiom…" [HTi]
+- o2: יִתֵּן = H5414 נָתַן "to give…" [HVqi3ms]
+- o3: רֹאשִׁ/י = H7218 רֹאשׁ "the head (as most easily shaken)…" [HNcmsc/Sp1cs]
+- o4: מַיִם = H4325 מַיִם "water; figuratively, juice…" [HNcmpa]
+- o5: וְ/עֵינִ/י = Hc "and" + H5869 עַיִן "an eye (literally or figuratively)…" [HC/Ncbsc/Sp1cs]
+- o6: מְקוֹר = H4726 מָקוֹר "properly, something dug…" [HNcmsc]
+- o7: דִּמְעָה = H1832 דִּמְעָה "weeping" [HNcfsa]
+- o8: וְ/אֶבְכֶּה = Hc "and" + H1058 בָּכָה "to weep; generally to bemoan" [HC/Vqh1cs]
+- o9: יוֹמָם = H3119 יוֹמָם "daily" [HD]
+- o10: וָ/לַיְלָה = Hc "and" + H3915 לַיִל "properly, a twist (away of the light), i.e. night…" [HC/Ncmsa]
+- o11: אֵת = H853 אֵת "properly…" [HTo]
+- o12: חַלְלֵי = H2491 חָלָל "pierced (especially to death)…" [HAampc]
+- o13: בַת = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfsc]
+- o14: עַמִּ/י = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp1cs]

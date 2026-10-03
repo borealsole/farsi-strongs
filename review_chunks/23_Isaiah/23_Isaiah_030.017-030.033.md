@@ -1010,3 +1010,55 @@ Persian entries and current tags:
 - p36: را
 - p37: برمی‌افروزد  → H1197
 - p38: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 30:16 (context)
+
+- o1: וַ/תֹּאמְרוּ = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw2mp]
+- o2: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o3: כִי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o4: עַל = H5921 עַל "above, over, upon…" [HR]
+- o5: סוּס = H5483 סוּס "a horse (as leaping)…" [HNcmsa]
+- o6: נָנוּס = H5127 נוּס "to flit, i.e. vanish away (subside, escape…" [HVqi1cp]
+- o7: עַל = H5921 עַל "above, over, upon…" [HR]
+- o8: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o9: תְּנוּסוּ/ן = H5127 נוּס "to flit, i.e. vanish away (subside, escape…" [HVqi2mp/Sn]
+- o10: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o11: קַל = H7031 קַל "light; (by implication) rapid (also adverbial)" [HAamsa]
+- o12: נִרְכָּב = H7392 רָכַב "to ride (on an animal or in a vehicle)…" [HVqi1cp]
+- o13: עַל = H5921 עַל "above, over, upon…" [HR]
+- o14: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o15: יִקַּלּוּ = H7043 קָלַל "to be (causatively, make) light, literally (swift…" [HVNi3mp]
+- o16: רֹדְפֵי/כֶם = H7291 רָדַף "to run after (usually with hostile intent…" [HVqrmpc/Sp2mp]
+
+### Isaiah 31:1 (context)
+
+- o1: הוֹי = H1945 הוֹי "oh!" [HTj]
+- o2: הַ/יֹּרְדִים = Hd "the" + H3381 יָרַד "to descend (literally, to go downwards…" [HTd/Vqrmpa]
+- o3: מִצְרַיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o4: לְ/עֶזְרָה = Hl "to" + H5833 עֶזְרָה "aid" [HR/Ncfsa]
+- o5: עַל = H5921 עַל "above, over, upon…" [HR]
+- o6: סוּסִים = H5483 סוּס "a horse (as leaping)…" [HNcmpa]
+- o7: יִשָּׁעֵנוּ = H8172 שָׁעַן "to support one's self" [HVNi3mp]
+- o8: וַ/יִּבְטְחוּ = Hc "and" + H982 בָּטַח "figuratively, to trust, be confident or sure" [HC/Vqw3mp]
+- o9: עַל = H5921 עַל "above, over, upon…" [HR]
+- o10: רֶכֶב = H7393 רֶכֶב "a vehicle; by implication, a team…" [HNcmsa]
+- o11: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o12: רָב = H7227 רַב "abundant (in quantity, size, age, number, rank…" [HAamsa]
+- o13: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o14: פָּרָשִׁים = H6571 פָּרָשׁ "a steed (as stretched out to a vehicle…" [HNcmpa]
+- o15: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o16: עָצְמוּ = H6105 עָצַם "to bind fast, i.e. close (the eyes)…" [HVqp3cp]
+- o17: מְאֹד = H3966 מְאֹד "properly, vehemence…" [HD]
+- o18: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o19: שָׁעוּ = H8159 שָׁעָה "to gaze at or about (properly, for help)…" [HVqp3cp]
+- o20: עַל = H5921 עַל "above, over, upon…" [HR]
+- o21: קְדוֹשׁ = H6918 קָדוֹשׁ "sacred (ceremonially or morally)…" [HAamsc]
+- o22: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o23: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o24: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o25: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o26: דָרָשׁוּ = H1875 דָּרַשׁ "properly, to tread or frequent…" [HVqp3cp]

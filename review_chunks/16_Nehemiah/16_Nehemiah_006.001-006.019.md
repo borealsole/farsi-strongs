@@ -1103,3 +1103,33 @@ Persian entries and current tags:
 - p21: مرا
 - p22: بترساند  → H3372
 - p23: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Nehemiah 5:19 (context)
+
+- o1: זָכְרָ/ה = H2142 זָכַר "properly, to mark (so as to be recognized)…" [HVqv2ms/Sh]
+- o2: לִּ/י = Hl "to" [HR/Sp1cs]
+- o3: אֱלֹהַ/י = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp1cs]
+- o4: לְ/טוֹבָה = Hl "to" + H2896 טוֹב "good (as an adjective) in the widest sense…" [HR/Aafsa]
+- o5: כֹּל = H3605 כֹּל "properly, the whole…" [HNcmsa]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: עָשִׂיתִי = H6213 עָשָׂה "to do or make…" [HVqp1cs]
+- o8: עַל = H5921 עַל "above, over, upon…" [HR]
+- o9: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o10: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+
+### Nehemiah 7:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o3: נִבְנְתָה = H1129 בָּנָה "to build (literally and figuratively)" [HVNp3fs]
+- o4: הַ/חוֹמָה = Hd "the" + H2346 חוֹמָה "a wall of protection" [HTd/Ncfsa]
+- o5: וָ/אַעֲמִיד = Hc "and" + H5975 עָמַד "to stand…" [HC/Vhw1cs]
+- o6: הַ/דְּלָתוֹת = Hd "the" + H1817 דֶּלֶת "something swinging, i.e. the valve of adoor" [HTd/Ncfpa]
+- o7: וַ/יִּפָּקְדוּ = Hc "and" + H6485 פָּקַד "to visit (with friendly or hostile intent)…" [HC/VNw3mp]
+- o8: הַ/שּׁוֹעֲרִים = Hd "the" + H7778 שׁוֹעֵר "a janitor" [HTd/Ncmpa]
+- o9: וְ/הַ/מְשֹׁרְרִים = Hc "and" + Hd "the" + H7891 שִׁיר "to sing" [HC/Td/Vormpa]
+- o10: וְ/הַ/לְוִיִּם = Hc "and" + Hd "the" + H3881 לֵוִיִּי "a Levite or descendant of Levi" [HC/Td/Ngmpa]

@@ -713,3 +713,32 @@ Persian entries and current tags:
 - p11: از
 - p12: زن آزادیم  → G1658
 - p13: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Galatians 4:16 (context)
+
+- o1: ὥστε = G5620 ὥστε "insomuch) as, so that (then), (insomuch) that…" [CONJ]
+- o2: ἐχθρὸς = G2190 ἐχθρός "enemy, foe" [A-NSM]
+- o3: ὑμῶν = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
+- o4: γέγονα = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-2RAI-1S]
+- o5: ἀληθεύων = G226 ἀληθεύω "speak (tell) the truth" [V-PAP-NSM]
+- o6: ὑμῖν; = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
+
+### Galatians 5:1 (context)
+
+- o1: Τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o2: ἐλευθερίᾳ = G1657 ἐλευθερία "liberty" [N-DSF]
+- o3: ἡμᾶς = G2249 ἡμεῖς "us, we (ourselves)" [P-1AP]
+- o4: Χριστὸς = G5547 Χριστός "Christ" [N-NSM]
+- o5: ἠλευθέρωσεν. = G1659 ἐλευθερόω "deliver, make free" [V-AAI-3S]
+- o6: στήκετε = G4739 στήκω "stand (fast)" [V-PAM-2P]
+- o7: οὖν = G3767 οὖν "and (so, truly), but, now (then)…" [CONJ]
+- o8: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o9: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o10: πάλιν = G3825 πάλιν "again" [ADV]
+- o11: ζυγῷ = G2218 ζυγός "pair of balances, yoke" [N-DSM]
+- o12: δουλίας = G1397 δουλεία "bondage" [N-GSF]
+- o13: ἐνέχεσθε. = G1758 ἐνέχω "entangle with, have a quarrel against, urge" [V-PPM-2P]

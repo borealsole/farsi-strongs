@@ -1265,3 +1265,42 @@ Persian entries and current tags:
 - p6: مِکماش  → H4363
 - p7: رفتند  → H3318
 - p8: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 12:25 (context)
+
+- o1: וְ/אִם = Hc "and" + H518 אִם "used very widely as demonstrative, lo!…" [HC/C]
+- o2: הָרֵעַ = H7489 רָעַע "properly, to spoil (literally…" [HVha]
+- o3: תָּרֵעוּ = H7489 רָעַע "properly, to spoil (literally…" [HVhi2mp]
+- o4: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o5: אַתֶּם = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2mp]
+- o6: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o7: מַלְכְּ/כֶם = H4428 מֶלֶךְ "a king" [HNcmsc/Sp2mp]
+- o8: תִּסָּפוּ = H5595 סָפָה "properly, to scrape (literally, to shave…" [HVNi2mp]
+
+### I Samuel 14:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o3: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o4: יוֹנָתָן = H3129 יוֹנָתָן "Jonathan, the name of ten Israelites" [HNp]
+- o5: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o6: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o7: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o8: הַ/נַּעַר = Hd "the" + H5288 נַעַר "concretely) a boy (as active)…" [HTd/Ncmsa]
+- o9: נֹשֵׂא = H5375 נָשָׂא "to lift, in a great variety of applications…" [HVqrmsc]
+- o10: כֵלָי/ו = H3627 כְּלִי "something prepared…" [HNcmpc/Sp3ms]
+- o11: לְכָ/ה = H3212 יָלַךְ "to walk (literally or figuratively)…" [HVqv2ms/Sh]
+- o12: וְ/נַעְבְּרָה = Hc "and" + H5674 עָבַר "to cross over…" [HC/Vqh1cp]
+- o13: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o14: מַצַּב = H4673 מַצָּב "a fixed spot…" [HNcmsc]
+- o15: פְּלִשְׁתִּים = H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HNgmpa]
+- o16: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o17: מֵ/עֵבֶר = Hm "from" + H5676 עֵבֶר "properly, a region across…" [HR/Ncmsc]
+- o18: הַלָּז = H1975 הַלָּז "this or that" [HPdxcs]
+- o19: וּ/לְ/אָבִי/ו = Hc "and" + Hl "to" + H1 אָב "father, in a literal and immediate…" [HC/R/Ncmsc/Sp3ms]
+- o20: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o21: הִגִּיד = H5046 נָגַד "properly, to front…" [HVhp3ms]

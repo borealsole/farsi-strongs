@@ -568,3 +568,31 @@ Persian entries and current tags:
 - p19: خدمت  → H6440
 - p20: عوام  → H2823
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 22:14 (context)
+
+- o1: שׁוּחָה = H7745 שׁוּחָה "a chasm" [HNcfsa]
+- o2: עֲמֻקָּה = H6013 עָמֹק "deep (literally or figuratively)" [HAafsa]
+- o3: פִּי = H6310 פֶּה "the mouth (as the means of blowing)…" [HNcmsc]
+- o4: זָרוֹת = H2114 זוּר "to turn aside (especially for lodging)…" [HAafpa]
+- o5: זְעוּם = H2194 זָעַם "properly, to foam at the mouth, i.e. to be enraged" [HVqsmsc]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: יפול = H5307 נָפַל "to fall…" [HVqi3ms]
+- o8: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+
+### Proverbs 23:1 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: תֵשֵׁב = H3427 יָשַׁב "properly…" [HVqi2ms]
+- o3: לִ/לְחוֹם = Hl "to" + H3898 לָחַם "to feed on; figuratively, to consume…" [HR/Vqc]
+- o4: אֶת = H854 אֵת "properly…" [HR]
+- o5: מוֹשֵׁל = H4910 מָשַׁל "to rule" [HVqrmsa]
+- o6: בִּין = H995 בִּין "to separate mentally (or distinguish)…" [HVqa]
+- o7: תָּבִין = H995 בִּין "to separate mentally (or distinguish)…" [HVqj2ms]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o10: לְ/פָנֶי/ךָ = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp2ms]

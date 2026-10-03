@@ -1069,3 +1069,52 @@ Persian entries and current tags:
 - p36: التماس  → H2603
 - p37: نمایند  → H6419
 - p38: ،
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 8:16 (context)
+
+- o1: מִן = H4480 מִן "properly, a part of…" [HR]
+- o2: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o3: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o4: הוֹצֵאתִי = H3318 יָצָא "to go (causatively, bring) out…" [HVhp1cs]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: עַמִּ/י = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp1cs]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o9: מִ/מִּצְרַיִם = Hm "from" + H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HR/Np]
+- o10: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o11: בָחַרְתִּי = H977 בָּחַר "properly, to try, i.e. (by implication) select" [HVqp1cs]
+- o12: בְ/עִיר = Hb "in" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HR/Ncfsa]
+- o13: מִ/כֹּל = Hm "from" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o14: שִׁבְטֵי = H7626 שֵׁבֶט "a scion, i.e. (literally) a stick (for punishing…" [HNcmpc]
+- o15: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o16: לִ/בְנוֹת = Hl "to" + H1129 בָּנָה "to build (literally and figuratively)" [HR/Vqc]
+- o17: בַּיִת = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsa]
+- o18: לִ/הְיוֹת = Hl "to" + H1961 הָיָה "to exist, i.e. be or become…" [HR/Vqc]
+- o19: שְׁמִ/י = H8034 שֵׁם "an appellation…" [HNcmsc/Sp1cs]
+- o20: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o21: וָ/אֶבְחַר = Hc "and" + H977 בָּחַר "properly, to try, i.e. (by implication) select" [HC/Vqw1cs]
+- o22: בְּ/דָוִד = Hb "in" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o23: לִ/הְיוֹת = Hl "to" + H1961 הָיָה "to exist, i.e. be or become…" [HR/Vqc]
+- o24: עַל = H5921 עַל "above, over, upon…" [HR]
+- o25: עַמִּ/י = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp1cs]
+- o26: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+
+### I Kings 8:34 (context)
+
+- o1: וְ/אַתָּה = Hc "and" + H859 אַתָּה "thou and thee, or (plural) ye and you" [HC/Pp2ms]
+- o2: תִּשְׁמַע = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqi2ms]
+- o3: הַ/שָּׁמַיִם = Hd "the" + H8064 שָׁמַיִם "the sky (as aloft…" [HTd/Ncmpa]
+- o4: וְ/סָלַחְתָּ = Hc "and" + H5545 סָלַח "to forgive" [HC/Vqq2ms]
+- o5: לְ/חַטַּאת = Hl "to" + H2403 חַטָּאָה "an offence (sometimes habitual sinfulness)…" [HR/Ncfsc]
+- o6: עַמְּ/ךָ = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp2ms]
+- o7: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o8: וַ/הֲשֵׁבֹתָ/ם = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vhq2ms/Sp3mp]
+- o9: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o10: הָ/אֲדָמָה = Hd "the" + H127 אֲדָמָה "soil (from its general redness)" [HTd/Ncfsa]
+- o11: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o12: נָתַתָּ = H5414 נָתַן "to give…" [HVqp2ms]
+- o13: לַ/אֲבוֹתָ/ם = Hl "to" + H1 אָב "father, in a literal and immediate…" [HR/Ncmpc/Sp3mp]

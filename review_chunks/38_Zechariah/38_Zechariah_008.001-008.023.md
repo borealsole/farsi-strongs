@@ -1242,3 +1242,43 @@ Persian entries and current tags:
 - p36: .
 - p37: “
 - p38: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Zechariah 7:14 (context)
+
+- o1: וְ/אֵסָעֲרֵ/ם = Hc "and" + H5590 סָעַר "to rush upon…" [HC/Vpi1cs/Sp3mp]
+- o2: עַל = H5921 עַל "above, over, upon…" [HR]
+- o3: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o4: הַ/גּוֹיִם = Hd "the" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HTd/Ncmpa]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o7: יְדָעוּ/ם = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqp3cp/Sp3mp]
+- o8: וְ/הָ/אָרֶץ = Hc "and" + Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HC/Td/Ncbsa]
+- o9: נָשַׁמָּה = H8047 שַׁמָּה "ruin; by implication, consternation" [HVNp3fs]
+- o10: אַחֲרֵי/הֶם = H310 אַחַר "properly, the hind part…" [HR/Sp3mp]
+- o11: מֵ/עֹבֵר = Hm "from" + H5674 עָבַר "to cross over…" [HR/Vqrmsa]
+- o12: וּ/מִ/שָּׁב = Hc "and" + Hm "from" + H7725 שׁוּב "to turn back (hence…" [HC/R/Vqrmsa]
+- o13: וַ/יָּשִׂימוּ = Hc "and" + H7760 שׂוּם "to put (used in a great variety of applications…" [HC/Vqw3mp]
+- o14: אֶרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsc]
+- o15: חֶמְדָּה = H2532 חֶמְדָּה "delight" [HNcfsa]
+- o16: לְ/שַׁמָּה = Hl "to" + H8047 שַׁמָּה "ruin; by implication, consternation" [HR/Ncfsa]
+
+### Zechariah 9:1 (context)
+
+- o1: מַשָּׂא = H4853 מַשָּׂא "a burden…" [HNcmsc]
+- o2: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: בְּ/אֶרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o5: חַדְרָךְ = H2317 חַדְרָךְ "Chadrak, a Syrian deity" [HNp]
+- o6: וְ/דַמֶּשֶׂק = Hc "and" + H1834 דַּמֶּשֶׂק "Damascus, a city of Syria" [HC/Np]
+- o7: מְנֻחָת/וֹ = H4496 מְנוּחָה "repose or (adverbially) peacefully…" [HNcbsc/Sp3ms]
+- o8: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o9: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o10: עֵין = H5869 עַיִן "an eye (literally or figuratively)…" [HNcbsc]
+- o11: אָדָם = H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HNcmsa]
+- o12: וְ/כֹל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o13: שִׁבְטֵי = H7626 שֵׁבֶט "a scion, i.e. (literally) a stick (for punishing…" [HNcmpc]
+- o14: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]

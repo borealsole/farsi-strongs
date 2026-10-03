@@ -946,3 +946,41 @@ Persian entries and current tags:
 - p29: می‌توانند
 - p30: بخورند  → H398
 - p31: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 6:30 (context)
+
+- o1: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o2: חַטָּאת = H2403 חַטָּאָה "an offence (sometimes habitual sinfulness)…" [HNcfsa]
+- o3: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o4: יוּבָא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVHi3ms]
+- o5: מִ/דָּמָ/הּ = Hm "from" + H1818 דָּם "blood (as that which when shed causes death) of…" [HR/Ncmsc/Sp3fs]
+- o6: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o7: אֹהֶל = H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HNcmsc]
+- o8: מוֹעֵד = H4150 מוֹעֵד "properly, an appointment…" [HNcmsa]
+- o9: לְ/כַפֵּר = Hl "to" + H3722 כָּפַר "to cover (specifically with bitumen)…" [HR/Vpc]
+- o10: בַּ/קֹּדֶשׁ = Hb "in" + H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HRd/Ncmsa]
+- o11: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o12: תֵאָכֵל = H398 אָכַל "to eat (literally or figuratively)" [HVNi3fs]
+- o13: בָּ/אֵשׁ = Hb "in" + H784 אֵשׁ "fire (literally or figuratively)" [HRd/Ncbsa]
+- o14: תִּשָּׂרֵף = H8313 שָׂרַף "to be (causatively, set) on fire" [HVNi3fs]
+
+### Leviticus 7:20 (context)
+
+- o1: וְ/הַ/נֶּפֶשׁ = Hc "and" + Hd "the" + H5315 נֶפֶשׁ "properly, a breathing creature…" [HC/Td/Ncbsa]
+- o2: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o3: תֹּאכַל = H398 אָכַל "to eat (literally or figuratively)" [HVqi3fs]
+- o4: בָּשָׂר = H1320 בָּשָׂר "flesh (from its freshness)…" [HNcmsa]
+- o5: מִ/זֶּבַח = Hm "from" + H2077 זֶבַח "properly, a slaughter…" [HR/Ncmsc]
+- o6: הַ/שְּׁלָמִים = Hd "the" + H8002 שֶׁלֶם "properly, requital…" [HTd/Ncmpa]
+- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o8: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o9: וְ/טֻמְאָת/וֹ = Hc "and" + H2932 טֻמְאָה "religious impurity" [HC/Ncfsc/Sp3ms]
+- o10: עָלָי/ו = H5921 עַל "above, over, upon…" [HR/Sp3ms]
+- o11: וְ/נִכְרְתָה = Hc "and" + H3772 כָּרַת "to cut (off, down or asunder)…" [HC/VNq3fs]
+- o12: הַ/נֶּפֶשׁ = Hd "the" + H5315 נֶפֶשׁ "properly, a breathing creature…" [HTd/Ncbsa]
+- o13: הַ/הִוא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3fs]
+- o14: מֵ/עַמֶּי/הָ = Hm "from" + H5971 עַם "a people (as a congregated unit)…" [HR/Ncmpc/Sp3fs]

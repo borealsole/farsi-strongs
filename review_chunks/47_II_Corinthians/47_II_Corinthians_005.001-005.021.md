@@ -1066,3 +1066,44 @@ Persian entries and current tags:
 - p20: خدا  → G2316
 - p21: شویم
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Corinthians 4:18 (context)
+
+- o1: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o2: σκοπούντων = G4648 σκοπέω "consider, take heed, look at (on), mark" [V-PAP-GPM]
+- o3: ἡμῶν = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+- o4: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
+- o5: βλεπόμενα = G991 βλέπω "behold, beware, lie, look (on, to), perceive…" [V-PPP-APN]
+- o6: ἀλλὰ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o7: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
+- o8: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o9: βλεπόμενα· = G991 βλέπω "behold, beware, lie, look (on, to), perceive…" [V-PPP-APN]
+- o10: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPN]
+- o11: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o12: βλεπόμενα = G991 βλέπω "behold, beware, lie, look (on, to), perceive…" [V-PPP-NPN]
+- o13: πρόσκαιρα, = G4340 πρόσκαιρος "dur-(eth) for awhile, endure for a time…" [A-NPN]
+- o14: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPN]
+- o15: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o16: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o17: βλεπόμενα = G991 βλέπω "behold, beware, lie, look (on, to), perceive…" [V-PPP-NPN]
+- o18: αἰώνια. = G166 αἰώνιος "eternal, for ever, everlasting, world (began)" [A-NPN]
+
+### II Corinthians 6:1 (context)
+
+- o1: Συνεργοῦντες = G4903 συνεργέω "help (work) with, work(-er) together" [V-PAP-NPM]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o4: παρακαλοῦμεν = G3870 παρακαλέω "beseech, call for, (be of good) comfort, desire…" [V-PAI-1P]
+- o5: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o6: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o7: κενὸν = G2756 κενός "empty, (in) vain" [A-ASN]
+- o8: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o9: χάριν = G5485 χάρις "acceptable, benefit, favour, gift, grace(- ious)…" [N-ASF]
+- o10: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o11: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o12: δέξασθαι = G1209 δέχομαι "accept, receive, take" [V-ADN]
+- o13: ὑμᾶς = G5210 ὑμεῖς "ye (yourselves), you" [P-2AP]

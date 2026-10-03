@@ -1320,3 +1320,39 @@ Persian entries and current tags:
 - p25: هستم
 - p26: .
 - p27: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 12:28 (context)
+
+- o1: לָ/כֵן = Hl "to" + H3651 כֵּן "properly, set upright…" [HR/D]
+- o2: אֱמֹר = H559 אָמַר "to say (used with great latitude)" [HVqv2ms]
+- o3: אֲלֵי/הֶם = H413 אֵל "near, with or among; often in general, to" [HR/Sp3mp]
+- o4: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o5: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o6: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o7: יְהוִה = H3069 יְהֹוִה "YHWH" [HNp]
+- o8: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o9: תִמָּשֵׁךְ = H4900 מָשַׁךְ "to draw…" [HVNi3fs]
+- o10: עוֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+- o11: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o12: דְּבָרָ/י = H1697 דָּבָר "a word…" [HNcmpc/Sp1cs]
+- o13: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o14: אֲדַבֵּר = H1696 דָבַר "perhaps properly, to arrange…" [HVpi1cs]
+- o15: דָּבָר = H1697 דָּבָר "a word…" [HNcmsa]
+- o16: וְ/יֵעָשֶׂה = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/VNi3ms]
+- o17: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o18: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o19: יְהוִה = H3069 יְהֹוִה "YHWH" [HNp]
+
+### Ezekiel 14:1 (context)
+
+- o1: וַ/יָּבוֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3ms]
+- o2: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o3: אֲנָשִׁים = H376 אִישׁ "a man as an individual or a male person…" [HNcmpa]
+- o4: מִ/זִּקְנֵי = Hm "from" + H2205 זָקֵן "old" [HR/Aampc]
+- o5: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o6: וַ/יֵּשְׁבוּ = Hc "and" + H3427 יָשַׁב "properly…" [HC/Vqw3mp]
+- o7: לְ/פָנָ/י = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp1cs]

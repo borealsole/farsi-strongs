@@ -761,3 +761,44 @@ Persian entries and current tags:
 - p27: قرار
 - p28: گرفته_است
 - p29: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 6:14 (context)
+
+- o1: וְ/נָטִיתִי = Hc "and" + H5186 נָטָה "to stretch or spread out…" [HC/Vqq1cs]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: יָדִ/י = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsc/Sp1cs]
+- o4: עֲלֵי/הֶם = H5921 עַל "above, over, upon…" [HR/Sp3mp]
+- o5: וְ/נָתַתִּי = Hc "and" + H5414 נָתַן "to give…" [HC/Vqq1cs]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o8: שְׁמָמָה = H8077 שְׁמָמָה "devastation; figuratively, astonishment" [HNcfsa]
+- o9: וּ/מְשַׁמָּה = Hc "and" + H4923 מְשַׁמָּה "a waste or amazement" [HC/Ncfsa]
+- o10: מִ/מִּדְבַּר = Hm "from" + H4057 מִדְבָּר "a pasture (i.e. open field…" [HR/Ncmsc]
+- o11: דִּבְלָתָ/ה = H1689 דִּבְלָה "Diblah, a place in Syria" [HNp/Sd]
+- o12: בְּ/כֹל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o13: מוֹשְׁבוֹתֵי/הֶם = H4186 מוֹשָׁב "a seat; figuratively, a site…" [HNcmpc/Sp3mp]
+- o14: וְ/יָדְעוּ = Hc "and" + H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HC/Vqq3cp]
+- o15: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o16: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o17: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### Ezekiel 7:15 (context)
+
+- o1: הַ/חֶרֶב = Hd "the" + H2719 חֶרֶב "drought…" [HTd/Ncfsa]
+- o2: בַּ/חוּץ = Hb "in" + H2351 חוּץ "properly, separate by awall, i.e. outside…" [HRd/Ncmsa]
+- o3: וְ/הַ/דֶּבֶר = Hc "and" + Hd "the" + H1698 דֶּבֶר "a pestilence" [HC/Td/Ncmsa]
+- o4: וְ/הָ/רָעָב = Hc "and" + Hd "the" + H7458 רָעָב "hunger (more or less extensive)" [HC/Td/Ncmsa]
+- o5: מִ/בָּיִת = Hm "from" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsa]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: בַּ/שָּׂדֶה = Hb "in" + H7704 שָׂדֶה "a field (as flat)" [HRd/Ncmsa]
+- o8: בַּ/חֶרֶב = Hb "in" + H2719 חֶרֶב "drought…" [HRd/Ncfsa]
+- o9: יָמוּת = H4191 מוּת "to die (literally or figuratively)…" [HVqi3ms]
+- o10: וַ/אֲשֶׁר = Hc "and" + H834 אֲשֶׁר "who, which, what, that…" [HC/Tr]
+- o11: בָּ/עִיר = Hb "in" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HRd/Ncfsa]
+- o12: רָעָב = H7458 רָעָב "hunger (more or less extensive)" [HNcmsa]
+- o13: וָ/דֶבֶר = Hc "and" + H1698 דֶּבֶר "a pestilence" [HC/Ncmsa]
+- o14: יֹאכֲלֶ/נּוּ = H398 אָכַל "to eat (literally or figuratively)" [HVqi3ms/Sp3ms]

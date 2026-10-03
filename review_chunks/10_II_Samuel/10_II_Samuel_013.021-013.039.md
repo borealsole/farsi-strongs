@@ -1061,3 +1061,47 @@ Persian entries and current tags:
 - p14: اَمنون  → H550
 - p15: تسلی یافته_بود  → H5162
 - p16: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 13:20 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: אֵלֶי/הָ = H413 אֵל "near, with or among; often in general, to" [HR/Sp3fs]
+- o3: אַבְשָׁלוֹם = H53 אֲבִישָׁלוֹם "Abshalom, a son of David…" [HNp]
+- o4: אָחִי/הָ = H251 אָח "a brother (used in the widest sense of literal…" [HNcmsc/Sp3fs]
+- o5: הַ/אֲמִינוֹן = Hi "(untranslatable; interrogative particle)" + H550 אַמְנוֹן "Amnon (or Aminon), a son of David" [HTi/Np]
+- o6: אָחִי/ךְ = H251 אָח "a brother (used in the widest sense of literal…" [HNcmsc/Sp2fs]
+- o7: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o8: עִמָּ/ךְ = H5973 עִם "adverb or preposition…" [HR/Sp2fs]
+- o9: וְ/עַתָּה = Hc "and" + H6258 עַתָּה "at this time, whether adverb…" [HC/D]
+- o10: אֲחוֹתִ/י = H269 אָחוֹת "a sister (used very widely (like brother)…" [HNcfsc/Sp1cs]
+- o11: הַחֲרִישִׁי = H2790 חָרַשׁ "to scratch, i.e. (by implication) to engrave…" [HVhv2fs]
+- o12: אָחִי/ךְ = H251 אָח "a brother (used in the widest sense of literal…" [HNcmsc/Sp2fs]
+- o13: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o14: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o15: תָּשִׁיתִי = H7896 שִׁית "to place (in a very wide application)" [HVqj2fs]
+- o16: אֶת = H853 אֵת "properly…" [HTo]
+- o17: לִבֵּ/ךְ = H3820 לֵב "the heart…" [HNcmsc/Sp2fs]
+- o18: לַ/דָּבָר = Hl "to" + H1697 דָּבָר "a word…" [HRd/Ncmsa]
+- o19: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o20: וַ/תֵּשֶׁב = Hc "and" + H3427 יָשַׁב "properly…" [HC/Vqw3fs]
+- o21: תָּמָר = H8559 תָּמָר "Tamar, the name of three women and a place" [HNp]
+- o22: וְ/שֹׁמֵמָה = Hc "and" + H8076 שָׁמֵם "ruined" [HC/Vqrfsa]
+- o23: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o24: אַבְשָׁלוֹם = H53 אֲבִישָׁלוֹם "Abshalom, a son of David…" [HNp]
+- o25: אָחִי/הָ = H251 אָח "a brother (used in the widest sense of literal…" [HNcmsc/Sp3fs]
+
+### II Samuel 14:1 (context)
+
+- o1: וַ/יֵּדַע = Hc "and" + H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HC/Vqw3ms]
+- o2: יוֹאָב = H3097 יוֹאָב "Joab, the name of three Israelites" [HNp]
+- o3: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o4: צְרֻיָה = H6870 צְרוּיָה "Tserujah, an Israelitess" [HNp]
+- o5: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o6: לֵב = H3820 לֵב "the heart…" [HNcmsc]
+- o7: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o8: עַל = H5921 עַל "above, over, upon…" [HR]
+- o9: אַבְשָׁלוֹם = H53 אֲבִישָׁלוֹם "Abshalom, a son of David…" [HNp]

@@ -696,3 +696,49 @@ Persian entries and current tags:
 - p8: با  → H854
 - p9: شما
 - p10: نمی‌بندم  → H3808 H3772
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 28:68 (context)
+
+- o1: וֶ/הֱשִׁיבְ/ךָ = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vhq3ms/Sp2ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: מִצְרַיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o4: בָּ/אֳנִיּוֹת = Hb "in" + H591 אֳנִיָּה "a ship" [HR/Ncfpa]
+- o5: בַּ/דֶּרֶךְ = Hb "in" + H1870 דֶּרֶךְ "a road (as trodden)…" [HRd/Ncbsa]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: אָמַרְתִּי = H559 אָמַר "to say (used with great latitude)" [HVqp1cs]
+- o8: לְ/ךָ = Hl "to" [HR/Sp2ms]
+- o9: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o10: תֹסִיף = H3254 יָסַף "to add or augment (often adverbial…" [HVhi2ms]
+- o11: עוֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+- o12: לִ/רְאֹתָ/הּ = Hl "to" + H7200 רָאָה "to see…" [HR/Vqc/Sp3fs]
+- o13: וְ/הִתְמַכַּרְתֶּם = Hc "and" + H4376 מָכַר "to sell, literally (as merchandise…" [HC/Vtq2mp]
+- o14: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o15: לְ/אֹיְבֶי/ךָ = Hl "to" + H341 אֹיֵב "hating; an adversary" [HR/Vqrmpc/Sp2ms]
+- o16: לַ/עֲבָדִים = Hl "to" + H5650 עֶבֶד "a servant" [HR/Ncmpa]
+- o17: וְ/לִ/שְׁפָחוֹת = Hc "and" + Hl "to" + H8198 שִׁפְחָה "a female slave (as a member of the household)" [HC/R/Ncfpa]
+- o18: וְ/אֵין = Hc "and" + H369 אַיִן "a non-entity…" [HC/Tn]
+- o19: קֹנֶה = H7069 קָנָה "to erect, i.e. create…" [HVqrmsa]
+
+### Deuteronomy 29:15 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: אֶת = H854 אֵת "properly…" [HR]
+- o3: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o4: יֶשְׁנ/וֹ = H3426 יֵשׁ "there is or are (or any other form of the verb to…" [HTm/Sp3ms]
+- o5: פֹּה = H6311 פֹּה "this place (French ici), i.e. here or hence" [HD]
+- o6: עִמָּ/נוּ = H5973 עִם "adverb or preposition…" [HR/Sp1cp]
+- o7: עֹמֵד = H5975 עָמַד "to stand…" [HVqrmsa]
+- o8: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o9: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o10: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o11: אֱלֹהֵי/נוּ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp1cp]
+- o12: וְ/אֵת = Hc "and" + H854 אֵת "properly…" [HC/R]
+- o13: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o14: אֵינֶ/נּוּ = H369 אַיִן "a non-entity…" [HTn/Sp3ms]
+- o15: פֹּה = H6311 פֹּה "this place (French ici), i.e. here or hence" [HD]
+- o16: עִמָּ/נוּ = H5973 עִם "adverb or preposition…" [HR/Sp1cp]
+- o17: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]

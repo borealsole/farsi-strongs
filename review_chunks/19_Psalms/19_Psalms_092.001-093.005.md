@@ -718,3 +718,24 @@ Persian entries and current tags:
 - p13: تا
 - p14: ابدالآباد  → H4998
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 91:16 (context)
+
+- o1: אֹרֶךְ = H753 אֹרֶךְ "length" [HNcmsc]
+- o2: יָמִים = H3117 יוֹם "a day (as the warm hours)…" [HNcmpa]
+- o3: אַשְׂבִּיעֵ/הוּ = H7646 שָׂבַע "to sate…" [HVhi1cs/Sp3ms]
+- o4: וְ/אַרְאֵ/הוּ = Hc "and" + H7200 רָאָה "to see…" [HC/Vhi1cs/Sp3ms]
+- o5: בִּ/ישׁוּעָתִ/י = Hb "in" + H3444 יְשׁוּעָה "something saved, i.e. (abstractly) deliverance…" [HR/Ncfsc/Sp1cs]
+
+### Psalms 94:1 (context)
+
+- o1: אֵל = H410 אֵל "strength; as adjective, mighty…" [HNcmsc]
+- o2: נְקָמוֹת = H5360 נְקָמָה "avengement, whether the act of the passion" [HNcfpa]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֵל = H410 אֵל "strength; as adjective, mighty…" [HNcmsc]
+- o5: נְקָמוֹת = H5360 נְקָמָה "avengement, whether the act of the passion" [HNcfpa]
+- o6: הוֹפִיַע = H3313 יָפַע "to shine" [HVhv2ms]

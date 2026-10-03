@@ -888,3 +888,47 @@ Persian entries and current tags:
 - p29: تازه
 - p30: گشت
 - p31: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 4:44 (context)
+
+- o1: וַ/יִּתֵּן = Hc "and" + H5414 נָתַן "to give…" [HC/Vqw3ms]
+- o2: לִ/פְנֵי/הֶם = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp3mp]
+- o3: וַ/יֹּאכְלוּ = Hc "and" + H398 אָכַל "to eat (literally or figuratively)" [HC/Vqw3mp]
+- o4: וַ/יּוֹתִרוּ = Hc "and" + H3498 יָתַר "to jut over or exceed; by implication, to excel…" [HC/Vhw3mp]
+- o5: כִּ/דְבַר = Hk "like" + H1697 דָּבָר "a word…" [HR/Ncmsc]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### II Kings 5:15 (context)
+
+- o1: וַ/יָּשָׁב = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqw3ms]
+- o2: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o3: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsc]
+- o4: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o5: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o6: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o7: מַחֲנֵ/הוּ = H4264 מַחֲנֶה "an encampment (of travellers or troops)…" [HNcbsc/Sp3ms]
+- o8: וַ/יָּבֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3ms]
+- o9: וַ/יַּעֲמֹד = Hc "and" + H5975 עָמַד "to stand…" [HC/Vqw3ms]
+- o10: לְ/פָנָי/ו = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp3ms]
+- o11: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o12: הִנֵּה = H2009 הִנֵּה "lo!" [HTm]
+- o13: נָא = H4994 נָא "'I pray', 'now', or 'then'…" [HTe]
+- o14: יָדַעְתִּי = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqp1cs]
+- o15: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o16: אֵין = H369 אַיִן "a non-entity…" [HTn]
+- o17: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o18: בְּ/כָל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o19: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o20: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o21: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o22: בְּ/יִשְׂרָאֵל = Hb "in" + H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HR/Np]
+- o23: וְ/עַתָּה = Hc "and" + H6258 עַתָּה "at this time, whether adverb…" [HC/D]
+- o24: קַח = H3947 לָקַח "to take (in the widest variety of applications)" [HVqv2ms]
+- o25: נָא = H4994 נָא "'I pray', 'now', or 'then'…" [HTe]
+- o26: בְרָכָה = H1293 בְּרָכָה "benediction; by implication prosperity" [HNcfsa]
+- o27: מֵ/אֵת = Hm "from" + H854 אֵת "properly…" [HR/R]
+- o28: עַבְדֶּ/ךָ = H5650 עֶבֶד "a servant" [HNcmsc/Sp2ms]

@@ -991,3 +991,27 @@ Persian entries and current tags:
 - p13: مجاورشان
 - p14: تصرف کرد  → H3920
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Judges 1:19 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶתּ = H854 אֵת "properly…" [HR]
+- o4: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o5: וַ/יֹּרֶשׁ = Hc "and" + H3423 יָרַשׁ "to occupy (by driving out previous tenants…" [HC/Vhw3ms]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: הָ/הָר = Hd "the" + H2022 הַר "a mountain or range of hills (sometimes used…" [HTd/Ncmsa]
+- o8: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o9: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o10: לְ/הוֹרִישׁ = Hl "to" + H3423 יָרַשׁ "to occupy (by driving out previous tenants…" [HR/Vhc]
+- o11: אֶת = H853 אֵת "properly…" [HTo]
+- o12: יֹשְׁבֵי = H3427 יָשַׁב "properly…" [HVqrmpc]
+- o13: הָ/עֵמֶק = Hd "the" + H6010 עֵמֶק "a vale (i.e. broad depression)" [HTd/Ncmsa]
+- o14: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o15: רֶכֶב = H7393 רֶכֶב "a vehicle; by implication, a team…" [HNcmsc]
+- o16: בַּרְזֶל = H1270 בַּרְזֶל "iron (as cutting); by extension, an iron implement" [HNcmsa]
+- o17: לָ/הֶם = Hl "to" [HR/Sp3mp]

@@ -753,3 +753,41 @@ Persian entries and current tags:
 - p14: در
 - p15: بُرد
 - p16: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 18:30 (context)
+
+- o1: וַ/יֵּצְאוּ = Hc "and" + H3318 יָצָא "to go (causatively, bring) out…" [HC/Vqw3mp]
+- o2: שָׂרֵי = H8269 שַׂר "a head person (of any rank or class)" [HNcmpc]
+- o3: פְלִשְׁתִּים = H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HNgmpa]
+- o4: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o5: מִ/דֵּי = Hm "from" + H1767 דַּי "enough (as noun or adverb)…" [HR/Ncmsc]
+- o6: צֵאתָ/ם = H3318 יָצָא "to go (causatively, bring) out…" [HVqc/Sp3mp]
+- o7: שָׂכַל = H7919 שָׂכַל "to be (causatively…" [HVqp3ms]
+- o8: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o9: מִ/כֹּל = Hm "from" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o10: עַבְדֵי = H5650 עֶבֶד "a servant" [HNcmpc]
+- o11: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o12: וַ/יִּיקַר = Hc "and" + H3365 יָקַר "properly, apparently, to be heavy…" [HC/Vqw3ms]
+- o13: שְׁמ/וֹ = H8034 שֵׁם "an appellation…" [HNcmsc/Sp3ms]
+- o14: מְאֹד = H3966 מְאֹד "properly, vehemence…" [HD]
+
+### I Samuel 19:13 (context)
+
+- o1: וַ/תִּקַּח = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqw3fs]
+- o2: מִיכַל = H4324 מִיכָל "Mikal, Saul's daughter" [HNp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: הַ/תְּרָפִים = Hd "the" + H8655 תְּרָפִים "Teraphim (singular or plural) a family idol" [HTd/Ncmpa]
+- o5: וַ/תָּשֶׂם = Hc "and" + H7760 שׂוּם "to put (used in a great variety of applications…" [HC/Vqw3fs]
+- o6: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o7: הַ/מִּטָּה = Hd "the" + H4296 מִטָּה "a bed (as extended) forsleeping or eating…" [HTd/Ncfsa]
+- o8: וְ/אֵת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o9: כְּבִיר = H3523 כְּבִיר "a matrass (of intertwined materials)" [HNcmsc]
+- o10: הָ/עִזִּים = Hd "the" + H5795 עֵז "a she-goat (as strong)…" [HTd/Ncfpa]
+- o11: שָׂמָה = H7760 שׂוּם "to put (used in a great variety of applications…" [HVqp3fs]
+- o12: מְרַאֲשֹׁתָי/ו = H4763 מְרַאֲשָׁה "properly, a headpiece…" [HNcfpc/Sp3ms]
+- o13: וַ/תְּכַס = Hc "and" + H3680 כָּסָה "properly, to plump, i.e. fill up hollows…" [HC/Vpw3fs]
+- o14: בַּ/בָּגֶד = Hb "in" + H899 בֶּגֶד "a covering, i.e. clothing…" [HRd/Ncmsa]

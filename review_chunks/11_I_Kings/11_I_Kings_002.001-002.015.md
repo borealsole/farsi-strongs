@@ -934,3 +934,41 @@ Persian entries and current tags:
 - p35: تعلق
 - p36: داشت
 - p37: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 1:53 (context)
+
+- o1: וַ/יִּשְׁלַח = Hc "and" + H7971 שָׁלַח "to send away, for…" [HC/Vqw3ms]
+- o2: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o3: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o4: וַ/יֹּרִדֻ/הוּ = Hc "and" + H3381 יָרַד "to descend (literally, to go downwards…" [HC/Vhw3mp/Sp3ms]
+- o5: מֵ/עַל = Hm "from" + H5921 עַל "above, over, upon…" [HR/R]
+- o6: הַ/מִּזְבֵּחַ = Hd "the" + H4196 מִזְבֵּחַ "an altar" [HTd/Ncmsa]
+- o7: וַ/יָּבֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3ms]
+- o8: וַ/יִּשְׁתַּחוּ = Hc "and" + H7812 שָׁחָה "to depress, i.e. prostrate (especially reflexive…" [HC/Vtw3ms]
+- o9: לַ/מֶּלֶךְ = Hl "to" + H4428 מֶלֶךְ "a king" [HRd/Ncmsa]
+- o10: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o11: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o12: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o13: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o14: לֵךְ = H3212 יָלַךְ "to walk (literally or figuratively)…" [HVqv2ms]
+- o15: לְ/בֵיתֶ/ךָ = Hl "to" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc/Sp2ms]
+
+### I Kings 2:16 (context)
+
+- o1: וְ/עַתָּה = Hc "and" + H6258 עַתָּה "at this time, whether adverb…" [HC/D]
+- o2: שְׁאֵלָה = H7596 שְׁאֵלָה "a petition; by implication, a loan" [HNcfsa]
+- o3: אַחַת = H259 אֶחָד "properly, united, i.e. one…" [HAcfsa]
+- o4: אָנֹכִי = H595 אָנֹכִי "I" [HPp1cs]
+- o5: שֹׁאֵל = H7592 שָׁאַל "to inquire; by implication, to request…" [HVqrmsa]
+- o6: מֵ/אִתָּ/ךְ = Hm "from" + H854 אֵת "properly…" [HR/R/Sp2fs]
+- o7: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o8: תָּשִׁבִי = H7725 שׁוּב "to turn back (hence…" [HVhj2fs]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: פָּנָ/י = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc/Sp1cs]
+- o11: וַ/תֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3fs]
+- o12: אֵלָי/ו = H413 אֵל "near, with or among; often in general, to" [HR/Sp3ms]
+- o13: דַּבֵּר = H1696 דָבַר "perhaps properly, to arrange…" [HVpv2ms]

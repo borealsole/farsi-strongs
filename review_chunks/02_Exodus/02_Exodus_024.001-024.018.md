@@ -921,3 +921,33 @@ Persian entries and current tags:
 - p18: کوه  → H2022
 - p19: بود
 - p20: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 23:33 (context)
+
+- o1: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o2: יֵשְׁבוּ = H3427 יָשַׁב "properly…" [HVqi3mp]
+- o3: בְּ/אַרְצְ/ךָ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc/Sp2ms]
+- o4: פֶּן = H6435 פֵּן "properly, removal…" [HC]
+- o5: יַחֲטִיאוּ = H2398 חָטָא "properly, to miss…" [HVhi3mp]
+- o6: אֹתְ/ךָ = H853 אֵת "properly…" [HTo/Sp2ms]
+- o7: לִ/י = Hl "to" [HR/Sp1cs]
+- o8: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o9: תַעֲבֹד = H5647 עָבַד "to work (in any sense)…" [HVqi2ms]
+- o10: אֶת = H853 אֵת "properly…" [HTo]
+- o11: אֱלֹהֵי/הֶם = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp3mp]
+- o12: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o13: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o14: לְ/ךָ = Hl "to" [HR/Sp2ms]
+- o15: לְ/מוֹקֵשׁ = Hl "to" + H4170 מוֹקֵשׁ "a noose (for catching animals) (literally or…" [HR/Ncmsa]
+
+### Exodus 25:1 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: לֵּ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

@@ -793,3 +793,47 @@ Persian entries and current tags:
 - p22: میان
 - p23: خواهد_رفت  → G854
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Hebrews 7:28 (context)
+
+- o1: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o2: νόμος = G3551 νόμος "law" [N-NSM]
+- o3: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o4: ἀνθρώπους = G444 ἄνθρωπος "certain, man" [N-APM]
+- o5: καθίστησιν = G2525 καθίστημι "appoint, be, conduct, make, ordain, set" [V-PAI-3S]
+- o6: ἀρχιερεῖς = G749 ἀρχιερεύς "chief (high) priest, chief of the priests" [N-APM]
+- o7: ἔχοντας = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAP-APM]
+- o8: ἀσθένειαν, = G769 ἀσθένεια "disease, infirmity, sickness, weakness" [N-ASF]
+- o9: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o10: λόγος = G3056 λόγος "account, cause, communication, concerning…" [N-NSM]
+- o11: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o12: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o13: ὁρκωμοσίας = G3728 ὁρκωμοσία "oath" [N-GSF]
+- o14: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o15: μετὰ = G3326 μετά "after(-ward), that he again, against, among, and…" [PREP]
+- o16: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o17: νόμον = G3551 νόμος "law" [N-ASM]
+- o18: υἱὸν = G5207 υἱός "child, foal, son" [N-ASM]
+- o19: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o20: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o21: αἰῶνα = G165 αἰών "age, course, eternal, (for) ever(-more), (n-)ever…" [N-ASM]
+- o22: τετελειωμένον. = G5048 τελειόω "consecrate, finish, fulfil, make) perfect" [V-RPP-ASM]
+
+### Hebrews 9:1 (context)
+
+- o1: Εἶχε = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-IAI-3S]
+- o2: μὲν = G3303 μέν "even, indeed, so, some, truly, verily" [PRT]
+- o3: οὖν = G3767 οὖν "and (so, truly), but, now (then)…" [CONJ]
+- o4: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o5: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o6: πρώτη = G4413 πρῶτος "before, beginning, best, chief(-est)…" [A-NSF-S]
+- o7: δικαιώματα = G1345 δικαίωμα "judgment, justification, ordinance, righteousness" [N-APN]
+- o8: λατρείας = G2999 λατρεία "(divine) service" [N-GSF]
+- o9: τό = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o10: τε = G5037 τέ "also, and, both, even, then, whether" [PRT]
+- o11: ἅγιον = G40 ἅγιος "(most) holy (one, thing), saint" [A-ASN]
+- o12: κοσμικόν. = G2886 κοσμικός "worldly" [A-ASN]

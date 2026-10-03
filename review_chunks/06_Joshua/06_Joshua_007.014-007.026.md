@@ -852,3 +852,67 @@ Persian entries and current tags:
 - p37: نامیده  → H7121 H8034
 - p38: می‌شود‌
 - p39: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Joshua 7:13 (context)
+
+- o1: קֻם = H6965 קוּם "to rise (in various applications, literal…" [HVqv2ms]
+- o2: קַדֵּשׁ = H6942 קָדַשׁ "to be (causatively, make…" [HVpv2ms]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o5: וְ/אָמַרְתָּ = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqq2ms]
+- o6: הִתְקַדְּשׁוּ = H6942 קָדַשׁ "to be (causatively, make…" [HVtv2mp]
+- o7: לְ/מָחָר = Hl "to" + H4279 מָחָר "properly, deferred, i.e. the morrow…" [HR/Ncmsa]
+- o8: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o9: כֹה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o10: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o11: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o12: אֱלֹהֵי = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc]
+- o13: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o14: חֵרֶם = H2764 חֵרֶם "physical (as shutting in) a net (either literally…" [HNcmsa]
+- o15: בְּ/קִרְבְּ/ךָ = Hb "in" + H7130 קֶרֶב "properly, the nearest part, i.e. the center…" [HR/Ncmsc/Sp2ms]
+- o16: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o17: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o18: תוּכַל = H3201 יָכֹל "to be able, literally (can…" [HVqi2ms]
+- o19: לָ/קוּם = Hl "to" + H6965 קוּם "to rise (in various applications, literal…" [HR/Vqc]
+- o20: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o21: אֹיְבֶי/ךָ = H341 אֹיֵב "hating; an adversary" [HVqrmpc/Sp2ms]
+- o22: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o23: הֲסִירְ/כֶם = H5493 סוּר "to turn off (literal or figurative)" [HVhc/Sp2mp]
+- o24: הַ/חֵרֶם = Hd "the" + H2764 חֵרֶם "physical (as shutting in) a net (either literally…" [HTd/Ncmsa]
+- o25: מִ/קִּרְבְּ/כֶם = Hm "from" + H7130 קֶרֶב "properly, the nearest part, i.e. the center…" [HR/Ncmsc/Sp2mp]
+
+### Joshua 8:1 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: יְהוֹשֻׁעַ = H3091 יְהוֹשׁוּעַ "Jehoshua (i.e. Joshua), the Jewish leader" [HNp]
+- o5: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o6: תִּירָא = H3372 יָרֵא "to fear; morally, to revere; caus. to frighten" [HVqj2ms]
+- o7: וְ/אַל = Hc "and" + H408 אַל "not (the qualified negation…" [HC/Tn]
+- o8: תֵּחָת = H2865 חָתַת "properly, to prostrate…" [HVNj2ms]
+- o9: קַח = H3947 לָקַח "to take (in the widest variety of applications)" [HVqv2ms]
+- o10: עִמְּ/ךָ = H5973 עִם "adverb or preposition…" [HR/Sp2ms]
+- o11: אֵת = H853 אֵת "properly…" [HTo]
+- o12: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o13: עַם = H5971 עַם "a people (as a congregated unit)…" [HNcmsc]
+- o14: הַ/מִּלְחָמָה = Hd "the" + H4421 מִלְחָמָה "a battle (i.e. the engagement)…" [HTd/Ncfsa]
+- o15: וְ/קוּם = Hc "and" + H6965 קוּם "to rise (in various applications, literal…" [HC/Vqv2ms]
+- o16: עֲלֵה = H5927 עָלָה "to ascend…" [HVqv2ms]
+- o17: הָ/עָי = Hd "the" + H5857 עַי "Ai, Aja or Ajath, a place in Palestine" [HTd/Np]
+- o18: רְאֵה = H7200 רָאָה "to see…" [HVqv2ms]
+- o19: נָתַתִּי = H5414 נָתַן "to give…" [HVqp1cs]
+- o20: בְ/יָדְ/ךָ = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc/Sp2ms]
+- o21: אֶת = H853 אֵת "properly…" [HTo]
+- o22: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o23: הָ/עַי = Hd "the" + H5857 עַי "Ai, Aja or Ajath, a place in Palestine" [HTd/Np]
+- o24: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o25: עַמּ/וֹ = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp3ms]
+- o26: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o27: עִיר/וֹ = H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HNcfsc/Sp3ms]
+- o28: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o29: אַרְצ/וֹ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsc/Sp3ms]

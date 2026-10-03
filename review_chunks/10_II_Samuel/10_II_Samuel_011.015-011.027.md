@@ -758,3 +758,42 @@ Persian entries and current tags:
 - p34: بد
 - p35: بود  → H5869
 - p36: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 11:14 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: בַ/בֹּקֶר = Hb "in" + H1242 בֹּקֶר "properly, dawn (as the break of day)…" [HRd/Ncmsa]
+- o3: וַ/יִּכְתֹּב = Hc "and" + H3789 כָּתַב "to grave, by implication, to write (describe…" [HC/Vqw3ms]
+- o4: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o5: סֵפֶר = H5612 סֵפֶר "properly, writing (the art or a document)…" [HNcmsa]
+- o6: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o7: יוֹאָב = H3097 יוֹאָב "Joab, the name of three Israelites" [HNp]
+- o8: וַ/יִּשְׁלַח = Hc "and" + H7971 שָׁלַח "to send away, for…" [HC/Vqw3ms]
+- o9: בְּ/יַד = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o10: אוּרִיָּה = H223 אוּרִיָּה "Urijah…" [HNp]
+
+### II Samuel 12:1 (context)
+
+- o1: וַ/יִּשְׁלַח = Hc "and" + H7971 שָׁלַח "to send away, for…" [HC/Vqw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: נָתָן = H5416 נָתָן "Nathan, the name of five Israelites" [HNp]
+- o5: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o6: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o7: וַ/יָּבֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3ms]
+- o8: אֵלָי/ו = H413 אֵל "near, with or among; often in general, to" [HR/Sp3ms]
+- o9: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o10: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o11: שְׁנֵי = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmdc]
+- o12: אֲנָשִׁים = H376 אִישׁ "a man as an individual or a male person…" [HNcmpa]
+- o13: הָיוּ = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3cp]
+- o14: בְּ/עִיר = Hb "in" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HR/Ncfsa]
+- o15: אֶחָת = H259 אֶחָד "properly, united, i.e. one…" [HAcfsa]
+- o16: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o17: עָשִׁיר = H6223 עָשִׁיר "rich, whether literal or figurative (noble)" [HAamsa]
+- o18: וְ/אֶחָד = Hc "and" + H259 אֶחָד "properly, united, i.e. one…" [HC/Acmsa]
+- o19: רָאשׁ = H7326 רוּשׁ "to be destitute" [HVqrmsa]

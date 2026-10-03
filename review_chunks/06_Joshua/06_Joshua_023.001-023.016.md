@@ -1016,3 +1016,42 @@ Persian entries and current tags:
 - p50: هلاک خواهید_شد  → H6
 - p51: .
 - p52: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Joshua 22:34 (context)
+
+- o1: וַ/יִּקְרְאוּ = Hc "and" + H7121 קָרָא "to call out to (i.e. properly, address by name…" [HC/Vqw3mp]
+- o2: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o3: רְאוּבֵן = H7205 רְאוּבֵן "Reuben, a son of Jacob" [HNp]
+- o4: וּ/בְנֵי = Hc "and" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/Ncmpc]
+- o5: גָד = H1410 גָּד "Gad, a son of Jacob…" [HNp]
+- o6: לַ/מִּזְבֵּחַ = Hl "to" + H4196 מִזְבֵּחַ "an altar" [HRd/Ncmsa]
+- o7: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o8: עֵד = H5707 עֵד "concretely, a witness; abstractly, testimony…" [HNcmsa]
+- o9: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o10: בֵּינֹתֵי/נוּ = H996 בֵּין "between (repeated before each noun…" [HR/Sp1cp]
+- o11: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o12: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o13: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+
+### Joshua 24:1 (context)
+
+- o1: וַ/יֶּאֶסֹף = Hc "and" + H622 אָסַף "to gather for any purpose…" [HC/Vqw3ms]
+- o2: יְהוֹשֻׁעַ = H3091 יְהוֹשׁוּעַ "Jehoshua (i.e. Joshua), the Jewish leader" [HNp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o5: שִׁבְטֵי = H7626 שֵׁבֶט "a scion, i.e. (literally) a stick (for punishing…" [HNcmpc]
+- o6: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o7: שְׁכֶמָ/ה = H7927 שְׁכֶם "Shekem, a place in Palestine" [HNp/Sd]
+- o8: וַ/יִּקְרָא = Hc "and" + H7121 קָרָא "to call out to (i.e. properly, address by name…" [HC/Vqw3ms]
+- o9: לְ/זִקְנֵי = Hl "to" + H2205 זָקֵן "old" [HR/Aampc]
+- o10: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o11: וּ/לְ/רָאשָׁי/ו = Hc "and" + Hl "to" + H7218 רֹאשׁ "the head (as most easily shaken)…" [HC/R/Ncmpc/Sp3ms]
+- o12: וּ/לְ/שֹׁפְטָי/ו = Hc "and" + Hl "to" + H8199 שָׁפַט "to judge…" [HC/R/Vqrmpc/Sp3ms]
+- o13: וּ/לְ/שֹׁטְרָי/ו = Hc "and" + Hl "to" + H7860 שֹׁטֵר "properly, a scribe…" [HC/R/Vqrmpc/Sp3ms]
+- o14: וַ/יִּתְיַצְּבוּ = Hc "and" + H3320 יָצַב "to place (any thing so as to stay)…" [HC/Vtw3mp]
+- o15: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o16: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]

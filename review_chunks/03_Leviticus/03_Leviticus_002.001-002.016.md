@@ -821,3 +821,50 @@ Persian entries and current tags:
 - p26: برای  → Hl
 - p27: خداوند  → H3068
 - p28: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 1:17 (context)
+
+- o1: וְ/שִׁסַּע = Hc "and" + H8156 שָׁסַע "to split or tear; figuratively, to upbraid" [HC/Vpq3ms]
+- o2: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o3: בִ/כְנָפָי/ו = Hb "in" + H3671 כָּנָף "an edge or extremity…" [HR/Ncfdc/Sp3ms]
+- o4: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o5: יַבְדִּיל = H914 בָּדַל "to divide (in variation senses literally or…" [HVhi3ms]
+- o6: וְ/הִקְטִיר = Hc "and" + H6999 קָטַר "to smoke…" [HC/Vhq3ms]
+- o7: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o8: הַ/כֹּהֵן = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmsa]
+- o9: הַ/מִּזְבֵּחָ/ה = Hd "the" + H4196 מִזְבֵּחַ "an altar" [HTd/Ncmsa/Sd]
+- o10: עַל = H5921 עַל "above, over, upon…" [HR]
+- o11: הָ/עֵצִים = Hd "the" + H6086 עֵץ "a tree (from its firmness)…" [HTd/Ncmpa]
+- o12: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o13: עַל = H5921 עַל "above, over, upon…" [HR]
+- o14: הָ/אֵשׁ = Hd "the" + H784 אֵשׁ "fire (literally or figuratively)" [HTd/Ncbsa]
+- o15: עֹלָה = H5930 עֹלָה "a step or (collectively, stairs, as ascending)…" [HNcfsa]
+- o16: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o17: אִשֵּׁה = H801 אִשָּׁה "properly, a burnt-offering…" [HNcmsc]
+- o18: רֵיחַ = H7381 רֵיחַ "odor (as if blown)" [HNcmsc]
+- o19: נִיחֹחַ = H5207 נִיחוֹחַ "properly, restful, i.e. pleasant…" [HNcmsa]
+- o20: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+
+### Leviticus 3:1 (context)
+
+- o1: וְ/אִם = Hc "and" + H518 אִם "used very widely as demonstrative, lo!…" [HC/C]
+- o2: זֶבַח = H2077 זֶבַח "properly, a slaughter…" [HNcmsc]
+- o3: שְׁלָמִים = H8002 שֶׁלֶם "properly, requital…" [HNcmpa]
+- o4: קָרְבָּנ/וֹ = H7133 קׇרְבָּן "something brought near the altar…" [HNcmsc/Sp3ms]
+- o5: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o6: מִן = H4480 מִן "properly, a part of…" [HR]
+- o7: הַ/בָּקָר = Hd "the" + H1241 בָּקָר "beef cattle or an animal of the ox family of…" [HTd/Ncbsa]
+- o8: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o9: מַקְרִיב = H7126 קָרַב "to approach (causatively…" [HVhrmsa]
+- o10: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o11: זָכָר = H2145 זָכָר "properly, remembered…" [HAamsa]
+- o12: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o13: נְקֵבָה = H5347 נְקֵבָה "female (from the sexual form)" [HNcfsa]
+- o14: תָּמִים = H8549 תָּמִים "entire (literally, figuratively or morally)…" [HAamsa]
+- o15: יַקְרִיבֶ/נּוּ = H7126 קָרַב "to approach (causatively…" [HVhi3ms/Sp3ms]
+- o16: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o17: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]

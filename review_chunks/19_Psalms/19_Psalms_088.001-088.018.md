@@ -664,3 +664,30 @@ Persian entries and current tags:
 - p11: تاریکی  → H4285
 - p12: است
 - p13: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 87:7 (context)
+
+- o1: וְ/שָׁרִים = Hc "and" + H7891 שִׁיר "to sing" [HC/Vqrmpa]
+- o2: כְּ/חֹלְלִים = Hk "like" + H2490 חָלַל "properly, to bore, i.e. (by implication) to wound…" [HR/Vqrmpa]
+- o3: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o4: מַעְיָנַ/י = H4599 מַעְיָן "a fountain (also collectively), figuratively…" [HNcmpc/Sp1cs]
+- o5: בָּ/ךְ = Hb "in" [HR/Sp2fs]
+
+### Psalms 89:1 (context)
+
+- o1: מַשְׂכִּיל = H4905 מַשְׂכִּיל "instructive, i.e. a didactic poem" [HNcmsa]
+- o2: לְ/אֵיתָן = Hl "to" + H387 אֵיתָן "Ethan, the name of four Israelites" [HR/Np]
+- o3: הָ/אֶזְרָחִי = Hd "the" + H250 אֶזְרָחִי "an Ezrachite or descendant of Zerach" [HTd/Ngmsa]
+- o4: חַסְדֵי = H2617 חֵסֵד "kindness; by implication (towards God) piety…" [HNcmpc]
+- o5: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o6: עוֹלָם = H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HNcmsa]
+- o7: אָשִׁירָה = H7891 שִׁיר "to sing" [HVqh1cs]
+- o8: לְ/דֹר = Hl "to" + H1755 דּוֹר "properly, a revolution of time…" [HR/Ncmsa]
+- o9: וָ/דֹר = Hc "and" + H1755 דּוֹר "properly, a revolution of time…" [HC/Ncmsa]
+- o10: אוֹדִיעַ = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVhi1cs]
+- o11: אֱמוּנָתְ/ךָ = H530 אֱמוּנָה "literally firmness; figuratively security…" [HNcfsc/Sp2ms]
+- o12: בְּ/פִ/י = Hb "in" + H6310 פֶּה "the mouth (as the means of blowing)…" [HR/Ncmsc/Sp1cs]

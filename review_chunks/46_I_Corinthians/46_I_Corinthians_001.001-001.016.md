@@ -798,3 +798,29 @@ Persian entries and current tags:
 - p14: را
 - p15: تعمید داده_باشم  → G907
 - p16: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Corinthians 1:17 (context)
+
+- o1: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o2: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o3: ἀπέστειλέν = G649 ἀποστέλλω "put in, send (away, forth, out), set (at liberty)" [V-AAI-3S]
+- o4: με = G1473 ἐγώ "I, me" [P-1AS]
+- o5: Χριστὸς = G5547 Χριστός "Christ" [N-NSM]
+- o6: βαπτίζειν = G907 βαπτίζω "Baptist, baptize, wash" [V-PAN]
+- o7: ἀλλὰ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o8: εὐαγγελίζεσθαι, = G2097 εὐαγγελίζω "declare, bring (declare…" [V-PMN]
+- o9: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o10: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o11: σοφίᾳ = G4678 σοφία "wisdom" [N-DSF]
+- o12: λόγου, = G3056 λόγος "account, cause, communication, concerning…" [N-GSM]
+- o13: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o14: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o15: κενωθῇ = G2758 κενόω "make (of none effect, of no reputation, void)…" [V-APS-3S]
+- o16: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o17: σταυρὸς = G4716 σταυρός "cross" [N-NSM]
+- o18: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o19: Χριστοῦ. = G5547 Χριστός "Christ" [N-GSM]

@@ -936,3 +936,59 @@ Persian entries and current tags:
 - p17: یوسف  → H3130
 - p18: برد  → H935 H376
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 42:38 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o3: יֵרֵד = H3381 יָרַד "to descend (literally, to go downwards…" [HVqi3ms]
+- o4: בְּנִ/י = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp1cs]
+- o5: עִמָּ/כֶם = H5973 עִם "adverb or preposition…" [HR/Sp2mp]
+- o6: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o7: אָחִי/ו = H251 אָח "a brother (used in the widest sense of literal…" [HNcmsc/Sp3ms]
+- o8: מֵת = H4191 מוּת "to die (literally or figuratively)…" [HVqp3ms]
+- o9: וְ/הוּא = Hc "and" + H1931 הוּא "he (she or it)…" [HC/Pp3ms]
+- o10: לְ/בַדּ/וֹ = Hl "to" + H905 בַּד "properly, separation…" [HR/Ncmsc/Sp3ms]
+- o11: נִשְׁאָר = H7604 שָׁאַר "properly, to swell up, i.e. be (causatively…" [HVNrmsa]
+- o12: וּ/קְרָאָ/הוּ = Hc "and" + H7122 קָרָא "to encounter…" [HC/Vqp3ms/Sp3ms]
+- o13: אָסוֹן = H611 אָסוֹן "hurt" [HNcmsa]
+- o14: בַּ/דֶּרֶךְ = Hb "in" + H1870 דֶּרֶךְ "a road (as trodden)…" [HRd/Ncbsa]
+- o15: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o16: תֵּלְכוּ = H3212 יָלַךְ "to walk (literally or figuratively)…" [HVqi2mp]
+- o17: בָ/הּ = Hb "in" [HR/Sp3fs]
+- o18: וְ/הוֹרַדְתֶּם = Hc "and" + H3381 יָרַד "to descend (literally, to go downwards…" [HC/Vhq2mp]
+- o19: אֶת = H853 אֵת "properly…" [HTo]
+- o20: שֵׂיבָתִ/י = H7872 שֵׂיבָה "old age" [HNcfsc/Sp1cs]
+- o21: בְּ/יָגוֹן = Hb "in" + H3015 יָגוֹן "affliction" [HR/Ncmsa]
+- o22: שְׁאוֹלָ/ה = H7585 שְׁאוֹל "Hades or the world of the dead (as if a…" [HNp/Sd]
+
+### Genesis 43:18 (context)
+
+- o1: וַ/יִּירְאוּ = Hc "and" + H3372 יָרֵא "to fear; morally, to revere; caus. to frighten" [HC/Vqw3mp]
+- o2: הָ/אֲנָשִׁים = Hd "the" + H376 אִישׁ "a man as an individual or a male person…" [HTd/Ncmpa]
+- o3: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o4: הוּבְאוּ = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVHp3cp]
+- o5: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o6: יוֹסֵף = H3130 יוֹסֵף "Joseph, the name of seven Israelites" [HNp]
+- o7: וַ/יֹּאמְרוּ = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3mp]
+- o8: עַל = H5921 עַל "above, over, upon…" [HR]
+- o9: דְּבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o10: הַ/כֶּסֶף = Hd "the" + H3701 כֶּסֶף "silver (from its pale color)…" [HTd/Ncmsa]
+- o11: הַ/שָּׁב = Hd "the" + H7725 שׁוּב "to turn back (hence…" [HTd/Vqrmsa]
+- o12: בְּ/אַמְתְּחֹתֵי/נוּ = Hb "in" + H572 אַמְתַּחַת "properly, something expansive, i.e. a bag" [HR/Ncfpc/Sp1cp]
+- o13: בַּ/תְּחִלָּה = Hb "in" + H8462 תְּחִלָּה "a commencement; rel. original (adverb, -ly)" [HRd/Ncfsa]
+- o14: אֲנַחְנוּ = H587 אֲנַחְנוּ "we" [HPp1cp]
+- o15: מוּבָאִים = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVHsmpa]
+- o16: לְ/הִתְגֹּלֵל = Hl "to" + H1556 גָּלַל "to roll (literally or figuratively)" [HR/Vrc]
+- o17: עָלֵי/נוּ = H5921 עַל "above, over, upon…" [HR/Sp1cp]
+- o18: וּ/לְ/הִתְנַפֵּל = Hc "and" + Hl "to" + H5307 נָפַל "to fall…" [HC/R/Vtc]
+- o19: עָלֵי/נוּ = H5921 עַל "above, over, upon…" [HR/Sp1cp]
+- o20: וְ/לָ/קַחַת = Hc "and" + Hl "to" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/R/Vqc]
+- o21: אֹתָ/נוּ = H853 אֵת "properly…" [HTo/Sp1cp]
+- o22: לַ/עֲבָדִים = Hl "to" + H5650 עֶבֶד "a servant" [HR/Ncmpa]
+- o23: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o24: חֲמֹרֵי/נוּ = H2543 חֲמוֹר "a male ass (from its dun red)" [HNcbpc/Sp1cp]

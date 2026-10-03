@@ -910,3 +910,33 @@ Persian entries and current tags:
 - p25: .
 - p26: “
 - p27: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 18:16 (context)
+
+- o1: וּ/פְדוּיָ/ו = Hc "and" + H6299 פָּדָה "to sever, i.e. ransom; gener. to release, preserve" [HC/Vqsmsc/Sp3ms]
+- o2: מִ/בֶּן = Hm "from" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmsc]
+- o3: חֹדֶשׁ = H2320 חֹדֶשׁ "the new moon; by implication, a month" [HNcmsa]
+- o4: תִּפְדֶּה = H6299 פָּדָה "to sever, i.e. ransom; gener. to release, preserve" [HVqi2ms]
+- o5: בְּ/עֶרְכְּ/ךָ = Hb "in" + H6187 עֵרֶךְ "a pile, equipment, estimate" [HR/Ncmsc/Sp2ms]
+- o6: כֶּסֶף = H3701 כֶּסֶף "silver (from its pale color)…" [HNcmsc]
+- o7: חֲמֵשֶׁת = H2568 חָמֵשׁ "five" [HAcmsc]
+- o8: שְׁקָלִים = H8255 שֶׁקֶל "probably a weight; used as a commercial standard" [HNcmpa]
+- o9: בְּ/שֶׁקֶל = Hb "in" + H8255 שֶׁקֶל "probably a weight; used as a commercial standard" [HR/Ncmsc]
+- o10: הַ/קֹּדֶשׁ = Hd "the" + H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HTd/Ncmsa]
+- o11: עֶשְׂרִים = H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HAcbpa]
+- o12: גֵּרָה = H1626 גֵּרָה "a gerah or small weight (and coin)" [HNcfsa]
+- o13: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+
+### Numbers 19:1 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: וְ/אֶל = Hc "and" + H413 אֵל "near, with or among; often in general, to" [HC/R]
+- o6: אַהֲרֹן = H175 אַהֲרוֹן "Aharon, the brother of Moses" [HNp]
+- o7: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

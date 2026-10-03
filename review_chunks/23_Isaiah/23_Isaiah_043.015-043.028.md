@@ -662,3 +662,35 @@ Persian entries and current tags:
 - p19: دشنام  → H1421
 - p20: خواهم_سپرد
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 43:14 (context)
+
+- o1: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o2: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: גֹּאַלְ/כֶם = H1350 גָּאַל "to be the next of kin (and as such to buy back a…" [HVqrmsc/Sp2mp]
+- o5: קְדוֹשׁ = H6918 קָדוֹשׁ "sacred (ceremonially or morally)…" [HAamsc]
+- o6: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o7: לְמַעַנְ/כֶם = H4616 מַעַן "properly, heed, i.e. purpose…" [HR/Sp2mp]
+- o8: שִׁלַּחְתִּי = H7971 שָׁלַח "to send away, for…" [HVpp1cs]
+- o9: בָבֶלָ/ה = H894 בָּבֶל "Babel (i.e. Babylon)…" [HNp/Sd]
+- o10: וְ/הוֹרַדְתִּי = Hc "and" + H3381 יָרַד "to descend (literally, to go downwards…" [HC/Vhq1cs]
+- o11: בָ/רִיחִים = Hb "in" + H1281 בָּרִיחַ "a fugitive, i.e. the serpent (as fleeing)…" [HRd/Ncmpa]
+- o12: כֻּלָּ/ם = H3605 כֹּל "properly, the whole…" [HNcmsc/Sp3mp]
+- o13: וְ/כַשְׂדִּים = Hc "and" + H3778 כַּשְׂדִּי "a Kasdite, or descendant of Kesed…" [HC/Np]
+- o14: בָּ/אֳנִיּוֹת = Hb "in" + H591 אֳנִיָּה "a ship" [HR/Ncfpc]
+- o15: רִנָּתָ/ם = H7440 רִנָּה "properly, a creaking (or shrill sound)…" [HNcfsc/Sp3mp]
+
+### Isaiah 44:1 (context)
+
+- o1: וְ/עַתָּה = Hc "and" + H6258 עַתָּה "at this time, whether adverb…" [HC/D]
+- o2: שְׁמַע = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqv2ms]
+- o3: יַעֲקֹב = H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HNp]
+- o4: עַבְדִּ/י = H5650 עֶבֶד "a servant" [HNcmsc/Sp1cs]
+- o5: וְ/יִשְׂרָאֵל = Hc "and" + H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HC/Np]
+- o6: בָּחַרְתִּי = H977 בָּחַר "properly, to try, i.e. (by implication) select" [HVqp1cs]
+- o7: ב/וֹ = Hb "in" [HR/Sp3ms]

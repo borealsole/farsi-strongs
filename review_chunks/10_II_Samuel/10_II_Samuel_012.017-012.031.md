@@ -934,3 +934,40 @@ Persian entries and current tags:
 - p45: اورشلیم  → H3389
 - p46: بازگشتند  → H7725
 - p47: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 12:16 (context)
+
+- o1: וַ/יְבַקֵּשׁ = Hc "and" + H1245 בָּקַשׁ "to search out (by any method…" [HC/Vpw3ms]
+- o2: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o5: בְּעַד = H1157 בְּעַד "in up to or over against…" [HR]
+- o6: הַ/נָּעַר = Hd "the" + H5288 נַעַר "concretely) a boy (as active)…" [HTd/Ncmsa]
+- o7: וַ/יָּצָם = Hc "and" + H6684 צוּם "to cover over (the mouth), i.e. to fast" [HC/Vqw3ms]
+- o8: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o9: צוֹם = H6685 צוֹם "a fast" [HNcmsa]
+- o10: וּ/בָא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqp3ms]
+- o11: וְ/לָן = Hc "and" + H3885 לוּן "to stop (usually over night)…" [HC/Vqp3ms]
+- o12: וְ/שָׁכַב = Hc "and" + H7901 שָׁכַב "to lie down (for rest, sexual connection…" [HC/Vqp3ms]
+- o13: אָרְצָ/ה = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsa/Sd]
+
+### II Samuel 13:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: אַחֲרֵי = H310 אַחַר "properly, the hind part…" [HR]
+- o3: כֵן = H3651 כֵּן "properly, set upright…" [HD]
+- o4: וּ/לְ/אַבְשָׁלוֹם = Hc "and" + Hl "to" + H53 אֲבִישָׁלוֹם "Abshalom, a son of David…" [HC/R/Np]
+- o5: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o6: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o7: אָחוֹת = H269 אָחוֹת "a sister (used very widely (like brother)…" [HNcfsa]
+- o8: יָפָה = H3303 יָפֶה "beautiful (literally or figuratively)" [HAafsa]
+- o9: וּ/שְׁמָ/הּ = Hc "and" + H8034 שֵׁם "an appellation…" [HC/Ncmsc/Sp3fs]
+- o10: תָּמָר = H8559 תָּמָר "Tamar, the name of three women and a place" [HNp]
+- o11: וַ/יֶּאֱהָבֶ/הָ = Hc "and" + H157 אָהַב "to have affection for (sexually or otherwise)" [HC/Vqw3ms/Sp3fs]
+- o12: אַמְנוֹן = H550 אַמְנוֹן "Amnon (or Aminon), a son of David" [HNp]
+- o13: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o14: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]

@@ -667,3 +667,38 @@ Persian entries and current tags:
 - p16: دیگر
 - p17: آورد  → H3205
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 4:26 (context)
+
+- o1: וּ/לְ/שֵׁת = Hc "and" + Hl "to" + H8352 שֵׁת "Sheth, third son of Adam" [HC/R/Np]
+- o2: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o3: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o4: יֻלַּד = H3205 יָלַד "to bear young; causatively, to beget…" [HVPp3ms]
+- o5: בֵּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsa]
+- o6: וַ/יִּקְרָא = Hc "and" + H7121 קָרָא "to call out to (i.e. properly, address by name…" [HC/Vqw3ms]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: שְׁמ/וֹ = H8034 שֵׁם "an appellation…" [HNcmsc/Sp3ms]
+- o9: אֱנוֹשׁ = H583 אֱנוֹשׁ "Enosh, a son of Seth" [HNp]
+- o10: אָז = H227 אָז "at that time or place…" [HD]
+- o11: הוּחַל = H2490 חָלַל "properly, to bore, i.e. (by implication) to wound…" [HVHp3ms]
+- o12: לִ/קְרֹא = Hl "to" + H7121 קָרָא "to call out to (i.e. properly, address by name…" [HR/Vqc]
+- o13: בְּ/שֵׁם = Hb "in" + H8034 שֵׁם "an appellation…" [HR/Ncmsc]
+- o14: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### Genesis 5:17 (context)
+
+- o1: וַ/יִּהְיוּ = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3mp]
+- o2: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: יְמֵי = H3117 יוֹם "a day (as the warm hours)…" [HNcmpc]
+- o4: מַהֲלַלְאֵל = H4111 מַהֲלַלְאֵל "Mahalalel…" [HNp]
+- o5: חָמֵשׁ = H2568 חָמֵשׁ "five" [HAcfsa]
+- o6: וְ/תִשְׁעִים = Hc "and" + H8673 תִּשְׁעִים "ninety" [HC/Acbpa]
+- o7: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o8: וּ/שְׁמֹנֶה = Hc "and" + H8083 שְׁמֹנֶה "a cardinal number…" [HC/Acfsa]
+- o9: מֵאוֹת = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbpa]
+- o10: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o11: וַ/יָּמֹת = Hc "and" + H4191 מוּת "to die (literally or figuratively)…" [HC/Vqw3ms]

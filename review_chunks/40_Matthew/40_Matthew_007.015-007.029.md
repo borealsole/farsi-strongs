@@ -760,3 +760,42 @@ Persian entries and current tags:
 - p10: دین
 - p11: ایشان  → G846
 - p12: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 7:14 (context)
+
+- o1: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o2: στενὴ = G4728 στενός "strait" [A-NSF]
+- o3: [ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o4: πύλη] = G4439 πύλη "gate" [N-NSF]
+- o5: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o6: τεθλιμμένη = G2346 θλίβω "afflict, narrow, throng, suffer tribulation…" [V-RPP-NSF]
+- o7: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o8: ὁδὸς = G3598 ὁδός "journey, (high-)way" [N-NSF]
+- o9: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o10: ἀπάγουσα = G520 ἀπάγω "bring, carry away, lead (away), put to death…" [V-PAP-NSF]
+- o11: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o12: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o13: ζωήν, = G2222 ζωή "life(-time)" [N-ASF]
+- o14: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o15: ὀλίγοι = G3641 ὀλίγος "+ almost, brief(-ly), few, (a) little, + long…" [A-NPM]
+- o16: εἰσὶν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3P]
+- o17: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o18: εὑρίσκοντες = G2147 εὑρίσκω "find, get, obtain, perceive, see" [V-PAP-NPM]
+- o19: αὐτήν. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASF]
+
+### Matthew 8:1 (context)
+
+- o1: Καταβάντι = G2597 καταβαίνω "come (get, go, step) down, fall (down)" [V-2AAP-DSM]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: αὐτῷ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
+- o4: ἀπὸ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
+- o5: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
+- o6: ὄρους = G3735 ὄρος "hill, mount(-ain)" [N-GSN]
+- o7: ἠκολούθησαν = G190 ἀκολουθέω "follow, reach" [V-AAI-3P]
+- o8: αὐτῷ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
+- o9: ὄχλοι = G3793 ὄχλος "company, multitude, number (of people), people…" [N-NPM]
+- o10: πολλοί. = G4183 πολύς "abundant, + altogether, common, + far (passed…" [A-NPM]

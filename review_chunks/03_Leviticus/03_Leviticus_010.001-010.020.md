@@ -1147,3 +1147,39 @@ Persian entries and current tags:
 - p9: پسند  → H3190
 - p10: آمد  → H3190 H5869
 - p11: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 9:24 (context)
+
+- o1: וַ/תֵּצֵא = Hc "and" + H3318 יָצָא "to go (causatively, bring) out…" [HC/Vqw3fs]
+- o2: אֵשׁ = H784 אֵשׁ "fire (literally or figuratively)" [HNcbsa]
+- o3: מִ/לִּ/פְנֵי = Hm "from" + Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/R/Ncbpc]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: וַ/תֹּאכַל = Hc "and" + H398 אָכַל "to eat (literally or figuratively)" [HC/Vqw3fs]
+- o6: עַל = H5921 עַל "above, over, upon…" [HR]
+- o7: הַ/מִּזְבֵּחַ = Hd "the" + H4196 מִזְבֵּחַ "an altar" [HTd/Ncmsa]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: הָ/עֹלָה = Hd "the" + H5930 עֹלָה "a step or (collectively, stairs, as ascending)…" [HTd/Ncfsa]
+- o10: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o11: הַ/חֲלָבִים = Hd "the" + H2459 חֶלֶב "fat, whether literally or figuratively…" [HTd/Ncmpa]
+- o12: וַ/יַּרְא = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw3ms]
+- o13: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o14: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o15: וַ/יָּרֹנּוּ = Hc "and" + H7442 רָנַן "properly, to creak (or emit a stridulous sound)…" [HC/Vqw3mp]
+- o16: וַ/יִּפְּלוּ = Hc "and" + H5307 נָפַל "to fall…" [HC/Vqw3mp]
+- o17: עַל = H5921 עַל "above, over, upon…" [HR]
+- o18: פְּנֵי/הֶם = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc/Sp3mp]
+
+### Leviticus 11:1 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: וְ/אֶל = Hc "and" + H413 אֵל "near, with or among; often in general, to" [HC/R]
+- o6: אַהֲרֹן = H175 אַהֲרוֹן "Aharon, the brother of Moses" [HNp]
+- o7: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o8: אֲלֵ/הֶם = H413 אֵל "near, with or among; often in general, to" [HR/Sp3mp]

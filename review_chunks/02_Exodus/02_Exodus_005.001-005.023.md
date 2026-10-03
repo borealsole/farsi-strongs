@@ -1145,3 +1145,45 @@ Persian entries and current tags:
 - p27: نکرده‌ای
 - p28: .
 - p29: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 4:31 (context)
+
+- o1: וַ/יַּאֲמֵן = Hc "and" + H539 אָמַן "properly, to build up or support…" [HC/Vhw3ms]
+- o2: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o3: וַ/יִּשְׁמְעוּ = Hc "and" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HC/Vqw3mp]
+- o4: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o5: פָקַד = H6485 פָּקַד "to visit (with friendly or hostile intent)…" [HVqp3ms]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o9: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o10: וְ/כִי = Hc "and" + H3588 כִּי "by implication) very widely used as a relative…" [HC/C]
+- o11: רָאָה = H7200 רָאָה "to see…" [HVqp3ms]
+- o12: אֶת = H853 אֵת "properly…" [HTo]
+- o13: עָנְיָ/ם = H6040 עֳנִי "depression, i.e. misery" [HNcmsc/Sp3mp]
+- o14: וַ/יִּקְּדוּ = Hc "and" + H6915 קָדַד "to shrivel up…" [HC/Vqw3mp]
+- o15: וַ/יִּשְׁתַּחֲוּוּ = Hc "and" + H7812 שָׁחָה "to depress, i.e. prostrate (especially reflexive…" [HC/Vvw3mp]
+
+### Exodus 6:1 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: עַתָּה = H6258 עַתָּה "at this time, whether adverb…" [HD]
+- o6: תִרְאֶה = H7200 רָאָה "to see…" [HVqi2ms]
+- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o8: אֶעֱשֶׂה = H6213 עָשָׂה "to do or make…" [HVqi1cs]
+- o9: לְ/פַרְעֹה = Hl "to" + H6547 פַּרְעֹה "Paroh, a general title of Egyptian kings" [HR/Np]
+- o10: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o11: בְ/יָד = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsa]
+- o12: חֲזָקָה = H2389 חָזָק "strong (usu. in a bad sense, hard, bold, violent)" [HAafsa]
+- o13: יְשַׁלְּחֵ/ם = H7971 שָׁלַח "to send away, for…" [HVpi3ms/Sp3mp]
+- o14: וּ/בְ/יָד = Hc "and" + Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HC/R/Ncbsa]
+- o15: חֲזָקָה = H2389 חָזָק "strong (usu. in a bad sense, hard, bold, violent)" [HAafsa]
+- o16: יְגָרְשֵׁ/ם = H1644 גָּרַשׁ "to drive out from a possession…" [HVpi3ms/Sp3mp]
+- o17: מֵ/אַרְצ/וֹ = Hm "from" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc/Sp3ms]

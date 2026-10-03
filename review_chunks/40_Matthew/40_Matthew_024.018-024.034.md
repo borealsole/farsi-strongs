@@ -847,3 +847,38 @@ Persian entries and current tags:
 - p16: میان  → G3928
 - p17: نخواهد_رفت  → G1096
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 24:17 (context)
+
+- o1: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o2: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o3: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
+- o4: δώματος = G1430 δῶμα "housetop" [N-GSN]
+- o5: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o6: καταβάτω = G2597 καταβαίνω "come (get, go, step) down, fall (down)" [V-2AAM-3S]
+- o7: ἆραι = G142 αἴρω "away with, bear (up), carry, lift up, loose…" [V-AAN]
+- o8: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
+- o9: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o10: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o11: οἰκίας = G3614 οἰκία "home, house(-hold)" [N-GSF]
+- o12: αὐτοῦ, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+
+### Matthew 24:35 (context)
+
+- o1: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o2: οὐρανὸς = G3772 οὐρανός "air, heaven(-ly), sky" [N-NSM]
+- o3: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o4: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o5: γῆ = G1093 γῆ "country, earth(-ly), ground, land, world" [N-NSF]
+- o6: παρελεύσεται, = G3928 παρέρχομαι "come (forth), go, pass (away, by, over), past…" [V-FDI-3S]
+- o7: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o8: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o9: λόγοι = G3056 λόγος "account, cause, communication, concerning…" [N-NPM]
+- o10: μου = G1473 ἐγώ "I, me" [P-1GS]
+- o11: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o12: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o13: παρέλθωσιν. = G3928 παρέρχομαι "come (forth), go, pass (away, by, over), past…" [V-2AAS-3P]

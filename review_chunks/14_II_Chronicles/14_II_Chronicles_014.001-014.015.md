@@ -895,3 +895,29 @@ Persian entries and current tags:
 - p17: اورشلیم  → H3389
 - p18: بازگشتند  → H7725
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 13:22 (context)
+
+- o1: וְ/יֶתֶר = Hc "and" + H3499 יֶתֶר "properly, an overhanging…" [HC/Ncmsc]
+- o2: דִּבְרֵי = H1697 דָּבָר "a word…" [HNcmpc]
+- o3: אֲבִיָּה = H29 אֲבִיָּה "Abijah…" [HNp]
+- o4: וּ/דְרָכָי/ו = Hc "and" + H1870 דֶּרֶךְ "a road (as trodden)…" [HC/Ncbpc/Sp3ms]
+- o5: וּ/דְבָרָי/ו = Hc "and" + H1697 דָּבָר "a word…" [HC/Ncmpc/Sp3ms]
+- o6: כְּתוּבִים = H3789 כָּתַב "to grave, by implication, to write (describe…" [HVqsmpa]
+- o7: בְּ/מִדְרַשׁ = Hb "in" + H4097 מִדְרָשׁ "properly, an investigation…" [HR/Ncmsc]
+- o8: הַ/נָּבִיא = Hd "the" + H5030 נָבִיא "a prophet or (generally) inspired man" [HTd/Ncmsa]
+- o9: עִדּוֹ = H5714 עִדּוֹ "Iddo (or Iddi), the name of five Israelites" [HNp]
+
+### II Chronicles 15:1 (context)
+
+- o1: וַ/עֲזַרְיָהוּ = Hc "and" + H5838 עֲזַרְיָה "Azarjah, the name of nineteen Israelites" [HC/Np]
+- o2: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o3: עוֹדֵד = H5752 עוֹדֵד "Oded, the name of two Israelites" [HNp]
+- o4: הָיְתָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3fs]
+- o5: עָלָי/ו = H5921 עַל "above, over, upon…" [HR/Sp3ms]
+- o6: רוּחַ = H7307 רוּחַ "wind…" [HNcbsc]
+- o7: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]

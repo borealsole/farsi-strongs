@@ -1185,3 +1185,44 @@ Persian entries and current tags:
 - p22: بردارند  → H3947
 - p23: .
 - p24: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 13:18 (context)
+
+- o1: וַ/יֶּאֱהַל = Hc "and" + H167 אָהַל "to tent" [HC/Vqw3ms]
+- o2: אַבְרָם = H87 אַבְרָם "Abram, the original name of Abraham" [HNp]
+- o3: וַ/יָּבֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3ms]
+- o4: וַ/יֵּשֶׁב = Hc "and" + H3427 יָשַׁב "properly…" [HC/Vqw3ms]
+- o5: בְּ/אֵלֹנֵי = Hb "in" + H436 אֵלוֹן "an oak or other strong tree" [HR/Ncmpc]
+- o6: מַמְרֵא = H4471 מַמְרֵא "Mamre, an Amorite" [HNp]
+- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o8: בְּ/חֶבְרוֹן = Hb "in" + H2275 חֶבְרוֹן "Chebron, a place in Palestine…" [HR/Np]
+- o9: וַ/יִּבֶן = Hc "and" + H1129 בָּנָה "to build (literally and figuratively)" [HC/Vqw3ms]
+- o10: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o11: מִזְבֵּחַ = H4196 מִזְבֵּחַ "an altar" [HNcmsa]
+- o12: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+
+### Genesis 15:1 (context)
+
+- o1: אַחַר = H310 אַחַר "properly, the hind part…" [HR]
+- o2: הַ/דְּבָרִים = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmpa]
+- o3: הָ/אֵלֶּה = Hd "the" + H428 אֵלֶּה "these or those" [HTd/Pdxcp]
+- o4: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o5: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o8: אַבְרָם = H87 אַבְרָם "Abram, the original name of Abraham" [HNp]
+- o9: בַּ/מַּחֲזֶה = Hb "in" + H4236 מַחֲזֶה "a vision" [HRd/Ncmsa]
+- o10: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o11: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o12: תִּירָא = H3372 יָרֵא "to fear; morally, to revere; caus. to frighten" [HVqj2ms]
+- o13: אַבְרָם = H87 אַבְרָם "Abram, the original name of Abraham" [HNp]
+- o14: אָנֹכִי = H595 אָנֹכִי "I" [HPp1cs]
+- o15: מָגֵן = H4043 מָגֵן "a shield (i.e. the small one or buckler)…" [HNcbsa]
+- o16: לָ/ךְ = Hl "to" [HR/Sp2fs]
+- o17: שְׂכָרְ/ךָ = H7939 שָׂכָר "payment of contract…" [HNcmsc/Sp2ms]
+- o18: הַרְבֵּה = H7235 רָבָה "to increase (in whatever respect)" [HVha]
+- o19: מְאֹד = H3966 מְאֹד "properly, vehemence…" [HD]

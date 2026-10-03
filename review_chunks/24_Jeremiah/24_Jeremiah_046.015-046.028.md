@@ -834,3 +834,42 @@ Persian entries and current tags:
 - p51: نخواهم_گذاشت
 - p52: .
 - p53: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 46:14 (context)
+
+- o1: הַגִּידוּ = H5046 נָגַד "properly, to front…" [HVhv2mp]
+- o2: בְ/מִצְרַיִם = Hb "in" + H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HR/Np]
+- o3: וְ/הַשְׁמִיעוּ = Hc "and" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HC/Vhv2mp]
+- o4: בְ/מִגְדּוֹל = Hb "in" + H4024 מִגְדּוֹל "Migdol, a place in Egypt" [HR/Np]
+- o5: וְ/הַשְׁמִיעוּ = Hc "and" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HC/Vhv2mp]
+- o6: בְ/נֹף = Hb "in" + H5297 נֹף "Noph, the capital of Upper Egypt" [HR/Np]
+- o7: וּ/בְ/תַחְפַּנְחֵס = Hc "and" + Hb "in" + H8471 תַּחְפַּנְחֵס "Tachpanches, Techaphneches or Tachpenes…" [HC/R/Np]
+- o8: אִמְרוּ = H559 אָמַר "to say (used with great latitude)" [HVqv2mp]
+- o9: הִתְיַצֵּב = H3320 יָצַב "to place (any thing so as to stay)…" [HVtv2ms]
+- o10: וְ/הָכֵן = Hc "and" + H3559 כּוּן "properly, to be erect (i.e. stand perpendicular)…" [HC/Vhv2ms]
+- o11: לָ/ךְ = Hl "to" [HR/Sp2fs]
+- o12: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o13: אָכְלָה = H398 אָכַל "to eat (literally or figuratively)" [HVqp3fs]
+- o14: חֶרֶב = H2719 חֶרֶב "drought…" [HNcfsa]
+- o15: סְבִיבֶי/ךָ = H5439 סָבִיב "as noun) a circle, neighbour, or environs…" [HNcbpc/Sp2ms]
+
+### Jeremiah 47:1 (context)
+
+- o1: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o2: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o3: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o6: יִרְמְיָהוּ = H3414 יִרְמְיָה "Jirmejah, the name of eight or nine Israelites" [HNp]
+- o7: הַ/נָּבִיא = Hd "the" + H5030 נָבִיא "a prophet or (generally) inspired man" [HTd/Ncmsa]
+- o8: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o9: פְּלִשְׁתִּים = H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HNgmpa]
+- o10: בְּ/טֶרֶם = Hb "in" + H2962 טֶרֶם "properly, non-occurrence…" [HR/D]
+- o11: יַכֶּה = H5221 נָכָה "to strike (lightly or severely…" [HVhi3ms]
+- o12: פַרְעֹה = H6547 פַּרְעֹה "Paroh, a general title of Egyptian kings" [HNp]
+- o13: אֶת = H853 אֵת "properly…" [HTo]
+- o14: עַזָּה = H5804 עַזָּה "Azzah, a place in Palestine" [HNp]

@@ -1104,3 +1104,46 @@ Persian entries and current tags:
 - p8: داوود  → H1732
 - p9: شوریده‌اند  → H6586
 - p10: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 9:31 (context)
+
+- o1: וַ/יִּשְׁכַּב = Hc "and" + H7901 שָׁכַב "to lie down (for rest, sexual connection…" [HC/Vqw3ms]
+- o2: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o3: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o4: אֲבֹתָי/ו = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp3ms]
+- o5: וַ/יִּקְבְּרֻ/הוּ = Hc "and" + H6912 קָבַר "to inter" [HC/Vqw3mp/Sp3ms]
+- o6: בְּ/עִיר = Hb "in" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HR/Ncfsc]
+- o7: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o8: אָבִי/ו = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp3ms]
+- o9: וַ/יִּמְלֹךְ = Hc "and" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HC/Vqw3ms]
+- o10: רְחַבְעָם = H7346 רְחַבְעָם "Rechabam, an Israelite king" [HNp]
+- o11: בְּנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o12: תַּחְתָּי/ו = H8478 תַּחַת "the bottom (as depressed)…" [HR/Sp3ms]
+
+### II Chronicles 11:1 (context)
+
+- o1: וַ/יָּבֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3ms]
+- o2: רְחַבְעָם = H7346 רְחַבְעָם "Rechabam, an Israelite king" [HNp]
+- o3: יְרוּשָׁלִַם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+- o4: וַ/יַּקְהֵל = Hc "and" + H6950 קָהַל "to convoke" [HC/Vhw3ms]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o7: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o8: וּ/בִנְיָמִן = Hc "and" + H1144 בִּנְיָמִין "Binjamin, youngest son of Jacob…" [HC/Np]
+- o9: מֵאָה = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbsa]
+- o10: וּ/שְׁמוֹנִים = Hc "and" + H8084 שְׁמֹנִים "eighty, also eightieth" [HC/Acbpa]
+- o11: אֶלֶף = H505 אֶלֶף "hence (the ox's head being the first letter of…" [HAcbsa]
+- o12: בָּחוּר = H977 בָּחַר "properly, to try, i.e. (by implication) select" [HVqsmsa]
+- o13: עֹשֵׂה = H6213 עָשָׂה "to do or make…" [HVqrmsc]
+- o14: מִלְחָמָה = H4421 מִלְחָמָה "a battle (i.e. the engagement)…" [HNcfsa]
+- o15: לְ/הִלָּחֵם = Hl "to" + H3898 לָחַם "to feed on; figuratively, to consume…" [HR/VNc]
+- o16: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o17: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o18: לְ/הָשִׁיב = Hl "to" + H7725 שׁוּב "to turn back (hence…" [HR/Vhc]
+- o19: אֶת = H853 אֵת "properly…" [HTo]
+- o20: הַ/מַּמְלָכָה = Hd "the" + H4467 מַמְלָכָה "dominion…" [HTd/Ncfsa]
+- o21: לִ/רְחַבְעָם = Hl "to" + H7346 רְחַבְעָם "Rechabam, an Israelite king" [HR/Np]

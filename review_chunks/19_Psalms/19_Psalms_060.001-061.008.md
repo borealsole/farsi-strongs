@@ -760,3 +760,33 @@ Persian entries and current tags:
 - p13: روزه  → H3117
 - p14: ادا خواهم_کرد  → H7999
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 59:17 (context)
+
+- o1: עֻזִּ/י = H5797 עֹז "strength in various applications (force, security…" [HNcmsc/Sp1cs]
+- o2: אֵלֶי/ךָ = H413 אֵל "near, with or among; often in general, to" [HR/Sp2ms]
+- o3: אֲזַמֵּרָה = H2167 זָמַר "play upon it…" [HVpi1cs]
+- o4: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o5: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o6: מִשְׂגַּבִּ/י = H4869 מִשְׂגָּב "defence, high fort (tower), refuge, Misgab…" [HNcmsc/Sp1cs]
+- o7: אֱלֹהֵי = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc]
+- o8: חַסְדִּ/י = H2617 חֵסֵד "kindness; by implication (towards God) piety…" [HNcmsc/Sp1cs]
+
+### Psalms 62:1 (context)
+
+- o1: לַ/מְנַצֵּחַ = Hl "to" + H5329 נָצַח "properly, to glitter from afar…" [HRd/Vprmsa]
+- o2: עַל = H5921 עַל "above, over, upon…" [HR]
+- o3: יְדוּתוּן = H3038 יְדוּתוּן "Jeduthun, an Israelite" [HNp]
+- o4: מִזְמוֹר = H4210 מִזְמוֹר "properly, instrumental music…" [HNcmsa]
+- o5: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o6: אַךְ = H389 אַךְ "a particle of affirmation, surely…" [HTa]
+- o7: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o8: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o9: דּוּמִיָּה = H1747 דּוּמִיָּה "stillness; adverbially, silently…" [HNcfsa]
+- o10: נַפְשִׁ/י = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsc/Sp1cs]
+- o11: מִמֶּ/נּוּ = H4480 מִן "properly, a part of…" [HR/Sp1cp]
+- o12: יְשׁוּעָתִ/י = H3444 יְשׁוּעָה "something saved, i.e. (abstractly) deliverance…" [HNcfsc/Sp1cs]

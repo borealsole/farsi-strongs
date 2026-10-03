@@ -1163,3 +1163,56 @@ Persian entries and current tags:
 - p30: عوض
 - p31: پا  → H7272
 - p32: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 18:22 (context)
+
+- o1: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o2: יְדַבֵּר = H1696 דָבַר "perhaps properly, to arrange…" [HVpi3ms]
+- o3: הַ/נָּבִיא = Hd "the" + H5030 נָבִיא "a prophet or (generally) inspired man" [HTd/Ncmsa]
+- o4: בְּ/שֵׁם = Hb "in" + H8034 שֵׁם "an appellation…" [HR/Ncmsc]
+- o5: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o6: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o7: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o8: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]
+- o9: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o10: יָבוֹא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqi3ms]
+- o11: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o12: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]
+- o13: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o14: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o15: דִבְּר/וֹ = H1696 דָבַר "perhaps properly, to arrange…" [HVpp3ms/Sp3ms]
+- o16: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o17: בְּ/זָדוֹן = Hb "in" + H2087 זָדוֹן "arrogance" [HR/Ncmsa]
+- o18: דִּבְּר/וֹ = H1696 דָבַר "perhaps properly, to arrange…" [HVpp3ms/Sp3ms]
+- o19: הַ/נָּבִיא = Hd "the" + H5030 נָבִיא "a prophet or (generally) inspired man" [HTd/Ncmsa]
+- o20: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o21: תָגוּר = H1481 גּוּר "properly…" [HVqi2ms]
+- o22: מִמֶּ/נּוּ = H4480 מִן "properly, a part of…" [HR/Sp3ms]
+
+### Deuteronomy 20:1 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: תֵצֵא = H3318 יָצָא "to go (causatively, bring) out…" [HVqi2ms]
+- o3: לַ/מִּלְחָמָה = Hl "to" + H4421 מִלְחָמָה "a battle (i.e. the engagement)…" [HRd/Ncfsa]
+- o4: עַל = H5921 עַל "above, over, upon…" [HR]
+- o5: אֹיְבֶי/ךָ = H341 אֹיֵב "hating; an adversary" [HVqrmpc/Sp2ms]
+- o6: וְ/רָאִיתָ = Hc "and" + H7200 רָאָה "to see…" [HC/Vqq2ms]
+- o7: סוּס = H5483 סוּס "a horse (as leaping)…" [HNcmsa]
+- o8: וָ/רֶכֶב = Hc "and" + H7393 רֶכֶב "a vehicle; by implication, a team…" [HC/Ncmsa]
+- o9: עַם = H5971 עַם "a people (as a congregated unit)…" [HNcmsa]
+- o10: רַב = H7227 רַב "abundant (in quantity, size, age, number, rank…" [HAamsa]
+- o11: מִמְּ/ךָ = H4480 מִן "properly, a part of…" [HR/Sp2ms]
+- o12: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o13: תִירָא = H3372 יָרֵא "to fear; morally, to revere; caus. to frighten" [HVqi2ms]
+- o14: מֵ/הֶם = Hm "from" [HR/Sp3mp]
+- o15: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o16: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o17: אֱלֹהֶי/ךָ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2ms]
+- o18: עִמָּ/ךְ = H5973 עִם "adverb or preposition…" [HR/Sp2fs]
+- o19: הַ/מַּעַלְ/ךָ = Hd "the" + H5927 עָלָה "to ascend…" [HTd/Vhrmsc/Sp2ms]
+- o20: מֵ/אֶרֶץ = Hm "from" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o21: מִצְרָיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]

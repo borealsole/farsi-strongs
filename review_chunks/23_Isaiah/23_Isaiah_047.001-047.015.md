@@ -883,3 +883,45 @@ Persian entries and current tags:
 - p36: نجات دهد  → H3467
 - p37: .
 - p38: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 46:13 (context)
+
+- o1: קֵרַבְתִּי = H7126 קָרַב "to approach (causatively…" [HVpp1cs]
+- o2: צִדְקָתִ/י = H6666 צְדָקָה "rightness (abstractly), subjectively (rectitude)…" [HNcfsc/Sp1cs]
+- o3: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o4: תִרְחָק = H7368 רָחַק "to widen (in any direction)…" [HVqi3fs]
+- o5: וּ/תְשׁוּעָתִ/י = Hc "and" + H8668 תְּשׁוּעָה "rescue (literal or figurative, persons…" [HC/Ncfsc/Sp1cs]
+- o6: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o7: תְאַחֵר = H309 אָחַר "to loiter (i.e. be behind)…" [HVpi3fs]
+- o8: וְ/נָתַתִּי = Hc "and" + H5414 נָתַן "to give…" [HC/Vqq1cs]
+- o9: בְ/צִיּוֹן = Hb "in" + H6726 צִיּוֹן "Tsijon (as a permanent capital)…" [HR/Np]
+- o10: תְּשׁוּעָה = H8668 תְּשׁוּעָה "rescue (literal or figurative, persons…" [HNcfsa]
+- o11: לְ/יִשְׂרָאֵל = Hl "to" + H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HR/Np]
+- o12: תִּפְאַרְתִּ/י = H8597 תִּפְאָרָה "ornament (abstractly or concretely…" [HNcfsc/Sp1cs]
+
+### Isaiah 48:1 (context)
+
+- o1: שִׁמְעוּ = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqv2mp]
+- o2: זֹאת = H2063 זֹאת "this (often used adverb)" [HPdxfs]
+- o3: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o4: יַעֲקֹב = H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HNp]
+- o5: הַ/נִּקְרָאִים = Hd "the" + H7121 קָרָא "to call out to (i.e. properly, address by name…" [HTd/VNrmpa]
+- o6: בְּ/שֵׁם = Hb "in" + H8034 שֵׁם "an appellation…" [HR/Ncmsc]
+- o7: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o8: וּ/מִ/מֵּי = Hc "and" + Hm "from" + H4325 מַיִם "water; figuratively, juice…" [HC/R/Ncmpc]
+- o9: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o10: יָצָאוּ = H3318 יָצָא "to go (causatively, bring) out…" [HVqp3cp]
+- o11: הַ/נִּשְׁבָּעִים = Hd "the" + H7650 שָׁבַע "to seven oneself…" [HTd/VNrmpa]
+- o12: בְּ/שֵׁם = Hb "in" + H8034 שֵׁם "an appellation…" [HR/Ncmsc]
+- o13: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o14: וּ/בֵ/אלֹהֵי = Hc "and" + Hb "in" + H430 אֱלֹהִים "gods in the ordinary sense…" [HC/R/Ncmpc]
+- o15: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o16: יַזְכִּירוּ = H2142 זָכַר "properly, to mark (so as to be recognized)…" [HVhi3mp]
+- o17: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o18: בֶ/אֱמֶת = Hb "in" + H571 אֶמֶת "stability…" [HR/Ncfsa]
+- o19: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o20: בִ/צְדָקָה = Hb "in" + H6666 צְדָקָה "rightness (abstractly), subjectively (rectitude)…" [HR/Ncfsa]

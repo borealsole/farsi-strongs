@@ -1137,3 +1137,56 @@ Persian entries and current tags:
 - p20: .
 - p21: “
 - p22: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 9:18 (context)
+
+- o1: וַ/יֵּלֶךְ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3ms]
+- o2: רֹכֵב = H7392 רָכַב "to ride (on an animal or in a vehicle)…" [HVqrmsc]
+- o3: הַ/סּוּס = Hd "the" + H5483 סוּס "a horse (as leaping)…" [HTd/Ncmsa]
+- o4: לִ/קְרָאת/וֹ = Hl "to" + H7125 קִרְאָה "an encountering, accidental…" [HR/Vqc/Sp3ms]
+- o5: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o6: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o7: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o8: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o9: הֲ/שָׁלוֹם = Hi "(untranslatable; interrogative particle)" + H7965 שָׁלוֹם "safe, i.e. (figuratively) well, happy, friendly…" [HTi/Ncmsa]
+- o10: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o11: יֵהוּא = H3058 יֵהוּא "Jehu, the name of five Israelites" [HNp]
+- o12: מַה = H4100 מָה "properly…" [HTi]
+- o13: לְּ/ךָ = Hl "to" [HR/Sp2ms]
+- o14: וּ/לְ/שָׁלוֹם = Hc "and" + Hl "to" + H7965 שָׁלוֹם "safe, i.e. (figuratively) well, happy, friendly…" [HC/R/Ncmsa]
+- o15: סֹב = H5437 סָבַב "to revolve, surround, or border…" [HVqv2ms]
+- o16: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o17: אַחֲרָ/י = H310 אַחַר "properly, the hind part…" [HR/Sp1cs]
+- o18: וַ/יַּגֵּד = Hc "and" + H5046 נָגַד "properly, to front…" [HC/Vhw3ms]
+- o19: הַ/צֹּפֶה = Hd "the" + H6822 צָפָה "properly, to lean forward…" [HTd/Vqrmsa]
+- o20: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o21: בָּא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3ms]
+- o22: הַ/מַּלְאָךְ = Hd "the" + H4397 מֲלְאָךְ "a messenger…" [HTd/Ncmsa]
+- o23: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o24: הֵם = H1992 הֵם "they (only used when emphatic)" [HPp3mp]
+- o25: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o26: שָׁב = H7725 שׁוּב "to turn back (hence…" [HVqp3ms]
+
+### II Kings 10:1 (context)
+
+- o1: וּ/לְ/אַחְאָב = Hc "and" + Hl "to" + H256 אַחְאָב "Achab…" [HC/R/Np]
+- o2: שִׁבְעִים = H7657 שִׁבְעִים "seventy" [HAcbpa]
+- o3: בָּנִים = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpa]
+- o4: בְּ/שֹׁמְרוֹן = Hb "in" + H8111 שֹׁמְרוֹן "Shomeron, a place in Palestine" [HR/Np]
+- o5: וַ/יִּכְתֹּב = Hc "and" + H3789 כָּתַב "to grave, by implication, to write (describe…" [HC/Vqw3ms]
+- o6: יֵהוּא = H3058 יֵהוּא "Jehu, the name of five Israelites" [HNp]
+- o7: סְפָרִים = H5612 סֵפֶר "properly, writing (the art or a document)…" [HNcmpa]
+- o8: וַ/יִּשְׁלַח = Hc "and" + H7971 שָׁלַח "to send away, for…" [HC/Vqw3ms]
+- o9: שֹׁמְרוֹן = H8111 שֹׁמְרוֹן "Shomeron, a place in Palestine" [HNp]
+- o10: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o11: שָׂרֵי = H8269 שַׂר "a head person (of any rank or class)" [HNcmpc]
+- o12: יִזְרְעֶאל = H3157 יִזְרְעֵאל "Jizreel…" [HNp]
+- o13: הַ/זְּקֵנִים = Hd "the" + H2205 זָקֵן "old" [HTd/Aampa]
+- o14: וְ/אֶל = Hc "and" + H413 אֵל "near, with or among; often in general, to" [HC/R]
+- o15: הָ/אֹמְנִים = Hd "the" + H539 אָמַן "properly, to build up or support…" [HTd/Vqrmpa]
+- o16: אַחְאָב = H256 אַחְאָב "Achab…" [HNp]
+- o17: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

@@ -1028,3 +1028,34 @@ Persian entries and current tags:
 - p14: ،
 - p15: انجام دادند  → H6213
 - p16: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 8:18 (context)
+
+- o1: וַ/יַּקְרֵב = Hc "and" + H7126 קָרַב "to approach (causatively…" [HC/Vhw3ms]
+- o2: אֵת = H853 אֵת "properly…" [HTo]
+- o3: אֵיל = H352 אַיִל "properly, strength; hence, anything strong…" [HNcmsc]
+- o4: הָ/עֹלָה = Hd "the" + H5930 עֹלָה "a step or (collectively, stairs, as ascending)…" [HTd/Ncfsa]
+- o5: וַ/יִּסְמְכוּ = Hc "and" + H5564 סָמַךְ "to prop (literally or figuratively)…" [HC/Vqw3mp]
+- o6: אַהֲרֹן = H175 אַהֲרוֹן "Aharon, the brother of Moses" [HNp]
+- o7: וּ/בָנָי/ו = Hc "and" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/Ncmpc/Sp3ms]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: יְדֵי/הֶם = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbdc/Sp3mp]
+- o10: עַל = H5921 עַל "above, over, upon…" [HR]
+- o11: רֹאשׁ = H7218 רֹאשׁ "the head (as most easily shaken)…" [HNcmsc]
+- o12: הָ/אָיִל = Hd "the" + H352 אַיִל "properly, strength; hence, anything strong…" [HTd/Ncmsa]
+
+### Leviticus 9:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: בַּ/יּוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
+- o3: הַ/שְּׁמִינִי = Hd "the" + H8066 שְׁמִינִי "eight" [HTd/Aomsa]
+- o4: קָרָא = H7121 קָרָא "to call out to (i.e. properly, address by name…" [HVqp3ms]
+- o5: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o6: לְ/אַהֲרֹן = Hl "to" + H175 אַהֲרוֹן "Aharon, the brother of Moses" [HR/Np]
+- o7: וּ/לְ/בָנָי/ו = Hc "and" + Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/R/Ncmpc/Sp3ms]
+- o8: וּ/לְ/זִקְנֵי = Hc "and" + Hl "to" + H2205 זָקֵן "old" [HC/R/Aampc]
+- o9: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]

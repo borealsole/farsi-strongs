@@ -877,3 +877,41 @@ Persian entries and current tags:
 - p12: او  → H87
 - p13: بزاد  → H3205
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 15:21 (context)
+
+- o1: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o2: הָ/אֱמֹרִי = Hd "the" + H567 אֱמֹרִי "an Emorite, one of the Canaanitish tribes" [HTd/Ngmsa]
+- o3: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o4: הַ/כְּנַעֲנִי = Hd "the" + H3669 כְּנַעַנִי "a Kenaanite or inhabitant of Kenaan…" [HTd/Ngmsa]
+- o5: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o6: הַ/גִּרְגָּשִׁי = Hd "the" + H1622 גִּרְגָּשִׁי "a Girgashite, one of the native tribes of Canaan" [HTd/Ngmsa]
+- o7: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o8: הַ/יְבוּסִי = Hd "the" + H2983 יְבוּסִי "a Jebusite or inhabitant of Jebus" [HTd/Ngmsa]
+
+### Genesis 17:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: אַבְרָם = H87 אַבְרָם "Abram, the original name of Abraham" [HNp]
+- o3: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o4: תִּשְׁעִים = H8673 תִּשְׁעִים "ninety" [HAcbpa]
+- o5: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o6: וְ/תֵשַׁע = Hc "and" + H8672 תֵּשַׁע "nine or (ordinal) ninth" [HC/Acfsa]
+- o7: שָׁנִים = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfpa]
+- o8: וַ/יֵּרָא = Hc "and" + H7200 רָאָה "to see…" [HC/VNw3ms]
+- o9: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o10: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o11: אַבְרָם = H87 אַבְרָם "Abram, the original name of Abraham" [HNp]
+- o12: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o13: אֵלָי/ו = H413 אֵל "near, with or among; often in general, to" [HR/Sp3ms]
+- o14: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o15: אֵל = H410 אֵל "strength; as adjective, mighty…" [HNp]
+- o16: שַׁדַּי = H7706 שַׁדַּי "the Almighty" [HNp]
+- o17: הִתְהַלֵּךְ = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVtv2ms]
+- o18: לְ/פָנַ/י = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp1cs]
+- o19: וֶ/הְיֵה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqv2ms]
+- o20: תָמִים = H8549 תָּמִים "entire (literally, figuratively or morally)…" [HAamsa]

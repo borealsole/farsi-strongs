@@ -646,3 +646,36 @@ Persian entries and current tags:
 - p17: ثابت
 - p18: بمانند
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Timothy 1:20 (context)
+
+- o1: ὧν = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-GPM]
+- o2: ἐστιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o3: Ὑμέναιος = G5211 Ὑμεναῖος "Hymenæus" [N-NSM]
+- o4: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o5: Ἀλέξανδρος, = G223 Ἀλέξανδρος "Alexander" [N-NSM]
+- o6: οὓς = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-APM]
+- o7: παρέδωκα = G3860 παραδίδωμι "betray, bring forth, cast, commit, deliver (up)…" [V-AAI-1S]
+- o8: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o9: σατανᾷ = G4567 Σατανᾶς "Satan" [N-DSM]
+- o10: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o11: παιδευθῶσιν = G3811 παιδεύω "chasten(-ise), instruct, learn, teach" [V-APS-3P]
+- o12: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o13: βλασφημεῖν. = G987 βλασφημέω "speak) blaspheme(-er, -mously, -my), defame…" [V-PAN]
+
+### I Timothy 3:1 (context)
+
+- o1: Πιστὸς = G4103 πιστός "believe(-ing, -r), faithful(-ly), sure, true" [A-NSM]
+- o2: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o3: λόγος· = G3056 λόγος "account, cause, communication, concerning…" [N-NSM]
+- o4: εἴ = G1487 εἰ "forasmuch as, if, that, (al-)though, whether" [COND]
+- o5: τις = G5100 τὶς "a (kind of), any (man, thing, thing at all)…" [X-NSM]
+- o6: ἐπισκοπῆς = G1984 ἐπισκοπή "the office of a "bishop", bishoprick, visitation" [N-GSF]
+- o7: ὀρέγεται, = G3713 ὀρέγομαι "covet after, desire" [V-PMI-3S]
+- o8: καλοῦ = G2570 καλός "better, fair, good(-ly), honest, meet, well…" [A-GSN]
+- o9: ἔργου = G2041 ἔργον "deed, doing, labour, work" [N-GSN]
+- o10: ἐπιθυμεῖ. = G1937 ἐπιθυμέω "covet, desire, would fain, lust (after)" [V-PAI-3S]

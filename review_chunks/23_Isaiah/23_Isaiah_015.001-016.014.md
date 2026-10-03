@@ -1215,3 +1215,34 @@ Persian entries and current tags:
 - p32: خواهند_بود
 - p33: .
 - p34: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 14:32 (context)
+
+- o1: וּ/מַה = Hc "and" + H4100 מָה "properly…" [HC/Ti]
+- o2: יַּעֲנֶה = H6030 עָנָה "properly, to eye or (generally) to heed…" [HVqi3ms]
+- o3: מַלְאֲכֵי = H4397 מֲלְאָךְ "a messenger…" [HNcmpc]
+- o4: גוֹי = H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HNcmsa]
+- o5: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: יִסַּד = H3245 יָסַד "to set (literally or figuratively)…" [HVpp3ms]
+- o8: צִיּוֹן = H6726 צִיּוֹן "Tsijon (as a permanent capital)…" [HNp]
+- o9: וּ/בָ/הּ = Hc "and" + Hb "in" [HC/R/Sp3fs]
+- o10: יֶחֱסוּ = H2620 חָסָה "to flee for protection…" [HVqi3mp]
+- o11: עֲנִיֵּי = H6041 עָנִי "depressed, in mind or circumstances" [HAampc]
+- o12: עַמּ/וֹ = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp3ms]
+
+### Isaiah 17:1 (context)
+
+- o1: מַשָּׂא = H4853 מַשָּׂא "a burden…" [HNcmsc]
+- o2: דַּמָּשֶׂק = H1834 דַּמֶּשֶׂק "Damascus, a city of Syria" [HNp]
+- o3: הִנֵּה = H2009 הִנֵּה "lo!" [HTm]
+- o4: דַמֶּשֶׂק = H1834 דַּמֶּשֶׂק "Damascus, a city of Syria" [HNp]
+- o5: מוּסָר = H5493 סוּר "to turn off (literal or figurative)" [HVHsmsa]
+- o6: מֵ/עִיר = Hm "from" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HR/Ncfsa]
+- o7: וְ/הָיְתָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3fs]
+- o8: מְעִי = H4596 מְעִי "a pile of rubbish (as contorted), i.e. a ruin" [HNcmsc]
+- o9: מַפָּלָה = H4654 מַפָּלָה "something fallen, i.e. a ruin" [HNcfsa]

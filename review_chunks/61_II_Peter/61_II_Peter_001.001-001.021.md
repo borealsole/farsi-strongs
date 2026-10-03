@@ -1116,3 +1116,37 @@ Persian entries and current tags:
 - p17: سخن  → G2980
 - p18: گفتند
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Peter 2:1 (context)
+
+- o1: Ἐγένοντο = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-2ADI-3P]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o4: ψευδοπροφῆται = G5578 ψευδοπροφήτης "false prophet" [N-NPM]
+- o5: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o6: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o7: λαῷ, = G2992 λαός "people" [N-DSM]
+- o8: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
+- o9: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o10: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o11: ὑμῖν = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
+- o12: ἔσονται = G1510 εἰμί "am, have been, it is I, was" [V-FDI-3P]
+- o13: ψευδοδιδάσκαλοι, = G5572 ψευδοδιδάσκαλος "false teacher" [N-NPM]
+- o14: οἵτινες = G3748 ὅστις "and (they), (such) as, (they) that, in that they…" [R-NPM]
+- o15: παρεισάξουσιν = G3919 παρεισάγω "privily bring in" [V-FAI-3P]
+- o16: αἱρέσεις = G139 αἵρεσις "heresy (which is the Greek word itself), sect" [N-APF]
+- o17: ἀπωλείας, = G684 ἀπώλεια "damnable(-nation), destruction, die, perdition…" [N-GSF]
+- o18: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o19: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o20: ἀγοράσαντα = G59 ἀγοράζω "buy, redeem" [V-AAP-ASM]
+- o21: αὐτοὺς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-APM]
+- o22: δεσπότην = G1203 δεσπότης "Lord, master" [N-ASM]
+- o23: ἀρνούμενοι, = G720 ἀρνέομαι "deny, refuse" [V-PNP-NPM]
+- o24: ἐπάγοντες = G1863 ἐπάγω "bring upon" [V-PAP-NPM]
+- o25: ἑαυτοῖς = G1438 ἑαυτοῦ "alone, her (own, -self), (he) himself, his (own)…" [F-3DPM]
+- o26: ταχινὴν = G5031 ταχινός "shortly, swift" [A-ASF]
+- o27: ἀπώλειαν. = G684 ἀπώλεια "damnable(-nation), destruction, die, perdition…" [N-ASF]

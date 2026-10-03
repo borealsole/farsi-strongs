@@ -858,3 +858,51 @@ Persian entries and current tags:
 - p27: زردپی  → H1517
 - p28: گرفت
 - p29: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 32:16 (context)
+
+- o1: וַ/יִּתֵּן = Hc "and" + H5414 נָתַן "to give…" [HC/Vqw3ms]
+- o2: בְּ/יַד = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o3: עֲבָדָי/ו = H5650 עֶבֶד "a servant" [HNcmpc/Sp3ms]
+- o4: עֵדֶר = H5739 עֵדֶר "an arrangement, i.e. muster (of animals)" [HNcmsa]
+- o5: עֵדֶר = H5739 עֵדֶר "an arrangement, i.e. muster (of animals)" [HNcmsa]
+- o6: לְ/בַדּ/וֹ = Hl "to" + H905 בַּד "properly, separation…" [HR/Ncmsc/Sp3ms]
+- o7: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o8: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o9: עֲבָדָי/ו = H5650 עֶבֶד "a servant" [HNcmpc/Sp3ms]
+- o10: עִבְרוּ = H5674 עָבַר "to cross over…" [HVqv2mp]
+- o11: לְ/פָנַ/י = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp1cs]
+- o12: וְ/רֶוַח = Hc "and" + H7305 רֶוַח "room…" [HC/Ncmsa]
+- o13: תָּשִׂימוּ = H7760 שׂוּם "to put (used in a great variety of applications…" [HVqi2mp]
+- o14: בֵּין = H996 בֵּין "between (repeated before each noun…" [HR]
+- o15: עֵדֶר = H5739 עֵדֶר "an arrangement, i.e. muster (of animals)" [HNcmsa]
+- o16: וּ/בֵין = Hc "and" + H996 בֵּין "between (repeated before each noun…" [HC/R]
+- o17: עֵדֶר = H5739 עֵדֶר "an arrangement, i.e. muster (of animals)" [HNcmsa]
+
+### Genesis 33:1 (context)
+
+- o1: וַ/יִּשָּׂא = Hc "and" + H5375 נָשָׂא "to lift, in a great variety of applications…" [HC/Vqw3ms]
+- o2: יַעֲקֹב = H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HNp]
+- o3: עֵינָי/ו = H5869 עַיִן "an eye (literally or figuratively)…" [HNcbdc/Sp3ms]
+- o4: וַ/יַּרְא = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw3ms]
+- o5: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o6: עֵשָׂו = H6215 עֵשָׂו "Esav, a son of Isaac, including his posterity" [HNp]
+- o7: בָּא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqrmsa]
+- o8: וְ/עִמּ/וֹ = Hc "and" + H5973 עִם "adverb or preposition…" [HC/R/Sp3ms]
+- o9: אַרְבַּע = H702 אַרְבַּע "four" [HAcfsa]
+- o10: מֵאוֹת = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbpa]
+- o11: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o12: וַ/יַּחַץ = Hc "and" + H2673 חָצָה "to cut or split in two; to halve" [HC/Vqw3ms]
+- o13: אֶת = H853 אֵת "properly…" [HTo]
+- o14: הַ/יְלָדִים = Hd "the" + H3206 יֶלֶד "something born, i.e. a lad or offspring" [HTd/Ncmpa]
+- o15: עַל = H5921 עַל "above, over, upon…" [HR]
+- o16: לֵאָה = H3812 לֵאָה "Leah, a wife of Jacob" [HNp]
+- o17: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o18: רָחֵל = H7354 רָחֵל "Rachel, a wife of Jacob" [HNp]
+- o19: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o20: שְׁתֵּי = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcfdc]
+- o21: הַ/שְּׁפָחוֹת = Hd "the" + H8198 שִׁפְחָה "a female slave (as a member of the household)" [HTd/Ncfpa]

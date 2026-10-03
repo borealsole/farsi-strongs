@@ -554,3 +554,26 @@ Persian entries and current tags:
 - p33: خواهد_بود
 - p34: !
 - p35: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 38:22 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: חִזְקִיָּהוּ = H2396 חִזְקִיָּה "Chizkijah, a king of Judah…" [HNp]
+- o3: מָה = H4100 מָה "properly…" [HTi]
+- o4: אוֹת = H226 אוֹת "a signal (literally or figuratively), as aflag…" [HNcbsa]
+- o5: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o6: אֶעֱלֶה = H5927 עָלָה "to ascend…" [HVqi1cs]
+- o7: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o8: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### Isaiah 40:1 (context)
+
+- o1: נַחֲמוּ = H5162 נָחַם "properly, to sigh, i.e. breathe strongly…" [HVpv2mp]
+- o2: נַחֲמוּ = H5162 נָחַם "properly, to sigh, i.e. breathe strongly…" [HVpv2mp]
+- o3: עַמִּ/י = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp1cs]
+- o4: יֹאמַר = H559 אָמַר "to say (used with great latitude)" [HVqi3ms]
+- o5: אֱלֹהֵי/כֶם = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2mp]

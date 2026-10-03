@@ -997,3 +997,65 @@ Persian entries and current tags:
 - p12: بابِل  → H895
 - p13: کامروا ساخت  → H6744
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Daniel 3:15 (context)
+
+- o1: כְּעַן = H3705 כְּעַן "now" [AD]
+- o2: הֵן = H2006 הֵן "lo! also there(-fore), (un-) less, whether, but…" [AC]
+- o3: אִיתֵי/כוֹן = H383 אִיתַי "properly, entity…" [ATa/Sp2mp]
+- o4: עֲתִידִין = H6263 עֲתִיד "prepared" [AAampa]
+- o5: דִּי = H1768 דִּי "that, used as relative conjunction…" [ATr]
+- o6: בְ/עִדָּנָ/א = Hb "in" + H5732 עִדָּן "a set time; technically, a year" [AR/Ncmsd/Td]
+- o7: דִּי = H1768 דִּי "that, used as relative conjunction…" [ATr]
+- o8: תִשְׁמְעוּן = H8086 שְׁמַע "to hear intelligently (often with implication of…" [AVqi2mp]
+- o9: קָל = H7032 קָל "a voice or sound" [ANcmsc]
+- o10: קַרְנָ/א = H7162 קֶרֶן "a horn (literally or for sound)" [ANcfsd/Td]
+- o11: מַשְׁרוֹקִיתָ/א = H4953 מַשְׁרוֹקִי "a (musical) pipe (from its whistling sound)" [ANcfsd/Td]
+- o12: קיתרס = H7030 קִיתָרֹס "a lyre" [ANcmsa]
+- o13: שַׂבְּכָא = H5443 סַבְּכָא "a lyre" [ANcfsa]
+- o14: פְּסַנְתֵּרִין = H6460 פְּסַנְטֵרִין "psalterion; a lyre" [ANcmsa]
+- o15: וְ/סוּמְפֹּנְיָה = Hc "and" + H5481 סוּמְפּוֹנְיָה "a bagpipe (with a double pipe)" [AC/Ncfsa]
+- o16: וְ/כֹל = Hc "and" + H3606 כֹּל "properly, the whole…" [AC/Ncmsc]
+- o17: זְנֵי = H2178 זַן "sort" [ANcmpc]
+- o18: זְמָרָ/א = H2170 זְמָר "instrumental music" [ANcmsd/Td]
+- o19: תִּפְּלוּן = H5308 נְפַל "to fall…" [AVqi2mp]
+- o20: וְ/תִסְגְּדוּן = Hc "and" + H5457 סְגִד "to prostrate oneself (in homage)" [AC/Vqi2mp]
+- o21: לְ/צַלְמָ/א = Hl "to" + H6755 צֶלֶם "an idolatrous figure" [AR/Ncmsd/Td]
+- o22: דִי = H1768 דִּי "that, used as relative conjunction…" [ATr]
+- o23: עַבְדֵת = H5648 עֲבַד "to do, make, prepare, keep, etc" [AVqp1cs]
+- o24: וְ/הֵן = Hc "and" + H2006 הֵן "lo! also there(-fore), (un-) less, whether, but…" [AC/C]
+- o25: לָא = H3809 לָא "not (the simple or abs. negation)…" [ATn]
+- o26: תִסְגְּדוּן = H5457 סְגִד "to prostrate oneself (in homage)" [AVqi2mp]
+- o27: בַּ/הּ = Hb "in" [AR/Sp3ms]
+- o28: שַׁעֲתָ/ה = H8160 שָׁעָה "properly, a look, i.e. a moment" [ANcfsd/Td]
+- o29: תִתְרְמוֹן = H7412 רְמָה "to throw, set, (figuratively) assess" [AVui2mp]
+- o30: לְ/גוֹא = Hl "to" + H1459 גַּו "the middle" [AR/Ncmsc]
+- o31: אַתּוּן = H861 אַתּוּן "probably a fire-place, i.e. furnace" [ANcmsc]
+- o32: נוּרָ/א = H5135 נוּר "fire" [ANcbsd/Td]
+- o33: יָקִדְתָּ/א = H3345 יְקַד "to burn" [AVqrfsd/Td]
+- o34: וּ/מַן = Hc "and" + H4479 מָן "who or what (properly, interrogatively, hence…" [AC/Pi3cs]
+- o35: הוּא = H1932 הוּא "he (she or it)…" [ATa]
+- o36: אֱלָהּ = H426 אֱלָהּ "God" [ANcmsa]
+- o37: דֵּי = H1768 דִּי "that, used as relative conjunction…" [ATr]
+- o38: יְשֵׁיזְבִנְ/כוֹן = H7804 שְׁזַב "to leave, i.e. (causatively) free" [AVei3ms/Sp2mp]
+- o39: מִן = H4481 מִן "properly, a part of…" [AR]
+- o40: יְדָ/י = H3028 יַד "a hand (the open one (indicating power, means…" [ANcfpc/Sp1cs]
+
+### Daniel 4:1 (context)
+
+- o1: נְבוּכַדְנֶצַּר = H5020 נְבוּכַדְנֶצַּר "Nebukadnetstsar (or -retstsar, or -retstsor)…" [ANp]
+- o2: מַלְכָּ/א = H4430 מֶלֶךְ "a king" [ANcmsd/Td]
+- o3: לְ/כָל = Hl "to" + H3606 כֹּל "properly, the whole…" [AR/Ncmsc]
+- o4: עַמְמַיָּ/א = H5972 עַם "a people (as a congregated unit)…" [ANcmpd/Td]
+- o5: אֻמַיָּ/א = H524 אֻמָּה "a collection, i.e. community of persons" [ANcfpd/Td]
+- o6: וְ/לִשָּׁנַיָּ/א = Hc "and" + H3961 לִשָּׁן "speech, i.e. a nation" [AC/Ncmpd/Td]
+- o7: דִּי = H1768 דִּי "that, used as relative conjunction…" [ATr]
+- o8: דארין = H1753 דּוּר "to reside" [AVqrmpa]
+- o9: בְּ/כָל = Hb "in" + H3606 כֹּל "properly, the whole…" [AR/Ncmsc]
+- o10: אַרְעָ/א = H772 אֲרַע "the earth; by implication (figuratively) low" [ANcfsd/Td]
+- o11: שְׁלָמְ/כוֹן = H8001 שְׁלָם "prosperity" [ANcmsc/Sp2mp]
+- o12: יִשְׂגֵּא = H7680 שְׂגָא "to increase" [AVqi3ms]

@@ -863,3 +863,47 @@ Persian entries and current tags:
 - p18: می‌گوید  → G3004
 - p19: .
 - p20: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Corinthians 5:21 (context)
+
+- o1: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o2: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o3: γνόντα = G1097 γινώσκω "allow, be aware (of), feel, (have) know(-ledge)…" [V-2AAP-ASM]
+- o4: ἁμαρτίαν = G266 ἁμαρτία "offence, sin(-ful)" [N-ASF]
+- o5: ὑπὲρ = G5228 ὑπέρ "+ exceeding, abundantly) above…" [PREP]
+- o6: ἡμῶν = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+- o7: ἁμαρτίαν = G266 ἁμαρτία "offence, sin(-ful)" [N-ASF]
+- o8: ἐποίησεν, = G4160 ποιέω "abide, + agree, appoint, avenge, + band together…" [V-AAI-3S]
+- o9: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o10: ἡμεῖς = G2249 ἡμεῖς "us, we (ourselves)" [P-1NP]
+- o11: γενώμεθα = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-2ADS-1P]
+- o12: δικαιοσύνη = G1343 δικαιοσύνη "righteousness" [N-NSF]
+- o13: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o14: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o15: αὐτῷ. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
+
+### II Corinthians 7:1 (context)
+
+- o1: Ταύτας = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-APF]
+- o2: οὖν = G3767 οὖν "and (so, truly), but, now (then)…" [CONJ]
+- o3: ἔχοντες = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAP-NPM]
+- o4: τὰς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APF]
+- o5: ἐπαγγελίας, = G1860 ἐπαγγελία "message, promise" [N-APF]
+- o6: ἀγαπητοί, = G27 ἀγαπητός "(dearly, well) beloved, dear" [A-VPM]
+- o7: καθαρίσωμεν = G2511 καθαρίζω "(make) clean(-se), purge, purify" [V-AAS-1P]
+- o8: ἑαυτοὺς = G1438 ἑαυτοῦ "alone, her (own, -self), (he) himself, his (own)…" [F-1APM]
+- o9: ἀπὸ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
+- o10: παντὸς = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-GSM]
+- o11: μολυσμοῦ = G3436 μολυσμός "filthiness" [N-GSM]
+- o12: σαρκὸς = G4561 σάρξ "carnal(-ly, + -ly minded), flesh(-ly)" [N-GSF]
+- o13: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o14: πνεύματος, = G4151 πνεῦμα "ghost, life, spirit(-ual, -ually), mind" [N-GSN]
+- o15: ἐπιτελοῦντες = G2005 ἐπιτελέω "accomplish, do, finish, (make) (perfect)…" [V-PAP-NPM]
+- o16: ἁγιωσύνην = G42 ἁγιωσύνη "holiness" [N-ASF]
+- o17: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o18: φόβῳ = G5401 φόβος "be afraid, + exceedingly, fear, terror" [N-DSM]
+- o19: θεοῦ. = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]

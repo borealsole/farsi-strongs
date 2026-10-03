@@ -899,3 +899,29 @@ Persian entries and current tags:
 - p27: به  → Hb
 - p28: امانت خویش  → H530
 - p29: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 94:23 (context)
+
+- o1: וַ/יָּשֶׁב = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vhw3ms]
+- o2: עֲלֵי/הֶם = H5921 עַל "above, over, upon…" [HR/Sp3mp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: אוֹנָ/ם = H205 אָוֶן "strictly nothingness…" [HNcmsc/Sp3mp]
+- o5: וּ/בְ/רָעָתָ/ם = Hc "and" + Hb "in" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HC/R/Ncfsc/Sp3mp]
+- o6: יַצְמִיתֵ/ם = H6789 צָמַת "to extirpate (literally or figuratively)" [HVhi3ms/Sp3mp]
+- o7: יַצְמִיתֵ/ם = H6789 צָמַת "to extirpate (literally or figuratively)" [HVhi3ms/Sp3mp]
+- o8: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o9: אֱלֹהֵי/נוּ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp1cp]
+
+### Psalms 97:1 (context)
+
+- o1: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o2: מָלָךְ = H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HVqp3ms]
+- o3: תָּגֵל = H1523 גִּיל "properly…" [HVqi3fs]
+- o4: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o5: יִשְׂמְחוּ = H8055 שָׂמַח "probably to brighten up…" [HVqi3mp]
+- o6: אִיִּים = H339 אִי "properly, a habitable spot (as desirable)…" [HNcmpa]
+- o7: רַבִּים = H7227 רַב "abundant (in quantity, size, age, number, rank…" [HAampa]

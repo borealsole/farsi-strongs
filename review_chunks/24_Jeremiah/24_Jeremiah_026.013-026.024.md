@@ -770,3 +770,51 @@ Persian entries and current tags:
 - p18: تا
 - p19: کشته_شود  → H4191
 - p20: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 26:12 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: יִרְמְיָהוּ = H3414 יִרְמְיָה "Jirmejah, the name of eight or nine Israelites" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o5: הַ/שָּׂרִים = Hd "the" + H8269 שַׂר "a head person (of any rank or class)" [HTd/Ncmpa]
+- o6: וְ/אֶל = Hc "and" + H413 אֵל "near, with or among; often in general, to" [HC/R]
+- o7: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o8: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o9: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o10: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o11: שְׁלָחַ/נִי = H7971 שָׁלַח "to send away, for…" [HVqp3ms/Sp1cs]
+- o12: לְ/הִנָּבֵא = Hl "to" + H5012 נָבָא "to prophesy…" [HR/VNc]
+- o13: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o14: הַ/בַּיִת = Hd "the" + H1004 בַּיִת "a house (in the greatest variation of…" [HTd/Ncmsa]
+- o15: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o16: וְ/אֶל = Hc "and" + H413 אֵל "near, with or among; often in general, to" [HC/R]
+- o17: הָ/עִיר = Hd "the" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HTd/Ncfsa]
+- o18: הַ/זֹּאת = Hd "the" + H2063 זֹאת "this (often used adverb)" [HTd/Pdxfs]
+- o19: אֵת = H853 אֵת "properly…" [HTo]
+- o20: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o21: הַ/דְּבָרִים = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmpa]
+- o22: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o23: שְׁמַעְתֶּם = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqp2mp]
+
+### Jeremiah 27:1 (context)
+
+- o1: בְּ/רֵאשִׁית = Hb "in" + H7225 רֵאשִׁית "the first, in place, time…" [HR/Ncfsc]
+- o2: מַמְלֶכֶת = H4467 מַמְלָכָה "dominion…" [HNcfsc]
+- o3: יְהוֹיָקִם = H3079 יְהוֹיָקִים "Jehojakim, a Jewish king" [HNp]
+- o4: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o5: יֹאושִׁיָּהוּ = H2977 יֹאשִׁיָּה "Joshijah, the name of two Israelites" [HNp]
+- o6: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o7: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o8: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o9: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]
+- o10: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o11: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o12: יִרְמְיָה = H3414 יִרְמְיָה "Jirmejah, the name of eight or nine Israelites" [HNp]
+- o13: מֵ/אֵת = Hm "from" + H854 אֵת "properly…" [HR/R]
+- o14: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o15: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

@@ -1267,3 +1267,24 @@ Persian entries and current tags:
 - p16: بشارت
 - p17: داده_شد  → G3588
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Peter 2:1 (context)
+
+- o1: Ἀποθέμενοι = G659 ἀποτίθημι "cast off, lay apart (aside, down), put away (off)" [V-2AMP-NPM]
+- o2: οὖν = G3767 οὖν "and (so, truly), but, now (then)…" [CONJ]
+- o3: πᾶσαν = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-ASF]
+- o4: κακίαν = G2549 κακία "evil, malice(-iousness), naughtiness, wickedness" [N-ASF]
+- o5: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o6: πάντα = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-ASM]
+- o7: δόλον = G1388 δόλος "craft, deceit, guile, subtilty" [N-ASM]
+- o8: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o9: ὑποκρίσεις = G5272 ὑπόκρισις "condemnation, dissimulation, hypocrisy" [N-APF]
+- o10: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o11: φθόνους = G5355 φθόνος "envy" [N-APM]
+- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o13: πάσας = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-APF]
+- o14: καταλαλιάς, = G2636 καταλαλία "backbiting, evil speaking" [N-APF]

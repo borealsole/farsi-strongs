@@ -794,3 +794,27 @@ Persian entries and current tags:
 - p38: سخن  → H1696
 - p39: می‌گفت
 - p40: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 1:14 (context)
+
+- o1: וְ/הַ/חַיּוֹת = Hc "and" + Hd "the" + H2416 חַי "alive; hence, raw (flesh)…" [HC/Td/Ncfpa]
+- o2: רָצוֹא = H7519 רָצָא "to run; also to delight in" [HVqa]
+- o3: וָ/שׁוֹב = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqa]
+- o4: כְּ/מַרְאֵה = Hk "like" + H4758 מַרְאֶה "a view (the act of seeing)…" [HR/Ncmsc]
+- o5: הַ/בָּזָק = Hd "the" + H965 בָּזָק "a flash of lightning" [HTd/Ncmsa]
+
+### Ezekiel 2:1 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: אֵלָ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o3: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o4: אָדָם = H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HNcmsa]
+- o5: עֲמֹד = H5975 עָמַד "to stand…" [HVqv2ms]
+- o6: עַל = H5921 עַל "above, over, upon…" [HR]
+- o7: רַגְלֶי/ךָ = H7272 רֶגֶל "a foot (as used in walking)…" [HNcfdc/Sp2ms]
+- o8: וַ/אֲדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vph1cs]
+- o9: אֹתָ/ךְ = H853 אֵת "properly…" [HTo/Sp2fs]

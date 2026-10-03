@@ -1159,3 +1159,57 @@ Persian entries and current tags:
 - p38: مقبرۀ  → H6913
 - p39: پادشاهان  → H4428
 - p40: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 20:37 (context)
+
+- o1: וַ/יִּתְנַבֵּא = Hc "and" + H5012 נָבָא "to prophesy…" [HC/Vtw3ms]
+- o2: אֱלִיעֶזֶר = H461 אֱלִיעֶזֶר "Eliezer…" [HNp]
+- o3: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o4: דֹּדָוָהוּ = H1735 דּוֹדָוָהוּ "Dodavah, an Israelite" [HNp]
+- o5: מִ/מָּרֵשָׁה = Hm "from" + H4762 מַרְאֵשָׁה "Mareshah…" [HR/Np]
+- o6: עַל = H5921 עַל "above, over, upon…" [HR]
+- o7: יְהוֹשָׁפָט = H3092 יְהוֹשָׁפָט "Jehoshaphat, the name of six Israelites…" [HNp]
+- o8: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o9: כְּ/הִתְחַבֶּרְ/ךָ = Hk "like" + H2266 חָבַר "to join (literally or figuratively)…" [HR/Vtc/Sp2ms]
+- o10: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o11: אֲחַזְיָהוּ = H274 אֲחַזְיָה "Achazjah…" [HNp]
+- o12: פָּרַץ = H6555 פָּרַץ "to break out (in many applications…" [HVqp3ms]
+- o13: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o14: אֶת = H853 אֵת "properly…" [HTo]
+- o15: מַעֲשֶׂי/ךָ = H4639 מַעֲשֶׂה "an action (good or bad); generally, a transaction…" [HNcmpc/Sp2ms]
+- o16: וַ/יִּשָּׁבְרוּ = Hc "and" + H7665 שָׁבַר "to burst (literally or figuratively)" [HC/VNw3mp]
+- o17: אֳנִיּוֹת = H591 אֳנִיָּה "a ship" [HNcfpa]
+- o18: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o19: עָצְרוּ = H6113 עָצָר "to inclose; by analogy, to hold back…" [HVqp3cp]
+- o20: לָ/לֶכֶת = Hl "to" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HR/Vqc]
+- o21: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o22: תַּרְשִׁישׁ = H8659 תַּרְשִׁישׁ "Tarshish, a place on the Mediterranean, hence…" [HNp]
+
+### II Chronicles 22:1 (context)
+
+- o1: וַ/יַּמְלִיכוּ = Hc "and" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HC/Vhw3mp]
+- o2: יוֹשְׁבֵי = H3427 יָשַׁב "properly…" [HVqrmpc]
+- o3: יְרוּשָׁלִַם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: אֲחַזְיָהוּ = H274 אֲחַזְיָה "Achazjah…" [HNp]
+- o6: בְנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o7: הַ/קָּטֹן = Hd "the" + H6996 קָטָן "abbreviated, i.e. diminutive…" [HTd/Aamsa]
+- o8: תַּחְתָּי/ו = H8478 תַּחַת "the bottom (as depressed)…" [HR/Sp3ms]
+- o9: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o10: כָל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o11: הָ/רִאשֹׁנִים = Hd "the" + H7223 רִאשׁוֹן "first, in place…" [HTd/Aampa]
+- o12: הָרַג = H2026 הָרַג "to smite with deadly intent" [HVqp3ms]
+- o13: הַ/גְּדוּד = Hd "the" + H1416 גְּדוּד "a crowd (especially of soldiers)" [HTd/Ncmsa]
+- o14: הַ/בָּא = Hd "the" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HTd/Vqrmsa]
+- o15: בָ/עַרְבִים = Hb "in" + H6163 עֲרָבִי "an Arabian or inhabitant of Arab (i.e. Arabia)" [HRd/Ngmpa]
+- o16: לַ/מַּחֲנֶה = Hl "to" + H4264 מַחֲנֶה "an encampment (of travellers or troops)…" [HRd/Ncbsa]
+- o17: וַ/יִּמְלֹךְ = Hc "and" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HC/Vqw3ms]
+- o18: אֲחַזְיָהוּ = H274 אֲחַזְיָה "Achazjah…" [HNp]
+- o19: בֶן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o20: יְהוֹרָם = H3088 יְהוֹרָם "Jehoram…" [HNp]
+- o21: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o22: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]

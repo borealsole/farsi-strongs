@@ -679,3 +679,31 @@ Persian entries and current tags:
 - p19: پیشتر
 - p20: دریافت کرده‌اند  → H3947
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 33:56 (context)
+
+- o1: וְ/הָיָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3ms]
+- o2: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o3: דִּמִּיתִי = H1819 דָּמָה "to compare…" [HVpp1cs]
+- o4: לַ/עֲשׂוֹת = Hl "to" + H6213 עָשָׂה "to do or make…" [HR/Vqc]
+- o5: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o6: אֶעֱשֶׂה = H6213 עָשָׂה "to do or make…" [HVqi1cs]
+- o7: לָ/כֶם = Hl "to" [HR/Sp2mp]
+
+### Numbers 34:15 (context)
+
+- o1: שְׁנֵי = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmdc]
+- o2: הַ/מַּטּוֹת = Hd "the" + H4294 מַטֶּה "a branch (as extending); figuratively, a tribe…" [HTd/Ncmpa]
+- o3: וַ/חֲצִי = Hc "and" + H2677 חֵצִי "the half or middle" [HC/Ncmsc]
+- o4: הַ/מַּטֶּה = Hd "the" + H4294 מַטֶּה "a branch (as extending); figuratively, a tribe…" [HTd/Ncmsa]
+- o5: לָקְחוּ = H3947 לָקַח "to take (in the widest variety of applications)" [HVqp3cp]
+- o6: נַחֲלָתָ/ם = H5159 נַחֲלָה "properly, something inherited…" [HNcfsc/Sp3mp]
+- o7: מֵ/עֵבֶר = Hm "from" + H5676 עֵבֶר "properly, a region across…" [HR/Ncmsa]
+- o8: לְ/יַרְדֵּן = Hl "to" + H3383 יַרְדֵּן "Jarden, the principal river of Palestine" [HR/Np]
+- o9: יְרֵחוֹ = H3405 יְרִיחוֹ "Jericho or Jerecho, a place in Palestine" [HNp]
+- o10: קֵדְמָ/ה = H6924 קֶדֶם "the front, of place (absolutely, the fore part…" [HNcmsa/Sd]
+- o11: מִזְרָחָ/ה = H4217 מִזְרָח "sunrise, i.e. the east" [HNcmsa/Sd]

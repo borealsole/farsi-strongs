@@ -1392,3 +1392,50 @@ Persian entries and current tags:
 - p28: آن  → H3966
 - p29: !
 - p30: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 54:17 (context)
+
+- o1: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o2: כְּלִי = H3627 כְּלִי "something prepared…" [HNcmsa]
+- o3: יוּצַר = H3335 יָצַר "to mould into a form; especially as apotter…" [HVHi3ms]
+- o4: עָלַיִ/ךְ = H5921 עַל "above, over, upon…" [HR/Sp2fs]
+- o5: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o6: יִצְלָח = H6743 צָלַח "to push forward…" [HVqi3ms]
+- o7: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o8: לָשׁוֹן = H3956 לָשׁוֹן "the tongue (of man or animals)…" [HNcbsa]
+- o9: תָּקוּם = H6965 קוּם "to rise (in various applications, literal…" [HVqi3fs]
+- o10: אִתָּ/ךְ = H854 אֵת "properly…" [HR/Sp2fs]
+- o11: לַ/מִּשְׁפָּט = Hl "to" + H4941 מִשְׁפָּט "properly…" [HRd/Ncmsa]
+- o12: תַּרְשִׁיעִי = H7561 רָשַׁע "to be (causatively, do or declare) wrong…" [HVhi2fs]
+- o13: זֹאת = H2063 זֹאת "this (often used adverb)" [HPdxfs]
+- o14: נַחֲלַת = H5159 נַחֲלָה "properly, something inherited…" [HNcfsc]
+- o15: עַבְדֵי = H5650 עֶבֶד "a servant" [HNcmpc]
+- o16: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o17: וְ/צִדְקָתָ/ם = Hc "and" + H6666 צְדָקָה "rightness (abstractly), subjectively (rectitude)…" [HC/Ncfsc/Sp3mp]
+- o18: מֵ/אִתִּ/י = Hm "from" + H854 אֵת "properly…" [HR/R/Sp1cs]
+- o19: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o20: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### Isaiah 57:1 (context)
+
+- o1: הַ/צַּדִּיק = Hd "the" + H6662 צַדִּיק "just" [HTd/Aamsa]
+- o2: אָבָד = H6 אָבַד "properly, to wander away, i.e. lose oneself…" [HVqp3ms]
+- o3: וְ/אֵין = Hc "and" + H369 אַיִן "a non-entity…" [HC/Tn]
+- o4: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o5: שָׂם = H7760 שׂוּם "to put (used in a great variety of applications…" [HVqrmsa]
+- o6: עַל = H5921 עַל "above, over, upon…" [HR]
+- o7: לֵב = H3820 לֵב "the heart…" [HNcmsa]
+- o8: וְ/אַנְשֵׁי = Hc "and" + H376 אִישׁ "a man as an individual or a male person…" [HC/Ncmpc]
+- o9: חֶסֶד = H2617 חֵסֵד "kindness; by implication (towards God) piety…" [HNcmsa]
+- o10: נֶאֱסָפִים = H622 אָסַף "to gather for any purpose…" [HVNrmpa]
+- o11: בְּ/אֵין = Hb "in" + H369 אַיִן "a non-entity…" [HR/Tn]
+- o12: מֵבִין = H995 בִּין "to separate mentally (or distinguish)…" [HVhrmsa]
+- o13: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o14: מִ/פְּנֵי = Hm "from" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o15: הָ/רָעָה = Hd "the" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HTd/Ncfsa]
+- o16: נֶאֱסַף = H622 אָסַף "to gather for any purpose…" [HVNp3ms]
+- o17: הַ/צַּדִּיק = Hd "the" + H6662 צַדִּיק "just" [HTd/Aamsa]

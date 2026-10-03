@@ -672,3 +672,50 @@ Persian entries and current tags:
 - p16: وی
 - p17: پادشاه شد  → H4427
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 21:13 (context)
+
+- o1: וְ/נָטִיתִי = Hc "and" + H5186 נָטָה "to stretch or spread out…" [HC/Vqq1cs]
+- o2: עַל = H5921 עַל "above, over, upon…" [HR]
+- o3: יְרוּשָׁלִַם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+- o4: אֵת = H853 אֵת "properly…" [HTo]
+- o5: קָו = H6957 קַו "a cord (as connecting), especially formeasuring…" [HNcmsc]
+- o6: שֹׁמְרוֹן = H8111 שֹׁמְרוֹן "Shomeron, a place in Palestine" [HNp]
+- o7: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o8: מִשְׁקֹלֶת = H4949 מִשְׁקֶלֶת "a weight, i.e. a plummet (with line attached)" [HNcfsc]
+- o9: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o10: אַחְאָב = H256 אַחְאָב "Achab…" [HNp]
+- o11: וּ/מָחִיתִי = Hc "and" + H4229 מָחָה "properly, to stroke or rub…" [HC/Vqq1cs]
+- o12: אֶת = H853 אֵת "properly…" [HTo]
+- o13: יְרוּשָׁלִַם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+- o14: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o15: יִמְחֶה = H4229 מָחָה "properly, to stroke or rub…" [HVqi3ms]
+- o16: אֶת = H853 אֵת "properly…" [HTo]
+- o17: הַ/צַּלַּחַת = Hd "the" + H6747 צַלַּחַת "something advanced or deep, i.e. a bowl…" [HTd/Ncfsa]
+- o18: מָחָה = H4229 מָחָה "properly, to stroke or rub…" [HVqp3ms]
+- o19: וְ/הָפַךְ = Hc "and" + H2015 הָפַךְ "to turn about or over…" [HC/Vqq3ms]
+- o20: עַל = H5921 עַל "above, over, upon…" [HR]
+- o21: פָּנֶי/הָ = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc/Sp3fs]
+
+### II Kings 22:1 (context)
+
+- o1: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o2: שְׁמֹנֶה = H8083 שְׁמֹנֶה "a cardinal number…" [HAcfsa]
+- o3: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o4: יֹאשִׁיָּהוּ = H2977 יֹאשִׁיָּה "Joshijah, the name of two Israelites" [HNp]
+- o5: בְ/מָלְכ/וֹ = Hb "in" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HR/Vqc/Sp3ms]
+- o6: וּ/שְׁלֹשִׁים = Hc "and" + H7970 שְׁלוֹשִׁים "thirty; or (ordinal) thirtieth" [HC/Acbpa]
+- o7: וְ/אַחַת = Hc "and" + H259 אֶחָד "properly, united, i.e. one…" [HC/Acfsa]
+- o8: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o9: מָלַךְ = H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HVqp3ms]
+- o10: בִּ/ירוּשָׁלִָם = Hb "in" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HR/Np]
+- o11: וְ/שֵׁם = Hc "and" + H8034 שֵׁם "an appellation…" [HC/Ncmsc]
+- o12: אִמּ/וֹ = H517 אֵם "a mother (as the bond of the family)…" [HNcfsc/Sp3ms]
+- o13: יְדִידָה = H3040 יְדִידָה "Jedidah, an Israelitess" [HNp]
+- o14: בַת = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfsc]
+- o15: עֲדָיָה = H5718 עֲדָיָה "Adajah, the name of eight Israelites" [HNp]
+- o16: מִ/בָּצְקַת = Hm "from" + H1218 בׇּצְקַת "Botscath, a place in Palestine" [HR/Np]

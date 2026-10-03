@@ -833,3 +833,64 @@ Persian entries and current tags:
 - p37: برخیزد  → G4537
 - p38: .
 - p39: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Revelation of John 7:17 (context)
+
+- o1: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o2: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o3: ἀρνίον = G721 ἀρνίον "lamb" [N-NSN]
+- o4: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o5: ἀνὰ = G303 ἀνά "and, apiece, by, each, every (man), in, through" [PREP]
+- o6: μέσον = G3319 μέσος "among, before them, between, + forth, mid(-day…" [A-ASN]
+- o7: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o8: θρόνου = G2362 θρόνος "seat, throne" [N-GSM]
+- o9: ποιμανεῖ = G4165 ποιμαίνω "feed (cattle), rule" [V-FAI-3S]
+- o10: αὐτούς, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-APM]
+- o11: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o12: ὁδηγήσει = G3594 ὁδηγέω "guide, lead" [V-FAI-3S]
+- o13: αὐτοὺς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-APM]
+- o14: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o15: ζωῆς = G2222 ζωή "life(-time)" [N-GSF]
+- o16: πηγὰς = G4077 πηγή "fountain, well" [N-APF]
+- o17: ὑδάτων· = G5204 ὕδωρ "water" [N-GPN]
+- o18: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o19: ἐξαλείψει = G1813 ἐξαλείφω "blot out, wipe away" [V-FAI-3S]
+- o20: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o21: θεὸς = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-NSM]
+- o22: πᾶν = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-ASN]
+- o23: δάκρυον = G1144 δάκρυ "tear" [N-ASN]
+- o24: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o25: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o26: ὀφθαλμῶν = G3788 ὀφθαλμός "eye, sight" [N-GPM]
+- o27: αὐτῶν. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]
+
+### Revelation of John 9:1 (context)
+
+- o1: Καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o3: πέμπτος = G3991 πέμπτος "fifth" [A-NSM]
+- o4: ἄγγελος = G32 ἄγγελος "angel, messenger" [N-NSM]
+- o5: ἐσάλπισεν· = G4537 σαλπίζω "(which are yet to) sound (a trumpet)" [V-AAI-3S]
+- o6: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o7: ἴδον = G3708 ὁράω "behold, perceive, see, take heed" [V-2AAI-1S]
+- o8: ἀστέρα = G792 ἀστήρ "star" [N-ASM]
+- o9: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o10: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o11: οὐρανοῦ = G3772 οὐρανός "air, heaven(-ly), sky" [N-GSM]
+- o12: πεπτωκότα = G4098 πίπτω "fail, fall (down), light on" [V-RAP-ASM]
+- o13: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o14: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o15: γῆν, = G1093 γῆ "country, earth(-ly), ground, land, world" [N-ASF]
+- o16: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o17: ἐδόθη = G1325 δίδωμι "adventure, bestow, bring forth, commit…" [V-API-3S]
+- o18: αὐτῷ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
+- o19: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o20: κλεὶς = G2807 κλείς "key" [N-NSF]
+- o21: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
+- o22: φρέατος = G5421 φρέαρ "well, pit" [N-GSN]
+- o23: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o24: ἀβύσσου. = G12 ἄβυσσος "deep, (bottomless) pit" [N-GSF]

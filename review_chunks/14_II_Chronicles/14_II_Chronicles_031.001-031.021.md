@@ -1257,3 +1257,43 @@ Persian entries and current tags:
 - p29: و  → Hc
 - p30: کامیاب گردید  → H6743
 - p31: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 30:27 (context)
+
+- o1: וַ/יָּקֻמוּ = Hc "and" + H6965 קוּם "to rise (in various applications, literal…" [HC/Vqw3mp]
+- o2: הַ/כֹּהֲנִים = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmpa]
+- o3: הַ/לְוִיִּם = Hd "the" + H3881 לֵוִיִּי "a Levite or descendant of Levi" [HTd/Ngmpa]
+- o4: וַ/יְבָרֲכוּ = Hc "and" + H1288 בָרַךְ "to kneel…" [HC/Vpw3mp]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o7: וַ/יִּשָּׁמַע = Hc "and" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HC/VNw3ms]
+- o8: בְּ/קוֹלָ/ם = Hb "in" + H6963 קוֹל "a voice or sound" [HR/Ncmsc/Sp3mp]
+- o9: וַ/תָּבוֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3fs]
+- o10: תְפִלָּתָ/ם = H8605 תְּפִלָּה "intercession, supplication; by implication, a hymn" [HNcfsc/Sp3mp]
+- o11: לִ/מְעוֹן = Hl "to" + H4583 מָעוֹן "an abode, of God (the Tabernacle or the Temple)…" [HR/Ncbsc]
+- o12: קָדְשׁ/וֹ = H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HNcmsc/Sp3ms]
+- o13: לַ/שָּׁמָיִם = Hl "to" + H8064 שָׁמַיִם "the sky (as aloft…" [HRd/Ncmpa]
+
+### II Chronicles 32:1 (context)
+
+- o1: אַחֲרֵי = H310 אַחַר "properly, the hind part…" [HR]
+- o2: הַ/דְּבָרִים = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmpa]
+- o3: וְ/הָ/אֱמֶת = Hc "and" + Hd "the" + H571 אֶמֶת "stability…" [HC/Td/Ncfsa]
+- o4: הָ/אֵלֶּה = Hd "the" + H428 אֵלֶּה "these or those" [HTd/Pdxcp]
+- o5: בָּא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3ms]
+- o6: סַנְחֵרִיב = H5576 סַנְחֵרִיב "Sancherib, an Assyrian king" [HNp]
+- o7: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o8: אַשּׁוּר = H804 אַשּׁוּר "Ashshur, the second son of Shem…" [HNp]
+- o9: וַ/יָּבֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3ms]
+- o10: בִ/יהוּדָה = Hb "in" + H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HR/Np]
+- o11: וַ/יִּחַן = Hc "and" + H2583 חָנָה "properly, to incline…" [HC/Vqw3ms]
+- o12: עַל = H5921 עַל "above, over, upon…" [HR]
+- o13: הֶ/עָרִים = Hd "the" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HTd/Ncfpa]
+- o14: הַ/בְּצֻרוֹת = Hd "the" + H1219 בָּצַר "to gather grapes…" [HTd/Aafpa]
+- o15: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o16: לְ/בִקְעָ/ם = Hl "to" + H1234 בָּקַע "to cleave; generally, to rend, break, rip or open" [HR/Vqc/Sp3mp]
+- o17: אֵלָי/ו = H413 אֵל "near, with or among; often in general, to" [HR/Sp3ms]

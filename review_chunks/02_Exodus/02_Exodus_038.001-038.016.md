@@ -730,3 +730,40 @@ Persian entries and current tags:
 - p8: تابیده  → H8336 H7806
 - p9: تهیه شده_بود  → H7806
 - p10: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 37:29 (context)
+
+- o1: וַ/יַּעַשׂ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3ms]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: שֶׁמֶן = H8081 שֶׁמֶן "grease, especially liquid (as from the olive…" [HNcmsc]
+- o4: הַ/מִּשְׁחָה = Hd "the" + H4888 מִשְׁחָה "unction (the act)…" [HTd/Ncfsa]
+- o5: קֹדֶשׁ = H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HNcmsa]
+- o6: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o7: קְטֹרֶת = H7004 קְטֹרֶת "a fumigation" [HNcfsc]
+- o8: הַ/סַּמִּים = Hd "the" + H5561 סַם "an aroma" [HTd/Ncmpa]
+- o9: טָהוֹר = H2889 טָהוֹר "pure (in a physical, chemical…" [HAamsa]
+- o10: מַעֲשֵׂה = H4639 מַעֲשֶׂה "an action (good or bad); generally, a transaction…" [HNcmsc]
+- o11: רֹקֵחַ = H7543 רָקַח "to perfume" [HVqrmsa]
+
+### Exodus 38:17 (context)
+
+- o1: וְ/הָ/אֲדָנִים = Hc "and" + Hd "the" + H134 אֶדֶן "a basis (of a building, a column, etc.)" [HC/Td/Ncmpa]
+- o2: לָ/עַמֻּדִים = Hl "to" + H5982 עַמּוּד "a column (as standing)…" [HRd/Ncmpa]
+- o3: נְחֹשֶׁת = H5178 נְחֹשֶׁת "copper, hence, something made of that metal…" [HNcfsa]
+- o4: וָוֵי = H2053 וָו "a hook (the name of the sixth Hebrew letter)" [HNcmpc]
+- o5: הָ/עַמּוּדִים = Hd "the" + H5982 עַמּוּד "a column (as standing)…" [HTd/Ncmpa]
+- o6: וַ/חֲשׁוּקֵי/הֶם = Hc "and" + H2838 חָשֻׁק "attached…" [HC/Ncmpc/Sp3mp]
+- o7: כֶּסֶף = H3701 כֶּסֶף "silver (from its pale color)…" [HNcmsa]
+- o8: וְ/צִפּוּי = Hc "and" + H6826 צִפּוּי "encasement (with metal)" [HC/Ncmsc]
+- o9: רָאשֵׁי/הֶם = H7218 רֹאשׁ "the head (as most easily shaken)…" [HNcmpc/Sp3mp]
+- o10: כָּסֶף = H3701 כֶּסֶף "silver (from its pale color)…" [HNcmsa]
+- o11: וְ/הֵם = Hc "and" + H1992 הֵם "they (only used when emphatic)" [HC/Pp3mp]
+- o12: מְחֻשָּׁקִים = H2836 חָשַׁק "to cling, i.e. join, (figuratively) to love…" [HVPsmpa]
+- o13: כֶּסֶף = H3701 כֶּסֶף "silver (from its pale color)…" [HNcmsa]
+- o14: כֹּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o15: עַמֻּדֵי = H5982 עַמּוּד "a column (as standing)…" [HNcmpc]
+- o16: הֶ/חָצֵר = Hd "the" + H2691 חָצֵר "a yard (as inclosed by a fence)…" [HTd/Ncbsa]

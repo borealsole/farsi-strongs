@@ -433,3 +433,39 @@ Persian entries and current tags:
 - p17: یهوه  → H3069
 - p18: .
 - p19: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 14:23 (context)
+
+- o1: וְ/נִחֲמוּ = Hc "and" + H5162 נָחַם "properly, to sigh, i.e. breathe strongly…" [HC/Vpq3cp]
+- o2: אֶתְ/כֶם = H853 אֵת "properly…" [HTo/Sp2mp]
+- o3: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o4: תִרְאוּ = H7200 רָאָה "to see…" [HVqi2mp]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: דַּרְכָּ/ם = H1870 דֶּרֶךְ "a road (as trodden)…" [HNcbsc/Sp3mp]
+- o7: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o8: עֲלִילוֹתָ/ם = H5949 עֲלִילָה "an exploit (of God), or a performance (of man…" [HNcfpc/Sp3mp]
+- o9: וִ/ידַעְתֶּם = Hc "and" + H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HC/Vqq2mp]
+- o10: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o11: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o12: חִנָּם = H2600 חִנָּם "gratis, i.e. devoid of cost, reason or advantage" [HD]
+- o13: עָשִׂיתִי = H6213 עָשָׂה "to do or make…" [HVqp1cs]
+- o14: אֵת = H853 אֵת "properly…" [HTo]
+- o15: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o16: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o17: עָשִׂיתִי = H6213 עָשָׂה "to do or make…" [HVqp1cs]
+- o18: בָ/הּ = Hb "in" [HR/Sp3fs]
+- o19: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o20: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o21: יְהֹוִה = H3069 יְהֹוִה "YHWH" [HNp]
+
+### Ezekiel 16:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o5: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

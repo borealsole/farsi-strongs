@@ -831,3 +831,36 @@ Persian entries and current tags:
 - p30: وی
 - p31: پادشاه شد  → H4427
 - p32: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 14:16 (context)
+
+- o1: וְ/יִתֵּן = Hc "and" + H5414 נָתַן "to give…" [HC/Vqi3ms]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o4: בִּ/גְלַל = Hb "in" + H1558 גָּלָל "a circumstance (as rolled around)…" [HR/Ncmsc]
+- o5: חַטֹּאות = H2403 חַטָּאָה "an offence (sometimes habitual sinfulness)…" [HNcfpc]
+- o6: יָרָבְעָם = H3379 יָרׇבְעָם "Jarobam, the name of two Israelite kings" [HNp]
+- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o8: חָטָא = H2398 חָטָא "properly, to miss…" [HVqp3ms]
+- o9: וַ/אֲשֶׁר = Hc "and" + H834 אֲשֶׁר "who, which, what, that…" [HC/Tr]
+- o10: הֶחֱטִיא = H2398 חָטָא "properly, to miss…" [HVhp3ms]
+- o11: אֶת = H853 אֵת "properly…" [HTo]
+- o12: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+
+### I Kings 15:1 (context)
+
+- o1: וּ/בִ/שְׁנַת = Hc "and" + Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HC/R/Ncfsc]
+- o2: שְׁמֹנֶה = H8083 שְׁמֹנֶה "a cardinal number…" [HAcfsa]
+- o3: עֶשְׂרֵה = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcfsa]
+- o4: לַ/מֶּלֶךְ = Hl "to" + H4428 מֶלֶךְ "a king" [HRd/Ncmsa]
+- o5: יָרָבְעָם = H3379 יָרׇבְעָם "Jarobam, the name of two Israelite kings" [HNp]
+- o6: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o7: נְבָט = H5028 נְבָט "Nebat, the father of Jeroboam I" [HNp]
+- o8: מָלַךְ = H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HVqp3ms]
+- o9: אֲבִיָּם = H38 אֲבִיָּם "Abijam (or Abijah), a king of Judah" [HNp]
+- o10: עַל = H5921 עַל "above, over, upon…" [HR]
+- o11: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]

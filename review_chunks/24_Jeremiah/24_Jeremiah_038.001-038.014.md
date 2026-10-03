@@ -929,3 +929,53 @@ Persian entries and current tags:
 - p34: مدار
 - p35: .
 - p36: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 37:21 (context)
+
+- o1: וַ/יְצַוֶּה = Hc "and" + H6680 צָוָה "(intensively) to constitute, enjoin" [HC/Vpw3ms]
+- o2: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o3: צִדְקִיָּהוּ = H6667 צִדְקִיָּה "Tsidkijah, the name of six Israelites" [HNp]
+- o4: וַ/יַּפְקִדוּ = Hc "and" + H6485 פָּקַד "to visit (with friendly or hostile intent)…" [HC/Vhw3mp]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: יִרְמְיָהוּ = H3414 יִרְמְיָה "Jirmejah, the name of eight or nine Israelites" [HNp]
+- o7: בַּ/חֲצַר = Hb "in" + H2691 חָצֵר "a yard (as inclosed by a fence)…" [HR/Ncbsc]
+- o8: הַ/מַּטָּרָה = Hd "the" + H4307 מַטָּרָא "a jail (as a guard-house)…" [HTd/Ncfsa]
+- o9: וְ/נָתֹן = Hc "and" + H5414 נָתַן "to give…" [HC/Vqa]
+- o10: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o11: כִכַּר = H3603 כִּכָּר "a circle…" [HNcbsc]
+- o12: לֶחֶם = H3899 לֶחֶם "food (for man or beast), especially bread…" [HNcbsa]
+- o13: לַ/יּוֹם = Hl "to" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
+- o14: מִ/חוּץ = Hm "from" + H2351 חוּץ "properly, separate by awall, i.e. outside…" [HR/Ncmsc]
+- o15: הָ/אֹפִים = Hd "the" + H644 אָפָה "to cook, especially to bake" [HTd/Vqrmpa]
+- o16: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o17: תֹּם = H8552 תָּמַם "to complete, in a good or a bad sense, literal…" [HVqc]
+- o18: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o19: הַ/לֶּחֶם = Hd "the" + H3899 לֶחֶם "food (for man or beast), especially bread…" [HTd/Ncbsa]
+- o20: מִן = H4480 מִן "properly, a part of…" [HR]
+- o21: הָ/עִיר = Hd "the" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HTd/Ncfsa]
+- o22: וַ/יֵּשֶׁב = Hc "and" + H3427 יָשַׁב "properly…" [HC/Vqw3ms]
+- o23: יִרְמְיָהוּ = H3414 יִרְמְיָה "Jirmejah, the name of eight or nine Israelites" [HNp]
+- o24: בַּ/חֲצַר = Hb "in" + H2691 חָצֵר "a yard (as inclosed by a fence)…" [HR/Ncbsc]
+- o25: הַ/מַּטָּרָה = Hd "the" + H4307 מַטָּרָא "a jail (as a guard-house)…" [HTd/Ncfsa]
+
+### Jeremiah 38:15 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: יִרְמְיָהוּ = H3414 יִרְמְיָה "Jirmejah, the name of eight or nine Israelites" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: צִדְקִיָּהוּ = H6667 צִדְקִיָּה "Tsidkijah, the name of six Israelites" [HNp]
+- o5: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o6: אַגִּיד = H5046 נָגַד "properly, to front…" [HVhi1cs]
+- o7: לְ/ךָ = Hl "to" [HR/Sp2ms]
+- o8: הֲ/לוֹא = Hi "(untranslatable; interrogative particle)" + H3808 לֹא "not (the simple or abs. negation)…" [HTi/Tn]
+- o9: הָמֵת = H4191 מוּת "to die (literally or figuratively)…" [HVha]
+- o10: תְּמִיתֵ/נִי = H4191 מוּת "to die (literally or figuratively)…" [HVhi2ms/Sp1cs]
+- o11: וְ/כִי = Hc "and" + H3588 כִּי "by implication) very widely used as a relative…" [HC/C]
+- o12: אִיעָצְ/ךָ = H3289 יָעַץ "to advise; reflexively, to deliberate or resolve" [HVqi1cs/Sp2ms]
+- o13: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o14: תִשְׁמַע = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqi2ms]
+- o15: אֵלָ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]

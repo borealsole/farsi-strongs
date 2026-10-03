@@ -820,3 +820,29 @@ Persian entries and current tags:
 - p17: چسبنده‌تر  → H1695
 - p18: است  → H3426
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 17:28 (context)
+
+- o1: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o2: אֱוִיל = H191 אֱוִיל "(figuratively) silly" [HAamsa]
+- o3: מַחֲרִישׁ = H2790 חָרַשׁ "to scratch, i.e. (by implication) to engrave…" [HVhrmsa]
+- o4: חָכָם = H2450 חָכָם "wise, (i.e. intelligent, skilful or artful)" [HAamsa]
+- o5: יֵחָשֵׁב = H2803 חָשַׁב "properly, to plait or interpenetrate…" [HVNi3ms]
+- o6: אֹטֵם = H331 אָטַם "to close (the lips or ears)…" [HVqrmsa]
+- o7: שְׂפָתָי/ו = H8193 שָׂפָה "the lip (as a natural boundary)…" [HNcfdc/Sp3ms]
+- o8: נָבוֹן = H995 בִּין "to separate mentally (or distinguish)…" [HVNrmsa]
+
+### Proverbs 19:1 (context)
+
+- o1: טוֹב = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAamsa]
+- o2: רָשׁ = H7326 רוּשׁ "to be destitute" [HVqrmsa]
+- o3: הוֹלֵךְ = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVqrmsa]
+- o4: בְּ/תֻמּ/וֹ = Hb "in" + H8537 תֹּם "completeness; figuratively, prosperity…" [HR/Ncmsc/Sp3ms]
+- o5: מֵ/עִקֵּשׁ = Hm "from" + H6141 עִקֵּשׁ "distorted; hence, false" [HR/Aamsc]
+- o6: שְׂפָתָי/ו = H8193 שָׂפָה "the lip (as a natural boundary)…" [HNcfdc/Sp3ms]
+- o7: וְ/הוּא = Hc "and" + H1931 הוּא "he (she or it)…" [HC/Pp3ms]
+- o8: כְסִיל = H3684 כְּסִיל "properly, fat, i.e. (figuratively) stupid or silly" [HAamsa]

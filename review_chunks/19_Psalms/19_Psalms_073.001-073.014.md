@@ -503,3 +503,26 @@ Persian entries and current tags:
 - p8: توبیخ  → H5060 H8433
 - p9: گشته‌ام
 - p10: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 72:20 (context)
+
+- o1: כָּלּוּ = H3615 כָּלָה "to end, whether intransitive (to cease…" [HVPp3cp]
+- o2: תְפִלּוֹת = H8605 תְּפִלָּה "intercession, supplication; by implication, a hymn" [HNcfpc]
+- o3: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o4: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o5: יִשָׁי = H3448 יִשַׁי "Jishai, David's father" [HNp]
+
+### Psalms 73:15 (context)
+
+- o1: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o2: אָמַרְתִּי = H559 אָמַר "to say (used with great latitude)" [HVqp1cs]
+- o3: אֲסַפְּרָה = H5608 סָפַר "properly…" [HVph1cs]
+- o4: כְמוֹ = H3644 כְּמוֹ "a form of the prefix 'k-', but used separately as…" [HR]
+- o5: הִנֵּה = H2009 הִנֵּה "lo!" [HTm]
+- o6: דוֹר = H1755 דּוֹר "properly, a revolution of time…" [HNcmsc]
+- o7: בָּנֶי/ךָ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc/Sp2ms]
+- o8: בָגָדְתִּי = H898 בָּגַד "to cover (with a garment)…" [HVqp1cs]

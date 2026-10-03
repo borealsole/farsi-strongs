@@ -1159,3 +1159,50 @@ Persian entries and current tags:
 - p8: و  → Hc
 - p9: شرم نداشتند  → H954
 - p10: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 1:31 (context)
+
+- o1: וַ/יַּרְא = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw3ms]
+- o2: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: עָשָׂה = H6213 עָשָׂה "to do or make…" [HVqp3ms]
+- o7: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o8: טוֹב = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAamsa]
+- o9: מְאֹד = H3966 מְאֹד "properly, vehemence…" [HD]
+- o10: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o11: עֶרֶב = H6153 עֶרֶב "dusk" [HNcmsa]
+- o12: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o13: בֹקֶר = H1242 בֹּקֶר "properly, dawn (as the break of day)…" [HNcmsa]
+- o14: יוֹם = H3117 יוֹם "a day (as the warm hours)…" [HNcmsc]
+- o15: הַ/שִּׁשִּׁי = Hd "the" + H8345 שִׁשִּׁי "sixth, ord. or (feminine) fractional" [HTd/Aomsa]
+
+### Genesis 3:1 (context)
+
+- o1: וְ/הַ/נָּחָשׁ = Hc "and" + Hd "the" + H5175 נָחָשׁ "a snake (from its hiss)" [HC/Td/Ncmsa]
+- o2: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o3: עָרוּם = H6175 עָרוּם "cunning (usually in a bad sense)" [HAamsa]
+- o4: מִ/כֹּל = Hm "from" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o5: חַיַּת = H2416 חַי "alive; hence, raw (flesh)…" [HNcfsc]
+- o6: הַ/שָּׂדֶה = Hd "the" + H7704 שָׂדֶה "a field (as flat)" [HTd/Ncmsa]
+- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o8: עָשָׂה = H6213 עָשָׂה "to do or make…" [HVqp3ms]
+- o9: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o10: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o11: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o12: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o13: הָ/אִשָּׁה = Hd "the" + H802 אִשָּׁה "a woman" [HTd/Ncfsa]
+- o14: אַף = H637 אַף "meaning accession (used as an adverb or…" [HTa]
+- o15: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o16: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o17: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o18: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o19: תֹאכְלוּ = H398 אָכַל "to eat (literally or figuratively)" [HVqi2mp]
+- o20: מִ/כֹּל = Hm "from" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o21: עֵץ = H6086 עֵץ "a tree (from its firmness)…" [HNcmsc]
+- o22: הַ/גָּן = Hd "the" + H1588 גַּן "a garden (as fenced)" [HTd/Ncbsa]

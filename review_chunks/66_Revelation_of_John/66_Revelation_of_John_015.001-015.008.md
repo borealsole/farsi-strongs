@@ -596,3 +596,59 @@ Persian entries and current tags:
 - p26: معبد  → G3485
 - p27: درآید  → G1525
 - p28: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Revelation of John 14:20 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἐπατήθη = G3961 πατέω "tread (down, under foot)" [V-API-3S]
+- o3: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o4: ληνὸς = G3025 ληνός "winepress" [N-NSF]
+- o5: ἔξωθεν = G1855 ἔξωθεν "out(-side, -ward, - wardly), (from) without" [ADV]
+- o6: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o7: πόλεως, = G4172 πόλις "city" [N-GSF]
+- o8: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o9: ἐξῆλθεν = G1831 ἐξέρχομαι "come (forth, out), depart (out of), escape…" [V-2AAI-3S]
+- o10: αἷμα = G129 αἷμα "blood" [N-NSN]
+- o11: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o12: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o13: ληνοῦ = G3025 ληνός "winepress" [N-GSF]
+- o14: ἄχρι = G891 ἄχρι "as far as, for, in(-to), till, (even, un-)to…" [ADV]
+- o15: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o16: χαλινῶν = G5469 χαλινός "bit, bridle" [N-GPM]
+- o17: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o18: ἵππων = G2462 ἵππος "horse" [N-GPM]
+- o19: ἀπὸ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
+- o20: σταδίων = G4712 στάδιον "furlong, race" [N-GPM]
+- o21: χιλίων = G5507 χίλιοι "thousand" [A-GPM]
+- o22: ἑξακοσίων. = G1812 ἑξακόσιοι "six hundred" [A-GPM]
+
+### Revelation of John 16:1 (context)
+
+- o1: Καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἤκουσα = G191 ἀκούω "give (in the) audience (of), come (to the ears)…" [V-AAI-1S]
+- o3: μεγάλης = G3173 μέγας "+ fear) exceedingly, great(-est), high, large…" [A-GSF]
+- o4: φωνῆς = G5456 φωνή "noise, sound, voice" [N-GSF]
+- o5: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o6: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o7: ναοῦ = G3485 ναός "shrine, temple" [N-GSM]
+- o8: λεγούσης = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAP-GSF]
+- o9: τοῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPM]
+- o10: ἑπτὰ = G2033 ἑπτά "seven" [A-NUI]
+- o11: ἀγγέλοις, = G32 ἄγγελος "angel, messenger" [N-DPM]
+- o12: ὑπάγετε = G5217 ὑπάγω "depart, get hence, go (a-)way" [V-PAM-2P]
+- o13: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o14: ἐκχέετε = G1632 ἐκχέω "gush (pour) out, run greedily (out), shed (abroad…" [V-PAM-2P]
+- o15: τὰς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APF]
+- o16: ἑπτὰ = G2033 ἑπτά "seven" [A-NUI]
+- o17: φιάλας = G5357 φιάλη "vial" [N-APF]
+- o18: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o19: θυμοῦ = G2372 θυμός "fierceness, indignation, wrath" [N-GSM]
+- o20: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o21: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o22: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o23: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o24: γῆν. = G1093 γῆ "country, earth(-ly), ground, land, world" [N-ASF]

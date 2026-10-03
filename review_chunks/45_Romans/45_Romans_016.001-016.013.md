@@ -631,3 +631,33 @@ Persian entries and current tags:
 - p20: ،
 - p21: سلام برسانید  → G782
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Romans 15:33 (context)
+
+- o1: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: θεὸς = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-NSM]
+- o4: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o5: εἰρήνης = G1515 εἰρήνη "one, peace, quietness, rest, + set at one again" [N-GSF]
+- o6: μετὰ = G3326 μετά "after(-ward), that he again, against, among, and…" [PREP]
+- o7: πάντων = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-GPM]
+- o8: ὑμῶν· = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
+- o9: ἀμήν. = G281 ἀμήν "amen, verily" [HEB]
+
+### Romans 16:14 (context)
+
+- o1: ἀσπάσασθε = G782 ἀσπάζομαι "embrace, greet, salute, take leave" [V-ADM-2P]
+- o2: Ἀσύνκριτον, = G799 Ἀσύγκριτος "Asyncritos" [N-ASM]
+- o3: Φλέγοντα, = G5393 Φλέγων "Phlegon" [N-ASM]
+- o4: Ἑρμῆν, = G2060 Ἑρμῆς "Hermes, Mercury" [N-ASM]
+- o5: Πατροβᾶν, = G3969 Πατροβᾶς "Patrobas" [N-ASM]
+- o6: Ἑρμᾶν, = G2057 Ἑρμᾶς "Hermas" [N-ASM]
+- o7: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o8: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o9: σὺν = G4862 σύν "beside, with" [PREP]
+- o10: αὐτοῖς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPM]
+- o11: ἀδελφούς. = G80 ἀδελφός "brother" [N-APM]

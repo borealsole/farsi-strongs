@@ -718,3 +718,43 @@ Persian entries and current tags:
 - p54: باشد
 - p55: .
 - p56: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 18:34 (context)
+
+- o1: וַ/תַּעַל = Hc "and" + H5927 עָלָה "to ascend…" [HC/Vqw3fs]
+- o2: הַ/מִּלְחָמָה = Hd "the" + H4421 מִלְחָמָה "a battle (i.e. the engagement)…" [HTd/Ncfsa]
+- o3: בַּ/יּוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
+- o4: הַ/הוּא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3ms]
+- o5: וּ/מֶלֶךְ = Hc "and" + H4428 מֶלֶךְ "a king" [HC/Ncmsc]
+- o6: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o7: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o8: מַעֲמִיד = H5975 עָמַד "to stand…" [HVhrmsa]
+- o9: בַּ/מֶּרְכָּבָה = Hb "in" + H4818 מֶרְכָּבָה "a chariot" [HRd/Ncfsa]
+- o10: נֹכַח = H5227 נֹכַח "properly, the front part…" [HR]
+- o11: אֲרָם = H758 אֲרָם "Aram or Syria, and its inhabitants…" [HNp]
+- o12: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o13: הָ/עָרֶב = Hd "the" + H6153 עֶרֶב "dusk" [HTd/Ncmsa]
+- o14: וַ/יָּמָת = Hc "and" + H4191 מוּת "to die (literally or figuratively)…" [HC/Vqw3ms]
+- o15: לְ/עֵת = Hl "to" + H6256 עֵת "time, especially (adverb with preposition) now…" [HR/Ncbsa]
+- o16: בּוֹא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqc]
+- o17: הַ/שָּׁמֶשׁ = Hd "the" + H8121 שֶׁמֶשׁ "the sun; by implication, the east…" [HTd/Ncbsa]
+
+### II Chronicles 20:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: אַחֲרֵי = H310 אַחַר "properly, the hind part…" [HD]
+- o3: כֵן = H3651 כֵּן "properly, set upright…" [HD]
+- o4: בָּאוּ = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3cp]
+- o5: בְנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o6: מוֹאָב = H4124 מוֹאָב "Moab, an incestuous son of Lot…" [HNp]
+- o7: וּ/בְנֵי = Hc "and" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/Ncmpc]
+- o8: עַמּוֹן = H5983 עַמּוֹן "Ammon, a son of Lot…" [HNp]
+- o9: וְ/עִמָּ/הֶם = Hc "and" + H5973 עִם "adverb or preposition…" [HC/R/Sp3mp]
+- o10: מֵ/הָ/עַמּוֹנִים = Hm "from" + Hd "the" + H5984 עַמּוֹנִי "an Ammonite or (the adjective) Ammonitish" [HR/Td/Ngmpa]
+- o11: עַל = H5921 עַל "above, over, upon…" [HR]
+- o12: יְהוֹשָׁפָט = H3092 יְהוֹשָׁפָט "Jehoshaphat, the name of six Israelites…" [HNp]
+- o13: לַ/מִּלְחָמָה = Hl "to" + H4421 מִלְחָמָה "a battle (i.e. the engagement)…" [HRd/Ncfsa]

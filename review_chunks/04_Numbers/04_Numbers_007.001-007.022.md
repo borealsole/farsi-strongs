@@ -1008,3 +1008,38 @@ Persian entries and current tags:
 - p6: جهت  → Hl
 - p7: قربانی گناه  → H2403
 - p8: ؛
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 6:27 (context)
+
+- o1: וְ/שָׂמוּ = Hc "and" + H7760 שׂוּם "to put (used in a great variety of applications…" [HC/Vqq3cp]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: שְׁמִ/י = H8034 שֵׁם "an appellation…" [HNcmsc/Sp1cs]
+- o4: עַל = H5921 עַל "above, over, upon…" [HR]
+- o5: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o6: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o7: וַ/אֲנִי = Hc "and" + H589 אֲנִי "I" [HC/Pp1cs]
+- o8: אֲבָרֲכֵ/ם = H1288 בָרַךְ "to kneel…" [HVpi1cs/Sp3mp]
+
+### Numbers 7:23 (context)
+
+- o1: וּ/לְ/זֶבַח = Hc "and" + Hl "to" + H2077 זֶבַח "properly, a slaughter…" [HC/R/Ncmsc]
+- o2: הַ/שְּׁלָמִים = Hd "the" + H8002 שֶׁלֶם "properly, requital…" [HTd/Ncmpa]
+- o3: בָּקָר = H1241 בָּקָר "beef cattle or an animal of the ox family of…" [HNcbsa]
+- o4: שְׁנַיִם = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmda]
+- o5: אֵילִם = H352 אַיִל "properly, strength; hence, anything strong…" [HNcmpa]
+- o6: חֲמִשָּׁה = H2568 חָמֵשׁ "five" [HAcmsa]
+- o7: עַתּוּדִים = H6260 עַתּוּד "prepared, i.e. full grown…" [HNcmpa]
+- o8: חֲמִשָּׁה = H2568 חָמֵשׁ "five" [HAcmsa]
+- o9: כְּבָשִׂים = H3532 כֶּבֶשׂ "a ram (just old enough to butt)" [HNcmpa]
+- o10: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o11: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o12: חֲמִשָּׁה = H2568 חָמֵשׁ "five" [HAcmsa]
+- o13: זֶה = H2088 זֶה "the masculine demonstrative pronoun, this or that" [HPdxms]
+- o14: קָרְבַּן = H7133 קׇרְבָּן "something brought near the altar…" [HNcmsc]
+- o15: נְתַנְאֵל = H5417 נְתַנְאֵל "Nethanel, the name of ten Israelites" [HNp]
+- o16: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o17: צוּעָר = H6686 צוּעָר "Tsuar, an Israelite" [HNp]

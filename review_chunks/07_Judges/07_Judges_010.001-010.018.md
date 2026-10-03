@@ -934,3 +934,40 @@ Persian entries and current tags:
 - p26: خواهد_بود
 - p27: .
 - p28: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Judges 9:57 (context)
+
+- o1: וְ/אֵת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o2: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: רָעַת = H7451 רַע "bad or (as noun) evil (natural or moral)" [HNcfsc]
+- o4: אַנְשֵׁי = H376 אִישׁ "a man as an individual or a male person…" [HNcmpc]
+- o5: שְׁכֶם = H7927 שְׁכֶם "Shekem, a place in Palestine" [HNp]
+- o6: הֵשִׁיב = H7725 שׁוּב "to turn back (hence…" [HVhp3ms]
+- o7: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o8: בְּ/רֹאשָׁ/ם = Hb "in" + H7218 רֹאשׁ "the head (as most easily shaken)…" [HR/Ncmsc/Sp3mp]
+- o9: וַ/תָּבֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3fs]
+- o10: אֲלֵי/הֶם = H413 אֵל "near, with or among; often in general, to" [HR/Sp3mp]
+- o11: קִלֲלַת = H7045 קְלָלָה "vilification" [HNcfsc]
+- o12: יוֹתָם = H3147 יוֹתָם "Jotham, the name of three Israelites" [HNp]
+- o13: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o14: יְרֻבָּעַל = H3378 יְרֻבַּעַל "Jerubbaal, a symbolic name of Gideon" [HNp]
+
+### Judges 11:1 (context)
+
+- o1: וְ/יִפְתָּח = Hc "and" + H3316 יִפְתָּח "Jiphtach, an Israelite; also a place in Palestine" [HC/Np]
+- o2: הַ/גִּלְעָדִי = Hd "the" + H1569 גִּלְעָדִי "a Giladite or descendant of Gilad" [HTd/Ngmsa]
+- o3: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o4: גִּבּוֹר = H1368 גִּבּוֹר "powerful; by implication, warrior, tyrant" [HAamsc]
+- o5: חַיִל = H2428 חַיִל "probably a force, whether of men…" [HNcmsa]
+- o6: וְ/הוּא = Hc "and" + H1931 הוּא "he (she or it)…" [HC/Pp3ms]
+- o7: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o8: אִשָּׁה = H802 אִשָּׁה "a woman" [HNcfsa]
+- o9: זוֹנָה = H2181 זָנָה "to commit adultery (usually of the female…" [HVqrfsa]
+- o10: וַ/יּוֹלֶד = Hc "and" + H3205 יָלַד "to bear young; causatively, to beget…" [HC/Vhw3ms]
+- o11: גִּלְעָד = H1568 גִּלְעָד "Gilad, a region East of the Jordan…" [HNp]
+- o12: אֶת = H853 אֵת "properly…" [HTo]
+- o13: יִפְתָּח = H3316 יִפְתָּח "Jiphtach, an Israelite; also a place in Palestine" [HNp]

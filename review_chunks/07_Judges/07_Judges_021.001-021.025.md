@@ -1342,3 +1342,32 @@ Persian entries and current tags:
 - p17: ،
 - p18: می‌کرد
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Judges 20:48 (context)
+
+- o1: וְ/אִישׁ = Hc "and" + H376 אִישׁ "a man as an individual or a male person…" [HC/Ncmsc]
+- o2: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o3: שָׁבוּ = H7725 שׁוּב "to turn back (hence…" [HVqp3cp]
+- o4: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o5: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o6: בִנְיָמִן = H1144 בִּנְיָמִין "Binjamin, youngest son of Jacob…" [HNp]
+- o7: וַ/יַּכּוּ/ם = Hc "and" + H5221 נָכָה "to strike (lightly or severely…" [HC/Vhw3mp/Sp3mp]
+- o8: לְ/פִי = Hl "to" + H6310 פֶּה "the mouth (as the means of blowing)…" [HR/Ncmsc]
+- o9: חֶרֶב = H2719 חֶרֶב "drought…" [HNcfsa]
+- o10: מֵ/עִיר = Hm "from" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HR/Ncfsc]
+- o11: מְתֹם = H4974 מְתֹם "wholesomeness; also (adverb) completely" [HNcmsa]
+- o12: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o13: בְּהֵמָה = H929 בְּהֵמָה "properly, a dumb beast…" [HNcfsa]
+- o14: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o15: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o16: הַ/נִּמְצָא = Hd "the" + H4672 מָצָא "properly, to come forth to, i.e. appear or exist…" [HTd/VNrmsa]
+- o17: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o18: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o19: הֶ/עָרִים = Hd "the" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HTd/Ncfpa]
+- o20: הַ/נִּמְצָאוֹת = Hd "the" + H4672 מָצָא "properly, to come forth to, i.e. appear or exist…" [HTd/VNrfpa]
+- o21: שִׁלְּחוּ = H7971 שָׁלַח "to send away, for…" [HVpp3cp]
+- o22: בָ/אֵשׁ = Hb "in" + H784 אֵשׁ "fire (literally or figuratively)" [HRd/Ncbsa]

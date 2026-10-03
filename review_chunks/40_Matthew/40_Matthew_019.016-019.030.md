@@ -803,3 +803,39 @@ Persian entries and current tags:
 - p10: آخرینها  → G2078
 - p11: اوّلین  → G4413
 - p12: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 19:15 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἐπιθεὶς = G2007 ἐπιτίθημι "add unto, lade, lay upon, put (up) on…" [V-2AAP-NSM]
+- o3: τὰς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APF]
+- o4: χεῖρας = G5495 χείρ "hand" [N-APF]
+- o5: αὐτοῖς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPN]
+- o6: ἐπορεύθη = G4198 πορεύομαι "--depart, go (away, forth, one's way, up)…" [V-AOI-3S]
+- o7: ἐκεῖθεν. = G1564 ἐκεῖθεν "from that place, (from) thence, there" [ADV]
+
+### Matthew 20:1 (context)
+
+- o1: Ὁμοία = G3664 ὅμοιος "like, + manner" [A-NSF]
+- o2: γάρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o3: ἐστιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o4: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o5: βασιλεία = G932 βασιλεία "kingdom, + reign" [N-NSF]
+- o6: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o7: οὐρανῶν = G3772 οὐρανός "air, heaven(-ly), sky" [N-GPM]
+- o8: ἀνθρώπῳ = G444 ἄνθρωπος "certain, man" [N-DSM]
+- o9: οἰκοδεσπότῃ, = G3617 οἰκοδεσπότης "goodman (of the house), householder…" [N-DSM]
+- o10: ὅστις = G3748 ὅστις "and (they), (such) as, (they) that, in that they…" [R-NSM]
+- o11: ἐξῆλθεν = G1831 ἐξέρχομαι "come (forth, out), depart (out of), escape…" [V-2AAI-3S]
+- o12: ἅμα = G260 ἅμα "also, and, together, with(-al)" [ADV]
+- o13: πρωῒ = G4404 πρωΐ "early (in the morning), (in the) morning" [ADV]
+- o14: μισθώσασθαι = G3409 μισθόω "hire" [V-AMN]
+- o15: ἐργάτας = G2040 ἐργάτης "labourer, worker(-men)" [N-APM]
+- o16: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o17: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o18: ἀμπελῶνα = G290 ἀμπελών "vineyard" [N-ASM]
+- o19: αὐτοῦ. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]

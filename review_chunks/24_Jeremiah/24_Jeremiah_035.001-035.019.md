@@ -1196,3 +1196,49 @@ Persian entries and current tags:
 - p25: کم نخواهد_داشت  → H3772
 - p26: .
 - p27: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 34:22 (context)
+
+- o1: הִנְ/נִי = H2005 הֵן "lo!; also (as expressing surprise) if" [HTm/Sp1cs]
+- o2: מְצַוֶּה = H6680 צָוָה "(intensively) to constitute, enjoin" [HVprmsa]
+- o3: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: וַ/הֲשִׁבֹתִי/ם = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vhq1cs/Sp3mp]
+- o6: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o7: הָ/עִיר = Hd "the" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HTd/Ncfsa]
+- o8: הַ/זֹּאת = Hd "the" + H2063 זֹאת "this (often used adverb)" [HTd/Pdxfs]
+- o9: וְ/נִלְחֲמוּ = Hc "and" + H3898 לָחַם "to feed on; figuratively, to consume…" [HC/VNq3cp]
+- o10: עָלֶי/הָ = H5921 עַל "above, over, upon…" [HR/Sp3fs]
+- o11: וּ/לְכָדוּ/הָ = Hc "and" + H3920 לָכַד "to catch (in a net, trap or pit)…" [HC/Vqq3cp/Sp3fs]
+- o12: וּ/שְׂרָפֻ/הָ = Hc "and" + H8313 שָׂרַף "to be (causatively, set) on fire" [HC/Vqq3cp/Sp3fs]
+- o13: בָ/אֵשׁ = Hb "in" + H784 אֵשׁ "fire (literally or figuratively)" [HRd/Ncbsa]
+- o14: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o15: עָרֵי = H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HNcfpc]
+- o16: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o17: אֶתֵּן = H5414 נָתַן "to give…" [HVqi1cs]
+- o18: שְׁמָמָה = H8077 שְׁמָמָה "devastation; figuratively, astonishment" [HNcfsa]
+- o19: מֵ/אֵין = Hm "from" + H369 אַיִן "a non-entity…" [HR/Tn]
+- o20: יֹשֵׁב = H3427 יָשַׁב "properly…" [HVqrmsa]
+
+### Jeremiah 36:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: בַּ/שָּׁנָה = Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HRd/Ncfsa]
+- o3: הָ/רְבִיעִת = Hd "the" + H7243 רְבִיעִי "fourth; also (fractionally) a fourth" [HTd/Aofsa]
+- o4: לִ/יהוֹיָקִים = Hl "to" + H3079 יְהוֹיָקִים "Jehojakim, a Jewish king" [HR/Np]
+- o5: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o6: יֹאשִׁיָּהוּ = H2977 יֹאשִׁיָּה "Joshijah, the name of two Israelites" [HNp]
+- o7: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o8: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o9: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o10: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]
+- o11: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o12: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o13: יִרְמְיָהוּ = H3414 יִרְמְיָה "Jirmejah, the name of eight or nine Israelites" [HNp]
+- o14: מֵ/אֵת = Hm "from" + H854 אֵת "properly…" [HR/R]
+- o15: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o16: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

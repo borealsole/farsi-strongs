@@ -943,3 +943,18 @@ Persian entries and current tags:
 - p29: بگذارید
 - p30: .
 - p31: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 2:1 (context)
+
+- o1: וַ/יֵּלֶךְ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3ms]
+- o2: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o3: מִ/בֵּית = Hm "from" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc]
+- o4: לֵוִי = H3878 לֵוִי "Levi, a son of Jacob" [HNp]
+- o5: וַ/יִּקַּח = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqw3ms]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: בַּת = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfsc]
+- o8: לֵוִי = H3878 לֵוִי "Levi, a son of Jacob" [HNp]

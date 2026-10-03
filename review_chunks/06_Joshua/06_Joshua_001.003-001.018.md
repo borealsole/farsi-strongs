@@ -991,3 +991,60 @@ Persian entries and current tags:
 - p24: دلیر باش  → H553
 - p25: !
 - p26: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Joshua 1:2 (context)
+
+- o1: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o2: עַבְדִּ/י = H5650 עֶבֶד "a servant" [HNcmsc/Sp1cs]
+- o3: מֵת = H4191 מוּת "to die (literally or figuratively)…" [HVqp3ms]
+- o4: וְ/עַתָּה = Hc "and" + H6258 עַתָּה "at this time, whether adverb…" [HC/D]
+- o5: קוּם = H6965 קוּם "to rise (in various applications, literal…" [HVqv2ms]
+- o6: עֲבֹר = H5674 עָבַר "to cross over…" [HVqv2ms]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: הַ/יַּרְדֵּן = Hd "the" + H3383 יַרְדֵּן "Jarden, the principal river of Palestine" [HTd/Np]
+- o9: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o10: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o11: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o12: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o13: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o14: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o15: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o16: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o17: אָנֹכִי = H595 אָנֹכִי "I" [HPp1cs]
+- o18: נֹתֵן = H5414 נָתַן "to give…" [HVqrmsa]
+- o19: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o20: לִ/בְנֵי = Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmpc]
+- o21: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+
+### Joshua 2:1 (context)
+
+- o1: וַ/יִּשְׁלַח = Hc "and" + H7971 שָׁלַח "to send away, for…" [HC/Vqw3ms]
+- o2: יְהוֹשֻׁעַ = H3091 יְהוֹשׁוּעַ "Jehoshua (i.e. Joshua), the Jewish leader" [HNp]
+- o3: בִּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o4: נוּן = H5126 נוּן "Nun or Non, the father of Joshua" [HNp]
+- o5: מִן = H4480 מִן "properly, a part of…" [HR]
+- o6: הַ/שִּׁטִּים = Hd "the" + H7851 שִׁטִּים "Shittim, a place East of the Jordan" [HTd/Np]
+- o7: שְׁנַיִם = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmda]
+- o8: אֲנָשִׁים = H376 אִישׁ "a man as an individual or a male person…" [HNcmpa]
+- o9: מְרַגְּלִים = H7270 רָגַל "to walk along…" [HVprmpa]
+- o10: חֶרֶשׁ = H2791 חֶרֶשׁ "magical craft; also silence" [HNcmsa]
+- o11: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o12: לְכוּ = H3212 יָלַךְ "to walk (literally or figuratively)…" [HVqv2mp]
+- o13: רְאוּ = H7200 רָאָה "to see…" [HVqv2mp]
+- o14: אֶת = H853 אֵת "properly…" [HTo]
+- o15: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o16: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o17: יְרִיחוֹ = H3405 יְרִיחוֹ "Jericho or Jerecho, a place in Palestine" [HNp]
+- o18: וַ/יֵּלְכוּ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3mp]
+- o19: וַ/יָּבֹאוּ = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3mp]
+- o20: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o21: אִשָּׁה = H802 אִשָּׁה "a woman" [HNcfsa]
+- o22: זוֹנָה = H2181 זָנָה "to commit adultery (usually of the female…" [HVqrfsa]
+- o23: וּ/שְׁמָ/הּ = Hc "and" + H8034 שֵׁם "an appellation…" [HC/Ncmsc/Sp3fs]
+- o24: רָחָב = H7343 רָחָב "Rachab, a Canaanitess" [HNp]
+- o25: וַ/יִּשְׁכְּבוּ = Hc "and" + H7901 שָׁכַב "to lie down (for rest, sexual connection…" [HC/Vqw3mp]
+- o26: שָׁמָּ/ה = H8033 שָׁם "there (transferring to time) then…" [HD/Sd]

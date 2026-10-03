@@ -1322,3 +1322,37 @@ Persian entries and current tags:
 - p39: خواهد_بود
 - p40: .
 - p41: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 27:23 (context)
+
+- o1: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o2: הִכִּיר/וֹ = H5234 נָכַר "properly, to scrutinize, i.e. look intently at…" [HVhp3ms/Sp3ms]
+- o3: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o4: הָיוּ = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3cp]
+- o5: יָדָי/ו = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbdc/Sp3ms]
+- o6: כִּ/ידֵי = Hk "like" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbdc]
+- o7: עֵשָׂו = H6215 עֵשָׂו "Esav, a son of Isaac, including his posterity" [HNp]
+- o8: אָחִי/ו = H251 אָח "a brother (used in the widest sense of literal…" [HNcmsc/Sp3ms]
+- o9: שְׂעִרֹת = H8163 שָׂעִיר "shaggy; as noun, a he-goat; by analogy, a faun" [HAafpa]
+- o10: וַ/יְבָרְכֵ/הוּ = Hc "and" + H1288 בָרַךְ "to kneel…" [HC/Vpw3ms/Sp3ms]
+
+### Genesis 28:1 (context)
+
+- o1: וַ/יִּקְרָא = Hc "and" + H7121 קָרָא "to call out to (i.e. properly, address by name…" [HC/Vqw3ms]
+- o2: יִצְחָק = H3327 יִצְחָק "Jitschak (or Isaac), son of Abraham" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: יַעֲקֹב = H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HNp]
+- o5: וַ/יְבָרֶךְ = Hc "and" + H1288 בָרַךְ "to kneel…" [HC/Vpw3ms]
+- o6: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o7: וַ/יְצַוֵּ/הוּ = Hc "and" + H6680 צָוָה "(intensively) to constitute, enjoin" [HC/Vpw3ms/Sp3ms]
+- o8: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o9: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o10: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o11: תִקַּח = H3947 לָקַח "to take (in the widest variety of applications)" [HVqi2ms]
+- o12: אִשָּׁה = H802 אִשָּׁה "a woman" [HNcfsa]
+- o13: מִ/בְּנוֹת = Hm "from" + H1323 בַּת "a daughter (used in the same wide sense as other…" [HR/Ncfpc]
+- o14: כְּנָעַן = H3667 כְּנַעַן "Kenaan, a son a Ham…" [HNp]

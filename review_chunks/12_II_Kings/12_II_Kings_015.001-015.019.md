@@ -1031,3 +1031,49 @@ Persian entries and current tags:
 - p36: اسرائیل
 - p37: تثبیت نمود  → H2388
 - p38: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 14:29 (context)
+
+- o1: וַ/יִּשְׁכַּב = Hc "and" + H7901 שָׁכַב "to lie down (for rest, sexual connection…" [HC/Vqw3ms]
+- o2: יָרָבְעָם = H3379 יָרׇבְעָם "Jarobam, the name of two Israelite kings" [HNp]
+- o3: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o4: אֲבֹתָי/ו = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp3ms]
+- o5: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o6: מַלְכֵי = H4428 מֶלֶךְ "a king" [HNcmpc]
+- o7: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o8: וַ/יִּמְלֹךְ = Hc "and" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HC/Vqw3ms]
+- o9: זְכַרְיָה = H2148 זְכַרְיָה "Zecarjah, the name of twenty-nine Israelites" [HNp]
+- o10: בְנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o11: תַּחְתָּי/ו = H8478 תַּחַת "the bottom (as depressed)…" [HR/Sp3ms]
+
+### II Kings 15:20 (context)
+
+- o1: וַ/יֹּצֵא = Hc "and" + H3318 יָצָא "to go (causatively, bring) out…" [HC/Vhw3ms]
+- o2: מְנַחֵם = H4505 מְנַחֵם "Menachem, an Israelite" [HNp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: הַ/כֶּסֶף = Hd "the" + H3701 כֶּסֶף "silver (from its pale color)…" [HTd/Ncmsa]
+- o5: עַל = H5921 עַל "above, over, upon…" [HR]
+- o6: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o7: עַל = H5921 עַל "above, over, upon…" [HR]
+- o8: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o9: גִּבּוֹרֵי = H1368 גִּבּוֹר "powerful; by implication, warrior, tyrant" [HAampc]
+- o10: הַ/חַיִל = Hd "the" + H2428 חַיִל "probably a force, whether of men…" [HTd/Ncmsa]
+- o11: לָ/תֵת = Hl "to" + H5414 נָתַן "to give…" [HR/Vqc]
+- o12: לְ/מֶלֶךְ = Hl "to" + H4428 מֶלֶךְ "a king" [HR/Ncmsc]
+- o13: אַשּׁוּר = H804 אַשּׁוּר "Ashshur, the second son of Shem…" [HNp]
+- o14: חֲמִשִּׁים = H2572 חֲמִשִּׁים "fifty" [HAcbpa]
+- o15: שְׁקָלִים = H8255 שֶׁקֶל "probably a weight; used as a commercial standard" [HNcmpa]
+- o16: כֶּסֶף = H3701 כֶּסֶף "silver (from its pale color)…" [HNcmsa]
+- o17: לְ/אִישׁ = Hl "to" + H376 אִישׁ "a man as an individual or a male person…" [HR/Ncmsa]
+- o18: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o19: וַ/יָּשָׁב = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqw3ms]
+- o20: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o21: אַשּׁוּר = H804 אַשּׁוּר "Ashshur, the second son of Shem…" [HNp]
+- o22: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o23: עָמַד = H5975 עָמַד "to stand…" [HVqp3ms]
+- o24: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o25: בָּ/אָרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HRd/Ncbsa]

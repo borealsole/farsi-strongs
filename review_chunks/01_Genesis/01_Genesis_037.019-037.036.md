@@ -919,3 +919,35 @@ Persian entries and current tags:
 - p22: ،
 - p23: فروختند  → H4376
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 37:18 (context)
+
+- o1: וַ/יִּרְאוּ = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw3mp]
+- o2: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o3: מֵ/רָחֹק = Hm "from" + H7350 רָחוֹק "remote, literally or figuratively…" [HR/Aamsa]
+- o4: וּ/בְ/טֶרֶם = Hc "and" + Hb "in" + H2962 טֶרֶם "properly, non-occurrence…" [HC/R/D]
+- o5: יִקְרַב = H7126 קָרַב "to approach (causatively…" [HVqi3ms]
+- o6: אֲלֵי/הֶם = H413 אֵל "near, with or among; often in general, to" [HR/Sp3mp]
+- o7: וַ/יִּתְנַכְּלוּ = Hc "and" + H5230 נָכַל "to defraud, i.e. act treacherously" [HC/Vtw3mp]
+- o8: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o9: לַ/הֲמִית/וֹ = Hl "to" + H4191 מוּת "to die (literally or figuratively)…" [HR/Vhc/Sp3ms]
+
+### Genesis 38:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: בָּ/עֵת = Hb "in" + H6256 עֵת "time, especially (adverb with preposition) now…" [HRd/Ncbsa]
+- o3: הַ/הִוא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3fs]
+- o4: וַ/יֵּרֶד = Hc "and" + H3381 יָרַד "to descend (literally, to go downwards…" [HC/Vqw3ms]
+- o5: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o6: מֵ/אֵת = Hm "from" + H854 אֵת "properly…" [HR/R]
+- o7: אֶחָי/ו = H251 אָח "a brother (used in the widest sense of literal…" [HNcmpc/Sp3ms]
+- o8: וַ/יֵּט = Hc "and" + H5186 נָטָה "to stretch or spread out…" [HC/Vqw3ms]
+- o9: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o10: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o11: עֲדֻלָּמִי = H5726 עֲדֻלָּמִי "an Adullamite or native of Adullam" [HNgmsa]
+- o12: וּ/שְׁמ/וֹ = Hc "and" + H8034 שֵׁם "an appellation…" [HC/Ncmsc/Sp3ms]
+- o13: חִירָה = H2437 חִירָה "Chirah, an Adullamite" [HNp]

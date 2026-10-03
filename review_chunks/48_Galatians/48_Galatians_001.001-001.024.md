@@ -1114,3 +1114,23 @@ Persian entries and current tags:
 - p6: را
 - p7: تمجید می‌کردند  → G1392
 - p8: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Galatians 2:1 (context)
+
+- o1: Ἔπειτα = G1899 ἔπειτα "after that(-ward), then" [ADV]
+- o2: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o3: δεκατεσσάρων = G1180 δεκατέσσαρες "fourteen" [A-GPN]
+- o4: ἐτῶν = G2094 ἔτος "year" [N-GPN]
+- o5: πάλιν = G3825 πάλιν "again" [ADV]
+- o6: ἀνέβην = G305 ἀναβαίνω "arise, ascend (up), climb (go, grow, rise…" [V-2AAI-1S]
+- o7: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o8: Ἱεροσόλυμα = G2414 Ἱεροσόλυμα "Jerusalem" [N-APN]
+- o9: μετὰ = G3326 μετά "after(-ward), that he again, against, among, and…" [PREP]
+- o10: Βαρναβᾶ, = G921 Βαρνάβας "Barnabas" [N-GSM]
+- o11: συνπαραλαβὼν = G4838 συμπαραλαμβάνω "take with" [V-2AAP-NSM]
+- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o13: Τίτον· = G5103 Τίτος "Titus" [N-ASM]

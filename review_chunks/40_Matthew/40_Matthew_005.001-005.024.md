@@ -1177,3 +1177,61 @@ Persian entries and current tags:
 - p19: را
 - p20: تقدیم نما  → G4374
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 4:25 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἠκολούθησαν = G190 ἀκολουθέω "follow, reach" [V-AAI-3P]
+- o3: αὐτῷ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
+- o4: ὄχλοι = G3793 ὄχλος "company, multitude, number (of people), people…" [N-NPM]
+- o5: πολλοὶ = G4183 πολύς "abundant, + altogether, common, + far (passed…" [A-NPM]
+- o6: ἀπὸ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
+- o7: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o8: Γαλιλαίας = G1056 Γαλιλαία "Galilee" [N-GSF]
+- o9: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o10: Δεκαπόλεως = G1179 Δεκάπολις "Decapolis" [N-GSF]
+- o11: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o12: Ἱεροσολύμων = G2414 Ἱεροσόλυμα "Jerusalem" [N-GPN]
+- o13: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o14: Ἰουδαίας = G2449 Ἰουδαία "Judæa" [N-GSF]
+- o15: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o16: πέραν = G4008 πέραν "beyond, farther (other) side, over" [ADV]
+- o17: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o18: Ἰορδάνου. = G2446 Ἰορδάνης "Jordan" [N-GSM]
+
+### Matthew 5:25 (context)
+
+- o1: ἴσθι = G1510 εἰμί "am, have been, it is I, was" [V-PAM-2S]
+- o2: εὐνοῶν = G2132 εὐνοέω "agree" [V-PAP-NSM]
+- o3: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o4: ἀντιδίκῳ = G476 ἀντίδικος "adversary" [N-DSM]
+- o5: σου = G4771 σύ "thou" [P-2GS]
+- o6: ταχὺ = G5035 ταχύ "lightly, quickly" [ADV]
+- o7: ἕως = G2193 ἕως "even (until, unto), (as) far (as), how long…" [ADV]
+- o8: ὅτου = G3748 ὅστις "and (they), (such) as, (they) that, in that they…" [R-GSN-ATT]
+- o9: εἶ = G1510 εἰμί "am, have been, it is I, was" [V-PAI-2S]
+- o10: μετ’ = G3326 μετά "after(-ward), that he again, against, among, and…" [PREP]
+- o11: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o12: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o13: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o14: ὁδῷ, = G3598 ὁδός "journey, (high-)way" [N-DSF]
+- o15: μήποτέ = G3379 μήποτε "if peradventure, lest (at any time, haply)…" [ADV-N]
+- o16: σε = G4771 σύ "thou" [P-2AS]
+- o17: παραδῷ = G3860 παραδίδωμι "betray, bring forth, cast, commit, deliver (up)…" [V-2AAS-3S]
+- o18: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o19: ἀντίδικος = G476 ἀντίδικος "adversary" [N-NSM]
+- o20: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o21: κριτῇ, = G2923 κριτής "judge" [N-DSM]
+- o22: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o23: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o24: κριτὴς = G2923 κριτής "judge" [N-NSM]
+- o25: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o26: ὑπηρέτῃ, = G5257 ὑπηρέτης "minister, officer, servant" [N-DSM]
+- o27: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o28: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o29: φυλακὴν = G5438 φυλακή "cage, hold, (im-)prison(-ment), ward, watch" [N-ASF]
+- o30: βληθήσῃ· = G906 βάλλω "arise, cast (out), dung, lay, lie, pour, put (up)…" [V-FPI-2S]

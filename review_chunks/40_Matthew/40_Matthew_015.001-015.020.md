@@ -882,3 +882,40 @@ Persian entries and current tags:
 - p12: ناشسته  → G449
 - p13: !
 - p14: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 14:36 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: παρεκάλουν = G3870 παρακαλέω "beseech, call for, (be of good) comfort, desire…" [V-IAI-3P]
+- o3: αὐτὸν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASM]
+- o4: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o5: μόνον = G3440 μόνον "alone, but, only" [ADV]
+- o6: ἅψωνται = G680 ἅπτομαι "touch" [V-AMS-3P]
+- o7: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
+- o8: κρασπέδου = G2899 κράσπεδον "border, hem" [N-GSN]
+- o9: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
+- o10: ἱματίου = G2440 ἱμάτιον "apparel, cloke, clothes, garment, raiment, robe…" [N-GSN]
+- o11: αὐτοῦ· = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o13: ὅσοι = G3745 ὅσος "all (that), as (long, many, much) (as)…" [K-NPM]
+- o14: ἥψαντο = G680 ἅπτομαι "touch" [V-ADI-3P]
+- o15: διεσώθησαν. = G1295 διασώζω "bring safe, escape (safe), heal…" [V-API-3P]
+
+### Matthew 15:21 (context)
+
+- o1: Καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἐξελθὼν = G1831 ἐξέρχομαι "come (forth, out), depart (out of), escape…" [V-2AAP-NSM]
+- o3: ἐκεῖθεν = G1564 ἐκεῖθεν "from that place, (from) thence, there" [ADV]
+- o4: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o5: Ἰησοῦς = G2424 Ἰησοῦς "Jesus" [N-NSM]
+- o6: ἀνεχώρησεν = G402 ἀναχωρέω "depart, give place, go (turn) aside, withdraw self" [V-AAI-3S]
+- o7: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o8: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
+- o9: μέρη = G3313 μέρος "behalf, course, coast, craft, particular (+ -ly)…" [N-APN]
+- o10: Τύρου = G5184 Τύρος "Tyre" [N-GSF]
+- o11: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o12: Σιδῶνος. = G4605 Σιδών "Sidon" [N-GSF]

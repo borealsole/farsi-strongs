@@ -1311,3 +1311,41 @@ Persian entries and current tags:
 - p16: غیرمتروک‘  → H5800
 - p17: نامیده_خواهی_شد  → H7121
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 60:22 (context)
+
+- o1: הַ/קָּטֹן = Hd "the" + H6996 קָטָן "abbreviated, i.e. diminutive…" [HTd/Aamsa]
+- o2: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o3: לָ/אֶלֶף = Hl "to" + H505 אֶלֶף "hence (the ox's head being the first letter of…" [HRd/Acbsa]
+- o4: וְ/הַ/צָּעִיר = Hc "and" + Hd "the" + H6810 צָעִיר "little; (in number) few…" [HC/Td/Aamsa]
+- o5: לְ/גוֹי = Hl "to" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HR/Ncmsa]
+- o6: עָצוּם = H6099 עָצוּם "powerful (specifically, a paw)…" [HAamsa]
+- o7: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o8: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o9: בְּ/עִתָּ/הּ = Hb "in" + H6256 עֵת "time, especially (adverb with preposition) now…" [HR/Ncbsc/Sp3fs]
+- o10: אֲחִישֶׁ/נָּה = H2363 חוּשׁ "to hurry…" [HVhi1cs/Sp3fs]
+
+### Isaiah 63:1 (context)
+
+- o1: מִי = H4310 מִי "who? (occasionally, by a peculiar idiom…" [HTi]
+- o2: זֶה = H2088 זֶה "the masculine demonstrative pronoun, this or that" [HPdxms]
+- o3: בָּא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqrmsa]
+- o4: מֵ/אֱדוֹם = Hm "from" + H123 אֱדֹם "Edom, the elder twin-brother of Jacob…" [HR/Np]
+- o5: חֲמוּץ = H2556 חָמֵץ "to be pungent…" [HVqsmsc]
+- o6: בְּגָדִים = H899 בֶּגֶד "a covering, i.e. clothing…" [HNcmpa]
+- o7: מִ/בָּצְרָה = Hm "from" + H1224 בׇּצְרָה "Botsrah, a place in Edom" [HR/Np]
+- o8: זֶה = H2088 זֶה "the masculine demonstrative pronoun, this or that" [HPdxms]
+- o9: הָדוּר = H1921 הָדַר "to swell up (literally or figuratively…" [HVqsmsa]
+- o10: בִּ/לְבוּשׁ/וֹ = Hb "in" + H3830 לְבוּשׁ "a garment (literally or figuratively)…" [HR/Ncmsc/Sp3ms]
+- o11: צֹעֶה = H6808 צָעָה "to tip over (for the purpose of spilling or…" [HVqrmsa]
+- o12: בְּ/רֹב = Hb "in" + H7230 רֹב "abundance (in any respect)" [HR/Ncbsc]
+- o13: כֹּח/וֹ = H3581 כֹּחַ "vigor, literally (force…" [HNcmsc/Sp3ms]
+- o14: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o15: מְדַבֵּר = H1696 דָבַר "perhaps properly, to arrange…" [HVprmsa]
+- o16: בִּ/צְדָקָה = Hb "in" + H6666 צְדָקָה "rightness (abstractly), subjectively (rectitude)…" [HR/Ncfsa]
+- o17: רַב = H7227 רַב "abundant (in quantity, size, age, number, rank…" [HAamsa]
+- o18: לְ/הוֹשִׁיעַ = Hl "to" + H3467 יָשַׁע "properly, to be open, wide or free…" [HR/Vhc]

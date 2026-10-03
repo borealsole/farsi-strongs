@@ -744,3 +744,24 @@ Persian entries and current tags:
 - p19: خواهی_ایستاد  → H5975
 - p20: .
 - p21: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Daniel 11:45 (context)
+
+- o1: וְ/יִטַּע = Hc "and" + H5193 נָטַע "properly, to strike in, i.e. fix…" [HC/Vqi3ms]
+- o2: אָהֳלֶי = H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HNcmpc]
+- o3: אַפַּדְנ/וֹ = H643 אַפֶּדֶן "a pavilion or palace-tent" [HNcmsc/Sp3ms]
+- o4: בֵּין = H996 בֵּין "between (repeated before each noun…" [HR]
+- o5: יַמִּים = H3220 יָם "a sea (as breaking in noisy surf) or large body…" [HNcmpa]
+- o6: לְ/הַר = Hl "to" + H2022 הַר "a mountain or range of hills (sometimes used…" [HR/Ncmsc]
+- o7: צְבִי = H6643 צְבִי "splendor (as conspicuous)…" [HNcmsc]
+- o8: קֹדֶשׁ = H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HNcmsa]
+- o9: וּ/בָא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqq3ms]
+- o10: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o11: קִצּ/וֹ = H7093 קֵץ "an extremity…" [HNcmsc/Sp3ms]
+- o12: וְ/אֵין = Hc "and" + H369 אַיִן "a non-entity…" [HC/Tn]
+- o13: עוֹזֵר = H5826 עָזַר "to surround, i.e. protect or aid" [HVqrmsa]
+- o14: ל/וֹ = Hl "to" [HR/Sp3ms]

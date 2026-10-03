@@ -835,3 +835,22 @@ Persian entries and current tags:
 - p10: .
 - p11: آمین
 - p12: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Thessalonians 2:17 (context)
+
+- o1: παρακαλέσαι = G3870 παρακαλέω "beseech, call for, (be of good) comfort, desire…" [V-AAO-3S]
+- o2: ὑμῶν = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
+- o3: τὰς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APF]
+- o4: καρδίας = G2588 καρδία "(+ broken-)heart(-ed)" [N-APF]
+- o5: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o6: στηρίξαι = G4741 στηρίζω "fix, (e-)stablish, stedfastly set, strengthen" [V-AAO-3S]
+- o7: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o8: παντὶ = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-DSN]
+- o9: ἔργῳ = G2041 ἔργον "deed, doing, labour, work" [N-DSN]
+- o10: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o11: λόγῳ = G3056 λόγος "account, cause, communication, concerning…" [N-DSM]
+- o12: ἀγαθῷ. = G18 ἀγαθός "benefit, good(-s, things), well" [A-DSM]

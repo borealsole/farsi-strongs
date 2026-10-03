@@ -537,3 +537,37 @@ Persian entries and current tags:
 - p17: مرگ  → H4192
 - p18: رهبری خواهد_کرد  → H5090
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 47:9 (context)
+
+- o1: נְדִיבֵי = H5081 נָדִיב "properly, voluntary, i.e. generous…" [HAampc]
+- o2: עַמִּים = H5971 עַם "a people (as a congregated unit)…" [HNcmpa]
+- o3: נֶאֱסָפוּ = H622 אָסַף "to gather for any purpose…" [HVNp3cp]
+- o4: עַם = H5971 עַם "a people (as a congregated unit)…" [HNcmsc]
+- o5: אֱלֹהֵי = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc]
+- o6: אַבְרָהָם = H85 אַבְרָהָם "Abraham, the later name of Abram" [HNp]
+- o7: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o8: לֵ/אלֹהִים = Hl "to" + H430 אֱלֹהִים "gods in the ordinary sense…" [HR/Ncmpa]
+- o9: מָגִנֵּי = H4043 מָגֵן "a shield (i.e. the small one or buckler)…" [HNcbpc]
+- o10: אֶרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsa]
+- o11: מְאֹד = H3966 מְאֹד "properly, vehemence…" [HD]
+- o12: נַעֲלָה = H5927 עָלָה "to ascend…" [HVNp3ms]
+
+### Psalms 49:1 (context)
+
+- o1: לַ/מְנַצֵּחַ = Hl "to" + H5329 נָצַח "properly, to glitter from afar…" [HRd/Vprmsa]
+- o2: לִ/בְנֵי = Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmpc]
+- o3: קֹרַח = H7141 קֹרַח "Korach…" [HNp]
+- o4: מִזְמוֹר = H4210 מִזְמוֹר "properly, instrumental music…" [HNcmsa]
+- o5: שִׁמְעוּ = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqv2mp]
+- o6: זֹאת = H2063 זֹאת "this (often used adverb)" [HPdxfs]
+- o7: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o8: הָ/עַמִּים = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmpa]
+- o9: הַאֲזִינוּ = H238 אָזַן "to broaden out the ear (with the hand)…" [HVhv2mp]
+- o10: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o11: יֹשְׁבֵי = H3427 יָשַׁב "properly…" [HVqrmpc]
+- o12: חָלֶד = H2465 חֶלֶד "life (as a fleeting portion of time)…" [HNcmsa]

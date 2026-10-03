@@ -668,3 +668,35 @@ Persian entries and current tags:
 - p30: نزد عَلَمِ  → H1714
 - p31: خویش
 - p32: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 1:54 (context)
+
+- o1: וַ/יַּעֲשׂוּ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3mp]
+- o2: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o3: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o4: כְּ/כֹל = Hk "like" + H3605 כֹּל "properly, the whole…" [HR/Ncmsa]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: צִוָּה = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp3ms]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o10: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o11: עָשׂוּ = H6213 עָשָׂה "to do or make…" [HVqp3cp]
+
+### Numbers 2:18 (context)
+
+- o1: דֶּגֶל = H1714 דֶּגֶל "a flag" [HNcmsc]
+- o2: מַחֲנֵה = H4264 מַחֲנֶה "an encampment (of travellers or troops)…" [HNcbsc]
+- o3: אֶפְרַיִם = H669 אֶפְרַיִם "Ephrajim, a son of Joseph…" [HNp]
+- o4: לְ/צִבְאֹתָ/ם = Hl "to" + H6635 צָבָא "a mass of persons (or figuratively, things)…" [HR/Ncbpc/Sp3mp]
+- o5: יָמָּ/ה = H3220 יָם "a sea (as breaking in noisy surf) or large body…" [HNcmsa/Sd]
+- o6: וְ/נָשִׂיא = Hc "and" + H5387 נָשִׂיא "properly, an exalted one, i.e. a king or sheik…" [HC/Ncmsa]
+- o7: לִ/בְנֵי = Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmpc]
+- o8: אֶפְרַיִם = H669 אֶפְרַיִם "Ephrajim, a son of Joseph…" [HNp]
+- o9: אֱלִישָׁמָע = H476 אֱלִישָׁמָע "Elishama, the name of seven Israelites" [HNp]
+- o10: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o11: עַמִּיהוּד = H5989 עַמִּיהוּד "Ammihud, the name of three Israelites" [HNp]

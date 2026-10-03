@@ -1228,3 +1228,51 @@ Persian entries and current tags:
 - p13: جانهایتان  → G5590
 - p14: بازگشته‌اید
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Peter 1:25 (context)
+
+- o1: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: ῥῆμα = G4487 ῥῆμα "+ evil, + nothing, saying, word" [N-NSN]
+- o4: κυρίου = G2962 κύριος "God, Lord, master, Sir" [N-GSM]
+- o5: μένει = G3306 μένω "abide, continue, dwell, endure, be present…" [V-PAI-3S]
+- o6: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o7: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o8: αἰῶνα. = G165 αἰών "age, course, eternal, (for) ever(-more), (n-)ever…" [N-ASM]
+- o9: τοῦτο = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-NSN]
+- o10: δέ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o11: ἐστιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o12: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o13: ῥῆμα = G4487 ῥῆμα "+ evil, + nothing, saying, word" [N-NSN]
+- o14: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o15: εὐαγγελισθὲν = G2097 εὐαγγελίζω "declare, bring (declare…" [V-APP-NSN]
+- o16: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o17: ὑμᾶς. = G5210 ὑμεῖς "ye (yourselves), you" [P-2AP]
+
+### I Peter 3:1 (context)
+
+- o1: Ὁμοίως = G3668 ὁμοίως "likewise, so" [ADV]
+- o2: γυναῖκες = G1135 γυνή "wife, woman" [N-NPF]
+- o3: ὑποτασσόμεναι = G5293 ὑποτάσσω "be under obedience (obedient), put under…" [V-PPP-NPF]
+- o4: τοῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPM]
+- o5: ἰδίοις = G2398 ἴδιος "his acquaintance, when they were alone, apart…" [A-DPM]
+- o6: ἀνδράσιν, = G435 ἀνήρ "fellow, husband, man, sir" [N-DPM]
+- o7: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o8: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o9: εἴ = G1487 εἰ "forasmuch as, if, that, (al-)though, whether" [COND]
+- o10: τινες = G5100 τὶς "a (kind of), any (man, thing, thing at all)…" [X-NPM]
+- o11: ἀπειθοῦσιν = G544 ἀπειθέω "not believe, disobedient, obey not, unbelieving" [V-PAI-3P]
+- o12: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o13: λόγῳ = G3056 λόγος "account, cause, communication, concerning…" [N-DSM]
+- o14: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o15: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o16: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPF]
+- o17: γυναικῶν = G1135 γυνή "wife, woman" [N-GPF]
+- o18: ἀναστροφῆς = G391 ἀναστροφή "conversation" [N-GSF]
+- o19: ἄνευ = G427 ἄνευ "without" [PREP]
+- o20: λόγου = G3056 λόγος "account, cause, communication, concerning…" [N-GSM]
+- o21: κερδηθήσονται = G2770 κερδαίνω "(get) gain, win" [V-FPI-3P]

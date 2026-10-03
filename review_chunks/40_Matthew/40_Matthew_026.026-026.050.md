@@ -1290,3 +1290,51 @@ Persian entries and current tags:
 - p29: را
 - p30: گرفتار کردند  → G2902
 - p31: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 26:25 (context)
+
+- o1: ἀποκριθεὶς = G611 ἀποκρίνομαι "answer" [V-AOP-NSM]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: Ἰούδας = G2455 Ἰούδας "Juda(-h, -s); Jude" [N-NSM]
+- o4: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o5: παραδιδοὺς = G3860 παραδίδωμι "betray, bring forth, cast, commit, deliver (up)…" [V-PAP-NSM]
+- o6: αὐτὸν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASM]
+- o7: εἶπεν· = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-2AAI-3S]
+- o8: μήτι = G3385 μήτι "not (the particle usually not expressed…" [PRT-I]
+- o9: ἐγώ = G1473 ἐγώ "I, me" [P-1NS]
+- o10: εἰμι, = G1510 εἰμί "am, have been, it is I, was" [V-PAI-1S]
+- o11: ῥαββεί; = G4461 ῥαββί "Master, Rabbi" [HEB]
+- o12: λέγει = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-3S]
+- o13: αὐτῷ· = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
+- o14: σὺ = G4771 σύ "thou" [P-2NS]
+- o15: εἶπας. = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-2AAI-2S]
+
+### Matthew 26:51 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἰδοὺ = G3708 ὁράω "behold, perceive, see, take heed" [V-2AMM-2S]
+- o3: εἷς = G1520 εἷς "a(-n, -ny, certain), + abundantly, man…" [A-NSM]
+- o4: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o5: μετὰ = G3326 μετά "after(-ward), that he again, against, among, and…" [PREP]
+- o6: Ἰησοῦ = G2424 Ἰησοῦς "Jesus" [N-GSM]
+- o7: ἐκτείνας = G1614 ἐκτείνω "cast, put forth, stretch forth (out)" [V-AAP-NSM]
+- o8: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o9: χεῖρα = G5495 χείρ "hand" [N-ASF]
+- o10: ἀπέσπασεν = G645 ἀποσπάω "(with-)draw (away), after we were gotten from" [V-AAI-3S]
+- o11: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o12: μάχαιραν = G3162 μάχαιρα "sword" [N-ASF]
+- o13: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o14: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o15: πατάξας = G3960 πατάσσω "smite, strike" [V-AAP-NSM]
+- o16: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o17: δοῦλον = G1401 δοῦλος "bond(-man), servant" [N-ASM]
+- o18: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o19: ἀρχιερέως = G749 ἀρχιερεύς "chief (high) priest, chief of the priests" [N-GSM]
+- o20: ἀφεῖλεν = G851 ἀφαιρέω "cut (smite) off, take away" [V-2AAI-3S]
+- o21: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o22: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o23: ὠτίον. = G5621 ὠτίον "ear" [N-ASN]

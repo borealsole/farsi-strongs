@@ -680,3 +680,57 @@ Persian entries and current tags:
 - p11: می‌گوید  → G3004
 - p12: .
 - p13: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Revelation of John 3:11 (context)
+
+- o1: ἔρχομαι = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-PNI-1S]
+- o2: ταχύ· = G5035 ταχύ "lightly, quickly" [ADV]
+- o3: κράτει = G2902 κρατέω "hold (by, fast), keep, lay hand (hold) on, obtain…" [V-PAM-2S]
+- o4: ὃ = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-ASN]
+- o5: ἔχεις, = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAI-2S]
+- o6: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o7: μηδεὶς = G3367 μηδείς "any (man, thing), no (man), none, not (at all…" [A-NSM-N]
+- o8: λάβῃ = G2983 λαμβάνω "accept, + be amazed, assay, attain, bring…" [V-2AAS-3S]
+- o9: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o10: στέφανόν = G4735 στέφανος "crown" [N-ASM]
+- o11: σου. = G4771 σύ "thou" [P-2GS]
+
+### Revelation of John 4:1 (context)
+
+- o1: Μετὰ = G3326 μετά "after(-ward), that he again, against, among, and…" [PREP]
+- o2: ταῦτα = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-APN]
+- o3: ἴδον, = G3708 ὁράω "behold, perceive, see, take heed" [V-2AAI-1S]
+- o4: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o5: ἰδοὺ = G3708 ὁράω "behold, perceive, see, take heed" [V-2AMM-2S]
+- o6: θύρα = G2374 θύρα "door, gate" [N-NSF]
+- o7: ἠνεῳγμένη = G455 ἀνοίγω "open" [V-RPP-NSF]
+- o8: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o9: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o10: οὐρανῷ, = G3772 οὐρανός "air, heaven(-ly), sky" [N-DSM]
+- o11: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o12: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o13: φωνὴ = G5456 φωνή "noise, sound, voice" [N-NSF]
+- o14: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o15: πρώτη = G4413 πρῶτος "before, beginning, best, chief(-est)…" [A-NSF-S]
+- o16: ἣν = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-ASF]
+- o17: ἤκουσα = G191 ἀκούω "give (in the) audience (of), come (to the ears)…" [V-AAI-1S]
+- o18: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
+- o19: σάλπιγγος = G4536 σάλπιγξ "trump(-et)" [N-GSF]
+- o20: λαλούσης = G2980 λαλέω "preach, say, speak (after), talk, tell, utter" [V-PAP-GSF]
+- o21: μετ’ = G3326 μετά "after(-ward), that he again, against, among, and…" [PREP]
+- o22: ἐμοῦ, = G1473 ἐγώ "I, me" [P-1GS]
+- o23: λέγων· = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAP-NSM]
+- o24: ἀνάβα = G305 ἀναβαίνω "arise, ascend (up), climb (go, grow, rise…" [V-2AAM-2S]
+- o25: ὧδε, = G5602 ὧδε "here, hither, (in) this place, there" [ADV]
+- o26: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o27: δείξω = G1166 δεικνύω "shew" [V-FAI-1S]
+- o28: σοι = G4771 σύ "thou" [P-2DS]
+- o29: ἃ = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-APN]
+- o30: δεῖ = G1163 δεῖ "behoved, be meet, must (needs), (be) need(-ful)…" [V-PAI-3S]
+- o31: γενέσθαι = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-2ADN]
+- o32: μετὰ = G3326 μετά "after(-ward), that he again, against, among, and…" [PREP]
+- o33: ταῦτα. = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-APN]

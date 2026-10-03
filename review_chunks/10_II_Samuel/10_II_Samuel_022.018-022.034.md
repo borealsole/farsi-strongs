@@ -617,3 +617,26 @@ Persian entries and current tags:
 - p12: بر  → H5921
 - p13: پا می‌دارد  → H5975
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 22:17 (context)
+
+- o1: יִשְׁלַח = H7971 שָׁלַח "to send away, for…" [HVqi3ms]
+- o2: מִ/מָּרוֹם = Hm "from" + H4791 מָרוֹם "altitude, i.e. concretely (an elevated place)…" [HR/Ncmsa]
+- o3: יִקָּחֵ/נִי = H3947 לָקַח "to take (in the widest variety of applications)" [HVqi3ms/Sp1cs]
+- o4: יַמְשֵׁ/נִי = H4871 מָשָׁה "to pull out (literally or figuratively)" [HVhi3ms/Sp1cs]
+- o5: מִ/מַּיִם = Hm "from" + H4325 מַיִם "water; figuratively, juice…" [HR/Ncmpa]
+- o6: רַבִּים = H7227 רַב "abundant (in quantity, size, age, number, rank…" [HAampa]
+
+### II Samuel 22:35 (context)
+
+- o1: מְלַמֵּד = H3925 לָמַד "properly, to goad…" [HVprmsa]
+- o2: יָדַ/י = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbdc/Sp1cs]
+- o3: לַ/מִּלְחָמָה = Hl "to" + H4421 מִלְחָמָה "a battle (i.e. the engagement)…" [HRd/Ncfsa]
+- o4: וְ/נִחַת = Hc "and" + H5181 נָחַת "to sink, i.e. descend…" [HC/Vpq3ms]
+- o5: קֶשֶׁת = H7198 קֶשֶׁת "a bow, forshooting (hence, figuratively…" [HNcfsc]
+- o6: נְחוּשָׁה = H5154 נְחוּשָׁה "copper" [HNcfsa]
+- o7: זְרֹעֹתָ/י = H2220 זְרוֹעַ "the arm (as stretched out)…" [HNcbpc/Sp1cs]

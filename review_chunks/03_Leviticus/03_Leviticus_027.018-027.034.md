@@ -884,3 +884,17 @@ Persian entries and current tags:
 - p12: موسی  → H4872
 - p13: امر فرمود  → H6680
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 27:17 (context)
+
+- o1: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o2: מִ/שְּׁנַת = Hm "from" + H8141 שָׁנֶה "a year (as a revolution of time)" [HR/Ncfsc]
+- o3: הַ/יֹּבֵל = Hd "the" + H3104 יוֹבֵל "the blast of a horn (from its continuous sound)…" [HTd/Ncmsa]
+- o4: יַקְדִּישׁ = H6942 קָדַשׁ "to be (causatively, make…" [HVhi3ms]
+- o5: שָׂדֵ/הוּ = H7704 שָׂדֶה "a field (as flat)" [HNcmsc/Sp3ms]
+- o6: כְּ/עֶרְכְּ/ךָ = Hk "like" + H6187 עֵרֶךְ "a pile, equipment, estimate" [HR/Ncmsc/Sp2ms]
+- o7: יָקוּם = H6965 קוּם "to rise (in various applications, literal…" [HVqi3ms]

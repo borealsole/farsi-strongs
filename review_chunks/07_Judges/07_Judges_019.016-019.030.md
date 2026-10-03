@@ -1005,3 +1005,45 @@ Persian entries and current tags:
 - p37: نمایید
 - p38: .
 - p39: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Judges 19:15 (context)
+
+- o1: וַ/יָּסֻרוּ = Hc "and" + H5493 סוּר "to turn off (literal or figurative)" [HC/Vqw3mp]
+- o2: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o3: לָ/בוֹא = Hl "to" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HR/Vqc]
+- o4: לָ/לוּן = Hl "to" + H3885 לוּן "to stop (usually over night)…" [HR/Vqc]
+- o5: בַּ/גִּבְעָה = Hb "in" + H1390 גִּבְעָה "Gibah; the name of three places in Palestine" [HRd/Np]
+- o6: וַ/יָּבֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3ms]
+- o7: וַ/יֵּשֶׁב = Hc "and" + H3427 יָשַׁב "properly…" [HC/Vqw3ms]
+- o8: בִּ/רְחוֹב = Hb "in" + H7339 רְחֹב "a width, i.e. (concretely) avenue or area" [HR/Ncfsc]
+- o9: הָ/עִיר = Hd "the" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HTd/Ncfsa]
+- o10: וְ/אֵין = Hc "and" + H369 אַיִן "a non-entity…" [HC/Tn]
+- o11: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o12: מְאַסֵּף = H622 אָסַף "to gather for any purpose…" [HVprmsa]
+- o13: אוֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o14: הַ/בַּיְתָ/ה = Hd "the" + H1004 בַּיִת "a house (in the greatest variation of…" [HTd/Ncmsa/Sd]
+- o15: לָ/לוּן = Hl "to" + H3885 לוּן "to stop (usually over night)…" [HR/Vqc]
+
+### Judges 20:1 (context)
+
+- o1: וַ/יֵּצְאוּ = Hc "and" + H3318 יָצָא "to go (causatively, bring) out…" [HC/Vqw3mp]
+- o2: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o4: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o5: וַ/תִּקָּהֵל = Hc "and" + H6950 קָהַל "to convoke" [HC/VNw3fs]
+- o6: הָ/עֵדָה = Hd "the" + H5712 עֵדָה "a stated assemblage (specifically, a concourse…" [HTd/Ncfsa]
+- o7: כְּ/אִישׁ = Hk "like" + H376 אִישׁ "a man as an individual or a male person…" [HR/Ncmsa]
+- o8: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o9: לְ/מִ/דָּן = Hl "to" + Hm "from" + H1835 דָּן "Dan, one of the sons of Jacob…" [HR/R/Np]
+- o10: וְ/עַד = Hc "and" + H5704 עַד "as far (or long, or much) as…" [HC/R]
+- o11: בְּאֵר = H884 בְּאֵר שֶׁבַע "Beer-Sheba, a place in Palestine" [HNp]
+- o12: שֶׁבַע = H884 בְּאֵר שֶׁבַע "Beer-Sheba, a place in Palestine" [HAcfsa]
+- o13: וְ/אֶרֶץ = Hc "and" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HC/Ncbsc]
+- o14: הַ/גִּלְעָד = Hd "the" + H1568 גִּלְעָד "Gilad, a region East of the Jordan…" [HTd/Np]
+- o15: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o16: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o17: הַ/מִּצְפָּה = Hd "the" + H4709 מִצְפָּה "Mitspah, the name of two places in Palestine" [HTd/Np]

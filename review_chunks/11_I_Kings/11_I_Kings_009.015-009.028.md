@@ -758,3 +758,31 @@ Persian entries and current tags:
 - p20: پادشاه  → H4428
 - p21: آوردند  → H935
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 9:14 (context)
+
+- o1: וַ/יִּשְׁלַח = Hc "and" + H7971 שָׁלַח "to send away, for…" [HC/Vqw3ms]
+- o2: חִירָם = H2438 חִירָם "Chiram or Chirom, the name of two Tyrians" [HNp]
+- o3: לַ/מֶּלֶךְ = Hl "to" + H4428 מֶלֶךְ "a king" [HRd/Ncmsa]
+- o4: מֵאָה = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbsa]
+- o5: וְ/עֶשְׂרִים = Hc "and" + H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HC/Acbpa]
+- o6: כִּכַּר = H3603 כִּכָּר "a circle…" [HNcbsc]
+- o7: זָהָב = H2091 זָהָב "gold, figuratively…" [HNcmsa]
+
+### I Kings 10:1 (context)
+
+- o1: וּ/מַלְכַּת = Hc "and" + H4436 מַלְכָּה "a queen" [HC/Ncfsc]
+- o2: שְׁבָא = H7614 שְׁבָא "Sheba…" [HNp]
+- o3: שֹׁמַעַת = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqrfsa]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: שֵׁמַע = H8088 שֵׁמַע "something heard, i.e. a sound, rumor…" [HNcmsc]
+- o6: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o7: לְ/שֵׁם = Hl "to" + H8034 שֵׁם "an appellation…" [HR/Ncmsc]
+- o8: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o9: וַ/תָּבֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3fs]
+- o10: לְ/נַסֹּת/וֹ = Hl "to" + H5254 נָסָה "to test; by implication, to attempt" [HR/Vpc/Sp3ms]
+- o11: בְּ/חִידוֹת = Hb "in" + H2420 חִידָה "a puzzle, hence, a trick, conundrum…" [HR/Ncfpa]

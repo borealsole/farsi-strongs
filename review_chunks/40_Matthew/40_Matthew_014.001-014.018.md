@@ -826,3 +826,56 @@ Persian entries and current tags:
 - p9: بیاورید  → G5342
 - p10: .
 - p11: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 13:58 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o3: ἐποίησεν = G4160 ποιέω "abide, + agree, appoint, avenge, + band together…" [V-AAI-3S]
+- o4: ἐκεῖ = G1563 ἐκεῖ "there, thither(-ward), (to) yonder (place)" [ADV]
+- o5: δυνάμεις = G1411 δύναμις "ability, abundance, meaning, might(-ily, -y…" [N-APF]
+- o6: πολλὰς = G4183 πολύς "abundant, + altogether, common, + far (passed…" [A-APF]
+- o7: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o8: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o9: ἀπιστίαν = G570 ἀπιστία "unbelief" [N-ASF]
+- o10: αὐτῶν. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]
+
+### Matthew 14:19 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: κελεύσας = G2753 κελεύω "bid, (at, give) command(-ment)" [V-AAP-NSM]
+- o3: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o4: ὄχλους = G3793 ὄχλος "company, multitude, number (of people), people…" [N-APM]
+- o5: ἀνακλιθῆναι = G347 ἀνακλίνω "lay, (make) sit down" [V-APN]
+- o6: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o7: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o8: χόρτου, = G5528 χόρτος "blade, grass, hay" [N-GSM]
+- o9: λαβὼν = G2983 λαμβάνω "accept, + be amazed, assay, attain, bring…" [V-2AAP-NSM]
+- o10: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o11: πέντε = G4002 πέντε "five" [A-NUI]
+- o12: ἄρτους = G740 ἄρτος "(shew-)bread, loaf" [N-APM]
+- o13: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o14: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o15: δύο = G1417 δύο "both, twain, two" [A-NUI]
+- o16: ἰχθύας, = G2486 ἰχθύς "fish" [N-APM]
+- o17: ἀναβλέψας = G308 ἀναβλέπω "look (up), see, receive sight" [V-AAP-NSM]
+- o18: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o19: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o20: οὐρανὸν = G3772 οὐρανός "air, heaven(-ly), sky" [N-ASM]
+- o21: εὐλόγησεν, = G2127 εὐλογέω "bless, praise" [V-AAI-3S]
+- o22: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o23: κλάσας = G2806 κλάω "break" [V-AAP-NSM]
+- o24: ἔδωκεν = G1325 δίδωμι "adventure, bestow, bring forth, commit…" [V-AAI-3S]
+- o25: τοῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPM]
+- o26: μαθηταῖς = G3101 μαθητής "disciple" [N-DPM]
+- o27: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o28: ἄρτους = G740 ἄρτος "(shew-)bread, loaf" [N-APM]
+- o29: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o30: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o31: μαθηταὶ = G3101 μαθητής "disciple" [N-NPM]
+- o32: τοῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPM]
+- o33: ὄχλοις. = G3793 ὄχλος "company, multitude, number (of people), people…" [N-DPM]

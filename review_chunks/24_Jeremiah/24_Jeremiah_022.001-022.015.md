@@ -907,3 +907,37 @@ Persian entries and current tags:
 - p37: سعادتمند  → H2896
 - p38: بود
 - p39: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 21:14 (context)
+
+- o1: וּ/פָקַדְתִּי = Hc "and" + H6485 פָּקַד "to visit (with friendly or hostile intent)…" [HC/Vqq1cs]
+- o2: עֲלֵי/כֶם = H5921 עַל "above, over, upon…" [HR/Sp2mp]
+- o3: כִּ/פְרִי = Hk "like" + H6529 פְּרִי "fruit (literally or figuratively)" [HR/Ncmsc]
+- o4: מַעַלְלֵי/כֶם = H4611 מַעֲלָל "an act (good or bad)" [HNcmpc/Sp2mp]
+- o5: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: וְ/הִצַּתִּי = Hc "and" + H3341 יָצַת "to burn or set on fire; figuratively, to desolate" [HC/Vhq1cs]
+- o8: אֵשׁ = H784 אֵשׁ "fire (literally or figuratively)" [HNcbsa]
+- o9: בְּ/יַעְרָ/הּ = Hb "in" + H3293 יַעַר "a copse of bushes; hence, a forest…" [HR/Ncmsc/Sp3fs]
+- o10: וְ/אָכְלָה = Hc "and" + H398 אָכַל "to eat (literally or figuratively)" [HC/Vqq3fs]
+- o11: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o12: סְבִיבֶי/הָ = H5439 סָבִיב "as noun) a circle, neighbour, or environs…" [HNcbsc/Sp3fs]
+
+### Jeremiah 22:16 (context)
+
+- o1: דָּן = H1777 דִּין "a straight course, i.e. sail direct" [HVqp3ms]
+- o2: דִּין = H1779 דִּין "judgement (the suit, justice…" [HNcmsc]
+- o3: עָנִי = H6041 עָנִי "depressed, in mind or circumstances" [HAamsa]
+- o4: וְ/אֶבְיוֹן = Hc "and" + H34 אֶבְיוֹן "destitute" [HC/Aamsa]
+- o5: אָז = H227 אָז "at that time or place…" [HD]
+- o6: טוֹב = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAamsa]
+- o7: הֲ/לוֹא = Hi "(untranslatable; interrogative particle)" + H3808 לֹא "not (the simple or abs. negation)…" [HTi/Tn]
+- o8: הִיא = H1931 הוּא "he (she or it)…" [HPp3fs]
+- o9: הַ/דַּעַת = Hd "the" + H1847 דַּעַת "knowledge" [HTd/Ncfsa]
+- o10: אֹתִ/י = H853 אֵת "properly…" [HTo/Sp1cs]
+- o11: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o12: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]

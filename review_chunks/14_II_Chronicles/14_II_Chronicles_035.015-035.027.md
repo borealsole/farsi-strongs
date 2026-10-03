@@ -857,3 +857,43 @@ Persian entries and current tags:
 - p16: یهودا  → H3063
 - p17: نوشته_شده_است  → H3789
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 35:14 (context)
+
+- o1: וְ/אַחַר = Hc "and" + H310 אַחַר "properly, the hind part…" [HC/D]
+- o2: הֵכִינוּ = H3559 כּוּן "properly, to be erect (i.e. stand perpendicular)…" [HVhp3cp]
+- o3: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o4: וְ/לַ/כֹּהֲנִים = Hc "and" + Hl "to" + H3548 כֹּהֵן "literally one officiating, a priest…" [HC/Rd/Ncmpa]
+- o5: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o6: הַ/כֹּהֲנִים = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmpa]
+- o7: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o8: אַהֲרֹן = H175 אַהֲרוֹן "Aharon, the brother of Moses" [HNp]
+- o9: בְּ/הַעֲלוֹת = Hb "in" + H5927 עָלָה "to ascend…" [HR/Vhc]
+- o10: הָ/עוֹלָה = Hd "the" + H5930 עֹלָה "a step or (collectively, stairs, as ascending)…" [HTd/Ncfsa]
+- o11: וְ/הַ/חֲלָבִים = Hc "and" + Hd "the" + H2459 חֶלֶב "fat, whether literally or figuratively…" [HC/Td/Ncmpa]
+- o12: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o13: לָיְלָה = H3915 לַיִל "properly, a twist (away of the light), i.e. night…" [HNcmsa]
+- o14: וְ/הַ/לְוִיִּם = Hc "and" + Hd "the" + H3881 לֵוִיִּי "a Levite or descendant of Levi" [HC/Td/Ngmpa]
+- o15: הֵכִינוּ = H3559 כּוּן "properly, to be erect (i.e. stand perpendicular)…" [HVhp3cp]
+- o16: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o17: וְ/לַ/כֹּהֲנִים = Hc "and" + Hl "to" + H3548 כֹּהֵן "literally one officiating, a priest…" [HC/Rd/Ncmpa]
+- o18: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o19: אַהֲרֹן = H175 אַהֲרוֹן "Aharon, the brother of Moses" [HNp]
+
+### II Chronicles 36:1 (context)
+
+- o1: וַ/יִּקְחוּ = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqw3mp]
+- o2: עַם = H5971 עַם "a people (as a congregated unit)…" [HNcmsc]
+- o3: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: יְהוֹאָחָז = H3059 יְהוֹאָחָז "Jehoachaz, the name of three Israelites" [HNp]
+- o6: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o7: יֹאשִׁיָּהוּ = H2977 יֹאשִׁיָּה "Joshijah, the name of two Israelites" [HNp]
+- o8: וַ/יַּמְלִיכֻ/הוּ = Hc "and" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HC/Vhw3mp/Sp3ms]
+- o9: תַחַת = H8478 תַּחַת "the bottom (as depressed)…" [HR]
+- o10: אָבִי/ו = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp3ms]
+- o11: בִּ/ירוּשָׁלִָם = Hb "in" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HR/Np]

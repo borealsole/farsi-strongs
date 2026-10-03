@@ -912,3 +912,30 @@ Persian entries and current tags:
 - p16: هستم  → H589
 - p17: .
 - p18: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 19:18 (context)
+
+- o1: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o2: תִקֹּם = H5358 נָקַם "to grudge, i.e. avenge or punish" [HVqi2ms]
+- o3: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o4: תִטֹּר = H5201 נָטַר "to guard; figuratively, to cherish (anger)" [HVqi2ms]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o7: עַמֶּ/ךָ = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp2ms]
+- o8: וְ/אָהַבְתָּ = Hc "and" + H157 אָהַב "to have affection for (sexually or otherwise)" [HC/Vqq2ms]
+- o9: לְ/רֵעֲ/ךָ = Hl "to" + H7453 רֵעַ "an associate (more or less close)" [HR/Ncmsc/Sp2ms]
+- o10: כָּמוֹ/ךָ = H3644 כְּמוֹ "a form of the prefix 'k-', but used separately as…" [HR/Sp2ms]
+- o11: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o12: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### Leviticus 20:1 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: לֵּ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

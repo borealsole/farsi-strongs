@@ -840,3 +840,40 @@ Persian entries and current tags:
 - p17: شب  → H3915
 - p18: روانه شدند  → H3212
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 28:12 (context)
+
+- o1: וַ/תֵּרֶא = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw3fs]
+- o2: הָ/אִשָּׁה = Hd "the" + H802 אִשָּׁה "a woman" [HTd/Ncfsa]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: שְׁמוּאֵל = H8050 שְׁמוּאֵל "Shemuel, the name of three Israelites" [HNp]
+- o5: וַ/תִּזְעַק = Hc "and" + H2199 זָעַק "to shriek (from anguish or danger)…" [HC/Vqw3fs]
+- o6: בְּ/קוֹל = Hb "in" + H6963 קוֹל "a voice or sound" [HR/Ncmsa]
+- o7: גָּדוֹל = H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HAamsa]
+- o8: וַ/תֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3fs]
+- o9: הָ/אִשָּׁה = Hd "the" + H802 אִשָּׁה "a woman" [HTd/Ncfsa]
+- o10: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o11: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o12: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o13: לָ/מָּה = Hl "to" + H4100 מָה "properly…" [HR/Ti]
+- o14: רִמִּיתָ/נִי = H7411 רָמָה "to hurl; specifically, to shoot…" [HVpp2ms/Sp1cs]
+- o15: וְ/אַתָּה = Hc "and" + H859 אַתָּה "thou and thee, or (plural) ye and you" [HC/Pp2ms]
+- o16: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+
+### I Samuel 29:1 (context)
+
+- o1: וַ/יִּקְבְּצוּ = Hc "and" + H6908 קָבַץ "to grasp, i.e. collect" [HC/Vqw3mp]
+- o2: פְלִשְׁתִּים = H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HNgmpa]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o5: מַחֲנֵי/הֶם = H4264 מַחֲנֶה "an encampment (of travellers or troops)…" [HNcbpc/Sp3mp]
+- o6: אֲפֵקָ/ה = H663 אֲפֵק "Aphek (or Aphik)…" [HNp/Sd]
+- o7: וְ/יִשְׂרָאֵל = Hc "and" + H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HC/Np]
+- o8: חֹנִים = H2583 חָנָה "properly, to incline…" [HVqrmpa]
+- o9: בַּ/עַיִן = Hb "in" + H5869 עַיִן "an eye (literally or figuratively)…" [HRd/Ncbsa]
+- o10: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o11: בְּ/יִזְרְעֶאל = Hb "in" + H3157 יִזְרְעֵאל "Jizreel…" [HR/Np]

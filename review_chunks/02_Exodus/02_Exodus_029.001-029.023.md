@@ -1135,3 +1135,50 @@ Persian entries and current tags:
 - p20: قرصِ  → H3603
 - p21: نازک برگیر  → H7550
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 28:43 (context)
+
+- o1: וְ/הָיוּ = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3cp]
+- o2: עַל = H5921 עַל "above, over, upon…" [HR]
+- o3: אַהֲרֹן = H175 אַהֲרוֹן "Aharon, the brother of Moses" [HNp]
+- o4: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o5: בָּנָי/ו = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc/Sp3ms]
+- o6: בְּ/בֹאָ/ם = Hb "in" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HR/Vqc/Sp3mp]
+- o7: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o8: אֹהֶל = H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HNcmsc]
+- o9: מוֹעֵד = H4150 מוֹעֵד "properly, an appointment…" [HNcmsa]
+- o10: אוֹ = H176 אוֹ "desire (and so probably in Proverbs 31:4)…" [HC]
+- o11: בְ/גִשְׁתָּ/ם = Hb "in" + H5066 נָגַשׁ "to be or come (causatively…" [HR/Vqc/Sp3mp]
+- o12: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o13: הַ/מִּזְבֵּחַ = Hd "the" + H4196 מִזְבֵּחַ "an altar" [HTd/Ncmsa]
+- o14: לְ/שָׁרֵת = Hl "to" + H8334 שָׁרַת "to attend as a menial or worshipper…" [HR/Vpc]
+- o15: בַּ/קֹּדֶשׁ = Hb "in" + H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HRd/Ncmsa]
+- o16: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o17: יִשְׂאוּ = H5375 נָשָׂא "to lift, in a great variety of applications…" [HVqi3mp]
+- o18: עָוֺן = H5771 עָוֺן "perversity, i.e. (moral) evil" [HNcbsa]
+- o19: וָ/מֵתוּ = Hc "and" + H4191 מוּת "to die (literally or figuratively)…" [HC/Vqq3cp]
+- o20: חֻקַּת = H2708 חֻקָּה "an enactment…" [HNcbsc]
+- o21: עוֹלָם = H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HNcmsa]
+- o22: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o23: וּ/לְ/זַרְע/וֹ = Hc "and" + Hl "to" + H2233 זֶרַע "seed…" [HC/R/Ncmsc/Sp3ms]
+- o24: אַחֲרָי/ו = H310 אַחַר "properly, the hind part…" [HR/Sp3ms]
+
+### Exodus 29:24 (context)
+
+- o1: וְ/שַׂמְתָּ = Hc "and" + H7760 שׂוּם "to put (used in a great variety of applications…" [HC/Vqq2ms]
+- o2: הַ/כֹּל = Hd "the" + H3605 כֹּל "properly, the whole…" [HTd/Ncmsa]
+- o3: עַל = H5921 עַל "above, over, upon…" [HR]
+- o4: כַּפֵּי = H3709 כַּף "the hollow hand or palm (so of the paw of an…" [HNcfdc]
+- o5: אַהֲרֹן = H175 אַהֲרוֹן "Aharon, the brother of Moses" [HNp]
+- o6: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o7: כַּפֵּי = H3709 כַּף "the hollow hand or palm (so of the paw of an…" [HNcfdc]
+- o8: בָנָי/ו = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc/Sp3ms]
+- o9: וְ/הֵנַפְתָּ = Hc "and" + H5130 נוּף "to quiver (i.e. vibrate up and down…" [HC/Vhq2ms]
+- o10: אֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o11: תְּנוּפָה = H8573 תְּנוּפָה "a brandishing (in threat); by implication, tumult…" [HNcfsa]
+- o12: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o13: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]

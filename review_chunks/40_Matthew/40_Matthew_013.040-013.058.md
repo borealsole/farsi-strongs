@@ -951,3 +951,44 @@ Persian entries and current tags:
 - p9: زیادی  → G4183
 - p10: نکرد  → G3756 G4160
 - p11: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 13:39 (context)
+
+- o1: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: ἐχθρὸς = G2190 ἐχθρός "enemy, foe" [A-NSM]
+- o4: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o5: σπείρας = G4687 σπείρω "sow(- er), receive seed" [V-AAP-NSM]
+- o6: αὐτά = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-APN]
+- o7: ἐστιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o8: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o9: διάβολος· = G1228 διάβολος "false accuser, devil, slanderer" [A-NSM]
+- o10: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o11: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o12: θερισμὸς = G2326 θερισμός "harvest" [N-NSM]
+- o13: συντέλεια = G4930 συντέλεια "end" [N-NSF]
+- o14: αἰῶνός = G165 αἰών "age, course, eternal, (for) ever(-more), (n-)ever…" [N-GSM]
+- o15: ἐστιν, = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o16: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o17: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o18: θερισταὶ = G2327 θεριστής "reaper" [N-NPM]
+- o19: ἄγγελοί = G32 ἄγγελος "angel, messenger" [N-NPM]
+- o20: εἰσιν. = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3P]
+
+### Matthew 14:1 (context)
+
+- o1: Ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o2: ἐκείνῳ = G1565 ἐκεῖνος "he, it, the other (same), selfsame, that (same…" [D-DSM]
+- o3: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o4: καιρῷ = G2540 καιρός "always, opportunity, (convenient, due) season…" [N-DSM]
+- o5: ἤκουσεν = G191 ἀκούω "give (in the) audience (of), come (to the ears)…" [V-AAI-3S]
+- o6: Ἡρώδης = G2264 Ἡρώδης "Herod" [N-NSM]
+- o7: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o8: τετραάρχης = G5076 τετράρχης "tetrarch" [N-NSM]
+- o9: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o10: ἀκοὴν = G189 ἀκοή "audience, ear, fame, which ye heard, hearing…" [N-ASF]
+- o11: Ἰησοῦ, = G2424 Ἰησοῦς "Jesus" [N-GSM]

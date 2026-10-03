@@ -850,3 +850,31 @@ Persian entries and current tags:
 - p23: اسرائیل  → H3478
 - p24: شادی کند  → H8055
 - p25: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 11:7 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: צַדִּיק = H6662 צַדִּיק "just" [HAamsa]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: צְדָקוֹת = H6666 צְדָקָה "rightness (abstractly), subjectively (rectitude)…" [HNcfpa]
+- o5: אָהֵב = H157 אָהַב "to have affection for (sexually or otherwise)" [HVqp3ms]
+- o6: יָשָׁר = H3477 יָשָׁר "straight (literally or figuratively)" [HAamsa]
+- o7: יֶחֱזוּ = H2372 חָזָה "to gaze at…" [HVqi3mp]
+- o8: פָנֵי/מוֹ = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc/Sp3ms]
+
+### Psalms 15:1 (context)
+
+- o1: מִזְמוֹר = H4210 מִזְמוֹר "properly, instrumental music…" [HNcmsa]
+- o2: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o3: יְהֹוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: מִי = H4310 מִי "who? (occasionally, by a peculiar idiom…" [HTi]
+- o5: יָגוּר = H1481 גּוּר "properly…" [HVqi3ms]
+- o6: בְּ/אָהֳלֶ/ךָ = Hb "in" + H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HR/Ncmsc/Sp2ms]
+- o7: מִי = H4310 מִי "who? (occasionally, by a peculiar idiom…" [HTi]
+- o8: יִשְׁכֹּן = H7931 שָׁכַן "to reside or permanently stay (literally or…" [HVqi3ms]
+- o9: בְּ/הַר = Hb "in" + H2022 הַר "a mountain or range of hills (sometimes used…" [HR/Ncmsc]
+- o10: קָדְשֶׁ/ךָ = H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HNcmsc/Sp2ms]

@@ -827,3 +827,45 @@ Persian entries and current tags:
 - p19: وی
 - p20: پادشاه شد  → H4427
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 14:14 (context)
+
+- o1: וְ/לָקַח = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqp3ms]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o4: הַ/זָּהָב = Hd "the" + H2091 זָהָב "gold, figuratively…" [HTd/Ncmsa]
+- o5: וְ/הַ/כֶּסֶף = Hc "and" + Hd "the" + H3701 כֶּסֶף "silver (from its pale color)…" [HC/Td/Ncmsa]
+- o6: וְ/אֵת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o7: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o8: הַ/כֵּלִים = Hd "the" + H3627 כְּלִי "something prepared…" [HTd/Ncmpa]
+- o9: הַ/נִּמְצְאִים = Hd "the" + H4672 מָצָא "properly, to come forth to, i.e. appear or exist…" [HTd/VNrmpa]
+- o10: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o11: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o12: וּ/בְ/אֹצְרוֹת = Hc "and" + Hb "in" + H214 אוֹצָר "a depository" [HC/R/Ncmpc]
+- o13: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o14: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o15: וְ/אֵת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o16: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o17: הַ/תַּעֲרֻבוֹת = Hd "the" + H8594 תַּעֲרֻבָה "suretyship, i.e. (concretely) a pledge" [HTd/Ncfpa]
+- o18: וַ/יָּשָׁב = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqw3ms]
+- o19: שֹׁמְרוֹנָ/ה = H8111 שֹׁמְרוֹן "Shomeron, a place in Palestine" [HNp/Sd]
+
+### II Kings 15:1 (context)
+
+- o1: בִּ/שְׁנַת = Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HR/Ncfsc]
+- o2: עֶשְׂרִים = H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HAcbpa]
+- o3: וָ/שֶׁבַע = Hc "and" + H7651 שֶׁבַע "seven (as the sacred full one)…" [HC/Acfsa]
+- o4: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o5: לְ/יָרָבְעָם = Hl "to" + H3379 יָרׇבְעָם "Jarobam, the name of two Israelite kings" [HR/Np]
+- o6: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o7: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o8: מָלַךְ = H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HVqp3ms]
+- o9: עֲזַרְיָה = H5838 עֲזַרְיָה "Azarjah, the name of nineteen Israelites" [HNp]
+- o10: בֶן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o11: אֲמַצְיָה = H558 אֲמַצְיָה "Amatsjah, the name of four Israelites" [HNp]
+- o12: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o13: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]

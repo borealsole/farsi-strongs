@@ -518,3 +518,34 @@ Persian entries and current tags:
 - p10: ریشخند  → H3933 H7047
 - p11: اطرافیان  → H5439
 - p12: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 43:5 (context)
+
+- o1: מַה = H4100 מָה "properly…" [HTi]
+- o2: תִּשְׁתּוֹחֲחִי = H7817 שָׁחַח "to sink or depress (reflexive or causative)" [HVri2fs]
+- o3: נַפְשִׁ/י = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsc/Sp1cs]
+- o4: וּ/מַה = Hc "and" + H4100 מָה "properly…" [HC/Ti]
+- o5: תֶּהֱמִי = H1993 הָמָה "to make a loud sound (like English 'hum')…" [HVqi2fs]
+- o6: עָלָ/י = H5921 עַל "above, over, upon…" [HR/Sp1cs]
+- o7: הוֹחִילִי = H3176 יָחַל "to wait; by implication, to be patient, hope" [HVhv2fs]
+- o8: לֵ/אלֹהִים = Hl "to" + H430 אֱלֹהִים "gods in the ordinary sense…" [HR/Ncmpa]
+- o9: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o10: עוֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+- o11: אוֹדֶ/נּוּ = H3034 יָדָה "physically, to throw (a stone…" [HVhi1cs/Sp3ms]
+- o12: יְשׁוּעֹת = H3444 יְשׁוּעָה "something saved, i.e. (abstractly) deliverance…" [HNcfpc]
+- o13: פָּנַ/י = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc/Sp1cs]
+- o14: וֵ/אלֹהָ/י = Hc "and" + H430 אֱלֹהִים "gods in the ordinary sense…" [HC/Ncmpc/Sp1cs]
+
+### Psalms 44:14 (context)
+
+- o1: תְּשִׂימֵ/נוּ = H7760 שׂוּם "to put (used in a great variety of applications…" [HVqi2ms/Sp1cp]
+- o2: מָשָׁל = H4912 מָשָׁל "properly, a pithy maxim…" [HNcmsa]
+- o3: בַּ/גּוֹיִם = Hb "in" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HRd/Ncmpa]
+- o4: מְנוֹד = H4493 מָנוֹד "a nodding or toss (of the head in derision)" [HNcmsc]
+- o5: רֹאשׁ = H7218 רֹאשׁ "the head (as most easily shaken)…" [HNcmsa]
+- o6: בַּל = H3816 לְאֹם "a community" [HTn]
+- o7: אֻמִּים = H3816 לְאֹם "a community" [HNcmpa]

@@ -814,3 +814,28 @@ Persian entries and current tags:
 - p26: نابود
 - p27: خواهد_کرد  → H6789
 - p28: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 93:5 (context)
+
+- o1: עֵדֹתֶי/ךָ = H5713 עֵדָה "testimony" [HNcfpc/Sp2ms]
+- o2: נֶאֶמְנוּ = H539 אָמַן "properly, to build up or support…" [HVNp3cp]
+- o3: מְאֹד = H3966 מְאֹד "properly, vehemence…" [HD]
+- o4: לְ/בֵיתְ/ךָ = Hl "to" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc/Sp2ms]
+- o5: נַאֲוָה = H4998 נָאָה "properly, to be at home…" [HVNp3ms]
+- o6: קֹדֶשׁ = H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HNcmsa]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: לְ/אֹרֶךְ = Hl "to" + H753 אֹרֶךְ "length" [HR/Ncmsc]
+- o9: יָמִים = H3117 יוֹם "a day (as the warm hours)…" [HNcmpa]
+
+### Psalms 95:1 (context)
+
+- o1: לְכוּ = H3212 יָלַךְ "to walk (literally or figuratively)…" [HVqv2mp]
+- o2: נְרַנְּנָה = H7442 רָנַן "properly, to creak (or emit a stridulous sound)…" [HVph1cp]
+- o3: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o4: נָרִיעָה = H7321 רוּעַ "to mar (especially by breaking)…" [HVhh1cp]
+- o5: לְ/צוּר = Hl "to" + H6697 צוּר "properly, a cliff (or sharp rock, as compressed)…" [HR/Ncmsc]
+- o6: יִשְׁעֵ/נוּ = H3468 יֶשַׁע "liberty, deliverance, prosperity" [HNcmsc/Sp1cp]

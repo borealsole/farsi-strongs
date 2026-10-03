@@ -583,3 +583,53 @@ Persian entries and current tags:
 - p22: وای
 - p23: نوشته_شده_بود  → H3789
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 1:28 (context)
+
+- o1: כְּ/מַרְאֵה = Hk "like" + H4758 מַרְאֶה "a view (the act of seeing)…" [HR/Ncmsc]
+- o2: הַ/קֶּשֶׁת = Hd "the" + H7198 קֶשֶׁת "a bow, forshooting (hence, figuratively…" [HTd/Ncfsa]
+- o3: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o4: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o5: בֶ/עָנָן = Hb "in" + H6051 עָנָן "a cloud (as covering the sky)…" [HRd/Ncmsa]
+- o6: בְּ/יוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmsc]
+- o7: הַ/גֶּשֶׁם = Hd "the" + H1653 גֶּשֶׁם "a shower" [HTd/Ncmsa]
+- o8: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o9: מַרְאֵה = H4758 מַרְאֶה "a view (the act of seeing)…" [HNcmsc]
+- o10: הַ/נֹּגַהּ = Hd "the" + H5051 נֹגַהּ "brilliancy (literally or figuratively)" [HTd/Ncfsa]
+- o11: סָבִיב = H5439 סָבִיב "as noun) a circle, neighbour, or environs…" [HNcbsa]
+- o12: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o13: מַרְאֵה = H4758 מַרְאֶה "a view (the act of seeing)…" [HNcmsc]
+- o14: דְּמוּת = H1823 דְּמוּת "resemblance; concretely, model, shape…" [HNcfsc]
+- o15: כְּבוֹד = H3519 כָּבוֹד "properly, weight…" [HNcbsc]
+- o16: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o17: וָ/אֶרְאֶה = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw1cs]
+- o18: וָ/אֶפֹּל = Hc "and" + H5307 נָפַל "to fall…" [HC/Vqw1cs]
+- o19: עַל = H5921 עַל "above, over, upon…" [HR]
+- o20: פָּנַ/י = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc/Sp1cs]
+- o21: וָ/אֶשְׁמַע = Hc "and" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HC/Vqw1cs]
+- o22: קוֹל = H6963 קוֹל "a voice or sound" [HNcmsa]
+- o23: מְדַבֵּר = H1696 דָבַר "perhaps properly, to arrange…" [HVprmsa]
+
+### Ezekiel 3:1 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o3: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o4: אָדָם = H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HNcmsa]
+- o5: אֵת = H853 אֵת "properly…" [HTo]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: תִּמְצָא = H4672 מָצָא "properly, to come forth to, i.e. appear or exist…" [HVqi2ms]
+- o8: אֱכוֹל = H398 אָכַל "to eat (literally or figuratively)" [HVqv2ms]
+- o9: אֱכוֹל = H398 אָכַל "to eat (literally or figuratively)" [HVqv2ms]
+- o10: אֶת = H853 אֵת "properly…" [HTo]
+- o11: הַ/מְּגִלָּה = Hd "the" + H4039 מְגִלָּה "a roll" [HTd/Ncfsa]
+- o12: הַ/זֹּאת = Hd "the" + H2063 זֹאת "this (often used adverb)" [HTd/Pdxfs]
+- o13: וְ/לֵךְ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqv2ms]
+- o14: דַּבֵּר = H1696 דָבַר "perhaps properly, to arrange…" [HVpv2ms]
+- o15: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o16: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o17: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]

@@ -985,3 +985,41 @@ Persian entries and current tags:
 - p26: ،
 - p27: جدا سازد  → G5563
 - p28: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Romans 8:20 (context)
+
+- o1: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o2: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o3: ματαιότητι = G3153 ματαιότης "vanity" [N-DSF]
+- o4: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o5: κτίσις = G2937 κτίσις "building, creation, creature, ordinance" [N-NSF]
+- o6: ὑπετάγη, = G5293 ὑποτάσσω "be under obedience (obedient), put under…" [V-2API-3S]
+- o7: οὐχ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o8: ἑκοῦσα = G1635 ἑκών "willingly" [A-NSF]
+- o9: ἀλλὰ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o10: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o11: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o12: ὑποτάξαντα, = G5293 ὑποτάσσω "be under obedience (obedient), put under…" [V-AAP-ASM]
+- o13: ἐφ’ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o14: ἐλπίδι = G1680 ἐλπίς "faith, hope" [N-DSF]
+
+### Romans 9:1 (context)
+
+- o1: Ἀλήθειαν = G225 ἀλήθεια "true, truly, truth, verity" [N-ASF]
+- o2: λέγω = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-1S]
+- o3: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o4: Χριστῷ, = G5547 Χριστός "Christ" [N-DSM]
+- o5: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o6: ψεύδομαι, = G5574 ψεύδομαι "falsely, lie" [V-PNI-1S]
+- o7: συνμαρτυρούσης = G4828 συμμαρτυρέω "testify unto, (also) bear witness (with)" [V-PAP-GSF]
+- o8: μοι = G1473 ἐγώ "I, me" [P-1DS]
+- o9: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o10: συνειδήσεώς = G4893 συνείδησις "conscience" [N-GSF]
+- o11: μου = G1473 ἐγώ "I, me" [P-1GS]
+- o12: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o13: πνεύματι = G4151 πνεῦμα "ghost, life, spirit(-ual, -ually), mind" [N-DSN]
+- o14: ἁγίῳ, = G40 ἅγιος "(most) holy (one, thing), saint" [A-DSN]

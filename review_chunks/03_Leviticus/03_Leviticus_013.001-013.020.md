@@ -1055,3 +1055,52 @@ Persian entries and current tags:
 - p32: دُمَل  → H7822
 - p33: بروز کرده_است  → H6524
 - p34: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 12:8 (context)
+
+- o1: וְ/אִם = Hc "and" + H518 אִם "used very widely as demonstrative, lo!…" [HC/C]
+- o2: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o3: תִמְצָא = H4672 מָצָא "properly, to come forth to, i.e. appear or exist…" [HVqi3fs]
+- o4: יָדָ/הּ = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsc/Sp3fs]
+- o5: דֵּי = H1767 דַּי "enough (as noun or adverb)…" [HNcmsc]
+- o6: שֶׂה = H7716 שֶׂה "a member of a flock, i.e. a sheep or goat" [HNcbsa]
+- o7: וְ/לָקְחָה = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqq3fs]
+- o8: שְׁתֵּי = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcfdc]
+- o9: תֹרִים = H8449 תּוֹר "a ring-dove…" [HNcbpa]
+- o10: אוֹ = H176 אוֹ "desire (and so probably in Proverbs 31:4)…" [HC]
+- o11: שְׁנֵי = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmdc]
+- o12: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o13: יוֹנָה = H3123 יוֹנָה "a dove (apparently from the warmth of their…" [HNcfsa]
+- o14: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o15: לְ/עֹלָה = Hl "to" + H5930 עֹלָה "a step or (collectively, stairs, as ascending)…" [HR/Ncfsa]
+- o16: וְ/אֶחָד = Hc "and" + H259 אֶחָד "properly, united, i.e. one…" [HC/Acmsa]
+- o17: לְ/חַטָּאת = Hl "to" + H2403 חַטָּאָה "an offence (sometimes habitual sinfulness)…" [HR/Ncfsa]
+- o18: וְ/כִפֶּר = Hc "and" + H3722 כָּפַר "to cover (specifically with bitumen)…" [HC/Vpq3ms]
+- o19: עָלֶי/הָ = H5921 עַל "above, over, upon…" [HR/Sp3fs]
+- o20: הַ/כֹּהֵן = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmsa]
+- o21: וְ/טָהֵרָה = Hc "and" + H2891 טָהֵר "to be pure (physical sound, clear, unadulterated…" [HC/Vqq3fs]
+
+### Leviticus 13:21 (context)
+
+- o1: וְ/אִם = Hc "and" + H518 אִם "used very widely as demonstrative, lo!…" [HC/C]
+- o2: יִרְאֶ/נָּה = H7200 רָאָה "to see…" [HVqi3ms/Sp3fs]
+- o3: הַ/כֹּהֵן = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmsa]
+- o4: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o5: אֵין = H369 אַיִן "a non-entity…" [HTn]
+- o6: בָּ/הּ = Hb "in" [HR/Sp3fs]
+- o7: שֵׂעָר = H8181 שֵׂעָר "hair (as if tossed or bristling)" [HNcmsa]
+- o8: לָבָן = H3836 לָבָן "white" [HAamsa]
+- o9: וּ/שְׁפָלָה = Hc "and" + H8217 שָׁפָל "depressed, literally or figuratively" [HC/Aafsa]
+- o10: אֵינֶ/נָּה = H369 אַיִן "a non-entity…" [HTn/Sp3fs]
+- o11: מִן = H4480 מִן "properly, a part of…" [HR]
+- o12: הָ/עוֹר = Hd "the" + H5785 עוֹר "skin (as naked); by implication, hide, leather" [HTd/Ncmsa]
+- o13: וְ/הִיא = Hc "and" + H1931 הוּא "he (she or it)…" [HC/Pp3fs]
+- o14: כֵהָה = H3544 כֵּהֶה "feeble, obscure" [HAafsa]
+- o15: וְ/הִסְגִּיר/וֹ = Hc "and" + H5462 סָגַר "to shut up; figuratively, to surrender" [HC/Vhq3ms/Sp3ms]
+- o16: הַ/כֹּהֵן = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmsa]
+- o17: שִׁבְעַת = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcmsc]
+- o18: יָמִים = H3117 יוֹם "a day (as the warm hours)…" [HNcmpa]

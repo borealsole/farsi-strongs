@@ -1269,3 +1269,34 @@ Persian entries and current tags:
 - p11: اسیران  → H1473
 - p12: بازگفتم  → H1696
 - p13: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 10:22 (context)
+
+- o1: וּ/דְמוּת = Hc "and" + H1823 דְּמוּת "resemblance; concretely, model, shape…" [HC/Ncfsc]
+- o2: פְּנֵי/הֶם = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc/Sp3mp]
+- o3: הֵמָּה = H1992 הֵם "they (only used when emphatic)" [HPp3mp]
+- o4: הַ/פָּנִים = Hd "the" + H6440 פָּנִים "the face (as the part that turns)…" [HTd/Ncbpa]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: רָאִיתִי = H7200 רָאָה "to see…" [HVqp1cs]
+- o7: עַל = H5921 עַל "above, over, upon…" [HR]
+- o8: נְהַר = H5104 נָהָר "a stream (including the sea…" [HNcmsc]
+- o9: כְּבָר = H3529 כְּבָר "Kebar, a river of Mesopotamia" [HNp]
+- o10: מַרְאֵי/הֶם = H4758 מַרְאֶה "a view (the act of seeing)…" [HNcmsc/Sp3mp]
+- o11: וְ/אוֹתָ/ם = Hc "and" + H853 אֵת "properly…" [HC/To/Sp3mp]
+- o12: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o13: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o14: עֵבֶר = H5676 עֵבֶר "properly, a region across…" [HNcmsc]
+- o15: פָּנָי/ו = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc/Sp3ms]
+- o16: יֵלֵכוּ = H3212 יָלַךְ "to walk (literally or figuratively)…" [HVqi3mp]
+
+### Ezekiel 12:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o5: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

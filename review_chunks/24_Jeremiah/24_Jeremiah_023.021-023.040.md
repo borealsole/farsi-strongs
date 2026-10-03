@@ -1094,3 +1094,59 @@ Persian entries and current tags:
 - p17: .
 - p18: “
 - p19: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 23:20 (context)
+
+- o1: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o2: יָשׁוּב = H7725 שׁוּב "to turn back (hence…" [HVqi3ms]
+- o3: אַף = H639 אַף "properly, the nose or nostril…" [HTa]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o6: עֲשֹׂת/וֹ = H6213 עָשָׂה "to do or make…" [HVqc/Sp3ms]
+- o7: וְ/עַד = Hc "and" + H5704 עַד "as far (or long, or much) as…" [HC/R]
+- o8: הֲקִימ/וֹ = H6965 קוּם "to rise (in various applications, literal…" [HVhc/Sp3ms]
+- o9: מְזִמּוֹת = H4209 מְזִמָּה "a plan, usually evil (machination)…" [HNcfpc]
+- o10: לִבּ/וֹ = H3820 לֵב "the heart…" [HNcmsc/Sp3ms]
+- o11: בְּ/אַחֲרִית = Hb "in" + H319 אַחֲרִית "the last or end, hence, the future; also posterity" [HR/Ncfsc]
+- o12: הַ/יָּמִים = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmpa]
+- o13: תִּתְבּוֹנְנוּ = H995 בִּין "to separate mentally (or distinguish)…" [HVri2mp]
+- o14: בָ/הּ = Hb "in" [HR/Sp3fs]
+- o15: בִּינָה = H998 בִּינָה "understanding" [HNcfsa]
+
+### Jeremiah 24:1 (context)
+
+- o1: הִרְאַ/נִי = H7200 רָאָה "to see…" [HVhp3ms/Sp1cs]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o4: שְׁנֵי = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmdc]
+- o5: דּוּדָאֵי = H1736 דּוּדַי "a boiler or basket…" [HNcmpc]
+- o6: תְאֵנִים = H8384 תְּאֵן "the fig (tree or fruit)" [HNcfpa]
+- o7: מוּעָדִים = H3259 יָעַד "to fix upon (by agreement or appointment)…" [HVHsmpa]
+- o8: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o9: הֵיכַל = H1964 הֵיכָל "a large public building…" [HNcmsc]
+- o10: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o11: אַחֲרֵי = H310 אַחַר "properly, the hind part…" [HR]
+- o12: הַגְלוֹת = H1540 גָּלָה "to denude (especially in a disgraceful sense)…" [HVhc]
+- o13: נְבוּכַדְרֶאצַּר = H5019 נְבוּכַדְנֶאצַּר "Nebukadnetstsar (or -retstsar, or -retstsor)…" [HNp]
+- o14: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o15: בָּבֶל = H894 בָּבֶל "Babel (i.e. Babylon)…" [HNp]
+- o16: אֶת = H853 אֵת "properly…" [HTo]
+- o17: יְכָנְיָהוּ = H3204 יְכׇנְיָה "Jekonjah, a Jewish king" [HNp]
+- o18: בֶן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o19: יְהוֹיָקִים = H3079 יְהוֹיָקִים "Jehojakim, a Jewish king" [HNp]
+- o20: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o21: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o22: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o23: שָׂרֵי = H8269 שַׂר "a head person (of any rank or class)" [HNcmpc]
+- o24: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o25: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o26: הֶ/חָרָשׁ = Hd "the" + H2796 חָרָשׁ "a fabricator or any material" [HTd/Ncmsa]
+- o27: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o28: הַ/מַּסְגֵּר = Hd "the" + H4525 מַסְגֵּר "a fastener, i.e. (of a person) a smith…" [HTd/Ncmsa]
+- o29: מִ/ירוּשָׁלִַם = Hm "from" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HR/Np]
+- o30: וַ/יְבִאֵ/ם = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vhw3ms/Sp3mp]
+- o31: בָּבֶל = H894 בָּבֶל "Babel (i.e. Babylon)…" [HNp]

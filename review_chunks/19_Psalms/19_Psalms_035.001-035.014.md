@@ -587,3 +587,33 @@ Persian entries and current tags:
 - p20: فرط اندوه  → H57
 - p21: سر خم می‌کردم  → H7817
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 34:22 (context)
+
+- o1: פּוֹדֶה = H6299 פָּדָה "to sever, i.e. ransom; gener. to release, preserve" [HVqrmsa]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: נֶפֶשׁ = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsc]
+- o4: עֲבָדָי/ו = H5650 עֶבֶד "a servant" [HNcmpc/Sp3ms]
+- o5: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o6: יֶאְשְׁמוּ = H816 אָשַׁם "to be guilty…" [HVqi3mp]
+- o7: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o8: הַ/חֹסִים = Hd "the" + H2620 חָסָה "to flee for protection…" [HTd/Vqrmpa]
+- o9: בּ/וֹ = Hb "in" [HR/Sp3ms]
+
+### Psalms 35:15 (context)
+
+- o1: וּ/בְ/צַלְעִ/י = Hc "and" + Hb "in" + H6761 צֶלַע "a limping or full (figuratively)" [HC/R/Ncmsc/Sp1cs]
+- o2: שָׂמְחוּ = H8055 שָׂמַח "probably to brighten up…" [HVqp3cp]
+- o3: וְ/נֶאֱסָפוּ = Hc "and" + H622 אָסַף "to gather for any purpose…" [HC/VNp3cp]
+- o4: נֶאֶסְפוּ = H622 אָסַף "to gather for any purpose…" [HVNp3cp]
+- o5: עָלַ/י = H5921 עַל "above, over, upon…" [HR/Sp1cs]
+- o6: נֵכִים = H5222 נֵכֶה "a smiter, i.e. (figuratively) traducer" [HAampa]
+- o7: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o8: יָדַעְתִּי = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqp1cs]
+- o9: קָרְעוּ = H7167 קָרַע "to rend, literally or figuratively (revile…" [HVqp3cp]
+- o10: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o11: דָמּוּ = H1826 דָּמַם "to be dumb…" [HVqp3cp]

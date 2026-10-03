@@ -1243,3 +1243,35 @@ Persian entries and current tags:
 - p27: ،
 - p28: کامیاب می‌ساخت  → H6743
 - p29: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 38:30 (context)
+
+- o1: וְ/אַחַר = Hc "and" + H310 אַחַר "properly, the hind part…" [HC/D]
+- o2: יָצָא = H3318 יָצָא "to go (causatively, bring) out…" [HVqp3ms]
+- o3: אָחִי/ו = H251 אָח "a brother (used in the widest sense of literal…" [HNcmsc/Sp3ms]
+- o4: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o5: עַל = H5921 עַל "above, over, upon…" [HR]
+- o6: יָד/וֹ = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsc/Sp3ms]
+- o7: הַ/שָּׁנִי = Hd "the" + H8144 שָׁנִי "crimson, properly, the insect or its color…" [HTd/Ncmsa]
+- o8: וַ/יִּקְרָא = Hc "and" + H7121 קָרָא "to call out to (i.e. properly, address by name…" [HC/Vqw3ms]
+- o9: שְׁמ/וֹ = H8034 שֵׁם "an appellation…" [HNcmsc/Sp3ms]
+- o10: זָרַח = H2226 זֶרַח "Zerach, the name of three Israelites…" [HNp]
+
+### Genesis 40:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: אַחַר = H310 אַחַר "properly, the hind part…" [HR]
+- o3: הַ/דְּבָרִים = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmpa]
+- o4: הָ/אֵלֶּה = Hd "the" + H428 אֵלֶּה "these or those" [HTd/Pdxcp]
+- o5: חָטְאוּ = H2398 חָטָא "properly, to miss…" [HVqp3cp]
+- o6: מַשְׁקֵה = H4945 מַשְׁקֶה "properly, causing to drink, i.e. a butler…" [HNcmsc]
+- o7: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o8: מִצְרַיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o9: וְ/הָ/אֹפֶה = Hc "and" + Hd "the" + H644 אָפָה "to cook, especially to bake" [HC/Td/Vqrmsa]
+- o10: לַ/אֲדֹנֵי/הֶם = Hl "to" + H113 אָדוֹן "sovereign, i.e. controller (human or divine)" [HR/Ncmpc/Sp3mp]
+- o11: לְ/מֶלֶךְ = Hl "to" + H4428 מֶלֶךְ "a king" [HR/Ncmsc]
+- o12: מִצְרָיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]

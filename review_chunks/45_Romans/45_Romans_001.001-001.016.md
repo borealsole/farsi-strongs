@@ -805,3 +805,28 @@ Persian entries and current tags:
 - p20: سپس  → G2532
 - p21: یونانی  → G1672
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Romans 1:17 (context)
+
+- o1: δικαιοσύνη = G1343 δικαιοσύνη "righteousness" [N-NSF]
+- o2: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o3: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o4: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o5: αὐτῷ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSN]
+- o6: ἀποκαλύπτεται = G601 ἀποκαλύπτω "reveal" [V-PPI-3S]
+- o7: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o8: πίστεως = G4102 πίστις "assurance, belief, believe, faith, fidelity" [N-GSF]
+- o9: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o10: πίστιν, = G4102 πίστις "assurance, belief, believe, faith, fidelity" [N-ASF]
+- o11: καθὼς = G2531 καθώς "according to, (according, even) as, how, when" [ADV]
+- o12: γέγραπται, = G1125 γράφω "describe, write(-ing, -ten)" [V-RPI-3S]
+- o13: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o14: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o15: δίκαιος = G1342 δίκαιος "just, meet, right(-eous)" [A-NSM]
+- o16: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o17: πίστεως = G4102 πίστις "assurance, belief, believe, faith, fidelity" [N-GSF]
+- o18: ζήσεται. = G2198 ζάω "life(-time), (a-)live(-ly), quick" [V-FDI-3S]

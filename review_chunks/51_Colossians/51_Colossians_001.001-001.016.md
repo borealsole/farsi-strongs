@@ -749,3 +749,57 @@ Persian entries and current tags:
 - p36: او  → G846
 - p37: آفریده شدند  → G2936
 - p38: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Colossians 1:3 (context)
+
+- o1: Εὐχαριστοῦμεν = G2168 εὐχαριστέω "(give) thank(-ful, -s)" [V-PAI-1P]
+- o2: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o3: θεῷ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-DSM]
+- o4: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o5: πατρὶ = G3962 πατήρ "father, parent" [N-DSM]
+- o6: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o7: κυρίου = G2962 κύριος "God, Lord, master, Sir" [N-GSM]
+- o8: ἡμῶν = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+- o9: Ἰησοῦ = G2424 Ἰησοῦς "Jesus" [N-GSM]
+- o10: Χριστοῦ = G5547 Χριστός "Christ" [N-GSM]
+- o11: πάντοτε = G3842 πάντοτε "alway(-s), ever(-more)" [ADV]
+- o12: περὶ = G4012 περί "there-)about, above, against, at, on behalf of…" [PREP]
+- o13: ὑμῶν = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
+- o14: προσευχόμενοι, = G4336 προσεύχομαι "pray ( earnestly, for), make prayer" [V-PNP-NPM]
+
+### Colossians 1:4 (context)
+
+- o1: ἀκούσαντες = G191 ἀκούω "give (in the) audience (of), come (to the ears)…" [V-AAP-NPM]
+- o2: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o3: πίστιν = G4102 πίστις "assurance, belief, believe, faith, fidelity" [N-ASF]
+- o4: ὑμῶν = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
+- o5: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o6: Χριστῷ = G5547 Χριστός "Christ" [N-DSM]
+- o7: Ἰησοῦ = G2424 Ἰησοῦς "Jesus" [N-DSM]
+- o8: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o9: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o10: ἀγάπην = G26 ἀγάπη "(feast of) charity(-ably), dear, love" [N-ASF]
+- o11: ἣν = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-ASF]
+- o12: ἔχετε = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAI-2P]
+- o13: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o14: πάντας = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-APM]
+- o15: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o16: ἁγίους = G40 ἅγιος "(most) holy (one, thing), saint" [A-APM]
+
+### Colossians 1:17 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: αὐτός = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-NSM]
+- o3: ἐστιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o4: πρὸ = G4253 πρό "above, ago, before, or ever" [PREP]
+- o5: πάντων = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-GPN]
+- o6: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o7: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPN]
+- o8: πάντα = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-NPN]
+- o9: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o10: αὐτῷ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
+- o11: συνέστηκεν. = G4921 συνιστάω "approve, commend, consist, make, stand (with)" [V-RAI-3S]

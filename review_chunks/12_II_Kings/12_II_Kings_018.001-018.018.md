@@ -1085,3 +1085,54 @@ Persian entries and current tags:
 - p27: ایشان
 - p28: بیرون آمدند  → H3318
 - p29: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 17:41 (context)
+
+- o1: וַ/יִּהְיוּ = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3mp]
+- o2: הַ/גּוֹיִם = Hd "the" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HTd/Ncmpa]
+- o3: הָ/אֵלֶּה = Hd "the" + H428 אֵלֶּה "these or those" [HTd/Pdxcp]
+- o4: יְרֵאִים = H3372 יָרֵא "to fear; morally, to revere; caus. to frighten" [HAampa]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o8: פְּסִילֵי/הֶם = H6456 פְּסִיל "an idol" [HNcmpc/Sp3mp]
+- o9: הָיוּ = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3cp]
+- o10: עֹבְדִים = H5647 עָבַד "to work (in any sense)…" [HVqrmpa]
+- o11: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o12: בְּנֵי/הֶם = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc/Sp3mp]
+- o13: וּ/בְנֵי = Hc "and" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/Ncmpc]
+- o14: בְנֵי/הֶם = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc/Sp3mp]
+- o15: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o16: עָשׂוּ = H6213 עָשָׂה "to do or make…" [HVqp3cp]
+- o17: אֲבֹתָ/ם = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp3mp]
+- o18: הֵם = H1992 הֵם "they (only used when emphatic)" [HPp3mp]
+- o19: עֹשִׂים = H6213 עָשָׂה "to do or make…" [HVqrmpa]
+- o20: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o21: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o22: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+
+### II Kings 18:19 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: אֲלֵ/הֶם = H413 אֵל "near, with or among; often in general, to" [HR/Sp3mp]
+- o3: רַב = H7262 רַבְשָׁקֵה "Rabshakeh, a Babylonian official" [HNcmsc]
+- o4: שָׁקֵה = H7262 רַבְשָׁקֵה "Rabshakeh, a Babylonian official" [HNp]
+- o5: אִמְרוּ = H559 אָמַר "to say (used with great latitude)" [HVqv2mp]
+- o6: נָא = H4994 נָא "'I pray', 'now', or 'then'…" [HTe]
+- o7: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o8: חִזְקִיָּהוּ = H2396 חִזְקִיָּה "Chizkijah, a king of Judah…" [HNp]
+- o9: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o10: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o11: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o12: הַ/גָּדוֹל = Hd "the" + H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HTd/Aamsa]
+- o13: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o14: אַשּׁוּר = H804 אַשּׁוּר "Ashshur, the second son of Shem…" [HNp]
+- o15: מָה = H4100 מָה "properly…" [HTi]
+- o16: הַ/בִּטָּחוֹן = Hd "the" + H986 בִּטָּחוֹן "trust" [HTd/Ncmsa]
+- o17: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o18: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o19: בָּטָחְתָּ = H982 בָּטַח "figuratively, to trust, be confident or sure" [HVqp2ms]

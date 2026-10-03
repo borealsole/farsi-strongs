@@ -852,3 +852,43 @@ Persian entries and current tags:
 - p27: زادن  → H3205
 - p28: بازایستاد  → H5975
 - p29: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 29:18 (context)
+
+- o1: וַ/יֶּאֱהַב = Hc "and" + H157 אָהַב "to have affection for (sexually or otherwise)" [HC/Vqw3ms]
+- o2: יַעֲקֹב = H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HNp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: רָחֵל = H7354 רָחֵל "Rachel, a wife of Jacob" [HNp]
+- o5: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o6: אֶעֱבָדְ/ךָ = H5647 עָבַד "to work (in any sense)…" [HVqi1cs/Sp2ms]
+- o7: שֶׁבַע = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcfsa]
+- o8: שָׁנִים = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfpa]
+- o9: בְּ/רָחֵל = Hb "in" + H7354 רָחֵל "Rachel, a wife of Jacob" [HR/Np]
+- o10: בִּתְּ/ךָ = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfsc/Sp2ms]
+- o11: הַ/קְּטַנָּה = Hd "the" + H6996 קָטָן "abbreviated, i.e. diminutive…" [HTd/Aafsa]
+
+### Genesis 30:1 (context)
+
+- o1: וַ/תֵּרֶא = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw3fs]
+- o2: רָחֵל = H7354 רָחֵל "Rachel, a wife of Jacob" [HNp]
+- o3: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o4: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o5: יָלְדָה = H3205 יָלַד "to bear young; causatively, to beget…" [HVqp3fs]
+- o6: לְ/יַעֲקֹב = Hl "to" + H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HR/Np]
+- o7: וַ/תְּקַנֵּא = Hc "and" + H7065 קָנָא "to be (causatively, make) zealous…" [HC/Vpw3fs]
+- o8: רָחֵל = H7354 רָחֵל "Rachel, a wife of Jacob" [HNp]
+- o9: בַּ/אֲחֹתָ/הּ = Hb "in" + H269 אָחוֹת "a sister (used very widely (like brother)…" [HR/Ncfsc/Sp3fs]
+- o10: וַ/תֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3fs]
+- o11: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o12: יַעֲקֹב = H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HNp]
+- o13: הָבָ/ה = H3051 יָהַב "to give (whether literal or figurative)…" [HVqv2ms/Sh]
+- o14: לִּ/י = Hl "to" [HR/Sp1cs]
+- o15: בָנִים = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpa]
+- o16: וְ/אִם = Hc "and" + H518 אִם "used very widely as demonstrative, lo!…" [HC/C]
+- o17: אַיִן = H369 אַיִן "a non-entity…" [HTn]
+- o18: מֵתָה = H4191 מוּת "to die (literally or figuratively)…" [HVqrfsa]
+- o19: אָנֹכִי = H595 אָנֹכִי "I" [HPp1cs]

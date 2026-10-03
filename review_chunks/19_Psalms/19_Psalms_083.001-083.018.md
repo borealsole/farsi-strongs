@@ -627,3 +627,33 @@ Persian entries and current tags:
 - p15: متعال  → H5945
 - p16: هستی
 - p17: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 82:8 (context)
+
+- o1: קוּמָ/ה = H6965 קוּם "to rise (in various applications, literal…" [HVqv2ms/Sh]
+- o2: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o3: שָׁפְטָ/ה = H8199 שָׁפַט "to judge…" [HVqv2ms/Sh]
+- o4: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o5: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o6: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o7: תִנְחַל = H5157 נָחַל "to inherit (as a (figurative) mode of descent)…" [HVqi2ms]
+- o8: בְּ/כָל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o9: הַ/גּוֹיִם = Hd "the" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HTd/Ncmpa]
+
+### Psalms 84:1 (context)
+
+- o1: לַ/מְנַצֵּחַ = Hl "to" + H5329 נָצַח "properly, to glitter from afar…" [HRd/Vprmsa]
+- o2: עַל = H5921 עַל "above, over, upon…" [HR]
+- o3: הַ/גִּתִּית = Hd "the" + H1665 גִּתִּית "a Gittite harp" [HTd/Ncfsa]
+- o4: לִ/בְנֵי = Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmpc]
+- o5: קֹרַח = H7141 קֹרַח "Korach…" [HNp]
+- o6: מִזְמוֹר = H4210 מִזְמוֹר "properly, instrumental music…" [HNcmsa]
+- o7: מַה = H4100 מָה "properly…" [HTi]
+- o8: יְּדִידוֹת = H3039 יְדִיד "loved" [HAafpa]
+- o9: מִשְׁכְּנוֹתֶי/ךָ = H4908 מִשְׁכָּן "a residence (including a shepherd's hut…" [HNcmpc/Sp2ms]
+- o10: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o11: צְבָאוֹת = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbpa]

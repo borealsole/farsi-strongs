@@ -1236,3 +1236,45 @@ Persian entries and current tags:
 - p27: بازگردم  → H7725
 - p28: .
 - p29: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 3:27 (context)
+
+- o1: וַ/יִּקַּח = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqw3ms]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: בְּנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o4: הַ/בְּכוֹר = Hd "the" + H1060 בְּכוֹר "firstborn; hence, chief" [HTd/Ncmsa]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: יִמְלֹךְ = H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HVqi3ms]
+- o7: תַּחְתָּי/ו = H8478 תַּחַת "the bottom (as depressed)…" [HR/Sp3ms]
+- o8: וַ/יַּעֲלֵ/הוּ = Hc "and" + H5927 עָלָה "to ascend…" [HC/Vhw3ms/Sp3ms]
+- o9: עֹלָה = H5930 עֹלָה "a step or (collectively, stairs, as ascending)…" [HNcfsa]
+- o10: עַל = H5921 עַל "above, over, upon…" [HR]
+- o11: הַ/חֹמָה = Hd "the" + H2346 חוֹמָה "a wall of protection" [HTd/Ncfsa]
+- o12: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o13: קֶצֶף = H7110 קֶצֶף "a splinter (as chipped off)…" [HNcmsa]
+- o14: גָּדוֹל = H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HAamsa]
+- o15: עַל = H5921 עַל "above, over, upon…" [HR]
+- o16: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o17: וַ/יִּסְעוּ = Hc "and" + H5265 נָסַע "properly, to pull up, especially the tent-pins…" [HC/Vqw3mp]
+- o18: מֵ/עָלָי/ו = Hm "from" + H5921 עַל "above, over, upon…" [HR/R/Sp3ms]
+- o19: וַ/יָּשֻׁבוּ = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqw3mp]
+- o20: לָ/אָרֶץ = Hl "to" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HRd/Ncbsa]
+
+### II Kings 4:23 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: מַדּוּעַ = H4069 מַדּוּעַ "what (is) known?…" [HTi]
+- o3: אתי = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2fs]
+- o4: הלכתי = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVqrfsa]
+- o5: אֵלָי/ו = H413 אֵל "near, with or among; often in general, to" [HR/Sp3ms]
+- o6: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o7: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o8: חֹדֶשׁ = H2320 חֹדֶשׁ "the new moon; by implication, a month" [HNcmsa]
+- o9: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o10: שַׁבָּת = H7676 שַׁבָּת "intermission, i.e (specifically) the Sabbath" [HNcbsa]
+- o11: וַ/תֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3fs]
+- o12: שָׁלוֹם = H7965 שָׁלוֹם "safe, i.e. (figuratively) well, happy, friendly…" [HNcmsa]

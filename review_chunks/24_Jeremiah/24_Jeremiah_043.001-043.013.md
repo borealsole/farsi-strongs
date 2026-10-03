@@ -848,3 +848,45 @@ Persian entries and current tags:
 - p22: .
 - p23: “
 - p24: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 42:22 (context)
+
+- o1: וְ/עַתָּה = Hc "and" + H6258 עַתָּה "at this time, whether adverb…" [HC/D]
+- o2: יָדֹעַ = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqa]
+- o3: תֵּדְעוּ = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqi2mp]
+- o4: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o5: בַּ/חֶרֶב = Hb "in" + H2719 חֶרֶב "drought…" [HRd/Ncfsa]
+- o6: בָּ/רָעָב = Hb "in" + H7458 רָעָב "hunger (more or less extensive)" [HRd/Ncmsa]
+- o7: וּ/בַ/דֶּבֶר = Hc "and" + Hb "in" + H1698 דֶּבֶר "a pestilence" [HC/Rd/Ncmsa]
+- o8: תָּמוּתוּ = H4191 מוּת "to die (literally or figuratively)…" [HVqi2mp]
+- o9: בַּ/מָּקוֹם = Hb "in" + H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HRd/Ncmsa]
+- o10: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o11: חֲפַצְתֶּם = H2654 חָפֵץ "properly, to incline to…" [HVqp2mp]
+- o12: לָ/בוֹא = Hl "to" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HR/Vqc]
+- o13: לָ/גוּר = Hl "to" + H1481 גּוּר "properly…" [HR/Vqc]
+- o14: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+
+### Jeremiah 44:1 (context)
+
+- o1: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]
+- o2: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o3: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o4: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o5: יִרְמְיָהוּ = H3414 יִרְמְיָה "Jirmejah, the name of eight or nine Israelites" [HNp]
+- o6: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o7: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o8: הַ/יְּהוּדִים = Hd "the" + H3064 יְהוּדִי "a Jehudite (i.e. Judaite or Jew)…" [HTd/Ngmpa]
+- o9: הַ/יֹּשְׁבִים = Hd "the" + H3427 יָשַׁב "properly…" [HTd/Vqrmpa]
+- o10: בְּ/אֶרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o11: מִצְרָיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o12: הַ/יֹּשְׁבִים = Hd "the" + H3427 יָשַׁב "properly…" [HTd/Vqrmpa]
+- o13: בְּ/מִגְדֹּל = Hb "in" + H4024 מִגְדּוֹל "Migdol, a place in Egypt" [HR/Np]
+- o14: וּ/בְ/תַחְפַּנְחֵס = Hc "and" + Hb "in" + H8471 תַּחְפַּנְחֵס "Tachpanches, Techaphneches or Tachpenes…" [HC/R/Np]
+- o15: וּ/בְ/נֹף = Hc "and" + Hb "in" + H5297 נֹף "Noph, the capital of Upper Egypt" [HC/R/Np]
+- o16: וּ/בְ/אֶרֶץ = Hc "and" + Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HC/R/Ncbsc]
+- o17: פַּתְרוֹס = H6624 פַּתְרוֹס "Pathros, a part of Egypt" [HNp]
+- o18: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

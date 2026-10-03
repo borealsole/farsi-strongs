@@ -920,3 +920,50 @@ Persian entries and current tags:
 - p13: خود
 - p14: را
 - p15: بشوی  → G3538
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 5:48 (context)
+
+- o1: ἔσεσθε = G1510 εἰμί "am, have been, it is I, was" [V-FDI-2P]
+- o2: οὖν = G3767 οὖν "and (so, truly), but, now (then)…" [CONJ]
+- o3: ὑμεῖς = G5210 ὑμεῖς "ye (yourselves), you" [P-2NP]
+- o4: τέλειοι = G5046 τέλειος "of full age, man, perfect" [A-NPM]
+- o5: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
+- o6: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o7: πατὴρ = G3962 πατήρ "father, parent" [N-NSM]
+- o8: ὑμῶν = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
+- o9: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o10: οὐράνιος = G3770 οὐράνιος "heavenly" [A-NSM]
+- o11: τέλειός = G5046 τέλειος "of full age, man, perfect" [A-NSM]
+- o12: ἐστιν. = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+
+### Matthew 6:18 (context)
+
+- o1: ὅπως = G3704 ὅπως "because, how, (so) that, to, when" [ADV]
+- o2: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o3: φανῇς = G5316 φαίνω "appear, seem, be seen, shine, think" [V-2APS-2S]
+- o4: τοῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPM]
+- o5: ἀνθρώποις = G444 ἄνθρωπος "certain, man" [N-DPM]
+- o6: νηστεύων = G3522 νηστεύω "fast" [V-PAP-NSM]
+- o7: ἀλλὰ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o8: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o9: πατρί = G3962 πατήρ "father, parent" [N-DSM]
+- o10: σου = G4771 σύ "thou" [P-2GS]
+- o11: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o12: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o13: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSN]
+- o14: κρυφαίῳ· = G2927 κρυπτός "hid(-den), inward(-ly), secret" [A-DSN]
+- o15: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o16: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o17: πατήρ = G3962 πατήρ "father, parent" [N-NSM]
+- o18: σου = G4771 σύ "thou" [P-2GS]
+- o19: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o20: βλέπων = G991 βλέπω "behold, beware, lie, look (on, to), perceive…" [V-PAP-NSM]
+- o21: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o22: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSN]
+- o23: κρυφαίῳ = G2927 κρυπτός "hid(-den), inward(-ly), secret" [A-DSN]
+- o24: ἀποδώσει = G591 ἀποδίδωμι "deliver (again), give (again)…" [V-FAI-3S]
+- o25: σοι. = G4771 σύ "thou" [P-2DS]

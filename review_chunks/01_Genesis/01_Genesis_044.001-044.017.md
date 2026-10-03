@@ -909,3 +909,47 @@ Persian entries and current tags:
 - p34: بازگردید  → H5927
 - p35: .
 - p36: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 43:34 (context)
+
+- o1: וַ/יִּשָּׂא = Hc "and" + H5375 נָשָׂא "to lift, in a great variety of applications…" [HC/Vqw3ms]
+- o2: מַשְׂאֹת = H4864 מַשְׂאֵת "properly…" [HNcfpa]
+- o3: מֵ/אֵת = Hm "from" + H854 אֵת "properly…" [HR/R]
+- o4: פָּנָי/ו = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc/Sp3ms]
+- o5: אֲלֵ/הֶם = H413 אֵל "near, with or among; often in general, to" [HR/Sp3mp]
+- o6: וַ/תֵּרֶב = Hc "and" + H7235 רָבָה "to increase (in whatever respect)" [HC/Vqw3fs]
+- o7: מַשְׂאַת = H4864 מַשְׂאֵת "properly…" [HNcfsc]
+- o8: בִּנְיָמִן = H1144 בִּנְיָמִין "Binjamin, youngest son of Jacob…" [HNp]
+- o9: מִ/מַּשְׂאֹת = Hm "from" + H4864 מַשְׂאֵת "properly…" [HR/Ncfpc]
+- o10: כֻּלָּ/ם = H3605 כֹּל "properly, the whole…" [HNcmsc/Sp3mp]
+- o11: חָמֵשׁ = H2568 חָמֵשׁ "five" [HAcfsa]
+- o12: יָדוֹת = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbpa]
+- o13: וַ/יִּשְׁתּוּ = Hc "and" + H8354 שָׁתָה "to imbibe (literally or figuratively)" [HC/Vqw3mp]
+- o14: וַ/יִּשְׁכְּרוּ = Hc "and" + H7937 שָׁכַר "to become tipsy…" [HC/Vqw3mp]
+- o15: עִמּ/וֹ = H5973 עִם "adverb or preposition…" [HR/Sp3ms]
+
+### Genesis 44:18 (context)
+
+- o1: וַ/יִּגַּשׁ = Hc "and" + H5066 נָגַשׁ "to be or come (causatively…" [HC/Vqw3ms]
+- o2: אֵלָי/ו = H413 אֵל "near, with or among; often in general, to" [HR/Sp3ms]
+- o3: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o4: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o5: בִּי = H994 בִּי "oh that!; with leave, or if it please" [HTe]
+- o6: אֲדֹנִ/י = H113 אָדוֹן "sovereign, i.e. controller (human or divine)" [HNcmsc/Sp1cs]
+- o7: יְדַבֶּר = H1696 דָבַר "perhaps properly, to arrange…" [HVpj3ms]
+- o8: נָא = H4994 נָא "'I pray', 'now', or 'then'…" [HTe]
+- o9: עַבְדְּ/ךָ = H5650 עֶבֶד "a servant" [HNcmsc/Sp2ms]
+- o10: דָבָר = H1697 דָּבָר "a word…" [HNcmsa]
+- o11: בְּ/אָזְנֵי = Hb "in" + H241 אֹזֶן "broadness. i.e. (concrete) the ear (from its form…" [HR/Ncfdc]
+- o12: אֲדֹנִ/י = H113 אָדוֹן "sovereign, i.e. controller (human or divine)" [HNcmsc/Sp1cs]
+- o13: וְ/אַל = Hc "and" + H408 אַל "not (the qualified negation…" [HC/Tn]
+- o14: יִחַר = H2734 חָרָה "to glow or grow warm…" [HVqj3ms]
+- o15: אַפְּ/ךָ = H639 אַף "properly, the nose or nostril…" [HNcmsc/Sp2ms]
+- o16: בְּ/עַבְדֶּ/ךָ = Hb "in" + H5650 עֶבֶד "a servant" [HR/Ncmsc/Sp2ms]
+- o17: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o18: כָמוֹ/ךָ = H3644 כְּמוֹ "a form of the prefix 'k-', but used separately as…" [HR/Sp2ms]
+- o19: כְּ/פַרְעֹה = Hk "like" + H6547 פַּרְעֹה "Paroh, a general title of Egyptian kings" [HR/Np]

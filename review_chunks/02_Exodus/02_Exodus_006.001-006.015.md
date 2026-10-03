@@ -813,3 +813,42 @@ Persian entries and current tags:
 - p23: طوایف  → H4940
 - p24: شمعون  → H8095
 - p25: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 5:23 (context)
+
+- o1: וּ/מֵ/אָז = Hc "and" + Hm "from" + H227 אָז "at that time or place…" [HC/R/D]
+- o2: בָּאתִי = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp1cs]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: פַּרְעֹה = H6547 פַּרְעֹה "Paroh, a general title of Egyptian kings" [HNp]
+- o5: לְ/דַבֵּר = Hl "to" + H1696 דָבַר "perhaps properly, to arrange…" [HR/Vpc]
+- o6: בִּ/שְׁמֶ/ךָ = Hb "in" + H8034 שֵׁם "an appellation…" [HR/Ncmsc/Sp2ms]
+- o7: הֵרַע = H7489 רָעַע "properly, to spoil (literally…" [HVhp3ms]
+- o8: לָ/עָם = Hl "to" + H5971 עַם "a people (as a congregated unit)…" [HRd/Ncmsa]
+- o9: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o10: וְ/הַצֵּל = Hc "and" + H5337 נָצַל "to snatch away, whether in a good or a bad sense" [HC/Vha]
+- o11: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o12: הִצַּלְתָּ = H5337 נָצַל "to snatch away, whether in a good or a bad sense" [HVhp2ms]
+- o13: אֶת = H853 אֵת "properly…" [HTo]
+- o14: עַמֶּ/ךָ = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp2ms]
+
+### Exodus 6:16 (context)
+
+- o1: וְ/אֵלֶּה = Hc "and" + H428 אֵלֶּה "these or those" [HC/Pdxcp]
+- o2: שְׁמוֹת = H8034 שֵׁם "an appellation…" [HNcmpc]
+- o3: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o4: לֵוִי = H3878 לֵוִי "Levi, a son of Jacob" [HNp]
+- o5: לְ/תֹלְדֹתָ/ם = Hl "to" + H8435 תּוֹלְדָה "plural only) descent, i.e. family…" [HR/Ncfpc/Sp3mp]
+- o6: גֵּרְשׁוֹן = H1648 גֵּרְשׁוֹן "Gereshon or Gereshom, an Israelite" [HNp]
+- o7: וּ/קְהָת = Hc "and" + H6955 קְהָת "Kehath, an Israelite" [HC/Np]
+- o8: וּ/מְרָרִי = Hc "and" + H4847 מְרָרִי "Merari, an Israelite" [HC/Np]
+- o9: וּ/שְׁנֵי = Hc "and" + H8141 שָׁנֶה "a year (as a revolution of time)" [HC/Acmdc]
+- o10: חַיֵּי = H2416 חַי "alive; hence, raw (flesh)…" [HNcmpc]
+- o11: לֵוִי = H3878 לֵוִי "Levi, a son of Jacob" [HNp]
+- o12: שֶׁבַע = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcfsa]
+- o13: וּ/שְׁלֹשִׁים = Hc "and" + H7970 שְׁלוֹשִׁים "thirty; or (ordinal) thirtieth" [HC/Acbpa]
+- o14: וּ/מְאַת = Hc "and" + H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HC/Acbsc]
+- o15: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]

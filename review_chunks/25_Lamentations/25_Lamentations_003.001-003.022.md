@@ -682,3 +682,34 @@ Persian entries and current tags:
 - p11: بی‌زوال
 - p12: است
 - p13: ؛
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Lamentations 2:22 (context)
+
+- o1: תִּקְרָא = H7121 קָרָא "to call out to (i.e. properly, address by name…" [HVqi2ms]
+- o2: כְ/יוֹם = Hk "like" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmsc]
+- o3: מוֹעֵד = H4150 מוֹעֵד "properly, an appointment…" [HNcmsa]
+- o4: מְגוּרַ/י = H4032 מָגוֹר "a fright (objective or subjective)" [HNcmpc/Sp1cs]
+- o5: מִ/סָּבִיב = Hm "from" + H5439 סָבִיב "as noun) a circle, neighbour, or environs…" [HR/Ncbsa]
+- o6: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o7: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o8: בְּ/יוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmsc]
+- o9: אַף = H639 אַף "properly, the nose or nostril…" [HTa]
+- o10: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o11: פָּלִיט = H6412 פָּלִיט "a refugee" [HNcmsa]
+- o12: וְ/שָׂרִיד = Hc "and" + H8300 שָׂרִיד "a survivor" [HC/Ncmsa]
+- o13: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o14: טִפַּחְתִּי = H2946 טָפַח "to flatten out or extend (as a tent)…" [HVpp1cs]
+- o15: וְ/רִבִּיתִי = Hc "and" + H7235 רָבָה "to increase (in whatever respect)" [HC/Vpp1cs]
+- o16: אֹיְבִ/י = H341 אֹיֵב "hating; an adversary" [HVqrmsc/Sp1cs]
+- o17: כִלָּ/ם = H3615 כָּלָה "to end, whether intransitive (to cease…" [HVpp3ms/Sp3mp]
+
+### Lamentations 3:23 (context)
+
+- o1: חֲדָשִׁים = H2319 חָדָשׁ "new" [HAampa]
+- o2: לַ/בְּקָרִים = Hl "to" + H1242 בֹּקֶר "properly, dawn (as the break of day)…" [HRd/Ncmpa]
+- o3: רַבָּה = H7227 רַב "abundant (in quantity, size, age, number, rank…" [HAafsa]
+- o4: אֱמוּנָתֶ/ךָ = H530 אֱמוּנָה "literally firmness; figuratively security…" [HNcfsc/Sp2ms]

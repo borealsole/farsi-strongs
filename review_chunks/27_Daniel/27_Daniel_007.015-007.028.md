@@ -812,3 +812,48 @@ Persian entries and current tags:
 - p31: داشتم  → H5202
 - p32: .
 - p33: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Daniel 7:14 (context)
+
+- o1: וְ/לֵ/הּ = Hc "and" + Hl "to" [AC/R/Sp3ms]
+- o2: יְהִיב = H3052 יְהַב "to give (whether literal or figurative)…" [AVQp3ms]
+- o3: שָׁלְטָן = H7985 שׇׁלְטָן "empire (abstractly or concretely)" [ANcmsa]
+- o4: וִ/יקָר = Hc "and" + H3367 יְקָר "value, i.e. (concretely) wealth…" [AC/Ncmsa]
+- o5: וּ/מַלְכוּ = Hc "and" + H4437 מַלְכוּ "dominion (abstractly or concretely)" [AC/Ncfsa]
+- o6: וְ/כֹל = Hc "and" + H3606 כֹּל "properly, the whole…" [AC/Ncmsc]
+- o7: עַמְמַיָּ/א = H5972 עַם "a people (as a congregated unit)…" [ANcmpd/Td]
+- o8: אֻמַיָּ/א = H524 אֻמָּה "a collection, i.e. community of persons" [ANcfpd/Td]
+- o9: וְ/לִשָּׁנַיָּ/א = Hc "and" + H3961 לִשָּׁן "speech, i.e. a nation" [AC/Ncmpd/Td]
+- o10: לֵ/הּ = Hl "to" [AR/Sp3ms]
+- o11: יִפְלְחוּן = H6399 פְּלַח "to serve or worship" [AVqi3mp]
+- o12: שָׁלְטָנֵ/הּ = H7985 שׇׁלְטָן "empire (abstractly or concretely)" [ANcmsc/Sp3ms]
+- o13: שָׁלְטָן = H7985 שׇׁלְטָן "empire (abstractly or concretely)" [ANcmsc]
+- o14: עָלַם = H5957 עָלַם "remote time, i.e. the future or past indefinitely…" [ANcmsa]
+- o15: דִּי = H1768 דִּי "that, used as relative conjunction…" [ATr]
+- o16: לָא = H3809 לָא "not (the simple or abs. negation)…" [ATn]
+- o17: יֶעְדֵּה = H5709 עֲדָא "to advance, i.e. pass on or continue…" [AVqi3ms]
+- o18: וּ/מַלְכוּתֵ/הּ = Hc "and" + H4437 מַלְכוּ "dominion (abstractly or concretely)" [AC/Ncfsc/Sp3ms]
+- o19: דִּי = H1768 דִּי "that, used as relative conjunction…" [ATr]
+- o20: לָא = H3809 לָא "not (the simple or abs. negation)…" [ATn]
+- o21: תִתְחַבַּל = H2255 חֲבַל "to ruin" [AVMi3fs]
+
+### Daniel 8:1 (context)
+
+- o1: בִּ/שְׁנַת = Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HR/Ncfsc]
+- o2: שָׁלוֹשׁ = H7969 שָׁלוֹשׁ "three…" [HAcfsa]
+- o3: לְ/מַלְכוּת = Hl "to" + H4438 מַלְכוּת "a rule; concretely, a dominion" [HR/Ncfsc]
+- o4: בֵּלְאשַׁצַּר = H1112 בֵּלְשַׁאצַּר "Belshatstsar, a Babylonian king" [HNp]
+- o5: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o6: חָזוֹן = H2377 חָזוֹן "a sight (mentally), i.e. a dream, revelation…" [HNcmsa]
+- o7: נִרְאָה = H7200 רָאָה "to see…" [HVNp3ms]
+- o8: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o9: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o10: דָנִיֵּאל = H1840 דָנִיֵּאל "Daniel or Danijel, the name of two Israelites" [HNp]
+- o11: אַחֲרֵי = H310 אַחַר "properly, the hind part…" [HR]
+- o12: הַ/נִּרְאָה = Hd "the" + H7200 רָאָה "to see…" [HTd/VNp3ms]
+- o13: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o14: בַּ/תְּחִלָּה = Hb "in" + H8462 תְּחִלָּה "a commencement; rel. original (adverb, -ly)" [HRd/Ncfsa]

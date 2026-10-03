@@ -1266,3 +1266,39 @@ Persian entries and current tags:
 - p13: هم
 - p14: خواهند_شکست  → H7665
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Daniel 10:21 (context)
+
+- o1: אֲבָל = H61 אֲבָל "nay, i.e. truly or yet" [HD]
+- o2: אַגִּיד = H5046 נָגַד "properly, to front…" [HVhi1cs]
+- o3: לְ/ךָ = Hl "to" [HR/Sp2ms]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: הָ/רָשׁוּם = Hd "the" + H7559 רָשַׁם "to record" [HTd/Vqsmsa]
+- o6: בִּ/כְתָב = Hb "in" + H3791 כָּתָב "something written, i.e. a writing, record or book" [HR/Ncmsc]
+- o7: אֱמֶת = H571 אֶמֶת "stability…" [HNcfsa]
+- o8: וְ/אֵין = Hc "and" + H369 אַיִן "a non-entity…" [HC/Tn]
+- o9: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o10: מִתְחַזֵּק = H2388 חָזַק "to fasten upon…" [HVtrmsa]
+- o11: עִמִּ/י = H5973 עִם "adverb or preposition…" [HR/Sp1cs]
+- o12: עַל = H5921 עַל "above, over, upon…" [HR]
+- o13: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o14: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o15: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o16: מִיכָאֵל = H4317 מִיכָאֵל "Mikael…" [HNp]
+- o17: שַׂרְ/כֶם = H8269 שַׂר "a head person (of any rank or class)" [HNcmsc/Sp2mp]
+
+### Daniel 11:23 (context)
+
+- o1: וּ/מִן = Hc "and" + H4480 מִן "properly, a part of…" [HC/R]
+- o2: הִתְחַבְּרוּת = H2266 חָבַר "to join (literally or figuratively)…" [HVtc]
+- o3: אֵלָי/ו = H413 אֵל "near, with or among; often in general, to" [HR/Sp3ms]
+- o4: יַעֲשֶׂה = H6213 עָשָׂה "to do or make…" [HVqi3ms]
+- o5: מִרְמָה = H4820 מִרְמָה "fraud" [HNcfsa]
+- o6: וְ/עָלָה = Hc "and" + H5927 עָלָה "to ascend…" [HC/Vqq3ms]
+- o7: וְ/עָצַם = Hc "and" + H6105 עָצַם "to bind fast, i.e. close (the eyes)…" [HC/Vqq3ms]
+- o8: בִּ/מְעַט = Hb "in" + H4592 מְעַט "a little or few (often adverbial or compar.)" [HR/Ncmsc]
+- o9: גּוֹי = H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HNcmsa]

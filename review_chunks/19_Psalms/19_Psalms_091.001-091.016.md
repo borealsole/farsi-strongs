@@ -607,3 +607,35 @@ Persian entries and current tags:
 - p14: نشان خواهم_داد  → H7200
 - p15: .
 - p16: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 90:17 (context)
+
+- o1: וִ/יהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqj3ms]
+- o2: נֹעַם = H5278 נֹעַם "agreeableness, i.e. delight, suitableness…" [HNcmsc]
+- o3: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o4: אֱלֹהֵי/נוּ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp1cp]
+- o5: עָלֵי/נוּ = H5921 עַל "above, over, upon…" [HR/Sp1cp]
+- o6: וּ/מַעֲשֵׂה = Hc "and" + H4639 מַעֲשֶׂה "an action (good or bad); generally, a transaction…" [HC/Ncmsc]
+- o7: יָדֵי/נוּ = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbdc/Sp1cp]
+- o8: כּוֹנְנָ/ה = H3559 כּוּן "properly, to be erect (i.e. stand perpendicular)…" [HVov2ms/Sh]
+- o9: עָלֵי/נוּ = H5921 עַל "above, over, upon…" [HR/Sp1cp]
+- o10: וּ/מַעֲשֵׂה = Hc "and" + H4639 מַעֲשֶׂה "an action (good or bad); generally, a transaction…" [HC/Ncmsc]
+- o11: יָדֵי/נוּ = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbdc/Sp1cp]
+- o12: כּוֹנְנֵ/הוּ = H3559 כּוּן "properly, to be erect (i.e. stand perpendicular)…" [HVov2ms/Sp3ms]
+
+### Psalms 92:1 (context)
+
+- o1: מִזְמוֹר = H4210 מִזְמוֹר "properly, instrumental music…" [HNcmsa]
+- o2: שִׁיר = H7892 שִׁיר "a song; abstractly, singing" [HNcbsa]
+- o3: לְ/יוֹם = Hl "to" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmsc]
+- o4: הַ/שַּׁבָּת = Hd "the" + H7676 שַׁבָּת "intermission, i.e (specifically) the Sabbath" [HTd/Ncbsa]
+- o5: טוֹב = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAamsa]
+- o6: לְ/הֹדוֹת = Hl "to" + H3034 יָדָה "physically, to throw (a stone…" [HR/Vhc]
+- o7: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o8: וּ/לְ/זַמֵּר = Hc "and" + Hl "to" + H2167 זָמַר "play upon it…" [HC/R/Vpc]
+- o9: לְ/שִׁמְ/ךָ = Hl "to" + H8034 שֵׁם "an appellation…" [HR/Ncmsc/Sp2ms]
+- o10: עֶלְיוֹן = H5945 עֶלְיוֹן "an elevation, i.e. (adj.) lofty (compar.)…" [HAamsa]

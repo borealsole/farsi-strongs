@@ -1099,3 +1099,45 @@ Persian entries and current tags:
 - p53: افکنند  → H2219
 - p54: .
 - p55: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Zechariah 1:6 (context)
+
+- o1: אַךְ = H389 אַךְ "a particle of affirmation, surely…" [HTa]
+- o2: דְּבָרַ/י = H1697 דָּבָר "a word…" [HNcmpc/Sp1cs]
+- o3: וְ/חֻקַּ/י = Hc "and" + H2706 חֹק "an enactment…" [HC/Ncmpc/Sp1cs]
+- o4: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o5: צִוִּיתִי = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp1cs]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: עֲבָדַ/י = H5650 עֶבֶד "a servant" [HNcmpc/Sp1cs]
+- o8: הַ/נְּבִיאִים = Hd "the" + H5030 נָבִיא "a prophet or (generally) inspired man" [HTd/Ncmpa]
+- o9: הֲ/לוֹא = Hi "(untranslatable; interrogative particle)" + H3808 לֹא "not (the simple or abs. negation)…" [HTi/Tn]
+- o10: הִשִּׂיגוּ = H5381 נָשַׂג "to reach (literally or figuratively)" [HVhp3cp]
+- o11: אֲבֹתֵי/כֶם = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp2mp]
+- o12: וַ/יָּשׁוּבוּ = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqw3mp]
+- o13: וַ/יֹּאמְרוּ = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3mp]
+- o14: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o15: זָמַם = H2161 זָמַם "to plan, usually in a bad sense" [HVqp3ms]
+- o16: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o17: צְבָאוֹת = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbpa]
+- o18: לַ/עֲשׂוֹת = Hl "to" + H6213 עָשָׂה "to do or make…" [HR/Vqc]
+- o19: לָ/נוּ = Hl "to" [HR/Sp1cp]
+- o20: כִּ/דְרָכֵי/נוּ = Hk "like" + H1870 דֶּרֶךְ "a road (as trodden)…" [HR/Ncbpc/Sp1cp]
+- o21: וּ/כְ/מַעֲלָלֵי/נוּ = Hc "and" + Hk "like" + H4611 מַעֲלָל "an act (good or bad)" [HC/R/Ncmpc/Sp1cp]
+- o22: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o23: עָשָׂה = H6213 עָשָׂה "to do or make…" [HVqp3ms]
+- o24: אִתָּ/נוּ = H854 אֵת "properly…" [HR/Sp1cp]
+
+### Zechariah 2:1 (context)
+
+- o1: וָ/אֶשָּׂא = Hc "and" + H5375 נָשָׂא "to lift, in a great variety of applications…" [HC/Vqw1cs]
+- o2: עֵינַ/י = H5869 עַיִן "an eye (literally or figuratively)…" [HNcbdc/Sp1cs]
+- o3: וָ/אֵרֶא = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw1cs]
+- o4: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o5: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o6: וּ/בְ/יָד/וֹ = Hc "and" + Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HC/R/Ncbsc/Sp3ms]
+- o7: חֶבֶל = H2256 חֶבֶל "a rope (as twisted), especially a measuring line…" [HNcbsc]
+- o8: מִדָּה = H4060 מִדָּה "properly, extension, i.e. height or breadth…" [HNcfsa]

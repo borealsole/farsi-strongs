@@ -1187,3 +1187,45 @@ Persian entries and current tags:
 - p29: تمایلات نفسانی  → G4561
 - p30: است
 - p31: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Colossians 1:29 (context)
+
+- o1: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o2: ὃ = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-ASN]
+- o3: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o4: κοπιῶ = G2872 κοπιάω "(bestow) labour, toil, be wearied" [V-PAI-1S]
+- o5: ἀγωνιζόμενος = G75 ἀγωνίζομαι "fight, labor fervently, strive" [V-PNP-NSM]
+- o6: κατὰ = G2596 κατά "about, according as (to), after, against…" [PREP]
+- o7: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o8: ἐνέργειαν = G1753 ἐνέργεια "operation, strong, (effectual) working" [N-ASF]
+- o9: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o10: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o11: ἐνεργουμένην = G1754 ἐνεργέω "do, (be) effectual (fervent), be mighty in…" [V-PMP-ASF]
+- o12: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o13: ἐμοὶ = G1473 ἐγώ "I, me" [P-1DS]
+- o14: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o15: δυνάμει. = G1411 δύναμις "ability, abundance, meaning, might(-ily, -y…" [N-DSF]
+
+### Colossians 3:1 (context)
+
+- o1: Εἰ = G1487 εἰ "forasmuch as, if, that, (al-)though, whether" [COND]
+- o2: οὖν = G3767 οὖν "and (so, truly), but, now (then)…" [CONJ]
+- o3: συνηγέρθητε = G4891 συνεγείρω "raise up together, rise with" [V-API-2P]
+- o4: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o5: Χριστῷ, = G5547 Χριστός "Christ" [N-DSM]
+- o6: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
+- o7: ἄνω = G507 ἄνω "above, brim, high, up" [ADV]
+- o8: ζητεῖτε, = G2212 ζητέω "be (go) about, desire, endeavour, enquire (for)…" [V-PAM-2P]
+- o9: οὗ = G3757 οὗ "where(-in), whither(-soever)" [ADV]
+- o10: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o11: Χριστός = G5547 Χριστός "Christ" [N-NSM]
+- o12: ἐστιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o13: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o14: δεξιᾷ = G1188 δεξιός "right (hand, side)" [A-DSF]
+- o15: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o16: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o17: καθήμενος· = G2521 κάθημαι "dwell, sit (by, down)" [V-PNP-NSM]

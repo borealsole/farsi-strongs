@@ -853,3 +853,34 @@ Persian entries and current tags:
 - p23: می‌کنم  → H5769
 - p24: .
 - p25: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 37:14 (context)
+
+- o1: וְ/נָתַתִּי = Hc "and" + H5414 נָתַן "to give…" [HC/Vqq1cs]
+- o2: רוּחִ/י = H7307 רוּחַ "wind…" [HNcbsc/Sp1cs]
+- o3: בָ/כֶם = Hb "in" [HR/Sp2mp]
+- o4: וִ/חְיִיתֶם = Hc "and" + H2421 חָיָה "to live, whether literally or figuratively…" [HC/Vqq2mp]
+- o5: וְ/הִנַּחְתִּי = Hc "and" + H3240 יָנַח "to deposit; by implication, to allow to stay" [HC/Vhq1cs]
+- o6: אֶתְ/כֶם = H853 אֵת "properly…" [HTo/Sp2mp]
+- o7: עַל = H5921 עַל "above, over, upon…" [HR]
+- o8: אַדְמַתְ/כֶם = H127 אֲדָמָה "soil (from its general redness)" [HNcfsc/Sp2mp]
+- o9: וִ/ידַעְתֶּם = Hc "and" + H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HC/Vqq2mp]
+- o10: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o11: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o12: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o13: דִּבַּרְתִּי = H1696 דָבַר "perhaps properly, to arrange…" [HVpp1cs]
+- o14: וְ/עָשִׂיתִי = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqp1cs]
+- o15: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o16: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### Ezekiel 38:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o5: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

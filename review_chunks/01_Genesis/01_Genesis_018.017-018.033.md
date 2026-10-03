@@ -938,3 +938,40 @@ Persian entries and current tags:
 - p18: خویش
 - p19: بازگشت  → H7725
 - p20: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 18:16 (context)
+
+- o1: וַ/יָּקֻמוּ = Hc "and" + H6965 קוּם "to rise (in various applications, literal…" [HC/Vqw3mp]
+- o2: מִ/שָּׁם = Hm "from" + H8033 שָׁם "there (transferring to time) then…" [HR/D]
+- o3: הָ/אֲנָשִׁים = Hd "the" + H376 אִישׁ "a man as an individual or a male person…" [HTd/Ncmpa]
+- o4: וַ/יַּשְׁקִפוּ = Hc "and" + H8259 שָׁקַף "properly, to lean out (of a window)…" [HC/Vhw3mp]
+- o5: עַל = H5921 עַל "above, over, upon…" [HR]
+- o6: פְּנֵי = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc]
+- o7: סְדֹם = H5467 סְדֹם "Sedom, a place near the Dead Sea" [HNp]
+- o8: וְ/אַבְרָהָם = Hc "and" + H85 אַבְרָהָם "Abraham, the later name of Abram" [HC/Np]
+- o9: הֹלֵךְ = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVqrmsa]
+- o10: עִמָּ/ם = H5973 עִם "adverb or preposition…" [HR/Sp3mp]
+- o11: לְ/שַׁלְּחָ/ם = Hl "to" + H7971 שָׁלַח "to send away, for…" [HR/Vpc/Sp3mp]
+
+### Genesis 19:1 (context)
+
+- o1: וַ/יָּבֹאוּ = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3mp]
+- o2: שְׁנֵי = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmdc]
+- o3: הַ/מַּלְאָכִים = Hd "the" + H4397 מֲלְאָךְ "a messenger…" [HTd/Ncmpa]
+- o4: סְדֹמָ/ה = H5467 סְדֹם "Sedom, a place near the Dead Sea" [HNp/Sd]
+- o5: בָּ/עֶרֶב = Hb "in" + H6153 עֶרֶב "dusk" [HRd/Ncmsa]
+- o6: וְ/לוֹט = Hc "and" + H3876 לוֹט "Lot, Abraham's nephew" [HC/Np]
+- o7: יֹשֵׁב = H3427 יָשַׁב "properly…" [HVqrmsa]
+- o8: בְּ/שַׁעַר = Hb "in" + H8179 שַׁעַר "an opening, i.e. door or gate" [HR/Ncmsc]
+- o9: סְדֹם = H5467 סְדֹם "Sedom, a place near the Dead Sea" [HNp]
+- o10: וַ/יַּרְא = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw3ms]
+- o11: לוֹט = H3876 לוֹט "Lot, Abraham's nephew" [HNp]
+- o12: וַ/יָּקָם = Hc "and" + H6965 קוּם "to rise (in various applications, literal…" [HC/Vqw3ms]
+- o13: לִ/קְרָאתָ/ם = Hl "to" + H7125 קִרְאָה "an encountering, accidental…" [HR/Vqc/Sp3mp]
+- o14: וַ/יִּשְׁתַּחוּ = Hc "and" + H7812 שָׁחָה "to depress, i.e. prostrate (especially reflexive…" [HC/Vtw3ms]
+- o15: אַפַּיִם = H639 אַף "properly, the nose or nostril…" [HNcmda]
+- o16: אָרְצָ/ה = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsa/Sd]

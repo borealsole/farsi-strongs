@@ -834,3 +834,48 @@ Persian entries and current tags:
 - p33: را  → H853
 - p34: استرداد نمود  → H7725
 - p35: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 13:12 (context)
+
+- o1: וְ/יֶתֶר = Hc "and" + H3499 יֶתֶר "properly, an overhanging…" [HC/Ncmsc]
+- o2: דִּבְרֵי = H1697 דָּבָר "a word…" [HNcmpc]
+- o3: יוֹאָשׁ = H3101 יוֹאָשׁ "Joash, the name of six Israelites" [HNp]
+- o4: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: עָשָׂה = H6213 עָשָׂה "to do or make…" [HVqp3ms]
+- o7: וּ/גְבוּרָת/וֹ = Hc "and" + H1369 גְּבוּרָה "force (literally or figuratively)…" [HC/Ncfsc/Sp3ms]
+- o8: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o9: נִלְחַם = H3898 לָחַם "to feed on; figuratively, to consume…" [HVNp3ms]
+- o10: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o11: אֲמַצְיָה = H558 אֲמַצְיָה "Amatsjah, the name of four Israelites" [HNp]
+- o12: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o13: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o14: הֲ/לוֹא = Hi "(untranslatable; interrogative particle)" + H3808 לֹא "not (the simple or abs. negation)…" [HTi/Tn]
+- o15: הֵם = H1992 הֵם "they (only used when emphatic)" [HPp3mp]
+- o16: כְּתוּבִים = H3789 כָּתַב "to grave, by implication, to write (describe…" [HVqsmpa]
+- o17: עַל = H5921 עַל "above, over, upon…" [HR]
+- o18: סֵפֶר = H5612 סֵפֶר "properly, writing (the art or a document)…" [HNcmsc]
+- o19: דִּבְרֵי = H1697 דָּבָר "a word…" [HNcmpc]
+- o20: הַ/יָּמִים = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmpa]
+- o21: לְ/מַלְכֵי = Hl "to" + H4428 מֶלֶךְ "a king" [HR/Ncmpc]
+- o22: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+
+### II Kings 14:1 (context)
+
+- o1: בִּ/שְׁנַת = Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HR/Ncfsc]
+- o2: שְׁתַּיִם = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcfda]
+- o3: לְ/יוֹאָשׁ = Hl "to" + H3101 יוֹאָשׁ "Joash, the name of six Israelites" [HR/Np]
+- o4: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o5: יוֹאָחָז = H3099 יוֹאָחָז "Joachaz, the name of two Israelites" [HNp]
+- o6: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o7: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o8: מָלַךְ = H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HVqp3ms]
+- o9: אֲמַצְיָהוּ = H558 אֲמַצְיָה "Amatsjah, the name of four Israelites" [HNp]
+- o10: בֶן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o11: יוֹאָשׁ = H3101 יוֹאָשׁ "Joash, the name of six Israelites" [HNp]
+- o12: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o13: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]

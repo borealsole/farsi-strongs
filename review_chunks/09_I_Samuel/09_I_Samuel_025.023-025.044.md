@@ -1321,3 +1321,43 @@ Persian entries and current tags:
 - p16: جَلّیم  → H1554
 - p17: داده_بود  → H5414
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 25:22 (context)
+
+- o1: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o2: יַעֲשֶׂה = H6213 עָשָׂה "to do or make…" [HVqj3ms]
+- o3: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o4: לְ/אֹיְבֵי = Hl "to" + H341 אֹיֵב "hating; an adversary" [HR/Vqrmpc]
+- o5: דָוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o6: וְ/כֹה = Hc "and" + H3541 כֹּה "properly, like this, i.e. by implication…" [HC/D]
+- o7: יֹסִיף = H3254 יָסַף "to add or augment (often adverbial…" [HVhj3ms]
+- o8: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o9: אַשְׁאִיר = H7604 שָׁאַר "properly, to swell up, i.e. be (causatively…" [HVhi1cs]
+- o10: מִ/כָּל = Hm "from" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o11: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o12: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o13: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o14: הַ/בֹּקֶר = Hd "the" + H1242 בֹּקֶר "properly, dawn (as the break of day)…" [HTd/Ncmsa]
+- o15: מַשְׁתִּין = H8366 שָׁתַן "(causatively) to make water, i.e. urinate" [HVhrmsa]
+- o16: בְּ/קִיר = Hb "in" + H7023 קִיר "a wall (as built in a trench)" [HR/Ncmsa]
+
+### I Samuel 26:1 (context)
+
+- o1: וַ/יָּבֹאוּ = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3mp]
+- o2: הַ/זִּפִים = Hd "the" + H2130 זִיפִי "a Ziphite or inhabitant of Ziph" [HTd/Ngmpa]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o5: הַ/גִּבְעָתָ/ה = Hd "the" + H1390 גִּבְעָה "Gibah; the name of three places in Palestine" [HTd/Np/Sd]
+- o6: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o7: הֲ/לוֹא = Hi "(untranslatable; interrogative particle)" + H3808 לֹא "not (the simple or abs. negation)…" [HTi/Tn]
+- o8: דָוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o9: מִסְתַּתֵּר = H5641 סָתַר "to hide (by covering), literally or figuratively" [HVtrmsa]
+- o10: בְּ/גִבְעַת = Hb "in" + H1389 גִּבְעָה "a hillock" [HR/Ncfsc]
+- o11: הַ/חֲכִילָה = Hd "the" + H2444 חֲכִילָה "Chakilah, a hill in Palestine" [HTd/Np]
+- o12: עַל = H5921 עַל "above, over, upon…" [HR]
+- o13: פְּנֵי = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc]
+- o14: הַ/יְשִׁימֹן = Hd "the" + H3452 יְשִׁימוֹן "a desolation" [HTd/Ncmsa]

@@ -581,3 +581,31 @@ Persian entries and current tags:
 - p13: تاکستانی غرس  → H3754
 - p14: می‌کند  → H5193
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 30:33 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: מִיץ = H4330 מִיץ "pressure" [HNcmsc]
+- o3: חָלָב = H2461 חָלָב "milk (as the richness of kine)" [HNcmsa]
+- o4: יוֹצִיא = H3318 יָצָא "to go (causatively, bring) out…" [HVhi3ms]
+- o5: חֶמְאָה = H2529 חֶמְאָה "curdled milk or cheese" [HNcfsa]
+- o6: וּ/מִיץ = Hc "and" + H4330 מִיץ "pressure" [HC/Ncmsc]
+- o7: אַף = H639 אַף "properly, the nose or nostril…" [HTa]
+- o8: יוֹצִיא = H3318 יָצָא "to go (causatively, bring) out…" [HVhi3ms]
+- o9: דָם = H1818 דָּם "blood (as that which when shed causes death) of…" [HNcmsa]
+- o10: וּ/מִיץ = Hc "and" + H4330 מִיץ "pressure" [HC/Ncmsa]
+- o11: אַפַּיִם = H639 אַף "properly, the nose or nostril…" [HNcmda]
+- o12: יוֹצִיא = H3318 יָצָא "to go (causatively, bring) out…" [HVhi3ms]
+- o13: רִיב = H7379 רִיב "a contest (personal or legal)" [HNcbsa]
+
+### Proverbs 31:17 (context)
+
+- o1: חָגְרָה = H2296 חָגַר "to gird on (as a belt, armor, etc.)" [HVqp3fs]
+- o2: בְ/עוֹז = Hb "in" + H5797 עֹז "strength in various applications (force, security…" [HR/Ncmsa]
+- o3: מָתְנֶי/הָ = H4975 מֹתֶן "properly, the waist or small of the back…" [HNcmdc/Sp3fs]
+- o4: וַ/תְּאַמֵּץ = Hc "and" + H553 אָמַץ "to be alert…" [HC/Vpw3fs]
+- o5: זְרֹעוֹתֶי/הָ = H2220 זְרוֹעַ "the arm (as stretched out)…" [HNcbpc/Sp3fs]

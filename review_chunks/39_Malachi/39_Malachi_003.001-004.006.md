@@ -1383,3 +1383,30 @@ Persian entries and current tags:
 - p29: بزنم  → H5221
 - p30: .
 - p31: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Malachi 2:17 (context)
+
+- o1: הוֹגַעְתֶּם = H3021 יָגַע "properly, to gasp…" [HVhp2mp]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: בְּ/דִבְרֵי/כֶם = Hb "in" + H1697 דָּבָר "a word…" [HR/Ncmpc/Sp2mp]
+- o4: וַ/אֲמַרְתֶּם = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqq2mp]
+- o5: בַּ/מָּה = Hb "in" + H4100 מָה "properly…" [HR/Ti]
+- o6: הוֹגָעְנוּ = H3021 יָגַע "properly, to gasp…" [HVhp1cp]
+- o7: בֶּ/אֱמָרְ/כֶם = Hb "in" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc/Sp2mp]
+- o8: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o9: עֹשֵׂה = H6213 עָשָׂה "to do or make…" [HVqrmsc]
+- o10: רָע = H7451 רַע "bad or (as noun) evil (natural or moral)" [HAamsa]
+- o11: טוֹב = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAamsa]
+- o12: בְּ/עֵינֵי = Hb "in" + H5869 עַיִן "an eye (literally or figuratively)…" [HR/Ncbdc]
+- o13: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o14: וּ/בָ/הֶם = Hc "and" + Hb "in" [HC/R/Sp3mp]
+- o15: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o16: חָפֵץ = H2654 חָפֵץ "properly, to incline to…" [HVqp3ms]
+- o17: אוֹ = H176 אוֹ "desire (and so probably in Proverbs 31:4)…" [HC]
+- o18: אַיֵּה = H346 אַיֵּה "where?" [HTi]
+- o19: אֱלֹהֵי = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc]
+- o20: הַ/מִּשְׁפָּט = Hd "the" + H4941 מִשְׁפָּט "properly…" [HTd/Ncmsa]

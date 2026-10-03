@@ -960,3 +960,43 @@ Persian entries and current tags:
 - p11: گِل  → H2635
 - p12: بود
 - p13: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Daniel 2:16 (context)
+
+- o1: וְ/דָנִיֵּאל = Hc "and" + H1841 דָּנִיֵּאל "Danijel, the Hebrew prophet" [AC/Np]
+- o2: עַל = H5954 עֲלַל "to enter; causatively, to introduce" [AVqp3ms]
+- o3: וּ/בְעָה = Hc "and" + H1156 בְּעָא "to seek or ask" [AC/Vqp3ms]
+- o4: מִן = H4481 מִן "properly, a part of…" [AR]
+- o5: מַלְכָּ/א = H4430 מֶלֶךְ "a king" [ANcmsd/Td]
+- o6: דִּי = H1768 דִּי "that, used as relative conjunction…" [ATr]
+- o7: זְמָן = H2166 זְמָן "an appointed occasion" [ANcmsa]
+- o8: יִנְתֵּן = H5415 נְתַן "give" [AVqi3ms]
+- o9: לֵ/הּ = Hl "to" [AR/Sp3ms]
+- o10: וּ/פִשְׁרָ/א = Hc "and" + H6591 פְּשַׁר "an interpretation" [AC/Ncmsd/Td]
+- o11: לְ/הַחֲוָיָה = Hl "to" + H2324 חֲוָא "to show" [AR/Vhc]
+- o12: לְ/מַלְכָּ/א = Hl "to" + H4430 מֶלֶךְ "a king" [AR/Ncmsd/Td]
+
+### Daniel 2:34 (context)
+
+- o1: חָזֵה = H2370 חֲזָא "to gaze upon…" [AVqrmsa]
+- o2: הֲוַיְתָ = H1934 הָוָא "to exist…" [AVqp2ms]
+- o3: עַד = H5705 עַד "as far (or long, or much) as…" [AR]
+- o4: דִּי = H1768 דִּי "that, used as relative conjunction…" [ATr]
+- o5: הִתְגְּזֶרֶת = H1505 גְּזַר "to quarry; determine" [AVup3fs]
+- o6: אֶבֶן = H69 אֶבֶן "a stone" [ANcfsa]
+- o7: דִּי = H1768 דִּי "that, used as relative conjunction…" [ATr]
+- o8: לָא = H3809 לָא "not (the simple or abs. negation)…" [ATn]
+- o9: בִ/ידַיִן = Hb "in" + H3028 יַד "a hand (the open one (indicating power, means…" [AR/Ncfda]
+- o10: וּ/מְחָת = Hc "and" + H4223 מְחָא "to strike in pieces; also to arrest…" [AC/Vqp3fs]
+- o11: לְ/צַלְמָ/א = Hl "to" + H6755 צֶלֶם "an idolatrous figure" [AR/Ncmsd/Td]
+- o12: עַל = H5922 עַל "above, over, upon…" [AR]
+- o13: רַגְלוֹ/הִי = H7271 רְגַל "a foot, a step; by euphemistically the pudenda" [ANcfpc/Sp3ms]
+- o14: דִּי = H1768 דִּי "that, used as relative conjunction…" [ATr]
+- o15: פַרְזְלָ/א = H6523 פַּרְזֶל "iron" [ANcmsd/Td]
+- o16: וְ/חַסְפָּ/א = Hc "and" + H2635 חֲסַף "a clod" [AC/Ncmsd/Td]
+- o17: וְ/הַדֵּקֶת = Hc "and" + H1855 דְּקַק "to crumble or (trans.) crush" [AC/Vhp3fs]
+- o18: הִמּוֹן = H1994 הִמּוֹ "they" [APp3mp]

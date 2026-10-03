@@ -889,3 +889,35 @@ Persian entries and current tags:
 - p21: خود
 - p22: بست  → H2296
 - p23: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Judges 2:23 (context)
+
+- o1: וַ/יַּנַּח = Hc "and" + H3240 יָנַח "to deposit; by implication, to allow to stay" [HC/Vhw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: הַ/גּוֹיִם = Hd "the" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HTd/Ncmpa]
+- o5: הָ/אֵלֶּה = Hd "the" + H428 אֵלֶּה "these or those" [HTd/Pdxcp]
+- o6: לְ/בִלְתִּי = Hl "to" + H1115 בִּלְתִּי "properly, a failure of…" [HR/C]
+- o7: הוֹרִישָׁ/ם = H3423 יָרַשׁ "to occupy (by driving out previous tenants…" [HVhc/Sp3mp]
+- o8: מַהֵר = H4118 מַהֵר "properly, hurrying; hence (adverbially) in ahurry" [HVpa]
+- o9: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o10: נְתָנָ/ם = H5414 נָתַן "to give…" [HVqp3ms/Sp3mp]
+- o11: בְּ/יַד = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o12: יְהוֹשֻׁעַ = H3091 יְהוֹשׁוּעַ "Jehoshua (i.e. Joshua), the Jewish leader" [HNp]
+
+### Judges 3:17 (context)
+
+- o1: וַ/יַּקְרֵב = Hc "and" + H7126 קָרַב "to approach (causatively…" [HC/Vhw3ms]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: הַ/מִּנְחָה = Hd "the" + H4503 מִנְחָה "a donation; euphemistically, tribute…" [HTd/Ncfsa]
+- o4: לְ/עֶגְלוֹן = Hl "to" + H5700 עֶגְלוֹן "Eglon…" [HR/Np]
+- o5: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o6: מוֹאָב = H4124 מוֹאָב "Moab, an incestuous son of Lot…" [HNp]
+- o7: וְ/עֶגְלוֹן = Hc "and" + H5700 עֶגְלוֹן "Eglon…" [HC/Np]
+- o8: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o9: בָּרִיא = H1277 בָּרִיא "fatted or plump" [HAamsa]
+- o10: מְאֹד = H3966 מְאֹד "properly, vehemence…" [HD]

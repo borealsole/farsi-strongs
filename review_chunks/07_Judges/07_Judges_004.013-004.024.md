@@ -797,3 +797,30 @@ Persian entries and current tags:
 - p16: را  → H853
 - p17: نابود کردند  → H3772
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Judges 4:12 (context)
+
+- o1: וַ/יַּגִּדוּ = Hc "and" + H5046 נָגַד "properly, to front…" [HC/Vhw3mp]
+- o2: לְ/סִיסְרָא = Hl "to" + H5516 סִיסְרָא "Sisera…" [HR/Np]
+- o3: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o4: עָלָה = H5927 עָלָה "to ascend…" [HVqp3ms]
+- o5: בָּרָק = H1301 בָּרָק "Barak, an Israelite" [HNp]
+- o6: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o7: אֲבִינֹעַם = H42 אֲבִינֹעַם "Abinoam, an Israelite" [HNp]
+- o8: הַר = H2022 הַר "a mountain or range of hills (sometimes used…" [HNcmsc]
+- o9: תָּבוֹר = H8396 תָּבוֹר "Tabor, a mountain in Palestine…" [HNp]
+
+### Judges 5:1 (context)
+
+- o1: וַ/תָּשַׁר = Hc "and" + H7891 שִׁיר "to sing" [HC/Vqw3fs]
+- o2: דְּבוֹרָה = H1683 דְּבּוֹרָה "Deborah, the name of two Hebrewesses" [HNp]
+- o3: וּ/בָרָק = Hc "and" + H1301 בָּרָק "Barak, an Israelite" [HC/Np]
+- o4: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o5: אֲבִינֹעַם = H42 אֲבִינֹעַם "Abinoam, an Israelite" [HNp]
+- o6: בַּ/יּוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
+- o7: הַ/הוּא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3ms]
+- o8: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

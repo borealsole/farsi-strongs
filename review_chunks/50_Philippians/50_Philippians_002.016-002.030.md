@@ -702,3 +702,51 @@ Persian entries and current tags:
 - p25: خطر  → G3851
 - p26: انداخت
 - p27: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Philippians 2:15 (context)
+
+- o1: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o2: γένησθε = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-2ADS-2P]
+- o3: ἄμεμπτοι = G273 ἄμεμπτος "blameless, faultless, unblamable" [A-NPM]
+- o4: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o5: ἀκέραιοι, = G185 ἀκέραιος "harmless, simple" [A-NPM]
+- o6: τέκνα = G5043 τέκνον "child, daughter, son" [N-NPN]
+- o7: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o8: ἄμωμα = G299 ἄμωμος "without blame (blemish, fault, spot), faultless…" [A-NPN]
+- o9: μέσον = G3319 μέσος "among, before them, between, + forth, mid(-day…" [A-ASN]
+- o10: γενεᾶς = G1074 γενεά "age, generation, nation, time" [N-GSF]
+- o11: σκολιᾶς = G4646 σκολιός "crooked, froward, untoward" [A-GSF]
+- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o13: διεστραμμένης, = G1294 διαστρέφω "perverse(-rt), turn away" [V-RPP-GSF]
+- o14: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o15: οἷς = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-DPM]
+- o16: φαίνεσθε = G5316 φαίνω "appear, seem, be seen, shine, think" [V-PPI-2P]
+- o17: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
+- o18: φωστῆρες = G5458 φωστήρ "light" [N-NPM]
+- o19: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o20: κόσμῳ, = G2889 κόσμος "adorning, world" [N-DSM]
+
+### Philippians 3:1 (context)
+
+- o1: Τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o2: λοιπόν, = G3062 λοιποί "other, which remain, remnant, residue, rest" [A-ASN]
+- o3: ἀδελφοί = G80 ἀδελφός "brother" [N-VPM]
+- o4: μου, = G1473 ἐγώ "I, me" [P-1GS]
+- o5: χαίρετε = G5463 χαίρω "farewell, be glad, God speed, greeting, hall…" [V-PAM-2P]
+- o6: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o7: κυρίῳ. = G2962 κύριος "God, Lord, master, Sir" [N-DSM]
+- o8: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
+- o9: αὐτὰ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-APN]
+- o10: γράφειν = G1125 γράφω "describe, write(-ing, -ten)" [V-PAN]
+- o11: ὑμῖν = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
+- o12: ἐμοὶ = G1473 ἐγώ "I, me" [P-1DS]
+- o13: μὲν = G3303 μέν "even, indeed, so, some, truly, verily" [PRT]
+- o14: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o15: ὀκνηρόν, = G3636 ὀκνηρός "grievous, slothful" [A-NSN]
+- o16: ὑμῖν = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
+- o17: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o18: ἀσφαλές. = G804 ἀσφαλής "certain(-ty), safe, sure" [A-NSN]

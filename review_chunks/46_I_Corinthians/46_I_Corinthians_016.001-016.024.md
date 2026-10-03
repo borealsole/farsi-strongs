@@ -1049,3 +1049,34 @@ Persian entries and current tags:
 - p9: .
 - p10: آمین
 - p11: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Corinthians 15:58 (context)
+
+- o1: ὥστε, = G5620 ὥστε "insomuch) as, so that (then), (insomuch) that…" [CONJ]
+- o2: ἀδελφοί = G80 ἀδελφός "brother" [N-VPM]
+- o3: μου = G1473 ἐγώ "I, me" [P-1GS]
+- o4: ἀγαπητοί, = G27 ἀγαπητός "(dearly, well) beloved, dear" [A-VPM]
+- o5: ἑδραῖοι = G1476 ἑδραῖος "settled, stedfast" [A-NPM]
+- o6: γίνεσθε, = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-PNM-2P]
+- o7: ἀμετακίνητοι, = G277 ἀμετακίνητος "unmovable" [A-NPM]
+- o8: περισσεύοντες = G4052 περισσεύω "make, more) abound, (have…" [V-PAP-NPM]
+- o9: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o10: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSN]
+- o11: ἔργῳ = G2041 ἔργον "deed, doing, labour, work" [N-DSN]
+- o12: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o13: κυρίου = G2962 κύριος "God, Lord, master, Sir" [N-GSM]
+- o14: πάντοτε, = G3842 πάντοτε "alway(-s), ever(-more)" [ADV]
+- o15: εἰδότες = G1492 εἴδω "be aware, behold, can (+ not tell), consider…" [V-RAP-NPM]
+- o16: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o17: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o18: κόπος = G2873 κόπος "labour, + trouble, weariness" [N-NSM]
+- o19: ὑμῶν = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
+- o20: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o21: ἔστιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o22: κενὸς = G2756 κενός "empty, (in) vain" [A-NSM]
+- o23: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o24: κυρίῳ. = G2962 κύριος "God, Lord, master, Sir" [N-DSM]

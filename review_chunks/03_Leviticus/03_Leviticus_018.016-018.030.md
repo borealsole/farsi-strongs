@@ -725,3 +725,28 @@ Persian entries and current tags:
 - p31: هستم  → H589
 - p32: .
 - p33: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 18:15 (context)
+
+- o1: עֶרְוַת = H6172 עֶרְוָה "nudity…" [HNcfsc]
+- o2: כַּלָּתְ/ךָ = H3618 כַּלָּה "a bride (as if perfect); hence, a son's wife" [HNcfsc/Sp2ms]
+- o3: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o4: תְגַלֵּה = H1540 גָּלָה "to denude (especially in a disgraceful sense)…" [HVpi2ms]
+- o5: אֵשֶׁת = H802 אִשָּׁה "a woman" [HNcfsc]
+- o6: בִּנְ/ךָ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp2ms]
+- o7: הִוא = H1931 הוּא "he (she or it)…" [HPp3fs]
+- o8: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o9: תְגַלֶּה = H1540 גָּלָה "to denude (especially in a disgraceful sense)…" [HVpi2ms]
+- o10: עֶרְוָתָ/הּ = H6172 עֶרְוָה "nudity…" [HNcfsc/Sp3fs]
+
+### Leviticus 19:1 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: לֵּ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

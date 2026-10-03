@@ -1416,3 +1416,39 @@ Persian entries and current tags:
 - p36: فرمودۀ  → H559
 - p37: خداوند  → H3068
 - p38: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 64:12 (context)
+
+- o1: הַ/עַל = Hi "(untranslatable; interrogative particle)" + H5921 עַל "above, over, upon…" [HTi/R]
+- o2: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o3: תִתְאַפַּק = H662 אָפַק "to contain, i.e. (reflex.) abstain" [HVti2ms]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: תֶּחֱשֶׁה = H2814 חָשָׁה "to hush or keep quiet" [HVqi2ms]
+- o6: וּ/תְעַנֵּ/נוּ = Hc "and" + H6031 עָנָה "to depress literally or figuratively…" [HC/Vpi2ms/Sp1cp]
+- o7: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o8: מְאֹד = H3966 מְאֹד "properly, vehemence…" [HD]
+
+### Isaiah 66:1 (context)
+
+- o1: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o2: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: הַ/שָּׁמַיִם = Hd "the" + H8064 שָׁמַיִם "the sky (as aloft…" [HTd/Ncmpa]
+- o5: כִּסְאִ/י = H3678 כִּסֵּא "properly, covered, i.e. a throne (as canopied)" [HNcmsc/Sp1cs]
+- o6: וְ/הָ/אָרֶץ = Hc "and" + Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HC/Td/Ncbsa]
+- o7: הֲדֹם = H1916 הֲדֹם "a foot stool" [HNcmsc]
+- o8: רַגְלָ/י = H7272 רֶגֶל "a foot (as used in walking)…" [HNcfdc/Sp1cs]
+- o9: אֵי = H335 אַי "where? hence how?" [HTi]
+- o10: זֶה = H2088 זֶה "the masculine demonstrative pronoun, this or that" [HPdxms]
+- o11: בַיִת = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsa]
+- o12: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o13: תִּבְנוּ = H1129 בָּנָה "to build (literally and figuratively)" [HVqi2mp]
+- o14: לִ/י = Hl "to" [HR/Sp1cs]
+- o15: וְ/אֵי = Hc "and" + H335 אַי "where? hence how?" [HC/Ti]
+- o16: זֶה = H2088 זֶה "the masculine demonstrative pronoun, this or that" [HPdxms]
+- o17: מָקוֹם = H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HNcmsa]
+- o18: מְנוּחָתִ/י = H4496 מְנוּחָה "repose or (adverbially) peacefully…" [HNcbsc/Sp1cs]

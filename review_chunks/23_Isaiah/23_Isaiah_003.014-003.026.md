@@ -528,3 +528,37 @@ Persian entries and current tags:
 - p12: خاک  → H776
 - p13: خواهد_نشست  → H3427
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 3:13 (context)
+
+- o1: נִצָּב = H5324 נָצַב "to station…" [HVNrmsa]
+- o2: לָ/רִיב = Hl "to" + H7378 רִיב "properly, to toss, i.e. grapple…" [HR/Vqc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: וְ/עֹמֵד = Hc "and" + H5975 עָמַד "to stand…" [HC/Vqrmsa]
+- o5: לָ/דִין = Hl "to" + H1777 דִּין "a straight course, i.e. sail direct" [HR/Vqc]
+- o6: עַמִּים = H5971 עַם "a people (as a congregated unit)…" [HNcmpa]
+
+### Isaiah 4:1 (context)
+
+- o1: וְ/הֶחֱזִיקוּ = Hc "and" + H2388 חָזַק "to fasten upon…" [HC/Vhq3cp]
+- o2: שֶׁבַע = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcfsa]
+- o3: נָשִׁים = H802 אִשָּׁה "a woman" [HNcfpa]
+- o4: בְּ/אִישׁ = Hb "in" + H376 אִישׁ "a man as an individual or a male person…" [HR/Ncmsa]
+- o5: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o6: בַּ/יּוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
+- o7: הַ/הוּא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3ms]
+- o8: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o9: לַחְמֵ/נוּ = H3899 לֶחֶם "food (for man or beast), especially bread…" [HNcbsc/Sp1cp]
+- o10: נֹאכֵל = H398 אָכַל "to eat (literally or figuratively)" [HVqi1cp]
+- o11: וְ/שִׂמְלָתֵ/נוּ = Hc "and" + H8071 שִׂמְלָה "a dress, especially a mantle" [HC/Ncfsc/Sp1cp]
+- o12: נִלְבָּשׁ = H3847 לָבַשׁ "properly, wrap around…" [HVqi1cp]
+- o13: רַק = H7535 רַק "properly, leanness…" [HTa]
+- o14: יִקָּרֵא = H7121 קָרָא "to call out to (i.e. properly, address by name…" [HVNi3ms]
+- o15: שִׁמְ/ךָ = H8034 שֵׁם "an appellation…" [HNcmsc/Sp2ms]
+- o16: עָלֵי/נוּ = H5921 עַל "above, over, upon…" [HR/Sp1cp]
+- o17: אֱסֹף = H622 אָסַף "to gather for any purpose…" [HVqv2ms]
+- o18: חֶרְפָּתֵ/נוּ = H2781 חֶרְפָּה "contumely, disgrace, the pudenda" [HNcfsc/Sp1cp]

@@ -789,3 +789,47 @@ Persian entries and current tags:
 - p16: او  → H175
 - p17: گریستند  → H1058
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 20:14 (context)
+
+- o1: וַ/יִּשְׁלַח = Hc "and" + H7971 שָׁלַח "to send away, for…" [HC/Vqw3ms]
+- o2: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o3: מַלְאָכִים = H4397 מֲלְאָךְ "a messenger…" [HNcmpa]
+- o4: מִ/קָּדֵשׁ = Hm "from" + H6946 קָדֵשׁ "Kadesh, a place in the Desert" [HR/Np]
+- o5: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o6: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o7: אֱדוֹם = H123 אֱדֹם "Edom, the elder twin-brother of Jacob…" [HNp]
+- o8: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o9: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o10: אָחִי/ךָ = H251 אָח "a brother (used in the widest sense of literal…" [HNcmsc/Sp2ms]
+- o11: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o12: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o13: יָדַעְתָּ = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqp2ms]
+- o14: אֵת = H853 אֵת "properly…" [HTo]
+- o15: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o16: הַ/תְּלָאָה = Hd "the" + H8513 תְּלָאָה "distress" [HTd/Ncfsa]
+- o17: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o18: מְצָאָתְ/נוּ = H4672 מָצָא "properly, to come forth to, i.e. appear or exist…" [HVqp3fs/Sp1cp]
+
+### Numbers 21:1 (context)
+
+- o1: וַ/יִּשְׁמַע = Hc "and" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HC/Vqw3ms]
+- o2: הַ/כְּנַעֲנִי = Hd "the" + H3669 כְּנַעַנִי "a Kenaanite or inhabitant of Kenaan…" [HTd/Ngmsa]
+- o3: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o4: עֲרָד = H6166 עֲרָד "Arad, the name of a place near Palestine…" [HNp]
+- o5: יֹשֵׁב = H3427 יָשַׁב "properly…" [HVqrmsc]
+- o6: הַ/נֶּגֶב = Hd "the" + H5045 נֶגֶב "the south (from its drought)…" [HTd/Ncmsa]
+- o7: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o8: בָּא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3ms]
+- o9: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o10: דֶּרֶךְ = H1870 דֶּרֶךְ "a road (as trodden)…" [HNcbsc]
+- o11: הָ/אֲתָרִים = Hd "the" + H871 אֲתָרִים "Atharim, a place near Palestine" [HTd/Np]
+- o12: וַ/יִּלָּחֶם = Hc "and" + H3898 לָחַם "to feed on; figuratively, to consume…" [HC/VNw3ms]
+- o13: בְּ/יִשְׂרָאֵל = Hb "in" + H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HR/Np]
+- o14: וַ/יִּשְׁבְּ = Hc "and" + H7617 שָׁבָה "to transport into captivity" [HC/Vqw3ms]
+- o15: מִמֶּ/נּוּ = H4480 מִן "properly, a part of…" [HR/Sp1cp]
+- o16: שֶׁבִי = H7628 שְׁבִי "exiled; captured…" [HNcbsa]

@@ -721,3 +721,59 @@ Persian entries and current tags:
 - p47: رحم خواهم_کرد  → H7355
 - p48: .
 - p49: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 33:13 (context)
+
+- o1: בְּ/עָרֵי = Hb "in" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HR/Ncfpc]
+- o2: הָ/הָר = Hd "the" + H2022 הַר "a mountain or range of hills (sometimes used…" [HTd/Ncmsa]
+- o3: בְּ/עָרֵי = Hb "in" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HR/Ncfpc]
+- o4: הַ/שְּׁפֵלָה = Hd "the" + H8219 שְׁפֵלָה "Lowland…" [HTd/Ncfsa]
+- o5: וּ/בְ/עָרֵי = Hc "and" + Hb "in" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HC/R/Ncfpc]
+- o6: הַ/נֶּגֶב = Hd "the" + H5045 נֶגֶב "the south (from its drought)…" [HTd/Ncmsa]
+- o7: וּ/בְ/אֶרֶץ = Hc "and" + Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HC/R/Ncbsc]
+- o8: בִּנְיָמִן = H1144 בִּנְיָמִין "Binjamin, youngest son of Jacob…" [HNp]
+- o9: וּ/בִ/סְבִיבֵי = Hc "and" + Hb "in" + H5439 סָבִיב "as noun) a circle, neighbour, or environs…" [HC/R/Ncbpc]
+- o10: יְרוּשָׁלִַם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+- o11: וּ/בְ/עָרֵי = Hc "and" + Hb "in" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HC/R/Ncfpc]
+- o12: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o13: עֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+- o14: תַּעֲבֹרְנָה = H5674 עָבַר "to cross over…" [HVqi3fp]
+- o15: הַ/צֹּאן = Hd "the" + H6629 צֹאן "a collective name for a flock (of sheep or goats)…" [HTd/Ncbsa]
+- o16: עַל = H5921 עַל "above, over, upon…" [HR]
+- o17: יְדֵי = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbdc]
+- o18: מוֹנֶה = H4487 מָנָה "properly, to weigh out…" [HVqrmsa]
+- o19: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o20: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### Jeremiah 34:1 (context)
+
+- o1: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]
+- o2: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o3: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o4: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o5: יִרְמְיָהוּ = H3414 יִרְמְיָה "Jirmejah, the name of eight or nine Israelites" [HNp]
+- o6: מֵ/אֵת = Hm "from" + H854 אֵת "properly…" [HR/R]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: וּ/נְבוּכַדְרֶאצַּר = Hc "and" + H5019 נְבוּכַדְנֶאצַּר "Nebukadnetstsar (or -retstsar, or -retstsor)…" [HC/Np]
+- o9: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o10: בָּבֶל = H894 בָּבֶל "Babel (i.e. Babylon)…" [HNp]
+- o11: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o12: חֵיל/וֹ = H2428 חַיִל "probably a force, whether of men…" [HNcmsc/Sp3ms]
+- o13: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o14: מַמְלְכוֹת = H4467 מַמְלָכָה "dominion…" [HNcfpc]
+- o15: אֶרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsa]
+- o16: מֶמְשֶׁלֶת = H4475 מֶמְשָׁלָה "rule…" [HNcbsc]
+- o17: יָד/וֹ = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsc/Sp3ms]
+- o18: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o19: הָ/עַמִּים = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmpa]
+- o20: נִלְחָמִים = H3898 לָחַם "to feed on; figuratively, to consume…" [HVNrmpa]
+- o21: עַל = H5921 עַל "above, over, upon…" [HR]
+- o22: יְרוּשָׁלִַם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+- o23: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o24: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o25: עָרֶי/הָ = H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HNcfpc/Sp3fs]
+- o26: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

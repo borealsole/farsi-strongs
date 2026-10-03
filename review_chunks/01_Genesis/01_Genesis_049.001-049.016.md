@@ -743,3 +743,40 @@ Persian entries and current tags:
 - p11: قبایل  → H7626
 - p12: اسرائیل  → H3478
 - p13: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 48:22 (context)
+
+- o1: וַ/אֲנִי = Hc "and" + H589 אֲנִי "I" [HC/Pp1cs]
+- o2: נָתַתִּי = H5414 נָתַן "to give…" [HVqp1cs]
+- o3: לְ/ךָ = Hl "to" [HR/Sp2ms]
+- o4: שְׁכֶם = H7926 שְׁכֶם "the neck (between the shoulders) as the place of…" [HNcmsa]
+- o5: אַחַד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o6: עַל = H5921 עַל "above, over, upon…" [HR]
+- o7: אַחֶי/ךָ = H251 אָח "a brother (used in the widest sense of literal…" [HNcmpc/Sp2ms]
+- o8: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o9: לָקַחְתִּי = H3947 לָקַח "to take (in the widest variety of applications)" [HVqp1cs]
+- o10: מִ/יַּד = Hm "from" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o11: הָ/אֱמֹרִי = Hd "the" + H567 אֱמֹרִי "an Emorite, one of the Canaanitish tribes" [HTd/Ngmsa]
+- o12: בְּ/חַרְבִּ/י = Hb "in" + H2719 חֶרֶב "drought…" [HR/Ncfsc/Sp1cs]
+- o13: וּ/בְ/קַשְׁתִּ/י = Hc "and" + Hb "in" + H7198 קֶשֶׁת "a bow, forshooting (hence, figuratively…" [HC/R/Ncfsc/Sp1cs]
+
+### Genesis 49:17 (context)
+
+- o1: יְהִי = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o2: דָן = H1835 דָּן "Dan, one of the sons of Jacob…" [HNp]
+- o3: נָחָשׁ = H5175 נָחָשׁ "a snake (from its hiss)" [HNcmsa]
+- o4: עֲלֵי = H5921 עַל "above, over, upon…" [HR]
+- o5: דֶרֶךְ = H1870 דֶּרֶךְ "a road (as trodden)…" [HNcbsa]
+- o6: שְׁפִיפֹן = H8207 שְׁפִיפֹן "a kind of serpent (as snapping)…" [HNcmsa]
+- o7: עֲלֵי = H5921 עַל "above, over, upon…" [HR]
+- o8: אֹרַח = H734 אֹרַח "a well-trodden road (literally or figuratively)…" [HNcbsa]
+- o9: הַ/נֹּשֵׁךְ = Hd "the" + H5391 נָשַׁךְ "to strike with a sting (as a serpent)…" [HTd/Vqrmsa]
+- o10: עִקְּבֵי = H6119 עָקֵב "a heel (as protuberant); hence, a track…" [HNcmpc]
+- o11: סוּס = H5483 סוּס "a horse (as leaping)…" [HNcmsa]
+- o12: וַ/יִּפֹּל = Hc "and" + H5307 נָפַל "to fall…" [HC/Vqw3ms]
+- o13: רֹכְב/וֹ = H7392 רָכַב "to ride (on an animal or in a vehicle)…" [HVqrmsc/Sp3ms]
+- o14: אָחוֹר = H268 אָחוֹר "the hinder part; hence (adverb) behind, backward…" [HNcmsa]

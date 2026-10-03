@@ -1172,3 +1172,44 @@ Persian entries and current tags:
 - p20: تا  → H5704
 - p21: اینجاست  → H2008
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 48:24 (context)
+
+- o1: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o2: קְרִיּוֹת = H7152 קְרִיּוֹת "Kerioth, the name of two places in Palestine" [HNp]
+- o3: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o4: בָּצְרָה = H1224 בׇּצְרָה "Botsrah, a place in Edom" [HNp]
+- o5: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o6: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o7: עָרֵי = H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HNcfpc]
+- o8: אֶרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsc]
+- o9: מוֹאָב = H4124 מוֹאָב "Moab, an incestuous son of Lot…" [HNp]
+- o10: הָ/רְחֹקוֹת = Hd "the" + H7350 רָחוֹק "remote, literally or figuratively…" [HTd/Aafpa]
+- o11: וְ/הַ/קְּרֹבוֹת = Hc "and" + Hd "the" + H7138 קָרוֹב "near (in place, kindred or time)" [HC/Td/Aafpa]
+
+### Jeremiah 49:1 (context)
+
+- o1: לִ/בְנֵי = Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmpc]
+- o2: עַמּוֹן = H5983 עַמּוֹן "Ammon, a son of Lot…" [HNp]
+- o3: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o4: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o5: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o6: הֲ/בָנִים = Hi "(untranslatable; interrogative particle)" + H1121 בֵּן "a son (as a builder of the family name)…" [HTi/Ncmpa]
+- o7: אֵין = H369 אַיִן "a non-entity…" [HTn]
+- o8: לְ/יִשְׂרָאֵל = Hl "to" + H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HR/Np]
+- o9: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o10: יוֹרֵשׁ = H3423 יָרַשׁ "to occupy (by driving out previous tenants…" [HVqrmsa]
+- o11: אֵין = H369 אַיִן "a non-entity…" [HTn]
+- o12: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o13: מַדּוּעַ = H4069 מַדּוּעַ "what (is) known?…" [HTi]
+- o14: יָרַשׁ = H3423 יָרַשׁ "to occupy (by driving out previous tenants…" [HVqp3ms]
+- o15: מַלְכָּ/ם = H4428 מֶלֶךְ "a king" [HNcmsc/Sp3mp]
+- o16: אֶת = H853 אֵת "properly…" [HTo]
+- o17: גָּד = H1410 גָּד "Gad, a son of Jacob…" [HNp]
+- o18: וְ/עַמּ/וֹ = Hc "and" + H5971 עַם "a people (as a congregated unit)…" [HC/Ncmsc/Sp3ms]
+- o19: בְּ/עָרָי/ו = Hb "in" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HR/Ncfpc/Sp3ms]
+- o20: יָשָׁב = H3427 יָשַׁב "properly…" [HVqp3ms]

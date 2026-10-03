@@ -1119,3 +1119,38 @@ Persian entries and current tags:
 - p9: نیست  → H369
 - p10: .
 - p11: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 56:12 (context)
+
+- o1: אֵתָיוּ = H857 אָתָה "to arrive" [HVqv2mp]
+- o2: אֶקְחָה = H3947 לָקַח "to take (in the widest variety of applications)" [HVqh1cs]
+- o3: יַיִן = H3196 יַיִן "wine (as fermented); by implication, intoxication" [HNcmsa]
+- o4: וְ/נִסְבְּאָה = Hc "and" + H5433 סָבָא "to quaff to satiety, i.e. become tipsy" [HC/Vqh1cp]
+- o5: שֵׁכָר = H7941 שֵׁכָר "an intoxicant, i.e. intensely alcoholic liquor" [HNcmsa]
+- o6: וְ/הָיָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3ms]
+- o7: כָ/זֶה = Hk "like" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HR/Pdxms]
+- o8: יוֹם = H3117 יוֹם "a day (as the warm hours)…" [HNcmsa]
+- o9: מָחָר = H4279 מָחָר "properly, deferred, i.e. the morrow…" [HNcmsa]
+- o10: גָּדוֹל = H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HAamsa]
+- o11: יֶתֶר = H3499 יֶתֶר "properly, an overhanging…" [HNcmsa]
+- o12: מְאֹד = H3966 מְאֹד "properly, vehemence…" [HD]
+
+### Isaiah 58:1 (context)
+
+- o1: קְרָא = H7121 קָרָא "to call out to (i.e. properly, address by name…" [HVqv2ms]
+- o2: בְ/גָרוֹן = Hb "in" + H1627 גָּרוֹן "the throat (as roughened by swallowing)" [HR/Ncmsa]
+- o3: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o4: תַּחְשֹׂךְ = H2820 חָשַׂךְ "to restrain or (reflex.) refrain…" [HVqj2ms]
+- o5: כַּ/שּׁוֹפָר = Hk "like" + H7782 שׁוֹפָר "a cornet (as giving a clear sound) or curved horn" [HRd/Ncmsa]
+- o6: הָרֵם = H7311 רוּם "to be high actively…" [HVhv2ms]
+- o7: קוֹלֶ/ךָ = H6963 קוֹל "a voice or sound" [HNcmsc/Sp2ms]
+- o8: וְ/הַגֵּד = Hc "and" + H5046 נָגַד "properly, to front…" [HC/Vhv2ms]
+- o9: לְ/עַמִּ/י = Hl "to" + H5971 עַם "a people (as a congregated unit)…" [HR/Ncmsc/Sp1cs]
+- o10: פִּשְׁעָ/ם = H6588 פֶּשַׁע "a revolt (national, moral or religious)" [HNcmsc/Sp3mp]
+- o11: וּ/לְ/בֵית = Hc "and" + Hl "to" + H1004 בַּיִת "a house (in the greatest variation of…" [HC/R/Ncmsc]
+- o12: יַעֲקֹב = H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HNp]
+- o13: חַטֹּאתָ/ם = H2403 חַטָּאָה "an offence (sometimes habitual sinfulness)…" [HNcfpc/Sp3mp]

@@ -1332,3 +1332,41 @@ Persian entries and current tags:
 - p32: او
 - p33: بازگفتند  → H5046
 - p34: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 35:10 (context)
+
+- o1: וּ/פְדוּיֵי = Hc "and" + H6299 פָּדָה "to sever, i.e. ransom; gener. to release, preserve" [HC/Vqsmpc]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: יְשֻׁבוּ/ן = H7725 שׁוּב "to turn back (hence…" [HVqi3mp/Sn]
+- o4: וּ/בָאוּ = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqq3cp]
+- o5: צִיּוֹן = H6726 צִיּוֹן "Tsijon (as a permanent capital)…" [HNp]
+- o6: בְּ/רִנָּה = Hb "in" + H7440 רִנָּה "properly, a creaking (or shrill sound)…" [HR/Ncfsa]
+- o7: וְ/שִׂמְחַת = Hc "and" + H8057 שִׂמְחָה "blithesomeness or glee, (religious or festival)" [HC/Ncfsc]
+- o8: עוֹלָם = H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HNcmsa]
+- o9: עַל = H5921 עַל "above, over, upon…" [HR]
+- o10: רֹאשָׁ/ם = H7218 רֹאשׁ "the head (as most easily shaken)…" [HNcmsc/Sp3mp]
+- o11: שָׂשׂוֹן = H8342 שָׂשׂוֹן "cheerfulness; specifically, welcome" [HNcmsa]
+- o12: וְ/שִׂמְחָה = Hc "and" + H8057 שִׂמְחָה "blithesomeness or glee, (religious or festival)" [HC/Ncfsa]
+- o13: יַשִּׂיגוּ = H5381 נָשַׂג "to reach (literally or figuratively)" [HVhi3mp]
+- o14: וְ/נָסוּ = Hc "and" + H5127 נוּס "to flit, i.e. vanish away (subside, escape…" [HC/Vqq3cp]
+- o15: יָגוֹן = H3015 יָגוֹן "affliction" [HNcmsa]
+- o16: וַ/אֲנָחָה = Hc "and" + H585 אֲנָחָה "sighing" [HC/Ncfsa]
+
+### Isaiah 37:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: כִּ/שְׁמֹעַ = Hk "like" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HR/Vqc]
+- o3: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o4: חִזְקִיָּהוּ = H2396 חִזְקִיָּה "Chizkijah, a king of Judah…" [HNp]
+- o5: וַ/יִּקְרַע = Hc "and" + H7167 קָרַע "to rend, literally or figuratively (revile…" [HC/Vqw3ms]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: בְּגָדָי/ו = H899 בֶּגֶד "a covering, i.e. clothing…" [HNcmpc/Sp3ms]
+- o8: וַ/יִּתְכַּס = Hc "and" + H3680 כָּסָה "properly, to plump, i.e. fill up hollows…" [HC/Vtw3ms]
+- o9: בַּ/שָּׂק = Hb "in" + H8242 שַׂק "properly…" [HRd/Ncmsa]
+- o10: וַ/יָּבֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3ms]
+- o11: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o12: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]

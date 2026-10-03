@@ -265,3 +265,26 @@ Persian entries and current tags:
 - p10: من
 - p11: بشتاب  → H309
 - p12: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 69:36 (context)
+
+- o1: וְ/זֶרַע = Hc "and" + H2233 זֶרַע "seed…" [HC/Ncmsc]
+- o2: עֲבָדָי/ו = H5650 עֶבֶד "a servant" [HNcmpc/Sp3ms]
+- o3: יִנְחָלוּ/הָ = H5157 נָחַל "to inherit (as a (figurative) mode of descent)…" [HVqi3mp/Sp3fs]
+- o4: וְ/אֹהֲבֵי = Hc "and" + H157 אָהַב "to have affection for (sexually or otherwise)" [HC/Vqrmpc]
+- o5: שְׁמ/וֹ = H8034 שֵׁם "an appellation…" [HNcmsc/Sp3ms]
+- o6: יִשְׁכְּנוּ = H7931 שָׁכַן "to reside or permanently stay (literally or…" [HVqi3mp]
+- o7: בָ/הּ = Hb "in" [HR/Sp3fs]
+
+### Psalms 71:1 (context)
+
+- o1: בְּ/ךָ = Hb "in" [HR/Sp2ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: חָסִיתִי = H2620 חָסָה "to flee for protection…" [HVqp1cs]
+- o4: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o5: אֵבוֹשָׁה = H954 בּוּשׁ "properly, to pale…" [HVqh1cs]
+- o6: לְ/עוֹלָם = Hl "to" + H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HR/Ncmsa]

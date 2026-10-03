@@ -693,3 +693,30 @@ Persian entries and current tags:
 - p11: خرگوشان  → H8227
 - p12: است
 - p13: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 103:22 (context)
+
+- o1: בָּרֲכוּ = H1288 בָרַךְ "to kneel…" [HVpv2mp]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o4: מַעֲשָׂי/ו = H4639 מַעֲשֶׂה "an action (good or bad); generally, a transaction…" [HNcmpc/Sp3ms]
+- o5: בְּ/כָל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o6: מְקֹמוֹת = H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HNcmpc]
+- o7: מֶמְשַׁלְתּ/וֹ = H4475 מֶמְשָׁלָה "rule…" [HNcbsc/Sp3ms]
+- o8: בָּרֲכִי = H1288 בָרַךְ "to kneel…" [HVpv2fs]
+- o9: נַפְשִׁ/י = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsc/Sp1cs]
+- o10: אֶת = H853 אֵת "properly…" [HTo]
+- o11: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### Psalms 104:19 (context)
+
+- o1: עָשָׂה = H6213 עָשָׂה "to do or make…" [HVqp3ms]
+- o2: יָרֵחַ = H3394 יָרֵחַ "the moon" [HNcmsa]
+- o3: לְ/מוֹעֲדִים = Hl "to" + H4150 מוֹעֵד "properly, an appointment…" [HR/Ncmpa]
+- o4: שֶׁמֶשׁ = H8121 שֶׁמֶשׁ "the sun; by implication, the east…" [HNcbsa]
+- o5: יָדַע = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqp3ms]
+- o6: מְבוֹא/וֹ = H3996 מָבוֹא "an entrance (the place or the act)…" [HNcmsc/Sp3ms]

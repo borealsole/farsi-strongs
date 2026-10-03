@@ -765,3 +765,27 @@ Persian entries and current tags:
 - p8: بسیار  → H7230
 - p9: گمراه خواهد_شد  → H7686
 - p10: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 4:27 (context)
+
+- o1: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o2: תֵּט = H5186 נָטָה "to stretch or spread out…" [HVqj2ms]
+- o3: יָמִין = H3225 יָמִין "the right hand or side (leg…" [HNcfsa]
+- o4: וּ/שְׂמֹאול = Hc "and" + H8040 שְׂמֹאול "properly, dark (as enveloped), i.e. the north…" [HC/Ncmsa]
+- o5: הָסֵר = H5493 סוּר "to turn off (literal or figurative)" [HVhv2ms]
+- o6: רַגְלְ/ךָ = H7272 רֶגֶל "a foot (as used in walking)…" [HNcfsc/Sp2ms]
+- o7: מֵ/רָע = Hm "from" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HR/Aamsa]
+
+### Proverbs 6:1 (context)
+
+- o1: בְּנִ/י = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp1cs]
+- o2: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o3: עָרַבְתָּ = H6148 עָרַב "to braid, i.e. intermix…" [HVqp2ms]
+- o4: לְ/רֵעֶ/ךָ = Hl "to" + H7453 רֵעַ "an associate (more or less close)" [HR/Ncmsc/Sp2ms]
+- o5: תָּקַעְתָּ = H8628 תָּקַע "to clatter, i.e. slap (the hands together)…" [HVqp2ms]
+- o6: לַ/זָּר = Hl "to" + H2114 זוּר "to turn aside (especially for lodging)…" [HRd/Aamsa]
+- o7: כַּפֶּי/ךָ = H3709 כַּף "the hollow hand or palm (so of the paw of an…" [HNcfdc/Sp2ms]

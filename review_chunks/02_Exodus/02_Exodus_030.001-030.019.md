@@ -922,3 +922,44 @@ Persian entries and current tags:
 - p10: آب
 - p11: بشویند  → H7364
 - p12: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 29:46 (context)
+
+- o1: וְ/יָדְעוּ = Hc "and" + H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HC/Vqq3cp]
+- o2: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o3: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: אֱלֹהֵי/הֶם = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp3mp]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: הוֹצֵאתִי = H3318 יָצָא "to go (causatively, bring) out…" [HVhp1cs]
+- o8: אֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o9: מֵ/אֶרֶץ = Hm "from" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o10: מִצְרַיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o11: לְ/שָׁכְנִ/י = Hl "to" + H7931 שָׁכַן "to reside or permanently stay (literally or…" [HR/Vqc/Sp1cs]
+- o12: בְ/תוֹכָ/ם = Hb "in" + H8432 תָּוֶךְ "a bisection, i.e. (by implication) the centre" [HR/Ncmsc/Sp3mp]
+- o13: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o14: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o15: אֱלֹהֵי/הֶם = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp3mp]
+
+### Exodus 30:20 (context)
+
+- o1: בְּ/בֹאָ/ם = Hb "in" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HR/Vqc/Sp3mp]
+- o2: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o3: אֹהֶל = H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HNcmsc]
+- o4: מוֹעֵד = H4150 מוֹעֵד "properly, an appointment…" [HNcmsa]
+- o5: יִרְחֲצוּ = H7364 רָחַץ "to lave (the whole or a part of a thing)" [HVqi3mp]
+- o6: מַיִם = H4325 מַיִם "water; figuratively, juice…" [HNcmpa]
+- o7: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o8: יָמֻתוּ = H4191 מוּת "to die (literally or figuratively)…" [HVqi3mp]
+- o9: אוֹ = H176 אוֹ "desire (and so probably in Proverbs 31:4)…" [HC]
+- o10: בְ/גִשְׁתָּ/ם = Hb "in" + H5066 נָגַשׁ "to be or come (causatively…" [HR/Vqc/Sp3mp]
+- o11: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o12: הַ/מִּזְבֵּחַ = Hd "the" + H4196 מִזְבֵּחַ "an altar" [HTd/Ncmsa]
+- o13: לְ/שָׁרֵת = Hl "to" + H8334 שָׁרַת "to attend as a menial or worshipper…" [HR/Vpc]
+- o14: לְ/הַקְטִיר = Hl "to" + H6999 קָטַר "to smoke…" [HR/Vhc]
+- o15: אִשֶּׁה = H801 אִשָּׁה "properly, a burnt-offering…" [HNcmsa]
+- o16: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]

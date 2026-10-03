@@ -1246,3 +1246,34 @@ Persian entries and current tags:
 - p28: را  → H853
 - p29: نگاهبانی کند  → H8104
 - p30: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 2:25 (context)
+
+- o1: וַ/יִּהְיוּ = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3mp]
+- o2: שְׁנֵי/הֶם = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmdc/Sp3mp]
+- o3: עֲרוּמִּים = H6174 עָרוֹם "nude, either partially or totally" [HAampa]
+- o4: הָ/אָדָם = Hd "the" + H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HTd/Ncmsa]
+- o5: וְ/אִשְׁתּ/וֹ = Hc "and" + H802 אִשָּׁה "a woman" [HC/Ncfsc/Sp3ms]
+- o6: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o7: יִתְבֹּשָׁשׁוּ = H954 בּוּשׁ "properly, to pale…" [HVri3mp]
+
+### Genesis 4:1 (context)
+
+- o1: וְ/הָ/אָדָם = Hc "and" + Hd "the" + H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HC/Td/Ncmsa]
+- o2: יָדַע = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqp3ms]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: חַוָּה = H2332 חַוָּה "Chavvah (or Eve), the first woman" [HNp]
+- o5: אִשְׁתּ/וֹ = H802 אִשָּׁה "a woman" [HNcfsc/Sp3ms]
+- o6: וַ/תַּהַר = Hc "and" + H2029 הָרָה "to be (or become) pregnant…" [HC/Vqw3fs]
+- o7: וַ/תֵּלֶד = Hc "and" + H3205 יָלַד "to bear young; causatively, to beget…" [HC/Vqw3fs]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: קַיִן = H7014 קַיִן "Kajin, the name of the first child…" [HNp]
+- o10: וַ/תֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3fs]
+- o11: קָנִיתִי = H7069 קָנָה "to erect, i.e. create…" [HVqp1cs]
+- o12: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o13: אֶת = H854 אֵת "properly…" [HR]
+- o14: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]

@@ -676,3 +676,33 @@ Persian entries and current tags:
 - p14: او
 - p15: مرد  → H4191
 - p16: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 9:14 (context)
+
+- o1: וְ/הָיָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3ms]
+- o2: בְּ/עַנְנִ/י = Hb "in" + H6049 עָנַן "figuratively, to act covertly, i.e. practise magic" [HR/Vpc/Sp1cs]
+- o3: עָנָן = H6051 עָנָן "a cloud (as covering the sky)…" [HNcmsa]
+- o4: עַל = H5921 עַל "above, over, upon…" [HR]
+- o5: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o6: וְ/נִרְאֲתָה = Hc "and" + H7200 רָאָה "to see…" [HC/VNq3fs]
+- o7: הַ/קֶּשֶׁת = Hd "the" + H7198 קֶשֶׁת "a bow, forshooting (hence, figuratively…" [HTd/Ncfsa]
+- o8: בֶּ/עָנָן = Hb "in" + H6051 עָנָן "a cloud (as covering the sky)…" [HRd/Ncmsa]
+
+### Genesis 10:1 (context)
+
+- o1: וְ/אֵלֶּה = Hc "and" + H428 אֵלֶּה "these or those" [HC/Pdxcp]
+- o2: תּוֹלְדֹת = H8435 תּוֹלְדָה "plural only) descent, i.e. family…" [HNcfpc]
+- o3: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o4: נֹחַ = H5146 נֹחַ "Noach, the patriarch of the flood" [HNp]
+- o5: שֵׁם = H8035 שֵׁם "Shem, a son of Noah (often includ. his posterity)" [HNp]
+- o6: חָם = H2526 חָם "Cham, a son of Noah…" [HNp]
+- o7: וָ/יָפֶת = Hc "and" + H3315 יֶפֶת "Jepheth, a son of Noah; also his posterity" [HC/Np]
+- o8: וַ/יִּוָּלְדוּ = Hc "and" + H3205 יָלַד "to bear young; causatively, to beget…" [HC/VNw3mp]
+- o9: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o10: בָּנִים = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpa]
+- o11: אַחַר = H310 אַחַר "properly, the hind part…" [HR]
+- o12: הַ/מַּבּוּל = Hd "the" + H3999 מַבּוּל "a deluge" [HTd/Ncmsa]

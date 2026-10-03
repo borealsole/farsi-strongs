@@ -919,3 +919,57 @@ Persian entries and current tags:
 - p30: ،
 - p31: متأسف بود  → H5162
 - p32: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 15:18 (context)
+
+- o1: וַ/יִּשְׁלָחֲ/ךָ = Hc "and" + H7971 שָׁלַח "to send away, for…" [HC/Vqw3ms/Sp2ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: בְּ/דָרֶךְ = Hb "in" + H1870 דֶּרֶךְ "a road (as trodden)…" [HR/Ncbsa]
+- o4: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o5: לֵךְ = H3212 יָלַךְ "to walk (literally or figuratively)…" [HVqv2ms]
+- o6: וְ/הַחֲרַמְתָּה = Hc "and" + H2763 חָרַם "to seclude…" [HC/Vhq2ms]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: הַ/חַטָּאִים = Hd "the" + H2400 חַטָּא "a criminal, or one accounted guilty" [HTd/Aampa]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: עֲמָלֵק = H6002 עֲמָלֵק "Amalek, a descendant of Esau…" [HNp]
+- o11: וְ/נִלְחַמְתָּ = Hc "and" + H3898 לָחַם "to feed on; figuratively, to consume…" [HC/VNq2ms]
+- o12: ב/וֹ = Hb "in" [HR/Sp3ms]
+- o13: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o14: כַּלּוֹתָ/ם = H3615 כָּלָה "to end, whether intransitive (to cease…" [HVpc/Sp3mp]
+- o15: אֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+
+### I Samuel 16:1 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: שְׁמוּאֵל = H8050 שְׁמוּאֵל "Shemuel, the name of three Israelites" [HNp]
+- o5: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o6: מָתַי = H4970 מָתַי "properly, extent (of time)…" [HTi]
+- o7: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o8: מִתְאַבֵּל = H56 אָבַל "to bewail" [HVtrmsa]
+- o9: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o10: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o11: וַ/אֲנִי = Hc "and" + H589 אֲנִי "I" [HC/Pp1cs]
+- o12: מְאַסְתִּי/ו = H3988 מָאַס "to spurn; also (intransitively) to disappear" [HVqp1cs/Sp3ms]
+- o13: מִ/מְּלֹךְ = Hm "from" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HR/Vqc]
+- o14: עַל = H5921 עַל "above, over, upon…" [HR]
+- o15: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o16: מַלֵּא = H4390 מָלֵא "to fill or (intransitively) be full of…" [HVpv2ms]
+- o17: קַרְנְ/ךָ = H7161 קֶרֶן "a horn (as projecting)…" [HNcbsc/Sp2ms]
+- o18: שֶׁמֶן = H8081 שֶׁמֶן "grease, especially liquid (as from the olive…" [HNcmsa]
+- o19: וְ/לֵךְ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqv2ms]
+- o20: אֶשְׁלָחֲ/ךָ = H7971 שָׁלַח "to send away, for…" [HVqi1cs/Sp2ms]
+- o21: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o22: יִשַׁי = H3448 יִשַׁי "Jishai, David's father" [HNp]
+- o23: בֵּית = H1022 בֵּית הַלַּחְמִי "a Beth-lechemite, or native of Bethlechem" [HNgmsa]
+- o24: הַלַּחְמִי = H1022 בֵּית הַלַּחְמִי "a Beth-lechemite, or native of Bethlechem" [HNgmsa]
+- o25: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o26: רָאִיתִי = H7200 רָאָה "to see…" [HVqp1cs]
+- o27: בְּ/בָנָי/ו = Hb "in" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmpc/Sp3ms]
+- o28: לִ/י = Hl "to" [HR/Sp1cs]
+- o29: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsa]

@@ -836,3 +836,32 @@ Persian entries and current tags:
 - p17: و  → Hc
 - p18: بز
 - p19: ،
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 31:18 (context)
+
+- o1: וְ/כֹל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o2: הַ/טַּף = Hd "the" + H2945 טַף "a family (mostly used collectively in the…" [HTd/Ncmsa]
+- o3: בַּ/נָּשִׁים = Hb "in" + H802 אִשָּׁה "a woman" [HRd/Ncfpa]
+- o4: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o5: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o6: יָדְעוּ = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqp3cp]
+- o7: מִשְׁכַּב = H4904 מִשְׁכָּב "a bed (figuratively, a bier); abstractly, sleep…" [HNcmsc]
+- o8: זָכָר = H2145 זָכָר "properly, remembered…" [HAamsa]
+- o9: הַחֲיוּ = H2421 חָיָה "to live, whether literally or figuratively…" [HVhv2mp]
+- o10: לָ/כֶם = Hl "to" [HR/Sp2mp]
+
+### Numbers 31:37 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: הַ/מֶּכֶס = Hd "the" + H4371 מֶכֶס "an assessment (as based upon a census)" [HTd/Ncmsa]
+- o3: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o4: מִן = H4480 מִן "properly, a part of…" [HR]
+- o5: הַ/צֹּאן = Hd "the" + H6629 צֹאן "a collective name for a flock (of sheep or goats)…" [HTd/Ncbsa]
+- o6: שֵׁשׁ = H8337 שֵׁשׁ "six (as an overplus beyond five or the fingers of…" [HAcfsa]
+- o7: מֵאוֹת = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbpa]
+- o8: חָמֵשׁ = H2568 חָמֵשׁ "five" [HAcfsa]
+- o9: וְ/שִׁבְעִים = Hc "and" + H7657 שִׁבְעִים "seventy" [HC/Acbpa]

@@ -658,3 +658,38 @@ Persian entries and current tags:
 - p23: بی‌عیب  → H8549
 - p24: باشند
 - p25: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 28:16 (context)
+
+- o1: וּ/בַ/חֹדֶשׁ = Hc "and" + Hb "in" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HC/Rd/Ncmsa]
+- o2: הָ/רִאשׁוֹן = Hd "the" + H7223 רִאשׁוֹן "first, in place…" [HTd/Aomsa]
+- o3: בְּ/אַרְבָּעָה = Hb "in" + H702 אַרְבַּע "four" [HR/Acmsa]
+- o4: עָשָׂר = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcmsa]
+- o5: יוֹם = H3117 יוֹם "a day (as the warm hours)…" [HNcmsa]
+- o6: לַ/חֹדֶשׁ = Hl "to" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HRd/Ncmsa]
+- o7: פֶּסַח = H6453 פֶּסַח "a pretermission, i.e. exemption…" [HNcmsa]
+- o8: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+
+### Numbers 29:1 (context)
+
+- o1: וּ/בַ/חֹדֶשׁ = Hc "and" + Hb "in" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HC/Rd/Ncmsa]
+- o2: הַ/שְּׁבִיעִי = Hd "the" + H7637 שְׁבִיעִי "seventh" [HTd/Aomsa]
+- o3: בְּ/אֶחָד = Hb "in" + H259 אֶחָד "properly, united, i.e. one…" [HR/Acmsa]
+- o4: לַ/חֹדֶשׁ = Hl "to" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HRd/Ncmsa]
+- o5: מִקְרָא = H4744 מִקְרָא "something called out…" [HNcmsc]
+- o6: קֹדֶשׁ = H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HNcmsa]
+- o7: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o8: לָ/כֶם = Hl "to" [HR/Sp2mp]
+- o9: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o10: מְלֶאכֶת = H4399 מְלָאכָה "properly, deputyship, i.e. ministry…" [HNcfsc]
+- o11: עֲבֹדָה = H5656 עֲבֹדָה "work of any kind" [HNcfsa]
+- o12: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o13: תַעֲשׂוּ = H6213 עָשָׂה "to do or make…" [HVqi2mp]
+- o14: יוֹם = H3117 יוֹם "a day (as the warm hours)…" [HNcmsc]
+- o15: תְּרוּעָה = H8643 תְּרוּעָה "clamor, i.e. acclamation of joy or a battle-cry…" [HNcfsa]
+- o16: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o17: לָ/כֶם = Hl "to" [HR/Sp2mp]

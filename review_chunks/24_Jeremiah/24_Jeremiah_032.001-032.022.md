@@ -1268,3 +1268,58 @@ Persian entries and current tags:
 - p22: آن
 - p23: جاری است  → H2100
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 31:40 (context)
+
+- o1: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o2: הָ/עֵמֶק = Hd "the" + H6010 עֵמֶק "a vale (i.e. broad depression)" [HTd/Ncmsa]
+- o3: הַ/פְּגָרִים = Hd "the" + H6297 פֶּגֶר "a carcase (as limp), whether of man or beast…" [HTd/Ncmpa]
+- o4: וְ/הַ/דֶּשֶׁן = Hc "and" + Hd "the" + H1880 דֶּשֶׁן "the fat…" [HC/Td/Ncmsa]
+- o5: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o6: ה/שרמות = Hd "the" + H8309 שְׁרֵמָה "a common" [HTd/Ncfpa]
+- o7: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o8: נַחַל = H5158 נַחַל "a stream, especially a winter torrent…" [HNcmsc]
+- o9: קִדְרוֹן = H6939 קִדְרוֹן "Kidron, a brook near Jerusalem" [HNp]
+- o10: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o11: פִּנַּת = H6438 פִּנָּה "an angle; by implication, a pinnacle…" [HNcfsc]
+- o12: שַׁעַר = H8179 שַׁעַר "an opening, i.e. door or gate" [HNcmsc]
+- o13: הַ/סּוּסִים = Hd "the" + H5483 סוּס "a horse (as leaping)…" [HTd/Ncmpa]
+- o14: מִזְרָחָ/ה = H4217 מִזְרָח "sunrise, i.e. the east" [HNcmsa/Sd]
+- o15: קֹדֶשׁ = H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HNcmsa]
+- o16: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o17: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o18: יִנָּתֵשׁ = H5428 נָתַשׁ "to tear away" [HVNi3ms]
+- o19: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o20: יֵהָרֵס = H2040 הָרַס "to pull down or in pieces, break, destroy" [HVNi3ms]
+- o21: עוֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+- o22: לְ/עוֹלָם = Hl "to" + H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HR/Ncmsa]
+
+### Jeremiah 32:23 (context)
+
+- o1: וַ/יָּבֹאוּ = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3mp]
+- o2: וַ/יִּרְשׁוּ = Hc "and" + H3423 יָרַשׁ "to occupy (by driving out previous tenants…" [HC/Vqw3mp]
+- o3: אֹתָ/הּ = H853 אֵת "properly…" [HTo/Sp3fs]
+- o4: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o5: שָׁמְעוּ = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqp3cp]
+- o6: בְ/קוֹלֶ/ךָ = Hb "in" + H6963 קוֹל "a voice or sound" [HR/Ncmsc/Sp2ms]
+- o7: ו/ב/תרות/ך = Hc "and" + Hb "in" + H8451 תּוֹרָה "a precept or statute…" [HC/R/Ncfpc/Sp2ms]
+- o8: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o9: הָלָכוּ = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVqp3cp]
+- o10: אֵת = H853 אֵת "properly…" [HTo]
+- o11: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o12: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o13: צִוִּיתָה = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp2ms]
+- o14: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o15: לַ/עֲשׂוֹת = Hl "to" + H6213 עָשָׂה "to do or make…" [HR/Vqc]
+- o16: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o17: עָשׂוּ = H6213 עָשָׂה "to do or make…" [HVqp3cp]
+- o18: וַ/תַּקְרֵא = Hc "and" + H7122 קָרָא "to encounter…" [HC/Vhw2ms]
+- o19: אֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o20: אֵת = H853 אֵת "properly…" [HTo]
+- o21: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o22: הָ/רָעָה = Hd "the" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HTd/Ncfsa]
+- o23: הַ/זֹּאת = Hd "the" + H2063 זֹאת "this (often used adverb)" [HTd/Pdxfs]

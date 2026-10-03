@@ -1042,3 +1042,56 @@ Persian entries and current tags:
 - p44: عدالت  → H4941
 - p45: ؟
 - p46: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Malachi 1:14 (context)
+
+- o1: וְ/אָרוּר = Hc "and" + H779 אָרַר "to execrate" [HC/Vqsmsa]
+- o2: נוֹכֵל = H5230 נָכַל "to defraud, i.e. act treacherously" [HVqrmsa]
+- o3: וְ/יֵשׁ = Hc "and" + H3426 יֵשׁ "there is or are (or any other form of the verb to…" [HC/Tm]
+- o4: בְּ/עֶדְר/וֹ = Hb "in" + H5739 עֵדֶר "an arrangement, i.e. muster (of animals)" [HR/Ncmsc/Sp3ms]
+- o5: זָכָר = H2145 זָכָר "properly, remembered…" [HAamsa]
+- o6: וְ/נֹדֵר = Hc "and" + H5087 נָדַר "to promise (pos., to do or give something to God)" [HC/Vqrmsa]
+- o7: וְ/זֹבֵחַ = Hc "and" + H2076 זָבַח "to slaughter an animal (usually in sacrifice)" [HC/Vqrmsa]
+- o8: מָשְׁחָת = H7843 שָׁחַת "to decay…" [HVHsmsa]
+- o9: לַ/אדֹנָ/י = Hl "to" + H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HR/Ncmpc/Sp1cs]
+- o10: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o11: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsa]
+- o12: גָּדוֹל = H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HAamsa]
+- o13: אָנִי = H589 אֲנִי "I" [HPp1cs]
+- o14: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o15: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o16: צְבָאוֹת = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbpa]
+- o17: וּ/שְׁמִ/י = Hc "and" + H8034 שֵׁם "an appellation…" [HC/Ncmsc/Sp1cs]
+- o18: נוֹרָא = H3372 יָרֵא "to fear; morally, to revere; caus. to frighten" [HVNrmsa]
+- o19: בַ/גּוֹיִם = Hb "in" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HRd/Ncmpa]
+
+### Malachi 3:1 (context)
+
+- o1: הִנְ/נִי = H2005 הֵן "lo!; also (as expressing surprise) if" [HTm/Sp1cs]
+- o2: שֹׁלֵחַ = H7971 שָׁלַח "to send away, for…" [HVqrmsa]
+- o3: מַלְאָכִ/י = H4397 מֲלְאָךְ "a messenger…" [HNcmsc/Sp1cs]
+- o4: וּ/פִנָּה = Hc "and" + H6437 פָּנָה "to turn…" [HC/Vpq3ms]
+- o5: דֶרֶךְ = H1870 דֶּרֶךְ "a road (as trodden)…" [HNcbsa]
+- o6: לְ/פָנָ/י = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp1cs]
+- o7: וּ/פִתְאֹם = Hc "and" + H6597 פִּתְאוֹם "instantly" [HC/D]
+- o8: יָבוֹא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqi3ms]
+- o9: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o10: הֵיכָל/וֹ = H1964 הֵיכָל "a large public building…" [HNcmsc/Sp3ms]
+- o11: הָ/אָדוֹן = Hd "the" + H113 אָדוֹן "sovereign, i.e. controller (human or divine)" [HTd/Ncmsa]
+- o12: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o13: אַתֶּם = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2mp]
+- o14: מְבַקְשִׁים = H1245 בָּקַשׁ "to search out (by any method…" [HVprmpa]
+- o15: וּ/מַלְאַךְ = Hc "and" + H4397 מֲלְאָךְ "a messenger…" [HC/Ncmsc]
+- o16: הַ/בְּרִית = Hd "the" + H1285 בְּרִית "a compact (because made by passing between pieces…" [HTd/Ncfsa]
+- o17: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o18: אַתֶּם = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2mp]
+- o19: חֲפֵצִים = H2655 חָפֵץ "pleased with" [HAampa]
+- o20: הִנֵּה = H2009 הִנֵּה "lo!" [HTm]
+- o21: בָא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqrmsa]
+- o22: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o23: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o24: צְבָאוֹת = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbpa]

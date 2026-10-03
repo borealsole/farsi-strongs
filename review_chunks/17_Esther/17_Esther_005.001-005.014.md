@@ -925,3 +925,37 @@ Persian entries and current tags:
 - p59: را  → H853
 - p60: بسازند  → H6213
 - p61: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Esther 4:17 (context)
+
+- o1: וַ/יַּעֲבֹר = Hc "and" + H5674 עָבַר "to cross over…" [HC/Vqw3ms]
+- o2: מָרְדֳּכָי = H4782 מׇרְדְּכַי "Mordecai, an Israelite" [HNp]
+- o3: וַ/יַּעַשׂ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3ms]
+- o4: כְּ/כֹל = Hk "like" + H3605 כֹּל "properly, the whole…" [HR/Ncmsa]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: צִוְּתָה = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp3fs]
+- o7: עָלָי/ו = H5921 עַל "above, over, upon…" [HR/Sp3ms]
+- o8: אֶסְתֵּר = H635 אֶסְתֵּר "Ester, the Jewish heroine" [HNp]
+
+### Esther 6:1 (context)
+
+- o1: בַּ/לַּיְלָה = Hb "in" + H3915 לַיִל "properly, a twist (away of the light), i.e. night…" [HRd/Ncmsa]
+- o2: הַ/הוּא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3ms]
+- o3: נָדְדָה = H5074 נָדַד "properly…" [HVqp3fs]
+- o4: שְׁנַת = H8142 שֵׁנָה "sleep" [HNcfsc]
+- o5: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o6: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o7: לְ/הָבִיא = Hl "to" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HR/Vhc]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: סֵפֶר = H5612 סֵפֶר "properly, writing (the art or a document)…" [HNcmsc]
+- o10: הַ/זִּכְרֹנוֹת = Hd "the" + H2146 זִכְרוֹן "a memento (or memorable thing, day or writing)" [HTd/Ncmpa]
+- o11: דִּבְרֵי = H1697 דָּבָר "a word…" [HNcmpc]
+- o12: הַ/יָּמִים = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmpa]
+- o13: וַ/יִּהְיוּ = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3mp]
+- o14: נִקְרָאִים = H7121 קָרָא "to call out to (i.e. properly, address by name…" [HVNsmpa]
+- o15: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o16: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]

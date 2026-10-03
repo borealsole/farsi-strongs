@@ -1360,3 +1360,20 @@ Persian entries and current tags:
 - p52: .
 - p53: “
 - p54: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 35:27 (context)
+
+- o1: וּ/דְבָרָי/ו = Hc "and" + H1697 דָּבָר "a word…" [HC/Ncmpc/Sp3ms]
+- o2: הָ/רִאשֹׁנִים = Hd "the" + H7223 רִאשׁוֹן "first, in place…" [HTd/Aampa]
+- o3: וְ/הָ/אַחֲרֹנִים = Hc "and" + Hd "the" + H314 אַחֲרוֹן "hinder; generally, late or last…" [HC/Td/Aampa]
+- o4: הִנָּ/ם = H2005 הֵן "lo!; also (as expressing surprise) if" [HTm/Sp3mp]
+- o5: כְּתוּבִים = H3789 כָּתַב "to grave, by implication, to write (describe…" [HVqsmpa]
+- o6: עַל = H5921 עַל "above, over, upon…" [HR]
+- o7: סֵפֶר = H5612 סֵפֶר "properly, writing (the art or a document)…" [HNcmsc]
+- o8: מַלְכֵי = H4428 מֶלֶךְ "a king" [HNcmpc]
+- o9: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o10: וִ/יהוּדָה = Hc "and" + H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HC/Np]

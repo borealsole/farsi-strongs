@@ -1191,3 +1191,41 @@ Persian entries and current tags:
 - p18: چنین  → H1697
 - p19: کنی
 - p20: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 23:25 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: תָבֹא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqi2ms]
+- o3: בְּ/קָמַת = Hb "in" + H7054 קָמָה "something that rises, i.e. a stalk of grain" [HR/Ncfsc]
+- o4: רֵעֶ/ךָ = H7453 רֵעַ "an associate (more or less close)" [HNcmsc/Sp2ms]
+- o5: וְ/קָטַפְתָּ = Hc "and" + H6998 קָטַף "to strip off" [HC/Vqq2ms]
+- o6: מְלִילֹת = H4425 מְלִילָה "a head of grain (as cut off)" [HNcfpa]
+- o7: בְּ/יָדֶ/ךָ = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc/Sp2ms]
+- o8: וְ/חֶרְמֵשׁ = Hc "and" + H2770 חֶרְמֵשׁ "a sickle (as cutting)" [HC/Ncmsa]
+- o9: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o10: תָנִיף = H5130 נוּף "to quiver (i.e. vibrate up and down…" [HVhi2ms]
+- o11: עַל = H5921 עַל "above, over, upon…" [HR]
+- o12: קָמַת = H7054 קָמָה "something that rises, i.e. a stalk of grain" [HNcfsc]
+- o13: רֵעֶ/ךָ = H7453 רֵעַ "an associate (more or less close)" [HNcmsc/Sp2ms]
+
+### Deuteronomy 25:1 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o3: רִיב = H7379 רִיב "a contest (personal or legal)" [HNcbsa]
+- o4: בֵּין = H996 בֵּין "between (repeated before each noun…" [HR]
+- o5: אֲנָשִׁים = H376 אִישׁ "a man as an individual or a male person…" [HNcmpa]
+- o6: וְ/נִגְּשׁוּ = Hc "and" + H5066 נָגַשׁ "to be or come (causatively…" [HC/VNq3cp]
+- o7: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o8: הַ/מִּשְׁפָּט = Hd "the" + H4941 מִשְׁפָּט "properly…" [HTd/Ncmsa]
+- o9: וּ/שְׁפָטוּ/ם = Hc "and" + H8199 שָׁפַט "to judge…" [HC/Vqq3cp/Sp3mp]
+- o10: וְ/הִצְדִּיקוּ = Hc "and" + H6663 צָדַק "to be (causatively…" [HC/Vhq3cp]
+- o11: אֶת = H853 אֵת "properly…" [HTo]
+- o12: הַ/צַּדִּיק = Hd "the" + H6662 צַדִּיק "just" [HTd/Aamsa]
+- o13: וְ/הִרְשִׁיעוּ = Hc "and" + H7561 רָשַׁע "to be (causatively, do or declare) wrong…" [HC/Vhq3cp]
+- o14: אֶת = H853 אֵת "properly…" [HTo]
+- o15: הָ/רָשָׁע = Hd "the" + H7563 רָשָׁע "morally wrong…" [HTd/Aamsa]

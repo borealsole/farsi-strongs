@@ -321,3 +321,34 @@ Persian entries and current tags:
 - p12: چشمۀ  → H4599
 - p13: آب  → H4325
 - p14: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 113:9 (context)
+
+- o1: מוֹשִׁיבִי = H3427 יָשַׁב "properly…" [HVhrmsc]
+- o2: עֲקֶרֶת = H6135 עָקָר "sterile (as if extirpated in the generative…" [HAafsc]
+- o3: הַ/בַּיִת = Hd "the" + H1004 בַּיִת "a house (in the greatest variation of…" [HTd/Ncmsa]
+- o4: אֵם = H517 אֵם "a mother (as the bond of the family)…" [HNcfsc]
+- o5: הַ/בָּנִים = Hd "the" + H1121 בֵּן "a son (as a builder of the family name)…" [HTd/Ncmpa]
+- o6: שְׂמֵחָה = H8056 שָׂמֵחַ "blithe or gleeful" [HAafsa]
+- o7: הַלְלוּ = H1984 הָלַל "to be clear (orig. of sound…" [HVpv2mp]
+- o8: יָהּ = H3050 יָהּ "Jah, the sacred name" [HNp]
+
+### Psalms 115:1 (context)
+
+- o1: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o2: לָ/נוּ = Hl "to" [HR/Sp1cp]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o5: לָ/נוּ = Hl "to" [HR/Sp1cp]
+- o6: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o7: לְ/שִׁמְ/ךָ = Hl "to" + H8034 שֵׁם "an appellation…" [HR/Ncmsc/Sp2ms]
+- o8: תֵּן = H5414 נָתַן "to give…" [HVqv2ms]
+- o9: כָּבוֹד = H3519 כָּבוֹד "properly, weight…" [HNcbsa]
+- o10: עַל = H5921 עַל "above, over, upon…" [HR]
+- o11: חַסְדְּ/ךָ = H2617 חֵסֵד "kindness; by implication (towards God) piety…" [HNcmsc/Sp2ms]
+- o12: עַל = H5921 עַל "above, over, upon…" [HR]
+- o13: אֲמִתֶּ/ךָ = H571 אֶמֶת "stability…" [HNcfsc/Sp2ms]

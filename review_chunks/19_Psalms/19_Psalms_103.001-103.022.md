@@ -804,3 +804,30 @@ Persian entries and current tags:
 - p20: متبارک  → H1288
 - p21: بخوان  → H5315
 - p22: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 102:28 (context)
+
+- o1: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o2: עֲבָדֶי/ךָ = H5650 עֶבֶד "a servant" [HNcmpc/Sp2ms]
+- o3: יִשְׁכּוֹנוּ = H7931 שָׁכַן "to reside or permanently stay (literally or…" [HVqi3mp]
+- o4: וְ/זַרְעָ/ם = Hc "and" + H2233 זֶרַע "seed…" [HC/Ncmsc/Sp3mp]
+- o5: לְ/פָנֶי/ךָ = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp2ms]
+- o6: יִכּוֹן = H3559 כּוּן "properly, to be erect (i.e. stand perpendicular)…" [HVNi3ms]
+
+### Psalms 104:1 (context)
+
+- o1: בָּרֲכִי = H1288 בָרַךְ "to kneel…" [HVpv2fs]
+- o2: נַפְשִׁ/י = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsc/Sp1cs]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o6: אֱלֹהַ/י = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp1cs]
+- o7: גָּדַלְתָּ = H1431 גָּדַל "to be (causatively make) large (in various senses…" [HVqp2ms]
+- o8: מְּאֹד = H3966 מְאֹד "properly, vehemence…" [HD]
+- o9: הוֹד = H1935 הוֹד "grandeur (i.e. an imposing form and appearance)" [HNcmsa]
+- o10: וְ/הָדָר = Hc "and" + H1926 הָדָר "magnificence, i.e. ornament or splendor" [HC/Ncmsa]
+- o11: לָבָשְׁתָּ = H3847 לָבַשׁ "properly, wrap around…" [HVqp2ms]

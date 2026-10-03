@@ -739,3 +739,34 @@ Persian entries and current tags:
 - p11: را
 - p12: بازگویند  → H5608
 - p13: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 106:48 (context)
+
+- o1: בָּרוּךְ = H1288 בָרַךְ "to kneel…" [HVqsmsa]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֱלֹהֵי = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc]
+- o4: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o5: מִן = H4480 מִן "properly, a part of…" [HR]
+- o6: הָ/עוֹלָם = Hd "the" + H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HTd/Ncmsa]
+- o7: וְ/עַד = Hc "and" + H5704 עַד "as far (or long, or much) as…" [HC/R]
+- o8: הָ/עוֹלָם = Hd "the" + H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HTd/Ncmsa]
+- o9: וְ/אָמַר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqq3ms]
+- o10: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o11: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o12: אָמֵן = H543 אָמֵן "sure; abstract, faithfulness; adverb, truly" [HD]
+- o13: הַלְלוּ = H1984 הָלַל "to be clear (orig. of sound…" [HVpv2mp]
+- o14: יָהּ = H3050 יָהּ "Jah, the sacred name" [HNp]
+
+### Psalms 107:23 (context)
+
+- o1: יוֹרְדֵי = H3381 יָרַד "to descend (literally, to go downwards…" [HVqrmpc]
+- o2: הַ/יָּם = Hd "the" + H3220 יָם "a sea (as breaking in noisy surf) or large body…" [HTd/Ncmsa]
+- o3: בָּ/אֳנִיּוֹת = Hb "in" + H591 אֳנִיָּה "a ship" [HR/Ncfpa]
+- o4: עֹשֵׂי = H6213 עָשָׂה "to do or make…" [HVqrmpc]
+- o5: מְלָאכָה = H4399 מְלָאכָה "properly, deputyship, i.e. ministry…" [HNcfsa]
+- o6: בְּ/מַיִם = Hb "in" + H4325 מַיִם "water; figuratively, juice…" [HR/Ncmpa]
+- o7: רַבִּים = H7227 רַב "abundant (in quantity, size, age, number, rank…" [HAampa]

@@ -888,3 +888,39 @@ Persian entries and current tags:
 - p22: خداوند  → H3068
 - p23: بنا کرد  → H1129
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 12:20 (context)
+
+- o1: וַ/יְצַו = Hc "and" + H6680 צָוָה "(intensively) to constitute, enjoin" [HC/Vpw3ms]
+- o2: עָלָי/ו = H5921 עַל "above, over, upon…" [HR/Sp3ms]
+- o3: פַּרְעֹה = H6547 פַּרְעֹה "Paroh, a general title of Egyptian kings" [HNp]
+- o4: אֲנָשִׁים = H376 אִישׁ "a man as an individual or a male person…" [HNcmpa]
+- o5: וַ/יְשַׁלְּחוּ = Hc "and" + H7971 שָׁלַח "to send away, for…" [HC/Vpw3mp]
+- o6: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o7: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o8: אִשְׁתּ/וֹ = H802 אִשָּׁה "a woman" [HNcfsc/Sp3ms]
+- o9: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o10: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o11: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o12: ל/וֹ = Hl "to" [HR/Sp3ms]
+
+### Genesis 14:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: בִּ/ימֵי = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmpc]
+- o3: אַמְרָפֶל = H569 אַמְרָפֶל "Amraphel, a king of Shinar" [HNp]
+- o4: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o5: שִׁנְעָר = H8152 שִׁנְעָר "Shinar, a plain in Babylonia" [HNp]
+- o6: אַרְיוֹךְ = H746 אֲרְיוֹךְ "Arjok, the name of two Babylonians" [HNp]
+- o7: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o8: אֶלָּסָר = H495 אֶלָּסָר "Ellasar, an early country of Asia" [HNp]
+- o9: כְּדָרְלָעֹמֶר = H3540 כְּדׇרְלָעֹמֶר "Kedorlaomer, an early Persian king" [HNp]
+- o10: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o11: עֵילָם = H5867 עֵילָם "Elam, a son of Shem and his descendants…" [HNp]
+- o12: וְ/תִדְעָל = Hc "and" + H8413 תִּדְעָל "Tidal, a Canaanite" [HC/Np]
+- o13: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o14: גּוֹיִם = H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HNp]

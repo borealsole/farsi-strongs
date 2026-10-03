@@ -910,3 +910,43 @@ Persian entries and current tags:
 - p33: رفتیم  → H935
 - p34: .
 - p35: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 9:27 (context)
+
+- o1: הֵמָּה = H1992 הֵם "they (only used when emphatic)" [HPp3mp]
+- o2: יוֹרְדִים = H3381 יָרַד "to descend (literally, to go downwards…" [HVqrmpa]
+- o3: בִּ/קְצֵה = Hb "in" + H7097 קָצֶה "an extremity" [HR/Ncbsc]
+- o4: הָ/עִיר = Hd "the" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HTd/Ncfsa]
+- o5: וּ/שְׁמוּאֵל = Hc "and" + H8050 שְׁמוּאֵל "Shemuel, the name of three Israelites" [HC/Np]
+- o6: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o7: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o8: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o9: אֱמֹר = H559 אָמַר "to say (used with great latitude)" [HVqv2ms]
+- o10: לַ/נַּעַר = Hl "to" + H5288 נַעַר "concretely) a boy (as active)…" [HRd/Ncmsa]
+- o11: וְ/יַעֲבֹר = Hc "and" + H5674 עָבַר "to cross over…" [HC/Vqi3ms]
+- o12: לְ/פָנֵי/נוּ = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp1cp]
+- o13: וַ/יַּעֲבֹר = Hc "and" + H5674 עָבַר "to cross over…" [HC/Vqw3ms]
+- o14: וְ/אַתָּה = Hc "and" + H859 אַתָּה "thou and thee, or (plural) ye and you" [HC/Pp2ms]
+- o15: עֲמֹד = H5975 עָמַד "to stand…" [HVqv2ms]
+- o16: כַּ/יּוֹם = Hk "like" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
+- o17: וְ/אַשְׁמִיעֲ/ךָ = Hc "and" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HC/Vhi1cs/Sp2ms]
+- o18: אֶת = H853 אֵת "properly…" [HTo]
+- o19: דְּבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o20: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+
+### I Samuel 10:15 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: דּוֹד = H1730 דּוֹד "figuratively) to love…" [HNcmsc]
+- o3: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o4: הַגִּידָ/ה = H5046 נָגַד "properly, to front…" [HVhv2ms/Sh]
+- o5: נָּא = H4994 נָא "'I pray', 'now', or 'then'…" [HTj]
+- o6: לִ/י = Hl "to" [HR/Sp1cs]
+- o7: מָה = H4100 מָה "properly…" [HTi]
+- o8: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o9: לָ/כֶם = Hl "to" [HR/Sp2mp]
+- o10: שְׁמוּאֵל = H8050 שְׁמוּאֵל "Shemuel, the name of three Israelites" [HNp]

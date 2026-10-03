@@ -999,3 +999,18 @@ Persian entries and current tags:
 - p35: اَرامی  → H758
 - p36: صادر می‌شد  → H3318
 - p37: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 2:1 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o3: לִ/בְנוֹת = Hl "to" + H1129 בָּנָה "to build (literally and figuratively)" [HR/Vqc]
+- o4: בַּיִת = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsa]
+- o5: לְ/שֵׁם = Hl "to" + H8034 שֵׁם "an appellation…" [HR/Ncmsc]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: וּ/בַיִת = Hc "and" + H1004 בַּיִת "a house (in the greatest variation of…" [HC/Ncmsa]
+- o8: לְ/מַלְכוּת/וֹ = Hl "to" + H4438 מַלְכוּת "a rule; concretely, a dominion" [HR/Ncfsc/Sp3ms]

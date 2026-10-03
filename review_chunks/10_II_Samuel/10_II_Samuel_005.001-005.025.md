@@ -1273,3 +1273,45 @@ Persian entries and current tags:
 - p19: جازِر  → H1507
 - p20: شکست داد  → H5221
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 4:12 (context)
+
+- o1: וַ/יְצַו = Hc "and" + H6680 צָוָה "(intensively) to constitute, enjoin" [HC/Vpw3ms]
+- o2: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: הַ/נְּעָרִים = Hd "the" + H5288 נַעַר "concretely) a boy (as active)…" [HTd/Ncmpa]
+- o5: וַ/יַּהַרְגוּ/ם = Hc "and" + H2026 הָרַג "to smite with deadly intent" [HC/Vqw3mp/Sp3mp]
+- o6: וַ/יְקַצְּצוּ = Hc "and" + H7112 קָצַץ "to chop off (literally or figuratively)" [HC/Vpw3mp]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: יְדֵי/הֶם = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbdc/Sp3mp]
+- o9: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o10: רַגְלֵי/הֶם = H7272 רֶגֶל "a foot (as used in walking)…" [HNcfdc/Sp3mp]
+- o11: וַ/יִּתְלוּ = Hc "and" + H8518 תָּלָה "to suspend (especially to gibbet)" [HC/Vqw3mp]
+- o12: עַל = H5921 עַל "above, over, upon…" [HR]
+- o13: הַ/בְּרֵכָה = Hd "the" + H1295 בְּרֵכָה "a reservoir (at which camels kneel as a…" [HTd/Ncfsa]
+- o14: בְּ/חֶבְרוֹן = Hb "in" + H2275 חֶבְרוֹן "Chebron, a place in Palestine…" [HR/Np]
+- o15: וְ/אֵת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o16: רֹאשׁ = H7218 רֹאשׁ "the head (as most easily shaken)…" [HNcmsc]
+- o17: אִישׁ = H378 אִישׁ־בֹּשֶׁת "Ish-Bosheth, a son of King Saul" [HNp]
+- o18: בֹּשֶׁת = H378 אִישׁ־בֹּשֶׁת "Ish-Bosheth, a son of King Saul" [HNp]
+- o19: לָקָחוּ = H3947 לָקַח "to take (in the widest variety of applications)" [HVqp3cp]
+- o20: וַ/יִּקְבְּרוּ = Hc "and" + H6912 קָבַר "to inter" [HC/Vqw3mp]
+- o21: בְ/קֶבֶר = Hb "in" + H6913 קֶבֶר "a sepulchre" [HR/Ncmsc]
+- o22: אַבְנֵר = H74 אַבְנֵר "Abner, an Israelite" [HNp]
+- o23: בְּ/חֶבְרוֹן = Hb "in" + H2275 חֶבְרוֹן "Chebron, a place in Palestine…" [HR/Np]
+
+### II Samuel 6:1 (context)
+
+- o1: וַ/יֹּסֶף = Hc "and" + H622 אָסַף "to gather for any purpose…" [HC/Vqw3ms]
+- o2: עוֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+- o3: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o6: בָּחוּר = H977 בָּחַר "properly, to try, i.e. (by implication) select" [HVqsmsa]
+- o7: בְּ/יִשְׂרָאֵל = Hb "in" + H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HR/Np]
+- o8: שְׁלֹשִׁים = H7970 שְׁלוֹשִׁים "thirty; or (ordinal) thirtieth" [HAcbpa]
+- o9: אָלֶף = H505 אֶלֶף "hence (the ox's head being the first letter of…" [HAcbsa]

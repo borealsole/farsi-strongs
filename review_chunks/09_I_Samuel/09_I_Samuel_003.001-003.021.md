@@ -1128,3 +1128,50 @@ Persian entries and current tags:
 - p21: سموئیل  → H8050
 - p22: ظاهر می‌ساخت  → H7200
 - p23: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 2:36 (context)
+
+- o1: וְ/הָיָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3ms]
+- o2: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: הַ/נּוֹתָר = Hd "the" + H3498 יָתַר "to jut over or exceed; by implication, to excel…" [HTd/VNrmsa]
+- o4: בְּ/בֵיתְ/ךָ = Hb "in" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc/Sp2ms]
+- o5: יָבוֹא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqi3ms]
+- o6: לְ/הִשְׁתַּחֲוֺת = Hl "to" + H7812 שָׁחָה "to depress, i.e. prostrate (especially reflexive…" [HR/Vtc]
+- o7: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o8: לַ/אֲגוֹרַת = Hl "to" + H95 אֲגוֹרָה "properly, something gathered…" [HR/Ncfsc]
+- o9: כֶּסֶף = H3701 כֶּסֶף "silver (from its pale color)…" [HNcmsa]
+- o10: וְ/כִכַּר = Hc "and" + H3603 כִּכָּר "a circle…" [HC/Ncbsc]
+- o11: לָחֶם = H3899 לֶחֶם "food (for man or beast), especially bread…" [HNcbsa]
+- o12: וְ/אָמַר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqq3ms]
+- o13: סְפָחֵ/נִי = H5596 סָפַח "properly, to scrape out…" [HVqv2ms/Sp1cs]
+- o14: נָא = H4994 נָא "'I pray', 'now', or 'then'…" [HTe]
+- o15: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o16: אַחַת = H259 אֶחָד "properly, united, i.e. one…" [HAcfsa]
+- o17: הַ/כְּהֻנּוֹת = Hd "the" + H3550 כְּהֻנָּה "priesthood" [HTd/Ncfpa]
+- o18: לֶ/אֱכֹל = Hl "to" + H398 אָכַל "to eat (literally or figuratively)" [HR/Vqc]
+- o19: פַּת = H6595 פַּת "a bit" [HNcfsc]
+- o20: לָחֶם = H3899 לֶחֶם "food (for man or beast), especially bread…" [HNcbsa]
+
+### I Samuel 4:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o3: שְׁמוּאֵל = H8050 שְׁמוּאֵל "Shemuel, the name of three Israelites" [HNp]
+- o4: לְ/כָל = Hl "to" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o5: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o6: וַ/יֵּצֵא = Hc "and" + H3318 יָצָא "to go (causatively, bring) out…" [HC/Vqw3ms]
+- o7: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o8: לִ/קְרַאת = Hl "to" + H7122 קָרָא "to encounter…" [HR/Vqc]
+- o9: פְּלִשְׁתִּים = H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HNgmpa]
+- o10: לַ/מִּלְחָמָה = Hl "to" + H4421 מִלְחָמָה "a battle (i.e. the engagement)…" [HRd/Ncfsa]
+- o11: וַ/יַּחֲנוּ = Hc "and" + H2583 חָנָה "properly, to incline…" [HC/Vqw3mp]
+- o12: עַל = H5921 עַל "above, over, upon…" [HR]
+- o13: הָ/אֶבֶן = Hd "the" + H72 אֶבֶן הָעֵזֶר "Eben-ha-Ezer, a place in Palestine" [HTd/Np]
+- o14: הָעֵזֶר = H72 אֶבֶן הָעֵזֶר "Eben-ha-Ezer, a place in Palestine" [HNp]
+- o15: וּ/פְלִשְׁתִּים = Hc "and" + H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HC/Ngmpa]
+- o16: חָנוּ = H2583 חָנָה "properly, to incline…" [HVqp3cp]
+- o17: בַ/אֲפֵק = Hb "in" + H663 אֲפֵק "Aphek (or Aphik)…" [HR/Np]

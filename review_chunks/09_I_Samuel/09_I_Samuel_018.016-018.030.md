@@ -895,3 +895,38 @@ Persian entries and current tags:
 - p28: بسیار  → H3966
 - p29: شهرت یافت  → H3365
 - p30: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 18:15 (context)
+
+- o1: וַ/יַּרְא = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw3ms]
+- o2: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o3: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o4: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o5: מַשְׂכִּיל = H7919 שָׂכַל "to be (causatively…" [HVhrmsa]
+- o6: מְאֹד = H3966 מְאֹד "properly, vehemence…" [HD]
+- o7: וַ/יָּגָר = Hc "and" + H1481 גּוּר "properly…" [HC/Vqw3ms]
+- o8: מִ/פָּנָי/ו = Hm "from" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp3ms]
+
+### I Samuel 19:1 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: יוֹנָתָן = H3129 יוֹנָתָן "Jonathan, the name of ten Israelites" [HNp]
+- o5: בְּנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o6: וְ/אֶל = Hc "and" + H413 אֵל "near, with or among; often in general, to" [HC/R]
+- o7: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o8: עֲבָדָי/ו = H5650 עֶבֶד "a servant" [HNcmpc/Sp3ms]
+- o9: לְ/הָמִית = Hl "to" + H4191 מוּת "to die (literally or figuratively)…" [HR/Vhc]
+- o10: אֶת = H853 אֵת "properly…" [HTo]
+- o11: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o12: וִ/יהוֹנָתָן = Hc "and" + H3129 יוֹנָתָן "Jonathan, the name of ten Israelites" [HC/Np]
+- o13: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o14: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o15: חָפֵץ = H2654 חָפֵץ "properly, to incline to…" [HVqp3ms]
+- o16: בְּ/דָוִד = Hb "in" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o17: מְאֹד = H3966 מְאֹד "properly, vehemence…" [HD]

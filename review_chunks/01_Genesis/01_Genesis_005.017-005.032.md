@@ -680,3 +680,38 @@ Persian entries and current tags:
 - p11: را  → H853
 - p12: آورد  → H3205
 - p13: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 5:16 (context)
+
+- o1: וַ/יְחִי = Hc "and" + H2421 חָיָה "to live, whether literally or figuratively…" [HC/Vqw3ms]
+- o2: מַהֲלַלְאֵל = H4111 מַהֲלַלְאֵל "Mahalalel…" [HNp]
+- o3: אַחֲרֵי = H310 אַחַר "properly, the hind part…" [HR]
+- o4: הוֹלִיד/וֹ = H3205 יָלַד "to bear young; causatively, to beget…" [HVhc/Sp3ms]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: יֶרֶד = H3382 יֶרֶד "Jered, the name of an antediluvian…" [HNp]
+- o7: שְׁלֹשִׁים = H7970 שְׁלוֹשִׁים "thirty; or (ordinal) thirtieth" [HAcbpa]
+- o8: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o9: וּ/שְׁמֹנֶה = Hc "and" + H8083 שְׁמֹנֶה "a cardinal number…" [HC/Acfsa]
+- o10: מֵאוֹת = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbpa]
+- o11: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o12: וַ/יּוֹלֶד = Hc "and" + H3205 יָלַד "to bear young; causatively, to beget…" [HC/Vhw3ms]
+- o13: בָּנִים = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpa]
+- o14: וּ/בָנוֹת = Hc "and" + H1323 בַּת "a daughter (used in the same wide sense as other…" [HC/Ncfpa]
+
+### Genesis 6:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o3: הֵחֵל = H2490 חָלַל "properly, to bore, i.e. (by implication) to wound…" [HVhp3ms]
+- o4: הָ/אָדָם = Hd "the" + H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HTd/Ncmsa]
+- o5: לָ/רֹב = Hl "to" + H7231 רָבַב "properly, to cast together , i.e. increase…" [HR/Vqc]
+- o6: עַל = H5921 עַל "above, over, upon…" [HR]
+- o7: פְּנֵי = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc]
+- o8: הָ/אֲדָמָה = Hd "the" + H127 אֲדָמָה "soil (from its general redness)" [HTd/Ncfsa]
+- o9: וּ/בָנוֹת = Hc "and" + H1323 בַּת "a daughter (used in the same wide sense as other…" [HC/Ncfpa]
+- o10: יֻלְּדוּ = H3205 יָלַד "to bear young; causatively, to beget…" [HVPp3cp]
+- o11: לָ/הֶם = Hl "to" [HR/Sp3mp]

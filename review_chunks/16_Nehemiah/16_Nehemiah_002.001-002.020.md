@@ -1264,3 +1264,63 @@ Persian entries and current tags:
 - p36: نیست
 - p37: .
 - p38: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Nehemiah 1:11 (context)
+
+- o1: אָנָּא = H577 אָנָּא "oh now!" [HTe]
+- o2: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o3: תְּהִי = H1961 הָיָה "to exist, i.e. be or become…" [HVqj3fs]
+- o4: נָא = H4994 נָא "'I pray', 'now', or 'then'…" [HTe]
+- o5: אָזְנְ/ךָ = H241 אֹזֶן "broadness. i.e. (concrete) the ear (from its form…" [HNcfsc/Sp2ms]
+- o6: קַשֶּׁבֶת = H7183 קַשָּׁב "hearkening" [HAafsa]
+- o7: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o8: תְּפִלַּת = H8605 תְּפִלָּה "intercession, supplication; by implication, a hymn" [HNcfsc]
+- o9: עַבְדְּ/ךָ = H5650 עֶבֶד "a servant" [HNcmsc/Sp2ms]
+- o10: וְ/אֶל = Hc "and" + H413 אֵל "near, with or among; often in general, to" [HC/R]
+- o11: תְּפִלַּת = H8605 תְּפִלָּה "intercession, supplication; by implication, a hymn" [HNcfsc]
+- o12: עֲבָדֶי/ךָ = H5650 עֶבֶד "a servant" [HNcmpc/Sp2ms]
+- o13: הַ/חֲפֵצִים = Hd "the" + H2655 חָפֵץ "pleased with" [HTd/Aampa]
+- o14: לְ/יִרְאָה = Hl "to" + H3372 יָרֵא "to fear; morally, to revere; caus. to frighten" [HR/Vqc]
+- o15: אֶת = H853 אֵת "properly…" [HTo]
+- o16: שְׁמֶ/ךָ = H8034 שֵׁם "an appellation…" [HNcmsc/Sp2ms]
+- o17: וְ/הַצְלִיחָ/ה = Hc "and" + H6743 צָלַח "to push forward…" [HC/Vhv2ms/Sh]
+- o18: נָּא = H4994 נָא "'I pray', 'now', or 'then'…" [HTj]
+- o19: לְ/עַבְדְּ/ךָ = Hl "to" + H5650 עֶבֶד "a servant" [HR/Ncmsc/Sp2ms]
+- o20: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o21: וּ/תְנֵ/הוּ = Hc "and" + H5414 נָתַן "to give…" [HC/Vqv2ms/Sp3ms]
+- o22: לְ/רַחֲמִים = Hl "to" + H7356 רַחַם "compassion (in the plural)…" [HR/Ncmpa]
+- o23: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o24: הָ/אִישׁ = Hd "the" + H376 אִישׁ "a man as an individual or a male person…" [HTd/Ncmsa]
+- o25: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o26: וַ/אֲנִי = Hc "and" + H589 אֲנִי "I" [HC/Pp1cs]
+- o27: הָיִיתִי = H1961 הָיָה "to exist, i.e. be or become…" [HVqp1cs]
+- o28: מַשְׁקֶה = H4945 מַשְׁקֶה "properly, causing to drink, i.e. a butler…" [HNcmsa]
+- o29: לַ/מֶּלֶךְ = Hl "to" + H4428 מֶלֶךְ "a king" [HRd/Ncmsa]
+
+### Nehemiah 3:1 (context)
+
+- o1: וַ/יָּקָם = Hc "and" + H6965 קוּם "to rise (in various applications, literal…" [HC/Vqw3ms]
+- o2: אֶלְיָשִׁיב = H475 אֶלְיָשִׁיב "Eljashib, the name of six Israelites" [HNp]
+- o3: הַ/כֹּהֵן = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmsa]
+- o4: הַ/גָּדוֹל = Hd "the" + H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HTd/Aamsa]
+- o5: וְ/אֶחָי/ו = Hc "and" + H251 אָח "a brother (used in the widest sense of literal…" [HC/Ncmpc/Sp3ms]
+- o6: הַ/כֹּהֲנִים = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmpa]
+- o7: וַ/יִּבְנוּ = Hc "and" + H1129 בָּנָה "to build (literally and figuratively)" [HC/Vqw3mp]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: שַׁעַר = H8179 שַׁעַר "an opening, i.e. door or gate" [HNcmsc]
+- o10: הַ/צֹּאן = Hd "the" + H6629 צֹאן "a collective name for a flock (of sheep or goats)…" [HTd/Ncbsa]
+- o11: הֵמָּה = H1992 הֵם "they (only used when emphatic)" [HPp3mp]
+- o12: קִדְּשׁוּ/הוּ = H6942 קָדַשׁ "to be (causatively, make…" [HVpp3cp/Sp3ms]
+- o13: וַ/יַּעֲמִידוּ = Hc "and" + H5975 עָמַד "to stand…" [HC/Vhw3mp]
+- o14: דַּלְתֹתָי/ו = H1817 דֶּלֶת "something swinging, i.e. the valve of adoor" [HNcfpc/Sp3ms]
+- o15: וְ/עַד = Hc "and" + H5704 עַד "as far (or long, or much) as…" [HC/R]
+- o16: מִגְדַּל = H4026 מִגְדָּל "a tower (from its size or height)…" [HNcbsc]
+- o17: הַ/מֵּאָה = Hd "the" + H3968 מֵאָה "Meah, a tower in Jerusalem" [HTd/Acbsa]
+- o18: קִדְּשׁוּ/הוּ = H6942 קָדַשׁ "to be (causatively, make…" [HVpp3cp/Sp3ms]
+- o19: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o20: מִגְדַּל = H4026 מִגְדָּל "a tower (from its size or height)…" [HNcbsc]
+- o21: חֲנַנְאֵל = H2606 חֲנַנְאֵל "Chananel, probably an Israelite…" [HNp]

@@ -885,3 +885,29 @@ Persian entries and current tags:
 - p29: آن
 - p30: سکونت خواهند_داشت  → H7931
 - p31: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 33:24 (context)
+
+- o1: וּ/בַל = Hc "and" + H1077 בַּל "properly, a failure; by implication nothing…" [HC/Tn]
+- o2: יֹאמַר = H559 אָמַר "to say (used with great latitude)" [HVqi3ms]
+- o3: שָׁכֵן = H7934 שָׁכֵן "a resident; by extension, a fellow-citizen" [HAamsa]
+- o4: חָלִיתִי = H2470 חָלָה "properly, to be rubbed or worn…" [HVqp1cs]
+- o5: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o6: הַ/יֹּשֵׁב = Hd "the" + H3427 יָשַׁב "properly…" [HTd/Vqrmsa]
+- o7: בָּ/הּ = Hb "in" [HR/Sp3fs]
+- o8: נְשֻׂא = H5375 נָשָׂא "to lift, in a great variety of applications…" [HVqsmsc]
+- o9: עָוֺן = H5771 עָוֺן "perversity, i.e. (moral) evil" [HNcbsa]
+
+### Isaiah 35:1 (context)
+
+- o1: יְשֻׂשׂוּ/ם = H7797 שׂוּשׂ "to be bright, i.e. cheerful" [HVqi3mp/Sp3mp]
+- o2: מִדְבָּר = H4057 מִדְבָּר "a pasture (i.e. open field…" [HNcmsa]
+- o3: וְ/צִיָּה = Hc "and" + H6723 צִיָּה "aridity; concretely, a desert" [HC/Ncfsa]
+- o4: וְ/תָגֵל = Hc "and" + H1523 גִּיל "properly…" [HC/Vqi3fs]
+- o5: עֲרָבָה = H6160 עֲרָבָה "a desert…" [HNcfsa]
+- o6: וְ/תִפְרַח = Hc "and" + H6524 פָּרַח "to break forth as a bud, i.e. bloom…" [HC/Vqi3fs]
+- o7: כַּ/חֲבַצָּלֶת = Hk "like" + H2261 חֲבַצֶּלֶת "probably meadow-saffron" [HR/Ncfsa]

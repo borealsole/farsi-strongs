@@ -398,3 +398,32 @@ Persian entries and current tags:
 - p13: سرتاسر  → H3605
 - p14: زمین  → H776
 - p15: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 7:17 (context)
+
+- o1: אוֹדֶה = H3034 יָדָה "physically, to throw (a stone…" [HVhi1cs]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: כְּ/צִדְק/וֹ = Hk "like" + H6664 צֶדֶק "the right (natural, moral or legal)…" [HR/Ncmsc/Sp3ms]
+- o4: וַ/אֲזַמְּרָה = Hc "and" + H2167 זָמַר "play upon it…" [HC/Vph1cs]
+- o5: שֵׁם = H8034 שֵׁם "an appellation…" [HNcmsc]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: עֶלְיוֹן = H5945 עֶלְיוֹן "an elevation, i.e. (adj.) lofty (compar.)…" [HAamsa]
+
+### Psalms 9:1 (context)
+
+- o1: לַ/מְנַצֵּחַ = Hl "to" + H5329 נָצַח "properly, to glitter from afar…" [HRd/Vprmsa]
+- o2: עַלְמוּת = H4192 מוּת "'To die for the son'…" [HNcfsc]
+- o3: לַבֵּן = H4192 מוּת "'To die for the son'…" [HNp]
+- o4: מִזְמוֹר = H4210 מִזְמוֹר "properly, instrumental music…" [HNcmsa]
+- o5: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o6: אוֹדֶה = H3034 יָדָה "physically, to throw (a stone…" [HVhi1cs]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: בְּ/כָל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o9: לִבִּ/י = H3820 לֵב "the heart…" [HNcmsc/Sp1cs]
+- o10: אֲסַפְּרָה = H5608 סָפַר "properly…" [HVph1cs]
+- o11: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o12: נִפְלְאוֹתֶי/ךָ = H6381 פָּלָא "properly, perhaps to separate…" [HVNrfpc/Sp2ms]

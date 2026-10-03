@@ -1052,3 +1052,43 @@ Persian entries and current tags:
 - p26: را  → H853
 - p27: ذبح کرده  → H7819
 - p28: ،
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 13:59 (context)
+
+- o1: זֹאת = H2063 זֹאת "this (often used adverb)" [HPdxfs]
+- o2: תּוֹרַת = H8451 תּוֹרָה "a precept or statute…" [HNcfsc]
+- o3: נֶגַע = H5061 נֶגַע "a blow (figuratively, infliction)…" [HNcmsc]
+- o4: צָרַעַת = H6883 צָרַעַת "leprosy" [HNcfsc]
+- o5: בֶּגֶד = H899 בֶּגֶד "a covering, i.e. clothing…" [HNcmsc]
+- o6: הַ/צֶּמֶר = Hd "the" + H6785 צֶמֶר "wool" [HTd/Ncmsa]
+- o7: אוֹ = H176 אוֹ "desire (and so probably in Proverbs 31:4)…" [HC]
+- o8: הַ/פִּשְׁתִּים = Hd "the" + H6593 פִּשְׁתֶּה "linen (i.e. the thread, as carded)" [HTd/Ncmpa]
+- o9: אוֹ = H176 אוֹ "desire (and so probably in Proverbs 31:4)…" [HC]
+- o10: הַ/שְּׁתִי = Hd "the" + H8359 שְׁתִי "a fixture, i.e. the warp in weaving" [HTd/Ncmsa]
+- o11: אוֹ = H176 אוֹ "desire (and so probably in Proverbs 31:4)…" [HC]
+- o12: הָ/עֵרֶב = Hd "the" + H6154 עֵרֶב "the web (or transverse threads of cloth)…" [HTd/Ncmsa]
+- o13: אוֹ = H176 אוֹ "desire (and so probably in Proverbs 31:4)…" [HC]
+- o14: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o15: כְּלִי = H3627 כְּלִי "something prepared…" [HNcmsc]
+- o16: עוֹר = H5785 עוֹר "skin (as naked); by implication, hide, leather" [HNcmsa]
+- o17: לְ/טַהֲר/וֹ = Hl "to" + H2891 טָהֵר "to be pure (physical sound, clear, unadulterated…" [HR/Vpc/Sp3ms]
+- o18: אוֹ = H176 אוֹ "desire (and so probably in Proverbs 31:4)…" [HC]
+- o19: לְ/טַמְּא/וֹ = Hl "to" + H2930 טָמֵא "to be foul…" [HR/Vpc/Sp3ms]
+
+### Leviticus 14:20 (context)
+
+- o1: וְ/הֶעֱלָה = Hc "and" + H5927 עָלָה "to ascend…" [HC/Vhq3ms]
+- o2: הַ/כֹּהֵן = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmsa]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: הָ/עֹלָה = Hd "the" + H5930 עֹלָה "a step or (collectively, stairs, as ascending)…" [HTd/Ncfsa]
+- o5: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o6: הַ/מִּנְחָה = Hd "the" + H4503 מִנְחָה "a donation; euphemistically, tribute…" [HTd/Ncfsa]
+- o7: הַ/מִּזְבֵּחָ/ה = Hd "the" + H4196 מִזְבֵּחַ "an altar" [HTd/Ncmsa/Sd]
+- o8: וְ/כִפֶּר = Hc "and" + H3722 כָּפַר "to cover (specifically with bitumen)…" [HC/Vpq3ms]
+- o9: עָלָי/ו = H5921 עַל "above, over, upon…" [HR/Sp3ms]
+- o10: הַ/כֹּהֵן = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmsa]
+- o11: וְ/טָהֵר = Hc "and" + H2891 טָהֵר "to be pure (physical sound, clear, unadulterated…" [HC/Vqq3ms]

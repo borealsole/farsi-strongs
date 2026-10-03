@@ -790,3 +790,41 @@ Persian entries and current tags:
 - p31: اَرامی  → H758
 - p32: صادر می‌کردند  → H3318
 - p33: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 10:14 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: מִשְׁקַל = H4948 מִשְׁקָל "weight (numerically estimated)…" [HNcmsc]
+- o3: הַ/זָּהָב = Hd "the" + H2091 זָהָב "gold, figuratively…" [HTd/Ncmsa]
+- o4: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o5: בָּא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3ms]
+- o6: לִ/שְׁלֹמֹה = Hl "to" + H8010 שְׁלֹמֹה "Shelomah, David's successor" [HR/Np]
+- o7: בְּ/שָׁנָה = Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HR/Ncfsa]
+- o8: אֶחָת = H259 אֶחָד "properly, united, i.e. one…" [HAcfsa]
+- o9: שֵׁשׁ = H8337 שֵׁשׁ "six (as an overplus beyond five or the fingers of…" [HAcfsa]
+- o10: מֵאוֹת = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbpa]
+- o11: שִׁשִּׁים = H8346 שִׁשִּׁים "sixty" [HAcbpa]
+- o12: וָ/שֵׁשׁ = Hc "and" + H8337 שֵׁשׁ "six (as an overplus beyond five or the fingers of…" [HC/Acfsa]
+- o13: כִּכַּר = H3603 כִּכָּר "a circle…" [HNcbsc]
+- o14: זָהָב = H2091 זָהָב "gold, figuratively…" [HNcmsa]
+
+### I Kings 11:1 (context)
+
+- o1: וְ/הַ/מֶּלֶךְ = Hc "and" + Hd "the" + H4428 מֶלֶךְ "a king" [HC/Td/Ncmsa]
+- o2: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o3: אָהַב = H157 אָהַב "to have affection for (sexually or otherwise)" [HVqp3ms]
+- o4: נָשִׁים = H802 אִשָּׁה "a woman" [HNcfpa]
+- o5: נָכְרִיּוֹת = H5237 נׇכְרִי "strange…" [HAafpa]
+- o6: רַבּוֹת = H7227 רַב "abundant (in quantity, size, age, number, rank…" [HAafpa]
+- o7: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o8: בַּת = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfsc]
+- o9: פַּרְעֹה = H6547 פַּרְעֹה "Paroh, a general title of Egyptian kings" [HNp]
+- o10: מוֹאֲבִיּוֹת = H4125 מוֹאָבִי "a Moabite or Moabitess…" [HNgfpa]
+- o11: עַמֳּנִיּוֹת = H5984 עַמּוֹנִי "an Ammonite or (the adjective) Ammonitish" [HNgfpa]
+- o12: אֲדֹמִיֹּת = H130 אֱדֹמִי "an Edomite…" [HNgfpa]
+- o13: צֵדְנִיֹּת = H6722 צִידֹנִי "a Tsidonian or inhabitant of Tsidon" [HNgfpa]
+- o14: חִתִּיֹּת = H2850 חִתִּי "a Chittite, or descendant of Cheth" [HNgfpa]

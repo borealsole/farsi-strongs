@@ -1115,3 +1115,61 @@ Persian entries and current tags:
 - p43: کردم
 - p44: .
 - p45: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 44:15 (context)
+
+- o1: וַ/יַּעֲנוּ = Hc "and" + H6030 עָנָה "properly, to eye or (generally) to heed…" [HC/Vqw3mp]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: יִרְמְיָהוּ = H3414 יִרְמְיָה "Jirmejah, the name of eight or nine Israelites" [HNp]
+- o4: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o5: הָ/אֲנָשִׁים = Hd "the" + H376 אִישׁ "a man as an individual or a male person…" [HTd/Ncmpa]
+- o6: הַ/יֹּדְעִים = Hd "the" + H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HTd/Vqrmpa]
+- o7: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o8: מְקַטְּרוֹת = H6999 קָטַר "to smoke…" [HVprfpa]
+- o9: נְשֵׁי/הֶם = H802 אִשָּׁה "a woman" [HNcfpc/Sp3mp]
+- o10: לֵ/אלֹהִים = Hl "to" + H430 אֱלֹהִים "gods in the ordinary sense…" [HR/Ncmpa]
+- o11: אֲחֵרִים = H312 אַחֵר "properly, hinder; generally, next, other, etc" [HAampa]
+- o12: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o13: הַ/נָּשִׁים = Hd "the" + H802 אִשָּׁה "a woman" [HTd/Ncfpa]
+- o14: הָ/עֹמְדוֹת = Hd "the" + H5975 עָמַד "to stand…" [HTd/Vqrfpa]
+- o15: קָהָל = H6951 קָהָל "assemblage (usually concretely)" [HNcmsa]
+- o16: גָּדוֹל = H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HAamsa]
+- o17: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o18: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o19: הַ/יֹּשְׁבִים = Hd "the" + H3427 יָשַׁב "properly…" [HTd/Vqrmpa]
+- o20: בְּ/אֶרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o21: מִצְרַיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o22: בְּ/פַתְרוֹס = Hb "in" + H6624 פַּתְרוֹס "Pathros, a part of Egypt" [HR/Np]
+- o23: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+
+### Jeremiah 45:1 (context)
+
+- o1: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]
+- o2: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o3: דִּבֶּר = H1696 דָבַר "perhaps properly, to arrange…" [HVpp3ms]
+- o4: יִרְמְיָהוּ = H3414 יִרְמְיָה "Jirmejah, the name of eight or nine Israelites" [HNp]
+- o5: הַ/נָּבִיא = Hd "the" + H5030 נָבִיא "a prophet or (generally) inspired man" [HTd/Ncmsa]
+- o6: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o7: בָּרוּךְ = H1263 בָּרוּךְ "Baruk, the name of three Israelites" [HNp]
+- o8: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o9: נֵרִיָּה = H5374 נֵרִיָּה "Nerijah, an Israelite" [HNp]
+- o10: בְּ/כָתְב/וֹ = Hb "in" + H3789 כָּתַב "to grave, by implication, to write (describe…" [HR/Vqc/Sp3ms]
+- o11: אֶת = H853 אֵת "properly…" [HTo]
+- o12: הַ/דְּבָרִים = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmpa]
+- o13: הָ/אֵלֶּה = Hd "the" + H428 אֵלֶּה "these or those" [HTd/Pdxcp]
+- o14: עַל = H5921 עַל "above, over, upon…" [HR]
+- o15: סֵפֶר = H5612 סֵפֶר "properly, writing (the art or a document)…" [HNcmsa]
+- o16: מִ/פִּי = Hm "from" + H6310 פֶּה "the mouth (as the means of blowing)…" [HR/Ncmsc]
+- o17: יִרְמְיָהוּ = H3414 יִרְמְיָה "Jirmejah, the name of eight or nine Israelites" [HNp]
+- o18: בַּ/שָּׁנָה = Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HRd/Ncfsa]
+- o19: הָ/רְבִעִית = Hd "the" + H7243 רְבִיעִי "fourth; also (fractionally) a fourth" [HTd/Aofsa]
+- o20: לִ/יהוֹיָקִים = Hl "to" + H3079 יְהוֹיָקִים "Jehojakim, a Jewish king" [HR/Np]
+- o21: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o22: יֹאשִׁיָּהוּ = H2977 יֹאשִׁיָּה "Joshijah, the name of two Israelites" [HNp]
+- o23: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o24: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o25: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

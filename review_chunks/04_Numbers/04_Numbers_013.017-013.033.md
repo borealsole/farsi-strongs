@@ -957,3 +957,38 @@ Persian entries and current tags:
 - p23: همچنین
 - p24: .
 - p25: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 13:16 (context)
+
+- o1: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o2: שְׁמוֹת = H8034 שֵׁם "an appellation…" [HNcmpc]
+- o3: הָ/אֲנָשִׁים = Hd "the" + H376 אִישׁ "a man as an individual or a male person…" [HTd/Ncmpa]
+- o4: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o5: שָׁלַח = H7971 שָׁלַח "to send away, for…" [HVqp3ms]
+- o6: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o7: לָ/תוּר = Hl "to" + H8446 תּוּר "to meander (causatively, guide) about…" [HR/Vqc]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o10: וַ/יִּקְרָא = Hc "and" + H7121 קָרָא "to call out to (i.e. properly, address by name…" [HC/Vqw3ms]
+- o11: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o12: לְ/הוֹשֵׁעַ = Hl "to" + H1954 הוֹשֵׁעַ "Hoshea, the name of five Israelites" [HR/Np]
+- o13: בִּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o14: נוּן = H5126 נוּן "Nun or Non, the father of Joshua" [HNp]
+- o15: יְהוֹשֻׁעַ = H3091 יְהוֹשׁוּעַ "Jehoshua (i.e. Joshua), the Jewish leader" [HNp]
+
+### Numbers 14:1 (context)
+
+- o1: וַ/תִּשָּׂא = Hc "and" + H5375 נָשָׂא "to lift, in a great variety of applications…" [HC/Vqw3fs]
+- o2: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: הָ/עֵדָה = Hd "the" + H5712 עֵדָה "a stated assemblage (specifically, a concourse…" [HTd/Ncfsa]
+- o4: וַ/יִּתְּנוּ = Hc "and" + H5414 נָתַן "to give…" [HC/Vqw3mp]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: קוֹלָ/ם = H6963 קוֹל "a voice or sound" [HNcmsc/Sp3mp]
+- o7: וַ/יִּבְכּוּ = Hc "and" + H1058 בָּכָה "to weep; generally to bemoan" [HC/Vqw3mp]
+- o8: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o9: בַּ/לַּיְלָה = Hb "in" + H3915 לַיִל "properly, a twist (away of the light), i.e. night…" [HRd/Ncmsa]
+- o10: הַ/הוּא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3ms]

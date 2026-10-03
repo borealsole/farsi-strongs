@@ -534,3 +534,27 @@ Persian entries and current tags:
 - p15: آن
 - p16: خواهد_افتاد  → H5307
 - p17: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 21:31 (context)
+
+- o1: סוּס = H5483 סוּס "a horse (as leaping)…" [HNcmsa]
+- o2: מוּכָן = H3559 כּוּן "properly, to be erect (i.e. stand perpendicular)…" [HVHsmsa]
+- o3: לְ/יוֹם = Hl "to" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmsc]
+- o4: מִלְחָמָה = H4421 מִלְחָמָה "a battle (i.e. the engagement)…" [HNcfsa]
+- o5: וְ/לַ/יהוָה = Hc "and" + Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HC/R/Np]
+- o6: הַ/תְּשׁוּעָה = Hd "the" + H8668 תְּשׁוּעָה "rescue (literal or figurative, persons…" [HTd/Ncfsa]
+
+### Proverbs 22:15 (context)
+
+- o1: אִוֶּלֶת = H200 אִוֶּלֶת "silliness" [HNcfsa]
+- o2: קְשׁוּרָה = H7194 קָשַׁר "to tie, physically (gird, confine…" [HVqsfsa]
+- o3: בְ/לֶב = Hb "in" + H3820 לֵב "the heart…" [HR/Ncmsc]
+- o4: נָעַר = H5288 נַעַר "concretely) a boy (as active)…" [HNcmsa]
+- o5: שֵׁבֶט = H7626 שֵׁבֶט "a scion, i.e. (literally) a stick (for punishing…" [HNcmsc]
+- o6: מוּסָר = H4148 מוּסָר "properly, chastisement…" [HNcmsa]
+- o7: יַרְחִיקֶ/נָּה = H7368 רָחַק "to widen (in any direction)…" [HVhi3ms/Sp3fs]
+- o8: מִמֶּ/נּוּ = H4480 מִן "properly, a part of…" [HR/Sp3ms]

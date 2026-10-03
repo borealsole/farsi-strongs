@@ -690,3 +690,28 @@ Persian entries and current tags:
 - p13: را
 - p14: نگاه می‌دارم  → H5341
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 118:29 (context)
+
+- o1: הוֹדוּ = H3034 יָדָה "physically, to throw (a stone…" [HVhv2mp]
+- o2: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o3: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o4: טוֹב = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAamsa]
+- o5: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o6: לְ/עוֹלָם = Hl "to" + H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HR/Ncmsa]
+- o7: חַסְדּ/וֹ = H2617 חֵסֵד "kindness; by implication (towards God) piety…" [HNcmsc/Sp3ms]
+
+### Psalms 119:23 (context)
+
+- o1: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o2: יָשְׁבוּ = H3427 יָשַׁב "properly…" [HVqp3cp]
+- o3: שָׂרִים = H8269 שַׂר "a head person (of any rank or class)" [HNcmpa]
+- o4: בִּ/י = Hb "in" [HR/Sp1cs]
+- o5: נִדְבָּרוּ = H1696 דָבַר "perhaps properly, to arrange…" [HVNp3cp]
+- o6: עַבְדְּ/ךָ = H5650 עֶבֶד "a servant" [HNcmsc/Sp2ms]
+- o7: יָשִׂיחַ = H7878 שִׂיחַ "to ponder…" [HVqi3ms]
+- o8: בְּ/חֻקֶּי/ךָ = Hb "in" + H2706 חֹק "an enactment…" [HR/Ncmpc/Sp2ms]

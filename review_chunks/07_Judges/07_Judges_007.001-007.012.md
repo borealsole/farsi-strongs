@@ -849,3 +849,55 @@ Persian entries and current tags:
 - p25: بیشمار  → H7230
 - p26: بود
 - p27: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Judges 6:40 (context)
+
+- o1: וַ/יַּעַשׂ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3ms]
+- o2: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o3: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o4: בַּ/לַּיְלָה = Hb "in" + H3915 לַיִל "properly, a twist (away of the light), i.e. night…" [HRd/Ncmsa]
+- o5: הַ/הוּא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3ms]
+- o6: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o7: חֹרֶב = H2721 חֹרֶב "drought or desolation" [HNcmsa]
+- o8: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o9: הַ/גִּזָּה = Hd "the" + H1492 גָּזַּה "a fleece" [HTd/Ncfsa]
+- o10: לְ/בַדָּ/הּ = Hl "to" + H905 בַּד "properly, separation…" [HR/Ncmsc/Sp3fs]
+- o11: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o12: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o13: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o14: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o15: טָל = H2919 טַל "dew (as covering vegetation)" [HNcmsa]
+
+### Judges 7:13 (context)
+
+- o1: וַ/יָּבֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3ms]
+- o2: גִדְעוֹן = H1439 גִּדְעוֹן "Gidon, an Israelite" [HNp]
+- o3: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o4: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o5: מְסַפֵּר = H5608 סָפַר "properly…" [HVprmsa]
+- o6: לְ/רֵעֵ/הוּ = Hl "to" + H7453 רֵעַ "an associate (more or less close)" [HR/Ncmsc/Sp3ms]
+- o7: חֲלוֹם = H2472 חֲלוֹם "a dream" [HNcmsa]
+- o8: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o9: הִנֵּה = H2009 הִנֵּה "lo!" [HTm]
+- o10: חֲלוֹם = H2472 חֲלוֹם "a dream" [HNcmsa]
+- o11: חָלַמְתִּי = H2492 חָלַם "properly, to bind firmly…" [HVqp1cs]
+- o12: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o13: צלול = H6742 צְלוּל "a (round or flattened) cake" [HNcmsc]
+- o14: לֶחֶם = H3899 לֶחֶם "food (for man or beast), especially bread…" [HNcbsc]
+- o15: שְׂעֹרִים = H8184 שְׂעֹרָה "barley (as villose)" [HNcfpa]
+- o16: מִתְהַפֵּךְ = H2015 הָפַךְ "to turn about or over…" [HVtrmsa]
+- o17: בְּ/מַחֲנֵה = Hb "in" + H4264 מַחֲנֶה "an encampment (of travellers or troops)…" [HR/Ncbsc]
+- o18: מִדְיָן = H4080 מִדְיָן "Midjan, a son of Abraham…" [HNp]
+- o19: וַ/יָּבֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3ms]
+- o20: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o21: הָ/אֹהֶל = Hd "the" + H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HTd/Ncmsa]
+- o22: וַ/יַּכֵּ/הוּ = Hc "and" + H5221 נָכָה "to strike (lightly or severely…" [HC/Vhw3ms/Sp3ms]
+- o23: וַ/יִּפֹּל = Hc "and" + H5307 נָפַל "to fall…" [HC/Vqw3ms]
+- o24: וַ/יַּהַפְכֵ/הוּ = Hc "and" + H2015 הָפַךְ "to turn about or over…" [HC/Vqw3ms/Sp3ms]
+- o25: לְ/מַעְלָ/ה = Hl "to" + H4605 מַעַל "properly, the upper part…" [HR/D/Sd]
+- o26: וְ/נָפַל = Hc "and" + H5307 נָפַל "to fall…" [HC/Vqp3ms]
+- o27: הָ/אֹהֶל = Hd "the" + H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HTd/Ncmsa]

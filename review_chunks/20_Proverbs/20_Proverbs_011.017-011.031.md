@@ -551,3 +551,27 @@ Persian entries and current tags:
 - p15: گنهکاران سزایشان  → H2398
 - p16: را
 - p17: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 11:16 (context)
+
+- o1: אֵשֶׁת = H802 אִשָּׁה "a woman" [HNcfsc]
+- o2: חֵן = H2580 חֵן "graciousness, i.e. subjective (kindness…" [HNcmsa]
+- o3: תִּתְמֹךְ = H8551 תָּמַךְ "to sustain; by implication, to obtain, keep fast…" [HVqi3fs]
+- o4: כָּבוֹד = H3519 כָּבוֹד "properly, weight…" [HNcbsa]
+- o5: וְ/עָרִיצִים = Hc "and" + H6184 עָרִיץ "fearful, i.e. powerful or tyrannical" [HC/Aampa]
+- o6: יִתְמְכוּ = H8551 תָּמַךְ "to sustain; by implication, to obtain, keep fast…" [HVqi3mp]
+- o7: עֹשֶׁר = H6239 עֹשֶׁר "wealth" [HNcmsa]
+
+### Proverbs 12:1 (context)
+
+- o1: אֹהֵב = H157 אָהַב "to have affection for (sexually or otherwise)" [HVqrmsa]
+- o2: מוּסָר = H4148 מוּסָר "properly, chastisement…" [HNcmsa]
+- o3: אֹהֵב = H157 אָהַב "to have affection for (sexually or otherwise)" [HVqrmsa]
+- o4: דָּעַת = H1847 דַּעַת "knowledge" [HNcfsa]
+- o5: וְ/שֹׂנֵא = Hc "and" + H8130 שָׂנֵא "to hate (personally)" [HC/Vqrmsa]
+- o6: תוֹכַחַת = H8433 תּוֹכֵחָה "chastisement…" [HNcfsa]
+- o7: בָּעַר = H1198 בַּעַר "properly, foot (as consumed)…" [HAamsa]

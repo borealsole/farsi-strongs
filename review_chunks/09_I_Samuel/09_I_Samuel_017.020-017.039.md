@@ -1206,3 +1206,45 @@ Persian entries and current tags:
 - p48: در
 - p49: آورد
 - p50: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 17:19 (context)
+
+- o1: וְ/שָׁאוּל = Hc "and" + H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HC/Np]
+- o2: וְ/הֵמָּה = Hc "and" + H1992 הֵם "they (only used when emphatic)" [HC/Pp3mp]
+- o3: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o4: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsc]
+- o5: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o6: בְּ/עֵמֶק = Hb "in" + H6010 עֵמֶק "a vale (i.e. broad depression)" [HR/Ncmsc]
+- o7: הָאֵלָה = H425 אֵלָה "Elah, the name of an Edomite, of four Israelites…" [HNp]
+- o8: נִלְחָמִים = H3898 לָחַם "to feed on; figuratively, to consume…" [HVNrmpa]
+- o9: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o10: פְּלִשְׁתִּים = H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HNgmpa]
+
+### I Samuel 17:40 (context)
+
+- o1: וַ/יִּקַּח = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqw3ms]
+- o2: מַקְל/וֹ = H4731 מַקֵּל "a shoot, i.e. stick (with leaves on…" [HNcmsc/Sp3ms]
+- o3: בְּ/יָד/וֹ = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc/Sp3ms]
+- o4: וַ/יִּבְחַר = Hc "and" + H977 בָּחַר "properly, to try, i.e. (by implication) select" [HC/Vqw3ms]
+- o5: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o6: חֲמִשָּׁה = H2568 חָמֵשׁ "five" [HAcmsa]
+- o7: חַלֻּקֵי = H2512 חַלֻּק "smooth" [HAampc]
+- o8: אֲבָנִים = H68 אֶבֶן "a stone" [HNcfpa]
+- o9: מִן = H4480 מִן "properly, a part of…" [HR]
+- o10: הַ/נַּחַל = Hd "the" + H5158 נַחַל "a stream, especially a winter torrent…" [HTd/Ncmsa]
+- o11: וַ/יָּשֶׂם = Hc "and" + H7760 שׂוּם "to put (used in a great variety of applications…" [HC/Vqw3ms]
+- o12: אֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o13: בִּ/כְלִי = Hb "in" + H3627 כְּלִי "something prepared…" [HR/Ncmsc]
+- o14: הָ/רֹעִים = Hd "the" + H7462 רָעָה "to tend a flock; i.e. pasture it…" [HTd/Vqrmpa]
+- o15: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o16: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o17: וּ/בַ/יַּלְקוּט = Hc "and" + Hb "in" + H3219 יַלְקוּט "a travelling pouch (as if for gleanings)" [HC/Rd/Ncmsa]
+- o18: וְ/קַלְּע/וֹ = Hc "and" + H7050 קֶלַע "a sling…" [HC/Ncmsc/Sp3ms]
+- o19: בְ/יָד/וֹ = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc/Sp3ms]
+- o20: וַ/יִּגַּשׁ = Hc "and" + H5066 נָגַשׁ "to be or come (causatively…" [HC/Vqw3ms]
+- o21: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o22: הַ/פְּלִשְׁתִּי = Hd "the" + H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HTd/Ngmsa]

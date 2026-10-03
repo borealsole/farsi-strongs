@@ -917,3 +917,28 @@ Persian entries and current tags:
 - p20: پدرش  → H1
 - p21: کرده_بود  → H6213
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 22:35 (context)
+
+- o1: וַ/תַּעֲלֶה = Hc "and" + H5927 עָלָה "to ascend…" [HC/Vqw3fs]
+- o2: הַ/מִּלְחָמָה = Hd "the" + H4421 מִלְחָמָה "a battle (i.e. the engagement)…" [HTd/Ncfsa]
+- o3: בַּ/יּוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
+- o4: הַ/הוּא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3ms]
+- o5: וְ/הַ/מֶּלֶךְ = Hc "and" + Hd "the" + H4428 מֶלֶךְ "a king" [HC/Td/Ncmsa]
+- o6: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o7: מָעֳמָד = H5975 עָמַד "to stand…" [HVHsmsa]
+- o8: בַּ/מֶּרְכָּבָה = Hb "in" + H4818 מֶרְכָּבָה "a chariot" [HRd/Ncfsa]
+- o9: נֹכַח = H5227 נֹכַח "properly, the front part…" [HR]
+- o10: אֲרָם = H758 אֲרָם "Aram or Syria, and its inhabitants…" [HNp]
+- o11: וַ/יָּמָת = Hc "and" + H4191 מוּת "to die (literally or figuratively)…" [HC/Vqw3ms]
+- o12: בָּ/עֶרֶב = Hb "in" + H6153 עֶרֶב "dusk" [HRd/Ncmsa]
+- o13: וַ/יִּצֶק = Hc "and" + H3332 יָצַק "properly…" [HC/Vqw3ms]
+- o14: דַּם = H1818 דָּם "blood (as that which when shed causes death) of…" [HNcmsc]
+- o15: הַ/מַּכָּה = Hd "the" + H4347 מַכָּה "a wound; figuratively, carnage, also pestilence" [HTd/Ncfsa]
+- o16: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o17: חֵיק = H2436 חֵיק "the bosom (literally or figuratively)" [HNcmsc]
+- o18: הָ/רָכֶב = Hd "the" + H7393 רֶכֶב "a vehicle; by implication, a team…" [HTd/Ncmsa]

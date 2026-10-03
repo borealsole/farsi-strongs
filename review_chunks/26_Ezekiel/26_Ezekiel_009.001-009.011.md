@@ -760,3 +760,44 @@ Persian entries and current tags:
 - p21: آوردم
 - p22: .
 - p23: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 8:18 (context)
+
+- o1: וְ/גַם = Hc "and" + H1571 גַּם "properly, assemblage…" [HC/Ta]
+- o2: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o3: אֶעֱשֶׂה = H6213 עָשָׂה "to do or make…" [HVqi1cs]
+- o4: בְ/חֵמָה = Hb "in" + H2534 חֵמָה "heat; figuratively, anger, poison (from its fever)" [HR/Ncfsa]
+- o5: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o6: תָחוֹס = H2347 חוּס "properly, to cover…" [HVqi3fs]
+- o7: עֵינִ/י = H5869 עַיִן "an eye (literally or figuratively)…" [HNcbsc/Sp1cs]
+- o8: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o9: אֶחְמֹל = H2550 חָמַל "to commiserate; by implication, to spare" [HVqi1cs]
+- o10: וְ/קָרְאוּ = Hc "and" + H7121 קָרָא "to call out to (i.e. properly, address by name…" [HC/Vqq3cp]
+- o11: בְ/אָזְנַ/י = Hb "in" + H241 אֹזֶן "broadness. i.e. (concrete) the ear (from its form…" [HR/Ncfdc/Sp1cs]
+- o12: קוֹל = H6963 קוֹל "a voice or sound" [HNcmsa]
+- o13: גָּדוֹל = H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HAamsa]
+- o14: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o15: אֶשְׁמַע = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqi1cs]
+- o16: אוֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+
+### Ezekiel 10:1 (context)
+
+- o1: וָ/אֶרְאֶה = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw1cs]
+- o2: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: הָ/רָקִיעַ = Hd "the" + H7549 רָקִיעַ "properly, an expanse…" [HTd/Ncmsa]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: עַל = H5921 עַל "above, over, upon…" [HR]
+- o7: רֹאשׁ = H7218 רֹאשׁ "the head (as most easily shaken)…" [HNcmsc]
+- o8: הַ/כְּרֻבִים = Hd "the" + H3742 כְּרוּב "a cherub or imaginary figure" [HTd/Ncmpa]
+- o9: כְּ/אֶבֶן = Hk "like" + H68 אֶבֶן "a stone" [HR/Ncfsc]
+- o10: סַפִּיר = H5601 סַפִּיר "a gem (perhaps used for scratching other…" [HNcmsa]
+- o11: כְּ/מַרְאֵה = Hk "like" + H4758 מַרְאֶה "a view (the act of seeing)…" [HR/Ncmsc]
+- o12: דְּמוּת = H1823 דְּמוּת "resemblance; concretely, model, shape…" [HNcfsc]
+- o13: כִּסֵּא = H3678 כִּסֵּא "properly, covered, i.e. a throne (as canopied)" [HNcmsa]
+- o14: נִרְאָה = H7200 רָאָה "to see…" [HVNp3ms]
+- o15: עֲלֵי/הֶם = H5921 עַל "above, over, upon…" [HR/Sp3mp]

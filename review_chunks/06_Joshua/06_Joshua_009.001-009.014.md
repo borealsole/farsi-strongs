@@ -781,3 +781,45 @@ Persian entries and current tags:
 - p15: مشورت  → H6310
 - p16: نطلبیدند  → H7592
 - p17: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Joshua 8:35 (context)
+
+- o1: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o2: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o3: דָבָר = H1697 דָּבָר "a word…" [HNcmsa]
+- o4: מִ/כֹּל = Hm "from" + H3605 כֹּל "properly, the whole…" [HR/Ncmsa]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: צִוָּה = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp3ms]
+- o7: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o8: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o9: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o10: קָרָא = H7121 קָרָא "to call out to (i.e. properly, address by name…" [HVqp3ms]
+- o11: יְהוֹשֻׁעַ = H3091 יְהוֹשׁוּעַ "Jehoshua (i.e. Joshua), the Jewish leader" [HNp]
+- o12: נֶגֶד = H5048 נֶגֶד "a front, i.e. part opposite…" [HR]
+- o13: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o14: קְהַל = H6951 קָהָל "assemblage (usually concretely)" [HNcmsc]
+- o15: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o16: וְ/הַ/נָּשִׁים = Hc "and" + Hd "the" + H802 אִשָּׁה "a woman" [HC/Td/Ncfpa]
+- o17: וְ/הַ/טַּף = Hc "and" + Hd "the" + H2945 טַף "a family (mostly used collectively in the…" [HC/Td/Ncmsa]
+- o18: וְ/הַ/גֵּר = Hc "and" + Hd "the" + H1616 גֵּר "properly, a guest; by implication, a foreigner" [HC/Td/Ncmsa]
+- o19: הַ/הֹלֵךְ = Hd "the" + H1980 הָלַךְ "to walk (in a great variety of applications…" [HTd/Vqrmsa]
+- o20: בְּ/קִרְבָּ/ם = Hb "in" + H7130 קֶרֶב "properly, the nearest part, i.e. the center…" [HR/Ncmsc/Sp3mp]
+
+### Joshua 9:15 (context)
+
+- o1: וַ/יַּעַשׂ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3ms]
+- o2: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o3: יְהוֹשֻׁעַ = H3091 יְהוֹשׁוּעַ "Jehoshua (i.e. Joshua), the Jewish leader" [HNp]
+- o4: שָׁלוֹם = H7965 שָׁלוֹם "safe, i.e. (figuratively) well, happy, friendly…" [HNcmsa]
+- o5: וַ/יִּכְרֹת = Hc "and" + H3772 כָּרַת "to cut (off, down or asunder)…" [HC/Vqw3ms]
+- o6: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o7: בְּרִית = H1285 בְּרִית "a compact (because made by passing between pieces…" [HNcfsa]
+- o8: לְ/חַיּוֹתָ/ם = Hl "to" + H2421 חָיָה "to live, whether literally or figuratively…" [HR/Vpc/Sp3mp]
+- o9: וַ/יִּשָּׁבְעוּ = Hc "and" + H7650 שָׁבַע "to seven oneself…" [HC/VNw3mp]
+- o10: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o11: נְשִׂיאֵי = H5387 נָשִׂיא "properly, an exalted one, i.e. a king or sheik…" [HNcmpc]
+- o12: הָ/עֵדָה = Hd "the" + H5712 עֵדָה "a stated assemblage (specifically, a concourse…" [HTd/Ncfsa]

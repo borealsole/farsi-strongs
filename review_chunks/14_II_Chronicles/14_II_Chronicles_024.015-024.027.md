@@ -821,3 +821,56 @@ Persian entries and current tags:
 - p31: او
 - p32: پادشاه شد  → H4427
 - p33: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 24:14 (context)
+
+- o1: וּ/כְ/כַלּוֹתָ/ם = Hc "and" + Hk "like" + H3615 כָּלָה "to end, whether intransitive (to cease…" [HC/R/Vpc/Sp3mp]
+- o2: הֵבִיאוּ = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVhp3cp]
+- o3: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o4: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o5: וִ/יהוֹיָדָע = Hc "and" + H3077 יְהוֹיָדָע "Jehojada, the name of three Israelites" [HC/Np]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: שְׁאָר = H7605 שְׁאָר "a remainder" [HNcmsc]
+- o8: הַ/כֶּסֶף = Hd "the" + H3701 כֶּסֶף "silver (from its pale color)…" [HTd/Ncmsa]
+- o9: וַ/יַּעֲשֵׂ/הוּ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3ms/Sp3ms]
+- o10: כֵלִים = H3627 כְּלִי "something prepared…" [HNcmpa]
+- o11: לְ/בֵית = Hl "to" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc]
+- o12: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o13: כְּלֵי = H3627 כְּלִי "something prepared…" [HNcmpc]
+- o14: שָׁרֵת = H8335 שָׁרֵת "service (in the Temple)" [HNcmsa]
+- o15: וְ/הַעֲלוֹת = Hc "and" + H5927 עָלָה "to ascend…" [HC/Vhc]
+- o16: וְ/כַפּוֹת = Hc "and" + H3709 כַּף "the hollow hand or palm (so of the paw of an…" [HC/Ncfpa]
+- o17: וּ/כְלֵי = Hc "and" + H3627 כְּלִי "something prepared…" [HC/Ncmpc]
+- o18: זָהָב = H2091 זָהָב "gold, figuratively…" [HNcmsa]
+- o19: וָ/כָסֶף = Hc "and" + H3701 כֶּסֶף "silver (from its pale color)…" [HC/Ncmsa]
+- o20: וַ/יִּהְיוּ = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3mp]
+- o21: מַעֲלִים = H5927 עָלָה "to ascend…" [HVhrmpa]
+- o22: עֹלוֹת = H5930 עֹלָה "a step or (collectively, stairs, as ascending)…" [HNcfpa]
+- o23: בְּ/בֵית = Hb "in" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc]
+- o24: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o25: תָּמִיד = H8548 תָּמִיד "properly, continuance (as indefinite extension)…" [HNcmsa]
+- o26: כֹּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o27: יְמֵי = H3117 יוֹם "a day (as the warm hours)…" [HNcmpc]
+- o28: יְהוֹיָדָע = H3077 יְהוֹיָדָע "Jehojada, the name of three Israelites" [HNp]
+
+### II Chronicles 25:1 (context)
+
+- o1: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o2: עֶשְׂרִים = H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HAcbpa]
+- o3: וְ/חָמֵשׁ = Hc "and" + H2568 חָמֵשׁ "five" [HC/Acfsa]
+- o4: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o5: מָלַךְ = H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HVqp3ms]
+- o6: אֲמַצְיָהוּ = H558 אֲמַצְיָה "Amatsjah, the name of four Israelites" [HNp]
+- o7: וְ/עֶשְׂרִים = Hc "and" + H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HC/Acbpa]
+- o8: וָ/תֵשַׁע = Hc "and" + H8672 תֵּשַׁע "nine or (ordinal) ninth" [HC/Acfsa]
+- o9: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o10: מָלַךְ = H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HVqp3ms]
+- o11: בִּ/ירוּשָׁלִָם = Hb "in" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HR/Np]
+- o12: וְ/שֵׁם = Hc "and" + H8034 שֵׁם "an appellation…" [HC/Ncmsc]
+- o13: אִמּ/וֹ = H517 אֵם "a mother (as the bond of the family)…" [HNcfsc/Sp3ms]
+- o14: יְהוֹעַדָּן = H3086 יְהוֹעַדִּין "Jehoaddin or Jehoaddan, an Israelitess" [HNp]
+- o15: מִ/ירוּשָׁלָיִם = Hm "from" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HR/Np]

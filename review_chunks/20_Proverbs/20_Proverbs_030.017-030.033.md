@@ -651,3 +651,31 @@ Persian entries and current tags:
 - p22: نزاع  → H7379
 - p23: .
 - p24: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 30:16 (context)
+
+- o1: שְׁאוֹל = H7585 שְׁאוֹל "Hades or the world of the dead (as if a…" [HNp]
+- o2: וְ/עֹצֶר = Hc "and" + H6115 עֹצֶר "closure; also constraint" [HC/Ncmsc]
+- o3: רָחַם = H7356 רַחַם "compassion (in the plural)…" [HNcbsa]
+- o4: אֶרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsa]
+- o5: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o6: שָׂבְעָה = H7646 שָׂבַע "to sate…" [HVqp3fs]
+- o7: מַּיִם = H4325 מַיִם "water; figuratively, juice…" [HNcmpa]
+- o8: וְ/אֵשׁ = Hc "and" + H784 אֵשׁ "fire (literally or figuratively)" [HC/Ncbsa]
+- o9: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o10: אָמְרָה = H559 אָמַר "to say (used with great latitude)" [HVqp3fs]
+- o11: הוֹן = H1952 הוֹן "wealth; by implication, enough" [HNcmsa]
+
+### Proverbs 31:1 (context)
+
+- o1: דִּבְרֵי = H1697 דָּבָר "a word…" [HNcmpc]
+- o2: לְמוּאֵל = H3927 לְמוּאֵל "Lemuel or Lemoel, a symbolic name of Solomon" [HNp]
+- o3: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsa]
+- o4: מַשָּׂא = H4853 מַשָּׂא "a burden…" [HNcmsa]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: יִסְּרַתּ/וּ = H3256 יָסַר "to chastise…" [HVpp3fs/Sp3ms]
+- o7: אִמּ/וֹ = H517 אֵם "a mother (as the bond of the family)…" [HNcfsc/Sp3ms]

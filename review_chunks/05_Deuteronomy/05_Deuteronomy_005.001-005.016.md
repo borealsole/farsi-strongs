@@ -862,3 +862,26 @@ Persian entries and current tags:
 - p28: ،
 - p29: سعادتمند باشی  → H3190
 - p30: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 4:49 (context)
+
+- o1: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o2: הָ/עֲרָבָה = Hd "the" + H6160 עֲרָבָה "a desert…" [HTd/Ncfsa]
+- o3: עֵבֶר = H5676 עֵבֶר "properly, a region across…" [HNcmsc]
+- o4: הַ/יַּרְדֵּן = Hd "the" + H3383 יַרְדֵּן "Jarden, the principal river of Palestine" [HTd/Np]
+- o5: מִזְרָחָ/ה = H4217 מִזְרָח "sunrise, i.e. the east" [HNcmsa/Sd]
+- o6: וְ/עַד = Hc "and" + H5704 עַד "as far (or long, or much) as…" [HC/R]
+- o7: יָם = H3220 יָם "a sea (as breaking in noisy surf) or large body…" [HNcmsc]
+- o8: הָ/עֲרָבָה = Hd "the" + H6160 עֲרָבָה "a desert…" [HTd/Ncfsa]
+- o9: תַּחַת = H8478 תַּחַת "the bottom (as depressed)…" [HR]
+- o10: אַשְׁדֹּת = H794 אֲשֵׁדָה "a ravine" [HNcfpc]
+- o11: הַ/פִּסְגָּה = Hd "the" + H6449 פִּסְגָּה "Pisgah, a Mountain East of Jordan" [HTd/Np]
+
+### Deuteronomy 5:17 (context)
+
+- o1: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o2: תִּרְצָח = H7523 רָצַח "properly, to dash in pieces…" [HVqi2ms]

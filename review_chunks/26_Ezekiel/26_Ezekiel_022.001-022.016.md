@@ -780,3 +780,31 @@ Persian entries and current tags:
 - p16: هستم  → H589
 - p17: !
 - p18: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 21:32 (context)
+
+- o1: לָ/אֵשׁ = Hl "to" + H784 אֵשׁ "fire (literally or figuratively)" [HRd/Ncbsa]
+- o2: תִּהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi2ms]
+- o3: לְ/אָכְלָה = Hl "to" + H402 אׇכְלָה "food" [HR/Ncfsa]
+- o4: דָּמֵ/ךְ = H1818 דָּם "blood (as that which when shed causes death) of…" [HNcmsc/Sp2fs]
+- o5: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o6: בְּ/תוֹךְ = Hb "in" + H8432 תָּוֶךְ "a bisection, i.e. (by implication) the centre" [HR/Ncmsc]
+- o7: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o8: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o9: תִזָּכֵרִי = H2142 זָכַר "properly, to mark (so as to be recognized)…" [HVNi2fs]
+- o10: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o11: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o12: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o13: דִּבַּרְתִּי = H1696 דָבַר "perhaps properly, to arrange…" [HVpp1cs]
+
+### Ezekiel 22:17 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o5: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

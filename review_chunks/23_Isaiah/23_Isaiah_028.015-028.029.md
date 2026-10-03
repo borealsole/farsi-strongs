@@ -810,3 +810,36 @@ Persian entries and current tags:
 - p14: بس
 - p15: عظیم  → H1431
 - p16: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 28:14 (context)
+
+- o1: לָ/כֵן = Hl "to" + H3651 כֵּן "properly, set upright…" [HR/D]
+- o2: שִׁמְעוּ = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqv2mp]
+- o3: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: אַנְשֵׁי = H376 אִישׁ "a man as an individual or a male person…" [HNcmpc]
+- o6: לָצוֹן = H3944 לָצוֹן "derision" [HNcmsa]
+- o7: מֹשְׁלֵי = H4910 מָשַׁל "to rule" [HVqrmpc]
+- o8: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o9: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o10: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o11: בִּ/ירוּשָׁלִָם = Hb "in" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HR/Np]
+
+### Isaiah 29:1 (context)
+
+- o1: הוֹי = H1945 הוֹי "oh!" [HTj]
+- o2: אֲרִיאֵל = H740 אֲרִיאֵל "Ariel, a symbolical name for Jerusalem…" [HNp]
+- o3: אֲרִיאֵל = H740 אֲרִיאֵל "Ariel, a symbolical name for Jerusalem…" [HNp]
+- o4: קִרְיַת = H7151 קִרְיָה "building; a city" [HNcfsc]
+- o5: חָנָה = H2583 חָנָה "properly, to incline…" [HVqp3ms]
+- o6: דָוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o7: סְפוּ = H5595 סָפָה "properly, to scrape (literally, to shave…" [HVqv2mp]
+- o8: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o9: עַל = H5921 עַל "above, over, upon…" [HR]
+- o10: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o11: חַגִּים = H2282 חַג "a festival, or a victim therefor" [HNcmpa]
+- o12: יִנְקֹפוּ = H5362 נָקַף "to strike with more or less violence (beat, fell…" [HVqj3mp]

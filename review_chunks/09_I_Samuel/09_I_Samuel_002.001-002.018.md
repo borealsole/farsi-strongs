@@ -955,3 +955,43 @@ Persian entries and current tags:
 - p16: تن
 - p17: داشت
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 1:28 (context)
+
+- o1: וְ/גַם = Hc "and" + H1571 גַּם "properly, assemblage…" [HC/Ta]
+- o2: אָנֹכִי = H595 אָנֹכִי "I" [HPp1cs]
+- o3: הִשְׁאִלְתִּ/הוּ = H7592 שָׁאַל "to inquire; by implication, to request…" [HVhp1cs/Sp3ms]
+- o4: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o5: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o6: הַ/יָּמִים = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmpa]
+- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o8: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o9: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o10: שָׁאוּל = H7592 שָׁאַל "to inquire; by implication, to request…" [HVqsmsa]
+- o11: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o12: וַ/יִּשְׁתַּחוּ = Hc "and" + H7812 שָׁחָה "to depress, i.e. prostrate (especially reflexive…" [HC/Vtw3ms]
+- o13: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o14: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+
+### I Samuel 2:19 (context)
+
+- o1: וּ/מְעִיל = Hc "and" + H4598 מְעִיל "a robe (i.e. upper and outer garment)" [HC/Ncmsa]
+- o2: קָטֹן = H6996 קָטָן "abbreviated, i.e. diminutive…" [HAamsa]
+- o3: תַּעֲשֶׂה = H6213 עָשָׂה "to do or make…" [HVqi3fs]
+- o4: לּ/וֹ = Hl "to" [HR/Sp3ms]
+- o5: אִמּ/וֹ = H517 אֵם "a mother (as the bond of the family)…" [HNcfsc/Sp3ms]
+- o6: וְ/הַעַלְתָה = Hc "and" + H5927 עָלָה "to ascend…" [HC/Vhq3fs]
+- o7: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o8: מִ/יָּמִים = Hm "from" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmpa]
+- o9: יָמִימָ/ה = H3117 יוֹם "a day (as the warm hours)…" [HNcmpa/Sd]
+- o10: בַּ/עֲלוֹתָ/הּ = Hb "in" + H5927 עָלָה "to ascend…" [HR/Vqc/Sp3fs]
+- o11: אֶת = H854 אֵת "properly…" [HR]
+- o12: אִישָׁ/הּ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsc/Sp3fs]
+- o13: לִ/זְבֹּחַ = Hl "to" + H2076 זָבַח "to slaughter an animal (usually in sacrifice)" [HR/Vqc]
+- o14: אֶת = H853 אֵת "properly…" [HTo]
+- o15: זֶבַח = H2077 זֶבַח "properly, a slaughter…" [HNcmsc]
+- o16: הַ/יָּמִים = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmpa]

@@ -537,3 +537,44 @@ Persian entries and current tags:
 - p29: ناله  → H585
 - p30: خواهد_گریخت  → H5127
 - p31: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 34:17 (context)
+
+- o1: וְ/הוּא = Hc "and" + H1931 הוּא "he (she or it)…" [HC/Pp3ms]
+- o2: הִפִּיל = H5307 נָפַל "to fall…" [HVhp3ms]
+- o3: לָ/הֶן = Hl "to" [HR/Sp3fp]
+- o4: גּוֹרָל = H1486 גּוֹרָל "properly, a pebble…" [HNcmsa]
+- o5: וְ/יָד/וֹ = Hc "and" + H3027 יָד "a hand (the open one (indicating power, means…" [HC/Ncbsc/Sp3ms]
+- o6: חִלְּקַתָּ/ה = H2505 חָלַק "to be smooth (figuratively)…" [HVpp3fs/Sp3fs]
+- o7: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o8: בַּ/קָּו = Hb "in" + H6957 קַו "a cord (as connecting), especially formeasuring…" [HRd/Ncmsa]
+- o9: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o10: עוֹלָם = H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HNcmsa]
+- o11: יִירָשׁוּ/הָ = H3423 יָרַשׁ "to occupy (by driving out previous tenants…" [HVqi3mp/Sp3fs]
+- o12: לְ/דוֹר = Hl "to" + H1755 דּוֹר "properly, a revolution of time…" [HR/Ncmsa]
+- o13: וָ/דוֹר = Hc "and" + H1755 דּוֹר "properly, a revolution of time…" [HC/Ncmsa]
+- o14: יִשְׁכְּנוּ = H7931 שָׁכַן "to reside or permanently stay (literally or…" [HVqi3mp]
+- o15: בָ/הּ = Hb "in" [HR/Sp3fs]
+
+### Isaiah 36:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: בְּ/אַרְבַּע = Hb "in" + H702 אַרְבַּע "four" [HR/Acfsa]
+- o3: עֶשְׂרֵה = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcfsa]
+- o4: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o5: לַ/מֶּלֶךְ = Hl "to" + H4428 מֶלֶךְ "a king" [HRd/Ncmsa]
+- o6: חִזְקִיָּהוּ = H2396 חִזְקִיָּה "Chizkijah, a king of Judah…" [HNp]
+- o7: עָלָה = H5927 עָלָה "to ascend…" [HVqp3ms]
+- o8: סַנְחֵרִיב = H5576 סַנְחֵרִיב "Sancherib, an Assyrian king" [HNp]
+- o9: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o10: אַשּׁוּר = H804 אַשּׁוּר "Ashshur, the second son of Shem…" [HNp]
+- o11: עַל = H5921 עַל "above, over, upon…" [HR]
+- o12: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o13: עָרֵי = H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HNcfpc]
+- o14: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o15: הַ/בְּצֻרוֹת = Hd "the" + H1219 בָּצַר "to gather grapes…" [HTd/Aafpa]
+- o16: וַ/יִּתְפְּשֵׂ/ם = Hc "and" + H8610 תָּפַשׂ "to manipulate, i.e. seize…" [HC/Vqw3ms/Sp3mp]

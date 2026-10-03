@@ -816,3 +816,29 @@ Persian entries and current tags:
 - p15: هستم  → H589
 - p16: .
 - p17: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 22:16 (context)
+
+- o1: וְ/הִשִּׂיאוּ = Hc "and" + H5375 נָשָׂא "to lift, in a great variety of applications…" [HC/Vhq3cp]
+- o2: אוֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o3: עֲוֺן = H5771 עָוֺן "perversity, i.e. (moral) evil" [HNcbsc]
+- o4: אַשְׁמָה = H819 אַשְׁמָה "guiltiness, a fault…" [HNcfsa]
+- o5: בְּ/אָכְלָ/ם = Hb "in" + H398 אָכַל "to eat (literally or figuratively)" [HR/Vqc/Sp3mp]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: קָדְשֵׁי/הֶם = H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HNcmpc/Sp3mp]
+- o8: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o9: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o10: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o11: מְקַדְּשָׁ/ם = H6942 קָדַשׁ "to be (causatively, make…" [HVprmsc/Sp3mp]
+
+### Leviticus 23:1 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: לֵּ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

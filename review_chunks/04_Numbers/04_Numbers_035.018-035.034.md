@@ -902,3 +902,48 @@ Persian entries and current tags:
 - p25: ساکنم  → H7931
 - p26: .
 - p27: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 35:17 (context)
+
+- o1: וְ/אִם = Hc "and" + H518 אִם "used very widely as demonstrative, lo!…" [HC/C]
+- o2: בְּ/אֶבֶן = Hb "in" + H68 אֶבֶן "a stone" [HR/Ncfsc]
+- o3: יָד = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsa]
+- o4: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o5: יָמוּת = H4191 מוּת "to die (literally or figuratively)…" [HVqi3ms]
+- o6: בָּ/הּ = Hb "in" [HR/Sp3fs]
+- o7: הִכָּה/וּ = H5221 נָכָה "to strike (lightly or severely…" [HVhp3ms/Sp3ms]
+- o8: וַ/יָּמֹת = Hc "and" + H4191 מוּת "to die (literally or figuratively)…" [HC/Vqw3ms]
+- o9: רֹצֵחַ = H7523 רָצַח "properly, to dash in pieces…" [HVqrmsa]
+- o10: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o11: מוֹת = H4191 מוּת "to die (literally or figuratively)…" [HVqa]
+- o12: יוּמַת = H4191 מוּת "to die (literally or figuratively)…" [HVHi3ms]
+- o13: הָ/רֹצֵחַ = Hd "the" + H7523 רָצַח "properly, to dash in pieces…" [HTd/Vqrmsa]
+
+### Numbers 36:1 (context)
+
+- o1: וַ/יִּקְרְבוּ = Hc "and" + H7126 קָרַב "to approach (causatively…" [HC/Vqw3mp]
+- o2: רָאשֵׁי = H7218 רֹאשׁ "the head (as most easily shaken)…" [HNcmpc]
+- o3: הָ/אָבוֹת = Hd "the" + H1 אָב "father, in a literal and immediate…" [HTd/Ncmpa]
+- o4: לְ/מִשְׁפַּחַת = Hl "to" + H4940 מִשְׁפָּחָה "a family, i.e. circle of relatives…" [HR/Ncfsc]
+- o5: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o6: גִלְעָד = H1568 גִּלְעָד "Gilad, a region East of the Jordan…" [HNp]
+- o7: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o8: מָכִיר = H4353 מָכִיר "Makir, an Israelite" [HNp]
+- o9: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o10: מְנַשֶּׁה = H4519 מְנַשֶּׁה "Menashsheh, a grandson of Jacob…" [HNp]
+- o11: מִ/מִּשְׁפְּחֹת = Hm "from" + H4940 מִשְׁפָּחָה "a family, i.e. circle of relatives…" [HR/Ncfpc]
+- o12: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o13: יוֹסֵף = H3130 יוֹסֵף "Joseph, the name of seven Israelites" [HNp]
+- o14: וַ/יְדַבְּרוּ = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3mp]
+- o15: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o16: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o17: וְ/לִ/פְנֵי = Hc "and" + Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HC/R/Ncbpc]
+- o18: הַ/נְּשִׂאִים = Hd "the" + H5387 נָשִׂיא "properly, an exalted one, i.e. a king or sheik…" [HTd/Ncmpa]
+- o19: רָאשֵׁי = H7218 רֹאשׁ "the head (as most easily shaken)…" [HNcmpc]
+- o20: אָבוֹת = H1 אָב "father, in a literal and immediate…" [HNcmpa]
+- o21: לִ/בְנֵי = Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmpc]
+- o22: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]

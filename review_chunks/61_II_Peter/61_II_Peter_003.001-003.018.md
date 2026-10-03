@@ -1024,3 +1024,28 @@ Persian entries and current tags:
 - p23: !
 - p24: آمین
 - p25: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Peter 2:22 (context)
+
+- o1: συμβέβηκεν = G4819 συμβαίνω "be(-fall), happen (unto)" [V-RAI-3S]
+- o2: αὐτοῖς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPM]
+- o3: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o4: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o5: ἀληθοῦς = G227 ἀληθής "true, truly, truth" [A-GSF]
+- o6: παροιμίας, = G3942 παροιμία "parable, proverb" [N-GSF]
+- o7: κύων = G2965 κύων "dog" [N-NSM]
+- o8: ἐπιστρέψας = G1994 ἐπιστρέφω "come (go) again, convert, (re-)turn (about, again)" [V-AAP-NSM]
+- o9: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o10: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o11: ἴδιον = G2398 ἴδιος "his acquaintance, when they were alone, apart…" [A-ASN]
+- o12: ἐξέραμα, = G1829 ἐξέραμα "vomit" [N-ASN]
+- o13: καί, = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o14: ὗς = G5300 ὗς "sow" [N-NSF]
+- o15: λουσαμένη = G3068 λούω "wash" [V-AMP-NSF]
+- o16: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o17: κυλισμὸν = G2946 κύλισμα "wallowing" [N-ASM]
+- o18: βορβόρου. = G1004 βόρβορος "mire" [N-GSM]

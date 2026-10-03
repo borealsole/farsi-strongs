@@ -776,3 +776,37 @@ Persian entries and current tags:
 - p36: یهوه  → H3068
 - p37: هستم
 - p38: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 34:31 (context)
+
+- o1: וְ/אַתֵּן = Hc "and" + H859 אַתָּה "thou and thee, or (plural) ye and you" [HC/Pp2fp]
+- o2: צֹאנִ/י = H6629 צֹאן "a collective name for a flock (of sheep or goats)…" [HNcbsc/Sp1cs]
+- o3: צֹאן = H6629 צֹאן "a collective name for a flock (of sheep or goats)…" [HNcbsc]
+- o4: מַרְעִיתִ/י = H4830 מִרְעִית "pasturage; concretely, a flock" [HNcfsc/Sp1cs]
+- o5: אָדָם = H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HNcmsa]
+- o6: אַתֶּם = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2mp]
+- o7: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o8: אֱלֹהֵי/כֶם = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2mp]
+- o9: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o10: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o11: יְהוִה = H3069 יְהֹוִה "YHWH" [HNp]
+
+### Ezekiel 36:1 (context)
+
+- o1: וְ/אַתָּה = Hc "and" + H859 אַתָּה "thou and thee, or (plural) ye and you" [HC/Pp2ms]
+- o2: בֶן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o3: אָדָם = H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HNcmsa]
+- o4: הִנָּבֵא = H5012 נָבָא "to prophesy…" [HVNv2ms]
+- o5: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o6: הָרֵי = H2022 הַר "a mountain or range of hills (sometimes used…" [HNcmpc]
+- o7: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o8: וְ/אָמַרְתָּ = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqq2ms]
+- o9: הָרֵי = H2022 הַר "a mountain or range of hills (sometimes used…" [HNcmpc]
+- o10: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o11: שִׁמְעוּ = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqv2mp]
+- o12: דְּבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o13: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]

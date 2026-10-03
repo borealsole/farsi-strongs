@@ -966,3 +966,49 @@ Persian entries and current tags:
 - p15: آنان
 - p16: فرستاد
 - p17: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 32:18 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: אֵין = H369 אַיִן "a non-entity…" [HTn]
+- o3: קוֹל = H6963 קוֹל "a voice or sound" [HNcmsc]
+- o4: עֲנוֹת = H6030 עָנָה "properly, to eye or (generally) to heed…" [HVqc]
+- o5: גְּבוּרָה = H1369 גְּבוּרָה "force (literally or figuratively)…" [HNcfsa]
+- o6: וְ/אֵין = Hc "and" + H369 אַיִן "a non-entity…" [HC/Tn]
+- o7: קוֹל = H6963 קוֹל "a voice or sound" [HNcmsc]
+- o8: עֲנוֹת = H6030 עָנָה "properly, to eye or (generally) to heed…" [HVqc]
+- o9: חֲלוּשָׁה = H2476 חֲלוּשָׁה "defeat" [HNcfsa]
+- o10: קוֹל = H6963 קוֹל "a voice or sound" [HNcmsc]
+- o11: עַנּוֹת = H6030 עָנָה "properly, to eye or (generally) to heed…" [HVpc]
+- o12: אָנֹכִי = H595 אָנֹכִי "I" [HPp1cs]
+- o13: שֹׁמֵעַ = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqrmsa]
+
+### Exodus 33:1 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: לֵךְ = H3212 יָלַךְ "to walk (literally or figuratively)…" [HVqv2ms]
+- o6: עֲלֵה = H5927 עָלָה "to ascend…" [HVqv2ms]
+- o7: מִ/זֶּה = Hm "from" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HR/Pdxms]
+- o8: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o9: וְ/הָ/עָם = Hc "and" + Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HC/Td/Ncmsa]
+- o10: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o11: הֶעֱלִיתָ = H5927 עָלָה "to ascend…" [HVhp2ms]
+- o12: מֵ/אֶרֶץ = Hm "from" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o13: מִצְרָיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o14: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o15: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o16: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o17: נִשְׁבַּעְתִּי = H7650 שָׁבַע "to seven oneself…" [HVNp1cs]
+- o18: לְ/אַבְרָהָם = Hl "to" + H85 אַבְרָהָם "Abraham, the later name of Abram" [HR/Np]
+- o19: לְ/יִצְחָק = Hl "to" + H3327 יִצְחָק "Jitschak (or Isaac), son of Abraham" [HR/Np]
+- o20: וּ/לְ/יַעֲקֹב = Hc "and" + Hl "to" + H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HC/R/Np]
+- o21: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o22: לְ/זַרְעֲ/ךָ = Hl "to" + H2233 זֶרַע "seed…" [HR/Ncmsc/Sp2ms]
+- o23: אֶתְּנֶ/נָּה = H5414 נָתַן "to give…" [HVqi1cs/Sp3fs]

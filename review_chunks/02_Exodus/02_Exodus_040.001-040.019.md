@@ -796,3 +796,46 @@ Persian entries and current tags:
 - p22: آن
 - p23: کشید  → H7760
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 39:43 (context)
+
+- o1: וַ/יַּרְא = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw3ms]
+- o2: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o5: הַ/מְּלָאכָה = Hd "the" + H4399 מְלָאכָה "properly, deputyship, i.e. ministry…" [HTd/Ncfsa]
+- o6: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o7: עָשׂוּ = H6213 עָשָׂה "to do or make…" [HVqp3cp]
+- o8: אֹתָ/הּ = H853 אֵת "properly…" [HTo/Sp3fs]
+- o9: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o10: צִוָּה = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp3ms]
+- o11: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o12: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o13: עָשׂוּ = H6213 עָשָׂה "to do or make…" [HVqp3cp]
+- o14: וַ/יְבָרֶךְ = Hc "and" + H1288 בָרַךְ "to kneel…" [HC/Vpw3ms]
+- o15: אֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o16: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+
+### Exodus 40:20 (context)
+
+- o1: וַ/יִּקַּח = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqw3ms]
+- o2: וַ/יִּתֵּן = Hc "and" + H5414 נָתַן "to give…" [HC/Vqw3ms]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: הָ/עֵדֻת = Hd "the" + H5715 עֵדוּת "testimony" [HTd/Ncfsa]
+- o5: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o6: הָ/אָרֹן = Hd "the" + H727 אָרוֹן "a box" [HTd/Ncbsa]
+- o7: וַ/יָּשֶׂם = Hc "and" + H7760 שׂוּם "to put (used in a great variety of applications…" [HC/Vqw3ms]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: הַ/בַּדִּים = Hd "the" + H905 בַּד "properly, separation…" [HTd/Ncmpa]
+- o10: עַל = H5921 עַל "above, over, upon…" [HR]
+- o11: הָ/אָרֹן = Hd "the" + H727 אָרוֹן "a box" [HTd/Ncbsa]
+- o12: וַ/יִּתֵּן = Hc "and" + H5414 נָתַן "to give…" [HC/Vqw3ms]
+- o13: אֶת = H853 אֵת "properly…" [HTo]
+- o14: הַ/כַּפֹּרֶת = Hd "the" + H3727 כַּפֹּרֶת "a lid (used only of the cover of the sacred Ark)" [HTd/Ncfsa]
+- o15: עַל = H5921 עַל "above, over, upon…" [HR]
+- o16: הָ/אָרֹן = Hd "the" + H727 אָרוֹן "a box" [HTd/Ncbsa]
+- o17: מִ/לְ/מָעְלָ/ה = Hm "from" + Hl "to" + H4605 מַעַל "properly, the upper part…" [HR/R/D/Sd]

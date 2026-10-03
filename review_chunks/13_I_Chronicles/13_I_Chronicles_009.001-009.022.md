@@ -940,3 +940,40 @@ Persian entries and current tags:
 - p33: گماشته
 - p34: بودند
 - p35: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 8:40 (context)
+
+- o1: וַ/יִּהְיוּ = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3mp]
+- o2: בְנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o3: אוּלָם = H198 אוּלָם "Ulam, the name of two Israelites" [HNp]
+- o4: אֲנָשִׁים = H376 אִישׁ "a man as an individual or a male person…" [HNcmpa]
+- o5: גִּבֹּרֵי = H1368 גִּבּוֹר "powerful; by implication, warrior, tyrant" [HAampc]
+- o6: חַיִל = H2428 חַיִל "probably a force, whether of men…" [HNcmsa]
+- o7: דֹּרְכֵי = H1869 דָּרַךְ "to tread; by implication, to walk…" [HVqrmpc]
+- o8: קֶשֶׁת = H7198 קֶשֶׁת "a bow, forshooting (hence, figuratively…" [HNcfsa]
+- o9: וּ/מַרְבִּים = Hc "and" + H7235 רָבָה "to increase (in whatever respect)" [HC/Vhrmpa]
+- o10: בָּנִים = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpa]
+- o11: וּ/בְנֵי = Hc "and" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/Ncmpc]
+- o12: בָנִים = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpa]
+- o13: מֵאָה = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbsa]
+- o14: וַ/חֲמִשִּׁים = Hc "and" + H2572 חֲמִשִּׁים "fifty" [HC/Acbpa]
+- o15: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o16: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o17: מִ/בְּנֵי = Hm "from" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmpc]
+- o18: בִנְיָמִן = H1144 בִּנְיָמִין "Binjamin, youngest son of Jacob…" [HNp]
+
+### I Chronicles 9:23 (context)
+
+- o1: וְ/הֵם = Hc "and" + H1992 הֵם "they (only used when emphatic)" [HC/Pp3mp]
+- o2: וּ/בְנֵי/הֶם = Hc "and" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/Ncmpc/Sp3mp]
+- o3: עַל = H5921 עַל "above, over, upon…" [HR]
+- o4: הַ/שְּׁעָרִים = Hd "the" + H8179 שַׁעַר "an opening, i.e. door or gate" [HTd/Ncmpa]
+- o5: לְ/בֵית = Hl "to" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: לְ/בֵית = Hl "to" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc]
+- o8: הָ/אֹהֶל = Hd "the" + H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HTd/Ncmsa]
+- o9: לְ/מִשְׁמָרוֹת = Hl "to" + H4931 מִשְׁמֶרֶת "watch, i.e. the act (custody)…" [HR/Ncfpa]

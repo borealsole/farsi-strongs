@@ -804,3 +804,62 @@ Persian entries and current tags:
 - p20: و  → Hc
 - p21: آمد کند  → H935
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 14:31 (context)
+
+- o1: וַ/יִּשְׁכַּב = Hc "and" + H7901 שָׁכַב "to lie down (for rest, sexual connection…" [HC/Vqw3ms]
+- o2: רְחַבְעָם = H7346 רְחַבְעָם "Rechabam, an Israelite king" [HNp]
+- o3: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o4: אֲבֹתָי/ו = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp3ms]
+- o5: וַ/יִּקָּבֵר = Hc "and" + H6912 קָבַר "to inter" [HC/VNw3ms]
+- o6: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o7: אֲבֹתָי/ו = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp3ms]
+- o8: בְּ/עִיר = Hb "in" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HR/Ncfsc]
+- o9: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o10: וְ/שֵׁם = Hc "and" + H8034 שֵׁם "an appellation…" [HC/Ncmsc]
+- o11: אִמּ/וֹ = H517 אֵם "a mother (as the bond of the family)…" [HNcfsc/Sp3ms]
+- o12: נַעֲמָה = H5279 נַעֲמָה "Naamah, the name of an antediluvian woman…" [HNp]
+- o13: הָ/עַמֹּנִית = Hd "the" + H5985 עַמּוֹנִית "an Ammonitess" [HTd/Ngfsa]
+- o14: וַ/יִּמְלֹךְ = Hc "and" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HC/Vqw3ms]
+- o15: אֲבִיָּם = H38 אֲבִיָּם "Abijam (or Abijah), a king of Judah" [HNp]
+- o16: בְּנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o17: תַּחְתָּי/ו = H8478 תַּחַת "the bottom (as depressed)…" [HR/Sp3ms]
+
+### I Kings 15:18 (context)
+
+- o1: וַ/יִּקַּח = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqw3ms]
+- o2: אָסָא = H609 אָסָא "Asa, the name of a king and of a Levite" [HNp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o5: הַ/כֶּסֶף = Hd "the" + H3701 כֶּסֶף "silver (from its pale color)…" [HTd/Ncmsa]
+- o6: וְ/הַ/זָּהָב = Hc "and" + Hd "the" + H2091 זָהָב "gold, figuratively…" [HC/Td/Ncmsa]
+- o7: הַ/נּוֹתָרִים = Hd "the" + H3498 יָתַר "to jut over or exceed; by implication, to excel…" [HTd/VNrmpa]
+- o8: בְּ/אוֹצְרוֹת = Hb "in" + H214 אוֹצָר "a depository" [HR/Ncmpc]
+- o9: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o10: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o11: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o12: אוֹצְרוֹת = H214 אוֹצָר "a depository" [HNcmpc]
+- o13: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o14: מלך = H4428 מֶלֶךְ "a king" [HNcmsa]
+- o15: וַ/יִּתְּנֵ/ם = Hc "and" + H5414 נָתַן "to give…" [HC/Vqw3ms/Sp3mp]
+- o16: בְּ/יַד = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o17: עֲבָדָי/ו = H5650 עֶבֶד "a servant" [HNcmpc/Sp3ms]
+- o18: וַ/יִּשְׁלָחֵ/ם = Hc "and" + H7971 שָׁלַח "to send away, for…" [HC/Vqw3ms/Sp3mp]
+- o19: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o20: אָסָא = H609 אָסָא "Asa, the name of a king and of a Levite" [HNp]
+- o21: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o22: בֶּן = H1130 בֶּן־הֲדַד "Ben-Hadad, the name of several Syrian kings" [HNp]
+- o23: הֲדַד = H1130 בֶּן־הֲדַד "Ben-Hadad, the name of several Syrian kings" [HNp]
+- o24: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o25: טַבְרִמֹּן = H2886 טַבְרִמּוֹן "Tabrimmon, a Syrian" [HNp]
+- o26: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o27: חֶזְיוֹן = H2383 חֶזְיוֹן "Chezjon, a Syrian" [HNp]
+- o28: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o29: אֲרָם = H758 אֲרָם "Aram or Syria, and its inhabitants…" [HNp]
+- o30: הַ/יֹּשֵׁב = Hd "the" + H3427 יָשַׁב "properly…" [HTd/Vqrmsa]
+- o31: בְּ/דַמֶּשֶׂק = Hb "in" + H1834 דַּמֶּשֶׂק "Damascus, a city of Syria" [HR/Np]
+- o32: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

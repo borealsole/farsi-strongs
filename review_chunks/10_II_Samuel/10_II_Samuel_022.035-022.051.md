@@ -637,3 +637,37 @@ Persian entries and current tags:
 - p24: ابد  → H5704 H5769
 - p25: .
 - p26: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 22:34 (context)
+
+- o1: מְשַׁוֶּה = H7737 שָׁוָה "properly, to level, i.e. equalize…" [HVprmsa]
+- o2: רגלי/ו = H7272 רֶגֶל "a foot (as used in walking)…" [HNcfdc/Sp3ms]
+- o3: כָּ/אַיָּלוֹת = Hk "like" + H355 אַיָּלָה "a doe or female deer" [HRd/Ncfpa]
+- o4: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o5: בָּמוֹתַ/י = H1116 בָּמָה "an elevation" [HNcfpc/Sp1cs]
+- o6: יַעֲמִדֵ/נִי = H5975 עָמַד "to stand…" [HVhi3ms/Sp1cs]
+
+### II Samuel 23:1 (context)
+
+- o1: וְ/אֵלֶּה = Hc "and" + H428 אֵלֶּה "these or those" [HC/Pdxcp]
+- o2: דִּבְרֵי = H1697 דָּבָר "a word…" [HNcmpc]
+- o3: דָוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o4: הָ/אַחֲרֹנִים = Hd "the" + H314 אַחֲרוֹן "hinder; generally, late or last…" [HTd/Aampa]
+- o5: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o6: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o7: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o8: יִשַׁי = H3448 יִשַׁי "Jishai, David's father" [HNp]
+- o9: וּ/נְאֻם = Hc "and" + H5002 נְאֻם "an oracle" [HC/Ncmsc]
+- o10: הַ/גֶּבֶר = Hd "the" + H1397 גֶּבֶר "properly, a valiant man or warrior…" [HTd/Ncmsa]
+- o11: הֻקַם = H6965 קוּם "to rise (in various applications, literal…" [HVHp3ms]
+- o12: עָל = H5920 עַל "properly, the top…" [HNcmsa]
+- o13: מְשִׁיחַ = H4899 מָשִׁיחַ "anointed…" [HNcmsc]
+- o14: אֱלֹהֵי = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc]
+- o15: יַעֲקֹב = H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HNp]
+- o16: וּ/נְעִים = Hc "and" + H5273 נָעִים "delightful (objective or subjective…" [HC/Aamsc]
+- o17: זְמִרוֹת = H2158 זָמִיר "a song to be accompanied with instrumental music" [HNcmpc]
+- o18: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]

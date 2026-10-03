@@ -769,3 +769,20 @@ Persian entries and current tags:
 - p13: نجات  → G4991
 - p14: فرستاده_می‌شوند  → G649 G2816
 - p15: ؟
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Hebrews 2:1 (context)
+
+- o1: Διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o2: τοῦτο = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-ASN]
+- o3: δεῖ = G1163 δεῖ "behoved, be meet, must (needs), (be) need(-ful)…" [V-PAI-3S]
+- o4: περισσοτέρως = G4056 περισσοτέρως "more abundant(-ly), the more earnest…" [ADV-C]
+- o5: προσέχειν = G4337 προσέχω "give) attend(-ance, -ance at, -ance to, unto)…" [V-PAN]
+- o6: ἡμᾶς = G2249 ἡμεῖς "us, we (ourselves)" [P-1AP]
+- o7: τοῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPN]
+- o8: ἀκουσθεῖσιν, = G191 ἀκούω "give (in the) audience (of), come (to the ears)…" [V-APP-DPN]
+- o9: μήποτε = G3379 μήποτε "if peradventure, lest (at any time, haply)…" [ADV-N]
+- o10: παραρυῶμεν. = G3901 παραῤῥυέω "let slip" [V-2APS-1P]

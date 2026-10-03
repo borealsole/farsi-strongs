@@ -760,3 +760,38 @@ Persian entries and current tags:
 - p23: کار شو  → H6213
 - p24: !
 - p25: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 27:34 (context)
+
+- o1: וְ/אַחֲרֵי = Hc "and" + H310 אַחַר "properly, the hind part…" [HC/R]
+- o2: אֲחִיתֹפֶל = H302 אֲחִיתֹפֶל "Achithophel, an Israelite" [HNp]
+- o3: יְהוֹיָדָע = H3077 יְהוֹיָדָע "Jehojada, the name of three Israelites" [HNp]
+- o4: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o5: בְּנָיָהוּ = H1141 בְּנָיָה "Benajah, the name of twelve Israelites" [HNp]
+- o6: וְ/אֶבְיָתָר = Hc "and" + H54 אֶבְיָתָר "Ebjathar, an Israelite" [HC/Np]
+- o7: וְ/שַׂר = Hc "and" + H8269 שַׂר "a head person (of any rank or class)" [HC/Ncmsc]
+- o8: צָבָא = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbsa]
+- o9: לַ/מֶּלֶךְ = Hl "to" + H4428 מֶלֶךְ "a king" [HRd/Ncmsa]
+- o10: יוֹאָב = H3097 יוֹאָב "Joab, the name of three Israelites" [HNp]
+
+### I Chronicles 28:11 (context)
+
+- o1: וַ/יִּתֵּן = Hc "and" + H5414 נָתַן "to give…" [HC/Vqw3ms]
+- o2: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o3: לִ/שְׁלֹמֹה = Hl "to" + H8010 שְׁלֹמֹה "Shelomah, David's successor" [HR/Np]
+- o4: בְנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: תַּבְנִית = H8403 תַּבְנִית "structure; by implication, a model, resemblance" [HNcfsc]
+- o7: הָ/אוּלָם = Hd "the" + H197 אוּלָם "a vestibule (as bound to the building)" [HTd/Ncmsa]
+- o8: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o9: בָּתָּי/ו = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmpc/Sp3ms]
+- o10: וְ/גַנְזַכָּי/ו = Hc "and" + H1597 גִּנְזַךְ "a treasury" [HC/Ncmpc/Sp3ms]
+- o11: וַ/עֲלִיֹּתָי/ו = Hc "and" + H5944 עֲלִיָּה "something lofty, i.e. a stair-way…" [HC/Ncfpc/Sp3ms]
+- o12: וַ/חֲדָרָי/ו = Hc "and" + H2315 חֶדֶר "an apartment (usually literal)" [HC/Ncmpc/Sp3ms]
+- o13: הַ/פְּנִימִים = Hd "the" + H6442 פְּנִימִי "interior" [HTd/Aampa]
+- o14: וּ/בֵית = Hc "and" + H1004 בַּיִת "a house (in the greatest variation of…" [HC/Ncmsc]
+- o15: הַ/כַּפֹּרֶת = Hd "the" + H3727 כַּפֹּרֶת "a lid (used only of the cover of the sacred Ark)" [HTd/Ncfsa]

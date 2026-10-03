@@ -981,3 +981,25 @@ Persian entries and current tags:
 - p14: شامگاه  → H6153
 - p15: نجس خواهد_بود  → H2930
 - p16: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 10:20 (context)
+
+- o1: וַ/יִּשְׁמַע = Hc "and" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HC/Vqw3ms]
+- o2: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o3: וַ/יִּיטַב = Hc "and" + H3190 יָטַב "to be (causative) make well, literally (sound…" [HC/Vqw3ms]
+- o4: בְּ/עֵינָי/ו = Hb "in" + H5869 עַיִן "an eye (literally or figuratively)…" [HR/Ncbdc/Sp3ms]
+
+### Leviticus 11:25 (context)
+
+- o1: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o2: הַ/נֹּשֵׂא = Hd "the" + H5375 נָשָׂא "to lift, in a great variety of applications…" [HTd/Vqrmsa]
+- o3: מִ/נִּבְלָתָ/ם = Hm "from" + H5038 נְבֵלָה "a flabby thing…" [HR/Ncfsc/Sp3mp]
+- o4: יְכַבֵּס = H3526 כָּבַס "to trample…" [HVpi3ms]
+- o5: בְּגָדָי/ו = H899 בֶּגֶד "a covering, i.e. clothing…" [HNcmpc/Sp3ms]
+- o6: וְ/טָמֵא = Hc "and" + H2930 טָמֵא "to be foul…" [HC/Vqq3ms]
+- o7: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o8: הָ/עָרֶב = Hd "the" + H6153 עֶרֶב "dusk" [HTd/Ncmsa]

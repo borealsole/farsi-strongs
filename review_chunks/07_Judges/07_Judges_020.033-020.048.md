@@ -921,3 +921,41 @@ Persian entries and current tags:
 - p41: آتش  → H784
 - p42: کشیدند  → H7971
 - p43: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Judges 20:32 (context)
+
+- o1: וַ/יֹּאמְרוּ = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3mp]
+- o2: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o3: בִנְיָמִן = H1144 בִּנְיָמִין "Binjamin, youngest son of Jacob…" [HNp]
+- o4: נִגָּפִים = H5062 נָגַף "to push, gore, defeat, stub (the toe)…" [HVNrmpa]
+- o5: הֵם = H1992 הֵם "they (only used when emphatic)" [HPp3mp]
+- o6: לְ/פָנֵי/נוּ = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp1cp]
+- o7: כְּ/בָ/רִאשֹׁנָה = Hk "like" + Hb "in" + H7223 רִאשׁוֹן "first, in place…" [HR/Rd/Aafsa]
+- o8: וּ/בְנֵי = Hc "and" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/Ncmpc]
+- o9: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o10: אָמְרוּ = H559 אָמַר "to say (used with great latitude)" [HVqp3cp]
+- o11: נָנוּסָה = H5127 נוּס "to flit, i.e. vanish away (subside, escape…" [HVqh1cp]
+- o12: וּ/נְתַקְּנֻ/הוּ = Hc "and" + H5423 נָתַק "to tear off" [HC/Vqq1cp/Sp3ms]
+- o13: מִן = H4480 מִן "properly, a part of…" [HR]
+- o14: הָ/עִיר = Hd "the" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HTd/Ncfsa]
+- o15: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o16: הַ/מְסִלּוֹת = Hd "the" + H4546 מְסִלָּה "a thoroughfare (as turnpiked)…" [HTd/Ncfpa]
+
+### Judges 21:1 (context)
+
+- o1: וְ/אִישׁ = Hc "and" + H376 אִישׁ "a man as an individual or a male person…" [HC/Ncmsc]
+- o2: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o3: נִשְׁבַּע = H7650 שָׁבַע "to seven oneself…" [HVNp3ms]
+- o4: בַּ/מִּצְפָּה = Hb "in" + H4709 מִצְפָּה "Mitspah, the name of two places in Palestine" [HRd/Np]
+- o5: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o6: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o7: מִמֶּ/נּוּ = H4480 מִן "properly, a part of…" [HR/Sp1cp]
+- o8: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o9: יִתֵּן = H5414 נָתַן "to give…" [HVqi3ms]
+- o10: בִּתּ/וֹ = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfsc/Sp3ms]
+- o11: לְ/בִנְיָמִן = Hl "to" + H1144 בִּנְיָמִין "Binjamin, youngest son of Jacob…" [HR/Np]
+- o12: לְ/אִשָּׁה = Hl "to" + H802 אִשָּׁה "a woman" [HR/Ncfsa]

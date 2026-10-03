@@ -707,3 +707,39 @@ Persian entries and current tags:
 - p29: اسرائیل  → H6726 H3478
 - p30: .
 - p31: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 45:25 (context)
+
+- o1: בַּ/יהוָה = Hb "in" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o2: יִצְדְּקוּ = H6663 צָדַק "to be (causatively…" [HVqi3mp]
+- o3: וְ/יִתְהַלְלוּ = Hc "and" + H1984 הָלַל "to be clear (orig. of sound…" [HC/Vti3mp]
+- o4: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o5: זֶרַע = H2233 זֶרַע "seed…" [HNcmsc]
+- o6: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+
+### Isaiah 47:1 (context)
+
+- o1: רְדִי = H3381 יָרַד "to descend (literally, to go downwards…" [HVqv2fs]
+- o2: וּ/שְׁבִי = Hc "and" + H3427 יָשַׁב "properly…" [HC/Vqv2fs]
+- o3: עַל = H5921 עַל "above, over, upon…" [HR]
+- o4: עָפָר = H6083 עָפָר "dust (as powdered or gray)…" [HNcmsa]
+- o5: בְּתוּלַת = H1330 בְּתוּלָה "a virgin (from her privacy)…" [HNcfsc]
+- o6: בַּת = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfsc]
+- o7: בָּבֶל = H894 בָּבֶל "Babel (i.e. Babylon)…" [HNp]
+- o8: שְׁבִי = H3427 יָשַׁב "properly…" [HVqv2fs]
+- o9: לָ/אָרֶץ = Hl "to" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HRd/Ncbsa]
+- o10: אֵין = H369 אַיִן "a non-entity…" [HTn]
+- o11: כִּסֵּא = H3678 כִּסֵּא "properly, covered, i.e. a throne (as canopied)" [HNcmsa]
+- o12: בַּת = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfsc]
+- o13: כַּשְׂדִּים = H3778 כַּשְׂדִּי "a Kasdite, or descendant of Kesed…" [HNp]
+- o14: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o15: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o16: תוֹסִיפִי = H3254 יָסַף "to add or augment (often adverbial…" [HVhi2fs]
+- o17: יִקְרְאוּ = H7121 קָרָא "to call out to (i.e. properly, address by name…" [HVqi3mp]
+- o18: לָ/ךְ = Hl "to" [HR/Sp2fs]
+- o19: רַכָּה = H7390 רַךְ "tender (literally or figuratively)…" [HAafsa]
+- o20: וַ/עֲנֻגָּה = Hc "and" + H6028 עָנֹג "luxurious" [HC/Aafsa]

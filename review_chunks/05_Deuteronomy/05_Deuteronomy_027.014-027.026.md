@@ -634,3 +634,49 @@ Persian entries and current tags:
 - p23: ”آمین  → H543
 - p24: .
 - p25: “
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 27:13 (context)
+
+- o1: וְ/אֵלֶּה = Hc "and" + H428 אֵלֶּה "these or those" [HC/Pdxcp]
+- o2: יַעַמְדוּ = H5975 עָמַד "to stand…" [HVqi3mp]
+- o3: עַל = H5921 עַל "above, over, upon…" [HR]
+- o4: הַ/קְּלָלָה = Hd "the" + H7045 קְלָלָה "vilification" [HTd/Ncfsa]
+- o5: בְּ/הַר = Hb "in" + H2022 הַר "a mountain or range of hills (sometimes used…" [HR/Ncmsc]
+- o6: עֵיבָל = H5858 עֵיבָל "Ebal, a mountain of Palestine" [HNp]
+- o7: רְאוּבֵן = H7205 רְאוּבֵן "Reuben, a son of Jacob" [HNp]
+- o8: גָּד = H1410 גָּד "Gad, a son of Jacob…" [HNp]
+- o9: וְ/אָשֵׁר = Hc "and" + H836 אָשֵׁר "happy…" [HC/Np]
+- o10: וּ/זְבוּלֻן = Hc "and" + H2074 זְבוּלוּן "Zebulon, a son of Jacob…" [HC/Np]
+- o11: דָּן = H1835 דָּן "Dan, one of the sons of Jacob…" [HNp]
+- o12: וְ/נַפְתָּלִי = Hc "and" + H5321 נַפְתָּלִי "Naphtali, a son of Jacob…" [HC/Np]
+
+### Deuteronomy 28:1 (context)
+
+- o1: וְ/הָיָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3ms]
+- o2: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o3: שָׁמוֹעַ = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqa]
+- o4: תִּשְׁמַע = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqi2ms]
+- o5: בְּ/קוֹל = Hb "in" + H6963 קוֹל "a voice or sound" [HR/Ncmsc]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: אֱלֹהֶי/ךָ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2ms]
+- o8: לִ/שְׁמֹר = Hl "to" + H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HR/Vqc]
+- o9: לַ/עֲשׂוֹת = Hl "to" + H6213 עָשָׂה "to do or make…" [HR/Vqc]
+- o10: אֶת = H853 אֵת "properly…" [HTo]
+- o11: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o12: מִצְוֺתָי/ו = H4687 מִצְוָה "a command, whether human or divine (collectively…" [HNcfpc/Sp3ms]
+- o13: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o14: אָנֹכִי = H595 אָנֹכִי "I" [HPp1cs]
+- o15: מְצַוְּ/ךָ = H6680 צָוָה "(intensively) to constitute, enjoin" [HVprmsc/Sp2ms]
+- o16: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o17: וּ/נְתָנְ/ךָ = Hc "and" + H5414 נָתַן "to give…" [HC/Vqq3ms/Sp2ms]
+- o18: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o19: אֱלֹהֶי/ךָ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2ms]
+- o20: עֶלְיוֹן = H5945 עֶלְיוֹן "an elevation, i.e. (adj.) lofty (compar.)…" [HAamsa]
+- o21: עַל = H5921 עַל "above, over, upon…" [HR]
+- o22: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o23: גּוֹיֵי = H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HNcmpc]
+- o24: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]

@@ -831,3 +831,42 @@ Persian entries and current tags:
 - p25: بگذارید  → H7760 H5739
 - p26: .
 - p27: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 31:55 (context)
+
+- o1: וַ/יַּשְׁכֵּם = Hc "and" + H7925 שָׁכַם "literally…" [HC/Vhw3ms]
+- o2: לָבָן = H3837 לָבָן "Laban, a Mesopotamian; also a place in the Desert" [HNp]
+- o3: בַּ/בֹּקֶר = Hb "in" + H1242 בֹּקֶר "properly, dawn (as the break of day)…" [HRd/Ncmsa]
+- o4: וַ/יְנַשֵּׁק = Hc "and" + H5401 נָשַׁק "to kiss, literally or figuratively (touch)…" [HC/Vpw3ms]
+- o5: לְ/בָנָי/ו = Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmpc/Sp3ms]
+- o6: וְ/לִ/בְנוֹתָי/ו = Hc "and" + Hl "to" + H1323 בַּת "a daughter (used in the same wide sense as other…" [HC/R/Ncfpc/Sp3ms]
+- o7: וַ/יְבָרֶךְ = Hc "and" + H1288 בָרַךְ "to kneel…" [HC/Vpw3ms]
+- o8: אֶתְ/הֶם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o9: וַ/יֵּלֶךְ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3ms]
+- o10: וַ/יָּשָׁב = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqw3ms]
+- o11: לָבָן = H3837 לָבָן "Laban, a Mesopotamian; also a place in the Desert" [HNp]
+- o12: לִ/מְקֹמ/וֹ = Hl "to" + H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HR/Ncmsc/Sp3ms]
+
+### Genesis 32:17 (context)
+
+- o1: וַ/יְצַו = Hc "and" + H6680 צָוָה "(intensively) to constitute, enjoin" [HC/Vpw3ms]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: הָ/רִאשׁוֹן = Hd "the" + H7223 רִאשׁוֹן "first, in place…" [HTd/Aomsa]
+- o4: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o5: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o6: יִפְגָּשְׁ/ךָ = H6298 פָּגַשׁ "to come in contact with…" [HVqi3ms/Sp2ms]
+- o7: עֵשָׂו = H6215 עֵשָׂו "Esav, a son of Isaac, including his posterity" [HNp]
+- o8: אָחִ/י = H251 אָח "a brother (used in the widest sense of literal…" [HNcmsc/Sp1cs]
+- o9: וִ/שְׁאֵלְ/ךָ = Hc "and" + H7592 שָׁאַל "to inquire; by implication, to request…" [HC/Vqq3ms/Sp2ms]
+- o10: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o11: לְ/מִי = Hl "to" + H4310 מִי "who? (occasionally, by a peculiar idiom…" [HR/Ti]
+- o12: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o13: וְ/אָנָה = Hc "and" + H575 אָן "where?; hence, whither?, when?…" [HC/Ti]
+- o14: תֵלֵךְ = H3212 יָלַךְ "to walk (literally or figuratively)…" [HVqi2ms]
+- o15: וּ/לְ/מִי = Hc "and" + Hl "to" + H4310 מִי "who? (occasionally, by a peculiar idiom…" [HC/R/Ti]
+- o16: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o17: לְ/פָנֶי/ךָ = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp2ms]

@@ -1044,3 +1044,45 @@ Persian entries and current tags:
 - p33: برود  → H3212
 - p34: .
 - p35: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 7:17 (context)
+
+- o1: וּ/תְשֻׁבָת/וֹ = Hc "and" + H8666 תְּשׁוּבָה "a recurrence (of time or place)…" [HC/Ncfsc/Sp3ms]
+- o2: הָ/רָמָתָ/ה = Hd "the" + H7414 רָמָה "Ramah, the name of four places in Palestine" [HTd/Np/Sd]
+- o3: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o4: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o5: בֵּית/וֹ = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc/Sp3ms]
+- o6: וְ/שָׁם = Hc "and" + H8033 שָׁם "there (transferring to time) then…" [HC/D]
+- o7: שָׁפָט = H8199 שָׁפַט "to judge…" [HVqp3ms]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o10: וַ/יִּבֶן = Hc "and" + H1129 בָּנָה "to build (literally and figuratively)" [HC/Vqw3ms]
+- o11: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o12: מִזְבֵּחַ = H4196 מִזְבֵּחַ "an altar" [HNcmsa]
+- o13: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+
+### I Samuel 9:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o3: מ/בן = Hm "from" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Np]
+- o4: ימין = H3225 יָמִין "the right hand or side (leg…" [HNp]
+- o5: וּ/שְׁמ/וֹ = Hc "and" + H8034 שֵׁם "an appellation…" [HC/Ncmsc/Sp3ms]
+- o6: קִישׁ = H7027 קִישׁ "Kish, the name of five Israelites" [HNp]
+- o7: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o8: אֲבִיאֵל = H22 אֲבִיאֵל "Abiel, the name of two Israelites" [HNp]
+- o9: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o10: צְרוֹר = H6872 צְרוֹר "a parcel (as packed up)…" [HNp]
+- o11: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o12: בְּכוֹרַת = H1064 בְּכוֹרַת "Bekorath, an Israelite" [HNp]
+- o13: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o14: אֲפִיחַ = H647 אֲפִיחַ "Aphiach, an Israelite" [HNp]
+- o15: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o16: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o17: יְמִינִי = H3227 יְמִינִי "right" [HNgmsa]
+- o18: גִּבּוֹר = H1368 גִּבּוֹר "powerful; by implication, warrior, tyrant" [HAamsc]
+- o19: חָיִל = H2428 חַיִל "probably a force, whether of men…" [HNcmsa]

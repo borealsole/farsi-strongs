@@ -667,3 +667,15 @@ Persian entries and current tags:
 - p9: سقفِ  → H7351 H1266
 - p10: آن
 - p11: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Song of Solomon 2:1 (context)
+
+- o1: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o2: חֲבַצֶּלֶת = H2261 חֲבַצֶּלֶת "probably meadow-saffron" [HNcfsc]
+- o3: הַ/שָּׁרוֹן = Hd "the" + H8289 שָׁרוֹן "plain, Sharon, the name of a place in Palestine" [HTd/Np]
+- o4: שׁוֹשַׁנַּת = H7799 שׁוּשַׁן "a lily (from its whiteness)…" [HNcbsc]
+- o5: הָ/עֲמָקִים = Hd "the" + H6010 עֵמֶק "a vale (i.e. broad depression)" [HTd/Ncmpa]

@@ -909,3 +909,52 @@ Persian entries and current tags:
 - p26: بیهوده  → G3756 G2756
 - p27: نیست  → G1510
 - p28: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Corinthians 15:39 (context)
+
+- o1: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o2: πᾶσα = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-NSF]
+- o3: σὰρξ = G4561 σάρξ "carnal(-ly, + -ly minded), flesh(-ly)" [N-NSF]
+- o4: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o5: αὐτὴ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-NSF]
+- o6: σάρξ, = G4561 σάρξ "carnal(-ly, + -ly minded), flesh(-ly)" [N-NSF]
+- o7: ἀλλὰ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o8: ἄλλη = G243 ἄλλος "more, one (another), (an-, some an-)other(-s…" [A-NSF]
+- o9: μὲν = G3303 μέν "even, indeed, so, some, truly, verily" [PRT]
+- o10: ἀνθρώπων, = G444 ἄνθρωπος "certain, man" [N-GPM]
+- o11: ἄλλη = G243 ἄλλος "more, one (another), (an-, some an-)other(-s…" [A-NSF]
+- o12: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o13: σὰρξ = G4561 σάρξ "carnal(-ly, + -ly minded), flesh(-ly)" [N-NSF]
+- o14: κτηνῶν, = G2934 κτῆνος "beast" [N-GPN]
+- o15: ἄλλη = G243 ἄλλος "more, one (another), (an-, some an-)other(-s…" [A-NSF]
+- o16: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o17: σὰρξ = G4561 σάρξ "carnal(-ly, + -ly minded), flesh(-ly)" [N-NSF]
+- o18: πτηνῶν, = G4421 πτηνόν "bird" [A-GPN]
+- o19: ἄλλη = G243 ἄλλος "more, one (another), (an-, some an-)other(-s…" [A-NSF]
+- o20: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o21: ἰχθύων. = G2486 ἰχθύς "fish" [N-GPM]
+
+### I Corinthians 16:1 (context)
+
+- o1: Περὶ = G4012 περί "there-)about, above, against, at, on behalf of…" [PREP]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o4: λογίας = G3048 λογία "collection, gathering" [N-GSF]
+- o5: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o6: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o7: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o8: ἁγίους, = G40 ἅγιος "(most) holy (one, thing), saint" [A-APM]
+- o9: ὥσπερ = G5618 ὥσπερ "(even, like) as" [ADV]
+- o10: διέταξα = G1299 διατάσσω "appoint, command, give, (set in) order, ordain" [V-AAI-1S]
+- o11: ταῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPF]
+- o12: ἐκκλησίαις = G1577 ἐκκλησία "assembly, church" [N-DPF]
+- o13: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o14: Γαλατίας, = G1053 Γαλατία "Galatia" [N-GSF]
+- o15: οὕτως = G3779 οὕτω "after that, after (in) this manner, as, even (so)…" [ADV]
+- o16: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o17: ὑμεῖς = G5210 ὑμεῖς "ye (yourselves), you" [P-2NP]
+- o18: ποιήσατε. = G4160 ποιέω "abide, + agree, appoint, avenge, + band together…" [V-AAM-2P]

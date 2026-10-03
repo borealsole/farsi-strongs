@@ -803,3 +803,53 @@ Persian entries and current tags:
 - p50: آرایش
 - p51: زنان  → H802
 - p52: -
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Esther 1:22 (context)
+
+- o1: וַ/יִּשְׁלַח = Hc "and" + H7971 שָׁלַח "to send away, for…" [HC/Vqw3ms]
+- o2: סְפָרִים = H5612 סֵפֶר "properly, writing (the art or a document)…" [HNcmpa]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o5: מְדִינוֹת = H4082 מְדִינָה "properly, a judgeship, i.e. jurisdiction…" [HNcfpc]
+- o6: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o7: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o8: מְדִינָה = H4082 מְדִינָה "properly, a judgeship, i.e. jurisdiction…" [HNcfsa]
+- o9: וּ/מְדִינָה = Hc "and" + H4082 מְדִינָה "properly, a judgeship, i.e. jurisdiction…" [HC/Ncfsa]
+- o10: כִּ/כְתָבָ/הּ = Hk "like" + H3791 כָּתָב "something written, i.e. a writing, record or book" [HR/Ncmsc/Sp3fs]
+- o11: וְ/אֶל = Hc "and" + H413 אֵל "near, with or among; often in general, to" [HC/R]
+- o12: עַם = H5971 עַם "a people (as a congregated unit)…" [HNcmsa]
+- o13: וָ/עָם = Hc "and" + H5971 עַם "a people (as a congregated unit)…" [HC/Ncmsa]
+- o14: כִּ/לְשׁוֹנ/וֹ = Hk "like" + H3956 לָשׁוֹן "the tongue (of man or animals)…" [HR/Ncbsc/Sp3ms]
+- o15: לִ/הְיוֹת = Hl "to" + H1961 הָיָה "to exist, i.e. be or become…" [HR/Vqc]
+- o16: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o17: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o18: שֹׂרֵר = H8323 שָׂרַר "to have (transitively, exercise…" [HVqrmsa]
+- o19: בְּ/בֵית/וֹ = Hb "in" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc/Sp3ms]
+- o20: וּ/מְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vprmsa]
+- o21: כִּ/לְשׁוֹן = Hk "like" + H3956 לָשׁוֹן "the tongue (of man or animals)…" [HR/Ncbsc]
+- o22: עַמּ/וֹ = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp3ms]
+
+### Esther 2:13 (context)
+
+- o1: וּ/בָ/זֶה = Hc "and" + Hb "in" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HC/R/Pdxms]
+- o2: הַ/נַּעֲרָה = Hd "the" + H5291 נַעֲרָה "a girl (from infancy to adolescence)" [HTd/Ncfsa]
+- o3: בָּאָה = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqrfsa]
+- o4: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o5: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o6: אֵת = H853 אֵת "properly…" [HTo]
+- o7: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsa]
+- o8: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o9: תֹּאמַר = H559 אָמַר "to say (used with great latitude)" [HVqi3fs]
+- o10: יִנָּתֵן = H5414 נָתַן "to give…" [HVNi3ms]
+- o11: לָ/הּ = Hl "to" [HR/Sp3fs]
+- o12: לָ/בוֹא = Hl "to" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HR/Vqc]
+- o13: עִמָּ/הּ = H5973 עִם "adverb or preposition…" [HR/Sp3fs]
+- o14: מִ/בֵּית = Hm "from" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc]
+- o15: הַ/נָּשִׁים = Hd "the" + H802 אִשָּׁה "a woman" [HTd/Ncfpa]
+- o16: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o17: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o18: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]

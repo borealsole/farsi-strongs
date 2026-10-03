@@ -923,3 +923,40 @@ Persian entries and current tags:
 - p19: وی
 - p20: پادشاه شد  → H4427
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 11:23 (context)
+
+- o1: וַ/יָּבֶן = Hc "and" + H995 בִּין "to separate mentally (or distinguish)…" [HC/Vqw3ms]
+- o2: וַ/יִּפְרֹץ = Hc "and" + H6555 פָּרַץ "to break out (in many applications…" [HC/Vqw3ms]
+- o3: מִ/כָּל = Hm "from" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o4: בָּנָי/ו = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc/Sp3ms]
+- o5: לְ/כָל = Hl "to" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o6: אַרְצוֹת = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbpc]
+- o7: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o8: וּ/בִנְיָמִן = Hc "and" + H1144 בִּנְיָמִין "Binjamin, youngest son of Jacob…" [HC/Np]
+- o9: לְ/כֹל = Hl "to" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o10: עָרֵי = H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HNcfpc]
+- o11: הַ/מְּצֻרוֹת = Hd "the" + H4694 מְצוּרָה "a hemming in…" [HTd/Ncfpa]
+- o12: וַ/יִּתֵּן = Hc "and" + H5414 נָתַן "to give…" [HC/Vqw3ms]
+- o13: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o14: הַ/מָּזוֹן = Hd "the" + H4202 מָזוֹן "food" [HTd/Ncmsa]
+- o15: לָ/רֹב = Hl "to" + H7230 רֹב "abundance (in any respect)" [HR/Ncbsa]
+- o16: וַ/יִּשְׁאַל = Hc "and" + H7592 שָׁאַל "to inquire; by implication, to request…" [HC/Vqw3ms]
+- o17: הֲמוֹן = H1995 הָמוֹן "a noise, tumult, crowd; also disquietude, wealth" [HNcmsc]
+- o18: נָשִׁים = H802 אִשָּׁה "a woman" [HNcfpa]
+
+### II Chronicles 13:1 (context)
+
+- o1: בִּ/שְׁנַת = Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HR/Ncfsc]
+- o2: שְׁמוֹנֶה = H8083 שְׁמֹנֶה "a cardinal number…" [HAcfsa]
+- o3: עֶשְׂרֵה = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcfsa]
+- o4: לַ/מֶּלֶךְ = Hl "to" + H4428 מֶלֶךְ "a king" [HRd/Ncmsa]
+- o5: יָרָבְעָם = H3379 יָרׇבְעָם "Jarobam, the name of two Israelite kings" [HNp]
+- o6: וַ/יִּמְלֹךְ = Hc "and" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HC/Vqw3ms]
+- o7: אֲבִיָּה = H29 אֲבִיָּה "Abijah…" [HNp]
+- o8: עַל = H5921 עַל "above, over, upon…" [HR]
+- o9: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]

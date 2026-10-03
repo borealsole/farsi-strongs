@@ -968,3 +968,37 @@ Persian entries and current tags:
 - p23: حامل  → G941
 - p24: توست
 - p25: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Romans 10:21 (context)
+
+- o1: πρὸς = G4314 πρός "about, according to , against, among, at…" [PREP]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o4: Ἰσραὴλ = G2474 Ἰσραήλ "Israel" [N-PRI]
+- o5: λέγει, = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-3S]
+- o6: ὅλην = G3650 ὅλος "all, altogether, every whit, + throughout, whole" [A-ASF]
+- o7: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o8: ἡμέραν = G2250 ἡμέρα "age, + alway, (mid-)day (by day, (-ly))…" [N-ASF]
+- o9: ἐξεπέτασα = G1600 ἐκπετάννυμι "stretch forth" [V-AAI-1S]
+- o10: τὰς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APF]
+- o11: χεῖράς = G5495 χείρ "hand" [N-APF]
+- o12: μου = G1473 ἐγώ "I, me" [P-1GS]
+- o13: πρὸς = G4314 πρός "about, according to , against, among, at…" [PREP]
+- o14: λαὸν = G2992 λαός "people" [N-ASM]
+- o15: ἀπειθοῦντα = G544 ἀπειθέω "not believe, disobedient, obey not, unbelieving" [V-PAP-ASM]
+- o16: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o17: ἀντιλέγοντα. = G483 ἀντιλέγω "answer again, contradict, deny, gainsay(-er)…" [V-PAP-ASM]
+
+### Romans 11:19 (context)
+
+- o1: ἐρεῖς = G2046 ἐρέω "call, say, speak (of), tell" [V-FAI-2S]
+- o2: οὖν, = G3767 οὖν "and (so, truly), but, now (then)…" [CONJ]
+- o3: ἐξεκλάσθησαν = G1575 ἐκκλάω "break off" [V-API-3P]
+- o4: κλάδοι = G2798 κλάδος "branch" [N-NPM]
+- o5: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o6: ἐγὼ = G1473 ἐγώ "I, me" [P-1NS]
+- o7: ἐγκεντρισθῶ. = G1461 ἐγκεντρίζω "graff in(-to)" [V-APS-1S]

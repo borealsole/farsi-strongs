@@ -620,3 +620,31 @@ Persian entries and current tags:
 - p12: مردی  → H376
 - p13: مسلح  → H4043
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 24:17 (context)
+
+- o1: בִּ/נְפֹל = Hb "in" + H5307 נָפַל "to fall…" [HR/Vqc]
+- o2: אויבי/ך = H341 אֹיֵב "hating; an adversary" [HVqrmpc/Sp2ms]
+- o3: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o4: תִּשְׂמָח = H8055 שָׂמַח "probably to brighten up…" [HVqj2ms]
+- o5: וּ/בִ/כָּשְׁל/וֹ = Hc "and" + Hb "in" + H3782 כָּשַׁל "to totter or waver (through weakness of the legs…" [HC/R/VNc/Sp3ms]
+- o6: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o7: יָגֵל = H1523 גִּיל "properly…" [HVqj3ms]
+- o8: לִבֶּ/ךָ = H3820 לֵב "the heart…" [HNcmsc/Sp2ms]
+
+### Proverbs 25:1 (context)
+
+- o1: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o2: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o3: מִשְׁלֵי = H4912 מָשָׁל "properly, a pithy maxim…" [HNcmpc]
+- o4: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: הֶעְתִּיקוּ = H6275 עָתַק "to remove (intransitive or transitive)…" [HVhp3cp]
+- o7: אַנְשֵׁי = H376 אִישׁ "a man as an individual or a male person…" [HNcmpc]
+- o8: חִזְקִיָּה = H2396 חִזְקִיָּה "Chizkijah, a king of Judah…" [HNp]
+- o9: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o10: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]

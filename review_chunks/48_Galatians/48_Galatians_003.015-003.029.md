@@ -779,3 +779,49 @@ Persian entries and current tags:
 - p17: نیز
 - p18: هستید
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Galatians 3:14 (context)
+
+- o1: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o2: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o3: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
+- o4: ἔθνη = G1484 ἔθνος "Gentile, heathen, nation, people" [N-APN]
+- o5: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o6: εὐλογία = G2129 εὐλογία "blessing (a matter of) bounty ( -tifully)…" [N-NSF]
+- o7: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o8: Ἀβραὰμ = G11 Ἀβραάμ "Abraham" [N-PRI]
+- o9: γένηται = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-2ADS-3S]
+- o10: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o11: Χριστῷ = G5547 Χριστός "Christ" [N-DSM]
+- o12: Ἰησοῦ, = G2424 Ἰησοῦς "Jesus" [N-DSM]
+- o13: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o14: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o15: ἐπαγγελίαν = G1860 ἐπαγγελία "message, promise" [N-ASF]
+- o16: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
+- o17: πνεύματος = G4151 πνεῦμα "ghost, life, spirit(-ual, -ually), mind" [N-GSN]
+- o18: λάβωμεν = G2983 λαμβάνω "accept, + be amazed, assay, attain, bring…" [V-2AAS-1P]
+- o19: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o20: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o21: πίστεως. = G4102 πίστις "assurance, belief, believe, faith, fidelity" [N-GSF]
+
+### Galatians 4:1 (context)
+
+- o1: Λέγω = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-1S]
+- o2: δέ, = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: ἐφ’ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o4: ὅσον = G3745 ὅσος "all (that), as (long, many, much) (as)…" [K-ASM]
+- o5: χρόνον = G5550 χρόνος "+ years old, season, space, ( often-)time(-s)…" [N-ASM]
+- o6: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o7: κληρονόμος = G2818 κληρονόμος "heir" [N-NSM]
+- o8: νήπιός = G3516 νήπιος "babe, child (+ -ish)" [A-NSM]
+- o9: ἐστιν, = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o10: οὐδὲν = G3762 οὐδείς "any (man), aught, man, neither any (thing)…" [A-ASN-N]
+- o11: διαφέρει = G1308 διαφέρω "be better, carry, differ from, drive up and down…" [V-PAI-3S]
+- o12: δούλου = G1401 δοῦλος "bond(-man), servant" [N-GSM]
+- o13: κύριος = G2962 κύριος "God, Lord, master, Sir" [N-NSM]
+- o14: πάντων = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-GPN]
+- o15: ὤν, = G1510 εἰμί "am, have been, it is I, was" [V-PAP-NSM]

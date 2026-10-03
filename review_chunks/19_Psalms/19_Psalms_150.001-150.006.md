@@ -253,3 +253,20 @@ Persian entries and current tags:
 - p7: !
 - p8: هللویاه  → H1984 H3050
 - p9: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 149:9 (context)
+
+- o1: לַ/עֲשׂוֹת = Hl "to" + H6213 עָשָׂה "to do or make…" [HR/Vqc]
+- o2: בָּ/הֶם = Hb "in" [HR/Sp3mp]
+- o3: מִשְׁפָּט = H4941 מִשְׁפָּט "properly…" [HNcmsa]
+- o4: כָּתוּב = H3789 כָּתַב "to grave, by implication, to write (describe…" [HVqsmsa]
+- o5: הָדָר = H1926 הָדָר "magnificence, i.e. ornament or splendor" [HNcmsa]
+- o6: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o7: לְ/כָל = Hl "to" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o8: חֲסִידָי/ו = H2623 חָסִיד "properly, kind, i.e. (religiously) pious (a saint)" [HAampc/Sp3ms]
+- o9: הַלְלוּ = H1984 הָלַל "to be clear (orig. of sound…" [HVpv2mp]
+- o10: יָהּ = H3050 יָהּ "Jah, the sacred name" [HNp]

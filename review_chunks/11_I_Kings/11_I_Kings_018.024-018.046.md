@@ -1383,3 +1383,55 @@ Persian entries and current tags:
 - p20: یِزرِعیل  → H3157
 - p21: رسید  → H935
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 18:23 (context)
+
+- o1: וְ/יִתְּנוּ = Hc "and" + H5414 נָתַן "to give…" [HC/Vqj3mp]
+- o2: לָ/נוּ = Hl "to" [HR/Sp1cp]
+- o3: שְׁנַיִם = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmda]
+- o4: פָּרִים = H6499 פַּר "a bullock (apparently as breaking forth in wild…" [HNcmpa]
+- o5: וְ/יִבְחֲרוּ = Hc "and" + H977 בָּחַר "properly, to try, i.e. (by implication) select" [HC/Vqj3mp]
+- o6: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o7: הַ/פָּר = Hd "the" + H6499 פַּר "a bullock (apparently as breaking forth in wild…" [HTd/Ncmsa]
+- o8: הָ/אֶחָד = Hd "the" + H259 אֶחָד "properly, united, i.e. one…" [HTd/Acmsa]
+- o9: וִ/ינַתְּחֻ/הוּ = Hc "and" + H5408 נָתַח "to dismember" [HC/Vpj3mp/Sp3ms]
+- o10: וְ/יָשִׂימוּ = Hc "and" + H7760 שׂוּם "to put (used in a great variety of applications…" [HC/Vqj3mp]
+- o11: עַל = H5921 עַל "above, over, upon…" [HR]
+- o12: הָ/עֵצִים = Hd "the" + H6086 עֵץ "a tree (from its firmness)…" [HTd/Ncmpa]
+- o13: וְ/אֵשׁ = Hc "and" + H784 אֵשׁ "fire (literally or figuratively)" [HC/Ncbsa]
+- o14: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o15: יָשִׂימוּ = H7760 שׂוּם "to put (used in a great variety of applications…" [HVqi3mp]
+- o16: וַ/אֲנִי = Hc "and" + H589 אֲנִי "I" [HC/Pp1cs]
+- o17: אֶעֱשֶׂה = H6213 עָשָׂה "to do or make…" [HVqi1cs]
+- o18: אֶת = H853 אֵת "properly…" [HTo]
+- o19: הַ/פָּר = Hd "the" + H6499 פַּר "a bullock (apparently as breaking forth in wild…" [HTd/Ncmsa]
+- o20: הָ/אֶחָד = Hd "the" + H259 אֶחָד "properly, united, i.e. one…" [HTd/Acmsa]
+- o21: וְ/נָתַתִּי = Hc "and" + H5414 נָתַן "to give…" [HC/Vqq1cs]
+- o22: עַל = H5921 עַל "above, over, upon…" [HR]
+- o23: הָ/עֵצִים = Hd "the" + H6086 עֵץ "a tree (from its firmness)…" [HTd/Ncmpa]
+- o24: וְ/אֵשׁ = Hc "and" + H784 אֵשׁ "fire (literally or figuratively)" [HC/Ncbsa]
+- o25: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o26: אָשִׂים = H7760 שׂוּם "to put (used in a great variety of applications…" [HVqi1cs]
+
+### I Kings 19:1 (context)
+
+- o1: וַ/יַּגֵּד = Hc "and" + H5046 נָגַד "properly, to front…" [HC/Vhw3ms]
+- o2: אַחְאָב = H256 אַחְאָב "Achab…" [HNp]
+- o3: לְ/אִיזֶבֶל = Hl "to" + H348 אִיזֶבֶל "Izebel, the wife of king Ahab" [HR/Np]
+- o4: אֵת = H853 אֵת "properly…" [HTo]
+- o5: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: עָשָׂה = H6213 עָשָׂה "to do or make…" [HVqp3ms]
+- o8: אֵלִיָּהוּ = H452 אֵלִיָּה "Elijah…" [HNp]
+- o9: וְ/אֵת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o10: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o11: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o12: הָרַג = H2026 הָרַג "to smite with deadly intent" [HVqp3ms]
+- o13: אֶת = H853 אֵת "properly…" [HTo]
+- o14: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o15: הַ/נְּבִיאִים = Hd "the" + H5030 נָבִיא "a prophet or (generally) inspired man" [HTd/Ncmpa]
+- o16: בֶּ/חָרֶב = Hb "in" + H2719 חֶרֶב "drought…" [HRd/Ncfsa]

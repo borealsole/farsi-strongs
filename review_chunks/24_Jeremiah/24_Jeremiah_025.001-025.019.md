@@ -1102,3 +1102,51 @@ Persian entries and current tags:
 - p11: و  → Hc
 - p12: تمامی  → H3605
 - p13: قومش  → H5971
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 24:10 (context)
+
+- o1: וְ/שִׁלַּחְתִּי = Hc "and" + H7971 שָׁלַח "to send away, for…" [HC/Vpq1cs]
+- o2: בָ/ם = Hb "in" [HR/Sp3mp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: הַ/חֶרֶב = Hd "the" + H2719 חֶרֶב "drought…" [HTd/Ncfsa]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: הָ/רָעָב = Hd "the" + H7458 רָעָב "hunger (more or less extensive)" [HTd/Ncmsa]
+- o7: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o8: הַ/דָּבֶר = Hd "the" + H1698 דֶּבֶר "a pestilence" [HTd/Ncmsa]
+- o9: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o10: תֻּמָּ/ם = H8552 תָּמַם "to complete, in a good or a bad sense, literal…" [HVqc/Sp3mp]
+- o11: מֵ/עַל = Hm "from" + H5921 עַל "above, over, upon…" [HR/R]
+- o12: הָ/אֲדָמָה = Hd "the" + H127 אֲדָמָה "soil (from its general redness)" [HTd/Ncfsa]
+- o13: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o14: נָתַתִּי = H5414 נָתַן "to give…" [HVqp1cs]
+- o15: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o16: וְ/לַ/אֲבוֹתֵי/הֶם = Hc "and" + Hl "to" + H1 אָב "father, in a literal and immediate…" [HC/R/Ncmpc/Sp3mp]
+
+### Jeremiah 25:20 (context)
+
+- o1: וְ/אֵת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o2: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: הָ/עֶרֶב = Hd "the" + H6154 עֵרֶב "the web (or transverse threads of cloth)…" [HTd/Ncmsa]
+- o4: וְ/אֵת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o5: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o6: מַלְכֵי = H4428 מֶלֶךְ "a king" [HNcmpc]
+- o7: אֶרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsc]
+- o8: הָ/עוּץ = Hd "the" + H5780 עוּץ "Uts, a son of Aram, also a Seirite…" [HTd/Np]
+- o9: וְ/אֵת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o10: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o11: מַלְכֵי = H4428 מֶלֶךְ "a king" [HNcmpc]
+- o12: אֶרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsc]
+- o13: פְּלִשְׁתִּים = H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HNgmpa]
+- o14: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o15: אַשְׁקְלוֹן = H831 אַשְׁקְלוֹן "Ashkelon, a place in Palestine" [HNp]
+- o16: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o17: עַזָּה = H5804 עַזָּה "Azzah, a place in Palestine" [HNp]
+- o18: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o19: עֶקְרוֹן = H6138 עֶקְרוֹן "Ekron, a place in Palestine" [HNp]
+- o20: וְ/אֵת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o21: שְׁאֵרִית = H7611 שְׁאֵרִית "a remainder or residual (surviving, final) portion" [HNcfsc]
+- o22: אַשְׁדּוֹד = H795 אַשְׁדּוֹד "Ashdod, a place in Palestine" [HNp]

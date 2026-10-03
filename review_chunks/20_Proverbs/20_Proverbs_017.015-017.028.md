@@ -533,3 +533,27 @@ Persian entries and current tags:
 - p18: فهیم  → H995
 - p19: شمرده_می‌شود
 - p20: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 17:14 (context)
+
+- o1: פּוֹטֵר = H6362 פָּטַר "to cleave or burst through…" [HVqrmsc]
+- o2: מַיִם = H4325 מַיִם "water; figuratively, juice…" [HNcmpa]
+- o3: רֵאשִׁית = H7225 רֵאשִׁית "the first, in place, time…" [HNcfsc]
+- o4: מָדוֹן = H4066 מָדוֹן "a contest or quarrel" [HNcmsa]
+- o5: וְ/לִ/פְנֵי = Hc "and" + Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HC/R/Ncbpc]
+- o6: הִתְגַּלַּע = H1566 גָּלַע "to be obstinate" [HVtp3ms]
+- o7: הָ/רִיב = Hd "the" + H7379 רִיב "a contest (personal or legal)" [HTd/Ncbsa]
+- o8: נְטוֹשׁ = H5203 נָטַשׁ "properly, to pound, i.e. smite…" [HVqv2ms]
+
+### Proverbs 18:1 (context)
+
+- o1: לְ/תַאֲוָה = Hl "to" + H8378 תַּאֲוָה "a longing…" [HR/Ncfsa]
+- o2: יְבַקֵּשׁ = H1245 בָּקַשׁ "to search out (by any method…" [HVpi3ms]
+- o3: נִפְרָד = H6504 פָּרַד "to break through…" [HVNrmsa]
+- o4: בְּ/כָל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o5: תּוּשִׁיָּה = H8454 תּוּשִׁיָּה "support or (by implication) ability…" [HNcfsa]
+- o6: יִתְגַּלָּע = H1566 גָּלַע "to be obstinate" [HVti3ms]

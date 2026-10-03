@@ -646,3 +646,32 @@ Persian entries and current tags:
 - p10: دلشاد  → H1523
 - p11: مشو  → H408
 - p12: ؛
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 23:35 (context)
+
+- o1: הִכּוּ/נִי = H5221 נָכָה "to strike (lightly or severely…" [HVhp3cp/Sp1cs]
+- o2: בַל = H1077 בַּל "properly, a failure; by implication nothing…" [HTn]
+- o3: חָלִיתִי = H2470 חָלָה "properly, to be rubbed or worn…" [HVqp1cs]
+- o4: הֲלָמוּ/נִי = H1986 הָלַם "to strike down…" [HVqp3cp/Sp1cs]
+- o5: בַּל = H1077 בַּל "properly, a failure; by implication nothing…" [HTn]
+- o6: יָדָעְתִּי = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqp1cs]
+- o7: מָתַי = H4970 מָתַי "properly, extent (of time)…" [HTi]
+- o8: אָקִיץ = H6974 קוּץ "to awake (literally or figuratively)" [HVhi1cs]
+- o9: אוֹסִיף = H3254 יָסַף "to add or augment (often adverbial…" [HVhi1cs]
+- o10: אֲבַקְשֶׁ/נּוּ = H1245 בָּקַשׁ "to search out (by any method…" [HVpi1cs/Sp3ms]
+- o11: עוֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+
+### Proverbs 24:18 (context)
+
+- o1: פֶּן = H6435 פֵּן "properly, removal…" [HC]
+- o2: יִרְאֶה = H7200 רָאָה "to see…" [HVqi3ms]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: וְ/רַע = Hc "and" + H7489 רָעַע "properly, to spoil (literally…" [HC/Vqq3ms]
+- o5: בְּ/עֵינָי/ו = Hb "in" + H5869 עַיִן "an eye (literally or figuratively)…" [HR/Ncbdc/Sp3ms]
+- o6: וְ/הֵשִׁיב = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vhq3ms]
+- o7: מֵ/עָלָי/ו = Hm "from" + H5921 עַל "above, over, upon…" [HR/R/Sp3ms]
+- o8: אַפּ/וֹ = H639 אַף "properly, the nose or nostril…" [HNcmsc/Sp3ms]

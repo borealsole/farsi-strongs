@@ -757,3 +757,60 @@ Persian entries and current tags:
 - p17: است
 - p18: .
 - p19: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Judges 16:31 (context)
+
+- o1: וַ/יֵּרְדוּ = Hc "and" + H3381 יָרַד "to descend (literally, to go downwards…" [HC/Vqw3mp]
+- o2: אֶחָי/ו = H251 אָח "a brother (used in the widest sense of literal…" [HNcmpc/Sp3ms]
+- o3: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o4: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o5: אָבִי/הוּ = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp3ms]
+- o6: וַ/יִּשְׂאוּ = Hc "and" + H5375 נָשָׂא "to lift, in a great variety of applications…" [HC/Vqw3mp]
+- o7: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o8: וַ/יַּעֲלוּ = Hc "and" + H5927 עָלָה "to ascend…" [HC/Vqw3mp]
+- o9: וַ/יִּקְבְּרוּ = Hc "and" + H6912 קָבַר "to inter" [HC/Vqw3mp]
+- o10: אוֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o11: בֵּין = H996 בֵּין "between (repeated before each noun…" [HR]
+- o12: צָרְעָה = H6881 צׇרְעָה "Tsorah, a place in Palestine" [HNp]
+- o13: וּ/בֵין = Hc "and" + H996 בֵּין "between (repeated before each noun…" [HC/R]
+- o14: אֶשְׁתָּאֹל = H847 אֶשְׁתָּאֹל "Eshtaol, a place in Palestine" [HNp]
+- o15: בְּ/קֶבֶר = Hb "in" + H6913 קֶבֶר "a sepulchre" [HR/Ncmsc]
+- o16: מָנוֹחַ = H4495 מָנוֹחַ "Manoach, an Israelite" [HNp]
+- o17: אָבִי/ו = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp3ms]
+- o18: וְ/הוּא = Hc "and" + H1931 הוּא "he (she or it)…" [HC/Pp3ms]
+- o19: שָׁפַט = H8199 שָׁפַט "to judge…" [HVqp3ms]
+- o20: אֶת = H853 אֵת "properly…" [HTo]
+- o21: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o22: עֶשְׂרִים = H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HAcbpa]
+- o23: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+
+### Judges 18:1 (context)
+
+- o1: בַּ/יָּמִים = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmpa]
+- o2: הָ/הֵם = Hd "the" + H1992 הֵם "they (only used when emphatic)" [HTd/Pp3mp]
+- o3: אֵין = H369 אַיִן "a non-entity…" [HTn]
+- o4: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsa]
+- o5: בְּ/יִשְׂרָאֵל = Hb "in" + H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HR/Np]
+- o6: וּ/בַ/יָּמִים = Hc "and" + Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HC/Rd/Ncmpa]
+- o7: הָ/הֵם = Hd "the" + H1992 הֵם "they (only used when emphatic)" [HTd/Pp3mp]
+- o8: שֵׁבֶט = H7626 שֵׁבֶט "a scion, i.e. (literally) a stick (for punishing…" [HNcmsc]
+- o9: הַ/דָּנִי = Hd "the" + H1839 דָּנִי "a Danite (often collectively) or descendants (or…" [HTd/Ngmsa]
+- o10: מְבַקֶּשׁ = H1245 בָּקַשׁ "to search out (by any method…" [HVprmsa]
+- o11: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o12: נַחֲלָה = H5159 נַחֲלָה "properly, something inherited…" [HNcfsa]
+- o13: לָ/שֶׁבֶת = Hl "to" + H3427 יָשַׁב "properly…" [HR/Vqc]
+- o14: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o15: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o16: נָפְלָה = H5307 נָפַל "to fall…" [HVqp3fs]
+- o17: לּ/וֹ = Hl "to" [HR/Sp3ms]
+- o18: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o19: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o20: הַ/הוּא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3ms]
+- o21: בְּ/תוֹךְ = Hb "in" + H8432 תָּוֶךְ "a bisection, i.e. (by implication) the centre" [HR/Ncmsc]
+- o22: שִׁבְטֵי = H7626 שֵׁבֶט "a scion, i.e. (literally) a stick (for punishing…" [HNcmpc]
+- o23: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o24: בְּ/נַחֲלָה = Hb "in" + H5159 נַחֲלָה "properly, something inherited…" [HR/Ncfsa]

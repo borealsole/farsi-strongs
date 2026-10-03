@@ -916,3 +916,50 @@ Persian entries and current tags:
 - p12: را  → H853
 - p13: رها ننمود  → H7971
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 8:16 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: אֱמֹר = H559 אָמַר "to say (used with great latitude)" [HVqv2ms]
+- o6: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o7: אַהֲרֹן = H175 אַהֲרוֹן "Aharon, the brother of Moses" [HNp]
+- o8: נְטֵה = H5186 נָטָה "to stretch or spread out…" [HVqv2ms]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: מַטְּ/ךָ = H4294 מַטֶּה "a branch (as extending); figuratively, a tribe…" [HNcmsc/Sp2ms]
+- o11: וְ/הַךְ = Hc "and" + H5221 נָכָה "to strike (lightly or severely…" [HC/Vhv2ms]
+- o12: אֶת = H853 אֵת "properly…" [HTo]
+- o13: עֲפַר = H6083 עָפָר "dust (as powdered or gray)…" [HNcmsc]
+- o14: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o15: וְ/הָיָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3ms]
+- o16: לְ/כִנִּם = Hl "to" + H3654 כֵּן "a gnat" [HR/Ncmpa]
+- o17: בְּ/כָל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o18: אֶרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsc]
+- o19: מִצְרָיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+
+### Exodus 9:1 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: בֹּא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqv2ms]
+- o6: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o7: פַּרְעֹה = H6547 פַּרְעֹה "Paroh, a general title of Egyptian kings" [HNp]
+- o8: וְ/דִבַּרְתָּ = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpp2ms]
+- o9: אֵלָי/ו = H413 אֵל "near, with or among; often in general, to" [HR/Sp3ms]
+- o10: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o11: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o12: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o13: אֱלֹהֵי = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc]
+- o14: הָ/עִבְרִים = Hd "the" + H5680 עִבְרִי "an Eberite (i.e. Hebrew) or descendant of Eber" [HTd/Ngmpa]
+- o15: שַׁלַּח = H7971 שָׁלַח "to send away, for…" [HVpv2ms]
+- o16: אֶת = H853 אֵת "properly…" [HTo]
+- o17: עַמִּ/י = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp1cs]
+- o18: וְ/יַעַבְדֻ/נִי = Hc "and" + H5647 עָבַד "to work (in any sense)…" [HC/Vqi3mp/Sp1cs]

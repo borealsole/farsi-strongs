@@ -773,3 +773,20 @@ Persian entries and current tags:
 - p18: سازی
 - p19: ؟
 - p20: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 1:15 (context)
+
+- o1: וַ/יִּקְרָא = Hc "and" + H7121 קָרָא "to call out to (i.e. properly, address by name…" [HC/Vqw3ms]
+- o2: דָוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o3: לְ/אַחַד = Hl "to" + H259 אֶחָד "properly, united, i.e. one…" [HR/Acmsa]
+- o4: מֵ/הַ/נְּעָרִים = Hm "from" + Hd "the" + H5288 נַעַר "concretely) a boy (as active)…" [HR/Td/Ncmpa]
+- o5: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o6: גַּשׁ = H5066 נָגַשׁ "to be or come (causatively…" [HVqv2ms]
+- o7: פְּגַע = H6293 פָּגַע "to impinge, by accident or violence…" [HVqv2ms]
+- o8: בּ/וֹ = Hb "in" [HR/Sp3ms]
+- o9: וַ/יַּכֵּ/הוּ = Hc "and" + H5221 נָכָה "to strike (lightly or severely…" [HC/Vhw3ms/Sp3ms]
+- o10: וַ/יָּמֹת = Hc "and" + H4191 מוּת "to die (literally or figuratively)…" [HC/Vqw3ms]

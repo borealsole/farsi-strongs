@@ -994,3 +994,41 @@ Persian entries and current tags:
 - p37: فراموش  → H3808 H7911
 - p38: مکنید  → H7911
 - p39: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 24:22 (context)
+
+- o1: וְ/זָכַרְתָּ = Hc "and" + H2142 זָכַר "properly, to mark (so as to be recognized)…" [HC/Vqq2ms]
+- o2: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o3: עֶבֶד = H5650 עֶבֶד "a servant" [HNcmsa]
+- o4: הָיִיתָ = H1961 הָיָה "to exist, i.e. be or become…" [HVqp2ms]
+- o5: בְּ/אֶרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o6: מִצְרָיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o7: עַל = H5921 עַל "above, over, upon…" [HR]
+- o8: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o9: אָנֹכִי = H595 אָנֹכִי "I" [HPp1cs]
+- o10: מְצַוְּ/ךָ = H6680 צָוָה "(intensively) to constitute, enjoin" [HVprmsc/Sp2ms]
+- o11: לַ/עֲשׂוֹת = Hl "to" + H6213 עָשָׂה "to do or make…" [HR/Vqc]
+- o12: אֶת = H853 אֵת "properly…" [HTo]
+- o13: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]
+- o14: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+
+### Deuteronomy 26:1 (context)
+
+- o1: וְ/הָיָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3ms]
+- o2: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o3: תָבוֹא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqi2ms]
+- o4: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o5: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: אֱלֹהֶי/ךָ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2ms]
+- o9: נֹתֵן = H5414 נָתַן "to give…" [HVqrmsa]
+- o10: לְ/ךָ = Hl "to" [HR/Sp2ms]
+- o11: נַחֲלָה = H5159 נַחֲלָה "properly, something inherited…" [HNcfsa]
+- o12: וִ/ירִשְׁתָּ/הּ = Hc "and" + H3423 יָרַשׁ "to occupy (by driving out previous tenants…" [HC/Vqq2ms/Sp3fs]
+- o13: וְ/יָשַׁבְתָּ = Hc "and" + H3427 יָשַׁב "properly…" [HC/Vqq2ms]
+- o14: בָּ/הּ = Hb "in" [HR/Sp3fs]

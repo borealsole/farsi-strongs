@@ -968,3 +968,45 @@ Persian entries and current tags:
 - p63: برهاند  → H7804
 - p64: ؟
 - p65: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Daniel 2:49 (context)
+
+- o1: וְ/דָנִיֵּאל = Hc "and" + H1841 דָּנִיֵּאל "Danijel, the Hebrew prophet" [AC/Np]
+- o2: בְּעָא = H1156 בְּעָא "to seek or ask" [AVqp3ms]
+- o3: מִן = H4481 מִן "properly, a part of…" [AR]
+- o4: מַלְכָּ/א = H4430 מֶלֶךְ "a king" [ANcmsd/Td]
+- o5: וּ/מַנִּי = Hc "and" + H4483 מְנָא "to count, appoint" [AC/Vpp3ms]
+- o6: עַל = H5922 עַל "above, over, upon…" [AR]
+- o7: עֲבִידְתָּ/א = H5673 עֲבִידָה "labor or business" [ANcfsd/Td]
+- o8: דִּי = H1768 דִּי "that, used as relative conjunction…" [ATr]
+- o9: מְדִינַת = H4083 מְדִינָה "properly, a judgeship, i.e. jurisdiction…" [ANcfsc]
+- o10: בָּבֶל = H895 בַּבֶל "Babel (i.e. Babylon)…" [ANp]
+- o11: לְ/שַׁדְרַךְ = Hl "to" + H7715 שַׁדְרַךְ "Shadrak…" [ATo/Np]
+- o12: מֵישַׁךְ = H4336 מֵישַׁךְ "Meshak, the Babylonian" [ANp]
+- o13: וַ/עֲבֵד = Hc "and" + H5665 עֲבֵד נְגוֹא "Abed-Nego, the name of Azariah" [AC/Np]
+- o14: נְגוֹ = H5665 עֲבֵד נְגוֹא "Abed-Nego, the name of Azariah" [ANp]
+- o15: וְ/דָנִיֵּאל = Hc "and" + H1841 דָּנִיֵּאל "Danijel, the Hebrew prophet" [AC/Np]
+- o16: בִּ/תְרַע = Hb "in" + H8651 תְּרַע "a door; by implication, a palace" [AR/Ncmsc]
+- o17: מַלְכָּ/א = H4430 מֶלֶךְ "a king" [ANcmsd/Td]
+
+### Daniel 3:16 (context)
+
+- o1: עֲנוֹ = H6032 עֲנָה "properly, to eye or (generally) to heed…" [AVqp3mp]
+- o2: שַׁדְרַךְ = H7715 שַׁדְרַךְ "Shadrak…" [ANp]
+- o3: מֵישַׁךְ = H4336 מֵישַׁךְ "Meshak, the Babylonian" [ANp]
+- o4: וַ/עֲבֵד = Hc "and" + H5665 עֲבֵד נְגוֹא "Abed-Nego, the name of Azariah" [AC/Np]
+- o5: נְגוֹ = H5665 עֲבֵד נְגוֹא "Abed-Nego, the name of Azariah" [ANp]
+- o6: וְ/אָמְרִין = Hc "and" + H560 אֲמַר "to say (used with great latitude)" [AC/Vqrmpa]
+- o7: לְ/מַלְכָּ/א = Hl "to" + H4430 מֶלֶךְ "a king" [AR/Ncmsd/Td]
+- o8: נְבוּכַדְנֶצַּר = H5020 נְבוּכַדְנֶצַּר "Nebukadnetstsar (or -retstsar, or -retstsor)…" [ANp]
+- o9: לָא = H3809 לָא "not (the simple or abs. negation)…" [ATn]
+- o10: חַשְׁחִין = H2818 חֲשַׁח "to be necessary (from the idea of convenience) or…" [AVqrmpa]
+- o11: אֲנַחְנָה = H586 אֲנַחְנָא "we" [APp1cp]
+- o12: עַל = H5922 עַל "above, over, upon…" [AR]
+- o13: דְּנָה = H1836 דֵּן "this" [APdxms]
+- o14: פִּתְגָם = H6600 פִּתְגָּם "a word, answer, letter or decree" [ANcmsa]
+- o15: לַ/הֲתָבוּתָ/ךְ = Hl "to" + H8421 תּוּב "specifically (transitive and ellip.) to reply" [AR/Vhc/Sp2ms]

@@ -1346,3 +1346,53 @@ Persian entries and current tags:
 - p24: خواهید_مرد  → H4191
 - p25: .
 - p26: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 41:18 (context)
+
+- o1: מִ/פְּנֵי = Hm "from" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o2: הַ/כַּשְׂדִּים = Hd "the" + H3778 כַּשְׂדִּי "a Kasdite, or descendant of Kesed…" [HTd/Np]
+- o3: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o4: יָרְאוּ = H3372 יָרֵא "to fear; morally, to revere; caus. to frighten" [HVqp3cp]
+- o5: מִ/פְּנֵי/הֶם = Hm "from" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp3mp]
+- o6: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o7: הִכָּה = H5221 נָכָה "to strike (lightly or severely…" [HVhp3ms]
+- o8: יִשְׁמָעֵאל = H3458 יִשְׁמָעֵאל "Jishmael, the name of Abraham's oldest son…" [HNp]
+- o9: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o10: נְתַנְיָה = H5418 נְתַנְיָה "Nethanjah, the name of four Israelites" [HNp]
+- o11: אֶת = H853 אֵת "properly…" [HTo]
+- o12: גְּדַלְיָהוּ = H1436 גְּדַּלְיָה "Gedaljah, the name of five Israelites" [HNp]
+- o13: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o14: אֲחִיקָם = H296 אֲחִיקָם "Achikam, an Israelite" [HNp]
+- o15: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o16: הִפְקִיד = H6485 פָּקַד "to visit (with friendly or hostile intent)…" [HVhp3ms]
+- o17: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o18: בָּבֶל = H894 בָּבֶל "Babel (i.e. Babylon)…" [HNp]
+- o19: בָּ/אָרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HRd/Ncbsa]
+
+### Jeremiah 43:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: כְּ/כַלּוֹת = Hk "like" + H3615 כָּלָה "to end, whether intransitive (to cease…" [HR/Vpc]
+- o3: יִרְמְיָהוּ = H3414 יִרְמְיָה "Jirmejah, the name of eight or nine Israelites" [HNp]
+- o4: לְ/דַבֵּר = Hl "to" + H1696 דָבַר "perhaps properly, to arrange…" [HR/Vpc]
+- o5: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o6: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o7: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o10: דִּבְרֵי = H1697 דָּבָר "a word…" [HNcmpc]
+- o11: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o12: אֱלֹהֵי/הֶם = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp3mp]
+- o13: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o14: שְׁלָח/וֹ = H7971 שָׁלַח "to send away, for…" [HVqp3ms/Sp3ms]
+- o15: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o16: אֱלֹהֵי/הֶם = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp3mp]
+- o17: אֲלֵי/הֶם = H413 אֵל "near, with or among; often in general, to" [HR/Sp3mp]
+- o18: אֵת = H853 אֵת "properly…" [HTo]
+- o19: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o20: הַ/דְּבָרִים = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmpa]
+- o21: הָ/אֵלֶּה = Hd "the" + H428 אֵלֶּה "these or those" [HTd/Pdxcp]

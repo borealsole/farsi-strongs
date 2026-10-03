@@ -1229,3 +1229,49 @@ Persian entries and current tags:
 - p46: خویش
 - p47: عمل نما  → H6213
 - p48: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 17:27 (context)
+
+- o1: וְ/אִם = Hc "and" + H518 אִם "used very widely as demonstrative, lo!…" [HC/C]
+- o2: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o3: תִשְׁמְעוּ = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqi2mp]
+- o4: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o5: לְ/קַדֵּשׁ = Hl "to" + H6942 קָדַשׁ "to be (causatively, make…" [HR/Vpc]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: יוֹם = H3117 יוֹם "a day (as the warm hours)…" [HNcmsc]
+- o8: הַ/שַּׁבָּת = Hd "the" + H7676 שַׁבָּת "intermission, i.e (specifically) the Sabbath" [HTd/Ncbsa]
+- o9: וּ/לְ/בִלְתִּי = Hc "and" + Hl "to" + H1115 בִּלְתִּי "properly, a failure of…" [HC/R/Tn]
+- o10: שְׂאֵת = H5375 נָשָׂא "to lift, in a great variety of applications…" [HVqc]
+- o11: מַשָּׂא = H4853 מַשָּׂא "a burden…" [HNcmsa]
+- o12: וּ/בֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqc]
+- o13: בְּ/שַׁעֲרֵי = Hb "in" + H8179 שַׁעַר "an opening, i.e. door or gate" [HR/Ncmpc]
+- o14: יְרוּשָׁלִַם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+- o15: בְּ/יוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmsc]
+- o16: הַ/שַּׁבָּת = Hd "the" + H7676 שַׁבָּת "intermission, i.e (specifically) the Sabbath" [HTd/Ncbsa]
+- o17: וְ/הִצַּתִּי = Hc "and" + H3341 יָצַת "to burn or set on fire; figuratively, to desolate" [HC/Vhq1cs]
+- o18: אֵשׁ = H784 אֵשׁ "fire (literally or figuratively)" [HNcbsa]
+- o19: בִּ/שְׁעָרֶי/הָ = Hb "in" + H8179 שַׁעַר "an opening, i.e. door or gate" [HR/Ncmpc/Sp3fs]
+- o20: וְ/אָכְלָה = Hc "and" + H398 אָכַל "to eat (literally or figuratively)" [HC/Vqq3fs]
+- o21: אַרְמְנוֹת = H759 אַרְמוֹן "a citadel (from its height)" [HNcmpc]
+- o22: יְרוּשָׁלִַם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+- o23: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o24: תִכְבֶּה = H3518 כָּבָה "to expire or (causatively) to extinguish (fire…" [HVqi3fs]
+
+### Jeremiah 19:1 (context)
+
+- o1: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o2: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: הָלוֹךְ = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVqa]
+- o5: וְ/קָנִיתָ = Hc "and" + H7069 קָנָה "to erect, i.e. create…" [HC/Vqq2ms]
+- o6: בַקְבֻּק = H1228 בַּקְבֻּק "a bottle (from the gurgling in emptying)" [HNcmsc]
+- o7: יוֹצֵר = H3335 יָצַר "to mould into a form; especially as apotter…" [HVqrmsc]
+- o8: חָרֶשׂ = H2789 חֶרֶשׂ "a piece of pottery" [HNcmsa]
+- o9: וּ/מִ/זִּקְנֵי = Hc "and" + Hm "from" + H2205 זָקֵן "old" [HC/R/Aampc]
+- o10: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o11: וּ/מִ/זִּקְנֵי = Hc "and" + Hm "from" + H2205 זָקֵן "old" [HC/R/Aampc]
+- o12: הַ/כֹּהֲנִים = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmpa]

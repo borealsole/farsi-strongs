@@ -811,3 +811,44 @@ Persian entries and current tags:
 - p17: ،
 - p18: فرستاد
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 30:16 (context)
+
+- o1: וַ/יֹּרִדֵ/הוּ = Hc "and" + H3381 יָרַד "to descend (literally, to go downwards…" [HC/Vhw3ms/Sp3ms]
+- o2: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o3: נְטֻשִׁים = H5203 נָטַשׁ "properly, to pound, i.e. smite…" [HVqsmpa]
+- o4: עַל = H5921 עַל "above, over, upon…" [HR]
+- o5: פְּנֵי = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc]
+- o6: כָל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o7: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o8: אֹכְלִים = H398 אָכַל "to eat (literally or figuratively)" [HVqrmpa]
+- o9: וְ/שֹׁתִים = Hc "and" + H8354 שָׁתָה "to imbibe (literally or figuratively)" [HC/Vqrmpa]
+- o10: וְ/חֹגְגִים = Hc "and" + H2287 חָגַג "properly, to move in acircle…" [HC/Vqrmpa]
+- o11: בְּ/כֹל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o12: הַ/שָּׁלָל = Hd "the" + H7998 שָׁלָל "booty" [HTd/Ncmsa]
+- o13: הַ/גָּדוֹל = Hd "the" + H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HTd/Aamsa]
+- o14: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o15: לָקְחוּ = H3947 לָקַח "to take (in the widest variety of applications)" [HVqp3cp]
+- o16: מֵ/אֶרֶץ = Hm "from" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o17: פְּלִשְׁתִּים = H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HNgmpa]
+- o18: וּ/מֵ/אֶרֶץ = Hc "and" + Hm "from" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HC/R/Ncbsc]
+- o19: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+
+### I Samuel 31:1 (context)
+
+- o1: וּ/פְלִשְׁתִּים = Hc "and" + H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HC/Ngmpa]
+- o2: נִלְחָמִים = H3898 לָחַם "to feed on; figuratively, to consume…" [HVNrmpa]
+- o3: בְּ/יִשְׂרָאֵל = Hb "in" + H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HR/Np]
+- o4: וַ/יָּנֻסוּ = Hc "and" + H5127 נוּס "to flit, i.e. vanish away (subside, escape…" [HC/Vqw3mp]
+- o5: אַנְשֵׁי = H376 אִישׁ "a man as an individual or a male person…" [HNcmpc]
+- o6: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o7: מִ/פְּנֵי = Hm "from" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o8: פְלִשְׁתִּים = H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HNgmpa]
+- o9: וַ/יִּפְּלוּ = Hc "and" + H5307 נָפַל "to fall…" [HC/Vqw3mp]
+- o10: חֲלָלִים = H2491 חָלָל "pierced (especially to death)…" [HAampa]
+- o11: בְּ/הַר = Hb "in" + H2022 הַר "a mountain or range of hills (sometimes used…" [HR/Ncmsc]
+- o12: הַ/גִּלְבֹּעַ = Hd "the" + H1533 גִּלְבֹּעַ "Gilboa, a mountain of Palestine" [HTd/Np]

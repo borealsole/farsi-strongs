@@ -869,3 +869,48 @@ Persian entries and current tags:
 - p41: فرمودۀ  → H559
 - p42: خداوند  → H3068
 - p43: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 5:31 (context)
+
+- o1: הַ/נְּבִיאִים = Hd "the" + H5030 נָבִיא "a prophet or (generally) inspired man" [HTd/Ncmpa]
+- o2: נִבְּאוּ = H5012 נָבָא "to prophesy…" [HVNp3cp]
+- o3: בַ/שֶּׁקֶר = Hb "in" + H8267 שֶׁקֶר "an untruth…" [HRd/Ncmsa]
+- o4: וְ/הַ/כֹּהֲנִים = Hc "and" + Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HC/Td/Ncmpa]
+- o5: יִרְדּוּ = H7287 רָדָה "to tread down, i.e. subjugate…" [HVqi3mp]
+- o6: עַל = H5921 עַל "above, over, upon…" [HR]
+- o7: יְדֵי/הֶם = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbdc/Sp3mp]
+- o8: וְ/עַמִּ/י = Hc "and" + H5971 עַם "a people (as a congregated unit)…" [HC/Ncmsc/Sp1cs]
+- o9: אָהֲבוּ = H157 אָהַב "to have affection for (sexually or otherwise)" [HVqp3cp]
+- o10: כֵן = H3651 כֵּן "properly, set upright…" [HD]
+- o11: וּ/מַה = Hc "and" + H4100 מָה "properly…" [HC/Ti]
+- o12: תַּעֲשׂוּ = H6213 עָשָׂה "to do or make…" [HVqi2mp]
+- o13: לְ/אַחֲרִיתָ/הּ = Hl "to" + H319 אַחֲרִית "the last or end, hence, the future; also posterity" [HR/Ncfsc/Sp3fs]
+
+### Jeremiah 6:16 (context)
+
+- o1: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o2: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: עִמְדוּ = H5975 עָמַד "to stand…" [HVqv2mp]
+- o5: עַל = H5921 עַל "above, over, upon…" [HR]
+- o6: דְּרָכִים = H1870 דֶּרֶךְ "a road (as trodden)…" [HNcbpa]
+- o7: וּ/רְאוּ = Hc "and" + H7200 רָאָה "to see…" [HC/Vqv2mp]
+- o8: וְ/שַׁאֲלוּ = Hc "and" + H7592 שָׁאַל "to inquire; by implication, to request…" [HC/Vqv2mp]
+- o9: לִ/נְתִבוֹת = Hl "to" + H5410 נָתִיב "a (beaten) track" [HR/Ncbpc]
+- o10: עוֹלָם = H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HNcmsa]
+- o11: אֵי = H335 אַי "where? hence how?" [HTi]
+- o12: זֶה = H2088 זֶה "the masculine demonstrative pronoun, this or that" [HPdxms]
+- o13: דֶרֶךְ = H1870 דֶּרֶךְ "a road (as trodden)…" [HNcbsc]
+- o14: הַ/טּוֹב = Hd "the" + H2896 טוֹב "good (as an adjective) in the widest sense…" [HTd/Aamsa]
+- o15: וּ/לְכוּ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqv2mp]
+- o16: בָ/הּ = Hb "in" [HR/Sp3fs]
+- o17: וּ/מִצְאוּ = Hc "and" + H4672 מָצָא "properly, to come forth to, i.e. appear or exist…" [HC/Vqv2mp]
+- o18: מַרְגּוֹעַ = H4771 מַרְגּוֹעַ "a resting place" [HNcmsa]
+- o19: לְ/נַפְשְׁ/כֶם = Hl "to" + H5315 נֶפֶשׁ "properly, a breathing creature…" [HR/Ncbsc/Sp2mp]
+- o20: וַ/יֹּאמְרוּ = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3mp]
+- o21: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o22: נֵלֵךְ = H3212 יָלַךְ "to walk (literally or figuratively)…" [HVqi1cp]

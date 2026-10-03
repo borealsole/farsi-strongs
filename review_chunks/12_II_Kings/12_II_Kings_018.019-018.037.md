@@ -1228,3 +1228,42 @@ Persian entries and current tags:
 - p32: او
 - p33: بازگفتند  → H5046
 - p34: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 18:18 (context)
+
+- o1: וַ/יִּקְרְאוּ = Hc "and" + H7121 קָרָא "to call out to (i.e. properly, address by name…" [HC/Vqw3mp]
+- o2: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o3: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o4: וַ/יֵּצֵא = Hc "and" + H3318 יָצָא "to go (causatively, bring) out…" [HC/Vqw3ms]
+- o5: אֲלֵ/הֶם = H413 אֵל "near, with or among; often in general, to" [HR/Sp3mp]
+- o6: אֶלְיָקִים = H471 אֶלְיָקִים "Eljakim, the name of four Israelites" [HNp]
+- o7: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o8: חִלְקִיָּהוּ = H2518 חִלְקִיָּה "Chilhijah, the name of eight Israelites" [HNp]
+- o9: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o10: עַל = H5921 עַל "above, over, upon…" [HR]
+- o11: הַ/בָּיִת = Hd "the" + H1004 בַּיִת "a house (in the greatest variation of…" [HTd/Ncmsa]
+- o12: וְ/שֶׁבְנָה = Hc "and" + H7644 שֶׁבְנָא "Shebna or Shebnah, an Israelite" [HC/Np]
+- o13: הַ/סֹּפֵר = Hd "the" + H5608 סָפַר "properly…" [HTd/Ncmsa]
+- o14: וְ/יוֹאָח = Hc "and" + H3098 יוֹאָח "Joach, the name of four Israelites" [HC/Np]
+- o15: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o16: אָסָף = H623 אָסָף "Asaph, the name of three Israelites…" [HNp]
+- o17: הַ/מַּזְכִּיר = Hd "the" + H2142 זָכַר "properly, to mark (so as to be recognized)…" [HTd/Vhrmsa]
+
+### II Kings 19:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: כִּ/שְׁמֹעַ = Hk "like" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HR/Vqc]
+- o3: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o4: חִזְקִיָּהוּ = H2396 חִזְקִיָּה "Chizkijah, a king of Judah…" [HNp]
+- o5: וַ/יִּקְרַע = Hc "and" + H7167 קָרַע "to rend, literally or figuratively (revile…" [HC/Vqw3ms]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: בְּגָדָי/ו = H899 בֶּגֶד "a covering, i.e. clothing…" [HNcmpc/Sp3ms]
+- o8: וַ/יִּתְכַּס = Hc "and" + H3680 כָּסָה "properly, to plump, i.e. fill up hollows…" [HC/Vtw3ms]
+- o9: בַּ/שָּׂק = Hb "in" + H8242 שַׂק "properly…" [HRd/Ncmsa]
+- o10: וַ/יָּבֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3ms]
+- o11: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o12: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]

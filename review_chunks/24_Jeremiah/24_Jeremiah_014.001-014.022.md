@@ -1302,3 +1302,47 @@ Persian entries and current tags:
 - p41: این
 - p42: کارهایی  → H428
 - p43: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 13:27 (context)
+
+- o1: נִאֻפַיִ/ךְ = H5004 נִאֻף "adultery" [HNcmpc/Sp2fs]
+- o2: וּ/מִצְהֲלוֹתַיִ/ךְ = Hc "and" + H4684 מַצְהָלָה "a whinnying (through impatience for battle or…" [HC/Ncfpc/Sp2fs]
+- o3: זִמַּת = H2154 זִמָּה "a plan, especially a bad one" [HNcfsc]
+- o4: זְנוּתֵ/ךְ = H2184 זְנוּת "adultery, i.e. (figuratively) infidelity, idolatry" [HNcfsc/Sp2fs]
+- o5: עַל = H5921 עַל "above, over, upon…" [HR]
+- o6: גְּבָעוֹת = H1389 גִּבְעָה "a hillock" [HNcfpa]
+- o7: בַּ/שָּׂדֶה = Hb "in" + H7704 שָׂדֶה "a field (as flat)" [HRd/Ncmsa]
+- o8: רָאִיתִי = H7200 רָאָה "to see…" [HVqp1cs]
+- o9: שִׁקּוּצָיִ/ךְ = H8251 שִׁקּוּץ "disgusting, i.e. filthy…" [HNcmpc/Sp2fs]
+- o10: אוֹי = H188 אוֹי "lamentation; also interjectionally Oh!" [HTj]
+- o11: לָ/ךְ = Hl "to" [HR/Sp2fs]
+- o12: יְרוּשָׁלִַם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+- o13: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o14: תִטְהֲרִי = H2891 טָהֵר "to be pure (physical sound, clear, unadulterated…" [HVqi2fs]
+- o15: אַחֲרֵי = H310 אַחַר "properly, the hind part…" [HR]
+- o16: מָתַי = H4970 מָתַי "properly, extent (of time)…" [HTi]
+- o17: עֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+
+### Jeremiah 15:1 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o4: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o5: יַעֲמֹד = H5975 עָמַד "to stand…" [HVqi3ms]
+- o6: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o7: וּ/שְׁמוּאֵל = Hc "and" + H8050 שְׁמוּאֵל "Shemuel, the name of three Israelites" [HC/Np]
+- o8: לְ/פָנַ/י = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp1cs]
+- o9: אֵין = H369 אַיִן "a non-entity…" [HTn]
+- o10: נַפְשִׁ/י = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsc/Sp1cs]
+- o11: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o12: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o13: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o14: שַׁלַּח = H7971 שָׁלַח "to send away, for…" [HVpv2ms]
+- o15: מֵ/עַל = Hm "from" + H5921 עַל "above, over, upon…" [HR/R]
+- o16: פָּנַ/י = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc/Sp1cs]
+- o17: וְ/יֵצֵאוּ = Hc "and" + H3318 יָצָא "to go (causatively, bring) out…" [HC/Vqi3mp]

@@ -805,3 +805,46 @@ Persian entries and current tags:
 - p13: رفتار کند  → H6213
 - p14: ؟
 - p15: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 34:16 (context)
+
+- o1: וְ/נָתַנּוּ = Hc "and" + H5414 נָתַן "to give…" [HC/Vqq1cp]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: בְּנֹתֵי/נוּ = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfpc/Sp1cp]
+- o4: לָ/כֶם = Hl "to" [HR/Sp2mp]
+- o5: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o6: בְּנֹתֵי/כֶם = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfpc/Sp2mp]
+- o7: נִקַּח = H3947 לָקַח "to take (in the widest variety of applications)" [HVqi1cp]
+- o8: לָ/נוּ = Hl "to" [HR/Sp1cp]
+- o9: וְ/יָשַׁבְנוּ = Hc "and" + H3427 יָשַׁב "properly…" [HC/Vqq1cp]
+- o10: אִתְּ/כֶם = H854 אֵת "properly…" [HR/Sp2mp]
+- o11: וְ/הָיִינוּ = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq1cp]
+- o12: לְ/עַם = Hl "to" + H5971 עַם "a people (as a congregated unit)…" [HR/Ncmsa]
+- o13: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+
+### Genesis 35:1 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: יַעֲקֹב = H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HNp]
+- o5: קוּם = H6965 קוּם "to rise (in various applications, literal…" [HVqv2ms]
+- o6: עֲלֵה = H5927 עָלָה "to ascend…" [HVqv2ms]
+- o7: בֵית = H1008 בֵּית־אֵל "Beth-El, a place in Palestine" [HNp]
+- o8: אֵל = H1008 בֵּית־אֵל "Beth-El, a place in Palestine" [HNp]
+- o9: וְ/שֶׁב = Hc "and" + H3427 יָשַׁב "properly…" [HC/Vqv2ms]
+- o10: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o11: וַ/עֲשֵׂה = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqv2ms]
+- o12: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o13: מִזְבֵּחַ = H4196 מִזְבֵּחַ "an altar" [HNcmsa]
+- o14: לָ/אֵל = Hl "to" + H410 אֵל "strength; as adjective, mighty…" [HRd/Ncmsa]
+- o15: הַ/נִּרְאֶה = Hd "the" + H7200 רָאָה "to see…" [HTd/VNrmsa]
+- o16: אֵלֶי/ךָ = H413 אֵל "near, with or among; often in general, to" [HR/Sp2ms]
+- o17: בְּ/בָרְחֲ/ךָ = Hb "in" + H1272 בָּרַח "to bolt, i.e. figuratively, to flee suddenly" [HR/Vqc/Sp2ms]
+- o18: מִ/פְּנֵי = Hm "from" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o19: עֵשָׂו = H6215 עֵשָׂו "Esav, a son of Isaac, including his posterity" [HNp]
+- o20: אָחִי/ךָ = H251 אָח "a brother (used in the widest sense of literal…" [HNcmsc/Sp2ms]

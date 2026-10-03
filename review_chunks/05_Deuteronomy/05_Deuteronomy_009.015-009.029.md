@@ -873,3 +873,45 @@ Persian entries and current tags:
 - p16: بیرون آوردی  → H3318
 - p17: .
 - p18: “
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 9:14 (context)
+
+- o1: הֶרֶף = H7503 רָפָה "to slacken (in many applications…" [HVhv2ms]
+- o2: מִמֶּ/נִּי = H4480 מִן "properly, a part of…" [HR/Sp1cs]
+- o3: וְ/אַשְׁמִידֵ/ם = Hc "and" + H8045 שָׁמַד "to desolate" [HC/Vhh1cs/Sp3mp]
+- o4: וְ/אֶמְחֶה = Hc "and" + H4229 מָחָה "properly, to stroke or rub…" [HC/Vqh1cs]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: שְׁמָ/ם = H8034 שֵׁם "an appellation…" [HNcmsc/Sp3mp]
+- o7: מִ/תַּחַת = Hm "from" + H8478 תַּחַת "the bottom (as depressed)…" [HR/R]
+- o8: הַ/שָּׁמָיִם = Hd "the" + H8064 שָׁמַיִם "the sky (as aloft…" [HTd/Ncmpa]
+- o9: וְ/אֶעֱשֶׂה = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqi1cs]
+- o10: אוֹתְ/ךָ = H853 אֵת "properly…" [HTo/Sp2ms]
+- o11: לְ/גוֹי = Hl "to" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HR/Ncmsa]
+- o12: עָצוּם = H6099 עָצוּם "powerful (specifically, a paw)…" [HAamsa]
+- o13: וָ/רָב = Hc "and" + H7227 רַב "abundant (in quantity, size, age, number, rank…" [HC/Aamsa]
+- o14: מִמֶּ/נּוּ = H4480 מִן "properly, a part of…" [HR/Sp3ms]
+
+### Deuteronomy 10:1 (context)
+
+- o1: בָּ/עֵת = Hb "in" + H6256 עֵת "time, especially (adverb with preposition) now…" [HRd/Ncbsa]
+- o2: הַ/הִוא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3fs]
+- o3: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o6: פְּסָל = H6458 פָּסַל "to carve, whether wood or stone" [HVqv2ms]
+- o7: לְ/ךָ = Hl "to" [HR/Sp2ms]
+- o8: שְׁנֵי = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmdc]
+- o9: לֻוחֹת = H3871 לוּחַ "probably meaning to glisten…" [HNcmpc]
+- o10: אֲבָנִים = H68 אֶבֶן "a stone" [HNcfpa]
+- o11: כָּ/רִאשֹׁנִים = Hk "like" + H7223 רִאשׁוֹן "first, in place…" [HRd/Aampa]
+- o12: וַ/עֲלֵה = Hc "and" + H5927 עָלָה "to ascend…" [HC/Vqv2ms]
+- o13: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o14: הָ/הָרָ/ה = Hd "the" + H2022 הַר "a mountain or range of hills (sometimes used…" [HTd/Ncmsa/Sd]
+- o15: וְ/עָשִׂיתָ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqq2ms]
+- o16: לְּ/ךָ = Hl "to" [HR/Sp2ms]
+- o17: אֲרוֹן = H727 אָרוֹן "a box" [HNcbsc]
+- o18: עֵץ = H6086 עֵץ "a tree (from its firmness)…" [HNcmsa]

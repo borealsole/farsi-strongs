@@ -803,3 +803,48 @@ Persian entries and current tags:
 - p25: باد  → H7307
 - p26: دویدن  → H7475
 - p27: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ecclesiastes 3:22 (context)
+
+- o1: וְ/רָאִיתִי = Hc "and" + H7200 רָאָה "to see…" [HC/Vqp1cs]
+- o2: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o3: אֵין = H369 אַיִן "a non-entity…" [HTn]
+- o4: טוֹב = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAamsa]
+- o5: מֵ/אֲשֶׁר = Hm "from" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o6: יִשְׂמַח = H8055 שָׂמַח "probably to brighten up…" [HVqi3ms]
+- o7: הָ/אָדָם = Hd "the" + H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HTd/Ncmsa]
+- o8: בְּ/מַעֲשָׂי/ו = Hb "in" + H4639 מַעֲשֶׂה "an action (good or bad); generally, a transaction…" [HR/Ncmpc/Sp3ms]
+- o9: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o10: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o11: חֶלְק/וֹ = H2506 חֵלֶק "properly, smoothness (of the tongue)…" [HNcmsc/Sp3ms]
+- o12: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o13: מִי = H4310 מִי "who? (occasionally, by a peculiar idiom…" [HTi]
+- o14: יְבִיאֶ/נּוּ = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVhi3ms/Sp3ms]
+- o15: לִ/רְאוֹת = Hl "to" + H7200 רָאָה "to see…" [HR/Vqc]
+- o16: בְּ/מֶה = Hb "in" + H4100 מָה "properly…" [HR/Ti]
+- o17: שֶׁ/יִּהְיֶה = Hs "which" + H1961 הָיָה "to exist, i.e. be or become…" [HTr/Vqi3ms]
+- o18: אַחֲרָי/ו = H310 אַחַר "properly, the hind part…" [HR/Sp3ms]
+
+### Ecclesiastes 5:1 (context)
+
+- o1: שְׁמֹר = H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HVqv2ms]
+- o2: רגלי/ך = H7272 רֶגֶל "a foot (as used in walking)…" [HNcfdc/Sp2ms]
+- o3: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o4: תֵּלֵךְ = H3212 יָלַךְ "to walk (literally or figuratively)…" [HVqi2ms]
+- o5: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o6: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o7: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o8: וְ/קָרוֹב = Hc "and" + H7138 קָרוֹב "near (in place, kindred or time)" [HC/Vqa]
+- o9: לִ/שְׁמֹעַ = Hl "to" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HR/Vqc]
+- o10: מִ/תֵּת = Hm "from" + H5414 נָתַן "to give…" [HR/Vqc]
+- o11: הַ/כְּסִילִים = Hd "the" + H3684 כְּסִיל "properly, fat, i.e. (figuratively) stupid or silly" [HTd/Aampa]
+- o12: זָבַח = H2077 זֶבַח "properly, a slaughter…" [HNcmsa]
+- o13: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o14: אֵינָ/ם = H369 אַיִן "a non-entity…" [HTn/Sp3mp]
+- o15: יוֹדְעִים = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqrmpa]
+- o16: לַ/עֲשׂוֹת = Hl "to" + H6213 עָשָׂה "to do or make…" [HR/Vqc]
+- o17: רָע = H7451 רַע "bad or (as noun) evil (natural or moral)" [HAamsa]

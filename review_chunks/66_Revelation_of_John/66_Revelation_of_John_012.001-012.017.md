@@ -1115,3 +1115,53 @@ Persian entries and current tags:
 - p31: نگاه
 - p32: می‌دارند
 - p33: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Revelation of John 11:19 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἠνοίγη = G455 ἀνοίγω "open" [V-2API-3S]
+- o3: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o4: ναὸς = G3485 ναός "shrine, temple" [N-NSM]
+- o5: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o6: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o7: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o8: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o9: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o10: οὐρανῷ, = G3772 οὐρανός "air, heaven(-ly), sky" [N-DSM]
+- o11: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o12: ὤφθη = G3708 ὁράω "behold, perceive, see, take heed" [V-API-3S]
+- o13: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o14: κιβωτὸς = G2787 κιβωτός "ark" [N-NSF]
+- o15: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o16: διαθήκης = G1242 διαθήκη "covenant, testament" [N-GSF]
+- o17: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o18: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o19: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o20: ναῷ = G3485 ναός "shrine, temple" [N-DSM]
+- o21: αὐτοῦ· = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o22: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o23: ἐγένοντο = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-2ADI-3P]
+- o24: ἀστραπαὶ = G796 ἀστραπή "lightning, bright shining" [N-NPF]
+- o25: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o26: φωναὶ = G5456 φωνή "noise, sound, voice" [N-NPF]
+- o27: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o28: βρονταὶ = G1027 βροντή "thunder(-ing)" [N-NPF]
+- o29: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o30: σεισμὸς = G4578 σεισμός "earthquake, tempest" [N-NSM]
+- o31: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o32: χάλαζα = G5464 χάλαζα "hail" [N-NSF]
+- o33: μεγάλη. = G3173 μέγας "+ fear) exceedingly, great(-est), high, large…" [A-NSF]
+
+### Revelation of John 12:18 (context)
+
+- o1: Καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἐστάθην = G2476 ἵστημι "abide, appoint, bring, continue, covenant…" [V-API-1S]
+- o3: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o4: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o5: ἄμμον = G285 ἄμμος "sand" [N-ASF]
+- o6: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o7: θαλάσσης. = G2281 θάλασσα "sea" [N-GSF]

@@ -775,3 +775,49 @@ Persian entries and current tags:
 - p15: خبر  → H5046
 - p16: دادند  → H6213
 - p17: ،
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 20:26 (context)
+
+- o1: וְ/גַם = Hc "and" + H1571 גַּם "properly, assemblage…" [HC/Ta]
+- o2: עִירָא = H5896 עִירָא "Ira, the name of three Israelites" [HNp]
+- o3: הַ/יָּאִרִי = Hd "the" + H2972 יָאִרִי "a Jairite or descendant of Jair" [HTd/Ngmsa]
+- o4: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o5: כֹהֵן = H3548 כֹּהֵן "literally one officiating, a priest…" [HNcmsa]
+- o6: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+
+### II Samuel 21:12 (context)
+
+- o1: וַ/יֵּלֶךְ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3ms]
+- o2: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o3: וַ/יִּקַּח = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqw3ms]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: עַצְמוֹת = H6106 עֶצֶם "a bone (as strong); by extension, the body…" [HNcfpc]
+- o6: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o7: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o8: עַצְמוֹת = H6106 עֶצֶם "a bone (as strong); by extension, the body…" [HNcfpc]
+- o9: יְהוֹנָתָן = H3083 יְהוֹנָתָן "Jehonathan, the name of four Israelites" [HNp]
+- o10: בְּנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o11: מֵ/אֵת = Hm "from" + H854 אֵת "properly…" [HR/R]
+- o12: בַּעֲלֵי = H1167 בַּעַל "a master…" [HNcmpc]
+- o13: יָבֵישׁ = H3003 יָבֵשׁ "Jobesh…" [HNp]
+- o14: גִּלְעָד = H1568 גִּלְעָד "Gilad, a region East of the Jordan…" [HNp]
+- o15: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o16: גָּנְבוּ = H1589 גָּנַב "to thieve (literally or figuratively)…" [HVqp3cp]
+- o17: אֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o18: מֵ/רְחֹב = Hm "from" + H7339 רְחֹב "a width, i.e. (concretely) avenue or area" [HR/Ncfsc]
+- o19: בֵּית = H1052 בֵּית שְׁאָן "Beth-Shean or Beth-Shan, a place in Palestine" [HNp]
+- o20: שַׁן = H1052 בֵּית שְׁאָן "Beth-Shean or Beth-Shan, a place in Palestine" [HNp]
+- o21: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o22: תלו/ם = H8518 תָּלָה "to suspend (especially to gibbet)" [HVqp3cp/Sp3mp]
+- o23: שם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o24: ה/פלשתים = Hd "the" + H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HTd/Ngmpa]
+- o25: בְּ/יוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmsc]
+- o26: הַכּוֹת = H5221 נָכָה "to strike (lightly or severely…" [HVhc]
+- o27: פְּלִשְׁתִּים = H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HNgmpa]
+- o28: אֶת = H853 אֵת "properly…" [HTo]
+- o29: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o30: בַּ/גִּלְבֹּעַ = Hb "in" + H1533 גִּלְבֹּעַ "Gilboa, a mountain of Palestine" [HRd/Np]

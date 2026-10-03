@@ -1150,3 +1150,34 @@ Persian entries and current tags:
 - p47: پسرم  → H1121
 - p48: !
 - p49: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 18:16 (context)
+
+- o1: וַ/יִּתְקַע = Hc "and" + H8628 תָּקַע "to clatter, i.e. slap (the hands together)…" [HC/Vqw3ms]
+- o2: יוֹאָב = H3097 יוֹאָב "Joab, the name of three Israelites" [HNp]
+- o3: בַּ/שֹּׁפָר = Hb "in" + H7782 שׁוֹפָר "a cornet (as giving a clear sound) or curved horn" [HRd/Ncmsa]
+- o4: וַ/יָּשָׁב = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqw3ms]
+- o5: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o6: מִ/רְדֹף = Hm "from" + H7291 רָדַף "to run after (usually with hostile intent…" [HR/Vqc]
+- o7: אַחֲרֵי = H310 אַחַר "properly, the hind part…" [HR]
+- o8: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o9: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o10: חָשַׂךְ = H2820 חָשַׂךְ "to restrain or (reflex.) refrain…" [HVqp3ms]
+- o11: יוֹאָב = H3097 יוֹאָב "Joab, the name of three Israelites" [HNp]
+- o12: אֶת = H853 אֵת "properly…" [HTo]
+- o13: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+
+### II Samuel 19:1 (context)
+
+- o1: וַ/יֻּגַּד = Hc "and" + H5046 נָגַד "properly, to front…" [HC/VHw3ms]
+- o2: לְ/יוֹאָב = Hl "to" + H3097 יוֹאָב "Joab, the name of three Israelites" [HR/Np]
+- o3: הִנֵּה = H2009 הִנֵּה "lo!" [HTm]
+- o4: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o5: בֹּכֶה = H1058 בָּכָה "to weep; generally to bemoan" [HVqrmsa]
+- o6: וַ/יִּתְאַבֵּל = Hc "and" + H56 אָבַל "to bewail" [HC/Vtw3ms]
+- o7: עַל = H5921 עַל "above, over, upon…" [HR]
+- o8: אַבְשָׁלֹם = H53 אֲבִישָׁלוֹם "Abshalom, a son of David…" [HNp]

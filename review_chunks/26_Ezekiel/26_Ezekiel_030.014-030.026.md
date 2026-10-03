@@ -685,3 +685,44 @@ Persian entries and current tags:
 - p20: هستم  → H589
 - p21: .
 - p22: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 30:13 (context)
+
+- o1: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o2: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o3: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o4: יְהוִה = H3069 יְהֹוִה "YHWH" [HNp]
+- o5: וְ/הַאֲבַדְתִּי = Hc "and" + H6 אָבַד "properly, to wander away, i.e. lose oneself…" [HC/Vhq1cs]
+- o6: גִלּוּלִים = H1544 גִּלּוּל "properly, a log (as round)…" [HNcmpa]
+- o7: וְ/הִשְׁבַּתִּי = Hc "and" + H7673 שָׁבַת "to repose, i.e. desist from exertion…" [HC/Vhq1cs]
+- o8: אֱלִילִים = H457 אֱלִיל "good for nothing, by anal. vain or vanity…" [HNcmpa]
+- o9: מִ/נֹּף = Hm "from" + H5297 נֹף "Noph, the capital of Upper Egypt" [HR/Np]
+- o10: וְ/נָשִׂיא = Hc "and" + H5387 נָשִׂיא "properly, an exalted one, i.e. a king or sheik…" [HC/Ncmsa]
+- o11: מֵ/אֶרֶץ = Hm "from" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o12: מִצְרַיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o13: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o14: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o15: עוֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+- o16: וְ/נָתַתִּי = Hc "and" + H5414 נָתַן "to give…" [HC/Vqq1cs]
+- o17: יִרְאָה = H3374 יִרְאָה "fear (also used as infinitive); morally, reverence" [HNcfsa]
+- o18: בְּ/אֶרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o19: מִצְרָיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+
+### Ezekiel 31:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: בְּ/אַחַת = Hb "in" + H259 אֶחָד "properly, united, i.e. one…" [HR/Acfsa]
+- o3: עֶשְׂרֵה = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcfsa]
+- o4: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o5: בַּ/שְּׁלִישִׁי = Hb "in" + H7992 שְׁלִישִׁי "third; feminine athird (part)…" [HRd/Aomsa]
+- o6: בְּ/אֶחָד = Hb "in" + H259 אֶחָד "properly, united, i.e. one…" [HR/Acmsa]
+- o7: לַ/חֹדֶשׁ = Hl "to" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HRd/Ncmsa]
+- o8: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o9: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o10: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o11: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o12: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

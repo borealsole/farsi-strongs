@@ -912,3 +912,43 @@ Persian entries and current tags:
 - p33: گزیده
 - p34: بودند
 - p35: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Nehemiah 7:49 (context)
+
+- o1: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o2: חָנָן = H2605 חָנָן "Chanan, the name of seven Israelites" [HNp]
+- o3: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o4: גִדֵּל = H1435 גִּדֵּל "Giddel, the name of one of the Nethinim…" [HNp]
+- o5: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o6: גָחַר = H1515 גַּחַר "Gachar, one of the Nethinim" [HNp]
+
+### Nehemiah 8:1 (context)
+
+- o1: וַ/יֵּאָסְפוּ = Hc "and" + H622 אָסַף "to gather for any purpose…" [HC/VNw3mp]
+- o2: כָל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o4: כְּ/אִישׁ = Hk "like" + H376 אִישׁ "a man as an individual or a male person…" [HR/Ncmsa]
+- o5: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o6: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o7: הָ/רְחוֹב = Hd "the" + H7339 רְחֹב "a width, i.e. (concretely) avenue or area" [HTd/Ncfsa]
+- o8: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o9: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o10: שַׁעַר = H8179 שַׁעַר "an opening, i.e. door or gate" [HNcmsc]
+- o11: הַ/מָּיִם = Hd "the" + H4325 מַיִם "water; figuratively, juice…" [HTd/Ncmpa]
+- o12: וַ/יֹּאמְרוּ = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3mp]
+- o13: לְ/עֶזְרָא = Hl "to" + H5830 עֶזְרָא "Ezra, an Israelite" [HR/Np]
+- o14: הַ/סֹּפֵר = Hd "the" + H5608 סָפַר "properly…" [HTd/Ncmsa]
+- o15: לְ/הָבִיא = Hl "to" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HR/Vhc]
+- o16: אֶת = H853 אֵת "properly…" [HTo]
+- o17: סֵפֶר = H5612 סֵפֶר "properly, writing (the art or a document)…" [HNcmsc]
+- o18: תּוֹרַת = H8451 תּוֹרָה "a precept or statute…" [HNcfsc]
+- o19: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o20: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o21: צִוָּה = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp3ms]
+- o22: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o23: אֶת = H853 אֵת "properly…" [HTo]
+- o24: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]

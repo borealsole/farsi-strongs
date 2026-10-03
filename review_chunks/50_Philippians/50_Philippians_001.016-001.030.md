@@ -806,3 +806,47 @@ Persian entries and current tags:
 - p18: بدان
 - p19: مشغولم
 - p20: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Philippians 1:15 (context)
+
+- o1: τινὲς = G5100 τὶς "a (kind of), any (man, thing, thing at all)…" [X-NPM]
+- o2: μὲν = G3303 μέν "even, indeed, so, some, truly, verily" [PRT]
+- o3: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o4: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o5: φθόνον = G5355 φθόνος "envy" [N-ASM]
+- o6: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o7: ἔριν, = G2054 ἔρις "contention, debate, strife, variance" [N-ASF]
+- o8: τινὲς = G5100 τὶς "a (kind of), any (man, thing, thing at all)…" [X-NPM]
+- o9: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o10: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o11: δι’ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o12: εὐδοκίαν = G2107 εὐδοκία "desire, good pleasure (will), seem good" [N-ASF]
+- o13: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o14: Χριστὸν = G5547 Χριστός "Christ" [N-ASM]
+- o15: κηρύσσουσιν· = G2784 κηρύσσω "preacher(-er), proclaim, publish" [V-PAI-3P]
+
+### Philippians 2:1 (context)
+
+- o1: Εἴ = G1487 εἰ "forasmuch as, if, that, (al-)though, whether" [COND]
+- o2: τις = G5100 τὶς "a (kind of), any (man, thing, thing at all)…" [X-NSF]
+- o3: οὖν = G3767 οὖν "and (so, truly), but, now (then)…" [CONJ]
+- o4: παράκλησις = G3874 παράκλησις "comfort, consolation, exhortation, intreaty" [N-NSF]
+- o5: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o6: Χριστῷ, = G5547 Χριστός "Christ" [N-DSM]
+- o7: εἴ = G1487 εἰ "forasmuch as, if, that, (al-)though, whether" [COND]
+- o8: τι = G5100 τὶς "a (kind of), any (man, thing, thing at all)…" [X-NSN]
+- o9: παραμύθιον = G3890 παραμύθιον "comfort" [N-NSN]
+- o10: ἀγάπης, = G26 ἀγάπη "(feast of) charity(-ably), dear, love" [N-GSF]
+- o11: εἴ = G1487 εἰ "forasmuch as, if, that, (al-)though, whether" [COND]
+- o12: τις = G5100 τὶς "a (kind of), any (man, thing, thing at all)…" [X-NSF]
+- o13: κοινωνία = G2842 κοινωνία "to) communicate(-ation), communion…" [N-NSF]
+- o14: πνεύματος, = G4151 πνεῦμα "ghost, life, spirit(-ual, -ually), mind" [N-GSN]
+- o15: εἴ = G1487 εἰ "forasmuch as, if, that, (al-)though, whether" [COND]
+- o16: τις = G5100 τὶς "a (kind of), any (man, thing, thing at all)…" [X-NSM]
+- o17: σπλάγχνα = G4698 σπλάγχνον "bowels, inward affection, + tender mercy" [N-NPN]
+- o18: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o19: οἰκτιρμοί, = G3628 οἰκτιρμός "mercy" [N-NPM]

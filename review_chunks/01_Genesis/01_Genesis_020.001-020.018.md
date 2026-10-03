@@ -1013,3 +1013,39 @@ Persian entries and current tags:
 - p13: را
 - p14: بسته_بود  → H6113
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 19:38 (context)
+
+- o1: וְ/הַ/צְּעִירָה = Hc "and" + Hd "the" + H6810 צָעִיר "little; (in number) few…" [HC/Td/Aafsa]
+- o2: גַם = H1571 גַּם "properly, assemblage…" [HD]
+- o3: הִוא = H1931 הוּא "he (she or it)…" [HPp3fs]
+- o4: יָלְדָה = H3205 יָלַד "to bear young; causatively, to beget…" [HVqp3fs]
+- o5: בֵּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsa]
+- o6: וַ/תִּקְרָא = Hc "and" + H7121 קָרָא "to call out to (i.e. properly, address by name…" [HC/Vqw3fs]
+- o7: שְׁמ/וֹ = H8034 שֵׁם "an appellation…" [HNcmsc/Sp3ms]
+- o8: בֶּן = H1151 בֶּן־עַמִּי "Ben-Ammi, a son of Lot" [HNp]
+- o9: עַמִּי = H1151 בֶּן־עַמִּי "Ben-Ammi, a son of Lot" [HNp]
+- o10: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o11: אֲבִי = H1 אָב "father, in a literal and immediate…" [HNcmsc]
+- o12: בְנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o13: עַמּוֹן = H5983 עַמּוֹן "Ammon, a son of Lot…" [HNp]
+- o14: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o15: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+
+### Genesis 21:1 (context)
+
+- o1: וַ/יהוָה = Hc "and" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HC/Np]
+- o2: פָּקַד = H6485 פָּקַד "to visit (with friendly or hostile intent)…" [HVqp3ms]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: שָׂרָה = H8283 שָׂרָה "Sarah, Abraham's wife" [HNp]
+- o5: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o6: אָמָר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o7: וַ/יַּעַשׂ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3ms]
+- o8: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o9: לְ/שָׂרָה = Hl "to" + H8283 שָׂרָה "Sarah, Abraham's wife" [HR/Np]
+- o10: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o11: דִּבֵּר = H1696 דָבַר "perhaps properly, to arrange…" [HVpp3ms]

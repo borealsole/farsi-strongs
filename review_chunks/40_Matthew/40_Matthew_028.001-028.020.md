@@ -989,3 +989,22 @@ Persian entries and current tags:
 - p26: هستم  → G1510
 - p27: !
 - p28: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 27:66 (context)
+
+- o1: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: πορευθέντες = G4198 πορεύομαι "--depart, go (away, forth, one's way, up)…" [V-AOP-NPM]
+- o4: ἠσφαλίσαντο = G805 ἀσφαλίζω "make fast (sure)" [V-ADI-3P]
+- o5: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o6: τάφον, = G5028 τάφος "sepulchre, tomb" [N-ASM]
+- o7: σφραγίσαντες = G4972 σφραγίζω "(set a, set to) seal up, stop" [V-AAP-NPM]
+- o8: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o9: λίθον = G3037 λίθος "(mill-, stumbling-)stone" [N-ASM]
+- o10: μετὰ = G3326 μετά "after(-ward), that he again, against, among, and…" [PREP]
+- o11: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o12: κουστωδίας. = G2892 κουστωδία "watch" [N-GSF]

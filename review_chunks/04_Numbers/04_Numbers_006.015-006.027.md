@@ -647,3 +647,55 @@ Persian entries and current tags:
 - p14: برکت خواهم_داد  → H1288
 - p15: .
 - p16: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 6:14 (context)
+
+- o1: וְ/הִקְרִיב = Hc "and" + H7126 קָרַב "to approach (causatively…" [HC/Vhq3ms]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: קָרְבָּנ/וֹ = H7133 קׇרְבָּן "something brought near the altar…" [HNcmsc/Sp3ms]
+- o4: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o5: כֶּבֶשׂ = H3532 כֶּבֶשׂ "a ram (just old enough to butt)" [HNcmsa]
+- o6: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o7: שְׁנָת/וֹ = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsc/Sp3ms]
+- o8: תָמִים = H8549 תָּמִים "entire (literally, figuratively or morally)…" [HAamsa]
+- o9: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o10: לְ/עֹלָה = Hl "to" + H5930 עֹלָה "a step or (collectively, stairs, as ascending)…" [HR/Ncfsa]
+- o11: וְ/כַבְשָׂה = Hc "and" + H3535 כִּבְשָׂה "a ewe" [HC/Ncfsa]
+- o12: אַחַת = H259 אֶחָד "properly, united, i.e. one…" [HAcfsa]
+- o13: בַּת = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfsc]
+- o14: שְׁנָתָ/הּ = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsc/Sp3fs]
+- o15: תְּמִימָה = H8549 תָּמִים "entire (literally, figuratively or morally)…" [HAafsa]
+- o16: לְ/חַטָּאת = Hl "to" + H2403 חַטָּאָה "an offence (sometimes habitual sinfulness)…" [HR/Ncfsa]
+- o17: וְ/אַיִל = Hc "and" + H352 אַיִל "properly, strength; hence, anything strong…" [HC/Ncmsa]
+- o18: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o19: תָּמִים = H8549 תָּמִים "entire (literally, figuratively or morally)…" [HAamsa]
+- o20: לִ/שְׁלָמִים = Hl "to" + H8002 שֶׁלֶם "properly, requital…" [HR/Ncmpa]
+
+### Numbers 7:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: בְּ/יוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmsc]
+- o3: כַּלּוֹת = H3615 כָּלָה "to end, whether intransitive (to cease…" [HVpc]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: לְ/הָקִים = Hl "to" + H6965 קוּם "to rise (in various applications, literal…" [HR/Vhc]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: הַ/מִּשְׁכָּן = Hd "the" + H4908 מִשְׁכָּן "a residence (including a shepherd's hut…" [HTd/Ncmsa]
+- o8: וַ/יִּמְשַׁח = Hc "and" + H4886 מָשַׁח "to rub with oil, i.e. to anoint…" [HC/Vqw3ms]
+- o9: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o10: וַ/יְקַדֵּשׁ = Hc "and" + H6942 קָדַשׁ "to be (causatively, make…" [HC/Vpw3ms]
+- o11: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o12: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o13: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o14: כֵּלָי/ו = H3627 כְּלִי "something prepared…" [HNcmpc/Sp3ms]
+- o15: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o16: הַ/מִּזְבֵּחַ = Hd "the" + H4196 מִזְבֵּחַ "an altar" [HTd/Ncmsa]
+- o17: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o18: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o19: כֵּלָי/ו = H3627 כְּלִי "something prepared…" [HNcmpc/Sp3ms]
+- o20: וַ/יִּמְשָׁחֵ/ם = Hc "and" + H4886 מָשַׁח "to rub with oil, i.e. to anoint…" [HC/Vqw3ms/Sp3mp]
+- o21: וַ/יְקַדֵּשׁ = Hc "and" + H6942 קָדַשׁ "to be (causatively, make…" [HC/Vpw3ms]
+- o22: אֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]

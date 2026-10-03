@@ -1148,3 +1148,45 @@ Persian entries and current tags:
 - p17: قدرتها  → G1411
 - p18: مطیعش گشته‌اند  → G5293
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Peter 2:25 (context)
+
+- o1: ἦτε = G1510 εἰμί "am, have been, it is I, was" [V-IAI-2P]
+- o2: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o3: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
+- o4: πρόβατα = G4263 πρόβατον "sheep(-fold)" [N-NPN]
+- o5: πλανώμενοι, = G4105 πλανάω "go astray, deceive, err, seduce, wander…" [V-PPP-NPM]
+- o6: ἀλλ’ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o7: ἐπεστράφητε = G1994 ἐπιστρέφω "come (go) again, convert, (re-)turn (about, again)" [V-2API-2P]
+- o8: νῦν = G3568 νῦν "henceforth, + hereafter, of late, soon, present…" [ADV]
+- o9: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o10: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o11: ποιμένα = G4166 ποιμήν "shepherd, pastor" [N-ASM]
+- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o13: ἐπίσκοπον = G1985 ἐπίσκοπος "bishop, overseer" [N-ASM]
+- o14: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPF]
+- o15: ψυχῶν = G5590 ψυχή "heart (+ -ily), life, mind, soul, + us, + you" [N-GPF]
+- o16: ὑμῶν. = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
+
+### I Peter 4:1 (context)
+
+- o1: Χριστοῦ = G5547 Χριστός "Christ" [N-GSM]
+- o2: οὖν = G3767 οὖν "and (so, truly), but, now (then)…" [CONJ]
+- o3: παθόντος = G3958 πάσχω "feel, passion, suffer, vex" [V-2AAP-GSM]
+- o4: σαρκὶ = G4561 σάρξ "carnal(-ly, + -ly minded), flesh(-ly)" [N-DSF]
+- o5: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o6: ὑμεῖς = G5210 ὑμεῖς "ye (yourselves), you" [P-2NP]
+- o7: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o8: αὐτὴν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASF]
+- o9: ἔννοιαν = G1771 ἔννοια "intent, mind" [N-ASF]
+- o10: ὁπλίσασθε, = G3695 ὁπλίζω "arm self" [V-AMM-2P]
+- o11: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o12: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o13: παθὼν = G3958 πάσχω "feel, passion, suffer, vex" [V-2AAP-NSM]
+- o14: σαρκὶ = G4561 σάρξ "carnal(-ly, + -ly minded), flesh(-ly)" [N-DSF]
+- o15: πέπαυται = G3973 παύω "cease, leave, refrain" [V-RPI-3S]
+- o16: ἁμαρτίας, = G266 ἁμαρτία "offence, sin(-ful)" [N-GSF]

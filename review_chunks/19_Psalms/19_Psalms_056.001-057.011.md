@@ -970,3 +970,40 @@ Persian entries and current tags:
 - p11: زمین  → H776
 - p12: باشد
 - p13: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 55:23 (context)
+
+- o1: וְ/אַתָּה = Hc "and" + H859 אַתָּה "thou and thee, or (plural) ye and you" [HC/Pp2ms]
+- o2: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o3: תּוֹרִדֵ/ם = H3381 יָרַד "to descend (literally, to go downwards…" [HVhi2ms/Sp3mp]
+- o4: לִ/בְאֵר = Hl "to" + H875 בְּאֵר "a pit; especially a well" [HR/Ncfsc]
+- o5: שַׁחַת = H7845 שַׁחַת "a pit (especially as a trap)…" [HNcfsa]
+- o6: אַנְשֵׁי = H376 אִישׁ "a man as an individual or a male person…" [HNcmpc]
+- o7: דָמִים = H1818 דָּם "blood (as that which when shed causes death) of…" [HNcmpa]
+- o8: וּ/מִרְמָה = Hc "and" + H4820 מִרְמָה "fraud" [HC/Ncfsa]
+- o9: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o10: יֶחֱצוּ = H2673 חָצָה "to cut or split in two; to halve" [HVqi3mp]
+- o11: יְמֵי/הֶם = H3117 יוֹם "a day (as the warm hours)…" [HNcmpc/Sp3mp]
+- o12: וַ/אֲנִי = Hc "and" + H589 אֲנִי "I" [HC/Pp1cs]
+- o13: אֶבְטַח = H982 בָּטַח "figuratively, to trust, be confident or sure" [HVqi1cs]
+- o14: בָּ/ךְ = Hb "in" [HR/Sp2fs]
+
+### Psalms 58:1 (context)
+
+- o1: לַ/מְנַצֵּחַ = Hl "to" + H5329 נָצַח "properly, to glitter from afar…" [HRd/Vprmsa]
+- o2: אַל = H516 אַל תַּשְׁחֵת "'Thou must not destroy'…" [HTn]
+- o3: תַּשְׁחֵת = H516 אַל תַּשְׁחֵת "'Thou must not destroy'…" [HVhi2ms]
+- o4: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o5: מִכְתָּם = H4387 מִכְתָּם "an engraving, i.e. (techn.) a poem" [HNcmsa]
+- o6: הַ/אֻמְנָם = Hi "(untranslatable; interrogative particle)" + H552 אֻמְנָם "verily" [HTi/D]
+- o7: אֵלֶם = H482 אֵלֶם "silence (i.e. mute justice)" [HNcmsa]
+- o8: צֶדֶק = H6664 צֶדֶק "the right (natural, moral or legal)…" [HNcmsa]
+- o9: תְּדַבֵּרוּ/ן = H1696 דָבַר "perhaps properly, to arrange…" [HVpi2mp/Sn]
+- o10: מֵישָׁרִים = H4339 מֵישָׁר "evenness…" [HNcmpa]
+- o11: תִּשְׁפְּטוּ = H8199 שָׁפַט "to judge…" [HVqi2mp]
+- o12: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o13: אָדָם = H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HNcmsa]

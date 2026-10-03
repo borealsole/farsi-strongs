@@ -886,3 +886,54 @@ Persian entries and current tags:
 - p38: غنیمت  → H961
 - p39: نبردند
 - p40: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Esther 8:17 (context)
+
+- o1: וּ/בְ/כָל = Hc "and" + Hb "in" + H3605 כֹּל "properly, the whole…" [HC/R/Ncmsc]
+- o2: מְדִינָה = H4082 מְדִינָה "properly, a judgeship, i.e. jurisdiction…" [HNcfsa]
+- o3: וּ/מְדִינָה = Hc "and" + H4082 מְדִינָה "properly, a judgeship, i.e. jurisdiction…" [HC/Ncfsa]
+- o4: וּ/בְ/כָל = Hc "and" + Hb "in" + H3605 כֹּל "properly, the whole…" [HC/R/Ncmsc]
+- o5: עִיר = H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HNcfsa]
+- o6: וָ/עִיר = Hc "and" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HC/Ncfsa]
+- o7: מְקוֹם = H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HNcmsc]
+- o8: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o9: דְּבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o10: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o11: וְ/דָת/וֹ = Hc "and" + H1881 דָּת "a royal edict or statute" [HC/Ncfsc/Sp3ms]
+- o12: מַגִּיעַ = H5060 נָגַע "properly, to touch…" [HVhrmsa]
+- o13: שִׂמְחָה = H8057 שִׂמְחָה "blithesomeness or glee, (religious or festival)" [HNcfsa]
+- o14: וְ/שָׂשׂוֹן = Hc "and" + H8342 שָׂשׂוֹן "cheerfulness; specifically, welcome" [HC/Ncmsa]
+- o15: לַ/יְּהוּדִים = Hl "to" + H3064 יְהוּדִי "a Jehudite (i.e. Judaite or Jew)…" [HRd/Ngmpa]
+- o16: מִשְׁתֶּה = H4960 מִשְׁתֶּה "drink, by implication, drinking (the act)…" [HNcmsa]
+- o17: וְ/יוֹם = Hc "and" + H3117 יוֹם "a day (as the warm hours)…" [HC/Ncmsa]
+- o18: טוֹב = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAamsa]
+- o19: וְ/רַבִּים = Hc "and" + H7227 רַב "abundant (in quantity, size, age, number, rank…" [HC/Aampa]
+- o20: מֵ/עַמֵּי = Hm "from" + H5971 עַם "a people (as a congregated unit)…" [HR/Ncmpc]
+- o21: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o22: מִתְיַהֲדִים = H3054 יָהַד "to Judaize, i.e. become Jewish" [HVtrmpa]
+- o23: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o24: נָפַל = H5307 נָפַל "to fall…" [HVqp3ms]
+- o25: פַּחַד = H6343 פַּחַד "a (sudden) alarm (properly, the object feared…" [HNcmsc]
+- o26: הַ/יְּהוּדִים = Hd "the" + H3064 יְהוּדִי "a Jehudite (i.e. Judaite or Jew)…" [HTd/Ngmpa]
+- o27: עֲלֵי/הֶם = H5921 עַל "above, over, upon…" [HR/Sp3mp]
+
+### Esther 9:17 (context)
+
+- o1: בְּ/יוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmsc]
+- o2: שְׁלֹשָׁה = H7969 שָׁלוֹשׁ "three…" [HAcmsa]
+- o3: עָשָׂר = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcmsa]
+- o4: לְ/חֹדֶשׁ = Hl "to" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HR/Ncmsc]
+- o5: אֲדָר = H143 אֲדָר "Adar, the 12th Hebrew month" [HNp]
+- o6: וְ/נוֹחַ = Hc "and" + H5117 נוּחַ "to rest, i.e. settle down…" [HC/Vqa]
+- o7: בְּ/אַרְבָּעָה = Hb "in" + H702 אַרְבַּע "four" [HR/Acmsa]
+- o8: עָשָׂר = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcmsa]
+- o9: בּ/וֹ = Hb "in" [HR/Sp3ms]
+- o10: וְ/עָשֹׂה = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqa]
+- o11: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o12: יוֹם = H3117 יוֹם "a day (as the warm hours)…" [HNcmsc]
+- o13: מִשְׁתֶּה = H4960 מִשְׁתֶּה "drink, by implication, drinking (the act)…" [HNcmsa]
+- o14: וְ/שִׂמְחָה = Hc "and" + H8057 שִׂמְחָה "blithesomeness or glee, (religious or festival)" [HC/Ncfsa]

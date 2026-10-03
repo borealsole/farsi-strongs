@@ -940,3 +940,41 @@ Persian entries and current tags:
 - p22: مکان بلند  → H1116
 - p23: برود
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 8:22 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: שְׁמוּאֵל = H8050 שְׁמוּאֵל "Shemuel, the name of three Israelites" [HNp]
+- o5: שְׁמַע = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqv2ms]
+- o6: בְּ/קוֹלָ/ם = Hb "in" + H6963 קוֹל "a voice or sound" [HR/Ncmsc/Sp3mp]
+- o7: וְ/הִמְלַכְתָּ = Hc "and" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HC/Vhq2ms]
+- o8: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o9: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsa]
+- o10: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o11: שְׁמוּאֵל = H8050 שְׁמוּאֵל "Shemuel, the name of three Israelites" [HNp]
+- o12: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o13: אַנְשֵׁי = H376 אִישׁ "a man as an individual or a male person…" [HNcmpc]
+- o14: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o15: לְכוּ = H3212 יָלַךְ "to walk (literally or figuratively)…" [HVqv2mp]
+- o16: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o17: לְ/עִיר/וֹ = Hl "to" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HR/Ncfsc/Sp3ms]
+
+### I Samuel 9:15 (context)
+
+- o1: וַ/יהוָה = Hc "and" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HC/Np]
+- o2: גָּלָה = H1540 גָּלָה "to denude (especially in a disgraceful sense)…" [HVqp3ms]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: אֹזֶן = H241 אֹזֶן "broadness. i.e. (concrete) the ear (from its form…" [HNcfsc]
+- o5: שְׁמוּאֵל = H8050 שְׁמוּאֵל "Shemuel, the name of three Israelites" [HNp]
+- o6: יוֹם = H3117 יוֹם "a day (as the warm hours)…" [HNcmsa]
+- o7: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o8: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o9: בוֹא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqc]
+- o10: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o11: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

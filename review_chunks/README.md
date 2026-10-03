@@ -25,6 +25,12 @@ They are generated from:
      a short English meaning and morphology code. Hebrew words split into parts, e.g.
      `וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…"`;
    - the Persian entries `p1, p2, …` exactly as in NMV_strongs.json, with their current tags.
+4. **Neighbouring verses (context only):** the original words of verses just before or after
+   the reviewed ones that aren't in the chunk themselves, e.g. at the chunk's edges or next to
+   a hand-reviewed verse. Persian and Hebrew/Greek verse divisions sometimes differ: the
+   Greek of Revelation 12:18 is at the start of Persian Revelation 13:1. So a Persian word
+   may take its number from the verse immediately before or after. `--window` sets how many
+   verses either side count (default 1); use the same value for `review_replies.py`.
 
 Hebrew is shown with vowel points but without cantillation marks, to keep chunks smaller.
 
@@ -68,7 +74,7 @@ I'm reviewing the Strong's number tags on the NMV Persian Bible for sync.bible. 
 
 For every verse under "Verses to review", check each Persian entry and correct its tags using these rules:
 
-1. A Persian word that translates an original word gets that word's Strong's number. Use only numbers listed for that verse's original words.
+1. A Persian word that translates an original word gets that word's Strong's number. Use the numbers listed for that verse's original words. Only where the Persian verse division differs from the original (the Persian includes words that belong to the original verse just before or after) may you use a number from that neighbouring verse, i.e. the verse before or after in the file, or under "Neighbouring verses". List every such case in your notes.
 2. A Persian word added in translation, with no original word behind it, has no tag. Punctuation is never tagged.
 3. If one Persian word translates several original words, or several parts of one Hebrew word, give it all their numbers separated by spaces, in original word order (e.g. "Hc H3068").
 4. If adjacent Persian words together translate one original word (e.g. a compound verb such as تسلی می‌دهد), group them into one entry: join their text with a single space and give the group one tag. Never group across punctuation.
@@ -85,5 +91,5 @@ Reply with:
 1. One ```jsonl code block containing a line for each verse you changed, giving the whole corrected verse:
 {"ref": "Genesis 1:8", "entries": [["خدا", "H430"], ["فَلَک", "H7549"], ["را"], ["’آسمان‘", "H8064"], ["نامید", "H7121"], ["."]]}
 An untagged entry is ["word"] and a tagged one is ["word", "numbers"]. Leave out verses that need no change.
-2. After the code block, a short list of verses where you were unsure, each with the entry numbers and the reason.
+2. After the code block, a short list of verses where you were unsure, each with the entry numbers and the reason, and of every number you took from a neighbouring verse.
 ````

@@ -680,3 +680,44 @@ Persian entries and current tags:
 - p25: جهان  → G2889
 - p26: می‌درخشید  → G5316
 - p27: ،
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Philippians 1:30 (context)
+
+- o1: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o2: αὐτὸν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASM]
+- o3: ἀγῶνα = G73 ἀγών "conflict, contention, fight, race" [N-ASM]
+- o4: ἔχοντες = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAP-NPM]
+- o5: οἷον = G3634 οἷος "so (as), such as, what (manner of), which" [K-ASM]
+- o6: εἴδετε = G3708 ὁράω "behold, perceive, see, take heed" [V-2AAI-2P]
+- o7: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o8: ἐμοὶ = G1473 ἐγώ "I, me" [P-1DS]
+- o9: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o10: νῦν = G3568 νῦν "henceforth, + hereafter, of late, soon, present…" [ADV]
+- o11: ἀκούετε = G191 ἀκούω "give (in the) audience (of), come (to the ears)…" [V-PAI-2P]
+- o12: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o13: ἐμοί. = G1473 ἐγώ "I, me" [P-1DS]
+
+### Philippians 2:16 (context)
+
+- o1: λόγον = G3056 λόγος "account, cause, communication, concerning…" [N-ASM]
+- o2: ζωῆς = G2222 ζωή "life(-time)" [N-GSF]
+- o3: ἐπέχοντες, = G1907 ἐπέχω "give (take) heed unto, hold forth, mark, stay" [V-PAP-NPM]
+- o4: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o5: καύχημα = G2745 καύχημα "boasting, (whereof) to glory (of), glorying…" [N-ASN]
+- o6: ἐμοὶ = G1473 ἐγώ "I, me" [P-1DS]
+- o7: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o8: ἡμέραν = G2250 ἡμέρα "age, + alway, (mid-)day (by day, (-ly))…" [N-ASF]
+- o9: Χριστοῦ, = G5547 Χριστός "Christ" [N-GSM]
+- o10: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o11: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o12: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o13: κενὸν = G2756 κενός "empty, (in) vain" [A-ASN]
+- o14: ἔδραμον = G5143 τρέχω "have course, run" [V-2AAI-1S]
+- o15: οὐδὲ = G3761 οὐδέ "neither (indeed), never, no (more, nor, not)…" [CONJ-N]
+- o16: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o17: κενὸν = G2756 κενός "empty, (in) vain" [A-ASN]
+- o18: ἐκοπίασα. = G2872 κοπιάω "(bestow) labour, toil, be wearied" [V-AAI-1S]

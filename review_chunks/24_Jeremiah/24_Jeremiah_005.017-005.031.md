@@ -818,3 +818,37 @@ Persian entries and current tags:
 - p25: چه  → H4100
 - p26: خواهید_کرد  → H6213
 - p27: ؟
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 5:16 (context)
+
+- o1: אַשְׁפָּת/וֹ = H827 אַשְׁפָּה "a quiver or arrow-case" [HNcfsc/Sp3ms]
+- o2: כְּ/קֶבֶר = Hk "like" + H6913 קֶבֶר "a sepulchre" [HR/Ncmsa]
+- o3: פָּתוּחַ = H6605 פָּתַח "to open wide (literally or figuratively)…" [HVqsmsa]
+- o4: כֻּלָּ/ם = H3605 כֹּל "properly, the whole…" [HNcmsc/Sp3mp]
+- o5: גִּבּוֹרִים = H1368 גִּבּוֹר "powerful; by implication, warrior, tyrant" [HAampa]
+
+### Jeremiah 6:1 (context)
+
+- o1: הָעִזוּ = H5756 עוּז "to be strong…" [HVhv2mp]
+- o2: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o3: בִניָמִן = H1144 בִּנְיָמִין "Binjamin, youngest son of Jacob…" [HNp]
+- o4: מִ/קֶּרֶב = Hm "from" + H7130 קֶרֶב "properly, the nearest part, i.e. the center…" [HR/Ncmsc]
+- o5: יְרוּשָׁלִַם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+- o6: וּ/בִ/תְקוֹעַ = Hc "and" + Hb "in" + H8620 תְּקוֹעַ "Tekoa, a place in Palestine" [HC/R/Np]
+- o7: תִּקְעוּ = H8628 תָּקַע "to clatter, i.e. slap (the hands together)…" [HVqv2mp]
+- o8: שׁוֹפָר = H7782 שׁוֹפָר "a cornet (as giving a clear sound) or curved horn" [HNcmsa]
+- o9: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o10: בֵּית = H1021 בֵּית הַכֶּרֶם "Beth-hak-Kerem, a place in Palestine" [HNp]
+- o11: הַכֶּרֶם = H1021 בֵּית הַכֶּרֶם "Beth-hak-Kerem, a place in Palestine" [HNp]
+- o12: שְׂאוּ = H5375 נָשָׂא "to lift, in a great variety of applications…" [HVqv2mp]
+- o13: מַשְׂאֵת = H4864 מַשְׂאֵת "properly…" [HNcfsa]
+- o14: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o15: רָעָה = H7451 רַע "bad or (as noun) evil (natural or moral)" [HNcfsa]
+- o16: נִשְׁקְפָה = H8259 שָׁקַף "properly, to lean out (of a window)…" [HVNp3fs]
+- o17: מִ/צָּפוֹן = Hm "from" + H6828 צָפוֹן "properly, hidden, i.e. dark…" [HR/Ncfsa]
+- o18: וְ/שֶׁבֶר = Hc "and" + H7667 שֶׁבֶר "a fracture, figuratively, ruin…" [HC/Ncmsa]
+- o19: גָּדוֹל = H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HAamsa]

@@ -705,3 +705,33 @@ Persian entries and current tags:
 - p18: تابوت  → H727
 - p19: نهادند  → H3455
 - p20: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 50:13 (context)
+
+- o1: וַ/יִּשְׂאוּ = Hc "and" + H5375 נָשָׂא "to lift, in a great variety of applications…" [HC/Vqw3mp]
+- o2: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o3: בָנָי/ו = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc/Sp3ms]
+- o4: אַרְצָ/ה = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsc/Sd]
+- o5: כְּנַעַן = H3667 כְּנַעַן "Kenaan, a son a Ham…" [HNp]
+- o6: וַ/יִּקְבְּרוּ = Hc "and" + H6912 קָבַר "to inter" [HC/Vqw3mp]
+- o7: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o8: בִּ/מְעָרַת = Hb "in" + H4631 מְעָרָה "a cavern (as dark)" [HR/Ncfsc]
+- o9: שְׂדֵה = H7704 שָׂדֶה "a field (as flat)" [HNcmsc]
+- o10: הַ/מַּכְפֵּלָה = Hd "the" + H4375 מַכְפֵּלָה "Makpelah, a place in Palestine" [HTd/Np]
+- o11: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o12: קָנָה = H7069 קָנָה "to erect, i.e. create…" [HVqp3ms]
+- o13: אַבְרָהָם = H85 אַבְרָהָם "Abraham, the later name of Abram" [HNp]
+- o14: אֶת = H853 אֵת "properly…" [HTo]
+- o15: הַ/שָּׂדֶה = Hd "the" + H7704 שָׂדֶה "a field (as flat)" [HTd/Ncmsa]
+- o16: לַ/אֲחֻזַּת = Hl "to" + H272 אֲחֻזָּה "something seized…" [HR/Ncfsc]
+- o17: קֶבֶר = H6913 קֶבֶר "a sepulchre" [HNcmsa]
+- o18: מֵ/אֵת = Hm "from" + H854 אֵת "properly…" [HR/R]
+- o19: עֶפְרֹן = H6085 עֶפְרוֹן "Ephron…" [HNp]
+- o20: הַ/חִתִּי = Hd "the" + H2850 חִתִּי "a Chittite, or descendant of Cheth" [HTd/Ngmsa]
+- o21: עַל = H5921 עַל "above, over, upon…" [HR]
+- o22: פְּנֵי = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc]
+- o23: מַמְרֵא = H4471 מַמְרֵא "Mamre, an Amorite" [HNp]

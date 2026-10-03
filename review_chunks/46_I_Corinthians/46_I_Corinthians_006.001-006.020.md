@@ -1006,3 +1006,34 @@ Persian entries and current tags:
 - p10: خود
 - p11: تجلیل کنید  → G1392
 - p12: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Corinthians 5:13 (context)
+
+- o1: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: ἔξω = G1854 ἔξω "away, forth, (with-)out (of, -ward), strange" [ADV]
+- o4: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o5: θεὸς = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-NSM]
+- o6: κρινεῖ. = G2919 κρίνω "avenge, conclude, condemn, damn, decree…" [V-PAI-3S]
+- o7: ἐξάρατε = G1808 ἐξαίρω "put (take) away" [V-AAM-2P]
+- o8: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o9: πονηρὸν = G4190 πονηρός "bad, evil, grievous, harm, lewd, malicious…" [A-ASM]
+- o10: ἐξ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o11: ὑμῶν = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
+- o12: αὐτῶν. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]
+
+### I Corinthians 7:1 (context)
+
+- o1: Περὶ = G4012 περί "there-)about, above, against, at, on behalf of…" [PREP]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: ὧν = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-GPN]
+- o4: ἐγράψατε, = G1125 γράφω "describe, write(-ing, -ten)" [V-AAI-2P]
+- o5: καλὸν = G2570 καλός "better, fair, good(-ly), honest, meet, well…" [A-NSN]
+- o6: ἀνθρώπῳ = G444 ἄνθρωπος "certain, man" [N-DSM]
+- o7: γυναικὸς = G1135 γυνή "wife, woman" [N-GSF]
+- o8: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o9: ἅπτεσθαι· = G680 ἅπτομαι "touch" [V-PMN]

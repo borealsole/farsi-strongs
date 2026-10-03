@@ -661,3 +661,36 @@ Persian entries and current tags:
 - p5: در  → Hb
 - p6: یِساکار  → H3485
 - p7: ؛
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 3:28 (context)
+
+- o1: וַ/יִּשְׁמְעוּ = Hc "and" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HC/Vqw3mp]
+- o2: כָל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: הַ/מִּשְׁפָּט = Hd "the" + H4941 מִשְׁפָּט "properly…" [HTd/Ncmsa]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: שָׁפַט = H8199 שָׁפַט "to judge…" [HVqp3ms]
+- o8: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o9: וַ/יִּרְאוּ = Hc "and" + H3372 יָרֵא "to fear; morally, to revere; caus. to frighten" [HC/Vqw3mp]
+- o10: מִ/פְּנֵי = Hm "from" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o11: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o12: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o13: רָאוּ = H7200 רָאָה "to see…" [HVqp3cp]
+- o14: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o15: חָכְמַת = H2451 חׇכְמָה "wisdom (in a good sense)" [HNcfsc]
+- o16: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o17: בְּ/קִרְבּ/וֹ = Hb "in" + H7130 קֶרֶב "properly, the nearest part, i.e. the center…" [HR/Ncmsc/Sp3ms]
+- o18: לַ/עֲשׂוֹת = Hl "to" + H6213 עָשָׂה "to do or make…" [HR/Vqc]
+- o19: מִשְׁפָּט = H4941 מִשְׁפָּט "properly…" [HNcmsa]
+
+### I Kings 4:18 (context)
+
+- o1: שִׁמְעִי = H8096 שִׁמְעִי "Shimi, the name of twenty Israelites" [HNp]
+- o2: בֶן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o3: אֵלָא = H414 אֵלָא "Ela, an Israelite" [HNp]
+- o4: בְּ/בִנְיָמִן = Hb "in" + H1144 בִּנְיָמִין "Binjamin, youngest son of Jacob…" [HR/Np]

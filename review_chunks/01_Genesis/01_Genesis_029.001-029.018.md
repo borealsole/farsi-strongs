@@ -902,3 +902,40 @@ Persian entries and current tags:
 - p18: خدمت خواهم_کرد  → H5647
 - p19: .
 - p20: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 28:22 (context)
+
+- o1: וְ/הָ/אֶבֶן = Hc "and" + Hd "the" + H68 אֶבֶן "a stone" [HC/Td/Ncfsa]
+- o2: הַ/זֹּאת = Hd "the" + H2063 זֹאת "this (often used adverb)" [HTd/Pdxfs]
+- o3: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o4: שַׂמְתִּי = H7760 שׂוּם "to put (used in a great variety of applications…" [HVqp1cs]
+- o5: מַצֵּבָה = H4676 מַצֵּבָה "something stationed…" [HNcfsa]
+- o6: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o7: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o8: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o9: וְ/כֹל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsa]
+- o10: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o11: תִּתֶּן = H5414 נָתַן "to give…" [HVqi2ms]
+- o12: לִ/י = Hl "to" [HR/Sp1cs]
+- o13: עַשֵּׂר = H6237 עָשַׂר "to tithe, i.e. to take or give atenth" [HVpa]
+- o14: אֲעַשְּׂרֶ/נּוּ = H6237 עָשַׂר "to tithe, i.e. to take or give atenth" [HVpi1cs/Sp3ms]
+- o15: לָ/ךְ = Hl "to" [HR/Sp2fs]
+
+### Genesis 29:19 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: לָבָן = H3837 לָבָן "Laban, a Mesopotamian; also a place in the Desert" [HNp]
+- o3: טוֹב = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAamsa]
+- o4: תִּתִּ/י = H5414 נָתַן "to give…" [HVqc/Sp1cs]
+- o5: אֹתָ/הּ = H853 אֵת "properly…" [HTo/Sp3fs]
+- o6: לָ/ךְ = Hl "to" [HR/Sp2fs]
+- o7: מִ/תִּתִּ/י = Hm "from" + H5414 נָתַן "to give…" [HR/Vqc/Sp1cs]
+- o8: אֹתָ/הּ = H853 אֵת "properly…" [HTo/Sp3fs]
+- o9: לְ/אִישׁ = Hl "to" + H376 אִישׁ "a man as an individual or a male person…" [HR/Ncmsa]
+- o10: אַחֵר = H312 אַחֵר "properly, hinder; generally, next, other, etc" [HAamsa]
+- o11: שְׁבָ/ה = H3427 יָשַׁב "properly…" [HVqv2ms/Sh]
+- o12: עִמָּדִ/י = H5978 עִמָּד "along with" [HR/Sp1cs]

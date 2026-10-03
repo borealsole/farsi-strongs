@@ -976,3 +976,44 @@ Persian entries and current tags:
 - p11: جنگی  → H4421
 - p12: درنگرفت
 - p13: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 14:15 (context)
+
+- o1: וְ/גַם = Hc "and" + H1571 גַּם "properly, assemblage…" [HC/Ta]
+- o2: אָהֳלֵי = H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HNcmpc]
+- o3: מִקְנֶה = H4735 מִקְנֶה "something bought, i.e. property…" [HNcmsa]
+- o4: הִכּוּ = H5221 נָכָה "to strike (lightly or severely…" [HVhp3cp]
+- o5: וַ/יִּשְׁבּוּ = Hc "and" + H7617 שָׁבָה "to transport into captivity" [HC/Vqw3mp]
+- o6: צֹאן = H6629 צֹאן "a collective name for a flock (of sheep or goats)…" [HNcbsa]
+- o7: לָ/רֹב = Hl "to" + H7230 רֹב "abundance (in any respect)" [HR/Ncbsa]
+- o8: וּ/גְמַלִּים = Hc "and" + H1581 גָּמָל "a camel" [HC/Ncmpa]
+- o9: וַ/יָּשֻׁבוּ = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqw3mp]
+- o10: יְרוּשָׁלִָם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+
+### II Chronicles 16:1 (context)
+
+- o1: בִּ/שְׁנַת = Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HR/Ncfsc]
+- o2: שְׁלֹשִׁים = H7970 שְׁלוֹשִׁים "thirty; or (ordinal) thirtieth" [HAcbpa]
+- o3: וָ/שֵׁשׁ = Hc "and" + H8337 שֵׁשׁ "six (as an overplus beyond five or the fingers of…" [HC/Acfsa]
+- o4: לְ/מַלְכוּת = Hl "to" + H4438 מַלְכוּת "a rule; concretely, a dominion" [HR/Ncfsc]
+- o5: אָסָא = H609 אָסָא "Asa, the name of a king and of a Levite" [HNp]
+- o6: עָלָה = H5927 עָלָה "to ascend…" [HVqp3ms]
+- o7: בַּעְשָׁא = H1201 בַּעְשָׁא "Basha, a king of Israel" [HNp]
+- o8: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o9: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o10: עַל = H5921 עַל "above, over, upon…" [HR]
+- o11: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o12: וַ/יִּבֶן = Hc "and" + H1129 בָּנָה "to build (literally and figuratively)" [HC/Vqw3ms]
+- o13: אֶת = H853 אֵת "properly…" [HTo]
+- o14: הָ/רָמָה = Hd "the" + H7414 רָמָה "Ramah, the name of four places in Palestine" [HTd/Np]
+- o15: לְ/בִלְתִּי = Hl "to" + H1115 בִּלְתִּי "properly, a failure of…" [HR/C]
+- o16: תֵּת = H5414 נָתַן "to give…" [HVqc]
+- o17: יוֹצֵא = H3318 יָצָא "to go (causatively, bring) out…" [HVqrmsa]
+- o18: וָ/בָא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqrmsa]
+- o19: לְ/אָסָא = Hl "to" + H609 אָסָא "Asa, the name of a king and of a Levite" [HR/Np]
+- o20: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o21: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]

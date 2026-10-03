@@ -784,3 +784,34 @@ Persian entries and current tags:
 - p29: را
 - p30: می‌جنبانید  → H7493
 - p31: ؟
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 13:22 (context)
+
+- o1: וְ/עָנָה = Hc "and" + H6030 עָנָה "properly, to eye or (generally) to heed…" [HC/Vqq3ms]
+- o2: אִיִּים = H338 אִי "a howler (used only in the plural)…" [HNcmpa]
+- o3: בְּ/אַלְמנוֹתָי/ו = Hb "in" + H490 אַלְמָנָה "a widow; also a desolate place" [HR/Ncfpc/Sp3ms]
+- o4: וְ/תַנִּים = Hc "and" + H8577 תַּנִּין "a marine or land monster…" [HC/Ncmpa]
+- o5: בְּ/הֵיכְלֵי = Hb "in" + H1964 הֵיכָל "a large public building…" [HR/Ncmpc]
+- o6: עֹנֶג = H6027 עֹנֶג "luxury" [HNcmsa]
+- o7: וְ/קָרוֹב = Hc "and" + H7138 קָרוֹב "near (in place, kindred or time)" [HC/Aamsa]
+- o8: לָ/בוֹא = Hl "to" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HR/Vqc]
+- o9: עִתָּ/הּ = H6256 עֵת "time, especially (adverb with preposition) now…" [HNcbsc/Sp3fs]
+- o10: וְ/יָמֶי/הָ = Hc "and" + H3117 יוֹם "a day (as the warm hours)…" [HC/Ncmpc/Sp3fs]
+- o11: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o12: יִמָּשֵׁכוּ = H4900 מָשַׁךְ "to draw…" [HVNi3mp]
+
+### Isaiah 14:17 (context)
+
+- o1: שָׂם = H7760 שׂוּם "to put (used in a great variety of applications…" [HVqp3ms]
+- o2: תֵּבֵל = H8398 תֵּבֵל "the earth (as moist and therefore inhabited)…" [HNcfsa]
+- o3: כַּ/מִּדְבָּר = Hk "like" + H4057 מִדְבָּר "a pasture (i.e. open field…" [HRd/Ncmsa]
+- o4: וְ/עָרָי/ו = Hc "and" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HC/Ncfpc/Sp3ms]
+- o5: הָרָס = H2040 הָרַס "to pull down or in pieces, break, destroy" [HVqp3ms]
+- o6: אֲסִירָי/ו = H615 אָסִיר "bound, i.e. a captive" [HNcmpc/Sp3ms]
+- o7: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o8: פָתַח = H6605 פָּתַח "to open wide (literally or figuratively)…" [HVqp3ms]
+- o9: בָּיְתָ/ה = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsa/Sd]

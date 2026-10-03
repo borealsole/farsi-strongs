@@ -769,3 +769,45 @@ Persian entries and current tags:
 - p22: ساییدن  → G1030
 - p23: خواهد_بود
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 24:34 (context)
+
+- o1: ἀμὴν = G281 ἀμήν "amen, verily" [HEB]
+- o2: λέγω = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-1S]
+- o3: ὑμῖν, = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
+- o4: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o5: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o6: παρέλθῃ = G3928 παρέρχομαι "come (forth), go, pass (away, by, over), past…" [V-2AAS-3S]
+- o7: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o8: γενεὰ = G1074 γενεά "age, generation, nation, time" [N-NSF]
+- o9: αὕτη = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-NSF]
+- o10: ἕως = G2193 ἕως "even (until, unto), (as) far (as), how long…" [ADV]
+- o11: ἂν = G302 ἄν "(what-, where-, wither-, who-)soever" [PRT]
+- o12: πάντα = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-NPN]
+- o13: ταῦτα = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-NPN]
+- o14: γένηται. = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-2ADS-3S]
+
+### Matthew 25:1 (context)
+
+- o1: Τότε = G5119 τότε "that time, then" [ADV]
+- o2: ὁμοιωθήσεται = G3666 ὁμοιόω "be (make) like, (in the) liken(-ess), resemble" [V-FPI-3S]
+- o3: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o4: βασιλεία = G932 βασιλεία "kingdom, + reign" [N-NSF]
+- o5: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o6: οὐρανῶν = G3772 οὐρανός "air, heaven(-ly), sky" [N-GPM]
+- o7: δέκα = G1176 δέκα "(eight-)een, ten" [A-NUI]
+- o8: παρθένοις, = G3933 παρθένος "virgin" [N-DPF]
+- o9: αἵτινες = G3748 ὅστις "and (they), (such) as, (they) that, in that they…" [R-NPF]
+- o10: λαβοῦσαι = G2983 λαμβάνω "accept, + be amazed, assay, attain, bring…" [V-2AAP-NPF]
+- o11: τὰς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APF]
+- o12: λαμπάδας = G2985 λαμπάς "lamp, light, torch" [N-APF]
+- o13: αὐτῶν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPF]
+- o14: ἐξῆλθον = G1831 ἐξέρχομαι "come (forth, out), depart (out of), escape…" [V-2AAI-3P]
+- o15: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o16: ὑπάντησιν = G5222 ὑπάντησις "meeting" [N-ASF]
+- o17: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o18: νυμφίου. = G3566 νυμφίος "bridegroom" [N-GSM]

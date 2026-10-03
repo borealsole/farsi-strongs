@@ -916,3 +916,28 @@ Persian entries and current tags:
 - p27: خداوند  → H3068
 - p28: تکلم کرده_است  → H1696
 - p29: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 57:21 (context)
+
+- o1: אֵין = H369 אַיִן "a non-entity…" [HTn]
+- o2: שָׁלוֹם = H7965 שָׁלוֹם "safe, i.e. (figuratively) well, happy, friendly…" [HNcmsa]
+- o3: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o4: אֱלֹהַ/י = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp1cs]
+- o5: לָ/רְשָׁעִים = Hl "to" + H7563 רָשָׁע "morally wrong…" [HRd/Aampa]
+
+### Isaiah 59:1 (context)
+
+- o1: הֵן = H2005 הֵן "lo!; also (as expressing surprise) if" [HTm]
+- o2: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o3: קָצְרָה = H7114 קָצַר "to dock off…" [HVqp3fs]
+- o4: יַד = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsc]
+- o5: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o6: מֵ/הוֹשִׁיעַ = Hm "from" + H3467 יָשַׁע "properly, to be open, wide or free…" [HR/Vhc]
+- o7: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o8: כָבְדָה = H3513 כָּבַד "to be heavy, i.e. in a bad sense (burdensome…" [HVqp3fs]
+- o9: אָזְנ/וֹ = H241 אֹזֶן "broadness. i.e. (concrete) the ear (from its form…" [HNcfsc/Sp3ms]
+- o10: מִ/שְּׁמוֹעַ = Hm "from" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HR/Vqc]

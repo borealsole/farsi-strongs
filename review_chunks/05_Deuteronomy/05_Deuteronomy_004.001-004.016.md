@@ -989,3 +989,30 @@ Persian entries and current tags:
 - p23: به
 - p24: شکل  → H8544 H8403
 - p25: زن  → H5347
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 3:29 (context)
+
+- o1: וַ/נֵּשֶׁב = Hc "and" + H3427 יָשַׁב "properly…" [HC/Vqw1cp]
+- o2: בַּ/גָּיְא = Hb "in" + H1516 גַּיְא "a gorge (from its lofty sides…" [HRd/Ncbsa]
+- o3: מוּל = H4136 מוּל "properly, abrupt, i.e. a precipice…" [HR]
+- o4: בֵּית = H1047 בֵּית פְּעוֹר "Beth-Peor, a place East of the Jordan" [HNp]
+- o5: פְּעוֹר = H1047 בֵּית פְּעוֹר "Beth-Peor, a place East of the Jordan" [HNp]
+
+### Deuteronomy 4:17 (context)
+
+- o1: תַּבְנִית = H8403 תַּבְנִית "structure; by implication, a model, resemblance" [HNcfsc]
+- o2: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: בְּהֵמָה = H929 בְּהֵמָה "properly, a dumb beast…" [HNcfsa]
+- o4: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o5: בָּ/אָרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HRd/Ncbsa]
+- o6: תַּבְנִית = H8403 תַּבְנִית "structure; by implication, a model, resemblance" [HNcfsc]
+- o7: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o8: צִפּוֹר = H6833 צִפּוֹר "a little bird (as hopping)" [HNcbsc]
+- o9: כָּנָף = H3671 כָּנָף "an edge or extremity…" [HNcfsa]
+- o10: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o11: תָּעוּף = H5774 עוּף "to fly…" [HVqi3fs]
+- o12: בַּ/שָּׁמָיִם = Hb "in" + H8064 שָׁמַיִם "the sky (as aloft…" [HRd/Ncmpa]

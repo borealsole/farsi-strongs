@@ -1083,3 +1083,48 @@ Persian entries and current tags:
 - p26: او  → G3739 G846
 - p27: درآید
 - p28: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Philippians 2:30 (context)
+
+- o1: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o2: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o3: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o4: ἔργον = G2041 ἔργον "deed, doing, labour, work" [N-ASN]
+- o5: Χριστοῦ = G5547 Χριστός "Christ" [N-GSM]
+- o6: μέχρι = G3360 μέχρι "till, (un-)to, until" [ADV]
+- o7: θανάτου = G2288 θάνατος "deadly, (be…) death" [N-GSM]
+- o8: ἤγγισεν, = G1448 ἐγγίζω "approach, be at hand, come (draw) near, be (come…" [V-AAI-3S]
+- o9: παραβολευσάμενος = G3851 παραβουλεύομαι "not (to) regard(-ing)" [V-ADP-NSM]
+- o10: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o11: ψυχῇ = G5590 ψυχή "heart (+ -ily), life, mind, soul, + us, + you" [N-DSF]
+- o12: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o13: ἀναπληρώσῃ = G378 ἀναπληρόω "fill up, fulfill, occupy, supply" [V-AAS-3S]
+- o14: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o15: ὑμῶν = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
+- o16: ὑστέρημα = G5303 ὑστέρημα "that which is behind, (that which was) lack(-ing)…" [N-ASN]
+- o17: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o18: πρός = G4314 πρός "about, according to , against, among, at…" [PREP]
+- o19: με = G1473 ἐγώ "I, me" [P-1AS]
+- o20: λειτουργίας. = G3009 λειτουργία "ministration(-try), service" [N-GSF]
+
+### Philippians 4:1 (context)
+
+- o1: Ὥστε, = G5620 ὥστε "insomuch) as, so that (then), (insomuch) that…" [CONJ]
+- o2: ἀδελφοί = G80 ἀδελφός "brother" [N-VPM]
+- o3: μου = G1473 ἐγώ "I, me" [P-1GS]
+- o4: ἀγαπητοὶ = G27 ἀγαπητός "(dearly, well) beloved, dear" [A-VPM]
+- o5: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o6: ἐπιπόθητοι, = G1973 ἐπιπόθητος "longed for" [A-VPM]
+- o7: χαρὰ = G5479 χαρά "gladness, greatly, ( be exceeding) joy(-ful…" [N-NSF]
+- o8: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o9: στέφανός = G4735 στέφανος "crown" [N-NSM]
+- o10: μου, = G1473 ἐγώ "I, me" [P-1GS]
+- o11: οὕτως = G3779 οὕτω "after that, after (in) this manner, as, even (so)…" [ADV]
+- o12: στήκετε = G4739 στήκω "stand (fast)" [V-PAM-2P]
+- o13: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o14: κυρίῳ, = G2962 κύριος "God, Lord, master, Sir" [N-DSM]
+- o15: ἀγαπητοί. = G27 ἀγαπητός "(dearly, well) beloved, dear" [A-VPM]

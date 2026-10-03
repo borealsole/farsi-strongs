@@ -685,3 +685,34 @@ Persian entries and current tags:
 - p12: ۶۲۰۰  → H8337 H505 H3967
 - p13: بود
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 3:17 (context)
+
+- o1: וַ/יִּהְיוּ = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3mp]
+- o2: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o3: בְנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o4: לֵוִי = H3878 לֵוִי "Levi, a son of Jacob" [HNp]
+- o5: בִּ/שְׁמֹתָ/ם = Hb "in" + H8034 שֵׁם "an appellation…" [HR/Ncmpc/Sp3mp]
+- o6: גֵּרְשׁוֹן = H1648 גֵּרְשׁוֹן "Gereshon or Gereshom, an Israelite" [HNp]
+- o7: וּ/קְהָת = Hc "and" + H6955 קְהָת "Kehath, an Israelite" [HC/Np]
+- o8: וּ/מְרָרִי = Hc "and" + H4847 מְרָרִי "Merari, an Israelite" [HC/Np]
+
+### Numbers 3:35 (context)
+
+- o1: וּ/נְשִׂיא = Hc "and" + H5387 נָשִׂיא "properly, an exalted one, i.e. a king or sheik…" [HC/Ncmsc]
+- o2: בֵית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o3: אָב = H1 אָב "father, in a literal and immediate…" [HNcmsa]
+- o4: לְ/מִשְׁפְּחֹת = Hl "to" + H4940 מִשְׁפָּחָה "a family, i.e. circle of relatives…" [HR/Ncfpc]
+- o5: מְרָרִי = H4847 מְרָרִי "Merari, an Israelite" [HNp]
+- o6: צוּרִיאֵל = H6700 צוּרִיאֵל "Tsuriel, an Israelite" [HNp]
+- o7: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o8: אֲבִיחָיִל = H32 אֲבִיהַיִל "Abihail or Abichail…" [HNp]
+- o9: עַל = H5921 עַל "above, over, upon…" [HR]
+- o10: יֶרֶךְ = H3409 יָרֵךְ "the thigh (from its fleshy softness)…" [HNcfsc]
+- o11: הַ/מִּשְׁכָּן = Hd "the" + H4908 מִשְׁכָּן "a residence (including a shepherd's hut…" [HTd/Ncmsa]
+- o12: יַחֲנוּ = H2583 חָנָה "properly, to incline…" [HVqi3mp]
+- o13: צָפֹנָ/ה = H6828 צָפוֹן "properly, hidden, i.e. dark…" [HNcfsa/Sd]

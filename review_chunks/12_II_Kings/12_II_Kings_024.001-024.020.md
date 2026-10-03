@@ -1102,3 +1102,44 @@ Persian entries and current tags:
 - p26: بابِل  → H894
 - p27: شورید  → H4775
 - p28: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 23:37 (context)
+
+- o1: וַ/יַּעַשׂ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3ms]
+- o2: הָ/רַע = Hd "the" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HTd/Aamsa]
+- o3: בְּ/עֵינֵי = Hb "in" + H5869 עַיִן "an eye (literally or figuratively)…" [HR/Ncbdc]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: כְּ/כֹל = Hk "like" + H3605 כֹּל "properly, the whole…" [HR/Ncmsa]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: עָשׂוּ = H6213 עָשָׂה "to do or make…" [HVqp3cp]
+- o8: אֲבֹתָי/ו = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp3ms]
+
+### II Kings 25:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: בִ/שְׁנַת = Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HR/Ncfsc]
+- o3: הַ/תְּשִׁיעִית = Hd "the" + H8671 תְּשִׁיעִי "ninth" [HTd/Aofsa]
+- o4: לְ/מָלְכ/וֹ = Hl "to" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HR/Vqc/Sp3ms]
+- o5: בַּ/חֹדֶשׁ = Hb "in" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HRd/Ncmsa]
+- o6: הָ/עֲשִׂירִי = Hd "the" + H6224 עֲשִׂירִי "tenth…" [HTd/Aomsa]
+- o7: בֶּ/עָשׂוֹר = Hb "in" + H6218 עָשׂוֹר "ten…" [HRd/Ncmsa]
+- o8: לַ/חֹדֶשׁ = Hl "to" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HRd/Ncmsa]
+- o9: בָּא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3ms]
+- o10: נְבֻכַדְנֶאצַּר = H5019 נְבוּכַדְנֶאצַּר "Nebukadnetstsar (or -retstsar, or -retstsor)…" [HNp]
+- o11: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o12: בָּבֶל = H894 בָּבֶל "Babel (i.e. Babylon)…" [HNp]
+- o13: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o14: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o15: חֵיל/וֹ = H2428 חַיִל "probably a force, whether of men…" [HNcmsc/Sp3ms]
+- o16: עַל = H5921 עַל "above, over, upon…" [HR]
+- o17: יְרוּשָׁלִַם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+- o18: וַ/יִּחַן = Hc "and" + H2583 חָנָה "properly, to incline…" [HC/Vqw3ms]
+- o19: עָלֶי/הָ = H5921 עַל "above, over, upon…" [HR/Sp3fs]
+- o20: וַ/יִּבְנוּ = Hc "and" + H1129 בָּנָה "to build (literally and figuratively)" [HC/Vqw3mp]
+- o21: עָלֶי/הָ = H5921 עַל "above, over, upon…" [HR/Sp3fs]
+- o22: דָּיֵק = H1785 דָּיֵק "a battering-tower" [HNcmsa]
+- o23: סָבִיב = H5439 סָבִיב "as noun) a circle, neighbour, or environs…" [HNcbsa]

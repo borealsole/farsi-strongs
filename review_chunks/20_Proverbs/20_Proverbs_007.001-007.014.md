@@ -494,3 +494,30 @@ Persian entries and current tags:
 - p11: را
 - p12: ادا کرده‌ام  → H7999
 - p13: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 6:35 (context)
+
+- o1: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o2: יִשָּׂא = H5375 נָשָׂא "to lift, in a great variety of applications…" [HVqi3ms]
+- o3: פְּנֵי = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc]
+- o4: כָל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o5: כֹּפֶר = H3724 כֹּפֶר "properly, a cover…" [HNcmsa]
+- o6: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o7: יֹאבֶה = H14 אָבָה "to breathe after…" [HVqi3ms]
+- o8: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o9: תַרְבֶּה = H7235 רָבָה "to increase (in whatever respect)" [HVhi2ms]
+- o10: שֹׁחַד = H7810 שַׁחַד "a donation (venal or redemptive)" [HNcmsa]
+
+### Proverbs 7:15 (context)
+
+- o1: עַל = H5921 עַל "above, over, upon…" [HR]
+- o2: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o3: יָצָאתִי = H3318 יָצָא "to go (causatively, bring) out…" [HVqp1cs]
+- o4: לִ/קְרָאתֶ/ךָ = Hl "to" + H7125 קִרְאָה "an encountering, accidental…" [HR/Vqc/Sp2ms]
+- o5: לְ/שַׁחֵר = Hl "to" + H7836 שָׁחַר "properly, to dawn…" [HR/Vpc]
+- o6: פָּנֶי/ךָ = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc/Sp2ms]
+- o7: וָ/אֶמְצָאֶ/ךָּ = Hc "and" + H4672 מָצָא "properly, to come forth to, i.e. appear or exist…" [HC/Vqw1cs/Sp2ms]

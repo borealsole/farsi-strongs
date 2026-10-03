@@ -1002,3 +1002,45 @@ Persian entries and current tags:
 - p31: اسبابش  → H3627
 - p32: تطهیر کردیم  → H2891
 - p33: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 28:27 (context)
+
+- o1: וַ/יִּשְׁכַּב = Hc "and" + H7901 שָׁכַב "to lie down (for rest, sexual connection…" [HC/Vqw3ms]
+- o2: אָחָז = H271 אָחָז "Achaz…" [HNp]
+- o3: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o4: אֲבֹתָי/ו = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp3ms]
+- o5: וַ/יִּקְבְּרֻ/הוּ = Hc "and" + H6912 קָבַר "to inter" [HC/Vqw3mp/Sp3ms]
+- o6: בָ/עִיר = Hb "in" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HRd/Ncfsa]
+- o7: בִּ/ירוּשָׁלִַם = Hb "in" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HR/Np]
+- o8: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o9: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o10: הֱבִיאֻ/הוּ = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVhp3cp/Sp3ms]
+- o11: לְ/קִבְרֵי = Hl "to" + H6913 קֶבֶר "a sepulchre" [HR/Ncmpc]
+- o12: מַלְכֵי = H4428 מֶלֶךְ "a king" [HNcmpc]
+- o13: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o14: וַ/יִּמְלֹךְ = Hc "and" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HC/Vqw3ms]
+- o15: יְחִזְקִיָּהוּ = H2396 חִזְקִיָּה "Chizkijah, a king of Judah…" [HNp]
+- o16: בְנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o17: תַּחְתָּי/ו = H8478 תַּחַת "the bottom (as depressed)…" [HR/Sp3ms]
+
+### II Chronicles 29:19 (context)
+
+- o1: וְ/אֵת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o2: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: הַ/כֵּלִים = Hd "the" + H3627 כְּלִי "something prepared…" [HTd/Ncmpa]
+- o4: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o5: הִזְנִיחַ = H2186 זָנַח "reject, forsake, fail" [HVhp3ms]
+- o6: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o7: אָחָז = H271 אָחָז "Achaz…" [HNp]
+- o8: בְּ/מַלְכוּת/וֹ = Hb "in" + H4438 מַלְכוּת "a rule; concretely, a dominion" [HR/Ncfsc/Sp3ms]
+- o9: בְּ/מַעֲל/וֹ = Hb "in" + H4604 מַעַל "treachery, i.e. sin" [HR/Ncmsc/Sp3ms]
+- o10: הֵכַנּוּ = H3559 כּוּן "properly, to be erect (i.e. stand perpendicular)…" [HVhp1cp]
+- o11: וְ/הִקְדָּשְׁנוּ = Hc "and" + H6942 קָדַשׁ "to be (causatively, make…" [HC/Vhp1cp]
+- o12: וְ/הִנָּ/ם = Hc "and" + H2005 הֵן "lo!; also (as expressing surprise) if" [HC/Tm/Sp3mp]
+- o13: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o14: מִזְבַּח = H4196 מִזְבֵּחַ "an altar" [HNcmsc]
+- o15: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]

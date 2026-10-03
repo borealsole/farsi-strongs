@@ -846,3 +846,25 @@ Persian entries and current tags:
 - p13: ادامه
 - p14: دهد
 - p15: ؟
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Habakkuk 2:1 (context)
+
+- o1: עַל = H5921 עַל "above, over, upon…" [HR]
+- o2: מִשְׁמַרְתִּ/י = H4931 מִשְׁמֶרֶת "watch, i.e. the act (custody)…" [HNcfsc/Sp1cs]
+- o3: אֶעֱמֹדָה = H5975 עָמַד "to stand…" [HVqh1cs]
+- o4: וְ/אֶתְיַצְּבָה = Hc "and" + H3320 יָצַב "to place (any thing so as to stay)…" [HC/Vth1cs]
+- o5: עַל = H5921 עַל "above, over, upon…" [HR]
+- o6: מָצוֹר = H4692 מָצוֹר "something hemming in…" [HNcmsa]
+- o7: וַ/אֲצַפֶּה = Hc "and" + H6822 צָפָה "properly, to lean forward…" [HC/Vpi1cs]
+- o8: לִ/רְאוֹת = Hl "to" + H7200 רָאָה "to see…" [HR/Vqc]
+- o9: מַה = H4100 מָה "properly…" [HTi]
+- o10: יְדַבֶּר = H1696 דָבַר "perhaps properly, to arrange…" [HVpi3ms]
+- o11: בִּ/י = Hb "in" [HR/Sp1cs]
+- o12: וּ/מָה = Hc "and" + H4100 מָה "properly…" [HC/Ti]
+- o13: אָשִׁיב = H7725 שׁוּב "to turn back (hence…" [HVhi1cs]
+- o14: עַל = H5921 עַל "above, over, upon…" [HR]
+- o15: תּוֹכַחְתִּ/י = H8433 תּוֹכֵחָה "chastisement…" [HNcfsc/Sp1cs]

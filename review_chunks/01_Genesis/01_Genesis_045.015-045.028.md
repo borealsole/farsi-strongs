@@ -718,3 +718,36 @@ Persian entries and current tags:
 - p24: خواهم_دید  → H7200
 - p25: .
 - p26: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 45:14 (context)
+
+- o1: וַ/יִּפֹּל = Hc "and" + H5307 נָפַל "to fall…" [HC/Vqw3ms]
+- o2: עַל = H5921 עַל "above, over, upon…" [HR]
+- o3: צַוְּארֵי = H6677 צַוָּאר "the back of the neck (as that on which burdens…" [HNcmpc]
+- o4: בִנְיָמִן = H1144 בִּנְיָמִין "Binjamin, youngest son of Jacob…" [HNp]
+- o5: אָחִי/ו = H251 אָח "a brother (used in the widest sense of literal…" [HNcmsc/Sp3ms]
+- o6: וַ/יֵּבְךְּ = Hc "and" + H1058 בָּכָה "to weep; generally to bemoan" [HC/Vqw3ms]
+- o7: וּ/בִנְיָמִן = Hc "and" + H1144 בִּנְיָמִין "Binjamin, youngest son of Jacob…" [HC/Np]
+- o8: בָּכָה = H1058 בָּכָה "to weep; generally to bemoan" [HVqp3ms]
+- o9: עַל = H5921 עַל "above, over, upon…" [HR]
+- o10: צַוָּארָי/ו = H6677 צַוָּאר "the back of the neck (as that on which burdens…" [HNcmpc/Sp3ms]
+
+### Genesis 46:1 (context)
+
+- o1: וַ/יִּסַּע = Hc "and" + H5265 נָסַע "properly, to pull up, especially the tent-pins…" [HC/Vqw3ms]
+- o2: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o3: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o4: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o5: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o6: וַ/יָּבֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3ms]
+- o7: בְּאֵרָ/ה = H884 בְּאֵר שֶׁבַע "Beer-Sheba, a place in Palestine" [HNp/Sd]
+- o8: שָּׁבַע = H884 בְּאֵר שֶׁבַע "Beer-Sheba, a place in Palestine" [HNp]
+- o9: וַ/יִּזְבַּח = Hc "and" + H2076 זָבַח "to slaughter an animal (usually in sacrifice)" [HC/Vqw3ms]
+- o10: זְבָחִים = H2077 זֶבַח "properly, a slaughter…" [HNcmpa]
+- o11: לֵ/אלֹהֵי = Hl "to" + H430 אֱלֹהִים "gods in the ordinary sense…" [HR/Ncmpc]
+- o12: אָבִי/ו = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp3ms]
+- o13: יִצְחָק = H3327 יִצְחָק "Jitschak (or Isaac), son of Abraham" [HNp]

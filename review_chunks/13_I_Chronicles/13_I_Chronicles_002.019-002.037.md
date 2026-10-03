@@ -768,3 +768,35 @@ Persian entries and current tags:
 - p6: پدر  → H3205
 - p7: عوبید  → H5744
 - p8: ،
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 2:18 (context)
+
+- o1: וְ/כָלֵב = Hc "and" + H3612 כָּלֵב "Caleb, the name of three Israelites" [HC/Np]
+- o2: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o3: חֶצְרוֹן = H2696 חֶצְרוֹן "Chetsron, the name of a place in Palestine…" [HNp]
+- o4: הוֹלִיד = H3205 יָלַד "to bear young; causatively, to beget…" [HVhp3ms]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: עֲזוּבָה = H5806 עֲזוּבָה "Azubah, the name of two Israelitesses" [HNp]
+- o7: אִשָּׁה = H802 אִשָּׁה "a woman" [HNcfsa]
+- o8: וְ/אֶת = Hc "and" + H854 אֵת "properly…" [HC/R]
+- o9: יְרִיעוֹת = H3408 יְרִיעוֹת "Jerioth, an Israelitess" [HNp]
+- o10: וְ/אֵלֶּה = Hc "and" + H428 אֵלֶּה "these or those" [HC/Pdxcp]
+- o11: בָנֶי/הָ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc/Sp3fs]
+- o12: יֵשֶׁר = H3475 יֵשֶׁר "Jesher, an Israelite" [HNp]
+- o13: וְ/שׁוֹבָב = Hc "and" + H7727 שׁוֹבָב "Shobab, the name of two Israelites" [HC/Np]
+- o14: וְ/אַרְדּוֹן = Hc "and" + H715 אַרְדּוֹן "Ardon, an Israelite" [HC/Np]
+
+### I Chronicles 2:38 (context)
+
+- o1: וְ/עוֹבֵד = Hc "and" + H5744 עוֹבֵד "Obed, the name of five Israelites" [HC/Np]
+- o2: הוֹלִיד = H3205 יָלַד "to bear young; causatively, to beget…" [HVhp3ms]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: יֵהוּא = H3058 יֵהוּא "Jehu, the name of five Israelites" [HNp]
+- o5: וְ/יֵהוּא = Hc "and" + H3058 יֵהוּא "Jehu, the name of five Israelites" [HC/Np]
+- o6: הוֹלִיד = H3205 יָלַד "to bear young; causatively, to beget…" [HVhp3ms]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: עֲזַרְיָה = H5838 עֲזַרְיָה "Azarjah, the name of nineteen Israelites" [HNp]

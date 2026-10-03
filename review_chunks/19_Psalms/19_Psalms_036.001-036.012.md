@@ -487,3 +487,27 @@ Persian entries and current tags:
 - p13: برخاستنشان  → H6965
 - p14: نیست  → H3808 H3201
 - p15: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 35:28 (context)
+
+- o1: וּ/לְשׁוֹנִ/י = Hc "and" + H3956 לָשׁוֹן "the tongue (of man or animals)…" [HC/Ncbsc/Sp1cs]
+- o2: תֶּהְגֶּה = H1897 הָגָה "to murmur (in pleasure or anger)…" [HVqi3fs]
+- o3: צִדְקֶ/ךָ = H6664 צֶדֶק "the right (natural, moral or legal)…" [HNcmsc/Sp2ms]
+- o4: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o5: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o6: תְּהִלָּתֶ/ךָ = H8416 תְּהִלָּה "laudation; specifically (concretely) a hymn" [HNcfsc/Sp2ms]
+
+### Psalms 37:1 (context)
+
+- o1: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o2: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o3: תִּתְחַר = H2734 חָרָה "to glow or grow warm…" [HVtj2ms]
+- o4: בַּ/מְּרֵעִים = Hb "in" + H7489 רָעַע "properly, to spoil (literally…" [HRd/Vhrmpa]
+- o5: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o6: תְּקַנֵּא = H7065 קָנָא "to be (causatively, make) zealous…" [HVpj2ms]
+- o7: בְּ/עֹשֵׂי = Hb "in" + H6213 עָשָׂה "to do or make…" [HR/Vqrmpc]
+- o8: עַוְלָה = H5766 עֶוֶל "(moral) evil" [HNcbsa]

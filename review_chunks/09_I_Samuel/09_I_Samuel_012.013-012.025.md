@@ -761,3 +761,40 @@ Persian entries and current tags:
 - p12: هلاک خواهید_شد  → H5595
 - p13: .
 - p14: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 12:12 (context)
+
+- o1: וַ/תִּרְאוּ = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw2mp]
+- o2: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o3: נָחָשׁ = H5176 נָחָשׁ "Nachash…" [HNp]
+- o4: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o5: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o6: עַמּוֹן = H5983 עַמּוֹן "Ammon, a son of Lot…" [HNp]
+- o7: בָּא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3ms]
+- o8: עֲלֵי/כֶם = H5921 עַל "above, over, upon…" [HR/Sp2mp]
+- o9: וַ/תֹּאמְרוּ = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw2mp]
+- o10: לִ/י = Hl "to" [HR/Sp1cs]
+- o11: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o12: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o13: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsa]
+- o14: יִמְלֹךְ = H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HVqi3ms]
+- o15: עָלֵי/נוּ = H5921 עַל "above, over, upon…" [HR/Sp1cp]
+- o16: וַ/יהוָה = Hc "and" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HC/Np]
+- o17: אֱלֹהֵי/כֶם = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2mp]
+- o18: מַלְכְּ/כֶם = H4428 מֶלֶךְ "a king" [HNcmsc/Sp2mp]
+
+### I Samuel 13:1 (context)
+
+- o1: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o2: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o3: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o4: בְּ/מָלְכ/וֹ = Hb "in" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HR/Vqc/Sp3ms]
+- o5: וּ/שְׁתֵּי = Hc "and" + H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HC/Acfdc]
+- o6: שָׁנִים = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfpa]
+- o7: מָלַךְ = H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HVqp3ms]
+- o8: עַל = H5921 עַל "above, over, upon…" [HR]
+- o9: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]

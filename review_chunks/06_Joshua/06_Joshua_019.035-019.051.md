@@ -665,3 +665,36 @@ Persian entries and current tags:
 - p35: پایان  → H3615
 - p36: رسید
 - p37: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Joshua 19:34 (context)
+
+- o1: וְ/שָׁב = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqp3ms]
+- o2: הַ/גְּבוּל = Hd "the" + H1366 גְּבוּל "properly, a cord (as twisted)…" [HTd/Ncmsa]
+- o3: יָמָּ/ה = H3220 יָם "a sea (as breaking in noisy surf) or large body…" [HNcmsa/Sd]
+- o4: אַזְנוֹת = H243 אַזְנוֹת תָּבוֹר "Aznoth-Tabor, a place in Palestine" [HNp]
+- o5: תָּבוֹר = H243 אַזְנוֹת תָּבוֹר "Aznoth-Tabor, a place in Palestine" [HNp]
+- o6: וְ/יָצָא = Hc "and" + H3318 יָצָא "to go (causatively, bring) out…" [HC/Vqp3ms]
+- o7: מִ/שָּׁם = Hm "from" + H8033 שָׁם "there (transferring to time) then…" [HR/D]
+- o8: חוּקֹקָ/ה = H2712 חֻקֹּק "Chukkok or Chukok, a place in Palestine" [HNp/Sd]
+- o9: וּ/פָגַע = Hc "and" + H6293 פָּגַע "to impinge, by accident or violence…" [HC/Vqp3ms]
+- o10: בִּ/זְבֻלוּן = Hb "in" + H2074 זְבוּלוּן "Zebulon, a son of Jacob…" [HR/Np]
+- o11: מִ/נֶּגֶב = Hm "from" + H5045 נֶגֶב "the south (from its drought)…" [HR/Ncmsa]
+- o12: וּ/בְ/אָשֵׁר = Hc "and" + Hb "in" + H836 אָשֵׁר "happy…" [HC/R/Np]
+- o13: פָּגַע = H6293 פָּגַע "to impinge, by accident or violence…" [HVqp3ms]
+- o14: מִ/יָּם = Hm "from" + H3220 יָם "a sea (as breaking in noisy surf) or large body…" [HR/Ncmsa]
+- o15: וּ/בִ/יהוּדָה = Hc "and" + Hb "in" + H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HC/R/Np]
+- o16: הַ/יַּרְדֵּן = Hd "the" + H3383 יַרְדֵּן "Jarden, the principal river of Palestine" [HTd/Np]
+- o17: מִזְרַח = H4217 מִזְרָח "sunrise, i.e. the east" [HNcmsc]
+- o18: הַ/שָּׁמֶשׁ = Hd "the" + H8121 שֶׁמֶשׁ "the sun; by implication, the east…" [HTd/Ncbsa]
+
+### Joshua 20:1 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: יְהוֹשֻׁעַ = H3091 יְהוֹשׁוּעַ "Jehoshua (i.e. Joshua), the Jewish leader" [HNp]
+- o5: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

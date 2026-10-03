@@ -803,3 +803,35 @@ Persian entries and current tags:
 - p18: شامگاه  → H6153
 - p19: نجس باشد  → H2930
 - p20: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 14:57 (context)
+
+- o1: לְ/הוֹרֹת = Hl "to" + H3384 יָרָה "properly, to flow as water (i.e. to rain)…" [HR/Vhc]
+- o2: בְּ/יוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmsc]
+- o3: הַ/טָּמֵא = Hd "the" + H2931 טָמֵא "foul in a religious sense" [HTd/Aamsa]
+- o4: וּ/בְ/יוֹם = Hc "and" + Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HC/R/Ncmsc]
+- o5: הַ/טָּהֹר = Hd "the" + H2889 טָהוֹר "pure (in a physical, chemical…" [HTd/Aamsa]
+- o6: זֹאת = H2063 זֹאת "this (often used adverb)" [HPdxfs]
+- o7: תּוֹרַת = H8451 תּוֹרָה "a precept or statute…" [HNcfsc]
+- o8: הַ/צָּרָעַת = Hd "the" + H6883 צָרַעַת "leprosy" [HTd/Ncfsa]
+
+### Leviticus 15:17 (context)
+
+- o1: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o2: בֶּגֶד = H899 בֶּגֶד "a covering, i.e. clothing…" [HNcmsa]
+- o3: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o4: עוֹר = H5785 עוֹר "skin (as naked); by implication, hide, leather" [HNcmsa]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o7: עָלָי/ו = H5921 עַל "above, over, upon…" [HR/Sp3ms]
+- o8: שִׁכְבַת = H7902 שְׁכָבָה "a lying down (of dew, or for the sexual act)" [HNcfsc]
+- o9: זָרַע = H2233 זֶרַע "seed…" [HNcmsa]
+- o10: וְ/כֻבַּס = Hc "and" + H3526 כָּבַס "to trample…" [HC/VPq3ms]
+- o11: בַּ/מַּיִם = Hb "in" + H4325 מַיִם "water; figuratively, juice…" [HRd/Ncmpa]
+- o12: וְ/טָמֵא = Hc "and" + H2930 טָמֵא "to be foul…" [HC/Vqq3ms]
+- o13: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o14: הָ/עָרֶב = Hd "the" + H6153 עֶרֶב "dusk" [HTd/Ncmsa]

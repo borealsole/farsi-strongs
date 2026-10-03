@@ -502,3 +502,50 @@ Persian entries and current tags:
 - p20: او
 - p21: پادشاه شد  → H4427
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 26:23 (context)
+
+- o1: וַ/יִּשְׁכַּב = Hc "and" + H7901 שָׁכַב "to lie down (for rest, sexual connection…" [HC/Vqw3ms]
+- o2: עֻזִּיָּהוּ = H5818 עֻזִּיָּה "Uzzijah, the name of five Israelites" [HNp]
+- o3: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o4: אֲבֹתָי/ו = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp3ms]
+- o5: וַ/יִּקְבְּרוּ = Hc "and" + H6912 קָבַר "to inter" [HC/Vqw3mp]
+- o6: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o7: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o8: אֲבֹתָי/ו = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp3ms]
+- o9: בִּ/שְׂדֵה = Hb "in" + H7704 שָׂדֶה "a field (as flat)" [HR/Ncmsc]
+- o10: הַ/קְּבוּרָה = Hd "the" + H6900 קְבוּרָה "sepulture; (concretely) a sepulchre" [HTd/Ncfsa]
+- o11: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o12: לַ/מְּלָכִים = Hl "to" + H4428 מֶלֶךְ "a king" [HRd/Ncmpa]
+- o13: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o14: אָמְרוּ = H559 אָמַר "to say (used with great latitude)" [HVqp3cp]
+- o15: מְצוֹרָע = H6879 צָרַע "to scourge…" [HVPsmsa]
+- o16: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o17: וַ/יִּמְלֹךְ = Hc "and" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HC/Vqw3ms]
+- o18: יוֹתָם = H3147 יוֹתָם "Jotham, the name of three Israelites" [HNp]
+- o19: בְּנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o20: תַּחְתָּי/ו = H8478 תַּחַת "the bottom (as depressed)…" [HR/Sp3ms]
+
+### II Chronicles 28:1 (context)
+
+- o1: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o2: עֶשְׂרִים = H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HAcbpa]
+- o3: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o4: אָחָז = H271 אָחָז "Achaz…" [HNp]
+- o5: בְּ/מָלְכ/וֹ = Hb "in" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HR/Vqc/Sp3ms]
+- o6: וְ/שֵׁשׁ = Hc "and" + H8337 שֵׁשׁ "six (as an overplus beyond five or the fingers of…" [HC/Acfsa]
+- o7: עֶשְׂרֵה = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcfsa]
+- o8: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o9: מָלַךְ = H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HVqp3ms]
+- o10: בִּ/ירוּשָׁלִָם = Hb "in" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HR/Np]
+- o11: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o12: עָשָׂה = H6213 עָשָׂה "to do or make…" [HVqp3ms]
+- o13: הַ/יָּשָׁר = Hd "the" + H3477 יָשָׁר "straight (literally or figuratively)" [HTd/Aamsa]
+- o14: בְּ/עֵינֵי = Hb "in" + H5869 עַיִן "an eye (literally or figuratively)…" [HR/Ncbdc]
+- o15: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o16: כְּ/דָוִיד = Hk "like" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o17: אָבִי/ו = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp3ms]

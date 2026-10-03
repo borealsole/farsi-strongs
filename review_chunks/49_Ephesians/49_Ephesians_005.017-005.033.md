@@ -758,3 +758,33 @@ Persian entries and current tags:
 - p22: حرمت
 - p23: نهد
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ephesians 5:16 (context)
+
+- o1: ἐξαγοραζόμενοι = G1805 ἐξαγοράζω "redeem" [V-PMP-NPM]
+- o2: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o3: καιρόν, = G2540 καιρός "always, opportunity, (convenient, due) season…" [N-ASM]
+- o4: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o5: αἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPF]
+- o6: ἡμέραι = G2250 ἡμέρα "age, + alway, (mid-)day (by day, (-ly))…" [N-NPF]
+- o7: πονηραί = G4190 πονηρός "bad, evil, grievous, harm, lewd, malicious…" [A-NPF]
+- o8: εἰσιν. = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3P]
+
+### Ephesians 6:1 (context)
+
+- o1: Τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPN]
+- o2: τέκνα, = G5043 τέκνον "child, daughter, son" [N-NPN]
+- o3: ὑπακούετε = G5219 ὑπακούω "hearken, be obedient to, obey" [V-PAM-2P]
+- o4: τοῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPM]
+- o5: γονεῦσιν = G1118 γονεύς "parent" [N-DPM]
+- o6: ὑμῶν = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
+- o7: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o8: κυρίῳ, = G2962 κύριος "God, Lord, master, Sir" [N-DSM]
+- o9: τοῦτο = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-NSN]
+- o10: γάρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o11: ἐστιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o12: δίκαιον. = G1342 δίκαιος "just, meet, right(-eous)" [A-NSN]

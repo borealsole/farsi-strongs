@@ -887,3 +887,50 @@ Persian entries and current tags:
 - p31: برایشان  → Hl
 - p32: بخور سوزانید  → H6999
 - p33: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 24:27 (context)
+
+- o1: וּ/בָנָי/ו = Hc "and" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/Ncmpc/Sp3ms]
+- o2: ו/רב = Hc "and" + H7230 רֹב "abundance (in any respect)" [HC/Ncbsc]
+- o3: הַ/מַּשָּׂא = Hd "the" + H4853 מַשָּׂא "a burden…" [HTd/Ncmsa]
+- o4: עָלָי/ו = H5921 עַל "above, over, upon…" [HR/Sp3ms]
+- o5: וִ/יסוֹד = Hc "and" + H3247 יְסוֹד "a foundation (literally or figuratively)" [HC/Vqc]
+- o6: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o7: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o8: הִנָּ/ם = H2005 הֵן "lo!; also (as expressing surprise) if" [HTm/Sp3mp]
+- o9: כְּתוּבִים = H3789 כָּתַב "to grave, by implication, to write (describe…" [HVqsmpa]
+- o10: עַל = H5921 עַל "above, over, upon…" [HR]
+- o11: מִדְרַשׁ = H4097 מִדְרָשׁ "properly, an investigation…" [HNcmsc]
+- o12: סֵפֶר = H5612 סֵפֶר "properly, writing (the art or a document)…" [HNcmsc]
+- o13: הַ/מְּלָכִים = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmpa]
+- o14: וַ/יִּמְלֹךְ = Hc "and" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HC/Vqw3ms]
+- o15: אֲמַצְיָהוּ = H558 אֲמַצְיָה "Amatsjah, the name of four Israelites" [HNp]
+- o16: בְנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o17: תַּחְתָּי/ו = H8478 תַּחַת "the bottom (as depressed)…" [HR/Sp3ms]
+
+### II Chronicles 25:15 (context)
+
+- o1: וַ/יִּחַר = Hc "and" + H2734 חָרָה "to glow or grow warm…" [HC/Vqw3ms]
+- o2: אַף = H639 אַף "properly, the nose or nostril…" [HTa]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: בַּ/אֲמַצְיָהוּ = Hb "in" + H558 אֲמַצְיָה "Amatsjah, the name of four Israelites" [HR/Np]
+- o5: וַ/יִּשְׁלַח = Hc "and" + H7971 שָׁלַח "to send away, for…" [HC/Vqw3ms]
+- o6: אֵלָי/ו = H413 אֵל "near, with or among; often in general, to" [HR/Sp3ms]
+- o7: נָבִיא = H5030 נָבִיא "a prophet or (generally) inspired man" [HNcmsa]
+- o8: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o9: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o10: לָ/מָּה = Hl "to" + H4100 מָה "properly…" [HR/Ti]
+- o11: דָרַשְׁתָּ = H1875 דָּרַשׁ "properly, to tread or frequent…" [HVqp2ms]
+- o12: אֶת = H853 אֵת "properly…" [HTo]
+- o13: אֱלֹהֵי = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc]
+- o14: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o15: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o16: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o17: הִצִּילוּ = H5337 נָצַל "to snatch away, whether in a good or a bad sense" [HVhp3cp]
+- o18: אֶת = H853 אֵת "properly…" [HTo]
+- o19: עַמָּ/ם = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp3mp]
+- o20: מִ/יָּדֶ/ךָ = Hm "from" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc/Sp2ms]

@@ -815,3 +815,35 @@ Persian entries and current tags:
 - p35: فرار  → H1281
 - p36: خواهم_کرد
 - p37: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 42:25 (context)
+
+- o1: וַ/יִּשְׁפֹּךְ = Hc "and" + H8210 שָׁפַךְ "to spill forth (blood, a libation, liquid metal…" [HC/Vqw3ms]
+- o2: עָלָי/ו = H5921 עַל "above, over, upon…" [HR/Sp3ms]
+- o3: חֵמָה = H2534 חֵמָה "heat; figuratively, anger, poison (from its fever)" [HNcfsa]
+- o4: אַפּ/וֹ = H639 אַף "properly, the nose or nostril…" [HNcmsc/Sp3ms]
+- o5: וֶ/עֱזוּז = Hc "and" + H5807 עֱזוּז "forcibleness" [HC/Ncmsc]
+- o6: מִלְחָמָה = H4421 מִלְחָמָה "a battle (i.e. the engagement)…" [HNcfsa]
+- o7: וַ/תְּלַהֲטֵ/הוּ = Hc "and" + H3857 לָהַט "properly, to lick, i.e. (by implication) to blaze" [HC/Vpw3fs/Sp3ms]
+- o8: מִ/סָּבִיב = Hm "from" + H5439 סָבִיב "as noun) a circle, neighbour, or environs…" [HR/Ncbsa]
+- o9: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o10: יָדָע = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqp3ms]
+- o11: וַ/תִּבְעַר = Hc "and" + H1197 בָּעַר "to kindle, i.e. consume (by fire or by eating)…" [HC/Vqw3fs]
+- o12: בּ/וֹ = Hb "in" [HR/Sp3ms]
+- o13: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o14: יָשִׂים = H7760 שׂוּם "to put (used in a great variety of applications…" [HVqi3ms]
+- o15: עַל = H5921 עַל "above, over, upon…" [HR]
+- o16: לֵב = H3820 לֵב "the heart…" [HNcmsa]
+
+### Isaiah 43:15 (context)
+
+- o1: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: קְדוֹשְׁ/כֶם = H6918 קָדוֹשׁ "sacred (ceremonially or morally)…" [HAamsc/Sp2mp]
+- o4: בּוֹרֵא = H1254 בָּרָא "absolutely) to create…" [HVqrmsc]
+- o5: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o6: מַלְכְּ/כֶם = H4428 מֶלֶךְ "a king" [HNcmsc/Sp2mp]

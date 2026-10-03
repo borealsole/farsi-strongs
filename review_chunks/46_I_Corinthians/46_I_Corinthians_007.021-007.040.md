@@ -1133,3 +1133,38 @@ Persian entries and current tags:
 - p19: را
 - p20: دارم  → G2192
 - p21: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Corinthians 7:20 (context)
+
+- o1: ἕκαστος = G1538 ἕκαστος "any, both, each (one), every (man, one, woman)…" [A-NSM]
+- o2: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o3: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o4: κλήσει = G2821 κλῆσις "calling" [N-DSF]
+- o5: ᾗ = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-DSF]
+- o6: ἐκλήθη = G2564 καλέω "bid, call (forth), (whose…" [V-API-3S]
+- o7: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o8: ταύτῃ = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-DSF]
+- o9: μενέτω. = G3306 μένω "abide, continue, dwell, endure, be present…" [V-PAM-3S]
+
+### I Corinthians 8:1 (context)
+
+- o1: Περὶ = G4012 περί "there-)about, above, against, at, on behalf of…" [PREP]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPN]
+- o4: εἰδωλοθύτων, = G1494 εἰδωλόθυτον "meat, thing that is) offered (in sacrifice…" [A-GPN]
+- o5: οἴδαμεν = G1492 εἴδω "be aware, behold, can (+ not tell), consider…" [V-RAI-1P]
+- o6: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o7: πάντες = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-NPM]
+- o8: γνῶσιν = G1108 γνῶσις "knowledge, science" [N-ASF]
+- o9: ἔχομεν. = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAI-1P]
+- o10: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o11: γνῶσις = G1108 γνῶσις "knowledge, science" [N-NSF]
+- o12: φυσιοῖ, = G5448 φυσιόω "puff up" [V-PAI-3S]
+- o13: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o14: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o15: ἀγάπη = G26 ἀγάπη "(feast of) charity(-ably), dear, love" [N-NSF]
+- o16: οἰκοδομεῖ. = G3618 οἰκοδομέω "(be in) build(-er, -ing, up), edify, embolden" [V-PAI-3S]

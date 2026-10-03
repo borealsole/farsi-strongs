@@ -850,3 +850,55 @@ Persian entries and current tags:
 - p11: تلخ  → H4786
 - p12: کردند
 - p13: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 26:18 (context)
+
+- o1: וַ/יָּשָׁב = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqw3ms]
+- o2: יִצְחָק = H3327 יִצְחָק "Jitschak (or Isaac), son of Abraham" [HNp]
+- o3: וַ/יַּחְפֹּר = Hc "and" + H2658 חָפַר "properly, to pry into…" [HC/Vqw3ms]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: בְּאֵרֹת = H875 בְּאֵר "a pit; especially a well" [HNcfpc]
+- o6: הַ/מַּיִם = Hd "the" + H4325 מַיִם "water; figuratively, juice…" [HTd/Ncmpa]
+- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o8: חָפְרוּ = H2658 חָפַר "properly, to pry into…" [HVqp3cp]
+- o9: בִּ/ימֵי = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmpc]
+- o10: אַבְרָהָם = H85 אַבְרָהָם "Abraham, the later name of Abram" [HNp]
+- o11: אָבִי/ו = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp3ms]
+- o12: וַ/יְסַתְּמוּ/ם = Hc "and" + H5640 סָתַם "to stop up; by implication, to repair…" [HC/Vpw3mp/Sp3mp]
+- o13: פְּלִשְׁתִּים = H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HNgmpa]
+- o14: אַחֲרֵי = H310 אַחַר "properly, the hind part…" [HR]
+- o15: מוֹת = H4194 מָוֶת "death (natural or violent)…" [HNcmsc]
+- o16: אַבְרָהָם = H85 אַבְרָהָם "Abraham, the later name of Abram" [HNp]
+- o17: וַ/יִּקְרָא = Hc "and" + H7121 קָרָא "to call out to (i.e. properly, address by name…" [HC/Vqw3ms]
+- o18: לָ/הֶן = Hl "to" [HR/Sp3fp]
+- o19: שֵׁמוֹת = H8034 שֵׁם "an appellation…" [HNcmpa]
+- o20: כַּ/שֵּׁמֹת = Hk "like" + H8034 שֵׁם "an appellation…" [HRd/Ncmpa]
+- o21: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o22: קָרָא = H7121 קָרָא "to call out to (i.e. properly, address by name…" [HVqp3ms]
+- o23: לָ/הֶן = Hl "to" [HR/Sp3fp]
+- o24: אָבִי/ו = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp3ms]
+
+### Genesis 27:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o3: זָקֵן = H2204 זָקֵן "to be old" [HVqp3ms]
+- o4: יִצְחָק = H3327 יִצְחָק "Jitschak (or Isaac), son of Abraham" [HNp]
+- o5: וַ/תִּכְהֶיןָ = Hc "and" + H3543 כָּהָה "to be weak…" [HC/Vqw3fp]
+- o6: עֵינָי/ו = H5869 עַיִן "an eye (literally or figuratively)…" [HNcbdc/Sp3ms]
+- o7: מֵ/רְאֹת = Hm "from" + H7200 רָאָה "to see…" [HR/Vqc]
+- o8: וַ/יִּקְרָא = Hc "and" + H7121 קָרָא "to call out to (i.e. properly, address by name…" [HC/Vqw3ms]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: עֵשָׂו = H6215 עֵשָׂו "Esav, a son of Isaac, including his posterity" [HNp]
+- o11: בְּנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o12: הַ/גָּדֹל = Hd "the" + H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HTd/Aamsa]
+- o13: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o14: אֵלָי/ו = H413 אֵל "near, with or among; often in general, to" [HR/Sp3ms]
+- o15: בְּנִ/י = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp1cs]
+- o16: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o17: אֵלָי/ו = H413 אֵל "near, with or among; often in general, to" [HR/Sp3ms]
+- o18: הִנֵּנִ/י = H2009 הִנֵּה "lo!" [HTm/Sp1cs]

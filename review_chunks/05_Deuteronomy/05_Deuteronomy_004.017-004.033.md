@@ -1015,3 +1015,52 @@ Persian entries and current tags:
 - p20: شما
 - p21: شنیدید  → H8085
 - p22: ؟
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 4:16 (context)
+
+- o1: פֶּן = H6435 פֵּן "properly, removal…" [HC]
+- o2: תַּשְׁחִתוּ/ן = H7843 שָׁחַת "to decay…" [HVhi2mp/Sn]
+- o3: וַ/עֲשִׂיתֶם = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqq2mp]
+- o4: לָ/כֶם = Hl "to" [HR/Sp2mp]
+- o5: פֶּסֶל = H6459 פֶּסֶל "an idol" [HNcmsa]
+- o6: תְּמוּנַת = H8544 תְּמוּנָה "something portioned (i.e. fashioned) out…" [HNcfsc]
+- o7: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o8: סָמֶל = H5566 סֶמֶל "a likeness" [HNcmsa]
+- o9: תַּבְנִית = H8403 תַּבְנִית "structure; by implication, a model, resemblance" [HNcfsc]
+- o10: זָכָר = H2145 זָכָר "properly, remembered…" [HAamsa]
+- o11: אוֹ = H176 אוֹ "desire (and so probably in Proverbs 31:4)…" [HC]
+- o12: נְקֵבָה = H5347 נְקֵבָה "female (from the sexual form)" [HNcfsa]
+
+### Deuteronomy 4:34 (context)
+
+- o1: אוֹ = H176 אוֹ "desire (and so probably in Proverbs 31:4)…" [HC]
+- o2: הֲ/נִסָּה = Hi "(untranslatable; interrogative particle)" + H5254 נָסָה "to test; by implication, to attempt" [HTi/Vpp3ms]
+- o3: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o4: לָ/בוֹא = Hl "to" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HR/Vqc]
+- o5: לָ/קַחַת = Hl "to" + H3947 לָקַח "to take (in the widest variety of applications)" [HR/Vqc]
+- o6: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o7: גוֹי = H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HNcmsa]
+- o8: מִ/קֶּרֶב = Hm "from" + H7130 קֶרֶב "properly, the nearest part, i.e. the center…" [HR/Ncmsc]
+- o9: גּוֹי = H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HNcmsa]
+- o10: בְּ/מַסֹּת = Hb "in" + H4531 מַסָּה "a testing, of men (judicial) or of God (querulous)" [HR/Ncfpa]
+- o11: בְּ/אֹתֹת = Hb "in" + H226 אוֹת "a signal (literally or figuratively), as aflag…" [HR/Ncbpa]
+- o12: וּ/בְ/מוֹפְתִים = Hc "and" + Hb "in" + H4159 מוֹפֵת "a miracle; by implication, a token or omen" [HC/R/Ncmpa]
+- o13: וּ/בְ/מִלְחָמָה = Hc "and" + Hb "in" + H4421 מִלְחָמָה "a battle (i.e. the engagement)…" [HC/R/Ncfsa]
+- o14: וּ/בְ/יָד = Hc "and" + Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HC/R/Ncbsa]
+- o15: חֲזָקָה = H2389 חָזָק "strong (usu. in a bad sense, hard, bold, violent)" [HAafsa]
+- o16: וּ/בִ/זְרוֹעַ = Hc "and" + Hb "in" + H2220 זְרוֹעַ "the arm (as stretched out)…" [HC/R/Ncbsa]
+- o17: נְטוּיָה = H5186 נָטָה "to stretch or spread out…" [HVqsfsa]
+- o18: וּ/בְ/מוֹרָאִים = Hc "and" + Hb "in" + H4172 מוֹרָא "fear; by implication, a fearful thing or deed" [HC/R/Ncmpa]
+- o19: גְּדֹלִים = H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HAampa]
+- o20: כְּ/כֹל = Hk "like" + H3605 כֹּל "properly, the whole…" [HR/Ncmsa]
+- o21: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o22: עָשָׂה = H6213 עָשָׂה "to do or make…" [HVqp3ms]
+- o23: לָ/כֶם = Hl "to" [HR/Sp2mp]
+- o24: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o25: אֱלֹהֵי/כֶם = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2mp]
+- o26: בְּ/מִצְרַיִם = Hb "in" + H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HR/Np]
+- o27: לְ/עֵינֶי/ךָ = Hl "to" + H5869 עַיִן "an eye (literally or figuratively)…" [HR/Ncbdc/Sp2ms]

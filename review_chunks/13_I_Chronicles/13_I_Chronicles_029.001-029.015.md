@@ -929,3 +929,50 @@ Persian entries and current tags:
 - p20: که
 - p21: نمی‌پایَد  → H4723
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 28:21 (context)
+
+- o1: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o2: מַחְלְקוֹת = H4256 מַחֲלֹקֶת "a section (of Levites, people or soldiers)" [HNcfpc]
+- o3: הַ/כֹּהֲנִים = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmpa]
+- o4: וְ/הַ/לְוִיִּם = Hc "and" + Hd "the" + H3881 לֵוִיִּי "a Levite or descendant of Levi" [HC/Td/Ngmpa]
+- o5: לְ/כָל = Hl "to" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o6: עֲבוֹדַת = H5656 עֲבֹדָה "work of any kind" [HNcfsc]
+- o7: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o8: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o9: וְ/עִמְּ/ךָ = Hc "and" + H5973 עִם "adverb or preposition…" [HC/R/Sp2ms]
+- o10: בְ/כָל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o11: מְלָאכָה = H4399 מְלָאכָה "properly, deputyship, i.e. ministry…" [HNcfsa]
+- o12: לְ/כָל = Hl "to" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o13: נָדִיב = H5081 נָדִיב "properly, voluntary, i.e. generous…" [HAamsa]
+- o14: בַּ/חָכְמָה = Hb "in" + H2451 חׇכְמָה "wisdom (in a good sense)" [HRd/Ncfsa]
+- o15: לְ/כָל = Hl "to" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o16: עֲבוֹדָה = H5656 עֲבֹדָה "work of any kind" [HNcfsa]
+- o17: וְ/הַ/שָּׂרִים = Hc "and" + Hd "the" + H8269 שַׂר "a head person (of any rank or class)" [HC/Td/Ncmpa]
+- o18: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o19: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o20: לְ/כָל = Hl "to" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o21: דְּבָרֶי/ךָ = H1697 דָּבָר "a word…" [HNcmpc/Sp2ms]
+
+### I Chronicles 29:16 (context)
+
+- o1: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o2: אֱלֹהֵי/נוּ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp1cp]
+- o3: כֹל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o4: הֶ/הָמוֹן = Hd "the" + H1995 הָמוֹן "a noise, tumult, crowd; also disquietude, wealth" [HTd/Ncmsa]
+- o5: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: הֲכִינֹנוּ = H3559 כּוּן "properly, to be erect (i.e. stand perpendicular)…" [HVhp1cp]
+- o8: לִ/בְנוֹת = Hl "to" + H1129 בָּנָה "to build (literally and figuratively)" [HR/Vqc]
+- o9: לְ/ךָ = Hl "to" [HR/Sp2ms]
+- o10: בַיִת = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsa]
+- o11: לְ/שֵׁם = Hl "to" + H8034 שֵׁם "an appellation…" [HR/Ncmsc]
+- o12: קָדְשֶׁ/ךָ = H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HNcmsc/Sp2ms]
+- o13: מִ/יָּדְ/ךָ = Hm "from" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc/Sp2ms]
+- o14: היא = H1931 הוּא "he (she or it)…" [HPp3fs]
+- o15: וּ/לְ/ךָ = Hc "and" + Hl "to" [HC/R/Sp2ms]
+- o16: הַ/כֹּל = Hd "the" + H3605 כֹּל "properly, the whole…" [HTd/Ncmsa]

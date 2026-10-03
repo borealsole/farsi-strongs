@@ -757,3 +757,36 @@ Persian entries and current tags:
 - p17: ستایش  → H8416
 - p18: من
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 16:21 (context)
+
+- o1: לָ/כֵן = Hl "to" + H3651 כֵּן "properly, set upright…" [HR/D]
+- o2: הִנְ/נִי = H2005 הֵן "lo!; also (as expressing surprise) if" [HTm/Sp1cs]
+- o3: מוֹדִיעָ/ם = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVhrmsc/Sp3mp]
+- o4: בַּ/פַּעַם = Hb "in" + H6471 פַּעַם "a stroke…" [HRd/Ncfsa]
+- o5: הַ/זֹּאת = Hd "the" + H2063 זֹאת "this (often used adverb)" [HTd/Pdxfs]
+- o6: אוֹדִיעֵ/ם = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVhi1cs/Sp3mp]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: יָדִ/י = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsc/Sp1cs]
+- o9: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o10: גְּבוּרָתִ/י = H1369 גְּבוּרָה "force (literally or figuratively)…" [HNcfsc/Sp1cs]
+- o11: וְ/יָדְעוּ = Hc "and" + H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HC/Vqq3cp]
+- o12: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o13: שְׁמִ/י = H8034 שֵׁם "an appellation…" [HNcmsc/Sp1cs]
+- o14: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### Jeremiah 17:15 (context)
+
+- o1: הִנֵּה = H2009 הִנֵּה "lo!" [HTm]
+- o2: הֵמָּה = H1992 הֵם "they (only used when emphatic)" [HPp3mp]
+- o3: אֹמְרִים = H559 אָמַר "to say (used with great latitude)" [HVqrmpa]
+- o4: אֵלָ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o5: אַיֵּה = H346 אַיֵּה "where?" [HTi]
+- o6: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: יָבוֹא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqj3ms]
+- o9: נָא = H4994 נָא "'I pray', 'now', or 'then'…" [HTe]

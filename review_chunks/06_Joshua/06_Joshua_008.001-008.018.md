@@ -1091,3 +1091,51 @@ Persian entries and current tags:
 - p39: دراز  → H5186
 - p40: کرد  → H5186
 - p41: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Joshua 7:26 (context)
+
+- o1: וַ/יָּקִימוּ = Hc "and" + H6965 קוּם "to rise (in various applications, literal…" [HC/Vhw3mp]
+- o2: עָלָי/ו = H5921 עַל "above, over, upon…" [HR/Sp3ms]
+- o3: גַּל = H1530 גַּל "something rolled…" [HNcmsc]
+- o4: אֲבָנִים = H68 אֶבֶן "a stone" [HNcfpa]
+- o5: גָּדוֹל = H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HAamsa]
+- o6: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o7: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o8: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o9: וַ/יָּשָׁב = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqw3ms]
+- o10: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o11: מֵ/חֲרוֹן = Hm "from" + H2740 חָרוֹן "a burning of anger" [HR/Ncmsc]
+- o12: אַפּ/וֹ = H639 אַף "properly, the nose or nostril…" [HNcmsc/Sp3ms]
+- o13: עַל = H5921 עַל "above, over, upon…" [HR]
+- o14: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o15: קָרָא = H7121 קָרָא "to call out to (i.e. properly, address by name…" [HVqp3ms]
+- o16: שֵׁם = H8034 שֵׁם "an appellation…" [HNcmsc]
+- o17: הַ/מָּקוֹם = Hd "the" + H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HTd/Ncmsa]
+- o18: הַ/הוּא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3ms]
+- o19: עֵמֶק = H6010 עֵמֶק "a vale (i.e. broad depression)" [HNcmsc]
+- o20: עָכוֹר = H5911 עָכוֹר "Akor, the name of a place in Palestine" [HNp]
+- o21: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o22: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o23: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+
+### Joshua 8:19 (context)
+
+- o1: וְ/הָ/אוֹרֵב = Hc "and" + Hd "the" + H693 אָרַב "to lurk" [HC/Td/Vqrmsa]
+- o2: קָם = H6965 קוּם "to rise (in various applications, literal…" [HVqp3ms]
+- o3: מְהֵרָה = H4120 מְהֵרָה "properly, a hurry; hence (adverbially) promptly" [HNcfsa]
+- o4: מִ/מְּקוֹמ/וֹ = Hm "from" + H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HR/Ncmsc/Sp3ms]
+- o5: וַ/יָּרוּצוּ = Hc "and" + H7323 רוּץ "to run (for whatever reason, especially to rush)" [HC/Vqw3mp]
+- o6: כִּ/נְטוֹת = Hk "like" + H5186 נָטָה "to stretch or spread out…" [HR/Vqc]
+- o7: יָד/וֹ = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsc/Sp3ms]
+- o8: וַ/יָּבֹאוּ = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3mp]
+- o9: הָ/עִיר = Hd "the" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HTd/Ncfsa]
+- o10: וַ/יִּלְכְּדוּ/הָ = Hc "and" + H3920 לָכַד "to catch (in a net, trap or pit)…" [HC/Vqw3mp/Sp3fs]
+- o11: וַ/יְמַהֲרוּ = Hc "and" + H4116 מָהַר "properly, to be liquid or flow easily…" [HC/Vpw3mp]
+- o12: וַ/יַּצִּיתוּ = Hc "and" + H3341 יָצַת "to burn or set on fire; figuratively, to desolate" [HC/Vhw3mp]
+- o13: אֶת = H853 אֵת "properly…" [HTo]
+- o14: הָ/עִיר = Hd "the" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HTd/Ncfsa]
+- o15: בָּ/אֵשׁ = Hb "in" + H784 אֵשׁ "fire (literally or figuratively)" [HRd/Ncbsa]

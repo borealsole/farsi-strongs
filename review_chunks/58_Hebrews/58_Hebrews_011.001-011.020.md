@@ -1080,3 +1080,41 @@ Persian entries and current tags:
 - p14: آینده  → G3195
 - p15: برکت داد  → G2127
 - p16: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Hebrews 10:39 (context)
+
+- o1: ἡμεῖς = G2249 ἡμεῖς "us, we (ourselves)" [P-1NP]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o4: ἐσμὲν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-1P]
+- o5: ὑποστολῆς = G5289 ὑποστολή "draw back" [N-GSF]
+- o6: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o7: ἀπώλειαν, = G684 ἀπώλεια "damnable(-nation), destruction, die, perdition…" [N-ASF]
+- o8: ἀλλὰ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o9: πίστεως = G4102 πίστις "assurance, belief, believe, faith, fidelity" [N-GSF]
+- o10: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o11: περιποίησιν = G4047 περιποίησις "obtain(-ing), peculiar, purchased, possession…" [N-ASF]
+- o12: ψυχῆς. = G5590 ψυχή "heart (+ -ily), life, mind, soul, + us, + you" [N-GSF]
+
+### Hebrews 11:21 (context)
+
+- o1: πίστει = G4102 πίστις "assurance, belief, believe, faith, fidelity" [N-DSF]
+- o2: Ἰακὼβ = G2384 Ἰακώβ "also an Israelite:--Jacob" [N-PRI]
+- o3: ἀποθνῄσκων = G599 ἀποθνήσκω "be dead, death, die, lie a-dying, be slain ( with)" [V-PAP-NSM]
+- o4: ἕκαστον = G1538 ἕκαστος "any, both, each (one), every (man, one, woman)…" [A-ASM]
+- o5: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o6: υἱῶν = G5207 υἱός "child, foal, son" [N-GPM]
+- o7: Ἰωσὴφ = G2501 Ἰωσήφ "Joseph" [N-PRI]
+- o8: εὐλόγησεν, = G2127 εὐλογέω "bless, praise" [V-AAI-3S]
+- o9: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o10: προσεκύνησεν = G4352 προσκυνέω "worship" [V-AAI-3S]
+- o11: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o12: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o13: ἄκρον = G206 ἄκρον "one end… other, tip, top, uttermost participle" [N-ASN]
+- o14: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o15: ῥάβδου = G4464 ῥάβδος "rod, sceptre, staff" [N-GSF]
+- o16: αὐτοῦ. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]

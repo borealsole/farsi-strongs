@@ -1295,3 +1295,47 @@ Persian entries and current tags:
 - p15: دیده_نخواهد_شد  → H3808 H7200
 - p16: .
 - p17: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 32:35 (context)
+
+- o1: וַ/יִּגֹּף = Hc "and" + H5062 נָגַף "to push, gore, defeat, stub (the toe)…" [HC/Vqw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o5: עַל = H5921 עַל "above, over, upon…" [HR]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: עָשׂוּ = H6213 עָשָׂה "to do or make…" [HVqp3cp]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: הָ/עֵגֶל = Hd "the" + H5695 עֵגֶל "a (male) calf (as frisking round)…" [HTd/Ncmsa]
+- o10: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o11: עָשָׂה = H6213 עָשָׂה "to do or make…" [HVqp3ms]
+- o12: אַהֲרֹן = H175 אַהֲרוֹן "Aharon, the brother of Moses" [HNp]
+
+### Exodus 34:1 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: פְּסָל = H6458 פָּסַל "to carve, whether wood or stone" [HVqv2ms]
+- o6: לְ/ךָ = Hl "to" [HR/Sp2ms]
+- o7: שְׁנֵי = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmdc]
+- o8: לֻחֹת = H3871 לוּחַ "probably meaning to glisten…" [HNcmpc]
+- o9: אֲבָנִים = H68 אֶבֶן "a stone" [HNcfpa]
+- o10: כָּ/רִאשֹׁנִים = Hk "like" + H7223 רִאשׁוֹן "first, in place…" [HRd/Aampa]
+- o11: וְ/כָתַבְתִּי = Hc "and" + H3789 כָּתַב "to grave, by implication, to write (describe…" [HC/Vqq1cs]
+- o12: עַל = H5921 עַל "above, over, upon…" [HR]
+- o13: הַ/לֻּחֹת = Hd "the" + H3871 לוּחַ "probably meaning to glisten…" [HTd/Ncmpa]
+- o14: אֶת = H853 אֵת "properly…" [HTo]
+- o15: הַ/דְּבָרִים = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmpa]
+- o16: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o17: הָיוּ = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3cp]
+- o18: עַל = H5921 עַל "above, over, upon…" [HR]
+- o19: הַ/לֻּחֹת = Hd "the" + H3871 לוּחַ "probably meaning to glisten…" [HTd/Ncmpa]
+- o20: הָ/רִאשֹׁנִים = Hd "the" + H7223 רִאשׁוֹן "first, in place…" [HTd/Aampa]
+- o21: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o22: שִׁבַּרְתָּ = H7665 שָׁבַר "to burst (literally or figuratively)" [HVpp2ms]

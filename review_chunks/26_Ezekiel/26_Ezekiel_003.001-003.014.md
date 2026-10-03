@@ -742,3 +742,44 @@ Persian entries and current tags:
 - p21: من
 - p22: بود  → H3212
 - p23: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 2:10 (context)
+
+- o1: וַ/יִּפְרֹשׂ = Hc "and" + H6566 פָּרַשׂ "to break apart, disperse, etc" [HC/Vqw3ms]
+- o2: אוֹתָ/הּ = H853 אֵת "properly…" [HTo/Sp3fs]
+- o3: לְ/פָנַ/י = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp1cs]
+- o4: וְ/הִיא = Hc "and" + H1931 הוּא "he (she or it)…" [HC/Pp3fs]
+- o5: כְתוּבָה = H3789 כָּתַב "to grave, by implication, to write (describe…" [HVqsfsa]
+- o6: פָּנִים = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpa]
+- o7: וְ/אָחוֹר = Hc "and" + H268 אָחוֹר "the hinder part; hence (adverb) behind, backward…" [HC/Ncmsa]
+- o8: וְ/כָתוּב = Hc "and" + H3789 כָּתַב "to grave, by implication, to write (describe…" [HC/Vqsmsa]
+- o9: אֵלֶי/הָ = H413 אֵל "near, with or among; often in general, to" [HR/Sp3fs]
+- o10: קִנִים = H7015 קִינָה "a dirge (as accompanied by beating the breasts or…" [HNcfpa]
+- o11: וָ/הֶגֶה = Hc "and" + H1899 הֶגֶה "a muttering (in sighing, thought, or as thunder)" [HC/Ncmsa]
+- o12: וָ/הִי = Hc "and" + H1958 הִי "lamentation" [HC/Ncmsa]
+
+### Ezekiel 3:15 (context)
+
+- o1: וָ/אָבוֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw1cs]
+- o2: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o3: הַ/גּוֹלָה = Hd "the" + H1473 גּוֹלָה "exile; concretely and collectively exiles" [HTd/Ncfsa]
+- o4: תֵּל = H8512 תֵּל אָבִיב "Tel-Abib, a place in Chaldaea" [HNp]
+- o5: אָבִיב = H8512 תֵּל אָבִיב "Tel-Abib, a place in Chaldaea" [HNp]
+- o6: הַ/יֹּשְׁבִים = Hd "the" + H3427 יָשַׁב "properly…" [HTd/Vqrmpa]
+- o7: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o8: נְהַר = H5104 נָהָר "a stream (including the sea…" [HNcmsc]
+- o9: כְּבָר = H3529 כְּבָר "Kebar, a river of Mesopotamia" [HNp]
+- o10: ו/אשר = Hc "and" + H834 אֲשֶׁר "who, which, what, that…" [HC/Tr]
+- o11: הֵמָּה = H1992 הֵם "they (only used when emphatic)" [HPp3mp]
+- o12: יוֹשְׁבִים = H3427 יָשַׁב "properly…" [HVqrmpa]
+- o13: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o14: וָ/אֵשֵׁב = Hc "and" + H3427 יָשַׁב "properly…" [HC/Vqw1cs]
+- o15: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o16: שִׁבְעַת = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcmsc]
+- o17: יָמִים = H3117 יוֹם "a day (as the warm hours)…" [HNcmpa]
+- o18: מַשְׁמִים = H8074 שָׁמֵם "to stun (or intransitively, grow numb)…" [HVhrmsa]
+- o19: בְּ/תוֹכָ/ם = Hb "in" + H8432 תָּוֶךְ "a bisection, i.e. (by implication) the centre" [HR/Ncmsc/Sp3mp]

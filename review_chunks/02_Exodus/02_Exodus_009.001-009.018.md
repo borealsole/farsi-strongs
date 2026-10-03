@@ -930,3 +930,47 @@ Persian entries and current tags:
 - p24: نیامده  → H3808
 - p25: است
 - p26: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 8:32 (context)
+
+- o1: וַ/יַּכְבֵּד = Hc "and" + H3513 כָּבַד "to be heavy, i.e. in a bad sense (burdensome…" [HC/Vhw3ms]
+- o2: פַּרְעֹה = H6547 פַּרְעֹה "Paroh, a general title of Egyptian kings" [HNp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: לִבּ/וֹ = H3820 לֵב "the heart…" [HNcmsc/Sp3ms]
+- o5: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o6: בַּ/פַּעַם = Hb "in" + H6471 פַּעַם "a stroke…" [HRd/Ncfsa]
+- o7: הַ/זֹּאת = Hd "the" + H2063 זֹאת "this (often used adverb)" [HTd/Pdxfs]
+- o8: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o9: שִׁלַּח = H7971 שָׁלַח "to send away, for…" [HVpp3ms]
+- o10: אֶת = H853 אֵת "properly…" [HTo]
+- o11: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+
+### Exodus 9:19 (context)
+
+- o1: וְ/עַתָּה = Hc "and" + H6258 עַתָּה "at this time, whether adverb…" [HC/D]
+- o2: שְׁלַח = H7971 שָׁלַח "to send away, for…" [HVqv2ms]
+- o3: הָעֵז = H5756 עוּז "to be strong…" [HVhv2ms]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: מִקְנְ/ךָ = H4735 מִקְנֶה "something bought, i.e. property…" [HNcmsc/Sp2ms]
+- o6: וְ/אֵת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o7: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o8: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o9: לְ/ךָ = Hl "to" [HR/Sp2ms]
+- o10: בַּ/שָּׂדֶה = Hb "in" + H7704 שָׂדֶה "a field (as flat)" [HRd/Ncmsa]
+- o11: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o12: הָ/אָדָם = Hd "the" + H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HTd/Ncmsa]
+- o13: וְ/הַ/בְּהֵמָה = Hc "and" + Hd "the" + H929 בְּהֵמָה "properly, a dumb beast…" [HC/Td/Ncfsa]
+- o14: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o15: יִמָּצֵא = H4672 מָצָא "properly, to come forth to, i.e. appear or exist…" [HVNi3ms]
+- o16: בַ/שָּׂדֶה = Hb "in" + H7704 שָׂדֶה "a field (as flat)" [HRd/Ncmsa]
+- o17: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o18: יֵאָסֵף = H622 אָסַף "to gather for any purpose…" [HVNi3ms]
+- o19: הַ/בַּיְתָ/ה = Hd "the" + H1004 בַּיִת "a house (in the greatest variation of…" [HTd/Ncmsa/Sd]
+- o20: וְ/יָרַד = Hc "and" + H3381 יָרַד "to descend (literally, to go downwards…" [HC/Vqq3ms]
+- o21: עֲלֵ/הֶם = H5921 עַל "above, over, upon…" [HR/Sp3mp]
+- o22: הַ/בָּרָד = Hd "the" + H1259 בָּרָד "hail" [HTd/Ncmsa]
+- o23: וָ/מֵתוּ = Hc "and" + H4191 מוּת "to die (literally or figuratively)…" [HC/Vqq3cp]

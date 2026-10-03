@@ -959,3 +959,33 @@ Persian entries and current tags:
 - p22: و
 - p23: شرمسار گردیده‌اند  → H954 H2659
 - p24: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 70:5 (context)
+
+- o1: וַ/אֲנִי = Hc "and" + H589 אֲנִי "I" [HC/Pp1cs]
+- o2: עָנִי = H6041 עָנִי "depressed, in mind or circumstances" [HAamsa]
+- o3: וְ/אֶבְיוֹן = Hc "and" + H34 אֶבְיוֹן "destitute" [HC/Aamsa]
+- o4: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o5: חוּשָׁ/ה = H2363 חוּשׁ "to hurry…" [HVqv2ms/Sh]
+- o6: לִּ/י = Hl "to" [HR/Sp1cs]
+- o7: עֶזְרִ/י = H5828 עֵזֶר "aid" [HNcmsc/Sp1cs]
+- o8: וּ/מְפַלְטִ/י = Hc "and" + H6403 פָּלַט "to slip out, i.e. escape; causatively, to deliver" [HC/Vprmsc/Sp1cs]
+- o9: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o10: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o11: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o12: תְּאַחַר = H309 אָחַר "to loiter (i.e. be behind)…" [HVpj2ms]
+
+### Psalms 72:1 (context)
+
+- o1: לִ/שְׁלֹמֹה = Hl "to" + H8010 שְׁלֹמֹה "Shelomah, David's successor" [HR/Np]
+- o2: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o3: מִשְׁפָּטֶי/ךָ = H4941 מִשְׁפָּט "properly…" [HNcmpc/Sp2ms]
+- o4: לְ/מֶלֶךְ = Hl "to" + H4428 מֶלֶךְ "a king" [HR/Ncmsa]
+- o5: תֵּן = H5414 נָתַן "to give…" [HVqv2ms]
+- o6: וְ/צִדְקָתְ/ךָ = Hc "and" + H6666 צְדָקָה "rightness (abstractly), subjectively (rectitude)…" [HC/Ncfsc/Sp2ms]
+- o7: לְ/בֶן = Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmsc]
+- o8: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsa]

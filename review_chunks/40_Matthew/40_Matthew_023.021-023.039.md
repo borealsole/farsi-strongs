@@ -1001,3 +1001,47 @@ Persian entries and current tags:
 - p23: .
 - p24: “
 - p25: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 23:20 (context)
+
+- o1: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o2: οὖν = G3767 οὖν "and (so, truly), but, now (then)…" [CONJ]
+- o3: ὀμόσας = G3660 ὀμνύω "swear" [V-AAP-NSM]
+- o4: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o5: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSN]
+- o6: θυσιαστηρίῳ = G2379 θυσιαστήριον "altar" [N-DSN]
+- o7: ὀμνύει = G3660 ὀμνύω "swear" [V-PAI-3S]
+- o8: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o9: αὐτῷ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSN]
+- o10: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o11: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o12: πᾶσιν = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-DPN]
+- o13: τοῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPN]
+- o14: ἐπάνω = G1883 ἐπάνω "above, more than, (up-)on, over" [ADV]
+- o15: αὐτοῦ· = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSN]
+
+### Matthew 24:1 (context)
+
+- o1: Καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἐξελθὼν = G1831 ἐξέρχομαι "come (forth, out), depart (out of), escape…" [V-2AAP-NSM]
+- o3: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o4: Ἰησοῦς = G2424 Ἰησοῦς "Jesus" [N-NSM]
+- o5: ἀπὸ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
+- o6: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
+- o7: ἱεροῦ = G2411 ἱερόν "temple" [N-GSN]
+- o8: ἐπορεύετο, = G4198 πορεύομαι "--depart, go (away, forth, one's way, up)…" [V-INI-3S]
+- o9: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o10: προσῆλθον = G4334 προσέρχομαι "as soon as he) come (unto), come thereunto…" [V-2AAI-3P]
+- o11: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o12: μαθηταὶ = G3101 μαθητής "disciple" [N-NPM]
+- o13: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o14: ἐπιδεῖξαι = G1925 ἐπιδείκνυμι "shew" [V-AAN]
+- o15: αὐτῷ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
+- o16: τὰς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APF]
+- o17: οἰκοδομὰς = G3619 οἰκοδομή "building, edify(-ication, -ing)" [N-APF]
+- o18: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
+- o19: ἱεροῦ· = G2411 ἱερόν "temple" [N-GSN]

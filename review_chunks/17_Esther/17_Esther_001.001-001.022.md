@@ -1326,3 +1326,27 @@ Persian entries and current tags:
 - p35: سخن  → H1696
 - p36: گوید
 - p37: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Esther 2:1 (context)
+
+- o1: אַחַר = H310 אַחַר "properly, the hind part…" [HR]
+- o2: הַ/דְּבָרִים = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmpa]
+- o3: הָ/אֵלֶּה = Hd "the" + H428 אֵלֶּה "these or those" [HTd/Pdxcp]
+- o4: כְּ/שֹׁךְ = Hk "like" + H7918 שָׁכַךְ "to weave (i.e. lay) a trap…" [HR/Vqc]
+- o5: חֲמַת = H2534 חֵמָה "heat; figuratively, anger, poison (from its fever)" [HNcfsc]
+- o6: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o7: אֲחַשְׁוֵרוֹשׁ = H325 אֲחַשְׁוֵרוֹשׁ "Achashverosh (i.e. Ahasuerus or Artaxerxes…" [HNp]
+- o8: זָכַר = H2142 זָכַר "properly, to mark (so as to be recognized)…" [HVqp3ms]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: וַשְׁתִּי = H2060 וַשְׁתִּי "Vashti, the queen of Xerxes" [HNp]
+- o11: וְ/אֵת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o12: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o13: עָשָׂתָה = H6213 עָשָׂה "to do or make…" [HVqp3fs]
+- o14: וְ/אֵת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o15: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o16: נִגְזַר = H1504 גָּזַר "to cut down or off…" [HVNp3ms]
+- o17: עָלֶי/הָ = H5921 עַל "above, over, upon…" [HR/Sp3fs]

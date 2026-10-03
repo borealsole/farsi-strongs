@@ -936,3 +936,26 @@ Persian entries and current tags:
 - p14: بی‌عیب  → H8549 H8552
 - p15: می‌نمایی  → H2616
 - p16: ؛
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 17:15 (context)
+
+- o1: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o2: בְּ/צֶדֶק = Hb "in" + H6664 צֶדֶק "the right (natural, moral or legal)…" [HR/Ncmsa]
+- o3: אֶחֱזֶה = H2372 חָזָה "to gaze at…" [HVqh1cs]
+- o4: פָנֶי/ךָ = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc/Sp2ms]
+- o5: אֶשְׂבְּעָה = H7646 שָׂבַע "to sate…" [HVqh1cs]
+- o6: בְ/הָקִיץ = Hb "in" + H6974 קוּץ "to awake (literally or figuratively)" [HR/Vhc]
+- o7: תְּמוּנָתֶ/ךָ = H8544 תְּמוּנָה "something portioned (i.e. fashioned) out…" [HNcfsc/Sp2ms]
+
+### Psalms 18:26 (context)
+
+- o1: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o2: נָבָר = H1305 בָּרַר "to clarify (i.e. brighten), examine, select" [HVNrmsa]
+- o3: תִּתְבָּרָר = H1305 בָּרַר "to clarify (i.e. brighten), examine, select" [HVti2ms]
+- o4: וְ/עִם = Hc "and" + H5973 עִם "adverb or preposition…" [HC/R]
+- o5: עִקֵּשׁ = H6141 עִקֵּשׁ "distorted; hence, false" [HAamsa]
+- o6: תִּתְפַּתָּל = H6617 פָּתַל "to twine…" [HVti2ms]

@@ -1078,3 +1078,50 @@ Persian entries and current tags:
 - p12: چیست  → H4100
 - p13: ؟
 - p14: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 37:38 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o3: מִשְׁתַּחֲוֶה = H7812 שָׁחָה "to depress, i.e. prostrate (especially reflexive…" [HVvrmsa]
+- o4: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o5: נִסְרֹךְ = H5268 נִסְרֹךְ "Nisrok, a Babylonian idol" [HNp]
+- o6: אֱלֹהָי/ו = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp3ms]
+- o7: וְ/אַדְרַמֶּלֶךְ = Hc "and" + H152 אֲדְרַמֶּלֶךְ "Adrammelek, the name of an Assyrian idol…" [HC/Np]
+- o8: וְ/שַׂרְאֶצֶר = Hc "and" + H8272 שַׁרְאֶצֶר "Sharetser…" [HC/Np]
+- o9: בָּנָי/ו = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc/Sp3ms]
+- o10: הִכֻּ/הוּ = H5221 נָכָה "to strike (lightly or severely…" [HVhp3cp/Sp3ms]
+- o11: בַ/חֶרֶב = Hb "in" + H2719 חֶרֶב "drought…" [HRd/Ncfsa]
+- o12: וְ/הֵמָּה = Hc "and" + H1992 הֵם "they (only used when emphatic)" [HC/Pp3mp]
+- o13: נִמְלְטוּ = H4422 מָלַט "properly, to be smooth…" [HVNp3cp]
+- o14: אֶרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsc]
+- o15: אֲרָרָט = H780 אֲרָרַט "Ararat (or rather Armenia)" [HNp]
+- o16: וַ/יִּמְלֹךְ = Hc "and" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HC/Vqw3ms]
+- o17: אֵסַר = H634 אֵסַר־חַדּוֹן "Esar-chaddon, an Assyrian king" [HNp]
+- o18: חַדֹּן = H634 אֵסַר־חַדּוֹן "Esar-chaddon, an Assyrian king" [HNp]
+- o19: בְּנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o20: תַּחְתָּי/ו = H8478 תַּחַת "the bottom (as depressed)…" [HR/Sp3ms]
+
+### Isaiah 39:1 (context)
+
+- o1: בָּ/עֵת = Hb "in" + H6256 עֵת "time, especially (adverb with preposition) now…" [HRd/Ncbsa]
+- o2: הַ/הִוא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3fs]
+- o3: שָׁלַח = H7971 שָׁלַח "to send away, for…" [HVqp3ms]
+- o4: מְרֹדַךְ = H4757 מְרֹאדַךְ בַּלְאָדָן "Merodak-Baladan, a Babylonian king" [HNp]
+- o5: בַּלְאֲדָן = H4757 מְרֹאדַךְ בַּלְאָדָן "Merodak-Baladan, a Babylonian king" [HNp]
+- o6: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o7: בַּלְאֲדָן = H1081 בַּלְאֲדָן "Baladan, the name of a Babylonian prince" [HNp]
+- o8: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o9: בָּבֶל = H894 בָּבֶל "Babel (i.e. Babylon)…" [HNp]
+- o10: סְפָרִים = H5612 סֵפֶר "properly, writing (the art or a document)…" [HNcmpa]
+- o11: וּ/מִנְחָה = Hc "and" + H4503 מִנְחָה "a donation; euphemistically, tribute…" [HC/Ncfsa]
+- o12: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o13: חִזְקִיָּהוּ = H2396 חִזְקִיָּה "Chizkijah, a king of Judah…" [HNp]
+- o14: וַ/יִּשְׁמַע = Hc "and" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HC/Vqw3ms]
+- o15: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o16: חָלָה = H2470 חָלָה "properly, to be rubbed or worn…" [HVqp3ms]
+- o17: וַ/יֶּחֱזָק = Hc "and" + H2388 חָזַק "to fasten upon…" [HC/Vqw3ms]

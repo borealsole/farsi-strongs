@@ -688,3 +688,46 @@ Persian entries and current tags:
 - p43: هستند
 - p44: .
 - p45: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 28:10 (context)
+
+- o1: רְאֵה = H7200 רָאָה "to see…" [HVqv2ms]
+- o2: עַתָּה = H6258 עַתָּה "at this time, whether adverb…" [HD]
+- o3: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: בָּחַר = H977 בָּחַר "properly, to try, i.e. (by implication) select" [HVqp3ms]
+- o6: בְּ/ךָ = Hb "in" [HR/Sp2ms]
+- o7: לִ/בְנוֹת = Hl "to" + H1129 בָּנָה "to build (literally and figuratively)" [HR/Vqc]
+- o8: בַּיִת = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsa]
+- o9: לַ/מִּקְדָּשׁ = Hl "to" + H4720 מִקְדָּשׁ "a consecrated thing or place, especially…" [HRd/Ncmsa]
+- o10: חֲזַק = H2388 חָזַק "to fasten upon…" [HVqv2ms]
+- o11: וַ/עֲשֵׂה = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqv2ms]
+
+### I Chronicles 29:1 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o3: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o4: לְ/כָל = Hl "to" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o5: הַ/קָּהָל = Hd "the" + H6951 קָהָל "assemblage (usually concretely)" [HTd/Ncmsa]
+- o6: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o7: בְנִ/י = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp1cs]
+- o8: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o9: בָּחַר = H977 בָּחַר "properly, to try, i.e. (by implication) select" [HVqp3ms]
+- o10: בּ/וֹ = Hb "in" [HR/Sp3ms]
+- o11: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o12: נַעַר = H5288 נַעַר "concretely) a boy (as active)…" [HNcmsa]
+- o13: וָ/רָךְ = Hc "and" + H7390 רַךְ "tender (literally or figuratively)…" [HC/Aamsa]
+- o14: וְ/הַ/מְּלָאכָה = Hc "and" + Hd "the" + H4399 מְלָאכָה "properly, deputyship, i.e. ministry…" [HC/Td/Ncfsa]
+- o15: גְדוֹלָה = H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HAafsa]
+- o16: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o17: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o18: לְ/אָדָם = Hl "to" + H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HR/Ncmsa]
+- o19: הַ/בִּירָה = Hd "the" + H1002 בִּירָה "a castle or palace" [HTd/Ncfsa]
+- o20: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o21: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o22: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]

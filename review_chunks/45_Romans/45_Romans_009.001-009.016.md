@@ -755,3 +755,65 @@ Persian entries and current tags:
 - p16: که
 - p17: رحم می‌کند  → G1653
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Romans 8:39 (context)
+
+- o1: οὔτε = G3777 οὔτε "neither, none, nor (yet), (no, yet) not, nothing" [CONJ-N]
+- o2: ὕψωμα = G5313 ὕψωμα "height, high thing" [N-NSN]
+- o3: οὔτε = G3777 οὔτε "neither, none, nor (yet), (no, yet) not, nothing" [CONJ-N]
+- o4: βάθος = G899 βάθος "deep(-ness, things), depth" [N-NSN]
+- o5: οὔτε = G3777 οὔτε "neither, none, nor (yet), (no, yet) not, nothing" [CONJ-N]
+- o6: τις = G5100 τὶς "a (kind of), any (man, thing, thing at all)…" [X-NSF]
+- o7: κτίσις = G2937 κτίσις "building, creation, creature, ordinance" [N-NSF]
+- o8: ἑτέρα = G2087 ἕτερος "altered, else, next (day), one, (an-)other, some…" [A-NSF]
+- o9: δυνήσεται = G1410 δύναμαι "be able, can (do, + -not), could, may, might…" [V-FDI-3S]
+- o10: ἡμᾶς = G2249 ἡμεῖς "us, we (ourselves)" [P-1AP]
+- o11: χωρίσαι = G5563 χωρίζω "depart, put asunder, separate" [V-AAN]
+- o12: ἀπὸ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
+- o13: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o14: ἀγάπης = G26 ἀγάπη "(feast of) charity(-ably), dear, love" [N-GSF]
+- o15: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o16: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o17: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o18: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o19: Χριστῷ = G5547 Χριστός "Christ" [N-DSM]
+- o20: Ἰησοῦ = G2424 Ἰησοῦς "Jesus" [N-DSM]
+- o21: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o22: κυρίῳ = G2962 κύριος "God, Lord, master, Sir" [N-DSM]
+- o23: ἡμῶν. = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+
+### Romans 9:17 (context)
+
+- o1: λέγει = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-3S]
+- o2: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o3: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o4: γραφὴ = G1124 γραφή "scripture" [N-NSF]
+- o5: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o6: Φαραὼ = G5328 Φαραώ "Pharaoh" [N-PRI]
+- o7: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o8: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o9: αὐτὸ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASN]
+- o10: τοῦτο = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-ASN]
+- o11: ἐξήγειρά = G1825 ἐξεγείρω "raise up" [V-AAI-1S]
+- o12: σε = G4771 σύ "thou" [P-2AS]
+- o13: ὅπως = G3704 ὅπως "because, how, (so) that, to, when" [ADV]
+- o14: ἐνδείξωμαι = G1731 ἐνδείκνυμι "do, show (forth)" [V-AMS-1S]
+- o15: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o16: σοὶ = G4771 σύ "thou" [P-2DS]
+- o17: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o18: δύναμίν = G1411 δύναμις "ability, abundance, meaning, might(-ily, -y…" [N-ASF]
+- o19: μου, = G1473 ἐγώ "I, me" [P-1GS]
+- o20: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o21: ὅπως = G3704 ὅπως "because, how, (so) that, to, when" [ADV]
+- o22: διαγγελῇ = G1229 διαγγέλλω "declare, preach, signify" [V-2APS-3S]
+- o23: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o24: ὄνομά = G3686 ὄνομα "called, (+ sur-)name(-d)" [N-NSN]
+- o25: μου = G1473 ἐγώ "I, me" [P-1GS]
+- o26: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o27: πάσῃ = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-DSF]
+- o28: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o29: γῇ. = G1093 γῆ "country, earth(-ly), ground, land, world" [N-DSF]

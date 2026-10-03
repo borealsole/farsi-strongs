@@ -940,3 +940,49 @@ Persian entries and current tags:
 - p25: بنی‌یهودا  → H3063
 - p26: می‌فروختند  → H4376
 - p27: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Nehemiah 12:47 (context)
+
+- o1: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o2: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o3: בִּ/ימֵי = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmpc]
+- o4: זְרֻבָּבֶל = H2216 זְרֻבָּבֶל "Zerubbabel, an Israelite" [HNp]
+- o5: וּ/בִ/ימֵי = Hc "and" + Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HC/R/Ncmpc]
+- o6: נְחֶמְיָה = H5166 נְחֶמְיָה "Nechemjah, the name of three Israelites" [HNp]
+- o7: נֹתְנִים = H5414 נָתַן "to give…" [HVqrmpa]
+- o8: מְנָיוֹת = H4521 מְנָת "an allotment (by courtesy, law or providence)" [HNcfpc]
+- o9: הַ/מְשֹׁרְרִים = Hd "the" + H7891 שִׁיר "to sing" [HTd/Vormpa]
+- o10: וְ/הַ/שֹּׁעֲרִים = Hc "and" + Hd "the" + H7778 שׁוֹעֵר "a janitor" [HC/Td/Ncmpa]
+- o11: דְּבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o12: יוֹם = H3117 יוֹם "a day (as the warm hours)…" [HNcmsa]
+- o13: בְּ/יוֹמ/וֹ = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmsc/Sp3ms]
+- o14: וּ/מַקְדִּשִׁים = Hc "and" + H6942 קָדַשׁ "to be (causatively, make…" [HC/Vhrmpa]
+- o15: לַ/לְוִיִּם = Hl "to" + H3881 לֵוִיִּי "a Levite or descendant of Levi" [HRd/Ngmpa]
+- o16: וְ/הַ/לְוִיִּם = Hc "and" + Hd "the" + H3881 לֵוִיִּי "a Levite or descendant of Levi" [HC/Td/Ngmpa]
+- o17: מַקְדִּשִׁים = H6942 קָדַשׁ "to be (causatively, make…" [HVhrmpa]
+- o18: לִ/בְנֵי = Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmpc]
+- o19: אַהֲרֹן = H175 אַהֲרוֹן "Aharon, the brother of Moses" [HNp]
+
+### Nehemiah 13:17 (context)
+
+- o1: וָ/אָרִיבָ/ה = Hc "and" + H7378 רִיב "properly, to toss, i.e. grapple…" [HC/Vqw1cs/Sh]
+- o2: אֵת = H854 אֵת "properly…" [HR]
+- o3: חֹרֵי = H2715 חֹר "properly…" [HNcmpc]
+- o4: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o5: וָ/אֹמְרָ/ה = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw1cs/Sh]
+- o6: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o7: מָה = H4100 מָה "properly…" [HTi]
+- o8: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]
+- o9: הָ/רָע = Hd "the" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HTd/Aamsa]
+- o10: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o11: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o12: אַתֶּם = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2mp]
+- o13: עֹשִׂים = H6213 עָשָׂה "to do or make…" [HVqrmpa]
+- o14: וּ/מְחַלְּלִים = Hc "and" + H2490 חָלַל "properly, to bore, i.e. (by implication) to wound…" [HC/Vprmpa]
+- o15: אֶת = H853 אֵת "properly…" [HTo]
+- o16: יוֹם = H3117 יוֹם "a day (as the warm hours)…" [HNcmsc]
+- o17: הַ/שַּׁבָּת = Hd "the" + H7676 שַׁבָּת "intermission, i.e (specifically) the Sabbath" [HTd/Ncbsa]

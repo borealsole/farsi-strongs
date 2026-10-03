@@ -1155,3 +1155,40 @@ Persian entries and current tags:
 - p15: سر
 - p16: بردید
 - p17: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 1:23 (context)
+
+- o1: וַ/יִּיטַב = Hc "and" + H3190 יָטַב "to be (causative) make well, literally (sound…" [HC/Vqw3ms]
+- o2: בְּ/עֵינַ/י = Hb "in" + H5869 עַיִן "an eye (literally or figuratively)…" [HR/Ncbdc/Sp1cs]
+- o3: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]
+- o4: וָ/אֶקַּח = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqw1cs]
+- o5: מִ/כֶּם = Hm "from" + H4480 מִן "properly, a part of…" [HR/Sp2mp]
+- o6: שְׁנֵים = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmda]
+- o7: עָשָׂר = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcmsa]
+- o8: אֲנָשִׁים = H376 אִישׁ "a man as an individual or a male person…" [HNcmpa]
+- o9: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o10: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o11: לַ/שָּׁבֶט = Hl "to" + H7626 שֵׁבֶט "a scion, i.e. (literally) a stick (for punishing…" [HRd/Ncmsa]
+
+### Deuteronomy 2:1 (context)
+
+- o1: וַ/נֵּפֶן = Hc "and" + H6437 פָּנָה "to turn…" [HC/Vqw1cp]
+- o2: וַ/נִּסַּע = Hc "and" + H5265 נָסַע "properly, to pull up, especially the tent-pins…" [HC/Vqw1cp]
+- o3: הַ/מִּדְבָּרָ/ה = Hd "the" + H4057 מִדְבָּר "a pasture (i.e. open field…" [HTd/Ncmsa/Sd]
+- o4: דֶּרֶךְ = H1870 דֶּרֶךְ "a road (as trodden)…" [HNcbsc]
+- o5: יַם = H3220 יָם "a sea (as breaking in noisy surf) or large body…" [HNcmsc]
+- o6: סוּף = H5488 סוּף "a reed, especially the papyrus" [HNcmsa]
+- o7: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o8: דִּבֶּר = H1696 דָבַר "perhaps properly, to arrange…" [HVpp3ms]
+- o9: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o10: אֵלָ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o11: וַ/נָּסָב = Hc "and" + H5437 סָבַב "to revolve, surround, or border…" [HC/Vqw1cs]
+- o12: אֶת = H853 אֵת "properly…" [HTo]
+- o13: הַר = H2022 הַר "a mountain or range of hills (sometimes used…" [HNcmsc]
+- o14: שֵׂעִיר = H8165 שֵׂעִיר "Seir…" [HNp]
+- o15: יָמִים = H3117 יוֹם "a day (as the warm hours)…" [HNcmpa]
+- o16: רַבִּים = H7227 רַב "abundant (in quantity, size, age, number, rank…" [HAampa]

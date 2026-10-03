@@ -639,3 +639,31 @@ Persian entries and current tags:
 - p23: اورشلیم  → H3389
 - p24: ساکنند  → H3427
 - p25: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Joshua 15:42 (context)
+
+- o1: לִבְנָה = H3841 לִבְנָה "Libnah, a place in the Desert and one in Palestine" [HNp]
+- o2: וָ/עֶתֶר = Hc "and" + H6281 עֶתֶר "Ether, a place in Palestine" [HC/Np]
+- o3: וְ/עָשָׁן = Hc "and" + H6228 עָשָׁן "Ashan, a place in Palestine" [HC/Np]
+
+### Joshua 16:1 (context)
+
+- o1: וַ/יֵּצֵא = Hc "and" + H3318 יָצָא "to go (causatively, bring) out…" [HC/Vqw3ms]
+- o2: הַ/גּוֹרָל = Hd "the" + H1486 גּוֹרָל "properly, a pebble…" [HTd/Ncmsa]
+- o3: לִ/בְנֵי = Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmpc]
+- o4: יוֹסֵף = H3130 יוֹסֵף "Joseph, the name of seven Israelites" [HNp]
+- o5: מִ/יַּרְדֵּן = Hm "from" + H3383 יַרְדֵּן "Jarden, the principal river of Palestine" [HR/Np]
+- o6: יְרִיחוֹ = H3405 יְרִיחוֹ "Jericho or Jerecho, a place in Palestine" [HNp]
+- o7: לְ/מֵי = Hl "to" + H4325 מַיִם "water; figuratively, juice…" [HR/Ncmpc]
+- o8: יְרִיחוֹ = H3405 יְרִיחוֹ "Jericho or Jerecho, a place in Palestine" [HNp]
+- o9: מִזְרָחָ/ה = H4217 מִזְרָח "sunrise, i.e. the east" [HNcmsa/Sd]
+- o10: הַ/מִּדְבָּר = Hd "the" + H4057 מִדְבָּר "a pasture (i.e. open field…" [HTd/Ncmsa]
+- o11: עֹלֶה = H5927 עָלָה "to ascend…" [HVqrmsa]
+- o12: מִ/ירִיחוֹ = Hm "from" + H3405 יְרִיחוֹ "Jericho or Jerecho, a place in Palestine" [HR/Np]
+- o13: בָּ/הָר = Hb "in" + H2022 הַר "a mountain or range of hills (sometimes used…" [HRd/Ncmsa]
+- o14: בֵּית = H1008 בֵּית־אֵל "Beth-El, a place in Palestine" [HNp]
+- o15: אֵל = H1008 בֵּית־אֵל "Beth-El, a place in Palestine" [HNp]

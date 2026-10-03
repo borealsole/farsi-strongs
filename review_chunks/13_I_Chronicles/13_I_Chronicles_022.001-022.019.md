@@ -1110,3 +1110,36 @@ Persian entries and current tags:
 - p41: بیاورید  → H935
 - p42: .
 - p43: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 21:30 (context)
+
+- o1: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o2: יָכֹל = H3201 יָכֹל "to be able, literally (can…" [HVqp3ms]
+- o3: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o4: לָ/לֶכֶת = Hl "to" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HR/Vqc]
+- o5: לְ/פָנָי/ו = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp3ms]
+- o6: לִ/דְרֹשׁ = Hl "to" + H1875 דָּרַשׁ "properly, to tread or frequent…" [HR/Vqc]
+- o7: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o8: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o9: נִבְעַת = H1204 בָּעַת "to fear" [HVNp3ms]
+- o10: מִ/פְּנֵי = Hm "from" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o11: חֶרֶב = H2719 חֶרֶב "drought…" [HNcfsc]
+- o12: מַלְאַךְ = H4397 מֲלְאָךְ "a messenger…" [HNcmsc]
+- o13: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### I Chronicles 23:1 (context)
+
+- o1: וְ/דָוִיד = Hc "and" + H1732 דָּוִד "David, the youngest son of Jesse" [HC/Np]
+- o2: זָקֵן = H2204 זָקֵן "to be old" [HVqp3ms]
+- o3: וְ/שָׂבַע = Hc "and" + H7646 שָׂבַע "to sate…" [HC/Vqp3ms]
+- o4: יָמִים = H3117 יוֹם "a day (as the warm hours)…" [HNcmpa]
+- o5: וַ/יַּמְלֵךְ = Hc "and" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HC/Vhw3ms]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o8: בְנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o9: עַל = H5921 עַל "above, over, upon…" [HR]
+- o10: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]

@@ -558,3 +558,28 @@ Persian entries and current tags:
 - p12: خداوند  → H3068
 - p13: است
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 21:16 (context)
+
+- o1: אָדָם = H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HNcmsa]
+- o2: תּוֹעֶה = H8582 תָּעָה "to vacillate…" [HVqrmsa]
+- o3: מִ/דֶּרֶךְ = Hm "from" + H1870 דֶּרֶךְ "a road (as trodden)…" [HR/Ncbsc]
+- o4: הַשְׂכֵּל = H7919 שָׂכַל "to be (causatively…" [HVha]
+- o5: בִּ/קְהַל = Hb "in" + H6951 קָהָל "assemblage (usually concretely)" [HR/Ncmsc]
+- o6: רְפָאִים = H7496 רָפָא "properly, lax…" [HNcmpa]
+- o7: יָנוּחַ = H5117 נוּחַ "to rest, i.e. settle down…" [HVqi3ms]
+
+### Proverbs 22:1 (context)
+
+- o1: נִבְחָר = H977 בָּחַר "properly, to try, i.e. (by implication) select" [HVNrmsa]
+- o2: שֵׁם = H8034 שֵׁם "an appellation…" [HNcmsa]
+- o3: מֵ/עֹשֶׁר = Hm "from" + H6239 עֹשֶׁר "wealth" [HR/Ncmsa]
+- o4: רָב = H7227 רַב "abundant (in quantity, size, age, number, rank…" [HAamsa]
+- o5: מִ/כֶּסֶף = Hm "from" + H3701 כֶּסֶף "silver (from its pale color)…" [HR/Ncmsa]
+- o6: וּ/מִ/זָּהָב = Hc "and" + Hm "from" + H2091 זָהָב "gold, figuratively…" [HC/R/Ncmsa]
+- o7: חֵן = H2580 חֵן "graciousness, i.e. subjective (kindness…" [HNcmsa]
+- o8: טוֹב = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAamsa]

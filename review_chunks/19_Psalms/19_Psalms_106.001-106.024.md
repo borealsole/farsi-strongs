@@ -850,3 +850,26 @@ Persian entries and current tags:
 - p11: ایمان  → H539
 - p12: نداشتند  → H3808
 - p13: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 105:45 (context)
+
+- o1: בַּ/עֲבוּר = Hb "in" + H5668 עָבוּר "properly, crossed, i.e. (abstractly) transit…" [HR/Ncmsc]
+- o2: יִשְׁמְרוּ = H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HVqi3mp]
+- o3: חֻקָּי/ו = H2706 חֹק "an enactment…" [HNcmpc/Sp3ms]
+- o4: וְ/תוֹרֹתָי/ו = Hc "and" + H8451 תּוֹרָה "a precept or statute…" [HC/Ncfpc/Sp3ms]
+- o5: יִנְצֹרוּ = H5341 נָצַר "to guard, in a good sense (to protect, maintain…" [HVqi3mp]
+- o6: הַלְלוּ = H1984 הָלַל "to be clear (orig. of sound…" [HVpv2mp]
+- o7: יָהּ = H3050 יָהּ "Jah, the sacred name" [HNp]
+
+### Psalms 106:25 (context)
+
+- o1: וַ/יֵּרָגְנוּ = Hc "and" + H7279 רָגַן "to grumble, i.e. rebel" [HC/VNw3mp]
+- o2: בְ/אָהֳלֵי/הֶם = Hb "in" + H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HR/Ncmpc/Sp3mp]
+- o3: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o4: שָׁמְעוּ = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqp3cp]
+- o5: בְּ/קוֹל = Hb "in" + H6963 קוֹל "a voice or sound" [HR/Ncmsc]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]

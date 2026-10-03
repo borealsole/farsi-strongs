@@ -1150,3 +1150,50 @@ Persian entries and current tags:
 - p27: چنین  → H3651
 - p28: کرد  → H6213
 - p29: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Judges 5:31 (context)
+
+- o1: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o2: יֹאבְדוּ = H6 אָבַד "properly, to wander away, i.e. lose oneself…" [HVqi3mp]
+- o3: כָל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o4: אוֹיְבֶי/ךָ = H341 אֹיֵב "hating; an adversary" [HVqrmpc/Sp2ms]
+- o5: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o6: וְ/אֹהֲבָי/ו = Hc "and" + H157 אָהַב "to have affection for (sexually or otherwise)" [HC/Vqrmpc/Sp3ms]
+- o7: כְּ/צֵאת = Hk "like" + H3318 יָצָא "to go (causatively, bring) out…" [HR/Vqc]
+- o8: הַ/שֶּׁמֶשׁ = Hd "the" + H8121 שֶׁמֶשׁ "the sun; by implication, the east…" [HTd/Ncbsa]
+- o9: בִּ/גְבֻרָת/וֹ = Hb "in" + H1369 גְּבוּרָה "force (literally or figuratively)…" [HR/Ncfsc/Sp3ms]
+- o10: וַ/תִּשְׁקֹט = Hc "and" + H8252 שָׁקַט "to repose (usually figurative)" [HC/Vqw3fs]
+- o11: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o12: אַרְבָּעִים = H705 אַרְבָּעִים "forty" [HAcbpa]
+- o13: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+
+### Judges 6:21 (context)
+
+- o1: וַ/יִּשְׁלַח = Hc "and" + H7971 שָׁלַח "to send away, for…" [HC/Vqw3ms]
+- o2: מַלְאַךְ = H4397 מֲלְאָךְ "a messenger…" [HNcmsc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: קְצֵה = H7097 קָצֶה "an extremity" [HNcbsc]
+- o6: הַ/מִּשְׁעֶנֶת = Hd "the" + H4938 מִשְׁעֵנָה "support (abstractly)…" [HTd/Ncfsa]
+- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o8: בְּ/יָד/וֹ = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc/Sp3ms]
+- o9: וַ/יִּגַּע = Hc "and" + H5060 נָגַע "properly, to touch…" [HC/Vqw3ms]
+- o10: בַּ/בָּשָׂר = Hb "in" + H1320 בָּשָׂר "flesh (from its freshness)…" [HRd/Ncmsa]
+- o11: וּ/בַ/מַּצּוֹת = Hc "and" + Hb "in" + H4682 מַצָּה "properly, sweetness…" [HC/Rd/Ncfpa]
+- o12: וַ/תַּעַל = Hc "and" + H5927 עָלָה "to ascend…" [HC/Vqw3fs]
+- o13: הָ/אֵשׁ = Hd "the" + H784 אֵשׁ "fire (literally or figuratively)" [HTd/Ncbsa]
+- o14: מִן = H4480 מִן "properly, a part of…" [HR]
+- o15: הַ/צּוּר = Hd "the" + H6697 צוּר "properly, a cliff (or sharp rock, as compressed)…" [HTd/Ncmsa]
+- o16: וַ/תֹּאכַל = Hc "and" + H398 אָכַל "to eat (literally or figuratively)" [HC/Vqw3fs]
+- o17: אֶת = H853 אֵת "properly…" [HTo]
+- o18: הַ/בָּשָׂר = Hd "the" + H1320 בָּשָׂר "flesh (from its freshness)…" [HTd/Ncmsa]
+- o19: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o20: הַ/מַּצּוֹת = Hd "the" + H4682 מַצָּה "properly, sweetness…" [HTd/Ncfpa]
+- o21: וּ/מַלְאַךְ = Hc "and" + H4397 מֲלְאָךְ "a messenger…" [HC/Ncmsc]
+- o22: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o23: הָלַךְ = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVqp3ms]
+- o24: מֵ/עֵינָי/ו = Hm "from" + H5869 עַיִן "an eye (literally or figuratively)…" [HR/Ncbpc/Sp3ms]

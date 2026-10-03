@@ -441,3 +441,30 @@ Persian entries and current tags:
 - p9: را
 - p10: متبارک می‌خوانم  → H1288
 - p11: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 25:22 (context)
+
+- o1: פְּדֵה = H6299 פָּדָה "to sever, i.e. ransom; gener. to release, preserve" [HVqv2ms]
+- o2: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o5: מִ/כֹּל = Hm "from" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o6: צָרוֹתָי/ו = H6869 צָרָה "tightness (i.e. figuratively, trouble)…" [HNcfpc/Sp3ms]
+
+### Psalms 27:1 (context)
+
+- o1: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אוֹרִ/י = H216 אוֹר "illumination or (concrete) luminary (in every…" [HNcbsc/Sp1cs]
+- o4: וְ/יִשְׁעִ/י = Hc "and" + H3468 יֶשַׁע "liberty, deliverance, prosperity" [HC/Ncmsc/Sp1cs]
+- o5: מִ/מִּי = Hm "from" + H4310 מִי "who? (occasionally, by a peculiar idiom…" [HR/Ti]
+- o6: אִירָא = H3372 יָרֵא "to fear; morally, to revere; caus. to frighten" [HVqi1cs]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: מָעוֹז = H4581 מָעוֹז "a fortified place; figuratively, a defence" [HNcmsc]
+- o9: חַיַּ/י = H2416 חַי "alive; hence, raw (flesh)…" [HNcmpc/Sp1cs]
+- o10: מִ/מִּי = Hm "from" + H4310 מִי "who? (occasionally, by a peculiar idiom…" [HR/Ti]
+- o11: אֶפְחָד = H6342 פָּחַד "to be startled (by a sudden alarm)…" [HVqi1cs]

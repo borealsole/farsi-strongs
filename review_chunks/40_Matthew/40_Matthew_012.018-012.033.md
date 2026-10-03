@@ -872,3 +872,39 @@ Persian entries and current tags:
 - p24: می‌توان
 - p25: شناخت  → G1097
 - p26: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 12:17 (context)
+
+- o1: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o2: πληρωθῇ = G4137 πληρόω "accomplish, after, (be) complete, end, expire…" [V-APS-3S]
+- o3: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o4: ῥηθὲν = G2046 ἐρέω "call, say, speak (of), tell" [V-APP-NSN]
+- o5: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o6: Ἡσαΐου = G2268 Ἡσαΐας "Esaias" [N-GSM]
+- o7: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o8: προφήτου = G4396 προφήτης "prophet" [N-GSM]
+- o9: λέγοντος· = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAP-GSM]
+
+### Matthew 12:34 (context)
+
+- o1: γεννήματα = G1081 γέννημα "fruit, generation" [N-VPN]
+- o2: ἐχιδνῶν, = G2191 ἔχιδνα "viper" [N-GPF]
+- o3: πῶς = G4459 πῶς "how, after (by) what manner (means), that" [ADV-I]
+- o4: δύνασθε = G1410 δύναμαι "be able, can (do, + -not), could, may, might…" [V-PNI-2P]
+- o5: ἀγαθὰ = G18 ἀγαθός "benefit, good(-s, things), well" [A-APN]
+- o6: λαλεῖν = G2980 λαλέω "preach, say, speak (after), talk, tell, utter" [V-PAN]
+- o7: πονηροὶ = G4190 πονηρός "bad, evil, grievous, harm, lewd, malicious…" [A-NPM]
+- o8: ὄντες; = G1510 εἰμί "am, have been, it is I, was" [V-PAP-NPM]
+- o9: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o10: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o11: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
+- o12: περισσεύματος = G4051 περίσσευμα "abundance, that was left, over and above" [N-GSN]
+- o13: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o14: καρδίας = G2588 καρδία "(+ broken-)heart(-ed)" [N-GSF]
+- o15: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o16: στόμα = G4750 στόμα "edge, face, mouth" [N-NSN]
+- o17: λαλεῖ. = G2980 λαλέω "preach, say, speak (after), talk, tell, utter" [V-PAI-3S]

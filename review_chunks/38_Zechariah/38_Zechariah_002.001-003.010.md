@@ -1205,3 +1205,54 @@ Persian entries and current tags:
 - p25: دعوت خواهید_کرد  → H7121
 - p26: .
 - p27: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Zechariah 1:21 (context)
+
+- o1: וָ/אֹמַר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw1cs]
+- o2: מָה = H4100 מָה "properly…" [HTi]
+- o3: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o4: בָאִים = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqrmpa]
+- o5: לַ/עֲשׂוֹת = Hl "to" + H6213 עָשָׂה "to do or make…" [HR/Vqc]
+- o6: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o7: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o8: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o9: הַ/קְּרָנוֹת = Hd "the" + H7161 קֶרֶן "a horn (as projecting)…" [HTd/Ncbpa]
+- o10: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o11: זֵרוּ = H2219 זָרָה "to toss about; by implication, to diffuse, winnow" [HVpp3cp]
+- o12: אֶת = H853 אֵת "properly…" [HTo]
+- o13: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o14: כְּ/פִי = Hk "like" + H6310 פֶּה "the mouth (as the means of blowing)…" [HR/Ncmsc]
+- o15: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o16: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o17: נָשָׂא = H5375 נָשָׂא "to lift, in a great variety of applications…" [HVqp3ms]
+- o18: רֹאשׁ/וֹ = H7218 רֹאשׁ "the head (as most easily shaken)…" [HNcmsc/Sp3ms]
+- o19: וַ/יָּבֹאוּ = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3mp]
+- o20: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o21: לְ/הַחֲרִיד = Hl "to" + H2729 חָרַד "to shudder with terror; hence, to fear…" [HR/Vhc]
+- o22: אֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o23: לְ/יַדּוֹת = Hl "to" + H3034 יָדָה "physically, to throw (a stone…" [HR/Vpc]
+- o24: אֶת = H853 אֵת "properly…" [HTo]
+- o25: קַרְנוֹת = H7161 קֶרֶן "a horn (as projecting)…" [HNcbpc]
+- o26: הַ/גּוֹיִם = Hd "the" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HTd/Ncmpa]
+- o27: הַ/נֹּשְׂאִים = Hd "the" + H5375 נָשָׂא "to lift, in a great variety of applications…" [HTd/Vqrmpa]
+- o28: קֶרֶן = H7161 קֶרֶן "a horn (as projecting)…" [HNcbsa]
+- o29: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o30: אֶרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsc]
+- o31: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o32: לְ/זָרוֹתָ/הּ = Hl "to" + H2219 זָרָה "to toss about; by implication, to diffuse, winnow" [HR/Vpc/Sp3fs]
+
+### Zechariah 4:1 (context)
+
+- o1: וַ/יָּשָׁב = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqw3ms]
+- o2: הַ/מַּלְאָךְ = Hd "the" + H4397 מֲלְאָךְ "a messenger…" [HTd/Ncmsa]
+- o3: הַ/דֹּבֵר = Hd "the" + H1696 דָבַר "perhaps properly, to arrange…" [HTd/Vqrmsa]
+- o4: בִּ/י = Hb "in" [HR/Sp1cs]
+- o5: וַ/יְעִירֵ/נִי = Hc "and" + H5782 עוּר "to wake (literally or figuratively)" [HC/Vhw3ms/Sp1cs]
+- o6: כְּ/אִישׁ = Hk "like" + H376 אִישׁ "a man as an individual or a male person…" [HR/Ncmsa]
+- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o8: יֵעוֹר = H5782 עוּר "to wake (literally or figuratively)" [HVNi3ms]
+- o9: מִ/שְּׁנָת/וֹ = Hm "from" + H8142 שֵׁנָה "sleep" [HR/Ncfsc/Sp3ms]

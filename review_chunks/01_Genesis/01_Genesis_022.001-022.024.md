@@ -1259,3 +1259,31 @@ Persian entries and current tags:
 - p19: و  → Hc
 - p20: مَعَکاه  → H4601
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 21:34 (context)
+
+- o1: וַ/יָּגָר = Hc "and" + H1481 גּוּר "properly…" [HC/Vqw3ms]
+- o2: אַבְרָהָם = H85 אַבְרָהָם "Abraham, the later name of Abram" [HNp]
+- o3: בְּ/אֶרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o4: פְּלִשְׁתִּים = H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HNgmpa]
+- o5: יָמִים = H3117 יוֹם "a day (as the warm hours)…" [HNcmpa]
+- o6: רַבִּים = H7227 רַב "abundant (in quantity, size, age, number, rank…" [HAampa]
+
+### Genesis 23:1 (context)
+
+- o1: וַ/יִּהְיוּ = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3mp]
+- o2: חַיֵּי = H2416 חַי "alive; hence, raw (flesh)…" [HNcmpc]
+- o3: שָׂרָה = H8283 שָׂרָה "Sarah, Abraham's wife" [HNp]
+- o4: מֵאָה = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbsa]
+- o5: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o6: וְ/עֶשְׂרִים = Hc "and" + H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HC/Acbpa]
+- o7: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o8: וְ/שֶׁבַע = Hc "and" + H7651 שֶׁבַע "seven (as the sacred full one)…" [HC/Acfsa]
+- o9: שָׁנִים = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfpa]
+- o10: שְׁנֵי = H8141 שָׁנֶה "a year (as a revolution of time)" [HAcmdc]
+- o11: חַיֵּי = H2416 חַי "alive; hence, raw (flesh)…" [HNcmpc]
+- o12: שָׂרָה = H8283 שָׂרָה "Sarah, Abraham's wife" [HNp]

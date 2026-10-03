@@ -929,3 +929,37 @@ Persian entries and current tags:
 - p14: توست
 - p15: !
 - p16: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 85:13 (context)
+
+- o1: צֶדֶק = H6664 צֶדֶק "the right (natural, moral or legal)…" [HNcmsa]
+- o2: לְ/פָנָי/ו = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp3ms]
+- o3: יְהַלֵּךְ = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVpi3ms]
+- o4: וְ/יָשֵׂם = Hc "and" + H7760 שׂוּם "to put (used in a great variety of applications…" [HC/Vqi3ms]
+- o5: לְ/דֶרֶךְ = Hl "to" + H1870 דֶּרֶךְ "a road (as trodden)…" [HR/Ncbsc]
+- o6: פְּעָמָי/ו = H6471 פַּעַם "a stroke…" [HNcfpc/Sp3ms]
+
+### Psalms 88:1 (context)
+
+- o1: שִׁיר = H7892 שִׁיר "a song; abstractly, singing" [HNcbsa]
+- o2: מִזְמוֹר = H4210 מִזְמוֹר "properly, instrumental music…" [HNcmsa]
+- o3: לִ/בְנֵי = Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmpc]
+- o4: קֹרַח = H7141 קֹרַח "Korach…" [HNp]
+- o5: לַ/מְנַצֵּחַ = Hl "to" + H5329 נָצַח "properly, to glitter from afar…" [HRd/Vprmsa]
+- o6: עַל = H5921 עַל "above, over, upon…" [HR]
+- o7: מָחֲלַת = H4257 מַחֲלַת "'Machalath'…" [HNcfsa]
+- o8: לְ/עַנּוֹת = Hl "to" + H6031 עָנָה "to depress literally or figuratively…" [HC/Vpa]
+- o9: מַשְׂכִּיל = H4905 מַשְׂכִּיל "instructive, i.e. a didactic poem" [HNcmsa]
+- o10: לְ/הֵימָן = Hl "to" + H1968 הֵימָן "Heman, the name of at least two Israelites" [HR/Np]
+- o11: הָ/אֶזְרָחִי = Hd "the" + H250 אֶזְרָחִי "an Ezrachite or descendant of Zerach" [HTd/Ngmsa]
+- o12: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o13: אֱלֹהֵי = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc]
+- o14: יְשׁוּעָתִ/י = H3444 יְשׁוּעָה "something saved, i.e. (abstractly) deliverance…" [HNcfsc/Sp1cs]
+- o15: יוֹם = H3117 יוֹם "a day (as the warm hours)…" [HNcmsa]
+- o16: צָעַקְתִּי = H6817 צָעַק "to shriek…" [HVqp1cs]
+- o17: בַ/לַּיְלָה = Hb "in" + H3915 לַיִל "properly, a twist (away of the light), i.e. night…" [HRd/Ncmsa]
+- o18: נֶגְדֶּ/ךָ = H5048 נֶגֶד "a front, i.e. part opposite…" [HR/Sp2ms]

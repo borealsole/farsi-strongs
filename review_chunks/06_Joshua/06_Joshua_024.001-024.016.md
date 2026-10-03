@@ -1035,3 +1035,69 @@ Persian entries and current tags:
 - p18: را  → H853
 - p19: عبادت کنیم  → H5800 H5647
 - p20: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Joshua 23:16 (context)
+
+- o1: בְּ/עָבְרְ/כֶם = Hb "in" + H5674 עָבַר "to cross over…" [HR/Vqc/Sp2mp]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: בְּרִית = H1285 בְּרִית "a compact (because made by passing between pieces…" [HNcfsc]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: אֱלֹהֵי/כֶם = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2mp]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: צִוָּה = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp3ms]
+- o8: אֶתְ/כֶם = H853 אֵת "properly…" [HTo/Sp2mp]
+- o9: וַ/הֲלַכְתֶּם = Hc "and" + H1980 הָלַךְ "to walk (in a great variety of applications…" [HC/Vqq2mp]
+- o10: וַ/עֲבַדְתֶּם = Hc "and" + H5647 עָבַד "to work (in any sense)…" [HC/Vqq2mp]
+- o11: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o12: אֲחֵרִים = H312 אַחֵר "properly, hinder; generally, next, other, etc" [HAampa]
+- o13: וְ/הִשְׁתַּחֲוִיתֶם = Hc "and" + H7812 שָׁחָה "to depress, i.e. prostrate (especially reflexive…" [HC/Vvq2mp]
+- o14: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o15: וְ/חָרָה = Hc "and" + H2734 חָרָה "to glow or grow warm…" [HC/Vqq3ms]
+- o16: אַף = H639 אַף "properly, the nose or nostril…" [HTa]
+- o17: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o18: בָּ/כֶם = Hb "in" [HR/Sp2mp]
+- o19: וַ/אֲבַדְתֶּם = Hc "and" + H6 אָבַד "properly, to wander away, i.e. lose oneself…" [HC/Vqq2mp]
+- o20: מְהֵרָה = H4120 מְהֵרָה "properly, a hurry; hence (adverbially) promptly" [HNcfsa]
+- o21: מֵ/עַל = Hm "from" + H5921 עַל "above, over, upon…" [HR/R]
+- o22: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o23: הַ/טּוֹבָה = Hd "the" + H2896 טוֹב "good (as an adjective) in the widest sense…" [HTd/Aafsa]
+- o24: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o25: נָתַן = H5414 נָתַן "to give…" [HVqp3ms]
+- o26: לָ/כֶם = Hl "to" [HR/Sp2mp]
+
+### Joshua 24:17 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֱלֹהֵי/נוּ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp1cp]
+- o4: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o5: הַ/מַּעֲלֶה = Hd "the" + H5927 עָלָה "to ascend…" [HTd/Vhrmsa]
+- o6: אֹתָ/נוּ = H853 אֵת "properly…" [HTo/Sp1cp]
+- o7: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o8: אֲבוֹתֵי/נוּ = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp1cp]
+- o9: מֵ/אֶרֶץ = Hm "from" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o10: מִצְרַיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o11: מִ/בֵּית = Hm "from" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc]
+- o12: עֲבָדִים = H5650 עֶבֶד "a servant" [HNcmpa]
+- o13: וַ/אֲשֶׁר = Hc "and" + H834 אֲשֶׁר "who, which, what, that…" [HC/Tr]
+- o14: עָשָׂה = H6213 עָשָׂה "to do or make…" [HVqp3ms]
+- o15: לְ/עֵינֵי/נוּ = Hl "to" + H5869 עַיִן "an eye (literally or figuratively)…" [HR/Ncbdc/Sp1cp]
+- o16: אֶת = H853 אֵת "properly…" [HTo]
+- o17: הָ/אֹתוֹת = Hd "the" + H226 אוֹת "a signal (literally or figuratively), as aflag…" [HTd/Ncbpa]
+- o18: הַ/גְּדֹלוֹת = Hd "the" + H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HTd/Aafpa]
+- o19: הָ/אֵלֶּה = Hd "the" + H428 אֵלֶּה "these or those" [HTd/Pdxcp]
+- o20: וַ/יִּשְׁמְרֵ/נוּ = Hc "and" + H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HC/Vqw3ms/Sp1cp]
+- o21: בְּ/כָל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o22: הַ/דֶּרֶךְ = Hd "the" + H1870 דֶּרֶךְ "a road (as trodden)…" [HTd/Ncbsa]
+- o23: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o24: הָלַכְנוּ = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVqp1cp]
+- o25: בָ/הּ = Hb "in" [HR/Sp3fs]
+- o26: וּ/בְ/כֹל = Hc "and" + Hb "in" + H3605 כֹּל "properly, the whole…" [HC/R/Ncmsc]
+- o27: הָ/עַמִּים = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmpa]
+- o28: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o29: עָבַרְנוּ = H5674 עָבַר "to cross over…" [HVqp1cp]
+- o30: בְּ/קִרְבָּ/ם = Hb "in" + H7130 קֶרֶב "properly, the nearest part, i.e. the center…" [HR/Ncmsc/Sp3mp]

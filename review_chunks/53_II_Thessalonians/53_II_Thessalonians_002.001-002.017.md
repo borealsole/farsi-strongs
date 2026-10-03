@@ -905,3 +905,55 @@ Persian entries and current tags:
 - p11: نیکو  → G18
 - p12: استوار گرداند  → G4741
 - p13: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Thessalonians 1:12 (context)
+
+- o1: ὅπως = G3704 ὅπως "because, how, (so) that, to, when" [ADV]
+- o2: ἐνδοξασθῇ = G1740 ἐνδοξάζω "glorify" [V-APS-3S]
+- o3: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o4: ὄνομα = G3686 ὄνομα "called, (+ sur-)name(-d)" [N-NSN]
+- o5: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o6: κυρίου = G2962 κύριος "God, Lord, master, Sir" [N-GSM]
+- o7: ἡμῶν = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+- o8: Ἰησοῦ = G2424 Ἰησοῦς "Jesus" [N-GSM]
+- o9: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o10: ὑμῖν, = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
+- o11: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o12: ὑμεῖς = G5210 ὑμεῖς "ye (yourselves), you" [P-2NP]
+- o13: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o14: αὐτῷ, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
+- o15: κατὰ = G2596 κατά "about, according as (to), after, against…" [PREP]
+- o16: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o17: χάριν = G5485 χάρις "acceptable, benefit, favour, gift, grace(- ious)…" [N-ASF]
+- o18: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o19: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o20: ἡμῶν = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+- o21: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o22: κυρίου = G2962 κύριος "God, Lord, master, Sir" [N-GSM]
+- o23: Ἰησοῦ = G2424 Ἰησοῦς "Jesus" [N-GSM]
+- o24: Χριστοῦ. = G5547 Χριστός "Christ" [N-GSM]
+
+### II Thessalonians 3:1 (context)
+
+- o1: Τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o2: λοιπὸν = G3062 λοιποί "other, which remain, remnant, residue, rest" [A-ASN]
+- o3: προσεύχεσθε, = G4336 προσεύχομαι "pray ( earnestly, for), make prayer" [V-PNM-2P]
+- o4: ἀδελφοί, = G80 ἀδελφός "brother" [N-VPM]
+- o5: περὶ = G4012 περί "there-)about, above, against, at, on behalf of…" [PREP]
+- o6: ἡμῶν, = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+- o7: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o8: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o9: λόγος = G3056 λόγος "account, cause, communication, concerning…" [N-NSM]
+- o10: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o11: κυρίου = G2962 κύριος "God, Lord, master, Sir" [N-GSM]
+- o12: τρέχῃ = G5143 τρέχω "have course, run" [V-PAS-3S]
+- o13: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o14: δοξάζηται = G1392 δοξάζω "make) glorify(-ious), full of (have) glory…" [V-PPS-3S]
+- o15: καθὼς = G2531 καθώς "according to, (according, even) as, how, when" [ADV]
+- o16: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o17: πρὸς = G4314 πρός "about, according to , against, among, at…" [PREP]
+- o18: ὑμᾶς, = G5210 ὑμεῖς "ye (yourselves), you" [P-2AP]

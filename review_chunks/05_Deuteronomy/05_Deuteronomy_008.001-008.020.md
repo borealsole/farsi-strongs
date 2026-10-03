@@ -1088,3 +1088,45 @@ Persian entries and current tags:
 - p24: ،
 - p25: هلاک خواهید_شد  → H6
 - p26: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 7:26 (context)
+
+- o1: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o2: תָבִיא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVhi2ms]
+- o3: תוֹעֵבָה = H8441 תּוֹעֵבַה "properly, something disgusting (morally)…" [HNcfsa]
+- o4: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o5: בֵּיתֶ/ךָ = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc/Sp2ms]
+- o6: וְ/הָיִיתָ = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq2ms]
+- o7: חֵרֶם = H2764 חֵרֶם "physical (as shutting in) a net (either literally…" [HNcmsa]
+- o8: כָּמֹ/הוּ = H3644 כְּמוֹ "a form of the prefix 'k-', but used separately as…" [HR/Sp3ms]
+- o9: שַׁקֵּץ = H8262 שָׁקַץ "to be filthy, i.e. (intensively) to loathe…" [HVpa]
+- o10: תְּשַׁקְּצֶ/נּוּ = H8262 שָׁקַץ "to be filthy, i.e. (intensively) to loathe…" [HVpi2ms/Sp3ms]
+- o11: וְ/תַעֵב = Hc "and" + H8581 תַּעָב "to loathe, i.e. (morally) detest" [HC/Vpa]
+- o12: תְּתַעֲבֶ/נּוּ = H8581 תַּעָב "to loathe, i.e. (morally) detest" [HVpi2ms/Sp3ms]
+- o13: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o14: חֵרֶם = H2764 חֵרֶם "physical (as shutting in) a net (either literally…" [HNcmsa]
+- o15: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+
+### Deuteronomy 9:1 (context)
+
+- o1: שְׁמַע = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqv2ms]
+- o2: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o3: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o4: עֹבֵר = H5674 עָבַר "to cross over…" [HVqrmsa]
+- o5: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: הַ/יַּרְדֵּן = Hd "the" + H3383 יַרְדֵּן "Jarden, the principal river of Palestine" [HTd/Np]
+- o8: לָ/בֹא = Hl "to" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HR/Vqc]
+- o9: לָ/רֶשֶׁת = Hl "to" + H3423 יָרַשׁ "to occupy (by driving out previous tenants…" [HR/Vqc]
+- o10: גּוֹיִם = H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HNcmpa]
+- o11: גְּדֹלִים = H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HAampa]
+- o12: וַ/עֲצֻמִים = Hc "and" + H6099 עָצוּם "powerful (specifically, a paw)…" [HC/Aampa]
+- o13: מִמֶּ/ךָּ = H4480 מִן "properly, a part of…" [HR/Sp2ms]
+- o14: עָרִים = H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HNcfpa]
+- o15: גְּדֹלֹת = H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HAafpa]
+- o16: וּ/בְצֻרֹת = Hc "and" + H1219 בָּצַר "to gather grapes…" [HC/Aafpa]
+- o17: בַּ/שָּׁמָיִם = Hb "in" + H8064 שָׁמַיִם "the sky (as aloft…" [HRd/Ncmpa]

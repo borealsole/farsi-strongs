@@ -944,3 +944,42 @@ Persian entries and current tags:
 - p6: است
 - p7: .
 - p8: )
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 16:18 (context)
+
+- o1: וַ/יָּמֹדּוּ = Hc "and" + H4058 מָדַד "properly, to stretch…" [HC/Vqw3mp]
+- o2: בָ/עֹמֶר = Hb "in" + H6016 עֹמֶר "properly, a heap, i.e. a sheaf…" [HR/Ncmsa]
+- o3: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o4: הֶעְדִּיף = H5736 עֲדַף "to be (causatively, have) redundant" [HVhp3ms]
+- o5: הַ/מַּרְבֶּה = Hd "the" + H7235 רָבָה "to increase (in whatever respect)" [HTd/Vhrmsa]
+- o6: וְ/הַ/מַּמְעִיט = Hc "and" + Hd "the" + H4591 מָעַט "properly, to pare off, i.e. lessen…" [HC/Td/Vhrmsa]
+- o7: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o8: הֶחְסִיר = H2637 חָסֵר "to lack; by implication, to fail, want, lessen" [HVhp3ms]
+- o9: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o10: לְ/פִי = Hl "to" + H6310 פֶּה "the mouth (as the means of blowing)…" [HR/Ncmsc]
+- o11: אָכְל/וֹ = H400 אֹכֶל "food" [HNcmsc/Sp3ms]
+- o12: לָקָטוּ = H3950 לָקַט "properly, to pick up, i.e. (generally) to gather…" [HVqp3cp]
+
+### Exodus 17:1 (context)
+
+- o1: וַ/יִּסְעוּ = Hc "and" + H5265 נָסַע "properly, to pull up, especially the tent-pins…" [HC/Vqw3mp]
+- o2: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: עֲדַת = H5712 עֵדָה "a stated assemblage (specifically, a concourse…" [HNcfsc]
+- o4: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o5: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o6: מִ/מִּדְבַּר = Hm "from" + H4057 מִדְבָּר "a pasture (i.e. open field…" [HR/Ncmsc]
+- o7: סִין = H5512 סִין "Sin the name of an Egyptian town and (probably)…" [HNp]
+- o8: לְ/מַסְעֵי/הֶם = Hl "to" + H4550 מַסַּע "a departure (from striking the tents)…" [HR/Ncmpc/Sp3mp]
+- o9: עַל = H5921 עַל "above, over, upon…" [HR]
+- o10: פִּי = H6310 פֶּה "the mouth (as the means of blowing)…" [HNcmsc]
+- o11: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o12: וַ/יַּחֲנוּ = Hc "and" + H2583 חָנָה "properly, to incline…" [HC/Vqw3mp]
+- o13: בִּ/רְפִידִים = Hb "in" + H7508 רְפִידִים "Rephidim, a place in the Desert" [HR/Np]
+- o14: וְ/אֵין = Hc "and" + H369 אַיִן "a non-entity…" [HC/Tn]
+- o15: מַיִם = H4325 מַיִם "water; figuratively, juice…" [HNcmpa]
+- o16: לִ/שְׁתֹּת = Hl "to" + H8354 שָׁתָה "to imbibe (literally or figuratively)" [HR/Vqc]
+- o17: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]

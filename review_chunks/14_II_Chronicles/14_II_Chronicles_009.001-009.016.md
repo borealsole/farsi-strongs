@@ -953,3 +953,46 @@ Persian entries and current tags:
 - p25: لبنان‘  → H3844
 - p26: گذاشت  → H5414
 - p27: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 8:18 (context)
+
+- o1: וַ/יִּשְׁלַח = Hc "and" + H7971 שָׁלַח "to send away, for…" [HC/Vqw3ms]
+- o2: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o3: חוּרָם = H2361 חוּרָם "Churam, the name of an Israelite and two Syrians" [HNp]
+- o4: בְּ/יַד = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o5: עֲבָדָי/ו = H5650 עֶבֶד "a servant" [HNcmpc/Sp3ms]
+- o6: אוניות = H591 אֳנִיָּה "a ship" [HNcfpa]
+- o7: וַ/עֲבָדִים = Hc "and" + H5650 עֶבֶד "a servant" [HC/Ncmpa]
+- o8: יוֹדְעֵי = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqrmpc]
+- o9: יָם = H3220 יָם "a sea (as breaking in noisy surf) or large body…" [HNcmsa]
+- o10: וַ/יָּבֹאוּ = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3mp]
+- o11: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o12: עַבְדֵי = H5650 עֶבֶד "a servant" [HNcmpc]
+- o13: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o14: אוֹפִירָ/ה = H211 אוֹפִיר "Ophir, the name of a son of Joktan…" [HNp/Sd]
+- o15: וַ/יִּקְחוּ = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqw3mp]
+- o16: מִ/שָּׁם = Hm "from" + H8033 שָׁם "there (transferring to time) then…" [HR/D]
+- o17: אַרְבַּע = H702 אַרְבַּע "four" [HAcfsa]
+- o18: מֵאוֹת = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbpa]
+- o19: וַ/חֲמִשִּׁים = Hc "and" + H2572 חֲמִשִּׁים "fifty" [HC/Acbpa]
+- o20: כִּכַּר = H3603 כִּכָּר "a circle…" [HNcbsc]
+- o21: זָהָב = H2091 זָהָב "gold, figuratively…" [HNcmsa]
+- o22: וַ/יָּבִיאוּ = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vhw3mp]
+- o23: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o24: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o25: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+
+### II Chronicles 9:17 (context)
+
+- o1: וַ/יַּעַשׂ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3ms]
+- o2: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o3: כִּסֵּא = H3678 כִּסֵּא "properly, covered, i.e. a throne (as canopied)" [HNcmsa]
+- o4: שֵׁן = H8127 שֵׁן "a tooth (as sharp); specifically ivory…" [HNcbsa]
+- o5: גָּדוֹל = H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HAamsa]
+- o6: וַ/יְצַפֵּ/הוּ = Hc "and" + H6823 צָפָה "to sheet over (especially with metal)" [HC/Vpw3ms/Sp3ms]
+- o7: זָהָב = H2091 זָהָב "gold, figuratively…" [HNcmsa]
+- o8: טָהוֹר = H2889 טָהוֹר "pure (in a physical, chemical…" [HAamsa]

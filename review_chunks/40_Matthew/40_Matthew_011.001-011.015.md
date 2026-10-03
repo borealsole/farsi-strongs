@@ -700,3 +700,53 @@ Persian entries and current tags:
 - p6: ،
 - p7: بشنود  → G191
 - p8: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 10:42 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ὃς = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-NSM]
+- o3: ἐὰν = G1437 ἐάν "before, but, except, (and) if, (if) so, (what-…" [COND]
+- o4: ποτίσῃ = G4222 ποτίζω "give (make) to drink, feed, water" [V-AAS-3S]
+- o5: ἕνα = G1520 εἷς "a(-n, -ny, certain), + abundantly, man…" [A-ASM]
+- o6: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o7: μικρῶν = G3398 μικρός "least, less, little, small" [A-GPM]
+- o8: τούτων = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-GPM]
+- o9: ποτήριον = G4221 ποτήριον "cup" [N-ASN]
+- o10: ψυχροῦ = G5593 ψυχρός "cold" [A-GSN]
+- o11: μόνον = G3440 μόνον "alone, but, only" [ADV]
+- o12: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o13: ὄνομα = G3686 ὄνομα "called, (+ sur-)name(-d)" [N-ASN]
+- o14: μαθητοῦ, = G3101 μαθητής "disciple" [N-GSM]
+- o15: ἀμὴν = G281 ἀμήν "amen, verily" [HEB]
+- o16: λέγω = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-1S]
+- o17: ὑμῖν, = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
+- o18: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o19: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o20: ἀπολέσῃ = G622 ἀπόλλυμι "destroy, die, lose, mar, perish" [V-AAS-3S]
+- o21: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o22: μισθὸν = G3408 μισθός "hire, reward, wages" [N-ASM]
+- o23: αὐτοῦ. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+
+### Matthew 11:16 (context)
+
+- o1: Τίνι = G5101 τίς "every man, how (much), + no(-ne, thing)…" [I-DSN]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: ὁμοιώσω = G3666 ὁμοιόω "be (make) like, (in the) liken(-ess), resemble" [V-FAI-1S]
+- o4: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o5: γενεὰν = G1074 γενεά "age, generation, nation, time" [N-ASF]
+- o6: ταύτην; = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-ASF]
+- o7: ὁμοία = G3664 ὅμοιος "like, + manner" [A-NSF]
+- o8: ἐστὶν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o9: παιδίοις = G3813 παιδίον "(little, young) child, damsel" [N-DPN]
+- o10: καθημένοις = G2521 κάθημαι "dwell, sit (by, down)" [V-PNP-DPN]
+- o11: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o12: ταῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPF]
+- o13: ἀγοραῖς = G58 ἀγορά "market(-place), street" [N-DPF]
+- o14: ἃ = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-NPN]
+- o15: προσφωνοῦντα = G4377 προσφωνέω "call unto, speak (un-)to" [V-PAP-NPN]
+- o16: τοῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPN]
+- o17: ἑτέροις = G2087 ἕτερος "altered, else, next (day), one, (an-)other, some…" [A-DPN]

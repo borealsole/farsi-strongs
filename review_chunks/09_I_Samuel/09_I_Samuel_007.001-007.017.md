@@ -983,3 +983,38 @@ Persian entries and current tags:
 - p23: خداوند  → H3068
 - p24: ساخت  → H1129
 - p25: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 6:21 (context)
+
+- o1: וַ/יִּשְׁלְחוּ = Hc "and" + H7971 שָׁלַח "to send away, for…" [HC/Vqw3mp]
+- o2: מַלְאָכִים = H4397 מֲלְאָךְ "a messenger…" [HNcmpa]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: יוֹשְׁבֵי = H3427 יָשַׁב "properly…" [HVqrmpc]
+- o5: קִרְיַת = H7157 קִרְיַת יְעָרִים "Kirjath-Jearim or Kirjath-Arim…" [HNp]
+- o6: יְעָרִים = H7157 קִרְיַת יְעָרִים "Kirjath-Jearim or Kirjath-Arim…" [HNp]
+- o7: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o8: הֵשִׁבוּ = H7725 שׁוּב "to turn back (hence…" [HVhp3cp]
+- o9: פְלִשְׁתִּים = H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HNgmpa]
+- o10: אֶת = H853 אֵת "properly…" [HTo]
+- o11: אֲרוֹן = H727 אָרוֹן "a box" [HNcbsc]
+- o12: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o13: רְדוּ = H3381 יָרַד "to descend (literally, to go downwards…" [HVqv2mp]
+- o14: הַעֲלוּ = H5927 עָלָה "to ascend…" [HVhv2mp]
+- o15: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o16: אֲלֵי/כֶם = H413 אֵל "near, with or among; often in general, to" [HR/Sp2mp]
+
+### I Samuel 8:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o3: זָקֵן = H2204 זָקֵן "to be old" [HVqp3ms]
+- o4: שְׁמוּאֵל = H8050 שְׁמוּאֵל "Shemuel, the name of three Israelites" [HNp]
+- o5: וַ/יָּשֶׂם = Hc "and" + H7760 שׂוּם "to put (used in a great variety of applications…" [HC/Vqw3ms]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: בָּנָי/ו = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc/Sp3ms]
+- o8: שֹׁפְטִים = H8199 שָׁפַט "to judge…" [HVqrmpa]
+- o9: לְ/יִשְׂרָאֵל = Hl "to" + H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HR/Np]

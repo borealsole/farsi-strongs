@@ -788,3 +788,33 @@ Persian entries and current tags:
 - p20: لنگ  → H6455
 - p21: بود
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 8:18 (context)
+
+- o1: וּ/בְנָיָהוּ = Hc "and" + H1141 בְּנָיָה "Benajah, the name of twelve Israelites" [HC/Np]
+- o2: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o3: יְהוֹיָדָע = H3077 יְהוֹיָדָע "Jehojada, the name of three Israelites" [HNp]
+- o4: וְ/הַ/כְּרֵתִי = Hc "and" + Hd "the" + H3774 כְּרֵתִי "a Kerethite or life-guardsman" [HC/Td/Ngmsa]
+- o5: וְ/הַ/פְּלֵתִי = Hc "and" + Hd "the" + H6432 פְּלֵתִי "a courier (collectively) or official messenger" [HC/Td/Ngmsa]
+- o6: וּ/בְנֵי = Hc "and" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/Ncmpc]
+- o7: דָוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o8: כֹּהֲנִים = H3548 כֹּהֵן "literally one officiating, a priest…" [HNcmpa]
+- o9: הָיוּ = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3cp]
+
+### II Samuel 10:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: אַחֲרֵי = H310 אַחַר "properly, the hind part…" [HR]
+- o3: כֵן = H3651 כֵּן "properly, set upright…" [HD]
+- o4: וַ/יָּמָת = Hc "and" + H4191 מוּת "to die (literally or figuratively)…" [HC/Vqw3ms]
+- o5: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o6: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o7: עַמּוֹן = H5983 עַמּוֹן "Ammon, a son of Lot…" [HNp]
+- o8: וַ/יִּמְלֹךְ = Hc "and" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HC/Vqw3ms]
+- o9: חָנוּן = H2586 חָנוּן "Chanun…" [HNp]
+- o10: בְּנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o11: תַּחְתָּי/ו = H8478 תַּחַת "the bottom (as depressed)…" [HR/Sp3ms]

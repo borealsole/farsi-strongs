@@ -726,3 +726,41 @@ Persian entries and current tags:
 - p32: برای دفن‌شدن  → H6913
 - p33: داشته_باشد  → H272
 - p34: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 49:33 (context)
+
+- o1: וַ/יְכַל = Hc "and" + H3615 כָּלָה "to end, whether intransitive (to cease…" [HC/Vpw3ms]
+- o2: יַעֲקֹב = H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HNp]
+- o3: לְ/צַוֺּת = Hl "to" + H6680 צָוָה "(intensively) to constitute, enjoin" [HR/Vpc]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: בָּנָי/ו = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc/Sp3ms]
+- o6: וַ/יֶּאֱסֹף = Hc "and" + H622 אָסַף "to gather for any purpose…" [HC/Vqw3ms]
+- o7: רַגְלָי/ו = H7272 רֶגֶל "a foot (as used in walking)…" [HNcfdc/Sp3ms]
+- o8: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o9: הַ/מִּטָּה = Hd "the" + H4296 מִטָּה "a bed (as extended) forsleeping or eating…" [HTd/Ncfsa]
+- o10: וַ/יִּגְוַע = Hc "and" + H1478 גָּוַע "to breathe out, i.e. (by implication) expire" [HC/Vqw3ms]
+- o11: וַ/יֵּאָסֶף = Hc "and" + H622 אָסַף "to gather for any purpose…" [HC/VNw3ms]
+- o12: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o13: עַמָּי/ו = H5971 עַם "a people (as a congregated unit)…" [HNcmpc/Sp3ms]
+
+### Genesis 50:14 (context)
+
+- o1: וַ/יָּשָׁב = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqw3ms]
+- o2: יוֹסֵף = H3130 יוֹסֵף "Joseph, the name of seven Israelites" [HNp]
+- o3: מִצְרַיְמָ/ה = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp/Sd]
+- o4: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o5: וְ/אֶחָי/ו = Hc "and" + H251 אָח "a brother (used in the widest sense of literal…" [HC/Ncmpc/Sp3ms]
+- o6: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o7: הָ/עֹלִים = Hd "the" + H5927 עָלָה "to ascend…" [HTd/Vqrmpa]
+- o8: אִתּ/וֹ = H854 אֵת "properly…" [HR/Sp3ms]
+- o9: לִ/קְבֹּר = Hl "to" + H6912 קָבַר "to inter" [HR/Vqc]
+- o10: אֶת = H853 אֵת "properly…" [HTo]
+- o11: אָבִי/ו = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp3ms]
+- o12: אַחֲרֵי = H310 אַחַר "properly, the hind part…" [HR]
+- o13: קָבְר/וֹ = H6912 קָבַר "to inter" [HVqc/Sp3ms]
+- o14: אֶת = H853 אֵת "properly…" [HTo]
+- o15: אָבִי/ו = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp3ms]

@@ -846,3 +846,53 @@ Persian entries and current tags:
 - p9: .
 - p10: آمین  → G281
 - p11: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Romans 15:16 (context)
+
+- o1: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o2: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o3: εἶναί = G1510 εἰμί "am, have been, it is I, was" [V-PAN]
+- o4: με = G1473 ἐγώ "I, me" [P-1AS]
+- o5: λειτουργὸν = G3011 λειτουργός "minister(-ed)" [N-ASM]
+- o6: Χριστοῦ = G5547 Χριστός "Christ" [N-GSM]
+- o7: Ἰησοῦ = G2424 Ἰησοῦς "Jesus" [N-GSM]
+- o8: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o9: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
+- o10: ἔθνη, = G1484 ἔθνος "Gentile, heathen, nation, people" [N-APN]
+- o11: ἱερουργοῦντα = G2418 ἱερουργέω "minister" [V-PAP-ASM]
+- o12: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o13: εὐαγγέλιον = G2098 εὐαγγέλιον "gospel" [N-ASN]
+- o14: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o15: θεοῦ, = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o16: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o17: γένηται = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-2ADS-3S]
+- o18: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o19: προσφορὰ = G4376 προσφορά "offering (up)" [N-NSF]
+- o20: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPN]
+- o21: ἐθνῶν = G1484 ἔθνος "Gentile, heathen, nation, people" [N-GPN]
+- o22: εὐπρόσδεκτος, = G2144 εὐπρόσδεκτος "acceptable(-ted)" [A-NSF]
+- o23: ἡγιασμένη = G37 ἁγιάζω "hallow, be holy, sanctify" [V-RPP-NSF]
+- o24: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o25: πνεύματι = G4151 πνεῦμα "ghost, life, spirit(-ual, -ually), mind" [N-DSN]
+- o26: ἁγίῳ. = G40 ἅγιος "(most) holy (one, thing), saint" [A-DSN]
+
+### Romans 16:1 (context)
+
+- o1: Συνίστημι = G4921 συνιστάω "approve, commend, consist, make, stand (with)" [V-PAI-1S]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: ὑμῖν = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
+- o4: Φοίβην = G5402 Φοίβη "Phebe" [N-ASF]
+- o5: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o6: ἀδελφὴν = G79 ἀδελφή "sister" [N-ASF]
+- o7: ἡμῶν, = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+- o8: οὖσαν = G1510 εἰμί "am, have been, it is I, was" [V-PAP-ASF]
+- o9: διάκονον = G1249 διάκονος "deacon, minister, servant" [N-ASF]
+- o10: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o11: ἐκκλησίας = G1577 ἐκκλησία "assembly, church" [N-GSF]
+- o12: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o13: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o14: Κενχρεαῖς, = G2747 Κεγχρεαί "Cencrea" [N-DPF]

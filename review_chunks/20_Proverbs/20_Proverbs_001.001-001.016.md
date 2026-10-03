@@ -544,3 +544,18 @@ Persian entries and current tags:
 - p11: خون  → H1818
 - p12: شتابانند  → H4116
 - p13: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 1:17 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: חִנָּם = H2600 חִנָּם "gratis, i.e. devoid of cost, reason or advantage" [HD]
+- o3: מְזֹרָה = H2219 זָרָה "to toss about; by implication, to diffuse, winnow" [HVPsfsa]
+- o4: הָ/רָשֶׁת = Hd "the" + H7568 רֶשֶׁת "a net (as catching animals)" [HTd/Ncfsa]
+- o5: בְּ/עֵינֵי = Hb "in" + H5869 עַיִן "an eye (literally or figuratively)…" [HR/Ncbdc]
+- o6: כָל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o7: בַּעַל = H1167 בַּעַל "a master…" [HNcmsc]
+- o8: כָּנָף = H3671 כָּנָף "an edge or extremity…" [HNcfsa]

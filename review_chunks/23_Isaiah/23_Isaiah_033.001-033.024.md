@@ -1145,3 +1145,33 @@ Persian entries and current tags:
 - p16: زندگی می‌کنند  → H3427
 - p17: آمرزیده خواهد_شد  → H5375
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 32:20 (context)
+
+- o1: אַשְׁרֵי/כֶם = H835 אֶשֶׁר "happiness…" [HNcmpc/Sp2mp]
+- o2: זֹרְעֵי = H2232 זָרַע "to sow…" [HVqrmpc]
+- o3: עַל = H5921 עַל "above, over, upon…" [HR]
+- o4: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o5: מָיִם = H4325 מַיִם "water; figuratively, juice…" [HNcmpa]
+- o6: מְשַׁלְּחֵי = H7971 שָׁלַח "to send away, for…" [HVprmpc]
+- o7: רֶגֶל = H7272 רֶגֶל "a foot (as used in walking)…" [HNcfsc]
+- o8: הַ/שּׁוֹר = Hd "the" + H7794 שׁוֹר "a bullock (as a traveller)" [HTd/Ncmsa]
+- o9: וְ/הַ/חֲמוֹר = Hc "and" + Hd "the" + H2543 חֲמוֹר "a male ass (from its dun red)" [HC/Td/Ncbsa]
+
+### Isaiah 34:1 (context)
+
+- o1: קִרְבוּ = H7126 קָרַב "to approach (causatively…" [HVqv2mp]
+- o2: גוֹיִם = H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HNcmpa]
+- o3: לִ/שְׁמֹעַ = Hl "to" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HR/Vqc]
+- o4: וּ/לְאֻמִּים = Hc "and" + H3816 לְאֹם "a community" [HC/Ncmpa]
+- o5: הַקְשִׁיבוּ = H7181 קָשַׁב "to prick up the ears, i.e. hearken" [HVhv2mp]
+- o6: תִּשְׁמַע = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqi3fs]
+- o7: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o8: וּ/מְלֹאָ/הּ = Hc "and" + H4393 מְלֹא "fulness (literally or figuratively)" [HC/Ncmsc/Sp3fs]
+- o9: תֵּבֵל = H8398 תֵּבֵל "the earth (as moist and therefore inhabited)…" [HNcfsa]
+- o10: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o11: צֶאֱצָאֶי/הָ = H6631 צֶאֱצָא "issue, i.e. produce, children" [HNcmpc/Sp3fs]

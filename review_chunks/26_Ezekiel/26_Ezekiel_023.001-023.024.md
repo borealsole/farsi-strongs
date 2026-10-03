@@ -1198,3 +1198,44 @@ Persian entries and current tags:
 - p46: مکافات  → H4941
 - p47: رسانند
 - p48: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 22:31 (context)
+
+- o1: וָ/אֶשְׁפֹּךְ = Hc "and" + H8210 שָׁפַךְ "to spill forth (blood, a libation, liquid metal…" [HC/Vqw1cs]
+- o2: עֲלֵי/הֶם = H5921 עַל "above, over, upon…" [HR/Sp3mp]
+- o3: זַעְמִ/י = H2195 זַעַם "strictly froth at the mouth…" [HNcmsc/Sp1cs]
+- o4: בְּ/אֵשׁ = Hb "in" + H784 אֵשׁ "fire (literally or figuratively)" [HR/Ncbsc]
+- o5: עֶבְרָתִ/י = H5678 עֶבְרָה "an outburst of passion" [HNcfsc/Sp1cs]
+- o6: כִּלִּיתִי/ם = H3615 כָּלָה "to end, whether intransitive (to cease…" [HVpp1cs/Sp3mp]
+- o7: דַּרְכָּ/ם = H1870 דֶּרֶךְ "a road (as trodden)…" [HNcbsc/Sp3mp]
+- o8: בְּ/רֹאשָׁ/ם = Hb "in" + H7218 רֹאשׁ "the head (as most easily shaken)…" [HR/Ncmsc/Sp3mp]
+- o9: נָתַתִּי = H5414 נָתַן "to give…" [HVqp1cs]
+- o10: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o11: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o12: יְהֹוִה = H3069 יְהֹוִה "YHWH" [HNp]
+
+### Ezekiel 23:25 (context)
+
+- o1: וְ/נָתַתִּי = Hc "and" + H5414 נָתַן "to give…" [HC/Vqq1cs]
+- o2: קִנְאָתִ/י = H7068 קִנְאָה "jealousy or envy" [HNcfsc/Sp1cs]
+- o3: בָּ/ךְ = Hb "in" [HR/Sp2fs]
+- o4: וְ/עָשׂוּ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqq3cp]
+- o5: אוֹתָ/ךְ = H853 אֵת "properly…" [HTo/Sp2fs]
+- o6: בְּ/חֵמָה = Hb "in" + H2534 חֵמָה "heat; figuratively, anger, poison (from its fever)" [HR/Ncfsa]
+- o7: אַפֵּ/ךְ = H639 אַף "properly, the nose or nostril…" [HNcmsc/Sp2fs]
+- o8: וְ/אָזְנַיִ/ךְ = Hc "and" + H241 אֹזֶן "broadness. i.e. (concrete) the ear (from its form…" [HC/Ncfdc/Sp2fs]
+- o9: יָסִירוּ = H5493 סוּר "to turn off (literal or figurative)" [HVhi3mp]
+- o10: וְ/אַחֲרִיתֵ/ךְ = Hc "and" + H319 אַחֲרִית "the last or end, hence, the future; also posterity" [HC/Ncfsc/Sp2fs]
+- o11: בַּ/חֶרֶב = Hb "in" + H2719 חֶרֶב "drought…" [HRd/Ncfsa]
+- o12: תִּפּוֹל = H5307 נָפַל "to fall…" [HVqi3fs]
+- o13: הֵמָּה = H1992 הֵם "they (only used when emphatic)" [HPp3mp]
+- o14: בָּנַיִ/ךְ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc/Sp2fs]
+- o15: וּ/בְנוֹתַיִ/ךְ = Hc "and" + H1323 בַּת "a daughter (used in the same wide sense as other…" [HC/Ncfpc/Sp2fs]
+- o16: יִקָּחוּ = H3947 לָקַח "to take (in the widest variety of applications)" [HVqi3mp]
+- o17: וְ/אַחֲרִיתֵ/ךְ = Hc "and" + H319 אַחֲרִית "the last or end, hence, the future; also posterity" [HC/Ncfsc/Sp2fs]
+- o18: תֵּאָכֵל = H398 אָכַל "to eat (literally or figuratively)" [HVNi3fs]
+- o19: בָּ/אֵשׁ = Hb "in" + H784 אֵשׁ "fire (literally or figuratively)" [HRd/Ncbsa]

@@ -578,3 +578,34 @@ Persian entries and current tags:
 - p23: زبان  → H8416
 - p24: خواهیم_راند
 - p25: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 78:72 (context)
+
+- o1: וַ/יִּרְעֵ/ם = Hc "and" + H7462 רָעָה "to tend a flock; i.e. pasture it…" [HC/Vqw3ms/Sp3mp]
+- o2: כְּ/תֹם = Hk "like" + H8537 תֹּם "completeness; figuratively, prosperity…" [HR/Ncmsc]
+- o3: לְבָב/וֹ = H3824 לֵבָב "the heart (as the most interior organ)" [HNcmsc/Sp3ms]
+- o4: וּ/בִ/תְבוּנוֹת = Hc "and" + Hb "in" + H8394 תָּבוּן "intelligence; by implication, an argument…" [HC/R/Ncfpc]
+- o5: כַּפָּי/ו = H3709 כַּף "the hollow hand or palm (so of the paw of an…" [HNcfdc/Sp3ms]
+- o6: יַנְחֵ/ם = H5148 נָחָה "to guide…" [HVhi3ms/Sp3mp]
+
+### Psalms 80:1 (context)
+
+- o1: לַ/מְנַצֵּחַ = Hl "to" + H5329 נָצַח "properly, to glitter from afar…" [HRd/Vprmsa]
+- o2: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o3: שֹׁשַׁנִּים = H7802 שׁוּשַׁן עֵדוּת "Shushan-Eduth or Shoshannim-Eduth…" [HNcmpa]
+- o4: עֵדוּת = H7802 שׁוּשַׁן עֵדוּת "Shushan-Eduth or Shoshannim-Eduth…" [HNcfsa]
+- o5: לְ/אָסָף = Hl "to" + H623 אָסָף "Asaph, the name of three Israelites…" [HR/Np]
+- o6: מִזְמוֹר = H4210 מִזְמוֹר "properly, instrumental music…" [HNcmsa]
+- o7: רֹעֵה = H7462 רָעָה "to tend a flock; i.e. pasture it…" [HVqrmsc]
+- o8: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o9: הַאֲזִינָ/ה = H238 אָזַן "to broaden out the ear (with the hand)…" [HVhv2ms/Sh]
+- o10: נֹהֵג = H5090 נָהַג "to drive forth (a person, an animal or chariot)…" [HVqrmsa]
+- o11: כַּ/צֹּאן = Hk "like" + H6629 צֹאן "a collective name for a flock (of sheep or goats)…" [HRd/Ncbsa]
+- o12: יוֹסֵף = H3130 יוֹסֵף "Joseph, the name of seven Israelites" [HNp]
+- o13: יֹשֵׁב = H3427 יָשַׁב "properly…" [HVqrmsc]
+- o14: הַ/כְּרוּבִים = Hd "the" + H3742 כְּרוּב "a cherub or imaginary figure" [HTd/Ncmpa]
+- o15: הוֹפִיעָ/ה = H3313 יָפַע "to shine" [HVhv2ms/Sh]

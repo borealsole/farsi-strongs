@@ -1059,3 +1059,44 @@ Persian entries and current tags:
 - p19: حفاظت  → G2892
 - p20: کنند
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 27:44 (context)
+
+- o1: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o2: δ’ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: αὐτὸ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASN]
+- o4: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o5: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o6: λῃσταὶ = G3027 λῃστής "robber, thief" [N-NPM]
+- o7: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o8: συσταυρωθέντες = G4957 συσταυρόω "crucify with" [V-APP-NPM]
+- o9: σὺν = G4862 σύν "beside, with" [PREP]
+- o10: αὐτῷ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
+- o11: ὠνείδιζον = G3679 ὀνειδίζω "cast in teeth, (suffer) reproach, revile, upbraid" [V-IAI-3P]
+- o12: αὐτόν. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASM]
+
+### Matthew 28:1 (context)
+
+- o1: Ὀψὲ = G3796 ὀψέ "(at) even, in the end" [ADV]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: σαββάτων, = G4521 σάββατον "sabbath (day), week" [N-GPN]
+- o4: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o5: ἐπιφωσκούσῃ = G2020 ἐπιφώσκω "begin to dawn, draw on" [V-PAP-DSF]
+- o6: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o7: μίαν = G1520 εἷς "a(-n, -ny, certain), + abundantly, man…" [A-ASF]
+- o8: σαββάτων, = G4521 σάββατον "sabbath (day), week" [N-GPN]
+- o9: ἦλθεν = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-2AAI-3S]
+- o10: Μαριὰμ = G3137 Μαρία "Mary" [N-NSF]
+- o11: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o12: Μαγδαληνὴ = G3094 Μαγδαληνή "Magdalene" [N-NSF]
+- o13: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o14: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o15: ἄλλη = G243 ἄλλος "more, one (another), (an-, some an-)other(-s…" [A-NSF]
+- o16: Μαρία = G3137 Μαρία "Mary" [N-NSF]
+- o17: θεωρῆσαι = G2334 θεωρέω "behold, consider, look on, perceive, see" [V-AAN]
+- o18: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o19: τάφον. = G5028 τάφος "sepulchre, tomb" [N-ASM]

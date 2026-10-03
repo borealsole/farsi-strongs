@@ -1051,3 +1051,46 @@ Persian entries and current tags:
 - p31: تشویش  → H943
 - p32: افتاد
 - p33: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Esther 2:23 (context)
+
+- o1: וַ/יְבֻקַּשׁ = Hc "and" + H1245 בָּקַשׁ "to search out (by any method…" [HC/VPw3ms]
+- o2: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]
+- o3: וַ/יִּמָּצֵא = Hc "and" + H4672 מָצָא "properly, to come forth to, i.e. appear or exist…" [HC/VNw3ms]
+- o4: וַ/יִּתָּלוּ = Hc "and" + H8518 תָּלָה "to suspend (especially to gibbet)" [HC/VNw3mp]
+- o5: שְׁנֵי/הֶם = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmdc/Sp3mp]
+- o6: עַל = H5921 עַל "above, over, upon…" [HR]
+- o7: עֵץ = H6086 עֵץ "a tree (from its firmness)…" [HNcmsa]
+- o8: וַ/יִּכָּתֵב = Hc "and" + H3789 כָּתַב "to grave, by implication, to write (describe…" [HC/VNw3ms]
+- o9: בְּ/סֵפֶר = Hb "in" + H5612 סֵפֶר "properly, writing (the art or a document)…" [HR/Ncmsc]
+- o10: דִּבְרֵי = H1697 דָּבָר "a word…" [HNcmpc]
+- o11: הַ/יָּמִים = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmpa]
+- o12: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o13: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+
+### Esther 4:1 (context)
+
+- o1: וּ/מָרְדֳּכַי = Hc "and" + H4782 מׇרְדְּכַי "Mordecai, an Israelite" [HC/Np]
+- o2: יָדַע = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqp3ms]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsa]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: נַעֲשָׂה = H6213 עָשָׂה "to do or make…" [HVNp3ms]
+- o7: וַ/יִּקְרַע = Hc "and" + H7167 קָרַע "to rend, literally or figuratively (revile…" [HC/Vqw3ms]
+- o8: מָרְדֳּכַי = H4782 מׇרְדְּכַי "Mordecai, an Israelite" [HNp]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: בְּגָדָי/ו = H899 בֶּגֶד "a covering, i.e. clothing…" [HNcmpc/Sp3ms]
+- o11: וַ/יִּלְבַּשׁ = Hc "and" + H3847 לָבַשׁ "properly, wrap around…" [HC/Vqw3ms]
+- o12: שַׂק = H8242 שַׂק "properly…" [HNcmsa]
+- o13: וָ/אֵפֶר = Hc "and" + H665 אֵפֶר "ashes" [HC/Ncmsa]
+- o14: וַ/יֵּצֵא = Hc "and" + H3318 יָצָא "to go (causatively, bring) out…" [HC/Vqw3ms]
+- o15: בְּ/תוֹךְ = Hb "in" + H8432 תָּוֶךְ "a bisection, i.e. (by implication) the centre" [HR/Ncmsc]
+- o16: הָ/עִיר = Hd "the" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HTd/Ncfsa]
+- o17: וַ/יִּזְעַק = Hc "and" + H2199 זָעַק "to shriek (from anguish or danger)…" [HC/Vqw3ms]
+- o18: זְעָקָה = H2201 זַעַק "a shriek or outcry" [HNcfsa]
+- o19: גְדֹלָה = H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HAafsa]
+- o20: וּ/מָרָה = Hc "and" + H4751 מַר "bitter (literally or figuratively)…" [HC/Aafsa]

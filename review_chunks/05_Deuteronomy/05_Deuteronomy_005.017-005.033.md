@@ -887,3 +887,52 @@ Persian entries and current tags:
 - p25: عمر  → H3117
 - p26: دراز کنید  → H748
 - p27: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 5:16 (context)
+
+- o1: כַּבֵּד = H3513 כָּבַד "to be heavy, i.e. in a bad sense (burdensome…" [HVpa]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: אָבִי/ךָ = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp2ms]
+- o4: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o5: אִמֶּ/ךָ = H517 אֵם "a mother (as the bond of the family)…" [HNcfsc/Sp2ms]
+- o6: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o7: צִוְּ/ךָ = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp3ms/Sp2ms]
+- o8: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o9: אֱלֹהֶי/ךָ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2ms]
+- o10: לְמַעַן = H4616 מַעַן "properly, heed, i.e. purpose…" [HR]
+- o11: יַאֲרִיכֻ/ן = H748 אָרַךְ "to be (causative…" [HVhi3mp/Sn]
+- o12: יָמֶי/ךָ = H3117 יוֹם "a day (as the warm hours)…" [HNcmpc/Sp2ms]
+- o13: וּ/לְמַעַן = Hc "and" + H4616 מַעַן "properly, heed, i.e. purpose…" [HC/R]
+- o14: יִיטַב = H3190 יָטַב "to be (causative) make well, literally (sound…" [HVqi3ms]
+- o15: לָ/ךְ = Hl "to" [HR/Sp2fs]
+- o16: עַל = H5921 עַל "above, over, upon…" [HR]
+- o17: הָ/אֲדָמָה = Hd "the" + H127 אֲדָמָה "soil (from its general redness)" [HTd/Ncfsa]
+- o18: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o19: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o20: אֱלֹהֶי/ךָ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2ms]
+- o21: נֹתֵן = H5414 נָתַן "to give…" [HVqrmsa]
+- o22: לָ/ךְ = Hl "to" [HR/Sp2fs]
+
+### Deuteronomy 6:1 (context)
+
+- o1: וְ/זֹאת = Hc "and" + H2063 זֹאת "this (often used adverb)" [HC/Pdxfs]
+- o2: הַ/מִּצְוָה = Hd "the" + H4687 מִצְוָה "a command, whether human or divine (collectively…" [HTd/Ncfsa]
+- o3: הַ/חֻקִּים = Hd "the" + H2706 חֹק "an enactment…" [HTd/Ncmpa]
+- o4: וְ/הַ/מִּשְׁפָּטִים = Hc "and" + Hd "the" + H4941 מִשְׁפָּט "properly…" [HC/Td/Ncmpa]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: צִוָּה = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp3ms]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: אֱלֹהֵי/כֶם = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2mp]
+- o9: לְ/לַמֵּד = Hl "to" + H3925 לָמַד "properly, to goad…" [HR/Vpc]
+- o10: אֶתְ/כֶם = H853 אֵת "properly…" [HTo/Sp2mp]
+- o11: לַ/עֲשׂוֹת = Hl "to" + H6213 עָשָׂה "to do or make…" [HR/Vqc]
+- o12: בָּ/אָרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HRd/Ncbsa]
+- o13: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o14: אַתֶּם = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2mp]
+- o15: עֹבְרִים = H5674 עָבַר "to cross over…" [HVqrmpa]
+- o16: שָׁמָּ/ה = H8033 שָׁם "there (transferring to time) then…" [HD/Sd]
+- o17: לְ/רִשְׁתָּ/הּ = Hl "to" + H3423 יָרַשׁ "to occupy (by driving out previous tenants…" [HR/Vqc/Sp3fs]

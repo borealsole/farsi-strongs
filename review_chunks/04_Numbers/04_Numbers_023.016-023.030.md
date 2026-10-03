@@ -762,3 +762,42 @@ Persian entries and current tags:
 - p19: تقدیم
 - p20: کرد  → H5927
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 23:15 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o3: בָּלָק = H1111 בָּלָק "Balak, a Moabitish king" [HNp]
+- o4: הִתְיַצֵּב = H3320 יָצַב "to place (any thing so as to stay)…" [HVtv2ms]
+- o5: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o6: עַל = H5921 עַל "above, over, upon…" [HR]
+- o7: עֹלָתֶ/ךָ = H5930 עֹלָה "a step or (collectively, stairs, as ascending)…" [HNcfsc/Sp2ms]
+- o8: וְ/אָנֹכִי = Hc "and" + H595 אָנֹכִי "I" [HC/Pp1cs]
+- o9: אִקָּרֶה = H7136 קָרָה "to light upon (chiefly by accident)…" [HVNi1cs]
+- o10: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+
+### Numbers 24:1 (context)
+
+- o1: וַ/יַּרְא = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw3ms]
+- o2: בִּלְעָם = H1109 בִּלְעָם "Bilam, a Mesopotamian prophet…" [HNp]
+- o3: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o4: טוֹב = H2895 טוֹב "to be (transitively…" [HVqp3ms]
+- o5: בְּ/עֵינֵי = Hb "in" + H5869 עַיִן "an eye (literally or figuratively)…" [HR/Ncbdc]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: לְ/בָרֵךְ = Hl "to" + H1288 בָרַךְ "to kneel…" [HR/Vpc]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o10: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o11: הָלַךְ = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVqp3ms]
+- o12: כְּ/פַעַם = Hk "like" + H6471 פַּעַם "a stroke…" [HR/Ncfsa]
+- o13: בְּ/פַעַם = Hb "in" + H6471 פַּעַם "a stroke…" [HR/Ncfsa]
+- o14: לִ/קְרַאת = Hl "to" + H7125 קִרְאָה "an encountering, accidental…" [HR/Vqc]
+- o15: נְחָשִׁים = H5173 נַחַשׁ "an incantation or augury" [HNcmpa]
+- o16: וַ/יָּשֶׁת = Hc "and" + H7896 שִׁית "to place (in a very wide application)" [HC/Vqw3ms]
+- o17: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o18: הַ/מִּדְבָּר = Hd "the" + H4057 מִדְבָּר "a pasture (i.e. open field…" [HTd/Ncmsa]
+- o19: פָּנָי/ו = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc/Sp3ms]

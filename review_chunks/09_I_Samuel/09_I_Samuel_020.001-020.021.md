@@ -1233,3 +1233,47 @@ Persian entries and current tags:
 - p47: تو
 - p48: نیست  → H369
 - p49: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 19:24 (context)
+
+- o1: וַ/יִּפְשַׁט = Hc "and" + H6584 פָּשַׁט "to spread out (i.e. deploy in hostile array)…" [HC/Vqw3ms]
+- o2: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o3: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o4: בְּגָדָי/ו = H899 בֶּגֶד "a covering, i.e. clothing…" [HNcmpc/Sp3ms]
+- o5: וַ/יִּתְנַבֵּא = Hc "and" + H5012 נָבָא "to prophesy…" [HC/Vtw3ms]
+- o6: גַם = H1571 גַּם "properly, assemblage…" [HD]
+- o7: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o8: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o9: שְׁמוּאֵל = H8050 שְׁמוּאֵל "Shemuel, the name of three Israelites" [HNp]
+- o10: וַ/יִּפֹּל = Hc "and" + H5307 נָפַל "to fall…" [HC/Vqw3ms]
+- o11: עָרֹם = H6174 עָרוֹם "nude, either partially or totally" [HAamsa]
+- o12: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o13: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o14: הַ/הוּא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3ms]
+- o15: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o16: הַ/לָּיְלָה = Hd "the" + H3915 לַיִל "properly, a twist (away of the light), i.e. night…" [HTd/Ncmsa]
+- o17: עַל = H5921 עַל "above, over, upon…" [HR]
+- o18: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o19: יֹאמְרוּ = H559 אָמַר "to say (used with great latitude)" [HVqi3mp]
+- o20: הֲ/גַם = Hi "(untranslatable; interrogative particle)" + H1571 גַּם "properly, assemblage…" [HTi/D]
+- o21: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o22: בַּ/נְּבִיאִם = Hb "in" + H5030 נָבִיא "a prophet or (generally) inspired man" [HRd/Ncmpa]
+
+### I Samuel 20:22 (context)
+
+- o1: וְ/אִם = Hc "and" + H518 אִם "used very widely as demonstrative, lo!…" [HC/C]
+- o2: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o3: אֹמַר = H559 אָמַר "to say (used with great latitude)" [HVqi1cs]
+- o4: לָ/עֶלֶם = Hl "to" + H5958 עֶלֶם "properly, something kept out of sight, i.e. a lad" [HRd/Ncmsa]
+- o5: הִנֵּה = H2009 הִנֵּה "lo!" [HTm]
+- o6: הַ/חִצִּים = Hd "the" + H2678 חִצִּי "an arrow" [HTd/Ncmpa]
+- o7: מִמְּ/ךָ = H4480 מִן "properly, a part of…" [HR/Sp2ms]
+- o8: וָ/הָלְאָה = Hc "and" + H1973 הָלְאָה "to the distance, i.e. far away…" [HC/D]
+- o9: לֵךְ = H3212 יָלַךְ "to walk (literally or figuratively)…" [HVqv2ms]
+- o10: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o11: שִׁלַּחֲ/ךָ = H7971 שָׁלַח "to send away, for…" [HVpp3ms/Sp2ms]
+- o12: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]

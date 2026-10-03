@@ -873,3 +873,52 @@ Persian entries and current tags:
 - p8: جنگاورانی  → H1368
 - p9: نیرومندند
 - p10: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 4:31 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: קוֹל = H6963 קוֹל "a voice or sound" [HNcmsa]
+- o3: כְּ/חוֹלָה = Hk "like" + H2470 חָלָה "properly, to be rubbed or worn…" [HR/Vqrfsa]
+- o4: שָׁמַעְתִּי = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqp1cs]
+- o5: צָרָה = H6869 צָרָה "tightness (i.e. figuratively, trouble)…" [HNcfsa]
+- o6: כְּ/מַבְכִּירָה = Hk "like" + H1069 בָּכַר "to give the birthright" [HR/Vhrfsa]
+- o7: קוֹל = H6963 קוֹל "a voice or sound" [HNcmsc]
+- o8: בַּת = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfsc]
+- o9: צִיּוֹן = H6726 צִיּוֹן "Tsijon (as a permanent capital)…" [HNp]
+- o10: תִּתְיַפֵּחַ = H3306 יָפַח "properly, to breathe hard…" [HVti3fs]
+- o11: תְּפָרֵשׂ = H6566 פָּרַשׂ "to break apart, disperse, etc" [HVpi3fs]
+- o12: כַּפֶּי/הָ = H3709 כַּף "the hollow hand or palm (so of the paw of an…" [HNcfdc/Sp3fs]
+- o13: אוֹי = H188 אוֹי "lamentation; also interjectionally Oh!" [HTj]
+- o14: נָא = H4994 נָא "'I pray', 'now', or 'then'…" [HTe]
+- o15: לִ/י = Hl "to" [HR/Sp1cs]
+- o16: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o17: עָיְפָה = H5888 עָיֵף "to languish" [HVqp3fs]
+- o18: נַפְשִׁ/י = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsc/Sp1cs]
+- o19: לְ/הֹרְגִים = Hl "to" + H2026 הָרַג "to smite with deadly intent" [HR/Vqrmpa]
+
+### Jeremiah 5:17 (context)
+
+- o1: וְ/אָכַל = Hc "and" + H398 אָכַל "to eat (literally or figuratively)" [HC/Vqq3ms]
+- o2: קְצִירְ/ךָ = H7105 קָצִיר "severed, i.e. harvest (as reaped), the crop…" [HNcmsc/Sp2ms]
+- o3: וְ/לַחְמֶ/ךָ = Hc "and" + H3899 לֶחֶם "food (for man or beast), especially bread…" [HC/Ncbsc/Sp2ms]
+- o4: יֹאכְלוּ = H398 אָכַל "to eat (literally or figuratively)" [HVqi3mp]
+- o5: בָּנֶי/ךָ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc/Sp2ms]
+- o6: וּ/בְנוֹתֶי/ךָ = Hc "and" + H1323 בַּת "a daughter (used in the same wide sense as other…" [HC/Ncfpc/Sp2ms]
+- o7: יֹאכַל = H398 אָכַל "to eat (literally or figuratively)" [HVqi3ms]
+- o8: צֹאנְ/ךָ = H6629 צֹאן "a collective name for a flock (of sheep or goats)…" [HNcbsc/Sp2ms]
+- o9: וּ/בְקָרֶ/ךָ = Hc "and" + H1241 בָּקָר "beef cattle or an animal of the ox family of…" [HC/Ncbsc/Sp2ms]
+- o10: יֹאכַל = H398 אָכַל "to eat (literally or figuratively)" [HVqi3ms]
+- o11: גַּפְנְ/ךָ = H1612 גֶּפֶן "a vine (as twining), especially the grape" [HNcbsc/Sp2ms]
+- o12: וּ/תְאֵנָתֶ/ךָ = Hc "and" + H8384 תְּאֵן "the fig (tree or fruit)" [HC/Ncfsc/Sp2ms]
+- o13: יְרֹשֵׁשׁ = H7567 רָשַׁשׁ "to demolish" [HVmi3ms]
+- o14: עָרֵי = H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HNcfpc]
+- o15: מִבְצָרֶי/ךָ = H4013 מִבְצָר "a fortification, castle, or fortified city…" [HNcmpc/Sp2ms]
+- o16: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o17: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o18: בּוֹטֵחַ = H982 בָּטַח "figuratively, to trust, be confident or sure" [HVqrmsa]
+- o19: בָּ/הֵנָּה = Hb "in" + H2007 הֵנָּה "themselves (often used emphatic for the copula…" [HR/Pp3fp]
+- o20: בֶּ/חָרֶב = Hb "in" + H2719 חֶרֶב "drought…" [HRd/Ncfsa]

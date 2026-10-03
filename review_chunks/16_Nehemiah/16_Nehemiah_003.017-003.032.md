@@ -831,3 +831,49 @@ Persian entries and current tags:
 - p12: تاجران  → H7402
 - p13: مرمت کردند  → H2388
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Nehemiah 3:16 (context)
+
+- o1: אַחֲרָי/ו = H310 אַחַר "properly, the hind part…" [HR/Sp3ms]
+- o2: הֶחֱזִיק = H2388 חָזַק "to fasten upon…" [HVhp3ms]
+- o3: נְחֶמְיָה = H5166 נְחֶמְיָה "Nechemjah, the name of three Israelites" [HNp]
+- o4: בֶן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o5: עַזְבּוּק = H5802 עַזְבּוּק "Azbuk, an Israelite" [HNp]
+- o6: שַׂר = H8269 שַׂר "a head person (of any rank or class)" [HNcmsc]
+- o7: חֲצִי = H2677 חֵצִי "the half or middle" [HNcmsc]
+- o8: פֶּלֶךְ = H6418 פֶּלֶךְ "a circuit (i.e. district)…" [HNcmsc]
+- o9: בֵּית = H1049 בֵּית צוּר "Beth-Tsur, a place in Palestine" [HNp]
+- o10: צוּר = H1049 בֵּית צוּר "Beth-Tsur, a place in Palestine" [HNp]
+- o11: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o12: נֶגֶד = H5048 נֶגֶד "a front, i.e. part opposite…" [HR]
+- o13: קִבְרֵי = H6913 קֶבֶר "a sepulchre" [HNcmpc]
+- o14: דָוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o15: וְ/עַד = Hc "and" + H5704 עַד "as far (or long, or much) as…" [HC/R]
+- o16: הַ/בְּרֵכָה = Hd "the" + H1295 בְּרֵכָה "a reservoir (at which camels kneel as a…" [HTd/Ncfsa]
+- o17: הָ/עֲשׂוּיָה = Hd "the" + H6213 עָשָׂה "to do or make…" [HTd/Vqsfsa]
+- o18: וְ/עַד = Hc "and" + H5704 עַד "as far (or long, or much) as…" [HC/R]
+- o19: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o20: הַ/גִּבֹּרִים = Hd "the" + H1368 גִּבּוֹר "powerful; by implication, warrior, tyrant" [HTd/Aampa]
+
+### Nehemiah 4:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o3: שָׁמַע = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqp3ms]
+- o4: סַנְבַלַּט = H5571 סַנְבַלַּט "Sanballat, a Persian satrap of Samaria" [HNp]
+- o5: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o6: אֲנַחְנוּ = H587 אֲנַחְנוּ "we" [HPp1cp]
+- o7: בוֹנִים = H1129 בָּנָה "to build (literally and figuratively)" [HVqrmpa]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: הַ/חוֹמָה = Hd "the" + H2346 חוֹמָה "a wall of protection" [HTd/Ncfsa]
+- o10: וַ/יִּחַר = Hc "and" + H2734 חָרָה "to glow or grow warm…" [HC/Vqw3ms]
+- o11: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o12: וַ/יִּכְעַס = Hc "and" + H3707 כַּעַס "to trouble…" [HC/Vqw3ms]
+- o13: הַרְבֵּה = H7235 רָבָה "to increase (in whatever respect)" [HVha]
+- o14: וַ/יַּלְעֵג = Hc "and" + H3932 לָעַג "to deride…" [HC/Vhw3ms]
+- o15: עַל = H5921 עַל "above, over, upon…" [HR]
+- o16: הַ/יְּהוּדִים = Hd "the" + H3064 יְהוּדִי "a Jehudite (i.e. Judaite or Jew)…" [HTd/Ngmpa]

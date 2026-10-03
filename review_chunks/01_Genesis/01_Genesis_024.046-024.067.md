@@ -1083,3 +1083,38 @@ Persian entries and current tags:
 - p28: مادرش  → H517
 - p29: تسلی یافت  → H5162
 - p30: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 24:45 (context)
+
+- o1: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o2: טֶרֶם = H2962 טֶרֶם "properly, non-occurrence…" [HD]
+- o3: אֲכַלֶּה = H3615 כָּלָה "to end, whether intransitive (to cease…" [HVpi1cs]
+- o4: לְ/דַבֵּר = Hl "to" + H1696 דָבַר "perhaps properly, to arrange…" [HR/Vpc]
+- o5: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o6: לִבִּ/י = H3820 לֵב "the heart…" [HNcmsc/Sp1cs]
+- o7: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o8: רִבְקָה = H7259 רִבְקָה "Ribkah, the wife of Isaac" [HNp]
+- o9: יֹצֵאת = H3318 יָצָא "to go (causatively, bring) out…" [HVqrfsa]
+- o10: וְ/כַדָּ/הּ = Hc "and" + H3537 כַּד "properly, a pail; but generally of earthenware…" [HC/Ncfsc/Sp3fs]
+- o11: עַל = H5921 עַל "above, over, upon…" [HR]
+- o12: שִׁכְמָ/הּ = H7926 שְׁכֶם "the neck (between the shoulders) as the place of…" [HNcmsc/Sp3fs]
+- o13: וַ/תֵּרֶד = Hc "and" + H3381 יָרַד "to descend (literally, to go downwards…" [HC/Vqw3fs]
+- o14: הָ/עַיְנָ/ה = Hd "the" + H5869 עַיִן "an eye (literally or figuratively)…" [HTd/Ncbsa/Sd]
+- o15: וַ/תִּשְׁאָב = Hc "and" + H7579 שָׁאַב "to bale up water" [HC/Vqw3fs]
+- o16: וָ/אֹמַר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw1cs]
+- o17: אֵלֶי/הָ = H413 אֵל "near, with or among; often in general, to" [HR/Sp3fs]
+- o18: הַשְׁקִי/נִי = H8248 שָׁקָה "to quaff…" [HVhv2fs/Sp1cs]
+- o19: נָא = H4994 נָא "'I pray', 'now', or 'then'…" [HTe]
+
+### Genesis 25:1 (context)
+
+- o1: וַ/יֹּסֶף = Hc "and" + H3254 יָסַף "to add or augment (often adverbial…" [HC/Vhw3ms]
+- o2: אַבְרָהָם = H85 אַבְרָהָם "Abraham, the later name of Abram" [HNp]
+- o3: וַ/יִּקַּח = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqw3ms]
+- o4: אִשָּׁה = H802 אִשָּׁה "a woman" [HNcfsa]
+- o5: וּ/שְׁמָ/הּ = Hc "and" + H8034 שֵׁם "an appellation…" [HC/Ncmsc/Sp3fs]
+- o6: קְטוּרָה = H6989 קְטוּרָה "Keturah, a wife of Abraham" [HNp]

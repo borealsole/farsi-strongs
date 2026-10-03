@@ -1404,3 +1404,28 @@ Persian entries and current tags:
 - p33: گردیده
 - p34: .
 - p35: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Lamentations 2:1 (context)
+
+- o1: אֵיכָה = H349 אֵיךְ "how? or how!; also where" [HTi]
+- o2: יָעִיב = H5743 עוּב "to be dense or dark, i.e. to becloud" [HVhi3ms]
+- o3: בְּ/אַפּ/וֹ = Hb "in" + H639 אַף "properly, the nose or nostril…" [HR/Ncmsc/Sp3ms]
+- o4: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: בַּת = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfsc]
+- o7: צִיּוֹן = H6726 צִיּוֹן "Tsijon (as a permanent capital)…" [HNp]
+- o8: הִשְׁלִיךְ = H7993 שָׁלַךְ "to throw out…" [HVhp3ms]
+- o9: מִ/שָּׁמַיִם = Hm "from" + H8064 שָׁמַיִם "the sky (as aloft…" [HR/Ncmpa]
+- o10: אֶרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsa]
+- o11: תִּפְאֶרֶת = H8597 תִּפְאָרָה "ornament (abstractly or concretely…" [HNcfsc]
+- o12: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o13: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o14: זָכַר = H2142 זָכַר "properly, to mark (so as to be recognized)…" [HVqp3ms]
+- o15: הֲדֹם = H1916 הֲדֹם "a foot stool" [HNcmsc]
+- o16: רַגְלָי/ו = H7272 רֶגֶל "a foot (as used in walking)…" [HNcfdc/Sp3ms]
+- o17: בְּ/יוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmsc]
+- o18: אַפּ/וֹ = H639 אַף "properly, the nose or nostril…" [HNcmsc/Sp3ms]

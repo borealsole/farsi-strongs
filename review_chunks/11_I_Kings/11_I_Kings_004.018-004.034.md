@@ -857,3 +857,40 @@ Persian entries and current tags:
 - p23: گوش
 - p24: فرا~دهند
 - p25: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 4:17 (context)
+
+- o1: יְהוֹשָׁפָט = H3092 יְהוֹשָׁפָט "Jehoshaphat, the name of six Israelites…" [HNp]
+- o2: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o3: פָּרוּחַ = H6515 פָּרוּחַ "Paruach, an Israelite" [HNp]
+- o4: בְּ/יִשָׂשכָר = Hb "in" + H3485 יִשָּׂשכָר "Jissaskar, a son of Jacob" [HR/Np]
+
+### I Kings 5:1 (context)
+
+- o1: וַ/יִּשְׁלַח = Hc "and" + H7971 שָׁלַח "to send away, for…" [HC/Vqw3ms]
+- o2: חִירָם = H2438 חִירָם "Chiram or Chirom, the name of two Tyrians" [HNp]
+- o3: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o4: צוֹר = H6865 צֹר "Tsor, a place in Palestine" [HNp]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: עֲבָדָי/ו = H5650 עֶבֶד "a servant" [HNcmpc/Sp3ms]
+- o7: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o8: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o9: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o10: שָׁמַע = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqp3ms]
+- o11: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o12: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o13: מָשְׁחוּ = H4886 מָשַׁח "to rub with oil, i.e. to anoint…" [HVqp3cp]
+- o14: לְ/מֶלֶךְ = Hl "to" + H4428 מֶלֶךְ "a king" [HR/Ncmsa]
+- o15: תַּחַת = H8478 תַּחַת "the bottom (as depressed)…" [HR]
+- o16: אָבִי/הוּ = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp3ms]
+- o17: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o18: אֹהֵב = H157 אָהַב "to have affection for (sexually or otherwise)" [HVqrmsa]
+- o19: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o20: חִירָם = H2438 חִירָם "Chiram or Chirom, the name of two Tyrians" [HNp]
+- o21: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o22: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o23: הַ/יָּמִים = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmpa]

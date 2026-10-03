@@ -857,3 +857,43 @@ Persian entries and current tags:
 - p13: صادوق  → H6659
 - p14: بود
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 26:32 (context)
+
+- o1: וְ/אֶחָי/ו = Hc "and" + H251 אָח "a brother (used in the widest sense of literal…" [HC/Ncmpc/Sp3ms]
+- o2: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o3: חַיִל = H2428 חַיִל "probably a force, whether of men…" [HNcmsa]
+- o4: אַלְפַּיִם = H505 אֶלֶף "hence (the ox's head being the first letter of…" [HAcbpa]
+- o5: וּ/שְׁבַע = Hc "and" + H7651 שֶׁבַע "seven (as the sacred full one)…" [HC/Acfsa]
+- o6: מֵאוֹת = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbpa]
+- o7: רָאשֵׁי = H7218 רֹאשׁ "the head (as most easily shaken)…" [HNcmpc]
+- o8: הָ/אָבוֹת = Hd "the" + H1 אָב "father, in a literal and immediate…" [HTd/Ncmpa]
+- o9: וַ/יַּפְקִידֵ/ם = Hc "and" + H6485 פָּקַד "to visit (with friendly or hostile intent)…" [HC/Vhw3ms/Sp3mp]
+- o10: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o11: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o12: עַל = H5921 עַל "above, over, upon…" [HR]
+- o13: הָ/ראוּבֵנִי = Hd "the" + H7206 רְאוּבֵנִי "a Reubenite or descendant of Reuben" [HTd/Ngmsa]
+- o14: וְ/הַ/גָּדִי = Hc "and" + Hd "the" + H1425 גָּדִי "a Gadite (collectively) or descendants of Gad" [HC/Td/Ngmsa]
+- o15: וַ/חֲצִי = Hc "and" + H2677 חֵצִי "the half or middle" [HC/Ncmsc]
+- o16: שֵׁבֶט = H7626 שֵׁבֶט "a scion, i.e. (literally) a stick (for punishing…" [HNcmsc]
+- o17: הַ/מְנַשִּׁי = Hd "the" + H4520 מְנַשִּׁי "a Menashshite or descendant of Menashsheh" [HTd/Ngmsa]
+- o18: לְ/כָל = Hl "to" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o19: דְּבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o20: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o21: וּ/דְבַר = Hc "and" + H1697 דָּבָר "a word…" [HC/Ncmsc]
+- o22: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+
+### I Chronicles 27:18 (context)
+
+- o1: לִ/יהוּדָה = Hl "to" + H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HR/Np]
+- o2: אֱלִיהוּ = H453 אֱלִיהוּ "Elihu, the name of one of Job's friends…" [HNp]
+- o3: מֵ/אֲחֵי = Hm "from" + H251 אָח "a brother (used in the widest sense of literal…" [HR/Ncmpc]
+- o4: דָוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o5: לְ/יִשָׂשכָר = Hl "to" + H3485 יִשָּׂשכָר "Jissaskar, a son of Jacob" [HR/Np]
+- o6: עָמְרִי = H6018 עׇמְרִי "Omri, an Israelite" [HNp]
+- o7: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o8: מִיכָאֵל = H4317 מִיכָאֵל "Mikael…" [HNp]

@@ -803,3 +803,30 @@ Persian entries and current tags:
 - p2: حاریف  → H2756
 - p3: ،
 - p4: ۱۱۲.  → H3967 H8147 H6240
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Nehemiah 6:19 (context)
+
+- o1: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o2: טוֹבֹתָי/ו = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAafpc/Sp3ms]
+- o3: הָיוּ = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3cp]
+- o4: אֹמְרִים = H559 אָמַר "to say (used with great latitude)" [HVqrmpa]
+- o5: לְ/פָנַ/י = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp1cs]
+- o6: וּ/דְבָרַ/י = Hc "and" + H1697 דָּבָר "a word…" [HC/Ncmpc/Sp1cs]
+- o7: הָיוּ = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3cp]
+- o8: מוֹצִיאִים = H3318 יָצָא "to go (causatively, bring) out…" [HVhrmpa]
+- o9: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o10: אִגְּרוֹת = H107 אִגֶּרֶת "an epistle" [HNcfpa]
+- o11: שָׁלַח = H7971 שָׁלַח "to send away, for…" [HVqp3ms]
+- o12: טוֹבִיָּה = H2900 טוֹבִיָּה "Tobijah…" [HNp]
+- o13: לְ/יָרְאֵ/נִי = Hl "to" + H3372 יָרֵא "to fear; morally, to revere; caus. to frighten" [HR/Vpc/Sp1cs]
+
+### Nehemiah 7:25 (context)
+
+- o1: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o2: גִבְעוֹן = H1391 גִּבְעוֹן "Gibon, a place in Palestine" [HNp]
+- o3: תִּשְׁעִים = H8673 תִּשְׁעִים "ninety" [HAcbpa]
+- o4: וַ/חֲמִשָּׁה = Hc "and" + H2568 חָמֵשׁ "five" [HC/Acmsa]

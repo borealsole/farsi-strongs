@@ -640,3 +640,47 @@ Persian entries and current tags:
 - p20: تو
 - p21: سیر خواهم_شد  → H7646
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 16:11 (context)
+
+- o1: תּוֹדִיעֵ/נִי = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVhi2ms/Sp1cs]
+- o2: אֹרַח = H734 אֹרַח "a well-trodden road (literally or figuratively)…" [HNcbsc]
+- o3: חַיִּים = H2416 חַי "alive; hence, raw (flesh)…" [HNcmpa]
+- o4: שֹׂבַע = H7648 שֹׂבַע "satisfaction (of food or (figuratively) joy)" [HNcmsc]
+- o5: שְׂמָחוֹת = H8057 שִׂמְחָה "blithesomeness or glee, (religious or festival)" [HNcfpa]
+- o6: אֶת = H854 אֵת "properly…" [HR]
+- o7: פָּנֶי/ךָ = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc/Sp2ms]
+- o8: נְעִמוֹת = H5273 נָעִים "delightful (objective or subjective…" [HAafpa]
+- o9: בִּ/ימִינְ/ךָ = Hb "in" + H3225 יָמִין "the right hand or side (leg…" [HR/Ncfsc/Sp2ms]
+- o10: נֶצַח = H5331 נֶצַח "properly, a goal…" [HNcmsa]
+
+### Psalms 18:1 (context)
+
+- o1: לַ/מְנַצֵּחַ = Hl "to" + H5329 נָצַח "properly, to glitter from afar…" [HRd/Vprmsa]
+- o2: לְ/עֶבֶד = Hl "to" + H5650 עֶבֶד "a servant" [HR/Ncmsc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: דִּבֶּר = H1696 דָבַר "perhaps properly, to arrange…" [HVpp3ms]
+- o7: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: דִּבְרֵי = H1697 דָּבָר "a word…" [HNcmpc]
+- o10: הַ/שִּׁירָה = Hd "the" + H7892 שִׁיר "a song; abstractly, singing" [HTd/Ncbsa]
+- o11: הַ/זֹּאת = Hd "the" + H2063 זֹאת "this (often used adverb)" [HTd/Pdxfs]
+- o12: בְּ/יוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmsc]
+- o13: הִצִּיל = H5337 נָצַל "to snatch away, whether in a good or a bad sense" [HVhp3ms]
+- o14: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o15: אוֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o16: מִ/כַּף = Hm "from" + H3709 כַּף "the hollow hand or palm (so of the paw of an…" [HR/Ncfsc]
+- o17: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o18: אֹיְבָי/ו = H341 אֹיֵב "hating; an adversary" [HVqrmpc/Sp3ms]
+- o19: וּ/מִ/יַּד = Hc "and" + Hm "from" + H3027 יָד "a hand (the open one (indicating power, means…" [HC/R/Ncbsc]
+- o20: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o21: וַ/יֹּאמַר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o22: אֶרְחָמְ/ךָ = H7355 רָחַם "to fondle…" [HVqi1cs/Sp2ms]
+- o23: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o24: חִזְקִ/י = H2391 חֵזֶק "help" [HNcmsc/Sp1cs]

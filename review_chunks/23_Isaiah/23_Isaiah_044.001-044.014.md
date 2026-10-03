@@ -821,3 +821,39 @@ Persian entries and current tags:
 - p29: را
 - p30: نمو می‌دهد  → H1431
 - p31: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 43:28 (context)
+
+- o1: וַ/אֲחַלֵּל = Hc "and" + H2490 חָלַל "properly, to bore, i.e. (by implication) to wound…" [HC/Vpi1cs]
+- o2: שָׂרֵי = H8269 שַׂר "a head person (of any rank or class)" [HNcmpc]
+- o3: קֹדֶשׁ = H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HNcmsa]
+- o4: וְ/אֶתְּנָה = Hc "and" + H5414 נָתַן "to give…" [HC/Vqh1cs]
+- o5: לַ/חֵרֶם = Hl "to" + H2764 חֵרֶם "physical (as shutting in) a net (either literally…" [HRd/Ncmsa]
+- o6: יַעֲקֹב = H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HNp]
+- o7: וְ/יִשְׂרָאֵל = Hc "and" + H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HC/Np]
+- o8: לְ/גִדּוּפִים = Hl "to" + H1421 גִּדּוּף "vilification" [HR/Ncbpa]
+
+### Isaiah 44:15 (context)
+
+- o1: וְ/הָיָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3ms]
+- o2: לְ/אָדָם = Hl "to" + H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HR/Ncmsa]
+- o3: לְ/בָעֵר = Hl "to" + H1197 בָּעַר "to kindle, i.e. consume (by fire or by eating)…" [HR/Vpc]
+- o4: וַ/יִּקַּח = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqw3ms]
+- o5: מֵ/הֶם = Hm "from" [HR/Sp3mp]
+- o6: וַ/יָּחָם = Hc "and" + H2552 חָמַם "to be hot (literally or figuratively)" [HC/Vqw3ms]
+- o7: אַף = H637 אַף "meaning accession (used as an adverb or…" [HTa]
+- o8: יַשִּׂיק = H5400 נָשַׂק "to catch fire" [HVhi3ms]
+- o9: וְ/אָפָה = Hc "and" + H644 אָפָה "to cook, especially to bake" [HC/Vqq3ms]
+- o10: לָחֶם = H3899 לֶחֶם "food (for man or beast), especially bread…" [HNcbsa]
+- o11: אַף = H637 אַף "meaning accession (used as an adverb or…" [HTa]
+- o12: יִפְעַל = H6466 פָּעַל "to do or make (systematically and habitually)…" [HVqi3ms]
+- o13: אֵל = H410 אֵל "strength; as adjective, mighty…" [HNcmsa]
+- o14: וַ/יִּשְׁתָּחוּ = Hc "and" + H7812 שָׁחָה "to depress, i.e. prostrate (especially reflexive…" [HC/Vtw3ms]
+- o15: עָשָׂ/הוּ = H6213 עָשָׂה "to do or make…" [HVqp3ms/Sp3ms]
+- o16: פֶסֶל = H6459 פֶּסֶל "an idol" [HNcmsa]
+- o17: וַ/יִּסְגָּד = Hc "and" + H5456 סָגַד "to prostrate oneself (in homage)" [HC/Vqw3ms]
+- o18: לָ/מוֹ = Hl "to" [HR/Sp3mp]

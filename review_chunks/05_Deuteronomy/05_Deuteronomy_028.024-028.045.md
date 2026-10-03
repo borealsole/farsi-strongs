@@ -1065,3 +1065,30 @@ Persian entries and current tags:
 - p41: ،
 - p42: نگاه دارید  → H8104
 - p43: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 28:23 (context)
+
+- o1: וְ/הָיוּ = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3cp]
+- o2: שָׁמֶי/ךָ = H8064 שָׁמַיִם "the sky (as aloft…" [HNcmpc/Sp2ms]
+- o3: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o4: עַל = H5921 עַל "above, over, upon…" [HR]
+- o5: רֹאשְׁ/ךָ = H7218 רֹאשׁ "the head (as most easily shaken)…" [HNcmsc/Sp2ms]
+- o6: נְחֹשֶׁת = H5178 נְחֹשֶׁת "copper, hence, something made of that metal…" [HNcfsa]
+- o7: וְ/הָ/אָרֶץ = Hc "and" + Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HC/Td/Ncbsa]
+- o8: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o9: תַּחְתֶּי/ךָ = H8478 תַּחַת "the bottom (as depressed)…" [HR/Sp2ms]
+- o10: בַּרְזֶל = H1270 בַּרְזֶל "iron (as cutting); by extension, an iron implement" [HNcmsa]
+
+### Deuteronomy 28:46 (context)
+
+- o1: וְ/הָיוּ = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3cp]
+- o2: בְ/ךָ = Hb "in" [HR/Sp2ms]
+- o3: לְ/אוֹת = Hl "to" + H226 אוֹת "a signal (literally or figuratively), as aflag…" [HR/Ncbsa]
+- o4: וּ/לְ/מוֹפֵת = Hc "and" + Hl "to" + H4159 מוֹפֵת "a miracle; by implication, a token or omen" [HC/R/Ncmsa]
+- o5: וּ/בְ/זַרְעֲ/ךָ = Hc "and" + Hb "in" + H2233 זֶרַע "seed…" [HC/R/Ncmsc/Sp2ms]
+- o6: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o7: עוֹלָם = H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HNcmsa]

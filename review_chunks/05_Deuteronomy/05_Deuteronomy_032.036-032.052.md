@@ -946,3 +946,38 @@ Persian entries and current tags:
 - p24: داخل نخواهی_شد  → H935
 - p25: .
 - p26: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 32:35 (context)
+
+- o1: לִ/י = Hl "to" [HR/Sp1cs]
+- o2: נָקָם = H5359 נָקָם "revenge" [HNcmsa]
+- o3: וְ/שִׁלֵּם = Hc "and" + H8005 שִׁלֵּם "requital" [HC/Ncmsa]
+- o4: לְ/עֵת = Hl "to" + H6256 עֵת "time, especially (adverb with preposition) now…" [HR/Ncbsc]
+- o5: תָּמוּט = H4131 מוֹט "to waver; by implication, to slip, shake, fall" [HVqi3fs]
+- o6: רַגְלָ/ם = H7272 רֶגֶל "a foot (as used in walking)…" [HNcfsc/Sp3mp]
+- o7: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o8: קָרוֹב = H7138 קָרוֹב "near (in place, kindred or time)" [HAamsa]
+- o9: יוֹם = H3117 יוֹם "a day (as the warm hours)…" [HNcmsc]
+- o10: אֵידָ/ם = H343 אֵיד "oppression; by implication misfortune, ruin" [HNcmsc/Sp3mp]
+- o11: וְ/חָשׁ = Hc "and" + H2363 חוּשׁ "to hurry…" [HC/Vqq3ms]
+- o12: עֲתִדֹת = H6264 עָתִיד "prepared; by implication, skilful…" [HAafpa]
+- o13: לָ/מוֹ = Hl "to" [HR/Sp3mp]
+
+### Deuteronomy 33:1 (context)
+
+- o1: וְ/זֹאת = Hc "and" + H2063 זֹאת "this (often used adverb)" [HC/Pdxfs]
+- o2: הַ/בְּרָכָה = Hd "the" + H1293 בְּרָכָה "benediction; by implication prosperity" [HTd/Ncfsa]
+- o3: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o4: בֵּרַךְ = H1288 בָרַךְ "to kneel…" [HVpp3ms]
+- o5: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o6: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsc]
+- o7: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o10: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o11: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o12: מוֹת/וֹ = H4194 מָוֶת "death (natural or violent)…" [HNcmsc/Sp3ms]

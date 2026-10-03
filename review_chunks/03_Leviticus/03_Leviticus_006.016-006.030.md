@@ -757,3 +757,37 @@ Persian entries and current tags:
 - p21: آتش  → H784
 - p22: سوزانده شود  → H8313
 - p23: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 6:15 (context)
+
+- o1: וְ/הֵרִים = Hc "and" + H7311 רוּם "to be high actively…" [HC/Vhq3ms]
+- o2: מִמֶּ/נּוּ = H4480 מִן "properly, a part of…" [HR/Sp1cp]
+- o3: בְּ/קֻמְצ/וֹ = Hb "in" + H7062 קֹמֶץ "a grasp, i.e. handful" [HR/Ncmsc/Sp3ms]
+- o4: מִ/סֹּלֶת = Hm "from" + H5560 סֹלֶת "flour (as chipped off)" [HR/Ncfsc]
+- o5: הַ/מִּנְחָה = Hd "the" + H4503 מִנְחָה "a donation; euphemistically, tribute…" [HTd/Ncfsa]
+- o6: וּ/מִ/שַּׁמְנָ/הּ = Hc "and" + Hm "from" + H8081 שֶׁמֶן "grease, especially liquid (as from the olive…" [HC/R/Ncmsc/Sp3fs]
+- o7: וְ/אֵת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o8: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o9: הַ/לְּבֹנָה = Hd "the" + H3828 לְבוֹנָה "frankincense (from its whiteness or perhaps that…" [HTd/Ncfsa]
+- o10: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o11: עַל = H5921 עַל "above, over, upon…" [HR]
+- o12: הַ/מִּנְחָה = Hd "the" + H4503 מִנְחָה "a donation; euphemistically, tribute…" [HTd/Ncfsa]
+- o13: וְ/הִקְטִיר = Hc "and" + H6999 קָטַר "to smoke…" [HC/Vhq3ms]
+- o14: הַ/מִּזְבֵּחַ = Hd "the" + H4196 מִזְבֵּחַ "an altar" [HTd/Ncmsa]
+- o15: רֵיחַ = H7381 רֵיחַ "odor (as if blown)" [HNcmsc]
+- o16: נִיחֹחַ = H5207 נִיחוֹחַ "properly, restful, i.e. pleasant…" [HNcmsa]
+- o17: אַזְכָּרָתָ/הּ = H234 אַזְכָּרָה "a reminder; specifically remembrance-offering" [HNcfsc/Sp3fs]
+- o18: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+
+### Leviticus 7:1 (context)
+
+- o1: וְ/זֹאת = Hc "and" + H2063 זֹאת "this (often used adverb)" [HC/Pdxfs]
+- o2: תּוֹרַת = H8451 תּוֹרָה "a precept or statute…" [HNcfsc]
+- o3: הָ/אָשָׁם = Hd "the" + H817 אָשָׁם "guilt; by implication, a fault…" [HTd/Ncmsa]
+- o4: קֹדֶשׁ = H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HNcmsc]
+- o5: קָדָשִׁים = H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HNcmpa]
+- o6: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]

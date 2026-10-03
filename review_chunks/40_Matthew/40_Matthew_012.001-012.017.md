@@ -802,3 +802,50 @@ Persian entries and current tags:
 - p9: رسد
 - p10: که  → G3588
 - p11: :
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 11:30 (context)
+
+- o1: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o2: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o3: ζυγός = G2218 ζυγός "pair of balances, yoke" [N-NSM]
+- o4: μου = G1473 ἐγώ "I, me" [P-1GS]
+- o5: χρηστὸς = G5543 χρηστός "better, easy, good(-ness), gracious, kind" [A-NSM]
+- o6: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o7: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o8: φορτίον = G5413 φορτίον "burden" [N-NSN]
+- o9: μου = G1473 ἐγώ "I, me" [P-1GS]
+- o10: ἐλαφρόν = G1645 ἐλαφρός "light" [A-NSN]
+- o11: ἐστιν. = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+
+### Matthew 12:18 (context)
+
+- o1: ἰδοὺ = G3708 ὁράω "behold, perceive, see, take heed" [V-2AMM-2S]
+- o2: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o3: παῖς = G3816 παῖς "child, maid(-en), (man) servant, son, young man" [N-NSM]
+- o4: μου = G1473 ἐγώ "I, me" [P-1GS]
+- o5: ὃν = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-ASM]
+- o6: ᾑρέτισα, = G140 αἱρετίζω "choose" [V-AAI-1S]
+- o7: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o8: ἀγαπητός = G27 ἀγαπητός "(dearly, well) beloved, dear" [A-NSM]
+- o9: μου = G1473 ἐγώ "I, me" [P-1GS]
+- o10: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o11: ὃν = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-ASM]
+- o12: ηὐδόκησεν = G2106 εὐδοκέω "think good, (be well) please(-d)…" [V-AAI-3S]
+- o13: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o14: ψυχή = G5590 ψυχή "heart (+ -ily), life, mind, soul, + us, + you" [N-NSF]
+- o15: μου· = G1473 ἐγώ "I, me" [P-1GS]
+- o16: θήσω = G5087 τίθημι "+ advise, appoint, bow, commit, conceive, give…" [V-FAI-1S]
+- o17: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o18: πνεῦμά = G4151 πνεῦμα "ghost, life, spirit(-ual, -ually), mind" [N-ASN]
+- o19: μου = G1473 ἐγώ "I, me" [P-1GS]
+- o20: ἐπ’ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o21: αὐτόν, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASM]
+- o22: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o23: κρίσιν = G2920 κρίσις "accusation, condemnation, damnation, judgment" [N-ASF]
+- o24: τοῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPN]
+- o25: ἔθνεσιν = G1484 ἔθνος "Gentile, heathen, nation, people" [N-DPN]
+- o26: ἀπαγγελεῖ. = G518 ἀπαγγέλλω "bring word (again), declare, report, shew (again)…" [V-FAI-3S]

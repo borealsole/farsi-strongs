@@ -1091,3 +1091,30 @@ Persian entries and current tags:
 - p40: برد
 - p41: .
 - p42: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 42:19 (context)
+
+- o1: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o2: כֵּנִים = H3651 כֵּן "properly, set upright…" [HAampa]
+- o3: אַתֶּם = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2mp]
+- o4: אֲחִי/כֶם = H251 אָח "a brother (used in the widest sense of literal…" [HNcmsc/Sp2mp]
+- o5: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o6: יֵאָסֵר = H631 אָסַר "to yoke or hitch…" [HVNi3ms]
+- o7: בְּ/בֵית = Hb "in" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc]
+- o8: מִשְׁמַרְ/כֶם = H4929 מִשְׁמָר "a guard (the man, the post or the prison)…" [HNcmsc/Sp2mp]
+- o9: וְ/אַתֶּם = Hc "and" + H859 אַתָּה "thou and thee, or (plural) ye and you" [HC/Pp2mp]
+- o10: לְכוּ = H3212 יָלַךְ "to walk (literally or figuratively)…" [HVqv2mp]
+- o11: הָבִיאוּ = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVhv2mp]
+- o12: שֶׁבֶר = H7668 שֶׁבֶר "grain (as if broken into kernels)" [HNcmsc]
+- o13: רַעֲבוֹן = H7459 רְעָבוֹן "famine" [HNcmsc]
+- o14: בָּתֵּי/כֶם = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmpc/Sp2mp]
+
+### Genesis 43:1 (context)
+
+- o1: וְ/הָ/רָעָב = Hc "and" + Hd "the" + H7458 רָעָב "hunger (more or less extensive)" [HC/Td/Ncmsa]
+- o2: כָּבֵד = H3515 כָּבֵד "heavy…" [HAamsa]
+- o3: בָּ/אָרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HRd/Ncbsa]

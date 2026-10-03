@@ -837,3 +837,52 @@ Persian entries and current tags:
 - p14: حکومت  → H4437
 - p15: رسید  → H6902
 - p16: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Daniel 5:16 (context)
+
+- o1: וַ/אֲנָה = Hc "and" + H576 אֲנָא "I" [AC/Pp1cs]
+- o2: שִׁמְעֵת = H8086 שְׁמַע "to hear intelligently (often with implication of…" [AVqp1cs]
+- o3: עלי/ך = H5922 עַל "above, over, upon…" [AR/Sp2ms]
+- o4: דִּי = H1768 דִּי "that, used as relative conjunction…" [ATr]
+- o5: תוכל = H3202 יְכֵל "to be able, literally (can…" [AVqi2ms]
+- o6: פִּשְׁרִין = H6591 פְּשַׁר "an interpretation" [ANcmpa]
+- o7: לְ/מִפְשַׁר = Hl "to" + H6590 פְּשַׁר "to interpret" [AR/Vqc]
+- o8: וְ/קִטְרִין = Hc "and" + H7001 קְטַר "a knot (as tied up), i.e. (figuratively) a riddle…" [AC/Ncmpa]
+- o9: לְ/מִשְׁרֵא = Hl "to" + H8271 שְׁרֵא "to free, separate…" [AR/Vqc]
+- o10: כְּעַן = H3705 כְּעַן "now" [AD]
+- o11: הֵן = H2006 הֵן "lo! also there(-fore), (un-) less, whether, but…" [AC]
+- o12: תוכל = H3202 יְכֵל "to be able, literally (can…" [AVqi2ms]
+- o13: כְּתָבָ/א = H3792 כְּתָב "something written, i.e. a writing, record or book" [ANcmsd/Td]
+- o14: לְ/מִקְרֵא = Hl "to" + H7123 קְרָא "to call out to (i.e. properly, address by name…" [AR/Vqc]
+- o15: וּ/פִשְׁרֵ/הּ = Hc "and" + H6591 פְּשַׁר "an interpretation" [AC/Ncmsc/Sp3ms]
+- o16: לְ/הוֹדָעֻתַ/נִי = Hl "to" + H3046 יְדַע "to know (properly, to ascertain by seeing)…" [AR/Vhc/Sp1cs]
+- o17: אַרְגְּוָנָ/א = H711 אַרְגְּוָן "purple" [ANcmsd/Td]
+- o18: תִלְבַּשׁ = H3848 לְבַשׁ "properly, wrap around…" [AVqi2ms]
+- o19: ו/המונכ/א = Hc "and" + H2002 הַמְנִיךְ "a necklace" [AC/Ncmsd/Td]
+- o20: דִי = H1768 דִּי "that, used as relative conjunction…" [ATr]
+- o21: דַהֲבָ/א = H1722 דְּהַב "gold" [ANcmsd/Td]
+- o22: עַל = H5922 עַל "above, over, upon…" [AR]
+- o23: צַוְּארָ/ךְ = H6676 צַוַּאר "the back of the neck (as that on which burdens…" [ANcmsc/Sp2ms]
+- o24: וְ/תַלְתָּא = Hc "and" + H8531 תְּלַת "a tertiary rank" [AC/Aobsa]
+- o25: בְ/מַלְכוּתָ/א = Hb "in" + H4437 מַלְכוּ "dominion (abstractly or concretely)" [AR/Ncfsd/Td]
+- o26: תִּשְׁלַט = H7981 שְׁלֵט "to dominate, i.e. govern…" [AVqi2ms]
+
+### Daniel 6:1 (context)
+
+- o1: שְׁפַר = H8232 שְׁפַר "to be beautiful" [AVqp3ms]
+- o2: קֳדָם = H6925 קֳדָם "before" [AR]
+- o3: דָּרְיָוֶשׁ = H1868 דָּרְיָוֵשׁ "Darejavesh…" [ANp]
+- o4: וַ/הֲקִים = Hc "and" + H6966 קוּם "to rise (in various applications, literal…" [AC/Vhp3ms]
+- o5: עַל = H5922 עַל "above, over, upon…" [AR]
+- o6: מַלְכוּתָ/א = H4437 מַלְכוּ "dominion (abstractly or concretely)" [ANcfsd/Td]
+- o7: לַ/אֲחַשְׁדַּרְפְּנַיָּ/א = Hl "to" + H324 אֲחַשְׁדַּרְפַּן "a satrap or governorof amain province (of Persia)" [ATo/Ncmpd/Td]
+- o8: מְאָה = H3969 מְאָה "a hundred; also as a multiplicative and a fraction" [AAcbsa]
+- o9: וְ/עֶשְׂרִין = Hc "and" + H6243 עֶשְׂרִין "twenty; also (ordinal) twentieth" [AC/Acbpa]
+- o10: דִּי = H1768 דִּי "that, used as relative conjunction…" [ATr]
+- o11: לֶהֱוֺן = H1934 הָוָא "to exist…" [AVqi3mp]
+- o12: בְּ/כָל = Hb "in" + H3606 כֹּל "properly, the whole…" [AR/Ncmsc]
+- o13: מַלְכוּתָ/א = H4437 מַלְכוּ "dominion (abstractly or concretely)" [ANcfsd/Td]

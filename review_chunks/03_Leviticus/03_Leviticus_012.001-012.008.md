@@ -496,3 +496,33 @@ Persian entries and current tags:
 - p37: طاهر خواهد_شد  → H2891
 - p38: .
 - p39: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 11:47 (context)
+
+- o1: לְ/הַבְדִּיל = Hl "to" + H914 בָּדַל "to divide (in variation senses literally or…" [HR/Vhc]
+- o2: בֵּין = H996 בֵּין "between (repeated before each noun…" [HR]
+- o3: הַ/טָּמֵא = Hd "the" + H2931 טָמֵא "foul in a religious sense" [HTd/Aamsa]
+- o4: וּ/בֵין = Hc "and" + H996 בֵּין "between (repeated before each noun…" [HC/R]
+- o5: הַ/טָּהֹר = Hd "the" + H2889 טָהוֹר "pure (in a physical, chemical…" [HTd/Aamsa]
+- o6: וּ/בֵין = Hc "and" + H996 בֵּין "between (repeated before each noun…" [HC/R]
+- o7: הַ/חַיָּה = Hd "the" + H2416 חַי "alive; hence, raw (flesh)…" [HTd/Ncfsa]
+- o8: הַ/נֶּאֱכֶלֶת = Hd "the" + H398 אָכַל "to eat (literally or figuratively)" [HTd/VNsfsa]
+- o9: וּ/בֵין = Hc "and" + H996 בֵּין "between (repeated before each noun…" [HC/R]
+- o10: הַ/חַיָּה = Hd "the" + H2416 חַי "alive; hence, raw (flesh)…" [HTd/Ncfsa]
+- o11: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o12: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o13: תֵאָכֵל = H398 אָכַל "to eat (literally or figuratively)" [HVNi3fs]
+
+### Leviticus 13:1 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: וְ/אֶל = Hc "and" + H413 אֵל "near, with or among; often in general, to" [HC/R]
+- o6: אַהֲרֹן = H175 אַהֲרוֹן "Aharon, the brother of Moses" [HNp]
+- o7: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

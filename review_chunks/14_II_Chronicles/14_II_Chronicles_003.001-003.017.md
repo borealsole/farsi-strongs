@@ -912,3 +912,42 @@ Persian entries and current tags:
 - p34: بوعَز  → H1162
 - p35: نامید  → H7121 H8034
 - p36: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 2:18 (context)
+
+- o1: וַ/יַּעַשׂ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3ms]
+- o2: מֵ/הֶם = Hm "from" [HR/Sp3mp]
+- o3: שִׁבְעִים = H7657 שִׁבְעִים "seventy" [HAcbpa]
+- o4: אֶלֶף = H505 אֶלֶף "hence (the ox's head being the first letter of…" [HAcbsa]
+- o5: סַבָּל = H5449 סַבָּל "a porter" [HNcmsa]
+- o6: וּ/שְׁמֹנִים = Hc "and" + H8084 שְׁמֹנִים "eighty, also eightieth" [HC/Acbpa]
+- o7: אֶלֶף = H505 אֶלֶף "hence (the ox's head being the first letter of…" [HAcbsa]
+- o8: חֹצֵב = H2672 חָצַב "to cut or carve (wood, stone or other material)…" [HVqrmsa]
+- o9: בָּ/הָר = Hb "in" + H2022 הַר "a mountain or range of hills (sometimes used…" [HRd/Ncmsa]
+- o10: וּ/שְׁלֹשֶׁת = Hc "and" + H7969 שָׁלוֹשׁ "three…" [HC/Acmsc]
+- o11: אֲלָפִים = H505 אֶלֶף "hence (the ox's head being the first letter of…" [HAcbpa]
+- o12: וְ/שֵׁשׁ = Hc "and" + H8337 שֵׁשׁ "six (as an overplus beyond five or the fingers of…" [HC/Acfsa]
+- o13: מֵאוֹת = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbpa]
+- o14: מְנַצְּחִים = H5329 נָצַח "properly, to glitter from afar…" [HVprmpa]
+- o15: לְ/הַעֲבִיד = Hl "to" + H5647 עָבַד "to work (in any sense)…" [HR/Vhc]
+- o16: אֶת = H853 אֵת "properly…" [HTo]
+- o17: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+
+### II Chronicles 4:1 (context)
+
+- o1: וַ/יַּעַשׂ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3ms]
+- o2: מִזְבַּח = H4196 מִזְבֵּחַ "an altar" [HNcmsc]
+- o3: נְחֹשֶׁת = H5178 נְחֹשֶׁת "copper, hence, something made of that metal…" [HNcfsa]
+- o4: עֶשְׂרִים = H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HAcbpa]
+- o5: אַמָּה = H520 אַמָּה "properly, a mother (i.e. unit of measure…" [HNcfsa]
+- o6: אָרְכּ/וֹ = H753 אֹרֶךְ "length" [HNcmsc/Sp3ms]
+- o7: וְ/עֶשְׂרִים = Hc "and" + H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HC/Acbpa]
+- o8: אַמָּה = H520 אַמָּה "properly, a mother (i.e. unit of measure…" [HNcfsa]
+- o9: רָחְבּ/וֹ = H7341 רֹחַב "width (literally or figuratively)" [HNcmsc/Sp3ms]
+- o10: וְ/עֶשֶׂר = Hc "and" + H6235 עֶשֶׂר "ten (as an accumulation to the extent of the…" [HC/Acfsa]
+- o11: אַמּוֹת = H520 אַמָּה "properly, a mother (i.e. unit of measure…" [HNcfpa]
+- o12: קוֹמָת/וֹ = H6967 קוֹמָה "height" [HNcfsc/Sp3ms]

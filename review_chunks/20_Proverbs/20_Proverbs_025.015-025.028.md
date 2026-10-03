@@ -532,3 +532,30 @@ Persian entries and current tags:
 - p14: بدان
 - p15: رخنه کرده_باشند  → H6555
 - p16: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 25:14 (context)
+
+- o1: נְשִׂיאִים = H5387 נָשִׂיא "properly, an exalted one, i.e. a king or sheik…" [HNcmpa]
+- o2: וְ/רוּחַ = Hc "and" + H7307 רוּחַ "wind…" [HC/Ncbsa]
+- o3: וְ/גֶשֶׁם = Hc "and" + H1653 גֶּשֶׁם "a shower" [HC/Ncmsa]
+- o4: אָיִן = H369 אַיִן "a non-entity…" [HTn]
+- o5: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o6: מִתְהַלֵּל = H1984 הָלַל "to be clear (orig. of sound…" [HVtrmsa]
+- o7: בְּ/מַתַּת = Hb "in" + H4991 מַתָּת "a present" [HR/Ncfsc]
+- o8: שָׁקֶר = H8267 שֶׁקֶר "an untruth…" [HNcmsa]
+
+### Proverbs 26:1 (context)
+
+- o1: כַּ/שֶּׁלֶג = Hk "like" + H7950 שֶׁלֶג "snow (probably from its whiteness)" [HRd/Ncmsa]
+- o2: בַּ/קַּיִץ = Hb "in" + H7019 קַיִץ "harvest (as the crop)…" [HRd/Ncmsa]
+- o3: וְ/כַ/מָּטָר = Hc "and" + Hk "like" + H4306 מָטַר "rain" [HC/Rd/Ncmsa]
+- o4: בַּ/קָּצִיר = Hb "in" + H7105 קָצִיר "severed, i.e. harvest (as reaped), the crop…" [HRd/Ncmsa]
+- o5: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o6: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o7: נָאוֶה = H5000 נָאוֶה "suitable, or beautiful" [HAamsa]
+- o8: לִ/כְסִיל = Hl "to" + H3684 כְּסִיל "properly, fat, i.e. (figuratively) stupid or silly" [HR/Aamsa]
+- o9: כָּבוֹד = H3519 כָּבוֹד "properly, weight…" [HNcbsa]

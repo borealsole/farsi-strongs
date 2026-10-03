@@ -1186,3 +1186,58 @@ Persian entries and current tags:
 - p23: بسیار  → H7235
 - p24: عبادت خواهد_کرد  → H5647
 - p25: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 9:37 (context)
+
+- o1: ו/הית = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3fs]
+- o2: נִבְלַת = H5038 נְבֵלָה "a flabby thing…" [HNcfsc]
+- o3: אִיזֶבֶל = H348 אִיזֶבֶל "Izebel, the wife of king Ahab" [HNp]
+- o4: כְּ/דֹמֶן = Hk "like" + H1828 דֹּמֶן "manure" [HR/Ncmsa]
+- o5: עַל = H5921 עַל "above, over, upon…" [HR]
+- o6: פְּנֵי = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc]
+- o7: הַ/שָּׂדֶה = Hd "the" + H7704 שָׂדֶה "a field (as flat)" [HTd/Ncmsa]
+- o8: בְּ/חֵלֶק = Hb "in" + H2506 חֵלֶק "properly, smoothness (of the tongue)…" [HR/Ncmsc]
+- o9: יִזְרְעֶאל = H3157 יִזְרְעֵאל "Jizreel…" [HNp]
+- o10: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o11: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o12: יֹאמְרוּ = H559 אָמַר "to say (used with great latitude)" [HVqi3mp]
+- o13: זֹאת = H2063 זֹאת "this (often used adverb)" [HPdxfs]
+- o14: אִיזָבֶל = H348 אִיזֶבֶל "Izebel, the wife of king Ahab" [HNp]
+
+### II Kings 10:19 (context)
+
+- o1: וְ/עַתָּה = Hc "and" + H6258 עַתָּה "at this time, whether adverb…" [HC/D]
+- o2: כָל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: נְבִיאֵי = H5030 נָבִיא "a prophet or (generally) inspired man" [HNcmpc]
+- o4: הַ/בַּעַל = Hd "the" + H1168 בַּעַל "Baal, a Phoenician deity" [HTd/Np]
+- o5: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o6: עֹבְדָי/ו = H5647 עָבַד "to work (in any sense)…" [HVqrmpc/Sp3ms]
+- o7: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o8: כֹּהֲנָי/ו = H3548 כֹּהֵן "literally one officiating, a priest…" [HNcmpc/Sp3ms]
+- o9: קִרְאוּ = H7121 קָרָא "to call out to (i.e. properly, address by name…" [HVqv2mp]
+- o10: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o11: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o12: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o13: יִפָּקֵד = H6485 פָּקַד "to visit (with friendly or hostile intent)…" [HVNj3ms]
+- o14: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o15: זֶבַח = H2077 זֶבַח "properly, a slaughter…" [HNcmsa]
+- o16: גָּדוֹל = H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HAamsa]
+- o17: לִ/י = Hl "to" [HR/Sp1cs]
+- o18: לַ/בַּעַל = Hl "to" + H1168 בַּעַל "Baal, a Phoenician deity" [HRd/Np]
+- o19: כֹּל = H3605 כֹּל "properly, the whole…" [HNcmsa]
+- o20: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o21: יִפָּקֵד = H6485 פָּקַד "to visit (with friendly or hostile intent)…" [HVNi3ms]
+- o22: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o23: יִחְיֶה = H2421 חָיָה "to live, whether literally or figuratively…" [HVqi3ms]
+- o24: וְ/יֵהוּא = Hc "and" + H3058 יֵהוּא "Jehu, the name of five Israelites" [HC/Np]
+- o25: עָשָׂה = H6213 עָשָׂה "to do or make…" [HVqp3ms]
+- o26: בְ/עָקְבָּה = Hb "in" + H6122 עׇקְבָה "trickery" [HR/Ncfsa]
+- o27: לְמַעַן = H4616 מַעַן "properly, heed, i.e. purpose…" [HR]
+- o28: הַאֲבִיד = H6 אָבַד "properly, to wander away, i.e. lose oneself…" [HVhc]
+- o29: אֶת = H853 אֵת "properly…" [HTo]
+- o30: עֹבְדֵי = H5647 עָבַד "to work (in any sense)…" [HVqrmpc]
+- o31: הַ/בָּעַל = Hd "the" + H1168 בַּעַל "Baal, a Phoenician deity" [HTd/Np]

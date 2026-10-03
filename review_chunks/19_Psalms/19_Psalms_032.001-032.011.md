@@ -513,3 +513,25 @@ Persian entries and current tags:
 - p15: بانگ  → H7442 H3477
 - p16: شادی برآورید  → H1523
 - p17: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 31:24 (context)
+
+- o1: חִזְקוּ = H2388 חָזַק "to fasten upon…" [HVqv2mp]
+- o2: וְ/יַאֲמֵץ = Hc "and" + H553 אָמַץ "to be alert…" [HC/Vhi3ms]
+- o3: לְבַבְ/כֶם = H3824 לֵבָב "the heart (as the most interior organ)" [HNcmsc/Sp2mp]
+- o4: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o5: הַ/מְיַחֲלִים = Hd "the" + H3176 יָחַל "to wait; by implication, to be patient, hope" [HTd/Vprmpa]
+- o6: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+
+### Psalms 33:1 (context)
+
+- o1: רַנְּנוּ = H7442 רָנַן "properly, to creak (or emit a stridulous sound)…" [HVpv2mp]
+- o2: צַדִּיקִים = H6662 צַדִּיק "just" [HAampa]
+- o3: בַּ/יהוָה = Hb "in" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o4: לַ/יְשָׁרִים = Hl "to" + H3477 יָשָׁר "straight (literally or figuratively)" [HRd/Aampa]
+- o5: נָאוָה = H5000 נָאוֶה "suitable, or beautiful" [HAafsa]
+- o6: תְהִלָּה = H8416 תְּהִלָּה "laudation; specifically (concretely) a hymn" [HNcfsa]

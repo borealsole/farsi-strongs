@@ -728,3 +728,66 @@ Persian entries and current tags:
 - p17: می‌پزند  → H1310
 - p18: .
 - p19: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 46:12 (context)
+
+- o1: וְ/כִי = Hc "and" + H3588 כִּי "by implication) very widely used as a relative…" [HC/C]
+- o2: יַעֲשֶׂה = H6213 עָשָׂה "to do or make…" [HVqi3ms]
+- o3: הַ/נָּשִׂיא = Hd "the" + H5387 נָשִׂיא "properly, an exalted one, i.e. a king or sheik…" [HTd/Ncmsa]
+- o4: נְדָבָה = H5071 נְדָבָה "properly (abstractly) spontaneity…" [HNcfsa]
+- o5: עוֹלָה = H5930 עֹלָה "a step or (collectively, stairs, as ascending)…" [HNcfsa]
+- o6: אוֹ = H176 אוֹ "desire (and so probably in Proverbs 31:4)…" [HC]
+- o7: שְׁלָמִים = H8002 שֶׁלֶם "properly, requital…" [HNcmpa]
+- o8: נְדָבָה = H5071 נְדָבָה "properly (abstractly) spontaneity…" [HNcfsa]
+- o9: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o10: וּ/פָתַח = Hc "and" + H6605 פָּתַח "to open wide (literally or figuratively)…" [HC/Vqq3ms]
+- o11: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o12: אֶת = H853 אֵת "properly…" [HTo]
+- o13: הַ/שַּׁעַר = Hd "the" + H8179 שַׁעַר "an opening, i.e. door or gate" [HTd/Ncmsa]
+- o14: הַ/פֹּנֶה = Hd "the" + H6437 פָּנָה "to turn…" [HTd/Vqrmsa]
+- o15: קָדִים = H6921 קָדִים "the fore or front part…" [HNcmsa]
+- o16: וְ/עָשָׂה = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqq3ms]
+- o17: אֶת = H853 אֵת "properly…" [HTo]
+- o18: עֹלָת/וֹ = H5930 עֹלָה "a step or (collectively, stairs, as ascending)…" [HNcfsc/Sp3ms]
+- o19: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o20: שְׁלָמָי/ו = H8002 שֶׁלֶם "properly, requital…" [HNcmpc/Sp3ms]
+- o21: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o22: יַעֲשֶׂה = H6213 עָשָׂה "to do or make…" [HVqi3ms]
+- o23: בְּ/יוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmsc]
+- o24: הַ/שַּׁבָּת = Hd "the" + H7676 שַׁבָּת "intermission, i.e (specifically) the Sabbath" [HTd/Ncbsa]
+- o25: וְ/יָצָא = Hc "and" + H3318 יָצָא "to go (causatively, bring) out…" [HC/Vqq3ms]
+- o26: וְ/סָגַר = Hc "and" + H5462 סָגַר "to shut up; figuratively, to surrender" [HC/Vqq3ms]
+- o27: אֶת = H853 אֵת "properly…" [HTo]
+- o28: הַ/שַּׁעַר = Hd "the" + H8179 שַׁעַר "an opening, i.e. door or gate" [HTd/Ncmsa]
+- o29: אַחֲרֵי = H310 אַחַר "properly, the hind part…" [HR]
+- o30: צֵאת/וֹ = H3318 יָצָא "to go (causatively, bring) out…" [HVqc/Sp3ms]
+
+### Ezekiel 47:1 (context)
+
+- o1: וַ/יְשִׁבֵ/נִי = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vhw3ms/Sp1cs]
+- o2: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o3: פֶּתַח = H6607 פֶּתַח "an opening (literally)…" [HNcmsc]
+- o4: הַ/בַּיִת = Hd "the" + H1004 בַּיִת "a house (in the greatest variation of…" [HTd/Ncmsa]
+- o5: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o6: מַיִם = H4325 מַיִם "water; figuratively, juice…" [HNcmpa]
+- o7: יֹצְאִים = H3318 יָצָא "to go (causatively, bring) out…" [HVqrmpa]
+- o8: מִ/תַּחַת = Hm "from" + H8478 תַּחַת "the bottom (as depressed)…" [HR/R]
+- o9: מִפְתַּן = H4670 מִפְתָּן "a stretcher, i.e. a sill" [HNcmsc]
+- o10: הַ/בַּיִת = Hd "the" + H1004 בַּיִת "a house (in the greatest variation of…" [HTd/Ncmsa]
+- o11: קָדִימָ/ה = H6921 קָדִים "the fore or front part…" [HNcmsa/Sd]
+- o12: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o13: פְנֵי = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc]
+- o14: הַ/בַּיִת = Hd "the" + H1004 בַּיִת "a house (in the greatest variation of…" [HTd/Ncmsa]
+- o15: קָדִים = H6921 קָדִים "the fore or front part…" [HNcmsa]
+- o16: וְ/הַ/מַּיִם = Hc "and" + Hd "the" + H4325 מַיִם "water; figuratively, juice…" [HC/Td/Ncmpa]
+- o17: יֹרְדִים = H3381 יָרַד "to descend (literally, to go downwards…" [HVqrmpa]
+- o18: מִ/תַּחַת = Hm "from" + H8478 תַּחַת "the bottom (as depressed)…" [HR/R]
+- o19: מִ/כֶּתֶף = Hm "from" + H3802 כָּתֵף "the shoulder (proper, i.e. upper end of the arm…" [HR/Ncfsc]
+- o20: הַ/בַּיִת = Hd "the" + H1004 בַּיִת "a house (in the greatest variation of…" [HTd/Ncmsa]
+- o21: הַ/יְמָנִית = Hd "the" + H3233 יְמָנִי "right (i.e. at the right hand)" [HTd/Aafsa]
+- o22: מִ/נֶּגֶב = Hm "from" + H5045 נֶגֶב "the south (from its drought)…" [HR/Ncmsa]
+- o23: לַ/מִּזְבֵּחַ = Hl "to" + H4196 מִזְבֵּחַ "an altar" [HRd/Ncmsa]

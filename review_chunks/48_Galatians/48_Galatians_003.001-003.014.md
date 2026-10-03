@@ -708,3 +708,40 @@ Persian entries and current tags:
 - p26: ایمان  → G1860 G4102
 - p27: دریافت کنیم  → G2983
 - p28: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Galatians 2:21 (context)
+
+- o1: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o2: ἀθετῶ = G114 ἀθετέω "cast off, despise, disannul, frustrate…" [V-PAI-1S]
+- o3: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o4: χάριν = G5485 χάρις "acceptable, benefit, favour, gift, grace(- ious)…" [N-ASF]
+- o5: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o6: θεοῦ· = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o7: εἰ = G1487 εἰ "forasmuch as, if, that, (al-)though, whether" [COND]
+- o8: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o9: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o10: νόμου = G3551 νόμος "law" [N-GSM]
+- o11: δικαιοσύνη, = G1343 δικαιοσύνη "righteousness" [N-NSF]
+- o12: ἄρα = G686 ἄρα "haply, (what) manner (of man), no doubt, perhaps…" [PRT]
+- o13: Χριστὸς = G5547 Χριστός "Christ" [N-NSM]
+- o14: δωρεὰν = G1432 δωρεάν "without a cause, freely, for naught, in vain" [ADV]
+- o15: ἀπέθανεν. = G599 ἀποθνήσκω "be dead, death, die, lie a-dying, be slain ( with)" [V-2AAI-3S]
+
+### Galatians 3:15 (context)
+
+- o1: Ἀδελφοί, = G80 ἀδελφός "brother" [N-VPM]
+- o2: κατὰ = G2596 κατά "about, according as (to), after, against…" [PREP]
+- o3: ἄνθρωπον = G444 ἄνθρωπος "certain, man" [N-ASM]
+- o4: λέγω· = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-1S]
+- o5: ὅμως = G3676 ὅμως "and even, nevertheless, though but" [CONJ]
+- o6: ἀνθρώπου = G444 ἄνθρωπος "certain, man" [N-GSM]
+- o7: κεκυρωμένην = G2964 κυρόω "confirm" [V-RPP-ASF]
+- o8: διαθήκην = G1242 διαθήκη "covenant, testament" [N-ASF]
+- o9: οὐδεὶς = G3762 οὐδείς "any (man), aught, man, neither any (thing)…" [A-NSM-N]
+- o10: ἀθετεῖ = G114 ἀθετέω "cast off, despise, disannul, frustrate…" [V-PAI-3S]
+- o11: ἢ = G2228 ἤ "and, but (either), (n-)either, except it be…" [PRT]
+- o12: ἐπιδιατάσσεται. = G1928 ἐπιδιατάσσομαι "add to" [V-PNI-3S]

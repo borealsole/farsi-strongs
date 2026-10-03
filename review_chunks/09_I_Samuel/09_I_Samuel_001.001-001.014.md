@@ -763,3 +763,28 @@ Persian entries and current tags:
 - p13: دور کن  → H5493
 - p14: !
 - p15: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 1:15 (context)
+
+- o1: וַ/תַּעַן = Hc "and" + H6030 עָנָה "properly, to eye or (generally) to heed…" [HC/Vqw3fs]
+- o2: חַנָּה = H2584 חַנָּה "Channah, an Israelitess" [HNp]
+- o3: וַ/תֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3fs]
+- o4: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o5: אֲדֹנִ/י = H113 אָדוֹן "sovereign, i.e. controller (human or divine)" [HNcmsc/Sp1cs]
+- o6: אִשָּׁה = H802 אִשָּׁה "a woman" [HNcfsa]
+- o7: קְשַׁת = H7186 קָשֶׁה "severe (in various applications)" [HAafsc]
+- o8: רוּחַ = H7307 רוּחַ "wind…" [HNcbsa]
+- o9: אָנֹכִי = H595 אָנֹכִי "I" [HPp1cs]
+- o10: וְ/יַיִן = Hc "and" + H3196 יַיִן "wine (as fermented); by implication, intoxication" [HC/Ncmsa]
+- o11: וְ/שֵׁכָר = Hc "and" + H7941 שֵׁכָר "an intoxicant, i.e. intensely alcoholic liquor" [HC/Ncmsa]
+- o12: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o13: שָׁתִיתִי = H8354 שָׁתָה "to imbibe (literally or figuratively)" [HVqp1cs]
+- o14: וָ/אֶשְׁפֹּךְ = Hc "and" + H8210 שָׁפַךְ "to spill forth (blood, a libation, liquid metal…" [HC/Vqw1cs]
+- o15: אֶת = H853 אֵת "properly…" [HTo]
+- o16: נַפְשִׁ/י = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsc/Sp1cs]
+- o17: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o18: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]

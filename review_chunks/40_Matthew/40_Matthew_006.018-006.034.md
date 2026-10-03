@@ -912,3 +912,30 @@ Persian entries and current tags:
 - p17: کافی  → G713
 - p18: است
 - p19: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 6:17 (context)
+
+- o1: σὺ = G4771 σύ "thou" [P-2NS]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: νηστεύων = G3522 νηστεύω "fast" [V-PAP-NSM]
+- o4: ἄλειψαί = G218 ἀλείφω "anoint" [V-AMM-2S]
+- o5: σου = G4771 σύ "thou" [P-2GS]
+- o6: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o7: κεφαλὴν = G2776 κεφαλή "head" [N-ASF]
+- o8: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o9: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o10: πρόσωπόν = G4383 πρόσωπον "outward) appearance, before, countenance, face…" [N-ASN]
+- o11: σου = G4771 σύ "thou" [P-2GS]
+- o12: νίψαι, = G3538 νίπτω "wash" [V-AMM-2S]
+
+### Matthew 7:1 (context)
+
+- o1: Μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o2: κρίνετε, = G2919 κρίνω "avenge, conclude, condemn, damn, decree…" [V-PAM-2P]
+- o3: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o4: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o5: κριθῆτε. = G2919 κρίνω "avenge, conclude, condemn, damn, decree…" [V-APS-2P]

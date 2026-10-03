@@ -623,3 +623,37 @@ Persian entries and current tags:
 - p18: محبت  → G26
 - p19: است
 - p20: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Corinthians 12:31 (context)
+
+- o1: ζηλοῦτε = G2206 ζηλόω "affect, covet (earnestly), (have) desire…" [V-PAM-2P]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
+- o4: χαρίσματα = G5486 χάρισμα "(free) gift" [N-APN]
+- o5: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
+- o6: μείζονα. = G3173 μέγας "+ fear) exceedingly, great(-est), high, large…" [A-APN-C]
+- o7: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o8: ἔτι = G2089 ἔτι "after that, also, ever, (any) further…" [ADV]
+- o9: καθ’ = G2596 κατά "about, according as (to), after, against…" [PREP]
+- o10: ὑπερβολὴν = G5236 ὑπερβολή "abundance, (far more) exceeding, excellency…" [N-ASF]
+- o11: ὁδὸν = G3598 ὁδός "journey, (high-)way" [N-ASF]
+- o12: ὑμῖν = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
+- o13: δείκνυμι. = G1166 δεικνύω "shew" [V-PAI-1S]
+
+### I Corinthians 14:1 (context)
+
+- o1: Διώκετε = G1377 διώκω "ensue, follow (after), given to…" [V-PAM-2P]
+- o2: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o3: ἀγάπην, = G26 ἀγάπη "(feast of) charity(-ably), dear, love" [N-ASF]
+- o4: ζηλοῦτε = G2206 ζηλόω "affect, covet (earnestly), (have) desire…" [V-PAM-2P]
+- o5: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o6: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
+- o7: πνευματικά, = G4152 πνευματικός "spiritual" [A-APN]
+- o8: μᾶλλον = G3123 μᾶλλον "+ better, far, (the) more (and more)…" [ADV]
+- o9: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o10: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o11: προφητεύητε. = G4395 προφητεύω "prophesy" [V-PAS-2P]

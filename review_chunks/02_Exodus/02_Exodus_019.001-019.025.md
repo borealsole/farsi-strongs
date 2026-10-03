@@ -1312,3 +1312,28 @@ Persian entries and current tags:
 - p9: بدیشان
 - p10: بازگفت  → H559
 - p11: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 18:27 (context)
+
+- o1: וַ/יְשַׁלַּח = Hc "and" + H7971 שָׁלַח "to send away, for…" [HC/Vpw3ms]
+- o2: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: חֹתְנ/וֹ = H2859 חָתַן "to give (a daughter) away in marriage…" [HVqrmsc/Sp3ms]
+- o5: וַ/יֵּלֶךְ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3ms]
+- o6: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o7: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o8: אַרְצ/וֹ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsc/Sp3ms]
+
+### Exodus 20:1 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o3: אֵת = H853 אֵת "properly…" [HTo]
+- o4: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o5: הַ/דְּבָרִים = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmpa]
+- o6: הָ/אֵלֶּה = Hd "the" + H428 אֵלֶּה "these or those" [HTd/Pdxcp]
+- o7: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

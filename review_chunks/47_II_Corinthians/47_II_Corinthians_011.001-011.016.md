@@ -829,3 +829,42 @@ Persian entries and current tags:
 - p23: اندکی  → G3398 G5100
 - p24: فخر کنم  → G2744
 - p25: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Corinthians 10:18 (context)
+
+- o1: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o2: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o3: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o4: ἑαυτὸν = G1438 ἑαυτοῦ "alone, her (own, -self), (he) himself, his (own)…" [F-3ASM]
+- o5: συνιστάνων, = G4921 συνιστάω "approve, commend, consist, make, stand (with)" [V-PAP-NSM]
+- o6: ἐκεῖνός = G1565 ἐκεῖνος "he, it, the other (same), selfsame, that (same…" [D-NSM]
+- o7: ἐστιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o8: δόκιμος, = G1384 δόκιμος "approved, tried" [A-NSM]
+- o9: ἀλλ’ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o10: ὃν = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-ASM]
+- o11: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o12: κύριος = G2962 κύριος "God, Lord, master, Sir" [N-NSM]
+- o13: συνίστησιν. = G4921 συνιστάω "approve, commend, consist, make, stand (with)" [V-PAI-3S]
+
+### II Corinthians 11:17 (context)
+
+- o1: ὃ = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-ASN]
+- o2: λαλῶ = G2980 λαλέω "preach, say, speak (after), talk, tell, utter" [V-PAI-1S]
+- o3: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o4: κατὰ = G2596 κατά "about, according as (to), after, against…" [PREP]
+- o5: κύριον = G2962 κύριος "God, Lord, master, Sir" [N-ASM]
+- o6: λαλῶ, = G2980 λαλέω "preach, say, speak (after), talk, tell, utter" [V-PAI-1S]
+- o7: ἀλλ’ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o8: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
+- o9: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o10: ἀφροσύνῃ, = G877 ἀφροσύνη "folly, foolishly(-ness)" [N-DSF]
+- o11: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o12: ταύτῃ = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-DSF]
+- o13: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o14: ὑποστάσει = G5287 ὑπόστασις "confidence, confident, person, substance" [N-DSF]
+- o15: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o16: καυχήσεως. = G2746 καύχησις "boasting, whereof I may glory, glorying, rejoicing" [N-GSF]

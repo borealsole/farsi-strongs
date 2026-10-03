@@ -928,3 +928,29 @@ Persian entries and current tags:
 - p27: زشتی
 - p28: ندیده_بودم  → H3808 H7200
 - p29: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 40:23 (context)
+
+- o1: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o2: זָכַר = H2142 זָכַר "properly, to mark (so as to be recognized)…" [HVqp3ms]
+- o3: שַׂר = H8269 שַׂר "a head person (of any rank or class)" [HNcmsc]
+- o4: הַ/מַּשְׁקִים = Hd "the" + H4945 מַשְׁקֶה "properly, causing to drink, i.e. a butler…" [HTd/Ncmpa]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: יוֹסֵף = H3130 יוֹסֵף "Joseph, the name of seven Israelites" [HNp]
+- o7: וַ/יִּשְׁכָּחֵ/הוּ = Hc "and" + H7911 שָׁכַח "to mislay, i.e. to be oblivious of…" [HC/Vqw3ms/Sp3ms]
+
+### Genesis 41:20 (context)
+
+- o1: וַ/תֹּאכַלְנָה = Hc "and" + H398 אָכַל "to eat (literally or figuratively)" [HC/Vqw3fp]
+- o2: הַ/פָּרוֹת = Hd "the" + H6510 פָּרָה "a heifer" [HTd/Ncfpa]
+- o3: הָ/רַקּוֹת = Hd "the" + H7534 רַק "emaciated (as if flattened out)" [HTd/Aafpa]
+- o4: וְ/הָ/רָעוֹת = Hc "and" + Hd "the" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HC/Td/Aafpa]
+- o5: אֵת = H853 אֵת "properly…" [HTo]
+- o6: שֶׁבַע = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcfsa]
+- o7: הַ/פָּרוֹת = Hd "the" + H6510 פָּרָה "a heifer" [HTd/Ncfpa]
+- o8: הָ/רִאשֹׁנוֹת = Hd "the" + H7223 רִאשׁוֹן "first, in place…" [HTd/Aafpa]
+- o9: הַ/בְּרִיאֹת = Hd "the" + H1277 בָּרִיא "fatted or plump" [HTd/Aafpa]

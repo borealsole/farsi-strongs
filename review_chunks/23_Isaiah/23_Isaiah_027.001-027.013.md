@@ -734,3 +734,48 @@ Persian entries and current tags:
 - p37: ،
 - p38: خواهند_پرستید  → H7812
 - p39: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 26:21 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: הִנֵּה = H2009 הִנֵּה "lo!" [HTm]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: יֹצֵא = H3318 יָצָא "to go (causatively, bring) out…" [HVqrmsa]
+- o5: מִ/מְּקוֹמ/וֹ = Hm "from" + H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HR/Ncmsc/Sp3ms]
+- o6: לִ/פְקֹד = Hl "to" + H6485 פָּקַד "to visit (with friendly or hostile intent)…" [HR/Vqc]
+- o7: עֲוֺן = H5771 עָוֺן "perversity, i.e. (moral) evil" [HNcbsc]
+- o8: יֹשֵׁב = H3427 יָשַׁב "properly…" [HVqrmsc]
+- o9: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o10: עָלָי/ו = H5921 עַל "above, over, upon…" [HR/Sp3ms]
+- o11: וְ/גִלְּתָה = Hc "and" + H1540 גָּלָה "to denude (especially in a disgraceful sense)…" [HC/Vpq3fs]
+- o12: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o13: אֶת = H853 אֵת "properly…" [HTo]
+- o14: דָּמֶי/הָ = H1818 דָּם "blood (as that which when shed causes death) of…" [HNcmpc/Sp3fs]
+- o15: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o16: תְכַסֶּה = H3680 כָּסָה "properly, to plump, i.e. fill up hollows…" [HVpi3fs]
+- o17: עוֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+- o18: עַל = H5921 עַל "above, over, upon…" [HR]
+- o19: הֲרוּגֶי/הָ = H2026 הָרַג "to smite with deadly intent" [HVqsmpc/Sp3fs]
+
+### Isaiah 28:1 (context)
+
+- o1: הוֹי = H1945 הוֹי "oh!" [HTj]
+- o2: עֲטֶרֶת = H5850 עֲטָרָה "a crown" [HNcfsc]
+- o3: גֵּאוּת = H1348 גֵּאוּת "arrogance or majesty…" [HNcfsc]
+- o4: שִׁכֹּרֵי = H7910 שִׁכּוֹר "intoxicated, as astate or a habit" [HAampc]
+- o5: אֶפְרַיִם = H669 אֶפְרַיִם "Ephrajim, a son of Joseph…" [HNp]
+- o6: וְ/צִיץ = Hc "and" + H6731 צִיץ "properly, glistening, i.e. a burnished plate…" [HC/Ncmsa]
+- o7: נֹבֵל = H5034 נָבֵל "to wilt; generally, to fall away, fail, faint…" [HVqrmsa]
+- o8: צְבִי = H6643 צְבִי "splendor (as conspicuous)…" [HNcmsc]
+- o9: תִפְאַרְתּ/וֹ = H8597 תִּפְאָרָה "ornament (abstractly or concretely…" [HNcfsc/Sp3ms]
+- o10: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o11: עַל = H5921 עַל "above, over, upon…" [HR]
+- o12: רֹאשׁ = H7218 רֹאשׁ "the head (as most easily shaken)…" [HNcmsc]
+- o13: גֵּיא = H1516 גַּיְא "a gorge (from its lofty sides…" [HNcbsc]
+- o14: שְׁמָנִים = H8081 שֶׁמֶן "grease, especially liquid (as from the olive…" [HNcmpa]
+- o15: הֲלוּמֵי = H1986 הָלַם "to strike down…" [HVqsmpc]
+- o16: יָיִן = H3196 יַיִן "wine (as fermented); by implication, intoxication" [HNcmsa]

@@ -713,3 +713,36 @@ Persian entries and current tags:
 - p38: ویران ساختند  → H8047
 - p39: .
 - p40: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Zechariah 6:15 (context)
+
+- o1: וּ/רְחוֹקִים = Hc "and" + H7350 רָחוֹק "remote, literally or figuratively…" [HC/Aampa]
+- o2: יָבֹאוּ = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqi3mp]
+- o3: וּ/בָנוּ = Hc "and" + H1129 בָּנָה "to build (literally and figuratively)" [HC/Vqq3cp]
+- o4: בְּ/הֵיכַל = Hb "in" + H1964 הֵיכָל "a large public building…" [HR/Ncmsc]
+- o5: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o6: וִ/ידַעְתֶּם = Hc "and" + H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HC/Vqq2mp]
+- o7: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o8: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o9: צְבָאוֹת = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbpa]
+- o10: שְׁלָחַ/נִי = H7971 שָׁלַח "to send away, for…" [HVqp3ms/Sp1cs]
+- o11: אֲלֵי/כֶם = H413 אֵל "near, with or among; often in general, to" [HR/Sp2mp]
+- o12: וְ/הָיָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3ms]
+- o13: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o14: שָׁמוֹעַ = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqa]
+- o15: תִּשְׁמְעוּ/ן = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqi2mp/Sn]
+- o16: בְּ/קוֹל = Hb "in" + H6963 קוֹל "a voice or sound" [HR/Ncmsc]
+- o17: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o18: אֱלֹהֵי/כֶם = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2mp]
+
+### Zechariah 8:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: דְּבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: צְבָאוֹת = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbpa]
+- o5: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

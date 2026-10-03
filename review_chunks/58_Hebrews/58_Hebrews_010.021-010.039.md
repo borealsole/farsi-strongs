@@ -894,3 +894,37 @@ Persian entries and current tags:
 - p20: حیات  → G4047
 - p21: می‌یابند  → G5590
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Hebrews 10:20 (context)
+
+- o1: ἣν = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-ASF]
+- o2: ἐνεκαίνισεν = G1457 ἐγκαινίζω "consecrate, dedicate" [V-AAI-3S]
+- o3: ἡμῖν = G2249 ἡμεῖς "us, we (ourselves)" [P-1DP]
+- o4: ὁδὸν = G3598 ὁδός "journey, (high-)way" [N-ASF]
+- o5: πρόσφατον = G4372 πρόσφατος "new" [A-ASF]
+- o6: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o7: ζῶσαν = G2198 ζάω "life(-time), (a-)live(-ly), quick" [V-PAP-ASF]
+- o8: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o9: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
+- o10: καταπετάσματος, = G2665 καταπέτασμα "vail" [N-GSN]
+- o11: τοῦτ’ = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-NSN]
+- o12: ἔστιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o13: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o14: σαρκὸς = G4561 σάρξ "carnal(-ly, + -ly minded), flesh(-ly)" [N-GSF]
+- o15: αὐτοῦ, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+
+### Hebrews 11:1 (context)
+
+- o1: Ἔστιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: πίστις = G4102 πίστις "assurance, belief, believe, faith, fidelity" [N-NSF]
+- o4: ἐλπιζομένων = G1679 ἐλπίζω "(have, thing) hope(-d) (for), trust" [V-PPP-GPN]
+- o5: ὑπόστασις, = G5287 ὑπόστασις "confidence, confident, person, substance" [N-NSF]
+- o6: πραγμάτων = G4229 πρᾶγμα "business, matter, thing, work" [N-GPN]
+- o7: ἔλεγχος = G1650 ἔλεγχος "evidence, reproof" [N-NSM]
+- o8: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o9: βλεπομένων. = G991 βλέπω "behold, beware, lie, look (on, to), perceive…" [V-PPP-GPN]

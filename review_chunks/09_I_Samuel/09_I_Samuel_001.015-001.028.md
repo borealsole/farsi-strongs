@@ -790,3 +790,39 @@ Persian entries and current tags:
 - p22: آنجا  → H8033
 - p23: پرستش کردند  → H7812
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 1:14 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: אֵלֶי/הָ = H413 אֵל "near, with or among; often in general, to" [HR/Sp3fs]
+- o3: עֵלִי = H5941 עֵלִי "Eli, an Israelite highpriest" [HNp]
+- o4: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o5: מָתַי = H4970 מָתַי "properly, extent (of time)…" [HTi]
+- o6: תִּשְׁתַּכָּרִי/ן = H7937 שָׁכַר "to become tipsy…" [HVti2fs/Sn]
+- o7: הָסִירִי = H5493 סוּר "to turn off (literal or figurative)" [HVhv2fs]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: יֵינֵ/ךְ = H3196 יַיִן "wine (as fermented); by implication, intoxication" [HNcmsc/Sp2fs]
+- o10: מֵ/עָלָיִ/ךְ = Hm "from" + H5921 עַל "above, over, upon…" [HR/R/Sp2fs]
+
+### I Samuel 2:1 (context)
+
+- o1: וַ/תִּתְפַּלֵּל = Hc "and" + H6419 פָּלַל "to judge (officially or mentally)…" [HC/Vtw3fs]
+- o2: חַנָּה = H2584 חַנָּה "Channah, an Israelitess" [HNp]
+- o3: וַ/תֹּאמַר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3fs]
+- o4: עָלַץ = H5970 עָלַץ "to jump for joy, i.e. exult" [HVqp3ms]
+- o5: לִבִּ/י = H3820 לֵב "the heart…" [HNcmsc/Sp1cs]
+- o6: בַּ/יהוָה = Hb "in" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o7: רָמָה = H7311 רוּם "to be high actively…" [HVqp3fs]
+- o8: קַרְנִ/י = H7161 קֶרֶן "a horn (as projecting)…" [HNcbsc/Sp1cs]
+- o9: בַּ/יהוָה = Hb "in" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o10: רָחַב = H7337 רָחַב "to broaden (intransitive or transitive…" [HVqp3ms]
+- o11: פִּ/י = H6310 פֶּה "the mouth (as the means of blowing)…" [HNcmsc/Sp1cs]
+- o12: עַל = H5921 עַל "above, over, upon…" [HR]
+- o13: אוֹיְבַ/י = H341 אֹיֵב "hating; an adversary" [HVqrmpc/Sp1cs]
+- o14: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o15: שָׂמַחְתִּי = H8055 שָׂמַח "probably to brighten up…" [HVqp1cs]
+- o16: בִּ/ישׁוּעָתֶ/ךָ = Hb "in" + H3444 יְשׁוּעָה "something saved, i.e. (abstractly) deliverance…" [HR/Ncfsc/Sp2ms]

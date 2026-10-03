@@ -1078,3 +1078,33 @@ Persian entries and current tags:
 - p27: نخواهد_ایستاد  → H3808 H7673
 - p28: .
 - p29: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 7:24 (context)
+
+- o1: וַ/יִּגְבְּרוּ = Hc "and" + H1396 גָּבַר "to be strong…" [HC/Vqw3mp]
+- o2: הַ/מַּיִם = Hd "the" + H4325 מַיִם "water; figuratively, juice…" [HTd/Ncmpa]
+- o3: עַל = H5921 עַל "above, over, upon…" [HR]
+- o4: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o5: חֲמִשִּׁים = H2572 חֲמִשִּׁים "fifty" [HAcbpa]
+- o6: וּ/מְאַת = Hc "and" + H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HC/Acbsc]
+- o7: יוֹם = H3117 יוֹם "a day (as the warm hours)…" [HNcmsa]
+
+### Genesis 9:1 (context)
+
+- o1: וַ/יְבָרֶךְ = Hc "and" + H1288 בָרַךְ "to kneel…" [HC/Vpw3ms]
+- o2: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: נֹחַ = H5146 נֹחַ "Noach, the patriarch of the flood" [HNp]
+- o5: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o6: בָּנָי/ו = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc/Sp3ms]
+- o7: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o8: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o9: פְּרוּ = H6509 פָּרָה "to bear fruit (literally or figuratively)" [HVqv2mp]
+- o10: וּ/רְבוּ = Hc "and" + H7235 רָבָה "to increase (in whatever respect)" [HC/Vqv2mp]
+- o11: וּ/מִלְאוּ = Hc "and" + H4390 מָלֵא "to fill or (intransitively) be full of…" [HC/Vqv2mp]
+- o12: אֶת = H853 אֵת "properly…" [HTo]
+- o13: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]

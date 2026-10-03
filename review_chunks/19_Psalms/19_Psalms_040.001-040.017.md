@@ -795,3 +795,30 @@ Persian entries and current tags:
 - p25: تأخیر  → H309
 - p26: مکن  → H408
 - p27: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 39:13 (context)
+
+- o1: הָשַׁע = H8159 שָׁעָה "to gaze at or about (properly, for help)…" [HVhv2ms]
+- o2: מִמֶּ/נִּי = H4480 מִן "properly, a part of…" [HR/Sp1cs]
+- o3: וְ/אַבְלִיגָה = Hc "and" + H1082 בָּלַג "to break off or loose (in a favorable or…" [HC/Vhh1cs]
+- o4: בְּ/טֶרֶם = Hb "in" + H2962 טֶרֶם "properly, non-occurrence…" [HR/D]
+- o5: אֵלֵךְ = H3212 יָלַךְ "to walk (literally or figuratively)…" [HVqi1cs]
+- o6: וְ/אֵינֶ/נִּי = Hc "and" + H369 אַיִן "a non-entity…" [HC/Tn/Sp1cs]
+
+### Psalms 41:1 (context)
+
+- o1: לַ/מְנַצֵּחַ = Hl "to" + H5329 נָצַח "properly, to glitter from afar…" [HRd/Vprmsa]
+- o2: מִזְמוֹר = H4210 מִזְמוֹר "properly, instrumental music…" [HNcmsa]
+- o3: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o4: אַשְׁרֵי = H835 אֶשֶׁר "happiness…" [HNcmpa]
+- o5: מַשְׂכִּיל = H7919 שָׂכַל "to be (causatively…" [HVhrmsa]
+- o6: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o7: דָּל = H1800 דַּל "properly, dangling…" [HAamsa]
+- o8: בְּ/יוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmsc]
+- o9: רָעָה = H7451 רַע "bad or (as noun) evil (natural or moral)" [HNcfsa]
+- o10: יְמַלְּטֵ/הוּ = H4422 מָלַט "properly, to be smooth…" [HVpi3ms/Sp3ms]
+- o11: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]

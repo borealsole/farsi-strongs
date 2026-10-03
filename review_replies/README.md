@@ -28,7 +28,8 @@ review_replies/
    - **Problems** that would stop it being applied, such as:
      - invalid JSON;
      - Persian words that don't match the verse;
-     - a Strong's number not in that verse's original;
+     - a Strong's number that is neither in that verse's original nor in the verse
+       immediately before or after it (`--window` widens this);
      - tagged punctuation, or a group that includes punctuation;
      - a verse already hand-reviewed;
      - the same verse proposed twice.
@@ -36,6 +37,9 @@ review_replies/
    - **Each changed verse:** the original words with meanings, and a table of every Persian
      word with its current and proposed tags. Rows marked ✱ change, and changed tags show
      their meanings.
+   - **Numbers taken from a neighbouring verse,** for places where the Persian and original
+     verse divisions differ. Each is labelled with its source verse (e.g. `(from Revelation
+     of John 12:18)`), and that verse's original words are shown so you can check it.
 
 3. **Do the human check.** Read each changed verse in the report against the original. In
    the reply file, delete any verse line you reject and edit any tags you want different.

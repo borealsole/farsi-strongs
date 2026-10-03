@@ -788,3 +788,58 @@ Persian entries and current tags:
 - p19: آسمان  → H8064
 - p20: رسید  → H935
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 30:14 (context)
+
+- o1: וַ/יָּקֻמוּ = Hc "and" + H6965 קוּם "to rise (in various applications, literal…" [HC/Vqw3mp]
+- o2: וַ/יָּסִירוּ = Hc "and" + H5493 סוּר "to turn off (literal or figurative)" [HC/Vhw3mp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: הַ/מִּזְבְּחוֹת = Hd "the" + H4196 מִזְבֵּחַ "an altar" [HTd/Ncmpa]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: בִּ/ירוּשָׁלִָם = Hb "in" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HR/Np]
+- o7: וְ/אֵת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o8: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o9: הַ/מְקַטְּרוֹת = Hd "the" + H6999 קָטַר "to smoke…" [HTd/Ncfpa]
+- o10: הֵסִירוּ = H5493 סוּר "to turn off (literal or figurative)" [HVhp3cp]
+- o11: וַ/יַּשְׁלִיכוּ = Hc "and" + H7993 שָׁלַךְ "to throw out…" [HC/Vhw3mp]
+- o12: לְ/נַחַל = Hl "to" + H5158 נַחַל "a stream, especially a winter torrent…" [HR/Ncmsc]
+- o13: קִדְרוֹן = H6939 קִדְרוֹן "Kidron, a brook near Jerusalem" [HNp]
+
+### II Chronicles 31:1 (context)
+
+- o1: וּ/כְ/כַלּוֹת = Hc "and" + Hk "like" + H3615 כָּלָה "to end, whether intransitive (to cease…" [HC/R/Vpc]
+- o2: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: זֹאת = H2063 זֹאת "this (often used adverb)" [HPdxfs]
+- o4: יָצְאוּ = H3318 יָצָא "to go (causatively, bring) out…" [HVqp3cp]
+- o5: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o6: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o7: הַ/נִּמְצְאִים = Hd "the" + H4672 מָצָא "properly, to come forth to, i.e. appear or exist…" [HTd/VNrmpa]
+- o8: לְ/עָרֵי = Hl "to" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HR/Ncfpc]
+- o9: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o10: וַ/יְשַׁבְּרוּ = Hc "and" + H7665 שָׁבַר "to burst (literally or figuratively)" [HC/Vpw3mp]
+- o11: הַ/מַּצֵּבוֹת = Hd "the" + H4676 מַצֵּבָה "something stationed…" [HTd/Ncfpa]
+- o12: וַ/יְגַדְּעוּ = Hc "and" + H1438 גָּדַע "to fell a tree; generally, to destroy anything" [HC/Vpw3mp]
+- o13: הָ/אֲשֵׁרִים = Hd "the" + H842 אֲשֵׁרָה "Asherah (or Astarte) a Phoenician goddess…" [HTd/Np]
+- o14: וַ/יְנַתְּצוּ = Hc "and" + H5422 נָתַץ "to tear down" [HC/Vpw3mp]
+- o15: אֶת = H853 אֵת "properly…" [HTo]
+- o16: הַ/בָּמוֹת = Hd "the" + H1116 בָּמָה "an elevation" [HTd/Ncfpa]
+- o17: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o18: הַ/מִּזְבְּחֹת = Hd "the" + H4196 מִזְבֵּחַ "an altar" [HTd/Ncmpa]
+- o19: מִ/כָּל = Hm "from" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o20: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o21: וּ/בִנְיָמִן = Hc "and" + H1144 בִּנְיָמִין "Binjamin, youngest son of Jacob…" [HC/Np]
+- o22: וּ/בְ/אֶפְרַיִם = Hc "and" + Hb "in" + H669 אֶפְרַיִם "Ephrajim, a son of Joseph…" [HC/R/Np]
+- o23: וּ/מְנַשֶּׁה = Hc "and" + H4519 מְנַשֶּׁה "Menashsheh, a grandson of Jacob…" [HC/Np]
+- o24: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o25: לְ/כַלֵּה = Hl "to" + H3615 כָּלָה "to end, whether intransitive (to cease…" [HR/Vpc]
+- o26: וַ/יָּשׁוּבוּ = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqw3mp]
+- o27: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o28: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o29: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o30: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o31: לַ/אֲחֻזָּת/וֹ = Hl "to" + H272 אֲחֻזָּה "something seized…" [HR/Ncfsc/Sp3ms]
+- o32: לְ/עָרֵי/הֶם = Hl "to" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HR/Ncfpc/Sp3mp]

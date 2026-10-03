@@ -866,3 +866,32 @@ Persian entries and current tags:
 - p14: به
 - p15: تصرف خواهی_آورد  → H5157
 - p16: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 80:19 (context)
+
+- o1: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o2: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o3: צְבָאוֹת = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbpa]
+- o4: הֲשִׁיבֵ/נוּ = H7725 שׁוּב "to turn back (hence…" [HVhv2ms/Sp1cp]
+- o5: הָאֵר = H215 אוֹר "to be (causative…" [HVhv2ms]
+- o6: פָּנֶי/ךָ = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc/Sp2ms]
+- o7: וְ/נִוָּשֵׁעָה = Hc "and" + H3467 יָשַׁע "properly, to be open, wide or free…" [HC/VNh1cp]
+
+### Psalms 83:1 (context)
+
+- o1: שִׁיר = H7892 שִׁיר "a song; abstractly, singing" [HNcbsa]
+- o2: מִזְמוֹר = H4210 מִזְמוֹר "properly, instrumental music…" [HNcmsa]
+- o3: לְ/אָסָף = Hl "to" + H623 אָסָף "Asaph, the name of three Israelites…" [HR/Np]
+- o4: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o5: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o6: דֳּמִי = H1824 דְּמִי "quiet" [HNcmsa]
+- o7: לָ/ךְ = Hl "to" [HR/Sp2fs]
+- o8: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o9: תֶּחֱרַשׁ = H2790 חָרַשׁ "to scratch, i.e. (by implication) to engrave…" [HVqj2ms]
+- o10: וְ/אַל = Hc "and" + H408 אַל "not (the qualified negation…" [HC/Tn]
+- o11: תִּשְׁקֹט = H8252 שָׁקַט "to repose (usually figurative)" [HVqj2ms]
+- o12: אֵל = H410 אֵל "strength; as adjective, mighty…" [HNcmsa]

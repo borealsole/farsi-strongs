@@ -1027,3 +1027,33 @@ Persian entries and current tags:
 - p34: او
 - p35: پادشاه شد  → H4427
 - p36: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 32:16 (context)
+
+- o1: וְ/עוֹד = Hc "and" + H5750 עוֹד "properly, iteration or continuance…" [HC/D]
+- o2: דִּבְּרוּ = H1696 דָבַר "perhaps properly, to arrange…" [HVpp3cp]
+- o3: עֲבָדָי/ו = H5650 עֶבֶד "a servant" [HNcmpc/Sp3ms]
+- o4: עַל = H5921 עַל "above, over, upon…" [HR]
+- o5: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o6: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o7: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o8: יְחִזְקִיָּהוּ = H2396 חִזְקִיָּה "Chizkijah, a king of Judah…" [HNp]
+- o9: עַבְדּ/וֹ = H5650 עֶבֶד "a servant" [HNcmsc/Sp3ms]
+
+### II Chronicles 33:1 (context)
+
+- o1: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o2: שְׁתֵּים = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcfda]
+- o3: עֶשְׂרֵה = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcfsa]
+- o4: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o5: מְנַשֶּׁה = H4519 מְנַשֶּׁה "Menashsheh, a grandson of Jacob…" [HNp]
+- o6: בְ/מָלְכ/וֹ = Hb "in" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HR/Vqc/Sp3ms]
+- o7: וַ/חֲמִשִּׁים = Hc "and" + H2572 חֲמִשִּׁים "fifty" [HC/Acbpa]
+- o8: וְ/חָמֵשׁ = Hc "and" + H2568 חָמֵשׁ "five" [HC/Acfsa]
+- o9: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o10: מָלַךְ = H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HVqp3ms]
+- o11: בִּ/ירוּשָׁלִָם = Hb "in" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HR/Np]

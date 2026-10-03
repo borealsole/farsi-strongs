@@ -1033,3 +1033,49 @@ Persian entries and current tags:
 - p16: است فرمودۀ  → H5002
 - p17: خداوند  → H3068
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 49:20 (context)
+
+- o1: לָ/כֵן = Hl "to" + H3651 כֵּן "properly, set upright…" [HR/D]
+- o2: שִׁמְעוּ = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqv2mp]
+- o3: עֲצַת = H6098 עֵצָה "advice; by implication, plan; also prudence" [HNcfsc]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: יָעַץ = H3289 יָעַץ "to advise; reflexively, to deliberate or resolve" [HVqp3ms]
+- o7: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o8: אֱדוֹם = H123 אֱדֹם "Edom, the elder twin-brother of Jacob…" [HNp]
+- o9: וּ/מַחְשְׁבוֹתָי/ו = Hc "and" + H4284 מַחֲשָׁבָה "a contrivance, i.e. (concretely) a texture…" [HC/Ncfpc/Sp3ms]
+- o10: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o11: חָשַׁב = H2803 חָשַׁב "properly, to plait or interpenetrate…" [HVqp3ms]
+- o12: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o13: יֹשְׁבֵי = H3427 יָשַׁב "properly…" [HVqrmpc]
+- o14: תֵימָן = H8487 תֵּימָן "Teman, the name of two Edomites…" [HNp]
+- o15: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o16: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o17: יִסְחָבוּ/ם = H5498 סָחַב "to trail along" [HVqi3mp/Sp3mp]
+- o18: צְעִירֵי = H6810 צָעִיר "little; (in number) few…" [HAampc]
+- o19: הַ/צֹּאן = Hd "the" + H6629 צֹאן "a collective name for a flock (of sheep or goats)…" [HTd/Ncbsa]
+- o20: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o21: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o22: יַשִּׁים = H8074 שָׁמֵם "to stun (or intransitively, grow numb)…" [HVhi3ms]
+- o23: עֲלֵי/הֶם = H5921 עַל "above, over, upon…" [HR/Sp3mp]
+- o24: נְוֵ/הֶם = H5116 נָוֶה "adjectively) at home…" [HNcbsc/Sp3mp]
+
+### Jeremiah 50:1 (context)
+
+- o1: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]
+- o2: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o3: דִּבֶּר = H1696 דָבַר "perhaps properly, to arrange…" [HVpp3ms]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o6: בָּבֶל = H894 בָּבֶל "Babel (i.e. Babylon)…" [HNp]
+- o7: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o8: אֶרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsc]
+- o9: כַּשְׂדִּים = H3778 כַּשְׂדִּי "a Kasdite, or descendant of Kesed…" [HNp]
+- o10: בְּ/יַד = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o11: יִרְמְיָהוּ = H3414 יִרְמְיָה "Jirmejah, the name of eight or nine Israelites" [HNp]
+- o12: הַ/נָּבִיא = Hd "the" + H5030 נָבִיא "a prophet or (generally) inspired man" [HTd/Ncmsa]

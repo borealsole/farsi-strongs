@@ -658,3 +658,31 @@ Persian entries and current tags:
 - p14: بیرونم
 - p15: کشید  → H4871
 - p16: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 21:22 (context)
+
+- o1: אֶת = H853 אֵת "properly…" [HTo]
+- o2: אַרְבַּעַת = H702 אַרְבַּע "four" [HAcmsc]
+- o3: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o4: יֻלְּדוּ = H3205 יָלַד "to bear young; causatively, to beget…" [HVPp3cp]
+- o5: לְ/הָ/רָפָה = Hl "to" + Hd "the" + H7497 רָפָא "a giant" [HR/Td/Ngmsa]
+- o6: בְּ/גַת = Hb "in" + H1661 גַּת "Gath, a Philistine city" [HR/Np]
+- o7: וַ/יִּפְּלוּ = Hc "and" + H5307 נָפַל "to fall…" [HC/Vqw3mp]
+- o8: בְ/יַד = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o9: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o10: וּ/בְ/יַד = Hc "and" + Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HC/R/Ncbsc]
+- o11: עֲבָדָי/ו = H5650 עֶבֶד "a servant" [HNcmpc/Sp3ms]
+
+### II Samuel 22:18 (context)
+
+- o1: יַצִּילֵ/נִי = H5337 נָצַל "to snatch away, whether in a good or a bad sense" [HVhi3ms/Sp1cs]
+- o2: מֵ/אֹיְבִ/י = Hm "from" + H341 אֹיֵב "hating; an adversary" [HR/Vqrmsc/Sp1cs]
+- o3: עָז = H5794 עַז "strong, vehement, harsh" [HAamsa]
+- o4: מִ/שֹּׂנְאַ/י = Hm "from" + H8130 שָׂנֵא "to hate (personally)" [HR/Vqrmpc/Sp1cs]
+- o5: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o6: אָמְצוּ = H553 אָמַץ "to be alert…" [HVqp3cp]
+- o7: מִמֶּ/נִּי = H4480 מִן "properly, a part of…" [HR/Sp1cs]

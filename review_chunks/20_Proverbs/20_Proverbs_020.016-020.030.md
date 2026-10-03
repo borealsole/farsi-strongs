@@ -554,3 +554,32 @@ Persian entries and current tags:
 - p13: را
 - p14: پاک می‌کند  → H4838
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 20:15 (context)
+
+- o1: יֵשׁ = H3426 יֵשׁ "there is or are (or any other form of the verb to…" [HTm]
+- o2: זָהָב = H2091 זָהָב "gold, figuratively…" [HNcmsa]
+- o3: וְ/רָב = Hc "and" + H7230 רֹב "abundance (in any respect)" [HC/Ncbsc]
+- o4: פְּנִינִים = H6443 פָּנִין "probably a pearl (as round)" [HNcbpa]
+- o5: וּ/כְלִי = Hc "and" + H3627 כְּלִי "something prepared…" [HC/Ncmsc]
+- o6: יְקָר = H3366 יְקָר "value, i.e. (concretely) wealth…" [HNcmsa]
+- o7: שִׂפְתֵי = H8193 שָׂפָה "the lip (as a natural boundary)…" [HNcfdc]
+- o8: דָעַת = H1847 דַּעַת "knowledge" [HNcfsa]
+
+### Proverbs 21:1 (context)
+
+- o1: פַּלְגֵי = H6388 פֶּלֶג "a rill (i.e. small channel of water…" [HNcmpc]
+- o2: מַיִם = H4325 מַיִם "water; figuratively, juice…" [HNcmpa]
+- o3: לֶב = H3820 לֵב "the heart…" [HNcmsc]
+- o4: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsa]
+- o5: בְּ/יַד = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: עַל = H5921 עַל "above, over, upon…" [HR]
+- o8: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o9: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o10: יַחְפֹּץ = H2654 חָפֵץ "properly, to incline to…" [HVqi3ms]
+- o11: יַטֶּ/נּוּ = H5186 נָטָה "to stretch or spread out…" [HVhi3ms/Sp3ms]

@@ -1230,3 +1230,41 @@ Persian entries and current tags:
 - p15: نبی  → H5030
 - p16: نوشته_شده_است  → H3789
 - p17: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 12:16 (context)
+
+- o1: וַ/יִּשְׁכַּב = Hc "and" + H7901 שָׁכַב "to lie down (for rest, sexual connection…" [HC/Vqw3ms]
+- o2: רְחַבְעָם = H7346 רְחַבְעָם "Rechabam, an Israelite king" [HNp]
+- o3: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o4: אֲבֹתָי/ו = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp3ms]
+- o5: וַ/יִּקָּבֵר = Hc "and" + H6912 קָבַר "to inter" [HC/VNw3ms]
+- o6: בְּ/עִיר = Hb "in" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HR/Ncfsc]
+- o7: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o8: וַ/יִּמְלֹךְ = Hc "and" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HC/Vqw3ms]
+- o9: אֲבִיָּה = H29 אֲבִיָּה "Abijah…" [HNp]
+- o10: בְנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o11: תַּחְתָּי/ו = H8478 תַּחַת "the bottom (as depressed)…" [HR/Sp3ms]
+
+### II Chronicles 14:1 (context)
+
+- o1: וַ/יִּשְׁכַּב = Hc "and" + H7901 שָׁכַב "to lie down (for rest, sexual connection…" [HC/Vqw3ms]
+- o2: אֲבִיָּה = H29 אֲבִיָּה "Abijah…" [HNp]
+- o3: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o4: אֲבֹתָי/ו = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp3ms]
+- o5: וַ/יִּקְבְּרוּ = Hc "and" + H6912 קָבַר "to inter" [HC/Vqw3mp]
+- o6: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o7: בְּ/עִיר = Hb "in" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HR/Ncfsc]
+- o8: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o9: וַ/יִּמְלֹךְ = Hc "and" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HC/Vqw3ms]
+- o10: אָסָא = H609 אָסָא "Asa, the name of a king and of a Levite" [HNp]
+- o11: בְנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o12: תַּחְתָּי/ו = H8478 תַּחַת "the bottom (as depressed)…" [HR/Sp3ms]
+- o13: בְּ/יָמָי/ו = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmpc/Sp3ms]
+- o14: שָׁקְטָה = H8252 שָׁקַט "to repose (usually figurative)" [HVqp3fs]
+- o15: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o16: עֶשֶׂר = H6235 עֶשֶׂר "ten (as an accumulation to the extent of the…" [HAcfsa]
+- o17: שָׁנִים = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfpa]

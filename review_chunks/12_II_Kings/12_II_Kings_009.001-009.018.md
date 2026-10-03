@@ -1155,3 +1155,63 @@ Persian entries and current tags:
 - p55: بازنمی‌گردد  → H7725
 - p56: .
 - p57: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 8:29 (context)
+
+- o1: וַ/יָּשָׁב = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqw3ms]
+- o2: יוֹרָם = H3141 יוֹרָם "Joram, the name of three Israelites and one Syrian" [HNp]
+- o3: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o4: לְ/הִתְרַפֵּא = Hl "to" + H7495 רָפָא "properly, to mend (by stitching)…" [HR/Vtc]
+- o5: בְ/יִזְרְעֶאל = Hb "in" + H3157 יִזְרְעֵאל "Jizreel…" [HR/Np]
+- o6: מִן = H4480 מִן "properly, a part of…" [HR]
+- o7: הַ/מַּכִּים = Hd "the" + H4347 מַכָּה "a wound; figuratively, carnage, also pestilence" [HTd/Ncfpa]
+- o8: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o9: יַכֻּ/הוּ = H5221 נָכָה "to strike (lightly or severely…" [HVhi3mp/Sp3ms]
+- o10: אֲרַמִּים = H761 אֲרַמִּי "an Aramite or Aramaean" [HNgmpa]
+- o11: בָּ/רָמָה = Hb "in" + H7414 רָמָה "Ramah, the name of four places in Palestine" [HRd/Np]
+- o12: בְּ/הִלָּחֲמ/וֹ = Hb "in" + H3898 לָחַם "to feed on; figuratively, to consume…" [HR/VNc/Sp3ms]
+- o13: אֶת = H854 אֵת "properly…" [HR]
+- o14: חֲזָהאֵל = H2371 חֲזָאֵל "Chazael, a king of Syria" [HNp]
+- o15: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o16: אֲרָם = H758 אֲרָם "Aram or Syria, and its inhabitants…" [HNp]
+- o17: וַ/אֲחַזְיָהוּ = Hc "and" + H274 אֲחַזְיָה "Achazjah…" [HC/Np]
+- o18: בֶן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o19: יְהוֹרָם = H3088 יְהוֹרָם "Jehoram…" [HNp]
+- o20: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o21: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o22: יָרַד = H3381 יָרַד "to descend (literally, to go downwards…" [HVqp3ms]
+- o23: לִ/רְאוֹת = Hl "to" + H7200 רָאָה "to see…" [HR/Vqc]
+- o24: אֶת = H853 אֵת "properly…" [HTo]
+- o25: יוֹרָם = H3141 יוֹרָם "Joram, the name of three Israelites and one Syrian" [HNp]
+- o26: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o27: אַחְאָב = H256 אַחְאָב "Achab…" [HNp]
+- o28: בְּ/יִזְרְעֶאל = Hb "in" + H3157 יִזְרְעֵאל "Jizreel…" [HR/Np]
+- o29: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o30: חֹלֶה = H2470 חָלָה "properly, to be rubbed or worn…" [HVqrmsa]
+- o31: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+
+### II Kings 9:19 (context)
+
+- o1: וַ/יִּשְׁלַח = Hc "and" + H7971 שָׁלַח "to send away, for…" [HC/Vqw3ms]
+- o2: רֹכֵב = H7392 רָכַב "to ride (on an animal or in a vehicle)…" [HVqrmsc]
+- o3: סוּס = H5483 סוּס "a horse (as leaping)…" [HNcmsa]
+- o4: שֵׁנִי = H8145 שֵׁנִי "properly, double, i.e. second…" [HAomsa]
+- o5: וַ/יָּבֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3ms]
+- o6: אֲלֵ/הֶם = H413 אֵל "near, with or among; often in general, to" [HR/Sp3mp]
+- o7: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o8: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o9: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o10: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o11: שָׁלוֹם = H7965 שָׁלוֹם "safe, i.e. (figuratively) well, happy, friendly…" [HNcmsa]
+- o12: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o13: יֵהוּא = H3058 יֵהוּא "Jehu, the name of five Israelites" [HNp]
+- o14: מַה = H4100 מָה "properly…" [HTi]
+- o15: לְּ/ךָ = Hl "to" [HR/Sp2ms]
+- o16: וּ/לְ/שָׁלוֹם = Hc "and" + Hl "to" + H7965 שָׁלוֹם "safe, i.e. (figuratively) well, happy, friendly…" [HC/R/Ncmsa]
+- o17: סֹב = H5437 סָבַב "to revolve, surround, or border…" [HVqv2ms]
+- o18: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o19: אַחֲרָ/י = H310 אַחַר "properly, the hind part…" [HR/Sp1cs]

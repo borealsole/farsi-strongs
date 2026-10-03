@@ -789,3 +789,45 @@ Persian entries and current tags:
 - p26: ضرر  → G2276
 - p27: است
 - p28: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Corinthians 10:33 (context)
+
+- o1: καθὼς = G2531 καθώς "according to, (according, even) as, how, when" [ADV]
+- o2: κἀγὼ = G2504 κἀγώ "and, even, even so, so) I (also, in like wise)…" [P-1NS-K]
+- o3: πάντα = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-APN]
+- o4: πᾶσιν = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-DPN]
+- o5: ἀρέσκω, = G700 ἀρέσκω "please" [V-PAI-1S]
+- o6: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o7: ζητῶν = G2212 ζητέω "be (go) about, desire, endeavour, enquire (for)…" [V-PAP-NSM]
+- o8: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o9: ἐμαυτοῦ = G1683 ἐμαυτοῦ "me, mine own (self), myself" [F-1GSM]
+- o10: σύμφορον = G4851 συμφέρω "be better for, bring together, be expedient (for)…" [A-ASN]
+- o11: ἀλλὰ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o12: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o13: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o14: πολλῶν, = G4183 πολύς "abundant, + altogether, common, + far (passed…" [A-GPM]
+- o15: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o16: σωθῶσιν. = G4982 σώζω "heal, preserve, save (self), do well…" [V-APS-3P]
+
+### I Corinthians 11:18 (context)
+
+- o1: πρῶτον = G4412 πρῶτον "before, at the beginning, chiefly (at…" [ADV-S]
+- o2: μὲν = G3303 μέν "even, indeed, so, some, truly, verily" [PRT]
+- o3: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o4: συνερχομένων = G4905 συνέρχομαι "accompany, assemble (with), come (together)…" [V-PNP-GPM]
+- o5: ὑμῶν = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
+- o6: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o7: ἐκκλησίᾳ = G1577 ἐκκλησία "assembly, church" [N-DSF]
+- o8: ἀκούω = G191 ἀκούω "give (in the) audience (of), come (to the ears)…" [V-PAI-1S]
+- o9: σχίσματα = G4978 σχίσμα "division, rent, schism" [N-APN]
+- o10: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o11: ὑμῖν = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
+- o12: ὑπάρχειν, = G5225 ὑπάρχω "after, behave, live" [V-PAN]
+- o13: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o14: μέρος = G3313 μέρος "behalf, course, coast, craft, particular (+ -ly)…" [N-ASN]
+- o15: τι = G5100 τὶς "a (kind of), any (man, thing, thing at all)…" [X-ASN]
+- o16: πιστεύω. = G4100 πιστεύω "believe(-r), commit (to trust), put in trust with" [V-PAI-1S]

@@ -1010,3 +1010,33 @@ Persian entries and current tags:
 - p16: نامیده  → H7121
 - p17: نشده‌اند  → H3808
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 62:12 (context)
+
+- o1: וְ/קָרְאוּ = Hc "and" + H7121 קָרָא "to call out to (i.e. properly, address by name…" [HC/Vqq3cp]
+- o2: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o3: עַם = H5971 עַם "a people (as a congregated unit)…" [HNcmsc]
+- o4: הַ/קֹּדֶשׁ = Hd "the" + H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HTd/Ncmsa]
+- o5: גְּאוּלֵי = H1350 גָּאַל "to be the next of kin (and as such to buy back a…" [HVqsmpc]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: וְ/לָ/ךְ = Hc "and" + Hl "to" [HC/R/Sp2fs]
+- o8: יִקָּרֵא = H7121 קָרָא "to call out to (i.e. properly, address by name…" [HVNi3ms]
+- o9: דְרוּשָׁה = H1875 דָּרַשׁ "properly, to tread or frequent…" [HVqsfsa]
+- o10: עִיר = H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HNcfsa]
+- o11: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o12: נֶעֱזָבָה = H5800 עָזַב "to loosen, i.e. relinquish, permit, etc" [HVNp3fs]
+
+### Isaiah 64:1 (context)
+
+- o1: עֲלֵי/הֶם = H5921 עַל "above, over, upon…" [HR/Sp3mp]
+- o2: לוּא = H3863 לוּא "a conditional particle; if…" [HC]
+- o3: קָרַעְתָּ = H7167 קָרַע "to rend, literally or figuratively (revile…" [HVqp2ms]
+- o4: שָׁמַיִם = H8064 שָׁמַיִם "the sky (as aloft…" [HNcmpa]
+- o5: יָרַדְתָּ = H3381 יָרַד "to descend (literally, to go downwards…" [HVqp2ms]
+- o6: מִ/פָּנֶי/ךָ = Hm "from" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp2ms]
+- o7: הָרִים = H2022 הַר "a mountain or range of hills (sometimes used…" [HNcmpa]
+- o8: נָזֹלּוּ = H2151 זָלַל "to shake (as in the wind), i.e. to quake…" [HVNp3cp]

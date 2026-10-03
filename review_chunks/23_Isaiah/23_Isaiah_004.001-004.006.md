@@ -385,3 +385,31 @@ Persian entries and current tags:
 - p15: باران  → H4306
 - p16: خواهد_بود
 - p17: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 3:26 (context)
+
+- o1: וְ/אָנוּ = Hc "and" + H578 אָנָה "to groan" [HC/D]
+- o2: וְ/אָבְלוּ = Hc "and" + H56 אָבַל "to bewail" [HC/Vqq3cp]
+- o3: פְּתָחֶי/הָ = H6607 פֶּתַח "an opening (literally)…" [HNcmpc/Sp3fs]
+- o4: וְ/נִקָּתָה = Hc "and" + H5352 נָקָה "to be (or make) clean (literally or figuratively)…" [HC/VNq3fs]
+- o5: לָ/אָרֶץ = Hl "to" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HRd/Ncbsa]
+- o6: תֵּשֵׁב = H3427 יָשַׁב "properly…" [HVqi3fs]
+
+### Isaiah 5:1 (context)
+
+- o1: אָשִׁירָה = H7891 שִׁיר "to sing" [HVqh1cs]
+- o2: נָּא = H4994 נָא "'I pray', 'now', or 'then'…" [HTj]
+- o3: לִ/ידִידִ/י = Hl "to" + H3039 יְדִיד "loved" [HR/Aamsc/Sp1cs]
+- o4: שִׁירַת = H7892 שִׁיר "a song; abstractly, singing" [HNcbsc]
+- o5: דּוֹדִ/י = H1730 דּוֹד "figuratively) to love…" [HNcmsc/Sp1cs]
+- o6: לְ/כַרְמ/וֹ = Hl "to" + H3754 כֶּרֶם "a garden or vineyard" [HR/Ncbsc/Sp3ms]
+- o7: כֶּרֶם = H3754 כֶּרֶם "a garden or vineyard" [HNcbsa]
+- o8: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o9: לִ/ידִידִ/י = Hl "to" + H3039 יְדִיד "loved" [HR/Aamsc/Sp1cs]
+- o10: בְּ/קֶרֶן = Hb "in" + H7161 קֶרֶן "a horn (as projecting)…" [HR/Ncbsc]
+- o11: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o12: שָׁמֶן = H8081 שֶׁמֶן "grease, especially liquid (as from the olive…" [HNcmsa]

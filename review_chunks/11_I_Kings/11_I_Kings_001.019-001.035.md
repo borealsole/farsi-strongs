@@ -948,3 +948,36 @@ Persian entries and current tags:
 - p32: برگماشته‌ام  → H6680
 - p33: .
 - p34: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 1:18 (context)
+
+- o1: וְ/עַתָּה = Hc "and" + H6258 עַתָּה "at this time, whether adverb…" [HC/D]
+- o2: הִנֵּה = H2009 הִנֵּה "lo!" [HTm]
+- o3: אֲדֹנִיָּה = H138 אֲדֹנִיָּה "Adonijah, the name of three Israelites" [HNp]
+- o4: מָלָךְ = H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HVqp3ms]
+- o5: וְ/עַתָּה = Hc "and" + H6258 עַתָּה "at this time, whether adverb…" [HC/D]
+- o6: אֲדֹנִ/י = H113 אָדוֹן "sovereign, i.e. controller (human or divine)" [HNcmsc/Sp1cs]
+- o7: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o8: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o9: יָדָעְתָּ = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqp2ms]
+
+### I Kings 1:36 (context)
+
+- o1: וַ/יַּעַן = Hc "and" + H6030 עָנָה "properly, to eye or (generally) to heed…" [HC/Vqw3ms]
+- o2: בְּנָיָהוּ = H1141 בְּנָיָה "Benajah, the name of twelve Israelites" [HNp]
+- o3: בֶן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o4: יְהוֹיָדָע = H3077 יְהוֹיָדָע "Jehojada, the name of three Israelites" [HNp]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o7: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o8: אָמֵן = H543 אָמֵן "sure; abstract, faithfulness; adverb, truly" [HD]
+- o9: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o10: יֹאמַר = H559 אָמַר "to say (used with great latitude)" [HVqi3ms]
+- o11: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o12: אֱלֹהֵי = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc]
+- o13: אֲדֹנִ/י = H113 אָדוֹן "sovereign, i.e. controller (human or divine)" [HNcmsc/Sp1cs]
+- o14: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]

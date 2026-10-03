@@ -733,3 +733,44 @@ Persian entries and current tags:
 - p12: فخر کند  → G2744
 - p13: .
 - p14: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Corinthians 1:16 (context)
+
+- o1: ἐβάπτισα = G907 βαπτίζω "Baptist, baptize, wash" [V-AAI-1S]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o4: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o5: Στεφανᾶ = G4734 Στεφανᾶς "Stephanas" [N-GSM]
+- o6: οἶκον· = G3624 οἶκος "home, house(-hold), temple" [N-ASM]
+- o7: λοιπὸν = G3062 λοιποί "other, which remain, remnant, residue, rest" [A-ASN]
+- o8: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o9: οἶδα = G1492 εἴδω "be aware, behold, can (+ not tell), consider…" [V-RAI-1S]
+- o10: εἴ = G1487 εἰ "forasmuch as, if, that, (al-)though, whether" [COND]
+- o11: τινα = G5100 τὶς "a (kind of), any (man, thing, thing at all)…" [X-ASM]
+- o12: ἄλλον = G243 ἄλλος "more, one (another), (an-, some an-)other(-s…" [A-ASM]
+- o13: ἐβάπτισα. = G907 βαπτίζω "Baptist, baptize, wash" [V-AAI-1S]
+
+### I Corinthians 2:1 (context)
+
+- o1: Κἀγὼ = G2504 κἀγώ "and, even, even so, so) I (also, in like wise)…" [P-1NS-K]
+- o2: ἐλθὼν = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-2AAP-NSM]
+- o3: πρὸς = G4314 πρός "about, according to , against, among, at…" [PREP]
+- o4: ὑμᾶς, = G5210 ὑμεῖς "ye (yourselves), you" [P-2AP]
+- o5: ἀδελφοί, = G80 ἀδελφός "brother" [N-VPM]
+- o6: ἦλθον = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-2AAI-1S]
+- o7: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o8: καθ’ = G2596 κατά "about, according as (to), after, against…" [PREP]
+- o9: ὑπεροχὴν = G5247 ὑπεροχή "authority, excellency" [N-ASF]
+- o10: λόγου = G3056 λόγος "account, cause, communication, concerning…" [N-GSM]
+- o11: ἢ = G2228 ἤ "and, but (either), (n-)either, except it be…" [PRT]
+- o12: σοφίας = G4678 σοφία "wisdom" [N-GSF]
+- o13: καταγγέλλων = G2605 καταγγέλλω "declare, preach, shew, speak of, teach" [V-PAP-NSM]
+- o14: ὑμῖν = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
+- o15: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o16: μαρτύριον = G3142 μαρτύριον "to be testified, testimony, witness" [N-ASN]
+- o17: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o18: θεοῦ. = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]

@@ -728,3 +728,27 @@ Persian entries and current tags:
 - p9: آن
 - p10: ریشه‌کن خواهند_گردید  → H5255
 - p11: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 1:33 (context)
+
+- o1: וְ/שֹׁמֵעַ = Hc "and" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HC/Vqrmsa]
+- o2: לִ/י = Hl "to" [HR/Sp1cs]
+- o3: יִשְׁכָּן = H7931 שָׁכַן "to reside or permanently stay (literally or…" [HVqi3ms]
+- o4: בֶּטַח = H983 בֶּטַח "properly, a place of refuge…" [HNcmsa]
+- o5: וְ/שַׁאֲנַן = Hc "and" + H7599 שָׁאַן "to loll, i.e. be peaceful" [HC/Vkq3ms]
+- o6: מִ/פַּחַד = Hm "from" + H6343 פַּחַד "a (sudden) alarm (properly, the object feared…" [HR/Ncmsc]
+- o7: רָעָה = H7451 רַע "bad or (as noun) evil (natural or moral)" [HNcfsa]
+
+### Proverbs 3:1 (context)
+
+- o1: בְּנִ/י = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp1cs]
+- o2: תּוֹרָתִ/י = H8451 תּוֹרָה "a precept or statute…" [HNcfsc/Sp1cs]
+- o3: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o4: תִּשְׁכָּח = H7911 שָׁכַח "to mislay, i.e. to be oblivious of…" [HVqj2ms]
+- o5: וּ/מִצְוֺתַ/י = Hc "and" + H4687 מִצְוָה "a command, whether human or divine (collectively…" [HC/Ncfpc/Sp1cs]
+- o6: יִצֹּר = H5341 נָצַר "to guard, in a good sense (to protect, maintain…" [HVqj3ms]
+- o7: לִבֶּ/ךָ = H3820 לֵב "the heart…" [HNcmsc/Sp2ms]

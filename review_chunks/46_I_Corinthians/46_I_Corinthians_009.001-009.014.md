@@ -711,3 +711,59 @@ Persian entries and current tags:
 - p13: تأمین
 - p14: شود
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Corinthians 8:13 (context)
+
+- o1: διόπερ = G1355 διόπερ "wherefore" [CONJ]
+- o2: εἰ = G1487 εἰ "forasmuch as, if, that, (al-)though, whether" [COND]
+- o3: βρῶμα = G1033 βρῶμα "meat, victuals" [N-NSN]
+- o4: σκανδαλίζει = G4624 σκανδαλίζω "(make to) offend" [V-PAI-3S]
+- o5: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o6: ἀδελφόν = G80 ἀδελφός "brother" [N-ASM]
+- o7: μου, = G1473 ἐγώ "I, me" [P-1GS]
+- o8: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o9: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o10: φάγω = G5315 φάγω "eat, meat" [V-2AAS-1S]
+- o11: κρέα = G2907 κρέας "flesh" [N-APN]
+- o12: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o13: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o14: αἰῶνα, = G165 αἰών "age, course, eternal, (for) ever(-more), (n-)ever…" [N-ASM]
+- o15: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o16: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o17: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o18: ἀδελφόν = G80 ἀδελφός "brother" [N-ASM]
+- o19: μου = G1473 ἐγώ "I, me" [P-1GS]
+- o20: σκανδαλίσω. = G4624 σκανδαλίζω "(make to) offend" [V-AAS-1S]
+
+### I Corinthians 9:15 (context)
+
+- o1: ἐγὼ = G1473 ἐγώ "I, me" [P-1NS]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o4: κέχρημαι = G5530 χράομαι "entreat, use" [V-RNI-1S]
+- o5: οὐδενὶ = G3762 οὐδείς "any (man), aught, man, neither any (thing)…" [A-DSN-N]
+- o6: τούτων. = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-GPN]
+- o7: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o8: ἔγραψα = G1125 γράφω "describe, write(-ing, -ten)" [V-AAI-1S]
+- o9: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o10: ταῦτα = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-APN]
+- o11: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o12: οὕτως = G3779 οὕτω "after that, after (in) this manner, as, even (so)…" [ADV]
+- o13: γένηται = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-2ADS-3S]
+- o14: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o15: ἐμοί, = G1473 ἐγώ "I, me" [P-1DS]
+- o16: καλὸν = G2570 καλός "better, fair, good(-ly), honest, meet, well…" [A-NSN]
+- o17: γάρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o18: μοι = G1473 ἐγώ "I, me" [P-1DS]
+- o19: μᾶλλον = G3123 μᾶλλον "+ better, far, (the) more (and more)…" [ADV]
+- o20: ἀποθανεῖν = G599 ἀποθνήσκω "be dead, death, die, lie a-dying, be slain ( with)" [V-2AAN]
+- o21: ἤ = G2228 ἤ "and, but (either), (n-)either, except it be…" [PRT]
+- o22: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o23: καύχημά = G2745 καύχημα "boasting, (whereof) to glory (of), glorying…" [N-ASN]
+- o24: μου = G1473 ἐγώ "I, me" [P-1GS]
+- o25: οὐδεὶς = G3762 οὐδείς "any (man), aught, man, neither any (thing)…" [A-NSM-N]
+- o26: κενώσει. = G2758 κενόω "make (of none effect, of no reputation, void)…" [V-FAI-3S]

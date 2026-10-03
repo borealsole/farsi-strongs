@@ -823,3 +823,23 @@ Persian entries and current tags:
 - p17: رنج  → H4341
 - p18: می‌افزاید  → H3254
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ecclesiastes 2:1 (context)
+
+- o1: אָמַרְתִּי = H559 אָמַר "to say (used with great latitude)" [HVqp1cs]
+- o2: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o3: בְּ/לִבִּ/י = Hb "in" + H3820 לֵב "the heart…" [HR/Ncmsc/Sp1cs]
+- o4: לְכָ/ה = H3212 יָלַךְ "to walk (literally or figuratively)…" [HVqv2ms/Sh]
+- o5: נָּא = H4994 נָא "'I pray', 'now', or 'then'…" [HTj]
+- o6: אֲנַסְּ/כָה = H5254 נָסָה "to test; by implication, to attempt" [HVph1cs/Sp2ms]
+- o7: בְ/שִׂמְחָה = Hb "in" + H8057 שִׂמְחָה "blithesomeness or glee, (religious or festival)" [HR/Ncfsa]
+- o8: וּ/רְאֵה = Hc "and" + H7200 רָאָה "to see…" [HC/Vqv2ms]
+- o9: בְ/טוֹב = Hb "in" + H2896 טוֹב "good (as an adjective) in the widest sense…" [HR/Aamsa]
+- o10: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o11: גַם = H1571 גַּם "properly, assemblage…" [HD]
+- o12: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o13: הָבֶל = H1892 הֶבֶל "emptiness or vanity…" [HNcmsa]

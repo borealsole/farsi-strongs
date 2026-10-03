@@ -602,3 +602,55 @@ Persian entries and current tags:
 - p27: حسب  → Hl
 - p28: طوایفشان  → H4940
 - p29: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Joshua 18:14 (context)
+
+- o1: וְ/תָאַר = Hc "and" + H8388 תָּאַר "to delineate; reflex. to extend" [HC/Vqq3ms]
+- o2: הַ/גְּבוּל = Hd "the" + H1366 גְּבוּל "properly, a cord (as twisted)…" [HTd/Ncmsa]
+- o3: וְ/נָסַב = Hc "and" + H5437 סָבַב "to revolve, surround, or border…" [HC/VNq3ms]
+- o4: לִ/פְאַת = Hl "to" + H6285 פֵּאָה "properly, mouth in a figurative sense…" [HR/Ncfsc]
+- o5: יָם = H3220 יָם "a sea (as breaking in noisy surf) or large body…" [HNcmsa]
+- o6: נֶגְבָּ/ה = H5045 נֶגֶב "the south (from its drought)…" [HNcmsa/Sd]
+- o7: מִן = H4480 מִן "properly, a part of…" [HR]
+- o8: הָ/הָר = Hd "the" + H2022 הַר "a mountain or range of hills (sometimes used…" [HTd/Ncmsa]
+- o9: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o10: עַל = H5921 עַל "above, over, upon…" [HR]
+- o11: פְּנֵי = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc]
+- o12: בֵית = H1032 בֵּית חוֹרוֹן "Beth-Choron…" [HNp]
+- o13: חֹרוֹן = H1032 בֵּית חוֹרוֹן "Beth-Choron…" [HNp]
+- o14: נֶגְבָּ/ה = H5045 נֶגֶב "the south (from its drought)…" [HNcmsa/Sd]
+- o15: ו/היה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3ms]
+- o16: תֹצְאֹתָי/ו = H8444 תּוֹצָאָה "only in plural collective) exit…" [HNcfpc/Sp3ms]
+- o17: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o18: קִרְיַת = H7154 קִרְיַת בַּעַל "Kirjath-Baal, a place in Palestine" [HNp]
+- o19: בַּעַל = H7154 קִרְיַת בַּעַל "Kirjath-Baal, a place in Palestine" [HNp]
+- o20: הִיא = H1931 הוּא "he (she or it)…" [HPp3fs]
+- o21: קִרְיַת = H7157 קִרְיַת יְעָרִים "Kirjath-Jearim or Kirjath-Arim…" [HNp]
+- o22: יְעָרִים = H7157 קִרְיַת יְעָרִים "Kirjath-Jearim or Kirjath-Arim…" [HNp]
+- o23: עִיר = H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HNcfsc]
+- o24: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o25: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o26: זֹאת = H2063 זֹאת "this (often used adverb)" [HPdxfs]
+- o27: פְּאַת = H6285 פֵּאָה "properly, mouth in a figurative sense…" [HNcfsc]
+- o28: יָם = H3220 יָם "a sea (as breaking in noisy surf) or large body…" [HNcmsa]
+
+### Joshua 19:1 (context)
+
+- o1: וַ/יֵּצֵא = Hc "and" + H3318 יָצָא "to go (causatively, bring) out…" [HC/Vqw3ms]
+- o2: הַ/גּוֹרָל = Hd "the" + H1486 גּוֹרָל "properly, a pebble…" [HTd/Ncmsa]
+- o3: הַ/שֵּׁנִי = Hd "the" + H8145 שֵׁנִי "properly, double, i.e. second…" [HTd/Aomsa]
+- o4: לְ/שִׁמְעוֹן = Hl "to" + H8095 שִׁמְעוֹן "Shimon, one of Jacob's sons…" [HR/Np]
+- o5: לְ/מַטֵּה = Hl "to" + H4294 מַטֶּה "a branch (as extending); figuratively, a tribe…" [HR/Ncmsc]
+- o6: בְנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o7: שִׁמְעוֹן = H8095 שִׁמְעוֹן "Shimon, one of Jacob's sons…" [HNp]
+- o8: לְ/מִשְׁפְּחוֹתָ/ם = Hl "to" + H4940 מִשְׁפָּחָה "a family, i.e. circle of relatives…" [HR/Ncfpc/Sp3mp]
+- o9: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o10: נַחֲלָתָ/ם = H5159 נַחֲלָה "properly, something inherited…" [HNcfsc/Sp3mp]
+- o11: בְּ/תוֹךְ = Hb "in" + H8432 תָּוֶךְ "a bisection, i.e. (by implication) the centre" [HR/Ncmsc]
+- o12: נַחֲלַת = H5159 נַחֲלָה "properly, something inherited…" [HNcfsc]
+- o13: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o14: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]

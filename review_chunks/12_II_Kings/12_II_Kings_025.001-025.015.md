@@ -812,3 +812,46 @@ Persian entries and current tags:
 - p20: خود
 - p21: برد  → H3947
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 24:20 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: עַל = H5921 עַל "above, over, upon…" [HR]
+- o3: אַף = H639 אַף "properly, the nose or nostril…" [HTa]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: הָיְתָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3fs]
+- o6: בִ/ירוּשָׁלִַם = Hb "in" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HR/Np]
+- o7: וּ/בִ/יהוּדָה = Hc "and" + Hb "in" + H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HC/R/Np]
+- o8: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o9: הִשְׁלִכ/וֹ = H7993 שָׁלַךְ "to throw out…" [HVhc/Sp3ms]
+- o10: אֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o11: מֵ/עַל = Hm "from" + H5921 עַל "above, over, upon…" [HR/R]
+- o12: פָּנָי/ו = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc/Sp3ms]
+- o13: וַ/יִּמְרֹד = Hc "and" + H4775 מָרַד "to rebel" [HC/Vqw3ms]
+- o14: צִדְקִיָּהוּ = H6667 צִדְקִיָּה "Tsidkijah, the name of six Israelites" [HNp]
+- o15: בְּ/מֶלֶךְ = Hb "in" + H4428 מֶלֶךְ "a king" [HR/Ncmsc]
+- o16: בָּבֶל = H894 בָּבֶל "Babel (i.e. Babylon)…" [HNp]
+
+### II Kings 25:16 (context)
+
+- o1: הָ/עַמּוּדִים = Hd "the" + H5982 עַמּוּד "a column (as standing)…" [HTd/Ncmpa]
+- o2: שְׁנַיִם = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmda]
+- o3: הַ/יָּם = Hd "the" + H3220 יָם "a sea (as breaking in noisy surf) or large body…" [HTd/Ncmsa]
+- o4: הָ/אֶחָד = Hd "the" + H259 אֶחָד "properly, united, i.e. one…" [HTd/Acmsa]
+- o5: וְ/הַ/מְּכֹנוֹת = Hc "and" + Hd "the" + H4350 מְכוֹנָה "a pedestal, also a spot" [HC/Td/Ncfpa]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: עָשָׂה = H6213 עָשָׂה "to do or make…" [HVqp3ms]
+- o8: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o9: לְ/בֵית = Hl "to" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc]
+- o10: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o11: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o12: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o13: מִשְׁקָל = H4948 מִשְׁקָל "weight (numerically estimated)…" [HNcmsa]
+- o14: לִ/נְחֹשֶׁת = Hl "to" + H5178 נְחֹשֶׁת "copper, hence, something made of that metal…" [HR/Ncfsc]
+- o15: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o16: הַ/כֵּלִים = Hd "the" + H3627 כְּלִי "something prepared…" [HTd/Ncmpa]
+- o17: הָ/אֵלֶּה = Hd "the" + H428 אֵלֶּה "these or those" [HTd/Pdxcp]

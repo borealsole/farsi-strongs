@@ -846,3 +846,42 @@ Persian entries and current tags:
 - p17: اصلاح خواهد_شد  → H6663
 - p18: .
 - p19: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Daniel 7:28 (context)
+
+- o1: עַד = H5705 עַד "as far (or long, or much) as…" [AR]
+- o2: כָּה = H3542 כָּה "properly, like this, i.e. by implication…" [AD]
+- o3: סוֹפָ/א = H5491 סוֹף "a termination" [ANcmsd/Td]
+- o4: דִי = H1768 דִּי "that, used as relative conjunction…" [ATr]
+- o5: מִלְּתָ/א = H4406 מִלָּה "a word, command, discourse, or subject" [ANcfsd/Td]
+- o6: אֲנָה = H576 אֲנָא "I" [APp1cs]
+- o7: דָנִיֵּאל = H1841 דָּנִיֵּאל "Danijel, the Hebrew prophet" [ANp]
+- o8: שַׂגִּיא = H7690 שַׂגִּיא "large (in size, quantity or number…" [AAamsa]
+- o9: רַעְיוֹנַ/י = H7476 רַעְיוֹן "a grasp. i.e. (figuratively) mental conception" [ANcmpc/Sp1cs]
+- o10: יְבַהֲלֻנַּ/נִי = H927 בְּהַל "to terrify, hasten" [AVpi3mp/Sp1cs]
+- o11: וְ/זִיוַ/י = Hc "and" + H2122 זִיו "(figuratively) cheerfulness" [AC/Ncmpc/Sp1cs]
+- o12: יִשְׁתַּנּוֹן = H8133 שְׁנָא "to alter" [AVMi3mp]
+- o13: עֲלַ/י = H5922 עַל "above, over, upon…" [AR/Sp1cs]
+- o14: וּ/מִלְּתָ/א = Hc "and" + H4406 מִלָּה "a word, command, discourse, or subject" [AC/Ncfsd/Td]
+- o15: בְּ/לִבִּ/י = Hb "in" + H3821 לֵב "the heart…" [AR/Ncmsc/Sp1cs]
+- o16: נִטְרֵת = H5202 נְטַר "to retain" [AVqp1cs]
+
+### Daniel 8:15 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: בִּ/רְאֹתִ/י = Hb "in" + H7200 רָאָה "to see…" [HR/Vqc/Sp1cs]
+- o3: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o4: דָנִיֵּאל = H1840 דָנִיֵּאל "Daniel or Danijel, the name of two Israelites" [HNp]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: הֶ/חָזוֹן = Hd "the" + H2377 חָזוֹן "a sight (mentally), i.e. a dream, revelation…" [HTd/Ncmsa]
+- o7: וָ/אֲבַקְשָׁ/ה = Hc "and" + H1245 בָּקַשׁ "to search out (by any method…" [HC/Vpw1cs/Sh]
+- o8: בִינָה = H998 בִּינָה "understanding" [HNcfsa]
+- o9: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o10: עֹמֵד = H5975 עָמַד "to stand…" [HVqrmsa]
+- o11: לְ/נֶגְדִּ/י = Hl "to" + H5048 נֶגֶד "a front, i.e. part opposite…" [HR/R/Sp1cs]
+- o12: כְּ/מַרְאֵה = Hk "like" + H4758 מַרְאֶה "a view (the act of seeing)…" [HR/Ncmsc]
+- o13: גָבֶר = H1397 גֶּבֶר "properly, a valiant man or warrior…" [HNcmsa]

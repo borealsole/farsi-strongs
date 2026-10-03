@@ -475,3 +475,27 @@ Persian entries and current tags:
 - p12: نگاه
 - p13: دار
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 4:14 (context)
+
+- o1: בְּ/אֹרַח = Hb "in" + H734 אֹרַח "a well-trodden road (literally or figuratively)…" [HR/Ncbsc]
+- o2: רְשָׁעִים = H7563 רָשָׁע "morally wrong…" [HAampa]
+- o3: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o4: תָּבֹא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqj2ms]
+- o5: וְ/אַל = Hc "and" + H408 אַל "not (the qualified negation…" [HC/Tn]
+- o6: תְּאַשֵּׁר = H833 אָשַׁר "to be straight (used in the widest sense…" [HVpj2ms]
+- o7: בְּ/דֶרֶךְ = Hb "in" + H1870 דֶּרֶךְ "a road (as trodden)…" [HR/Ncbsc]
+- o8: רָעִים = H7451 רַע "bad or (as noun) evil (natural or moral)" [HAampa]
+
+### Proverbs 5:1 (context)
+
+- o1: בְּנִ/י = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp1cs]
+- o2: לְ/חָכְמָתִ/י = Hl "to" + H2451 חׇכְמָה "wisdom (in a good sense)" [HR/Ncfsc/Sp1cs]
+- o3: הַקְשִׁיבָ/ה = H7181 קָשַׁב "to prick up the ears, i.e. hearken" [HVhv2ms/Sh]
+- o4: לִ/תְבוּנָתִ/י = Hl "to" + H8394 תָּבוּן "intelligence; by implication, an argument…" [HR/Ncfsc/Sp1cs]
+- o5: הַט = H5186 נָטָה "to stretch or spread out…" [HVhv2ms]
+- o6: אָזְנֶ/ךָ = H241 אֹזֶן "broadness. i.e. (concrete) the ear (from its form…" [HNcfsc/Sp2ms]

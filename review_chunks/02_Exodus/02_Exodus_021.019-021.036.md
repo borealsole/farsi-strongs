@@ -948,3 +948,45 @@ Persian entries and current tags:
 - p33: خودش
 - p34: خواهد_بود
 - p35: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 21:18 (context)
+
+- o1: וְ/כִי = Hc "and" + H3588 כִּי "by implication) very widely used as a relative…" [HC/C]
+- o2: יְרִיבֻ/ן = H7378 רִיב "properly, to toss, i.e. grapple…" [HVqi3mp/Sn]
+- o3: אֲנָשִׁים = H376 אִישׁ "a man as an individual or a male person…" [HNcmpa]
+- o4: וְ/הִכָּה = Hc "and" + H5221 נָכָה "to strike (lightly or severely…" [HC/Vhq3ms]
+- o5: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: רֵעֵ/הוּ = H7453 רֵעַ "an associate (more or less close)" [HNcmsc/Sp3ms]
+- o8: בְּ/אֶבֶן = Hb "in" + H68 אֶבֶן "a stone" [HR/Ncfsa]
+- o9: אוֹ = H176 אוֹ "desire (and so probably in Proverbs 31:4)…" [HC]
+- o10: בְ/אֶגְרֹף = Hb "in" + H106 אֶגְרֹף "the clenched hand" [HR/Ncmsa]
+- o11: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o12: יָמוּת = H4191 מוּת "to die (literally or figuratively)…" [HVqi3ms]
+- o13: וְ/נָפַל = Hc "and" + H5307 נָפַל "to fall…" [HC/Vqq3ms]
+- o14: לְ/מִשְׁכָּב = Hl "to" + H4904 מִשְׁכָּב "a bed (figuratively, a bier); abstractly, sleep…" [HR/Ncmsa]
+
+### Exodus 22:1 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: יִגְנֹב = H1589 גָּנַב "to thieve (literally or figuratively)…" [HVqi3ms]
+- o3: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o4: שׁוֹר = H7794 שׁוֹר "a bullock (as a traveller)" [HNcmsa]
+- o5: אוֹ = H176 אוֹ "desire (and so probably in Proverbs 31:4)…" [HC]
+- o6: שֶׂה = H7716 שֶׂה "a member of a flock, i.e. a sheep or goat" [HNcbsa]
+- o7: וּ/טְבָח/וֹ = Hc "and" + H2873 טָבַח "to slaughter (animals or men)" [HC/Vqq3ms/Sp3ms]
+- o8: אוֹ = H176 אוֹ "desire (and so probably in Proverbs 31:4)…" [HC]
+- o9: מְכָר/וֹ = H4376 מָכַר "to sell, literally (as merchandise…" [HVqp3ms/Sp3ms]
+- o10: חֲמִשָּׁה = H2568 חָמֵשׁ "five" [HAcmsa]
+- o11: בָקָר = H1241 בָּקָר "beef cattle or an animal of the ox family of…" [HNcbsa]
+- o12: יְשַׁלֵּם = H7999 שָׁלַם "to be safe (in mind, body or estate)…" [HVpi3ms]
+- o13: תַּחַת = H8478 תַּחַת "the bottom (as depressed)…" [HR]
+- o14: הַ/שּׁוֹר = Hd "the" + H7794 שׁוֹר "a bullock (as a traveller)" [HTd/Ncmsa]
+- o15: וְ/אַרְבַּע = Hc "and" + H702 אַרְבַּע "four" [HC/Acfsa]
+- o16: צֹאן = H6629 צֹאן "a collective name for a flock (of sheep or goats)…" [HNcbsa]
+- o17: תַּחַת = H8478 תַּחַת "the bottom (as depressed)…" [HR]
+- o18: הַ/שֶּׂה = Hd "the" + H7716 שֶׂה "a member of a flock, i.e. a sheep or goat" [HTd/Ncbsa]

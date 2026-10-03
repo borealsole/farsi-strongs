@@ -694,3 +694,49 @@ Persian entries and current tags:
 - p9: سخن
 - p10: می‌گوید  → G3004
 - p11: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 16:28 (context)
+
+- o1: ἀμὴν = G281 ἀμήν "amen, verily" [HEB]
+- o2: λέγω = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-1S]
+- o3: ὑμῖν = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
+- o4: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o5: εἰσίν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3P]
+- o6: τινες = G5100 τὶς "a (kind of), any (man, thing, thing at all)…" [X-NPM]
+- o7: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o8: ὧδε = G5602 ὧδε "here, hither, (in) this place, there" [ADV]
+- o9: ἑστώτων = G2476 ἵστημι "abide, appoint, bring, continue, covenant…" [V-RAP-GPM]
+- o10: οἵτινες = G3748 ὅστις "and (they), (such) as, (they) that, in that they…" [R-NPM]
+- o11: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o12: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o13: γεύσωνται = G1089 γεύομαι "eat, taste" [V-ADS-3P]
+- o14: θανάτου = G2288 θάνατος "deadly, (be…) death" [N-GSM]
+- o15: ἕως = G2193 ἕως "even (until, unto), (as) far (as), how long…" [ADV]
+- o16: ἂν = G302 ἄν "(what-, where-, wither-, who-)soever" [PRT]
+- o17: ἴδωσιν = G3708 ὁράω "behold, perceive, see, take heed" [V-2AAS-3P]
+- o18: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o19: υἱὸν = G5207 υἱός "child, foal, son" [N-ASM]
+- o20: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o21: ἀνθρώπου = G444 ἄνθρωπος "certain, man" [N-GSM]
+- o22: ἐρχόμενον = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-PNP-ASM]
+- o23: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o24: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o25: βασιλείᾳ = G932 βασιλεία "kingdom, + reign" [N-DSF]
+- o26: αὐτοῦ. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+
+### Matthew 17:14 (context)
+
+- o1: Καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἐλθόντων = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-2AAP-GPM]
+- o3: πρὸς = G4314 πρός "about, according to , against, among, at…" [PREP]
+- o4: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o5: ὄχλον, = G3793 ὄχλος "company, multitude, number (of people), people…" [N-ASM]
+- o6: προσῆλθεν = G4334 προσέρχομαι "as soon as he) come (unto), come thereunto…" [V-2AAI-3S]
+- o7: αὐτῷ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
+- o8: ἄνθρωπος = G444 ἄνθρωπος "certain, man" [N-NSM]
+- o9: γονυπετῶν = G1120 γονυπετέω "bow the knee, kneel down" [V-PAP-NSM]
+- o10: αὐτὸν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASM]

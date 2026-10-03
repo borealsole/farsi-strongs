@@ -778,3 +778,50 @@ Persian entries and current tags:
 - p19: بدیشان
 - p20: گفته_بود  → H1696
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Joshua 13:16 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o3: הַ/גְּבוּל = Hd "the" + H1366 גְּבוּל "properly, a cord (as twisted)…" [HTd/Ncmsa]
+- o4: מֵ/עֲרוֹעֵר = Hm "from" + H6177 עֲרוֹעֵר "Aroer…" [HR/Np]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: עַל = H5921 עַל "above, over, upon…" [HR]
+- o7: שְׂפַת = H8193 שָׂפָה "the lip (as a natural boundary)…" [HNcfsc]
+- o8: נַחַל = H5158 נַחַל "a stream, especially a winter torrent…" [HNcmsc]
+- o9: אַרְנוֹן = H769 אַרְנוֹן "the Arnon, a river east of the Jordan…" [HNp]
+- o10: וְ/הָ/עִיר = Hc "and" + Hd "the" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HC/Td/Ncfsa]
+- o11: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o12: בְּ/תוֹךְ = Hb "in" + H8432 תָּוֶךְ "a bisection, i.e. (by implication) the centre" [HR/Ncmsc]
+- o13: הַ/נַּחַל = Hd "the" + H5158 נַחַל "a stream, especially a winter torrent…" [HTd/Ncmsa]
+- o14: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o15: הַ/מִּישֹׁר = Hd "the" + H4334 מִישׁוֹר "a level…" [HTd/Ncmsa]
+- o16: עַל = H5921 עַל "above, over, upon…" [HR]
+- o17: מֵידְבָא = H4311 מֵידְבָא "Medeba, a place in Palestine" [HNp]
+
+### Joshua 14:1 (context)
+
+- o1: וְ/אֵלֶּה = Hc "and" + H428 אֵלֶּה "these or those" [HC/Pdxcp]
+- o2: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o3: נָחֲלוּ = H5157 נָחַל "to inherit (as a (figurative) mode of descent)…" [HVqp3cp]
+- o4: בְנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o5: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o6: בְּ/אֶרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o7: כְּנָעַן = H3667 כְּנַעַן "Kenaan, a son a Ham…" [HNp]
+- o8: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o9: נִחֲלוּ = H5157 נָחַל "to inherit (as a (figurative) mode of descent)…" [HVpp3cp]
+- o10: אוֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o11: אֶלְעָזָר = H499 אֶלְעָזָר "Elazar, the name of seven Israelites" [HNp]
+- o12: הַ/כֹּהֵן = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmsa]
+- o13: וִ/יהוֹשֻׁעַ = Hc "and" + H3091 יְהוֹשׁוּעַ "Jehoshua (i.e. Joshua), the Jewish leader" [HC/Np]
+- o14: בִּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o15: נוּן = H5126 נוּן "Nun or Non, the father of Joshua" [HNp]
+- o16: וְ/רָאשֵׁי = Hc "and" + H7218 רֹאשׁ "the head (as most easily shaken)…" [HC/Ncmpc]
+- o17: אֲבוֹת = H1 אָב "father, in a literal and immediate…" [HNcmpc]
+- o18: הַ/מַּטּוֹת = Hd "the" + H4294 מַטֶּה "a branch (as extending); figuratively, a tribe…" [HTd/Ncmpa]
+- o19: לִ/בְנֵי = Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmpc]
+- o20: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]

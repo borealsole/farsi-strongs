@@ -968,3 +968,40 @@ Persian entries and current tags:
 - p34: ارابه  → H7393
 - p35: ریخته_بود  → H3332
 - p36: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 22:18 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o3: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o4: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o5: יְהוֹשָׁפָט = H3092 יְהוֹשָׁפָט "Jehoshaphat, the name of six Israelites…" [HNp]
+- o6: הֲ/לוֹא = Hi "(untranslatable; interrogative particle)" + H3808 לֹא "not (the simple or abs. negation)…" [HTi/Tn]
+- o7: אָמַרְתִּי = H559 אָמַר "to say (used with great latitude)" [HVqp1cs]
+- o8: אֵלֶי/ךָ = H413 אֵל "near, with or among; often in general, to" [HR/Sp2ms]
+- o9: לוֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o10: יִתְנַבֵּא = H5012 נָבָא "to prophesy…" [HVti3ms]
+- o11: עָלַ/י = H5921 עַל "above, over, upon…" [HR/Sp1cs]
+- o12: טוֹב = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAamsa]
+- o13: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o14: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o15: רָע = H7451 רַע "bad or (as noun) evil (natural or moral)" [HAamsa]
+
+### I Kings 22:36 (context)
+
+- o1: וַ/יַּעֲבֹר = Hc "and" + H5674 עָבַר "to cross over…" [HC/Vqw3ms]
+- o2: הָ/רִנָּה = Hd "the" + H7440 רִנָּה "properly, a creaking (or shrill sound)…" [HTd/Ncfsa]
+- o3: בַּ/מַּחֲנֶה = Hb "in" + H4264 מַחֲנֶה "an encampment (of travellers or troops)…" [HRd/Ncbsa]
+- o4: כְּ/בֹא = Hk "like" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HR/Vqc]
+- o5: הַ/שֶּׁמֶשׁ = Hd "the" + H8121 שֶׁמֶשׁ "the sun; by implication, the east…" [HTd/Ncbsa]
+- o6: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o7: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o8: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o9: עִיר/וֹ = H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HNcfsc/Sp3ms]
+- o10: וְ/אִישׁ = Hc "and" + H376 אִישׁ "a man as an individual or a male person…" [HC/Ncmsa]
+- o11: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o12: אַרְצ/וֹ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsc/Sp3ms]

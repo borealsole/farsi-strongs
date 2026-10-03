@@ -1145,3 +1145,42 @@ Persian entries and current tags:
 - p8: زمین  → H776
 - p9: چیره بود  → H1396
 - p10: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 6:22 (context)
+
+- o1: וַ/יַּעַשׂ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3ms]
+- o2: נֹחַ = H5146 נֹחַ "Noach, the patriarch of the flood" [HNp]
+- o3: כְּ/כֹל = Hk "like" + H3605 כֹּל "properly, the whole…" [HR/Ncmsa]
+- o4: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o5: צִוָּה = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp3ms]
+- o6: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o7: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o8: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o9: עָשָׂה = H6213 עָשָׂה "to do or make…" [HVqp3ms]
+
+### Genesis 8:1 (context)
+
+- o1: וַ/יִּזְכֹּר = Hc "and" + H2142 זָכַר "properly, to mark (so as to be recognized)…" [HC/Vqw3ms]
+- o2: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: נֹחַ = H5146 נֹחַ "Noach, the patriarch of the flood" [HNp]
+- o5: וְ/אֵת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o6: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o7: הַ/חַיָּה = Hd "the" + H2416 חַי "alive; hence, raw (flesh)…" [HTd/Ncfsa]
+- o8: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o9: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o10: הַ/בְּהֵמָה = Hd "the" + H929 בְּהֵמָה "properly, a dumb beast…" [HTd/Ncfsa]
+- o11: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o12: אִתּ/וֹ = H854 אֵת "properly…" [HR/Sp3ms]
+- o13: בַּ/תֵּבָה = Hb "in" + H8392 תֵּבָה "a box" [HRd/Ncfsa]
+- o14: וַ/יַּעֲבֵר = Hc "and" + H5674 עָבַר "to cross over…" [HC/Vhw3ms]
+- o15: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o16: רוּחַ = H7307 רוּחַ "wind…" [HNcbsa]
+- o17: עַל = H5921 עַל "above, over, upon…" [HR]
+- o18: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o19: וַ/יָּשֹׁכּוּ = Hc "and" + H7918 שָׁכַךְ "to weave (i.e. lay) a trap…" [HC/Vqw3mp]
+- o20: הַ/מָּיִם = Hd "the" + H4325 מַיִם "water; figuratively, juice…" [HTd/Ncmpa]

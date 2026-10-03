@@ -1069,3 +1069,41 @@ Persian entries and current tags:
 - p9: اسرائیل  → H3478
 - p10: سلطنت کرد  → H4427
 - p11: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 10:18 (context)
+
+- o1: וַ/יִּקְבֹּץ = Hc "and" + H6908 קָבַץ "to grasp, i.e. collect" [HC/Vqw3ms]
+- o2: יֵהוּא = H3058 יֵהוּא "Jehu, the name of five Israelites" [HNp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o5: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o6: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o7: אֲלֵ/הֶם = H413 אֵל "near, with or among; often in general, to" [HR/Sp3mp]
+- o8: אַחְאָב = H256 אַחְאָב "Achab…" [HNp]
+- o9: עָבַד = H5647 עָבַד "to work (in any sense)…" [HVqp3ms]
+- o10: אֶת = H853 אֵת "properly…" [HTo]
+- o11: הַ/בַּעַל = Hd "the" + H1168 בַּעַל "Baal, a Phoenician deity" [HTd/Np]
+- o12: מְעָט = H4592 מְעַט "a little or few (often adverbial or compar.)" [HNcmsa]
+- o13: יֵהוּא = H3058 יֵהוּא "Jehu, the name of five Israelites" [HNp]
+- o14: יַעַבְדֶ/נּוּ = H5647 עָבַד "to work (in any sense)…" [HVqi3ms/Sp1cp]
+- o15: הַרְבֵּה = H7235 רָבָה "to increase (in whatever respect)" [HVha]
+
+### II Kings 11:1 (context)
+
+- o1: וַ/עֲתַלְיָה = Hc "and" + H6271 עֲתַלְיָה "Athaljah…" [HC/Np]
+- o2: אֵם = H517 אֵם "a mother (as the bond of the family)…" [HNcfsc]
+- o3: אֲחַזְיָהוּ = H274 אֲחַזְיָה "Achazjah…" [HNp]
+- o4: ו/ראתה = Hc "and" + H7200 רָאָה "to see…" [HC/Vqp3fs]
+- o5: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o6: מֵת = H4191 מוּת "to die (literally or figuratively)…" [HVqp3ms]
+- o7: בְּנָ/הּ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3fs]
+- o8: וַ/תָּקָם = Hc "and" + H6965 קוּם "to rise (in various applications, literal…" [HC/Vqw3fs]
+- o9: וַ/תְּאַבֵּד = Hc "and" + H6 אָבַד "properly, to wander away, i.e. lose oneself…" [HC/Vpw3fs]
+- o10: אֵת = H853 אֵת "properly…" [HTo]
+- o11: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o12: זֶרַע = H2233 זֶרַע "seed…" [HNcmsc]
+- o13: הַ/מַּמְלָכָה = Hd "the" + H4467 מַמְלָכָה "dominion…" [HTd/Ncfsa]

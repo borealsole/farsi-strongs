@@ -506,3 +506,40 @@ Persian entries and current tags:
 - p13: اَدوم  → H123
 - p14: اردو زدند  → H2583
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 33:19 (context)
+
+- o1: וַ/יִּסְעוּ = Hc "and" + H5265 נָסַע "properly, to pull up, especially the tent-pins…" [HC/Vqw3mp]
+- o2: מֵ/רִתְמָה = Hm "from" + H7575 רִתְמָה "Rithmah, a place in the Desert" [HR/Np]
+- o3: וַ/יַּחֲנוּ = Hc "and" + H2583 חָנָה "properly, to incline…" [HC/Vqw3mp]
+- o4: בְּ/רִמֹּן = Hb "in" + H7428 רִמֹּן פֶּרֶץ "Rimmon-Perets, a place in the Desert" [HR/Np]
+- o5: פָּרֶץ = H7428 רִמֹּן פֶּרֶץ "Rimmon-Perets, a place in the Desert" [HNp]
+
+### Numbers 33:38 (context)
+
+- o1: וַ/יַּעַל = Hc "and" + H5927 עָלָה "to ascend…" [HC/Vqw3ms]
+- o2: אַהֲרֹן = H175 אַהֲרוֹן "Aharon, the brother of Moses" [HNp]
+- o3: הַ/כֹּהֵן = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmsa]
+- o4: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o5: הֹר = H2023 הֹר "Hor…" [HNp]
+- o6: הָ/הָר = Hd "the" + H2022 הַר "a mountain or range of hills (sometimes used…" [HTd/Ncmsa]
+- o7: עַל = H5921 עַל "above, over, upon…" [HR]
+- o8: פִּי = H6310 פֶּה "the mouth (as the means of blowing)…" [HNcmsc]
+- o9: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o10: וַ/יָּמָת = Hc "and" + H4191 מוּת "to die (literally or figuratively)…" [HC/Vqw3ms]
+- o11: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o12: בִּ/שְׁנַת = Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HR/Ncfsc]
+- o13: הָ/אַרְבָּעִים = Hd "the" + H705 אַרְבָּעִים "forty" [HTd/Acbpa]
+- o14: לְ/צֵאת = Hl "to" + H3318 יָצָא "to go (causatively, bring) out…" [HR/Vqc]
+- o15: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o16: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o17: מֵ/אֶרֶץ = Hm "from" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o18: מִצְרַיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o19: בַּ/חֹדֶשׁ = Hb "in" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HRd/Ncmsa]
+- o20: הַ/חֲמִישִׁי = Hd "the" + H2549 חֲמִישִׁי "fifth; also a fifth" [HTd/Aomsa]
+- o21: בְּ/אֶחָד = Hb "in" + H259 אֶחָד "properly, united, i.e. one…" [HR/Acmsa]
+- o22: לַ/חֹדֶשׁ = Hl "to" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HRd/Ncmsa]

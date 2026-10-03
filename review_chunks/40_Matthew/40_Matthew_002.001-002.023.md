@@ -1273,3 +1273,42 @@ Persian entries and current tags:
 - p20: ’ناصری‘  → G3480
 - p21: خوانده_خواهد_شد  → G2564
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 1:25 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o3: ἐγίνωσκεν = G1097 γινώσκω "allow, be aware (of), feel, (have) know(-ledge)…" [V-IAI-3S]
+- o4: αὐτὴν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASF]
+- o5: ἕως = G2193 ἕως "even (until, unto), (as) far (as), how long…" [ADV]
+- o6: οὗ = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-GSM]
+- o7: ἔτεκεν = G5088 τίκτω "bear, be born, bring forth, be delivered…" [V-2AAI-3S]
+- o8: υἱόν· = G5207 υἱός "child, foal, son" [N-ASM]
+- o9: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o10: ἐκάλεσεν = G2564 καλέω "bid, call (forth), (whose…" [V-AAI-3S]
+- o11: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o12: ὄνομα = G3686 ὄνομα "called, (+ sur-)name(-d)" [N-ASN]
+- o13: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o14: Ἰησοῦν. = G2424 Ἰησοῦς "Jesus" [N-ASM]
+
+### Matthew 3:1 (context)
+
+- o1: Ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: ταῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPF]
+- o4: ἡμέραις = G2250 ἡμέρα "age, + alway, (mid-)day (by day, (-ly))…" [N-DPF]
+- o5: ἐκείναις = G1565 ἐκεῖνος "he, it, the other (same), selfsame, that (same…" [D-DPF]
+- o6: παραγίνεται = G3854 παραγίνομαι "come, go, be present" [V-PNI-3S]
+- o7: Ἰωάννης = G2491 Ἰωάννης "John" [N-NSM]
+- o8: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o9: βαπτιστὴς = G910 Βαπτιστής "Baptist" [N-NSM]
+- o10: κηρύσσων = G2784 κηρύσσω "preacher(-er), proclaim, publish" [V-PAP-NSM]
+- o11: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o12: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o13: ἐρήμῳ = G2048 ἔρημος "desert, desolate, solitary, wilderness" [A-DSF]
+- o14: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o15: Ἰουδαίας = G2449 Ἰουδαία "Judæa" [N-GSF]

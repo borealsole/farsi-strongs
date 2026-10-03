@@ -865,3 +865,45 @@ Persian entries and current tags:
 - p42: انجام
 - p43: دهند
 - p44: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 35:18 (context)
+
+- o1: אֶת = H853 אֵת "properly…" [HTo]
+- o2: יִתְדֹת = H3489 יָתֵד "a peg" [HNcfpc]
+- o3: הַ/מִּשְׁכָּן = Hd "the" + H4908 מִשְׁכָּן "a residence (including a shepherd's hut…" [HTd/Ncmsa]
+- o4: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o5: יִתְדֹת = H3489 יָתֵד "a peg" [HNcfpc]
+- o6: הֶ/חָצֵר = Hd "the" + H2691 חָצֵר "a yard (as inclosed by a fence)…" [HTd/Ncbsa]
+- o7: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o8: מֵיתְרֵי/הֶם = H4340 מֵיתָר "a cord (of a tent); or the string (of a bow)" [HNcmpc/Sp3mp]
+
+### Exodus 36:1 (context)
+
+- o1: וְ/עָשָׂה = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqq3ms]
+- o2: בְצַלְאֵל = H1212 בְּצַלְאֵל "Betsalel, the name of two Israelites" [HNp]
+- o3: וְ/אָהֳלִיאָב = Hc "and" + H171 אׇהֳלִיאָב "Oholiab, an Israelite" [HC/Np]
+- o4: וְ/כֹל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o5: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o6: חֲכַם = H2450 חָכָם "wise, (i.e. intelligent, skilful or artful)" [HAamsc]
+- o7: לֵב = H3820 לֵב "the heart…" [HNcmsa]
+- o8: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o9: נָתַן = H5414 נָתַן "to give…" [HVqp3ms]
+- o10: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o11: חָכְמָה = H2451 חׇכְמָה "wisdom (in a good sense)" [HNcfsa]
+- o12: וּ/תְבוּנָה = Hc "and" + H8394 תָּבוּן "intelligence; by implication, an argument…" [HC/Ncfsa]
+- o13: בָּ/הֵמָּה = Hb "in" + H1992 הֵם "they (only used when emphatic)" [HR/Pp3mp]
+- o14: לָ/דַעַת = Hl "to" + H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HR/Vqc]
+- o15: לַ/עֲשֹׂת = Hl "to" + H6213 עָשָׂה "to do or make…" [HR/Vqc]
+- o16: אֶת = H853 אֵת "properly…" [HTo]
+- o17: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o18: מְלֶאכֶת = H4399 מְלָאכָה "properly, deputyship, i.e. ministry…" [HNcfsc]
+- o19: עֲבֹדַת = H5656 עֲבֹדָה "work of any kind" [HNcfsc]
+- o20: הַ/קֹּדֶשׁ = Hd "the" + H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HTd/Ncmsa]
+- o21: לְ/כֹל = Hl "to" + H3605 כֹּל "properly, the whole…" [HR/Ncmsa]
+- o22: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o23: צִוָּה = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp3ms]
+- o24: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]

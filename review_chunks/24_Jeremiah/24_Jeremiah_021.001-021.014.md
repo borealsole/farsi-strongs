@@ -914,3 +914,35 @@ Persian entries and current tags:
 - p29: فرمودۀ  → H5002
 - p30: خداوند  → H3068
 - p31: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 20:18 (context)
+
+- o1: לָ/מָּה = Hl "to" + H4100 מָה "properly…" [HR/Ti]
+- o2: זֶּה = H2088 זֶה "the masculine demonstrative pronoun, this or that" [HPdxms]
+- o3: מֵ/רֶחֶם = Hm "from" + H7358 רֶחֶם "the womb" [HR/Ncmsa]
+- o4: יָצָאתִי = H3318 יָצָא "to go (causatively, bring) out…" [HVqp1cs]
+- o5: לִ/רְאוֹת = Hl "to" + H7200 רָאָה "to see…" [HR/Vqc]
+- o6: עָמָל = H5999 עָמָל "toil, i.e. wearing effort…" [HNcbsa]
+- o7: וְ/יָגוֹן = Hc "and" + H3015 יָגוֹן "affliction" [HC/Ncmsa]
+- o8: וַ/יִּכְלוּ = Hc "and" + H3615 כָּלָה "to end, whether intransitive (to cease…" [HC/Vqw3mp]
+- o9: בְּ/בֹשֶׁת = Hb "in" + H1322 בֹּשֶׁת "shame (the feeling and the condition…" [HR/Ncfsa]
+- o10: יָמָ/י = H3117 יוֹם "a day (as the warm hours)…" [HNcmpc/Sp1cs]
+
+### Jeremiah 22:1 (context)
+
+- o1: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o2: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: רֵד = H3381 יָרַד "to descend (literally, to go downwards…" [HVqv2ms]
+- o5: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o6: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o7: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o8: וְ/דִבַּרְתָּ = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpq2ms]
+- o9: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o10: אֶת = H853 אֵת "properly…" [HTo]
+- o11: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]
+- o12: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]

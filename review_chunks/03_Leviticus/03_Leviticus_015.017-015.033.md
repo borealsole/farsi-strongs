@@ -912,3 +912,40 @@ Persian entries and current tags:
 - p35: نجس  → H2931
 - p36: همبستر می‌شود  → H7901
 - p37: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 15:16 (context)
+
+- o1: וְ/אִישׁ = Hc "and" + H376 אִישׁ "a man as an individual or a male person…" [HC/Ncmsa]
+- o2: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o3: תֵצֵא = H3318 יָצָא "to go (causatively, bring) out…" [HVqi3fs]
+- o4: מִמֶּ/נּוּ = H4480 מִן "properly, a part of…" [HR/Sp1cp]
+- o5: שִׁכְבַת = H7902 שְׁכָבָה "a lying down (of dew, or for the sexual act)" [HNcfsc]
+- o6: זָרַע = H2233 זֶרַע "seed…" [HNcmsa]
+- o7: וְ/רָחַץ = Hc "and" + H7364 רָחַץ "to lave (the whole or a part of a thing)" [HC/Vqq3ms]
+- o8: בַּ/מַּיִם = Hb "in" + H4325 מַיִם "water; figuratively, juice…" [HRd/Ncmpa]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o11: בְּשָׂר/וֹ = H1320 בָּשָׂר "flesh (from its freshness)…" [HNcmsc/Sp3ms]
+- o12: וְ/טָמֵא = Hc "and" + H2930 טָמֵא "to be foul…" [HC/Vqq3ms]
+- o13: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o14: הָ/עָרֶב = Hd "the" + H6153 עֶרֶב "dusk" [HTd/Ncmsa]
+
+### Leviticus 16:1 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: אַחֲרֵי = H310 אַחַר "properly, the hind part…" [HR]
+- o6: מוֹת = H4194 מָוֶת "death (natural or violent)…" [HNcmsc]
+- o7: שְׁנֵי = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmdc]
+- o8: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o9: אַהֲרֹן = H175 אַהֲרוֹן "Aharon, the brother of Moses" [HNp]
+- o10: בְּ/קָרְבָתָ/ם = Hb "in" + H7126 קָרַב "to approach (causatively…" [HR/Vqc/Sp3mp]
+- o11: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o12: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o13: וַ/יָּמֻתוּ = Hc "and" + H4191 מוּת "to die (literally or figuratively)…" [HC/Vqw3mp]

@@ -754,3 +754,69 @@ Persian entries and current tags:
 - p18: مجاهده  → G2872
 - p19: مشغولم
 - p20: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Colossians 1:16 (context)
+
+- o1: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o2: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o3: αὐτῷ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
+- o4: ἐκτίσθη = G2936 κτίζω "create, Creator, make" [V-API-3S]
+- o5: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPN]
+- o6: πάντα = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-NPN]
+- o7: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o8: τοῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPM]
+- o9: οὐρανοῖς = G3772 οὐρανός "air, heaven(-ly), sky" [N-DPM]
+- o10: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o11: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o12: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o13: γῆς, = G1093 γῆ "country, earth(-ly), ground, land, world" [N-GSF]
+- o14: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPN]
+- o15: ὁρατὰ = G3707 ὁρατός "visible" [A-NPN]
+- o16: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o17: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPN]
+- o18: ἀόρατα, = G517 ἀόρατος "invisible (thing)" [A-NPN]
+- o19: εἴτε = G1535 εἴτε "if, or, whether" [CONJ]
+- o20: θρόνοι = G2362 θρόνος "seat, throne" [N-NPM]
+- o21: εἴτε = G1535 εἴτε "if, or, whether" [CONJ]
+- o22: κυριότητες = G2963 κυριότης "dominion, government" [N-NPF]
+- o23: εἴτε = G1535 εἴτε "if, or, whether" [CONJ]
+- o24: ἀρχαὶ = G746 ἀρχή "beginning, corner, (at the, the) first (estate)…" [N-NPF]
+- o25: εἴτε = G1535 εἴτε "if, or, whether" [CONJ]
+- o26: ἐξουσίαι· = G1849 ἐξουσία "authority, jurisdiction, liberty, power, right…" [N-NPF]
+- o27: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPN]
+- o28: πάντα = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-NPN]
+- o29: δι’ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o30: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o31: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o32: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o33: αὐτὸν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASM]
+- o34: ἔκτισται, = G2936 κτίζω "create, Creator, make" [V-RPI-3S]
+
+### Colossians 2:1 (context)
+
+- o1: Θέλω = G2309 θέλω "desire, be disposed (forward), intend, list, love…" [V-PAI-1S]
+- o2: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o3: ὑμᾶς = G5210 ὑμεῖς "ye (yourselves), you" [P-2AP]
+- o4: εἰδέναι = G1492 εἴδω "be aware, behold, can (+ not tell), consider…" [V-RAN]
+- o5: ἡλίκον = G2245 ἡλίκος "how (what) great" [A-ASM]
+- o6: ἀγῶνα = G73 ἀγών "conflict, contention, fight, race" [N-ASM]
+- o7: ἔχω = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAI-1S]
+- o8: ὑπὲρ = G5228 ὑπέρ "+ exceeding, abundantly) above…" [PREP]
+- o9: ὑμῶν = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
+- o10: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o11: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o12: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o13: Λαοδικίᾳ = G2993 Λαοδίκεια "Laodicea" [N-DSF]
+- o14: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o15: ὅσοι = G3745 ὅσος "all (that), as (long, many, much) (as)…" [K-NPM]
+- o16: οὐχ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o17: ἑόρακαν = G3708 ὁράω "behold, perceive, see, take heed" [V-RAI-3P]
+- o18: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o19: πρόσωπόν = G4383 πρόσωπον "outward) appearance, before, countenance, face…" [N-ASN]
+- o20: μου = G1473 ἐγώ "I, me" [P-1GS]
+- o21: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o22: σαρκί, = G4561 σάρξ "carnal(-ly, + -ly minded), flesh(-ly)" [N-DSF]

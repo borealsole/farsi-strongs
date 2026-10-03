@@ -1017,3 +1017,44 @@ Persian entries and current tags:
 - p7: شما  → G5210
 - p8: اطمینان دارم  → G2292
 - p9: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Corinthians 6:18 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἔσομαι = G1510 εἰμί "am, have been, it is I, was" [V-FDI-1S]
+- o3: ὑμῖν = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
+- o4: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o5: πατέρα, = G3962 πατήρ "father, parent" [N-ASM]
+- o6: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o7: ὑμεῖς = G5210 ὑμεῖς "ye (yourselves), you" [P-2NP]
+- o8: ἔσεσθέ = G1510 εἰμί "am, have been, it is I, was" [V-FDI-2P]
+- o9: μοι = G1473 ἐγώ "I, me" [P-1DS]
+- o10: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o11: υἱοὺς = G5207 υἱός "child, foal, son" [N-APM]
+- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o13: θυγατέρας, = G2364 θυγάτηρ "daughter" [N-APF]
+- o14: λέγει = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-3S]
+- o15: κύριος = G2962 κύριος "God, Lord, master, Sir" [N-NSM]
+- o16: παντοκράτωρ. = G3841 παντοκράτωρ "Almighty, Omnipotent" [N-NSM]
+
+### II Corinthians 8:1 (context)
+
+- o1: Γνωρίζομεν = G1107 γνωρίζω "certify, declare, make known, give to understand…" [V-PAI-1P]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: ὑμῖν, = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
+- o4: ἀδελφοί, = G80 ἀδελφός "brother" [N-VPM]
+- o5: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o6: χάριν = G5485 χάρις "acceptable, benefit, favour, gift, grace(- ious)…" [N-ASF]
+- o7: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o8: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o9: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o10: δεδομένην = G1325 δίδωμι "adventure, bestow, bring forth, commit…" [V-RPP-ASF]
+- o11: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o12: ταῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPF]
+- o13: ἐκκλησίαις = G1577 ἐκκλησία "assembly, church" [N-DPF]
+- o14: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o15: Μακεδονίας, = G3109 Μακεδονία "Macedonia" [N-GSF]

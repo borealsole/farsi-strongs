@@ -480,3 +480,31 @@ Persian entries and current tags:
 - p11: گردیده
 - p12: است
 - p13: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 117:2 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: גָבַר = H1396 גָּבַר "to be strong…" [HVqp3ms]
+- o3: עָלֵי/נוּ = H5921 עַל "above, over, upon…" [HR/Sp1cp]
+- o4: חַסְדּ/וֹ = H2617 חֵסֵד "kindness; by implication (towards God) piety…" [HNcmsc/Sp3ms]
+- o5: וֶ/אֱמֶת = Hc "and" + H571 אֶמֶת "stability…" [HC/Ncfsc]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: לְ/עוֹלָם = Hl "to" + H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HR/Ncmsa]
+- o8: הַלְלוּ = H1984 הָלַל "to be clear (orig. of sound…" [HVpv2mp]
+- o9: יָהּ = H3050 יָהּ "Jah, the sacred name" [HNp]
+
+### Psalms 118:15 (context)
+
+- o1: קוֹל = H6963 קוֹל "a voice or sound" [HNcmsc]
+- o2: רִנָּה = H7440 רִנָּה "properly, a creaking (or shrill sound)…" [HNcfsa]
+- o3: וִ/ישׁוּעָה = Hc "and" + H3444 יְשׁוּעָה "something saved, i.e. (abstractly) deliverance…" [HC/Ncfsa]
+- o4: בְּ/אָהֳלֵי = Hb "in" + H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HR/Ncmpc]
+- o5: צַדִּיקִים = H6662 צַדִּיק "just" [HAampa]
+- o6: יְמִין = H3225 יָמִין "the right hand or side (leg…" [HNcfsc]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: עֹשָׂה = H6213 עָשָׂה "to do or make…" [HVqrfsa]
+- o9: חָיִל = H2428 חַיִל "probably a force, whether of men…" [HNcmsa]

@@ -1249,3 +1249,40 @@ Persian entries and current tags:
 - p25: گام
 - p26: می‌زنند
 - p27: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 17:20 (context)
+
+- o1: וַ/יִּמְאַס = Hc "and" + H3988 מָאַס "to spurn; also (intransitively) to disappear" [HC/Vqw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: בְּ/כָל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o4: זֶרַע = H2233 זֶרַע "seed…" [HNcmsc]
+- o5: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o6: וַ/יְעַנֵּ/ם = Hc "and" + H6031 עָנָה "to depress literally or figuratively…" [HC/Vpw3ms/Sp3mp]
+- o7: וַ/יִּתְּנֵ/ם = Hc "and" + H5414 נָתַן "to give…" [HC/Vqw3ms/Sp3mp]
+- o8: בְּ/יַד = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o9: שֹׁסִים = H8154 שָׁסָה "to plunder" [HVqrmpa]
+- o10: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o11: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o12: הִשְׁלִיכָ/ם = H7993 שָׁלַךְ "to throw out…" [HVhp3ms/Sp3mp]
+- o13: מִ/פָּנָי/ו = Hm "from" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp3ms]
+
+### II Kings 18:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: בִּ/שְׁנַת = Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HR/Ncfsc]
+- o3: שָׁלֹשׁ = H7969 שָׁלוֹשׁ "three…" [HAcfsa]
+- o4: לְ/הוֹשֵׁעַ = Hl "to" + H1954 הוֹשֵׁעַ "Hoshea, the name of five Israelites" [HR/Np]
+- o5: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o6: אֵלָה = H425 אֵלָה "Elah, the name of an Edomite, of four Israelites…" [HNp]
+- o7: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o8: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o9: מָלַךְ = H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HVqp3ms]
+- o10: חִזְקִיָּה = H2396 חִזְקִיָּה "Chizkijah, a king of Judah…" [HNp]
+- o11: בֶן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o12: אָחָז = H271 אָחָז "Achaz…" [HNp]
+- o13: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o14: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]

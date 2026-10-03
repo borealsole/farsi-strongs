@@ -1015,3 +1015,59 @@ Persian entries and current tags:
 - p37: تا
 - p38: بخور بسوزاند  → H6999
 - p39: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 12:16 (context)
+
+- o1: וַ/יַּרְא = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw3ms]
+- o2: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o4: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o5: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o6: שָׁמַע = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqp3ms]
+- o7: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o8: אֲלֵי/הֶם = H413 אֵל "near, with or among; often in general, to" [HR/Sp3mp]
+- o9: וַ/יָּשִׁבוּ = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vhw3mp]
+- o10: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o11: אֶת = H853 אֵת "properly…" [HTo]
+- o12: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o13: דָּבָר = H1697 דָּבָר "a word…" [HNcmsa]
+- o14: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o15: מַה = H4100 מָה "properly…" [HTi]
+- o16: לָּ/נוּ = Hl "to" [HR/Sp1cp]
+- o17: חֵלֶק = H2506 חֵלֶק "properly, smoothness (of the tongue)…" [HNcmsa]
+- o18: בְּ/דָוִד = Hb "in" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o19: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o20: נַחֲלָה = H5159 נַחֲלָה "properly, something inherited…" [HNcfsa]
+- o21: בְּ/בֶן = Hb "in" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmsc]
+- o22: יִשַׁי = H3448 יִשַׁי "Jishai, David's father" [HNp]
+- o23: לְ/אֹהָלֶי/ךָ = Hl "to" + H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HR/Ncmpc/Sp2ms]
+- o24: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o25: עַתָּה = H6258 עַתָּה "at this time, whether adverb…" [HD]
+- o26: רְאֵה = H7200 רָאָה "to see…" [HVqv2ms]
+- o27: בֵיתְ/ךָ = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc/Sp2ms]
+- o28: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o29: וַ/יֵּלֶךְ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3ms]
+- o30: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o31: לְ/אֹהָלָי/ו = Hl "to" + H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HR/Ncmpc/Sp3ms]
+
+### I Kings 13:1 (context)
+
+- o1: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o2: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsc]
+- o3: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o4: בָּא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3ms]
+- o5: מִ/יהוּדָה = Hm "from" + H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HR/Np]
+- o6: בִּ/דְבַר = Hb "in" + H1697 דָּבָר "a word…" [HR/Ncmsc]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o9: בֵּית = H1008 בֵּית־אֵל "Beth-El, a place in Palestine" [HNp]
+- o10: אֵל = H1008 בֵּית־אֵל "Beth-El, a place in Palestine" [HNp]
+- o11: וְ/יָרָבְעָם = Hc "and" + H3379 יָרׇבְעָם "Jarobam, the name of two Israelite kings" [HC/Np]
+- o12: עֹמֵד = H5975 עָמַד "to stand…" [HVqrmsa]
+- o13: עַל = H5921 עַל "above, over, upon…" [HR]
+- o14: הַ/מִּזְבֵּחַ = Hd "the" + H4196 מִזְבֵּחַ "an altar" [HTd/Ncmsa]
+- o15: לְ/הַקְטִיר = Hl "to" + H6999 קָטַר "to smoke…" [HR/Vhc]

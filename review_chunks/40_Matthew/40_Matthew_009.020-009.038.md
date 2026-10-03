@@ -886,3 +886,44 @@ Persian entries and current tags:
 - p11: بفرستد  → G3704
 - p12: .
 - p13: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 9:19 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἐγερθεὶς = G1453 ἐγείρω "awake, lift (up), raise (again, up), rear up…" [V-APP-NSM]
+- o3: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o4: Ἰησοῦς = G2424 Ἰησοῦς "Jesus" [N-NSM]
+- o5: ἠκολούθει = G190 ἀκολουθέω "follow, reach" [V-IAI-3S]
+- o6: αὐτῷ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
+- o7: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o8: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o9: μαθηταὶ = G3101 μαθητής "disciple" [N-NPM]
+- o10: αὐτοῦ. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+
+### Matthew 10:1 (context)
+
+- o1: Καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: προσκαλεσάμενος = G4341 προσκαλέομαι "call (for, to, unto)" [V-ADP-NSM]
+- o3: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o4: δώδεκα = G1427 δώδεκα "twelve" [A-NUI]
+- o5: μαθητὰς = G3101 μαθητής "disciple" [N-APM]
+- o6: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o7: ἔδωκεν = G1325 δίδωμι "adventure, bestow, bring forth, commit…" [V-AAI-3S]
+- o8: αὐτοῖς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPM]
+- o9: ἐξουσίαν = G1849 ἐξουσία "authority, jurisdiction, liberty, power, right…" [N-ASF]
+- o10: πνευμάτων = G4151 πνεῦμα "ghost, life, spirit(-ual, -ually), mind" [N-GPN]
+- o11: ἀκαθάρτων, = G169 ἀκάθαρτος "foul, unclean" [A-GPN]
+- o12: ὥστε = G5620 ὥστε "insomuch) as, so that (then), (insomuch) that…" [CONJ]
+- o13: ἐκβάλλειν = G1544 ἐκβάλλω "bring forth, cast (forth, out), drive (out)…" [V-PAN]
+- o14: αὐτὰ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-APN]
+- o15: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o16: θεραπεύειν = G2323 θεραπεύω "cure, heal, worship" [V-PAN]
+- o17: πᾶσαν = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-ASF]
+- o18: νόσον = G3554 νόσος "disease, infirmity, sickness" [N-ASF]
+- o19: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o20: πᾶσαν = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-ASF]
+- o21: μαλακίαν. = G3119 μαλακία "disease" [N-ASF]

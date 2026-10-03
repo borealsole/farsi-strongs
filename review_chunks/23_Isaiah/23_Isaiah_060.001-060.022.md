@@ -1177,3 +1177,59 @@ Persian entries and current tags:
 - p20: وقتش  → H6256
 - p21: خواهم_شتابانید  → H2363
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 59:21 (context)
+
+- o1: וַ/אֲנִי = Hc "and" + H589 אֲנִי "I" [HC/Pp1cs]
+- o2: זֹאת = H2063 זֹאת "this (often used adverb)" [HPdxfs]
+- o3: בְּרִיתִ/י = H1285 בְּרִית "a compact (because made by passing between pieces…" [HNcfsc/Sp1cs]
+- o4: אוֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o5: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: רוּחִ/י = H7307 רוּחַ "wind…" [HNcbsc/Sp1cs]
+- o8: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o9: עָלֶי/ךָ = H5921 עַל "above, over, upon…" [HR/Sp2ms]
+- o10: וּ/דְבָרַ/י = Hc "and" + H1697 דָּבָר "a word…" [HC/Ncmpc/Sp1cs]
+- o11: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o12: שַׂמְתִּי = H7760 שׂוּם "to put (used in a great variety of applications…" [HVqp1cs]
+- o13: בְּ/פִי/ךָ = Hb "in" + H6310 פֶּה "the mouth (as the means of blowing)…" [HR/Ncmsc/Sp2ms]
+- o14: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o15: יָמוּשׁוּ = H4185 מוּשׁ "to withdraw (both literally and figuratively…" [HVqi3mp]
+- o16: מִ/פִּי/ךָ = Hm "from" + H6310 פֶּה "the mouth (as the means of blowing)…" [HR/Ncmsc/Sp2ms]
+- o17: וּ/מִ/פִּי = Hc "and" + Hm "from" + H6310 פֶּה "the mouth (as the means of blowing)…" [HC/R/Ncmsc]
+- o18: זַרְעֲ/ךָ = H2233 זֶרַע "seed…" [HNcmsc/Sp2ms]
+- o19: וּ/מִ/פִּי = Hc "and" + Hm "from" + H6310 פֶּה "the mouth (as the means of blowing)…" [HC/R/Ncmsc]
+- o20: זֶרַע = H2233 זֶרַע "seed…" [HNcmsc]
+- o21: זַרְעֲ/ךָ = H2233 זֶרַע "seed…" [HNcmsc/Sp2ms]
+- o22: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o23: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o24: מֵ/עַתָּה = Hm "from" + H6258 עַתָּה "at this time, whether adverb…" [HR/D]
+- o25: וְ/עַד = Hc "and" + H5704 עַד "as far (or long, or much) as…" [HC/R]
+- o26: עוֹלָם = H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HNcmsa]
+
+### Isaiah 61:1 (context)
+
+- o1: רוּחַ = H7307 רוּחַ "wind…" [HNcbsc]
+- o2: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o3: יְהוִה = H3069 יְהֹוִה "YHWH" [HNp]
+- o4: עָלָ/י = H5921 עַל "above, over, upon…" [HR/Sp1cs]
+- o5: יַעַן = H3282 יַעַן "properly, heed…" [HC]
+- o6: מָשַׁח = H4886 מָשַׁח "to rub with oil, i.e. to anoint…" [HVqp3ms]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: אֹתִ/י = H853 אֵת "properly…" [HTo/Sp1cs]
+- o9: לְ/בַשֵּׂר = Hl "to" + H1319 בָּשַׂר "properly, to be fresh, i.e. full (rosy…" [HR/Vpc]
+- o10: עֲנָוִים = H6035 עָנָו "depressed (figuratively)…" [HAampa]
+- o11: שְׁלָחַ/נִי = H7971 שָׁלַח "to send away, for…" [HVqp3ms/Sp1cs]
+- o12: לַ/חֲבֹשׁ = Hl "to" + H2280 חָבַשׁ "to wrap firmly (especially a turban, compress…" [HR/Vqc]
+- o13: לְ/נִשְׁבְּרֵי = Hl "to" + H7665 שָׁבַר "to burst (literally or figuratively)" [HR/VNrmpc]
+- o14: לֵב = H3820 לֵב "the heart…" [HNcmsa]
+- o15: לִ/קְרֹא = Hl "to" + H7121 קָרָא "to call out to (i.e. properly, address by name…" [HR/Vqc]
+- o16: לִ/שְׁבוּיִם = Hl "to" + H7617 שָׁבָה "to transport into captivity" [HR/Vqsmpa]
+- o17: דְּרוֹר = H1865 דְּרוֹר "freedom…" [HNcmsa]
+- o18: וְ/לַ/אֲסוּרִים = Hc "and" + Hl "to" + H631 אָסַר "to yoke or hitch…" [HC/R/Vqsmpa]
+- o19: פְּקַח = H6495 פְּקַח־קוֹחַ "opening (of a dungeon)…" [HNcmsc]
+- o20: קוֹחַ = H6495 פְּקַח־קוֹחַ "opening (of a dungeon)…" [HNcmsa]

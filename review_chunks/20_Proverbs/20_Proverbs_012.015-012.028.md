@@ -502,3 +502,31 @@ Persian entries and current tags:
 - p11: مرگی  → H4194
 - p12: نمی‌شناسد  → H408
 - p13: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 12:14 (context)
+
+- o1: מִ/פְּרִי = Hm "from" + H6529 פְּרִי "fruit (literally or figuratively)" [HR/Ncmsc]
+- o2: פִי = H6310 פֶּה "the mouth (as the means of blowing)…" [HNcmsc]
+- o3: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o4: יִשְׂבַּע = H7646 שָׂבַע "to sate…" [HVqi3ms]
+- o5: טוֹב = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAamsa]
+- o6: וּ/גְמוּל = Hc "and" + H1576 גְּמוּל "treatment, i.e. an act (of good or ill)…" [HC/Ncmsc]
+- o7: יְדֵי = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbdc]
+- o8: אָדָם = H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HNcmsa]
+- o9: ישוב = H7725 שׁוּב "to turn back (hence…" [HVqi3ms]
+- o10: ל/וֹ = Hl "to" [HR/Sp3ms]
+
+### Proverbs 13:1 (context)
+
+- o1: בֵּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsa]
+- o2: חָכָם = H2450 חָכָם "wise, (i.e. intelligent, skilful or artful)" [HAamsa]
+- o3: מוּסַר = H4148 מוּסָר "properly, chastisement…" [HNcmsc]
+- o4: אָב = H1 אָב "father, in a literal and immediate…" [HNcmsa]
+- o5: וְ/לֵץ = Hc "and" + H3887 לוּץ "properly, to make mouths at, i.e. to scoff…" [HC/Aamsa]
+- o6: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o7: שָׁמַע = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqp3ms]
+- o8: גְּעָרָה = H1606 גְּעָרָה "a chiding" [HNcfsa]

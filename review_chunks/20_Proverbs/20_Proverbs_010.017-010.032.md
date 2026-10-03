@@ -573,3 +573,26 @@ Persian entries and current tags:
 - p9: تنها
 - p10: انحراف  → H8419
 - p11: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 10:16 (context)
+
+- o1: פְּעֻלַּת = H6468 פְּעֻלָּה "(abstractly) work" [HNcfsc]
+- o2: צַדִּיק = H6662 צַדִּיק "just" [HAamsa]
+- o3: לְ/חַיִּים = Hl "to" + H2416 חַי "alive; hence, raw (flesh)…" [HR/Ncmpa]
+- o4: תְּבוּאַת = H8393 תְּבוּאָה "income, i.e. produce (literally or figuratively)" [HNcfsc]
+- o5: רָשָׁע = H7563 רָשָׁע "morally wrong…" [HAamsa]
+- o6: לְ/חַטָּאת = Hl "to" + H2403 חַטָּאָה "an offence (sometimes habitual sinfulness)…" [HR/Ncfsa]
+
+### Proverbs 11:1 (context)
+
+- o1: מֹאזְנֵי = H3976 מֹאזֵן "(only in the dual) a pair of scales" [HNcmdc]
+- o2: מִרְמָה = H4820 מִרְמָה "fraud" [HNcfsa]
+- o3: תּוֹעֲבַת = H8441 תּוֹעֵבַה "properly, something disgusting (morally)…" [HNcfsc]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: וְ/אֶבֶן = Hc "and" + H68 אֶבֶן "a stone" [HC/Ncfsa]
+- o6: שְׁלֵמָה = H8003 שָׁלֵם "complete (literally or figuratively)…" [HAafsa]
+- o7: רְצוֹנ/וֹ = H7522 רָצוֹן "delight (especially as shown)" [HNcmsc/Sp3ms]

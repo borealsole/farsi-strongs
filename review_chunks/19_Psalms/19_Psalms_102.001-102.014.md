@@ -527,3 +527,34 @@ Persian entries and current tags:
 - p12: شفقت  → H2603
 - p13: می‌نمایند
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 101:8 (context)
+
+- o1: לַ/בְּקָרִים = Hl "to" + H1242 בֹּקֶר "properly, dawn (as the break of day)…" [HRd/Ncmpa]
+- o2: אַצְמִית = H6789 צָמַת "to extirpate (literally or figuratively)" [HVhi1cs]
+- o3: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o4: רִשְׁעֵי = H7563 רָשָׁע "morally wrong…" [HAampc]
+- o5: אָרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsa]
+- o6: לְ/הַכְרִית = Hl "to" + H3772 כָּרַת "to cut (off, down or asunder)…" [HR/Vhc]
+- o7: מֵ/עִיר = Hm "from" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HR/Ncfsc]
+- o8: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o9: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o10: פֹּעֲלֵי = H6466 פָּעַל "to do or make (systematically and habitually)…" [HVqrmpc]
+- o11: אָוֶן = H205 אָוֶן "strictly nothingness…" [HNcmsa]
+
+### Psalms 102:15 (context)
+
+- o1: וְ/יִירְאוּ = Hc "and" + H3372 יָרֵא "to fear; morally, to revere; caus. to frighten" [HC/Vqi3mp]
+- o2: גוֹיִם = H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HNcmpa]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: שֵׁם = H8034 שֵׁם "an appellation…" [HNcmsc]
+- o5: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o6: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o7: מַלְכֵי = H4428 מֶלֶךְ "a king" [HNcmpc]
+- o8: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: כְּבוֹדֶ/ךָ = H3519 כָּבוֹד "properly, weight…" [HNcbsc/Sp2ms]

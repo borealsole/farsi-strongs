@@ -711,3 +711,20 @@ Persian entries and current tags:
 - p13: و  → Hc
 - p14: برمی‌گشتند  → H7725
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 1:15 (context)
+
+- o1: וָ/אֵרֶא = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw1cs]
+- o2: הַ/חַיּוֹת = Hd "the" + H2416 חַי "alive; hence, raw (flesh)…" [HTd/Ncfpa]
+- o3: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o4: אוֹפַן = H212 אוֹפָן "a wheel" [HNcmsa]
+- o5: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o6: בָּ/אָרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HRd/Ncbsa]
+- o7: אֵצֶל = H681 אֵצֶל "a side; (as a preposition) near" [HR]
+- o8: הַ/חַיּוֹת = Hd "the" + H2416 חַי "alive; hence, raw (flesh)…" [HTd/Ncfpa]
+- o9: לְ/אַרְבַּעַת = Hl "to" + H702 אַרְבַּע "four" [HR/Acmsc]
+- o10: פָּנָי/ו = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc/Sp3ms]

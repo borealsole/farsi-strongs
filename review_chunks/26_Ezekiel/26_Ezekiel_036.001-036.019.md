@@ -1063,3 +1063,51 @@ Persian entries and current tags:
 - p17: اعمالشان  → H5949
 - p18: داوری کردم  → H8199
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 35:15 (context)
+
+- o1: כְּ/שִׂמְחָתְ/ךָ = Hk "like" + H8057 שִׂמְחָה "blithesomeness or glee, (religious or festival)" [HR/Ncfsc/Sp2ms]
+- o2: לְ/נַחְלַת = Hl "to" + H5159 נַחֲלָה "properly, something inherited…" [HR/Ncfsc]
+- o3: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o4: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o5: עַל = H5921 עַל "above, over, upon…" [HR]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: שָׁמֵמָה = H8074 שָׁמֵם "to stun (or intransitively, grow numb)…" [HVqp3fs]
+- o8: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o9: אֶעֱשֶׂה = H6213 עָשָׂה "to do or make…" [HVqi1cs]
+- o10: לָּ/ךְ = Hl "to" [HR/Sp2fs]
+- o11: שְׁמָמָה = H8077 שְׁמָמָה "devastation; figuratively, astonishment" [HNcfsa]
+- o12: תִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi2ms]
+- o13: הַר = H2022 הַר "a mountain or range of hills (sometimes used…" [HNcmsc]
+- o14: שֵׂעִיר = H8165 שֵׂעִיר "Seir…" [HNp]
+- o15: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o16: אֱדוֹם = H123 אֱדֹם "Edom, the elder twin-brother of Jacob…" [HNp]
+- o17: כֻּלָּ/הּ = H3605 כֹּל "properly, the whole…" [HNcmsc/Sp3fs]
+- o18: וְ/יָדְעוּ = Hc "and" + H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HC/Vqq3cp]
+- o19: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o20: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o21: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### Ezekiel 36:20 (context)
+
+- o1: וַ/יָּבוֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3ms]
+- o2: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o3: הַ/גּוֹיִם = Hd "the" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HTd/Ncmpa]
+- o4: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o5: בָּאוּ = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3cp]
+- o6: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o7: וַ/יְחַלְּלוּ = Hc "and" + H2490 חָלַל "properly, to bore, i.e. (by implication) to wound…" [HC/Vpw3mp]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: שֵׁם = H8034 שֵׁם "an appellation…" [HNcmsc]
+- o10: קָדְשִׁ/י = H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HNcmsc/Sp1cs]
+- o11: בֶּ/אֱמֹר = Hb "in" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o12: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o13: עַם = H5971 עַם "a people (as a congregated unit)…" [HNcmsc]
+- o14: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o15: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o16: וּ/מֵ/אַרְצ/וֹ = Hc "and" + Hm "from" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HC/R/Ncbsc/Sp3ms]
+- o17: יָצָאוּ = H3318 יָצָא "to go (causatively, bring) out…" [HVqp3cp]

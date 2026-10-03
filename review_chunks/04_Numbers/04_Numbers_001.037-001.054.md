@@ -798,3 +798,35 @@ Persian entries and current tags:
 - p16: عمل  → H3651 H6213
 - p17: نمودند
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 1:36 (context)
+
+- o1: לִ/בְנֵי = Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmpc]
+- o2: בִנְיָמִן = H1144 בִּנְיָמִין "Binjamin, youngest son of Jacob…" [HNp]
+- o3: תּוֹלְדֹתָ/ם = H8435 תּוֹלְדָה "plural only) descent, i.e. family…" [HNcfpc/Sp3mp]
+- o4: לְ/מִשְׁפְּחֹתָ/ם = Hl "to" + H4940 מִשְׁפָּחָה "a family, i.e. circle of relatives…" [HR/Ncfpc/Sp3mp]
+- o5: לְ/בֵית = Hl "to" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc]
+- o6: אֲבֹתָ/ם = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp3mp]
+- o7: בְּ/מִסְפַּר = Hb "in" + H4557 מִסְפָּר "a number…" [HR/Ncmsc]
+- o8: שֵׁמֹת = H8034 שֵׁם "an appellation…" [HNcmpa]
+- o9: מִ/בֶּן = Hm "from" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmsc]
+- o10: עֶשְׂרִים = H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HAcbpa]
+- o11: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o12: וָ/מַעְלָ/ה = Hc "and" + H4605 מַעַל "properly, the upper part…" [HC/D/Sd]
+- o13: כֹּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o14: יֹצֵא = H3318 יָצָא "to go (causatively, bring) out…" [HVqrmsc]
+- o15: צָבָא = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbsa]
+
+### Numbers 2:1 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: וְ/אֶל = Hc "and" + H413 אֵל "near, with or among; often in general, to" [HC/R]
+- o6: אַהֲרֹן = H175 אַהֲרוֹן "Aharon, the brother of Moses" [HNp]
+- o7: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

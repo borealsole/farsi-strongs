@@ -796,3 +796,50 @@ Persian entries and current tags:
 - p30: شما
 - p31: بود
 - p32: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 11:15 (context)
+
+- o1: וַ/יֵּלְכוּ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3mp]
+- o2: כָל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o4: הַ/גִּלְגָּל = Hd "the" + H1537 גִּלְגָּל "Gilgal, the name of three places in Palestine" [HTd/Np]
+- o5: וַ/יַּמְלִכוּ = Hc "and" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HC/Vhw3mp]
+- o6: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o9: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o10: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o11: בַּ/גִּלְגָּל = Hb "in" + H1537 גִּלְגָּל "Gilgal, the name of three places in Palestine" [HRd/Np]
+- o12: וַ/יִּזְבְּחוּ = Hc "and" + H2076 זָבַח "to slaughter an animal (usually in sacrifice)" [HC/Vqw3mp]
+- o13: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o14: זְבָחִים = H2077 זֶבַח "properly, a slaughter…" [HNcmpa]
+- o15: שְׁלָמִים = H8002 שֶׁלֶם "properly, requital…" [HNcmpa]
+- o16: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o17: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o18: וַ/יִּשְׂמַח = Hc "and" + H8055 שָׂמַח "probably to brighten up…" [HC/Vqw3ms]
+- o19: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o20: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o21: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o22: אַנְשֵׁי = H376 אִישׁ "a man as an individual or a male person…" [HNcmpc]
+- o23: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o24: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o25: מְאֹד = H3966 מְאֹד "properly, vehemence…" [HD]
+
+### I Samuel 12:13 (context)
+
+- o1: וְ/עַתָּה = Hc "and" + H6258 עַתָּה "at this time, whether adverb…" [HC/D]
+- o2: הִנֵּה = H2009 הִנֵּה "lo!" [HTm]
+- o3: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o4: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o5: בְּחַרְתֶּם = H977 בָּחַר "properly, to try, i.e. (by implication) select" [HVqp2mp]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: שְׁאֶלְתֶּם = H7592 שָׁאַל "to inquire; by implication, to request…" [HVqp2mp]
+- o8: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o9: נָתַן = H5414 נָתַן "to give…" [HVqp3ms]
+- o10: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o11: עֲלֵי/כֶם = H5921 עַל "above, over, upon…" [HR/Sp2mp]
+- o12: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsa]

@@ -1052,3 +1052,47 @@ Persian entries and current tags:
 - p21: به  → Hl
 - p22: لب  → H7114 H4191
 - p23: رسید
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Judges 15:20 (context)
+
+- o1: וַ/יִּשְׁפֹּט = Hc "and" + H8199 שָׁפַט "to judge…" [HC/Vqw3ms]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o4: בִּ/ימֵי = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmpc]
+- o5: פְלִשְׁתִּים = H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HNgmpa]
+- o6: עֶשְׂרִים = H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HAcbpa]
+- o7: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+
+### Judges 16:17 (context)
+
+- o1: וַ/יַּגֶּד = Hc "and" + H5046 נָגַד "properly, to front…" [HC/Vhw3ms]
+- o2: לָ/הּ = Hl "to" [HR/Sp3fs]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o5: לִבּ/וֹ = H3820 לֵב "the heart…" [HNcmsc/Sp3ms]
+- o6: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o7: לָ/הּ = Hl "to" [HR/Sp3fs]
+- o8: מוֹרָה = H4177 מוֹרָה "a razor" [HNcmsa]
+- o9: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o10: עָלָה = H5927 עָלָה "to ascend…" [HVqp3ms]
+- o11: עַל = H5921 עַל "above, over, upon…" [HR]
+- o12: רֹאשִׁ/י = H7218 רֹאשׁ "the head (as most easily shaken)…" [HNcmsc/Sp1cs]
+- o13: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o14: נְזִיר = H5139 נָזִיר "separate, i.e. consecrated (as prince…" [HNcmsc]
+- o15: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o16: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o17: מִ/בֶּטֶן = Hm "from" + H990 בֶּטֶן "the belly, especially the womb…" [HR/Ncfsc]
+- o18: אִמִּ/י = H517 אֵם "a mother (as the bond of the family)…" [HNcfsc/Sp1cs]
+- o19: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o20: גֻּלַּחְתִּי = H1548 גָּלַח "properly, to be bald, i.e. (causatively) to shave…" [HVPp1cs]
+- o21: וְ/סָר = Hc "and" + H5493 סוּר "to turn off (literal or figurative)" [HC/Vqp3ms]
+- o22: מִמֶּ/נִּי = H4480 מִן "properly, a part of…" [HR/Sp1cs]
+- o23: כֹחִ/י = H3581 כֹּחַ "vigor, literally (force…" [HNcmsc/Sp1cs]
+- o24: וְ/חָלִיתִי = Hc "and" + H2470 חָלָה "properly, to be rubbed or worn…" [HC/Vqp1cs]
+- o25: וְ/הָיִיתִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqp1cs]
+- o26: כְּ/כָל = Hk "like" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o27: הָ/אָדָם = Hd "the" + H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HTd/Ncmsa]

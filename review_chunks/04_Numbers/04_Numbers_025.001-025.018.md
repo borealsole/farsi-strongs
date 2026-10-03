@@ -845,3 +845,25 @@ Persian entries and current tags:
 - p34: ورزیدند  → H6887
 - p35: .
 - p36: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 24:25 (context)
+
+- o1: וַ/יָּקָם = Hc "and" + H6965 קוּם "to rise (in various applications, literal…" [HC/Vqw3ms]
+- o2: בִּלְעָם = H1109 בִּלְעָם "Bilam, a Mesopotamian prophet…" [HNp]
+- o3: וַ/יֵּלֶךְ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3ms]
+- o4: וַ/יָּשָׁב = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqw3ms]
+- o5: לִ/מְקֹמ/וֹ = Hl "to" + H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HR/Ncmsc/Sp3ms]
+- o6: וְ/גַם = Hc "and" + H1571 גַּם "properly, assemblage…" [HC/Ta]
+- o7: בָּלָק = H1111 בָּלָק "Balak, a Moabitish king" [HNp]
+- o8: הָלַךְ = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVqp3ms]
+- o9: לְ/דַרְכּ/וֹ = Hl "to" + H1870 דֶּרֶךְ "a road (as trodden)…" [HR/Ncbsc/Sp3ms]
+
+### Numbers 26:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: אַחֲרֵי = H310 אַחַר "properly, the hind part…" [HR]
+- o3: הַ/מַּגֵּפָה = Hd "the" + H4046 מַגֵּפָה "a pestilence; by analogy, defeat" [HTd/Ncfsa]

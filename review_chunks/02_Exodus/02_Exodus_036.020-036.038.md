@@ -812,3 +812,38 @@ Persian entries and current tags:
 - p25: آنها
 - p26: ساختند
 - p27: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 36:19 (context)
+
+- o1: וַ/יַּעַשׂ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3ms]
+- o2: מִכְסֶה = H4372 מִכְסֶה "a covering, i.e. weatherboarding" [HNcmsa]
+- o3: לָ/אֹהֶל = Hl "to" + H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HRd/Ncmsa]
+- o4: עֹרֹת = H5785 עוֹר "skin (as naked); by implication, hide, leather" [HNcmpc]
+- o5: אֵלִים = H352 אַיִל "properly, strength; hence, anything strong…" [HNcmpa]
+- o6: מְאָדָּמִים = H119 אָדַם "flush or turn rosy" [HVPsmpa]
+- o7: וּ/מִכְסֵה = Hc "and" + H4372 מִכְסֶה "a covering, i.e. weatherboarding" [HC/Ncmsc]
+- o8: עֹרֹת = H5785 עוֹר "skin (as naked); by implication, hide, leather" [HNcmpc]
+- o9: תְּחָשִׁים = H8476 תַּחַשׁ "a (clean) animal with fur…" [HNcmpa]
+- o10: מִ/לְ/מָעְלָ/ה = Hm "from" + Hl "to" + H4605 מַעַל "properly, the upper part…" [HR/R/D/Sd]
+
+### Exodus 37:1 (context)
+
+- o1: וַ/יַּעַשׂ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3ms]
+- o2: בְּצַלְאֵל = H1212 בְּצַלְאֵל "Betsalel, the name of two Israelites" [HNp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: הָ/אָרֹן = Hd "the" + H727 אָרוֹן "a box" [HTd/Ncbsa]
+- o5: עֲצֵי = H6086 עֵץ "a tree (from its firmness)…" [HNcmpc]
+- o6: שִׁטִּים = H7848 שִׁטָּה "the acacia (from its scourging thorns)" [HNcfpa]
+- o7: אַמָּתַיִם = H520 אַמָּה "properly, a mother (i.e. unit of measure…" [HNcfda]
+- o8: וָ/חֵצִי = Hc "and" + H2677 חֵצִי "the half or middle" [HC/Ncmsa]
+- o9: אָרְכּ/וֹ = H753 אֹרֶךְ "length" [HNcmsc/Sp3ms]
+- o10: וְ/אַמָּה = Hc "and" + H520 אַמָּה "properly, a mother (i.e. unit of measure…" [HC/Ncfsa]
+- o11: וָ/חֵצִי = Hc "and" + H2677 חֵצִי "the half or middle" [HC/Ncmsa]
+- o12: רָחְבּ/וֹ = H7341 רֹחַב "width (literally or figuratively)" [HNcmsc/Sp3ms]
+- o13: וְ/אַמָּה = Hc "and" + H520 אַמָּה "properly, a mother (i.e. unit of measure…" [HC/Ncfsa]
+- o14: וָ/חֵצִי = Hc "and" + H2677 חֵצִי "the half or middle" [HC/Ncmsa]
+- o15: קֹמָת/וֹ = H6967 קוֹמָה "height" [HNcfsc/Sp3ms]

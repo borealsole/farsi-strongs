@@ -820,3 +820,46 @@ Persian entries and current tags:
 - p23: یهوه  → H3068
 - p24: هستم  → H589
 - p25: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 18:30 (context)
+
+- o1: וּ/שְׁמַרְתֶּם = Hc "and" + H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HC/Vqq2mp]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: מִשְׁמַרְתִּ/י = H4931 מִשְׁמֶרֶת "watch, i.e. the act (custody)…" [HNcfsc/Sp1cs]
+- o4: לְ/בִלְתִּי = Hl "to" + H1115 בִּלְתִּי "properly, a failure of…" [HR/C]
+- o5: עֲשׂוֹת = H6213 עָשָׂה "to do or make…" [HVqc]
+- o6: מֵ/חֻקּוֹת = Hm "from" + H2708 חֻקָּה "an enactment…" [HR/Ncbpc]
+- o7: הַ/תּוֹעֵבֹת = Hd "the" + H8441 תּוֹעֵבַה "properly, something disgusting (morally)…" [HTd/Ncfpa]
+- o8: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o9: נַעֲשׂוּ = H6213 עָשָׂה "to do or make…" [HVNp3cp]
+- o10: לִ/פְנֵי/כֶם = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp2mp]
+- o11: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o12: תִטַּמְּאוּ = H2930 טָמֵא "to be foul…" [HVti2mp]
+- o13: בָּ/הֶם = Hb "in" [HR/Sp3mp]
+- o14: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o15: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o16: אֱלֹהֵי/כֶם = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2mp]
+
+### Leviticus 19:19 (context)
+
+- o1: אֶת = H853 אֵת "properly…" [HTo]
+- o2: חֻקֹּתַ/י = H2708 חֻקָּה "an enactment…" [HNcbpc/Sp1cs]
+- o3: תִּשְׁמֹרוּ = H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HVqi2mp]
+- o4: בְּהֶמְתְּ/ךָ = H929 בְּהֵמָה "properly, a dumb beast…" [HNcfsc/Sp2ms]
+- o5: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o6: תַרְבִּיעַ = H7250 רָבַע "to squat or lie out flat…" [HVhi2ms]
+- o7: כִּלְאַיִם = H3610 כִּלְאַיִם "two heterogeneities" [HNcmda]
+- o8: שָׂדְ/ךָ = H7704 שָׂדֶה "a field (as flat)" [HNcmsc/Sp2ms]
+- o9: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o10: תִזְרַע = H2232 זָרַע "to sow…" [HVqi2ms]
+- o11: כִּלְאָיִם = H3610 כִּלְאַיִם "two heterogeneities" [HNcmda]
+- o12: וּ/בֶגֶד = Hc "and" + H899 בֶּגֶד "a covering, i.e. clothing…" [HC/Ncmsc]
+- o13: כִּלְאַיִם = H3610 כִּלְאַיִם "two heterogeneities" [HNcmda]
+- o14: שַׁעַטְנֵז = H8162 שַׁעַטְנֵז "linsey-woolsey…" [HNcmsa]
+- o15: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o16: יַעֲלֶה = H5927 עָלָה "to ascend…" [HVqi3ms]
+- o17: עָלֶי/ךָ = H5921 עַל "above, over, upon…" [HR/Sp2ms]

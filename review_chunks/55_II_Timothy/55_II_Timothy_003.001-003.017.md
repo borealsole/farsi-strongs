@@ -766,3 +766,48 @@ Persian entries and current tags:
 - p9: نیکو  → G18
 - p10: تجهیز گردد  → G1822
 - p11: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Timothy 2:26 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἀνανήψωσιν = G366 ἀνανήφω "recover self" [V-AAS-3P]
+- o3: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o4: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o5: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o6: διαβόλου = G1228 διάβολος "false accuser, devil, slanderer" [A-GSM]
+- o7: παγίδος, = G3803 παγίς "snare" [N-GSF]
+- o8: ἐζωγρημένοι = G2221 ζωγρέω "take captive, catch" [V-RPP-NPM]
+- o9: ὑπ’ = G5259 ὑπό "among, by, from, in, of, under, with" [PREP]
+- o10: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o11: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o12: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o13: ἐκείνου = G1565 ἐκεῖνος "he, it, the other (same), selfsame, that (same…" [D-GSM]
+- o14: θέλημα. = G2307 θέλημα "desire, pleasure, will" [N-ASN]
+
+### II Timothy 4:1 (context)
+
+- o1: Διαμαρτύρομαι = G1263 διαμαρτύρομαι "charge, testify (unto), witness" [V-PNI-1S]
+- o2: ἐνώπιον = G1799 ἐνώπιον "before, in the presence (sight) of, to" [PREP]
+- o3: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o4: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o5: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o6: Χριστοῦ = G5547 Χριστός "Christ" [N-GSM]
+- o7: Ἰησοῦ, = G2424 Ἰησοῦς "Jesus" [N-GSM]
+- o8: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o9: μέλλοντος = G3195 μέλλω "about, after that, be (almost), (that which is…" [V-PAP-GSM]
+- o10: κρίνειν = G2919 κρίνω "avenge, conclude, condemn, damn, decree…" [V-PAN]
+- o11: ζῶντας = G2198 ζάω "life(-time), (a-)live(-ly), quick" [V-PAP-APM]
+- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o13: νεκρούς, = G3498 νεκρός "dead" [A-APM]
+- o14: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o15: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o16: ἐπιφάνειαν = G2015 ἐπιφάνεια "appearing, brightness" [N-ASF]
+- o17: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o18: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o19: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o20: βασιλείαν = G932 βασιλεία "kingdom, + reign" [N-ASF]
+- o21: αὐτοῦ· = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]

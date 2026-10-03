@@ -697,3 +697,23 @@ Persian entries and current tags:
 - p29: پناه  → H2620
 - p30: می‌برند
 - p31: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 3:1 (context)
+
+- o1: מִזְמוֹר = H4210 מִזְמוֹר "properly, instrumental music…" [HNcmsa]
+- o2: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o3: בְּ/בָרְח/וֹ = Hb "in" + H1272 בָּרַח "to bolt, i.e. figuratively, to flee suddenly" [HR/Vqc/Sp3ms]
+- o4: מִ/פְּנֵי = Hm "from" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o5: אַבְשָׁלוֹם = H53 אֲבִישָׁלוֹם "Abshalom, a son of David…" [HNp]
+- o6: בְּנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: מָה = H4100 מָה "properly…" [HTi]
+- o9: רַבּוּ = H7231 רָבַב "properly, to cast together , i.e. increase…" [HVqp3cp]
+- o10: צָרָ/י = H6862 צַר "narrow…" [HNcmpc/Sp1cs]
+- o11: רַבִּים = H7227 רַב "abundant (in quantity, size, age, number, rank…" [HAampa]
+- o12: קָמִים = H6965 קוּם "to rise (in various applications, literal…" [HVqrmpa]
+- o13: עָלָ/י = H5921 עַל "above, over, upon…" [HR/Sp1cs]

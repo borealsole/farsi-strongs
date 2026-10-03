@@ -1278,3 +1278,35 @@ Persian entries and current tags:
 - p24: کلیساها  → G846 G1577
 - p25: ببینند
 - p26: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Corinthians 7:16 (context)
+
+- o1: χαίρω = G5463 χαίρω "farewell, be glad, God speed, greeting, hall…" [V-PAI-1S]
+- o2: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o3: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o4: παντὶ = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-DSN]
+- o5: θαρρῶ = G2292 θαῤῥέω "be bold, boldly, have confidence, be confident" [V-PAI-1S]
+- o6: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o7: ὑμῖν. = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
+
+### II Corinthians 9:1 (context)
+
+- o1: Περὶ = G4012 περί "there-)about, above, against, at, on behalf of…" [PREP]
+- o2: μὲν = G3303 μέν "even, indeed, so, some, truly, verily" [PRT]
+- o3: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o4: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o5: διακονίας = G1248 διακονία "ad-)minister(-ing, -tration, -try), office…" [N-GSF]
+- o6: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o7: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o8: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o9: ἁγίους = G40 ἅγιος "(most) holy (one, thing), saint" [A-APM]
+- o10: περισσόν = G4053 περισσός "exceeding abundantly above, more abundantly…" [A-NSN]
+- o11: μοί = G1473 ἐγώ "I, me" [P-1DS]
+- o12: ἐστιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o13: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o14: γράφειν = G1125 γράφω "describe, write(-ing, -ten)" [V-PAN]
+- o15: ὑμῖν, = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]

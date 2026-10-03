@@ -909,3 +909,42 @@ Persian entries and current tags:
 - p17: ما  → G2249
 - p18: گشوده_شده_است  → G1457 G4561
 - p19: ،
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Hebrews 9:28 (context)
+
+- o1: οὕτως = G3779 οὕτω "after that, after (in) this manner, as, even (so)…" [ADV]
+- o2: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o3: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o4: Χριστός, = G5547 Χριστός "Christ" [N-NSM]
+- o5: ἅπαξ = G530 ἅπαξ "once" [ADV]
+- o6: προσενεχθεὶς = G4374 προσφέρω "bring (to, unto), deal with, do, offer (unto, up)…" [V-APP-NSM]
+- o7: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o8: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o9: πολλῶν = G4183 πολύς "abundant, + altogether, common, + far (passed…" [A-GPM]
+- o10: ἀνενεγκεῖν = G399 ἀναφέρω "bear, bring (carry, lead) up, offer (up)" [V-2AAN]
+- o11: ἁμαρτίας, = G266 ἁμαρτία "offence, sin(-ful)" [N-APF]
+- o12: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o13: δευτέρου = G1208 δεύτερος "afterward, again, second(-arily, time)" [A-GSN]
+- o14: χωρὶς = G5565 χωρίς "beside, by itself, without" [ADV]
+- o15: ἁμαρτίας = G266 ἁμαρτία "offence, sin(-ful)" [N-GSF]
+- o16: ὀφθήσεται = G3708 ὁράω "behold, perceive, see, take heed" [V-FPI-3S]
+- o17: τοῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPM]
+- o18: αὐτὸν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASM]
+- o19: ἀπεκδεχομένοις = G553 ἀπεκδέχομαι "look (wait) for" [V-PNP-DPM]
+- o20: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o21: σωτηρίαν. = G4991 σωτηρία "deliver, health, salvation, save, saving" [N-ASF]
+
+### Hebrews 10:21 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἱερέα = G2409 ἱερεύς "(high) priest" [N-ASM]
+- o3: μέγαν = G3173 μέγας "+ fear) exceedingly, great(-est), high, large…" [A-ASM]
+- o4: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o5: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o6: οἶκον = G3624 οἶκος "home, house(-hold), temple" [N-ASM]
+- o7: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o8: θεοῦ, = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]

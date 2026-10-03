@@ -999,3 +999,33 @@ Persian entries and current tags:
 - p24: کم  → H1639
 - p25: مکنید
 - p26: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 12:16 (context)
+
+- o1: רַק = H7535 רַק "properly, leanness…" [HTa]
+- o2: הַ/דָּם = Hd "the" + H1818 דָּם "blood (as that which when shed causes death) of…" [HTd/Ncmsa]
+- o3: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o4: תֹאכֵלוּ = H398 אָכַל "to eat (literally or figuratively)" [HVqi2mp]
+- o5: עַל = H5921 עַל "above, over, upon…" [HR]
+- o6: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o7: תִּשְׁפְּכֶ/נּוּ = H8210 שָׁפַךְ "to spill forth (blood, a libation, liquid metal…" [HVqi2ms/Sp3ms]
+- o8: כַּ/מָּיִם = Hk "like" + H4325 מַיִם "water; figuratively, juice…" [HRd/Ncmpa]
+
+### Deuteronomy 13:1 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: יָקוּם = H6965 קוּם "to rise (in various applications, literal…" [HVqi3ms]
+- o3: בְּ/קִרְבְּ/ךָ = Hb "in" + H7130 קֶרֶב "properly, the nearest part, i.e. the center…" [HR/Ncmsc/Sp2ms]
+- o4: נָבִיא = H5030 נָבִיא "a prophet or (generally) inspired man" [HNcmsa]
+- o5: אוֹ = H176 אוֹ "desire (and so probably in Proverbs 31:4)…" [HC]
+- o6: חֹלֵם = H2492 חָלַם "properly, to bind firmly…" [HVqrmsc]
+- o7: חֲלוֹם = H2472 חֲלוֹם "a dream" [HNcmsa]
+- o8: וְ/נָתַן = Hc "and" + H5414 נָתַן "to give…" [HC/Vqq3ms]
+- o9: אֵלֶי/ךָ = H413 אֵל "near, with or among; often in general, to" [HR/Sp2ms]
+- o10: אוֹת = H226 אוֹת "a signal (literally or figuratively), as aflag…" [HNcbsa]
+- o11: אוֹ = H176 אוֹ "desire (and so probably in Proverbs 31:4)…" [HC]
+- o12: מוֹפֵת = H4159 מוֹפֵת "a miracle; by implication, a token or omen" [HNcmsa]

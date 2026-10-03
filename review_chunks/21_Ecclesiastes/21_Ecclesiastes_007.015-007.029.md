@@ -700,3 +700,47 @@ Persian entries and current tags:
 - p18: توسل
 - p19: جُستند  → H1245
 - p20: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ecclesiastes 7:14 (context)
+
+- o1: בְּ/יוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmsc]
+- o2: טוֹבָה = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAafsa]
+- o3: הֱיֵה = H1961 הָיָה "to exist, i.e. be or become…" [HVqv2ms]
+- o4: בְ/טוֹב = Hb "in" + H2896 טוֹב "good (as an adjective) in the widest sense…" [HR/Aamsa]
+- o5: וּ/בְ/יוֹם = Hc "and" + Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HC/R/Ncmsc]
+- o6: רָעָה = H7451 רַע "bad or (as noun) evil (natural or moral)" [HNcfsa]
+- o7: רְאֵה = H7200 רָאָה "to see…" [HVqv2ms]
+- o8: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: זֶה = H2088 זֶה "the masculine demonstrative pronoun, this or that" [HPdxms]
+- o11: לְ/עֻמַּת = Hl "to" + H5980 עֻמָּה "conjunction, i.e. society…" [HR/Ncfsc]
+- o12: זֶה = H2088 זֶה "the masculine demonstrative pronoun, this or that" [HPdxms]
+- o13: עָשָׂה = H6213 עָשָׂה "to do or make…" [HVqp3ms]
+- o14: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o15: עַל = H5921 עַל "above, over, upon…" [HR]
+- o16: דִּבְרַת = H1700 דִּבְרָה "a reason, suit or style" [HNcfsc]
+- o17: שֶׁ/לֹּא = Hs "which" + H3808 לֹא "not (the simple or abs. negation)…" [HTr/Tn]
+- o18: יִמְצָא = H4672 מָצָא "properly, to come forth to, i.e. appear or exist…" [HVqi3ms]
+- o19: הָ/אָדָם = Hd "the" + H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HTd/Ncmsa]
+- o20: אַחֲרָי/ו = H310 אַחַר "properly, the hind part…" [HR/Sp3ms]
+- o21: מְאוּמָה = H3972 מְאוּמָה "properly, a speck or point…" [HNcfsa]
+
+### Ecclesiastes 8:1 (context)
+
+- o1: מִי = H4310 מִי "who? (occasionally, by a peculiar idiom…" [HTi]
+- o2: כְּ/הֶ/חָכָם = Hk "like" + Hd "the" + H2450 חָכָם "wise, (i.e. intelligent, skilful or artful)" [HR/Td/Aamsa]
+- o3: וּ/מִי = Hc "and" + H4310 מִי "who? (occasionally, by a peculiar idiom…" [HC/Ti]
+- o4: יוֹדֵעַ = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqrmsa]
+- o5: פֵּשֶׁר = H6592 פֵּשֶׁר "an interpretation" [HNcmsc]
+- o6: דָּבָר = H1697 דָּבָר "a word…" [HNcmsa]
+- o7: חָכְמַת = H2451 חׇכְמָה "wisdom (in a good sense)" [HNcfsc]
+- o8: אָדָם = H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HNcmsa]
+- o9: תָּאִיר = H215 אוֹר "to be (causative…" [HVhi3fs]
+- o10: פָּנָי/ו = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc/Sp3ms]
+- o11: וְ/עֹז = Hc "and" + H5797 עֹז "strength in various applications (force, security…" [HC/Ncmsc]
+- o12: פָּנָי/ו = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc/Sp3ms]
+- o13: יְשֻׁנֶּא = H8132 שָׁנָא "to alter" [HVPi3ms]

@@ -681,3 +681,41 @@ Persian entries and current tags:
 - p18: خاک  → H6083
 - p19: یکسان خواهد_نمود  → H8213
 - p20: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 24:23 (context)
+
+- o1: וְ/חָפְרָה = Hc "and" + H2659 חָפֵר "to blush…" [HC/Vqq3fs]
+- o2: הַ/לְּבָנָה = Hd "the" + H3842 לְבָנָה "properly, (the) white, i.e. the moon" [HTd/Ncfsa]
+- o3: וּ/בוֹשָׁה = Hc "and" + H954 בּוּשׁ "properly, to pale…" [HC/Vqq3fs]
+- o4: הַ/חַמָּה = Hd "the" + H2535 חַמָּה "heat; by implication, the sun" [HTd/Ncfsa]
+- o5: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o6: מָלַךְ = H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HVqp3ms]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: צְבָאוֹת = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbpa]
+- o9: בְּ/הַר = Hb "in" + H2022 הַר "a mountain or range of hills (sometimes used…" [HR/Ncmsc]
+- o10: צִיּוֹן = H6726 צִיּוֹן "Tsijon (as a permanent capital)…" [HNp]
+- o11: וּ/בִ/ירוּשָׁלִַם = Hc "and" + Hb "in" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HC/R/Np]
+- o12: וְ/נֶגֶד = Hc "and" + H5048 נֶגֶד "a front, i.e. part opposite…" [HC/R]
+- o13: זְקֵנָי/ו = H2205 זָקֵן "old" [HAampc/Sp3ms]
+- o14: כָּבוֹד = H3519 כָּבוֹד "properly, weight…" [HNcbsa]
+
+### Isaiah 26:1 (context)
+
+- o1: בַּ/יּוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
+- o2: הַ/הוּא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3ms]
+- o3: יוּשַׁר = H7891 שִׁיר "to sing" [HVHi3ms]
+- o4: הַ/שִּׁיר = Hd "the" + H7892 שִׁיר "a song; abstractly, singing" [HTd/Ncbsa]
+- o5: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o6: בְּ/אֶרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o7: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o8: עִיר = H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HNcfsc]
+- o9: עָז = H5794 עַז "strong, vehement, harsh" [HNcmsa]
+- o10: לָ/נוּ = Hl "to" [HR/Sp1cp]
+- o11: יְשׁוּעָה = H3444 יְשׁוּעָה "something saved, i.e. (abstractly) deliverance…" [HNcfsa]
+- o12: יָשִׁית = H7896 שִׁית "to place (in a very wide application)" [HVqi3ms]
+- o13: חוֹמוֹת = H2346 חוֹמָה "a wall of protection" [HNcfpa]
+- o14: וָ/חֵל = Hc "and" + H2426 חֵיל "an army; also (by analogy,) an intrenchment" [HC/Ncmsa]

@@ -876,3 +876,51 @@ Persian entries and current tags:
 - p33: اَبشالوم  → H53
 - p34: بلا رسانَد  → H7451
 - p35: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 16:23 (context)
+
+- o1: וַ/עֲצַת = Hc "and" + H6098 עֵצָה "advice; by implication, plan; also prudence" [HC/Ncfsc]
+- o2: אֲחִיתֹפֶל = H302 אֲחִיתֹפֶל "Achithophel, an Israelite" [HNp]
+- o3: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o4: יָעַץ = H3289 יָעַץ "to advise; reflexively, to deliberate or resolve" [HVqp3ms]
+- o5: בַּ/יָּמִים = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmpa]
+- o6: הָ/הֵם = Hd "the" + H1992 הֵם "they (only used when emphatic)" [HTd/Pp3mp]
+- o7: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o8: יִשְׁאַל = H7592 שָׁאַל "to inquire; by implication, to request…" [HVqi3ms]
+- o9: בִּ/דְבַר = Hb "in" + H1697 דָּבָר "a word…" [HR/Ncmsc]
+- o10: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o11: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o12: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o13: עֲצַת = H6098 עֵצָה "advice; by implication, plan; also prudence" [HNcfsc]
+- o14: אֲחִיתֹפֶל = H302 אֲחִיתֹפֶל "Achithophel, an Israelite" [HNp]
+- o15: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o16: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o17: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o18: לְ/אַבְשָׁלֹם = Hl "to" + H53 אֲבִישָׁלוֹם "Abshalom, a son of David…" [HR/Np]
+
+### II Samuel 17:15 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: חוּשַׁי = H2365 חוּשַׁי "Chushai, an Israelite" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: צָדוֹק = H6659 צָדוֹק "Tsadok, the name of eight or nine Israelites" [HNp]
+- o5: וְ/אֶל = Hc "and" + H413 אֵל "near, with or among; often in general, to" [HC/R]
+- o6: אֶבְיָתָר = H54 אֶבְיָתָר "Ebjathar, an Israelite" [HNp]
+- o7: הַ/כֹּהֲנִים = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmpa]
+- o8: כָּ/זֹאת = Hk "like" + H2063 זֹאת "this (often used adverb)" [HR/Pdxfs]
+- o9: וְ/כָ/זֹאת = Hc "and" + Hk "like" + H2063 זֹאת "this (often used adverb)" [HC/R/Pdxfs]
+- o10: יָעַץ = H3289 יָעַץ "to advise; reflexively, to deliberate or resolve" [HVqp3ms]
+- o11: אֲחִיתֹפֶל = H302 אֲחִיתֹפֶל "Achithophel, an Israelite" [HNp]
+- o12: אֶת = H853 אֵת "properly…" [HTo]
+- o13: אַבְשָׁלֹם = H53 אֲבִישָׁלוֹם "Abshalom, a son of David…" [HNp]
+- o14: וְ/אֵת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o15: זִקְנֵי = H2205 זָקֵן "old" [HAampc]
+- o16: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o17: וְ/כָ/זֹאת = Hc "and" + Hk "like" + H2063 זֹאת "this (often used adverb)" [HC/R/Pdxfs]
+- o18: וְ/כָ/זֹאת = Hc "and" + Hk "like" + H2063 זֹאת "this (often used adverb)" [HC/R/Pdxfs]
+- o19: יָעַצְתִּי = H3289 יָעַץ "to advise; reflexively, to deliberate or resolve" [HVqp1cs]
+- o20: אָנִי = H589 אֲנִי "I" [HPp1cs]

@@ -1027,3 +1027,45 @@ Persian entries and current tags:
 - p24: مشایخ  → H2205 H3519
 - p25: خویش
 - p26: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 23:18 (context)
+
+- o1: וְ/הָיָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3ms]
+- o2: סַחְרָ/הּ = H5504 סַחַר "profit (from trade)" [HNcmsc/Sp3fs]
+- o3: וְ/אֶתְנַנָּ/הּ = Hc "and" + H868 אֶתְנַן "a gift (as the price of harlotry or idolatry)" [HC/Ncmsc/Sp3fs]
+- o4: קֹדֶשׁ = H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HNcmsa]
+- o5: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o6: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o7: יֵאָצֵר = H686 אָצַר "to store up" [HVNi3ms]
+- o8: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o9: יֵחָסֵן = H2630 חָסַן "properly, to (be) compact…" [HVNi3ms]
+- o10: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o11: לַ/יֹּשְׁבִים = Hl "to" + H3427 יָשַׁב "properly…" [HRd/Vqrmpa]
+- o12: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o13: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o14: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o15: סַחְרָ/הּ = H5504 סַחַר "profit (from trade)" [HNcmsc/Sp3fs]
+- o16: לֶ/אֱכֹל = Hl "to" + H398 אָכַל "to eat (literally or figuratively)" [HR/Vqc]
+- o17: לְ/שָׂבְעָה = Hl "to" + H7654 שׇׂבְעָה "satiety" [HR/Ncfsa]
+- o18: וְ/לִ/מְכַסֶּה = Hc "and" + Hl "to" + H4374 מְכַסֶּה "a covering, i.e. garment…" [HC/R/Ncmsa]
+- o19: עָתִיק = H6266 עָתִיק "properly, antique, i.e. venerable or splendid" [HAamsa]
+
+### Isaiah 25:1 (context)
+
+- o1: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o2: אֱלֹהַ/י = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp1cs]
+- o3: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o4: אֲרוֹמִמְ/ךָ = H7311 רוּם "to be high actively…" [HVoi1cs/Sp2ms]
+- o5: אוֹדֶה = H3034 יָדָה "physically, to throw (a stone…" [HVhi1cs]
+- o6: שִׁמְ/ךָ = H8034 שֵׁם "an appellation…" [HNcmsc/Sp2ms]
+- o7: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o8: עָשִׂיתָ = H6213 עָשָׂה "to do or make…" [HVqp2ms]
+- o9: פֶּלֶא = H6382 פֶּלֶא "a miracle" [HNcmsa]
+- o10: עֵצוֹת = H6098 עֵצָה "advice; by implication, plan; also prudence" [HNcfpa]
+- o11: מֵ/רָחוֹק = Hm "from" + H7350 רָחוֹק "remote, literally or figuratively…" [HR/Aamsa]
+- o12: אֱמוּנָה = H530 אֱמוּנָה "literally firmness; figuratively security…" [HNcfsa]
+- o13: אֹמֶן = H544 אֹמֶן "verity" [HNcmsa]

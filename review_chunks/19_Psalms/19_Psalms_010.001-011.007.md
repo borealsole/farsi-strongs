@@ -992,3 +992,37 @@ Persian entries and current tags:
 - p16: نظاره  → H2372
 - p17: خواهند_کرد  → H6440
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 9:20 (context)
+
+- o1: שִׁיתָ/ה = H7896 שִׁית "to place (in a very wide application)" [HVqv2ms/Sh]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: מוֹרָה = H4172 מוֹרָא "fear; by implication, a fearful thing or deed" [HNcmsa]
+- o4: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o5: יֵדְעוּ = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqi3mp]
+- o6: גוֹיִם = H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HNcmpa]
+- o7: אֱנוֹשׁ = H582 אֱנוֹשׁ "a man in general (singly or collectively)" [HNcmsa]
+- o8: הֵמָּה = H1992 הֵם "they (only used when emphatic)" [HPp3mp]
+- o9: סֶּלָה = H5542 סֶלָה "suspension (of music), i.e. pause" [HTj]
+
+### Psalms 12:1 (context)
+
+- o1: לַ/מְנַצֵּחַ = Hl "to" + H5329 נָצַח "properly, to glitter from afar…" [HRd/Vprmsa]
+- o2: עַל = H5921 עַל "above, over, upon…" [HR]
+- o3: הַ/שְּׁמִינִית = Hd "the" + H8067 שְׁמִינִית "probably an eight-stringed lyre" [HTd/Aobsa]
+- o4: מִזְמוֹר = H4210 מִזְמוֹר "properly, instrumental music…" [HNcmsa]
+- o5: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o6: הוֹשִׁיעָ/ה = H3467 יָשַׁע "properly, to be open, wide or free…" [HVhv2ms/Sh]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o9: גָמַר = H1584 גָּמַר "to end (in the sense of completion or failure)" [HVqp3ms]
+- o10: חָסִיד = H2623 חָסִיד "properly, kind, i.e. (religiously) pious (a saint)" [HAamsa]
+- o11: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o12: פַסּוּ = H6461 פָּסַס "probably to disperse…" [HVqp3cp]
+- o13: אֱמוּנִים = H539 אָמַן "properly, to build up or support…" [HAampa]
+- o14: מִ/בְּנֵי = Hm "from" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmpc]
+- o15: אָדָם = H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HNcmsa]

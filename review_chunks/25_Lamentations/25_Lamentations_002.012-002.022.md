@@ -809,3 +809,36 @@ Persian entries and current tags:
 - p39: من
 - p40: هلاک کرد  → H3615
 - p41: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Lamentations 2:11 (context)
+
+- o1: כָּלוּ = H3615 כָּלָה "to end, whether intransitive (to cease…" [HVqp3cp]
+- o2: בַ/דְּמָעוֹת = Hb "in" + H1832 דִּמְעָה "weeping" [HRd/Ncfpa]
+- o3: עֵינַ/י = H5869 עַיִן "an eye (literally or figuratively)…" [HNcbdc/Sp1cs]
+- o4: חֳמַרְמְרוּ = H2560 חָמַר "properly, to boil up…" [HVjp3cp]
+- o5: מֵעַ/י = H4578 מֵעֶה "used only in plural the intestines…" [HNcmpc/Sp1cs]
+- o6: נִשְׁפַּךְ = H8210 שָׁפַךְ "to spill forth (blood, a libation, liquid metal…" [HVNp3ms]
+- o7: לָ/אָרֶץ = Hl "to" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HRd/Ncbsa]
+- o8: כְּבֵדִ/י = H3516 כָּבֵד "the liver (as the heaviest of the viscera)" [HNcfsc/Sp1cs]
+- o9: עַל = H5921 עַל "above, over, upon…" [HR]
+- o10: שֶׁבֶר = H7667 שֶׁבֶר "a fracture, figuratively, ruin…" [HNcmsc]
+- o11: בַּת = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfsc]
+- o12: עַמִּ/י = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp1cs]
+- o13: בֵּ/עָטֵף = Hb "in" + H5848 עָטַף "to shroud…" [HR/VNc]
+- o14: עוֹלֵל = H5768 עוֹלֵל "a suckling" [HNcmsa]
+- o15: וְ/יוֹנֵק = Hc "and" + H3243 יָנַק "to suck; causatively, to give milk" [HC/Vqrmsa]
+- o16: בִּ/רְחֹבוֹת = Hb "in" + H7339 רְחֹב "a width, i.e. (concretely) avenue or area" [HR/Ncfpc]
+- o17: קִרְיָה = H7151 קִרְיָה "building; a city" [HNcfsa]
+
+### Lamentations 3:1 (context)
+
+- o1: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o2: הַ/גֶּבֶר = Hd "the" + H1397 גֶּבֶר "properly, a valiant man or warrior…" [HTd/Ncmsa]
+- o3: רָאָה = H7200 רָאָה "to see…" [HVqp3ms]
+- o4: עֳנִי = H6040 עֳנִי "depression, i.e. misery" [HNcmsa]
+- o5: בְּ/שֵׁבֶט = Hb "in" + H7626 שֵׁבֶט "a scion, i.e. (literally) a stick (for punishing…" [HR/Ncmsc]
+- o6: עֶבְרָת/וֹ = H5678 עֶבְרָה "an outburst of passion" [HNcfsc/Sp3ms]

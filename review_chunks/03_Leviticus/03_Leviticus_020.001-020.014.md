@@ -776,3 +776,34 @@ Persian entries and current tags:
 - p28: شما
 - p29: نباشد
 - p30: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 19:37 (context)
+
+- o1: וּ/שְׁמַרְתֶּם = Hc "and" + H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HC/Vqq2mp]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o4: חֻקֹּתַ/י = H2708 חֻקָּה "an enactment…" [HNcbpc/Sp1cs]
+- o5: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o6: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o7: מִשְׁפָּטַ/י = H4941 מִשְׁפָּט "properly…" [HNcmpc/Sp1cs]
+- o8: וַ/עֲשִׂיתֶם = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqq2mp]
+- o9: אֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o10: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o11: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### Leviticus 20:15 (context)
+
+- o1: וְ/אִישׁ = Hc "and" + H376 אִישׁ "a man as an individual or a male person…" [HC/Ncmsa]
+- o2: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o3: יִתֵּן = H5414 נָתַן "to give…" [HVqi3ms]
+- o4: שְׁכָבְתּ/וֹ = H7903 שְׁכֹבֶת "a (sexual) lying with" [HNcfsc/Sp3ms]
+- o5: בִּ/בְהֵמָה = Hb "in" + H929 בְּהֵמָה "properly, a dumb beast…" [HR/Ncfsa]
+- o6: מוֹת = H4191 מוּת "to die (literally or figuratively)…" [HVqa]
+- o7: יוּמָת = H4191 מוּת "to die (literally or figuratively)…" [HVHi3ms]
+- o8: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o9: הַ/בְּהֵמָה = Hd "the" + H929 בְּהֵמָה "properly, a dumb beast…" [HTd/Ncfsa]
+- o10: תַּהֲרֹגוּ = H2026 הָרַג "to smite with deadly intent" [HVqi2mp]

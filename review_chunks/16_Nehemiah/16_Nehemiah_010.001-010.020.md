@@ -497,3 +497,27 @@ Persian entries and current tags:
 - p4: ،
 - p5: حِزیر  → H2387
 - p6: ،
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Nehemiah 9:38 (context)
+
+- o1: וּ/בְ/כָל = Hc "and" + Hb "in" + H3605 כֹּל "properly, the whole…" [HC/R/Ncmsc]
+- o2: זֹאת = H2063 זֹאת "this (often used adverb)" [HPdxfs]
+- o3: אֲנַחְנוּ = H587 אֲנַחְנוּ "we" [HPp1cp]
+- o4: כֹּרְתִים = H3772 כָּרַת "to cut (off, down or asunder)…" [HVqrmpa]
+- o5: אֲמָנָה = H548 אֲמָנָה "something fixed, i.e. a covenant. an allowance" [HNcfsa]
+- o6: וְ/כֹתְבִים = Hc "and" + H3789 כָּתַב "to grave, by implication, to write (describe…" [HC/Vqrmpa]
+- o7: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o8: הֶ/חָתוּם = Hd "the" + H2856 חָתַם "to close up; especially to seal" [HTd/Vqsmsa]
+- o9: שָׂרֵי/נוּ = H8269 שַׂר "a head person (of any rank or class)" [HNcmpc/Sp1cp]
+- o10: לְוִיֵּ/נוּ = H3881 לֵוִיִּי "a Levite or descendant of Levi" [HNgmpc/Sp1cp]
+- o11: כֹּהֲנֵי/נוּ = H3548 כֹּהֵן "literally one officiating, a priest…" [HNcmpc/Sp1cp]
+
+### Nehemiah 10:21 (context)
+
+- o1: מְשֵׁיזַבְאֵל = H4898 מְשֵׁיזַבְאֵל "Meshezabel, an Israelite" [HNp]
+- o2: צָדוֹק = H6659 צָדוֹק "Tsadok, the name of eight or nine Israelites" [HNp]
+- o3: יַדּוּעַ = H3037 יַדּוּעַ "Jaddua, the name of two Israelites" [HNp]

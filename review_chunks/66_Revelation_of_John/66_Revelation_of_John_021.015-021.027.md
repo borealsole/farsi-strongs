@@ -750,3 +750,49 @@ Persian entries and current tags:
 - p33: راه
 - p34: خواهند_داشت
 - p35: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Revelation of John 21:14 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o3: τεῖχος = G5038 τεῖχος "wall" [N-NSN]
+- o4: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o5: πόλεως = G4172 πόλις "city" [N-GSF]
+- o6: ἔχων = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAP-NSM]
+- o7: θεμελίους = G2310 θεμέλιος "foundation" [N-APM]
+- o8: δώδεκα, = G1427 δώδεκα "twelve" [A-NUI]
+- o9: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o10: ἐπ’ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o11: αὐτῶν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]
+- o12: δώδεκα = G1427 δώδεκα "twelve" [A-NUI]
+- o13: ὀνόματα = G3686 ὄνομα "called, (+ sur-)name(-d)" [N-APN]
+- o14: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o15: δώδεκα = G1427 δώδεκα "twelve" [A-NUI]
+- o16: ἀποστόλων = G652 ἀπόστολος "apostle, messenger, he that is sent" [N-GPM]
+- o17: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
+- o18: ἀρνίου. = G721 ἀρνίον "lamb" [N-GSN]
+
+### Revelation of John 22:1 (context)
+
+- o1: Καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἔδειξέν = G1166 δεικνύω "shew" [V-AAI-3S]
+- o3: μοι = G1473 ἐγώ "I, me" [P-1DS]
+- o4: ποταμὸν = G4215 ποταμός "flood, river, stream, water" [N-ASM]
+- o5: ὕδατος = G5204 ὕδωρ "water" [N-GSN]
+- o6: ζωῆς = G2222 ζωή "life(-time)" [N-GSF]
+- o7: λαμπρὸν = G2986 λαμπρός "bright, clear, gay, goodly, gorgeous, white" [A-ASM]
+- o8: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
+- o9: κρύσταλλον, = G2930 κρύσταλλος "crystal" [N-ASM]
+- o10: ἐκπορευόμενον = G1607 ἐκπορεύομαι "come (forth, out of), depart, go (forth, out)…" [V-PNP-ASM]
+- o11: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o12: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o13: θρόνου = G2362 θρόνος "seat, throne" [N-GSM]
+- o14: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o15: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o16: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o17: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
+- o18: ἀρνίου. = G721 ἀρνίον "lamb" [N-GSN]

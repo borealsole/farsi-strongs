@@ -649,3 +649,35 @@ Persian entries and current tags:
 - p18: سخت  → H3966
 - p19: مبتلا می‌سازی  → H6031
 - p20: ؟
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 63:19 (context)
+
+- o1: הָיִינוּ = H1961 הָיָה "to exist, i.e. be or become…" [HVqp1cp]
+- o2: מֵ/עוֹלָם = Hm "from" + H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HR/Ncmsa]
+- o3: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o4: מָשַׁלְתָּ = H4910 מָשַׁל "to rule" [HVqp2ms]
+- o5: בָּ/ם = Hb "in" [HR/Sp3mp]
+- o6: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o7: נִקְרָא = H7121 קָרָא "to call out to (i.e. properly, address by name…" [HVNp3ms]
+- o8: שִׁמְ/ךָ = H8034 שֵׁם "an appellation…" [HNcmsc/Sp2ms]
+
+### Isaiah 65:1 (context)
+
+- o1: נִדְרַשְׁתִּי = H1875 דָּרַשׁ "properly, to tread or frequent…" [HVNp1cs]
+- o2: לְ/לוֹא = Hl "to" + H3808 לֹא "not (the simple or abs. negation)…" [HR/Tn]
+- o3: שָׁאָלוּ = H7592 שָׁאַל "to inquire; by implication, to request…" [HVqp3cp]
+- o4: נִמְצֵאתִי = H4672 מָצָא "properly, to come forth to, i.e. appear or exist…" [HVNp1cs]
+- o5: לְ/לֹא = Hl "to" + H3808 לֹא "not (the simple or abs. negation)…" [HR/Tn]
+- o6: בִקְשֻׁ/נִי = H1245 בָּקַשׁ "to search out (by any method…" [HVpp3cp/Sp1cs]
+- o7: אָמַרְתִּי = H559 אָמַר "to say (used with great latitude)" [HVqp1cs]
+- o8: הִנֵּ/נִי = H2005 הֵן "lo!; also (as expressing surprise) if" [HTm/Sp1cs]
+- o9: הִנֵּ/נִי = H2005 הֵן "lo!; also (as expressing surprise) if" [HTm/Sp1cs]
+- o10: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o11: גּוֹי = H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HNcmsa]
+- o12: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o13: קֹרָא = H7121 קָרָא "to call out to (i.e. properly, address by name…" [HVPp3ms]
+- o14: בִ/שְׁמִ/י = Hb "in" + H8034 שֵׁם "an appellation…" [HR/Ncmsc/Sp1cs]

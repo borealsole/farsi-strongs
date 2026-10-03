@@ -749,3 +749,47 @@ Persian entries and current tags:
 - p28: فراهم
 - p29: آورد
 - p30: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 45:12 (context)
+
+- o1: וְ/הַ/שֶּׁקֶל = Hc "and" + Hd "the" + H8255 שֶׁקֶל "probably a weight; used as a commercial standard" [HC/Td/Ncmsa]
+- o2: עֶשְׂרִים = H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HAcbpa]
+- o3: גֵּרָה = H1626 גֵּרָה "a gerah or small weight (and coin)" [HNcfsa]
+- o4: עֶשְׂרִים = H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HAcbpa]
+- o5: שְׁקָלִים = H8255 שֶׁקֶל "probably a weight; used as a commercial standard" [HNcmpa]
+- o6: חֲמִשָּׁה = H2568 חָמֵשׁ "five" [HAcmsa]
+- o7: וְ/עֶשְׂרִים = Hc "and" + H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HC/Acbpa]
+- o8: שְׁקָלִים = H8255 שֶׁקֶל "probably a weight; used as a commercial standard" [HNcmpa]
+- o9: עֲשָׂרָה = H6235 עֶשֶׂר "ten (as an accumulation to the extent of the…" [HAcmsa]
+- o10: וַ/חֲמִשָּׁה = Hc "and" + H2568 חָמֵשׁ "five" [HC/Acmsa]
+- o11: שֶׁקֶל = H8255 שֶׁקֶל "probably a weight; used as a commercial standard" [HNcmsa]
+- o12: הַ/מָּנֶה = Hd "the" + H4488 מָנֶה "properly, a fixed weight or measured amount…" [HTd/Ncmsa]
+- o13: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o14: לָ/כֶם = Hl "to" [HR/Sp2mp]
+
+### Ezekiel 46:1 (context)
+
+- o1: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o2: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o3: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o4: יְהוִה = H3069 יְהֹוִה "YHWH" [HNp]
+- o5: שַׁעַר = H8179 שַׁעַר "an opening, i.e. door or gate" [HNcmsc]
+- o6: הֶ/חָצֵר = Hd "the" + H2691 חָצֵר "a yard (as inclosed by a fence)…" [HTd/Ncbsa]
+- o7: הַ/פְּנִימִית = Hd "the" + H6442 פְּנִימִי "interior" [HTd/Aafsa]
+- o8: הַ/פֹּנֶה = Hd "the" + H6437 פָּנָה "to turn…" [HTd/Vqrmsa]
+- o9: קָדִים = H6921 קָדִים "the fore or front part…" [HNcmsa]
+- o10: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o11: סָגוּר = H5462 סָגַר "to shut up; figuratively, to surrender" [HVqsmsa]
+- o12: שֵׁשֶׁת = H8337 שֵׁשׁ "six (as an overplus beyond five or the fingers of…" [HAcmsc]
+- o13: יְמֵי = H3117 יוֹם "a day (as the warm hours)…" [HNcmpc]
+- o14: הַ/מַּעֲשֶׂה = Hd "the" + H4639 מַעֲשֶׂה "an action (good or bad); generally, a transaction…" [HTd/Ncmsa]
+- o15: וּ/בְ/יוֹם = Hc "and" + Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HC/R/Ncmsc]
+- o16: הַ/שַּׁבָּת = Hd "the" + H7676 שַׁבָּת "intermission, i.e (specifically) the Sabbath" [HTd/Ncbsa]
+- o17: יִפָּתֵחַ = H6605 פָּתַח "to open wide (literally or figuratively)…" [HVNi3ms]
+- o18: וּ/בְ/יוֹם = Hc "and" + Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HC/R/Ncmsc]
+- o19: הַ/חֹדֶשׁ = Hd "the" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HTd/Ncmsa]
+- o20: יִפָּתֵחַ = H6605 פָּתַח "to open wide (literally or figuratively)…" [HVNi3ms]

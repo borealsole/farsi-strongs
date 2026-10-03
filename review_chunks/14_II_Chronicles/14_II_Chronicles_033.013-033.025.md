@@ -752,3 +752,35 @@ Persian entries and current tags:
 - p21: پادشاه  → H4428 H4427
 - p22: ساختند  → H4427
 - p23: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 33:12 (context)
+
+- o1: וּ/כְ/הָצֵר = Hc "and" + Hk "like" + H6887 צָרַר "to cramp, literally or figuratively…" [HC/R/Vhc]
+- o2: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o3: חִלָּה = H2470 חָלָה "properly, to be rubbed or worn…" [HVpp3ms]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: פְּנֵי = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: אֱלֹהָי/ו = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp3ms]
+- o8: וַ/יִּכָּנַע = Hc "and" + H3665 כָּנַע "properly, to bend the knee…" [HC/VNw3ms]
+- o9: מְאֹד = H3966 מְאֹד "properly, vehemence…" [HD]
+- o10: מִ/לִּ/פְנֵי = Hm "from" + Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/R/Ncbpc]
+- o11: אֱלֹהֵי = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc]
+- o12: אֲבֹתָי/ו = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp3ms]
+
+### II Chronicles 34:1 (context)
+
+- o1: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o2: שְׁמוֹנֶה = H8083 שְׁמֹנֶה "a cardinal number…" [HAcfsa]
+- o3: שָׁנִים = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfpa]
+- o4: יֹאשִׁיָּהוּ = H2977 יֹאשִׁיָּה "Joshijah, the name of two Israelites" [HNp]
+- o5: בְ/מָלְכ/וֹ = Hb "in" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HR/Vqc/Sp3ms]
+- o6: וּ/שְׁלֹשִׁים = Hc "and" + H7970 שְׁלוֹשִׁים "thirty; or (ordinal) thirtieth" [HC/Acbpa]
+- o7: וְ/אַחַת = Hc "and" + H259 אֶחָד "properly, united, i.e. one…" [HC/Acfsa]
+- o8: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o9: מָלַךְ = H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HVqp3ms]
+- o10: בִּ/ירוּשָׁלִָם = Hb "in" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HR/Np]

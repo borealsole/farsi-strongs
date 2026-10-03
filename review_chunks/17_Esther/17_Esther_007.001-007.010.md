@@ -707,3 +707,50 @@ Persian entries and current tags:
 - p18: پادشاه  → H4428
 - p19: فرو~نشست  → H7918
 - p20: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Esther 6:14 (context)
+
+- o1: עוֹדָ/ם = H5750 עוֹד "properly, iteration or continuance…" [HD/Sp3mp]
+- o2: מְדַבְּרִים = H1696 דָבַר "perhaps properly, to arrange…" [HVprmpa]
+- o3: עִמּ/וֹ = H5973 עִם "adverb or preposition…" [HR/Sp3ms]
+- o4: וְ/סָרִיסֵי = Hc "and" + H5631 סָרִיס "a eunuch…" [HC/Ncmpc]
+- o5: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o6: הִגִּיעוּ = H5060 נָגַע "properly, to touch…" [HVhp3cp]
+- o7: וַ/יַּבְהִלוּ = Hc "and" + H926 בָּהַל "to tremble inwardly (or palpitate)…" [HC/Vhw3mp]
+- o8: לְ/הָבִיא = Hl "to" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HR/Vhc]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: הָמָן = H2001 הָמָן "Haman, a Persian vizier" [HNp]
+- o11: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o12: הַ/מִּשְׁתֶּה = Hd "the" + H4960 מִשְׁתֶּה "drink, by implication, drinking (the act)…" [HTd/Ncmsa]
+- o13: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o14: עָשְׂתָה = H6213 עָשָׂה "to do or make…" [HVqp3fs]
+- o15: אֶסְתֵּר = H635 אֶסְתֵּר "Ester, the Jewish heroine" [HNp]
+
+### Esther 8:1 (context)
+
+- o1: בַּ/יּוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
+- o2: הַ/הוּא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3ms]
+- o3: נָתַן = H5414 נָתַן "to give…" [HVqp3ms]
+- o4: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o5: אֲחַשְׁוֵרוֹשׁ = H325 אֲחַשְׁוֵרוֹשׁ "Achashverosh (i.e. Ahasuerus or Artaxerxes…" [HNp]
+- o6: לְ/אֶסְתֵּר = Hl "to" + H635 אֶסְתֵּר "Ester, the Jewish heroine" [HR/Np]
+- o7: הַ/מַּלְכָּה = Hd "the" + H4436 מַלְכָּה "a queen" [HTd/Ncfsa]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o10: הָמָן = H2001 הָמָן "Haman, a Persian vizier" [HNp]
+- o11: צֹרֵר = H6887 צָרַר "to cramp, literally or figuratively…" [HVqrmsc]
+- o12: ה/יהודיים = Hd "the" + H3064 יְהוּדִי "a Jehudite (i.e. Judaite or Jew)…" [HTd/Ngmpa]
+- o13: וּ/מָרְדֳּכַי = Hc "and" + H4782 מׇרְדְּכַי "Mordecai, an Israelite" [HC/Np]
+- o14: בָּא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3ms]
+- o15: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o16: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o17: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o18: הִגִּידָה = H5046 נָגַד "properly, to front…" [HVhp3fs]
+- o19: אֶסְתֵּר = H635 אֶסְתֵּר "Ester, the Jewish heroine" [HNp]
+- o20: מַה = H4100 מָה "properly…" [HTi]
+- o21: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o22: לָ/הּ = Hl "to" [HR/Sp3fs]

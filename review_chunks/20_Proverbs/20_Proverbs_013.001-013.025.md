@@ -872,3 +872,27 @@ Persian entries and current tags:
 - p11: گرسنه  → H2637
 - p12: می‌ماند
 - p13: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 12:28 (context)
+
+- o1: בְּ/אֹרַח = Hb "in" + H734 אֹרַח "a well-trodden road (literally or figuratively)…" [HR/Ncbsc]
+- o2: צְדָקָה = H6666 צְדָקָה "rightness (abstractly), subjectively (rectitude)…" [HNcfsa]
+- o3: חַיִּים = H2416 חַי "alive; hence, raw (flesh)…" [HNcmpa]
+- o4: וְ/דֶרֶךְ = Hc "and" + H1870 דֶּרֶךְ "a road (as trodden)…" [HC/Ncbsc]
+- o5: נְתִיבָה = H5410 נָתִיב "a (beaten) track" [HNcbsa]
+- o6: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o7: מָוֶת = H4194 מָוֶת "death (natural or violent)…" [HNcmsa]
+
+### Proverbs 14:1 (context)
+
+- o1: חַכְמוֹת = H2454 חׇכְמוֹת "wisdom" [HAafpc]
+- o2: נָשִׁים = H802 אִשָּׁה "a woman" [HNcfpa]
+- o3: בָּנְתָה = H1129 בָּנָה "to build (literally and figuratively)" [HVqp3fs]
+- o4: בֵיתָ/הּ = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc/Sp3fs]
+- o5: וְ/אִוֶּלֶת = Hc "and" + H200 אִוֶּלֶת "silliness" [HC/Ncfsa]
+- o6: בְּ/יָדֶי/הָ = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbdc/Sp3fs]
+- o7: תֶהֶרְסֶ/נּוּ = H2040 הָרַס "to pull down or in pieces, break, destroy" [HVqi3fs/Sp3ms]

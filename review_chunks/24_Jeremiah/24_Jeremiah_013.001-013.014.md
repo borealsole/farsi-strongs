@@ -792,3 +792,31 @@ Persian entries and current tags:
 - p28: .
 - p29: “
 - p30: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 12:17 (context)
+
+- o1: וְ/אִם = Hc "and" + H518 אִם "used very widely as demonstrative, lo!…" [HC/C]
+- o2: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o3: יִשְׁמָעוּ = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqi3mp]
+- o4: וְ/נָתַשְׁתִּי = Hc "and" + H5428 נָתַשׁ "to tear away" [HC/Vqq1cs]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: הַ/גּוֹי = Hd "the" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HTd/Ncmsa]
+- o7: הַ/הוּא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3ms]
+- o8: נָתוֹשׁ = H5428 נָתַשׁ "to tear away" [HVqa]
+- o9: וְ/אַבֵּד = Hc "and" + H6 אָבַד "properly, to wander away, i.e. lose oneself…" [HC/Vpa]
+- o10: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o11: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### Jeremiah 13:15 (context)
+
+- o1: שִׁמְעוּ = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqv2mp]
+- o2: וְ/הַאֲזִינוּ = Hc "and" + H238 אָזַן "to broaden out the ear (with the hand)…" [HC/Vhv2mp]
+- o3: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o4: תִּגְבָּהוּ = H1361 גָּבַהּ "to soar, i.e. be lofty…" [HVqj2mp]
+- o5: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: דִּבֵּר = H1696 דָבַר "perhaps properly, to arrange…" [HVpp3ms]

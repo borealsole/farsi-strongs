@@ -971,3 +971,26 @@ Persian entries and current tags:
 - p23: را  → H853
 - p24: برکت داد  → H1288
 - p25: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 39:22 (context)
+
+- o1: וַ/יַּעַשׂ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3ms]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: מְעִיל = H4598 מְעִיל "a robe (i.e. upper and outer garment)" [HNcmsc]
+- o4: הָ/אֵפֹד = Hd "the" + H646 אֵפוֹד "a girdle…" [HTd/Ncmsa]
+- o5: מַעֲשֵׂה = H4639 מַעֲשֶׂה "an action (good or bad); generally, a transaction…" [HNcmsc]
+- o6: אֹרֵג = H707 אָרַג "to plait or weave" [HVqrmsa]
+- o7: כְּלִיל = H3632 כָּלִיל "complete…" [HAamsc]
+- o8: תְּכֵלֶת = H8504 תְּכֵלֶת "the cerulean mussel…" [HNcfsa]
+
+### Exodus 40:1 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: לֵּ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

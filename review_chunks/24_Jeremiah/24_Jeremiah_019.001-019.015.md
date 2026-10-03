@@ -974,3 +974,52 @@ Persian entries and current tags:
 - p40: نشنیدند  → H1115 H8085
 - p41: .
 - p42: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 18:23 (context)
+
+- o1: וְ/אַתָּה = Hc "and" + H859 אַתָּה "thou and thee, or (plural) ye and you" [HC/Pp2ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: יָדַעְתָּ = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqp2ms]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o6: עֲצָתָ/ם = H6098 עֵצָה "advice; by implication, plan; also prudence" [HNcfsc/Sp3mp]
+- o7: עָלַ/י = H5921 עַל "above, over, upon…" [HR/Sp1cs]
+- o8: לַ/מָּוֶת = Hl "to" + H4194 מָוֶת "death (natural or violent)…" [HRd/Ncmsa]
+- o9: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o10: תְּכַפֵּר = H3722 כָּפַר "to cover (specifically with bitumen)…" [HVpj2ms]
+- o11: עַל = H5921 עַל "above, over, upon…" [HR]
+- o12: עֲוֺנָ/ם = H5771 עָוֺן "perversity, i.e. (moral) evil" [HNcbsc/Sp3mp]
+- o13: וְ/חַטָּאתָ/ם = Hc "and" + H2403 חַטָּאָה "an offence (sometimes habitual sinfulness)…" [HC/Ncfsc/Sp3mp]
+- o14: מִ/לְּ/פָנֶי/ךָ = Hm "from" + Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/R/Ncbpc/Sp2ms]
+- o15: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o16: תֶּמְחִי = H4229 מָחָה "properly, to stroke or rub…" [HVhj2ms]
+- o17: ו/היו = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3cp]
+- o18: מֻכְשָׁלִים = H3782 כָּשַׁל "to totter or waver (through weakness of the legs…" [HVHsmpa]
+- o19: לְ/פָנֶי/ךָ = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp2ms]
+- o20: בְּ/עֵת = Hb "in" + H6256 עֵת "time, especially (adverb with preposition) now…" [HR/Ncbsc]
+- o21: אַפְּ/ךָ = H639 אַף "properly, the nose or nostril…" [HNcmsc/Sp2ms]
+- o22: עֲשֵׂה = H6213 עָשָׂה "to do or make…" [HVqv2ms]
+- o23: בָ/הֶם = Hb "in" [HR/Sp3mp]
+
+### Jeremiah 20:1 (context)
+
+- o1: וַ/יִּשְׁמַע = Hc "and" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HC/Vqw3ms]
+- o2: פַּשְׁחוּר = H6583 פַּשְׁחוּר "Pashchur, the name of four Israelites" [HNp]
+- o3: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o4: אִמֵּר = H564 אִמֵּר "Immer, the name of five Israelites" [HNp]
+- o5: הַ/כֹּהֵן = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmsa]
+- o6: וְ/הוּא = Hc "and" + H1931 הוּא "he (she or it)…" [HC/Pp3ms]
+- o7: פָקִיד = H6496 פָּקִיד "a superintendent (civil, military or religious)" [HNcmsa]
+- o8: נָגִיד = H5057 נָגִיד "a commander (as occupying the front), civil…" [HNcmsa]
+- o9: בְּ/בֵית = Hb "in" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc]
+- o10: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o11: אֶת = H853 אֵת "properly…" [HTo]
+- o12: יִרְמְיָהוּ = H3414 יִרְמְיָה "Jirmejah, the name of eight or nine Israelites" [HNp]
+- o13: נִבָּא = H5012 נָבָא "to prophesy…" [HVNsmsa]
+- o14: אֶת = H853 אֵת "properly…" [HTo]
+- o15: הַ/דְּבָרִים = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmpa]
+- o16: הָ/אֵלֶּה = Hd "the" + H428 אֵלֶּה "these or those" [HTd/Pdxcp]

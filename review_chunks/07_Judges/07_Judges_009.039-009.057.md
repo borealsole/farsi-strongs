@@ -1020,3 +1020,54 @@ Persian entries and current tags:
 - p18: دامنگیرشان
 - p19: شد  → H935
 - p20: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Judges 9:38 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: אֵלָי/ו = H413 אֵל "near, with or among; often in general, to" [HR/Sp3ms]
+- o3: זְבֻל = H2083 זְבֻל "Zebul, an Israelite" [HNp]
+- o4: אַיֵּה = H346 אַיֵּה "where?" [HTi]
+- o5: אֵפוֹא = H645 אֵפוֹ "strictly a demonstrative particle, here…" [HD]
+- o6: פִי/ךָ = H6310 פֶּה "the mouth (as the means of blowing)…" [HNcmsc/Sp2ms]
+- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o8: תֹּאמַר = H559 אָמַר "to say (used with great latitude)" [HVqi2ms]
+- o9: מִי = H4310 מִי "who? (occasionally, by a peculiar idiom…" [HTi]
+- o10: אֲבִימֶלֶךְ = H40 אֲבִימֶלֶךְ "Abimelek…" [HNp]
+- o11: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o12: נַעַבְדֶ/נּוּ = H5647 עָבַד "to work (in any sense)…" [HVqi1cp/Sp1cp]
+- o13: הֲ/לֹא = Hi "(untranslatable; interrogative particle)" + H3808 לֹא "not (the simple or abs. negation)…" [HTi/Tn]
+- o14: זֶה = H2088 זֶה "the masculine demonstrative pronoun, this or that" [HPdxms]
+- o15: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o16: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o17: מָאַסְתָּה = H3988 מָאַס "to spurn; also (intransitively) to disappear" [HVqp2ms]
+- o18: בּ/וֹ = Hb "in" [HR/Sp3ms]
+- o19: צֵא = H3318 יָצָא "to go (causatively, bring) out…" [HVqv2ms]
+- o20: נָא = H4994 נָא "'I pray', 'now', or 'then'…" [HTe]
+- o21: עַתָּה = H6258 עַתָּה "at this time, whether adverb…" [HD]
+- o22: וְ/הִלָּחֶם = Hc "and" + H3898 לָחַם "to feed on; figuratively, to consume…" [HC/VNv2ms]
+- o23: בּ/וֹ = Hb "in" [HR/Sp3ms]
+
+### Judges 10:1 (context)
+
+- o1: וַ/יָּקָם = Hc "and" + H6965 קוּם "to rise (in various applications, literal…" [HC/Vqw3ms]
+- o2: אַחֲרֵי = H310 אַחַר "properly, the hind part…" [HR]
+- o3: אֲבִימֶלֶךְ = H40 אֲבִימֶלֶךְ "Abimelek…" [HNp]
+- o4: לְ/הוֹשִׁיעַ = Hl "to" + H3467 יָשַׁע "properly, to be open, wide or free…" [HR/Vhc]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o7: תּוֹלָע = H8439 תּוֹלָע "Tola, the name of two Israelites" [HNp]
+- o8: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o9: פּוּאָה = H6312 פּוּאָה "Puah or Puvvah, the name of two Israelites" [HNp]
+- o10: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o11: דּוֹדוֹ = H1734 דּוֹדוֹ "Dodo, the name of three Israelites" [HNp]
+- o12: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsc]
+- o13: יִשָּׂשכָר = H3485 יִשָּׂשכָר "Jissaskar, a son of Jacob" [HNp]
+- o14: וְ/הוּא = Hc "and" + H1931 הוּא "he (she or it)…" [HC/Pp3ms]
+- o15: יֹשֵׁב = H3427 יָשַׁב "properly…" [HVqrmsa]
+- o16: בְּ/שָׁמִיר = Hb "in" + H8069 שָׁמִיר "Shamir, the name of two places in Palestine" [HR/Np]
+- o17: בְּ/הַר = Hb "in" + H2022 הַר "a mountain or range of hills (sometimes used…" [HR/Ncmsc]
+- o18: אֶפְרָיִם = H669 אֶפְרַיִם "Ephrajim, a son of Joseph…" [HNp]

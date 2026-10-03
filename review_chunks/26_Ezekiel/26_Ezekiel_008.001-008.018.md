@@ -1120,3 +1120,43 @@ Persian entries and current tags:
 - p30: نخواهم_نمود  → H3808
 - p31: .
 - p32: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 7:27 (context)
+
+- o1: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o2: יִתְאַבָּל = H56 אָבַל "to bewail" [HVti3ms]
+- o3: וְ/נָשִׂיא = Hc "and" + H5387 נָשִׂיא "properly, an exalted one, i.e. a king or sheik…" [HC/Ncmsa]
+- o4: יִלְבַּשׁ = H3847 לָבַשׁ "properly, wrap around…" [HVqi3ms]
+- o5: שְׁמָמָה = H8077 שְׁמָמָה "devastation; figuratively, astonishment" [HNcfsa]
+- o6: וִ/ידֵי = Hc "and" + H3027 יָד "a hand (the open one (indicating power, means…" [HC/Ncbdc]
+- o7: עַם = H5971 עַם "a people (as a congregated unit)…" [HNcmsc]
+- o8: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o9: תִּבָּהַלְנָה = H926 בָּהַל "to tremble inwardly (or palpitate)…" [HVNi3fp]
+- o10: מִ/דַּרְכָּ/ם = Hm "from" + H1870 דֶּרֶךְ "a road (as trodden)…" [HR/Ncbsc/Sp3mp]
+- o11: אֶעֱשֶׂה = H6213 עָשָׂה "to do or make…" [HVqi1cs]
+- o12: אוֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o13: וּ/בְ/מִשְׁפְּטֵי/הֶם = Hc "and" + Hb "in" + H4941 מִשְׁפָּט "properly…" [HC/R/Ncmpc/Sp3mp]
+- o14: אֶשְׁפְּטֵ/ם = H8199 שָׁפַט "to judge…" [HVqi1cs/Sp3mp]
+- o15: וְ/יָדְעוּ = Hc "and" + H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HC/Vqq3cp]
+- o16: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o17: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o18: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### Ezekiel 9:1 (context)
+
+- o1: וַ/יִּקְרָא = Hc "and" + H7121 קָרָא "to call out to (i.e. properly, address by name…" [HC/Vqw3ms]
+- o2: בְ/אָזְנַ/י = Hb "in" + H241 אֹזֶן "broadness. i.e. (concrete) the ear (from its form…" [HR/Ncfdc/Sp1cs]
+- o3: קוֹל = H6963 קוֹל "a voice or sound" [HNcmsa]
+- o4: גָּדוֹל = H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HAamsa]
+- o5: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o6: קָרְבוּ = H7126 קָרַב "to approach (causatively…" [HVqv2mp]
+- o7: פְּקֻדּוֹת = H6486 פְּקֻדָּה "visitation (in many senses, chiefly official)" [HNcfpc]
+- o8: הָ/עִיר = Hd "the" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HTd/Ncfsa]
+- o9: וְ/אִישׁ = Hc "and" + H376 אִישׁ "a man as an individual or a male person…" [HC/Ncmsa]
+- o10: כְּלִי = H3627 כְּלִי "something prepared…" [HNcmsc]
+- o11: מַשְׁחֵת/וֹ = H4892 מַשְׁחֵת "destruction" [HNcmsc/Sp3ms]
+- o12: בְּ/יָד/וֹ = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc/Sp3ms]

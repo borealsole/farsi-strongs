@@ -921,3 +921,39 @@ Persian entries and current tags:
 - p17: را  → H853
 - p18: برکت دهد  → H1288
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 16:22 (context)
+
+- o1: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o2: תִּגְּעוּ = H5060 נָגַע "properly, to touch…" [HVqj2mp]
+- o3: בִּ/מְשִׁיחָ/י = Hb "in" + H4899 מָשִׁיחַ "anointed…" [HR/Aampc/Sp1cs]
+- o4: וּ/בִ/נְבִיאַ/י = Hc "and" + Hb "in" + H5030 נָבִיא "a prophet or (generally) inspired man" [HC/R/Ncmpc/Sp1cs]
+- o5: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o6: תָּרֵעוּ = H7489 רָעַע "properly, to spoil (literally…" [HVhj2mp]
+
+### I Chronicles 17:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o3: יָשַׁב = H3427 יָשַׁב "properly…" [HVqp3ms]
+- o4: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o5: בְּ/בֵית/וֹ = Hb "in" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc/Sp3ms]
+- o6: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o7: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o8: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o9: נָתָן = H5416 נָתָן "Nathan, the name of five Israelites" [HNp]
+- o10: הַ/נָּבִיא = Hd "the" + H5030 נָבִיא "a prophet or (generally) inspired man" [HTd/Ncmsa]
+- o11: הִנֵּה = H2009 הִנֵּה "lo!" [HTm]
+- o12: אָנֹכִי = H595 אָנֹכִי "I" [HPp1cs]
+- o13: יוֹשֵׁב = H3427 יָשַׁב "properly…" [HVqrmsa]
+- o14: בְּ/בֵית = Hb "in" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc]
+- o15: הָ/אֲרָזִים = Hd "the" + H730 אֶרֶז "a cedar tree (from the tenacity of its roots)" [HTd/Ncmpa]
+- o16: וַ/אֲרוֹן = Hc "and" + H727 אָרוֹן "a box" [HC/Ncbsc]
+- o17: בְּרִית = H1285 בְּרִית "a compact (because made by passing between pieces…" [HNcfsc]
+- o18: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o19: תַּחַת = H8478 תַּחַת "the bottom (as depressed)…" [HR]
+- o20: יְרִיעוֹת = H3407 יְרִיעָה "a hanging (as tremulous)" [HNcfpa]

@@ -919,3 +919,41 @@ Persian entries and current tags:
 - p23: در
 - p24: خواهد_کشید  → H398
 - p25: ؛
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 9:21 (context)
+
+- o1: מְנַשֶּׁה = H4519 מְנַשֶּׁה "Menashsheh, a grandson of Jacob…" [HNp]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: אֶפְרַיִם = H669 אֶפְרַיִם "Ephrajim, a son of Joseph…" [HNp]
+- o4: וְ/אֶפְרַיִם = Hc "and" + H669 אֶפְרַיִם "Ephrajim, a son of Joseph…" [HC/Np]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: מְנַשֶּׁה = H4519 מְנַשֶּׁה "Menashsheh, a grandson of Jacob…" [HNp]
+- o7: יַחְדָּו = H3162 יַחַד "properly, a unit, i.e. (adverb) unitedly" [HD]
+- o8: הֵמָּה = H1992 הֵם "they (only used when emphatic)" [HPp3mp]
+- o9: עַל = H5921 עַל "above, over, upon…" [HR]
+- o10: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o11: בְּ/כָל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o12: זֹאת = H2063 זֹאת "this (often used adverb)" [HPdxfs]
+- o13: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o14: שָׁב = H7725 שׁוּב "to turn back (hence…" [HVqp3ms]
+- o15: אַפּ/וֹ = H639 אַף "properly, the nose or nostril…" [HNcmsc/Sp3ms]
+- o16: וְ/עוֹד = Hc "and" + H5750 עוֹד "properly, iteration or continuance…" [HC/D]
+- o17: יָד/וֹ = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsc/Sp3ms]
+- o18: נְטוּיָה = H5186 נָטָה "to stretch or spread out…" [HVqsfsa]
+
+### Isaiah 10:18 (context)
+
+- o1: וּ/כְבוֹד = Hc "and" + H3519 כָּבוֹד "properly, weight…" [HC/Ncbsc]
+- o2: יַעְר/וֹ = H3293 יַעַר "a copse of bushes; hence, a forest…" [HNcmsc/Sp3ms]
+- o3: וְ/כַרְמִלּ/וֹ = Hc "and" + H3759 כַּרְמֶל "a planted field (garden, orchard…" [HC/Ncmsc/Sp3ms]
+- o4: מִ/נֶּפֶשׁ = Hm "from" + H5315 נֶפֶשׁ "properly, a breathing creature…" [HR/Ncbsa]
+- o5: וְ/עַד = Hc "and" + H5704 עַד "as far (or long, or much) as…" [HC/R]
+- o6: בָּשָׂר = H1320 בָּשָׂר "flesh (from its freshness)…" [HNcmsa]
+- o7: יְכַלֶּה = H3615 כָּלָה "to end, whether intransitive (to cease…" [HVpi3ms]
+- o8: וְ/הָיָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3ms]
+- o9: כִּ/מְסֹס = Hk "like" + H4549 מָסַס "to liquefy…" [HR/Vqc]
+- o10: נֹסֵס = H5263 נָסַס "to wane, i.e. be sick" [HVqrmsa]

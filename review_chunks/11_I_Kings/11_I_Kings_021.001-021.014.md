@@ -856,3 +856,50 @@ Persian entries and current tags:
 - p12: مرد  → H4191
 - p13: .
 - p14: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 20:43 (context)
+
+- o1: וַ/יֵּלֶךְ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3ms]
+- o2: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o3: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o4: עַל = H5921 עַל "above, over, upon…" [HR]
+- o5: בֵּית/וֹ = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc/Sp3ms]
+- o6: סַר = H5620 סַר "peevish" [HAamsa]
+- o7: וְ/זָעֵף = Hc "and" + H2198 זָעֵף "angry" [HC/Aamsa]
+- o8: וַ/יָּבֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3ms]
+- o9: שֹׁמְרוֹנָ/ה = H8111 שֹׁמְרוֹן "Shomeron, a place in Palestine" [HNp/Sd]
+
+### I Kings 21:15 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: כִּ/שְׁמֹעַ = Hk "like" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HR/Vqc]
+- o3: אִיזֶבֶל = H348 אִיזֶבֶל "Izebel, the wife of king Ahab" [HNp]
+- o4: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o5: סֻקַּל = H5619 סָקַל "properly, to be weighty…" [HVPp3ms]
+- o6: נָבוֹת = H5022 נָבוֹת "Naboth, an Israelite" [HNp]
+- o7: וַ/יָּמֹת = Hc "and" + H4191 מוּת "to die (literally or figuratively)…" [HC/Vqw3ms]
+- o8: וַ/תֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3fs]
+- o9: אִיזֶבֶל = H348 אִיזֶבֶל "Izebel, the wife of king Ahab" [HNp]
+- o10: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o11: אַחְאָב = H256 אַחְאָב "Achab…" [HNp]
+- o12: קוּם = H6965 קוּם "to rise (in various applications, literal…" [HVqv2ms]
+- o13: רֵשׁ = H3423 יָרַשׁ "to occupy (by driving out previous tenants…" [HVqv2ms]
+- o14: אֶת = H853 אֵת "properly…" [HTo]
+- o15: כֶּרֶם = H3754 כֶּרֶם "a garden or vineyard" [HNcbsc]
+- o16: נָבוֹת = H5022 נָבוֹת "Naboth, an Israelite" [HNp]
+- o17: הַ/יִּזְרְעֵאלִי = Hd "the" + H3158 יִזְרְעֵאלִי "a Jizreelite or native of Jizreel" [HTd/Ngmsa]
+- o18: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o19: מֵאֵן = H3985 מָאֵן "to refuse" [HVpp3ms]
+- o20: לָ/תֶת = Hl "to" + H5414 נָתַן "to give…" [HR/Vqc]
+- o21: לְ/ךָ = Hl "to" [HR/Sp2ms]
+- o22: בְ/כֶסֶף = Hb "in" + H3701 כֶּסֶף "silver (from its pale color)…" [HR/Ncmsa]
+- o23: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o24: אֵין = H369 אַיִן "a non-entity…" [HTn]
+- o25: נָבוֹת = H5022 נָבוֹת "Naboth, an Israelite" [HNp]
+- o26: חַי = H2416 חַי "alive; hence, raw (flesh)…" [HAamsa]
+- o27: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o28: מֵת = H4191 מוּת "to die (literally or figuratively)…" [HVqp3ms]

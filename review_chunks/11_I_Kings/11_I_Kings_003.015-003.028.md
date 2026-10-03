@@ -870,3 +870,33 @@ Persian entries and current tags:
 - p26: برقرار
 - p27: کند
 - p28: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 3:14 (context)
+
+- o1: וְ/אִם = Hc "and" + H518 אִם "used very widely as demonstrative, lo!…" [HC/C]
+- o2: תֵּלֵךְ = H3212 יָלַךְ "to walk (literally or figuratively)…" [HVqi2ms]
+- o3: בִּ/דְרָכַ/י = Hb "in" + H1870 דֶּרֶךְ "a road (as trodden)…" [HR/Ncbpc/Sp1cs]
+- o4: לִ/שְׁמֹר = Hl "to" + H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HR/Vqc]
+- o5: חֻקַּ/י = H2706 חֹק "an enactment…" [HNcmpc/Sp1cs]
+- o6: וּ/מִצְוֺתַ/י = Hc "and" + H4687 מִצְוָה "a command, whether human or divine (collectively…" [HC/Ncfpc/Sp1cs]
+- o7: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o8: הָלַךְ = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVqp3ms]
+- o9: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o10: אָבִי/ךָ = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp2ms]
+- o11: וְ/הַאַרַכְתִּי = Hc "and" + H748 אָרַךְ "to be (causative…" [HC/Vhq1cs]
+- o12: אֶת = H853 אֵת "properly…" [HTo]
+- o13: יָמֶי/ךָ = H3117 יוֹם "a day (as the warm hours)…" [HNcmpc/Sp2ms]
+
+### I Kings 4:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o3: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o4: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsa]
+- o5: עַל = H5921 עַל "above, over, upon…" [HR]
+- o6: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o7: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]

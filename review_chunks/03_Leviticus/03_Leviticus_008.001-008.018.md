@@ -902,3 +902,39 @@ Persian entries and current tags:
 - p16: قوچ  → H352
 - p17: نهادند
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 7:38 (context)
+
+- o1: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o2: צִוָּה = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp3ms]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o6: בְּ/הַר = Hb "in" + H2022 הַר "a mountain or range of hills (sometimes used…" [HR/Ncmsc]
+- o7: סִינָי = H5514 סִינַי "Sinai, mountain of Arabia" [HNp]
+- o8: בְּ/יוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmsc]
+- o9: צַוֺּת/וֹ = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpc/Sp3ms]
+- o10: אֶת = H853 אֵת "properly…" [HTo]
+- o11: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o12: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o13: לְ/הַקְרִיב = Hl "to" + H7126 קָרַב "to approach (causatively…" [HR/Vhc]
+- o14: אֶת = H853 אֵת "properly…" [HTo]
+- o15: קָרְבְּנֵי/הֶם = H7133 קׇרְבָּן "something brought near the altar…" [HNcmpc/Sp3mp]
+- o16: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o17: בְּ/מִדְבַּר = Hb "in" + H4057 מִדְבָּר "a pasture (i.e. open field…" [HR/Ncmsc]
+- o18: סִינָי = H5514 סִינַי "Sinai, mountain of Arabia" [HNp]
+
+### Leviticus 8:19 (context)
+
+- o1: וַ/יִּשְׁחָט = Hc "and" + H7819 שָׁחַט "to slaughter (in sacrifice or massacre)" [HC/Vqw3ms]
+- o2: וַ/יִּזְרֹק = Hc "and" + H2236 זָרַק "to sprinkle (fluid or solid particles)" [HC/Vqw3ms]
+- o3: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: הַ/דָּם = Hd "the" + H1818 דָּם "blood (as that which when shed causes death) of…" [HTd/Ncmsa]
+- o6: עַל = H5921 עַל "above, over, upon…" [HR]
+- o7: הַ/מִּזְבֵּחַ = Hd "the" + H4196 מִזְבֵּחַ "an altar" [HTd/Ncmsa]
+- o8: סָבִיב = H5439 סָבִיב "as noun) a circle, neighbour, or environs…" [HNcbsa]

@@ -622,3 +622,32 @@ Persian entries and current tags:
 - p17: ایشان  → H3068
 - p18: است  → H3602
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 143:12 (context)
+
+- o1: וּ/בְ/חַסְדְּ/ךָ = Hc "and" + Hb "in" + H2617 חֵסֵד "kindness; by implication (towards God) piety…" [HC/R/Ncmsc/Sp2ms]
+- o2: תַּצְמִית = H6789 צָמַת "to extirpate (literally or figuratively)" [HVhi2ms]
+- o3: אֹיְבָ/י = H341 אֹיֵב "hating; an adversary" [HVqrmpc/Sp1cs]
+- o4: וְ/הַאֲבַדְתָּ = Hc "and" + H6 אָבַד "properly, to wander away, i.e. lose oneself…" [HC/Vhq2ms]
+- o5: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o6: צֹרֲרֵי = H6887 צָרַר "to cramp, literally or figuratively…" [HVqrmpc]
+- o7: נַפְשִׁ/י = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsc/Sp1cs]
+- o8: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o9: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o10: עַבְדֶּ/ךָ = H5650 עֶבֶד "a servant" [HNcmsc/Sp2ms]
+
+### Psalms 145:1 (context)
+
+- o1: תְּהִלָּה = H8416 תְּהִלָּה "laudation; specifically (concretely) a hymn" [HNcfsa]
+- o2: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o3: אֲרוֹמִמְ/ךָ = H7311 רוּם "to be high actively…" [HVoh1cs/Sp2ms]
+- o4: אֱלוֹהַ/י = H433 אֱלוֹהַּ "a deity or the Deity" [HNcmpc/Sp1cs]
+- o5: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o6: וַ/אֲבָרֲכָה = Hc "and" + H1288 בָרַךְ "to kneel…" [HC/Vph1cs]
+- o7: שִׁמְ/ךָ = H8034 שֵׁם "an appellation…" [HNcmsc/Sp2ms]
+- o8: לְ/עוֹלָם = Hl "to" + H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HR/Ncmsa]
+- o9: וָ/עֶד = Hc "and" + H5703 עַד "properly, a (peremptory) terminus…" [HC/Ncmsa]

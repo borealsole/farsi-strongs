@@ -843,3 +843,35 @@ Persian entries and current tags:
 - p36: باقی
 - p37: است
 - p38: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 2:37 (context)
+
+- o1: רַק = H7535 רַק "properly, leanness…" [HTa]
+- o2: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o3: אֶרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsc]
+- o4: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o5: עַמּוֹן = H5983 עַמּוֹן "Ammon, a son of Lot…" [HNp]
+- o6: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o7: קָרָבְתָּ = H7126 קָרַב "to approach (causatively…" [HVqp2ms]
+- o8: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o9: יַד = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsc]
+- o10: נַחַל = H5158 נַחַל "a stream, especially a winter torrent…" [HNcmsc]
+- o11: יַבֹּק = H2999 יַבֹּק "Jabbok, a river east of the Jordan" [HNp]
+- o12: וְ/עָרֵי = Hc "and" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HC/Ncfpc]
+- o13: הָ/הָר = Hd "the" + H2022 הַר "a mountain or range of hills (sometimes used…" [HTd/Ncmsa]
+- o14: וְ/כֹל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsa]
+- o15: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o16: צִוָּה = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp3ms]
+- o17: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o18: אֱלֹהֵי/נוּ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp1cp]
+
+### Deuteronomy 3:15 (context)
+
+- o1: וּ/לְ/מָכִיר = Hc "and" + Hl "to" + H4353 מָכִיר "Makir, an Israelite" [HC/R/Np]
+- o2: נָתַתִּי = H5414 נָתַן "to give…" [HVqp1cs]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: הַ/גִּלְעָד = Hd "the" + H1568 גִּלְעָד "Gilad, a region East of the Jordan…" [HTd/Np]

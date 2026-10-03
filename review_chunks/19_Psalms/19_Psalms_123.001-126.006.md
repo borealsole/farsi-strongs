@@ -856,3 +856,40 @@ Persian entries and current tags:
 - p20: را
 - p21: خواهد_آورد
 - p22: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 122:9 (context)
+
+- o1: לְמַעַן = H4616 מַעַן "properly, heed, i.e. purpose…" [HR]
+- o2: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֱלֹהֵי/נוּ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp1cp]
+- o5: אֲבַקְשָׁה = H1245 בָּקַשׁ "to search out (by any method…" [HVph1cs]
+- o6: טוֹב = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAamsa]
+- o7: לָ/ךְ = Hl "to" [HR/Sp2fs]
+
+### Psalms 127:1 (context)
+
+- o1: שִׁיר = H7892 שִׁיר "a song; abstractly, singing" [HNcbsc]
+- o2: הַ/מַּעֲלוֹת = Hd "the" + H4609 מַעֲלָה "elevation, i.e. the act (literally…" [HTd/Ncfpa]
+- o3: לִ/שְׁלֹמֹה = Hl "to" + H8010 שְׁלֹמֹה "Shelomah, David's successor" [HR/Np]
+- o4: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o5: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o6: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o7: יִבְנֶה = H1129 בָּנָה "to build (literally and figuratively)" [HVqi3ms]
+- o8: בַיִת = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsa]
+- o9: שָׁוְא = H7723 שָׁוְא "evil (as destructive)…" [HNcmsa]
+- o10: עָמְלוּ = H5998 עָמַל "to toil, i.e. work severely and with irksomeness" [HVqp3cp]
+- o11: בוֹנָי/ו = H1129 בָּנָה "to build (literally and figuratively)" [HVqrmpc/Sp3ms]
+- o12: בּ/וֹ = Hb "in" [HR/Sp3ms]
+- o13: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o14: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o15: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o16: יִשְׁמָר = H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HVqi3ms]
+- o17: עִיר = H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HNcfsa]
+- o18: שָׁוְא = H7723 שָׁוְא "evil (as destructive)…" [HNcmsa]
+- o19: שָׁקַד = H8245 שָׁקַד "to be alert, i.e. sleepless…" [HVqp3ms]
+- o20: שׁוֹמֵר = H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HVqrmsa]

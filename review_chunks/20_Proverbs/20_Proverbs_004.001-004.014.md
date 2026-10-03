@@ -537,3 +537,26 @@ Persian entries and current tags:
 - p10: گام
 - p11: مزن  → H833
 - p12: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 3:35 (context)
+
+- o1: כָּבוֹד = H3519 כָּבוֹד "properly, weight…" [HNcbsa]
+- o2: חֲכָמִים = H2450 חָכָם "wise, (i.e. intelligent, skilful or artful)" [HAampa]
+- o3: יִנְחָלוּ = H5157 נָחַל "to inherit (as a (figurative) mode of descent)…" [HVqi3mp]
+- o4: וּ/כְסִילִים = Hc "and" + H3684 כְּסִיל "properly, fat, i.e. (figuratively) stupid or silly" [HC/Ncmpa]
+- o5: מֵרִים = H7311 רוּם "to be high actively…" [HVhrmsa]
+- o6: קָלוֹן = H7036 קָלוֹן "disgrace; (by implication) the pudenda" [HNcmsa]
+
+### Proverbs 4:15 (context)
+
+- o1: פְּרָעֵ/הוּ = H6544 פָּרַע "to loosen; by implication, to expose, dismiss…" [HVqv2ms/Sp3ms]
+- o2: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o3: תַּעֲבָר = H5674 עָבַר "to cross over…" [HVqj2ms]
+- o4: בּ/וֹ = Hb "in" [HR/Sp3ms]
+- o5: שְׂטֵה = H7847 שָׂטָה "to deviate from duty" [HVqv2ms]
+- o6: מֵ/עָלָי/ו = Hm "from" + H5921 עַל "above, over, upon…" [HR/R/Sp3ms]
+- o7: וַ/עֲבוֹר = Hc "and" + H5674 עָבַר "to cross over…" [HC/Vqv2ms]

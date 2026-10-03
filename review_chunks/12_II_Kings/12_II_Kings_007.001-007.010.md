@@ -810,3 +810,36 @@ Persian entries and current tags:
 - p53: بودند‌
 - p54: .
 - p55: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 6:33 (context)
+
+- o1: עוֹדֶ/נּוּ = H5750 עוֹד "properly, iteration or continuance…" [HD/Sp3ms]
+- o2: מְדַבֵּר = H1696 דָבַר "perhaps properly, to arrange…" [HVprmsa]
+- o3: עִמָּ/ם = H5973 עִם "adverb or preposition…" [HR/Sp3mp]
+- o4: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o5: הַ/מַּלְאָךְ = Hd "the" + H4397 מֲלְאָךְ "a messenger…" [HTd/Ncmsa]
+- o6: יֹרֵד = H3381 יָרַד "to descend (literally, to go downwards…" [HVqrmsa]
+- o7: אֵלָי/ו = H413 אֵל "near, with or among; often in general, to" [HR/Sp3ms]
+- o8: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o9: הִנֵּה = H2009 הִנֵּה "lo!" [HTm]
+- o10: זֹאת = H2063 זֹאת "this (often used adverb)" [HPdxfs]
+- o11: הָ/רָעָה = Hd "the" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HTd/Ncfsa]
+- o12: מֵ/אֵת = Hm "from" + H854 אֵת "properly…" [HR/R]
+- o13: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o14: מָה = H4100 מָה "properly…" [HTi]
+- o15: אוֹחִיל = H3176 יָחַל "to wait; by implication, to be patient, hope" [HVhi1cs]
+- o16: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o17: עוֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+
+### II Kings 7:11 (context)
+
+- o1: וַ/יִּקְרָא = Hc "and" + H7121 קָרָא "to call out to (i.e. properly, address by name…" [HC/Vqw3ms]
+- o2: הַ/שֹּׁעֲרִים = Hd "the" + H7778 שׁוֹעֵר "a janitor" [HTd/Ncmpa]
+- o3: וַ/יַּגִּידוּ = Hc "and" + H5046 נָגַד "properly, to front…" [HC/Vhw3mp]
+- o4: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o5: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o6: פְּנִימָה = H6441 פְּנִימָה "faceward, i.e. indoors" [HD]

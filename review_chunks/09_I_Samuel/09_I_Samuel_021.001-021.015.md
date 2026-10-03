@@ -965,3 +965,33 @@ Persian entries and current tags:
 - p28: بیاید  → H935
 - p29: ؟
 - p30: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 20:42 (context)
+
+- o1: וַ/יָּקָם = Hc "and" + H6965 קוּם "to rise (in various applications, literal…" [HC/Vqw3ms]
+- o2: וַ/יֵּלַךְ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3ms]
+- o3: וִ/יהוֹנָתָן = Hc "and" + H3083 יְהוֹנָתָן "Jehonathan, the name of four Israelites" [HC/Np]
+- o4: בָּא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3ms]
+- o5: הָ/עִיר = Hd "the" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HTd/Ncfsa]
+
+### I Samuel 22:1 (context)
+
+- o1: וַ/יֵּלֶךְ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3ms]
+- o2: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o3: מִ/שָּׁם = Hm "from" + H8033 שָׁם "there (transferring to time) then…" [HR/D]
+- o4: וַ/יִּמָּלֵט = Hc "and" + H4422 מָלַט "properly, to be smooth…" [HC/VNw3ms]
+- o5: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o6: מְעָרַת = H4631 מְעָרָה "a cavern (as dark)" [HNcfsc]
+- o7: עֲדֻלָּם = H5725 עֲדֻלָּם "Adullam, a place in Palestine" [HNp]
+- o8: וַ/יִּשְׁמְעוּ = Hc "and" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HC/Vqw3mp]
+- o9: אֶחָי/ו = H251 אָח "a brother (used in the widest sense of literal…" [HNcmpc/Sp3ms]
+- o10: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o11: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o12: אָבִי/ו = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp3ms]
+- o13: וַ/יֵּרְדוּ = Hc "and" + H3381 יָרַד "to descend (literally, to go downwards…" [HC/Vqw3mp]
+- o14: אֵלָי/ו = H413 אֵל "near, with or among; often in general, to" [HR/Sp3ms]
+- o15: שָׁמָּ/ה = H8033 שָׁם "there (transferring to time) then…" [HD/Sd]

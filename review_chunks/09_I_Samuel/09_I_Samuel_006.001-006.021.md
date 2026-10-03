@@ -1315,3 +1315,45 @@ Persian entries and current tags:
 - p22: ببرید
 - p23: .
 - p24: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 5:12 (context)
+
+- o1: וְ/הָ/אֲנָשִׁים = Hc "and" + Hd "the" + H376 אִישׁ "a man as an individual or a male person…" [HC/Td/Ncmpa]
+- o2: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o3: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o4: מֵתוּ = H4191 מוּת "to die (literally or figuratively)…" [HVqp3cp]
+- o5: הֻכּוּ = H5221 נָכָה "to strike (lightly or severely…" [HVHp3cp]
+- o6: ב/עפלים = Hb "in" + H6076 עֹפֶל "a tumor; also a mound, i.e. fortress" [HRd/Ncmpa]
+- o7: וַ/תַּעַל = Hc "and" + H5927 עָלָה "to ascend…" [HC/Vqw3fs]
+- o8: שַׁוְעַת = H7775 שַׁוְעָה "a hallooing" [HNcfsc]
+- o9: הָ/עִיר = Hd "the" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HTd/Ncfsa]
+- o10: הַ/שָּׁמָיִם = Hd "the" + H8064 שָׁמַיִם "the sky (as aloft…" [HTd/Ncmpa]
+
+### I Samuel 7:1 (context)
+
+- o1: וַ/יָּבֹאוּ = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3mp]
+- o2: אַנְשֵׁי = H376 אִישׁ "a man as an individual or a male person…" [HNcmpc]
+- o3: קִרְיַת = H7157 קִרְיַת יְעָרִים "Kirjath-Jearim or Kirjath-Arim…" [HNp]
+- o4: יְעָרִים = H7157 קִרְיַת יְעָרִים "Kirjath-Jearim or Kirjath-Arim…" [HNp]
+- o5: וַ/יַּעֲלוּ = Hc "and" + H5927 עָלָה "to ascend…" [HC/Vhw3mp]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: אֲרוֹן = H727 אָרוֹן "a box" [HNcbsc]
+- o8: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o9: וַ/יָּבִאוּ = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vhw3mp]
+- o10: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o11: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o12: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o13: אֲבִינָדָב = H41 אֲבִינָדָב "Abinadab, the name of four Israelites" [HNp]
+- o14: בַּ/גִּבְעָה = Hb "in" + H1389 גִּבְעָה "a hillock" [HRd/Ncfsa]
+- o15: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o16: אֶלְעָזָר = H499 אֶלְעָזָר "Elazar, the name of seven Israelites" [HNp]
+- o17: בְּנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o18: קִדְּשׁוּ = H6942 קָדַשׁ "to be (causatively, make…" [HVpp3cp]
+- o19: לִ/שְׁמֹר = Hl "to" + H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HR/Vqc]
+- o20: אֶת = H853 אֵת "properly…" [HTo]
+- o21: אֲרוֹן = H727 אָרוֹן "a box" [HNcbsc]
+- o22: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]

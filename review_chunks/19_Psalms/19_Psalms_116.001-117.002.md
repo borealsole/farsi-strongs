@@ -707,3 +707,28 @@ Persian entries and current tags:
 - p14: .
 - p15: هَلِلویاه  → H1984 H3050
 - p16: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 115:18 (context)
+
+- o1: וַ/אֲנַחְנוּ = Hc "and" + H587 אֲנַחְנוּ "we" [HC/Pp1cp]
+- o2: נְבָרֵךְ = H1288 בָרַךְ "to kneel…" [HVpi1cp]
+- o3: יָהּ = H3050 יָהּ "Jah, the sacred name" [HNp]
+- o4: מֵ/עַתָּה = Hm "from" + H6258 עַתָּה "at this time, whether adverb…" [HR/D]
+- o5: וְ/עַד = Hc "and" + H5704 עַד "as far (or long, or much) as…" [HC/R]
+- o6: עוֹלָם = H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HNcmsa]
+- o7: הַלְלוּ = H1984 הָלַל "to be clear (orig. of sound…" [HVpv2mp]
+- o8: יָהּ = H3050 יָהּ "Jah, the sacred name" [HNp]
+
+### Psalms 118:1 (context)
+
+- o1: הוֹדוּ = H3034 יָדָה "physically, to throw (a stone…" [HVhv2mp]
+- o2: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o3: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o4: טוֹב = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAamsa]
+- o5: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o6: לְ/עוֹלָם = Hl "to" + H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HR/Ncmsa]
+- o7: חַסְדּ/וֹ = H2617 חֵסֵד "kindness; by implication (towards God) piety…" [HNcmsc/Sp3ms]

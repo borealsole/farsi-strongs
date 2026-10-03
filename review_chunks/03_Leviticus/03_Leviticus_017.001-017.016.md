@@ -929,3 +929,37 @@ Persian entries and current tags:
 - p17: خواهد_شد
 - p18: .
 - p19: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 16:34 (context)
+
+- o1: וְ/הָיְתָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3fs]
+- o2: זֹּאת = H2063 זֹאת "this (often used adverb)" [HPdxfs]
+- o3: לָ/כֶם = Hl "to" [HR/Sp2mp]
+- o4: לְ/חֻקַּת = Hl "to" + H2708 חֻקָּה "an enactment…" [HR/Ncbsc]
+- o5: עוֹלָם = H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HNcmsa]
+- o6: לְ/כַפֵּר = Hl "to" + H3722 כָּפַר "to cover (specifically with bitumen)…" [HR/Vpc]
+- o7: עַל = H5921 עַל "above, over, upon…" [HR]
+- o8: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o9: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o10: מִ/כָּל = Hm "from" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o11: חַטֹּאתָ/ם = H2403 חַטָּאָה "an offence (sometimes habitual sinfulness)…" [HNcfpc/Sp3mp]
+- o12: אַחַת = H259 אֶחָד "properly, united, i.e. one…" [HAcfsa]
+- o13: בַּ/שָּׁנָה = Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HRd/Ncfsa]
+- o14: וַ/יַּעַשׂ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3ms]
+- o15: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o16: צִוָּה = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp3ms]
+- o17: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o18: אֶת = H853 אֵת "properly…" [HTo]
+- o19: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+
+### Leviticus 18:1 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: לֵּ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

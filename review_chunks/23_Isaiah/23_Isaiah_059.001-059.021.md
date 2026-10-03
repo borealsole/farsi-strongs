@@ -1158,3 +1158,38 @@ Persian entries and current tags:
 - p54: فرمودۀ  → H559
 - p55: خداوند  → H3068
 - p56: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 58:14 (context)
+
+- o1: אָז = H227 אָז "at that time or place…" [HD]
+- o2: תִּתְעַנַּג = H6026 עָנַג "to be soft or pliable…" [HVti2ms]
+- o3: עַל = H5921 עַל "above, over, upon…" [HR]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: וְ/הִרְכַּבְתִּי/ךָ = Hc "and" + H7392 רָכַב "to ride (on an animal or in a vehicle)…" [HC/Vhq1cs/Sp2ms]
+- o6: עַל = H5921 עַל "above, over, upon…" [HR]
+- o7: בָּמֳותֵי = H1116 בָּמָה "an elevation" [HNcfpc]
+- o8: אָרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsa]
+- o9: וְ/הַאֲכַלְתִּי/ךָ = Hc "and" + H398 אָכַל "to eat (literally or figuratively)" [HC/Vhq1cs/Sp2ms]
+- o10: נַחֲלַת = H5159 נַחֲלָה "properly, something inherited…" [HNcfsc]
+- o11: יַעֲקֹב = H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HNp]
+- o12: אָבִי/ךָ = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp2ms]
+- o13: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o14: פִּי = H6310 פֶּה "the mouth (as the means of blowing)…" [HNcmsc]
+- o15: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o16: דִּבֵּר = H1696 דָבַר "perhaps properly, to arrange…" [HVpp3ms]
+
+### Isaiah 60:1 (context)
+
+- o1: קוּמִי = H6965 קוּם "to rise (in various applications, literal…" [HVqv2fs]
+- o2: אוֹרִי = H215 אוֹר "to be (causative…" [HVqv2fs]
+- o3: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o4: בָא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3ms]
+- o5: אוֹרֵ/ךְ = H216 אוֹר "illumination or (concrete) luminary (in every…" [HNcbsc/Sp2fs]
+- o6: וּ/כְבוֹד = Hc "and" + H3519 כָּבוֹד "properly, weight…" [HC/Ncbsc]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: עָלַיִ/ךְ = H5921 עַל "above, over, upon…" [HR/Sp2fs]
+- o9: זָרָח = H2224 זָרַח "properly, to irradiate (or shoot forth beams)…" [HVqp3ms]

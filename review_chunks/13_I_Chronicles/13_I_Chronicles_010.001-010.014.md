@@ -747,3 +747,38 @@ Persian entries and current tags:
 - p17: یَسا  → H3448
 - p18: سپرد  → H5437
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 9:44 (context)
+
+- o1: וּ/לְ/אָצֵל = Hc "and" + Hl "to" + H682 אָצֵל "Atsel, the name of an Israelite…" [HC/R/Np]
+- o2: שִׁשָּׁה = H8337 שֵׁשׁ "six (as an overplus beyond five or the fingers of…" [HAcmsa]
+- o3: בָנִים = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpa]
+- o4: וְ/אֵלֶּה = Hc "and" + H428 אֵלֶּה "these or those" [HC/Pdxcp]
+- o5: שְׁמוֹתָ/ם = H8034 שֵׁם "an appellation…" [HNcmpc/Sp3mp]
+- o6: עַזְרִיקָם = H5840 עַזְרִיקָם "Azrikam, the name of four Israelites" [HNp]
+- o7: בֹּכְרוּ = H1074 בֹּכְרוּ "Bokeru, an Israelite" [HNp]
+- o8: וְ/יִשְׁמָעֵאל = Hc "and" + H3458 יִשְׁמָעֵאל "Jishmael, the name of Abraham's oldest son…" [HC/Np]
+- o9: וּ/שְׁעַרְיָה = Hc "and" + H8187 שְׁעַרְיָה "Shearjah, an Israelite" [HC/Np]
+- o10: וְ/עֹבַדְיָה = Hc "and" + H5662 עֹבַדְיָה "Obadjah, the name of thirteen Israelites" [HC/Np]
+- o11: וְ/חָנָן = Hc "and" + H2605 חָנָן "Chanan, the name of seven Israelites" [HC/Np]
+- o12: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o13: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o14: אָצַל = H682 אָצֵל "Atsel, the name of an Israelite…" [HNp]
+
+### I Chronicles 11:1 (context)
+
+- o1: וַ/יִּקָּבְצוּ = Hc "and" + H6908 קָבַץ "to grasp, i.e. collect" [HC/VNw3mp]
+- o2: כָל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o4: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o5: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o6: חֶבְרוֹנָ/ה = H2275 חֶבְרוֹן "Chebron, a place in Palestine…" [HNp/Sd]
+- o7: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o8: הִנֵּה = H2009 הִנֵּה "lo!" [HTm]
+- o9: עַצְמְ/ךָ = H6106 עֶצֶם "a bone (as strong); by extension, the body…" [HNcfsc/Sp2ms]
+- o10: וּ/בְשָׂרְ/ךָ = Hc "and" + H1320 בָּשָׂר "flesh (from its freshness)…" [HC/Ncmsc/Sp2ms]
+- o11: אֲנָחְנוּ = H587 אֲנַחְנוּ "we" [HPp1cp]

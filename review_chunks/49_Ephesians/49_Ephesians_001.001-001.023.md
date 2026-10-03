@@ -1188,3 +1188,20 @@ Persian entries and current tags:
 - p13: همه  → G3956
 - p14: پر می‌سازد  → G4137
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ephesians 2:1 (context)
+
+- o1: Καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ὑμᾶς = G5210 ὑμεῖς "ye (yourselves), you" [P-2AP]
+- o3: ὄντας = G1510 εἰμί "am, have been, it is I, was" [V-PAP-APM]
+- o4: νεκροὺς = G3498 νεκρός "dead" [A-APM]
+- o5: τοῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPN]
+- o6: παραπτώμασιν = G3900 παράπτωμα "fall, fault, offence, sin, trespass" [N-DPN]
+- o7: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o8: ταῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPF]
+- o9: ἁμαρτίαις = G266 ἁμαρτία "offence, sin(-ful)" [N-DPF]
+- o10: ὑμῶν, = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]

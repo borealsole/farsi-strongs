@@ -816,3 +816,40 @@ Persian entries and current tags:
 - p21: ایشان  → G846
 - p22: گفت  → G3004
 - p23: :
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 19:30 (context)
+
+- o1: πολλοὶ = G4183 πολύς "abundant, + altogether, common, + far (passed…" [A-NPM]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: ἔσονται = G1510 εἰμί "am, have been, it is I, was" [V-FDI-3P]
+- o4: πρῶτοι = G4413 πρῶτος "before, beginning, best, chief(-est)…" [A-NPM-S]
+- o5: ἔσχατοι = G2078 ἔσχατος "ends of, last, latter end, lowest, uttermost" [A-NPM-S]
+- o6: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o7: ἔσχατοι = G2078 ἔσχατος "ends of, last, latter end, lowest, uttermost" [A-NPM-S]
+- o8: πρῶτοι. = G4413 πρῶτος "before, beginning, best, chief(-est)…" [A-NPM-S]
+
+### Matthew 20:18 (context)
+
+- o1: ἰδοὺ = G3708 ὁράω "behold, perceive, see, take heed" [V-2AMM-2S]
+- o2: ἀναβαίνομεν = G305 ἀναβαίνω "arise, ascend (up), climb (go, grow, rise…" [V-PAI-1P]
+- o3: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o4: Ἱεροσόλυμα, = G2414 Ἱεροσόλυμα "Jerusalem" [N-APN]
+- o5: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o6: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o7: υἱὸς = G5207 υἱός "child, foal, son" [N-NSM]
+- o8: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o9: ἀνθρώπου = G444 ἄνθρωπος "certain, man" [N-GSM]
+- o10: παραδοθήσεται = G3860 παραδίδωμι "betray, bring forth, cast, commit, deliver (up)…" [V-FPI-3S]
+- o11: τοῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPM]
+- o12: ἀρχιερεῦσιν = G749 ἀρχιερεύς "chief (high) priest, chief of the priests" [N-DPM]
+- o13: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o14: γραμματεῦσιν, = G1122 γραμματεύς "scribe, town-clerk" [N-DPM]
+- o15: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o16: κατακρινοῦσιν = G2632 κατακρίνω "condemn, damn" [V-FAI-3P]
+- o17: αὐτὸν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASM]
+- o18: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o19: θάνατον. = G2288 θάνατος "deadly, (be…) death" [N-ASM]

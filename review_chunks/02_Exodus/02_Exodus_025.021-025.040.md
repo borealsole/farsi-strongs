@@ -888,3 +888,47 @@ Persian entries and current tags:
 - p14: تو  → H859
 - p15: نشان داده_شد  → H7200
 - p16: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 25:20 (context)
+
+- o1: וְ/הָיוּ = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3cp]
+- o2: הַ/כְּרֻבִים = Hd "the" + H3742 כְּרוּב "a cherub or imaginary figure" [HTd/Ncmpa]
+- o3: פֹּרְשֵׂי = H6566 פָּרַשׂ "to break apart, disperse, etc" [HVqrmpc]
+- o4: כְנָפַיִם = H3671 כָּנָף "an edge or extremity…" [HNcfda]
+- o5: לְ/מַעְלָ/ה = Hl "to" + H4605 מַעַל "properly, the upper part…" [HR/D/Sd]
+- o6: סֹכְכִים = H5526 סָכַךְ "properly, to entwine as ascreen…" [HVqrmpa]
+- o7: בְּ/כַנְפֵי/הֶם = Hb "in" + H3671 כָּנָף "an edge or extremity…" [HR/Ncfdc/Sp3mp]
+- o8: עַל = H5921 עַל "above, over, upon…" [HR]
+- o9: הַ/כַּפֹּרֶת = Hd "the" + H3727 כַּפֹּרֶת "a lid (used only of the cover of the sacred Ark)" [HTd/Ncfsa]
+- o10: וּ/פְנֵי/הֶם = Hc "and" + H6440 פָּנִים "the face (as the part that turns)…" [HC/Ncbpc/Sp3mp]
+- o11: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o12: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o13: אָחִי/ו = H251 אָח "a brother (used in the widest sense of literal…" [HNcmsc/Sp3ms]
+- o14: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o15: הַ/כַּפֹּרֶת = Hd "the" + H3727 כַּפֹּרֶת "a lid (used only of the cover of the sacred Ark)" [HTd/Ncfsa]
+- o16: יִהְיוּ = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3mp]
+- o17: פְּנֵי = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc]
+- o18: הַ/כְּרֻבִים = Hd "the" + H3742 כְּרוּב "a cherub or imaginary figure" [HTd/Ncmpa]
+
+### Exodus 26:1 (context)
+
+- o1: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o2: הַ/מִּשְׁכָּן = Hd "the" + H4908 מִשְׁכָּן "a residence (including a shepherd's hut…" [HTd/Ncmsa]
+- o3: תַּעֲשֶׂה = H6213 עָשָׂה "to do or make…" [HVqi2ms]
+- o4: עֶשֶׂר = H6235 עֶשֶׂר "ten (as an accumulation to the extent of the…" [HAcfsa]
+- o5: יְרִיעֹת = H3407 יְרִיעָה "a hanging (as tremulous)" [HNcfpa]
+- o6: שֵׁשׁ = H8336 שֵׁשׁ "bleached stuff…" [HAcfsa]
+- o7: מָשְׁזָר = H7806 שָׁזַר "to twist (a thread of straw)" [HVHsmsa]
+- o8: וּ/תְכֵלֶת = Hc "and" + H8504 תְּכֵלֶת "the cerulean mussel…" [HC/Ncfsa]
+- o9: וְ/אַרְגָּמָן = Hc "and" + H713 אַרְגָּמָן "purple (the color or the dyed stuff)" [HC/Ncmsa]
+- o10: וְ/תֹלַעַת = Hc "and" + H8438 תּוֹלָע "the crimson-grub…" [HC/Ncfsc]
+- o11: שָׁנִי = H8144 שָׁנִי "crimson, properly, the insect or its color…" [HNcmsa]
+- o12: כְּרֻבִים = H3742 כְּרוּב "a cherub or imaginary figure" [HNcmpa]
+- o13: מַעֲשֵׂה = H4639 מַעֲשֶׂה "an action (good or bad); generally, a transaction…" [HNcmsc]
+- o14: חֹשֵׁב = H2803 חָשַׁב "properly, to plait or interpenetrate…" [HVqrmsa]
+- o15: תַּעֲשֶׂה = H6213 עָשָׂה "to do or make…" [HVqi2ms]
+- o16: אֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]

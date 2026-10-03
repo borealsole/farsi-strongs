@@ -902,3 +902,51 @@ Persian entries and current tags:
 - p14: بره  → G721
 - p15: نوشته_شده_بود
 - p16: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Revelation of John 20:15 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: εἴ = G1487 εἰ "forasmuch as, if, that, (al-)though, whether" [COND]
+- o3: τις = G5100 τὶς "a (kind of), any (man, thing, thing at all)…" [X-NSM]
+- o4: οὐχ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o5: εὑρέθη = G2147 εὑρίσκω "find, get, obtain, perceive, see" [V-API-3S]
+- o6: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o7: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o8: βίβλῳ = G976 βίβλος "book" [N-DSF]
+- o9: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o10: ζωῆς = G2222 ζωή "life(-time)" [N-GSF]
+- o11: γεγραμμένος = G1125 γράφω "describe, write(-ing, -ten)" [V-RPP-NSM]
+- o12: ἐβλήθη = G906 βάλλω "arise, cast (out), dung, lay, lie, pour, put (up)…" [V-API-3S]
+- o13: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o14: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o15: λίμνην = G3041 λίμνη "lake" [N-ASF]
+- o16: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
+- o17: πυρός. = G4442 πῦρ "fiery, fire" [N-GSN]
+
+### Revelation of John 21:15 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o3: λαλῶν = G2980 λαλέω "preach, say, speak (after), talk, tell, utter" [V-PAP-NSM]
+- o4: μετ’ = G3326 μετά "after(-ward), that he again, against, among, and…" [PREP]
+- o5: ἐμοῦ = G1473 ἐγώ "I, me" [P-1GS]
+- o6: εἶχεν = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-IAI-3S]
+- o7: μέτρον = G3358 μέτρον "measure" [N-ASN]
+- o8: κάλαμον = G2563 κάλαμος "pen, reed" [N-ASM]
+- o9: χρυσοῦν, = G5552 χρύσεος "of gold, golden" [A-ASM]
+- o10: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o11: μετρήσῃ = G3354 μετρέω "figuratively, to estimate:--measure, mete" [V-AAS-3S]
+- o12: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o13: πόλιν = G4172 πόλις "city" [N-ASF]
+- o14: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o15: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o16: πυλῶνας = G4440 πυλών "gate, porch" [N-APM]
+- o17: αὐτῆς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSF]
+- o18: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o19: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o20: τεῖχος = G5038 τεῖχος "wall" [N-ASN]
+- o21: αὐτῆς. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSF]

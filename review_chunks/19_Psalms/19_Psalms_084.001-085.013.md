@@ -959,3 +959,33 @@ Persian entries and current tags:
 - p10: مهیا
 - p11: خواهد_ساخت
 - p12: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 83:18 (context)
+
+- o1: וְ/יֵדְעוּ = Hc "and" + H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HC/Vqi3mp]
+- o2: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o3: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o4: שִׁמְ/ךָ = H8034 שֵׁם "an appellation…" [HNcmsc/Sp2ms]
+- o5: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o6: לְ/בַדֶּ/ךָ = Hl "to" + H905 בַּד "properly, separation…" [HR/Ncmsc/Sp2ms]
+- o7: עֶלְיוֹן = H5945 עֶלְיוֹן "an elevation, i.e. (adj.) lofty (compar.)…" [HAamsa]
+- o8: עַל = H5921 עַל "above, over, upon…" [HR]
+- o9: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o10: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+
+### Psalms 86:1 (context)
+
+- o1: תְּפִלָּה = H8605 תְּפִלָּה "intercession, supplication; by implication, a hymn" [HNcfsa]
+- o2: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o3: הַטֵּה = H5186 נָטָה "to stretch or spread out…" [HVhv2ms]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: אָזְנְ/ךָ = H241 אֹזֶן "broadness. i.e. (concrete) the ear (from its form…" [HNcfsc/Sp2ms]
+- o6: עֲנֵ/נִי = H6030 עָנָה "properly, to eye or (generally) to heed…" [HVqv2ms/Sp1cs]
+- o7: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o8: עָנִי = H6041 עָנִי "depressed, in mind or circumstances" [HAamsa]
+- o9: וְ/אֶבְיוֹן = Hc "and" + H34 אֶבְיוֹן "destitute" [HC/Aamsa]
+- o10: אָנִי = H589 אֲנִי "I" [HPp1cs]

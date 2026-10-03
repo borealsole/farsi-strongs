@@ -830,3 +830,45 @@ Persian entries and current tags:
 - p26: را  → H853
 - p27: خوار شمرد  → H959
 - p28: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 25:17 (context)
+
+- o1: וְ/אֵלֶּה = Hc "and" + H428 אֵלֶּה "these or those" [HC/Pdxcp]
+- o2: שְׁנֵי = H8141 שָׁנֶה "a year (as a revolution of time)" [HAcmdc]
+- o3: חַיֵּי = H2416 חַי "alive; hence, raw (flesh)…" [HNcmpc]
+- o4: יִשְׁמָעֵאל = H3458 יִשְׁמָעֵאל "Jishmael, the name of Abraham's oldest son…" [HNp]
+- o5: מְאַת = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcfsc]
+- o6: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o7: וּ/שְׁלֹשִׁים = Hc "and" + H7970 שְׁלוֹשִׁים "thirty; or (ordinal) thirtieth" [HC/Acbpa]
+- o8: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o9: וְ/שֶׁבַע = Hc "and" + H7651 שֶׁבַע "seven (as the sacred full one)…" [HC/Acfsa]
+- o10: שָׁנִים = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfpa]
+- o11: וַ/יִּגְוַע = Hc "and" + H1478 גָּוַע "to breathe out, i.e. (by implication) expire" [HC/Vqw3ms]
+- o12: וַ/יָּמָת = Hc "and" + H4191 מוּת "to die (literally or figuratively)…" [HC/Vqw3ms]
+- o13: וַ/יֵּאָסֶף = Hc "and" + H622 אָסַף "to gather for any purpose…" [HC/VNw3ms]
+- o14: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o15: עַמָּי/ו = H5971 עַם "a people (as a congregated unit)…" [HNcmpc/Sp3ms]
+
+### Genesis 26:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: רָעָב = H7458 רָעָב "hunger (more or less extensive)" [HNcmsa]
+- o3: בָּ/אָרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HRd/Ncbsa]
+- o4: מִ/לְּ/בַד = Hm "from" + Hl "to" + H905 בַּד "properly, separation…" [HR/R/Ncmsc]
+- o5: הָ/רָעָב = Hd "the" + H7458 רָעָב "hunger (more or less extensive)" [HTd/Ncmsa]
+- o6: הָ/רִאשׁוֹן = Hd "the" + H7223 רִאשׁוֹן "first, in place…" [HTd/Aomsa]
+- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o8: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o9: בִּ/ימֵי = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmpc]
+- o10: אַבְרָהָם = H85 אַבְרָהָם "Abraham, the later name of Abram" [HNp]
+- o11: וַ/יֵּלֶךְ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3ms]
+- o12: יִצְחָק = H3327 יִצְחָק "Jitschak (or Isaac), son of Abraham" [HNp]
+- o13: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o14: אֲבִימֶּלֶךְ = H40 אֲבִימֶלֶךְ "Abimelek…" [HNp]
+- o15: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o16: פְּלִשְׁתִּים = H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HNgmpa]
+- o17: גְּרָרָ/ה = H1642 גְּרָר "Gerar, a Philistine city" [HNp/Sd]

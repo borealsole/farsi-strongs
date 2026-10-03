@@ -878,3 +878,37 @@ Persian entries and current tags:
 - p27: حتماً
 - p28: کشته_شود  → H4191
 - p29: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 34:29 (context)
+
+- o1: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o2: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o3: צִוָּה = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp3ms]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: לְ/נַחֵל = Hl "to" + H5157 נָחַל "to inherit (as a (figurative) mode of descent)…" [HR/Vpc]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o8: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o9: בְּ/אֶרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o10: כְּנָעַן = H3667 כְּנַעַן "Kenaan, a son a Ham…" [HNp]
+
+### Numbers 35:18 (context)
+
+- o1: אוֹ = H176 אוֹ "desire (and so probably in Proverbs 31:4)…" [HC]
+- o2: בִּ/כְלִי = Hb "in" + H3627 כְּלִי "something prepared…" [HR/Ncmsc]
+- o3: עֵץ = H6086 עֵץ "a tree (from its firmness)…" [HNcmsa]
+- o4: יָד = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsa]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: יָמוּת = H4191 מוּת "to die (literally or figuratively)…" [HVqi3ms]
+- o7: בּ/וֹ = Hb "in" [HR/Sp3ms]
+- o8: הִכָּה/וּ = H5221 נָכָה "to strike (lightly or severely…" [HVhp3ms/Sp3ms]
+- o9: וַ/יָּמֹת = Hc "and" + H4191 מוּת "to die (literally or figuratively)…" [HC/Vqw3ms]
+- o10: רֹצֵחַ = H7523 רָצַח "properly, to dash in pieces…" [HVqrmsa]
+- o11: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o12: מוֹת = H4191 מוּת "to die (literally or figuratively)…" [HVqa]
+- o13: יוּמַת = H4191 מוּת "to die (literally or figuratively)…" [HVHi3ms]
+- o14: הָ/רֹצֵחַ = Hd "the" + H7523 רָצַח "properly, to dash in pieces…" [HTd/Vqrmsa]

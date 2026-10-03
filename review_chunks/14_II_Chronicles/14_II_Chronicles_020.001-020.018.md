@@ -1062,3 +1062,54 @@ Persian entries and current tags:
 - p22: را
 - p23: پرستش کردند  → H7812
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 19:11 (context)
+
+- o1: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o2: אֲמַרְיָהוּ = H568 אֲמַרְיָה "Amarjah, the name of nine Israelites" [HNp]
+- o3: כֹהֵן = H3548 כֹּהֵן "literally one officiating, a priest…" [HNcmsc]
+- o4: הָ/רֹאשׁ = Hd "the" + H7218 רֹאשׁ "the head (as most easily shaken)…" [HTd/Ncmsa]
+- o5: עֲלֵי/כֶם = H5921 עַל "above, over, upon…" [HR/Sp2mp]
+- o6: לְ/כֹל = Hl "to" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o7: דְּבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o8: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o9: וּ/זְבַדְיָהוּ = Hc "and" + H2069 זְבַדְיָה "Zebadjah, the name of nine Israelites" [HC/Np]
+- o10: בֶן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o11: יִשְׁמָעֵאל = H3458 יִשְׁמָעֵאל "Jishmael, the name of Abraham's oldest son…" [HNp]
+- o12: הַ/נָּגִיד = Hd "the" + H5057 נָגִיד "a commander (as occupying the front), civil…" [HTd/Ncmsa]
+- o13: לְ/בֵית = Hl "to" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc]
+- o14: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o15: לְ/כֹל = Hl "to" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o16: דְּבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o17: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o18: וְ/שֹׁטְרִים = Hc "and" + H7860 שֹׁטֵר "properly, a scribe…" [HC/Vqrmpa]
+- o19: הַ/לְוִיִּם = Hd "the" + H3881 לֵוִיִּי "a Levite or descendant of Levi" [HTd/Ngmpa]
+- o20: לִ/פְנֵי/כֶם = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp2mp]
+- o21: חִזְקוּ = H2388 חָזַק "to fasten upon…" [HVqv2mp]
+- o22: וַ/עֲשׂוּ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqv2mp]
+- o23: וִ/יהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqi3ms]
+- o24: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o25: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o26: הַ/טּוֹב = Hd "the" + H2896 טוֹב "good (as an adjective) in the widest sense…" [HTd/Aamsa]
+
+### II Chronicles 20:19 (context)
+
+- o1: וַ/יָּקֻמוּ = Hc "and" + H6965 קוּם "to rise (in various applications, literal…" [HC/Vqw3mp]
+- o2: הַ/לְוִיִּם = Hd "the" + H3881 לֵוִיִּי "a Levite or descendant of Levi" [HTd/Ngmpa]
+- o3: מִן = H4480 מִן "properly, a part of…" [HR]
+- o4: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o5: הַ/קְּהָתִים = Hd "the" + H6956 קֳהָתִי "a Kohathite (collectively) or descendants of…" [HTd/Ngmpa]
+- o6: וּ/מִן = Hc "and" + H4480 מִן "properly, a part of…" [HC/R]
+- o7: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o8: הַ/קָּרְחִים = Hd "the" + H7145 קׇרְחִי "a Korchite (collectively) or descendants of Korach" [HTd/Ngmpa]
+- o9: לְ/הַלֵּל = Hl "to" + H1984 הָלַל "to be clear (orig. of sound…" [HR/Vpc]
+- o10: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o11: אֱלֹהֵי = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc]
+- o12: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o13: בְּ/קוֹל = Hb "in" + H6963 קוֹל "a voice or sound" [HR/Ncmsa]
+- o14: גָּדוֹל = H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HAamsa]
+- o15: לְ/מָעְלָ/ה = Hl "to" + H4605 מַעַל "properly, the upper part…" [HR/D/Sd]

@@ -665,3 +665,29 @@ Persian entries and current tags:
 - p16: به
 - p17: عمل آورد  → H6213
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 33:29 (context)
+
+- o1: אַשְׁרֶי/ךָ = H835 אֶשֶׁר "happiness…" [HNcmpc/Sp2ms]
+- o2: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o3: מִי = H4310 מִי "who? (occasionally, by a peculiar idiom…" [HTi]
+- o4: כָמוֹ/ךָ = H3644 כְּמוֹ "a form of the prefix 'k-', but used separately as…" [HR/Sp2ms]
+- o5: עַם = H5971 עַם "a people (as a congregated unit)…" [HNcmsa]
+- o6: נוֹשַׁע = H3467 יָשַׁע "properly, to be open, wide or free…" [HVNp3ms]
+- o7: בַּ/יהוָה = Hb "in" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o8: מָגֵן = H4043 מָגֵן "a shield (i.e. the small one or buckler)…" [HNcbsc]
+- o9: עֶזְרֶ/ךָ = H5828 עֵזֶר "aid" [HNcmsc/Sp2ms]
+- o10: וַ/אֲשֶׁר = Hc "and" + H834 אֲשֶׁר "who, which, what, that…" [HC/Tr]
+- o11: חֶרֶב = H2719 חֶרֶב "drought…" [HNcfsc]
+- o12: גַּאֲוָתֶ/ךָ = H1346 גַּאֲוָה "arrogance or majesty…" [HNcfsc/Sp2ms]
+- o13: וְ/יִכָּחֲשׁוּ = Hc "and" + H3584 כָּחַשׁ "to be untrue, in word (to lie, feign…" [HC/VNi3mp]
+- o14: אֹיְבֶי/ךָ = H341 אֹיֵב "hating; an adversary" [HVqrmpc/Sp2ms]
+- o15: לָ/ךְ = Hl "to" [HR/Sp2fs]
+- o16: וְ/אַתָּה = Hc "and" + H859 אַתָּה "thou and thee, or (plural) ye and you" [HC/Pp2ms]
+- o17: עַל = H5921 עַל "above, over, upon…" [HR]
+- o18: בָּמוֹתֵי/מוֹ = H1116 בָּמָה "an elevation" [HNcfpc/Sp3mp]
+- o19: תִדְרֹךְ = H1869 דָּרַךְ "to tread; by implication, to walk…" [HVqi2ms]

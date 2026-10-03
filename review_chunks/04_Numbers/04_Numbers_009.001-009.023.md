@@ -1215,3 +1215,32 @@ Persian entries and current tags:
 - p25: ،
 - p26: نگاه می‌داشتند  → H8104
 - p27: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 8:26 (context)
+
+- o1: וְ/שֵׁרֵת = Hc "and" + H8334 שָׁרַת "to attend as a menial or worshipper…" [HC/Vpq3ms]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: אֶחָי/ו = H251 אָח "a brother (used in the widest sense of literal…" [HNcmpc/Sp3ms]
+- o4: בְּ/אֹהֶל = Hb "in" + H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HR/Ncmsc]
+- o5: מוֹעֵד = H4150 מוֹעֵד "properly, an appointment…" [HNcmsa]
+- o6: לִ/שְׁמֹר = Hl "to" + H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HR/Vqc]
+- o7: מִשְׁמֶרֶת = H4931 מִשְׁמֶרֶת "watch, i.e. the act (custody)…" [HNcfsa]
+- o8: וַ/עֲבֹדָה = Hc "and" + H5656 עֲבֹדָה "work of any kind" [HC/Ncfsa]
+- o9: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o10: יַעֲבֹד = H5647 עָבַד "to work (in any sense)…" [HVqi3ms]
+- o11: כָּכָה = H3602 כָּכָה "just so…" [HD]
+- o12: תַּעֲשֶׂה = H6213 עָשָׂה "to do or make…" [HVqi2ms]
+- o13: לַ/לְוִיִּם = Hl "to" + H3881 לֵוִיִּי "a Levite or descendant of Levi" [HRd/Ngmpa]
+- o14: בְּ/מִשְׁמְרֹתָ/ם = Hb "in" + H4931 מִשְׁמֶרֶת "watch, i.e. the act (custody)…" [HR/Ncfpc/Sp3mp]
+
+### Numbers 10:1 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: לֵּ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

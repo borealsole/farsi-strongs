@@ -1178,3 +1178,46 @@ Persian entries and current tags:
 - p49: فرمودۀ  → H5002
 - p50: خداوند  → H3068
 - p51: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 30:24 (context)
+
+- o1: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o2: יָשׁוּב = H7725 שׁוּב "to turn back (hence…" [HVqi3ms]
+- o3: חֲרוֹן = H2740 חָרוֹן "a burning of anger" [HNcmsc]
+- o4: אַף = H639 אַף "properly, the nose or nostril…" [HTa]
+- o5: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o6: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o7: עֲשֹׂת/וֹ = H6213 עָשָׂה "to do or make…" [HVqc/Sp3ms]
+- o8: וְ/עַד = Hc "and" + H5704 עַד "as far (or long, or much) as…" [HC/R]
+- o9: הֲקִימ/וֹ = H6965 קוּם "to rise (in various applications, literal…" [HVhc/Sp3ms]
+- o10: מְזִמּוֹת = H4209 מְזִמָּה "a plan, usually evil (machination)…" [HNcfpc]
+- o11: לִבּ/וֹ = H3820 לֵב "the heart…" [HNcmsc/Sp3ms]
+- o12: בְּ/אַחֲרִית = Hb "in" + H319 אַחֲרִית "the last or end, hence, the future; also posterity" [HR/Ncfsc]
+- o13: הַ/יָּמִים = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmpa]
+- o14: תִּתְבּוֹנְנוּ = H995 בִּין "to separate mentally (or distinguish)…" [HVri2mp]
+- o15: בָ/הּ = Hb "in" [HR/Sp3fs]
+
+### Jeremiah 31:21 (context)
+
+- o1: הַצִּיבִי = H5324 נָצַב "to station…" [HVhv2fs]
+- o2: לָ/ךְ = Hl "to" [HR/Sp2fs]
+- o3: צִיֻּנִים = H6725 צִיּוּן "a monumental or guiding pillar" [HNcmpa]
+- o4: שִׂמִי = H7760 שׂוּם "to put (used in a great variety of applications…" [HVqv2fs]
+- o5: לָ/ךְ = Hl "to" [HR/Sp2fs]
+- o6: תַּמְרוּרִים = H8564 תַּמְרוּר "an erection…" [HNcmpa]
+- o7: שִׁתִי = H7896 שִׁית "to place (in a very wide application)" [HVqv2fs]
+- o8: לִבֵּ/ךְ = H3820 לֵב "the heart…" [HNcmsc/Sp2fs]
+- o9: לַ/מְסִלָּה = Hl "to" + H4546 מְסִלָּה "a thoroughfare (as turnpiked)…" [HRd/Ncfsa]
+- o10: דֶּרֶךְ = H1870 דֶּרֶךְ "a road (as trodden)…" [HNcbsa]
+- o11: הלכתי = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVqp2fs]
+- o12: שׁוּבִי = H7725 שׁוּב "to turn back (hence…" [HVqv2fs]
+- o13: בְּתוּלַת = H1330 בְּתוּלָה "a virgin (from her privacy)…" [HNcfsc]
+- o14: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o15: שֻׁבִי = H7725 שׁוּב "to turn back (hence…" [HVqv2fs]
+- o16: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o17: עָרַיִ/ךְ = H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HNcfpc/Sp2fs]
+- o18: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]

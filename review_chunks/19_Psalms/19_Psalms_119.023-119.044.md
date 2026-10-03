@@ -717,3 +717,25 @@ Persian entries and current tags:
 - p7: تا
 - p8: ابدالآباد  → H5703
 - p9: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 119:22 (context)
+
+- o1: גַּל = H1556 גָּלַל "to roll (literally or figuratively)" [HVpv2ms]
+- o2: מֵ/עָלַ/י = Hm "from" + H5921 עַל "above, over, upon…" [HR/R/Sp1cs]
+- o3: חֶרְפָּה = H2781 חֶרְפָּה "contumely, disgrace, the pudenda" [HNcfsa]
+- o4: וָ/בוּז = Hc "and" + H937 בּוּז "disrespect" [HC/Ncmsa]
+- o5: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o6: עֵדֹתֶי/ךָ = H5713 עֵדָה "testimony" [HNcfpc/Sp2ms]
+- o7: נָצָרְתִּי = H5341 נָצַר "to guard, in a good sense (to protect, maintain…" [HVqp1cs]
+
+### Psalms 119:45 (context)
+
+- o1: וְ/אֶתְהַלְּכָה = Hc "and" + H1980 הָלַךְ "to walk (in a great variety of applications…" [HC/Vth1cs]
+- o2: בָ/רְחָבָה = Hb "in" + H7342 רָחָב "roomy, in any (or every) direction…" [HRd/Aafsa]
+- o3: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o4: פִקֻּדֶי/ךָ = H6490 פִּקּוּד "properly, appointed, i.e. a mandate (of God…" [HNcmpc/Sp2ms]
+- o5: דָרָשְׁתִּי = H1875 דָּרַשׁ "properly, to tread or frequent…" [HVqp1cs]

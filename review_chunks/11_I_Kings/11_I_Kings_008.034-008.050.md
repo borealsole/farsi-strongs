@@ -1128,3 +1128,41 @@ Persian entries and current tags:
 - p34: رحم  → H7356 H7355
 - p35: نمایند
 - p36: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 8:33 (context)
+
+- o1: בְּ/הִנָּגֵף = Hb "in" + H5062 נָגַף "to push, gore, defeat, stub (the toe)…" [HR/VNc]
+- o2: עַמְּ/ךָ = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp2ms]
+- o3: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o4: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o5: אוֹיֵב = H341 אֹיֵב "hating; an adversary" [HVqrmsa]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: יֶחֶטְאוּ = H2398 חָטָא "properly, to miss…" [HVqi3mp]
+- o8: לָ/ךְ = Hl "to" [HR/Sp2fs]
+- o9: וְ/שָׁבוּ = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqq3cp]
+- o10: אֵלֶי/ךָ = H413 אֵל "near, with or among; often in general, to" [HR/Sp2ms]
+- o11: וְ/הוֹדוּ = Hc "and" + H3034 יָדָה "physically, to throw (a stone…" [HC/Vhq3cp]
+- o12: אֶת = H853 אֵת "properly…" [HTo]
+- o13: שְׁמֶ/ךָ = H8034 שֵׁם "an appellation…" [HNcmsc/Sp2ms]
+- o14: וְ/הִתְפַּלְלוּ = Hc "and" + H6419 פָּלַל "to judge (officially or mentally)…" [HC/Vtq3cp]
+- o15: וְ/הִתְחַנְּנוּ = Hc "and" + H2603 חָנַן "properly…" [HC/Vtq3cp]
+- o16: אֵלֶי/ךָ = H413 אֵל "near, with or among; often in general, to" [HR/Sp2ms]
+- o17: בַּ/בַּיִת = Hb "in" + H1004 בַּיִת "a house (in the greatest variation of…" [HRd/Ncmsa]
+- o18: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+
+### I Kings 8:51 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: עַמְּ/ךָ = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp2ms]
+- o3: וְ/נַחֲלָתְ/ךָ = Hc "and" + H5159 נַחֲלָה "properly, something inherited…" [HC/Ncfsc/Sp2ms]
+- o4: הֵם = H1992 הֵם "they (only used when emphatic)" [HPp3mp]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: הוֹצֵאתָ = H3318 יָצָא "to go (causatively, bring) out…" [HVhp2ms]
+- o7: מִ/מִּצְרַיִם = Hm "from" + H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HR/Np]
+- o8: מִ/תּוֹךְ = Hm "from" + H8432 תָּוֶךְ "a bisection, i.e. (by implication) the centre" [HR/Ncmsc]
+- o9: כּוּר = H3564 כּוּר "a pot or furnace (as if excavated)" [HNcmsc]
+- o10: הַ/בַּרְזֶל = Hd "the" + H1270 בַּרְזֶל "iron (as cutting); by extension, an iron implement" [HTd/Ncmsa]

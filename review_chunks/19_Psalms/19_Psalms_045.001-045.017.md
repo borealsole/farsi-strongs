@@ -713,3 +713,33 @@ Persian entries and current tags:
 - p21: تا
 - p22: ابدالآباد  → H5703
 - p23: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 44:26 (context)
+
+- o1: קוּמָ/ה = H6965 קוּם "to rise (in various applications, literal…" [HVqv2ms/Sh]
+- o2: עֶזְרָתָ/ה = H5833 עֶזְרָה "aid" [HNcfsc/Sh]
+- o3: לָּ/נוּ = Hl "to" [HR/Sp1cp]
+- o4: וּ/פְדֵ/נוּ = Hc "and" + H6299 פָּדָה "to sever, i.e. ransom; gener. to release, preserve" [HC/Vqv2ms/Sp1cp]
+- o5: לְמַעַן = H4616 מַעַן "properly, heed, i.e. purpose…" [HR]
+- o6: חַסְדֶּ/ךָ = H2617 חֵסֵד "kindness; by implication (towards God) piety…" [HNcmsc/Sp2ms]
+
+### Psalms 46:1 (context)
+
+- o1: לַ/מְנַצֵּחַ = Hl "to" + H5329 נָצַח "properly, to glitter from afar…" [HRd/Vprmsa]
+- o2: לִ/בְנֵי = Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmpc]
+- o3: קֹרַח = H7141 קֹרַח "Korach…" [HNp]
+- o4: עַל = H5921 עַל "above, over, upon…" [HR]
+- o5: עֲלָמוֹת = H5961 עֲלָמוֹת "properly, girls, i.e. the soprano or female voice…" [HNcfpa]
+- o6: שִׁיר = H7892 שִׁיר "a song; abstractly, singing" [HNcbsa]
+- o7: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o8: לָ/נוּ = Hl "to" [HR/Sp1cp]
+- o9: מַחֲסֶה = H4268 מַחֲסֶה "a shelter (literally or figuratively)" [HNcmsa]
+- o10: וָ/עֹז = Hc "and" + H5797 עֹז "strength in various applications (force, security…" [HC/Ncmsa]
+- o11: עֶזְרָה = H5833 עֶזְרָה "aid" [HNcfsa]
+- o12: בְ/צָרוֹת = Hb "in" + H6869 צָרָה "tightness (i.e. figuratively, trouble)…" [HR/Ncfpa]
+- o13: נִמְצָא = H4672 מָצָא "properly, to come forth to, i.e. appear or exist…" [HVNrmsa]
+- o14: מְאֹד = H3966 מְאֹד "properly, vehemence…" [HD]

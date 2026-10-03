@@ -1226,3 +1226,31 @@ Persian entries and current tags:
 - p16: پیش
 - p17: گرفت
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 23:30 (context)
+
+- o1: וַ/יַּעַשׂ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3ms]
+- o2: בָּלָק = H1111 בָּלָק "Balak, a Moabitish king" [HNp]
+- o3: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o4: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o5: בִּלְעָם = H1109 בִּלְעָם "Bilam, a Mesopotamian prophet…" [HNp]
+- o6: וַ/יַּעַל = Hc "and" + H5927 עָלָה "to ascend…" [HC/Vhw3ms]
+- o7: פָּר = H6499 פַּר "a bullock (apparently as breaking forth in wild…" [HNcmsa]
+- o8: וָ/אַיִל = Hc "and" + H352 אַיִל "properly, strength; hence, anything strong…" [HC/Ncmsa]
+- o9: בַּ/מִּזְבֵּחַ = Hb "in" + H4196 מִזְבֵּחַ "an altar" [HRd/Ncmsa]
+
+### Numbers 25:1 (context)
+
+- o1: וַ/יֵּשֶׁב = Hc "and" + H3427 יָשַׁב "properly…" [HC/Vqw3ms]
+- o2: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o3: בַּ/שִּׁטִּים = Hb "in" + H7851 שִׁטִּים "Shittim, a place East of the Jordan" [HRd/Np]
+- o4: וַ/יָּחֶל = Hc "and" + H2490 חָלַל "properly, to bore, i.e. (by implication) to wound…" [HC/Vhw3ms]
+- o5: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o6: לִ/זְנוֹת = Hl "to" + H2181 זָנָה "to commit adultery (usually of the female…" [HR/Vqc]
+- o7: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o8: בְּנוֹת = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfpc]
+- o9: מוֹאָב = H4124 מוֹאָב "Moab, an incestuous son of Lot…" [HNp]

@@ -721,3 +721,43 @@ Persian entries and current tags:
 - p16: برانید  → G1808
 - p17: .
 - p18: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Corinthians 4:21 (context)
+
+- o1: τί = G5101 τίς "every man, how (much), + no(-ne, thing)…" [I-ASN]
+- o2: θέλετε; = G2309 θέλω "desire, be disposed (forward), intend, list, love…" [V-PAI-2P]
+- o3: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o4: ῥάβδῳ = G4464 ῥάβδος "rod, sceptre, staff" [N-DSF]
+- o5: ἔλθω = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-2AAS-1S]
+- o6: πρὸς = G4314 πρός "about, according to , against, among, at…" [PREP]
+- o7: ὑμᾶς, = G5210 ὑμεῖς "ye (yourselves), you" [P-2AP]
+- o8: ἢ = G2228 ἤ "and, but (either), (n-)either, except it be…" [PRT]
+- o9: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o10: ἀγάπῃ = G26 ἀγάπη "(feast of) charity(-ably), dear, love" [N-DSF]
+- o11: πνεύματί = G4151 πνεῦμα "ghost, life, spirit(-ual, -ually), mind" [N-DSN]
+- o12: τε = G5037 τέ "also, and, both, even, then, whether" [PRT]
+- o13: πραΰτητος; = G4240 πραΰτης "meekness" [N-GSF]
+
+### I Corinthians 6:1 (context)
+
+- o1: Τολμᾷ = G5111 τολμάω "be bold, boldly, dare, durst" [V-PAI-3S]
+- o2: τις = G5100 τὶς "a (kind of), any (man, thing, thing at all)…" [X-NSM]
+- o3: ὑμῶν = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
+- o4: πρᾶγμα = G4229 πρᾶγμα "business, matter, thing, work" [N-ASN]
+- o5: ἔχων = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAP-NSM]
+- o6: πρὸς = G4314 πρός "about, according to , against, among, at…" [PREP]
+- o7: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o8: ἕτερον = G2087 ἕτερος "altered, else, next (day), one, (an-)other, some…" [A-ASM]
+- o9: κρίνεσθαι = G2919 κρίνω "avenge, conclude, condemn, damn, decree…" [V-PPN]
+- o10: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o11: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o12: ἀδίκων, = G94 ἄδικος "unjust, unrighteous" [A-GPM]
+- o13: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o14: οὐχὶ = G3780 οὐχί "nay, not" [PRT-I]
+- o15: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o16: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o17: ἁγίων; = G40 ἅγιος "(most) holy (one, thing), saint" [A-GPM]

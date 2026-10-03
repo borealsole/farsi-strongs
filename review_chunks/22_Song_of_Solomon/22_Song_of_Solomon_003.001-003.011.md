@@ -565,3 +565,44 @@ Persian entries and current tags:
 - p29: شادیِ  → H8057
 - p30: دلش  → H3820
 - p31: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Song of Solomon 2:17 (context)
+
+- o1: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o2: שֶׁ/יָּפוּחַ = Hs "which" + H6315 פּוּחַ "to puff, i.e. blow with the breath or air…" [HTr/Vqi3ms]
+- o3: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o4: וְ/נָסוּ = Hc "and" + H5127 נוּס "to flit, i.e. vanish away (subside, escape…" [HC/Vqq3cp]
+- o5: הַ/צְּלָלִים = Hd "the" + H6752 צֵלֶל "shade" [HTd/Ncmpa]
+- o6: סֹב = H5437 סָבַב "to revolve, surround, or border…" [HVqv2ms]
+- o7: דְּמֵה = H1819 דָּמָה "to compare…" [HVqv2ms]
+- o8: לְ/ךָ = Hl "to" [HR/Sp2ms]
+- o9: דוֹדִ/י = H1730 דּוֹד "figuratively) to love…" [HNcmsc/Sp1cs]
+- o10: לִ/צְבִי = Hl "to" + H6643 צְבִי "splendor (as conspicuous)…" [HR/Ncbsa]
+- o11: אוֹ = H176 אוֹ "desire (and so probably in Proverbs 31:4)…" [HC]
+- o12: לְ/עֹפֶר = Hl "to" + H6082 עֹפֶר "a fawn (from the dusty color)" [HR/Ncmsc]
+- o13: הָ/אַיָּלִים = Hd "the" + H354 אַיָּל "a stag or male deer" [HTd/Ncbpa]
+- o14: עַל = H5921 עַל "above, over, upon…" [HR]
+- o15: הָרֵי = H2022 הַר "a mountain or range of hills (sometimes used…" [HNcmpc]
+- o16: בָתֶר = H1336 בֶּתֶר "Bether, a (craggy) place in Palestine" [HNcmpa]
+
+### Song of Solomon 4:1 (context)
+
+- o1: הִנָּ/ךְ = H2005 הֵן "lo!; also (as expressing surprise) if" [HTm/Sp2fs]
+- o2: יָפָה = H3303 יָפֶה "beautiful (literally or figuratively)" [HAafsa]
+- o3: רַעְיָתִ/י = H7474 רַעְיָה "a female associate" [HNcfsc/Sp1cs]
+- o4: הִנָּ/ךְ = H2005 הֵן "lo!; also (as expressing surprise) if" [HTm/Sp2fs]
+- o5: יָפָה = H3303 יָפֶה "beautiful (literally or figuratively)" [HAafsa]
+- o6: עֵינַיִ/ךְ = H5869 עַיִן "an eye (literally or figuratively)…" [HNcbdc/Sp2fs]
+- o7: יוֹנִים = H3123 יוֹנָה "a dove (apparently from the warmth of their…" [HNcfpa]
+- o8: מִ/בַּעַד = Hm "from" + H1157 בְּעַד "in up to or over against…" [HR/R]
+- o9: לְ/צַמָּתֵ/ךְ = Hl "to" + H6777 צַמָּה "a veil" [HR/Ncfsc/Sp2fs]
+- o10: שַׂעְרֵ/ךְ = H8181 שֵׂעָר "hair (as if tossed or bristling)" [HNcmsc/Sp2fs]
+- o11: כְּ/עֵדֶר = Hk "like" + H5739 עֵדֶר "an arrangement, i.e. muster (of animals)" [HR/Ncmsc]
+- o12: הָ/עִזִּים = Hd "the" + H5795 עֵז "a she-goat (as strong)…" [HTd/Ncfpa]
+- o13: שֶׁ/גָּלְשׁוּ = Hs "which" + H1570 גָּלַשׁ "probably to caper (as a goat)" [HTr/Vqp3cp]
+- o14: מֵ/הַר = Hm "from" + H2022 הַר "a mountain or range of hills (sometimes used…" [HR/Ncmsc]
+- o15: גִּלְעָד = H1568 גִּלְעָד "Gilad, a region East of the Jordan…" [HNp]

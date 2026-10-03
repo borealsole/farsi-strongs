@@ -1050,3 +1050,43 @@ Persian entries and current tags:
 - p23: بدی  → H7451
 - p24: ؟
 - p25: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 17:19 (context)
+
+- o1: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o2: הַ/מְשָׁרְתִים = Hd "the" + H8334 שָׁרַת "to attend as a menial or worshipper…" [HTd/Vprmpa]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o5: מִ/לְּ/בַד = Hm "from" + Hl "to" + H905 בַּד "properly, separation…" [HR/R/Ncmsc]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: נָתַן = H5414 נָתַן "to give…" [HVqp3ms]
+- o8: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o9: בְּ/עָרֵי = Hb "in" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HR/Ncfpc]
+- o10: הַ/מִּבְצָר = Hd "the" + H4013 מִבְצָר "a fortification, castle, or fortified city…" [HTd/Ncmsa]
+- o11: בְּ/כָל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o12: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+
+### II Chronicles 18:18 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: לָ/כֵן = Hl "to" + H3651 כֵּן "properly, set upright…" [HR/D]
+- o3: שִׁמְעוּ = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqv2mp]
+- o4: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o5: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o6: רָאִיתִי = H7200 רָאָה "to see…" [HVqp1cs]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o9: יוֹשֵׁב = H3427 יָשַׁב "properly…" [HVqrmsa]
+- o10: עַל = H5921 עַל "above, over, upon…" [HR]
+- o11: כִּסְא/וֹ = H3678 כִּסֵּא "properly, covered, i.e. a throne (as canopied)" [HNcmsc/Sp3ms]
+- o12: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o13: צְבָא = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbsc]
+- o14: הַ/שָּׁמַיִם = Hd "the" + H8064 שָׁמַיִם "the sky (as aloft…" [HTd/Ncmpa]
+- o15: עֹמְדִים = H5975 עָמַד "to stand…" [HVqrmpa]
+- o16: עַל = H5921 עַל "above, over, upon…" [HR]
+- o17: יְמִינ/וֹ = H3225 יָמִין "the right hand or side (leg…" [HNcfsc/Sp3ms]
+- o18: וּ/שְׂמֹאל/וֹ = Hc "and" + H8040 שְׂמֹאול "properly, dark (as enveloped), i.e. the north…" [HC/Ncmsc/Sp3ms]

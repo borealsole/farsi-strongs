@@ -889,3 +889,49 @@ Persian entries and current tags:
 - p15: خداوند  → H3068
 - p16: می‌ترسید  → H1204
 - p17: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 21:15 (context)
+
+- o1: וַ/יִּשְׁלַח = Hc "and" + H7971 שָׁלַח "to send away, for…" [HC/Vqw3ms]
+- o2: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o3: מַלְאָךְ = H4397 מֲלְאָךְ "a messenger…" [HNcmsa]
+- o4: לִ/ירוּשָׁלִַם = Hl "to" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HR/Np]
+- o5: לְ/הַשְׁחִיתָ/הּ = Hl "to" + H7843 שָׁחַת "to decay…" [HR/Vhc/Sp3fs]
+- o6: וּ/כְ/הַשְׁחִית = Hc "and" + Hk "like" + H7843 שָׁחַת "to decay…" [HC/R/Vhc]
+- o7: רָאָה = H7200 רָאָה "to see…" [HVqp3ms]
+- o8: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o9: וַ/יִּנָּחֶם = Hc "and" + H5162 נָחַם "properly, to sigh, i.e. breathe strongly…" [HC/VNw3ms]
+- o10: עַל = H5921 עַל "above, over, upon…" [HR]
+- o11: הָ/רָעָה = Hd "the" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HTd/Ncfsa]
+- o12: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o13: לַ/מַּלְאָךְ = Hl "to" + H4397 מֲלְאָךְ "a messenger…" [HRd/Ncmsa]
+- o14: הַ/מַּשְׁחִית = Hd "the" + H7843 שָׁחַת "to decay…" [HTd/Vhrmsa]
+- o15: רַב = H7227 רַב "abundant (in quantity, size, age, number, rank…" [HAamsa]
+- o16: עַתָּה = H6258 עַתָּה "at this time, whether adverb…" [HD]
+- o17: הֶרֶף = H7503 רָפָה "to slacken (in many applications…" [HVhv2ms]
+- o18: יָדֶ/ךָ = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsc/Sp2ms]
+- o19: וּ/מַלְאַךְ = Hc "and" + H4397 מֲלְאָךְ "a messenger…" [HC/Ncmsc]
+- o20: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o21: עֹמֵד = H5975 עָמַד "to stand…" [HVqrmsa]
+- o22: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o23: גֹּרֶן = H1637 גֹּרֶן "a threshing-floor (as made even)…" [HNcbsc]
+- o24: אָרְנָן = H771 אׇרְנָן "Ornan, a Jebusite" [HNp]
+- o25: הַ/יְבוּסִי = Hd "the" + H2983 יְבוּסִי "a Jebusite or inhabitant of Jebus" [HTd/Ngmsa]
+
+### I Chronicles 22:1 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o3: זֶה = H2088 זֶה "the masculine demonstrative pronoun, this or that" [HPdxms]
+- o4: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o5: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o8: וְ/זֶה = Hc "and" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HC/Pdxms]
+- o9: מִּזְבֵּחַ = H4196 מִזְבֵּחַ "an altar" [HNcmsa]
+- o10: לְ/עֹלָה = Hl "to" + H5930 עֹלָה "a step or (collectively, stairs, as ascending)…" [HR/Ncfsa]
+- o11: לְ/יִשְׂרָאֵל = Hl "to" + H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HR/Np]

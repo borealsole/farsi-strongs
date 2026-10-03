@@ -978,3 +978,46 @@ Persian entries and current tags:
 - p16: به
 - p17: کمال نرسند  → G5048
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Hebrews 11:20 (context)
+
+- o1: πίστει = G4102 πίστις "assurance, belief, believe, faith, fidelity" [N-DSF]
+- o2: περὶ = G4012 περί "there-)about, above, against, at, on behalf of…" [PREP]
+- o3: μελλόντων = G3195 μέλλω "about, after that, be (almost), (that which is…" [V-PAP-GPN]
+- o4: εὐλόγησεν = G2127 εὐλογέω "bless, praise" [V-AAI-3S]
+- o5: Ἰσαὰκ = G2464 Ἰσαάκ "Isaac" [N-PRI]
+- o6: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o7: Ἰακὼβ = G2384 Ἰακώβ "also an Israelite:--Jacob" [N-PRI]
+- o8: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o9: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o10: Ἠσαῦ. = G2269 Ἠσαῦ "Esau" [N-PRI]
+
+### Hebrews 12:1 (context)
+
+- o1: Τοιγαροῦν = G5105 τοιγαροῦν "there-(where-)fore" [PRT]
+- o2: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o3: ἡμεῖς, = G2249 ἡμεῖς "us, we (ourselves)" [P-1NP]
+- o4: τοσοῦτον = G5118 τοσοῦτος "as large, so great (long, many, much), these many" [D-ASN]
+- o5: ἔχοντες = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAP-NPM]
+- o6: περικείμενον = G4029 περίκειμαι "be bound (compassed) with, hang about" [V-PNP-ASN]
+- o7: ἡμῖν = G2249 ἡμεῖς "us, we (ourselves)" [P-1DP]
+- o8: νέφος = G3509 νέφος "cloud" [N-ASN]
+- o9: μαρτύρων, = G3144 μάρτυς "martyr, record, witness" [N-GPM]
+- o10: ὄγκον = G3591 ὄγκος "weight" [N-ASM]
+- o11: ἀποθέμενοι = G659 ἀποτίθημι "cast off, lay apart (aside, down), put away (off)" [V-2AMP-NPM]
+- o12: πάντα = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-ASM]
+- o13: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o14: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o15: εὐπερίστατον = G2139 εὐπερίστατος "which doth so easily beset" [A-ASF]
+- o16: ἁμαρτίαν, = G266 ἁμαρτία "offence, sin(-ful)" [N-ASF]
+- o17: δι’ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o18: ὑπομονῆς = G5281 ὑπομονή "enduring, patience, patient continuance (waiting)" [N-GSF]
+- o19: τρέχωμεν = G5143 τρέχω "have course, run" [V-PAS-1P]
+- o20: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o21: προκείμενον = G4295 πρόκειμαι "be first, set before (forth)" [V-PNP-ASM]
+- o22: ἡμῖν = G2249 ἡμεῖς "us, we (ourselves)" [P-1DP]
+- o23: ἀγῶνα, = G73 ἀγών "conflict, contention, fight, race" [N-ASM]

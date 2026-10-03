@@ -836,3 +836,26 @@ Persian entries and current tags:
 - p28: در  → Hb
 - p29: ابر
 - p30: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 40:19 (context)
+
+- o1: וַ/יִּפְרֹשׂ = Hc "and" + H6566 פָּרַשׂ "to break apart, disperse, etc" [HC/Vqw3ms]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: הָ/אֹהֶל = Hd "the" + H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HTd/Ncmsa]
+- o4: עַל = H5921 עַל "above, over, upon…" [HR]
+- o5: הַ/מִּשְׁכָּן = Hd "the" + H4908 מִשְׁכָּן "a residence (including a shepherd's hut…" [HTd/Ncmsa]
+- o6: וַ/יָּשֶׂם = Hc "and" + H7760 שׂוּם "to put (used in a great variety of applications…" [HC/Vqw3ms]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: מִכְסֵה = H4372 מִכְסֶה "a covering, i.e. weatherboarding" [HNcmsc]
+- o9: הָ/אֹהֶל = Hd "the" + H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HTd/Ncmsa]
+- o10: עָלָי/ו = H5921 עַל "above, over, upon…" [HR/Sp3ms]
+- o11: מִ/לְ/מָעְלָ/ה = Hm "from" + Hl "to" + H4605 מַעַל "properly, the upper part…" [HR/R/D/Sd]
+- o12: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o13: צִוָּה = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp3ms]
+- o14: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o15: אֶת = H853 אֵת "properly…" [HTo]
+- o16: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]

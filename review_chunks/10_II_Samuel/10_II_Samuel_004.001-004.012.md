@@ -825,3 +825,42 @@ Persian entries and current tags:
 - p42: به
 - p43: خاک سپردند  → H6912
 - p44: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 3:39 (context)
+
+- o1: וְ/אָנֹכִי = Hc "and" + H595 אָנֹכִי "I" [HC/Pp1cs]
+- o2: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o3: רַךְ = H7390 רַךְ "tender (literally or figuratively)…" [HAamsa]
+- o4: וּ/מָשׁוּחַ = Hc "and" + H4886 מָשַׁח "to rub with oil, i.e. to anoint…" [HC/Vqsmsa]
+- o5: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsa]
+- o6: וְ/הָ/אֲנָשִׁים = Hc "and" + Hd "the" + H376 אִישׁ "a man as an individual or a male person…" [HC/Td/Ncmpa]
+- o7: הָ/אֵלֶּה = Hd "the" + H428 אֵלֶּה "these or those" [HTd/Pdxcp]
+- o8: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o9: צְרוּיָה = H6870 צְרוּיָה "Tserujah, an Israelitess" [HNp]
+- o10: קָשִׁים = H7186 קָשֶׁה "severe (in various applications)" [HAampa]
+- o11: מִמֶּ/נִּי = H4480 מִן "properly, a part of…" [HR/Sp1cs]
+- o12: יְשַׁלֵּם = H7999 שָׁלַם "to be safe (in mind, body or estate)…" [HVpj3ms]
+- o13: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o14: לְ/עֹשֵׂה = Hl "to" + H6213 עָשָׂה "to do or make…" [HR/Vqrmsc]
+- o15: הָ/רָעָה = Hd "the" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HTd/Ncfsa]
+- o16: כְּ/רָעָת/וֹ = Hk "like" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HR/Ncfsc/Sp3ms]
+
+### II Samuel 5:1 (context)
+
+- o1: וַ/יָּבֹאוּ = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3mp]
+- o2: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: שִׁבְטֵי = H7626 שֵׁבֶט "a scion, i.e. (literally) a stick (for punishing…" [HNcmpc]
+- o4: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o5: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o6: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o7: חֶבְרוֹנָ/ה = H2275 חֶבְרוֹן "Chebron, a place in Palestine…" [HNp/Sd]
+- o8: וַ/יֹּאמְרוּ = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3mp]
+- o9: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o10: הִנְ/נוּ = H2005 הֵן "lo!; also (as expressing surprise) if" [HTj/Sp1cp]
+- o11: עַצְמְ/ךָ = H6106 עֶצֶם "a bone (as strong); by extension, the body…" [HNcfsc/Sp2ms]
+- o12: וּ/בְשָׂרְ/ךָ = Hc "and" + H1320 בָּשָׂר "flesh (from its freshness)…" [HC/Ncmsc/Sp2ms]
+- o13: אֲנָחְנוּ = H587 אֲנַחְנוּ "we" [HPp1cp]

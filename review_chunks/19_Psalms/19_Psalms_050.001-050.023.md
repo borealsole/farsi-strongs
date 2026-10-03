@@ -857,3 +857,36 @@ Persian entries and current tags:
 - p23: نشان خواهم_داد  → H7200
 - p24: .
 - p25: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 49:20 (context)
+
+- o1: אָדָם = H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HNcmsa]
+- o2: בִּ/יקָר = Hb "in" + H3366 יְקָר "value, i.e. (concretely) wealth…" [HR/Ncmsa]
+- o3: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o4: יָבִין = H995 בִּין "to separate mentally (or distinguish)…" [HVqi3ms]
+- o5: נִמְשַׁל = H4911 מָשַׁל "to liken…" [HVNp3ms]
+- o6: כַּ/בְּהֵמוֹת = Hk "like" + H929 בְּהֵמָה "properly, a dumb beast…" [HRd/Ncfpa]
+- o7: נִדְמוּ = H1820 דָּמָה "to be dumb or silent; hence, to fail or perish…" [HVNp3cp]
+
+### Psalms 51:1 (context)
+
+- o1: בְּ/בוֹא = Hb "in" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HR/Vqc]
+- o2: אֵלָי/ו = H413 אֵל "near, with or among; often in general, to" [HR/Sp3ms]
+- o3: נָתָן = H5416 נָתָן "Nathan, the name of five Israelites" [HNp]
+- o4: הַ/נָּבִיא = Hd "the" + H5030 נָבִיא "a prophet or (generally) inspired man" [HTd/Ncmsa]
+- o5: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o6: בָּא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3ms]
+- o7: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o8: בַּת = H1339 בַּת־שֶׁבַע "Bath-Sheba, the mother of Solomon" [HNp]
+- o9: שָׁבַע = H1339 בַּת־שֶׁבַע "Bath-Sheba, the mother of Solomon" [HNp]
+- o10: חָנֵּ/נִי = H2603 חָנַן "properly…" [HVqv2ms/Sp1cs]
+- o11: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o12: כְּ/חַסְדֶּ/ךָ = Hk "like" + H2617 חֵסֵד "kindness; by implication (towards God) piety…" [HR/Ncmsc/Sp2ms]
+- o13: כְּ/רֹב = Hk "like" + H7230 רֹב "abundance (in any respect)" [HR/Ncbsc]
+- o14: רַחֲמֶי/ךָ = H7356 רַחַם "compassion (in the plural)…" [HNcmpc/Sp2ms]
+- o15: מְחֵה = H4229 מָחָה "properly, to stroke or rub…" [HVqv2ms]
+- o16: פְשָׁעָ/י = H6588 פֶּשַׁע "a revolt (national, moral or religious)" [HNcmpc/Sp1cs]

@@ -729,3 +729,39 @@ Persian entries and current tags:
 - p9: را  → H853
 - p10: آورد  → H3205
 - p11: ؛
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 10:32 (context)
+
+- o1: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o2: מִשְׁפְּחֹת = H4940 מִשְׁפָּחָה "a family, i.e. circle of relatives…" [HNcfpc]
+- o3: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o4: נֹחַ = H5146 נֹחַ "Noach, the patriarch of the flood" [HNp]
+- o5: לְ/תוֹלְדֹתָ/ם = Hl "to" + H8435 תּוֹלְדָה "plural only) descent, i.e. family…" [HR/Ncfpc/Sp3mp]
+- o6: בְּ/גוֹיֵ/הֶם = Hb "in" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HR/Ncmpc/Sp3mp]
+- o7: וּ/מֵ/אֵלֶּה = Hc "and" + Hm "from" + H428 אֵלֶּה "these or those" [HC/R/Pdxcp]
+- o8: נִפְרְדוּ = H6504 פָּרַד "to break through…" [HVNp3cp]
+- o9: הַ/גּוֹיִם = Hd "the" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HTd/Ncmpa]
+- o10: בָּ/אָרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HRd/Ncbsa]
+- o11: אַחַר = H310 אַחַר "properly, the hind part…" [HR]
+- o12: הַ/מַּבּוּל = Hd "the" + H3999 מַבּוּל "a deluge" [HTd/Ncmsa]
+
+### Genesis 11:17 (context)
+
+- o1: וַ/יְחִי = Hc "and" + H2421 חָיָה "to live, whether literally or figuratively…" [HC/Vqw3ms]
+- o2: עֵבֶר = H5677 עֵבֵר "Eber…" [HNp]
+- o3: אַחֲרֵי = H310 אַחַר "properly, the hind part…" [HR]
+- o4: הוֹלִיד/וֹ = H3205 יָלַד "to bear young; causatively, to beget…" [HVhc/Sp3ms]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: פֶּלֶג = H6389 פֶּלֶג "Peleg, a son of Shem" [HNp]
+- o7: שְׁלֹשִׁים = H7970 שְׁלוֹשִׁים "thirty; or (ordinal) thirtieth" [HAcbpa]
+- o8: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o9: וְ/אַרְבַּע = Hc "and" + H702 אַרְבַּע "four" [HC/Acfsa]
+- o10: מֵאוֹת = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbpa]
+- o11: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o12: וַ/יּוֹלֶד = Hc "and" + H3205 יָלַד "to bear young; causatively, to beget…" [HC/Vhw3ms]
+- o13: בָּנִים = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpa]
+- o14: וּ/בָנוֹת = Hc "and" + H1323 בַּת "a daughter (used in the same wide sense as other…" [HC/Ncfpa]

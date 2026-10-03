@@ -896,3 +896,42 @@ Persian entries and current tags:
 - p30: نعره  → H5414 H6963
 - p31: برمی‌کشند
 - p32: ؛
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 3:25 (context)
+
+- o1: נִשְׁכְּבָה = H7901 שָׁכַב "to lie down (for rest, sexual connection…" [HVqh1cp]
+- o2: בְּ/בָשְׁתֵּ/נוּ = Hb "in" + H1322 בֹּשֶׁת "shame (the feeling and the condition…" [HR/Ncfsc/Sp1cp]
+- o3: וּ/תְכַסֵּ/נוּ = Hc "and" + H3680 כָּסָה "properly, to plump, i.e. fill up hollows…" [HC/Vpi3fs/Sp1cp]
+- o4: כְּלִמָּתֵ/נוּ = H3639 כְּלִמָּה "disgrace" [HNcfsc/Sp1cp]
+- o5: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o6: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o7: אֱלֹהֵי/נוּ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp1cp]
+- o8: חָטָאנוּ = H2398 חָטָא "properly, to miss…" [HVqp1cp]
+- o9: אֲנַחְנוּ = H587 אֲנַחְנוּ "we" [HPp1cp]
+- o10: וַ/אֲבוֹתֵי/נוּ = Hc "and" + H1 אָב "father, in a literal and immediate…" [HC/Ncmpc/Sp1cp]
+- o11: מִ/נְּעוּרֵי/נוּ = Hm "from" + H5271 נָעוּר "only in plural collectively or emphatic form)…" [HR/Ncbpc/Sp1cp]
+- o12: וְ/עַד = Hc "and" + H5704 עַד "as far (or long, or much) as…" [HC/R]
+- o13: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o14: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o15: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o16: שָׁמַעְנוּ = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqp1cp]
+- o17: בְּ/קוֹל = Hb "in" + H6963 קוֹל "a voice or sound" [HR/Ncmsc]
+- o18: יְהֹוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o19: אֱלֹהֵי/נוּ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp1cp]
+
+### Jeremiah 4:17 (context)
+
+- o1: כְּ/שֹׁמְרֵי = Hk "like" + H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HR/Vqrmpc]
+- o2: שָׂדַי = H7704 שָׂדֶה "a field (as flat)" [HNcmsa]
+- o3: הָיוּ = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3cp]
+- o4: עָלֶי/הָ = H5921 עַל "above, over, upon…" [HR/Sp3fs]
+- o5: מִ/סָּבִיב = Hm "from" + H5439 סָבִיב "as noun) a circle, neighbour, or environs…" [HR/Ncbsa]
+- o6: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o7: אֹתִ/י = H853 אֵת "properly…" [HTo/Sp1cs]
+- o8: מָרָתָה = H4784 מָרָה "to be (causatively, make) bitter (or unpleasant)…" [HVqp3fs]
+- o9: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o10: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]

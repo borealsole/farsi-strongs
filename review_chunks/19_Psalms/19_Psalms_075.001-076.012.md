@@ -827,3 +827,35 @@ Persian entries and current tags:
 - p10: او
 - p11: ترسانند  → H3372
 - p12: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 74:23 (context)
+
+- o1: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o2: תִּשְׁכַּח = H7911 שָׁכַח "to mislay, i.e. to be oblivious of…" [HVqj2ms]
+- o3: קוֹל = H6963 קוֹל "a voice or sound" [HNcmsc]
+- o4: צֹרְרֶי/ךָ = H6887 צָרַר "to cramp, literally or figuratively…" [HVqrmpc/Sp2ms]
+- o5: שְׁאוֹן = H7588 שָׁאוֹן "uproar (as of rushing)…" [HNcmsc]
+- o6: קָמֶי/ךָ = H6965 קוּם "to rise (in various applications, literal…" [HVqrmpc/Sp2ms]
+- o7: עֹלֶה = H5927 עָלָה "to ascend…" [HVqrmsa]
+- o8: תָמִיד = H8548 תָּמִיד "properly, continuance (as indefinite extension)…" [HNcmsa]
+
+### Psalms 77:1 (context)
+
+- o1: לַ/מְנַצֵּחַ = Hl "to" + H5329 נָצַח "properly, to glitter from afar…" [HRd/Vprmsa]
+- o2: עַל = H5921 עַל "above, over, upon…" [HR]
+- o3: ידיתון = H3038 יְדוּתוּן "Jeduthun, an Israelite" [HNp]
+- o4: לְ/אָסָף = Hl "to" + H623 אָסָף "Asaph, the name of three Israelites…" [HR/Np]
+- o5: מִזְמוֹר = H4210 מִזְמוֹר "properly, instrumental music…" [HNcmsa]
+- o6: קוֹלִ/י = H6963 קוֹל "a voice or sound" [HNcmsc/Sp1cs]
+- o7: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o8: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o9: וְ/אֶצְעָקָה = Hc "and" + H6817 צָעַק "to shriek…" [HC/Vqh1cs]
+- o10: קוֹלִ/י = H6963 קוֹל "a voice or sound" [HNcmsc/Sp1cs]
+- o11: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o12: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o13: וְ/הַאֲזִין = Hc "and" + H238 אָזַן "to broaden out the ear (with the hand)…" [HC/Vhq3ms]
+- o14: אֵלָ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]

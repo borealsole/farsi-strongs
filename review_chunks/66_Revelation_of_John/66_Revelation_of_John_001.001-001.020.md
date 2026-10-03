@@ -1249,3 +1249,37 @@ Persian entries and current tags:
 - p33: هفت  → G2033
 - p34: کلیسا  → G1577
 - p35: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Revelation of John 2:1 (context)
+
+- o1: Τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o2: ἀγγέλῳ = G32 ἄγγελος "angel, messenger" [N-DSM]
+- o3: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o4: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o5: Ἐφέσῳ = G2181 Ἔφεσος "Ephesus" [N-DSF]
+- o6: ἐκκλησίας = G1577 ἐκκλησία "assembly, church" [N-GSF]
+- o7: γράψον· = G1125 γράφω "describe, write(-ing, -ten)" [V-AAM-2S]
+- o8: τάδε = G3592 ὅδε "he, she, such, these, thus" [D-APN]
+- o9: λέγει = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-3S]
+- o10: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o11: κρατῶν = G2902 κρατέω "hold (by, fast), keep, lay hand (hold) on, obtain…" [V-PAP-NSM]
+- o12: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o13: ἑπτὰ = G2033 ἑπτά "seven" [A-NUI]
+- o14: ἀστέρας = G792 ἀστήρ "star" [N-APM]
+- o15: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o16: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o17: δεξιᾷ = G1188 δεξιός "right (hand, side)" [A-DSF]
+- o18: αὐτοῦ, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o19: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o20: περιπατῶν = G4043 περιπατέω "go, be occupied with, walk (about)" [V-PAP-NSM]
+- o21: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o22: μέσῳ = G3319 μέσος "among, before them, between, + forth, mid(-day…" [A-DSN]
+- o23: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPF]
+- o24: ἑπτὰ = G2033 ἑπτά "seven" [A-NUI]
+- o25: λυχνιῶν = G3087 λυχνία "candlestick" [N-GPF]
+- o26: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPF]
+- o27: χρυσῶν· = G5552 χρύσεος "of gold, golden" [A-GPF]

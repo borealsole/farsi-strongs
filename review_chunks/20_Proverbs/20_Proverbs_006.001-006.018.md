@@ -641,3 +641,28 @@ Persian entries and current tags:
 - p11: تیزرو
 - p12: است
 - p13: ،
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 5:23 (context)
+
+- o1: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o2: יָמוּת = H4191 מוּת "to die (literally or figuratively)…" [HVqi3ms]
+- o3: בְּ/אֵין = Hb "in" + H369 אַיִן "a non-entity…" [HR/Tn]
+- o4: מוּסָר = H4148 מוּסָר "properly, chastisement…" [HNcmsa]
+- o5: וּ/בְ/רֹב = Hc "and" + Hb "in" + H7230 רֹב "abundance (in any respect)" [HC/R/Ncbsc]
+- o6: אִוַּלְתּ/וֹ = H200 אִוֶּלֶת "silliness" [HNcfsc/Sp3ms]
+- o7: יִשְׁגֶּה = H7686 שָׁגָה "to stray (causatively, mislead)…" [HVqi3ms]
+
+### Proverbs 6:19 (context)
+
+- o1: יָפִיחַ = H6315 פּוּחַ "to puff, i.e. blow with the breath or air…" [HVhi3ms]
+- o2: כְּזָבִים = H3577 כָּזָב "falsehood…" [HNcmpa]
+- o3: עֵד = H5707 עֵד "concretely, a witness; abstractly, testimony…" [HNcmsc]
+- o4: שָׁקֶר = H8267 שֶׁקֶר "an untruth…" [HNcmsa]
+- o5: וּ/מְשַׁלֵּחַ = Hc "and" + H7971 שָׁלַח "to send away, for…" [HC/Vprmsa]
+- o6: מְדָנִים = H4090 מְדָן "a contest or quarrel" [HNcmpa]
+- o7: בֵּין = H996 בֵּין "between (repeated before each noun…" [HR]
+- o8: אַחִים = H251 אָח "a brother (used in the widest sense of literal…" [HNcmpa]

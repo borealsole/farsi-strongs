@@ -940,3 +940,43 @@ Persian entries and current tags:
 - p23: و  → Hc
 - p24: خوش گذراندند  → H7937
 - p25: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 43:17 (context)
+
+- o1: וַ/יַּעַשׂ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3ms]
+- o2: הָ/אִישׁ = Hd "the" + H376 אִישׁ "a man as an individual or a male person…" [HTd/Ncmsa]
+- o3: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o4: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o5: יוֹסֵף = H3130 יוֹסֵף "Joseph, the name of seven Israelites" [HNp]
+- o6: וַ/יָּבֵא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vhw3ms]
+- o7: הָ/אִישׁ = Hd "the" + H376 אִישׁ "a man as an individual or a male person…" [HTd/Ncmsa]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: הָ/אֲנָשִׁים = Hd "the" + H376 אִישׁ "a man as an individual or a male person…" [HTd/Ncmpa]
+- o10: בֵּיתָ/ה = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc/Sd]
+- o11: יוֹסֵף = H3130 יוֹסֵף "Joseph, the name of seven Israelites" [HNp]
+
+### Genesis 44:1 (context)
+
+- o1: וַ/יְצַו = Hc "and" + H6680 צָוָה "(intensively) to constitute, enjoin" [HC/Vpw3ms]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o4: עַל = H5921 עַל "above, over, upon…" [HR]
+- o5: בֵּית/וֹ = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc/Sp3ms]
+- o6: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o7: מַלֵּא = H4390 מָלֵא "to fill or (intransitively) be full of…" [HVpv2ms]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: אַמְתְּחֹת = H572 אַמְתַּחַת "properly, something expansive, i.e. a bag" [HNcfpc]
+- o10: הָ/אֲנָשִׁים = Hd "the" + H376 אִישׁ "a man as an individual or a male person…" [HTd/Ncmpa]
+- o11: אֹכֶל = H400 אֹכֶל "food" [HNcmsa]
+- o12: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o13: יוּכְלוּ/ן = H3201 יָכֹל "to be able, literally (can…" [HVqi3mp/Sn]
+- o14: שְׂאֵת = H5375 נָשָׂא "to lift, in a great variety of applications…" [HVqc]
+- o15: וְ/שִׂים = Hc "and" + H7760 שׂוּם "to put (used in a great variety of applications…" [HC/Vqv2ms]
+- o16: כֶּסֶף = H3701 כֶּסֶף "silver (from its pale color)…" [HNcmsc]
+- o17: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o18: בְּ/פִי = Hb "in" + H6310 פֶּה "the mouth (as the means of blowing)…" [HR/Ncmsc]
+- o19: אַמְתַּחְתּ/וֹ = H572 אַמְתַּחַת "properly, something expansive, i.e. a bag" [HNcfsc/Sp3ms]

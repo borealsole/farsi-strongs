@@ -964,3 +964,43 @@ Persian entries and current tags:
 - p15: یکپارچه  → H259
 - p16: بود
 - p17: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 7:17 (context)
+
+- o1: שְׂבָכִים = H7638 שָׂבָךְ "a netting (ornament to the capital of a column)" [HNcfpa]
+- o2: מַעֲשֵׂה = H4639 מַעֲשֶׂה "an action (good or bad); generally, a transaction…" [HNcmsc]
+- o3: שְׂבָכָה = H7639 שְׂבָכָה "a net-work, i.e. (in hunting) a snare…" [HNcfsa]
+- o4: גְּדִלִים = H1434 גְּדִל "thread, i.e. a tassel or festoon" [HNcmpa]
+- o5: מַעֲשֵׂה = H4639 מַעֲשֶׂה "an action (good or bad); generally, a transaction…" [HNcmsc]
+- o6: שַׁרְשְׁרוֹת = H8333 שַׁרְשְׁרָה "a chain; (architectural) probably a garland" [HNcfpa]
+- o7: לַ/כֹּתָרֹת = Hl "to" + H3805 כֹתֶרֶת "the capital of a column" [HRd/Ncfpa]
+- o8: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o9: עַל = H5921 עַל "above, over, upon…" [HR]
+- o10: רֹאשׁ = H7218 רֹאשׁ "the head (as most easily shaken)…" [HNcmsc]
+- o11: הָ/עַמּוּדִים = Hd "the" + H5982 עַמּוּד "a column (as standing)…" [HTd/Ncmpa]
+- o12: שִׁבְעָה = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcmsa]
+- o13: לַ/כֹּתֶרֶת = Hl "to" + H3805 כֹתֶרֶת "the capital of a column" [HRd/Ncfsa]
+- o14: הָ/אֶחָת = Hd "the" + H259 אֶחָד "properly, united, i.e. one…" [HTd/Acfsa]
+- o15: וְ/שִׁבְעָה = Hc "and" + H7651 שֶׁבַע "seven (as the sacred full one)…" [HC/Acmsa]
+- o16: לַ/כֹּתֶרֶת = Hl "to" + H3805 כֹתֶרֶת "the capital of a column" [HRd/Ncfsa]
+- o17: הַ/שֵּׁנִית = Hd "the" + H8145 שֵׁנִי "properly, double, i.e. second…" [HTd/Aofsa]
+
+### I Kings 7:35 (context)
+
+- o1: וּ/בְ/רֹאשׁ = Hc "and" + Hb "in" + H7218 רֹאשׁ "the head (as most easily shaken)…" [HC/R/Ncmsc]
+- o2: הַ/מְּכוֹנָה = Hd "the" + H4350 מְכוֹנָה "a pedestal, also a spot" [HTd/Ncfsa]
+- o3: חֲצִי = H2677 חֵצִי "the half or middle" [HNcmsc]
+- o4: הָ/אַמָּה = Hd "the" + H520 אַמָּה "properly, a mother (i.e. unit of measure…" [HTd/Ncfsa]
+- o5: קוֹמָה = H6967 קוֹמָה "height" [HNcfsa]
+- o6: עָגֹל = H5696 עָגֹל "circular" [HAamsa]
+- o7: סָבִיב = H5439 סָבִיב "as noun) a circle, neighbour, or environs…" [HNcbsa]
+- o8: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o9: רֹאשׁ = H7218 רֹאשׁ "the head (as most easily shaken)…" [HNcmsc]
+- o10: הַ/מְּכֹנָה = Hd "the" + H4350 מְכוֹנָה "a pedestal, also a spot" [HTd/Ncfsa]
+- o11: יְדֹתֶי/הָ = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbpc/Sp3fs]
+- o12: וּ/מִסְגְּרֹתֶי/הָ = Hc "and" + H4526 מִסְגֶּרֶת "something enclosing, i.e. a margin (of a region…" [HC/Ncfpc/Sp3fs]
+- o13: מִמֶּ/נָּה = H4480 מִן "properly, a part of…" [HR/Sp3fs]

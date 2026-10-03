@@ -920,3 +920,55 @@ Persian entries and current tags:
 - p22: جاودانی  → G166
 - p23: است
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Corinthians 3:18 (context)
+
+- o1: ἡμεῖς = G2249 ἡμεῖς "us, we (ourselves)" [P-1NP]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: πάντες = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-NPM]
+- o4: ἀνακεκαλυμμένῳ = G343 ἀνακαλύπτω "open, (un-)taken away" [V-RPP-DSN]
+- o5: προσώπῳ = G4383 πρόσωπον "outward) appearance, before, countenance, face…" [N-DSN]
+- o6: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o7: δόξαν = G1391 δόξα "dignity, glory(-ious), honour, praise, worship" [N-ASF]
+- o8: κυρίου = G2962 κύριος "God, Lord, master, Sir" [N-GSM]
+- o9: κατοπτριζόμενοι = G2734 κατοπτρίζομαι "behold as in a glass" [V-PMP-NPM]
+- o10: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o11: αὐτὴν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASF]
+- o12: εἰκόνα = G1504 εἰκών "image" [N-ASF]
+- o13: μεταμορφούμεθα = G3339 μεταμορφόω "change, transfigure, transform" [V-PPI-1P]
+- o14: ἀπὸ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
+- o15: δόξης = G1391 δόξα "dignity, glory(-ious), honour, praise, worship" [N-GSF]
+- o16: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o17: δόξαν, = G1391 δόξα "dignity, glory(-ious), honour, praise, worship" [N-ASF]
+- o18: καθάπερ = G2509 καθάπερ "(even, as well) as" [ADV]
+- o19: ἀπὸ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
+- o20: κυρίου = G2962 κύριος "God, Lord, master, Sir" [N-GSM]
+- o21: πνεύματος. = G4151 πνεῦμα "ghost, life, spirit(-ual, -ually), mind" [N-GSN]
+
+### II Corinthians 5:1 (context)
+
+- o1: Οἴδαμεν = G1492 εἴδω "be aware, behold, can (+ not tell), consider…" [V-RAI-1P]
+- o2: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o3: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o4: ἐὰν = G1437 ἐάν "before, but, except, (and) if, (if) so, (what-…" [COND]
+- o5: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o6: ἐπίγειος = G1919 ἐπίγειος "earthly, in earth, terrestrial" [A-NSF]
+- o7: ἡμῶν = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+- o8: οἰκία = G3614 οἰκία "home, house(-hold)" [N-NSF]
+- o9: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
+- o10: σκήνους = G4636 σκῆνος "tabernacle" [N-GSN]
+- o11: καταλυθῇ, = G2647 καταλύω "destroy, dissolve, be guest, lodge…" [V-APS-3S]
+- o12: οἰκοδομὴν = G3619 οἰκοδομή "building, edify(-ication, -ing)" [N-ASF]
+- o13: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o14: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o15: ἔχομεν = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAI-1P]
+- o16: οἰκίαν = G3614 οἰκία "home, house(-hold)" [N-ASF]
+- o17: ἀχειροποίητον = G886 ἀχειροποίητος "made without (not made with) hands" [A-ASF]
+- o18: αἰώνιον = G166 αἰώνιος "eternal, for ever, everlasting, world (began)" [A-ASF]
+- o19: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o20: τοῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPM]
+- o21: οὐρανοῖς. = G3772 οὐρανός "air, heaven(-ly), sky" [N-DPM]

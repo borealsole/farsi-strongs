@@ -839,3 +839,41 @@ Persian entries and current tags:
 - p29: تسلیم
 - p30: نکرد  → H3808
 - p31: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 22:23 (context)
+
+- o1: שְׁבָ/ה = H3427 יָשַׁב "properly…" [HVqv2ms/Sh]
+- o2: אִתִּ/י = H854 אֵת "properly…" [HR/Sp1cs]
+- o3: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o4: תִּירָא = H3372 יָרֵא "to fear; morally, to revere; caus. to frighten" [HVqj2ms]
+- o5: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: יְבַקֵּשׁ = H1245 בָּקַשׁ "to search out (by any method…" [HVpi3ms]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: נַפְשִׁ/י = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsc/Sp1cs]
+- o10: יְבַקֵּשׁ = H1245 בָּקַשׁ "to search out (by any method…" [HVpi3ms]
+- o11: אֶת = H853 אֵת "properly…" [HTo]
+- o12: נַפְשֶׁ/ךָ = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsc/Sp2ms]
+- o13: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o14: מִשְׁמֶרֶת = H4931 מִשְׁמֶרֶת "watch, i.e. the act (custody)…" [HNcfsa]
+- o15: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o16: עִמָּדִ/י = H5978 עִמָּד "along with" [HR/Sp1cs]
+
+### I Samuel 23:15 (context)
+
+- o1: וַ/יַּרְא = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw3ms]
+- o2: דָוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o3: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o4: יָצָא = H3318 יָצָא "to go (causatively, bring) out…" [HVqp3ms]
+- o5: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o6: לְ/בַקֵּשׁ = Hl "to" + H1245 בָּקַשׁ "to search out (by any method…" [HR/Vpc]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: נַפְשׁ/וֹ = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsc/Sp3ms]
+- o9: וְ/דָוִד = Hc "and" + H1732 דָּוִד "David, the youngest son of Jesse" [HC/Np]
+- o10: בְּ/מִדְבַּר = Hb "in" + H4057 מִדְבָּר "a pasture (i.e. open field…" [HR/Ncmsc]
+- o11: זִיף = H2128 זִיף "Ziph, the name of a place in Palestine…" [HNp]
+- o12: בַּ/חֹרְשָׁה = Hb "in" + H2793 חֹרֶשׁ "a forest (perhaps as furnishing the material for…" [HRd/Np]

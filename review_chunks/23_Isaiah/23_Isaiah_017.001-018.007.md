@@ -1161,3 +1161,50 @@ Persian entries and current tags:
 - p54: ،
 - p55: آورده_خواهد_شد  → H2986
 - p56: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 16:14 (context)
+
+- o1: וְ/עַתָּה = Hc "and" + H6258 עַתָּה "at this time, whether adverb…" [HC/D]
+- o2: דִּבֶּר = H1696 דָבַר "perhaps properly, to arrange…" [HVpp3ms]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o5: בְּ/שָׁלֹשׁ = Hb "in" + H7969 שָׁלוֹשׁ "three…" [HR/Acfsa]
+- o6: שָׁנִים = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfpa]
+- o7: כִּ/שְׁנֵי = Hk "like" + H8141 שָׁנֶה "a year (as a revolution of time)" [HR/Acmdc]
+- o8: שָׂכִיר = H7916 שָׂכִיר "a man at wages by the day or year" [HAamsa]
+- o9: וְ/נִקְלָה = Hc "and" + H7034 קָלָה "to be light (as implied in rapid motion)…" [HC/VNq3ms]
+- o10: כְּבוֹד = H3519 כָּבוֹד "properly, weight…" [HNcbsc]
+- o11: מוֹאָב = H4124 מוֹאָב "Moab, an incestuous son of Lot…" [HNp]
+- o12: בְּ/כֹל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o13: הֶ/הָמוֹן = Hd "the" + H1995 הָמוֹן "a noise, tumult, crowd; also disquietude, wealth" [HTd/Ncmsa]
+- o14: הָ/רָב = Hd "the" + H7227 רַב "abundant (in quantity, size, age, number, rank…" [HTd/Aamsa]
+- o15: וּ/שְׁאָר = Hc "and" + H7605 שְׁאָר "a remainder" [HC/Ncmsa]
+- o16: מְעַט = H4592 מְעַט "a little or few (often adverbial or compar.)" [HNcmsa]
+- o17: מִזְעָר = H4213 מִזְעָר "fewness; by implication, as superl. diminutiveness" [HNcmsa]
+- o18: לוֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o19: כַבִּיר = H3524 כַּבִּיר "vast, whether in extent (figuratively, of power…" [HAamsa]
+
+### Isaiah 19:1 (context)
+
+- o1: מַשָּׂא = H4853 מַשָּׂא "a burden…" [HNcmsc]
+- o2: מִצְרָיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o3: הִנֵּה = H2009 הִנֵּה "lo!" [HTm]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: רֹכֵב = H7392 רָכַב "to ride (on an animal or in a vehicle)…" [HVqrmsa]
+- o6: עַל = H5921 עַל "above, over, upon…" [HR]
+- o7: עָב = H5645 עָב "properly, an envelope, i.e. darkness (or density…" [HNcbsa]
+- o8: קַל = H7031 קַל "light; (by implication) rapid (also adverbial)" [HAamsa]
+- o9: וּ/בָא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqrmsa]
+- o10: מִצְרַיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o11: וְ/נָעוּ = Hc "and" + H5128 נוּעַ "to waver, in a great variety of applications…" [HC/Vqq3cp]
+- o12: אֱלִילֵי = H457 אֱלִיל "good for nothing, by anal. vain or vanity…" [HNcmpc]
+- o13: מִצְרַיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o14: מִ/פָּנָי/ו = Hm "from" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp3ms]
+- o15: וּ/לְבַב = Hc "and" + H3824 לֵבָב "the heart (as the most interior organ)" [HC/Ncmsc]
+- o16: מִצְרַיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o17: יִמַּס = H4549 מָסַס "to liquefy…" [HVNi3ms]
+- o18: בְּ/קִרְבּ/וֹ = Hb "in" + H7130 קֶרֶב "properly, the nearest part, i.e. the center…" [HR/Ncmsc/Sp3ms]

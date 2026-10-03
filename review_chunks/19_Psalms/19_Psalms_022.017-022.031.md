@@ -604,3 +604,28 @@ Persian entries and current tags:
 - p19: را
 - p20: کرده_است  → H6213
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 22:16 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: סְבָבוּ/נִי = H5437 סָבַב "to revolve, surround, or border…" [HVqp3cp/Sp1cs]
+- o3: כְּלָבִים = H3611 כֶּלֶב "a dog; hence (by euphemism) a male prostitute" [HNcmpa]
+- o4: עֲדַת = H5712 עֵדָה "a stated assemblage (specifically, a concourse…" [HNcfsc]
+- o5: מְרֵעִים = H7489 רָעַע "properly, to spoil (literally…" [HVhrmpa]
+- o6: הִקִּיפוּ/נִי = H5362 נָקַף "to strike with more or less violence (beat, fell…" [HVhp3cp/Sp1cs]
+- o7: כָּ/אֲרִי = Hk "like" + H3738 כָּרָה "properly, to dig; figuratively, to plot…" [HRd/Ncmsa]
+- o8: יָדַ/י = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbdc/Sp1cs]
+- o9: וְ/רַגְלָ/י = Hc "and" + H7272 רֶגֶל "a foot (as used in walking)…" [HC/Ncfdc/Sp1cs]
+
+### Psalms 23:1 (context)
+
+- o1: מִזְמוֹר = H4210 מִזְמוֹר "properly, instrumental music…" [HNcmsa]
+- o2: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: רֹעִ/י = H7462 רָעָה "to tend a flock; i.e. pasture it…" [HVqrmsc/Sp1cs]
+- o5: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o6: אֶחְסָר = H2637 חָסֵר "to lack; by implication, to fail, want, lessen" [HVqi1cs]

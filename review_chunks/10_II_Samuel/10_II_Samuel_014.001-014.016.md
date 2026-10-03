@@ -981,3 +981,46 @@ Persian entries and current tags:
 - p23: خواهد_رهانید  → H5337
 - p24: .
 - p25: “
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 13:39 (context)
+
+- o1: וַ/תְּכַל = Hc "and" + H3615 כָּלָה "to end, whether intransitive (to cease…" [HC/Vpw3fs]
+- o2: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o3: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o4: לָ/צֵאת = Hl "to" + H3318 יָצָא "to go (causatively, bring) out…" [HR/Vqc]
+- o5: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o6: אַבְשָׁלוֹם = H53 אֲבִישָׁלוֹם "Abshalom, a son of David…" [HNp]
+- o7: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o8: נִחַם = H5162 נָחַם "properly, to sigh, i.e. breathe strongly…" [HVNp3ms]
+- o9: עַל = H5921 עַל "above, over, upon…" [HR]
+- o10: אַמְנוֹן = H550 אַמְנוֹן "Amnon (or Aminon), a son of David" [HNp]
+- o11: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o12: מֵת = H4191 מוּת "to die (literally or figuratively)…" [HVqp3ms]
+
+### II Samuel 14:17 (context)
+
+- o1: וַ/תֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3fs]
+- o2: שִׁפְחָתְ/ךָ = H8198 שִׁפְחָה "a female slave (as a member of the household)" [HNcfsc/Sp2ms]
+- o3: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqj3ms]
+- o4: נָּא = H4994 נָא "'I pray', 'now', or 'then'…" [HTj]
+- o5: דְּבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o6: אֲדֹנִ/י = H113 אָדוֹן "sovereign, i.e. controller (human or divine)" [HNcmsc/Sp1cs]
+- o7: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o8: לִ/מְנוּחָה = Hl "to" + H4496 מְנוּחָה "repose or (adverbially) peacefully…" [HR/Ncbsa]
+- o9: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o10: כְּ/מַלְאַךְ = Hk "like" + H4397 מֲלְאָךְ "a messenger…" [HR/Ncmsc]
+- o11: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o12: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o13: אֲדֹנִ/י = H113 אָדוֹן "sovereign, i.e. controller (human or divine)" [HNcmsc/Sp1cs]
+- o14: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o15: לִ/שְׁמֹעַ = Hl "to" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HR/Vqc]
+- o16: הַ/טּוֹב = Hd "the" + H2896 טוֹב "good (as an adjective) in the widest sense…" [HTd/Aamsa]
+- o17: וְ/הָ/רָע = Hc "and" + Hd "the" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HC/Td/Aamsa]
+- o18: וַ/יהוָה = Hc "and" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HC/Np]
+- o19: אֱלֹהֶי/ךָ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2ms]
+- o20: יְהִי = H1961 הָיָה "to exist, i.e. be or become…" [HVqj3ms]
+- o21: עִמָּ/ךְ = H5973 עִם "adverb or preposition…" [HR/Sp2fs]

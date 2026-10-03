@@ -1003,3 +1003,40 @@ Persian entries and current tags:
 - p17: است فرمودۀ  → H5002
 - p18: خداوند  → H3068
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 11:23 (context)
+
+- o1: וּ/שְׁאֵרִית = Hc "and" + H7611 שְׁאֵרִית "a remainder or residual (surviving, final) portion" [HC/Ncfsa]
+- o2: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o3: תִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3fs]
+- o4: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o5: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o6: אָבִיא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVhi1cs]
+- o7: רָעָה = H7451 רַע "bad or (as noun) evil (natural or moral)" [HNcfsa]
+- o8: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o9: אַנְשֵׁי = H376 אִישׁ "a man as an individual or a male person…" [HNcmpc]
+- o10: עֲנָתוֹת = H6068 עֲנָתוֹת "Anathoth, the name of two Israelites…" [HNp]
+- o11: שְׁנַת = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsc]
+- o12: פְּקֻדָּתָ/ם = H6486 פְּקֻדָּה "visitation (in many senses, chiefly official)" [HNcfsc/Sp3mp]
+
+### Jeremiah 13:1 (context)
+
+- o1: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o2: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o5: הָלוֹךְ = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVqa]
+- o6: וְ/קָנִיתָ = Hc "and" + H7069 קָנָה "to erect, i.e. create…" [HC/Vqq2ms]
+- o7: לְּ/ךָ = Hl "to" [HR/Sp2ms]
+- o8: אֵזוֹר = H232 אֵזוֹר "something girt; a belt, also a band" [HNcmsc]
+- o9: פִּשְׁתִּים = H6593 פִּשְׁתֶּה "linen (i.e. the thread, as carded)" [HNcmpa]
+- o10: וְ/שַׂמְתּ/וֹ = Hc "and" + H7760 שׂוּם "to put (used in a great variety of applications…" [HC/Vqq2ms/Sp3ms]
+- o11: עַל = H5921 עַל "above, over, upon…" [HR]
+- o12: מָתְנֶי/ךָ = H4975 מֹתֶן "properly, the waist or small of the back…" [HNcmdc/Sp2ms]
+- o13: וּ/בַ/מַּיִם = Hc "and" + Hb "in" + H4325 מַיִם "water; figuratively, juice…" [HC/Rd/Ncmpa]
+- o14: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o15: תְבִאֵ/הוּ = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVhi2ms/Sp3ms]

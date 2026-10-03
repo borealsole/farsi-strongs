@@ -931,3 +931,41 @@ Persian entries and current tags:
 - p34: عظیم  → H3966
 - p35: نمودند  → H8055
 - p36: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 10:27 (context)
+
+- o1: וּ/בְנֵי = Hc "and" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/Ncmpc]
+- o2: בְלִיַּעַל = H1100 בְּלִיַּעַל "without profit, worthlessness…" [HNcmsa]
+- o3: אָמְרוּ = H559 אָמַר "to say (used with great latitude)" [HVqp3cp]
+- o4: מַה = H4100 מָה "properly…" [HTi]
+- o5: יֹּשִׁעֵ/נוּ = H3467 יָשַׁע "properly, to be open, wide or free…" [HVhi3ms/Sp1cp]
+- o6: זֶה = H2088 זֶה "the masculine demonstrative pronoun, this or that" [HPdxms]
+- o7: וַ/יִּבְזֻ/הוּ = Hc "and" + H959 בָּזָה "to disesteem" [HC/Vqw3mp/Sp3ms]
+- o8: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o9: הֵבִיאוּ = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVhp3cp]
+- o10: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o11: מִנְחָה = H4503 מִנְחָה "a donation; euphemistically, tribute…" [HNcfsa]
+- o12: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o13: כְּ/מַחֲרִישׁ = Hk "like" + H2790 חָרַשׁ "to scratch, i.e. (by implication) to engrave…" [HR/Vhrmsa]
+
+### I Samuel 12:1 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: שְׁמוּאֵל = H8050 שְׁמוּאֵל "Shemuel, the name of three Israelites" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o5: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o6: הִנֵּה = H2009 הִנֵּה "lo!" [HTm]
+- o7: שָׁמַעְתִּי = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqp1cs]
+- o8: בְ/קֹלְ/כֶם = Hb "in" + H6963 קוֹל "a voice or sound" [HR/Ncmsc/Sp2mp]
+- o9: לְ/כֹל = Hl "to" + H3605 כֹּל "properly, the whole…" [HR/Ncmsa]
+- o10: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o11: אֲמַרְתֶּם = H559 אָמַר "to say (used with great latitude)" [HVqp2mp]
+- o12: לִ/י = Hl "to" [HR/Sp1cs]
+- o13: וָ/אַמְלִיךְ = Hc "and" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HC/Vhw1cs]
+- o14: עֲלֵי/כֶם = H5921 עַל "above, over, upon…" [HR/Sp2mp]
+- o15: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsa]

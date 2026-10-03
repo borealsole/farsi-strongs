@@ -796,3 +796,30 @@ Persian entries and current tags:
 - p9: ر‌ا
 - p10: خواهانم  → H1245
 - p11: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 119:176 (context)
+
+- o1: תָּעִיתִי = H8582 תָּעָה "to vacillate…" [HVqp1cs]
+- o2: כְּ/שֶׂה = Hk "like" + H7716 שֶׂה "a member of a flock, i.e. a sheep or goat" [HR/Ncbsa]
+- o3: אֹבֵד = H6 אָבַד "properly, to wander away, i.e. lose oneself…" [HVqrmsa]
+- o4: בַּקֵּשׁ = H1245 בָּקַשׁ "to search out (by any method…" [HVpv2ms]
+- o5: עַבְדֶּ/ךָ = H5650 עֶבֶד "a servant" [HNcmsc/Sp2ms]
+- o6: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o7: מִצְוֺתֶי/ךָ = H4687 מִצְוָה "a command, whether human or divine (collectively…" [HNcfpc/Sp2ms]
+- o8: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o9: שָׁכָחְתִּי = H7911 שָׁכַח "to mislay, i.e. to be oblivious of…" [HVqp1cs]
+
+### Psalms 123:1 (context)
+
+- o1: שִׁיר = H7892 שִׁיר "a song; abstractly, singing" [HNcbsc]
+- o2: הַ/מַּעֲלוֹת = Hd "the" + H4609 מַעֲלָה "elevation, i.e. the act (literally…" [HTd/Ncfpa]
+- o3: אֵלֶי/ךָ = H413 אֵל "near, with or among; often in general, to" [HR/Sp2ms]
+- o4: נָשָׂאתִי = H5375 נָשָׂא "to lift, in a great variety of applications…" [HVqp1cs]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: עֵינַ/י = H5869 עַיִן "an eye (literally or figuratively)…" [HNcbdc/Sp1cs]
+- o7: הַ/יֹּשְׁבִי = Hd "the" + H3427 יָשַׁב "properly…" [HTd/Vqrmsc]
+- o8: בַּ/שָּׁמָיִם = Hb "in" + H8064 שָׁמַיִם "the sky (as aloft…" [HRd/Ncmpa]

@@ -1385,3 +1385,41 @@ Persian entries and current tags:
 - p30: هر  → H259 H6311
 - p31: طرف  → H6311
 - p32: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 40:24 (context)
+
+- o1: וַ/יּוֹלִכֵ/נִי = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vhw3ms/Sp1cs]
+- o2: דֶּרֶךְ = H1870 דֶּרֶךְ "a road (as trodden)…" [HNcbsc]
+- o3: הַ/דָּרוֹם = Hd "the" + H1864 דָּרוֹם "the south; poet. the south wind" [HTd/Ncmsa]
+- o4: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o5: שַׁעַר = H8179 שַׁעַר "an opening, i.e. door or gate" [HNcmsc]
+- o6: דֶּרֶךְ = H1870 דֶּרֶךְ "a road (as trodden)…" [HNcbsc]
+- o7: הַ/דָּרוֹם = Hd "the" + H1864 דָּרוֹם "the south; poet. the south wind" [HTd/Ncmsa]
+- o8: וּ/מָדַד = Hc "and" + H4058 מָדַד "properly, to stretch…" [HC/Vqq3ms]
+- o9: איל/ו = H352 אַיִל "properly, strength; hence, anything strong…" [HNcmsc/Sp3ms]
+- o10: ו/אילמ/ו = Hc "and" + H361 אֵילָם "a pillar-space (or colonnade)…" [HC/Ncmsc/Sp3ms]
+- o11: כַּ/מִּדּוֹת = Hk "like" + H4060 מִדָּה "properly, extension, i.e. height or breadth…" [HRd/Ncfpa]
+- o12: הָ/אֵלֶּה = Hd "the" + H428 אֵלֶּה "these or those" [HTd/Pdxcp]
+
+### Ezekiel 41:1 (context)
+
+- o1: וַ/יְבִיאֵ/נִי = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vhw3ms/Sp1cs]
+- o2: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o3: הַ/הֵיכָל = Hd "the" + H1964 הֵיכָל "a large public building…" [HTd/Ncmsa]
+- o4: וַ/יָּמָד = Hc "and" + H4058 מָדַד "properly, to stretch…" [HC/Vqw3ms]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: הָ/אֵילִים = Hd "the" + H352 אַיִל "properly, strength; hence, anything strong…" [HTd/Ncmpa]
+- o7: שֵׁשׁ = H8337 שֵׁשׁ "six (as an overplus beyond five or the fingers of…" [HAcfsa]
+- o8: אַמּוֹת = H520 אַמָּה "properly, a mother (i.e. unit of measure…" [HNcfpa]
+- o9: רֹחַב = H7341 רֹחַב "width (literally or figuratively)" [HNcmsa]
+- o10: מִ/פּוֹ = Hm "from" + H6311 פֹּה "this place (French ici), i.e. here or hence" [HR/D]
+- o11: וְ/שֵׁשׁ = Hc "and" + H8337 שֵׁשׁ "six (as an overplus beyond five or the fingers of…" [HC/Acfsa]
+- o12: אַמּוֹת = H520 אַמָּה "properly, a mother (i.e. unit of measure…" [HNcfpa]
+- o13: רֹחַב = H7341 רֹחַב "width (literally or figuratively)" [HNcmsa]
+- o14: מִ/פּוֹ = Hm "from" + H6311 פֹּה "this place (French ici), i.e. here or hence" [HR/D]
+- o15: רֹחַב = H7341 רֹחַב "width (literally or figuratively)" [HNcmsc]
+- o16: הָ/אֹהֶל = Hd "the" + H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HTd/Ncmsa]

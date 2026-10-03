@@ -763,3 +763,33 @@ Persian entries and current tags:
 - p39: قربانی  → H8549
 - p40: رفاقت  → H8002
 - p41: ؛
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 5:31 (context)
+
+- o1: וְ/נִקָּה = Hc "and" + H5352 נָקָה "to be (or make) clean (literally or figuratively)…" [HC/VNq3ms]
+- o2: הָ/אִישׁ = Hd "the" + H376 אִישׁ "a man as an individual or a male person…" [HTd/Ncmsa]
+- o3: מֵ/עָוֺן = Hm "from" + H5771 עָוֺן "perversity, i.e. (moral) evil" [HR/Ncbsa]
+- o4: וְ/הָ/אִשָּׁה = Hc "and" + Hd "the" + H802 אִשָּׁה "a woman" [HC/Td/Ncfsa]
+- o5: הַ/הִוא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3fs]
+- o6: תִּשָּׂא = H5375 נָשָׂא "to lift, in a great variety of applications…" [HVqi3fs]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: עֲוֺנָ/הּ = H5771 עָוֺן "perversity, i.e. (moral) evil" [HNcbsc/Sp3fs]
+
+### Numbers 6:15 (context)
+
+- o1: וְ/סַל = Hc "and" + H5536 סַל "properly, a willow twig (as pendulous)…" [HC/Ncmsc]
+- o2: מַצּוֹת = H4682 מַצָּה "properly, sweetness…" [HNcfpa]
+- o3: סֹלֶת = H5560 סֹלֶת "flour (as chipped off)" [HNcfsc]
+- o4: חַלֹּת = H2471 חַלָּה "a cake (as usually punctured)" [HNcfpa]
+- o5: בְּלוּלֹת = H1101 בָּלַל "to overflow (specifically with oil.)…" [HVqsfpa]
+- o6: בַּ/שֶּׁמֶן = Hb "in" + H8081 שֶׁמֶן "grease, especially liquid (as from the olive…" [HRd/Ncmsa]
+- o7: וּ/רְקִיקֵי = Hc "and" + H7550 רָקִיק "a thin cake" [HC/Ncmpc]
+- o8: מַצּוֹת = H4682 מַצָּה "properly, sweetness…" [HNcfpa]
+- o9: מְשֻׁחִים = H4886 מָשַׁח "to rub with oil, i.e. to anoint…" [HVqsmpa]
+- o10: בַּ/שָּׁמֶן = Hb "in" + H8081 שֶׁמֶן "grease, especially liquid (as from the olive…" [HRd/Ncmsa]
+- o11: וּ/מִנְחָתָ/ם = Hc "and" + H4503 מִנְחָה "a donation; euphemistically, tribute…" [HC/Ncfsc/Sp3mp]
+- o12: וְ/נִסְכֵּי/הֶם = Hc "and" + H5262 נֶסֶךְ "a libation; also a cast idol" [HC/Ncmpc/Sp3mp]

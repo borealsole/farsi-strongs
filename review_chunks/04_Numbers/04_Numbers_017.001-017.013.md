@@ -689,3 +689,43 @@ Persian entries and current tags:
 - p19: خواهیم_شد  → H1478
 - p20: ؟
 - p21: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 16:50 (context)
+
+- o1: וַ/יָּשָׁב = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqw3ms]
+- o2: אַהֲרֹן = H175 אַהֲרוֹן "Aharon, the brother of Moses" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o6: פֶּתַח = H6607 פֶּתַח "an opening (literally)…" [HNcmsc]
+- o7: אֹהֶל = H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HNcmsc]
+- o8: מוֹעֵד = H4150 מוֹעֵד "properly, an appointment…" [HNcmsa]
+- o9: וְ/הַ/מַּגֵּפָה = Hc "and" + Hd "the" + H4046 מַגֵּפָה "a pestilence; by analogy, defeat" [HC/Td/Ncfsa]
+- o10: נֶעֱצָרָה = H6113 עָצָר "to inclose; by analogy, to hold back…" [HVNp3fs]
+
+### Numbers 18:1 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: אַהֲרֹן = H175 אַהֲרוֹן "Aharon, the brother of Moses" [HNp]
+- o5: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o6: וּ/בָנֶי/ךָ = Hc "and" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/Ncmpc/Sp2ms]
+- o7: וּ/בֵית = Hc "and" + H1004 בַּיִת "a house (in the greatest variation of…" [HC/Ncmsc]
+- o8: אָבִי/ךָ = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp2ms]
+- o9: אִתָּ/ךְ = H854 אֵת "properly…" [HR/Sp2fs]
+- o10: תִּשְׂאוּ = H5375 נָשָׂא "to lift, in a great variety of applications…" [HVqi2mp]
+- o11: אֶת = H853 אֵת "properly…" [HTo]
+- o12: עֲוֺן = H5771 עָוֺן "perversity, i.e. (moral) evil" [HNcbsc]
+- o13: הַ/מִּקְדָּשׁ = Hd "the" + H4720 מִקְדָּשׁ "a consecrated thing or place, especially…" [HTd/Ncmsa]
+- o14: וְ/אַתָּה = Hc "and" + H859 אַתָּה "thou and thee, or (plural) ye and you" [HC/Pp2ms]
+- o15: וּ/בָנֶי/ךָ = Hc "and" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/Ncmpc/Sp2ms]
+- o16: אִתָּ/ךְ = H854 אֵת "properly…" [HR/Sp2fs]
+- o17: תִּשְׂאוּ = H5375 נָשָׂא "to lift, in a great variety of applications…" [HVqi2mp]
+- o18: אֶת = H853 אֵת "properly…" [HTo]
+- o19: עֲוֺן = H5771 עָוֺן "perversity, i.e. (moral) evil" [HNcbsc]
+- o20: כְּהֻנַּתְ/כֶם = H3550 כְּהֻנָּה "priesthood" [HNcfsc/Sp2mp]

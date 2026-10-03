@@ -1323,3 +1323,19 @@ Persian entries and current tags:
 - p43: خداوند  → H3068
 - p44: لشکرها  → H5002
 - p45: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Haggai 1:15 (context)
+
+- o1: בְּ/יוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmsc]
+- o2: עֶשְׂרִים = H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HAcbpa]
+- o3: וְ/אַרְבָּעָה = Hc "and" + H702 אַרְבַּע "four" [HC/Acmsa]
+- o4: לַ/חֹדֶשׁ = Hl "to" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HRd/Ncmsa]
+- o5: בַּ/שִּׁשִּׁי = Hb "in" + H8345 שִׁשִּׁי "sixth, ord. or (feminine) fractional" [HRd/Aomsa]
+- o6: בִּ/שְׁנַת = Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HR/Ncfsc]
+- o7: שְׁתַּיִם = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcfda]
+- o8: לְ/דָרְיָוֶשׁ = Hl "to" + H1867 דָּרְיָוֵשׁ "Darejavesh…" [HR/Np]
+- o9: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]

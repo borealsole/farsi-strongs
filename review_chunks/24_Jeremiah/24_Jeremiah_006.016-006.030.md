@@ -793,3 +793,41 @@ Persian entries and current tags:
 - p10: رد کرده_است  → H3988
 - p11: .
 - p12: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 6:15 (context)
+
+- o1: הֹבִישׁוּ = H3001 יָבֵשׁ "to be ashamed, confused or disappointed…" [HVhp3cp]
+- o2: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o3: תוֹעֵבָה = H8441 תּוֹעֵבַה "properly, something disgusting (morally)…" [HNcfsa]
+- o4: עָשׂוּ = H6213 עָשָׂה "to do or make…" [HVqp3cp]
+- o5: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o6: בּוֹשׁ = H954 בּוּשׁ "properly, to pale…" [HVqa]
+- o7: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o8: יֵבוֹשׁוּ = H954 בּוּשׁ "properly, to pale…" [HVqi3mp]
+- o9: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o10: הַכְלִים = H3637 כָּלַם "properly, to wound…" [HVhc]
+- o11: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o12: יָדָעוּ = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqp3cp]
+- o13: לָ/כֵן = Hl "to" + H3651 כֵּן "properly, set upright…" [HR/D]
+- o14: יִפְּלוּ = H5307 נָפַל "to fall…" [HVqi3mp]
+- o15: בַ/נֹּפְלִים = Hb "in" + H5307 נָפַל "to fall…" [HRd/Vqrmpa]
+- o16: בְּ/עֵת = Hb "in" + H6256 עֵת "time, especially (adverb with preposition) now…" [HR/Ncbsc]
+- o17: פְּקַדְתִּי/ם = H6485 פָּקַד "to visit (with friendly or hostile intent)…" [HVqp1cs/Sp3mp]
+- o18: יִכָּשְׁלוּ = H3782 כָּשַׁל "to totter or waver (through weakness of the legs…" [HVNi3mp]
+- o19: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o20: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### Jeremiah 7:1 (context)
+
+- o1: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]
+- o2: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o3: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o4: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o5: יִרְמְיָהוּ = H3414 יִרְמְיָה "Jirmejah, the name of eight or nine Israelites" [HNp]
+- o6: מֵ/אֵת = Hm "from" + H854 אֵת "properly…" [HR/R]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

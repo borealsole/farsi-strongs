@@ -629,3 +629,28 @@ Persian entries and current tags:
 - p11: معرفت  → H1847
 - p12: گذاشته_می‌شود
 - p13: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 13:25 (context)
+
+- o1: צַדִּיק = H6662 צַדִּיק "just" [HAamsa]
+- o2: אֹכֵל = H398 אָכַל "to eat (literally or figuratively)" [HVqrmsa]
+- o3: לְ/שֹׂבַע = Hl "to" + H7648 שֹׂבַע "satisfaction (of food or (figuratively) joy)" [HR/Ncmsc]
+- o4: נַפְשׁ/וֹ = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsc/Sp3ms]
+- o5: וּ/בֶטֶן = Hc "and" + H990 בֶּטֶן "the belly, especially the womb…" [HC/Ncfsc]
+- o6: רְשָׁעִים = H7563 רָשָׁע "morally wrong…" [HAampa]
+- o7: תֶּחְסָר = H2637 חָסֵר "to lack; by implication, to fail, want, lessen" [HVqi3fs]
+
+### Proverbs 14:19 (context)
+
+- o1: שַׁחוּ = H7817 שָׁחַח "to sink or depress (reflexive or causative)" [HVqp3cp]
+- o2: רָעִים = H7451 רַע "bad or (as noun) evil (natural or moral)" [HAampa]
+- o3: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o4: טוֹבִים = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAampa]
+- o5: וּ/רְשָׁעִים = Hc "and" + H7563 רָשָׁע "morally wrong…" [HC/Aampa]
+- o6: עַל = H5921 עַל "above, over, upon…" [HR]
+- o7: שַׁעֲרֵי = H8179 שַׁעַר "an opening, i.e. door or gate" [HNcmpc]
+- o8: צַדִּיק = H6662 צַדִּיק "just" [HAamsa]

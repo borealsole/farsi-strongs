@@ -811,3 +811,33 @@ Persian entries and current tags:
 - p30: در  → Hb
 - p31: نسب‌نامه‌ها ثبت گردیدند  → H3187
 - p32: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 7:20 (context)
+
+- o1: וּ/בְנֵי = Hc "and" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/Ncmpc]
+- o2: אֶפְרַיִם = H669 אֶפְרַיִם "Ephrajim, a son of Joseph…" [HNp]
+- o3: שׁוּתָלַח = H7803 שׁוּתֶלַח "Shuthelach, the name of two Israelites" [HNp]
+- o4: וּ/בֶרֶד = Hc "and" + H1260 בֶּרֶד "Bered, the name of a place south of Palestine…" [HC/Np]
+- o5: בְּנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o6: וְ/תַחַת = Hc "and" + H8480 תַּחַת "Tachath, the name of a place in the Desert…" [HC/Np]
+- o7: בְּנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o8: וְ/אֶלְעָדָה = Hc "and" + H497 אֶלְעָדָה "Eladah, an Israelite" [HC/Np]
+- o9: בְנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o10: וְ/תַחַת = Hc "and" + H8480 תַּחַת "Tachath, the name of a place in the Desert…" [HC/Np]
+- o11: בְּנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+
+### I Chronicles 8:1 (context)
+
+- o1: וּ/בִנְיָמִן = Hc "and" + H1144 בִּנְיָמִין "Binjamin, youngest son of Jacob…" [HC/Np]
+- o2: הוֹלִיד = H3205 יָלַד "to bear young; causatively, to beget…" [HVhp3ms]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: בֶּלַע = H1106 בֶּלַע "Bela, the name of a place…" [HNp]
+- o5: בְּכֹר/וֹ = H1060 בְּכוֹר "firstborn; hence, chief" [HNcmsc/Sp3ms]
+- o6: אַשְׁבֵּל = H788 אַשְׁבֵּל "Ashbel, an Israelite" [HNp]
+- o7: הַ/שֵּׁנִי = Hd "the" + H8145 שֵׁנִי "properly, double, i.e. second…" [HTd/Aomsa]
+- o8: וְ/אַחְרַח = Hc "and" + H315 אַחְרַח "Achrach, an Israelite" [HC/Np]
+- o9: הַ/שְּׁלִישִׁי = Hd "the" + H7992 שְׁלִישִׁי "third; feminine athird (part)…" [HTd/Aomsa]

@@ -809,3 +809,53 @@ Persian entries and current tags:
 - p33: را
 - p34: خدمت کنیم  → G3000
 - p35: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Hebrews 8:13 (context)
+
+- o1: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o2: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSN]
+- o3: λέγειν = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAN]
+- o4: καινὴν = G2537 καινός "new" [A-ASF]
+- o5: πεπαλαίωκεν = G3822 παλαιόω "decay, make (wax) old" [V-RAI-3S]
+- o6: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o7: πρώτην· = G4413 πρῶτος "before, beginning, best, chief(-est)…" [A-ASF-S]
+- o8: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o9: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o10: παλαιούμενον = G3822 παλαιόω "decay, make (wax) old" [V-PPP-NSN]
+- o11: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o12: γηράσκον = G1095 γηράσκω "be (wax) old" [V-PAP-NSN]
+- o13: ἐγγὺς = G1451 ἐγγύς "from , at hand, near, nigh (at hand, unto), ready" [ADV]
+- o14: ἀφανισμοῦ. = G854 ἀφανισμός "vanish away" [N-GSM]
+
+### Hebrews 9:15 (context)
+
+- o1: Καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o3: τοῦτο = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-ASN]
+- o4: διαθήκης = G1242 διαθήκη "covenant, testament" [N-GSF]
+- o5: καινῆς = G2537 καινός "new" [A-GSF]
+- o6: μεσίτης = G3316 μεσίτης "mediator" [N-NSM]
+- o7: ἐστίν, = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o8: ὅπως = G3704 ὅπως "because, how, (so) that, to, when" [ADV]
+- o9: θανάτου = G2288 θάνατος "deadly, (be…) death" [N-GSM]
+- o10: γενομένου = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-2ADP-GSM]
+- o11: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o12: ἀπολύτρωσιν = G629 ἀπολύτρωσις "deliverance, redemption" [N-ASF]
+- o13: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPF]
+- o14: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o15: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o16: πρώτῃ = G4413 πρῶτος "before, beginning, best, chief(-est)…" [A-DSF-S]
+- o17: διαθήκῃ = G1242 διαθήκη "covenant, testament" [N-DSF]
+- o18: παραβάσεων = G3847 παράβασις "breaking, transgression" [N-GPF]
+- o19: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o20: ἐπαγγελίαν = G1860 ἐπαγγελία "message, promise" [N-ASF]
+- o21: λάβωσιν = G2983 λαμβάνω "accept, + be amazed, assay, attain, bring…" [V-2AAS-3P]
+- o22: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o23: κεκλημένοι = G2564 καλέω "bid, call (forth), (whose…" [V-RPP-NPM]
+- o24: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o25: αἰωνίου = G166 αἰώνιος "eternal, for ever, everlasting, world (began)" [A-GSF]
+- o26: κληρονομίας. = G2817 κληρονομία "inheritance" [N-GSF]

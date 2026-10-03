@@ -1078,3 +1078,51 @@ Persian entries and current tags:
 - p25: نخواهد_ماند
 - p26: .
 - p27: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 10:21 (context)
+
+- o1: παραδώσει = G3860 παραδίδωμι "betray, bring forth, cast, commit, deliver (up)…" [V-FAI-3S]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: ἀδελφὸς = G80 ἀδελφός "brother" [N-NSM]
+- o4: ἀδελφὸν = G80 ἀδελφός "brother" [N-ASM]
+- o5: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o6: θάνατον = G2288 θάνατος "deadly, (be…) death" [N-ASM]
+- o7: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o8: πατὴρ = G3962 πατήρ "father, parent" [N-NSM]
+- o9: τέκνον, = G5043 τέκνον "child, daughter, son" [N-ASN]
+- o10: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o11: ἐπαναστήσονται = G1881 ἐπανίσταμαι "rise up against" [V-FDI-3P]
+- o12: τέκνα = G5043 τέκνον "child, daughter, son" [N-NPN]
+- o13: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o14: γονεῖς = G1118 γονεύς "parent" [N-APM]
+- o15: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o16: θανατώσουσιν = G2289 θανατόω "become dead, (cause to be) put to death, kill…" [V-FAI-3P]
+- o17: αὐτούς. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-APM]
+
+### Matthew 11:1 (context)
+
+- o1: Καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἐγένετο = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-2ADI-3S]
+- o3: ὅτε = G3753 ὅτε "after (that), as soon as, that, when, while" [ADV]
+- o4: ἐτέλεσεν = G5055 τελέω "accomplish, make an end, expire, fill up, finish…" [V-AAI-3S]
+- o5: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o6: Ἰησοῦς = G2424 Ἰησοῦς "Jesus" [N-NSM]
+- o7: διατάσσων = G1299 διατάσσω "appoint, command, give, (set in) order, ordain" [V-PAP-NSM]
+- o8: τοῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPM]
+- o9: δώδεκα = G1427 δώδεκα "twelve" [A-NUI]
+- o10: μαθηταῖς = G3101 μαθητής "disciple" [N-DPM]
+- o11: αὐτοῦ, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o12: μετέβη = G3327 μεταβαίνω "depart, go, pass, remove" [V-2AAI-3S]
+- o13: ἐκεῖθεν = G1564 ἐκεῖθεν "from that place, (from) thence, there" [ADV]
+- o14: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
+- o15: διδάσκειν = G1321 διδάσκω "teach" [V-PAN]
+- o16: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o17: κηρύσσειν = G2784 κηρύσσω "preacher(-er), proclaim, publish" [V-PAN]
+- o18: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o19: ταῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPF]
+- o20: πόλεσιν = G4172 πόλις "city" [N-DPF]
+- o21: αὐτῶν. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]

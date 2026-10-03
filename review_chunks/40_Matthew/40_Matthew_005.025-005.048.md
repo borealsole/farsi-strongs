@@ -1211,3 +1211,62 @@ Persian entries and current tags:
 - p9: کامل  → G5046
 - p10: است
 - p11: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 5:24 (context)
+
+- o1: ἄφες = G863 ἀφίημι "cry, forgive, forsake, lay aside, leave…" [V-2AAM-2S]
+- o2: ἐκεῖ = G1563 ἐκεῖ "there, thither(-ward), (to) yonder (place)" [ADV]
+- o3: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o4: δῶρόν = G1435 δῶρον "gift, offering" [N-ASN]
+- o5: σου = G4771 σύ "thou" [P-2GS]
+- o6: ἔμπροσθεν = G1715 ἔμπροσθεν "against, at, before, (in presence, sight) of" [PREP]
+- o7: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
+- o8: θυσιαστηρίου, = G2379 θυσιαστήριον "altar" [N-GSN]
+- o9: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o10: ὕπαγε = G5217 ὑπάγω "depart, get hence, go (a-)way" [V-PAM-2S]
+- o11: πρῶτον = G4412 πρῶτον "before, at the beginning, chiefly (at…" [ADV-S]
+- o12: διαλλάγηθι = G1259 διαλλάσσω "reconcile" [V-2APM-2S]
+- o13: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o14: ἀδελφῷ = G80 ἀδελφός "brother" [N-DSM]
+- o15: σου, = G4771 σύ "thou" [P-2GS]
+- o16: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o17: τότε = G5119 τότε "that time, then" [ADV]
+- o18: ἐλθὼν = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-2AAP-NSM]
+- o19: πρόσφερε = G4374 προσφέρω "bring (to, unto), deal with, do, offer (unto, up)…" [V-PAM-2S]
+- o20: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o21: δῶρόν = G1435 δῶρον "gift, offering" [N-ASN]
+- o22: σου. = G4771 σύ "thou" [P-2GS]
+
+### Matthew 6:1 (context)
+
+- o1: Προσέχετε = G4337 προσέχω "give) attend(-ance, -ance at, -ance to, unto)…" [V-PAM-2P]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o4: δικαιοσύνην = G1343 δικαιοσύνη "righteousness" [N-ASF]
+- o5: ὑμῶν = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
+- o6: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o7: ποιεῖν = G4160 ποιέω "abide, + agree, appoint, avenge, + band together…" [V-PAN]
+- o8: ἔμπροσθεν = G1715 ἔμπροσθεν "against, at, before, (in presence, sight) of" [PREP]
+- o9: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o10: ἀνθρώπων = G444 ἄνθρωπος "certain, man" [N-GPM]
+- o11: πρὸς = G4314 πρός "about, according to , against, among, at…" [PREP]
+- o12: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o13: θεαθῆναι = G2300 θεάομαι "behold, look (upon), see" [V-APN]
+- o14: αὐτοῖς· = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPM]
+- o15: εἰ = G1487 εἰ "forasmuch as, if, that, (al-)though, whether" [COND]
+- o16: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o17: μήγε, = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o18: μισθὸν = G3408 μισθός "hire, reward, wages" [N-ASM]
+- o19: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o20: ἔχετε = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAI-2P]
+- o21: παρὰ = G3844 παρά "above, against, among, at, before, by…" [PREP]
+- o22: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o23: πατρὶ = G3962 πατήρ "father, parent" [N-DSM]
+- o24: ὑμῶν = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
+- o25: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o26: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o27: οὐρανοῖς. = G3772 οὐρανός "air, heaven(-ly), sky" [N-DPM]

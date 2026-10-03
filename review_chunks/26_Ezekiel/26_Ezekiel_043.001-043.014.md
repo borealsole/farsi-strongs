@@ -885,3 +885,37 @@ Persian entries and current tags:
 - p34: یک  → H259
 - p35: ذِراع  → H520
 - p36: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 42:20 (context)
+
+- o1: לְ/אַרְבַּע = Hl "to" + H702 אַרְבַּע "four" [HR/Acfsa]
+- o2: רוּחוֹת = H7307 רוּחַ "wind…" [HNcbpa]
+- o3: מְדָד/וֹ = H4058 מָדַד "properly, to stretch…" [HVqp3ms/Sp3ms]
+- o4: חוֹמָה = H2346 חוֹמָה "a wall of protection" [HNcfsa]
+- o5: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o6: סָבִיב = H5439 סָבִיב "as noun) a circle, neighbour, or environs…" [HNcbsa]
+- o7: סָבִיב = H5439 סָבִיב "as noun) a circle, neighbour, or environs…" [HNcbsa]
+- o8: אֹרֶךְ = H753 אֹרֶךְ "length" [HNcmsa]
+- o9: חֲמֵשׁ = H2568 חָמֵשׁ "five" [HAcfsa]
+- o10: מֵאוֹת = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbpa]
+- o11: וְ/רֹחַב = Hc "and" + H7341 רֹחַב "width (literally or figuratively)" [HC/Ncmsa]
+- o12: חֲמֵשׁ = H2568 חָמֵשׁ "five" [HAcfsa]
+- o13: מֵאוֹת = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbpa]
+- o14: לְ/הַבְדִּיל = Hl "to" + H914 בָּדַל "to divide (in variation senses literally or…" [HR/Vhc]
+- o15: בֵּין = H996 בֵּין "between (repeated before each noun…" [HR]
+- o16: הַ/קֹּדֶשׁ = Hd "the" + H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HTd/Ncmsa]
+- o17: לְ/חֹל = Hl "to" + H2455 חֹל "properly, exposed; hence, profane" [HR/Ncmsa]
+
+### Ezekiel 43:15 (context)
+
+- o1: וְ/הַ/הַרְאֵל = Hc "and" + Hd "the" + H2025 הַרְאֵל "mount of God…" [HC/Td/Ncmsa]
+- o2: אַרְבַּע = H702 אַרְבַּע "four" [HAcfsa]
+- o3: אַמּוֹת = H520 אַמָּה "properly, a mother (i.e. unit of measure…" [HNcfpa]
+- o4: וּ/מֵ/הָ/אֲרִאֵיל = Hc "and" + Hm "from" + Hd "the" + H741 אֲרִאֵיל "the altar of the temple" [HC/R/Td/Ncmsa]
+- o5: וּ/לְ/מַעְלָ/ה = Hc "and" + Hl "to" + H4605 מַעַל "properly, the upper part…" [HC/R/D/Sd]
+- o6: הַ/קְּרָנוֹת = Hd "the" + H7161 קֶרֶן "a horn (as projecting)…" [HTd/Ncbpa]
+- o7: אַרְבַּע = H702 אַרְבַּע "four" [HAcfsa]

@@ -778,3 +778,39 @@ Persian entries and current tags:
 - p14: و  → Hc
 - p15: مِراری  → H4847
 - p16: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 2:34 (context)
+
+- o1: וַ/יַּעֲשׂוּ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3mp]
+- o2: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o3: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o4: כְּ/כֹל = Hk "like" + H3605 כֹּל "properly, the whole…" [HR/Ncmsa]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: צִוָּה = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp3ms]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o10: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o11: חָנוּ = H2583 חָנָה "properly, to incline…" [HVqp3cp]
+- o12: לְ/דִגְלֵי/הֶם = Hl "to" + H1714 דֶּגֶל "a flag" [HR/Ncmpc/Sp3mp]
+- o13: וְ/כֵן = Hc "and" + H3651 כֵּן "properly, set upright…" [HC/Tm]
+- o14: נָסָעוּ = H5265 נָסַע "properly, to pull up, especially the tent-pins…" [HVqp3cp]
+- o15: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o16: לְ/מִשְׁפְּחֹתָי/ו = Hl "to" + H4940 מִשְׁפָּחָה "a family, i.e. circle of relatives…" [HR/Ncfpc/Sp3ms]
+- o17: עַל = H5921 עַל "above, over, upon…" [HR]
+- o18: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o19: אֲבֹתָי/ו = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp3ms]
+
+### Numbers 3:18 (context)
+
+- o1: וְ/אֵלֶּה = Hc "and" + H428 אֵלֶּה "these or those" [HC/Pdxcp]
+- o2: שְׁמוֹת = H8034 שֵׁם "an appellation…" [HNcmpc]
+- o3: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o4: גֵרְשׁוֹן = H1648 גֵּרְשׁוֹן "Gereshon or Gereshom, an Israelite" [HNp]
+- o5: לְ/מִשְׁפְּחֹתָ/ם = Hl "to" + H4940 מִשְׁפָּחָה "a family, i.e. circle of relatives…" [HR/Ncfpc/Sp3mp]
+- o6: לִבְנִי = H3845 לִבְנִי "Libni, an Israelite" [HNp]
+- o7: וְ/שִׁמְעִי = Hc "and" + H8096 שִׁמְעִי "Shimi, the name of twenty Israelites" [HC/Np]

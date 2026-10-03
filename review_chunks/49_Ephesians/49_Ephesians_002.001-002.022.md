@@ -1086,3 +1086,38 @@ Persian entries and current tags:
 - p20: ساکن  → G2732
 - p21: است
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ephesians 1:23 (context)
+
+- o1: ἥτις = G3748 ὅστις "and (they), (such) as, (they) that, in that they…" [R-NSF]
+- o2: ἐστὶν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o3: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o4: σῶμα = G4983 σῶμα "bodily, body, slave" [N-NSN]
+- o5: αὐτοῦ, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o6: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o7: πλήρωμα = G4138 πλήρωμα "which is put in to fill up, piece that filled up…" [N-NSN]
+- o8: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o9: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
+- o10: πάντα = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-APN]
+- o11: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o12: πᾶσιν = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-DPN]
+- o13: πληρουμένου. = G4137 πληρόω "accomplish, after, (be) complete, end, expire…" [V-PMP-GSM]
+
+### Ephesians 3:1 (context)
+
+- o1: Τούτου = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-GSN]
+- o2: χάριν = G5484 χάριν "be-(for) cause of, for sake of, +…fore…" [PREP]
+- o3: ἐγὼ = G1473 ἐγώ "I, me" [P-1NS]
+- o4: Παῦλος = G3972 Παῦλος "Paul, Paulus" [N-NSM]
+- o5: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o6: δέσμιος = G1198 δέσμιος "in bonds, prisoner" [N-NSM]
+- o7: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o8: Χριστοῦ = G5547 Χριστός "Christ" [N-GSM]
+- o9: ὑπὲρ = G5228 ὑπέρ "+ exceeding, abundantly) above…" [PREP]
+- o10: ὑμῶν = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
+- o11: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPN]
+- o12: ἐθνῶν = G1484 ἔθνος "Gentile, heathen, nation, people" [N-GPN]

@@ -947,3 +947,29 @@ Persian entries and current tags:
 - p17: و
 - p18: بی‌عیب  → H8549
 - p19: ،
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 28:31 (context)
+
+- o1: מִ/לְּ/בַד = Hm "from" + Hl "to" + H905 בַּד "properly, separation…" [HR/R/Ncmsc]
+- o2: עֹלַת = H5930 עֹלָה "a step or (collectively, stairs, as ascending)…" [HNcfsc]
+- o3: הַ/תָּמִיד = Hd "the" + H8548 תָּמִיד "properly, continuance (as indefinite extension)…" [HTd/Ncmsa]
+- o4: וּ/מִנְחָת/וֹ = Hc "and" + H4503 מִנְחָה "a donation; euphemistically, tribute…" [HC/Ncfsc/Sp3ms]
+- o5: תַּעֲשׂוּ = H6213 עָשָׂה "to do or make…" [HVqi2mp]
+- o6: תְּמִימִם = H8549 תָּמִים "entire (literally, figuratively or morally)…" [HAampa]
+- o7: יִהְיוּ = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3mp]
+- o8: לָ/כֶם = Hl "to" [HR/Sp2mp]
+- o9: וְ/נִסְכֵּי/הֶם = Hc "and" + H5262 נֶסֶךְ "a libation; also a cast idol" [HC/Ncmpc/Sp3mp]
+
+### Numbers 29:21 (context)
+
+- o1: וּ/מִנְחָתָ/ם = Hc "and" + H4503 מִנְחָה "a donation; euphemistically, tribute…" [HC/Ncfsc/Sp3mp]
+- o2: וְ/נִסְכֵּי/הֶם = Hc "and" + H5262 נֶסֶךְ "a libation; also a cast idol" [HC/Ncmpc/Sp3mp]
+- o3: לַ/פָּרִים = Hl "to" + H6499 פַּר "a bullock (apparently as breaking forth in wild…" [HRd/Ncmpa]
+- o4: לָ/אֵילִם = Hl "to" + H352 אַיִל "properly, strength; hence, anything strong…" [HRd/Ncmpa]
+- o5: וְ/לַ/כְּבָשִׂים = Hc "and" + Hl "to" + H3532 כֶּבֶשׂ "a ram (just old enough to butt)" [HC/Rd/Ncmpa]
+- o6: בְּ/מִסְפָּרָ/ם = Hb "in" + H4557 מִסְפָּר "a number…" [HR/Ncmsc/Sp3mp]
+- o7: כַּ/מִּשְׁפָּט = Hk "like" + H4941 מִשְׁפָּט "properly…" [HRd/Ncmsa]

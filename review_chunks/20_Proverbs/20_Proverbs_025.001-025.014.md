@@ -527,3 +527,27 @@ Persian entries and current tags:
 - p12: را
 - p13: می‌زند  → H8267
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 24:34 (context)
+
+- o1: וּ/בָא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqq3ms]
+- o2: מִתְהַלֵּךְ = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVtrmsa]
+- o3: רֵישֶׁ/ךָ = H7389 רֵישׁ "poverty" [HNcmsc/Sp2ms]
+- o4: וּ/מַחְסֹרֶי/ךָ = Hc "and" + H4270 מַחְסוֹר "deficiency; hence, impoverishment" [HC/Ncmpc/Sp2ms]
+- o5: כְּ/אִישׁ = Hk "like" + H376 אִישׁ "a man as an individual or a male person…" [HR/Ncmsa]
+- o6: מָגֵן = H4043 מָגֵן "a shield (i.e. the small one or buckler)…" [HNcbsa]
+
+### Proverbs 25:15 (context)
+
+- o1: בְּ/אֹרֶךְ = Hb "in" + H753 אֹרֶךְ "length" [HR/Ncmsc]
+- o2: אַפַּיִם = H639 אַף "properly, the nose or nostril…" [HNcmda]
+- o3: יְפֻתֶּה = H6601 פָּתָה "to open, i.e. be (causatively, make) roomy…" [HVPi3ms]
+- o4: קָצִין = H7101 קָצִין "a magistrate (as deciding) or other leader" [HNcmsa]
+- o5: וְ/לָשׁוֹן = Hc "and" + H3956 לָשׁוֹן "the tongue (of man or animals)…" [HC/Ncbsa]
+- o6: רַכָּה = H7390 רַךְ "tender (literally or figuratively)…" [HAafsa]
+- o7: תִּשְׁבָּר = H7665 שָׁבַר "to burst (literally or figuratively)" [HVqi3fs]
+- o8: גָּרֶם = H1634 גֶּרֶם "a bone (as the skeleton of the body)…" [HNcmsa]

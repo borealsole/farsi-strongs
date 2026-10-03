@@ -573,3 +573,28 @@ Persian entries and current tags:
 - p12: به  → Hl
 - p13: گناه  → H2403
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 9:18 (context)
+
+- o1: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o2: יָדַע = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqp3ms]
+- o3: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o4: רְפָאִים = H7496 רָפָא "properly, lax…" [HNcmpa]
+- o5: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o6: בְּ/עִמְקֵי = Hb "in" + H6012 עָמֵק "deep (literally or figuratively)" [HR/Ncmpc]
+- o7: שְׁאוֹל = H7585 שְׁאוֹל "Hades or the world of the dead (as if a…" [HNp]
+- o8: קְרֻאֶי/הָ = H7121 קָרָא "to call out to (i.e. properly, address by name…" [HVqsmpc/Sp3fs]
+
+### Proverbs 10:17 (context)
+
+- o1: אֹרַח = H734 אֹרַח "a well-trodden road (literally or figuratively)…" [HNcbsa]
+- o2: לְ/חַיִּים = Hl "to" + H2416 חַי "alive; hence, raw (flesh)…" [HR/Ncmpa]
+- o3: שׁוֹמֵר = H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HVqrmsa]
+- o4: מוּסָר = H4148 מוּסָר "properly, chastisement…" [HNcmsa]
+- o5: וְ/עוֹזֵב = Hc "and" + H5800 עָזַב "to loosen, i.e. relinquish, permit, etc" [HC/Vqrmsa]
+- o6: תּוֹכַחַת = H8433 תּוֹכֵחָה "chastisement…" [HNcfsa]
+- o7: מַתְעֶה = H8582 תָּעָה "to vacillate…" [HVhrmsa]

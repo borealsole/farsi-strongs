@@ -731,3 +731,54 @@ Persian entries and current tags:
 - p21: تشخیص  → G1253
 - p22: دهند
 - p23: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Hebrews 4:16 (context)
+
+- o1: προσερχώμεθα = G4334 προσέρχομαι "as soon as he) come (unto), come thereunto…" [V-PNS-1P]
+- o2: οὖν = G3767 οὖν "and (so, truly), but, now (then)…" [CONJ]
+- o3: μετὰ = G3326 μετά "after(-ward), that he again, against, among, and…" [PREP]
+- o4: παρρησίας = G3954 παῤῥησία "bold ( -ly, -ness, -ness of speech), confidence…" [N-GSF]
+- o5: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o6: θρόνῳ = G2362 θρόνος "seat, throne" [N-DSM]
+- o7: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o8: χάριτος, = G5485 χάρις "acceptable, benefit, favour, gift, grace(- ious)…" [N-GSF]
+- o9: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o10: λάβωμεν = G2983 λαμβάνω "accept, + be amazed, assay, attain, bring…" [V-2AAS-1P]
+- o11: ἔλεος = G1656 ἔλεος "(+ tender) mercy" [N-ASN]
+- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o13: χάριν = G5485 χάρις "acceptable, benefit, favour, gift, grace(- ious)…" [N-ASF]
+- o14: εὕρωμεν = G2147 εὑρίσκω "find, get, obtain, perceive, see" [V-2AAS-1P]
+- o15: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o16: εὔκαιρον = G2121 εὔκαιρος "convenient, in time of need" [A-ASF]
+- o17: βοήθειαν. = G996 βοήθεια "help" [N-ASF]
+
+### Hebrews 6:1 (context)
+
+- o1: Διὸ = G1352 διό "for which cause, therefore, wherefore" [CONJ]
+- o2: ἀφέντες = G863 ἀφίημι "cry, forgive, forsake, lay aside, leave…" [V-2AAP-NPM]
+- o3: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o4: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o5: ἀρχῆς = G746 ἀρχή "beginning, corner, (at the, the) first (estate)…" [N-GSF]
+- o6: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o7: Χριστοῦ = G5547 Χριστός "Christ" [N-GSM]
+- o8: λόγον = G3056 λόγος "account, cause, communication, concerning…" [N-ASM]
+- o9: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o10: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o11: τελειότητα = G5047 τελειότης "perfection(-ness)" [N-ASF]
+- o12: φερώμεθα, = G5342 φέρω "be, bear, bring (forth), carry, come…" [V-PPS-1P]
+- o13: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o14: πάλιν = G3825 πάλιν "again" [ADV]
+- o15: θεμέλιον = G2310 θεμέλιος "foundation" [N-ASM]
+- o16: καταβαλλόμενοι = G2598 καταβάλλω "cast down, lay" [V-PMP-NPM]
+- o17: μετανοίας = G3341 μετάνοια "repentance" [N-GSF]
+- o18: ἀπὸ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
+- o19: νεκρῶν = G3498 νεκρός "dead" [A-GPN]
+- o20: ἔργων, = G2041 ἔργον "deed, doing, labour, work" [N-GPN]
+- o21: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o22: πίστεως = G4102 πίστις "assurance, belief, believe, faith, fidelity" [N-GSF]
+- o23: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o24: θεόν, = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-ASM]

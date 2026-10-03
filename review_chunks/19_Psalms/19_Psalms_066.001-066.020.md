@@ -733,3 +733,33 @@ Persian entries and current tags:
 - p14: دریغ
 - p15: نداشته_است  → H3808
 - p16: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 65:13 (context)
+
+- o1: לָבְשׁוּ = H3847 לָבַשׁ "properly, wrap around…" [HVqp3cp]
+- o2: כָרִים = H3733 כַּר "a ram (as full-grown and fat)…" [HNcmpa]
+- o3: הַ/צֹּאן = Hd "the" + H6629 צֹאן "a collective name for a flock (of sheep or goats)…" [HTd/Ncbsa]
+- o4: וַ/עֲמָקִים = Hc "and" + H6010 עֵמֶק "a vale (i.e. broad depression)" [HC/Ncmpa]
+- o5: יַעַטְפוּ = H5848 עָטַף "to shroud…" [HVqi3mp]
+- o6: בָר = H1250 בָּר "grain of any kind (even while standing in the…" [HNcmsa]
+- o7: יִתְרוֹעֲעוּ = H7321 רוּעַ "to mar (especially by breaking)…" [HVri3mp]
+- o8: אַף = H637 אַף "meaning accession (used as an adverb or…" [HTa]
+- o9: יָשִׁירוּ = H7891 שִׁיר "to sing" [HVqi3mp]
+
+### Psalms 67:1 (context)
+
+- o1: לַ/מְנַצֵּח = Hl "to" + H5329 נָצַח "properly, to glitter from afar…" [HRd/Vprmsa]
+- o2: בִּ/נְגִינֹת = Hb "in" + H5058 נְגִינָה "properly, instrumental music…" [HR/Ncfpa]
+- o3: מִזְמוֹר = H4210 מִזְמוֹר "properly, instrumental music…" [HNcmsa]
+- o4: שִׁיר = H7892 שִׁיר "a song; abstractly, singing" [HNcbsa]
+- o5: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o6: יְחָנֵּ/נוּ = H2603 חָנַן "properly…" [HVpi3ms/Sp1cp]
+- o7: וִ/יבָרְכֵ/נוּ = Hc "and" + H1288 בָרַךְ "to kneel…" [HC/Vpi3ms/Sp1cp]
+- o8: יָאֵר = H215 אוֹר "to be (causative…" [HVhj3ms]
+- o9: פָּנָי/ו = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc/Sp3ms]
+- o10: אִתָּ/נוּ = H854 אֵת "properly…" [HR/Sp1cp]
+- o11: סֶלָה = H5542 סֶלָה "suspension (of music), i.e. pause" [HTj]

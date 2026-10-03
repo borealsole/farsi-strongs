@@ -721,3 +721,33 @@ Persian entries and current tags:
 - p12: مرا
 - p13: فدیه نما  → H1350 H6299
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 68:35 (context)
+
+- o1: נוֹרָא = H3372 יָרֵא "to fear; morally, to revere; caus. to frighten" [HVNrmsa]
+- o2: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o3: מִ/מִּקְדָּשֶׁי/ךָ = Hm "from" + H4720 מִקְדָּשׁ "a consecrated thing or place, especially…" [HR/Ncmpc/Sp2ms]
+- o4: אֵל = H410 אֵל "strength; as adjective, mighty…" [HNcmsc]
+- o5: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o6: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o7: נֹתֵן = H5414 נָתַן "to give…" [HVqrmsa]
+- o8: עֹז = H5797 עֹז "strength in various applications (force, security…" [HNcmsa]
+- o9: וְ/תַעֲצֻמוֹת = Hc "and" + H8592 תַּעֲצֻמָה "might (plural collective)" [HC/Ncfpa]
+- o10: לָ/עָם = Hl "to" + H5971 עַם "a people (as a congregated unit)…" [HRd/Ncmsa]
+- o11: בָּרוּךְ = H1288 בָרַךְ "to kneel…" [HVqsmsa]
+- o12: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+
+### Psalms 69:19 (context)
+
+- o1: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o2: יָדַעְתָּ = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqp2ms]
+- o3: חֶרְפָּתִ/י = H2781 חֶרְפָּה "contumely, disgrace, the pudenda" [HNcfsc/Sp1cs]
+- o4: וּ/בָשְׁתִּ/י = Hc "and" + H1322 בֹּשֶׁת "shame (the feeling and the condition…" [HC/Ncfsc/Sp1cs]
+- o5: וּ/כְלִמָּתִ/י = Hc "and" + H3639 כְּלִמָּה "disgrace" [HC/Ncfsc/Sp1cs]
+- o6: נֶגְדְּ/ךָ = H5048 נֶגֶד "a front, i.e. part opposite…" [HR/Sp2ms]
+- o7: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o8: צוֹרְרָ/י = H6887 צָרַר "to cramp, literally or figuratively…" [HVqrmpc/Sp1cs]

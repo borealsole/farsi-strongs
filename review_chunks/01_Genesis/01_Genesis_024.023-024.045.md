@@ -1167,3 +1167,44 @@ Persian entries and current tags:
 - p36: بنوشان  → H8248
 - p37: .
 - p38: “
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 24:22 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o3: כִּלּוּ = H3615 כָּלָה "to end, whether intransitive (to cease…" [HVpp3cp]
+- o4: הַ/גְּמַלִּים = Hd "the" + H1581 גָּמָל "a camel" [HTd/Ncmpa]
+- o5: לִ/שְׁתּוֹת = Hl "to" + H8354 שָׁתָה "to imbibe (literally or figuratively)" [HR/Vqc]
+- o6: וַ/יִּקַּח = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqw3ms]
+- o7: הָ/אִישׁ = Hd "the" + H376 אִישׁ "a man as an individual or a male person…" [HTd/Ncmsa]
+- o8: נֶזֶם = H5141 נֶזֶם "a nose-ring" [HNcmsc]
+- o9: זָהָב = H2091 זָהָב "gold, figuratively…" [HNcmsa]
+- o10: בֶּקַע = H1235 בֶּקַע "a section (half) of ashekel…" [HNcmsa]
+- o11: מִשְׁקָל/וֹ = H4948 מִשְׁקָל "weight (numerically estimated)…" [HNcmsc/Sp3ms]
+- o12: וּ/שְׁנֵי = Hc "and" + H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HC/Acmdc]
+- o13: צְמִידִים = H6781 צָמִיד "a bracelet or arm-clasp; generally, a lid" [HNcmpa]
+- o14: עַל = H5921 עַל "above, over, upon…" [HR]
+- o15: יָדֶי/הָ = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbdc/Sp3fs]
+- o16: עֲשָׂרָה = H6235 עֶשֶׂר "ten (as an accumulation to the extent of the…" [HAcmsa]
+- o17: זָהָב = H2091 זָהָב "gold, figuratively…" [HNcmsa]
+- o18: מִשְׁקָלָ/ם = H4948 מִשְׁקָל "weight (numerically estimated)…" [HNcmsc/Sp3mp]
+
+### Genesis 24:46 (context)
+
+- o1: וַ/תְּמַהֵר = Hc "and" + H4116 מָהַר "properly, to be liquid or flow easily…" [HC/Vpw3fs]
+- o2: וַ/תּוֹרֶד = Hc "and" + H3381 יָרַד "to descend (literally, to go downwards…" [HC/Vhw3fs]
+- o3: כַּדָּ/הּ = H3537 כַּד "properly, a pail; but generally of earthenware…" [HNcfsc/Sp3fs]
+- o4: מֵ/עָלֶי/הָ = Hm "from" + H5921 עַל "above, over, upon…" [HR/R/Sp3fs]
+- o5: וַ/תֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3fs]
+- o6: שְׁתֵה = H8354 שָׁתָה "to imbibe (literally or figuratively)" [HVqv2ms]
+- o7: וְ/גַם = Hc "and" + H1571 גַּם "properly, assemblage…" [HC/Ta]
+- o8: גְּמַלֶּי/ךָ = H1581 גָּמָל "a camel" [HNcmpc/Sp2ms]
+- o9: אַשְׁקֶה = H8248 שָׁקָה "to quaff…" [HVhi1cs]
+- o10: וָ/אֵשְׁתְּ = Hc "and" + H8354 שָׁתָה "to imbibe (literally or figuratively)" [HC/Vqw1cs]
+- o11: וְ/גַם = Hc "and" + H1571 גַּם "properly, assemblage…" [HC/Ta]
+- o12: הַ/גְּמַלִּים = Hd "the" + H1581 גָּמָל "a camel" [HTd/Ncmpa]
+- o13: הִשְׁקָתָה = H8248 שָׁקָה "to quaff…" [HVhp3fs]

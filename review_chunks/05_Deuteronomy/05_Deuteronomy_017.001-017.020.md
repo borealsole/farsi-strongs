@@ -1203,3 +1203,36 @@ Persian entries and current tags:
 - p32: هم
 - p33: پسرانش  → H1121
 - p34: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 16:22 (context)
+
+- o1: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o2: תָקִים = H6965 קוּם "to rise (in various applications, literal…" [HVhi2ms]
+- o3: לְ/ךָ = Hl "to" [HR/Sp2ms]
+- o4: מַצֵּבָה = H4676 מַצֵּבָה "something stationed…" [HNcfsa]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: שָׂנֵא = H8130 שָׂנֵא "to hate (personally)" [HVqp3ms]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: אֱלֹהֶי/ךָ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2ms]
+
+### Deuteronomy 18:1 (context)
+
+- o1: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o2: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o3: לַ/כֹּהֲנִים = Hl "to" + H3548 כֹּהֵן "literally one officiating, a priest…" [HRd/Ncmpa]
+- o4: הַ/לְוִיִּם = Hd "the" + H3881 לֵוִיִּי "a Levite or descendant of Levi" [HTd/Ngmpa]
+- o5: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o6: שֵׁבֶט = H7626 שֵׁבֶט "a scion, i.e. (literally) a stick (for punishing…" [HNcmsc]
+- o7: לֵוִי = H3878 לֵוִי "Levi, a son of Jacob" [HNp]
+- o8: חֵלֶק = H2506 חֵלֶק "properly, smoothness (of the tongue)…" [HNcmsa]
+- o9: וְ/נַחֲלָה = Hc "and" + H5159 נַחֲלָה "properly, something inherited…" [HC/Ncfsa]
+- o10: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o11: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o12: אִשֵּׁי = H801 אִשָּׁה "properly, a burnt-offering…" [HNcmpc]
+- o13: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o14: וְ/נַחֲלָת/וֹ = Hc "and" + H5159 נַחֲלָה "properly, something inherited…" [HC/Ncfsc/Sp3ms]
+- o15: יֹאכֵלוּ/ן = H398 אָכַל "to eat (literally or figuratively)" [HVqi3mp/Sn]

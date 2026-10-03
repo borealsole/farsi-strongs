@@ -744,3 +744,44 @@ Persian entries and current tags:
 - p31: شهر  → H7151
 - p32: ضعف می‌کنند  → H5848
 - p33: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Lamentations 1:22 (context)
+
+- o1: תָּבֹא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqi3fs]
+- o2: כָל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: רָעָתָ/ם = H7451 רַע "bad or (as noun) evil (natural or moral)" [HNcfsc/Sp3mp]
+- o4: לְ/פָנֶי/ךָ = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp2ms]
+- o5: וְ/עוֹלֵל = Hc "and" + H5953 עָלַל "to effect thoroughly…" [HC/Vmv2ms]
+- o6: לָ/מוֹ = Hl "to" [HR/Sp3mp]
+- o7: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o8: עוֹלַלְתָּ = H5953 עָלַל "to effect thoroughly…" [HVmp2ms]
+- o9: לִ/י = Hl "to" [HR/Sp1cs]
+- o10: עַל = H5921 עַל "above, over, upon…" [HR]
+- o11: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o12: פְּשָׁעָ/י = H6588 פֶּשַׁע "a revolt (national, moral or religious)" [HNcmpc/Sp1cs]
+- o13: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o14: רַבּוֹת = H7227 רַב "abundant (in quantity, size, age, number, rank…" [HAafpa]
+- o15: אַנְחֹתַ/י = H585 אֲנָחָה "sighing" [HNcfpc/Sp1cs]
+- o16: וְ/לִבִּ/י = Hc "and" + H3820 לֵב "the heart…" [HC/Ncmsc/Sp1cs]
+- o17: דַוָּי = H1742 דַּוָּי "sick; figuratively, troubled" [HAamsa]
+
+### Lamentations 2:12 (context)
+
+- o1: לְ/אִמֹּתָ/ם = Hl "to" + H517 אֵם "a mother (as the bond of the family)…" [HR/Ncfpc/Sp3mp]
+- o2: יֹאמְרוּ = H559 אָמַר "to say (used with great latitude)" [HVqi3mp]
+- o3: אַיֵּה = H346 אַיֵּה "where?" [HTi]
+- o4: דָּגָן = H1715 דָּגָן "properly, increase, i.e. grain" [HNcmsa]
+- o5: וָ/יָיִן = Hc "and" + H3196 יַיִן "wine (as fermented); by implication, intoxication" [HC/Ncmsa]
+- o6: בְּ/הִתְעַטְּפָ/ם = Hb "in" + H5848 עָטַף "to shroud…" [HR/Vtc/Sp3mp]
+- o7: כֶּ/חָלָל = Hk "like" + H2491 חָלָל "pierced (especially to death)…" [HRd/Aamsa]
+- o8: בִּ/רְחֹבוֹת = Hb "in" + H7339 רְחֹב "a width, i.e. (concretely) avenue or area" [HR/Ncfpc]
+- o9: עִיר = H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HNcfsa]
+- o10: בְּ/הִשְׁתַּפֵּךְ = Hb "in" + H8210 שָׁפַךְ "to spill forth (blood, a libation, liquid metal…" [HR/Vtc]
+- o11: נַפְשָׁ/ם = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsc/Sp3mp]
+- o12: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o13: חֵיק = H2436 חֵיק "the bosom (literally or figuratively)" [HNcmsc]
+- o14: אִמֹּתָ/ם = H517 אֵם "a mother (as the bond of the family)…" [HNcfpc/Sp3mp]

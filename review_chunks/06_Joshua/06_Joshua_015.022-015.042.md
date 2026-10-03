@@ -529,3 +529,29 @@ Persian entries and current tags:
 - p4: ،
 - p5: عاشان  → H6228
 - p6: ،
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Joshua 15:21 (context)
+
+- o1: וַ/יִּהְיוּ = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3mp]
+- o2: הֶ/עָרִים = Hd "the" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HTd/Ncfpa]
+- o3: מִ/קְצֵה = Hm "from" + H7097 קָצֶה "an extremity" [HR/Ncbsc]
+- o4: לְ/מַטֵּה = Hl "to" + H4294 מַטֶּה "a branch (as extending); figuratively, a tribe…" [HR/Ncmsc]
+- o5: בְנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o6: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o7: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o8: גְּבוּל = H1366 גְּבוּל "properly, a cord (as twisted)…" [HNcmsc]
+- o9: אֱדוֹם = H123 אֱדֹם "Edom, the elder twin-brother of Jacob…" [HNp]
+- o10: בַּ/נֶּגְבָּ/ה = Hb "in" + H5045 נֶגֶב "the south (from its drought)…" [HRd/Ncmsa/Sd]
+- o11: קַבְצְאֵל = H6909 קַבְצְאֵל "Kabtseel, a place in Palestine" [HNp]
+- o12: וְ/עֵדֶר = Hc "and" + H5740 עֵדֶר "Eder…" [HC/Np]
+- o13: וְ/יָגוּר = Hc "and" + H3017 יָגוּר "Jagur, a place in Palestine" [HC/Np]
+
+### Joshua 15:43 (context)
+
+- o1: וְ/יִפְתָּח = Hc "and" + H3316 יִפְתָּח "Jiphtach, an Israelite; also a place in Palestine" [HC/Np]
+- o2: וְ/אַשְׁנָה = Hc "and" + H823 אַשְׁנָה "Ashnah, the name of two places in Palestine" [HC/Np]
+- o3: וּ/נְצִיב = Hc "and" + H5334 נְצִיב "Netsib, a place in Palestine" [HC/Np]

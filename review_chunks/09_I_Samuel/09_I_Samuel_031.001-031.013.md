@@ -728,3 +728,20 @@ Persian entries and current tags:
 - p17: روزه  → H6684 H3117
 - p18: گرفتند
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 30:31 (context)
+
+- o1: וְ/לַ/אֲשֶׁר = Hc "and" + Hl "to" + H834 אֲשֶׁר "who, which, what, that…" [HC/R/Tr]
+- o2: בְּ/חֶבְרוֹן = Hb "in" + H2275 חֶבְרוֹן "Chebron, a place in Palestine…" [HR/Np]
+- o3: וּ/לְ/כָל = Hc "and" + Hl "to" + H3605 כֹּל "properly, the whole…" [HC/R/Ncmsc]
+- o4: הַ/מְּקֹמוֹת = Hd "the" + H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HTd/Ncmpa]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: הִתְהַלֶּךְ = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVtp3ms]
+- o7: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o8: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o9: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o10: וַ/אֲנָשָׁי/ו = Hc "and" + H376 אִישׁ "a man as an individual or a male person…" [HC/Ncmpc/Sp3ms]

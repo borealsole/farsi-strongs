@@ -782,3 +782,39 @@ Persian entries and current tags:
 - p35: خواهد_شد
 - p36: .
 - p37: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Zechariah 5:11 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o3: לִ/בְנוֹת = Hl "to" + H1129 בָּנָה "to build (literally and figuratively)" [HR/Vqc]
+- o4: לָ/ה = Hl "to" [HR/Sp3fs]
+- o5: בַיִת = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsa]
+- o6: בְּ/אֶרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o7: שִׁנְעָר = H8152 שִׁנְעָר "Shinar, a plain in Babylonia" [HNp]
+- o8: וְ/הוּכַן = Hc "and" + H3559 כּוּן "properly, to be erect (i.e. stand perpendicular)…" [HC/VHq3ms]
+- o9: וְ/הֻנִּיחָה = Hc "and" + H3240 יָנַח "to deposit; by implication, to allow to stay" [HC/VHq3fs]
+- o10: שָּׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o11: עַל = H5921 עַל "above, over, upon…" [HR]
+- o12: מְכֻנָתָ/הּ = H4369 מְכֻנָה "a spot" [HNcfsc/Sp3fs]
+
+### Zechariah 7:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: בִּ/שְׁנַת = Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HR/Ncfsc]
+- o3: אַרְבַּע = H702 אַרְבַּע "four" [HAcfsa]
+- o4: לְ/דָרְיָוֶשׁ = Hl "to" + H1867 דָּרְיָוֵשׁ "Darejavesh…" [HR/Np]
+- o5: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o6: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o7: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o8: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o9: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o10: זְכַרְיָה = H2148 זְכַרְיָה "Zecarjah, the name of twenty-nine Israelites" [HNp]
+- o11: בְּ/אַרְבָּעָה = Hb "in" + H702 אַרְבַּע "four" [HR/Acmsa]
+- o12: לַ/חֹדֶשׁ = Hl "to" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HRd/Ncmsa]
+- o13: הַ/תְּשִׁעִי = Hd "the" + H8671 תְּשִׁיעִי "ninth" [HTd/Aomsa]
+- o14: בְּ/כִסְלֵו = Hb "in" + H3691 כִּסְלֵו "Kisleu, the 9th Hebrew month" [HR/Np]

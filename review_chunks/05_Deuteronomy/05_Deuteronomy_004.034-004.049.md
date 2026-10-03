@@ -892,3 +892,46 @@ Persian entries and current tags:
 - p14: کوه
 - p15: پیسگاه  → H6449
 - p16: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 4:33 (context)
+
+- o1: הֲ/שָׁמַע = Hi "(untranslatable; interrogative particle)" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HTi/Vqp3ms]
+- o2: עָם = H5971 עַם "a people (as a congregated unit)…" [HNcmsa]
+- o3: קוֹל = H6963 קוֹל "a voice or sound" [HNcmsc]
+- o4: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o5: מְדַבֵּר = H1696 דָבַר "perhaps properly, to arrange…" [HVprmsa]
+- o6: מִ/תּוֹךְ = Hm "from" + H8432 תָּוֶךְ "a bisection, i.e. (by implication) the centre" [HR/Ncmsc]
+- o7: הָ/אֵשׁ = Hd "the" + H784 אֵשׁ "fire (literally or figuratively)" [HTd/Ncbsa]
+- o8: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o9: שָׁמַעְתָּ = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqp2ms]
+- o10: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o11: וַ/יֶּחִי = Hc "and" + H2421 חָיָה "to live, whether literally or figuratively…" [HC/Vqw3ms]
+
+### Deuteronomy 5:1 (context)
+
+- o1: וַ/יִּקְרָא = Hc "and" + H7121 קָרָא "to call out to (i.e. properly, address by name…" [HC/Vqw3ms]
+- o2: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o5: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o6: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o7: אֲלֵ/הֶם = H413 אֵל "near, with or among; often in general, to" [HR/Sp3mp]
+- o8: שְׁמַע = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqv2ms]
+- o9: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o10: אֶת = H853 אֵת "properly…" [HTo]
+- o11: הַ/חֻקִּים = Hd "the" + H2706 חֹק "an enactment…" [HTd/Ncmpa]
+- o12: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o13: הַ/מִּשְׁפָּטִים = Hd "the" + H4941 מִשְׁפָּט "properly…" [HTd/Ncmpa]
+- o14: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o15: אָנֹכִי = H595 אָנֹכִי "I" [HPp1cs]
+- o16: דֹּבֵר = H1696 דָבַר "perhaps properly, to arrange…" [HVqrmsa]
+- o17: בְּ/אָזְנֵי/כֶם = Hb "in" + H241 אֹזֶן "broadness. i.e. (concrete) the ear (from its form…" [HR/Ncfdc/Sp2mp]
+- o18: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o19: וּ/לְמַדְתֶּם = Hc "and" + H3925 לָמַד "properly, to goad…" [HC/Vqq2mp]
+- o20: אֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o21: וּ/שְׁמַרְתֶּם = Hc "and" + H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HC/Vqq2mp]
+- o22: לַ/עֲשֹׂתָ/ם = Hl "to" + H6213 עָשָׂה "to do or make…" [HR/Vqc/Sp3mp]

@@ -1110,3 +1110,54 @@ Persian entries and current tags:
 - p15: مسیحْ  → G166 G5547 G2962
 - p16: عیساست  → G2424
 - p17: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Romans 5:21 (context)
+
+- o1: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o2: ὥσπερ = G5618 ὥσπερ "(even, like) as" [ADV]
+- o3: ἐβασίλευσεν = G936 βασιλεύω "king, reign" [V-AAI-3S]
+- o4: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o5: ἁμαρτία = G266 ἁμαρτία "offence, sin(-ful)" [N-NSF]
+- o6: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o7: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o8: θανάτῳ, = G2288 θάνατος "deadly, (be…) death" [N-DSM]
+- o9: οὕτως = G3779 οὕτω "after that, after (in) this manner, as, even (so)…" [ADV]
+- o10: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o11: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o12: χάρις = G5485 χάρις "acceptable, benefit, favour, gift, grace(- ious)…" [N-NSF]
+- o13: βασιλεύσῃ = G936 βασιλεύω "king, reign" [V-AAS-3S]
+- o14: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o15: δικαιοσύνης = G1343 δικαιοσύνη "righteousness" [N-GSF]
+- o16: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o17: ζωὴν = G2222 ζωή "life(-time)" [N-ASF]
+- o18: αἰώνιον = G166 αἰώνιος "eternal, for ever, everlasting, world (began)" [A-ASF]
+- o19: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o20: Ἰησοῦ = G2424 Ἰησοῦς "Jesus" [N-GSM]
+- o21: Χριστοῦ = G5547 Χριστός "Christ" [N-GSM]
+- o22: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o23: κυρίου = G2962 κύριος "God, Lord, master, Sir" [N-GSM]
+- o24: ἡμῶν. = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+
+### Romans 7:1 (context)
+
+- o1: Ἢ = G2228 ἤ "and, but (either), (n-)either, except it be…" [PRT]
+- o2: ἀγνοεῖτε, = G50 ἀγνοέω "be) ignorant(-ly), not know, not understand…" [V-PAI-2P]
+- o3: ἀδελφοί, = G80 ἀδελφός "brother" [N-VPM]
+- o4: γινώσκουσιν = G1097 γινώσκω "allow, be aware (of), feel, (have) know(-ledge)…" [V-PAP-DPM]
+- o5: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o6: νόμον = G3551 νόμος "law" [N-ASM]
+- o7: λαλῶ, = G2980 λαλέω "preach, say, speak (after), talk, tell, utter" [V-PAI-1S]
+- o8: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o9: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o10: νόμος = G3551 νόμος "law" [N-NSM]
+- o11: κυριεύει = G2961 κυριεύω "have dominion over, lord, be lord of…" [V-PAI-3S]
+- o12: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o13: ἀνθρώπου = G444 ἄνθρωπος "certain, man" [N-GSM]
+- o14: ἐφ’ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o15: ὅσον = G3745 ὅσος "all (that), as (long, many, much) (as)…" [K-ASM]
+- o16: χρόνον = G5550 χρόνος "+ years old, season, space, ( often-)time(-s)…" [N-ASM]
+- o17: ζῇ; = G2198 ζάω "life(-time), (a-)live(-ly), quick" [V-PAI-3S]

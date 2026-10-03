@@ -615,3 +615,20 @@ Persian entries and current tags:
 - p14: دیده_شود
 - p15: .
 - p16: “
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 20:13 (context)
+
+- o1: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o2: תִּרְצָח = H7523 רָצַח "properly, to dash in pieces…" [HVqi2ms]
+
+### Exodus 21:1 (context)
+
+- o1: וְ/אֵלֶּה = Hc "and" + H428 אֵלֶּה "these or those" [HC/Pdxcp]
+- o2: הַ/מִּשְׁפָּטִים = Hd "the" + H4941 מִשְׁפָּט "properly…" [HTd/Ncmpa]
+- o3: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o4: תָּשִׂים = H7760 שׂוּם "to put (used in a great variety of applications…" [HVqi2ms]
+- o5: לִ/פְנֵי/הֶם = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp3mp]

@@ -807,3 +807,33 @@ Persian entries and current tags:
 - p22: بدرقه
 - p23: کند
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 17:27 (context)
+
+- o1: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o2: אַנְשֵׁי = H376 אִישׁ "a man as an individual or a male person…" [HNcmpc]
+- o3: בֵית/וֹ = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc/Sp3ms]
+- o4: יְלִיד = H3211 יָלִיד "born" [HNcmsc]
+- o5: בָּיִת = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsa]
+- o6: וּ/מִקְנַת = Hc "and" + H4736 מִקְנָה "properly, a buying, i.e. acquisition…" [HC/Ncfsc]
+- o7: כֶּסֶף = H3701 כֶּסֶף "silver (from its pale color)…" [HNcmsa]
+- o8: מֵ/אֵת = Hm "from" + H854 אֵת "properly…" [HR/R]
+- o9: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o10: נֵכָר = H5236 נֵכָר "foreign, or (concretely) a foreigner…" [HNcmsa]
+- o11: נִמֹּלוּ = H4135 מוּל "to cut short…" [HVNp3cp]
+- o12: אִתּ/וֹ = H854 אֵת "properly…" [HR/Sp3ms]
+
+### Genesis 18:17 (context)
+
+- o1: וַ/יהֹוָה = Hc "and" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HC/Np]
+- o2: אָמָר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o3: הַ/מְכַסֶּה = Hi "(untranslatable; interrogative particle)" + H3680 כָּסָה "properly, to plump, i.e. fill up hollows…" [HTi/Vprmsa]
+- o4: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o5: מֵ/אַבְרָהָם = Hm "from" + H85 אַבְרָהָם "Abraham, the later name of Abram" [HR/Np]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o8: עֹשֶׂה = H6213 עָשָׂה "to do or make…" [HVqrmsa]

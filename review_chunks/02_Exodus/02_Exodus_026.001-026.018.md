@@ -830,3 +830,41 @@ Persian entries and current tags:
 - p5: بیست  → H6242
 - p6: تخته  → H7175
 - p7: بساز  → H6213
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 25:40 (context)
+
+- o1: וּ/רְאֵה = Hc "and" + H7200 רָאָה "to see…" [HC/Vqv2ms]
+- o2: וַ/עֲשֵׂה = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqv2ms]
+- o3: בְּ/תַבְנִיתָ/ם = Hb "in" + H8403 תַּבְנִית "structure; by implication, a model, resemblance" [HR/Ncfsc/Sp3mp]
+- o4: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o5: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o6: מָרְאֶה = H7200 רָאָה "to see…" [HVHsmsa]
+- o7: בָּ/הָר = Hb "in" + H2022 הַר "a mountain or range of hills (sometimes used…" [HRd/Ncmsa]
+
+### Exodus 26:19 (context)
+
+- o1: וְ/אַרְבָּעִים = Hc "and" + H705 אַרְבָּעִים "forty" [HC/Acbpa]
+- o2: אַדְנֵי = H134 אֶדֶן "a basis (of a building, a column, etc.)" [HNcmpc]
+- o3: כֶסֶף = H3701 כֶּסֶף "silver (from its pale color)…" [HNcmsa]
+- o4: תַּעֲשֶׂה = H6213 עָשָׂה "to do or make…" [HVqi2ms]
+- o5: תַּחַת = H8478 תַּחַת "the bottom (as depressed)…" [HR]
+- o6: עֶשְׂרִים = H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HAcbpa]
+- o7: הַ/קָּרֶשׁ = Hd "the" + H7175 קֶרֶשׁ "a slab or plank; by implication, a deck of aship" [HTd/Ncmsa]
+- o8: שְׁנֵי = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmdc]
+- o9: אֲדָנִים = H134 אֶדֶן "a basis (of a building, a column, etc.)" [HNcmpa]
+- o10: תַּחַת = H8478 תַּחַת "the bottom (as depressed)…" [HR]
+- o11: הַ/קֶּרֶשׁ = Hd "the" + H7175 קֶרֶשׁ "a slab or plank; by implication, a deck of aship" [HTd/Ncmsa]
+- o12: הָ/אֶחָד = Hd "the" + H259 אֶחָד "properly, united, i.e. one…" [HTd/Acmsa]
+- o13: לִ/שְׁתֵּי = Hl "to" + H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HR/Acfdc]
+- o14: יְדֹתָי/ו = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbpc/Sp3ms]
+- o15: וּ/שְׁנֵי = Hc "and" + H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HC/Acmdc]
+- o16: אֲדָנִים = H134 אֶדֶן "a basis (of a building, a column, etc.)" [HNcmpa]
+- o17: תַּחַת = H8478 תַּחַת "the bottom (as depressed)…" [HR]
+- o18: הַ/קֶּרֶשׁ = Hd "the" + H7175 קֶרֶשׁ "a slab or plank; by implication, a deck of aship" [HTd/Ncmsa]
+- o19: הָ/אֶחָד = Hd "the" + H259 אֶחָד "properly, united, i.e. one…" [HTd/Acmsa]
+- o20: לִ/שְׁתֵּי = Hl "to" + H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HR/Acfdc]
+- o21: יְדֹתָי/ו = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbpc/Sp3ms]

@@ -611,3 +611,65 @@ Persian entries and current tags:
 - p22: آزار  → G91
 - p23: برسانند
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Revelation of John 8:13 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἴδον, = G3708 ὁράω "behold, perceive, see, take heed" [V-2AAI-1S]
+- o3: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o4: ἤκουσα = G191 ἀκούω "give (in the) audience (of), come (to the ears)…" [V-AAI-1S]
+- o5: ἑνὸς = G1520 εἷς "a(-n, -ny, certain), + abundantly, man…" [A-GSM]
+- o6: ἀετοῦ = G105 ἀετός "eagle" [N-GSM]
+- o7: πετομένου = G4072 πέτομαι "fly(-ing)" [V-PNP-GSM]
+- o8: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o9: μεσουρανήματι = G3321 μεσουράνημα "midst of heaven" [N-DSN]
+- o10: λέγοντος = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAP-GSM]
+- o11: φωνῇ = G5456 φωνή "noise, sound, voice" [N-DSF]
+- o12: μεγάλῃ, = G3173 μέγας "+ fear) exceedingly, great(-est), high, large…" [A-DSF]
+- o13: οὐαὶ = G3759 οὐαί "alas, woe" [INJ]
+- o14: οὐαὶ = G3759 οὐαί "alas, woe" [INJ]
+- o15: οὐαὶ = G3759 οὐαί "alas, woe" [INJ]
+- o16: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o17: κατοικοῦντας = G2730 κατοικέω "dwell(-er), inhabitant(-ter)" [V-PAP-APM]
+- o18: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o19: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o20: γῆς = G1093 γῆ "country, earth(-ly), ground, land, world" [N-GSF]
+- o21: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o22: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPF]
+- o23: λοιπῶν = G3062 λοιποί "other, which remain, remnant, residue, rest" [A-GPF]
+- o24: φωνῶν = G5456 φωνή "noise, sound, voice" [N-GPF]
+- o25: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o26: σάλπιγγος = G4536 σάλπιγξ "trump(-et)" [N-GSF]
+- o27: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o28: τριῶν = G5140 τρεῖς "three" [A-GPM]
+- o29: ἀγγέλων = G32 ἄγγελος "angel, messenger" [N-GPM]
+- o30: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o31: μελλόντων = G3195 μέλλω "about, after that, be (almost), (that which is…" [V-PAP-GPM]
+- o32: σαλπίζειν. = G4537 σαλπίζω "(which are yet to) sound (a trumpet)" [V-PAN]
+
+### Revelation of John 9:11 (context)
+
+- o1: ἔχουσιν = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAI-3P]
+- o2: ἐπ’ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o3: αὐτῶν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPF]
+- o4: βασιλέα = G935 βασιλεύς "king" [N-ASM]
+- o5: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o6: ἄγγελον = G32 ἄγγελος "angel, messenger" [N-ASM]
+- o7: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o8: ἀβύσσου· = G12 ἄβυσσος "deep, (bottomless) pit" [N-GSF]
+- o9: ᾧ = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-DSN]
+- o10: ὄνομα = G3686 ὄνομα "called, (+ sur-)name(-d)" [N-NSN]
+- o11: αὐτῷ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
+- o12: Ἑβραϊστὶ = G1447 Ἑβραϊστί "in (the) Hebrew (tongue)" [ADV]
+- o13: Ἀβαδδὼν = G3 Ἀβαδδών "Abaddon" [N-PRI]
+- o14: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o15: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o16: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o17: Ἑλληνικῇ = G1673 Ἑλληνικός "Greek" [A-DSF]
+- o18: ὄνομα = G3686 ὄνομα "called, (+ sur-)name(-d)" [N-ASN]
+- o19: ἔχει = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAI-3S]
+- o20: Ἀπολλύων. = G623 Ἀπολλύων "Apollyon" [N-NSM]

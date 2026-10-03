@@ -1179,3 +1179,53 @@ Persian entries and current tags:
 - p15: نیکویی  → H2896
 - p16: یاد کن  → H2142
 - p17: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Nehemiah 4:23 (context)
+
+- o1: וְ/אֵין = Hc "and" + H369 אַיִן "a non-entity…" [HC/Tn]
+- o2: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o3: וְ/אַחַ/י = Hc "and" + H251 אָח "a brother (used in the widest sense of literal…" [HC/Ncmpc/Sp1cs]
+- o4: וּ/נְעָרַ/י = Hc "and" + H5288 נַעַר "concretely) a boy (as active)…" [HC/Ncmpc/Sp1cs]
+- o5: וְ/אַנְשֵׁי = Hc "and" + H376 אִישׁ "a man as an individual or a male person…" [HC/Ncmpc]
+- o6: הַ/מִּשְׁמָר = Hd "the" + H4929 מִשְׁמָר "a guard (the man, the post or the prison)…" [HTd/Ncmsa]
+- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o8: אַחֲרַ/י = H310 אַחַר "properly, the hind part…" [HR/Sp1cs]
+- o9: אֵין = H369 אַיִן "a non-entity…" [HTn]
+- o10: אֲנַחְנוּ = H587 אֲנַחְנוּ "we" [HPp1cp]
+- o11: פֹשְׁטִים = H6584 פָּשַׁט "to spread out (i.e. deploy in hostile array)…" [HVqrmpa]
+- o12: בְּגָדֵי/נוּ = H899 בֶּגֶד "a covering, i.e. clothing…" [HNcmpc/Sp1cp]
+- o13: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o14: שִׁלְח/וֹ = H7973 שֶׁלַח "a missile of attack, i.e. spear…" [HNcmsc/Sp3ms]
+- o15: הַ/מָּיִם = Hd "the" + H4325 מַיִם "water; figuratively, juice…" [HTd/Ncmpa]
+
+### Nehemiah 6:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: כַ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o3: נִשְׁמַע = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVNp3ms]
+- o4: לְ/סַנְבַלַּט = Hl "to" + H5571 סַנְבַלַּט "Sanballat, a Persian satrap of Samaria" [HR/Np]
+- o5: וְ/טוֹבִיָּה = Hc "and" + H2900 טוֹבִיָּה "Tobijah…" [HC/Np]
+- o6: וּ/לְ/גֶשֶׁם = Hc "and" + Hl "to" + H1654 גֶּשֶׁם "Geshem or Gashmu, an Arabian" [HC/R/Np]
+- o7: הָ/עַרְבִי = Hd "the" + H6163 עֲרָבִי "an Arabian or inhabitant of Arab (i.e. Arabia)" [HTd/Ngmsa]
+- o8: וּ/לְ/יֶתֶר = Hc "and" + Hl "to" + H3499 יֶתֶר "properly, an overhanging…" [HC/R/Ncmsc]
+- o9: אֹיְבֵי/נוּ = H341 אֹיֵב "hating; an adversary" [HVqrmpc/Sp1cp]
+- o10: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o11: בָנִיתִי = H1129 בָּנָה "to build (literally and figuratively)" [HVqp1cs]
+- o12: אֶת = H853 אֵת "properly…" [HTo]
+- o13: הַ/חוֹמָה = Hd "the" + H2346 חוֹמָה "a wall of protection" [HTd/Ncfsa]
+- o14: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o15: נוֹתַר = H3498 יָתַר "to jut over or exceed; by implication, to excel…" [HVNp3ms]
+- o16: בָּ/הּ = Hb "in" [HR/Sp3fs]
+- o17: פָּרֶץ = H6556 פֶּרֶץ "a break (literally or figuratively)" [HNcmsa]
+- o18: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o19: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o20: הָ/עֵת = Hd "the" + H6256 עֵת "time, especially (adverb with preposition) now…" [HTd/Ncbsa]
+- o21: הַ/הִיא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3fs]
+- o22: דְּלָתוֹת = H1817 דֶּלֶת "something swinging, i.e. the valve of adoor" [HNcfpa]
+- o23: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o24: הֶעֱמַדְתִּי = H5975 עָמַד "to stand…" [HVhp1cs]
+- o25: בַ/שְּׁעָרִים = Hb "in" + H8179 שַׁעַר "an opening, i.e. door or gate" [HRd/Ncmpa]

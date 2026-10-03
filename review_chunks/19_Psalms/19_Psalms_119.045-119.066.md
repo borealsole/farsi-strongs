@@ -686,3 +686,25 @@ Persian entries and current tags:
 - p11: تو
 - p12: ایمان دارم  → H539
 - p13: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 119:44 (context)
+
+- o1: וְ/אֶשְׁמְרָה = Hc "and" + H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HC/Vqh1cs]
+- o2: תוֹרָתְ/ךָ = H8451 תּוֹרָה "a precept or statute…" [HNcfsc/Sp2ms]
+- o3: תָמִיד = H8548 תָּמִיד "properly, continuance (as indefinite extension)…" [HNcmsa]
+- o4: לְ/עוֹלָם = Hl "to" + H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HR/Ncmsa]
+- o5: וָ/עֶד = Hc "and" + H5703 עַד "properly, a (peremptory) terminus…" [HC/Ncmsa]
+
+### Psalms 119:67 (context)
+
+- o1: טֶרֶם = H2962 טֶרֶם "properly, non-occurrence…" [HD]
+- o2: אֶעֱנֶה = H6031 עָנָה "to depress literally or figuratively…" [HVqi1cs]
+- o3: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o4: שֹׁגֵג = H7683 שָׁגַג "to stray…" [HVqrmsa]
+- o5: וְ/עַתָּה = Hc "and" + H6258 עַתָּה "at this time, whether adverb…" [HC/D]
+- o6: אִמְרָתְ/ךָ = H565 אִמְרָה "something said" [HNcfsc/Sp2ms]
+- o7: שָׁמָרְתִּי = H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HVqp1cs]

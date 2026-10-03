@@ -624,3 +624,39 @@ Persian entries and current tags:
 - p13: را  → H853
 - p14: بیاورند  → H5927
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 14:17 (context)
+
+- o1: וַ/יֵּצֵא = Hc "and" + H3318 יָצָא "to go (causatively, bring) out…" [HC/Vqw3ms]
+- o2: שֵׁם = H8034 שֵׁם "an appellation…" [HNcmsc]
+- o3: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o4: בְּ/כָל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o5: הָ/אֲרָצוֹת = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbpa]
+- o6: וַ/יהוָה = Hc "and" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HC/Np]
+- o7: נָתַן = H5414 נָתַן "to give…" [HVqp3ms]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: פַּחְדּ/וֹ = H6343 פַּחַד "a (sudden) alarm (properly, the object feared…" [HNcmsc/Sp3ms]
+- o10: עַל = H5921 עַל "above, over, upon…" [HR]
+- o11: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o12: הַ/גּוֹיִם = Hd "the" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HTd/Ncmpa]
+
+### I Chronicles 15:15 (context)
+
+- o1: וַ/יִּשְׂאוּ = Hc "and" + H5375 נָשָׂא "to lift, in a great variety of applications…" [HC/Vqw3mp]
+- o2: בְנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o3: הַ/לְוִיִּם = Hd "the" + H3881 לֵוִיִּי "a Levite or descendant of Levi" [HTd/Ngmpa]
+- o4: אֵת = H853 אֵת "properly…" [HTo]
+- o5: אֲרוֹן = H727 אָרוֹן "a box" [HNcbsc]
+- o6: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o7: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o8: צִוָּה = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp3ms]
+- o9: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o10: כִּ/דְבַר = Hk "like" + H1697 דָּבָר "a word…" [HR/Ncmsc]
+- o11: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o12: בִּ/כְתֵפָ/ם = Hb "in" + H3802 כָּתֵף "the shoulder (proper, i.e. upper end of the arm…" [HR/Ncfsc/Sp3mp]
+- o13: בַּ/מֹּטוֹת = Hb "in" + H4133 מוֹטָה "a pole; by implication, an ox-bow…" [HRd/Ncfpa]
+- o14: עֲלֵי/הֶם = H5921 עַל "above, over, upon…" [HR/Sp3mp]

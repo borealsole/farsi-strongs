@@ -1059,3 +1059,36 @@ Persian entries and current tags:
 - p43: اِرمیا  → H3414
 - p44: گفتند  → H559
 - p45: :
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 43:13 (context)
+
+- o1: וְ/שִׁבַּר = Hc "and" + H7665 שָׁבַר "to burst (literally or figuratively)" [HC/Vpq3ms]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: מַצְּבוֹת = H4676 מַצֵּבָה "something stationed…" [HNcfpc]
+- o4: בֵּית = H1053 בֵּית שֶׁמֶשׁ "Beth-Shemesh, a place in Palestine" [HNp]
+- o5: שֶׁמֶשׁ = H1053 בֵּית שֶׁמֶשׁ "Beth-Shemesh, a place in Palestine" [HNp]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: בְּ/אֶרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o8: מִצְרָיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o9: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o10: בָּתֵּי = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmpc]
+- o11: אֱלֹהֵי = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc]
+- o12: מִצְרַיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o13: יִשְׂרֹף = H8313 שָׂרַף "to be (causatively, set) on fire" [HVqi3ms]
+- o14: בָּ/אֵשׁ = Hb "in" + H784 אֵשׁ "fire (literally or figuratively)" [HRd/Ncbsa]
+
+### Jeremiah 44:16 (context)
+
+- o1: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]
+- o2: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o3: דִּבַּרְתָּ = H1696 דָבַר "perhaps properly, to arrange…" [HVpp2ms]
+- o4: אֵלֵי/נוּ = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cp]
+- o5: בְּ/שֵׁם = Hb "in" + H8034 שֵׁם "an appellation…" [HR/Ncmsc]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: אֵינֶ/נּוּ = H369 אַיִן "a non-entity…" [HTn/Sp1cp]
+- o8: שֹׁמְעִים = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqrmpa]
+- o9: אֵלֶי/ךָ = H413 אֵל "near, with or among; often in general, to" [HR/Sp2ms]

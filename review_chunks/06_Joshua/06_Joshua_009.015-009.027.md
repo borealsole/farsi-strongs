@@ -764,3 +764,49 @@ Persian entries and current tags:
 - p34: کار
 - p35: مشغولند
 - p36: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Joshua 9:14 (context)
+
+- o1: וַ/יִּקְחוּ = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqw3mp]
+- o2: הָ/אֲנָשִׁים = Hd "the" + H376 אִישׁ "a man as an individual or a male person…" [HTd/Ncmpa]
+- o3: מִ/צֵּידָ/ם = Hm "from" + H6718 צַיִד "the chase; also game (thus taken)…" [HR/Ncmsc/Sp3mp]
+- o4: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o5: פִּי = H6310 פֶּה "the mouth (as the means of blowing)…" [HNcmsc]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o8: שָׁאָלוּ = H7592 שָׁאַל "to inquire; by implication, to request…" [HVqp3cp]
+
+### Joshua 10:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: כִ/שְׁמֹעַ = Hk "like" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HR/Vqc]
+- o3: אֲדֹנִי = H139 אֲדֹנִי־צֶדֶק "Adoni-Tsedek, a Canaanitish king" [HNp]
+- o4: צֶדֶק = H139 אֲדֹנִי־צֶדֶק "Adoni-Tsedek, a Canaanitish king" [HNp]
+- o5: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o6: יְרוּשָׁלִַם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+- o7: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o8: לָכַד = H3920 לָכַד "to catch (in a net, trap or pit)…" [HVqp3ms]
+- o9: יְהוֹשֻׁעַ = H3091 יְהוֹשׁוּעַ "Jehoshua (i.e. Joshua), the Jewish leader" [HNp]
+- o10: אֶת = H853 אֵת "properly…" [HTo]
+- o11: הָ/עַי = Hd "the" + H5857 עַי "Ai, Aja or Ajath, a place in Palestine" [HTd/Np]
+- o12: וַ/יַּחֲרִימָ/הּ = Hc "and" + H2763 חָרַם "to seclude…" [HC/Vhw3ms/Sp3fs]
+- o13: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o14: עָשָׂה = H6213 עָשָׂה "to do or make…" [HVqp3ms]
+- o15: לִ/ירִיחוֹ = Hl "to" + H3405 יְרִיחוֹ "Jericho or Jerecho, a place in Palestine" [HR/Np]
+- o16: וּ/לְ/מַלְכָּ/הּ = Hc "and" + Hl "to" + H4428 מֶלֶךְ "a king" [HC/R/Ncmsc/Sp3fs]
+- o17: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o18: עָשָׂה = H6213 עָשָׂה "to do or make…" [HVqp3ms]
+- o19: לָ/עַי = Hl "to" + H5857 עַי "Ai, Aja or Ajath, a place in Palestine" [HR/Np]
+- o20: וּ/לְ/מַלְכָּ/הּ = Hc "and" + Hl "to" + H4428 מֶלֶךְ "a king" [HC/R/Ncmsc/Sp3fs]
+- o21: וְ/כִי = Hc "and" + H3588 כִּי "by implication) very widely used as a relative…" [HC/C]
+- o22: הִשְׁלִימוּ = H7999 שָׁלַם "to be safe (in mind, body or estate)…" [HVhp3cp]
+- o23: יֹשְׁבֵי = H3427 יָשַׁב "properly…" [HVqrmpc]
+- o24: גִבְעוֹן = H1391 גִּבְעוֹן "Gibon, a place in Palestine" [HNp]
+- o25: אֶת = H854 אֵת "properly…" [HR]
+- o26: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o27: וַ/יִּהְיוּ = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3mp]
+- o28: בְּ/קִרְבָּ/ם = Hb "in" + H7130 קֶרֶב "properly, the nearest part, i.e. the center…" [HR/Ncmsc/Sp3mp]

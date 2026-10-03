@@ -942,3 +942,52 @@ Persian entries and current tags:
 - p21: دوشیزگان  → H1330
 - p22: را
 - p23: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Zechariah 8:23 (context)
+
+- o1: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o2: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: צְבָאוֹת = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbpa]
+- o5: בַּ/יָּמִים = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmpa]
+- o6: הָ/הֵמָּה = Hd "the" + H1992 הֵם "they (only used when emphatic)" [HTd/Pp3mp]
+- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o8: יַחֲזִיקוּ = H2388 חָזַק "to fasten upon…" [HVhi3mp]
+- o9: עֲשָׂרָה = H6235 עֶשֶׂר "ten (as an accumulation to the extent of the…" [HAcmsa]
+- o10: אֲנָשִׁים = H376 אִישׁ "a man as an individual or a male person…" [HNcmpa]
+- o11: מִ/כֹּל = Hm "from" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o12: לְשֹׁנוֹת = H3956 לָשׁוֹן "the tongue (of man or animals)…" [HNcbpc]
+- o13: הַ/גּוֹיִם = Hd "the" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HTd/Ncmpa]
+- o14: וְ/הֶחֱזִיקוּ = Hc "and" + H2388 חָזַק "to fasten upon…" [HC/Vhp3cp]
+- o15: בִּ/כְנַף = Hb "in" + H3671 כָּנָף "an edge or extremity…" [HR/Ncfsc]
+- o16: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o17: יְהוּדִי = H3064 יְהוּדִי "a Jehudite (i.e. Judaite or Jew)…" [HNp]
+- o18: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o19: נֵלְכָה = H3212 יָלַךְ "to walk (literally or figuratively)…" [HVqh1cp]
+- o20: עִמָּ/כֶם = H5973 עִם "adverb or preposition…" [HR/Sp2mp]
+- o21: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o22: שָׁמַעְנוּ = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqp1cp]
+- o23: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o24: עִמָּ/כֶם = H5973 עִם "adverb or preposition…" [HR/Sp2mp]
+
+### Zechariah 10:1 (context)
+
+- o1: שַׁאֲלוּ = H7592 שָׁאַל "to inquire; by implication, to request…" [HVqv2mp]
+- o2: מֵ/יְהוָה = Hm "from" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o3: מָטָר = H4306 מָטַר "rain" [HNcmsa]
+- o4: בְּ/עֵת = Hb "in" + H6256 עֵת "time, especially (adverb with preposition) now…" [HR/Ncbsc]
+- o5: מַלְקוֹשׁ = H4456 מַלְקוֹשׁ "the spring rain; figuratively, eloquence" [HNcmsa]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: עֹשֶׂה = H6213 עָשָׂה "to do or make…" [HVqrmsa]
+- o8: חֲזִיזִים = H2385 חֲזִיז "a flash of lightning" [HNcmpa]
+- o9: וּ/מְטַר = Hc "and" + H4306 מָטַר "rain" [HC/Ncmsc]
+- o10: גֶּשֶׁם = H1653 גֶּשֶׁם "a shower" [HNcmsa]
+- o11: יִתֵּן = H5414 נָתַן "to give…" [HVqi3ms]
+- o12: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o13: לְ/אִישׁ = Hl "to" + H376 אִישׁ "a man as an individual or a male person…" [HR/Ncmsa]
+- o14: עֵשֶׂב = H6212 עֶשֶׂב "grass (or any tender shoot)" [HNcmsa]
+- o15: בַּ/שָּׂדֶה = Hb "in" + H7704 שָׂדֶה "a field (as flat)" [HRd/Ncmsa]

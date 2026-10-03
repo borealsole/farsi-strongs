@@ -884,3 +884,49 @@ Persian entries and current tags:
 - p14: و  → Hc
 - p15: سَجده کنید  → H7812
 - p16: ؛
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 10:22 (context)
+
+- o1: בְּ/שִׁבְעִים = Hb "in" + H7657 שִׁבְעִים "seventy" [HR/Acbpa]
+- o2: נֶפֶשׁ = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsa]
+- o3: יָרְדוּ = H3381 יָרַד "to descend (literally, to go downwards…" [HVqp3cp]
+- o4: אֲבֹתֶי/ךָ = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp2ms]
+- o5: מִצְרָיְמָ/הּ = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp/Sd]
+- o6: וְ/עַתָּה = Hc "and" + H6258 עַתָּה "at this time, whether adverb…" [HC/D]
+- o7: שָׂמְ/ךָ = H7760 שׂוּם "to put (used in a great variety of applications…" [HVqp3ms/Sp2ms]
+- o8: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o9: אֱלֹהֶי/ךָ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2ms]
+- o10: כְּ/כוֹכְבֵי = Hk "like" + H3556 כּוֹכָב "a star (as round or as shining)…" [HR/Ncmpc]
+- o11: הַ/שָּׁמַיִם = Hd "the" + H8064 שָׁמַיִם "the sky (as aloft…" [HTd/Ncmpa]
+- o12: לָ/רֹב = Hl "to" + H7230 רֹב "abundance (in any respect)" [HR/Ncbsa]
+
+### Deuteronomy 11:17 (context)
+
+- o1: וְ/חָרָה = Hc "and" + H2734 חָרָה "to glow or grow warm…" [HC/Vqq3ms]
+- o2: אַף = H639 אַף "properly, the nose or nostril…" [HTa]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: בָּ/כֶם = Hb "in" [HR/Sp2mp]
+- o5: וְ/עָצַר = Hc "and" + H6113 עָצָר "to inclose; by analogy, to hold back…" [HC/Vqq3ms]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: הַ/שָּׁמַיִם = Hd "the" + H8064 שָׁמַיִם "the sky (as aloft…" [HTd/Ncmpa]
+- o8: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o9: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o10: מָטָר = H4306 מָטַר "rain" [HNcmsa]
+- o11: וְ/הָ/אֲדָמָה = Hc "and" + Hd "the" + H127 אֲדָמָה "soil (from its general redness)" [HC/Td/Ncfsa]
+- o12: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o13: תִתֵּן = H5414 נָתַן "to give…" [HVqi3fs]
+- o14: אֶת = H853 אֵת "properly…" [HTo]
+- o15: יְבוּלָ/הּ = H2981 יְבוּל "produce, i.e. a crop or (figuratively) wealth" [HNcmsc/Sp3fs]
+- o16: וַ/אֲבַדְתֶּם = Hc "and" + H6 אָבַד "properly, to wander away, i.e. lose oneself…" [HC/Vqq2mp]
+- o17: מְהֵרָה = H4120 מְהֵרָה "properly, a hurry; hence (adverbially) promptly" [HNcfsa]
+- o18: מֵ/עַל = Hm "from" + H5921 עַל "above, over, upon…" [HR/R]
+- o19: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o20: הַ/טֹּבָה = Hd "the" + H2896 טוֹב "good (as an adjective) in the widest sense…" [HTd/Aafsa]
+- o21: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o22: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o23: נֹתֵן = H5414 נָתַן "to give…" [HVqrmsa]
+- o24: לָ/כֶם = Hl "to" [HR/Sp2mp]

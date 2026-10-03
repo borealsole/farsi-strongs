@@ -1143,3 +1143,52 @@ Persian entries and current tags:
 - p18: نگاه
 - p19: داشت  → G2928
 - p20: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Timothy 4:16 (context)
+
+- o1: ἔπεχε = G1907 ἐπέχω "give (take) heed unto, hold forth, mark, stay" [V-PAM-2S]
+- o2: σεαυτῷ = G4572 σεαυτοῦ "thee, thine own self, (thou) thy(-self)" [F-2DSM]
+- o3: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o4: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o5: διδασκαλίᾳ· = G1319 διδασκαλία "doctrine, learning, teaching" [N-DSF]
+- o6: ἐπίμενε = G1961 ἐπιμένω "abide (in), continue (in), tarry" [V-PAM-2S]
+- o7: αὐτοῖς· = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPN]
+- o8: τοῦτο = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-ASN]
+- o9: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o10: ποιῶν = G4160 ποιέω "abide, + agree, appoint, avenge, + band together…" [V-PAP-NSM]
+- o11: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o12: σεαυτὸν = G4572 σεαυτοῦ "thee, thine own self, (thou) thy(-self)" [F-2ASM]
+- o13: σώσεις = G4982 σώζω "heal, preserve, save (self), do well…" [V-FAI-2S]
+- o14: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o15: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o16: ἀκούοντάς = G191 ἀκούω "give (in the) audience (of), come (to the ears)…" [V-PAP-APM]
+- o17: σου. = G4771 σύ "thou" [P-2GS]
+
+### I Timothy 6:1 (context)
+
+- o1: Ὅσοι = G3745 ὅσος "all (that), as (long, many, much) (as)…" [K-NPM]
+- o2: εἰσὶν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3P]
+- o3: ὑπὸ = G5259 ὑπό "among, by, from, in, of, under, with" [PREP]
+- o4: ζυγὸν = G2218 ζυγός "pair of balances, yoke" [N-ASM]
+- o5: δοῦλοι, = G1401 δοῦλος "bond(-man), servant" [N-NPM]
+- o6: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o7: ἰδίους = G2398 ἴδιος "his acquaintance, when they were alone, apart…" [A-APM]
+- o8: δεσπότας = G1203 δεσπότης "Lord, master" [N-APM]
+- o9: πάσης = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-GSF]
+- o10: τιμῆς = G5092 τιμή "honour, precious, price, some" [N-GSF]
+- o11: ἀξίους = G514 ἄξιος "due reward, meet, (un-)worthy" [A-APM]
+- o12: ἡγείσθωσαν, = G2233 ἡγέομαι "account, (be) chief, count, esteem, governor…" [V-PNM-3P]
+- o13: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o14: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o15: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o16: ὄνομα = G3686 ὄνομα "called, (+ sur-)name(-d)" [N-NSN]
+- o17: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o18: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o19: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o20: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o21: διδασκαλία = G1319 διδασκαλία "doctrine, learning, teaching" [N-NSF]
+- o22: βλασφημῆται. = G987 βλασφημέω "speak) blaspheme(-er, -mously, -my), defame…" [V-PPS-3S]

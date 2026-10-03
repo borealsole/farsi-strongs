@@ -940,3 +940,33 @@ Persian entries and current tags:
 - p18: ؟
 - p19: “
 - p20: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 20:33 (context)
+
+- o1: חַי = H2416 חַי "alive; hence, raw (flesh)…" [HAamsa]
+- o2: אָנִי = H589 אֲנִי "I" [HPp1cs]
+- o3: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o4: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o5: יְהוִה = H3069 יְהֹוִה "YHWH" [HNp]
+- o6: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o7: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o8: בְּ/יָד = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsa]
+- o9: חֲזָקָה = H2389 חָזָק "strong (usu. in a bad sense, hard, bold, violent)" [HAafsa]
+- o10: וּ/בִ/זְרוֹעַ = Hc "and" + Hb "in" + H2220 זְרוֹעַ "the arm (as stretched out)…" [HC/R/Ncbsa]
+- o11: נְטוּיָה = H5186 נָטָה "to stretch or spread out…" [HVqsfsa]
+- o12: וּ/בְ/חֵמָה = Hc "and" + Hb "in" + H2534 חֵמָה "heat; figuratively, anger, poison (from its fever)" [HC/R/Ncfsa]
+- o13: שְׁפוּכָה = H8210 שָׁפַךְ "to spill forth (blood, a libation, liquid metal…" [HVqsfsa]
+- o14: אֶמְלוֹךְ = H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HVqi1cs]
+- o15: עֲלֵי/כֶם = H5921 עַל "above, over, upon…" [HR/Sp2mp]
+
+### Ezekiel 21:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o5: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

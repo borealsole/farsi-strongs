@@ -1075,3 +1075,43 @@ Persian entries and current tags:
 - p28: گرفتار
 - p29: آمد
 - p30: ؟
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Joshua 21:45 (context)
+
+- o1: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o2: נָפַל = H5307 נָפַל "to fall…" [HVqp3ms]
+- o3: דָּבָר = H1697 דָּבָר "a word…" [HNcmsa]
+- o4: מִ/כֹּל = Hm "from" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o5: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]
+- o6: הַ/טּוֹב = Hd "the" + H2896 טוֹב "good (as an adjective) in the widest sense…" [HTd/Aamsa]
+- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o8: דִּבֶּר = H1696 דָבַר "perhaps properly, to arrange…" [HVpp3ms]
+- o9: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o10: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o11: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o12: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o13: הַ/כֹּל = Hd "the" + H3605 כֹּל "properly, the whole…" [HTd/Ncmsa]
+- o14: בָּא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3ms]
+
+### Joshua 22:18 (context)
+
+- o1: וְ/אַתֶּם = Hc "and" + H859 אַתָּה "thou and thee, or (plural) ye and you" [HC/Pp2mp]
+- o2: תָּשֻׁבוּ = H7725 שׁוּב "to turn back (hence…" [HVqi2mp]
+- o3: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o4: מֵ/אַחֲרֵי = Hm "from" + H310 אַחַר "properly, the hind part…" [HR/R]
+- o5: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o6: וְ/הָיָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3ms]
+- o7: אַתֶּם = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2mp]
+- o8: תִּמְרְדוּ = H4775 מָרַד "to rebel" [HVqi2mp]
+- o9: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o10: בַּ/יהוָה = Hb "in" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o11: וּ/מָחָר = Hc "and" + H4279 מָחָר "properly, deferred, i.e. the morrow…" [HC/Ncmsa]
+- o12: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o13: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o14: עֲדַת = H5712 עֵדָה "a stated assemblage (specifically, a concourse…" [HNcfsc]
+- o15: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o16: יִקְצֹף = H7107 קָצַף "to crack off…" [HVqi3ms]

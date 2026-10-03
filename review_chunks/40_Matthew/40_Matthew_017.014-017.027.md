@@ -771,3 +771,43 @@ Persian entries and current tags:
 - p40: بپرداز  → G473
 - p41: .
 - p42: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 17:13 (context)
+
+- o1: τότε = G5119 τότε "that time, then" [ADV]
+- o2: συνῆκαν = G4920 συνίημι "consider, understand, be wise" [V-AAI-3P]
+- o3: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o4: μαθηταὶ = G3101 μαθητής "disciple" [N-NPM]
+- o5: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o6: περὶ = G4012 περί "there-)about, above, against, at, on behalf of…" [PREP]
+- o7: Ἰωάννου = G2491 Ἰωάννης "John" [N-GSM]
+- o8: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o9: βαπτιστοῦ = G910 Βαπτιστής "Baptist" [N-GSM]
+- o10: εἶπεν = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-2AAI-3S]
+- o11: αὐτοῖς. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPM]
+
+### Matthew 18:1 (context)
+
+- o1: Ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o2: ἐκείνῃ = G1565 ἐκεῖνος "he, it, the other (same), selfsame, that (same…" [D-DSF]
+- o3: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o4: ὥρᾳ = G5610 ὥρα "day, hour, instant, season, short, (even-)tide…" [N-DSF]
+- o5: προσῆλθον = G4334 προσέρχομαι "as soon as he) come (unto), come thereunto…" [V-2AAI-3P]
+- o6: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o7: μαθηταὶ = G3101 μαθητής "disciple" [N-NPM]
+- o8: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o9: Ἰησοῦ = G2424 Ἰησοῦς "Jesus" [N-DSM]
+- o10: λέγοντες· = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAP-NPM]
+- o11: τίς = G5101 τίς "every man, how (much), + no(-ne, thing)…" [I-NSM]
+- o12: ἄρα = G687 ἆρα "therefore" [PRT-I]
+- o13: μείζων = G3173 μέγας "+ fear) exceedingly, great(-est), high, large…" [A-NSM-C]
+- o14: ἐστὶν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o15: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o16: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o17: βασιλείᾳ = G932 βασιλεία "kingdom, + reign" [N-DSF]
+- o18: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o19: οὐρανῶν; = G3772 οὐρανός "air, heaven(-ly), sky" [N-GPM]

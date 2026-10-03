@@ -706,3 +706,23 @@ Persian entries and current tags:
 - p14: کوه‌های  → H2022
 - p15: عطریات  → H1314
 - p16: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Song of Solomon 7:13 (context)
+
+- o1: הַ/דּוּדָאִים = Hd "the" + H1736 דּוּדַי "a boiler or basket…" [HTd/Ncmpa]
+- o2: נָתְנוּ = H5414 נָתַן "to give…" [HVqp3cp]
+- o3: רֵיחַ = H7381 רֵיחַ "odor (as if blown)" [HNcmsa]
+- o4: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o5: פְּתָחֵי/נוּ = H6607 פֶּתַח "an opening (literally)…" [HNcmpc/Sp1cp]
+- o6: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o7: מְגָדִים = H4022 מֶגֶד "properly, a distinguished thing…" [HNcmpa]
+- o8: חֲדָשִׁים = H2319 חָדָשׁ "new" [HAampa]
+- o9: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o10: יְשָׁנִים = H3465 יָשָׁן "old" [HAampa]
+- o11: דּוֹדִ/י = H1730 דּוֹד "figuratively) to love…" [HNcmsc/Sp1cs]
+- o12: צָפַנְתִּי = H6845 צָפַן "to hide (by covering over)…" [HVqp1cs]
+- o13: לָ/ךְ = Hl "to" [HR/Sp2fs]

@@ -697,3 +697,39 @@ Persian entries and current tags:
 - p22: و  → Hc
 - p23: نَفتالی  → H5321
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 26:19 (context)
+
+- o1: וּ/לְ/תִתְּ/ךָ = Hc "and" + Hl "to" + H5414 נָתַן "to give…" [HC/R/Vqc/Sp2ms]
+- o2: עֶלְיוֹן = H5945 עֶלְיוֹן "an elevation, i.e. (adj.) lofty (compar.)…" [HAamsa]
+- o3: עַל = H5921 עַל "above, over, upon…" [HR]
+- o4: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o5: הַ/גּוֹיִם = Hd "the" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HTd/Ncmpa]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: עָשָׂה = H6213 עָשָׂה "to do or make…" [HVqp3ms]
+- o8: לִ/תְהִלָּה = Hl "to" + H8416 תְּהִלָּה "laudation; specifically (concretely) a hymn" [HR/Ncfsa]
+- o9: וּ/לְ/שֵׁם = Hc "and" + Hl "to" + H8034 שֵׁם "an appellation…" [HC/R/Ncmsa]
+- o10: וּ/לְ/תִפְאָרֶת = Hc "and" + Hl "to" + H8597 תִּפְאָרָה "ornament (abstractly or concretely…" [HC/R/Ncfsa]
+- o11: וְ/לִ/הְיֹתְ/ךָ = Hc "and" + Hl "to" + H1961 הָיָה "to exist, i.e. be or become…" [HC/R/Vqc/Sp2ms]
+- o12: עַם = H5971 עַם "a people (as a congregated unit)…" [HNcmsa]
+- o13: קָדֹשׁ = H6918 קָדוֹשׁ "sacred (ceremonially or morally)…" [HAamsa]
+- o14: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o15: אֱלֹהֶי/ךָ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2ms]
+- o16: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o17: דִּבֵּר = H1696 דָבַר "perhaps properly, to arrange…" [HVpp3ms]
+
+### Deuteronomy 27:14 (context)
+
+- o1: וְ/עָנוּ = Hc "and" + H6030 עָנָה "properly, to eye or (generally) to heed…" [HC/Vqq3cp]
+- o2: הַ/לְוִיִּם = Hd "the" + H3881 לֵוִיִּי "a Levite or descendant of Levi" [HTd/Ngmpa]
+- o3: וְ/אָמְרוּ = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqq3cp]
+- o4: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o5: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o6: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsc]
+- o7: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o8: קוֹל = H6963 קוֹל "a voice or sound" [HNcmsa]
+- o9: רָם = H7311 רוּם "to be high actively…" [HVqrmsa]

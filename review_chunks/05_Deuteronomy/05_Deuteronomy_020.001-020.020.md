@@ -1131,3 +1131,42 @@ Persian entries and current tags:
 - p27: که  → H3588 H834
 - p28: سقوط کند  → H3381
 - p29: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 19:21 (context)
+
+- o1: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o2: תָחוֹס = H2347 חוּס "properly, to cover…" [HVqi3fs]
+- o3: עֵינֶ/ךָ = H5869 עַיִן "an eye (literally or figuratively)…" [HNcbsc/Sp2ms]
+- o4: נֶפֶשׁ = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsa]
+- o5: בְּ/נֶפֶשׁ = Hb "in" + H5315 נֶפֶשׁ "properly, a breathing creature…" [HR/Ncbsa]
+- o6: עַיִן = H5869 עַיִן "an eye (literally or figuratively)…" [HNcbsa]
+- o7: בְּ/עַיִן = Hb "in" + H5869 עַיִן "an eye (literally or figuratively)…" [HR/Ncbsa]
+- o8: שֵׁן = H8127 שֵׁן "a tooth (as sharp); specifically ivory…" [HNcbsa]
+- o9: בְּ/שֵׁן = Hb "in" + H8127 שֵׁן "a tooth (as sharp); specifically ivory…" [HR/Ncbsa]
+- o10: יָד = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsa]
+- o11: בְּ/יָד = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsa]
+- o12: רֶגֶל = H7272 רֶגֶל "a foot (as used in walking)…" [HNcfsa]
+- o13: בְּ/רָגֶל = Hb "in" + H7272 רֶגֶל "a foot (as used in walking)…" [HR/Ncfsa]
+
+### Deuteronomy 21:1 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: יִמָּצֵא = H4672 מָצָא "properly, to come forth to, i.e. appear or exist…" [HVNi3ms]
+- o3: חָלָל = H2491 חָלָל "pierced (especially to death)…" [HAamsa]
+- o4: בָּ/אֲדָמָה = Hb "in" + H127 אֲדָמָה "soil (from its general redness)" [HRd/Ncfsa]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: אֱלֹהֶי/ךָ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2ms]
+- o8: נֹתֵן = H5414 נָתַן "to give…" [HVqrmsa]
+- o9: לְ/ךָ = Hl "to" [HR/Sp2ms]
+- o10: לְ/רִשְׁתָּ/הּ = Hl "to" + H3423 יָרַשׁ "to occupy (by driving out previous tenants…" [HR/Vqc/Sp3fs]
+- o11: נֹפֵל = H5307 נָפַל "to fall…" [HVqrmsa]
+- o12: בַּ/שָּׂדֶה = Hb "in" + H7704 שָׂדֶה "a field (as flat)" [HRd/Ncmsa]
+- o13: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o14: נוֹדַע = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVNp3ms]
+- o15: מִי = H4310 מִי "who? (occasionally, by a peculiar idiom…" [HTi]
+- o16: הִכָּה/וּ = H5221 נָכָה "to strike (lightly or severely…" [HVhp3ms/Sp3ms]

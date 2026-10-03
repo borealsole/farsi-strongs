@@ -1199,3 +1199,42 @@ Persian entries and current tags:
 - p25: اینها  → H428
 - p26: مقابله کند  → H2388
 - p27: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Daniel 9:27 (context)
+
+- o1: וְ/הִגְבִּיר = Hc "and" + H1396 גָּבַר "to be strong…" [HC/Vhq3ms]
+- o2: בְּרִית = H1285 בְּרִית "a compact (because made by passing between pieces…" [HNcfsa]
+- o3: לָ/רַבִּים = Hl "to" + H7227 רַב "abundant (in quantity, size, age, number, rank…" [HRd/Aampa]
+- o4: שָׁבוּעַ = H7620 שָׁבוּעַ "literally, sevened, i.e. a week (specifically…" [HNcmsa]
+- o5: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o6: וַ/חֲצִי = Hc "and" + H2677 חֵצִי "the half or middle" [HC/Ncmsc]
+- o7: הַ/שָּׁבוּעַ = Hd "the" + H7620 שָׁבוּעַ "literally, sevened, i.e. a week (specifically…" [HTd/Ncmsa]
+- o8: יַשְׁבִּית = H7673 שָׁבַת "to repose, i.e. desist from exertion…" [HVhi3ms]
+- o9: זֶבַח = H2077 זֶבַח "properly, a slaughter…" [HNcmsa]
+- o10: וּ/מִנְחָה = Hc "and" + H4503 מִנְחָה "a donation; euphemistically, tribute…" [HC/Ncfsa]
+- o11: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o12: כְּנַף = H3671 כָּנָף "an edge or extremity…" [HNcfsc]
+- o13: שִׁקּוּצִים = H8251 שִׁקּוּץ "disgusting, i.e. filthy…" [HNcmpa]
+- o14: מְשֹׁמֵם = H8074 שָׁמֵם "to stun (or intransitively, grow numb)…" [HVmrmsa]
+- o15: וְ/עַד = Hc "and" + H5704 עַד "as far (or long, or much) as…" [HC/R]
+- o16: כָּלָה = H3617 כָּלָה "a completion; adverb, completely; also destruction" [HNcfsa]
+- o17: וְ/נֶחֱרָצָה = Hc "and" + H2782 חָרַץ "properly, to point sharply…" [HC/VNrfsa]
+- o18: תִּתַּךְ = H5413 נָתַךְ "to flow forth (literally or figuratively)…" [HVqi3fs]
+- o19: עַל = H5921 עַל "above, over, upon…" [HR]
+- o20: שֹׁמֵם = H8074 שָׁמֵם "to stun (or intransitively, grow numb)…" [HVqrmsa]
+
+### Daniel 11:1 (context)
+
+- o1: וַ/אֲנִי = Hc "and" + H589 אֲנִי "I" [HC/Pp1cs]
+- o2: בִּ/שְׁנַת = Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HR/Ncfsc]
+- o3: אַחַת = H259 אֶחָד "properly, united, i.e. one…" [HAcfsa]
+- o4: לְ/דָרְיָוֶשׁ = Hl "to" + H1867 דָּרְיָוֵשׁ "Darejavesh…" [HR/Np]
+- o5: הַ/מָּדִי = Hd "the" + H4075 מָדַי "a Madian or native of Madai" [HTd/Ngmsa]
+- o6: עָמְדִ/י = H5975 עָמַד "to stand…" [HNcmsc/Sp1cs]
+- o7: לְ/מַחֲזִיק = Hl "to" + H2388 חָזַק "to fasten upon…" [HR/Vhrmsa]
+- o8: וּ/לְ/מָעוֹז = Hc "and" + Hl "to" + H4581 מָעוֹז "a fortified place; figuratively, a defence" [HC/R/Ncmsa]
+- o9: ל/וֹ = Hl "to" [HR/Sp3ms]

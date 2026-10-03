@@ -776,3 +776,54 @@ Persian entries and current tags:
 - p24: را  → H853
 - p25: برکت داد  → H1288
 - p26: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 12:40 (context)
+
+- o1: וְ/גַם = Hc "and" + H1571 גַּם "properly, assemblage…" [HC/Ta]
+- o2: הַ/קְּרוֹבִים = Hd "the" + H7138 קָרוֹב "near (in place, kindred or time)" [HTd/Aampa]
+- o3: אֲלֵי/הֶם = H413 אֵל "near, with or among; often in general, to" [HR/Sp3mp]
+- o4: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o5: יִשָׂשכָר = H3485 יִשָּׂשכָר "Jissaskar, a son of Jacob" [HNp]
+- o6: וּ/זְבֻלוּן = Hc "and" + H2074 זְבוּלוּן "Zebulon, a son of Jacob…" [HC/Np]
+- o7: וְ/נַפְתָּלִי = Hc "and" + H5321 נַפְתָּלִי "Naphtali, a son of Jacob…" [HC/Np]
+- o8: מְבִיאִים = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVhrmpa]
+- o9: לֶחֶם = H3899 לֶחֶם "food (for man or beast), especially bread…" [HNcbsa]
+- o10: בַּ/חֲמוֹרִים = Hb "in" + H2543 חֲמוֹר "a male ass (from its dun red)" [HRd/Ncbpa]
+- o11: וּ/בַ/גְּמַלִּים = Hc "and" + Hb "in" + H1581 גָּמָל "a camel" [HC/Rd/Ncmpa]
+- o12: וּ/בַ/פְּרָדִים = Hc "and" + Hb "in" + H6505 פֶּרֶד "a mule (perhaps from his lonely habits)" [HC/Rd/Ncmpa]
+- o13: וּ/בַ/בָּקָר = Hc "and" + Hb "in" + H1241 בָּקָר "beef cattle or an animal of the ox family of…" [HC/Rd/Ncbsa]
+- o14: מַאֲכָל = H3978 מַאֲכָל "an eatable (includ. provender, flesh and fruit)" [HNcmsa]
+- o15: קֶמַח = H7058 קֶמַח "flour" [HNcmsa]
+- o16: דְּבֵלִים = H1690 דְּבֵלָה "a cake of pressed figs" [HNcfpa]
+- o17: וְ/צִמּוּקִים = Hc "and" + H6778 צַמּוּק "a cake of dried grapes" [HC/Ncmpa]
+- o18: וְ/יַיִן = Hc "and" + H3196 יַיִן "wine (as fermented); by implication, intoxication" [HC/Ncmsa]
+- o19: וְ/שֶׁמֶן = Hc "and" + H8081 שֶׁמֶן "grease, especially liquid (as from the olive…" [HC/Ncmsa]
+- o20: וּ/בָקָר = Hc "and" + H1241 בָּקָר "beef cattle or an animal of the ox family of…" [HC/Ncbsa]
+- o21: וְ/צֹאן = Hc "and" + H6629 צֹאן "a collective name for a flock (of sheep or goats)…" [HC/Ncbsa]
+- o22: לָ/רֹב = Hl "to" + H7230 רֹב "abundance (in any respect)" [HR/Ncbsa]
+- o23: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o24: שִׂמְחָה = H8057 שִׂמְחָה "blithesomeness or glee, (religious or festival)" [HNcfsa]
+- o25: בְּ/יִשְׂרָאֵל = Hb "in" + H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HR/Np]
+
+### I Chronicles 14:1 (context)
+
+- o1: וַ/יִּשְׁלַח = Hc "and" + H7971 שָׁלַח "to send away, for…" [HC/Vqw3ms]
+- o2: חירם = H2438 חִירָם "Chiram or Chirom, the name of two Tyrians" [HNp]
+- o3: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o4: צֹר = H6865 צֹר "Tsor, a place in Palestine" [HNp]
+- o5: מַלְאָכִים = H4397 מֲלְאָךְ "a messenger…" [HNcmpa]
+- o6: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o7: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o8: וַ/עֲצֵי = Hc "and" + H6086 עֵץ "a tree (from its firmness)…" [HC/Ncmpc]
+- o9: אֲרָזִים = H730 אֶרֶז "a cedar tree (from the tenacity of its roots)" [HNcmpa]
+- o10: וְ/חָרָשֵׁי = Hc "and" + H2796 חָרָשׁ "a fabricator or any material" [HC/Ncmpc]
+- o11: קִיר = H7023 קִיר "a wall (as built in a trench)" [HNcmsa]
+- o12: וְ/חָרָשֵׁי = Hc "and" + H2796 חָרָשׁ "a fabricator or any material" [HC/Ncmpc]
+- o13: עֵצִים = H6086 עֵץ "a tree (from its firmness)…" [HNcmpa]
+- o14: לִ/בְנוֹת = Hl "to" + H1129 בָּנָה "to build (literally and figuratively)" [HR/Vqc]
+- o15: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o16: בָּיִת = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsa]

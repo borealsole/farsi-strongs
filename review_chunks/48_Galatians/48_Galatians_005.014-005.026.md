@@ -549,3 +549,56 @@ Persian entries and current tags:
 - p14: دست
 - p15: بداریم
 - p16: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Galatians 5:13 (context)
+
+- o1: Ὑμεῖς = G5210 ὑμεῖς "ye (yourselves), you" [P-2NP]
+- o2: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o3: ἐπ’ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o4: ἐλευθερίᾳ = G1657 ἐλευθερία "liberty" [N-DSF]
+- o5: ἐκλήθητε, = G2564 καλέω "bid, call (forth), (whose…" [V-API-2P]
+- o6: ἀδελφοί· = G80 ἀδελφός "brother" [N-VPM]
+- o7: μόνον = G3440 μόνον "alone, but, only" [ADV]
+- o8: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o9: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o10: ἐλευθερίαν = G1657 ἐλευθερία "liberty" [N-ASF]
+- o11: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o12: ἀφορμὴν = G874 ἀφορμή "occasion" [N-ASF]
+- o13: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o14: σαρκί, = G4561 σάρξ "carnal(-ly, + -ly minded), flesh(-ly)" [N-DSF]
+- o15: ἀλλὰ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o16: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o17: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o18: ἀγάπης = G26 ἀγάπη "(feast of) charity(-ably), dear, love" [N-GSF]
+- o19: δουλεύετε = G1398 δουλεύω "be in bondage, (do) serve(-ice)" [V-PAM-2P]
+- o20: ἀλλήλοις. = G240 ἀλλήλων "each other, mutual, one another, (the other)…" [C-DPM]
+
+### Galatians 6:1 (context)
+
+- o1: Ἀδελφοί, = G80 ἀδελφός "brother" [N-VPM]
+- o2: ἐὰν = G1437 ἐάν "before, but, except, (and) if, (if) so, (what-…" [COND]
+- o3: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o4: προλημφθῇ = G4301 προλαμβάνω "come aforehand, overtake, take before" [V-APS-3S]
+- o5: ἄνθρωπος = G444 ἄνθρωπος "certain, man" [N-NSM]
+- o6: ἔν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o7: τινι = G5100 τὶς "a (kind of), any (man, thing, thing at all)…" [X-DSN]
+- o8: παραπτώματι, = G3900 παράπτωμα "fall, fault, offence, sin, trespass" [N-DSN]
+- o9: ὑμεῖς = G5210 ὑμεῖς "ye (yourselves), you" [P-2NP]
+- o10: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o11: πνευματικοὶ = G4152 πνευματικός "spiritual" [A-NPM]
+- o12: καταρτίζετε = G2675 καταρτίζω "fit, frame, mend…" [V-PAM-2P]
+- o13: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o14: τοιοῦτον = G5108 τοιοῦτος "like, such (an one)" [D-ASM]
+- o15: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o16: πνεύματι = G4151 πνεῦμα "ghost, life, spirit(-ual, -ually), mind" [N-DSN]
+- o17: πραΰτητος, = G4240 πραΰτης "meekness" [N-GSF]
+- o18: σκοπῶν = G4648 σκοπέω "consider, take heed, look at (on), mark" [V-PAP-NSM]
+- o19: σεαυτόν, = G4572 σεαυτοῦ "thee, thine own self, (thou) thy(-self)" [F-2ASM]
+- o20: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o21: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o22: σὺ = G4771 σύ "thou" [P-2NS]
+- o23: πειρασθῇς. = G3985 πειράζω "assay, examine, go about, prove, tempt(-er), try" [V-APS-2S]

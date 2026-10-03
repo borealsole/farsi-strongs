@@ -1076,3 +1076,38 @@ Persian entries and current tags:
 - p30: طاهر  → H2889
 - p31: است
 - p32: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 13:20 (context)
+
+- o1: וְ/רָאָה = Hc "and" + H7200 רָאָה "to see…" [HC/Vqq3ms]
+- o2: הַ/כֹּהֵן = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmsa]
+- o3: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o4: מַרְאֶ/הָ = H4758 מַרְאֶה "a view (the act of seeing)…" [HNcmsc/Sp3fs]
+- o5: שָׁפָל = H8217 שָׁפָל "depressed, literally or figuratively" [HAamsa]
+- o6: מִן = H4480 מִן "properly, a part of…" [HR]
+- o7: הָ/עוֹר = Hd "the" + H5785 עוֹר "skin (as naked); by implication, hide, leather" [HTd/Ncmsa]
+- o8: וּ/שְׂעָרָ/הּ = Hc "and" + H8181 שֵׂעָר "hair (as if tossed or bristling)" [HC/Ncmsc/Sp3fs]
+- o9: הָפַךְ = H2015 הָפַךְ "to turn about or over…" [HVqp3ms]
+- o10: לָבָן = H3836 לָבָן "white" [HAamsa]
+- o11: וְ/טִמְּא/וֹ = Hc "and" + H2930 טָמֵא "to be foul…" [HC/Vpq3ms/Sp3ms]
+- o12: הַ/כֹּהֵן = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmsa]
+- o13: נֶגַע = H5061 נֶגַע "a blow (figuratively, infliction)…" [HNcmsc]
+- o14: צָרַעַת = H6883 צָרַעַת "leprosy" [HNcfsa]
+- o15: הִוא = H1931 הוּא "he (she or it)…" [HPp3fs]
+- o16: בַּ/שְּׁחִין = Hb "in" + H7822 שְׁחִין "inflammation, i.e. an ulcer" [HRd/Ncmsa]
+- o17: פָּרָחָה = H6524 פָּרַח "to break forth as a bud, i.e. bloom…" [HVqp3fs]
+
+### Leviticus 13:40 (context)
+
+- o1: וְ/אִישׁ = Hc "and" + H376 אִישׁ "a man as an individual or a male person…" [HC/Ncmsa]
+- o2: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o3: יִמָּרֵט = H4803 מָרַט "to polish…" [HVNi3ms]
+- o4: רֹאשׁ/וֹ = H7218 רֹאשׁ "the head (as most easily shaken)…" [HNcmsc/Sp3ms]
+- o5: קֵרֵחַ = H7142 קֵרֵחַ "bald (on the back of the head)" [HAamsa]
+- o6: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o7: טָהוֹר = H2889 טָהוֹר "pure (in a physical, chemical…" [HAamsa]
+- o8: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]

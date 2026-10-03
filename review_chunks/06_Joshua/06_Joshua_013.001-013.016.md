@@ -821,3 +821,31 @@ Persian entries and current tags:
 - p22: میدِبا  → H4311
 - p23: است
 - p24: ،
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Joshua 12:24 (context)
+
+- o1: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o2: תִּרְצָה = H8656 תִּרְצָה "Tirtsah, a place in Palestine; also an Israelitess" [HNp]
+- o3: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o4: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o5: מְלָכִים = H4428 מֶלֶךְ "a king" [HNcmpa]
+- o6: שְׁלֹשִׁים = H7970 שְׁלוֹשִׁים "thirty; or (ordinal) thirtieth" [HAcbpa]
+- o7: וְ/אֶחָד = Hc "and" + H259 אֶחָד "properly, united, i.e. one…" [HC/Acmsa]
+
+### Joshua 13:17 (context)
+
+- o1: חֶשְׁבּוֹן = H2809 חֶשְׁבּוֹן "Cheshbon, a place East of the Jordan" [HNp]
+- o2: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o3: עָרֶי/הָ = H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HNcfpc/Sp3fs]
+- o4: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o5: בַּ/מִּישֹׁר = Hb "in" + H4334 מִישׁוֹר "a level…" [HRd/Ncmsa]
+- o6: דִּיבוֹן = H1769 דִּיבוֹן "Dibon, the name of three places in Palestine" [HNp]
+- o7: וּ/בָמוֹת = Hc "and" + H1120 בָּמוֹת "Bamoth or Bamoth-Baal, a place East of the Jordan" [HC/Np]
+- o8: בַּעַל = H1120 בָּמוֹת "Bamoth or Bamoth-Baal, a place East of the Jordan" [HNp]
+- o9: וּ/בֵית = Hc "and" + H1010 בֵּית בַּעַל מְעוֹן "Beth-Baal-Meon, a place in Palestine" [HC/Np]
+- o10: בַּעַל = H1010 בֵּית בַּעַל מְעוֹן "Beth-Baal-Meon, a place in Palestine" [HNp]
+- o11: מְעוֹן = H1010 בֵּית בַּעַל מְעוֹן "Beth-Baal-Meon, a place in Palestine" [HNp]

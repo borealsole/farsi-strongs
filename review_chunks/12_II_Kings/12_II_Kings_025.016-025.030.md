@@ -927,3 +927,23 @@ Persian entries and current tags:
 - p17: او
 - p18: داده_می‌شد  → H5414
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 25:15 (context)
+
+- o1: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o2: הַ/מַּחְתּוֹת = Hd "the" + H4289 מַחְתָּה "a pan for live coals" [HTd/Ncfpa]
+- o3: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o4: הַ/מִּזְרָקוֹת = Hd "the" + H4219 מִזְרָק "a bowl (as if for sprinkling)" [HTd/Ncmpa]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: זָהָב = H2091 זָהָב "gold, figuratively…" [HNcmsa]
+- o7: זָהָב = H2091 זָהָב "gold, figuratively…" [HNcmsa]
+- o8: וַ/אֲשֶׁר = Hc "and" + H834 אֲשֶׁר "who, which, what, that…" [HC/Tr]
+- o9: כֶּסֶף = H3701 כֶּסֶף "silver (from its pale color)…" [HNcmsa]
+- o10: כָּסֶף = H3701 כֶּסֶף "silver (from its pale color)…" [HNcmsa]
+- o11: לָקַח = H3947 לָקַח "to take (in the widest variety of applications)" [HVqp3ms]
+- o12: רַב = H7227 רַב "abundant (in quantity, size, age, number, rank…" [HNcmsc]
+- o13: טַבָּחִים = H2876 טַבָּח "properly, a butcher…" [HNcmpa]

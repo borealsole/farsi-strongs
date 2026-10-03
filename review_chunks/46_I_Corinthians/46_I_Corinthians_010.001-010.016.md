@@ -743,3 +743,42 @@ Persian entries and current tags:
 - p23: مسیح  → G5547
 - p24: نیست  → G1510
 - p25: ؟
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Corinthians 9:27 (context)
+
+- o1: ἀλλὰ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o2: ὑπωπιάζω = G5299 ὑπωπιάζω "keep under, weary" [V-PAI-1S]
+- o3: μου = G1473 ἐγώ "I, me" [P-1GS]
+- o4: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o5: σῶμα = G4983 σῶμα "bodily, body, slave" [N-ASN]
+- o6: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o7: δουλαγωγῶ, = G1396 δουλαγωγέω "bring into subjection" [V-PAI-1S]
+- o8: μήπως = G3381 μήπως "lest (by any means, by some means, haply, perhaps)" [CONJ-N]
+- o9: ἄλλοις = G243 ἄλλος "more, one (another), (an-, some an-)other(-s…" [A-DPM]
+- o10: κηρύξας = G2784 κηρύσσω "preacher(-er), proclaim, publish" [V-AAP-NSM]
+- o11: αὐτὸς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-NSM]
+- o12: ἀδόκιμος = G96 ἀδόκιμος "castaway, rejected, reprobate" [A-NSM]
+- o13: γένωμαι. = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-2ADS-1S]
+
+### I Corinthians 10:17 (context)
+
+- o1: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o2: εἷς = G1520 εἷς "a(-n, -ny, certain), + abundantly, man…" [A-NSM]
+- o3: ἄρτος, = G740 ἄρτος "(shew-)bread, loaf" [N-NSM]
+- o4: ἓν = G1520 εἷς "a(-n, -ny, certain), + abundantly, man…" [A-NSN]
+- o5: σῶμα = G4983 σῶμα "bodily, body, slave" [N-NSN]
+- o6: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o7: πολλοί = G4183 πολύς "abundant, + altogether, common, + far (passed…" [A-NPM]
+- o8: ἐσμεν· = G1510 εἰμί "am, have been, it is I, was" [V-PAI-1P]
+- o9: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o10: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o11: πάντες = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-NPM]
+- o12: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o13: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o14: ἑνὸς = G1520 εἷς "a(-n, -ny, certain), + abundantly, man…" [A-GSM]
+- o15: ἄρτου = G740 ἄρτος "(shew-)bread, loaf" [N-GSM]
+- o16: μετέχομεν. = G3348 μετέχω "be partaker, pertain, take part, use" [V-PAI-1P]

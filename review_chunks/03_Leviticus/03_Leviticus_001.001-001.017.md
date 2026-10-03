@@ -886,3 +886,25 @@ Persian entries and current tags:
 - p41: برای  → Hl
 - p42: خداوند  → H3068
 - p43: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 2:1 (context)
+
+- o1: וְ/נֶפֶשׁ = Hc "and" + H5315 נֶפֶשׁ "properly, a breathing creature…" [HC/Ncbsa]
+- o2: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o3: תַקְרִיב = H7126 קָרַב "to approach (causatively…" [HVhi3fs]
+- o4: קָרְבַּן = H7133 קׇרְבָּן "something brought near the altar…" [HNcmsc]
+- o5: מִנְחָה = H4503 מִנְחָה "a donation; euphemistically, tribute…" [HNcfsa]
+- o6: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o7: סֹלֶת = H5560 סֹלֶת "flour (as chipped off)" [HNcfsa]
+- o8: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o9: קָרְבָּנ/וֹ = H7133 קׇרְבָּן "something brought near the altar…" [HNcmsc/Sp3ms]
+- o10: וְ/יָצַק = Hc "and" + H3332 יָצַק "properly…" [HC/Vqq3ms]
+- o11: עָלֶי/הָ = H5921 עַל "above, over, upon…" [HR/Sp3fs]
+- o12: שֶׁמֶן = H8081 שֶׁמֶן "grease, especially liquid (as from the olive…" [HNcmsa]
+- o13: וְ/נָתַן = Hc "and" + H5414 נָתַן "to give…" [HC/Vqq3ms]
+- o14: עָלֶי/הָ = H5921 עַל "above, over, upon…" [HR/Sp3fs]
+- o15: לְבֹנָה = H3828 לְבוֹנָה "frankincense (from its whiteness or perhaps that…" [HNcfsa]

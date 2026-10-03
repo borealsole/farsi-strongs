@@ -477,3 +477,37 @@ Persian entries and current tags:
 - p20: می‌کند
 - p21: !
 - p22: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 57:11 (context)
+
+- o1: רוּמָ/ה = H7311 רוּם "to be high actively…" [HVqv2ms/Sh]
+- o2: עַל = H5921 עַל "above, over, upon…" [HR]
+- o3: שָׁמַיִם = H8064 שָׁמַיִם "the sky (as aloft…" [HNcmpa]
+- o4: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o5: עַל = H5921 עַל "above, over, upon…" [HR]
+- o6: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o7: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o8: כְּבוֹדֶ/ךָ = H3519 כָּבוֹד "properly, weight…" [HNcbsc/Sp2ms]
+
+### Psalms 59:1 (context)
+
+- o1: לַ/מְנַצֵּחַ = Hl "to" + H5329 נָצַח "properly, to glitter from afar…" [HRd/Vprmsa]
+- o2: אַל = H516 אַל תַּשְׁחֵת "'Thou must not destroy'…" [HTn]
+- o3: תַּשְׁחֵת = H516 אַל תַּשְׁחֵת "'Thou must not destroy'…" [HVhi2ms]
+- o4: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o5: מִכְתָּם = H4387 מִכְתָּם "an engraving, i.e. (techn.) a poem" [HNcmsa]
+- o6: בִּ/שְׁלֹחַ = Hb "in" + H7971 שָׁלַח "to send away, for…" [HR/Vqc]
+- o7: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o8: וַ/יִּשְׁמְרוּ = Hc "and" + H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HC/Vqw3mp]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: הַ/בַּיִת = Hd "the" + H1004 בַּיִת "a house (in the greatest variation of…" [HTd/Ncmsa]
+- o11: לַ/הֲמִית/וֹ = Hl "to" + H4191 מוּת "to die (literally or figuratively)…" [HR/Vhc/Sp3ms]
+- o12: הַצִּילֵ/נִי = H5337 נָצַל "to snatch away, whether in a good or a bad sense" [HVhv2ms/Sp1cs]
+- o13: מֵ/אֹיְבַ/י = Hm "from" + H341 אֹיֵב "hating; an adversary" [HR/Vqrmpc/Sp1cs]
+- o14: אֱלֹהָ/י = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp1cs]
+- o15: מִּ/מִתְקוֹמְמַ/י = Hm "from" + H6965 קוּם "to rise (in various applications, literal…" [HR/Vrrmpc/Sp1cs]
+- o16: תְּשַׂגְּבֵ/נִי = H7682 שָׂגַב "to be (causatively, make) lofty…" [HVpi2ms/Sp1cs]

@@ -999,3 +999,48 @@ Persian entries and current tags:
 - p39: توست
 - p40: .
 - p41: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Daniel 3:30 (context)
+
+- o1: בֵּ/אדַיִן = Hb "in" + H116 אֱדַיִן "then (of time)" [AR/D]
+- o2: מַלְכָּ/א = H4430 מֶלֶךְ "a king" [ANcmsd/Td]
+- o3: הַצְלַח = H6744 צְלַח "to advance (transitive or intransitive)" [AVhp3ms]
+- o4: לְ/שַׁדְרַךְ = Hl "to" + H7715 שַׁדְרַךְ "Shadrak…" [AR/Np]
+- o5: מֵישַׁךְ = H4336 מֵישַׁךְ "Meshak, the Babylonian" [ANp]
+- o6: וַ/עֲבֵד = Hc "and" + H5665 עֲבֵד נְגוֹא "Abed-Nego, the name of Azariah" [AC/Np]
+- o7: נְגוֹ = H5665 עֲבֵד נְגוֹא "Abed-Nego, the name of Azariah" [ANp]
+- o8: בִּ/מְדִינַת = Hb "in" + H4083 מְדִינָה "properly, a judgeship, i.e. jurisdiction…" [AR/Ncfsc]
+- o9: בָּבֶל = H895 בַּבֶל "Babel (i.e. Babylon)…" [ANp]
+
+### Daniel 4:19 (context)
+
+- o1: אֱדַיִן = H116 אֱדַיִן "then (of time)" [AD]
+- o2: דָּנִיֵּאל = H1841 דָּנִיֵּאל "Danijel, the Hebrew prophet" [ANp]
+- o3: דִּי = H1768 דִּי "that, used as relative conjunction…" [ATr]
+- o4: שְׁמֵ/הּ = H8036 שֻׁם "an appellation…" [ANcmsc/Sp3ms]
+- o5: בֵּלְטְשַׁאצַּר = H1096 בֵּלְטְשַׁאצַּר "Belteshatstsar, the Babylonian name of Daniel" [ANp]
+- o6: אֶשְׁתּוֹמַם = H8075 שְׁמַם "to stun (or intransitively, grow numb)…" [AVzp3ms]
+- o7: כְּ/שָׁעָה = Hk "like" + H8160 שָׁעָה "properly, a look, i.e. a moment" [AR/Ncfsa]
+- o8: חֲדָה = H2298 חַד "as card. one; as article single…" [AAcfsa]
+- o9: וְ/רַעְיֹנֹ/הִי = Hc "and" + H7476 רַעְיוֹן "a grasp. i.e. (figuratively) mental conception" [AC/Ncmpc/Sp3ms]
+- o10: יְבַהֲלֻנֵּ/הּ = H927 בְּהַל "to terrify, hasten" [AVpi3mp/Sp3ms]
+- o11: עָנֵה = H6032 עֲנָה "properly, to eye or (generally) to heed…" [AVqrmsa]
+- o12: מַלְכָּ/א = H4430 מֶלֶךְ "a king" [ANcmsd/Td]
+- o13: וְ/אָמַר = Hc "and" + H560 אֲמַר "to say (used with great latitude)" [AC/Vqrmsa]
+- o14: בֵּלְטְשַׁאצַּר = H1096 בֵּלְטְשַׁאצַּר "Belteshatstsar, the Babylonian name of Daniel" [ANp]
+- o15: חֶלְמָ/א = H2493 חֵלֶם "a dream" [ANcmsd/Td]
+- o16: וּ/פִשְׁרֵ/א = Hc "and" + H6591 פְּשַׁר "an interpretation" [AC/Ncmsd/Td]
+- o17: אַל = H409 אַל "not (the qualified negation…" [ATn]
+- o18: יְבַהֲלָ/ךְ = H927 בְּהַל "to terrify, hasten" [AVpi3ms/Sp2ms]
+- o19: עָנֵה = H6032 עֲנָה "properly, to eye or (generally) to heed…" [AVqrmsa]
+- o20: בֵלְטְשַׁאצַּר = H1096 בֵּלְטְשַׁאצַּר "Belteshatstsar, the Babylonian name of Daniel" [ANp]
+- o21: וְ/אָמַר = Hc "and" + H560 אֲמַר "to say (used with great latitude)" [AC/Vqrmsa]
+- o22: מרא/י = H4756 מָרֵא "a master" [ANcmsc/Sp1cs]
+- o23: חֶלְמָ/א = H2493 חֵלֶם "a dream" [ANcmsd/Td]
+- o24: ל/שנאי/ך = Hl "to" + H8131 שְׂנֵא "to hate (personally)" [AR/Vqrmpc/Sp2ms]
+- o25: וּ/פִשְׁרֵ/הּ = Hc "and" + H6591 פְּשַׁר "an interpretation" [AC/Ncmsc/Sp3ms]
+- o26: ל/ערי/ך = Hl "to" + H6146 עָר "a foe (as watchful for mischief)" [AR/Ncmpc/Sp2ms]

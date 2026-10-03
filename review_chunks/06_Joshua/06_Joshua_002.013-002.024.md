@@ -738,3 +738,49 @@ Persian entries and current tags:
 - p26: گداخته شده‌اند  → H4127
 - p27: !
 - p28: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Joshua 2:12 (context)
+
+- o1: וְ/עַתָּה = Hc "and" + H6258 עַתָּה "at this time, whether adverb…" [HC/D]
+- o2: הִשָּׁבְעוּ = H7650 שָׁבַע "to seven oneself…" [HVNv2mp]
+- o3: נָא = H4994 נָא "'I pray', 'now', or 'then'…" [HTe]
+- o4: לִ/י = Hl "to" [HR/Sp1cs]
+- o5: בַּ/יהוָה = Hb "in" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o6: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o7: עָשִׂיתִי = H6213 עָשָׂה "to do or make…" [HVqp1cs]
+- o8: עִמָּ/כֶם = H5973 עִם "adverb or preposition…" [HR/Sp2mp]
+- o9: חָסֶד = H2617 חֵסֵד "kindness; by implication (towards God) piety…" [HNcmsa]
+- o10: וַ/עֲשִׂיתֶם = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqq2mp]
+- o11: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o12: אַתֶּם = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2mp]
+- o13: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o14: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o15: אָבִ/י = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp1cs]
+- o16: חֶסֶד = H2617 חֵסֵד "kindness; by implication (towards God) piety…" [HNcmsa]
+- o17: וּ/נְתַתֶּם = Hc "and" + H5414 נָתַן "to give…" [HC/Vqq2mp]
+- o18: לִ/י = Hl "to" [HR/Sp1cs]
+- o19: אוֹת = H226 אוֹת "a signal (literally or figuratively), as aflag…" [HNcbsc]
+- o20: אֱמֶת = H571 אֶמֶת "stability…" [HNcfsa]
+
+### Joshua 3:1 (context)
+
+- o1: וַ/יַּשְׁכֵּם = Hc "and" + H7925 שָׁכַם "literally…" [HC/Vhw3ms]
+- o2: יְהוֹשֻׁעַ = H3091 יְהוֹשׁוּעַ "Jehoshua (i.e. Joshua), the Jewish leader" [HNp]
+- o3: בַּ/בֹּקֶר = Hb "in" + H1242 בֹּקֶר "properly, dawn (as the break of day)…" [HRd/Ncmsa]
+- o4: וַ/יִּסְעוּ = Hc "and" + H5265 נָסַע "properly, to pull up, especially the tent-pins…" [HC/Vqw3mp]
+- o5: מֵ/הַ/שִּׁטִּים = Hm "from" + Hd "the" + H7851 שִׁטִּים "Shittim, a place East of the Jordan" [HR/Td/Np]
+- o6: וַ/יָּבֹאוּ = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3mp]
+- o7: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o8: הַ/יַּרְדֵּן = Hd "the" + H3383 יַרְדֵּן "Jarden, the principal river of Palestine" [HTd/Np]
+- o9: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o10: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o11: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o12: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o13: וַ/יָּלִנוּ = Hc "and" + H3885 לוּן "to stop (usually over night)…" [HC/Vqw3mp]
+- o14: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o15: טֶרֶם = H2962 טֶרֶם "properly, non-occurrence…" [HD]
+- o16: יַעֲבֹרוּ = H5674 עָבַר "to cross over…" [HVqi3mp]

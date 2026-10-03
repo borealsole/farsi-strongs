@@ -711,3 +711,54 @@ Persian entries and current tags:
 - p13: خود
 - p14: بازگشت  → H3212
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 18:14 (context)
+
+- o1: וַ/יַּרְא = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw3ms]
+- o2: חֹתֵן = H2859 חָתַן "to give (a daughter) away in marriage…" [HVqrmsc]
+- o3: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o4: אֵת = H853 אֵת "properly…" [HTo]
+- o5: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o8: עֹשֶׂה = H6213 עָשָׂה "to do or make…" [HVqrmsa]
+- o9: לָ/עָם = Hl "to" + H5971 עַם "a people (as a congregated unit)…" [HRd/Ncmsa]
+- o10: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o11: מָה = H4100 מָה "properly…" [HTi]
+- o12: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]
+- o13: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o14: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o15: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o16: עֹשֶׂה = H6213 עָשָׂה "to do or make…" [HVqrmsa]
+- o17: לָ/עָם = Hl "to" + H5971 עַם "a people (as a congregated unit)…" [HRd/Ncmsa]
+- o18: מַדּוּעַ = H4069 מַדּוּעַ "what (is) known?…" [HTi]
+- o19: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o20: יוֹשֵׁב = H3427 יָשַׁב "properly…" [HVqrmsa]
+- o21: לְ/בַדֶּ/ךָ = Hl "to" + H905 בַּד "properly, separation…" [HR/Ncmsc/Sp2ms]
+- o22: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o23: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o24: נִצָּב = H5324 נָצַב "to station…" [HVNrmsa]
+- o25: עָלֶי/ךָ = H5921 עַל "above, over, upon…" [HR/Sp2ms]
+- o26: מִן = H4480 מִן "properly, a part of…" [HR]
+- o27: בֹּקֶר = H1242 בֹּקֶר "properly, dawn (as the break of day)…" [HNcmsa]
+- o28: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o29: עָרֶב = H6153 עֶרֶב "dusk" [HNcmsa]
+
+### Exodus 19:1 (context)
+
+- o1: בַּ/חֹדֶשׁ = Hb "in" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HRd/Ncmsa]
+- o2: הַ/שְּׁלִישִׁי = Hd "the" + H7992 שְׁלִישִׁי "third; feminine athird (part)…" [HTd/Aomsa]
+- o3: לְ/צֵאת = Hl "to" + H3318 יָצָא "to go (causatively, bring) out…" [HR/Vqc]
+- o4: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o5: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o6: מֵ/אֶרֶץ = Hm "from" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o7: מִצְרָיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o8: בַּ/יּוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
+- o9: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o10: בָּאוּ = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3cp]
+- o11: מִדְבַּר = H4057 מִדְבָּר "a pasture (i.e. open field…" [HNcmsc]
+- o12: סִינָי = H5514 סִינַי "Sinai, mountain of Arabia" [HNp]

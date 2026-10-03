@@ -1163,3 +1163,36 @@ Persian entries and current tags:
 - p47: یابید
 - p48: .
 - p49: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 29:29 (context)
+
+- o1: הַ/נִּסְתָּרֹת = Hd "the" + H5641 סָתַר "to hide (by covering), literally or figuratively" [HTd/VNrfpa]
+- o2: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o3: אֱלֹהֵי/נוּ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp1cp]
+- o4: וְ/הַ/נִּגְלֹת = Hc "and" + Hd "the" + H1540 גָּלָה "to denude (especially in a disgraceful sense)…" [HC/Td/VNrfpa]
+- o5: לָ/נוּ = Hl "to" [HR/Sp1cp]
+- o6: וּ/לְ/בָנֵי/נוּ = Hc "and" + Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/R/Ncmpc/Sp1cp]
+- o7: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o8: עוֹלָם = H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HNcmsa]
+- o9: לַ/עֲשׂוֹת = Hl "to" + H6213 עָשָׂה "to do or make…" [HR/Vqc]
+- o10: אֶת = H853 אֵת "properly…" [HTo]
+- o11: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o12: דִּבְרֵי = H1697 דָּבָר "a word…" [HNcmpc]
+- o13: הַ/תּוֹרָה = Hd "the" + H8451 תּוֹרָה "a precept or statute…" [HTd/Ncfsa]
+- o14: הַ/זֹּאת = Hd "the" + H2063 זֹאת "this (often used adverb)" [HTd/Pdxfs]
+
+### Deuteronomy 31:1 (context)
+
+- o1: וַ/יֵּלֶךְ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3ms]
+- o2: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o3: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: הַ/דְּבָרִים = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmpa]
+- o6: הָ/אֵלֶּה = Hd "the" + H428 אֵלֶּה "these or those" [HTd/Pdxcp]
+- o7: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o8: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o9: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]

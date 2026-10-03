@@ -625,3 +625,30 @@ Persian entries and current tags:
 - p9: و  → Hc
 - p10: آمین  → H543
 - p11: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 89:35 (context)
+
+- o1: אַחַת = H259 אֶחָד "properly, united, i.e. one…" [HAcfsa]
+- o2: נִשְׁבַּעְתִּי = H7650 שָׁבַע "to seven oneself…" [HVNp1cs]
+- o3: בְ/קָדְשִׁ/י = Hb "in" + H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HR/Ncmsc/Sp1cs]
+- o4: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o5: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o6: אֲכַזֵּב = H3576 כָּזַב "to lie (i.e. deceive), literally or figuratively" [HVpi1cs]
+
+### Psalms 90:1 (context)
+
+- o1: תְּפִלָּה = H8605 תְּפִלָּה "intercession, supplication; by implication, a hymn" [HNcfsa]
+- o2: לְ/מֹשֶׁה = Hl "to" + H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HR/Np]
+- o3: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsc]
+- o4: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o5: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o6: מָעוֹן = H4583 מָעוֹן "an abode, of God (the Tabernacle or the Temple)…" [HNcbsa]
+- o7: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o8: הָיִיתָ = H1961 הָיָה "to exist, i.e. be or become…" [HVqp2ms]
+- o9: לָּ/נוּ = Hl "to" [HR/Sp1cp]
+- o10: בְּ/דֹר = Hb "in" + H1755 דּוֹר "properly, a revolution of time…" [HR/Ncmsa]
+- o11: וָ/דֹר = Hc "and" + H1755 דּוֹר "properly, a revolution of time…" [HC/Ncmsa]

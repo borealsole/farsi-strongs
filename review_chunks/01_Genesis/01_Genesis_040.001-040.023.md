@@ -1121,3 +1121,40 @@ Persian entries and current tags:
 - p11: را  → H853
 - p12: فراموش نمود  → H7911
 - p13: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 39:23 (context)
+
+- o1: אֵין = H369 אַיִן "a non-entity…" [HTn]
+- o2: שַׂר = H8269 שַׂר "a head person (of any rank or class)" [HNcmsc]
+- o3: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o4: הַ/סֹּהַר = Hd "the" + H5470 סֹהַר "a dungeon (as surrounded by walls)" [HTd/Ncmsa]
+- o5: רֹאֶה = H7200 רָאָה "to see…" [HVqrmsa]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o8: מְאוּמָה = H3972 מְאוּמָה "properly, a speck or point…" [HNcfsa]
+- o9: בְּ/יָד/וֹ = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc/Sp3ms]
+- o10: בַּ/אֲשֶׁר = Hb "in" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o11: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o12: אִתּ/וֹ = H854 אֵת "properly…" [HR/Sp3ms]
+- o13: וַ/אֲשֶׁר = Hc "and" + H834 אֲשֶׁר "who, which, what, that…" [HC/Tr]
+- o14: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o15: עֹשֶׂה = H6213 עָשָׂה "to do or make…" [HVqrmsa]
+- o16: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o17: מַצְלִיחַ = H6743 צָלַח "to push forward…" [HVhrmsa]
+
+### Genesis 41:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: מִ/קֵּץ = Hm "from" + H7093 קֵץ "an extremity…" [HR/Ncmsc]
+- o3: שְׁנָתַיִם = H8141 שָׁנֶה "a year (as a revolution of time)" [HAcfda]
+- o4: יָמִים = H3117 יוֹם "a day (as the warm hours)…" [HNcmpa]
+- o5: וּ/פַרְעֹה = Hc "and" + H6547 פַּרְעֹה "Paroh, a general title of Egyptian kings" [HC/Np]
+- o6: חֹלֵם = H2492 חָלַם "properly, to bind firmly…" [HVqrmsa]
+- o7: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o8: עֹמֵד = H5975 עָמַד "to stand…" [HVqrmsa]
+- o9: עַל = H5921 עַל "above, over, upon…" [HR]
+- o10: הַ/יְאֹר = Hd "the" + H2975 יְאֹר "a channel, e.g. a fosse, canal, shaft…" [HTd/Np]

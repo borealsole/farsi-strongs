@@ -721,3 +721,41 @@ Persian entries and current tags:
 - p17: گوساله‌ها  → H6499
 - p18: تقدیم خواهند_کرد  → H2654 H5927
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 50:23 (context)
+
+- o1: זֹבֵחַ = H2076 זָבַח "to slaughter an animal (usually in sacrifice)" [HVqrmsa]
+- o2: תּוֹדָה = H8426 תּוֹדָה "properly, an extension of the hand…" [HNcfsa]
+- o3: יְכַבְּדָ/נְנִי = H3513 כָּבַד "to be heavy, i.e. in a bad sense (burdensome…" [HVpi3ms/Sp1cs]
+- o4: וְ/שָׂם = Hc "and" + H7760 שׂוּם "to put (used in a great variety of applications…" [HC/Vqrmsa]
+- o5: דֶּרֶךְ = H1870 דֶּרֶךְ "a road (as trodden)…" [HNcbsa]
+- o6: אַרְאֶ/נּוּ = H7200 רָאָה "to see…" [HVhi1cs/Sp3ms]
+- o7: בְּ/יֵשַׁע = Hb "in" + H3468 יֶשַׁע "liberty, deliverance, prosperity" [HR/Ncmsc]
+- o8: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+
+### Psalms 52:1 (context)
+
+- o1: בְּ/בוֹא = Hb "in" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HR/Vqc]
+- o2: דּוֹאֵג = H1673 דֹּאֵג "Doeg, an Edomite" [HNp]
+- o3: הָ/אֲדֹמִי = Hd "the" + H130 אֱדֹמִי "an Edomite…" [HTd/Ngmsa]
+- o4: וַ/יַּגֵּד = Hc "and" + H5046 נָגַד "properly, to front…" [HC/Vhw3ms]
+- o5: לְ/שָׁאוּל = Hl "to" + H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HR/Np]
+- o6: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o7: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o8: בָּא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3ms]
+- o9: דָוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o10: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o11: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o12: אֲחִימֶלֶךְ = H288 אֲחִימֶלֶךְ "Achimelek…" [HNp]
+- o13: מַה = H4100 מָה "properly…" [HTi]
+- o14: תִּתְהַלֵּל = H1984 הָלַל "to be clear (orig. of sound…" [HVti2ms]
+- o15: בְּ/רָעָה = Hb "in" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HR/Ncfsa]
+- o16: הַ/גִּבּוֹר = Hd "the" + H1368 גִּבּוֹר "powerful; by implication, warrior, tyrant" [HTd/Aamsa]
+- o17: חֶסֶד = H2617 חֵסֵד "kindness; by implication (towards God) piety…" [HNcmsc]
+- o18: אֵל = H410 אֵל "strength; as adjective, mighty…" [HNcmsa]
+- o19: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o20: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]

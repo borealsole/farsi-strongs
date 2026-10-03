@@ -784,3 +784,47 @@ Persian entries and current tags:
 - p7: از آنجا  → G1564
 - p8: رفت  → G4198
 - p9: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 18:35 (context)
+
+- o1: οὕτως = G3779 οὕτω "after that, after (in) this manner, as, even (so)…" [ADV]
+- o2: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o3: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o4: πατήρ = G3962 πατήρ "father, parent" [N-NSM]
+- o5: μου = G1473 ἐγώ "I, me" [P-1GS]
+- o6: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o7: οὐράνιος = G3770 οὐράνιος "heavenly" [A-NSM]
+- o8: ποιήσει = G4160 ποιέω "abide, + agree, appoint, avenge, + band together…" [V-FAI-3S]
+- o9: ὑμῖν, = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
+- o10: ἐὰν = G1437 ἐάν "before, but, except, (and) if, (if) so, (what-…" [COND]
+- o11: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o12: ἀφῆτε = G863 ἀφίημι "cry, forgive, forsake, lay aside, leave…" [V-2AAS-2P]
+- o13: ἕκαστος = G1538 ἕκαστος "any, both, each (one), every (man, one, woman)…" [A-NSM]
+- o14: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o15: ἀδελφῷ = G80 ἀδελφός "brother" [N-DSM]
+- o16: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o17: ἀπὸ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
+- o18: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPF]
+- o19: καρδιῶν = G2588 καρδία "(+ broken-)heart(-ed)" [N-GPF]
+- o20: ὑμῶν. = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
+
+### Matthew 19:16 (context)
+
+- o1: Καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἰδοὺ = G3708 ὁράω "behold, perceive, see, take heed" [V-2AMM-2S]
+- o3: εἷς = G1520 εἷς "a(-n, -ny, certain), + abundantly, man…" [A-NSM]
+- o4: προσελθὼν = G4334 προσέρχομαι "as soon as he) come (unto), come thereunto…" [V-2AAP-NSM]
+- o5: αὐτῷ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
+- o6: εἶπεν· = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-2AAI-3S]
+- o7: διδάσκαλε, = G1320 διδάσκαλος "doctor, master, teacher" [N-VSM]
+- o8: τί = G5101 τίς "every man, how (much), + no(-ne, thing)…" [I-ASN]
+- o9: ἀγαθὸν = G18 ἀγαθός "benefit, good(-s, things), well" [A-ASN]
+- o10: ποιήσω = G4160 ποιέω "abide, + agree, appoint, avenge, + band together…" [V-AAS-1S]
+- o11: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o12: σχῶ = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-2AAS-1S]
+- o13: ζωὴν = G2222 ζωή "life(-time)" [N-ASF]
+- o14: αἰώνιον; = G166 αἰώνιος "eternal, for ever, everlasting, world (began)" [A-ASF]

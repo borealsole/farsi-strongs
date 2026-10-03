@@ -1202,3 +1202,40 @@ Persian entries and current tags:
 - p15: آن
 - p16: کراهت دارد  → H8130
 - p17: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 15:23 (context)
+
+- o1: רַק = H7535 רַק "properly, leanness…" [HTa]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: דָּמ/וֹ = H1818 דָּם "blood (as that which when shed causes death) of…" [HNcmsc/Sp3ms]
+- o4: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o5: תֹאכֵל = H398 אָכַל "to eat (literally or figuratively)" [HVqi2ms]
+- o6: עַל = H5921 עַל "above, over, upon…" [HR]
+- o7: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o8: תִּשְׁפְּכֶ/נּוּ = H8210 שָׁפַךְ "to spill forth (blood, a libation, liquid metal…" [HVqi2ms/Sp3ms]
+- o9: כַּ/מָּיִם = Hk "like" + H4325 מַיִם "water; figuratively, juice…" [HRd/Ncmpa]
+
+### Deuteronomy 17:1 (context)
+
+- o1: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o2: תִזְבַּח = H2076 זָבַח "to slaughter an animal (usually in sacrifice)" [HVqi2ms]
+- o3: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o4: אֱלֹהֶי/ךָ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2ms]
+- o5: שׁוֹר = H7794 שׁוֹר "a bullock (as a traveller)" [HNcmsa]
+- o6: וָ/שֶׂה = Hc "and" + H7716 שֶׂה "a member of a flock, i.e. a sheep or goat" [HC/Ncbsa]
+- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o8: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o9: ב/וֹ = Hb "in" [HR/Sp3ms]
+- o10: מוּם = H3971 מאוּם "to stain; a blemish (physically or morally)" [HNcmsa]
+- o11: כֹּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o12: דָּבָר = H1697 דָּבָר "a word…" [HNcmsa]
+- o13: רָע = H7451 רַע "bad or (as noun) evil (natural or moral)" [HAamsa]
+- o14: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o15: תוֹעֲבַת = H8441 תּוֹעֵבַה "properly, something disgusting (morally)…" [HNcfsc]
+- o16: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o17: אֱלֹהֶי/ךָ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2ms]
+- o18: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]

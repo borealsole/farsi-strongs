@@ -997,3 +997,39 @@ Persian entries and current tags:
 - p24: بتهایشان  → H1544
 - p25: می‌رفت  → H1980
 - p26: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 19:14 (context)
+
+- o1: וַ/תֵּצֵא = Hc "and" + H3318 יָצָא "to go (causatively, bring) out…" [HC/Vqw3fs]
+- o2: אֵשׁ = H784 אֵשׁ "fire (literally or figuratively)" [HNcbsa]
+- o3: מִ/מַּטֵּה = Hm "from" + H4294 מַטֶּה "a branch (as extending); figuratively, a tribe…" [HR/Ncmsc]
+- o4: בַדֶּי/הָ = H905 בַּד "properly, separation…" [HNcmpc/Sp3fs]
+- o5: פִּרְיָ/הּ = H6529 פְּרִי "fruit (literally or figuratively)" [HNcmsc/Sp3fs]
+- o6: אָכָלָה = H398 אָכַל "to eat (literally or figuratively)" [HVqp3fs]
+- o7: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o8: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o9: בָ/הּ = Hb "in" [HR/Sp3fs]
+- o10: מַטֵּה = H4294 מַטֶּה "a branch (as extending); figuratively, a tribe…" [HNcmsc]
+- o11: עֹז = H5797 עֹז "strength in various applications (force, security…" [HNcmsa]
+- o12: שֵׁבֶט = H7626 שֵׁבֶט "a scion, i.e. (literally) a stick (for punishing…" [HNcmsa]
+- o13: לִ/מְשׁוֹל = Hl "to" + H4910 מָשַׁל "to rule" [HR/Vqc]
+- o14: קִינָה = H7015 קִינָה "a dirge (as accompanied by beating the breasts or…" [HNcfsa]
+- o15: הִיא = H1931 הוּא "he (she or it)…" [HPp3fs]
+- o16: וַ/תְּהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3fs]
+- o17: לְ/קִינָה = Hl "to" + H7015 קִינָה "a dirge (as accompanied by beating the breasts or…" [HR/Ncfsa]
+
+### Ezekiel 20:17 (context)
+
+- o1: וַ/תָּחָס = Hc "and" + H2347 חוּס "properly, to cover…" [HC/Vqw3fs]
+- o2: עֵינִ/י = H5869 עַיִן "an eye (literally or figuratively)…" [HNcbsc/Sp1cs]
+- o3: עֲלֵי/הֶם = H5921 עַל "above, over, upon…" [HR/Sp3mp]
+- o4: מִ/שַּׁחֲתָ/ם = Hm "from" + H7843 שָׁחַת "to decay…" [HR/Vpc/Sp3mp]
+- o5: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o6: עָשִׂיתִי = H6213 עָשָׂה "to do or make…" [HVqp1cs]
+- o7: אוֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o8: כָּלָה = H3617 כָּלָה "a completion; adverb, completely; also destruction" [HNcfsa]
+- o9: בַּ/מִּדְבָּר = Hb "in" + H4057 מִדְבָּר "a pasture (i.e. open field…" [HRd/Ncmsa]

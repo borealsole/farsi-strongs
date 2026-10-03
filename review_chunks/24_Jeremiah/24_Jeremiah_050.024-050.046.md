@@ -1281,3 +1281,37 @@ Persian entries and current tags:
 - p16: به‌گوش خواهد_رسید  → H8085
 - p17: .
 - p18: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 50:23 (context)
+
+- o1: אֵיךְ = H349 אֵיךְ "how? or how!; also where" [HTi]
+- o2: נִגְדַּע = H1438 גָּדַע "to fell a tree; generally, to destroy anything" [HVNp3ms]
+- o3: וַ/יִּשָּׁבֵר = Hc "and" + H7665 שָׁבַר "to burst (literally or figuratively)" [HC/VNw3ms]
+- o4: פַּטִּישׁ = H6360 פַּטִּישׁ "a hammer" [HNcmsc]
+- o5: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o6: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o7: אֵיךְ = H349 אֵיךְ "how? or how!; also where" [HTi]
+- o8: הָיְתָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3fs]
+- o9: לְ/שַׁמָּה = Hl "to" + H8047 שַׁמָּה "ruin; by implication, consternation" [HR/Ncfsa]
+- o10: בָּבֶל = H894 בָּבֶל "Babel (i.e. Babylon)…" [HNp]
+- o11: בַּ/גּוֹיִם = Hb "in" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HRd/Ncmpa]
+
+### Jeremiah 51:1 (context)
+
+- o1: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o2: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: הִנְ/נִי = H2005 הֵן "lo!; also (as expressing surprise) if" [HTm/Sp1cs]
+- o5: מֵעִיר = H5782 עוּר "to wake (literally or figuratively)" [HVhrmsa]
+- o6: עַל = H5921 עַל "above, over, upon…" [HR]
+- o7: בָּבֶל = H894 בָּבֶל "Babel (i.e. Babylon)…" [HNp]
+- o8: וְ/אֶל = Hc "and" + H413 אֵל "near, with or among; often in general, to" [HC/R]
+- o9: יֹשְׁבֵי = H3427 יָשַׁב "properly…" [HVqrmpc]
+- o10: לֵב = H3820 לֵב "the heart…" [HNp]
+- o11: קָמָי = H6965 קוּם "to rise (in various applications, literal…" [HNp]
+- o12: רוּחַ = H7307 רוּחַ "wind…" [HNcbsa]
+- o13: מַשְׁחִית = H7843 שָׁחַת "to decay…" [HVhrmsa]

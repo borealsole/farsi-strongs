@@ -1051,3 +1051,32 @@ Persian entries and current tags:
 - p27: غیرمقدس  → H2455
 - p28: جدا سازد  → H914
 - p29: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 41:26 (context)
+
+- o1: וְ/חַלּוֹנִים = Hc "and" + H2474 חַלּוֹן "a window (as perforated)" [HC/Ncbpa]
+- o2: אֲטֻמוֹת = H331 אָטַם "to close (the lips or ears)…" [HVqsfpa]
+- o3: וְ/תִמֹרִים = Hc "and" + H8561 תִּמֹּר "architectural) a palm-like pilaster (i.e.…" [HC/Ncfpa]
+- o4: מִ/פּוֹ = Hm "from" + H6311 פֹּה "this place (French ici), i.e. here or hence" [HR/D]
+- o5: וּ/מִ/פּוֹ = Hc "and" + Hm "from" + H6311 פֹּה "this place (French ici), i.e. here or hence" [HC/R/D]
+- o6: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o7: כִּתְפוֹת = H3802 כָּתֵף "the shoulder (proper, i.e. upper end of the arm…" [HNcfpc]
+- o8: הָ/אוּלָם = Hd "the" + H197 אוּלָם "a vestibule (as bound to the building)" [HTd/Ncmsa]
+- o9: וְ/צַלְעוֹת = Hc "and" + H6763 צֵלָע "a rib (as curved)…" [HC/Ncbpc]
+- o10: הַ/בַּיִת = Hd "the" + H1004 בַּיִת "a house (in the greatest variation of…" [HTd/Ncmsa]
+- o11: וְ/הָ/עֻבִּים = Hc "and" + Hd "the" + H5646 עָב "an architrave (as shading the pillars)" [HC/Td/Ncmpa]
+
+### Ezekiel 43:1 (context)
+
+- o1: וַ/יּוֹלִכֵ/נִי = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vhw3ms/Sp1cs]
+- o2: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o3: הַ/שָּׁעַר = Hd "the" + H8179 שַׁעַר "an opening, i.e. door or gate" [HTd/Ncmsa]
+- o4: שַׁעַר = H8179 שַׁעַר "an opening, i.e. door or gate" [HNcmsa]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: פֹּנֶה = H6437 פָּנָה "to turn…" [HVqrmsa]
+- o7: דֶּרֶךְ = H1870 דֶּרֶךְ "a road (as trodden)…" [HNcbsc]
+- o8: הַ/קָּדִים = Hd "the" + H6921 קָדִים "the fore or front part…" [HTd/Ncmsa]

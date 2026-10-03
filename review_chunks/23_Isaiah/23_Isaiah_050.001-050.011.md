@@ -705,3 +705,45 @@ Persian entries and current tags:
 - p38: عذاب  → H4620
 - p39: خواهید_مرد  → H7901
 - p40: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 49:26 (context)
+
+- o1: וְ/הַאֲכַלְתִּי = Hc "and" + H398 אָכַל "to eat (literally or figuratively)" [HC/Vhq1cs]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: מוֹנַיִ/ךְ = H3238 יָנָה "to rage or be violent…" [HVhrmpc/Sp2fs]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: בְּשָׂרָ/ם = H1320 בָּשָׂר "flesh (from its freshness)…" [HNcmsc/Sp3mp]
+- o6: וְ/כֶ/עָסִיס = Hc "and" + Hk "like" + H6071 עָסִיס "must or fresh grape-juice (as just trodden out)" [HC/Rd/Ncmsa]
+- o7: דָּמָ/ם = H1818 דָּם "blood (as that which when shed causes death) of…" [HNcmsc/Sp3mp]
+- o8: יִשְׁכָּרוּ/ן = H7937 שָׁכַר "to become tipsy…" [HVqi3mp/Sn]
+- o9: וְ/יָדְעוּ = Hc "and" + H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HC/Vqq3cp]
+- o10: כָל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o11: בָּשָׂר = H1320 בָּשָׂר "flesh (from its freshness)…" [HNcmsa]
+- o12: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o13: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o14: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o15: מוֹשִׁיעֵ/ךְ = H3467 יָשַׁע "properly, to be open, wide or free…" [HVhrmsc/Sp2fs]
+- o16: וְ/גֹאֲלֵ/ךְ = Hc "and" + H1350 גָּאַל "to be the next of kin (and as such to buy back a…" [HC/Vqrmsc/Sp2fs]
+- o17: אֲבִיר = H46 אָבִיר "mighty (spoken of God)" [HAamsc]
+- o18: יַעֲקֹב = H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HNp]
+
+### Isaiah 51:1 (context)
+
+- o1: שִׁמְעוּ = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqv2mp]
+- o2: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o3: רֹדְפֵי = H7291 רָדַף "to run after (usually with hostile intent…" [HVqrmpc]
+- o4: צֶדֶק = H6664 צֶדֶק "the right (natural, moral or legal)…" [HNcmsa]
+- o5: מְבַקְשֵׁי = H1245 בָּקַשׁ "to search out (by any method…" [HVprmpc]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: הַבִּיטוּ = H5027 נָבַט "to scan, i.e. look intently at…" [HVhv2mp]
+- o8: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o9: צוּר = H6697 צוּר "properly, a cliff (or sharp rock, as compressed)…" [HNcmsa]
+- o10: חֻצַּבְתֶּם = H2672 חָצַב "to cut or carve (wood, stone or other material)…" [HVPp2mp]
+- o11: וְ/אֶל = Hc "and" + H413 אֵל "near, with or among; often in general, to" [HC/R]
+- o12: מַקֶּבֶת = H4718 מַקֶּבֶת "properly, a perforator…" [HNcfsc]
+- o13: בּוֹר = H953 בּוֹר "a pit hole (especially one used as a cistern or a…" [HNcmsa]
+- o14: נֻקַּרְתֶּם = H5365 נָקַר "to bore (penetrate, quarry)" [HVPp2mp]

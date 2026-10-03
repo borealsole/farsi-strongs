@@ -977,3 +977,33 @@ Persian entries and current tags:
 - p28: ،
 - p29: ذخیره کرده‌ام  → H6845
 - p30: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Song of Solomon 6:3 (context)
+
+- o1: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o2: לְ/דוֹדִ/י = Hl "to" + H1730 דּוֹד "figuratively) to love…" [HR/Ncmsc/Sp1cs]
+- o3: וְ/דוֹדִ/י = Hc "and" + H1730 דּוֹד "figuratively) to love…" [HC/Ncmsc/Sp1cs]
+- o4: לִ/י = Hl "to" [HR/Sp1cs]
+- o5: הָ/רֹעֶה = Hd "the" + H7462 רָעָה "to tend a flock; i.e. pasture it…" [HTd/Vqrmsa]
+- o6: בַּ/שׁוֹשַׁנִּים = Hb "in" + H7799 שׁוּשַׁן "a lily (from its whiteness)…" [HRd/Ncbpa]
+
+### Song of Solomon 8:1 (context)
+
+- o1: מִי = H4310 מִי "who? (occasionally, by a peculiar idiom…" [HTi]
+- o2: יִתֶּנְ/ךָ = H5414 נָתַן "to give…" [HVqi3ms/Sp2ms]
+- o3: כְּ/אָח = Hk "like" + H251 אָח "a brother (used in the widest sense of literal…" [HR/Ncmsa]
+- o4: לִ/י = Hl "to" [HR/Sp1cs]
+- o5: יוֹנֵק = H3243 יָנַק "to suck; causatively, to give milk" [HVqrmsa]
+- o6: שְׁדֵי = H7699 שַׁד "the breast of a woman or animal (as bulging)" [HNcmdc]
+- o7: אִמִּ/י = H517 אֵם "a mother (as the bond of the family)…" [HNcfsc/Sp1cs]
+- o8: אֶמְצָאֲ/ךָ = H4672 מָצָא "properly, to come forth to, i.e. appear or exist…" [HVqi1cs/Sp2ms]
+- o9: בַ/חוּץ = Hb "in" + H2351 חוּץ "properly, separate by awall, i.e. outside…" [HRd/Ncmsa]
+- o10: אֶשָׁקְ/ךָ = H5401 נָשַׁק "to kiss, literally or figuratively (touch)…" [HVqi1cs/Sp2ms]
+- o11: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o12: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o13: יָבוּזוּ = H936 בּוּז "to disrespect" [HVqi3mp]
+- o14: לִ/י = Hl "to" [HR/Sp1cs]

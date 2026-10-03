@@ -592,3 +592,27 @@ Persian entries and current tags:
 - p9: رسوایی  → H7036
 - p10: خواهد_بود  → H7311
 - p11: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 3:18 (context)
+
+- o1: עֵץ = H6086 עֵץ "a tree (from its firmness)…" [HNcmsc]
+- o2: חַיִּים = H2416 חַי "alive; hence, raw (flesh)…" [HNcmpa]
+- o3: הִיא = H1931 הוּא "he (she or it)…" [HPp3fs]
+- o4: לַ/מַּחֲזִיקִים = Hl "to" + H2388 חָזַק "to fasten upon…" [HRd/Vhrmpa]
+- o5: בָּ/הּ = Hb "in" [HR/Sp3fs]
+- o6: וְ/תֹמְכֶי/הָ = Hc "and" + H8551 תָּמַךְ "to sustain; by implication, to obtain, keep fast…" [HC/Vqrmpc/Sp3fs]
+- o7: מְאֻשָּׁר = H833 אָשַׁר "to be straight (used in the widest sense…" [HVPsmsa]
+
+### Proverbs 4:1 (context)
+
+- o1: שִׁמְעוּ = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqv2mp]
+- o2: בָנִים = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpa]
+- o3: מוּסַר = H4148 מוּסָר "properly, chastisement…" [HNcmsc]
+- o4: אָב = H1 אָב "father, in a literal and immediate…" [HNcmsa]
+- o5: וְ/הַקְשִׁיבוּ = Hc "and" + H7181 קָשַׁב "to prick up the ears, i.e. hearken" [HC/Vhv2mp]
+- o6: לָ/דַעַת = Hl "to" + H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HR/Vqc]
+- o7: בִּינָה = H998 בִּינָה "understanding" [HNcfsa]

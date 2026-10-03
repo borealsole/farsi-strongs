@@ -995,3 +995,52 @@ Persian entries and current tags:
 - p12: حِزِقیا  → H2396
 - p13: گفتند  → H1696
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 31:21 (context)
+
+- o1: וּ/בְ/כָל = Hc "and" + Hb "in" + H3605 כֹּל "properly, the whole…" [HC/R/Ncmsc]
+- o2: מַעֲשֶׂה = H4639 מַעֲשֶׂה "an action (good or bad); generally, a transaction…" [HNcmsa]
+- o3: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o4: הֵחֵל = H2490 חָלַל "properly, to bore, i.e. (by implication) to wound…" [HVhp3ms]
+- o5: בַּ/עֲבוֹדַת = Hb "in" + H5656 עֲבֹדָה "work of any kind" [HR/Ncfsc]
+- o6: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o7: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o8: וּ/בַ/תּוֹרָה = Hc "and" + Hb "in" + H8451 תּוֹרָה "a precept or statute…" [HC/Rd/Ncfsa]
+- o9: וּ/בַ/מִּצְוָה = Hc "and" + Hb "in" + H4687 מִצְוָה "a command, whether human or divine (collectively…" [HC/Rd/Ncfsa]
+- o10: לִ/דְרֹשׁ = Hl "to" + H1875 דָּרַשׁ "properly, to tread or frequent…" [HR/Vqc]
+- o11: לֵ/אלֹהָי/ו = Hl "to" + H430 אֱלֹהִים "gods in the ordinary sense…" [HR/Ncmpc/Sp3ms]
+- o12: בְּ/כָל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o13: לְבָב/וֹ = H3824 לֵבָב "the heart (as the most interior organ)" [HNcmsc/Sp3ms]
+- o14: עָשָׂה = H6213 עָשָׂה "to do or make…" [HVqp3ms]
+- o15: וְ/הִצְלִיחַ = Hc "and" + H6743 צָלַח "to push forward…" [HC/Vhp3ms]
+
+### II Chronicles 32:17 (context)
+
+- o1: וּ/סְפָרִים = Hc "and" + H5612 סֵפֶר "properly, writing (the art or a document)…" [HC/Ncmpa]
+- o2: כָּתַב = H3789 כָּתַב "to grave, by implication, to write (describe…" [HVqp3ms]
+- o3: לְ/חָרֵף = Hl "to" + H2778 חָרַף "to pull off…" [HR/Vpc]
+- o4: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o5: אֱלֹהֵי = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc]
+- o6: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o7: וְ/לֵ/אמֹר = Hc "and" + Hl "to" + H559 אָמַר "to say (used with great latitude)" [HC/R/Vqc]
+- o8: עָלָי/ו = H5921 עַל "above, over, upon…" [HR/Sp3ms]
+- o9: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o10: כֵּ/אלֹהֵי = Hk "like" + H430 אֱלֹהִים "gods in the ordinary sense…" [HR/Ncmpc]
+- o11: גּוֹיֵ = H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HNcmpc]
+- o12: הָ/אֲרָצוֹת = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbpa]
+- o13: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o14: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o15: הִצִּילוּ = H5337 נָצַל "to snatch away, whether in a good or a bad sense" [HVhp3cp]
+- o16: עַמָּ/ם = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp3mp]
+- o17: מִ/יָּדִ/י = Hm "from" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc/Sp1cs]
+- o18: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o19: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o20: יַצִּיל = H5337 נָצַל "to snatch away, whether in a good or a bad sense" [HVhi3ms]
+- o21: אֱלֹהֵי = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc]
+- o22: יְחִזְקִיָּהוּ = H2396 חִזְקִיָּה "Chizkijah, a king of Judah…" [HNp]
+- o23: עַמּ/וֹ = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp3ms]
+- o24: מִ/יָּדִ/י = Hm "from" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc/Sp1cs]

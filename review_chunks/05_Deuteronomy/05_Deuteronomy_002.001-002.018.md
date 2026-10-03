@@ -897,3 +897,42 @@ Persian entries and current tags:
 - p7: عار  → H6144
 - p8: بگذری  → H5674
 - p9: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 1:46 (context)
+
+- o1: וַ/תֵּשְׁבוּ = Hc "and" + H3427 יָשַׁב "properly…" [HC/Vqw2mp]
+- o2: בְ/קָדֵשׁ = Hb "in" + H6946 קָדֵשׁ "Kadesh, a place in the Desert" [HR/Np]
+- o3: יָמִים = H3117 יוֹם "a day (as the warm hours)…" [HNcmpa]
+- o4: רַבִּים = H7227 רַב "abundant (in quantity, size, age, number, rank…" [HAampa]
+- o5: כַּ/יָּמִים = Hk "like" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmpa]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: יְשַׁבְתֶּם = H3427 יָשַׁב "properly…" [HVqp2mp]
+
+### Deuteronomy 2:19 (context)
+
+- o1: וְ/קָרַבְתָּ = Hc "and" + H7126 קָרַב "to approach (causatively…" [HC/Vqq2ms]
+- o2: מוּל = H4136 מוּל "properly, abrupt, i.e. a precipice…" [HR]
+- o3: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o4: עַמּוֹן = H5983 עַמּוֹן "Ammon, a son of Lot…" [HNp]
+- o5: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o6: תְּצֻרֵ/ם = H6696 צוּר "to cramp, i.e. confine (in many applications…" [HVqj2ms/Sp3mp]
+- o7: וְ/אַל = Hc "and" + H408 אַל "not (the qualified negation…" [HC/Tn]
+- o8: תִּתְגָּר = H1624 גָּרָה "properly, to grate, i.e. (figuratively) to anger" [HVtj2ms]
+- o9: בָּ/ם = Hb "in" [HR/Sp3mp]
+- o10: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o11: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o12: אֶתֵּן = H5414 נָתַן "to give…" [HVqi1cs]
+- o13: מֵ/אֶרֶץ = Hm "from" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o14: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o15: עַמּוֹן = H5983 עַמּוֹן "Ammon, a son of Lot…" [HNp]
+- o16: לְ/ךָ = Hl "to" [HR/Sp2ms]
+- o17: יְרֻשָּׁה = H3425 יְרֻשָּׁה "something occupied; a conquest; also a patrimony" [HNcfsa]
+- o18: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o19: לִ/בְנֵי = Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmpc]
+- o20: לוֹט = H3876 לוֹט "Lot, Abraham's nephew" [HNp]
+- o21: נְתַתִּי/הָ = H5414 נָתַן "to give…" [HVqp1cs/Sp3fs]
+- o22: יְרֻשָּׁה = H3425 יְרֻשָּׁה "something occupied; a conquest; also a patrimony" [HNcfsa]

@@ -1005,3 +1005,57 @@ Persian entries and current tags:
 - p34: چه  → H4100
 - p35: خواهد_شد
 - p36: ؟
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ecclesiastes 2:26 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: לְ/אָדָם = Hl "to" + H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HR/Ncmsa]
+- o3: שֶׁ/טּוֹב = Hs "which" + H2896 טוֹב "good (as an adjective) in the widest sense…" [HTr/Aamsa]
+- o4: לְ/פָנָי/ו = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp3ms]
+- o5: נָתַן = H5414 נָתַן "to give…" [HVqp3ms]
+- o6: חָכְמָה = H2451 חׇכְמָה "wisdom (in a good sense)" [HNcfsa]
+- o7: וְ/דַעַת = Hc "and" + H1847 דַּעַת "knowledge" [HC/Ncfsa]
+- o8: וְ/שִׂמְחָה = Hc "and" + H8057 שִׂמְחָה "blithesomeness or glee, (religious or festival)" [HC/Ncfsa]
+- o9: וְ/לַ/חוֹטֶא = Hc "and" + Hl "to" + H2398 חָטָא "properly, to miss…" [HC/Rd/Vqrmsa]
+- o10: נָתַן = H5414 נָתַן "to give…" [HVqp3ms]
+- o11: עִנְיָן = H6045 עִנְיָן "ado…" [HNcmsa]
+- o12: לֶ/אֱסוֹף = Hl "to" + H622 אָסַף "to gather for any purpose…" [HR/Vqc]
+- o13: וְ/לִ/כְנוֹס = Hc "and" + Hl "to" + H3664 כָּנַס "to collect; hence, to enfold" [HC/R/Vqc]
+- o14: לָ/תֵת = Hl "to" + H5414 נָתַן "to give…" [HR/Vqc]
+- o15: לְ/טוֹב = Hl "to" + H2896 טוֹב "good (as an adjective) in the widest sense…" [HR/Aamsa]
+- o16: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o17: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o18: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o19: זֶה = H2088 זֶה "the masculine demonstrative pronoun, this or that" [HPdxms]
+- o20: הֶבֶל = H1892 הֶבֶל "emptiness or vanity…" [HNcmsa]
+- o21: וּ/רְעוּת = Hc "and" + H7469 רְעוּת "a feeding upon, i.e. grasping after" [HC/Ncfsc]
+- o22: רוּחַ = H7307 רוּחַ "wind…" [HNcbsa]
+
+### Ecclesiastes 4:1 (context)
+
+- o1: וְ/שַׁבְתִּי = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqp1cs]
+- o2: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o3: וָ/אֶרְאֶה = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw1cs]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o6: הָ/עֲשֻׁקִים = Hd "the" + H6217 עָשׁוּק "used in plural masculine as abstractly, tyranny" [HTd/Vqsmpa]
+- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o8: נַעֲשִׂים = H6213 עָשָׂה "to do or make…" [HVNsmpa]
+- o9: תַּחַת = H8478 תַּחַת "the bottom (as depressed)…" [HR]
+- o10: הַ/שָּׁמֶשׁ = Hd "the" + H8121 שֶׁמֶשׁ "the sun; by implication, the east…" [HTd/Ncbsa]
+- o11: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o12: דִּמְעַת = H1832 דִּמְעָה "weeping" [HNcfsc]
+- o13: הָ/עֲשֻׁקִים = Hd "the" + H6217 עָשׁוּק "used in plural masculine as abstractly, tyranny" [HTd/Vqsmpa]
+- o14: וְ/אֵין = Hc "and" + H369 אַיִן "a non-entity…" [HC/Tn]
+- o15: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o16: מְנַחֵם = H5162 נָחַם "properly, to sigh, i.e. breathe strongly…" [HVprmsa]
+- o17: וּ/מִ/יַּד = Hc "and" + Hm "from" + H3027 יָד "a hand (the open one (indicating power, means…" [HC/R/Ncbsc]
+- o18: עֹשְׁקֵי/הֶם = H6231 עָשַׁק "to press upon, i.e. oppress, defraud, violate…" [HVqrmpc/Sp3mp]
+- o19: כֹּחַ = H3581 כֹּחַ "vigor, literally (force…" [HNcmsa]
+- o20: וְ/אֵין = Hc "and" + H369 אַיִן "a non-entity…" [HC/Tn]
+- o21: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o22: מְנַחֵם = H5162 נָחַם "properly, to sigh, i.e. breathe strongly…" [HVprmsa]

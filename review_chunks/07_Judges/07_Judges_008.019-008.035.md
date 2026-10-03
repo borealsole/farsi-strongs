@@ -931,3 +931,47 @@ Persian entries and current tags:
 - p18: محبت روا  → H2617
 - p19: نداشتند  → H3808 H6213
 - p20: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Judges 8:18 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o3: זֶבַח = H2078 זֶבַח "Zebach, a Midianitish prince" [HNp]
+- o4: וְ/אֶל = Hc "and" + H413 אֵל "near, with or among; often in general, to" [HC/R]
+- o5: צַלְמֻנָּע = H6759 צַלְמֻנָּע "Tsalmunna, a Midianite" [HNp]
+- o6: אֵיפֹה = H375 אֵיפֹה "what place?; also (of time) when?…" [HTi]
+- o7: הָ/אֲנָשִׁים = Hd "the" + H376 אִישׁ "a man as an individual or a male person…" [HTd/Ncmpa]
+- o8: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o9: הֲרַגְתֶּם = H2026 הָרַג "to smite with deadly intent" [HVqp2mp]
+- o10: בְּ/תָבוֹר = Hb "in" + H8396 תָּבוֹר "Tabor, a mountain in Palestine…" [HR/Np]
+- o11: וַ/יֹּאמרוּ = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3mp]
+- o12: כָּמוֹ/ךָ = H3644 כְּמוֹ "a form of the prefix 'k-', but used separately as…" [HR/Sp2ms]
+- o13: כְמוֹ/הֶם = H3644 כְּמוֹ "a form of the prefix 'k-', but used separately as…" [HR/Sp3mp]
+- o14: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o15: כְּ/תֹאַר = Hk "like" + H8389 תֹּאַר "outline, i.e. figure or appearance" [HR/Ncmsc]
+- o16: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o17: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+
+### Judges 9:1 (context)
+
+- o1: וַ/יֵּלֶךְ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3ms]
+- o2: אֲבִימֶלֶךְ = H40 אֲבִימֶלֶךְ "Abimelek…" [HNp]
+- o3: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o4: יְרֻבַּעַל = H3378 יְרֻבַּעַל "Jerubbaal, a symbolic name of Gideon" [HNp]
+- o5: שְׁכֶמָ/ה = H7927 שְׁכֶם "Shekem, a place in Palestine" [HNp/Sd]
+- o6: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o7: אֲחֵי = H251 אָח "a brother (used in the widest sense of literal…" [HNcmpc]
+- o8: אִמּ/וֹ = H517 אֵם "a mother (as the bond of the family)…" [HNcfsc/Sp3ms]
+- o9: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o10: אֲלֵי/הֶם = H413 אֵל "near, with or among; often in general, to" [HR/Sp3mp]
+- o11: וְ/אֶל = Hc "and" + H413 אֵל "near, with or among; often in general, to" [HC/R]
+- o12: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o13: מִשְׁפַּחַת = H4940 מִשְׁפָּחָה "a family, i.e. circle of relatives…" [HNcfsc]
+- o14: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o15: אֲבִי = H1 אָב "father, in a literal and immediate…" [HNcmsc]
+- o16: אִמּ/וֹ = H517 אֵם "a mother (as the bond of the family)…" [HNcfsc/Sp3ms]
+- o17: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

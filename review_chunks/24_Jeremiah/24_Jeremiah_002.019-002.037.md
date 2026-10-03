@@ -1109,3 +1109,55 @@ Persian entries and current tags:
 - p24: کامیاب  → H6743
 - p25: نخواهی_شد  → H3808
 - p26: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 2:18 (context)
+
+- o1: וְ/עַתָּה = Hc "and" + H6258 עַתָּה "at this time, whether adverb…" [HC/D]
+- o2: מַה = H4100 מָה "properly…" [HTi]
+- o3: לָּ/ךְ = Hl "to" [HR/Sp2fs]
+- o4: לְ/דֶרֶךְ = Hl "to" + H1870 דֶּרֶךְ "a road (as trodden)…" [HR/Ncbsc]
+- o5: מִצְרַיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o6: לִ/שְׁתּוֹת = Hl "to" + H8354 שָׁתָה "to imbibe (literally or figuratively)" [HR/Vqc]
+- o7: מֵי = H4325 מַיִם "water; figuratively, juice…" [HNcmpc]
+- o8: שִׁחוֹר = H7883 שִׁיחוֹר "Shichor, a stream of Egypt" [HNp]
+- o9: וּ/מַה = Hc "and" + H4100 מָה "properly…" [HC/Ti]
+- o10: לָּ/ךְ = Hl "to" [HR/Sp2fs]
+- o11: לְ/דֶרֶךְ = Hl "to" + H1870 דֶּרֶךְ "a road (as trodden)…" [HR/Ncbsc]
+- o12: אַשּׁוּר = H804 אַשּׁוּר "Ashshur, the second son of Shem…" [HNp]
+- o13: לִ/שְׁתּוֹת = Hl "to" + H8354 שָׁתָה "to imbibe (literally or figuratively)" [HR/Vqc]
+- o14: מֵי = H4325 מַיִם "water; figuratively, juice…" [HNcmpc]
+- o15: נָהָר = H5104 נָהָר "a stream (including the sea…" [HNcmsa]
+
+### Jeremiah 3:1 (context)
+
+- o1: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o2: הֵן = H2005 הֵן "lo!; also (as expressing surprise) if" [HTm]
+- o3: יְשַׁלַּח = H7971 שָׁלַח "to send away, for…" [HVpi3ms]
+- o4: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: אִשְׁתּ/וֹ = H802 אִשָּׁה "a woman" [HNcfsc/Sp3ms]
+- o7: וְ/הָלְכָה = Hc "and" + H1980 הָלַךְ "to walk (in a great variety of applications…" [HC/Vqq3fs]
+- o8: מֵ/אִתּ/וֹ = Hm "from" + H854 אֵת "properly…" [HR/R/Sp3ms]
+- o9: וְ/הָיְתָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3fs]
+- o10: לְ/אִישׁ = Hl "to" + H376 אִישׁ "a man as an individual or a male person…" [HR/Ncmsa]
+- o11: אַחֵר = H312 אַחֵר "properly, hinder; generally, next, other, etc" [HAamsa]
+- o12: הֲ/יָשׁוּב = Hi "(untranslatable; interrogative particle)" + H7725 שׁוּב "to turn back (hence…" [HTi/Vqi3ms]
+- o13: אֵלֶי/הָ = H413 אֵל "near, with or among; often in general, to" [HR/Sp3fs]
+- o14: עוֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+- o15: הֲ/לוֹא = Hi "(untranslatable; interrogative particle)" + H3808 לֹא "not (the simple or abs. negation)…" [HTi/Tn]
+- o16: חָנוֹף = H2610 חָנֵף "to soil, especially in a moral sense" [HVqa]
+- o17: תֶּחֱנַף = H2610 חָנֵף "to soil, especially in a moral sense" [HVqi3fs]
+- o18: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o19: הַ/הִיא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3fs]
+- o20: וְ/אַתְּ = Hc "and" + H859 אַתָּה "thou and thee, or (plural) ye and you" [HC/Pp2fs]
+- o21: זָנִית = H2181 זָנָה "to commit adultery (usually of the female…" [HVqp2fs]
+- o22: רֵעִים = H7453 רֵעַ "an associate (more or less close)" [HNcmpa]
+- o23: רַבִּים = H7227 רַב "abundant (in quantity, size, age, number, rank…" [HAampa]
+- o24: וְ/שׁוֹב = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqa]
+- o25: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o26: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o27: יְהֹוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]

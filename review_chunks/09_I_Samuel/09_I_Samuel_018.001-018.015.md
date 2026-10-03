@@ -769,3 +769,38 @@ Persian entries and current tags:
 - p11: او
 - p12: می‌ترسید
 - p13: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 17:58 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: אֵלָי/ו = H413 אֵל "near, with or among; often in general, to" [HR/Sp3ms]
+- o3: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o4: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o5: מִי = H4310 מִי "who? (occasionally, by a peculiar idiom…" [HTi]
+- o6: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o7: הַ/נָּעַר = Hd "the" + H5288 נַעַר "concretely) a boy (as active)…" [HTd/Ncmsa]
+- o8: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o9: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o10: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o11: עַבְדְּ/ךָ = H5650 עֶבֶד "a servant" [HNcmsc/Sp2ms]
+- o12: יִשַׁי = H3448 יִשַׁי "Jishai, David's father" [HNp]
+- o13: בֵּית = H1022 בֵּית הַלַּחְמִי "a Beth-lechemite, or native of Bethlechem" [HNgmsa]
+- o14: הַלַּחְמִי = H1022 בֵּית הַלַּחְמִי "a Beth-lechemite, or native of Bethlechem" [HNgmsa]
+
+### I Samuel 18:16 (context)
+
+- o1: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o2: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o3: וִ/יהוּדָה = Hc "and" + H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HC/Np]
+- o4: אֹהֵב = H157 אָהַב "to have affection for (sexually or otherwise)" [HVqrmsa]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o7: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o8: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o9: יוֹצֵא = H3318 יָצָא "to go (causatively, bring) out…" [HVqrmsa]
+- o10: וָ/בָא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqrmsa]
+- o11: לִ/פְנֵי/הֶם = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp3mp]

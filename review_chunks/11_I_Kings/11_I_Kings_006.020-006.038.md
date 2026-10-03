@@ -912,3 +912,35 @@ Persian entries and current tags:
 - p36: سال  → H8141
 - p37: بنا کرد  → H1129
 - p38: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 6:19 (context)
+
+- o1: וּ/דְבִיר = Hc "and" + H1687 דְּבִיר "the shrine or innermost part of the sanctuary" [HC/Ncmsa]
+- o2: בְּ/תוֹךְ = Hb "in" + H8432 תָּוֶךְ "a bisection, i.e. (by implication) the centre" [HR/Ncmsc]
+- o3: הַ/בַּיִת = Hd "the" + H1004 בַּיִת "a house (in the greatest variation of…" [HTd/Ncmsa]
+- o4: מִ/פְּנִימָה = Hm "from" + H6441 פְּנִימָה "faceward, i.e. indoors" [HR/D]
+- o5: הֵכִין = H3559 כּוּן "properly, to be erect (i.e. stand perpendicular)…" [HVhp3ms]
+- o6: לְ/תִתֵּן = Hl "to" + H5414 נָתַן "to give…" [HR/Vqc]
+- o7: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: אֲרוֹן = H727 אָרוֹן "a box" [HNcbsc]
+- o10: בְּרִית = H1285 בְּרִית "a compact (because made by passing between pieces…" [HNcfsc]
+- o11: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### I Kings 7:1 (context)
+
+- o1: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o2: בֵּית/וֹ = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc/Sp3ms]
+- o3: בָּנָה = H1129 בָּנָה "to build (literally and figuratively)" [HVqp3ms]
+- o4: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o5: שְׁלֹשׁ = H7969 שָׁלוֹשׁ "three…" [HAcfsa]
+- o6: עֶשְׂרֵה = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcfsa]
+- o7: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o8: וַ/יְכַל = Hc "and" + H3615 כָּלָה "to end, whether intransitive (to cease…" [HC/Vpw3ms]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o11: בֵּית/וֹ = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc/Sp3ms]

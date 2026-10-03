@@ -943,3 +943,42 @@ Persian entries and current tags:
 - p25: زنی  → H802
 - p26: بگیرد
 - p27: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 21:36 (context)
+
+- o1: אוֹ = H176 אוֹ "desire (and so probably in Proverbs 31:4)…" [HC]
+- o2: נוֹדַע = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVNp3ms]
+- o3: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o4: שׁוֹר = H7794 שׁוֹר "a bullock (as a traveller)" [HNcmsa]
+- o5: נַגָּח = H5056 נַגָּח "butting, i.e. vicious" [HAamsa]
+- o6: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o7: מִ/תְּמוֹל = Hm "from" + H8543 תְּמוֹל "properly, ago, i.e. a (short or long) time since…" [HR/D]
+- o8: שִׁלְשֹׁם = H8032 שִׁלְשׁוֹם "trebly, i.e. (in time) day before yesterday" [HD]
+- o9: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o10: יִשְׁמְרֶ/נּוּ = H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HVqi3ms/Sp3ms]
+- o11: בְּעָלָי/ו = H1167 בַּעַל "a master…" [HNcmpc/Sp3ms]
+- o12: שַׁלֵּם = H7999 שָׁלַם "to be safe (in mind, body or estate)…" [HVpa]
+- o13: יְשַׁלֵּם = H7999 שָׁלַם "to be safe (in mind, body or estate)…" [HVpi3ms]
+- o14: שׁוֹר = H7794 שׁוֹר "a bullock (as a traveller)" [HNcmsa]
+- o15: תַּחַת = H8478 תַּחַת "the bottom (as depressed)…" [HR]
+- o16: הַ/שּׁוֹר = Hd "the" + H7794 שׁוֹר "a bullock (as a traveller)" [HTd/Ncmsa]
+- o17: וְ/הַ/מֵּת = Hc "and" + Hd "the" + H4191 מוּת "to die (literally or figuratively)…" [HC/Td/Vqrmsa]
+- o18: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o19: לּ/וֹ = Hl "to" [HR/Sp3ms]
+
+### Exodus 22:17 (context)
+
+- o1: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o2: מָאֵן = H3985 מָאֵן "to refuse" [HVpa]
+- o3: יְמָאֵן = H3985 מָאֵן "to refuse" [HVpi3ms]
+- o4: אָבִי/הָ = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp3fs]
+- o5: לְ/תִתָּ/הּ = Hl "to" + H5414 נָתַן "to give…" [HR/Vqc/Sp3fs]
+- o6: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o7: כֶּסֶף = H3701 כֶּסֶף "silver (from its pale color)…" [HNcmsa]
+- o8: יִשְׁקֹל = H8254 שָׁקַל "to suspend or poise (especially in trade)" [HVqi3ms]
+- o9: כְּ/מֹהַר = Hk "like" + H4119 מֹהַר "a price (for a wife)" [HR/Ncmsc]
+- o10: הַ/בְּתוּלֹת = Hd "the" + H1330 בְּתוּלָה "a virgin (from her privacy)…" [HTd/Ncfpa]

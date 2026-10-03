@@ -1079,3 +1079,27 @@ Persian entries and current tags:
 - p29: سخن گفته‌ام  → H1696
 - p30: .
 - p31: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 4:17 (context)
+
+- o1: לְמַעַן = H4616 מַעַן "properly, heed, i.e. purpose…" [HR]
+- o2: יַחְסְרוּ = H2637 חָסֵר "to lack; by implication, to fail, want, lessen" [HVqi3mp]
+- o3: לֶחֶם = H3899 לֶחֶם "food (for man or beast), especially bread…" [HNcbsa]
+- o4: וָ/מָיִם = Hc "and" + H4325 מַיִם "water; figuratively, juice…" [HC/Ncmpa]
+- o5: וְ/נָשַׁמּוּ = Hc "and" + H8074 שָׁמֵם "to stun (or intransitively, grow numb)…" [HC/VNq3cp]
+- o6: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o7: וְ/אָחִי/ו = Hc "and" + H251 אָח "a brother (used in the widest sense of literal…" [HC/Ncmsc/Sp3ms]
+- o8: וְ/נָמַקּוּ = Hc "and" + H4743 מָקַק "to melt; figuratively, to flow, dwindle, vanish" [HC/VNq3cp]
+- o9: בַּ/עֲוֺנָ/ם = Hb "in" + H5771 עָוֺן "perversity, i.e. (moral) evil" [HR/Ncbsc/Sp3mp]
+
+### Ezekiel 6:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o5: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

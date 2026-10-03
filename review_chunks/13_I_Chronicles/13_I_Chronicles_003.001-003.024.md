@@ -906,3 +906,34 @@ Persian entries and current tags:
 - p19: یعنی
 - p20: هفت تن  → H7651
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 2:55 (context)
+
+- o1: וּ/מִשְׁפְּחוֹת = Hc "and" + H4940 מִשְׁפָּחָה "a family, i.e. circle of relatives…" [HC/Ncfpc]
+- o2: סֹפְרִים = H5608 סָפַר "properly…" [HNcmpa]
+- o3: ישבו = H3427 יָשַׁב "properly…" [HVqp3cp]
+- o4: יַעְבֵּץ = H3258 יַעְבֵּץ "Jabets, the name of an Israelite…" [HNp]
+- o5: תִּרְעָתִים = H8654 תִּרְעָתִי "a Tirathite or inhabitant of an unknown Tirah" [HNgmpa]
+- o6: שִׁמְעָתִים = H8101 שִׁמְעָתִי "a Shimathite (collectively) or descendants of…" [HNgmpa]
+- o7: שׂוּכָתִים = H7756 שׂוּכָתִי "a Sukathite or descendant of an unknown Israelite…" [HNgmpa]
+- o8: הֵמָּה = H1992 הֵם "they (only used when emphatic)" [HPp3mp]
+- o9: הַ/קִּינִים = Hd "the" + H7017 קֵינִי "a Kenite or member of the tribe of Kajin" [HTd/Ngmpa]
+- o10: הַ/בָּאִים = Hd "the" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HTd/Vqrmpa]
+- o11: מֵ/חַמַּת = Hm "from" + H2575 חַמַּת "Chammath, a place in Palestine" [HR/Np]
+- o12: אֲבִי = H1 אָב "father, in a literal and immediate…" [HNcmsc]
+- o13: בֵית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o14: רֵכָב = H7394 רֵכָב "Rekab, the name of two Arabs and of two Israelites" [HNp]
+
+### I Chronicles 4:1 (context)
+
+- o1: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o2: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o3: פֶּרֶץ = H6557 פֶּרֶץ "Perets, the name of two Israelites" [HNp]
+- o4: חֶצְרוֹן = H2696 חֶצְרוֹן "Chetsron, the name of a place in Palestine…" [HNp]
+- o5: וְ/כַרְמִי = Hc "and" + H3756 כַּרְמִי "Karmi, the name of three Israelites" [HC/Np]
+- o6: וְ/חוּר = Hc "and" + H2354 חוּר "Chur…" [HC/Np]
+- o7: וְ/שׁוֹבָל = Hc "and" + H7732 שׁוֹבָל "Shobal, the name of an Edomite and two Israelites" [HC/Np]

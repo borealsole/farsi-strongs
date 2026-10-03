@@ -673,3 +673,39 @@ Persian entries and current tags:
 - p32: خویش
 - p33: عزیمت می‌کردند  → H5265
 - p34: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 2:17 (context)
+
+- o1: וְ/נָסַע = Hc "and" + H5265 נָסַע "properly, to pull up, especially the tent-pins…" [HC/Vqq3ms]
+- o2: אֹהֶל = H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HNcmsc]
+- o3: מוֹעֵד = H4150 מוֹעֵד "properly, an appointment…" [HNcmsa]
+- o4: מַחֲנֵה = H4264 מַחֲנֶה "an encampment (of travellers or troops)…" [HNcbsc]
+- o5: הַ/לְוִיִּם = Hd "the" + H3881 לֵוִיִּי "a Levite or descendant of Levi" [HTd/Ngmpa]
+- o6: בְּ/תוֹךְ = Hb "in" + H8432 תָּוֶךְ "a bisection, i.e. (by implication) the centre" [HR/Ncmsc]
+- o7: הַ/מַּחֲנֹת = Hd "the" + H4264 מַחֲנֶה "an encampment (of travellers or troops)…" [HTd/Ncbpa]
+- o8: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o9: יַחֲנוּ = H2583 חָנָה "properly, to incline…" [HVqi3mp]
+- o10: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o11: יִסָּעוּ = H5265 נָסַע "properly, to pull up, especially the tent-pins…" [HVqi3mp]
+- o12: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o13: עַל = H5921 עַל "above, over, upon…" [HR]
+- o14: יָד/וֹ = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsc/Sp3ms]
+- o15: לְ/דִגְלֵי/הֶם = Hl "to" + H1714 דֶּגֶל "a flag" [HR/Ncmpc/Sp3mp]
+
+### Numbers 3:1 (context)
+
+- o1: וְ/אֵלֶּה = Hc "and" + H428 אֵלֶּה "these or those" [HC/Pdxcp]
+- o2: תּוֹלְדֹת = H8435 תּוֹלְדָה "plural only) descent, i.e. family…" [HNcfpc]
+- o3: אַהֲרֹן = H175 אַהֲרוֹן "Aharon, the brother of Moses" [HNp]
+- o4: וּ/מֹשֶׁה = Hc "and" + H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HC/Np]
+- o5: בְּ/יוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmsa]
+- o6: דִּבֶּר = H1696 דָבַר "perhaps properly, to arrange…" [HVpp3ms]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: אֶת = H854 אֵת "properly…" [HR]
+- o9: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o10: בְּ/הַר = Hb "in" + H2022 הַר "a mountain or range of hills (sometimes used…" [HR/Ncmsc]
+- o11: סִינָי = H5514 סִינַי "Sinai, mountain of Arabia" [HNp]

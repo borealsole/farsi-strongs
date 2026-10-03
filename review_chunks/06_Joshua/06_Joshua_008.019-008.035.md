@@ -1093,3 +1093,55 @@ Persian entries and current tags:
 - p30: ،
 - p31: نخوانده_باشد
 - p32: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Joshua 8:18 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: יְהוֹשֻׁעַ = H3091 יְהוֹשׁוּעַ "Jehoshua (i.e. Joshua), the Jewish leader" [HNp]
+- o5: נְטֵה = H5186 נָטָה "to stretch or spread out…" [HVqv2ms]
+- o6: בַּ/כִּידוֹן = Hb "in" + H3591 כִּידוֹן "properly, something to strike with, i.e. a dart" [HRd/Ncmsa]
+- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o8: בְּ/יָדְ/ךָ = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc/Sp2ms]
+- o9: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o10: הָ/עַי = Hd "the" + H5857 עַי "Ai, Aja or Ajath, a place in Palestine" [HTd/Np]
+- o11: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o12: בְ/יָדְ/ךָ = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc/Sp2ms]
+- o13: אֶתְּנֶ/נָּה = H5414 נָתַן "to give…" [HVqi1cs/Sp3fs]
+- o14: וַ/יֵּט = Hc "and" + H5186 נָטָה "to stretch or spread out…" [HC/Vqw3ms]
+- o15: יְהוֹשֻׁעַ = H3091 יְהוֹשׁוּעַ "Jehoshua (i.e. Joshua), the Jewish leader" [HNp]
+- o16: בַּ/כִּידוֹן = Hb "in" + H3591 כִּידוֹן "properly, something to strike with, i.e. a dart" [HRd/Ncmsa]
+- o17: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o18: בְּ/יָד/וֹ = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc/Sp3ms]
+- o19: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o20: הָ/עִיר = Hd "the" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HTd/Ncfsa]
+
+### Joshua 9:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: כִ/שְׁמֹעַ = Hk "like" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HR/Vqc]
+- o3: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o4: הַ/מְּלָכִים = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmpa]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: בְּ/עֵבֶר = Hb "in" + H5676 עֵבֶר "properly, a region across…" [HR/Ncmsc]
+- o7: הַ/יַּרְדֵּן = Hd "the" + H3383 יַרְדֵּן "Jarden, the principal river of Palestine" [HTd/Np]
+- o8: בָּ/הָר = Hb "in" + H2022 הַר "a mountain or range of hills (sometimes used…" [HRd/Ncmsa]
+- o9: וּ/בַ/שְּׁפֵלָה = Hc "and" + Hb "in" + H8219 שְׁפֵלָה "Lowland…" [HC/Rd/Ncfsa]
+- o10: וּ/בְ/כֹל = Hc "and" + Hb "in" + H3605 כֹּל "properly, the whole…" [HC/R/Ncmsc]
+- o11: חוֹף = H2348 חוֹף "a cove (as a sheltered bay)" [HNcmsc]
+- o12: הַ/יָּם = Hd "the" + H3220 יָם "a sea (as breaking in noisy surf) or large body…" [HTd/Ncmsa]
+- o13: הַ/גָּדוֹל = Hd "the" + H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HTd/Aamsa]
+- o14: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o15: מוּל = H4136 מוּל "properly, abrupt, i.e. a precipice…" [HR]
+- o16: הַ/לְּבָנוֹן = Hd "the" + H3844 לְבָנוֹן "Lebanon, a mountain range in Palestine" [HTd/Np]
+- o17: הַ/חִתִּי = Hd "the" + H2850 חִתִּי "a Chittite, or descendant of Cheth" [HTd/Ngmsa]
+- o18: וְ/הָ/אֱמֹרִי = Hc "and" + Hd "the" + H567 אֱמֹרִי "an Emorite, one of the Canaanitish tribes" [HC/Td/Ngmsa]
+- o19: הַ/כְּנַעֲנִי = Hd "the" + H3669 כְּנַעַנִי "a Kenaanite or inhabitant of Kenaan…" [HTd/Ngmsa]
+- o20: הַ/פְּרִזִּי = Hd "the" + H6522 פְּרִזִּי "a Perizzite, one of the Canaanitish tribes" [HTd/Ngmsa]
+- o21: הַ/חִוִּי = Hd "the" + H2340 חִוִּי "a Chivvite…" [HTd/Ngmsa]
+- o22: וְ/הַ/יְבוּסִי = Hc "and" + Hd "the" + H2983 יְבוּסִי "a Jebusite or inhabitant of Jebus" [HC/Td/Ngmsa]

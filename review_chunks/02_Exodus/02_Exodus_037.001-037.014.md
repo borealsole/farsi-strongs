@@ -639,3 +639,36 @@ Persian entries and current tags:
 - p12: نگه
 - p13: دارند
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 36:38 (context)
+
+- o1: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o2: עַמּוּדָי/ו = H5982 עַמּוּד "a column (as standing)…" [HNcmpc/Sp3ms]
+- o3: חֲמִשָּׁה = H2568 חָמֵשׁ "five" [HAcmsa]
+- o4: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o5: וָוֵי/הֶם = H2053 וָו "a hook (the name of the sixth Hebrew letter)" [HNcmpc/Sp3mp]
+- o6: וְ/צִפָּה = Hc "and" + H6823 צָפָה "to sheet over (especially with metal)" [HC/Vpp3ms]
+- o7: רָאשֵׁי/הֶם = H7218 רֹאשׁ "the head (as most easily shaken)…" [HNcmpc/Sp3mp]
+- o8: וַ/חֲשֻׁקֵי/הֶם = Hc "and" + H2838 חָשֻׁק "attached…" [HC/Ncmpc/Sp3mp]
+- o9: זָהָב = H2091 זָהָב "gold, figuratively…" [HNcmsa]
+- o10: וְ/אַדְנֵי/הֶם = Hc "and" + H134 אֶדֶן "a basis (of a building, a column, etc.)" [HC/Ncmpc/Sp3mp]
+- o11: חֲמִשָּׁה = H2568 חָמֵשׁ "five" [HAcmsa]
+- o12: נְחֹשֶׁת = H5178 נְחֹשֶׁת "copper, hence, something made of that metal…" [HNcfsa]
+
+### Exodus 37:15 (context)
+
+- o1: וַ/יַּעַשׂ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3ms]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: הַ/בַּדִּים = Hd "the" + H905 בַּד "properly, separation…" [HTd/Ncmpa]
+- o4: עֲצֵי = H6086 עֵץ "a tree (from its firmness)…" [HNcmpc]
+- o5: שִׁטִּים = H7848 שִׁטָּה "the acacia (from its scourging thorns)" [HNcfpa]
+- o6: וַ/יְצַף = Hc "and" + H6823 צָפָה "to sheet over (especially with metal)" [HC/Vpw3ms]
+- o7: אֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o8: זָהָב = H2091 זָהָב "gold, figuratively…" [HNcmsa]
+- o9: לָ/שֵׂאת = Hl "to" + H5375 נָשָׂא "to lift, in a great variety of applications…" [HR/Vqc]
+- o10: אֶת = H853 אֵת "properly…" [HTo]
+- o11: הַ/שֻּׁלְחָן = Hd "the" + H7979 שֻׁלְחָן "a table (as spread out); by implication, a meal" [HTd/Ncmsa]

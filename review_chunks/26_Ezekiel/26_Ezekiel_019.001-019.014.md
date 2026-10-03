@@ -683,3 +683,38 @@ Persian entries and current tags:
 - p30: مرثیه  → H7015
 - p31: شده_است
 - p32: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 18:32 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o3: אֶחְפֹּץ = H2654 חָפֵץ "properly, to incline to…" [HVqi1cs]
+- o4: בְּ/מוֹת = Hb "in" + H4194 מָוֶת "death (natural or violent)…" [HR/Ncmsc]
+- o5: הַ/מֵּת = Hd "the" + H4191 מוּת "to die (literally or figuratively)…" [HTd/Vqrmsa]
+- o6: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o7: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o8: יְהוִה = H3069 יְהֹוִה "YHWH" [HNp]
+- o9: וְ/הָשִׁיבוּ = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vhv2mp]
+- o10: וִ/חְיוּ = Hc "and" + H2421 חָיָה "to live, whether literally or figuratively…" [HC/Vqv2mp]
+
+### Ezekiel 20:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: בַּ/שָּׁנָה = Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HRd/Ncfsa]
+- o3: הַ/שְּׁבִיעִית = Hd "the" + H7637 שְׁבִיעִי "seventh" [HTd/Aofsa]
+- o4: בַּ/חֲמִשִׁי = Hb "in" + H2549 חֲמִישִׁי "fifth; also a fifth" [HRd/Aomsa]
+- o5: בֶּ/עָשׂוֹר = Hb "in" + H6218 עָשׂוֹר "ten…" [HRd/Ncmsa]
+- o6: לַ/חֹדֶשׁ = Hl "to" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HRd/Ncmsa]
+- o7: בָּאוּ = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3cp]
+- o8: אֲנָשִׁים = H376 אִישׁ "a man as an individual or a male person…" [HNcmpa]
+- o9: מִ/זִּקְנֵי = Hm "from" + H2205 זָקֵן "old" [HR/Aampc]
+- o10: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o11: לִ/דְרֹשׁ = Hl "to" + H1875 דָּרַשׁ "properly, to tread or frequent…" [HR/Vqc]
+- o12: אֶת = H853 אֵת "properly…" [HTo]
+- o13: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o14: וַ/יֵּשְׁבוּ = Hc "and" + H3427 יָשַׁב "properly…" [HC/Vqw3mp]
+- o15: לְ/פָנָ/י = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp1cs]

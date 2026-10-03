@@ -743,3 +743,63 @@ Persian entries and current tags:
 - p28: ایام  → H3117
 - p29: ثبت گردید  → H3789
 - p30: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Esther 2:12 (context)
+
+- o1: וּ/בְ/הַגִּיעַ = Hc "and" + Hb "in" + H5060 נָגַע "properly, to touch…" [HC/R/Vhc]
+- o2: תֹּר = H8447 תּוֹר "a succession, i.e. a string or (abstractly) order" [HNcmsc]
+- o3: נַעֲרָה = H5291 נַעֲרָה "a girl (from infancy to adolescence)" [HNcfsa]
+- o4: וְ/נַעֲרָה = Hc "and" + H5291 נַעֲרָה "a girl (from infancy to adolescence)" [HC/Ncfsa]
+- o5: לָ/בוֹא = Hl "to" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HR/Vqc]
+- o6: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o7: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o8: אֲחַשְׁוֵרוֹשׁ = H325 אֲחַשְׁוֵרוֹשׁ "Achashverosh (i.e. Ahasuerus or Artaxerxes…" [HNp]
+- o9: מִ/קֵּץ = Hm "from" + H7093 קֵץ "an extremity…" [HR/Ncmsc]
+- o10: הֱיוֹת = H1961 הָיָה "to exist, i.e. be or become…" [HVqc]
+- o11: לָ/הּ = Hl "to" [HR/Sp3fs]
+- o12: כְּ/דָת = Hk "like" + H1881 דָּת "a royal edict or statute" [HR/Ncfsc]
+- o13: הַ/נָּשִׁים = Hd "the" + H802 אִשָּׁה "a woman" [HTd/Ncfpa]
+- o14: שְׁנֵים = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmda]
+- o15: עָשָׂר = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcmsa]
+- o16: חֹדֶשׁ = H2320 חֹדֶשׁ "the new moon; by implication, a month" [HNcmsa]
+- o17: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o18: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o19: יִמְלְאוּ = H4390 מָלֵא "to fill or (intransitively) be full of…" [HVqi3mp]
+- o20: יְמֵי = H3117 יוֹם "a day (as the warm hours)…" [HNcmpc]
+- o21: מְרוּקֵי/הֶן = H4795 מָרוּק "properly, rubbed…" [HNcmpc/Sp3fp]
+- o22: שִׁשָּׁה = H8337 שֵׁשׁ "six (as an overplus beyond five or the fingers of…" [HAcmsa]
+- o23: חֳדָשִׁים = H2320 חֹדֶשׁ "the new moon; by implication, a month" [HNcmpa]
+- o24: בְּ/שֶׁמֶן = Hb "in" + H8081 שֶׁמֶן "grease, especially liquid (as from the olive…" [HR/Ncmsc]
+- o25: הַ/מֹּר = Hd "the" + H4753 מֹר "myrrh (as distilling in drops, and also as bitter)" [HTd/Ncmsa]
+- o26: וְ/שִׁשָּׁה = Hc "and" + H8337 שֵׁשׁ "six (as an overplus beyond five or the fingers of…" [HC/Acmsa]
+- o27: חֳדָשִׁים = H2320 חֹדֶשׁ "the new moon; by implication, a month" [HNcmpa]
+- o28: בַּ/בְּשָׂמִים = Hb "in" + H1314 בֶּשֶׂם "fragrance; by implication, spicery…" [HRd/Ncmpa]
+- o29: וּ/בְ/תַמְרוּקֵי = Hc "and" + Hb "in" + H8562 תַּמְרוּק "properly, a scouring…" [HC/R/Ncmpc]
+- o30: הַ/נָּשִׁים = Hd "the" + H802 אִשָּׁה "a woman" [HTd/Ncfpa]
+
+### Esther 3:1 (context)
+
+- o1: אַחַר = H310 אַחַר "properly, the hind part…" [HR]
+- o2: הַ/דְּבָרִים = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmpa]
+- o3: הָ/אֵלֶּה = Hd "the" + H428 אֵלֶּה "these or those" [HTd/Pdxcp]
+- o4: גִּדַּל = H1431 גָּדַל "to be (causatively make) large (in various senses…" [HVpp3ms]
+- o5: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o6: אֲחַשְׁוֵרוֹשׁ = H325 אֲחַשְׁוֵרוֹשׁ "Achashverosh (i.e. Ahasuerus or Artaxerxes…" [HNp]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: הָמָן = H2001 הָמָן "Haman, a Persian vizier" [HNp]
+- o9: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o10: הַמְּדָתָא = H4099 מְדָתָא "Medatha, the father of Haman" [HNp]
+- o11: הָ/אֲגָגִי = Hd "the" + H91 אֲגָגִי "an Agagite or descendent (subject) of Agag" [HTd/Ngmsa]
+- o12: וַ/יְנַשְּׂאֵ/הוּ = Hc "and" + H5375 נָשָׂא "to lift, in a great variety of applications…" [HC/Vpw3ms/Sp3ms]
+- o13: וַ/יָּשֶׂם = Hc "and" + H7760 שׂוּם "to put (used in a great variety of applications…" [HC/Vqw3ms]
+- o14: אֶת = H853 אֵת "properly…" [HTo]
+- o15: כִּסְא/וֹ = H3678 כִּסֵּא "properly, covered, i.e. a throne (as canopied)" [HNcmsc/Sp3ms]
+- o16: מֵ/עַל = Hm "from" + H5921 עַל "above, over, upon…" [HR/R]
+- o17: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o18: הַ/שָּׂרִים = Hd "the" + H8269 שַׂר "a head person (of any rank or class)" [HTd/Ncmpa]
+- o19: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o20: אִתּ/וֹ = H854 אֵת "properly…" [HR/Sp3ms]

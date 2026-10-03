@@ -998,3 +998,28 @@ Persian entries and current tags:
 - p10: از
 - p11: بخور  → H7004
 - p12: ؛
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 7:22 (context)
+
+- o1: שְׂעִיר = H8163 שָׂעִיר "shaggy; as noun, a he-goat; by analogy, a faun" [HNcmsc]
+- o2: עִזִּים = H5795 עֵז "a she-goat (as strong)…" [HNcfpa]
+- o3: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o4: לְ/חַטָּאת = Hl "to" + H2403 חַטָּאָה "an offence (sometimes habitual sinfulness)…" [HR/Ncfsa]
+
+### Numbers 7:45 (context)
+
+- o1: פַּר = H6499 פַּר "a bullock (apparently as breaking forth in wild…" [HNcmsa]
+- o2: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o3: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o4: בָּקָר = H1241 בָּקָר "beef cattle or an animal of the ox family of…" [HNcbsa]
+- o5: אַיִל = H352 אַיִל "properly, strength; hence, anything strong…" [HNcmsa]
+- o6: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o7: כֶּבֶשׂ = H3532 כֶּבֶשׂ "a ram (just old enough to butt)" [HNcmsa]
+- o8: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o9: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o10: שְׁנָת/וֹ = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsc/Sp3ms]
+- o11: לְ/עֹלָה = Hl "to" + H5930 עֹלָה "a step or (collectively, stairs, as ascending)…" [HR/Ncfsa]

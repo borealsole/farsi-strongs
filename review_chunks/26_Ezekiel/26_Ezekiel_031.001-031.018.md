@@ -1114,3 +1114,38 @@ Persian entries and current tags:
 - p54: اوست
 - p55: .
 - p56: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 30:26 (context)
+
+- o1: וַ/הֲפִצוֹתִי = Hc "and" + H6327 פּוּץ "to dash in pieces…" [HC/Vhq1cs]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: מִצְרַיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o4: בַּ/גּוֹיִם = Hb "in" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HRd/Ncmpa]
+- o5: וְ/זֵרִיתִי = Hc "and" + H2219 זָרָה "to toss about; by implication, to diffuse, winnow" [HC/Vpq1cs]
+- o6: אוֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o7: בָּ/אֲרָצוֹת = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HRd/Ncbpa]
+- o8: וְ/יָדְעוּ = Hc "and" + H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HC/Vqq3cp]
+- o9: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o10: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o11: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### Ezekiel 32:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: בִּ/שְׁתֵּי = Hb "in" + H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HR/Acfdc]
+- o3: עֶשְׂרֵה = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcfsa]
+- o4: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o5: בִּ/שְׁנֵי = Hb "in" + H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HR/Acmdc]
+- o6: עָשָׂר = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcmsa]
+- o7: חֹדֶשׁ = H2320 חֹדֶשׁ "the new moon; by implication, a month" [HNcmsa]
+- o8: בְּ/אֶחָד = Hb "in" + H259 אֶחָד "properly, united, i.e. one…" [HR/Acmsa]
+- o9: לַ/חֹדֶשׁ = Hl "to" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HRd/Ncmsa]
+- o10: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o11: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o12: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o13: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o14: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

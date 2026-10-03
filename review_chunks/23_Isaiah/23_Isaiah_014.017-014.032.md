@@ -821,3 +821,38 @@ Persian entries and current tags:
 - p24: پناه خواهند_گرفت  → H2620
 - p25: .
 - p26: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 14:16 (context)
+
+- o1: רֹאֶי/ךָ = H7200 רָאָה "to see…" [HVqrmpc/Sp2ms]
+- o2: אֵלֶי/ךָ = H413 אֵל "near, with or among; often in general, to" [HR/Sp2ms]
+- o3: יַשְׁגִּיחוּ = H7688 שָׁגַח "to peep, i.e. glance sharply at" [HVhi3mp]
+- o4: אֵלֶי/ךָ = H413 אֵל "near, with or among; often in general, to" [HR/Sp2ms]
+- o5: יִתְבּוֹנָנוּ = H995 בִּין "to separate mentally (or distinguish)…" [HVri3mp]
+- o6: הֲ/זֶה = Hi "(untranslatable; interrogative particle)" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTi/Pdxms]
+- o7: הָ/אִישׁ = Hd "the" + H376 אִישׁ "a man as an individual or a male person…" [HTd/Ncmsa]
+- o8: מַרְגִּיז = H7264 רָגַז "to quiver (with any violent emotion…" [HVhrmsa]
+- o9: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o10: מַרְעִישׁ = H7493 רָעַשׁ "to undulate (as the earth, the sky, etc.…" [HVhrmsa]
+- o11: מַמְלָכוֹת = H4467 מַמְלָכָה "dominion…" [HNcfpa]
+
+### Isaiah 15:1 (context)
+
+- o1: מַשָּׂא = H4853 מַשָּׂא "a burden…" [HNcmsc]
+- o2: מוֹאָב = H4124 מוֹאָב "Moab, an incestuous son of Lot…" [HNp]
+- o3: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o4: בְּ/לֵיל = Hb "in" + H3915 לַיִל "properly, a twist (away of the light), i.e. night…" [HR/Ncmsc]
+- o5: שֻׁדַּד = H7703 שָׁדַד "properly, to be burly…" [HVPp3ms]
+- o6: עָר = H6144 עָר "Ar, a place in Moab" [HNp]
+- o7: מוֹאָב = H4124 מוֹאָב "Moab, an incestuous son of Lot…" [HNp]
+- o8: נִדְמָה = H1820 דָּמָה "to be dumb or silent; hence, to fail or perish…" [HVNp3ms]
+- o9: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o10: בְּ/לֵיל = Hb "in" + H3915 לַיִל "properly, a twist (away of the light), i.e. night…" [HR/Ncmsc]
+- o11: שֻׁדַּד = H7703 שָׁדַד "properly, to be burly…" [HVPp3ms]
+- o12: קִיר = H7024 קִיר "Kir, a place in Assyrian; also one in Moab" [HNp]
+- o13: מוֹאָב = H4124 מוֹאָב "Moab, an incestuous son of Lot…" [HNp]
+- o14: נִדְמָה = H1820 דָּמָה "to be dumb or silent; hence, to fail or perish…" [HVNp3ms]

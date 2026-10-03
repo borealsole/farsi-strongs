@@ -532,3 +532,28 @@ Persian entries and current tags:
 - p14: او
 - p15: برمی‌گردد  → H7725
 - p16: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 11:31 (context)
+
+- o1: הֵן = H2005 הֵן "lo!; also (as expressing surprise) if" [HTm]
+- o2: צַדִּיק = H6662 צַדִּיק "just" [HAamsa]
+- o3: בָּ/אָרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HRd/Ncbsa]
+- o4: יְשֻׁלָּם = H7999 שָׁלַם "to be safe (in mind, body or estate)…" [HVPi3ms]
+- o5: אַף = H637 אַף "meaning accession (used as an adverb or…" [HTa]
+- o6: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o7: רָשָׁע = H7563 רָשָׁע "morally wrong…" [HAamsa]
+- o8: וְ/חוֹטֵא = Hc "and" + H2398 חָטָא "properly, to miss…" [HC/Vqrmsa]
+
+### Proverbs 12:15 (context)
+
+- o1: דֶּרֶךְ = H1870 דֶּרֶךְ "a road (as trodden)…" [HNcbsc]
+- o2: אֱוִיל = H191 אֱוִיל "(figuratively) silly" [HAamsa]
+- o3: יָשָׁר = H3477 יָשָׁר "straight (literally or figuratively)" [HAamsa]
+- o4: בְּ/עֵינָי/ו = Hb "in" + H5869 עַיִן "an eye (literally or figuratively)…" [HR/Ncbdc/Sp3ms]
+- o5: וְ/שֹׁמֵעַ = Hc "and" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HC/Vqrmsa]
+- o6: לְ/עֵצָה = Hl "to" + H6098 עֵצָה "advice; by implication, plan; also prudence" [HR/Ncfsa]
+- o7: חָכָם = H2450 חָכָם "wise, (i.e. intelligent, skilful or artful)" [HAamsa]

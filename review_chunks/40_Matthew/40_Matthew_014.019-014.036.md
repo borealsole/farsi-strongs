@@ -856,3 +856,30 @@ Persian entries and current tags:
 - p17: ،
 - p18: شفا می‌یافت  → G1295
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 14:18 (context)
+
+- o1: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: εἶπεν· = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-2AAI-3S]
+- o4: φέρετέ = G5342 φέρω "be, bear, bring (forth), carry, come…" [V-PAM-2P]
+- o5: μοι = G1473 ἐγώ "I, me" [P-1DS]
+- o6: ὧδε = G5602 ὧδε "here, hither, (in) this place, there" [ADV]
+- o7: αὐτούς. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-APM]
+
+### Matthew 15:1 (context)
+
+- o1: Τότε = G5119 τότε "that time, then" [ADV]
+- o2: προσέρχονται = G4334 προσέρχομαι "as soon as he) come (unto), come thereunto…" [V-PNI-3P]
+- o3: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o4: Ἰησοῦ = G2424 Ἰησοῦς "Jesus" [N-DSM]
+- o5: ἀπὸ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
+- o6: Ἱεροσολύμων = G2414 Ἱεροσόλυμα "Jerusalem" [N-GPN]
+- o7: Φαρισαῖοι = G5330 Φαρισαῖος "Pharisee" [N-NPM]
+- o8: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o9: γραμματεῖς = G1122 γραμματεύς "scribe, town-clerk" [N-NPM]
+- o10: λέγοντες· = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAP-NPM]

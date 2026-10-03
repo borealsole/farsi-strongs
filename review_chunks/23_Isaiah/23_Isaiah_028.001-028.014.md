@@ -731,3 +731,53 @@ Persian entries and current tags:
 - p14: را
 - p15: بشنوید  → H8085 H3944
 - p16: :
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 27:13 (context)
+
+- o1: וְ/הָיָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3ms]
+- o2: בַּ/יּוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
+- o3: הַ/הוּא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3ms]
+- o4: יִתָּקַע = H8628 תָּקַע "to clatter, i.e. slap (the hands together)…" [HVNi3ms]
+- o5: בְּ/שׁוֹפָר = Hb "in" + H7782 שׁוֹפָר "a cornet (as giving a clear sound) or curved horn" [HR/Ncmsa]
+- o6: גָּדוֹל = H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HAamsa]
+- o7: וּ/בָאוּ = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqq3cp]
+- o8: הָ/אֹבְדִים = Hd "the" + H6 אָבַד "properly, to wander away, i.e. lose oneself…" [HTd/Vqrmpa]
+- o9: בְּ/אֶרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o10: אַשּׁוּר = H804 אַשּׁוּר "Ashshur, the second son of Shem…" [HNp]
+- o11: וְ/הַ/נִּדָּחִים = Hc "and" + Hd "the" + H5080 נָדַח "to push off…" [HC/Td/VNsmpa]
+- o12: בְּ/אֶרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o13: מִצְרָיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o14: וְ/הִשְׁתַּחֲווּ = Hc "and" + H7812 שָׁחָה "to depress, i.e. prostrate (especially reflexive…" [HC/Vvq3cp]
+- o15: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o16: בְּ/הַר = Hb "in" + H2022 הַר "a mountain or range of hills (sometimes used…" [HR/Ncmsc]
+- o17: הַ/קֹּדֶשׁ = Hd "the" + H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HTd/Ncmsa]
+- o18: בִּ/ירוּשָׁלִָם = Hb "in" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HR/Np]
+
+### Isaiah 28:15 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: אֲמַרְתֶּם = H559 אָמַר "to say (used with great latitude)" [HVqp2mp]
+- o3: כָּרַתְנוּ = H3772 כָּרַת "to cut (off, down or asunder)…" [HVqp1cp]
+- o4: בְרִית = H1285 בְּרִית "a compact (because made by passing between pieces…" [HNcfsa]
+- o5: אֶת = H854 אֵת "properly…" [HR]
+- o6: מָוֶת = H4194 מָוֶת "death (natural or violent)…" [HNcmsa]
+- o7: וְ/עִם = Hc "and" + H5973 עִם "adverb or preposition…" [HC/R]
+- o8: שְׁאוֹל = H7585 שְׁאוֹל "Hades or the world of the dead (as if a…" [HNp]
+- o9: עָשִׂינוּ = H6213 עָשָׂה "to do or make…" [HVqp1cp]
+- o10: חֹזֶה = H2374 חֹזֶה "a beholder in vision…" [HNcmsa]
+- o11: שיט = H7885 שַׁיִט "an oar; a scourge (figuratively)" [HNcmsa]
+- o12: שׁוֹטֵף = H7857 שָׁטַף "to gush; by implication, to inundate, cleanse…" [HVqrmsa]
+- o13: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o14: עבר = H5674 עָבַר "to cross over…" [HVqp3ms]
+- o15: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o16: יְבוֹאֵ/נוּ = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqi3ms/Sp1cp]
+- o17: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o18: שַׂמְנוּ = H7760 שׂוּם "to put (used in a great variety of applications…" [HVqp1cp]
+- o19: כָזָב = H3577 כָּזָב "falsehood…" [HNcmsa]
+- o20: מַחְסֵ/נוּ = H4268 מַחֲסֶה "a shelter (literally or figuratively)" [HNcmsc/Sp1cp]
+- o21: וּ/בַ/שֶּׁקֶר = Hc "and" + Hb "in" + H8267 שֶׁקֶר "an untruth…" [HC/Rd/Ncmsa]
+- o22: נִסְתָּרְנוּ = H5641 סָתַר "to hide (by covering), literally or figuratively" [HVNp1cp]

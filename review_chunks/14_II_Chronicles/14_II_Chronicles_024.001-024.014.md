@@ -876,3 +876,33 @@ Persian entries and current tags:
 - p57: تمام‌سوز  → H5930
 - p58: تقدیم می‌شد  → H5927
 - p59: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 23:21 (context)
+
+- o1: וַ/יִּשְׂמְחוּ = Hc "and" + H8055 שָׂמַח "probably to brighten up…" [HC/Vqw3mp]
+- o2: כָל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: עַם = H5971 עַם "a people (as a congregated unit)…" [HNcmsc]
+- o4: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o5: וְ/הָ/עִיר = Hc "and" + Hd "the" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HC/Td/Ncfsa]
+- o6: שָׁקָטָה = H8252 שָׁקַט "to repose (usually figurative)" [HVqp3fs]
+- o7: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o8: עֲתַלְיָהוּ = H6271 עֲתַלְיָה "Athaljah…" [HNp]
+- o9: הֵמִיתוּ = H4191 מוּת "to die (literally or figuratively)…" [HVhp3cp]
+- o10: בֶ/חָרֶב = Hb "in" + H2719 חֶרֶב "drought…" [HRd/Ncfsa]
+
+### II Chronicles 24:15 (context)
+
+- o1: וַ/יִּזְקַן = Hc "and" + H2204 זָקֵן "to be old" [HC/Vqw3ms]
+- o2: יְהוֹיָדָע = H3077 יְהוֹיָדָע "Jehojada, the name of three Israelites" [HNp]
+- o3: וַ/יִּשְׂבַּע = Hc "and" + H7646 שָׂבַע "to sate…" [HC/Vqw3ms]
+- o4: יָמִים = H3117 יוֹם "a day (as the warm hours)…" [HNcmpa]
+- o5: וַ/יָּמֹת = Hc "and" + H4191 מוּת "to die (literally or figuratively)…" [HC/Vqw3ms]
+- o6: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o7: מֵאָה = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbsa]
+- o8: וּ/שְׁלֹשִׁים = Hc "and" + H7970 שְׁלוֹשִׁים "thirty; or (ordinal) thirtieth" [HC/Acbpa]
+- o9: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o10: בְּ/מוֹת/וֹ = Hb "in" + H4194 מָוֶת "death (natural or violent)…" [HR/Ncmsc/Sp3ms]

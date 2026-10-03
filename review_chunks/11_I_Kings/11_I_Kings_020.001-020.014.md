@@ -883,3 +883,51 @@ Persian entries and current tags:
 - p40: تو  → H859
 - p41: .
 - p42: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 19:21 (context)
+
+- o1: וַ/יָּשָׁב = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqw3ms]
+- o2: מֵ/אַחֲרָי/ו = Hm "from" + H310 אַחַר "properly, the hind part…" [HR/R/Sp3ms]
+- o3: וַ/יִּקַּח = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqw3ms]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: צֶמֶד = H6776 צֶמֶד "hence…" [HNcmsc]
+- o6: הַ/בָּקָר = Hd "the" + H1241 בָּקָר "beef cattle or an animal of the ox family of…" [HTd/Ncbsa]
+- o7: וַ/יִּזְבָּחֵ/הוּ = Hc "and" + H2076 זָבַח "to slaughter an animal (usually in sacrifice)" [HC/Vqw3ms/Sp3ms]
+- o8: וּ/בִ/כְלִי = Hc "and" + Hb "in" + H3627 כְּלִי "something prepared…" [HC/R/Ncmsc]
+- o9: הַ/בָּקָר = Hd "the" + H1241 בָּקָר "beef cattle or an animal of the ox family of…" [HTd/Ncbsa]
+- o10: בִּשְּׁלָ/ם = H1310 בָּשַׁל "properly, to boil up…" [HVpp3ms/Sp3mp]
+- o11: הַ/בָּשָׂר = Hd "the" + H1320 בָּשָׂר "flesh (from its freshness)…" [HTd/Ncmsa]
+- o12: וַ/יִּתֵּן = Hc "and" + H5414 נָתַן "to give…" [HC/Vqw3ms]
+- o13: לָ/עָם = Hl "to" + H5971 עַם "a people (as a congregated unit)…" [HRd/Ncmsa]
+- o14: וַ/יֹּאכֵלוּ = Hc "and" + H398 אָכַל "to eat (literally or figuratively)" [HC/Vqw3mp]
+- o15: וַ/יָּקָם = Hc "and" + H6965 קוּם "to rise (in various applications, literal…" [HC/Vqw3ms]
+- o16: וַ/יֵּלֶךְ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3ms]
+- o17: אַחֲרֵי = H310 אַחַר "properly, the hind part…" [HR]
+- o18: אֵלִיָּהוּ = H452 אֵלִיָּה "Elijah…" [HNp]
+- o19: וַ/יְשָׁרְתֵ/הוּ = Hc "and" + H8334 שָׁרַת "to attend as a menial or worshipper…" [HC/Vpw3ms/Sp3ms]
+
+### I Kings 20:15 (context)
+
+- o1: וַ/יִּפְקֹד = Hc "and" + H6485 פָּקַד "to visit (with friendly or hostile intent)…" [HC/Vqw3ms]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: נַעֲרֵי = H5288 נַעַר "concretely) a boy (as active)…" [HNcmpc]
+- o4: שָׂרֵי = H8269 שַׂר "a head person (of any rank or class)" [HNcmpc]
+- o5: הַ/מְּדִינוֹת = Hd "the" + H4082 מְדִינָה "properly, a judgeship, i.e. jurisdiction…" [HTd/Ncfpa]
+- o6: וַ/יִּהְיוּ = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3mp]
+- o7: מָאתַיִם = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbda]
+- o8: שְׁנַיִם = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmda]
+- o9: וּ/שְׁלֹשִׁים = Hc "and" + H7970 שְׁלוֹשִׁים "thirty; or (ordinal) thirtieth" [HC/Acbpa]
+- o10: וְ/אַחֲרֵי/הֶם = Hc "and" + H310 אַחַר "properly, the hind part…" [HC/R/Sp3mp]
+- o11: פָּקַד = H6485 פָּקַד "to visit (with friendly or hostile intent)…" [HVqp3ms]
+- o12: אֶת = H853 אֵת "properly…" [HTo]
+- o13: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o14: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o15: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o16: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o17: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o18: שִׁבְעַת = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcmsc]
+- o19: אֲלָפִים = H505 אֶלֶף "hence (the ox's head being the first letter of…" [HAcbpa]

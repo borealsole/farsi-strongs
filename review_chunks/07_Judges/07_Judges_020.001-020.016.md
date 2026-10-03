@@ -883,3 +883,51 @@ Persian entries and current tags:
 - p23: فلاخُن  → H7049
 - p24: بزند  → H2398
 - p25: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Judges 19:30 (context)
+
+- o1: וְ/הָיָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3ms]
+- o2: כָל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: הָ/רֹאֶה = Hd "the" + H7200 רָאָה "to see…" [HTd/Vqrmsa]
+- o4: וְ/אָמַר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqq3ms]
+- o5: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o6: נִהְיְתָה = H1961 הָיָה "to exist, i.e. be or become…" [HVNp3fs]
+- o7: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o8: נִרְאֲתָה = H7200 רָאָה "to see…" [HVNp3fs]
+- o9: כָּ/זֹאת = Hk "like" + H2063 זֹאת "this (often used adverb)" [HR/Pdxfs]
+- o10: לְ/מִ/יּוֹם = Hl "to" + Hm "from" + H3117 יוֹם "a day (as the warm hours)…" [HR/R/Ncmsc]
+- o11: עֲלוֹת = H5927 עָלָה "to ascend…" [HVqc]
+- o12: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o13: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o14: מֵ/אֶרֶץ = Hm "from" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o15: מִצְרַיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o16: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o17: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o18: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o19: שִׂימוּ = H7760 שׂוּם "to put (used in a great variety of applications…" [HVqv2mp]
+- o20: לָ/כֶם = Hl "to" [HR/Sp2mp]
+- o21: עָלֶי/הָ = H5921 עַל "above, over, upon…" [HR/Sp3fs]
+- o22: עֻצוּ = H5779 עוּץ "to consult" [HVqv2mp]
+- o23: וְ/דַבֵּרוּ = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpv2mp]
+
+### Judges 20:17 (context)
+
+- o1: וְ/אִישׁ = Hc "and" + H376 אִישׁ "a man as an individual or a male person…" [HC/Ncmsc]
+- o2: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o3: הִתְפָּקְדוּ = H6485 פָּקַד "to visit (with friendly or hostile intent)…" [HVtp3cp]
+- o4: לְ/בַד = Hl "to" + H905 בַּד "properly, separation…" [HR/Ncmsa]
+- o5: מִ/בִּנְיָמִן = Hm "from" + H1144 בִּנְיָמִין "Binjamin, youngest son of Jacob…" [HR/Np]
+- o6: אַרְבַּע = H702 אַרְבַּע "four" [HAcfsa]
+- o7: מֵאוֹת = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbpa]
+- o8: אֶלֶף = H505 אֶלֶף "hence (the ox's head being the first letter of…" [HAcbsa]
+- o9: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o10: שֹׁלֵף = H8025 שָׁלַף "to pull out, up or off" [HVqrmsa]
+- o11: חָרֶב = H2719 חֶרֶב "drought…" [HNcfsa]
+- o12: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o13: זֶה = H2088 זֶה "the masculine demonstrative pronoun, this or that" [HPdxms]
+- o14: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsc]
+- o15: מִלְחָמָה = H4421 מִלְחָמָה "a battle (i.e. the engagement)…" [HNcfsa]

@@ -825,3 +825,41 @@ Persian entries and current tags:
 - p17: تن
 - p18: بودند
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 24:31 (context)
+
+- o1: וַ/יַּפִּילוּ = Hc "and" + H5307 נָפַל "to fall…" [HC/Vhw3mp]
+- o2: גַם = H1571 גַּם "properly, assemblage…" [HD]
+- o3: הֵם = H1992 הֵם "they (only used when emphatic)" [HPp3mp]
+- o4: גּוֹרָלוֹת = H1486 גּוֹרָל "properly, a pebble…" [HNcmpa]
+- o5: לְ/עֻמַּת = Hl "to" + H5980 עֻמָּה "conjunction, i.e. society…" [HR/Ncfsc]
+- o6: אֲחֵי/הֶם = H251 אָח "a brother (used in the widest sense of literal…" [HNcmpc/Sp3mp]
+- o7: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o8: אַהֲרֹן = H175 אַהֲרוֹן "Aharon, the brother of Moses" [HNp]
+- o9: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o10: דָוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o11: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o12: וְ/צָדוֹק = Hc "and" + H6659 צָדוֹק "Tsadok, the name of eight or nine Israelites" [HC/Np]
+- o13: וַ/אֲחִימֶלֶךְ = Hc "and" + H288 אֲחִימֶלֶךְ "Achimelek…" [HC/Np]
+- o14: וְ/רָאשֵׁי = Hc "and" + H7218 רֹאשׁ "the head (as most easily shaken)…" [HC/Ncmpc]
+- o15: הָ/אָבוֹת = Hd "the" + H1 אָב "father, in a literal and immediate…" [HTd/Ncmpa]
+- o16: לַ/כֹּהֲנִים = Hl "to" + H3548 כֹּהֵן "literally one officiating, a priest…" [HRd/Ncmpa]
+- o17: וְ/לַ/לְוִיִּם = Hc "and" + Hl "to" + H3881 לֵוִיִּי "a Levite or descendant of Levi" [HC/Rd/Ngmpa]
+- o18: אָבוֹת = H1 אָב "father, in a literal and immediate…" [HNcmpa]
+- o19: הָ/רֹאשׁ = Hd "the" + H7218 רֹאשׁ "the head (as most easily shaken)…" [HTd/Ncmsa]
+- o20: לְ/עֻמַּת = Hl "to" + H5980 עֻמָּה "conjunction, i.e. society…" [HR/Ncfsc]
+- o21: אָחִי/ו = H251 אָח "a brother (used in the widest sense of literal…" [HNcmsc/Sp3ms]
+- o22: הַ/קָּטָן = Hd "the" + H6996 קָטָן "abbreviated, i.e. diminutive…" [HTd/Aamsa]
+
+### I Chronicles 25:17 (context)
+
+- o1: הָ/עֲשִׂירִי = Hd "the" + H6224 עֲשִׂירִי "tenth…" [HTd/Aomsa]
+- o2: שִׁמְעִי = H8096 שִׁמְעִי "Shimi, the name of twenty Israelites" [HNp]
+- o3: בָּנָי/ו = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc/Sp3ms]
+- o4: וְ/אֶחָי/ו = Hc "and" + H251 אָח "a brother (used in the widest sense of literal…" [HC/Ncmpc/Sp3ms]
+- o5: שְׁנֵים = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmda]
+- o6: עָשָׂר = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcmsa]

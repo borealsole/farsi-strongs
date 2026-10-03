@@ -909,3 +909,47 @@ Persian entries and current tags:
 - p24: او
 - p25: می‌رفت  → H935
 - p26: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 34:18 (context)
+
+- o1: אֶת = H853 אֵת "properly…" [HTo]
+- o2: חַג = H2282 חַג "a festival, or a victim therefor" [HNcmsc]
+- o3: הַ/מַּצּוֹת = Hd "the" + H4682 מַצָּה "properly, sweetness…" [HTd/Ncfpa]
+- o4: תִּשְׁמֹר = H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HVqi2ms]
+- o5: שִׁבְעַת = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcmsc]
+- o6: יָמִים = H3117 יוֹם "a day (as the warm hours)…" [HNcmpa]
+- o7: תֹּאכַל = H398 אָכַל "to eat (literally or figuratively)" [HVqi2ms]
+- o8: מַצּוֹת = H4682 מַצָּה "properly, sweetness…" [HNcfpa]
+- o9: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o10: צִוִּיתִ/ךָ = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp1cs/Sp2ms]
+- o11: לְ/מוֹעֵד = Hl "to" + H4150 מוֹעֵד "properly, an appointment…" [HR/Ncmsc]
+- o12: חֹדֶשׁ = H2320 חֹדֶשׁ "the new moon; by implication, a month" [HNcmsc]
+- o13: הָ/אָבִיב = Hd "the" + H24 אָבִיב "green, i.e. a young ear of grain…" [HTd/Ncmsa]
+- o14: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o15: בְּ/חֹדֶשׁ = Hb "in" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HR/Ncmsc]
+- o16: הָ/אָבִיב = Hd "the" + H24 אָבִיב "green, i.e. a young ear of grain…" [HTd/Ncmsa]
+- o17: יָצָאתָ = H3318 יָצָא "to go (causatively, bring) out…" [HVqp2ms]
+- o18: מִ/מִּצְרָיִם = Hm "from" + H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HR/Np]
+
+### Exodus 35:1 (context)
+
+- o1: וַ/יַּקְהֵל = Hc "and" + H6950 קָהַל "to convoke" [HC/Vhw3ms]
+- o2: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o5: עֲדַת = H5712 עֵדָה "a stated assemblage (specifically, a concourse…" [HNcfsc]
+- o6: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o7: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o8: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o9: אֲלֵ/הֶם = H413 אֵל "near, with or among; often in general, to" [HR/Sp3mp]
+- o10: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o11: הַ/דְּבָרִים = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmpa]
+- o12: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o13: צִוָּה = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp3ms]
+- o14: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o15: לַ/עֲשֹׂת = Hl "to" + H6213 עָשָׂה "to do or make…" [HR/Vqc]
+- o16: אֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]

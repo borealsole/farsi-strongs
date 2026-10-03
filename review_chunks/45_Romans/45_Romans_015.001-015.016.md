@@ -838,3 +838,42 @@ Persian entries and current tags:
 - p28: روح‌القدس  → G4151 G40
 - p29: تقدیس شده_است  → G37
 - p30: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Romans 14:23 (context)
+
+- o1: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: διακρινόμενος = G1252 διακρίνω "contend, make (to) differ(-ence), discern, doubt…" [V-PMP-NSM]
+- o4: ἐὰν = G1437 ἐάν "before, but, except, (and) if, (if) so, (what-…" [COND]
+- o5: φάγῃ = G5315 φάγω "eat, meat" [V-2AAS-3S]
+- o6: κατακέκριται, = G2632 κατακρίνω "condemn, damn" [V-RPI-3S]
+- o7: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o8: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o9: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o10: πίστεως· = G4102 πίστις "assurance, belief, believe, faith, fidelity" [N-GSF]
+- o11: πᾶν = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-NSN]
+- o12: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o13: ὃ = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-NSN]
+- o14: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o15: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o16: πίστεως = G4102 πίστις "assurance, belief, believe, faith, fidelity" [N-GSF]
+- o17: ἁμαρτία = G266 ἁμαρτία "offence, sin(-ful)" [N-NSF]
+- o18: ἐστίν. = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+
+### Romans 15:17 (context)
+
+- o1: ἔχω = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAI-1S]
+- o2: οὖν = G3767 οὖν "and (so, truly), but, now (then)…" [CONJ]
+- o3: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o4: καύχησιν = G2746 καύχησις "boasting, whereof I may glory, glorying, rejoicing" [N-ASF]
+- o5: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o6: Χριστῷ = G5547 Χριστός "Christ" [N-DSM]
+- o7: Ἰησοῦ = G2424 Ἰησοῦς "Jesus" [N-DSM]
+- o8: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
+- o9: πρὸς = G4314 πρός "about, according to , against, among, at…" [PREP]
+- o10: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o11: θεόν· = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-ASM]

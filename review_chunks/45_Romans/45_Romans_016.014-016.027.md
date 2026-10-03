@@ -718,3 +718,22 @@ Persian entries and current tags:
 - p19: !
 - p20: آمین  → G281
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Romans 16:13 (context)
+
+- o1: ἀσπάσασθε = G782 ἀσπάζομαι "embrace, greet, salute, take leave" [V-ADM-2P]
+- o2: Ῥοῦφον = G4504 Ῥοῦφος "Rufus" [N-ASM]
+- o3: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o4: ἐκλεκτὸν = G1588 ἐκλεκτός "chosen, elect" [A-ASM]
+- o5: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o6: κυρίῳ = G2962 κύριος "God, Lord, master, Sir" [N-DSM]
+- o7: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o8: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o9: μητέρα = G3384 μήτηρ "mother" [N-ASF]
+- o10: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o11: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o12: ἐμοῦ. = G1473 ἐγώ "I, me" [P-1GS]

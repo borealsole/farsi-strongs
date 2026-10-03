@@ -879,3 +879,47 @@ Persian entries and current tags:
 - p10: تن  → H702
 - p11: بود
 - p12: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Nehemiah 10:39 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o3: הַ/לְּשָׁכוֹת = Hd "the" + H3957 לִשְׁכָּה "a room in a building (whether for storage, eating…" [HTd/Ncfpa]
+- o4: יָבִיאוּ = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVhi3mp]
+- o5: בְנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o6: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o7: וּ/בְנֵי = Hc "and" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/Ncmpc]
+- o8: הַ/לֵּוִי = Hd "the" + H3878 לֵוִי "Levi, a son of Jacob" [HTd/Np]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: תְּרוּמַת = H8641 תְּרוּמָה "a present (as offered up)…" [HNcfsc]
+- o11: הַ/דָּגָן = Hd "the" + H1715 דָּגָן "properly, increase, i.e. grain" [HTd/Ncmsa]
+- o12: הַ/תִּירוֹשׁ = Hd "the" + H8492 תִּירוֹשׁ "must or fresh grape-juice (as just squeezed out)…" [HTd/Ncmsa]
+- o13: וְ/הַ/יִּצְהָר = Hc "and" + Hd "the" + H3323 יִצְהָר "oil (as producing light); figuratively, anointing" [HC/Td/Ncmsa]
+- o14: וְ/שָׁם = Hc "and" + H8033 שָׁם "there (transferring to time) then…" [HC/D]
+- o15: כְּלֵי = H3627 כְּלִי "something prepared…" [HNcmpc]
+- o16: הַ/מִּקְדָּשׁ = Hd "the" + H4720 מִקְדָּשׁ "a consecrated thing or place, especially…" [HTd/Ncmsa]
+- o17: וְ/הַ/כֹּהֲנִים = Hc "and" + Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HC/Td/Ncmpa]
+- o18: הַ/מְשָׁרְתִים = Hd "the" + H8334 שָׁרַת "to attend as a menial or worshipper…" [HTd/Vprmpa]
+- o19: וְ/הַ/שּׁוֹעֲרִים = Hc "and" + Hd "the" + H7778 שׁוֹעֵר "a janitor" [HC/Td/Ncmpa]
+- o20: וְ/הַ/מְשֹׁרְרִים = Hc "and" + Hd "the" + H7891 שִׁיר "to sing" [HC/Td/Vormpa]
+- o21: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o22: נַעֲזֹב = H5800 עָזַב "to loosen, i.e. relinquish, permit, etc" [HVqi1cp]
+- o23: אֶת = H853 אֵת "properly…" [HTo]
+- o24: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o25: אֱלֹהֵי/נוּ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp1cp]
+
+### Nehemiah 11:19 (context)
+
+- o1: וְ/הַ/שּׁוֹעֲרִים = Hc "and" + Hd "the" + H7778 שׁוֹעֵר "a janitor" [HC/Td/Ncmpa]
+- o2: עַקּוּב = H6126 עַקּוּב "Akkub, the name of five Israelites" [HNp]
+- o3: טַלְמוֹן = H2929 טַלְמוֹן "Talmon, a temple doorkeeper" [HNp]
+- o4: וַ/אֲחֵי/הֶם = Hc "and" + H251 אָח "a brother (used in the widest sense of literal…" [HC/Ncmpc/Sp3mp]
+- o5: הַ/שֹּׁמְרִים = Hd "the" + H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HTd/Vqrmpa]
+- o6: בַּ/שְּׁעָרִים = Hb "in" + H8179 שַׁעַר "an opening, i.e. door or gate" [HRd/Ncmpa]
+- o7: מֵאָה = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbsa]
+- o8: שִׁבְעִים = H7657 שִׁבְעִים "seventy" [HAcbpa]
+- o9: וּ/שְׁנָיִם = Hc "and" + H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HC/Acmda]

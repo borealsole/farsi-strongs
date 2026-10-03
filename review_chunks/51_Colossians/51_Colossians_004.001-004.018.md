@@ -897,3 +897,20 @@ Persian entries and current tags:
 - p19: شما  → G5210
 - p20: باد
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Colossians 3:25 (context)
+
+- o1: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o2: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o3: ἀδικῶν = G91 ἀδικέω "hurt, injure, be an offender, be unjust, (do…" [V-PAP-NSM]
+- o4: κομιεῖται = G2865 κομίζω "bring, receive" [V-FMI-3S]
+- o5: ὃ = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-ASN]
+- o6: ἠδίκησεν, = G91 ἀδικέω "hurt, injure, be an offender, be unjust, (do…" [V-AAI-3S]
+- o7: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o8: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o9: ἔστιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o10: προσωπολημψία. = G4382 προσωποληψία "respect of persons" [N-NSF]

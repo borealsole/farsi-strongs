@@ -868,3 +868,45 @@ Persian entries and current tags:
 - p28: او  → G5547
 - p29: می‌ایستند
 - p30: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Corinthians 1:24 (context)
+
+- o1: οὐχ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o2: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o3: κυριεύομεν = G2961 κυριεύω "have dominion over, lord, be lord of…" [V-PAI-1P]
+- o4: ὑμῶν = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
+- o5: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o6: πίστεως, = G4102 πίστις "assurance, belief, believe, faith, fidelity" [N-GSF]
+- o7: ἀλλὰ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o8: συνεργοί = G4904 συνεργός "companion in labour, (fellow-)helper(-labourer…" [A-NPM]
+- o9: ἐσμεν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-1P]
+- o10: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o11: χαρᾶς = G5479 χαρά "gladness, greatly, ( be exceeding) joy(-ful…" [N-GSF]
+- o12: ὑμῶν, = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
+- o13: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o14: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o15: πίστει = G4102 πίστις "assurance, belief, believe, faith, fidelity" [N-DSF]
+- o16: ἑστήκατε. = G2476 ἵστημι "abide, appoint, bring, continue, covenant…" [V-RAI-2P]
+
+### II Corinthians 3:1 (context)
+
+- o1: Ἀρχόμεθα = G756 ἄρχομαι "(rehearse from the) begin(-ning)" [V-PMI-1P]
+- o2: πάλιν = G3825 πάλιν "again" [ADV]
+- o3: ἑαυτοὺς = G1438 ἑαυτοῦ "alone, her (own, -self), (he) himself, his (own)…" [F-1APM]
+- o4: συνιστάνειν; = G4921 συνιστάω "approve, commend, consist, make, stand (with)" [V-PAN]
+- o5: ἢ = G2228 ἤ "and, but (either), (n-)either, except it be…" [PRT]
+- o6: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o7: χρῄζομεν = G5535 χρῄζω "(have) need" [V-PAI-1P]
+- o8: ὥς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
+- o9: τινες = G5100 τὶς "a (kind of), any (man, thing, thing at all)…" [X-NPM]
+- o10: συστατικῶν = G4956 συστατικός "of commendation" [A-GPF]
+- o11: ἐπιστολῶν = G1992 ἐπιστολή ""epistle," letter" [N-GPF]
+- o12: πρὸς = G4314 πρός "about, according to , against, among, at…" [PREP]
+- o13: ὑμᾶς = G5210 ὑμεῖς "ye (yourselves), you" [P-2AP]
+- o14: ἢ = G2228 ἤ "and, but (either), (n-)either, except it be…" [PRT]
+- o15: ἐξ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o16: ὑμῶν; = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]

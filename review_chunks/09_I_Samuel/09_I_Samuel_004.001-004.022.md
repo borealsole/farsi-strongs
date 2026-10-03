@@ -1287,3 +1287,34 @@ Persian entries and current tags:
 - p15: رفته_است
 - p16: .
 - p17: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 3:21 (context)
+
+- o1: וַ/יֹּסֶף = Hc "and" + H3254 יָסַף "to add or augment (often adverbial…" [HC/Vhw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: לְ/הֵרָאֹה = Hl "to" + H7200 רָאָה "to see…" [HR/VNc]
+- o4: בְ/שִׁלֹה = Hb "in" + H7887 שִׁילֹה "Shiloh, a place in Palestine" [HR/Np]
+- o5: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o6: נִגְלָה = H1540 גָּלָה "to denude (especially in a disgraceful sense)…" [HVNp3ms]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o9: שְׁמוּאֵל = H8050 שְׁמוּאֵל "Shemuel, the name of three Israelites" [HNp]
+- o10: בְּ/שִׁלוֹ = Hb "in" + H7887 שִׁילֹה "Shiloh, a place in Palestine" [HR/Np]
+- o11: בִּ/דְבַר = Hb "in" + H1697 דָּבָר "a word…" [HR/Ncmsc]
+- o12: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### I Samuel 5:1 (context)
+
+- o1: וּ/פְלִשְׁתִּים = Hc "and" + H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HC/Ngmpa]
+- o2: לָקְחוּ = H3947 לָקַח "to take (in the widest variety of applications)" [HVqp3cp]
+- o3: אֵת = H853 אֵת "properly…" [HTo]
+- o4: אֲרוֹן = H727 אָרוֹן "a box" [HNcbsc]
+- o5: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o6: וַ/יְבִאֻ/הוּ = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vhw3mp/Sp3ms]
+- o7: מֵ/אֶבֶן = Hm "from" + H72 אֶבֶן הָעֵזֶר "Eben-ha-Ezer, a place in Palestine" [HC/Np]
+- o8: הָעֵזֶר = H72 אֶבֶן הָעֵזֶר "Eben-ha-Ezer, a place in Palestine" [HNp]
+- o9: אַשְׁדּוֹדָ/ה = H795 אַשְׁדּוֹד "Ashdod, a place in Palestine" [HNp/Sd]

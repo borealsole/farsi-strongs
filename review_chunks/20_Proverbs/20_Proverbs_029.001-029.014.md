@@ -525,3 +525,28 @@ Persian entries and current tags:
 - p13: برقرار  → H3559
 - p14: می‌ماند
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 28:28 (context)
+
+- o1: בְּ/קוּם = Hb "in" + H6965 קוּם "to rise (in various applications, literal…" [HR/Vqc]
+- o2: רְשָׁעִים = H7563 רָשָׁע "morally wrong…" [HAampa]
+- o3: יִסָּתֵר = H5641 סָתַר "to hide (by covering), literally or figuratively" [HVNi3ms]
+- o4: אָדָם = H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HNcmsa]
+- o5: וּ/בְ/אָבְדָ/ם = Hc "and" + Hb "in" + H6 אָבַד "properly, to wander away, i.e. lose oneself…" [HC/R/Vqc/Sp3mp]
+- o6: יִרְבּוּ = H7235 רָבָה "to increase (in whatever respect)" [HVqi3mp]
+- o7: צַדִּיקִים = H6662 צַדִּיק "just" [HAampa]
+
+### Proverbs 29:15 (context)
+
+- o1: שֵׁבֶט = H7626 שֵׁבֶט "a scion, i.e. (literally) a stick (for punishing…" [HNcmsa]
+- o2: וְ/תוֹכַחַת = Hc "and" + H8433 תּוֹכֵחָה "chastisement…" [HC/Ncfsa]
+- o3: יִתֵּן = H5414 נָתַן "to give…" [HVqi3ms]
+- o4: חָכְמָה = H2451 חׇכְמָה "wisdom (in a good sense)" [HNcfsa]
+- o5: וְ/נַעַר = Hc "and" + H5288 נַעַר "concretely) a boy (as active)…" [HC/Ncmsa]
+- o6: מְשֻׁלָּח = H7971 שָׁלַח "to send away, for…" [HVPsmsa]
+- o7: מֵבִישׁ = H954 בּוּשׁ "properly, to pale…" [HVhrmsa]
+- o8: אִמּ/וֹ = H517 אֵם "a mother (as the bond of the family)…" [HNcfsc/Sp3ms]

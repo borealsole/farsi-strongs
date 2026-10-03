@@ -696,3 +696,27 @@ Persian entries and current tags:
 - p16: سلامتی  → G1515
 - p17: باد
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Peter 4:19 (context)
+
+- o1: ὥστε = G5620 ὥστε "insomuch) as, so that (then), (insomuch) that…" [CONJ]
+- o2: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o3: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o4: πάσχοντες = G3958 πάσχω "feel, passion, suffer, vex" [V-PAP-NPM]
+- o5: κατὰ = G2596 κατά "about, according as (to), after, against…" [PREP]
+- o6: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o7: θέλημα = G2307 θέλημα "desire, pleasure, will" [N-ASN]
+- o8: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o9: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o10: πιστῷ = G4103 πιστός "believe(-ing, -r), faithful(-ly), sure, true" [A-DSM]
+- o11: κτίστῃ = G2939 κτίστης "Creator" [N-DSM]
+- o12: παρατιθέσθωσαν = G3908 παρατίθημι "allege, commend, commit (the keeping of)…" [V-PPM-3P]
+- o13: τὰς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APF]
+- o14: ψυχὰς = G5590 ψυχή "heart (+ -ily), life, mind, soul, + us, + you" [N-APF]
+- o15: αὐτῶν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]
+- o16: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o17: ἀγαθοποιΐᾳ. = G16 ἀγαθοποιΐα "well-doing" [N-DSF]

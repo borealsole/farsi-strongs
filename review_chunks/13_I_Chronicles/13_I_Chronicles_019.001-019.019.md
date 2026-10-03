@@ -1101,3 +1101,53 @@ Persian entries and current tags:
 - p23: را  → H853
 - p24: یاری دهند  → H3467
 - p25: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 18:17 (context)
+
+- o1: וּ/בְנָיָהוּ = Hc "and" + H1141 בְּנָיָה "Benajah, the name of twelve Israelites" [HC/Np]
+- o2: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o3: יְהוֹיָדָע = H3077 יְהוֹיָדָע "Jehojada, the name of three Israelites" [HNp]
+- o4: עַל = H5921 עַל "above, over, upon…" [HR]
+- o5: הַ/כְּרֵתִי = Hd "the" + H3774 כְּרֵתִי "a Kerethite or life-guardsman" [HTd/Ngmsa]
+- o6: וְ/הַ/פְּלֵתִי = Hc "and" + Hd "the" + H6432 פְּלֵתִי "a courier (collectively) or official messenger" [HC/Td/Ngmsa]
+- o7: וּ/בְנֵי = Hc "and" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/Ncmpc]
+- o8: דָוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o9: הָ/רִאשֹׁנִים = Hd "the" + H7223 רִאשׁוֹן "first, in place…" [HTd/Aampa]
+- o10: לְ/יַד = Hl "to" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o11: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+
+### I Chronicles 20:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: לְ/עֵת = Hl "to" + H6256 עֵת "time, especially (adverb with preposition) now…" [HR/Ncbsc]
+- o3: תְּשׁוּבַת = H8666 תְּשׁוּבָה "a recurrence (of time or place)…" [HNcfsc]
+- o4: הַ/שָּׁנָה = Hd "the" + H8141 שָׁנֶה "a year (as a revolution of time)" [HTd/Ncfsa]
+- o5: לְ/עֵת = Hl "to" + H6256 עֵת "time, especially (adverb with preposition) now…" [HR/Ncbsc]
+- o6: צֵאת = H3318 יָצָא "to go (causatively, bring) out…" [HVqc]
+- o7: הַ/מְּלָכִים = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmpa]
+- o8: וַ/יִּנְהַג = Hc "and" + H5090 נָהַג "to drive forth (a person, an animal or chariot)…" [HC/Vqw3ms]
+- o9: יוֹאָב = H3097 יוֹאָב "Joab, the name of three Israelites" [HNp]
+- o10: אֶת = H853 אֵת "properly…" [HTo]
+- o11: חֵיל = H2426 חֵיל "an army; also (by analogy,) an intrenchment" [HNcmsc]
+- o12: הַ/צָּבָא = Hd "the" + H6635 צָבָא "a mass of persons (or figuratively, things)…" [HTd/Ncbsa]
+- o13: וַ/יַּשְׁחֵת = Hc "and" + H7843 שָׁחַת "to decay…" [HC/Vhw3ms]
+- o14: אֶת = H853 אֵת "properly…" [HTo]
+- o15: אֶרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsc]
+- o16: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o17: עַמּוֹן = H5983 עַמּוֹן "Ammon, a son of Lot…" [HNp]
+- o18: וַ/יָּבֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3ms]
+- o19: וַ/יָּצַר = Hc "and" + H6696 צוּר "to cramp, i.e. confine (in many applications…" [HC/Vqw3ms]
+- o20: אֶת = H853 אֵת "properly…" [HTo]
+- o21: רַבָּה = H7237 רַבָּה "Rabbah, the name of two places in Palestine…" [HNp]
+- o22: וְ/דָוִיד = Hc "and" + H1732 דָּוִד "David, the youngest son of Jesse" [HC/Np]
+- o23: יֹשֵׁב = H3427 יָשַׁב "properly…" [HVqrmsa]
+- o24: בִּ/ירוּשָׁלִָם = Hb "in" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HR/Np]
+- o25: וַ/יַּךְ = Hc "and" + H5221 נָכָה "to strike (lightly or severely…" [HC/Vhw3ms]
+- o26: יוֹאָב = H3097 יוֹאָב "Joab, the name of three Israelites" [HNp]
+- o27: אֶת = H853 אֵת "properly…" [HTo]
+- o28: רַבָּה = H7237 רַבָּה "Rabbah, the name of two places in Palestine…" [HNp]
+- o29: וַ/יֶּהֶרְסֶ/הָ = Hc "and" + H2040 הָרַס "to pull down or in pieces, break, destroy" [HC/Vqw3ms/Sp3fs]

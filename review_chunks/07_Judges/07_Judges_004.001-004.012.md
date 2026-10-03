@@ -703,3 +703,50 @@ Persian entries and current tags:
 - p11: تابور  → H8396
 - p12: برآمده است  → H5927
 - p13: ،
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Judges 3:31 (context)
+
+- o1: וְ/אַחֲרָי/ו = Hc "and" + H310 אַחַר "properly, the hind part…" [HC/R/Sp3ms]
+- o2: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o3: שַׁמְגַּר = H8044 שַׁמְגַּר "Shamgar, an Israelite judge" [HNp]
+- o4: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o5: עֲנָת = H6067 עֲנָת "Anath, an Israelite" [HNp]
+- o6: וַ/יַּךְ = Hc "and" + H5221 נָכָה "to strike (lightly or severely…" [HC/Vhw3ms]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: פְּלִשְׁתִּים = H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HNgmpa]
+- o9: שֵׁשׁ = H8337 שֵׁשׁ "six (as an overplus beyond five or the fingers of…" [HAcfsa]
+- o10: מֵאוֹת = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbpa]
+- o11: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o12: בְּ/מַלְמַד = Hb "in" + H4451 מַלְמָד "a goad for oxen" [HR/Ncmsc]
+- o13: הַ/בָּקָר = Hd "the" + H1241 בָּקָר "beef cattle or an animal of the ox family of…" [HTd/Ncbsa]
+- o14: וַ/יֹּשַׁע = Hc "and" + H3467 יָשַׁע "properly, to be open, wide or free…" [HC/Vhw3ms]
+- o15: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o16: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o17: אֶת = H853 אֵת "properly…" [HTo]
+- o18: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+
+### Judges 4:13 (context)
+
+- o1: וַ/יַּזְעֵק = Hc "and" + H2199 זָעַק "to shriek (from anguish or danger)…" [HC/Vhw3ms]
+- o2: סִיסְרָא = H5516 סִיסְרָא "Sisera…" [HNp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o5: רִכְבּ/וֹ = H7393 רֶכֶב "a vehicle; by implication, a team…" [HNcmsc/Sp3ms]
+- o6: תְּשַׁע = H8672 תֵּשַׁע "nine or (ordinal) ninth" [HAcfsa]
+- o7: מֵאוֹת = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbpa]
+- o8: רֶכֶב = H7393 רֶכֶב "a vehicle; by implication, a team…" [HNcmsc]
+- o9: בַּרְזֶל = H1270 בַּרְזֶל "iron (as cutting); by extension, an iron implement" [HNcmsa]
+- o10: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o11: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o12: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o13: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o14: אִתּ/וֹ = H854 אֵת "properly…" [HR/Sp3ms]
+- o15: מֵ/חֲרֹשֶׁת = Hm "from" + H2800 חֲרֹשֶׁת "Charosheth, a place in Palestine" [HR/Np]
+- o16: הַגּוֹיִם = H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HNp]
+- o17: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o18: נַחַל = H5158 נַחַל "a stream, especially a winter torrent…" [HNcmsc]
+- o19: קִישׁוֹן = H7028 קִישׁוֹן "Kishon, a river of Palestine" [HNp]

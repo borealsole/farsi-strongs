@@ -1007,3 +1007,42 @@ Persian entries and current tags:
 - p18: دل  → H3820
 - p19: مشغول می‌دارد  → H6031
 - p20: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ecclesiastes 4:16 (context)
+
+- o1: אֵין = H369 אַיִן "a non-entity…" [HTn]
+- o2: קֵץ = H7093 קֵץ "an extremity…" [HNcmsa]
+- o3: לְ/כָל = Hl "to" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o4: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o5: לְ/כֹל = Hl "to" + H3605 כֹּל "properly, the whole…" [HR/Ncmsa]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o8: לִ/פְנֵי/הֶם = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp3mp]
+- o9: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o10: הָ/אַחֲרוֹנִים = Hd "the" + H314 אַחֲרוֹן "hinder; generally, late or last…" [HTd/Aampa]
+- o11: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o12: יִשְׂמְחוּ = H8055 שָׂמַח "probably to brighten up…" [HVqi3mp]
+- o13: ב/וֹ = Hb "in" [HR/Sp3ms]
+- o14: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o15: גַם = H1571 גַּם "properly, assemblage…" [HD]
+- o16: זֶה = H2088 זֶה "the masculine demonstrative pronoun, this or that" [HPdxms]
+- o17: הֶבֶל = H1892 הֶבֶל "emptiness or vanity…" [HNcmsa]
+- o18: וְ/רַעְיוֹן = Hc "and" + H7475 רַעְיוֹן "desire" [HC/Ncmsc]
+- o19: רוּחַ = H7307 רוּחַ "wind…" [HNcbsa]
+
+### Ecclesiastes 6:1 (context)
+
+- o1: יֵשׁ = H3426 יֵשׁ "there is or are (or any other form of the verb to…" [HTm]
+- o2: רָעָה = H7451 רַע "bad or (as noun) evil (natural or moral)" [HNcfsa]
+- o3: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o4: רָאִיתִי = H7200 רָאָה "to see…" [HVqp1cs]
+- o5: תַּחַת = H8478 תַּחַת "the bottom (as depressed)…" [HR]
+- o6: הַ/שָּׁמֶשׁ = Hd "the" + H8121 שֶׁמֶשׁ "the sun; by implication, the east…" [HTd/Ncbsa]
+- o7: וְ/רַבָּה = Hc "and" + H7227 רַב "abundant (in quantity, size, age, number, rank…" [HC/Aafsa]
+- o8: הִיא = H1931 הוּא "he (she or it)…" [HPp3fs]
+- o9: עַל = H5921 עַל "above, over, upon…" [HR]
+- o10: הָ/אָדָם = Hd "the" + H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HTd/Ncmsa]

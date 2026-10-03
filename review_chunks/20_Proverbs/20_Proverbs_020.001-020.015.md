@@ -570,3 +570,27 @@ Persian entries and current tags:
 - p16: گوهرِ  → H3627
 - p17: کمیابند  → H3366
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 19:29 (context)
+
+- o1: נָכוֹנוּ = H3559 כּוּן "properly, to be erect (i.e. stand perpendicular)…" [HVNp3cp]
+- o2: לַ/לֵּצִים = Hl "to" + H3887 לוּץ "properly, to make mouths at, i.e. to scoff…" [HRd/Aampa]
+- o3: שְׁפָטִים = H8201 שֶׁפֶט "a sentence, i.e. infliction" [HNcmpa]
+- o4: וּ/מַהֲלֻמוֹת = Hc "and" + H4112 מַהֲלֻמָּה "a blow" [HC/Ncfpa]
+- o5: לְ/גֵו = Hl "to" + H1460 גֵּו "the back; by analogy, the middle" [HR/Ncmsc]
+- o6: כְּסִילִים = H3684 כְּסִיל "properly, fat, i.e. (figuratively) stupid or silly" [HAampa]
+
+### Proverbs 20:16 (context)
+
+- o1: לְקַח = H3947 לָקַח "to take (in the widest variety of applications)" [HVqv2ms]
+- o2: בִּגְד/וֹ = H899 בֶּגֶד "a covering, i.e. clothing…" [HNcmsc/Sp3ms]
+- o3: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o4: עָרַב = H6148 עָרַב "to braid, i.e. intermix…" [HVqp3ms]
+- o5: זָר = H2114 זוּר "to turn aside (especially for lodging)…" [HAamsa]
+- o6: וּ/בְעַד = Hc "and" + H1157 בְּעַד "in up to or over against…" [HC/R]
+- o7: נכרים = H5237 נׇכְרִי "strange…" [HAampa]
+- o8: חַבְלֵ/הוּ = H2254 חָבַל "to wind tightly (as a rope), i.e. to bind…" [HVqv2ms/Sp3ms]

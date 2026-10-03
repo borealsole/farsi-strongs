@@ -716,3 +716,44 @@ Persian entries and current tags:
 - p50: .
 - p51: “
 - p52: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 7:11 (context)
+
+- o1: וַ/יְכַל = Hc "and" + H3615 כָּלָה "to end, whether intransitive (to cease…" [HC/Vpw3ms]
+- o2: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o5: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o6: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o7: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o8: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o9: וְ/אֵת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o10: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o11: הַ/בָּא = Hd "the" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HTd/Vqrmsa]
+- o12: עַל = H5921 עַל "above, over, upon…" [HR]
+- o13: לֵב = H3820 לֵב "the heart…" [HNcmsc]
+- o14: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o15: לַ/עֲשׂוֹת = Hl "to" + H6213 עָשָׂה "to do or make…" [HR/Vqc]
+- o16: בְּ/בֵית = Hb "in" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc]
+- o17: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o18: וּ/בְ/בֵית/וֹ = Hc "and" + Hb "in" + H1004 בַּיִת "a house (in the greatest variation of…" [HC/R/Ncmsc/Sp3ms]
+- o19: הִצְלִיחַ = H6743 צָלַח "to push forward…" [HVhp3ms]
+
+### II Chronicles 8:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: מִ/קֵּץ = Hm "from" + H7093 קֵץ "an extremity…" [HR/Ncmsc]
+- o3: עֶשְׂרִים = H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HAcbpa]
+- o4: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: בָּנָה = H1129 בָּנָה "to build (literally and figuratively)" [HVqp3ms]
+- o7: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o10: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o11: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o12: בֵּית/וֹ = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc/Sp3ms]

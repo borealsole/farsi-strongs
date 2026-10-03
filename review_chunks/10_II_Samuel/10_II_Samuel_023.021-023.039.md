@@ -609,3 +609,53 @@ Persian entries and current tags:
 - p10: تن
 - p11: بودند
 - p12: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 23:20 (context)
+
+- o1: וּ/בְנָיָהוּ = Hc "and" + H1141 בְּנָיָה "Benajah, the name of twelve Israelites" [HC/Np]
+- o2: בֶן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o3: יְהוֹיָדָע = H3077 יְהוֹיָדָע "Jehojada, the name of three Israelites" [HNp]
+- o4: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o5: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsc]
+- o6: חי = H2416 חַי "alive; hence, raw (flesh)…" [HAamsa]
+- o7: רַב = H7227 רַב "abundant (in quantity, size, age, number, rank…" [HAamsc]
+- o8: פְּעָלִים = H6467 פֹּעַל "an act or work (concretely)" [HNcmpa]
+- o9: מִ/קַּבְצְאֵל = Hm "from" + H6909 קַבְצְאֵל "Kabtseel, a place in Palestine" [HR/Np]
+- o10: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o11: הִכָּה = H5221 נָכָה "to strike (lightly or severely…" [HVhp3ms]
+- o12: אֵת = H853 אֵת "properly…" [HTo]
+- o13: שְׁנֵי = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmdc]
+- o14: אֲרִאֵל = H739 אֲרִיאֵל "lion of God; i.e. heroic" [HNp]
+- o15: מוֹאָב = H4124 מוֹאָב "Moab, an incestuous son of Lot…" [HNp]
+- o16: וְ/הוּא = Hc "and" + H1931 הוּא "he (she or it)…" [HC/Pp3ms]
+- o17: יָרַד = H3381 יָרַד "to descend (literally, to go downwards…" [HVqp3ms]
+- o18: וְ/הִכָּה = Hc "and" + H5221 נָכָה "to strike (lightly or severely…" [HC/Vhp3ms]
+- o19: אֶת = H853 אֵת "properly…" [HTo]
+- o20: ה/אריה = Hd "the" + H738 אֲרִי "a lion" [HTd/Ncmsa]
+- o21: בְּ/תוֹךְ = Hb "in" + H8432 תָּוֶךְ "a bisection, i.e. (by implication) the centre" [HR/Ncmsc]
+- o22: הַ/בֹּאר = Hd "the" + H953 בּוֹר "a pit hole (especially one used as a cistern or a…" [HTd/Ncmsa]
+- o23: בְּ/יוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmsc]
+- o24: הַ/שָּׁלֶג = Hd "the" + H7950 שֶׁלֶג "snow (probably from its whiteness)" [HTd/Ncmsa]
+
+### II Samuel 24:1 (context)
+
+- o1: וַ/יֹּסֶף = Hc "and" + H3254 יָסַף "to add or augment (often adverbial…" [HC/Vhw3ms]
+- o2: אַף = H639 אַף "properly, the nose or nostril…" [HTa]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: לַ/חֲרוֹת = Hl "to" + H2734 חָרָה "to glow or grow warm…" [HR/Vqc]
+- o5: בְּ/יִשְׂרָאֵל = Hb "in" + H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HR/Np]
+- o6: וַ/יָּסֶת = Hc "and" + H5496 סוּת "properly, to prick, i.e. (figuratively) stimulate…" [HC/Vhw3ms]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o9: בָּ/הֶם = Hb "in" [HR/Sp3mp]
+- o10: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o11: לֵךְ = H3212 יָלַךְ "to walk (literally or figuratively)…" [HVqv2ms]
+- o12: מְנֵה = H4487 מָנָה "properly, to weigh out…" [HVqv2ms]
+- o13: אֶת = H853 אֵת "properly…" [HTo]
+- o14: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o15: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o16: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]

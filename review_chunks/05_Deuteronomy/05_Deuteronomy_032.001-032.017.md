@@ -839,3 +839,31 @@ Persian entries and current tags:
 - p28: دل  → H8175
 - p29: نداشتند  → H3808
 - p30: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 31:30 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o3: בְּ/אָזְנֵי = Hb "in" + H241 אֹזֶן "broadness. i.e. (concrete) the ear (from its form…" [HR/Ncfdc]
+- o4: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o5: קְהַל = H6951 קָהָל "assemblage (usually concretely)" [HNcmsc]
+- o6: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: דִּבְרֵי = H1697 דָּבָר "a word…" [HNcmpc]
+- o9: הַ/שִּׁירָה = Hd "the" + H7892 שִׁיר "a song; abstractly, singing" [HTd/Ncbsa]
+- o10: הַ/זֹּאת = Hd "the" + H2063 זֹאת "this (often used adverb)" [HTd/Pdxfs]
+- o11: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o12: תֻּמָּ/ם = H8552 תָּמַם "to complete, in a good or a bad sense, literal…" [HVqc/Sp3mp]
+
+### Deuteronomy 32:18 (context)
+
+- o1: צוּר = H6697 צוּר "properly, a cliff (or sharp rock, as compressed)…" [HNcmsa]
+- o2: יְלָדְ/ךָ = H3205 יָלַד "to bear young; causatively, to beget…" [HVqp3ms/Sp2ms]
+- o3: תֶּשִׁי = H7876 שָׁיָה "to keep in memory" [HVqi2ms]
+- o4: וַ/תִּשְׁכַּח = Hc "and" + H7911 שָׁכַח "to mislay, i.e. to be oblivious of…" [HC/Vqw2ms]
+- o5: אֵל = H410 אֵל "strength; as adjective, mighty…" [HNcmsa]
+- o6: מְחֹלְלֶ/ךָ = H2342 חוּל "properly…" [HVormsc/Sp2ms]

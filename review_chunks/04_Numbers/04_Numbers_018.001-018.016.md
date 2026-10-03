@@ -988,3 +988,48 @@ Persian entries and current tags:
 - p33: ،
 - p34: فدیه دهید  → H6299
 - p35: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 17:13 (context)
+
+- o1: כֹּל = H3605 כֹּל "properly, the whole…" [HNcmsa]
+- o2: הַ/קָּרֵב = Hd "the" + H7131 קָרֵב "near" [HTd/Aamsa]
+- o3: הַ/קָּרֵב = Hd "the" + H7131 קָרֵב "near" [HTd/Aamsa]
+- o4: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o5: מִשְׁכַּן = H4908 מִשְׁכָּן "a residence (including a shepherd's hut…" [HNcmsc]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: יָמוּת = H4191 מוּת "to die (literally or figuratively)…" [HVqi3ms]
+- o8: הַ/אִם = Hi "(untranslatable; interrogative particle)" + H518 אִם "used very widely as demonstrative, lo!…" [HTi/C]
+- o9: תַּמְנוּ = H8552 תָּמַם "to complete, in a good or a bad sense, literal…" [HVqp1cp]
+- o10: לִ/גְוֺעַ = Hl "to" + H1478 גָּוַע "to breathe out, i.e. (by implication) expire" [HR/Vqc]
+
+### Numbers 18:17 (context)
+
+- o1: אַךְ = H389 אַךְ "a particle of affirmation, surely…" [HTa]
+- o2: בְּכוֹר = H1060 בְּכוֹר "firstborn; hence, chief" [HNcmsc]
+- o3: שׁוֹר = H7794 שׁוֹר "a bullock (as a traveller)" [HNcmsa]
+- o4: אוֹ = H176 אוֹ "desire (and so probably in Proverbs 31:4)…" [HC]
+- o5: בְכוֹר = H1060 בְּכוֹר "firstborn; hence, chief" [HNcmsc]
+- o6: כֶּשֶׂב = H3775 כֶּשֶׂב "a young sheep" [HNcmsa]
+- o7: אוֹ = H176 אוֹ "desire (and so probably in Proverbs 31:4)…" [HC]
+- o8: בְכוֹר = H1060 בְּכוֹר "firstborn; hence, chief" [HNcmsc]
+- o9: עֵז = H5795 עֵז "a she-goat (as strong)…" [HNcfsa]
+- o10: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o11: תִפְדֶּה = H6299 פָּדָה "to sever, i.e. ransom; gener. to release, preserve" [HVqi2ms]
+- o12: קֹדֶשׁ = H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HNcmsa]
+- o13: הֵם = H1992 הֵם "they (only used when emphatic)" [HPp3mp]
+- o14: אֶת = H853 אֵת "properly…" [HTo]
+- o15: דָּמָ/ם = H1818 דָּם "blood (as that which when shed causes death) of…" [HNcmsc/Sp3mp]
+- o16: תִּזְרֹק = H2236 זָרַק "to sprinkle (fluid or solid particles)" [HVqi2ms]
+- o17: עַל = H5921 עַל "above, over, upon…" [HR]
+- o18: הַ/מִּזְבֵּחַ = Hd "the" + H4196 מִזְבֵּחַ "an altar" [HTd/Ncmsa]
+- o19: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o20: חֶלְבָּ/ם = H2459 חֶלֶב "fat, whether literally or figuratively…" [HNcmsc/Sp3mp]
+- o21: תַּקְטִיר = H6999 קָטַר "to smoke…" [HVhi2ms]
+- o22: אִשֶּׁה = H801 אִשָּׁה "properly, a burnt-offering…" [HNcmsa]
+- o23: לְ/רֵיחַ = Hl "to" + H7381 רֵיחַ "odor (as if blown)" [HR/Ncmsc]
+- o24: נִיחֹחַ = H5207 נִיחוֹחַ "properly, restful, i.e. pleasant…" [HNcmsa]
+- o25: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]

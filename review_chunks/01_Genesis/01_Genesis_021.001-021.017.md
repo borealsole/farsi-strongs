@@ -861,3 +861,39 @@ Persian entries and current tags:
 - p40: ،
 - p41: شنیده_است  → H8085
 - p42: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 20:18 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: עָצֹר = H6113 עָצָר "to inclose; by analogy, to hold back…" [HVqa]
+- o3: עָצַר = H6113 עָצָר "to inclose; by analogy, to hold back…" [HVqp3ms]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: בְּעַד = H1157 בְּעַד "in up to or over against…" [HR]
+- o6: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o7: רֶחֶם = H7358 רֶחֶם "the womb" [HNcmsa]
+- o8: לְ/בֵית = Hl "to" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc]
+- o9: אֲבִימֶלֶךְ = H40 אֲבִימֶלֶךְ "Abimelek…" [HNp]
+- o10: עַל = H5921 עַל "above, over, upon…" [HR]
+- o11: דְּבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o12: שָׂרָה = H8283 שָׂרָה "Sarah, Abraham's wife" [HNp]
+- o13: אֵשֶׁת = H802 אִשָּׁה "a woman" [HNcfsc]
+- o14: אַבְרָהָם = H85 אַבְרָהָם "Abraham, the later name of Abram" [HNp]
+
+### Genesis 21:18 (context)
+
+- o1: קוּמִי = H6965 קוּם "to rise (in various applications, literal…" [HVqv2fs]
+- o2: שְׂאִי = H5375 נָשָׂא "to lift, in a great variety of applications…" [HVqv2fs]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: הַ/נַּעַר = Hd "the" + H5288 נַעַר "concretely) a boy (as active)…" [HTd/Ncmsa]
+- o5: וְ/הַחֲזִיקִי = Hc "and" + H2388 חָזַק "to fasten upon…" [HC/Vhv2fs]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: יָדֵ/ךְ = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsc/Sp2fs]
+- o8: בּ/וֹ = Hb "in" [HR/Sp3ms]
+- o9: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o10: לְ/גוֹי = Hl "to" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HR/Ncmsa]
+- o11: גָּדוֹל = H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HAamsa]
+- o12: אֲשִׂימֶ/נּוּ = H7760 שׂוּם "to put (used in a great variety of applications…" [HVqi1cs/Sp3ms]

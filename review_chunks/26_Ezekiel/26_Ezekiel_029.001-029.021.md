@@ -1236,3 +1236,38 @@ Persian entries and current tags:
 - p25: هستم
 - p26: !
 - p27: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 28:26 (context)
+
+- o1: וְ/יָשְׁבוּ = Hc "and" + H3427 יָשַׁב "properly…" [HC/Vqq3cp]
+- o2: עָלֶי/הָ = H5921 עַל "above, over, upon…" [HR/Sp3fs]
+- o3: לָ/בֶטַח = Hl "to" + H983 בֶּטַח "properly, a place of refuge…" [HR/Ncmsa]
+- o4: וּ/בָנוּ = Hc "and" + H1129 בָּנָה "to build (literally and figuratively)" [HC/Vqq3cp]
+- o5: בָתִּים = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmpa]
+- o6: וְ/נָטְעוּ = Hc "and" + H5193 נָטַע "properly, to strike in, i.e. fix…" [HC/Vqq3cp]
+- o7: כְרָמִים = H3754 כֶּרֶם "a garden or vineyard" [HNcbpa]
+- o8: וְ/יָשְׁבוּ = Hc "and" + H3427 יָשַׁב "properly…" [HC/Vqq3cp]
+- o9: לָ/בֶטַח = Hl "to" + H983 בֶּטַח "properly, a place of refuge…" [HR/Ncmsa]
+- o10: בַּ/עֲשׂוֹתִ/י = Hb "in" + H6213 עָשָׂה "to do or make…" [HR/Vqc/Sp1cs]
+- o11: שְׁפָטִים = H8201 שֶׁפֶט "a sentence, i.e. infliction" [HNcmpa]
+- o12: בְּ/כֹל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o13: הַ/שָּׁאטִים = Hd "the" + H7590 שָׁאט "one contemning" [HTd/Vqrmpa]
+- o14: אֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o15: מִ/סְּבִיבוֹתָ/ם = Hm "from" + H5439 סָבִיב "as noun) a circle, neighbour, or environs…" [HR/Ncbpc/Sp3mp]
+- o16: וְ/יָדְעוּ = Hc "and" + H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HC/Vqq3cp]
+- o17: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o18: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o19: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o20: אֱלֹהֵי/הֶם = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp3mp]
+
+### Ezekiel 30:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o5: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

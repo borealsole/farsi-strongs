@@ -920,3 +920,32 @@ Persian entries and current tags:
 - p17: دروغگویان  → H1696 H8267
 - p18: بسته_خواهد_شد  → H5534
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 61:8 (context)
+
+- o1: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o2: אֲזַמְּרָה = H2167 זָמַר "play upon it…" [HVph1cs]
+- o3: שִׁמְ/ךָ = H8034 שֵׁם "an appellation…" [HNcmsc/Sp2ms]
+- o4: לָ/עַד = Hl "to" + H5703 עַד "properly, a (peremptory) terminus…" [HR/Ncmsa]
+- o5: לְ/שַׁלְּמִ/י = Hl "to" + H7999 שָׁלַם "to be safe (in mind, body or estate)…" [HR/Vpc/Sp1cs]
+- o6: נְדָרַ/י = H5088 נֶדֶר "a promise (to God)…" [HNcmpc/Sp1cs]
+- o7: יוֹם = H3117 יוֹם "a day (as the warm hours)…" [HNcmsa]
+- o8: יוֹם = H3117 יוֹם "a day (as the warm hours)…" [HNcmsa]
+
+### Psalms 64:1 (context)
+
+- o1: לַ/מְנַצֵּחַ = Hl "to" + H5329 נָצַח "properly, to glitter from afar…" [HRd/Vprmsa]
+- o2: מִזְמוֹר = H4210 מִזְמוֹר "properly, instrumental music…" [HNcmsa]
+- o3: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o4: שְׁמַע = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqv2ms]
+- o5: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o6: קוֹלִ/י = H6963 קוֹל "a voice or sound" [HNcmsc/Sp1cs]
+- o7: בְ/שִׂיחִ/י = Hb "in" + H7879 שִׂיחַ "a contemplation; by implication, an utterance" [HR/Ncmsc/Sp1cs]
+- o8: מִ/פַּחַד = Hm "from" + H6343 פַּחַד "a (sudden) alarm (properly, the object feared…" [HR/Ncmsc]
+- o9: אוֹיֵב = H341 אֹיֵב "hating; an adversary" [HVqrmsa]
+- o10: תִּצֹּר = H5341 נָצַר "to guard, in a good sense (to protect, maintain…" [HVqi2ms]
+- o11: חַיָּ/י = H2416 חַי "alive; hence, raw (flesh)…" [HNcmpc/Sp1cs]

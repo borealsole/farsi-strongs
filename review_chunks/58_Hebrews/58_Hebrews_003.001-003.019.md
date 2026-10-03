@@ -902,3 +902,38 @@ Persian entries and current tags:
 - p8: نتوانستند  → G3756 G1410
 - p9: راه بیابند  → G1525
 - p10: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Hebrews 2:18 (context)
+
+- o1: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o2: ᾧ = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-DSN]
+- o3: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o4: πέπονθεν = G3958 πάσχω "feel, passion, suffer, vex" [V-2RAI-3S]
+- o5: αὐτὸς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-NSM]
+- o6: πειρασθείς, = G3985 πειράζω "assay, examine, go about, prove, tempt(-er), try" [V-APP-NSM]
+- o7: δύναται = G1410 δύναμαι "be able, can (do, + -not), could, may, might…" [V-PNI-3S]
+- o8: τοῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPM]
+- o9: πειραζομένοις = G3985 πειράζω "assay, examine, go about, prove, tempt(-er), try" [V-PPP-DPM]
+- o10: βοηθῆσαι. = G997 βοηθέω "help, succor" [V-AAN]
+
+### Hebrews 4:1 (context)
+
+- o1: Φοβηθῶμεν = G5399 φοβέω "be (+ sore) afraid, fear (exceedingly), reverence" [V-AOS-1P]
+- o2: οὖν = G3767 οὖν "and (so, truly), but, now (then)…" [CONJ]
+- o3: μήποτε = G3379 μήποτε "if peradventure, lest (at any time, haply)…" [ADV-N]
+- o4: καταλειπομένης = G2641 καταλείπω "forsake, leave, reserve" [V-PPP-GSF]
+- o5: ἐπαγγελίας = G1860 ἐπαγγελία "message, promise" [N-GSF]
+- o6: εἰσελθεῖν = G1525 εἰσέρχομαι "arise, come (in, into), enter in(-to)…" [V-2AAN]
+- o7: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o8: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o9: κατάπαυσιν = G2663 κατάπαυσις "rest" [N-ASF]
+- o10: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o11: δοκῇ = G1380 δοκέω "be accounted, (of own) please(-ure)…" [V-PAS-3S]
+- o12: τις = G5100 τὶς "a (kind of), any (man, thing, thing at all)…" [X-NSM]
+- o13: ἐξ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o14: ὑμῶν = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
+- o15: ὑστερηκέναι· = G5302 ὑστερέω "come behind (short), be destitute, fail, lack…" [V-RAN]

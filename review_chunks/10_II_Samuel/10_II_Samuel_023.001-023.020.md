@@ -1152,3 +1152,43 @@ Persian entries and current tags:
 - p33: را  → H853
 - p34: کشت  → H5221
 - p35: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 22:51 (context)
+
+- o1: מגדיל = H1431 גָּדַל "to be (causatively make) large (in various senses…" [HVhrmsc]
+- o2: יְשׁוּעוֹת = H3444 יְשׁוּעָה "something saved, i.e. (abstractly) deliverance…" [HNcfpc]
+- o3: מַלְכּ/וֹ = H4428 מֶלֶךְ "a king" [HNcmsc/Sp3ms]
+- o4: וְ/עֹשֶׂה = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqrmsa]
+- o5: חֶסֶד = H2617 חֵסֵד "kindness; by implication (towards God) piety…" [HNcmsa]
+- o6: לִ/מְשִׁיח/וֹ = Hl "to" + H4899 מָשִׁיחַ "anointed…" [HR/Ncmsc/Sp3ms]
+- o7: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o8: וּ/לְ/זַרְע/וֹ = Hc "and" + Hl "to" + H2233 זֶרַע "seed…" [HC/R/Ncmsc/Sp3ms]
+- o9: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o10: עוֹלָם = H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HNcmsa]
+
+### II Samuel 23:21 (context)
+
+- o1: וְ/הוּא = Hc "and" + H1931 הוּא "he (she or it)…" [HC/Pp3ms]
+- o2: הִכָּה = H5221 נָכָה "to strike (lightly or severely…" [HVhp3ms]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o5: מִצְרִי = H4713 מִצְרִי "a Mitsrite, or inhabitant of Mitsrajim" [HNgmsa]
+- o6: אשר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: מַרְאֶה = H4758 מַרְאֶה "a view (the act of seeing)…" [HNcmsa]
+- o8: וּ/בְ/יַד = Hc "and" + Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HC/R/Ncbsc]
+- o9: הַ/מִּצְרִי = Hd "the" + H4713 מִצְרִי "a Mitsrite, or inhabitant of Mitsrajim" [HTd/Ngmsa]
+- o10: חֲנִית = H2595 חֲנִית "a lance (for thrusting, like pitching a tent)" [HNcfsa]
+- o11: וַ/יֵּרֶד = Hc "and" + H3381 יָרַד "to descend (literally, to go downwards…" [HC/Vqw3ms]
+- o12: אֵלָי/ו = H413 אֵל "near, with or among; often in general, to" [HR/Sp3ms]
+- o13: בַּ/שָּׁבֶט = Hb "in" + H7626 שֵׁבֶט "a scion, i.e. (literally) a stick (for punishing…" [HRd/Ncmsa]
+- o14: וַ/יִּגְזֹל = Hc "and" + H1497 גָּזַל "to pluck off; specifically to flay, strip or rob" [HC/Vqw3ms]
+- o15: אֶת = H853 אֵת "properly…" [HTo]
+- o16: הַ/חֲנִית = Hd "the" + H2595 חֲנִית "a lance (for thrusting, like pitching a tent)" [HTd/Ncfsa]
+- o17: מִ/יַּד = Hm "from" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o18: הַ/מִּצְרִי = Hd "the" + H4713 מִצְרִי "a Mitsrite, or inhabitant of Mitsrajim" [HTd/Ngmsa]
+- o19: וַ/יַּהַרְגֵ/הוּ = Hc "and" + H2026 הָרַג "to smite with deadly intent" [HC/Vqw3ms/Sp3ms]
+- o20: בַּ/חֲנִית/וֹ = Hb "in" + H2595 חֲנִית "a lance (for thrusting, like pitching a tent)" [HR/Ncfsc/Sp3ms]

@@ -1216,3 +1216,56 @@ Persian entries and current tags:
 - p54: شهر  → H5892
 - p55: بازگشت  → H935
 - p56: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 20:21 (context)
+
+- o1: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o2: אֶשְׁלַח = H7971 שָׁלַח "to send away, for…" [HVqi1cs]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: הַ/נַּעַר = Hd "the" + H5288 נַעַר "concretely) a boy (as active)…" [HTd/Ncmsa]
+- o5: לֵךְ = H3212 יָלַךְ "to walk (literally or figuratively)…" [HVqv2ms]
+- o6: מְצָא = H4672 מָצָא "properly, to come forth to, i.e. appear or exist…" [HVqv2ms]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: הַ/חִצִּים = Hd "the" + H2678 חִצִּי "an arrow" [HTd/Ncmpa]
+- o9: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o10: אָמֹר = H559 אָמַר "to say (used with great latitude)" [HVqa]
+- o11: אֹמַר = H559 אָמַר "to say (used with great latitude)" [HVqi1cs]
+- o12: לַ/נַּעַר = Hl "to" + H5288 נַעַר "concretely) a boy (as active)…" [HRd/Ncmsa]
+- o13: הִנֵּה = H2009 הִנֵּה "lo!" [HTm]
+- o14: הַ/חִצִּים = Hd "the" + H2678 חִצִּי "an arrow" [HTd/Ncmpa]
+- o15: מִמְּ/ךָ = H4480 מִן "properly, a part of…" [HR/Sp2ms]
+- o16: וָ/הֵנָּה = Hc "and" + H2008 הֵנָּה "hither or thither (but used both of place and…" [HC/D]
+- o17: קָחֶ/נּוּ = H3947 לָקַח "to take (in the widest variety of applications)" [HVqv2ms/Sp3ms]
+- o18: וָ/בֹאָ/ה = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqv2ms/Sh]
+- o19: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o20: שָׁלוֹם = H7965 שָׁלוֹם "safe, i.e. (figuratively) well, happy, friendly…" [HNcmsa]
+- o21: לְ/ךָ = Hl "to" [HR/Sp2ms]
+- o22: וְ/אֵין = Hc "and" + H369 אַיִן "a non-entity…" [HC/Tn]
+- o23: דָּבָר = H1697 דָּבָר "a word…" [HNcmsa]
+- o24: חַי = H2416 חַי "alive; hence, raw (flesh)…" [HAamsa]
+- o25: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### I Samuel 21:1 (context)
+
+- o1: וַ/יָּבֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3ms]
+- o2: דָוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o3: נֹבֶ/ה = H5011 נֹב "Nob, a place in Palestine" [HNp/Sd]
+- o4: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o5: אֲחִימֶלֶךְ = H288 אֲחִימֶלֶךְ "Achimelek…" [HNp]
+- o6: הַ/כֹּהֵן = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmsa]
+- o7: וַ/יֶּחֱרַד = Hc "and" + H2729 חָרַד "to shudder with terror; hence, to fear…" [HC/Vqw3ms]
+- o8: אֲחִימֶלֶךְ = H288 אֲחִימֶלֶךְ "Achimelek…" [HNp]
+- o9: לִ/קְרַאת = Hl "to" + H7122 קָרָא "to encounter…" [HR/Vqc]
+- o10: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o11: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o12: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o13: מַדּוּעַ = H4069 מַדּוּעַ "what (is) known?…" [HTi]
+- o14: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o15: לְ/בַדֶּ/ךָ = Hl "to" + H905 בַּד "properly, separation…" [HR/Ncmsc/Sp2ms]
+- o16: וְ/אִישׁ = Hc "and" + H376 אִישׁ "a man as an individual or a male person…" [HC/Ncmsa]
+- o17: אֵין = H369 אַיִן "a non-entity…" [HTn]
+- o18: אִתָּ/ךְ = H854 אֵת "properly…" [HR/Sp2fs]

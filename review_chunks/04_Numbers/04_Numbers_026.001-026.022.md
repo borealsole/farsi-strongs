@@ -898,3 +898,46 @@ Persian entries and current tags:
 - p9: ۷۶۵۰۰  → H8337 H7657 H2568
 - p10: تن  → H8337 H505 H3967
 - p11: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 25:18 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: צֹרְרִים = H6887 צָרַר "to cramp, literally or figuratively…" [HVqrmpa]
+- o3: הֵם = H1992 הֵם "they (only used when emphatic)" [HPp3mp]
+- o4: לָ/כֶם = Hl "to" [HR/Sp2mp]
+- o5: בְּ/נִכְלֵי/הֶם = Hb "in" + H5231 נֵכֶל "deceit" [HR/Ncmpc/Sp3mp]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: נִכְּלוּ = H5230 נָכַל "to defraud, i.e. act treacherously" [HVpp3cp]
+- o8: לָ/כֶם = Hl "to" [HR/Sp2mp]
+- o9: עַל = H5921 עַל "above, over, upon…" [HR]
+- o10: דְּבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o11: פְּעוֹר = H6465 פְּעוֹר "Peor, a mountain East of Jordan…" [HNp]
+- o12: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o13: דְּבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o14: כָּזְבִּי = H3579 כֹּזְבִי "Cozbi, a Midianitess" [HNp]
+- o15: בַת = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfsc]
+- o16: נְשִׂיא = H5387 נָשִׂיא "properly, an exalted one, i.e. a king or sheik…" [HNcmsc]
+- o17: מִדְיָן = H4080 מִדְיָן "Midjan, a son of Abraham…" [HNp]
+- o18: אֲחֹתָ/ם = H269 אָחוֹת "a sister (used very widely (like brother)…" [HNcfsc/Sp3mp]
+- o19: הַ/מֻּכָּה = Hd "the" + H5221 נָכָה "to strike (lightly or severely…" [HTd/VHsfsa]
+- o20: בְ/יוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmsc]
+- o21: הַ/מַּגֵּפָה = Hd "the" + H4046 מַגֵּפָה "a pestilence; by analogy, defeat" [HTd/Ncfsa]
+- o22: עַל = H5921 עַל "above, over, upon…" [HR]
+- o23: דְּבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o24: פְּעוֹר = H6465 פְּעוֹר "Peor, a mountain East of Jordan…" [HNp]
+
+### Numbers 26:23 (context)
+
+- o1: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o2: יִשָּׂשכָר = H3485 יִשָּׂשכָר "Jissaskar, a son of Jacob" [HNp]
+- o3: לְ/מִשְׁפְּחֹתָ/ם = Hl "to" + H4940 מִשְׁפָּחָה "a family, i.e. circle of relatives…" [HR/Ncfpc/Sp3mp]
+- o4: תּוֹלָע = H8439 תּוֹלָע "Tola, the name of two Israelites" [HNp]
+- o5: מִשְׁפַּחַת = H4940 מִשְׁפָּחָה "a family, i.e. circle of relatives…" [HNcfsc]
+- o6: הַ/תּוֹלָעִי = Hd "the" + H8440 תּוֹלָעִי "a Tolaite (collectively) or descendants of Tola" [HTd/Ngmsa]
+- o7: לְ/פֻוָה = Hl "to" + H6312 פּוּאָה "Puah or Puvvah, the name of two Israelites" [HR/Np]
+- o8: מִשְׁפַּחַת = H4940 מִשְׁפָּחָה "a family, i.e. circle of relatives…" [HNcfsc]
+- o9: הַ/פּוּנִי = Hd "the" + H6324 פּוּנִי "a Punite (collectively) or descendants of an…" [HTd/Ngmsa]

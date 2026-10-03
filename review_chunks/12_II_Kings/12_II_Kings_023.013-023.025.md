@@ -908,3 +908,60 @@ Persian entries and current tags:
 - p29: خداوند  → H3068
 - p30: بازگشته باشد  → H7725 H6965
 - p31: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 23:12 (context)
+
+- o1: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o2: הַ/מִּזְבְּחוֹת = Hd "the" + H4196 מִזְבֵּחַ "an altar" [HTd/Ncmpa]
+- o3: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o4: עַל = H5921 עַל "above, over, upon…" [HR]
+- o5: הַ/גָּג = Hd "the" + H1406 גָּג "a roof; by analogy, the top of an altar" [HTd/Ncmsa]
+- o6: עֲלִיַּת = H5944 עֲלִיָּה "something lofty, i.e. a stair-way…" [HNcfsc]
+- o7: אָחָז = H271 אָחָז "Achaz…" [HNp]
+- o8: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o9: עָשׂוּ = H6213 עָשָׂה "to do or make…" [HVqp3cp]
+- o10: מַלְכֵי = H4428 מֶלֶךְ "a king" [HNcmpc]
+- o11: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o12: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o13: הַ/מִּזְבְּחוֹת = Hd "the" + H4196 מִזְבֵּחַ "an altar" [HTd/Ncmpa]
+- o14: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o15: עָשָׂה = H6213 עָשָׂה "to do or make…" [HVqp3ms]
+- o16: מְנַשֶּׁה = H4519 מְנַשֶּׁה "Menashsheh, a grandson of Jacob…" [HNp]
+- o17: בִּ/שְׁתֵּי = Hb "in" + H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HR/Acfdc]
+- o18: חַצְרוֹת = H2691 חָצֵר "a yard (as inclosed by a fence)…" [HNcbpc]
+- o19: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o20: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o21: נָתַץ = H5422 נָתַץ "to tear down" [HVqp3ms]
+- o22: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o23: וַ/יָּרָץ = Hc "and" + H7323 רוּץ "to run (for whatever reason, especially to rush)" [HC/Vqw3ms]
+- o24: מִ/שָּׁם = Hm "from" + H8033 שָׁם "there (transferring to time) then…" [HR/D]
+- o25: וְ/הִשְׁלִיךְ = Hc "and" + H7993 שָׁלַךְ "to throw out…" [HC/Vhp3ms]
+- o26: אֶת = H853 אֵת "properly…" [HTo]
+- o27: עֲפָרָ/ם = H6083 עָפָר "dust (as powdered or gray)…" [HNcmsc/Sp3mp]
+- o28: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o29: נַחַל = H5158 נַחַל "a stream, especially a winter torrent…" [HNcmsc]
+- o30: קִדְרוֹן = H6939 קִדְרוֹן "Kidron, a brook near Jerusalem" [HNp]
+
+### II Kings 23:26 (context)
+
+- o1: אַךְ = H389 אַךְ "a particle of affirmation, surely…" [HTa]
+- o2: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o3: שָׁב = H7725 שׁוּב "to turn back (hence…" [HVqp3ms]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: מֵ/חֲרוֹן = Hm "from" + H2740 חָרוֹן "a burning of anger" [HR/Ncmsc]
+- o6: אַפּ/וֹ = H639 אַף "properly, the nose or nostril…" [HNcmsc/Sp3ms]
+- o7: הַ/גָּדוֹל = Hd "the" + H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HTd/Aamsa]
+- o8: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o9: חָרָה = H2734 חָרָה "to glow or grow warm…" [HVqp3ms]
+- o10: אַפּ/וֹ = H639 אַף "properly, the nose or nostril…" [HNcmsc/Sp3ms]
+- o11: בִּ/יהוּדָה = Hb "in" + H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HR/Np]
+- o12: עַל = H5921 עַל "above, over, upon…" [HR]
+- o13: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o14: הַ/כְּעָסִים = Hd "the" + H3708 כַּעַס "vexation" [HTd/Ncmpa]
+- o15: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o16: הִכְעִיס/וֹ = H3707 כַּעַס "to trouble…" [HVhp3ms/Sp3ms]
+- o17: מְנַשֶּׁה = H4519 מְנַשֶּׁה "Menashsheh, a grandson of Jacob…" [HNp]

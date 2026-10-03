@@ -802,3 +802,36 @@ Persian entries and current tags:
 - p12: کفایت  → H1767
 - p13: نمی‌کنند
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 39:8 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: חִזְקִיָּהוּ = H2396 חִזְקִיָּה "Chizkijah, a king of Judah…" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: יְשַׁעְיָהוּ = H3470 יְשַׁעְיָה "Jeshajah, the name of seven Israelites" [HNp]
+- o5: טוֹב = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAamsa]
+- o6: דְּבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o9: דִּבַּרְתָּ = H1696 דָבַר "perhaps properly, to arrange…" [HVpp2ms]
+- o10: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o11: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o12: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o13: שָׁלוֹם = H7965 שָׁלוֹם "safe, i.e. (figuratively) well, happy, friendly…" [HNcmsa]
+- o14: וֶ/אֱמֶת = Hc "and" + H571 אֶמֶת "stability…" [HC/Ncfsa]
+- o15: בְּ/יָמָ/י = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmpc/Sp1cs]
+
+### Isaiah 40:17 (context)
+
+- o1: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o2: הַ/גּוֹיִם = Hd "the" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HTd/Ncmpa]
+- o3: כְּ/אַיִן = Hk "like" + H369 אַיִן "a non-entity…" [HR/Tn]
+- o4: נֶגְדּ/וֹ = H5048 נֶגֶד "a front, i.e. part opposite…" [HR/Sp3ms]
+- o5: מֵ/אֶפֶס = Hm "from" + H657 אֶפֶס "cessation, i.e. an end (especially of the earth)…" [HR/Ncmsa]
+- o6: וָ/תֹהוּ = Hc "and" + H8414 תֹּהוּ "a desolation (of surface), i.e. desert…" [HC/Ncmsa]
+- o7: נֶחְשְׁבוּ = H2803 חָשַׁב "properly, to plait or interpenetrate…" [HVNp3cp]
+- o8: ל/וֹ = Hl "to" [HR/Sp3ms]

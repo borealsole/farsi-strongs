@@ -946,3 +946,46 @@ Persian entries and current tags:
 - p29: جای
 - p30: آوریم  → H6213
 - p31: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 29:14 (context)
+
+- o1: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o2: אִתְּ/כֶם = H854 אֵת "properly…" [HR/Sp2mp]
+- o3: לְ/בַדְּ/כֶם = Hl "to" + H905 בַּד "properly, separation…" [HR/Ncmsc/Sp2mp]
+- o4: אָנֹכִי = H595 אָנֹכִי "I" [HPp1cs]
+- o5: כֹּרֵת = H3772 כָּרַת "to cut (off, down or asunder)…" [HVqrmsa]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: הַ/בְּרִית = Hd "the" + H1285 בְּרִית "a compact (because made by passing between pieces…" [HTd/Ncfsa]
+- o8: הַ/זֹּאת = Hd "the" + H2063 זֹאת "this (often used adverb)" [HTd/Pdxfs]
+- o9: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o10: הָ/אָלָה = Hd "the" + H423 אָלָה "an imprecation" [HTd/Ncfsa]
+- o11: הַ/זֹּאת = Hd "the" + H2063 זֹאת "this (often used adverb)" [HTd/Pdxfs]
+
+### Deuteronomy 30:1 (context)
+
+- o1: וְ/הָיָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3ms]
+- o2: כִי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o3: יָבֹאוּ = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqi3mp]
+- o4: עָלֶי/ךָ = H5921 עַל "above, over, upon…" [HR/Sp2ms]
+- o5: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o6: הַ/דְּבָרִים = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmpa]
+- o7: הָ/אֵלֶּה = Hd "the" + H428 אֵלֶּה "these or those" [HTd/Pdxcp]
+- o8: הַ/בְּרָכָה = Hd "the" + H1293 בְּרָכָה "benediction; by implication prosperity" [HTd/Ncfsa]
+- o9: וְ/הַ/קְּלָלָה = Hc "and" + Hd "the" + H7045 קְלָלָה "vilification" [HC/Td/Ncfsa]
+- o10: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o11: נָתַתִּי = H5414 נָתַן "to give…" [HVqp1cs]
+- o12: לְ/פָנֶי/ךָ = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp2ms]
+- o13: וַ/הֲשֵׁבֹתָ = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vhq2ms]
+- o14: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o15: לְבָבֶ/ךָ = H3824 לֵבָב "the heart (as the most interior organ)" [HNcmsc/Sp2ms]
+- o16: בְּ/כָל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o17: הַ/גּוֹיִם = Hd "the" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HTd/Ncmpa]
+- o18: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o19: הִדִּיחֲ/ךָ = H5080 נָדַח "to push off…" [HVhp3ms/Sp2ms]
+- o20: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o21: אֱלֹהֶי/ךָ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2ms]
+- o22: שָׁמָּ/ה = H8033 שָׁם "there (transferring to time) then…" [HD/Sd]

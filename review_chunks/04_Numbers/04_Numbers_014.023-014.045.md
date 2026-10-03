@@ -1139,3 +1139,38 @@ Persian entries and current tags:
 - p22: شکست  → H5221
 - p23: دادند  → H3807
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 14:22 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: כָל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: הָ/אֲנָשִׁים = Hd "the" + H376 אִישׁ "a man as an individual or a male person…" [HTd/Ncmpa]
+- o4: הָ/רֹאִים = Hd "the" + H7200 רָאָה "to see…" [HTd/Vqrmpa]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: כְּבֹדִ/י = H3519 כָּבוֹד "properly, weight…" [HNcbsc/Sp1cs]
+- o7: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o8: אֹתֹתַ/י = H226 אוֹת "a signal (literally or figuratively), as aflag…" [HNcbpc/Sp1cs]
+- o9: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o10: עָשִׂיתִי = H6213 עָשָׂה "to do or make…" [HVqp1cs]
+- o11: בְ/מִצְרַיִם = Hb "in" + H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HR/Np]
+- o12: וּ/בַ/מִּדְבָּר = Hc "and" + Hb "in" + H4057 מִדְבָּר "a pasture (i.e. open field…" [HC/Rd/Ncmsa]
+- o13: וַ/יְנַסּוּ = Hc "and" + H5254 נָסָה "to test; by implication, to attempt" [HC/Vpw3mp]
+- o14: אֹתִ/י = H853 אֵת "properly…" [HTo/Sp1cs]
+- o15: זֶה = H2088 זֶה "the masculine demonstrative pronoun, this or that" [HPdxms]
+- o16: עֶשֶׂר = H6235 עֶשֶׂר "ten (as an accumulation to the extent of the…" [HAcfsa]
+- o17: פְּעָמִים = H6471 פַּעַם "a stroke…" [HNcfpa]
+- o18: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o19: שָׁמְעוּ = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqp3cp]
+- o20: בְּ/קוֹלִ/י = Hb "in" + H6963 קוֹל "a voice or sound" [HR/Ncmsc/Sp1cs]
+
+### Numbers 15:1 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: לֵּ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

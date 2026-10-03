@@ -781,3 +781,32 @@ Persian entries and current tags:
 - p6: با
 - p7: چراگاههایش  → H4054
 - p8: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 6:61 (context)
+
+- o1: וְ/לִ/בְנֵי = Hc "and" + Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/R/Ncmpc]
+- o2: קְהָת = H6955 קְהָת "Kehath, an Israelite" [HNp]
+- o3: הַ/נּוֹתָרִים = Hd "the" + H3498 יָתַר "to jut over or exceed; by implication, to excel…" [HTd/VNrmpa]
+- o4: מִ/מִּשְׁפַּחַת = Hm "from" + H4940 מִשְׁפָּחָה "a family, i.e. circle of relatives…" [HR/Ncfsc]
+- o5: הַ/מַּטֶּה = Hd "the" + H4294 מַטֶּה "a branch (as extending); figuratively, a tribe…" [HTd/Ncmsa]
+- o6: מִ/מַּחֲצִית = Hm "from" + H4276 מַחֲצִית "a halving or the middle" [HR/Ncfsc]
+- o7: מַטֵּה = H4294 מַטֶּה "a branch (as extending); figuratively, a tribe…" [HNcmsc]
+- o8: חֲצִי = H2677 חֵצִי "the half or middle" [HNcmsc]
+- o9: מְנַשֶּׁה = H4519 מְנַשֶּׁה "Menashsheh, a grandson of Jacob…" [HNp]
+- o10: בַּ/גּוֹרָל = Hb "in" + H1486 גּוֹרָל "properly, a pebble…" [HRd/Ncmsa]
+- o11: עָרִים = H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HNcfpa]
+- o12: עָשֶׂר = H6235 עֶשֶׂר "ten (as an accumulation to the extent of the…" [HAcfsa]
+
+### I Chronicles 7:1 (context)
+
+- o1: וְ/לִ/בְנֵי = Hc "and" + Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/R/Ncmpc]
+- o2: יִשָׂשכָר = H3485 יִשָּׂשכָר "Jissaskar, a son of Jacob" [HNp]
+- o3: תּוֹלָע = H8439 תּוֹלָע "Tola, the name of two Israelites" [HNp]
+- o4: וּ/פוּאָה = Hc "and" + H6312 פּוּאָה "Puah or Puvvah, the name of two Israelites" [HC/Np]
+- o5: ישיב = H3437 יָשׁוּב "Jashub, the name of two Israelites" [HNp]
+- o6: וְ/שִׁמְרוֹן = Hc "and" + H8110 שִׁמְרוֹן "Shimron…" [HC/Np]
+- o7: אַרְבָּעָה = H702 אַרְבַּע "four" [HAcmsa]

@@ -1124,3 +1124,40 @@ Persian entries and current tags:
 - p40: را
 - p41: بوسید  → H5401
 - p42: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 14:16 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: יִשְׁמַע = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqi3ms]
+- o3: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o4: לְ/הַצִּיל = Hl "to" + H5337 נָצַל "to snatch away, whether in a good or a bad sense" [HR/Vhc]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: אֲמָת/וֹ = H519 אָמָה "a maidservant or female slave" [HNcfsc/Sp3ms]
+- o7: מִ/כַּף = Hm "from" + H3709 כַּף "the hollow hand or palm (so of the paw of an…" [HR/Ncfsc]
+- o8: הָ/אִישׁ = Hd "the" + H376 אִישׁ "a man as an individual or a male person…" [HTd/Ncmsa]
+- o9: לְ/הַשְׁמִיד = Hl "to" + H8045 שָׁמַד "to desolate" [HR/Vhc]
+- o10: אֹתִ/י = H853 אֵת "properly…" [HTo/Sp1cs]
+- o11: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o12: בְּנִ/י = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp1cs]
+- o13: יַחַד = H3162 יַחַד "properly, a unit, i.e. (adverb) unitedly" [HD]
+- o14: מִ/נַּחֲלַת = Hm "from" + H5159 נַחֲלָה "properly, something inherited…" [HR/Ncfsc]
+- o15: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+
+### II Samuel 15:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: מֵ/אַחֲרֵי = Hm "from" + H310 אַחַר "properly, the hind part…" [HR/R]
+- o3: כֵן = H3651 כֵּן "properly, set upright…" [HD]
+- o4: וַ/יַּעַשׂ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3ms]
+- o5: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o6: אַבְשָׁלוֹם = H53 אֲבִישָׁלוֹם "Abshalom, a son of David…" [HNp]
+- o7: מֶרְכָּבָה = H4818 מֶרְכָּבָה "a chariot" [HNcfsa]
+- o8: וְ/סֻסִים = Hc "and" + H5483 סוּס "a horse (as leaping)…" [HC/Ncmpa]
+- o9: וַ/חֲמִשִּׁים = Hc "and" + H2572 חֲמִשִּׁים "fifty" [HC/Acbpa]
+- o10: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o11: רָצִים = H7323 רוּץ "to run (for whatever reason, especially to rush)" [HVqrmpa]
+- o12: לְ/פָנָי/ו = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp3ms]

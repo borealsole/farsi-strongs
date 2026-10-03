@@ -883,3 +883,47 @@ Persian entries and current tags:
 - p12: همان  → Hk
 - p13: خواهد_ماند  → H6965
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 26:46 (context)
+
+- o1: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o2: הַ/חֻקִּים = Hd "the" + H2706 חֹק "an enactment…" [HTd/Ncmpa]
+- o3: וְ/הַ/מִּשְׁפָּטִים = Hc "and" + Hd "the" + H4941 מִשְׁפָּט "properly…" [HC/Td/Ncmpa]
+- o4: וְ/הַ/תּוֹרֹת = Hc "and" + Hd "the" + H8451 תּוֹרָה "a precept or statute…" [HC/Td/Ncfpa]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: נָתַן = H5414 נָתַן "to give…" [HVqp3ms]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: בֵּינ/וֹ = H996 בֵּין "between (repeated before each noun…" [HR/Sp3ms]
+- o9: וּ/בֵין = Hc "and" + H996 בֵּין "between (repeated before each noun…" [HC/R]
+- o10: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o11: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o12: בְּ/הַר = Hb "in" + H2022 הַר "a mountain or range of hills (sometimes used…" [HR/Ncmsc]
+- o13: סִינַי = H5514 סִינַי "Sinai, mountain of Arabia" [HNp]
+- o14: בְּ/יַד = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o15: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+
+### Leviticus 27:18 (context)
+
+- o1: וְ/אִם = Hc "and" + H518 אִם "used very widely as demonstrative, lo!…" [HC/C]
+- o2: אַחַר = H310 אַחַר "properly, the hind part…" [HR]
+- o3: הַ/יֹּבֵל = Hd "the" + H3104 יוֹבֵל "the blast of a horn (from its continuous sound)…" [HTd/Ncmsa]
+- o4: יַקְדִּישׁ = H6942 קָדַשׁ "to be (causatively, make…" [HVhi3ms]
+- o5: שָׂדֵ/הוּ = H7704 שָׂדֶה "a field (as flat)" [HNcmsc/Sp3ms]
+- o6: וְ/חִשַּׁב = Hc "and" + H2803 חָשַׁב "properly, to plait or interpenetrate…" [HC/Vpq3ms]
+- o7: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o8: הַ/כֹּהֵן = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmsa]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: הַ/כֶּסֶף = Hd "the" + H3701 כֶּסֶף "silver (from its pale color)…" [HTd/Ncmsa]
+- o11: עַל = H5921 עַל "above, over, upon…" [HR]
+- o12: פִּי = H6310 פֶּה "the mouth (as the means of blowing)…" [HNcmsc]
+- o13: הַ/שָּׁנִים = Hd "the" + H8141 שָׁנֶה "a year (as a revolution of time)" [HTd/Ncfpa]
+- o14: הַ/נּוֹתָרֹת = Hd "the" + H3498 יָתַר "to jut over or exceed; by implication, to excel…" [HTd/VNrfpa]
+- o15: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o16: שְׁנַת = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsc]
+- o17: הַ/יֹּבֵל = Hd "the" + H3104 יוֹבֵל "the blast of a horn (from its continuous sound)…" [HTd/Ncmsa]
+- o18: וְ/נִגְרַע = Hc "and" + H1639 גָּרַע "to scrape off…" [HC/VNq3ms]
+- o19: מֵ/עֶרְכֶּ/ךָ = Hm "from" + H6187 עֵרֶךְ "a pile, equipment, estimate" [HR/Ncmsc/Sp2ms]

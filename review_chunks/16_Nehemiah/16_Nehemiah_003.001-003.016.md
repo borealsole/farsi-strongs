@@ -934,3 +934,48 @@ Persian entries and current tags:
 - p24: را
 - p25: مرمت کرد  → H2388
 - p26: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Nehemiah 2:20 (context)
+
+- o1: וָ/אָשִׁיב = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vhw1cs]
+- o2: אוֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o3: דָּבָר = H1697 דָּבָר "a word…" [HNcmsa]
+- o4: וָ/אוֹמַר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw1cs]
+- o5: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o6: אֱלֹהֵי = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc]
+- o7: הַ/שָּׁמַיִם = Hd "the" + H8064 שָׁמַיִם "the sky (as aloft…" [HTd/Ncmpa]
+- o8: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o9: יַצְלִיחַ = H6743 צָלַח "to push forward…" [HVhi3ms]
+- o10: לָ/נוּ = Hl "to" [HR/Sp1cp]
+- o11: וַ/אֲנַחְנוּ = Hc "and" + H587 אֲנַחְנוּ "we" [HC/Pp1cp]
+- o12: עֲבָדָי/ו = H5650 עֶבֶד "a servant" [HNcmpc/Sp3ms]
+- o13: נָקוּם = H6965 קוּם "to rise (in various applications, literal…" [HVqi1cp]
+- o14: וּ/בָנִינוּ = Hc "and" + H1129 בָּנָה "to build (literally and figuratively)" [HC/Vqq1cp]
+- o15: וְ/לָ/כֶם = Hc "and" + Hl "to" [HC/R/Sp2mp]
+- o16: אֵין = H369 אַיִן "a non-entity…" [HTn]
+- o17: חֵלֶק = H2506 חֵלֶק "properly, smoothness (of the tongue)…" [HNcmsa]
+- o18: וּ/צְדָקָה = Hc "and" + H6666 צְדָקָה "rightness (abstractly), subjectively (rectitude)…" [HC/Ncfsa]
+- o19: וְ/זִכָּרוֹן = Hc "and" + H2146 זִכְרוֹן "a memento (or memorable thing, day or writing)" [HC/Ncmsa]
+- o20: בִּ/ירוּשָׁלִָם = Hb "in" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HR/Np]
+
+### Nehemiah 3:17 (context)
+
+- o1: אַחֲרָי/ו = H310 אַחַר "properly, the hind part…" [HR/Sp3ms]
+- o2: הֶחֱזִיקוּ = H2388 חָזַק "to fasten upon…" [HVhp3cp]
+- o3: הַ/לְוִיִּם = Hd "the" + H3881 לֵוִיִּי "a Levite or descendant of Levi" [HTd/Ngmpa]
+- o4: רְחוּם = H7348 רְחוּם "Rechum…" [HNp]
+- o5: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o6: בָּנִי = H1137 בָּנִי "Bani, the name of five Israelites" [HNp]
+- o7: עַל = H5921 עַל "above, over, upon…" [HR]
+- o8: יָד/וֹ = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsc/Sp3ms]
+- o9: הֶחֱזִיק = H2388 חָזַק "to fasten upon…" [HVhp3ms]
+- o10: חֲשַׁבְיָה = H2811 חֲשַׁבְיָה "Chashabjah, the name of nine Israelites" [HNp]
+- o11: שַׂר = H8269 שַׂר "a head person (of any rank or class)" [HNcmsc]
+- o12: חֲצִי = H2677 חֵצִי "the half or middle" [HNcmsc]
+- o13: פֶלֶךְ = H6418 פֶּלֶךְ "a circuit (i.e. district)…" [HNcmsc]
+- o14: קְעִילָה = H7084 קְעִילָה "Keilah, a place in Palestine" [HNp]
+- o15: לְ/פִלְכּ/וֹ = Hl "to" + H6418 פֶּלֶךְ "a circuit (i.e. district)…" [HR/Ncmsc/Sp3ms]

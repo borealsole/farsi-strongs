@@ -792,3 +792,29 @@ Persian entries and current tags:
 - p40: خواهد_شد
 - p41: .
 - p42: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 23:49 (context)
+
+- o1: וְ/נָתְנוּ = Hc "and" + H5414 נָתַן "to give…" [HC/Vqq3cp]
+- o2: זִמַּתְ/כֶנָה = H2154 זִמָּה "a plan, especially a bad one" [HNcfsc/Sp2fp]
+- o3: עֲלֵי/כֶן = H5921 עַל "above, over, upon…" [HR/Sp2fp]
+- o4: וַ/חֲטָאֵי = Hc "and" + H2399 חֵטְא "a crime or its penalty" [HC/Ncmpc]
+- o5: גִלּוּלֵי/כֶן = H1544 גִּלּוּל "properly, a log (as round)…" [HNcmpc/Sp2fp]
+- o6: תִּשֶּׂאינָה = H5375 נָשָׂא "to lift, in a great variety of applications…" [HVqi2fp]
+- o7: וִ/ידַעְתֶּם = Hc "and" + H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HC/Vqq2mp]
+- o8: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o9: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o10: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o11: יְהוִה = H3069 יְהֹוִה "YHWH" [HNp]
+
+### Ezekiel 24:15 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o5: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

@@ -848,3 +848,41 @@ Persian entries and current tags:
 - p10: ،
 - p11: به ناگاه خجل خواهند_گشت  → H954
 - p12: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 4:8 (context)
+
+- o1: בְּ/שָׁלוֹם = Hb "in" + H7965 שָׁלוֹם "safe, i.e. (figuratively) well, happy, friendly…" [HR/Ncmsa]
+- o2: יַחְדָּו = H3162 יַחַד "properly, a unit, i.e. (adverb) unitedly" [HD]
+- o3: אֶשְׁכְּבָה = H7901 שָׁכַב "to lie down (for rest, sexual connection…" [HVqh1cs]
+- o4: וְ/אִישָׁן = Hc "and" + H3462 יָשֵׁן "properly, to be slack or languid…" [HC/Vqi1cs]
+- o5: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o6: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: לְ/בָדָד = Hl "to" + H910 בָּדָד "separate; adverb, separately" [HR/Ncmsa]
+- o9: לָ/בֶטַח = Hl "to" + H983 בֶּטַח "properly, a place of refuge…" [HR/Ncmsa]
+- o10: תּוֹשִׁיבֵ/נִי = H3427 יָשַׁב "properly…" [HVhi2ms/Sp1cs]
+
+### Psalms 7:1 (context)
+
+- o1: שִׁגָּיוֹן = H7692 שִׁגָּיוֹן "properly, aberration…" [HNp]
+- o2: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o3: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o4: שָׁר = H7891 שִׁיר "to sing" [HVqp3ms]
+- o5: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o6: עַל = H5921 עַל "above, over, upon…" [HR]
+- o7: דִּבְרֵי = H1697 דָּבָר "a word…" [HNcmpc]
+- o8: כוּשׁ = H3568 כּוּשׁ "Cush (or Ethiopia), the name of a son of Ham…" [HNp]
+- o9: בֶּן = H1145 בֶּן־יְמִינִי "a Benjaminite, or descendent of Benjamin" [HNgmsc]
+- o10: יְמִינִי = H1145 בֶּן־יְמִינִי "a Benjaminite, or descendent of Benjamin" [HNgmsa]
+- o11: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o12: אֱלֹהַ/י = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp1cs]
+- o13: בְּ/ךָ = Hb "in" [HR/Sp2ms]
+- o14: חָסִיתִי = H2620 חָסָה "to flee for protection…" [HVqp1cs]
+- o15: הוֹשִׁיעֵ/נִי = H3467 יָשַׁע "properly, to be open, wide or free…" [HVhv2ms/Sp1cs]
+- o16: מִ/כָּל = Hm "from" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o17: רֹדְפַ/י = H7291 רָדַף "to run after (usually with hostile intent…" [HVqrmpc/Sp1cs]
+- o18: וְ/הַצִּילֵ/נִי = Hc "and" + H5337 נָצַל "to snatch away, whether in a good or a bad sense" [HC/Vhv2ms/Sp1cs]

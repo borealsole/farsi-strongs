@@ -689,3 +689,29 @@ Persian entries and current tags:
 - p24: بِنیامین  → H198 H1121 H1144
 - p25: بودند
 - p26: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 8:20 (context)
+
+- o1: וֶ/אֱלִיעֵנַי = Hc "and" + H462 אֱלִיעֵינַי "Elienai, an Israelite" [HC/Np]
+- o2: וְ/צִלְּתַי = Hc "and" + H6769 צִלְּתַי "Tsillethai, the name of two Israelites" [HC/Np]
+- o3: וֶ/אֱלִיאֵל = Hc "and" + H447 אֱלִיאֵל "Eliel, the name of nine Israelites" [HC/Np]
+
+### I Chronicles 9:1 (context)
+
+- o1: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o2: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o3: הִתְיַחְשׂוּ = H3187 יָחַשׂ "to enroll by pedigree" [HVtp3cp]
+- o4: וְ/הִנָּ/ם = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm/Sp3mp]
+- o5: כְּתוּבִים = H3789 כָּתַב "to grave, by implication, to write (describe…" [HVqsmpa]
+- o6: עַל = H5921 עַל "above, over, upon…" [HR]
+- o7: סֵפֶר = H5612 סֵפֶר "properly, writing (the art or a document)…" [HNcmsc]
+- o8: מַלְכֵי = H4428 מֶלֶךְ "a king" [HNcmpc]
+- o9: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o10: וִ/יהוּדָה = Hc "and" + H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HC/Np]
+- o11: הָגְלוּ = H1540 גָּלָה "to denude (especially in a disgraceful sense)…" [HVHp3cp]
+- o12: לְ/בָבֶל = Hl "to" + H894 בָּבֶל "Babel (i.e. Babylon)…" [HR/Np]
+- o13: בְּ/מַעֲלָ/ם = Hb "in" + H4604 מַעַל "treachery, i.e. sin" [HR/Ncmsc/Sp3mp]

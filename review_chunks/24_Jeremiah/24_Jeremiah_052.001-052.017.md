@@ -945,3 +945,48 @@ Persian entries and current tags:
 - p23: بابِل  → H894
 - p24: بردند  → H5375
 - p25: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 51:64 (context)
+
+- o1: וְ/אָמַרְתָּ = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqq2ms]
+- o2: כָּכָה = H3602 כָּכָה "just so…" [HD]
+- o3: תִּשְׁקַע = H8257 שָׁקַע "to subside…" [HVqi3fs]
+- o4: בָּבֶל = H894 בָּבֶל "Babel (i.e. Babylon)…" [HNp]
+- o5: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o6: תָקוּם = H6965 קוּם "to rise (in various applications, literal…" [HVqi3fs]
+- o7: מִ/פְּנֵי = Hm "from" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o8: הָ/רָעָה = Hd "the" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HTd/Ncfsa]
+- o9: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o10: אָנֹכִי = H595 אָנֹכִי "I" [HPp1cs]
+- o11: מֵבִיא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVhrmsa]
+- o12: עָלֶי/הָ = H5921 עַל "above, over, upon…" [HR/Sp3fs]
+- o13: וְ/יָעֵפוּ = Hc "and" + H3286 יָעַף "to tire (as if from wearisome flight)" [HC/Vqq3cp]
+- o14: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o15: הֵנָּה = H2008 הֵנָּה "hither or thither (but used both of place and…" [HD]
+- o16: דִּבְרֵי = H1697 דָּבָר "a word…" [HNcmpc]
+- o17: יִרְמְיָהוּ = H3414 יִרְמְיָה "Jirmejah, the name of eight or nine Israelites" [HNp]
+
+### Jeremiah 52:18 (context)
+
+- o1: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o2: הַ/סִּרוֹת = Hd "the" + H5518 סִיר "a pot; also a thorn (as springing up rapidly)…" [HTd/Ncbpa]
+- o3: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o4: הַ/יָּעִים = Hd "the" + H3257 יָע "a shovel" [HTd/Ncmpa]
+- o5: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o6: הַ/מְזַמְּרוֹת = Hd "the" + H4212 מְזַמְּרָה "a tweezer (only in the plural)" [HTd/Ncfpa]
+- o7: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o8: הַ/מִּזְרָקֹת = Hd "the" + H4219 מִזְרָק "a bowl (as if for sprinkling)" [HTd/Ncmpa]
+- o9: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o10: הַ/כַּפּוֹת = Hd "the" + H3709 כַּף "the hollow hand or palm (so of the paw of an…" [HTd/Ncfpa]
+- o11: וְ/אֵת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o12: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o13: כְּלֵי = H3627 כְּלִי "something prepared…" [HNcmpc]
+- o14: הַ/נְּחֹשֶׁת = Hd "the" + H5178 נְחֹשֶׁת "copper, hence, something made of that metal…" [HTd/Ncfsa]
+- o15: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o16: יְשָׁרְתוּ = H8334 שָׁרַת "to attend as a menial or worshipper…" [HVpi3mp]
+- o17: בָ/הֶם = Hb "in" [HR/Sp3mp]
+- o18: לָקָחוּ = H3947 לָקַח "to take (in the widest variety of applications)" [HVqp3cp]

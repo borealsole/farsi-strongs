@@ -1199,3 +1199,63 @@ Persian entries and current tags:
 - p15: می‌کند
 - p16: .
 - p17: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Revelation of John 16:21 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: χάλαζα = G5464 χάλαζα "hail" [N-NSF]
+- o3: μεγάλη = G3173 μέγας "+ fear) exceedingly, great(-est), high, large…" [A-NSF]
+- o4: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
+- o5: ταλαντιαία = G5006 ταλαντιαῖος "weight of a talent" [A-NSF]
+- o6: καταβαίνει = G2597 καταβαίνω "come (get, go, step) down, fall (down)" [V-PAI-3S]
+- o7: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o8: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o9: οὐρανοῦ = G3772 οὐρανός "air, heaven(-ly), sky" [N-GSM]
+- o10: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o11: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o12: ἀνθρώπους· = G444 ἄνθρωπος "certain, man" [N-APM]
+- o13: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o14: ἐβλασφήμησαν = G987 βλασφημέω "speak) blaspheme(-er, -mously, -my), defame…" [V-AAI-3P]
+- o15: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o16: ἄνθρωποι = G444 ἄνθρωπος "certain, man" [N-NPM]
+- o17: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o18: θεὸν = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-ASM]
+- o19: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o20: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o21: πληγῆς = G4127 πληγή "plague, stripe, wound(-ed)" [N-GSF]
+- o22: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o23: χαλάζης, = G5464 χάλαζα "hail" [N-GSF]
+- o24: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o25: μεγάλη = G3173 μέγας "+ fear) exceedingly, great(-est), high, large…" [A-NSF]
+- o26: ἐστὶν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o27: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o28: πληγὴ = G4127 πληγή "plague, stripe, wound(-ed)" [N-NSF]
+- o29: αὐτῆς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSF]
+- o30: σφόδρα. = G4970 σφόδρα "exceeding(-ly), greatly, sore, very" [ADV]
+
+### Revelation of John 18:1 (context)
+
+- o1: Μετὰ = G3326 μετά "after(-ward), that he again, against, among, and…" [PREP]
+- o2: ταῦτα = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-APN]
+- o3: εἶδον = G3708 ὁράω "behold, perceive, see, take heed" [V-2AAI-1S]
+- o4: ἄλλον = G243 ἄλλος "more, one (another), (an-, some an-)other(-s…" [A-ASM]
+- o5: ἄγγελον = G32 ἄγγελος "angel, messenger" [N-ASM]
+- o6: καταβαίνοντα = G2597 καταβαίνω "come (get, go, step) down, fall (down)" [V-PAP-ASM]
+- o7: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o8: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o9: οὐρανοῦ, = G3772 οὐρανός "air, heaven(-ly), sky" [N-GSM]
+- o10: ἔχοντα = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAP-ASM]
+- o11: ἐξουσίαν = G1849 ἐξουσία "authority, jurisdiction, liberty, power, right…" [N-ASF]
+- o12: μεγάλην, = G3173 μέγας "+ fear) exceedingly, great(-est), high, large…" [A-ASF]
+- o13: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o14: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o15: γῆ = G1093 γῆ "country, earth(-ly), ground, land, world" [N-NSF]
+- o16: ἐφωτίσθη = G5461 φωτίζω "enlighten, illuminate, (bring to, give) light…" [V-API-3S]
+- o17: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o18: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o19: δόξης = G1391 δόξα "dignity, glory(-ious), honour, praise, worship" [N-GSF]
+- o20: αὐτοῦ. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]

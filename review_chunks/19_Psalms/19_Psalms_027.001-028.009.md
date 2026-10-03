@@ -1038,3 +1038,29 @@ Persian entries and current tags:
 - p19: خود
 - p20: ببر  → H5375
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 26:12 (context)
+
+- o1: רַגְלִ/י = H7272 רֶגֶל "a foot (as used in walking)…" [HNcfsc/Sp1cs]
+- o2: עָמְדָה = H5975 עָמַד "to stand…" [HVqp3fs]
+- o3: בְ/מִישׁוֹר = Hb "in" + H4334 מִישׁוֹר "a level…" [HR/Ncmsa]
+- o4: בְּ/מַקְהֵלִים = Hb "in" + H4721 מַקְהֵל "an assembly" [HR/Ncbpa]
+- o5: אֲבָרֵךְ = H1288 בָרַךְ "to kneel…" [HVpi1cs]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### Psalms 29:1 (context)
+
+- o1: מִזְמוֹר = H4210 מִזְמוֹר "properly, instrumental music…" [HNcmsa]
+- o2: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o3: הָבוּ = H3051 יָהַב "to give (whether literal or figurative)…" [HVqv2mp]
+- o4: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o5: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o6: אֵלִים = H410 אֵל "strength; as adjective, mighty…" [HNcmpa]
+- o7: הָבוּ = H3051 יָהַב "to give (whether literal or figurative)…" [HVqv2mp]
+- o8: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o9: כָּבוֹד = H3519 כָּבוֹד "properly, weight…" [HNcbsa]
+- o10: וָ/עֹז = Hc "and" + H5797 עֹז "strength in various applications (force, security…" [HC/Ncmsa]

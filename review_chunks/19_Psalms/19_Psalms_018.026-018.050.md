@@ -895,3 +895,31 @@ Persian entries and current tags:
 - p23: به
 - p24: ابد  → H5704 H5769
 - p25: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 18:25 (context)
+
+- o1: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o2: חָסִיד = H2623 חָסִיד "properly, kind, i.e. (religiously) pious (a saint)" [HAamsa]
+- o3: תִּתְחַסָּד = H2616 חָסַד "properly…" [HVti2ms]
+- o4: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o5: גְּבַר = H1399 גְּבַר "a person" [HNcmsa]
+- o6: תָּמִים = H8549 תָּמִים "entire (literally, figuratively or morally)…" [HAamsa]
+- o7: תִּתַּמָּם = H8552 תָּמַם "to complete, in a good or a bad sense, literal…" [HVti2ms]
+
+### Psalms 19:1 (context)
+
+- o1: לַ/מְנַצֵּחַ = Hl "to" + H5329 נָצַח "properly, to glitter from afar…" [HRd/Vprmsa]
+- o2: מִזְמוֹר = H4210 מִזְמוֹר "properly, instrumental music…" [HNcmsa]
+- o3: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o4: הַ/שָּׁמַיִם = Hd "the" + H8064 שָׁמַיִם "the sky (as aloft…" [HTd/Ncmpa]
+- o5: מְסַפְּרִים = H5608 סָפַר "properly…" [HVprmpa]
+- o6: כְּבוֹד = H3519 כָּבוֹד "properly, weight…" [HNcbsc]
+- o7: אֵל = H410 אֵל "strength; as adjective, mighty…" [HNcmsa]
+- o8: וּ/מַעֲשֵׂה = Hc "and" + H4639 מַעֲשֶׂה "an action (good or bad); generally, a transaction…" [HC/Ncmsc]
+- o9: יָדָי/ו = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbdc/Sp3ms]
+- o10: מַגִּיד = H5046 נָגַד "properly, to front…" [HVhrmsa]
+- o11: הָ/רָקִיעַ = Hd "the" + H7549 רָקִיעַ "properly, an expanse…" [HTd/Ncmsa]

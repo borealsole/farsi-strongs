@@ -457,3 +457,31 @@ Persian entries and current tags:
 - p9: و  → Hc H5704 H5769
 - p10: تا به ابد  → H5704 H5769
 - p11: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 129:8 (context)
+
+- o1: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o2: אָמְרוּ = H559 אָמַר "to say (used with great latitude)" [HVqp3cp]
+- o3: הָ/עֹבְרִים = Hd "the" + H5674 עָבַר "to cross over…" [HTd/Vqrmpa]
+- o4: בִּרְכַּת = H1293 בְּרָכָה "benediction; by implication prosperity" [HNcfsc]
+- o5: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o6: אֲלֵי/כֶם = H413 אֵל "near, with or among; often in general, to" [HR/Sp2mp]
+- o7: בֵּרַכְנוּ = H1288 בָרַךְ "to kneel…" [HVpp1cp]
+- o8: אֶתְ/כֶם = H853 אֵת "properly…" [HTo/Sp2mp]
+- o9: בְּ/שֵׁם = Hb "in" + H8034 שֵׁם "an appellation…" [HR/Ncmsc]
+- o10: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### Psalms 132:1 (context)
+
+- o1: שִׁיר = H7892 שִׁיר "a song; abstractly, singing" [HNcbsc]
+- o2: הַ/מַּעֲלוֹת = Hd "the" + H4609 מַעֲלָה "elevation, i.e. the act (literally…" [HTd/Ncfpa]
+- o3: זְכוֹר = H2142 זָכַר "properly, to mark (so as to be recognized)…" [HVqv2ms]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o6: אֵת = H853 אֵת "properly…" [HTo]
+- o7: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o8: עֻנּוֹת/וֹ = H6031 עָנָה "to depress literally or figuratively…" [HVPc/Sp3ms]

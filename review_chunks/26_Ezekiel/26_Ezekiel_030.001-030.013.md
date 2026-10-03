@@ -712,3 +712,37 @@ Persian entries and current tags:
 - p39: مستولی
 - p40: خواهم_کرد
 - p41: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 29:21 (context)
+
+- o1: בַּ/יּוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
+- o2: הַ/הוּא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3ms]
+- o3: אַצְמִיחַ = H6779 צָמַח "to sprout (transitive or intransitive…" [HVhi1cs]
+- o4: קֶרֶן = H7161 קֶרֶן "a horn (as projecting)…" [HNcbsa]
+- o5: לְ/בֵית = Hl "to" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc]
+- o6: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o7: וּ/לְ/ךָ = Hc "and" + Hl "to" [HC/R/Sp2ms]
+- o8: אֶתֵּן = H5414 נָתַן "to give…" [HVqi1cs]
+- o9: פִּתְחוֹן = H6610 פִּתְחוֹן "opening (the act)" [HNcmsc]
+- o10: פֶּה = H6310 פֶּה "the mouth (as the means of blowing)…" [HNcmsa]
+- o11: בְּ/תוֹכָ/ם = Hb "in" + H8432 תָּוֶךְ "a bisection, i.e. (by implication) the centre" [HR/Ncmsc/Sp3mp]
+- o12: וְ/יָדְעוּ = Hc "and" + H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HC/Vqq3cp]
+- o13: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o14: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o15: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### Ezekiel 30:14 (context)
+
+- o1: וַ/הֲשִׁמֹּתִי = Hc "and" + H8074 שָׁמֵם "to stun (or intransitively, grow numb)…" [HC/Vhq1cs]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: פַּתְרוֹס = H6624 פַּתְרוֹס "Pathros, a part of Egypt" [HNp]
+- o4: וְ/נָתַתִּי = Hc "and" + H5414 נָתַן "to give…" [HC/Vqq1cs]
+- o5: אֵשׁ = H784 אֵשׁ "fire (literally or figuratively)" [HNcbsa]
+- o6: בְּ/צֹעַן = Hb "in" + H6814 צֹעַן "Tsoan, a place in Egypt" [HR/Np]
+- o7: וְ/עָשִׂיתִי = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqq1cs]
+- o8: שְׁפָטִים = H8201 שֶׁפֶט "a sentence, i.e. infliction" [HNcmpa]
+- o9: בְּ/נֹא = Hb "in" + H4996 נֹא "No (i.e. Thebes), the capital of Upper Egypt" [HR/Np]

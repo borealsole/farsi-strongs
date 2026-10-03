@@ -906,3 +906,56 @@ Persian entries and current tags:
 - p11: قراولان  → H4307
 - p12: بماند  → H3427
 - p13: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 38:14 (context)
+
+- o1: וַ/יִּשְׁלַח = Hc "and" + H7971 שָׁלַח "to send away, for…" [HC/Vqw3ms]
+- o2: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o3: צִדְקִיָּהוּ = H6667 צִדְקִיָּה "Tsidkijah, the name of six Israelites" [HNp]
+- o4: וַ/יִּקַּח = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqw3ms]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: יִרְמְיָהוּ = H3414 יִרְמְיָה "Jirmejah, the name of eight or nine Israelites" [HNp]
+- o7: הַ/נָּבִיא = Hd "the" + H5030 נָבִיא "a prophet or (generally) inspired man" [HTd/Ncmsa]
+- o8: אֵלָי/ו = H413 אֵל "near, with or among; often in general, to" [HR/Sp3ms]
+- o9: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o10: מָבוֹא = H3996 מָבוֹא "an entrance (the place or the act)…" [HNcmsa]
+- o11: הַ/שְּׁלִישִׁי = Hd "the" + H7992 שְׁלִישִׁי "third; feminine athird (part)…" [HTd/Aomsa]
+- o12: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o13: בְּ/בֵית = Hb "in" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc]
+- o14: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o15: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o16: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o17: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o18: יִרְמְיָהוּ = H3414 יִרְמְיָה "Jirmejah, the name of eight or nine Israelites" [HNp]
+- o19: שֹׁאֵל = H7592 שָׁאַל "to inquire; by implication, to request…" [HVqrmsa]
+- o20: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o21: אֹתְ/ךָ = H853 אֵת "properly…" [HTo/Sp2ms]
+- o22: דָּבָר = H1697 דָּבָר "a word…" [HNcmsa]
+- o23: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o24: תְּכַחֵד = H3582 כָּחַד "to secrete, by act or word…" [HVpj2ms]
+- o25: מִמֶּ/נִּי = H4480 מִן "properly, a part of…" [HR/Sp1cs]
+- o26: דָּבָר = H1697 דָּבָר "a word…" [HNcmsa]
+
+### Jeremiah 39:1 (context)
+
+- o1: בַּ/שָּׁנָה = Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HRd/Ncfsa]
+- o2: הַ/תְּשִׁעִית = Hd "the" + H8671 תְּשִׁיעִי "ninth" [HTd/Aofsa]
+- o3: לְ/צִדְקִיָּהוּ = Hl "to" + H6667 צִדְקִיָּה "Tsidkijah, the name of six Israelites" [HR/Np]
+- o4: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o5: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o6: בַּ/חֹדֶשׁ = Hb "in" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HRd/Ncmsa]
+- o7: הָ/עֲשִׂרִי = Hd "the" + H6224 עֲשִׂירִי "tenth…" [HTd/Aomsa]
+- o8: בָּא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3ms]
+- o9: נְבוּכַדְרֶאצַּר = H5019 נְבוּכַדְנֶאצַּר "Nebukadnetstsar (or -retstsar, or -retstsor)…" [HNp]
+- o10: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o11: בָּבֶל = H894 בָּבֶל "Babel (i.e. Babylon)…" [HNp]
+- o12: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o13: חֵיל/וֹ = H2428 חַיִל "probably a force, whether of men…" [HNcmsc/Sp3ms]
+- o14: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o15: יְרוּשָׁלִַם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+- o16: וַ/יָּצֻרוּ = Hc "and" + H6696 צוּר "to cramp, i.e. confine (in many applications…" [HC/Vqw3mp]
+- o17: עָלֶי/הָ = H5921 עַל "above, over, upon…" [HR/Sp3fs]

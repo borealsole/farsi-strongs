@@ -955,3 +955,36 @@ Persian entries and current tags:
 - p36: ،
 - p37: نامید  → H7121
 - p38: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 25:34 (context)
+
+- o1: וְ/יַעֲקֹב = Hc "and" + H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HC/Np]
+- o2: נָתַן = H5414 נָתַן "to give…" [HVqp3ms]
+- o3: לְ/עֵשָׂו = Hl "to" + H6215 עֵשָׂו "Esav, a son of Isaac, including his posterity" [HR/Np]
+- o4: לֶחֶם = H3899 לֶחֶם "food (for man or beast), especially bread…" [HNcbsa]
+- o5: וּ/נְזִיד = Hc "and" + H5138 נָזִיד "something boiled, i.e. soup" [HC/Ncmsc]
+- o6: עֲדָשִׁים = H5742 עָדָשׁ "a lentil" [HNcfpa]
+- o7: וַ/יֹּאכַל = Hc "and" + H398 אָכַל "to eat (literally or figuratively)" [HC/Vqw3ms]
+- o8: וַ/יֵּשְׁתְּ = Hc "and" + H8354 שָׁתָה "to imbibe (literally or figuratively)" [HC/Vqw3ms]
+- o9: וַ/יָּקָם = Hc "and" + H6965 קוּם "to rise (in various applications, literal…" [HC/Vqw3ms]
+- o10: וַ/יֵּלַךְ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3ms]
+- o11: וַ/יִּבֶז = Hc "and" + H959 בָּזָה "to disesteem" [HC/Vqw3ms]
+- o12: עֵשָׂו = H6215 עֵשָׂו "Esav, a son of Isaac, including his posterity" [HNp]
+- o13: אֶת = H853 אֵת "properly…" [HTo]
+- o14: הַ/בְּכֹרָה = Hd "the" + H1062 בְּכוֹרָה "the firstling of man or beast…" [HTd/Ncbsa]
+
+### Genesis 26:19 (context)
+
+- o1: וַ/יַּחְפְּרוּ = Hc "and" + H2658 חָפַר "properly, to pry into…" [HC/Vqw3mp]
+- o2: עַבְדֵי = H5650 עֶבֶד "a servant" [HNcmpc]
+- o3: יִצְחָק = H3327 יִצְחָק "Jitschak (or Isaac), son of Abraham" [HNp]
+- o4: בַּ/נָּחַל = Hb "in" + H5158 נַחַל "a stream, especially a winter torrent…" [HRd/Ncmsa]
+- o5: וַ/יִּמְצְאוּ = Hc "and" + H4672 מָצָא "properly, to come forth to, i.e. appear or exist…" [HC/Vqw3mp]
+- o6: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o7: בְּאֵר = H875 בְּאֵר "a pit; especially a well" [HNcfsc]
+- o8: מַיִם = H4325 מַיִם "water; figuratively, juice…" [HNcmpa]
+- o9: חַיִּים = H2416 חַי "alive; hence, raw (flesh)…" [HAampa]

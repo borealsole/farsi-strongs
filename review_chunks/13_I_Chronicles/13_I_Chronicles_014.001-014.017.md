@@ -773,3 +773,45 @@ Persian entries and current tags:
 - p16: مستولی
 - p17: کرد  → H5414
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 13:14 (context)
+
+- o1: וַ/יֵּשֶׁב = Hc "and" + H3427 יָשַׁב "properly…" [HC/Vqw3ms]
+- o2: אֲרוֹן = H727 אָרוֹן "a box" [HNcbsc]
+- o3: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o4: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o5: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o6: עֹבֵד = H5654 עֹבֵד אֱדוֹם "Obed-Edom, the name of five Israelites" [HNp]
+- o7: אֱדֹם = H5654 עֹבֵד אֱדוֹם "Obed-Edom, the name of five Israelites" [HNp]
+- o8: בְּ/בֵית/וֹ = Hb "in" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc/Sp3ms]
+- o9: שְׁלֹשָׁה = H7969 שָׁלוֹשׁ "three…" [HAcmsa]
+- o10: חֳדָשִׁים = H2320 חֹדֶשׁ "the new moon; by implication, a month" [HNcmpa]
+- o11: וַ/יְבָרֶךְ = Hc "and" + H1288 בָרַךְ "to kneel…" [HC/Vpw3ms]
+- o12: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o13: אֶת = H853 אֵת "properly…" [HTo]
+- o14: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o15: עֹבֵד = H5654 עֹבֵד אֱדוֹם "Obed-Edom, the name of five Israelites" [HNp]
+- o16: אֱדֹם = H5654 עֹבֵד אֱדוֹם "Obed-Edom, the name of five Israelites" [HNp]
+- o17: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o18: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o19: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o20: ל/וֹ = Hl "to" [HR/Sp3ms]
+
+### I Chronicles 15:1 (context)
+
+- o1: וַ/יַּעַשׂ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3ms]
+- o2: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o3: בָתִּים = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmpa]
+- o4: בְּ/עִיר = Hb "in" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HR/Ncfsc]
+- o5: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o6: וַ/יָּכֶן = Hc "and" + H3559 כּוּן "properly, to be erect (i.e. stand perpendicular)…" [HC/Vhw3ms]
+- o7: מָקוֹם = H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HNcmsa]
+- o8: לַ/אֲרוֹן = Hl "to" + H727 אָרוֹן "a box" [HR/Ncbsc]
+- o9: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o10: וַ/יֶּט = Hc "and" + H5186 נָטָה "to stretch or spread out…" [HC/Vqw3ms]
+- o11: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o12: אֹהֶל = H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HNcmsa]

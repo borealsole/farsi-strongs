@@ -981,3 +981,30 @@ Persian entries and current tags:
 - p20: بوده_است
 - p21: .
 - p22: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 33:16 (context)
+
+- o1: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o2: חטאת/ו = H2403 חַטָּאָה "an offence (sometimes habitual sinfulness)…" [HNcfsc/Sp3ms]
+- o3: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o4: חָטָא = H2398 חָטָא "properly, to miss…" [HVqp3ms]
+- o5: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o6: תִזָּכַרְנָה = H2142 זָכַר "properly, to mark (so as to be recognized)…" [HVNi3fp]
+- o7: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o8: מִשְׁפָּט = H4941 מִשְׁפָּט "properly…" [HNcmsa]
+- o9: וּ/צְדָקָה = Hc "and" + H6666 צְדָקָה "rightness (abstractly), subjectively (rectitude)…" [HC/Ncfsa]
+- o10: עָשָׂה = H6213 עָשָׂה "to do or make…" [HVqp3ms]
+- o11: חָיוֹ = H2421 חָיָה "to live, whether literally or figuratively…" [HVqa]
+- o12: יִחְיֶה = H2421 חָיָה "to live, whether literally or figuratively…" [HVqi3ms]
+
+### Ezekiel 34:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o5: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

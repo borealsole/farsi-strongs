@@ -865,3 +865,21 @@ Persian entries and current tags:
 - p17: رخ
 - p18: داد
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Haggai 2:1 (context)
+
+- o1: בַּ/שְּׁבִיעִי = Hb "in" + H7637 שְׁבִיעִי "seventh" [HRd/Aomsa]
+- o2: בְּ/עֶשְׂרִים = Hb "in" + H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HR/Acbpa]
+- o3: וְ/אֶחָד = Hc "and" + H259 אֶחָד "properly, united, i.e. one…" [HC/Acmsa]
+- o4: לַ/חֹדֶשׁ = Hl "to" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HRd/Ncmsa]
+- o5: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o6: דְּבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: בְּ/יַד = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o9: חַגַּי = H2292 חַגַּי "Chaggai, a Hebrew prophet" [HNp]
+- o10: הַ/נָּבִיא = Hd "the" + H5030 נָבִיא "a prophet or (generally) inspired man" [HTd/Ncmsa]
+- o11: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

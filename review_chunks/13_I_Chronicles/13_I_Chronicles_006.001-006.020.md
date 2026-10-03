@@ -639,3 +639,50 @@ Persian entries and current tags:
 - p12: او
 - p13: زِمَّه  → H2155
 - p14: ،
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 5:26 (context)
+
+- o1: וַ/יָּעַר = Hc "and" + H5782 עוּר "to wake (literally or figuratively)" [HC/Vhw3ms]
+- o2: אֱלֹהֵי = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc]
+- o3: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: רוּחַ = H7307 רוּחַ "wind…" [HNcbsc]
+- o6: פּוּל = H6322 פּוּל "Pul…" [HNp]
+- o7: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o8: אַשּׁוּר = H804 אַשּׁוּר "Ashshur, the second son of Shem…" [HNp]
+- o9: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o10: רוּחַ = H7307 רוּחַ "wind…" [HNcbsc]
+- o11: תִּלְּגַת = H8407 תִּגְלַת פִּלְאֶסֶר "Tiglath-Pileser or Tilgath-pilneser…" [HNp]
+- o12: פִּלְנֶסֶר = H8407 תִּגְלַת פִּלְאֶסֶר "Tiglath-Pileser or Tilgath-pilneser…" [HNp]
+- o13: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o14: אַשּׁוּר = H804 אַשּׁוּר "Ashshur, the second son of Shem…" [HNp]
+- o15: וַ/יַּגְלֵ/ם = Hc "and" + H1540 גָּלָה "to denude (especially in a disgraceful sense)…" [HC/Vhw3ms/Sp3mp]
+- o16: לָ/ראוּבֵנִי = Hl "to" + H7206 רְאוּבֵנִי "a Reubenite or descendant of Reuben" [HRd/Ngmsa]
+- o17: וְ/לַ/גָּדִי = Hc "and" + Hl "to" + H1425 גָּדִי "a Gadite (collectively) or descendants of Gad" [HC/Rd/Ngmsa]
+- o18: וְ/לַ/חֲצִי = Hc "and" + Hl "to" + H2677 חֵצִי "the half or middle" [HC/R/Ncmsc]
+- o19: שֵׁבֶט = H7626 שֵׁבֶט "a scion, i.e. (literally) a stick (for punishing…" [HNcmsc]
+- o20: מְנַשֶּׁה = H4519 מְנַשֶּׁה "Menashsheh, a grandson of Jacob…" [HNp]
+- o21: וַ/יְבִיאֵ/ם = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vhw3ms/Sp3mp]
+- o22: לַ/חְלַח = Hl "to" + H2477 חֲלַח "Chalach, a region of Assyria" [HR/Np]
+- o23: וְ/חָבוֹר = Hc "and" + H2249 חָבוֹר "Chabor, a river of Assyria" [HC/Np]
+- o24: וְ/הָרָא = Hc "and" + H2024 הָרָא "Hara, a region of Media" [HC/Np]
+- o25: וּ/נְהַר = Hc "and" + H5104 נָהָר "a stream (including the sea…" [HC/Ncmsc]
+- o26: גּוֹזָן = H1470 גּוֹזָן "Gozan, a province of Assyria" [HNp]
+- o27: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o28: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o29: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+
+### I Chronicles 6:21 (context)
+
+- o1: יוֹאָח = H3098 יוֹאָח "Joach, the name of four Israelites" [HNp]
+- o2: בְּנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o3: עִדּוֹ = H5714 עִדּוֹ "Iddo (or Iddi), the name of five Israelites" [HNp]
+- o4: בְנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o5: זֶרַח = H2226 זֶרַח "Zerach, the name of three Israelites…" [HNp]
+- o6: בְּנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o7: יְאָתְרַי = H2979 יְאָתְרַי "Jeatherai, an Israelite" [HNp]
+- o8: בְּנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]

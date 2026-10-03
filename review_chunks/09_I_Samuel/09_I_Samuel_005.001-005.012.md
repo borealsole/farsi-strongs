@@ -779,3 +779,28 @@ Persian entries and current tags:
 - p12: آسمان  → H8064
 - p13: برخاست  → H5927
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 4:22 (context)
+
+- o1: וַ/תֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3fs]
+- o2: גָּלָה = H1540 גָּלָה "to denude (especially in a disgraceful sense)…" [HVqp3ms]
+- o3: כָבוֹד = H3519 כָּבוֹד "properly, weight…" [HNcbsa]
+- o4: מִ/יִּשְׂרָאֵל = Hm "from" + H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HR/Np]
+- o5: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o6: נִלְקַח = H3947 לָקַח "to take (in the widest variety of applications)" [HVNp3ms]
+- o7: אֲרוֹן = H727 אָרוֹן "a box" [HNcbsc]
+- o8: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+
+### I Samuel 6:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: אֲרוֹן = H727 אָרוֹן "a box" [HNcbsc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: בִּ/שְׂדֵה = Hb "in" + H7704 שָׂדֶה "a field (as flat)" [HR/Ncmsc]
+- o5: פְלִשְׁתִּים = H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HNgmpa]
+- o6: שִׁבְעָה = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcmsa]
+- o7: חֳדָשִׁים = H2320 חֹדֶשׁ "the new moon; by implication, a month" [HNcmpa]

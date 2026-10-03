@@ -767,3 +767,57 @@ Persian entries and current tags:
 - p21: نبوّت کنی  → G4395
 - p22: .
 - p23: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Revelation of John 9:21 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o3: μετενόησαν = G3340 μετανοέω "repent" [V-AAI-3P]
+- o4: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o5: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o6: φόνων = G5408 φόνος "murder, + be slain with, slaughter" [N-GPM]
+- o7: αὐτῶν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]
+- o8: οὔτε = G3777 οὔτε "neither, none, nor (yet), (no, yet) not, nothing" [CONJ-N]
+- o9: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o10: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPF]
+- o11: φαρμακιῶν = G5331 φαρμακεία "sorcery, witchcraft" [N-GPF]
+- o12: αὐτῶν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]
+- o13: οὔτε = G3777 οὔτε "neither, none, nor (yet), (no, yet) not, nothing" [CONJ-N]
+- o14: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o15: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o16: πορνείας = G4202 πορνεία "fornication" [N-GSF]
+- o17: αὐτῶν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]
+- o18: οὔτε = G3777 οὔτε "neither, none, nor (yet), (no, yet) not, nothing" [CONJ-N]
+- o19: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o20: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPN]
+- o21: κλεμμάτων = G2809 κλέμμα "theft" [N-GPN]
+- o22: αὐτῶν. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]
+
+### Revelation of John 11:1 (context)
+
+- o1: Καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἐδόθη = G1325 δίδωμι "adventure, bestow, bring forth, commit…" [V-API-3S]
+- o3: μοι = G1473 ἐγώ "I, me" [P-1DS]
+- o4: κάλαμος = G2563 κάλαμος "pen, reed" [N-NSM]
+- o5: ὅμοιος = G3664 ὅμοιος "like, + manner" [A-NSM]
+- o6: ῥάβδῳ, = G4464 ῥάβδος "rod, sceptre, staff" [N-DSF]
+- o7: λέγων· = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAP-NSM]
+- o8: ἔγειρε = G1453 ἐγείρω "awake, lift (up), raise (again, up), rear up…" [V-PAM-2S]
+- o9: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o10: μέτρησον = G3354 μετρέω "figuratively, to estimate:--measure, mete" [V-AAM-2S]
+- o11: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o12: ναὸν = G3485 ναός "shrine, temple" [N-ASM]
+- o13: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o14: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o15: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o16: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o17: θυσιαστήριον = G2379 θυσιαστήριον "altar" [N-ASN]
+- o18: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o19: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o20: προσκυνοῦντας = G4352 προσκυνέω "worship" [V-PAP-APM]
+- o21: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o22: αὐτῷ. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]

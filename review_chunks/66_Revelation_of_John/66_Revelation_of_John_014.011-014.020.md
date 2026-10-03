@@ -712,3 +712,70 @@ Persian entries and current tags:
 - p31: پرتابِ  → G2462 G4712
 - p32: تیر  → G4712
 - p33: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Revelation of John 14:10 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: αὐτὸς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-NSM]
+- o3: πίεται = G4095 πίνω "drink" [V-FDI-3S]
+- o4: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o5: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o6: οἴνου = G3631 οἶνος "wine" [N-GSM]
+- o7: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o8: θυμοῦ = G2372 θυμός "fierceness, indignation, wrath" [N-GSM]
+- o9: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o10: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o11: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o12: κεκερασμένου = G2767 κεράννυμι "fill, pour out" [V-RPP-GSM]
+- o13: ἀκράτου = G194 ἄκρατος "without mixture" [A-GSM]
+- o14: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o15: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSN]
+- o16: ποτηρίῳ = G4221 ποτήριον "cup" [N-DSN]
+- o17: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o18: ὀργῆς = G3709 ὀργή "anger, indignation, vengeance, wrath" [N-GSF]
+- o19: αὐτοῦ, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o20: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o21: βασανισθήσεται = G928 βασανίζω "pain, toil, torment, toss, vex" [V-FPI-3S]
+- o22: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o23: πυρὶ = G4442 πῦρ "fiery, fire" [N-DSN]
+- o24: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o25: θείῳ = G2303 θεῖον "brimstone" [N-DSN]
+- o26: ἐνώπιον = G1799 ἐνώπιον "before, in the presence (sight) of, to" [PREP]
+- o27: ἀγγέλων = G32 ἄγγελος "angel, messenger" [N-GPM]
+- o28: ἁγίων = G40 ἅγιος "(most) holy (one, thing), saint" [A-GPM]
+- o29: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o30: ἐνώπιον = G1799 ἐνώπιον "before, in the presence (sight) of, to" [PREP]
+- o31: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
+- o32: ἀρνίου. = G721 ἀρνίον "lamb" [N-GSN]
+
+### Revelation of John 15:1 (context)
+
+- o1: Καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἴδον = G3708 ὁράω "behold, perceive, see, take heed" [V-2AAI-1S]
+- o3: ἄλλο = G243 ἄλλος "more, one (another), (an-, some an-)other(-s…" [A-ASN]
+- o4: σημεῖον = G4592 σημεῖον "miracle, sign, token, wonder" [N-ASN]
+- o5: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o6: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o7: οὐρανῷ = G3772 οὐρανός "air, heaven(-ly), sky" [N-DSM]
+- o8: μέγα = G3173 μέγας "+ fear) exceedingly, great(-est), high, large…" [A-ASN]
+- o9: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o10: θαυμαστόν, = G2298 θαυμαστός "marvel(-lous)" [A-ASN]
+- o11: ἀγγέλους = G32 ἄγγελος "angel, messenger" [N-APM]
+- o12: ἑπτὰ = G2033 ἑπτά "seven" [A-NUI]
+- o13: ἔχοντας = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAP-APM]
+- o14: πληγὰς = G4127 πληγή "plague, stripe, wound(-ed)" [N-APF]
+- o15: ἑπτὰ = G2033 ἑπτά "seven" [A-NUI]
+- o16: τὰς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APF]
+- o17: ἐσχάτας, = G2078 ἔσχατος "ends of, last, latter end, lowest, uttermost" [A-APF-S]
+- o18: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o19: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o20: αὐταῖς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPF]
+- o21: ἐτελέσθη = G5055 τελέω "accomplish, make an end, expire, fill up, finish…" [V-API-3S]
+- o22: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o23: θυμὸς = G2372 θυμός "fierceness, indignation, wrath" [N-NSM]
+- o24: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o25: θεοῦ. = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]

@@ -1195,3 +1195,41 @@ Persian entries and current tags:
 - p27: گناه  → G266
 - p28: است  → G5315
 - p29: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Romans 13:14 (context)
+
+- o1: ἀλλὰ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o2: ἐνδύσασθε = G1746 ἐνδύω "array, clothe (with), endue, have (put) on" [V-AMM-2P]
+- o3: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o4: κύριον = G2962 κύριος "God, Lord, master, Sir" [N-ASM]
+- o5: Ἰησοῦν = G2424 Ἰησοῦς "Jesus" [N-ASM]
+- o6: Χριστόν, = G5547 Χριστός "Christ" [N-ASM]
+- o7: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o8: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o9: σαρκὸς = G4561 σάρξ "carnal(-ly, + -ly minded), flesh(-ly)" [N-GSF]
+- o10: πρόνοιαν = G4307 πρόνοια "providence, provision" [N-ASF]
+- o11: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o12: ποιεῖσθε = G4160 ποιέω "abide, + agree, appoint, avenge, + band together…" [V-PMM-2P]
+- o13: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o14: ἐπιθυμίας. = G1939 ἐπιθυμία "concupiscence, desire, lust (after)" [N-APF]
+
+### Romans 15:1 (context)
+
+- o1: Ὀφείλομεν = G3784 ὀφείλω "behove, be bound, (be) debt(-or), (be) due(-ty)…" [V-PAI-1P]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: ἡμεῖς = G2249 ἡμεῖς "us, we (ourselves)" [P-1NP]
+- o4: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o5: δυνατοὶ = G1415 δυνατός "able, could, (that is) mighty (man), possible…" [A-NPM]
+- o6: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
+- o7: ἀσθενήματα = G771 ἀσθένημα "infirmity" [N-APN]
+- o8: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o9: ἀδυνάτων = G102 ἀδύνατος "could not do, impossible, impotent, not possible…" [A-GPM]
+- o10: βαστάζειν, = G941 βαστάζω "bear, carry, take up" [V-PAN]
+- o11: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o12: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o13: ἑαυτοῖς = G1438 ἑαυτοῦ "alone, her (own, -self), (he) himself, his (own)…" [F-1DPM]
+- o14: ἀρέσκειν. = G700 ἀρέσκω "please" [V-PAN]

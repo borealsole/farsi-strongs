@@ -423,3 +423,34 @@ Persian entries and current tags:
 - p14: .
 - p15: هللویاه  → H1984 H3050
 - p16: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 145:21 (context)
+
+- o1: תְּהִלַּת = H8416 תְּהִלָּה "laudation; specifically (concretely) a hymn" [HNcfsc]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: יְדַבֶּר = H1696 דָבַר "perhaps properly, to arrange…" [HVpi3ms]
+- o4: פִּ/י = H6310 פֶּה "the mouth (as the means of blowing)…" [HNcmsc/Sp1cs]
+- o5: וִ/יבָרֵךְ = Hc "and" + H1288 בָרַךְ "to kneel…" [HC/Vpi3ms]
+- o6: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o7: בָּשָׂר = H1320 בָּשָׂר "flesh (from its freshness)…" [HNcmsa]
+- o8: שֵׁם = H8034 שֵׁם "an appellation…" [HNcmsc]
+- o9: קָדְשׁ/וֹ = H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HNcmsc/Sp3ms]
+- o10: לְ/עוֹלָם = Hl "to" + H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HR/Ncmsa]
+- o11: וָ/עֶד = Hc "and" + H5703 עַד "properly, a (peremptory) terminus…" [HC/Ncmsa]
+
+### Psalms 147:1 (context)
+
+- o1: הַלְלוּ = H1984 הָלַל "to be clear (orig. of sound…" [HVpv2mp]
+- o2: יָהּ = H3050 יָהּ "Jah, the sacred name" [HNp]
+- o3: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o4: טוֹב = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAamsa]
+- o5: זַמְּרָה = H2167 זָמַר "play upon it…" [HVpc]
+- o6: אֱלֹהֵי/נוּ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp1cp]
+- o7: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o8: נָעִים = H5273 נָעִים "delightful (objective or subjective…" [HAamsa]
+- o9: נָאוָה = H5000 נָאוֶה "suitable, or beautiful" [HAafsa]
+- o10: תְהִלָּה = H8416 תְּהִלָּה "laudation; specifically (concretely) a hymn" [HNcfsa]

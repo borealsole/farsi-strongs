@@ -1260,3 +1260,51 @@ Persian entries and current tags:
 - p17: شبنم  → H2919
 - p18: بود
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Judges 6:20 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: אֵלָי/ו = H413 אֵל "near, with or among; often in general, to" [HR/Sp3ms]
+- o3: מַלְאַךְ = H4397 מֲלְאָךְ "a messenger…" [HNcmsc]
+- o4: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o5: קַח = H3947 לָקַח "to take (in the widest variety of applications)" [HVqv2ms]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: הַ/בָּשָׂר = Hd "the" + H1320 בָּשָׂר "flesh (from its freshness)…" [HTd/Ncmsa]
+- o8: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o9: הַ/מַּצּוֹת = Hd "the" + H4682 מַצָּה "properly, sweetness…" [HTd/Ncfpa]
+- o10: וְ/הַנַּח = Hc "and" + H3240 יָנַח "to deposit; by implication, to allow to stay" [HC/Vhv2ms]
+- o11: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o12: הַ/סֶּלַע = Hd "the" + H5553 סֶלַע "a craggy rock…" [HTd/Ncmsa]
+- o13: הַלָּז = H1975 הַלָּז "this or that" [HPdxcs]
+- o14: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o15: הַ/מָּרַק = Hd "the" + H4839 מָרָק "soup (as if a rinsing)" [HTd/Ncmsa]
+- o16: שְׁפוֹךְ = H8210 שָׁפַךְ "to spill forth (blood, a libation, liquid metal…" [HVqv2ms]
+- o17: וַ/יַּעַשׂ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3ms]
+- o18: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+
+### Judges 7:1 (context)
+
+- o1: וַ/יַּשְׁכֵּם = Hc "and" + H7925 שָׁכַם "literally…" [HC/Vhw3ms]
+- o2: יְרֻבַּעַל = H3378 יְרֻבַּעַל "Jerubbaal, a symbolic name of Gideon" [HNp]
+- o3: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o4: גִדְעוֹן = H1439 גִּדְעוֹן "Gidon, an Israelite" [HNp]
+- o5: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o6: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o8: אִתּ/וֹ = H854 אֵת "properly…" [HR/Sp3ms]
+- o9: וַ/יַּחֲנוּ = Hc "and" + H2583 חָנָה "properly, to incline…" [HC/Vqw3mp]
+- o10: עַל = H5921 עַל "above, over, upon…" [HR]
+- o11: עֵין = H5878 עֵין חֲרֹד "En-Charod, a place in Palestine" [HNp]
+- o12: חֲרֹד = H5878 עֵין חֲרֹד "En-Charod, a place in Palestine" [HNp]
+- o13: וּ/מַחֲנֵה = Hc "and" + H4264 מַחֲנֶה "an encampment (of travellers or troops)…" [HC/Ncbsc]
+- o14: מִדְיָן = H4080 מִדְיָן "Midjan, a son of Abraham…" [HNp]
+- o15: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o16: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o17: מִ/צָּפוֹן = Hm "from" + H6828 צָפוֹן "properly, hidden, i.e. dark…" [HR/Ncfsa]
+- o18: מִ/גִּבְעַת = Hm "from" + H1389 גִּבְעָה "a hillock" [HR/Ncfsc]
+- o19: הַ/מּוֹרֶה = Hd "the" + H4176 מוֹרֶה "Moreh, a Canaanite…" [HTd/Np]
+- o20: בָּ/עֵמֶק = Hb "in" + H6010 עֵמֶק "a vale (i.e. broad depression)" [HRd/Ncmsa]

@@ -984,3 +984,41 @@ Persian entries and current tags:
 - p16: یاری  → G997
 - p17: رساند
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Hebrews 1:14 (context)
+
+- o1: οὐχὶ = G3780 οὐχί "nay, not" [PRT-I]
+- o2: πάντες = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-NPM]
+- o3: εἰσὶν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3P]
+- o4: λειτουργικὰ = G3010 λειτουργικός "ministering" [A-NPN]
+- o5: πνεύματα = G4151 πνεῦμα "ghost, life, spirit(-ual, -ually), mind" [N-NPN]
+- o6: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o7: διακονίαν = G1248 διακονία "ad-)minister(-ing, -tration, -try), office…" [N-ASF]
+- o8: ἀποστελλόμενα = G649 ἀποστέλλω "put in, send (away, forth, out), set (at liberty)" [V-PPP-NPN]
+- o9: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o10: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o11: μέλλοντας = G3195 μέλλω "about, after that, be (almost), (that which is…" [V-PAP-APM]
+- o12: κληρονομεῖν = G2816 κληρονομέω "be heir, (obtain by) inherit(-ance)" [V-PAN]
+- o13: σωτηρίαν; = G4991 σωτηρία "deliver, health, salvation, save, saving" [N-ASF]
+
+### Hebrews 3:1 (context)
+
+- o1: Ὅθεν, = G3606 ὅθεν "from thence, (from) whence, where(-by, -fore…" [ADV]
+- o2: ἀδελφοὶ = G80 ἀδελφός "brother" [N-VPM]
+- o3: ἅγιοι, = G40 ἅγιος "(most) holy (one, thing), saint" [A-VPM]
+- o4: κλήσεως = G2821 κλῆσις "calling" [N-GSF]
+- o5: ἐπουρανίου = G2032 ἐπουράνιος "celestial, (in) heaven(-ly), high" [A-GSF]
+- o6: μέτοχοι, = G3353 μέτοχος "fellow, partaker, partner" [A-NPM]
+- o7: κατανοήσατε = G2657 κατανοέω "behold, consider, discover, perceive" [V-AAM-2P]
+- o8: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o9: ἀπόστολον = G652 ἀπόστολος "apostle, messenger, he that is sent" [N-ASM]
+- o10: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o11: ἀρχιερέα = G749 ἀρχιερεύς "chief (high) priest, chief of the priests" [N-ASM]
+- o12: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o13: ὁμολογίας = G3671 ὁμολογία "con- (pro-)fession, professed" [N-GSF]
+- o14: ἡμῶν = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+- o15: Ἰησοῦν, = G2424 Ἰησοῦς "Jesus" [N-ASM]

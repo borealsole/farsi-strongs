@@ -940,3 +940,44 @@ Persian entries and current tags:
 - p22: خود
 - p23: حمل کردند  → H5375
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 12:17 (context)
+
+- o1: וּ/שְׁמַרְתֶּם = Hc "and" + H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HC/Vqq2mp]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: הַ/מַּצּוֹת = Hd "the" + H4682 מַצָּה "properly, sweetness…" [HTd/Ncfpa]
+- o4: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o5: בְּ/עֶצֶם = Hb "in" + H6106 עֶצֶם "a bone (as strong); by extension, the body…" [HR/Ncfsc]
+- o6: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o7: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o8: הוֹצֵאתִי = H3318 יָצָא "to go (causatively, bring) out…" [HVhp1cs]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: צִבְאוֹתֵי/כֶם = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbpc/Sp2mp]
+- o11: מֵ/אֶרֶץ = Hm "from" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o12: מִצְרָיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o13: וּ/שְׁמַרְתֶּם = Hc "and" + H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HC/Vqq2mp]
+- o14: אֶת = H853 אֵת "properly…" [HTo]
+- o15: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o16: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o17: לְ/דֹרֹתֵי/כֶם = Hl "to" + H1755 דּוֹר "properly, a revolution of time…" [HR/Ncmpc/Sp2mp]
+- o18: חֻקַּת = H2708 חֻקָּה "an enactment…" [HNcbsc]
+- o19: עוֹלָם = H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HNcmsa]
+
+### Exodus 12:35 (context)
+
+- o1: וּ/בְנֵי = Hc "and" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/Ncmpc]
+- o2: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o3: עָשׂוּ = H6213 עָשָׂה "to do or make…" [HVqp3cp]
+- o4: כִּ/דְבַר = Hk "like" + H1697 דָּבָר "a word…" [HR/Ncmsc]
+- o5: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o6: וַ/יִּשְׁאֲלוּ = Hc "and" + H7592 שָׁאַל "to inquire; by implication, to request…" [HC/Vqw3mp]
+- o7: מִ/מִּצְרַיִם = Hm "from" + H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HR/Np]
+- o8: כְּלֵי = H3627 כְּלִי "something prepared…" [HNcmpc]
+- o9: כֶסֶף = H3701 כֶּסֶף "silver (from its pale color)…" [HNcmsa]
+- o10: וּ/כְלֵי = Hc "and" + H3627 כְּלִי "something prepared…" [HC/Ncmpc]
+- o11: זָהָב = H2091 זָהָב "gold, figuratively…" [HNcmsa]
+- o12: וּ/שְׂמָלֹת = Hc "and" + H8071 שִׂמְלָה "a dress, especially a mantle" [HC/Ncfpa]

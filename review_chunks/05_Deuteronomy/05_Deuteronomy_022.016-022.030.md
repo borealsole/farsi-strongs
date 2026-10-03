@@ -867,3 +867,33 @@ Persian entries and current tags:
 - p15: را  → H853
 - p16: آشکار کند  → H1540
 - p17: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 22:15 (context)
+
+- o1: וְ/לָקַח = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqq3ms]
+- o2: אֲבִי = H1 אָב "father, in a literal and immediate…" [HNcmsc]
+- o3: ה/נער = Hd "the" + H5291 נַעֲרָה "a girl (from infancy to adolescence)" [HTd/Ncfsa]
+- o4: וְ/אִמָּ/הּ = Hc "and" + H517 אֵם "a mother (as the bond of the family)…" [HC/Ncfsc/Sp3fs]
+- o5: וְ/הוֹצִיאוּ = Hc "and" + H3318 יָצָא "to go (causatively, bring) out…" [HC/Vhq3cp]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: בְּתוּלֵי = H1331 בְּתוּלִים "collectively and abstractly) virginity…" [HNcbpc]
+- o8: ה/נער = Hd "the" + H5291 נַעֲרָה "a girl (from infancy to adolescence)" [HTd/Ncfsa]
+- o9: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o10: זִקְנֵי = H2205 זָקֵן "old" [HAampc]
+- o11: הָ/עִיר = Hd "the" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HTd/Ncfsa]
+- o12: הַ/שָּׁעְרָ/ה = Hd "the" + H8179 שַׁעַר "an opening, i.e. door or gate" [HTd/Ncmsa/Sd]
+
+### Deuteronomy 23:1 (context)
+
+- o1: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o2: יָבֹא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqi3ms]
+- o3: פְצוּעַ = H6481 פָּצַע "to split, i.e. wound" [HVqsmsc]
+- o4: דַּכָּא = H1795 דַּכָּה "mutilated" [HNcmsa]
+- o5: וּ/כְרוּת = Hc "and" + H3772 כָּרַת "to cut (off, down or asunder)…" [HC/Vqsmsc]
+- o6: שָׁפְכָה = H8212 שׇׁפְכָה "a pipe (for pouring forth, e.g. wine)…" [HNcfsa]
+- o7: בִּ/קְהַל = Hb "in" + H6951 קָהָל "assemblage (usually concretely)" [HR/Ncmsc]
+- o8: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]

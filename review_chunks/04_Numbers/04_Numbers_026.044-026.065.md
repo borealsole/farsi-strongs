@@ -923,3 +923,45 @@ Persian entries and current tags:
 - p27: ایشان
 - p28: باقی نماند  → H3498
 - p29: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 26:43 (context)
+
+- o1: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o2: מִשְׁפְּחֹת = H4940 מִשְׁפָּחָה "a family, i.e. circle of relatives…" [HNcfpc]
+- o3: הַ/שּׁוּחָמִי = Hd "the" + H7749 שׁוּחָמִי "a Shuchamite (collectively)" [HTd/Ngmsa]
+- o4: לִ/פְקֻדֵי/הֶם = Hl "to" + H6485 פָּקַד "to visit (with friendly or hostile intent)…" [HR/Vqsmpc/Sp3mp]
+- o5: אַרְבָּעָה = H702 אַרְבַּע "four" [HAcmsa]
+- o6: וְ/שִׁשִּׁים = Hc "and" + H8346 שִׁשִּׁים "sixty" [HC/Acbpa]
+- o7: אֶלֶף = H505 אֶלֶף "hence (the ox's head being the first letter of…" [HAcbsa]
+- o8: וְ/אַרְבַּע = Hc "and" + H702 אַרְבַּע "four" [HC/Acfsa]
+- o9: מֵאוֹת = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbpa]
+
+### Numbers 27:1 (context)
+
+- o1: וַ/תִּקְרַבְנָה = Hc "and" + H7126 קָרַב "to approach (causatively…" [HC/Vqw3fp]
+- o2: בְּנוֹת = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfpc]
+- o3: צְלָפְחָד = H6765 צְלׇפְחָד "Tselophchad, an Israelite" [HNp]
+- o4: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o5: חֵפֶר = H2660 חֵפֶר "Chepher, a place in Palestine…" [HNp]
+- o6: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o7: גִּלְעָד = H1568 גִּלְעָד "Gilad, a region East of the Jordan…" [HNp]
+- o8: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o9: מָכִיר = H4353 מָכִיר "Makir, an Israelite" [HNp]
+- o10: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o11: מְנַשֶּׁה = H4519 מְנַשֶּׁה "Menashsheh, a grandson of Jacob…" [HNp]
+- o12: לְ/מִשְׁפְּחֹת = Hl "to" + H4940 מִשְׁפָּחָה "a family, i.e. circle of relatives…" [HR/Ncfpc]
+- o13: מְנַשֶּׁה = H4519 מְנַשֶּׁה "Menashsheh, a grandson of Jacob…" [HNp]
+- o14: בֶן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o15: יוֹסֵף = H3130 יוֹסֵף "Joseph, the name of seven Israelites" [HNp]
+- o16: וְ/אֵלֶּה = Hc "and" + H428 אֵלֶּה "these or those" [HC/Pdxcp]
+- o17: שְׁמוֹת = H8034 שֵׁם "an appellation…" [HNcmpc]
+- o18: בְּנֹתָי/ו = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfpc/Sp3ms]
+- o19: מַחְלָה = H4244 מַחְלָה "Machlah, the name apparently of two Israelitesses" [HNp]
+- o20: נֹעָה = H5270 נֹעָה "Noah, an Israelitess" [HNp]
+- o21: וְ/חָגְלָה = Hc "and" + H2295 חׇגְלָה "Choglah, an Israelitess" [HC/Np]
+- o22: וּ/מִלְכָּה = Hc "and" + H4435 מִלְכָּה "Milcah…" [HC/Np]
+- o23: וְ/תִרְצָה = Hc "and" + H8656 תִּרְצָה "Tirtsah, a place in Palestine; also an Israelitess" [HC/Np]

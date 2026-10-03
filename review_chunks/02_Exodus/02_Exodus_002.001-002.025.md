@@ -1290,3 +1290,45 @@ Persian entries and current tags:
 - p7: خدا  → H430
 - p8: دانست  → H3045
 - p9: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 1:22 (context)
+
+- o1: וַ/יְצַו = Hc "and" + H6680 צָוָה "(intensively) to constitute, enjoin" [HC/Vpw3ms]
+- o2: פַּרְעֹה = H6547 פַּרְעֹה "Paroh, a general title of Egyptian kings" [HNp]
+- o3: לְ/כָל = Hl "to" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o4: עַמּ/וֹ = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp3ms]
+- o5: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o6: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o7: הַ/בֵּן = Hd "the" + H1121 בֵּן "a son (as a builder of the family name)…" [HTd/Ncmsa]
+- o8: הַ/יִּלּוֹד = Hd "the" + H3209 יִלּוֹד "born" [HTd/Aamsa]
+- o9: הַ/יְאֹרָ/ה = Hd "the" + H2975 יְאֹר "a channel, e.g. a fosse, canal, shaft…" [HTd/Np/Sd]
+- o10: תַּשְׁלִיכֻ/הוּ = H7993 שָׁלַךְ "to throw out…" [HVhi2mp/Sp3ms]
+- o11: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o12: הַ/בַּת = Hd "the" + H1323 בַּת "a daughter (used in the same wide sense as other…" [HTd/Ncfsa]
+- o13: תְּחַיּוּ/ן = H2421 חָיָה "to live, whether literally or figuratively…" [HVpi2mp/Sn]
+
+### Exodus 3:1 (context)
+
+- o1: וּ/מֹשֶׁה = Hc "and" + H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HC/Np]
+- o2: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o3: רֹעֶה = H7462 רָעָה "to tend a flock; i.e. pasture it…" [HVqrmsa]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: צֹאן = H6629 צֹאן "a collective name for a flock (of sheep or goats)…" [HNcbsc]
+- o6: יִתְרוֹ = H3503 יִתְרוֹ "Jethro, Moses' father-in-law" [HNp]
+- o7: חֹתְנ/וֹ = H2859 חָתַן "to give (a daughter) away in marriage…" [HVqrmsc/Sp3ms]
+- o8: כֹּהֵן = H3548 כֹּהֵן "literally one officiating, a priest…" [HNcmsc]
+- o9: מִדְיָן = H4080 מִדְיָן "Midjan, a son of Abraham…" [HNp]
+- o10: וַ/יִּנְהַג = Hc "and" + H5090 נָהַג "to drive forth (a person, an animal or chariot)…" [HC/Vqw3ms]
+- o11: אֶת = H853 אֵת "properly…" [HTo]
+- o12: הַ/צֹּאן = Hd "the" + H6629 צֹאן "a collective name for a flock (of sheep or goats)…" [HTd/Ncbsa]
+- o13: אַחַר = H310 אַחַר "properly, the hind part…" [HR]
+- o14: הַ/מִּדְבָּר = Hd "the" + H4057 מִדְבָּר "a pasture (i.e. open field…" [HTd/Ncmsa]
+- o15: וַ/יָּבֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3ms]
+- o16: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o17: הַר = H2022 הַר "a mountain or range of hills (sometimes used…" [HNcmsc]
+- o18: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o19: חֹרֵבָ/ה = H2722 חֹרֵב "Choreb…" [HNp/Sd]

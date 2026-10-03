@@ -810,3 +810,43 @@ Persian entries and current tags:
 - p32: دارند
 - p33: .
 - p34: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 46:17 (context)
+
+- o1: וּ/בְנֵי = Hc "and" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/Ncmpc]
+- o2: אָשֵׁר = H836 אָשֵׁר "happy…" [HNp]
+- o3: יִמְנָה = H3232 יִמְנָה "Jimnah, the name of two Israelites…" [HNp]
+- o4: וְ/יִשְׁוָה = Hc "and" + H3438 יִשְׁוָה "Jishvah, an Israelite" [HC/Np]
+- o5: וְ/יִשְׁוִי = Hc "and" + H3440 יִשְׁוִי "Jishvi, the name of two Israelites" [HC/Np]
+- o6: וּ/בְרִיעָה = Hc "and" + H1283 בְּרִיעָה "Beriah, the name of four Israelites" [HC/Np]
+- o7: וְ/שֶׂרַח = Hc "and" + H8294 שֶׂרַח "Serach, an Israelitess" [HC/Np]
+- o8: אֲחֹתָ/ם = H269 אָחוֹת "a sister (used very widely (like brother)…" [HNcfsc/Sp3mp]
+- o9: וּ/בְנֵי = Hc "and" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/Ncmpc]
+- o10: בְרִיעָה = H1283 בְּרִיעָה "Beriah, the name of four Israelites" [HNp]
+- o11: חֶבֶר = H2268 חֶבֶר "Cheber…" [HNp]
+- o12: וּ/מַלְכִּיאֵל = Hc "and" + H4439 מַלְכִּיאֵל "Malkiel, an Israelite" [HC/Np]
+
+### Genesis 47:1 (context)
+
+- o1: וַ/יָּבֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3ms]
+- o2: יוֹסֵף = H3130 יוֹסֵף "Joseph, the name of seven Israelites" [HNp]
+- o3: וַ/יַּגֵּד = Hc "and" + H5046 נָגַד "properly, to front…" [HC/Vhw3ms]
+- o4: לְ/פַרְעֹה = Hl "to" + H6547 פַּרְעֹה "Paroh, a general title of Egyptian kings" [HR/Np]
+- o5: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o6: אָבִ/י = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp1cs]
+- o7: וְ/אַחַ/י = Hc "and" + H251 אָח "a brother (used in the widest sense of literal…" [HC/Ncmpc/Sp1cs]
+- o8: וְ/צֹאנָ/ם = Hc "and" + H6629 צֹאן "a collective name for a flock (of sheep or goats)…" [HC/Ncbsc/Sp3mp]
+- o9: וּ/בְקָרָ/ם = Hc "and" + H1241 בָּקָר "beef cattle or an animal of the ox family of…" [HC/Ncbsc/Sp3mp]
+- o10: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o11: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o12: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o13: בָּאוּ = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3cp]
+- o14: מֵ/אֶרֶץ = Hm "from" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o15: כְּנָעַן = H3667 כְּנַעַן "Kenaan, a son a Ham…" [HNp]
+- o16: וְ/הִנָּ/ם = Hc "and" + H2005 הֵן "lo!; also (as expressing surprise) if" [HC/Tm/Sp3mp]
+- o17: בְּ/אֶרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o18: גֹּשֶׁן = H1657 גֹּשֶׁן "Goshen, the residence of the Israelites in Egypt…" [HNp]

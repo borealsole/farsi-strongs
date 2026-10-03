@@ -656,3 +656,52 @@ Persian entries and current tags:
 - p7: رئیس  → H7218
 - p8: بود
 - p9: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 22:19 (context)
+
+- o1: עַתָּה = H6258 עַתָּה "at this time, whether adverb…" [HD]
+- o2: תְּנוּ = H5414 נָתַן "to give…" [HVqv2mp]
+- o3: לְבַבְ/כֶם = H3824 לֵבָב "the heart (as the most interior organ)" [HNcmsc/Sp2mp]
+- o4: וְ/נַפְשְׁ/כֶם = Hc "and" + H5315 נֶפֶשׁ "properly, a breathing creature…" [HC/Ncbsc/Sp2mp]
+- o5: לִ/דְרוֹשׁ = Hl "to" + H1875 דָּרַשׁ "properly, to tread or frequent…" [HR/Vqc]
+- o6: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o7: אֱלֹהֵי/כֶם = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2mp]
+- o8: וְ/קוּמוּ = Hc "and" + H6965 קוּם "to rise (in various applications, literal…" [HC/Vqv2mp]
+- o9: וּ/בְנוּ = Hc "and" + H1129 בָּנָה "to build (literally and figuratively)" [HC/Vqv2mp]
+- o10: אֶת = H853 אֵת "properly…" [HTo]
+- o11: מִקְדַּשׁ = H4720 מִקְדָּשׁ "a consecrated thing or place, especially…" [HNcmsc]
+- o12: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o13: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o14: לְ/הָבִיא = Hl "to" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HR/Vhc]
+- o15: אֶת = H853 אֵת "properly…" [HTo]
+- o16: אֲרוֹן = H727 אָרוֹן "a box" [HNcbsc]
+- o17: בְּרִית = H1285 בְּרִית "a compact (because made by passing between pieces…" [HNcfsc]
+- o18: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o19: וּ/כְלֵי = Hc "and" + H3627 כְּלִי "something prepared…" [HC/Ncmpc]
+- o20: קֹדֶשׁ = H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HNcmsc]
+- o21: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o22: לַ/בַּיִת = Hl "to" + H1004 בַּיִת "a house (in the greatest variation of…" [HRd/Ncmsa]
+- o23: הַ/נִּבְנֶה = Hd "the" + H1129 בָּנָה "to build (literally and figuratively)" [HTd/VNsmsa]
+- o24: לְ/שֵׁם = Hl "to" + H8034 שֵׁם "an appellation…" [HR/Ncmsc]
+- o25: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### I Chronicles 23:17 (context)
+
+- o1: וַ/יִּהְיוּ = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3mp]
+- o2: בְנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o3: אֱלִיעֶזֶר = H461 אֱלִיעֶזֶר "Eliezer…" [HNp]
+- o4: רְחַבְיָה = H7345 רְחַבְיָה "Rechabjah, an Israelite" [HNp]
+- o5: הָ/רֹאשׁ = Hd "the" + H7218 רֹאשׁ "the head (as most easily shaken)…" [HTd/Ncmsa]
+- o6: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o7: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o8: לֶ/אֱלִיעֶזֶר = Hl "to" + H461 אֱלִיעֶזֶר "Eliezer…" [HR/Np]
+- o9: בָּנִים = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpa]
+- o10: אֲחֵרִים = H312 אַחֵר "properly, hinder; generally, next, other, etc" [HAampa]
+- o11: וּ/בְנֵי = Hc "and" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/Ncmpc]
+- o12: רְחַבְיָה = H7345 רְחַבְיָה "Rechabjah, an Israelite" [HNp]
+- o13: רָבוּ = H7235 רָבָה "to increase (in whatever respect)" [HVqp3cp]
+- o14: לְ/מָעְלָ/ה = Hl "to" + H4605 מַעַל "properly, the upper part…" [HR/D/Sd]

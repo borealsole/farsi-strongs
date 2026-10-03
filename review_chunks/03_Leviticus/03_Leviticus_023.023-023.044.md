@@ -1043,3 +1043,38 @@ Persian entries and current tags:
 - p8: اعلام
 - p9: داشت  → H1696
 - p10: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 23:22 (context)
+
+- o1: וּ/בְ/קֻצְרְ/כֶם = Hc "and" + Hb "in" + H7114 קָצַר "to dock off…" [HC/R/Vqc/Sp2mp]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: קְצִיר = H7105 קָצִיר "severed, i.e. harvest (as reaped), the crop…" [HNcmsc]
+- o4: אַרְצְ/כֶם = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsc/Sp2mp]
+- o5: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o6: תְכַלֶּה = H3615 כָּלָה "to end, whether intransitive (to cease…" [HVpi2ms]
+- o7: פְּאַת = H6285 פֵּאָה "properly, mouth in a figurative sense…" [HNcfsc]
+- o8: שָׂדְ/ךָ = H7704 שָׂדֶה "a field (as flat)" [HNcmsc/Sp2ms]
+- o9: בְּ/קֻצְרֶ/ךָ = Hb "in" + H7114 קָצַר "to dock off…" [HR/Vqc/Sp2ms]
+- o10: וְ/לֶקֶט = Hc "and" + H3951 לֶקֶט "the gleaning" [HC/Ncmsc]
+- o11: קְצִירְ/ךָ = H7105 קָצִיר "severed, i.e. harvest (as reaped), the crop…" [HNcmsc/Sp2ms]
+- o12: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o13: תְלַקֵּט = H3950 לָקַט "properly, to pick up, i.e. (generally) to gather…" [HVpi2ms]
+- o14: לֶ/עָנִי = Hl "to" + H6041 עָנִי "depressed, in mind or circumstances" [HRd/Aamsa]
+- o15: וְ/לַ/גֵּר = Hc "and" + Hl "to" + H1616 גֵּר "properly, a guest; by implication, a foreigner" [HC/Rd/Ncmsa]
+- o16: תַּעֲזֹב = H5800 עָזַב "to loosen, i.e. relinquish, permit, etc" [HVqi2ms]
+- o17: אֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o18: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o19: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o20: אֱלֹהֵי/כֶם = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2mp]
+
+### Leviticus 24:1 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: לֵּ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

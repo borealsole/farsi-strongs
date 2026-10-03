@@ -913,3 +913,36 @@ Persian entries and current tags:
 - p31: کنعان  → H3667
 - p32: برود  → H935
 - p33: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 30:43 (context)
+
+- o1: וַ/יִּפְרֹץ = Hc "and" + H6555 פָּרַץ "to break out (in many applications…" [HC/Vqw3ms]
+- o2: הָ/אִישׁ = Hd "the" + H376 אִישׁ "a man as an individual or a male person…" [HTd/Ncmsa]
+- o3: מְאֹד = H3966 מְאֹד "properly, vehemence…" [HD]
+- o4: מְאֹד = H3966 מְאֹד "properly, vehemence…" [HD]
+- o5: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o6: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o7: צֹאן = H6629 צֹאן "a collective name for a flock (of sheep or goats)…" [HNcbsa]
+- o8: רַבּוֹת = H7227 רַב "abundant (in quantity, size, age, number, rank…" [HAafpa]
+- o9: וּ/שְׁפָחוֹת = Hc "and" + H8198 שִׁפְחָה "a female slave (as a member of the household)" [HC/Ncfpa]
+- o10: וַ/עֲבָדִים = Hc "and" + H5650 עֶבֶד "a servant" [HC/Ncmpa]
+- o11: וּ/גְמַלִּים = Hc "and" + H1581 גָּמָל "a camel" [HC/Ncmpa]
+- o12: וַ/חֲמֹרִים = Hc "and" + H2543 חֲמוֹר "a male ass (from its dun red)" [HC/Ncbpa]
+
+### Genesis 31:19 (context)
+
+- o1: וְ/לָבָן = Hc "and" + H3837 לָבָן "Laban, a Mesopotamian; also a place in the Desert" [HC/Np]
+- o2: הָלַךְ = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVqp3ms]
+- o3: לִ/גְזֹז = Hl "to" + H1494 גַּזָז "to cut off…" [HR/Vqc]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: צֹאנ/וֹ = H6629 צֹאן "a collective name for a flock (of sheep or goats)…" [HNcbsc/Sp3ms]
+- o6: וַ/תִּגְנֹב = Hc "and" + H1589 גָּנַב "to thieve (literally or figuratively)…" [HC/Vqw3fs]
+- o7: רָחֵל = H7354 רָחֵל "Rachel, a wife of Jacob" [HNp]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: הַ/תְּרָפִים = Hd "the" + H8655 תְּרָפִים "Teraphim (singular or plural) a family idol" [HTd/Ncmpa]
+- o10: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o11: לְ/אָבִי/הָ = Hl "to" + H1 אָב "father, in a literal and immediate…" [HR/Ncmsc/Sp3fs]

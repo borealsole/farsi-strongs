@@ -884,3 +884,33 @@ Persian entries and current tags:
 - p38: ’حِلقَت‌هَصوریم‘  → H2521
 - p39: نامیدند  → H7121
 - p40: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 1:27 (context)
+
+- o1: אֵיךְ = H349 אֵיךְ "how? or how!; also where" [HTi]
+- o2: נָפְלוּ = H5307 נָפַל "to fall…" [HVqp3cp]
+- o3: גִבּוֹרִים = H1368 גִּבּוֹר "powerful; by implication, warrior, tyrant" [HAampa]
+- o4: וַ/יֹּאבְדוּ = Hc "and" + H6 אָבַד "properly, to wander away, i.e. lose oneself…" [HC/Vqw3mp]
+- o5: כְּלֵי = H3627 כְּלִי "something prepared…" [HNcmpc]
+- o6: מִלְחָמָה = H4421 מִלְחָמָה "a battle (i.e. the engagement)…" [HNcfsa]
+
+### II Samuel 2:17 (context)
+
+- o1: וַ/תְּהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3fs]
+- o2: הַ/מִּלְחָמָה = Hd "the" + H4421 מִלְחָמָה "a battle (i.e. the engagement)…" [HTd/Ncfsa]
+- o3: קָשָׁה = H7186 קָשֶׁה "severe (in various applications)" [HAafsa]
+- o4: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o5: מְאֹד = H3966 מְאֹד "properly, vehemence…" [HD]
+- o6: בַּ/יּוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
+- o7: הַ/הוּא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3ms]
+- o8: וַ/יִּנָּגֶף = Hc "and" + H5062 נָגַף "to push, gore, defeat, stub (the toe)…" [HC/VNw3ms]
+- o9: אַבְנֵר = H74 אַבְנֵר "Abner, an Israelite" [HNp]
+- o10: וְ/אַנְשֵׁי = Hc "and" + H376 אִישׁ "a man as an individual or a male person…" [HC/Ncmpc]
+- o11: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o12: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o13: עַבְדֵי = H5650 עֶבֶד "a servant" [HNcmpc]
+- o14: דָוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]

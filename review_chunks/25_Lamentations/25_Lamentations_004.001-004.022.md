@@ -1092,3 +1092,28 @@ Persian entries and current tags:
 - p33: را
 - p34: منکشف خواهد_ساخت  → H1540
 - p35: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Lamentations 3:66 (context)
+
+- o1: תִּרְדֹּף = H7291 רָדַף "to run after (usually with hostile intent…" [HVqi2ms]
+- o2: בְּ/אַף = Hb "in" + H639 אַף "properly, the nose or nostril…" [HR/Ncmsa]
+- o3: וְ/תַשְׁמִידֵ/ם = Hc "and" + H8045 שָׁמַד "to desolate" [HC/Vhi2ms/Sp3mp]
+- o4: מִ/תַּחַת = Hm "from" + H8478 תַּחַת "the bottom (as depressed)…" [HR/R]
+- o5: שְׁמֵי = H8064 שָׁמַיִם "the sky (as aloft…" [HNcmpc]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### Lamentations 5:1 (context)
+
+- o1: זְכֹר = H2142 זָכַר "properly, to mark (so as to be recognized)…" [HVqv2ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: מֶה = H4100 מָה "properly…" [HTi]
+- o4: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o5: לָ/נוּ = Hl "to" [HR/Sp1cp]
+- o6: הביט = H5027 נָבַט "to scan, i.e. look intently at…" [HVhv2ms]
+- o7: וּ/רְאֵה = Hc "and" + H7200 רָאָה "to see…" [HC/Vqv2ms]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: חֶרְפָּתֵ/נוּ = H2781 חֶרְפָּה "contumely, disgrace, the pudenda" [HNcfsc/Sp1cp]

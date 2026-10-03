@@ -1166,3 +1166,47 @@ Persian entries and current tags:
 - p35: رسانیده
 - p36: بود
 - p37: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 40:16 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: גְּדַלְיָהוּ = H1436 גְּדַּלְיָה "Gedaljah, the name of five Israelites" [HNp]
+- o3: בֶן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o4: אֲחִיקָם = H296 אֲחִיקָם "Achikam, an Israelite" [HNp]
+- o5: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o6: יוֹחָנָן = H3110 יוֹחָנָן "Jochanan, the name of nine Israelites" [HNp]
+- o7: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o8: קָרֵחַ = H7143 קָרֵחַ "Kareach, an Israelite" [HNp]
+- o9: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o10: תעש = H6213 עָשָׂה "to do or make…" [HVqj2ms]
+- o11: אֶת = H853 אֵת "properly…" [HTo]
+- o12: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]
+- o13: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o14: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o15: שֶׁקֶר = H8267 שֶׁקֶר "an untruth…" [HNcmsa]
+- o16: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o17: דֹבֵר = H1696 דָבַר "perhaps properly, to arrange…" [HVqrmsa]
+- o18: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o19: יִשְׁמָעֵאל = H3458 יִשְׁמָעֵאל "Jishmael, the name of Abraham's oldest son…" [HNp]
+
+### Jeremiah 42:1 (context)
+
+- o1: וַ/יִּגְּשׁוּ = Hc "and" + H5066 נָגַשׁ "to be or come (causatively…" [HC/Vqw3mp]
+- o2: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: שָׂרֵי = H8269 שַׂר "a head person (of any rank or class)" [HNcmpc]
+- o4: הַ/חֲיָלִים = Hd "the" + H2428 חַיִל "probably a force, whether of men…" [HTd/Ncmpa]
+- o5: וְ/יוֹחָנָן = Hc "and" + H3110 יוֹחָנָן "Jochanan, the name of nine Israelites" [HC/Np]
+- o6: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o7: קָרֵחַ = H7143 קָרֵחַ "Kareach, an Israelite" [HNp]
+- o8: וִ/יזַנְיָה = Hc "and" + H3153 יְזַנְיָה "Jezanjah, an Israelite" [HC/Np]
+- o9: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o10: הוֹשַׁעְיָה = H1955 הוֹשַׁעְיָה "Hoshajah, the name of two Israelites" [HNp]
+- o11: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o12: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o13: מִ/קָּטֹן = Hm "from" + H6996 קָטָן "abbreviated, i.e. diminutive…" [HR/Aamsa]
+- o14: וְ/עַד = Hc "and" + H5704 עַד "as far (or long, or much) as…" [HC/R]
+- o15: גָּדוֹל = H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HAamsa]

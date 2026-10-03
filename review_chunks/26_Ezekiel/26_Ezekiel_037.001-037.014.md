@@ -831,3 +831,34 @@ Persian entries and current tags:
 - p34: خداوند  → H3068
 - p35: .
 - p36: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 36:38 (context)
+
+- o1: כְּ/צֹאן = Hk "like" + H6629 צֹאן "a collective name for a flock (of sheep or goats)…" [HR/Ncbsc]
+- o2: קָדָשִׁים = H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HNcmpa]
+- o3: כְּ/צֹאן = Hk "like" + H6629 צֹאן "a collective name for a flock (of sheep or goats)…" [HR/Ncbsc]
+- o4: יְרוּשָׁלִַם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+- o5: בְּ/מוֹעֲדֶי/הָ = Hb "in" + H4150 מוֹעֵד "properly, an appointment…" [HR/Ncmpc/Sp3fs]
+- o6: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o7: תִּהְיֶינָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3fp]
+- o8: הֶ/עָרִים = Hd "the" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HTd/Ncfpa]
+- o9: הֶ/חֳרֵבוֹת = Hd "the" + H2720 חָרֵב "parched or ruined" [HTd/Aafpa]
+- o10: מְלֵאוֹת = H4392 מָלֵא "full (literally or figuratively) or filling…" [HAafpa]
+- o11: צֹאן = H6629 צֹאן "a collective name for a flock (of sheep or goats)…" [HNcbsc]
+- o12: אָדָם = H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HNcmsa]
+- o13: וְ/יָדְעוּ = Hc "and" + H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HC/Vqq3cp]
+- o14: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o15: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o16: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### Ezekiel 37:15 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o5: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

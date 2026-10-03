@@ -1181,3 +1181,40 @@ Persian entries and current tags:
 - p33: جزا دهد  → H7999
 - p34: !
 - p35: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 3:20 (context)
+
+- o1: וַ/יָּבֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3ms]
+- o2: אַבְנֵר = H74 אַבְנֵר "Abner, an Israelite" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o5: חֶבְרוֹן = H2275 חֶבְרוֹן "Chebron, a place in Palestine…" [HNp]
+- o6: וְ/אִתּ/וֹ = Hc "and" + H854 אֵת "properly…" [HC/R/Sp3ms]
+- o7: עֶשְׂרִים = H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HAcbpa]
+- o8: אֲנָשִׁים = H376 אִישׁ "a man as an individual or a male person…" [HNcmpa]
+- o9: וַ/יַּעַשׂ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3ms]
+- o10: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o11: לְ/אַבְנֵר = Hl "to" + H74 אַבְנֵר "Abner, an Israelite" [HR/Np]
+- o12: וְ/לַ/אֲנָשִׁים = Hc "and" + Hl "to" + H376 אִישׁ "a man as an individual or a male person…" [HC/R/Ncmpa]
+- o13: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o14: אִתּ/וֹ = H854 אֵת "properly…" [HR/Sp3ms]
+- o15: מִשְׁתֶּה = H4960 מִשְׁתֶּה "drink, by implication, drinking (the act)…" [HNcmsa]
+
+### II Samuel 4:1 (context)
+
+- o1: וַ/יִּשְׁמַע = Hc "and" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HC/Vqw3ms]
+- o2: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o3: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o4: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o5: מֵת = H4191 מוּת "to die (literally or figuratively)…" [HVqp3ms]
+- o6: אַבְנֵר = H74 אַבְנֵר "Abner, an Israelite" [HNp]
+- o7: בְּ/חֶבְרוֹן = Hb "in" + H2275 חֶבְרוֹן "Chebron, a place in Palestine…" [HR/Np]
+- o8: וַ/יִּרְפּוּ = Hc "and" + H7503 רָפָה "to slacken (in many applications…" [HC/Vqw3mp]
+- o9: יָדָי/ו = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbdc/Sp3ms]
+- o10: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o11: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o12: נִבְהָלוּ = H926 בָּהַל "to tremble inwardly (or palpitate)…" [HVNp3cp]

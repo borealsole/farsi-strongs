@@ -639,3 +639,30 @@ Persian entries and current tags:
 - p13: اعماق  → H6012
 - p14: گورند  → H7585
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 8:36 (context)
+
+- o1: וְ/חֹטְאִ/י = Hc "and" + H2398 חָטָא "properly, to miss…" [HC/Vqrmsc/Sp1cs]
+- o2: חֹמֵס = H2554 חָמַס "to be violent; by implication, to maltreat" [HVqrmsa]
+- o3: נַפְשׁ/וֹ = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsc/Sp3ms]
+- o4: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o5: מְשַׂנְאַ/י = H8130 שָׂנֵא "to hate (personally)" [HVprmpc/Sp1cs]
+- o6: אָהֲבוּ = H157 אָהַב "to have affection for (sexually or otherwise)" [HVqp3cp]
+- o7: מָוֶת = H4194 מָוֶת "death (natural or violent)…" [HNcmsa]
+
+### Proverbs 10:1 (context)
+
+- o1: מִשְׁלֵי = H4912 מָשָׁל "properly, a pithy maxim…" [HNcmpc]
+- o2: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o3: בֵּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsa]
+- o4: חָכָם = H2450 חָכָם "wise, (i.e. intelligent, skilful or artful)" [HAamsa]
+- o5: יְשַׂמַּח = H8055 שָׂמַח "probably to brighten up…" [HVpi3ms]
+- o6: אָב = H1 אָב "father, in a literal and immediate…" [HNcmsa]
+- o7: וּ/בֵן = Hc "and" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/Ncmsa]
+- o8: כְּסִיל = H3684 כְּסִיל "properly, fat, i.e. (figuratively) stupid or silly" [HAamsa]
+- o9: תּוּגַת = H8424 תּוּגָה "depression (of spirits); concretely a grief" [HNcfsc]
+- o10: אִמּ/וֹ = H517 אֵם "a mother (as the bond of the family)…" [HNcfsc/Sp3ms]

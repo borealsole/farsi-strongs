@@ -734,3 +734,53 @@ Persian entries and current tags:
 - p29: .
 - p30: “
 - p31: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 23:39 (context)
+
+- o1: אוּרִיָּה = H223 אוּרִיָּה "Urijah…" [HNp]
+- o2: הַ/חִתִּי = Hd "the" + H2850 חִתִּי "a Chittite, or descendant of Cheth" [HTd/Ngmsa]
+- o3: כֹּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o4: שְׁלֹשִׁים = H7970 שְׁלוֹשִׁים "thirty; or (ordinal) thirtieth" [HAcbpa]
+- o5: וְ/שִׁבְעָה = Hc "and" + H7651 שֶׁבַע "seven (as the sacred full one)…" [HC/Acmsa]
+
+### II Samuel 24:13 (context)
+
+- o1: וַ/יָּבֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3ms]
+- o2: גָד = H1410 גָּד "Gad, a son of Jacob…" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o5: וַ/יַּגֶּד = Hc "and" + H5046 נָגַד "properly, to front…" [HC/Vhw3ms]
+- o6: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o7: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o8: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o9: הֲ/תָבוֹא = Hi "(untranslatable; interrogative particle)" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HTi/Vqi3fs]
+- o10: לְ/ךָ = Hl "to" [HR/Sp2ms]
+- o11: שֶׁבַע = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcfsa]
+- o12: שָׁנִים = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfpa]
+- o13: רָעָב = H7458 רָעָב "hunger (more or less extensive)" [HNcmsa]
+- o14: בְּ/אַרְצֶ/ךָ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc/Sp2ms]
+- o15: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o16: שְׁלֹשָׁה = H7969 שָׁלוֹשׁ "three…" [HAcmsa]
+- o17: חֳדָשִׁים = H2320 חֹדֶשׁ "the new moon; by implication, a month" [HNcmpa]
+- o18: נֻסְ/ךָ = H5127 נוּס "to flit, i.e. vanish away (subside, escape…" [HVqc/Sp2ms]
+- o19: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o20: צָרֶי/ךָ = H6862 צַר "narrow…" [HNcmpc/Sp2ms]
+- o21: וְ/הוּא = Hc "and" + H1931 הוּא "he (she or it)…" [HC/Pp3ms]
+- o22: רֹדְפֶ/ךָ = H7291 רָדַף "to run after (usually with hostile intent…" [HVqrmsc/Sp2ms]
+- o23: וְ/אִם = Hc "and" + H518 אִם "used very widely as demonstrative, lo!…" [HC/C]
+- o24: הֱיוֹת = H1961 הָיָה "to exist, i.e. be or become…" [HVqc]
+- o25: שְׁלֹשֶׁת = H7969 שָׁלוֹשׁ "three…" [HAcmsc]
+- o26: יָמִים = H3117 יוֹם "a day (as the warm hours)…" [HNcmpa]
+- o27: דֶּבֶר = H1698 דֶּבֶר "a pestilence" [HNcmsa]
+- o28: בְּ/אַרְצֶ/ךָ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc/Sp2ms]
+- o29: עַתָּה = H6258 עַתָּה "at this time, whether adverb…" [HD]
+- o30: דַּע = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqv2ms]
+- o31: וּ/רְאֵה = Hc "and" + H7200 רָאָה "to see…" [HC/Vqv2ms]
+- o32: מָה = H4100 מָה "properly…" [HTi]
+- o33: אָשִׁיב = H7725 שׁוּב "to turn back (hence…" [HVhi1cs]
+- o34: שֹׁלְחִ/י = H7971 שָׁלַח "to send away, for…" [HVqrmsc/Sp1cs]
+- o35: דָּבָר = H1697 דָּבָר "a word…" [HNcmsa]

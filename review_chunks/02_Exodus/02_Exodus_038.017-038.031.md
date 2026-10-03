@@ -830,3 +830,40 @@ Persian entries and current tags:
 - p17: صحن  → H2691
 - p18: را  → H853
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 38:16 (context)
+
+- o1: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o2: קַלְעֵי = H7050 קֶלַע "a sling…" [HNcmpc]
+- o3: הֶ/חָצֵר = Hd "the" + H2691 חָצֵר "a yard (as inclosed by a fence)…" [HTd/Ncbsa]
+- o4: סָבִיב = H5439 סָבִיב "as noun) a circle, neighbour, or environs…" [HNcbsa]
+- o5: שֵׁשׁ = H8336 שֵׁשׁ "bleached stuff…" [HAcfsa]
+- o6: מָשְׁזָר = H7806 שָׁזַר "to twist (a thread of straw)" [HVHsmsa]
+
+### Exodus 39:1 (context)
+
+- o1: וּ/מִן = Hc "and" + H4480 מִן "properly, a part of…" [HC/R]
+- o2: הַ/תְּכֵלֶת = Hd "the" + H8504 תְּכֵלֶת "the cerulean mussel…" [HTd/Ncfsa]
+- o3: וְ/הָ/אַרְגָּמָן = Hc "and" + Hd "the" + H713 אַרְגָּמָן "purple (the color or the dyed stuff)" [HC/Td/Ncmsa]
+- o4: וְ/תוֹלַעַת = Hc "and" + H8438 תּוֹלָע "the crimson-grub…" [HC/Ncfsc]
+- o5: הַ/שָּׁנִי = Hd "the" + H8144 שָׁנִי "crimson, properly, the insect or its color…" [HTd/Ncmsa]
+- o6: עָשׂוּ = H6213 עָשָׂה "to do or make…" [HVqp3cp]
+- o7: בִגְדֵי = H899 בֶּגֶד "a covering, i.e. clothing…" [HNcmpc]
+- o8: שְׂרָד = H8278 שְׂרָד "stitching (as pierced with a needle)" [HNcmsa]
+- o9: לְ/שָׁרֵת = Hl "to" + H8334 שָׁרַת "to attend as a menial or worshipper…" [HR/Vpc]
+- o10: בַּ/קֹּדֶשׁ = Hb "in" + H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HRd/Ncmsa]
+- o11: וַ/יַּעֲשׂוּ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3mp]
+- o12: אֶת = H853 אֵת "properly…" [HTo]
+- o13: בִּגְדֵי = H899 בֶּגֶד "a covering, i.e. clothing…" [HNcmpc]
+- o14: הַ/קֹּדֶשׁ = Hd "the" + H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HTd/Ncmsa]
+- o15: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o16: לְ/אַהֲרֹן = Hl "to" + H175 אַהֲרוֹן "Aharon, the brother of Moses" [HR/Np]
+- o17: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o18: צִוָּה = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp3ms]
+- o19: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o20: אֶת = H853 אֵת "properly…" [HTo]
+- o21: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]

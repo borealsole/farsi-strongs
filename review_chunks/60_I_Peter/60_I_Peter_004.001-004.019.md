@@ -960,3 +960,49 @@ Persian entries and current tags:
 - p21: ادامه
 - p22: دهند
 - p23: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Peter 3:22 (context)
+
+- o1: ὅς = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-NSM]
+- o2: ἐστιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o3: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o4: δεξιᾷ = G1188 δεξιός "right (hand, side)" [A-DSF]
+- o5: θεοῦ, = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o6: πορευθεὶς = G4198 πορεύομαι "--depart, go (away, forth, one's way, up)…" [V-AOP-NSM]
+- o7: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o8: οὐρανόν, = G3772 οὐρανός "air, heaven(-ly), sky" [N-ASM]
+- o9: ὑποταγέντων = G5293 ὑποτάσσω "be under obedience (obedient), put under…" [V-2APP-GPM]
+- o10: αὐτῷ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
+- o11: ἀγγέλων = G32 ἄγγελος "angel, messenger" [N-GPM]
+- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o13: ἐξουσιῶν = G1849 ἐξουσία "authority, jurisdiction, liberty, power, right…" [N-GPF]
+- o14: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o15: δυνάμεων. = G1411 δύναμις "ability, abundance, meaning, might(-ily, -y…" [N-GPF]
+
+### I Peter 5:1 (context)
+
+- o1: Πρεσβυτέρους = G4245 πρεσβύτερος "elder(-est), old" [A-APM-C]
+- o2: οὖν = G3767 οὖν "and (so, truly), but, now (then)…" [CONJ]
+- o3: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o4: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o5: ὑμῖν = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
+- o6: παρακαλῶ = G3870 παρακαλέω "beseech, call for, (be of good) comfort, desire…" [V-PAI-1S]
+- o7: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o8: συμπρεσβύτερος = G4850 συμπρεσβύτερος "presbyter, also an elder" [N-NSM-C]
+- o9: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o10: μάρτυς = G3144 μάρτυς "martyr, record, witness" [N-NSM]
+- o11: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPN]
+- o12: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o13: Χριστοῦ = G5547 Χριστός "Christ" [N-GSM]
+- o14: παθημάτων, = G3804 πάθημα "affection, affliction, motion, suffering" [N-GPN]
+- o15: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o16: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o17: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o18: μελλούσης = G3195 μέλλω "about, after that, be (almost), (that which is…" [V-PAP-GSF]
+- o19: ἀποκαλύπτεσθαι = G601 ἀποκαλύπτω "reveal" [V-PPN]
+- o20: δόξης = G1391 δόξα "dignity, glory(-ious), honour, praise, worship" [N-GSF]
+- o21: κοινωνός· = G2844 κοινωνός "companion, fellowship, partaker, partner" [N-NSM]

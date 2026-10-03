@@ -902,3 +902,58 @@ Persian entries and current tags:
 - p25: سلیمان  → H8010
 - p26: استوار گشت  → H3559
 - p27: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 2:31 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o3: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o4: עֲשֵׂה = H6213 עָשָׂה "to do or make…" [HVqv2ms]
+- o5: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o6: דִּבֶּר = H1696 דָבַר "perhaps properly, to arrange…" [HVpp3ms]
+- o7: וּ/פְגַע = Hc "and" + H6293 פָּגַע "to impinge, by accident or violence…" [HC/Vqv2ms]
+- o8: בּ/וֹ = Hb "in" [HR/Sp3ms]
+- o9: וּ/קְבַרְתּ/וֹ = Hc "and" + H6912 קָבַר "to inter" [HC/Vqq2ms/Sp3ms]
+- o10: וַ/הֲסִירֹתָ = Hc "and" + H5493 סוּר "to turn off (literal or figurative)" [HC/Vhq2ms]
+- o11: דְּמֵי = H1818 דָּם "blood (as that which when shed causes death) of…" [HNcmpc]
+- o12: חִנָּם = H2600 חִנָּם "gratis, i.e. devoid of cost, reason or advantage" [HD]
+- o13: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o14: שָׁפַךְ = H8210 שָׁפַךְ "to spill forth (blood, a libation, liquid metal…" [HVqp3ms]
+- o15: יוֹאָב = H3097 יוֹאָב "Joab, the name of three Israelites" [HNp]
+- o16: מֵ/עָלַ/י = Hm "from" + H5921 עַל "above, over, upon…" [HR/R/Sp1cs]
+- o17: וּ/מֵ/עַל = Hc "and" + Hm "from" + H5921 עַל "above, over, upon…" [HC/R/R]
+- o18: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o19: אָבִ/י = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp1cs]
+
+### I Kings 3:1 (context)
+
+- o1: וַ/יִּתְחַתֵּן = Hc "and" + H2859 חָתַן "to give (a daughter) away in marriage…" [HC/Vtw3ms]
+- o2: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o3: אֶת = H854 אֵת "properly…" [HR]
+- o4: פַּרְעֹה = H6547 פַּרְעֹה "Paroh, a general title of Egyptian kings" [HNp]
+- o5: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o6: מִצְרָיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o7: וַ/יִּקַּח = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqw3ms]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: בַּת = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfsc]
+- o10: פַּרְעֹה = H6547 פַּרְעֹה "Paroh, a general title of Egyptian kings" [HNp]
+- o11: וַ/יְבִיאֶ/הָ = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vhw3ms/Sp3fs]
+- o12: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o13: עִיר = H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HNcfsc]
+- o14: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o15: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o16: כַּלֹּת/וֹ = H3615 כָּלָה "to end, whether intransitive (to cease…" [HVpc/Sp3ms]
+- o17: לִ/בְנוֹת = Hl "to" + H1129 בָּנָה "to build (literally and figuratively)" [HR/Vqc]
+- o18: אֶת = H853 אֵת "properly…" [HTo]
+- o19: בֵּית/וֹ = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc/Sp3ms]
+- o20: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o21: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o22: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o23: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o24: חוֹמַת = H2346 חוֹמָה "a wall of protection" [HNcfsc]
+- o25: יְרוּשָׁלִַם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+- o26: סָבִיב = H5439 סָבִיב "as noun) a circle, neighbour, or environs…" [HNcbsa]

@@ -1150,3 +1150,56 @@ Persian entries and current tags:
 - p20: مستقیم  → H6440
 - p21: می‌رفتند  → H3212
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 9:11 (context)
+
+- o1: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o2: הָ/אִישׁ = Hd "the" + H376 אִישׁ "a man as an individual or a male person…" [HTd/Ncmsa]
+- o3: לְבֻשׁ = H3830 לְבוּשׁ "a garment (literally or figuratively)…" [HVqsmsc]
+- o4: הַ/בַּדִּים = Hd "the" + H906 בַּד "flaxen thread or yarn; hence, a linen garment" [HTd/Ncmpa]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: הַ/קֶּסֶת = Hd "the" + H7083 קֶסֶת "properly, a cup, i.e. an ink-stand" [HTd/Ncfsa]
+- o7: בְּ/מָתְנָי/ו = Hb "in" + H4975 מֹתֶן "properly, the waist or small of the back…" [HR/Ncmdc/Sp3ms]
+- o8: מֵשִׁיב = H7725 שׁוּב "to turn back (hence…" [HVhrmsa]
+- o9: דָּבָר = H1697 דָּבָר "a word…" [HNcmsa]
+- o10: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o11: עָשִׂיתִי = H6213 עָשָׂה "to do or make…" [HVqp1cs]
+- o12: כ/אשר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o13: צִוִּיתָ/נִי = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp2ms/Sp1cs]
+
+### Ezekiel 11:1 (context)
+
+- o1: וַ/תִּשָּׂא = Hc "and" + H5375 נָשָׂא "to lift, in a great variety of applications…" [HC/Vqw3fs]
+- o2: אֹתִ/י = H853 אֵת "properly…" [HTo/Sp1cs]
+- o3: רוּחַ = H7307 רוּחַ "wind…" [HNcbsa]
+- o4: וַ/תָּבֵא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vhw3fs]
+- o5: אֹתִ/י = H853 אֵת "properly…" [HTo/Sp1cs]
+- o6: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o7: שַׁעַר = H8179 שַׁעַר "an opening, i.e. door or gate" [HNcmsc]
+- o8: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o9: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o10: הַ/קַּדְמוֹנִי = Hd "the" + H6931 קַדְמוֹנִי "(of time) anterior or (of place) oriental" [HTd/Aamsa]
+- o11: הַ/פּוֹנֶה = Hd "the" + H6437 פָּנָה "to turn…" [HTd/Vqrmsa]
+- o12: קָדִימָ/ה = H6921 קָדִים "the fore or front part…" [HNcmsa/Sd]
+- o13: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o14: בְּ/פֶתַח = Hb "in" + H6607 פֶּתַח "an opening (literally)…" [HR/Ncmsc]
+- o15: הַ/שַּׁעַר = Hd "the" + H8179 שַׁעַר "an opening, i.e. door or gate" [HTd/Ncmsa]
+- o16: עֶשְׂרִים = H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HAcbpa]
+- o17: וַ/חֲמִשָּׁה = Hc "and" + H2568 חָמֵשׁ "five" [HC/Acmsa]
+- o18: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o19: וָ/אֶרְאֶה = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw1cs]
+- o20: בְ/תוֹכָ/ם = Hb "in" + H8432 תָּוֶךְ "a bisection, i.e. (by implication) the centre" [HR/Ncmsc/Sp3mp]
+- o21: אֶת = H853 אֵת "properly…" [HTo]
+- o22: יַאֲזַנְיָה = H2970 יַאֲזַנְיָה "Jaazanjah, the name of four Israelites" [HNp]
+- o23: בֶן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o24: עַזֻּר = H5809 עַזּוּר "Azzur, the name of three Israelites" [HNp]
+- o25: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o26: פְּלַטְיָהוּ = H6410 פְּלַטְיָה "Pelatjah, the name of four Israelites" [HNp]
+- o27: בֶן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o28: בְּנָיָהוּ = H1141 בְּנָיָה "Benajah, the name of twelve Israelites" [HNp]
+- o29: שָׂרֵי = H8269 שַׂר "a head person (of any rank or class)" [HNcmpc]
+- o30: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]

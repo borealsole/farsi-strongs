@@ -736,3 +736,28 @@ Persian entries and current tags:
 - p18: نام  → H8034
 - p19: خویش
 - p20: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 119:110 (context)
+
+- o1: נָתְנוּ = H5414 נָתַן "to give…" [HVqp3cp]
+- o2: רְשָׁעִים = H7563 רָשָׁע "morally wrong…" [HAampa]
+- o3: פַּח = H6341 פַּח "a (metallic) sheet (as pounded thin)…" [HNcmsa]
+- o4: לִ/י = Hl "to" [HR/Sp1cs]
+- o5: וּ/מִ/פִּקּוּדֶי/ךָ = Hc "and" + Hm "from" + H6490 פִּקּוּד "properly, appointed, i.e. a mandate (of God…" [HC/R/Ncmpc/Sp2ms]
+- o6: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o7: תָעִיתִי = H8582 תָּעָה "to vacillate…" [HVqp1cs]
+
+### Psalms 119:133 (context)
+
+- o1: פְּעָמַ/י = H6471 פַּעַם "a stroke…" [HNcfpc/Sp1cs]
+- o2: הָכֵן = H3559 כּוּן "properly, to be erect (i.e. stand perpendicular)…" [HVhv2ms]
+- o3: בְּ/אִמְרָתֶ/ךָ = Hb "in" + H565 אִמְרָה "something said" [HR/Ncfsc/Sp2ms]
+- o4: וְ/אַל = Hc "and" + H408 אַל "not (the qualified negation…" [HC/Tn]
+- o5: תַּשְׁלֶט = H7980 שָׁלַט "to dominate, i.e. govern…" [HVhj3fs]
+- o6: בִּ/י = Hb "in" [HR/Sp1cs]
+- o7: כָל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o8: אָוֶן = H205 אָוֶן "strictly nothingness…" [HNcmsa]

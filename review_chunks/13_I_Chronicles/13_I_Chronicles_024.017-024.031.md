@@ -582,3 +582,36 @@ Persian entries and current tags:
 - p40: منصوب
 - p41: گردیدند
 - p42: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 24:16 (context)
+
+- o1: לִ/פְתַחְיָה = Hl "to" + H6611 פְּתַחְיָה "Pethachjah, the name of four Israelites" [HR/Np]
+- o2: תִּשְׁעָה = H8672 תֵּשַׁע "nine or (ordinal) ninth" [HAcmsa]
+- o3: עָשָׂר = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcmsa]
+- o4: לִ/יחֶזְקֵאל = Hl "to" + H3168 יְחֶזְקֵאל "Jechezkel, the name of two Israelites" [HR/Np]
+- o5: הָ/עֶשְׂרִים = Hd "the" + H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HTd/Acbpa]
+
+### I Chronicles 25:1 (context)
+
+- o1: וַ/יַּבְדֵּל = Hc "and" + H914 בָּדַל "to divide (in variation senses literally or…" [HC/Vhw3ms]
+- o2: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o3: וְ/שָׂרֵי = Hc "and" + H8269 שַׂר "a head person (of any rank or class)" [HC/Ncmpc]
+- o4: הַ/צָּבָא = Hd "the" + H6635 צָבָא "a mass of persons (or figuratively, things)…" [HTd/Ncbsa]
+- o5: לַ/עֲבֹדָה = Hl "to" + H5656 עֲבֹדָה "work of any kind" [HR/Ncfsa]
+- o6: לִ/בְנֵי = Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmpc]
+- o7: אָסָף = H623 אָסָף "Asaph, the name of three Israelites…" [HNp]
+- o8: וְ/הֵימָן = Hc "and" + H1968 הֵימָן "Heman, the name of at least two Israelites" [HC/Np]
+- o9: וִ/ידוּתוּן = Hc "and" + H3038 יְדוּתוּן "Jeduthun, an Israelite" [HC/Np]
+- o10: ה/נביאים = Hd "the" + H5030 נָבִיא "a prophet or (generally) inspired man" [HTd/Ncmpa]
+- o11: בְּ/כִנֹּרוֹת = Hb "in" + H3658 כִּנּוֹר "a harp" [HR/Ncmpa]
+- o12: בִּ/נְבָלִים = Hb "in" + H5035 נֶבֶל "a skin-bag for liquids (from collapsing when…" [HR/Ncmpa]
+- o13: וּ/בִ/מְצִלְתָּיִם = Hc "and" + Hb "in" + H4700 מְצֵלֶת "(only dual) double tinklers, i.e. cymbals" [HC/R/Ncfda]
+- o14: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o15: מִסְפָּרָ/ם = H4557 מִסְפָּר "a number…" [HNcmsc/Sp3mp]
+- o16: אַנְשֵׁי = H376 אִישׁ "a man as an individual or a male person…" [HNcmpc]
+- o17: מְלָאכָה = H4399 מְלָאכָה "properly, deputyship, i.e. ministry…" [HNcfsa]
+- o18: לַ/עֲבֹדָתָ/ם = Hl "to" + H5656 עֲבֹדָה "work of any kind" [HR/Ncfsc/Sp3mp]

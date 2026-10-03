@@ -1028,3 +1028,42 @@ Persian entries and current tags:
 - p23: به‌یقین  → H2421
 - p24: خواهد_زیست  → H2421
 - p25: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 32:32 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: נָתַתִּי = H5414 נָתַן "to give…" [HVqp1cs]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: חתית/ו = H2851 חִתִּית "fear" [HNcfsc/Sp3ms]
+- o5: בְּ/אֶרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o6: חַיִּים = H2416 חַי "alive; hence, raw (flesh)…" [HAampa]
+- o7: וְ/הֻשְׁכַּב = Hc "and" + H7901 שָׁכַב "to lie down (for rest, sexual connection…" [HC/VHq3ms]
+- o8: בְּ/תוֹךְ = Hb "in" + H8432 תָּוֶךְ "a bisection, i.e. (by implication) the centre" [HR/Ncmsc]
+- o9: עֲרֵלִים = H6189 עָרֵל "uncircumcised (i.e. still having the prepuce…" [HAampa]
+- o10: אֶת = H854 אֵת "properly…" [HR]
+- o11: חַלְלֵי = H2491 חָלָל "pierced (especially to death)…" [HAampc]
+- o12: חֶרֶב = H2719 חֶרֶב "drought…" [HNcfsa]
+- o13: פַּרְעֹה = H6547 פַּרְעֹה "Paroh, a general title of Egyptian kings" [HNp]
+- o14: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o15: הֲמוֹנֹ/ה = H1995 הָמוֹן "a noise, tumult, crowd; also disquietude, wealth" [HNcmsc/Sp3ms]
+- o16: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o17: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o18: יְהוִה = H3069 יְהֹוִה "YHWH" [HNp]
+
+### Ezekiel 33:17 (context)
+
+- o1: וְ/אָמְרוּ = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqq3cp]
+- o2: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o3: עַמְּ/ךָ = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp2ms]
+- o4: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o5: יִתָּכֵן = H8505 תָּכַן "to balance…" [HVNi3ms]
+- o6: דֶּרֶךְ = H1870 דֶּרֶךְ "a road (as trodden)…" [HNcbsc]
+- o7: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o8: וְ/הֵמָּה = Hc "and" + H1992 הֵם "they (only used when emphatic)" [HC/Pp3mp]
+- o9: דַּרְכָּ/ם = H1870 דֶּרֶךְ "a road (as trodden)…" [HNcbsc/Sp3mp]
+- o10: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o11: יִתָּכֵן = H8505 תָּכַן "to balance…" [HVNi3ms]

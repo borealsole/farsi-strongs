@@ -654,3 +654,59 @@ Persian entries and current tags:
 - p20: را
 - p21: معذب ساخته_بودند  → G928
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Revelation of John 10:11 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: λέγουσίν = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-3P]
+- o3: μοι· = G1473 ἐγώ "I, me" [P-1DS]
+- o4: δεῖ = G1163 δεῖ "behoved, be meet, must (needs), (be) need(-ful)…" [V-PAI-3S]
+- o5: σε = G4771 σύ "thou" [P-2AS]
+- o6: πάλιν = G3825 πάλιν "again" [ADV]
+- o7: προφητεῦσαι = G4395 προφητεύω "prophesy" [V-AAN]
+- o8: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o9: λαοῖς = G2992 λαός "people" [N-DPM]
+- o10: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o11: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o12: ἔθνεσιν = G1484 ἔθνος "Gentile, heathen, nation, people" [N-DPN]
+- o13: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o14: γλώσσαις = G1100 γλῶσσα "tongue" [N-DPF]
+- o15: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o16: βασιλεῦσιν = G935 βασιλεύς "king" [N-DPM]
+- o17: πολλοῖς. = G4183 πολύς "abundant, + altogether, common, + far (passed…" [A-DPM]
+
+### Revelation of John 11:11 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: μετὰ = G3326 μετά "after(-ward), that he again, against, among, and…" [PREP]
+- o3: τὰς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APF]
+- o4: τρεῖς = G5140 τρεῖς "three" [A-APF]
+- o5: ἡμέρας = G2250 ἡμέρα "age, + alway, (mid-)day (by day, (-ly))…" [N-APF]
+- o6: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o7: ἥμισυ = G2255 ἥμισυ "half" [A-ASN]
+- o8: πνεῦμα = G4151 πνεῦμα "ghost, life, spirit(-ual, -ually), mind" [N-NSN]
+- o9: ζωῆς = G2222 ζωή "life(-time)" [N-GSF]
+- o10: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o11: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o12: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o13: εἰσῆλθεν = G1525 εἰσέρχομαι "arise, come (in, into), enter in(-to)…" [V-2AAI-3S]
+- o14: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o15: αὐτοῖς, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPM]
+- o16: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o17: ἔστησαν = G2476 ἵστημι "abide, appoint, bring, continue, covenant…" [V-AAI-3P]
+- o18: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o19: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o20: πόδας = G4228 πούς "foot(-stool)" [N-APM]
+- o21: αὐτῶν, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]
+- o22: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o23: φόβος = G5401 φόβος "be afraid, + exceedingly, fear, terror" [N-NSM]
+- o24: μέγας = G3173 μέγας "+ fear) exceedingly, great(-est), high, large…" [A-NSM]
+- o25: ἐπέπεσεν = G1968 ἐπιπίπτω "fall into (on, upon) lie on, press upon" [V-2AAI-3S]
+- o26: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o27: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o28: θεωροῦντας = G2334 θεωρέω "behold, consider, look on, perceive, see" [V-PAP-APM]
+- o29: αὐτούς. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-APM]

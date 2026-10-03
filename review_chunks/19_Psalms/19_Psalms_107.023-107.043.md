@@ -708,3 +708,29 @@ Persian entries and current tags:
 - p12: خداوند  → H3068
 - p13: تأمل نماید  → H995
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 107:22 (context)
+
+- o1: וְ/יִזְבְּחוּ = Hc "and" + H2076 זָבַח "to slaughter an animal (usually in sacrifice)" [HC/Vqi3mp]
+- o2: זִבְחֵי = H2077 זֶבַח "properly, a slaughter…" [HNcmpc]
+- o3: תוֹדָה = H8426 תּוֹדָה "properly, an extension of the hand…" [HNcfsa]
+- o4: וִ/יסַפְּרוּ = Hc "and" + H5608 סָפַר "properly…" [HC/Vpi3mp]
+- o5: מַעֲשָׂי/ו = H4639 מַעֲשֶׂה "an action (good or bad); generally, a transaction…" [HNcmpc/Sp3ms]
+- o6: בְּ/רִנָּה = Hb "in" + H7440 רִנָּה "properly, a creaking (or shrill sound)…" [HR/Ncfsa]
+
+### Psalms 108:1 (context)
+
+- o1: שִׁיר = H7892 שִׁיר "a song; abstractly, singing" [HNcbsa]
+- o2: מִזְמוֹר = H4210 מִזְמוֹר "properly, instrumental music…" [HNcmsa]
+- o3: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o4: נָכוֹן = H3559 כּוּן "properly, to be erect (i.e. stand perpendicular)…" [HVNrmsa]
+- o5: לִבִּ/י = H3820 לֵב "the heart…" [HNcmsc/Sp1cs]
+- o6: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o7: אָשִׁירָה = H7891 שִׁיר "to sing" [HVqh1cs]
+- o8: וַ/אֲזַמְּרָה = Hc "and" + H2167 זָמַר "play upon it…" [HC/Vph1cs]
+- o9: אַף = H637 אַף "meaning accession (used as an adverb or…" [HTa]
+- o10: כְּבוֹדִ/י = H3519 כָּבוֹד "properly, weight…" [HNcbsc/Sp1cs]

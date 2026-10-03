@@ -714,3 +714,29 @@ Persian entries and current tags:
 - p17: فرمودۀ  → H5002
 - p18: خداوند  → H3068
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Zechariah 9:17 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: מַה = H4100 מָה "properly…" [HTi]
+- o3: טּוּב/וֹ = H2898 טוּב "good (as a noun), in the widest sense…" [HNcmsc/Sp3ms]
+- o4: וּ/מַה = Hc "and" + H4100 מָה "properly…" [HC/Ti]
+- o5: יָפְי/וֹ = H3308 יֳפִי "beauty" [HNcmsc/Sp3ms]
+- o6: דָּגָן = H1715 דָּגָן "properly, increase, i.e. grain" [HNcmsa]
+- o7: בַּחוּרִים = H970 בָּחוּר "properly, selected…" [HNcmpa]
+- o8: וְ/תִירוֹשׁ = Hc "and" + H8492 תִּירוֹשׁ "must or fresh grape-juice (as just squeezed out)…" [HC/Ncmsa]
+- o9: יְנוֹבֵב = H5107 נוּב "to germinate, i.e. (figuratively) to (causatively…" [HVoi3ms]
+- o10: בְּתֻלוֹת = H1330 בְּתוּלָה "a virgin (from her privacy)…" [HNcfpa]
+
+### Zechariah 11:1 (context)
+
+- o1: פְּתַח = H6605 פָּתַח "to open wide (literally or figuratively)…" [HVqv2ms]
+- o2: לְבָנוֹן = H3844 לְבָנוֹן "Lebanon, a mountain range in Palestine" [HNp]
+- o3: דְּלָתֶי/ךָ = H1817 דֶּלֶת "something swinging, i.e. the valve of adoor" [HNcfdc/Sp2ms]
+- o4: וְ/תֹאכַל = Hc "and" + H398 אָכַל "to eat (literally or figuratively)" [HC/Vqi3fs]
+- o5: אֵשׁ = H784 אֵשׁ "fire (literally or figuratively)" [HNcbsa]
+- o6: בַּ/אֲרָזֶי/ךָ = Hb "in" + H730 אֶרֶז "a cedar tree (from the tenacity of its roots)" [HR/Ncmpc/Sp2ms]

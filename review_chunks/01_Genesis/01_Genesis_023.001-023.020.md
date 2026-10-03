@@ -1031,3 +1031,36 @@ Persian entries and current tags:
 - p24: واگذار
 - p25: شد
 - p26: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 22:24 (context)
+
+- o1: וּ/פִילַגְשׁ/וֹ = Hc "and" + H6370 פִּילֶגֶשׁ "a concubine; also (masculine) a paramour" [HC/Ncfsc/Sp3ms]
+- o2: וּ/שְׁמָ/הּ = Hc "and" + H8034 שֵׁם "an appellation…" [HC/Ncmsc/Sp3fs]
+- o3: רְאוּמָה = H7208 רְאוּמָה "Reumah, a Syrian woman" [HNp]
+- o4: וַ/תֵּלֶד = Hc "and" + H3205 יָלַד "to bear young; causatively, to beget…" [HC/Vqw3fs]
+- o5: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o6: הִוא = H1931 הוּא "he (she or it)…" [HPp3fs]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: טֶבַח = H2875 טֶבַח "Tebach…" [HNp]
+- o9: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o10: גַּחַם = H1514 גַּחַם "Gacham, a son of Nahor" [HNp]
+- o11: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o12: תַּחַשׁ = H8477 תַּחַשׁ "Tachash, a relative of Abraham" [HNp]
+- o13: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o14: מַעֲכָה = H4601 מַעֲכָה "Maakah (or Maakath), the name of a place in Syria…" [HNp]
+
+### Genesis 24:1 (context)
+
+- o1: וְ/אַבְרָהָם = Hc "and" + H85 אַבְרָהָם "Abraham, the later name of Abram" [HC/Np]
+- o2: זָקֵן = H2204 זָקֵן "to be old" [HVqp3ms]
+- o3: בָּא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3ms]
+- o4: בַּ/יָּמִים = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmpa]
+- o5: וַ/יהוָה = Hc "and" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HC/Np]
+- o6: בֵּרַךְ = H1288 בָרַךְ "to kneel…" [HVpp3ms]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: אַבְרָהָם = H85 אַבְרָהָם "Abraham, the later name of Abram" [HNp]
+- o9: בַּ/כֹּל = Hb "in" + H3605 כֹּל "properly, the whole…" [HRd/Ncmsa]

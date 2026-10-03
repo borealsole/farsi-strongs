@@ -694,3 +694,27 @@ Persian entries and current tags:
 - p10: تو
 - p11: نرسد  → H5674
 - p12: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Lamentations 3:22 (context)
+
+- o1: חַסְדֵי = H2617 חֵסֵד "kindness; by implication (towards God) piety…" [HNcmpc]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o4: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o5: תָמְנוּ = H8552 תָּמַם "to complete, in a good or a bad sense, literal…" [HVqp1cp]
+- o6: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o7: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o8: כָלוּ = H3615 כָּלָה "to end, whether intransitive (to cease…" [HVqp3cp]
+- o9: רַחֲמָי/ו = H7356 רַחַם "compassion (in the plural)…" [HNcmpc/Sp3ms]
+
+### Lamentations 3:45 (context)
+
+- o1: סְחִי = H5501 סְחִי "refuse (as swept off)" [HNcmsa]
+- o2: וּ/מָאוֹס = Hc "and" + H3973 מָאוֹס "refuse" [HC/Ncmsa]
+- o3: תְּשִׂימֵ/נוּ = H7760 שׂוּם "to put (used in a great variety of applications…" [HVqi2ms/Sp1cp]
+- o4: בְּ/קֶרֶב = Hb "in" + H7130 קֶרֶב "properly, the nearest part, i.e. the center…" [HR/Ncmsc]
+- o5: הָ/עַמִּים = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmpa]

@@ -1084,3 +1084,33 @@ Persian entries and current tags:
 - p17: خُرد
 - p18: می‌کنم
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 50:46 (context)
+
+- o1: מִ/קּוֹל = Hm "from" + H6963 קוֹל "a voice or sound" [HR/Ncmsa]
+- o2: נִתְפְּשָׂה = H8610 תָּפַשׂ "to manipulate, i.e. seize…" [HVNp3fs]
+- o3: בָבֶל = H894 בָּבֶל "Babel (i.e. Babylon)…" [HNp]
+- o4: נִרְעֲשָׁה = H7493 רָעַשׁ "to undulate (as the earth, the sky, etc.…" [HVNp3fs]
+- o5: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o6: וּ/זְעָקָה = Hc "and" + H2201 זַעַק "a shriek or outcry" [HC/Ncfsa]
+- o7: בַּ/גּוֹיִם = Hb "in" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HRd/Ncmpa]
+- o8: נִשְׁמָע = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVNp3ms]
+
+### Jeremiah 51:22 (context)
+
+- o1: וְ/נִפַּצְתִּי = Hc "and" + H5310 נָפַץ "to dash to pieces, or scatter" [HC/Vpq1cs]
+- o2: בְ/ךָ = Hb "in" [HR/Sp2ms]
+- o3: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o4: וְ/אִשָּׁה = Hc "and" + H802 אִשָּׁה "a woman" [HC/Ncfsa]
+- o5: וְ/נִפַּצְתִּי = Hc "and" + H5310 נָפַץ "to dash to pieces, or scatter" [HC/Vpq1cs]
+- o6: בְ/ךָ = Hb "in" [HR/Sp2ms]
+- o7: זָקֵן = H2205 זָקֵן "old" [HAamsa]
+- o8: וָ/נָעַר = Hc "and" + H5288 נַעַר "concretely) a boy (as active)…" [HC/Ncmsa]
+- o9: וְ/נִפַּצְתִּי = Hc "and" + H5310 נָפַץ "to dash to pieces, or scatter" [HC/Vpq1cs]
+- o10: בְ/ךָ = Hb "in" [HR/Sp2ms]
+- o11: בָּחוּר = H970 בָּחוּר "properly, selected…" [HNcmsa]
+- o12: וּ/בְתוּלָה = Hc "and" + H1330 בְּתוּלָה "a virgin (from her privacy)…" [HC/Ncfsa]

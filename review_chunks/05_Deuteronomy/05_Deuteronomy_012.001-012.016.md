@@ -953,3 +953,43 @@ Persian entries and current tags:
 - p14: زمین  → H776
 - p15: بریزید  → H8210
 - p16: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 11:32 (context)
+
+- o1: וּ/שְׁמַרְתֶּם = Hc "and" + H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HC/Vqq2mp]
+- o2: לַ/עֲשׂוֹת = Hl "to" + H6213 עָשָׂה "to do or make…" [HR/Vqc]
+- o3: אֵת = H853 אֵת "properly…" [HTo]
+- o4: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o5: הַ/חֻקִּים = Hd "the" + H2706 חֹק "an enactment…" [HTd/Ncmpa]
+- o6: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o7: הַ/מִּשְׁפָּטִים = Hd "the" + H4941 מִשְׁפָּט "properly…" [HTd/Ncmpa]
+- o8: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o9: אָנֹכִי = H595 אָנֹכִי "I" [HPp1cs]
+- o10: נֹתֵן = H5414 נָתַן "to give…" [HVqrmsa]
+- o11: לִ/פְנֵי/כֶם = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp2mp]
+- o12: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+
+### Deuteronomy 12:17 (context)
+
+- o1: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o2: תוּכַל = H3201 יָכֹל "to be able, literally (can…" [HVqi2ms]
+- o3: לֶ/אֱכֹל = Hl "to" + H398 אָכַל "to eat (literally or figuratively)" [HR/Vqc]
+- o4: בִּ/שְׁעָרֶי/ךָ = Hb "in" + H8179 שַׁעַר "an opening, i.e. door or gate" [HR/Ncmpc/Sp2ms]
+- o5: מַעְשַׂר = H4643 מַעֲשֵׂר "a tenth; especially a tithe" [HNcmsc]
+- o6: דְּגָנְ/ךָ = H1715 דָּגָן "properly, increase, i.e. grain" [HNcmsc/Sp2ms]
+- o7: וְ/תִירֹשְׁ/ךָ = Hc "and" + H8492 תִּירוֹשׁ "must or fresh grape-juice (as just squeezed out)…" [HC/Ncmsc/Sp2ms]
+- o8: וְ/יִצְהָרֶ/ךָ = Hc "and" + H3323 יִצְהָר "oil (as producing light); figuratively, anointing" [HC/Ncmsc/Sp2ms]
+- o9: וּ/בְכֹרֹת = Hc "and" + H1062 בְּכוֹרָה "the firstling of man or beast…" [HC/Ncbpc]
+- o10: בְּקָרְ/ךָ = H1241 בָּקָר "beef cattle or an animal of the ox family of…" [HNcbsc/Sp2ms]
+- o11: וְ/צֹאנֶ/ךָ = Hc "and" + H6629 צֹאן "a collective name for a flock (of sheep or goats)…" [HC/Ncbsc/Sp2ms]
+- o12: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o13: נְדָרֶי/ךָ = H5088 נֶדֶר "a promise (to God)…" [HNcmpc/Sp2ms]
+- o14: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o15: תִּדֹּר = H5087 נָדַר "to promise (pos., to do or give something to God)" [HVqi2ms]
+- o16: וְ/נִדְבֹתֶי/ךָ = Hc "and" + H5071 נְדָבָה "properly (abstractly) spontaneity…" [HC/Ncfpc/Sp2ms]
+- o17: וּ/תְרוּמַת = Hc "and" + H8641 תְּרוּמָה "a present (as offered up)…" [HC/Ncfsc]
+- o18: יָדֶ/ךָ = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsc/Sp2ms]

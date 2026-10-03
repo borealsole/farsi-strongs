@@ -765,3 +765,28 @@ Persian entries and current tags:
 - p25: پُرصخره  → H1336
 - p26: باش
 - p27: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Song of Solomon 1:17 (context)
+
+- o1: קֹרוֹת = H6982 קוֹרָה "a rafter (forming trenches as it were)…" [HNcfpc]
+- o2: בָּתֵּי/נוּ = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmpc/Sp1cp]
+- o3: אֲרָזִים = H730 אֶרֶז "a cedar tree (from the tenacity of its roots)" [HNcmpa]
+- o4: רחיט/נו = H7351 רְחִיט "a panel (as resembling a trough)" [HNcmsc/Sp1cp]
+- o5: בְּרוֹתִים = H1266 בְּרוֹת "the cypress (or some elastic tree)" [HNcmpa]
+
+### Song of Solomon 3:1 (context)
+
+- o1: עַל = H5921 עַל "above, over, upon…" [HR]
+- o2: מִשְׁכָּבִ/י = H4904 מִשְׁכָּב "a bed (figuratively, a bier); abstractly, sleep…" [HNcmsc/Sp1cs]
+- o3: בַּ/לֵּילוֹת = Hb "in" + H3915 לַיִל "properly, a twist (away of the light), i.e. night…" [HRd/Ncmpa]
+- o4: בִּקַּשְׁתִּי = H1245 בָּקַשׁ "to search out (by any method…" [HVpp1cs]
+- o5: אֵת = H853 אֵת "properly…" [HTo]
+- o6: שֶׁ/אָהֲבָה = Hs "which" + H157 אָהַב "to have affection for (sexually or otherwise)" [HTr/Vqp3fs]
+- o7: נַפְשִׁ/י = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsc/Sp1cs]
+- o8: בִּקַּשְׁתִּי/ו = H1245 בָּקַשׁ "to search out (by any method…" [HVpp1cs/Sp3ms]
+- o9: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o10: מְצָאתִי/ו = H4672 מָצָא "properly, to come forth to, i.e. appear or exist…" [HVqp1cs/Sp3ms]

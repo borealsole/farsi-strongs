@@ -938,3 +938,54 @@ Persian entries and current tags:
 - p17: فلسطینیان  → H6430
 - p18: بودند
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 16:23 (context)
+
+- o1: וְ/הָיָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqp3ms]
+- o2: בִּ/הְיוֹת = Hb "in" + H1961 הָיָה "to exist, i.e. be or become…" [HR/Vqc]
+- o3: רוּחַ = H7307 רוּחַ "wind…" [HNcbsc]
+- o4: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o5: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o6: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o7: וְ/לָקַח = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqq3ms]
+- o8: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: הַ/כִּנּוֹר = Hd "the" + H3658 כִּנּוֹר "a harp" [HTd/Ncmsa]
+- o11: וְ/נִגֵּן = Hc "and" + H5059 נָגַן "properly, to thrum…" [HC/Vpp3ms]
+- o12: בְּ/יָד/וֹ = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc/Sp3ms]
+- o13: וְ/רָוַח = Hc "and" + H7304 רָוַח "properly, to breathe freely, i.e. revive…" [HC/Vqp3ms]
+- o14: לְ/שָׁאוּל = Hl "to" + H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HR/Np]
+- o15: וְ/טוֹב = Hc "and" + H2895 טוֹב "to be (transitively…" [HC/Vqp3ms]
+- o16: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o17: וְ/סָרָה = Hc "and" + H5493 סוּר "to turn off (literal or figurative)" [HC/Vqq3fs]
+- o18: מֵ/עָלָי/ו = Hm "from" + H5921 עַל "above, over, upon…" [HR/R/Sp3ms]
+- o19: רוּחַ = H7307 רוּחַ "wind…" [HNcbsc]
+- o20: הָ/רָעָה = Hd "the" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HTd/Aafsa]
+
+### I Samuel 17:20 (context)
+
+- o1: וַ/יַּשְׁכֵּם = Hc "and" + H7925 שָׁכַם "literally…" [HC/Vhw3ms]
+- o2: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o3: בַּ/בֹּקֶר = Hb "in" + H1242 בֹּקֶר "properly, dawn (as the break of day)…" [HRd/Ncmsa]
+- o4: וַ/יִּטֹּשׁ = Hc "and" + H5203 נָטַשׁ "properly, to pound, i.e. smite…" [HC/Vqw3ms]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: הַ/צֹּאן = Hd "the" + H6629 צֹאן "a collective name for a flock (of sheep or goats)…" [HTd/Ncbsa]
+- o7: עַל = H5921 עַל "above, over, upon…" [HR]
+- o8: שֹׁמֵר = H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HVqrmsa]
+- o9: וַ/יִּשָּׂא = Hc "and" + H5375 נָשָׂא "to lift, in a great variety of applications…" [HC/Vqw3ms]
+- o10: וַ/יֵּלֶךְ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3ms]
+- o11: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o12: צִוָּ/הוּ = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp3ms/Sp3ms]
+- o13: יִשָׁי = H3448 יִשַׁי "Jishai, David's father" [HNp]
+- o14: וַ/יָּבֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3ms]
+- o15: הַ/מַּעְגָּלָ/ה = Hd "the" + H4570 מַעְגָּל "a track (literally or figuratively)…" [HTd/Ncmsa/Sd]
+- o16: וְ/הַ/חַיִל = Hc "and" + Hd "the" + H2428 חַיִל "probably a force, whether of men…" [HC/Td/Ncmsa]
+- o17: הַ/יֹּצֵא = Hd "the" + H3318 יָצָא "to go (causatively, bring) out…" [HTd/Vqrmsa]
+- o18: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o19: הַ/מַּעֲרָכָה = Hd "the" + H4634 מַעֲרָכָה "an arrangement; concretely, a pile…" [HTd/Ncfsa]
+- o20: וְ/הֵרֵעוּ = Hc "and" + H7321 רוּעַ "to mar (especially by breaking)…" [HC/Vhp3cp]
+- o21: בַּ/מִּלְחָמָה = Hb "in" + H4421 מִלְחָמָה "a battle (i.e. the engagement)…" [HRd/Ncfsa]

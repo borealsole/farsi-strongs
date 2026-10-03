@@ -1040,3 +1040,53 @@ Persian entries and current tags:
 - p37: .
 - p38: “
 - p39: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 38:28 (context)
+
+- o1: וַ/יֵּשֶׁב = Hc "and" + H3427 יָשַׁב "properly…" [HC/Vqw3ms]
+- o2: יִרְמְיָהוּ = H3414 יִרְמְיָה "Jirmejah, the name of eight or nine Israelites" [HNp]
+- o3: בַּ/חֲצַר = Hb "in" + H2691 חָצֵר "a yard (as inclosed by a fence)…" [HR/Ncbsc]
+- o4: הַ/מַּטָּרָה = Hd "the" + H4307 מַטָּרָא "a jail (as a guard-house)…" [HTd/Ncfsa]
+- o5: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o6: יוֹם = H3117 יוֹם "a day (as the warm hours)…" [HNcmsa]
+- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o8: נִלְכְּדָה = H3920 לָכַד "to catch (in a net, trap or pit)…" [HVNp3fs]
+- o9: יְרוּשָׁלִָם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+- o10: וְ/הָיָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3ms]
+- o11: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o12: נִלְכְּדָה = H3920 לָכַד "to catch (in a net, trap or pit)…" [HVNp3fs]
+- o13: יְרוּשָׁלִָם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+
+### Jeremiah 40:1 (context)
+
+- o1: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]
+- o2: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o3: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o4: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o5: יִרְמְיָהוּ = H3414 יִרְמְיָה "Jirmejah, the name of eight or nine Israelites" [HNp]
+- o6: מֵ/אֵת = Hm "from" + H854 אֵת "properly…" [HR/R]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: אַחַר = H310 אַחַר "properly, the hind part…" [HR]
+- o9: שַׁלַּח = H7971 שָׁלַח "to send away, for…" [HVpc]
+- o10: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o11: נְבוּזַרְאֲדָן = H5018 נְבוּזַרְאֲדָן "Nebuzaradan, a Babylonian general" [HNp]
+- o12: רַב = H7227 רַב "abundant (in quantity, size, age, number, rank…" [HNcmsc]
+- o13: טַבָּחִים = H2876 טַבָּח "properly, a butcher…" [HNcmpa]
+- o14: מִן = H4480 מִן "properly, a part of…" [HR]
+- o15: הָ/רָמָה = Hd "the" + H7414 רָמָה "Ramah, the name of four places in Palestine" [HTd/Np]
+- o16: בְּ/קַחְתּ/וֹ = Hb "in" + H3947 לָקַח "to take (in the widest variety of applications)" [HR/Vqc/Sp3ms]
+- o17: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o18: וְ/הוּא = Hc "and" + H1931 הוּא "he (she or it)…" [HC/Pp3ms]
+- o19: אָסוּר = H631 אָסַר "to yoke or hitch…" [HVqsmsa]
+- o20: בָּ/אזִקִּים = Hb "in" + H246 אֲזִקִּים "manacles" [HRd/Ncmpa]
+- o21: בְּ/תוֹךְ = Hb "in" + H8432 תָּוֶךְ "a bisection, i.e. (by implication) the centre" [HR/Ncmsc]
+- o22: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o23: גָּלוּת = H1546 גָּלוּת "captivity; concretely, exiles (collectively)" [HNcfsc]
+- o24: יְרוּשָׁלִַם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+- o25: וִ/יהוּדָה = Hc "and" + H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HC/Np]
+- o26: הַ/מֻּגְלִים = Hd "the" + H1540 גָּלָה "to denude (especially in a disgraceful sense)…" [HTd/VHsmpa]
+- o27: בָּבֶלָ/ה = H894 בָּבֶל "Babel (i.e. Babylon)…" [HNp/Sd]

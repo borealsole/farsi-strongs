@@ -649,3 +649,26 @@ Persian entries and current tags:
 - p13: دروغ  → H3576
 - p14: نخواهم_گفت  → H518 H3576
 - p15: ،
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 89:17 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: תִפְאֶרֶת = H8597 תִּפְאָרָה "ornament (abstractly or concretely…" [HNcfsc]
+- o3: עֻזָּ/מוֹ = H5797 עֹז "strength in various applications (force, security…" [HNcmsc/Sp3mp]
+- o4: אָתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o5: וּ/בִ/רְצֹנְ/ךָ = Hc "and" + Hb "in" + H7522 רָצוֹן "delight (especially as shown)" [HC/R/Ncmsc/Sp2ms]
+- o6: תרים = H7311 רוּם "to be high actively…" [HVhi2ms]
+- o7: קַרְנֵ/נוּ = H7161 קֶרֶן "a horn (as projecting)…" [HNcbsc/Sp1cp]
+
+### Psalms 89:36 (context)
+
+- o1: זַרְע/וֹ = H2233 זֶרַע "seed…" [HNcmsc/Sp3ms]
+- o2: לְ/עוֹלָם = Hl "to" + H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HR/Ncmsa]
+- o3: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o4: וְ/כִסְא/וֹ = Hc "and" + H3678 כִּסֵּא "properly, covered, i.e. a throne (as canopied)" [HC/Ncmsc/Sp3ms]
+- o5: כַ/שֶּׁמֶשׁ = Hk "like" + H8121 שֶׁמֶשׁ "the sun; by implication, the east…" [HRd/Ncbsa]
+- o6: נֶגְדִּ/י = H5048 נֶגֶד "a front, i.e. part opposite…" [HR/Sp1cs]

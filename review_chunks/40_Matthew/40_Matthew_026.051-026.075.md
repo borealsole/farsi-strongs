@@ -1274,3 +1274,52 @@ Persian entries and current tags:
 - p26: به‌تلخی  → G4090
 - p27: بگریست  → G2799
 - p28: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 26:50 (context)
+
+- o1: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: Ἰησοῦς = G2424 Ἰησοῦς "Jesus" [N-NSM]
+- o4: εἶπεν = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-2AAI-3S]
+- o5: αὐτῷ, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
+- o6: ἑταῖρε, = G2083 ἑταῖρος "fellow, friend" [N-VSM]
+- o7: ἐφ’ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o8: ὃ = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-ASN]
+- o9: πάρει. = G3918 πάρειμι "come, have, be here, + lack, (be here) present" [V-PAI-2S]
+- o10: τότε = G5119 τότε "that time, then" [ADV]
+- o11: προσελθόντες = G4334 προσέρχομαι "as soon as he) come (unto), come thereunto…" [V-2AAP-NPM]
+- o12: ἐπέβαλον = G1911 ἐπιβάλλω "beat into, cast (up-)on, fall, lay (on)…" [V-2AAI-3P]
+- o13: τὰς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APF]
+- o14: χεῖρας = G5495 χείρ "hand" [N-APF]
+- o15: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o16: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o17: Ἰησοῦν = G2424 Ἰησοῦς "Jesus" [N-ASM]
+- o18: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o19: ἐκράτησαν = G2902 κρατέω "hold (by, fast), keep, lay hand (hold) on, obtain…" [V-AAI-3P]
+- o20: αὐτόν. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASM]
+
+### Matthew 27:1 (context)
+
+- o1: Πρωΐας = G4405 πρωΐα "early, morning" [N-GSF]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: γενομένης = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-2ADP-GSF]
+- o4: συμβούλιον = G4824 συμβούλιον "consultation, counsel, council" [N-ASN]
+- o5: ἔλαβον = G2983 λαμβάνω "accept, + be amazed, assay, attain, bring…" [V-2AAI-3P]
+- o6: πάντες = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-NPM]
+- o7: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o8: ἀρχιερεῖς = G749 ἀρχιερεύς "chief (high) priest, chief of the priests" [N-NPM]
+- o9: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o10: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o11: πρεσβύτεροι = G4245 πρεσβύτερος "elder(-est), old" [A-NPM-C]
+- o12: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o13: λαοῦ = G2992 λαός "people" [N-GSM]
+- o14: κατὰ = G2596 κατά "about, according as (to), after, against…" [PREP]
+- o15: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o16: Ἰησοῦ, = G2424 Ἰησοῦς "Jesus" [N-GSM]
+- o17: ὥστε = G5620 ὥστε "insomuch) as, so that (then), (insomuch) that…" [CONJ]
+- o18: θανατῶσαι = G2289 θανατόω "become dead, (cause to be) put to death, kill…" [V-AAN]
+- o19: αὐτόν. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASM]

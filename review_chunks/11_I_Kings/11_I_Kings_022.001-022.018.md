@@ -1068,3 +1068,50 @@ Persian entries and current tags:
 - p24: بدی  → H7451
 - p25: ؟
 - p26: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 21:29 (context)
+
+- o1: הֲ/רָאִיתָ = Hi "(untranslatable; interrogative particle)" + H7200 רָאָה "to see…" [HTi/Vqp2ms]
+- o2: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o3: נִכְנַע = H3665 כָּנַע "properly, to bend the knee…" [HVNp3ms]
+- o4: אַחְאָב = H256 אַחְאָב "Achab…" [HNp]
+- o5: מִ/לְּ/פָנָ/י = Hm "from" + Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/R/Ncbpc/Sp1cs]
+- o6: יַעַן = H3282 יַעַן "properly, heed…" [HC]
+- o7: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o8: נִכְנַע = H3665 כָּנַע "properly, to bend the knee…" [HVNp3ms]
+- o9: מִ/פָּנַ/י = Hm "from" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp1cs]
+- o10: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o11: אבי = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVhi1cs]
+- o12: הָ/רָעָה = Hd "the" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HTd/Ncfsa]
+- o13: בְּ/יָמָי/ו = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmpc/Sp3ms]
+- o14: בִּ/ימֵי = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmpc]
+- o15: בְנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o16: אָבִיא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVhi1cs]
+- o17: הָ/רָעָה = Hd "the" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HTd/Ncfsa]
+- o18: עַל = H5921 עַל "above, over, upon…" [HR]
+- o19: בֵּית/וֹ = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc/Sp3ms]
+
+### I Kings 22:19 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: לָ/כֵן = Hl "to" + H3651 כֵּן "properly, set upright…" [HR/D]
+- o3: שְׁמַע = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqv2ms]
+- o4: דְּבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o5: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o6: רָאִיתִי = H7200 רָאָה "to see…" [HVqp1cs]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o9: יֹשֵׁב = H3427 יָשַׁב "properly…" [HVqrmsa]
+- o10: עַל = H5921 עַל "above, over, upon…" [HR]
+- o11: כִּסְא/וֹ = H3678 כִּסֵּא "properly, covered, i.e. a throne (as canopied)" [HNcmsc/Sp3ms]
+- o12: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o13: צְבָא = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbsc]
+- o14: הַ/שָּׁמַיִם = Hd "the" + H8064 שָׁמַיִם "the sky (as aloft…" [HTd/Ncmpa]
+- o15: עֹמֵד = H5975 עָמַד "to stand…" [HVqrmsa]
+- o16: עָלָי/ו = H5921 עַל "above, over, upon…" [HR/Sp3ms]
+- o17: מִ/ימִינ/וֹ = Hm "from" + H3225 יָמִין "the right hand or side (leg…" [HR/Ncfsc/Sp3ms]
+- o18: וּ/מִ/שְּׂמֹאל/וֹ = Hc "and" + Hm "from" + H8040 שְׂמֹאול "properly, dark (as enveloped), i.e. the north…" [HC/R/Ncmsc/Sp3ms]

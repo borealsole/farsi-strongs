@@ -677,3 +677,49 @@ Persian entries and current tags:
 - p23: جاودانه  → G1519 G165
 - p24: کامل شده_است  → G5048
 - p25: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Hebrews 7:14 (context)
+
+- o1: πρόδηλον = G4271 πρόδηλος "evident, manifest (open) beforehand" [A-NSN]
+- o2: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o3: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o4: ἐξ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o5: Ἰούδα = G2448 Ἰουδά "Judah" [N-GSM]
+- o6: ἀνατέταλκεν = G393 ἀνατέλλω "a-, make to) rise, at the rising of, spring (up)…" [V-RAI-3S]
+- o7: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o8: κύριος = G2962 κύριος "God, Lord, master, Sir" [N-NSM]
+- o9: ἡμῶν, = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+- o10: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o11: ἣν = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-ASF]
+- o12: φυλὴν = G5443 φυλή "kindred, tribe" [N-ASF]
+- o13: περὶ = G4012 περί "there-)about, above, against, at, on behalf of…" [PREP]
+- o14: ἱερέων = G2409 ἱερεύς "(high) priest" [N-GPM]
+- o15: οὐδὲν = G3762 οὐδείς "any (man), aught, man, neither any (thing)…" [A-ASN-N]
+- o16: Μωϋσῆς = G3475 Μωσεύς "Moses" [N-NSM]
+- o17: ἐλάλησεν. = G2980 λαλέω "preach, say, speak (after), talk, tell, utter" [V-AAI-3S]
+
+### Hebrews 8:1 (context)
+
+- o1: Κεφάλαιον = G2774 κεφάλαιον "sum" [N-NSN]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o4: τοῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPN]
+- o5: λεγομένοις, = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PPP-DPN]
+- o6: τοιοῦτον = G5108 τοιοῦτος "like, such (an one)" [D-ASM]
+- o7: ἔχομεν = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAI-1P]
+- o8: ἀρχιερέα, = G749 ἀρχιερεύς "chief (high) priest, chief of the priests" [N-ASM]
+- o9: ὃς = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-NSM]
+- o10: ἐκάθισεν = G2523 καθίζω "continue, set, sit (down), tarry" [V-AAI-3S]
+- o11: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o12: δεξιᾷ = G1188 δεξιός "right (hand, side)" [A-DSF]
+- o13: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o14: θρόνου = G2362 θρόνος "seat, throne" [N-GSM]
+- o15: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o16: μεγαλωσύνης = G3172 μεγαλωσύνη "majesty" [N-GSF]
+- o17: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o18: τοῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPM]
+- o19: οὐρανοῖς, = G3772 οὐρανός "air, heaven(-ly), sky" [N-DPM]

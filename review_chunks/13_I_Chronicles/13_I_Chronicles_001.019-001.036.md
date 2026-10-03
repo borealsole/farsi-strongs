@@ -602,3 +602,27 @@ Persian entries and current tags:
 - p20: تِمناع
 - p21: بود
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 1:18 (context)
+
+- o1: וְ/אַרְפַּכְשַׁד = Hc "and" + H775 אַרְפַּכְשַׁד "Arpakshad, a son of Noah…" [HC/Np]
+- o2: יָלַד = H3205 יָלַד "to bear young; causatively, to beget…" [HVqp3ms]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: שָׁלַח = H7974 שֶׁלַח "Shelach, a postdiluvian patriarch" [HNp]
+- o5: וְ/שֶׁלַח = Hc "and" + H7974 שֶׁלַח "Shelach, a postdiluvian patriarch" [HC/Np]
+- o6: יָלַד = H3205 יָלַד "to bear young; causatively, to beget…" [HVqp3ms]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: עֵבֶר = H5677 עֵבֵר "Eber…" [HNp]
+
+### I Chronicles 1:37 (context)
+
+- o1: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o2: רְעוּאֵל = H7467 רְעוּאֵל "Reuel, the name of Moses' father-in-law…" [HNp]
+- o3: נַחַת = H5184 נַחַת "Nachath…" [HNp]
+- o4: זֶרַח = H2226 זֶרַח "Zerach, the name of three Israelites…" [HNp]
+- o5: שַׁמָּה = H8048 שַׁמָּה "Shammah…" [HNp]
+- o6: וּ/מִזָּה = Hc "and" + H4199 מִזָּה "Mizzah, an Edomite" [HC/Np]

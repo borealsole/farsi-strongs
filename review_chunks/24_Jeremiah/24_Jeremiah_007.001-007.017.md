@@ -898,3 +898,41 @@ Persian entries and current tags:
 - p9: چه  → H4100
 - p10: می‌کنند
 - p11: ؟
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 6:30 (context)
+
+- o1: כֶּסֶף = H3701 כֶּסֶף "silver (from its pale color)…" [HNcmsa]
+- o2: נִמְאָס = H3988 מָאַס "to spurn; also (intransitively) to disappear" [HVNrmsa]
+- o3: קָרְאוּ = H7121 קָרָא "to call out to (i.e. properly, address by name…" [HVqp3cp]
+- o4: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o5: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o6: מָאַס = H3988 מָאַס "to spurn; also (intransitively) to disappear" [HVqp3ms]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: בָּ/הֶם = Hb "in" [HR/Sp3mp]
+
+### Jeremiah 7:18 (context)
+
+- o1: הַ/בָּנִים = Hd "the" + H1121 בֵּן "a son (as a builder of the family name)…" [HTd/Ncmpa]
+- o2: מְלַקְּטִים = H3950 לָקַט "properly, to pick up, i.e. (generally) to gather…" [HVprmpa]
+- o3: עֵצִים = H6086 עֵץ "a tree (from its firmness)…" [HNcmpa]
+- o4: וְ/הָ/אָבוֹת = Hc "and" + Hd "the" + H1 אָב "father, in a literal and immediate…" [HC/Td/Ncmpa]
+- o5: מְבַעֲרִים = H1197 בָּעַר "to kindle, i.e. consume (by fire or by eating)…" [HVprmpa]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: הָ/אֵשׁ = Hd "the" + H784 אֵשׁ "fire (literally or figuratively)" [HTd/Ncbsa]
+- o8: וְ/הַ/נָּשִׁים = Hc "and" + Hd "the" + H802 אִשָּׁה "a woman" [HC/Td/Ncfpa]
+- o9: לָשׁוֹת = H3888 לוּשׁ "to knead" [HVqrfpa]
+- o10: בָּצֵק = H1217 בָּצֵק "dough (as swelling by fermentation)" [HNcmsa]
+- o11: לַ/עֲשׂוֹת = Hl "to" + H6213 עָשָׂה "to do or make…" [HR/Vqc]
+- o12: כַּוָּנִים = H3561 כַּוָּן "something prepared, i.e. a sacrificial wafer" [HNcmpa]
+- o13: לִ/מְלֶכֶת = Hl "to" + H4446 מְלֶכֶת "a queen" [HR/Ncfsc]
+- o14: הַ/שָּׁמַיִם = Hd "the" + H8064 שָׁמַיִם "the sky (as aloft…" [HTd/Ncmpa]
+- o15: וְ/הַסֵּךְ = Hc "and" + H5258 נָסַךְ "to pour out, especially a libation…" [HC/Vha]
+- o16: נְסָכִים = H5262 נֶסֶךְ "a libation; also a cast idol" [HNcmpa]
+- o17: לֵ/אלֹהִים = Hl "to" + H430 אֱלֹהִים "gods in the ordinary sense…" [HR/Ncmpa]
+- o18: אֲחֵרִים = H312 אַחֵר "properly, hinder; generally, next, other, etc" [HAampa]
+- o19: לְמַעַן = H4616 מַעַן "properly, heed, i.e. purpose…" [HR]
+- o20: הַכְעִסֵ/נִי = H3707 כַּעַס "to trouble…" [HVhc/Sp1cs]

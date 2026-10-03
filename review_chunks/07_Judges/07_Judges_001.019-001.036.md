@@ -925,3 +925,51 @@ Persian entries and current tags:
 - p11: سمت بالا  → H4605
 - p12: بود
 - p13: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Judges 1:18 (context)
+
+- o1: וַ/יִּלְכֹּד = Hc "and" + H3920 לָכַד "to catch (in a net, trap or pit)…" [HC/Vqw3ms]
+- o2: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: עַזָּה = H5804 עַזָּה "Azzah, a place in Palestine" [HNp]
+- o5: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o6: גְּבוּלָ/הּ = H1366 גְּבוּל "properly, a cord (as twisted)…" [HNcmsc/Sp3fs]
+- o7: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o8: אַשְׁקְלוֹן = H831 אַשְׁקְלוֹן "Ashkelon, a place in Palestine" [HNp]
+- o9: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o10: גְּבוּלָ/הּ = H1366 גְּבוּל "properly, a cord (as twisted)…" [HNcmsc/Sp3fs]
+- o11: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o12: עֶקְרוֹן = H6138 עֶקְרוֹן "Ekron, a place in Palestine" [HNp]
+- o13: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o14: גְּבוּלָ/הּ = H1366 גְּבוּל "properly, a cord (as twisted)…" [HNcmsc/Sp3fs]
+
+### Judges 2:1 (context)
+
+- o1: וַ/יַּעַל = Hc "and" + H5927 עָלָה "to ascend…" [HC/Vqw3ms]
+- o2: מַלְאַךְ = H4397 מֲלְאָךְ "a messenger…" [HNcmsc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: מִן = H4480 מִן "properly, a part of…" [HR]
+- o5: הַ/גִּלְגָּל = Hd "the" + H1537 גִּלְגָּל "Gilgal, the name of three places in Palestine" [HTd/Np]
+- o6: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o7: הַ/בֹּכִים = Hd "the" + H1066 בֹּכִים "Bo-kim, a place in Palestine" [HTd/Np]
+- o8: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o9: אַעֲלֶה = H5927 עָלָה "to ascend…" [HVhi1cs]
+- o10: אֶתְ/כֶם = H853 אֵת "properly…" [HTo/Sp2mp]
+- o11: מִ/מִּצְרַיִם = Hm "from" + H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HR/Np]
+- o12: וָ/אָבִיא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vhw1cs]
+- o13: אֶתְ/כֶם = H853 אֵת "properly…" [HTo/Sp2mp]
+- o14: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o15: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o16: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o17: נִשְׁבַּעְתִּי = H7650 שָׁבַע "to seven oneself…" [HVNp1cs]
+- o18: לַ/אֲבֹתֵי/כֶם = Hl "to" + H1 אָב "father, in a literal and immediate…" [HR/Ncmpc/Sp2mp]
+- o19: וָ/אֹמַר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw1cs]
+- o20: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o21: אָפֵר = H6565 פָּרַר "to break up (usually figuratively)…" [HVhi1cs]
+- o22: בְּרִיתִ/י = H1285 בְּרִית "a compact (because made by passing between pieces…" [HNcfsc/Sp1cs]
+- o23: אִתְּ/כֶם = H854 אֵת "properly…" [HR/Sp2mp]
+- o24: לְ/עוֹלָם = Hl "to" + H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HR/Ncmsa]

@@ -1168,3 +1168,50 @@ Persian entries and current tags:
 - p32: پسران  → H1121
 - p33: هارون  → H175
 - p34: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Nehemiah 12:24 (context)
+
+- o1: וְ/רָאשֵׁי = Hc "and" + H7218 רֹאשׁ "the head (as most easily shaken)…" [HC/Ncmpc]
+- o2: הַ/לְוִיִּם = Hd "the" + H3881 לֵוִיִּי "a Levite or descendant of Levi" [HTd/Ngmpa]
+- o3: חֲשַׁבְיָה = H2811 חֲשַׁבְיָה "Chashabjah, the name of nine Israelites" [HNp]
+- o4: שֵׁרֵבְיָה = H8274 שֵׁרֵבְיָה "Sherebjah, the name of two Israelites" [HNp]
+- o5: וְ/יֵשׁוּעַ = Hc "and" + H3442 יֵשׁוּעַ "Jeshua, the name of ten Israelites…" [HC/Np]
+- o6: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o7: קַדְמִיאֵל = H6934 קַדְמִיאֵל "Kadmiel, the name of three Israelites" [HNp]
+- o8: וַ/אֲחֵי/הֶם = Hc "and" + H251 אָח "a brother (used in the widest sense of literal…" [HC/Ncmpc/Sp3mp]
+- o9: לְ/נֶגְדָּ/ם = Hl "to" + H5048 נֶגֶד "a front, i.e. part opposite…" [HR/R/Sp3mp]
+- o10: לְ/הַלֵּל = Hl "to" + H1984 הָלַל "to be clear (orig. of sound…" [HR/Vpc]
+- o11: לְ/הוֹדוֹת = Hl "to" + H3034 יָדָה "physically, to throw (a stone…" [HR/Vhc]
+- o12: בְּ/מִצְוַת = Hb "in" + H4687 מִצְוָה "a command, whether human or divine (collectively…" [HR/Ncfsc]
+- o13: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o14: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsc]
+- o15: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o16: מִשְׁמָר = H4929 מִשְׁמָר "a guard (the man, the post or the prison)…" [HNcmsa]
+- o17: לְ/עֻמַּת = Hl "to" + H5980 עֻמָּה "conjunction, i.e. society…" [HR/Ncfsc]
+- o18: מִשְׁמָר = H4929 מִשְׁמָר "a guard (the man, the post or the prison)…" [HNcmsa]
+
+### Nehemiah 13:1 (context)
+
+- o1: בַּ/יּוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
+- o2: הַ/הוּא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3ms]
+- o3: נִקְרָא = H7121 קָרָא "to call out to (i.e. properly, address by name…" [HVNp3ms]
+- o4: בְּ/סֵפֶר = Hb "in" + H5612 סֵפֶר "properly, writing (the art or a document)…" [HR/Ncmsc]
+- o5: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o6: בְּ/אָזְנֵי = Hb "in" + H241 אֹזֶן "broadness. i.e. (concrete) the ear (from its form…" [HR/Ncfdc]
+- o7: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o8: וְ/נִמְצָא = Hc "and" + H4672 מָצָא "properly, to come forth to, i.e. appear or exist…" [HC/VNp3ms]
+- o9: כָּתוּב = H3789 כָּתַב "to grave, by implication, to write (describe…" [HVqsmsa]
+- o10: בּ/וֹ = Hb "in" [HR/Sp3ms]
+- o11: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o12: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o13: יָבוֹא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqi3ms]
+- o14: עַמֹּנִי = H5984 עַמּוֹנִי "an Ammonite or (the adjective) Ammonitish" [HNgmsa]
+- o15: וּ/מֹאָבִי = Hc "and" + H4125 מוֹאָבִי "a Moabite or Moabitess…" [HC/Ngmsa]
+- o16: בִּ/קְהַל = Hb "in" + H6951 קָהָל "assemblage (usually concretely)" [HR/Ncmsc]
+- o17: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o18: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o19: עוֹלָם = H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HNcmsa]

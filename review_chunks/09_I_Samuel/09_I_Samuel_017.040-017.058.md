@@ -1094,3 +1094,51 @@ Persian entries and current tags:
 - p22: بِیت‌لِحِمی  → H1022
 - p23: .
 - p24: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 17:39 (context)
+
+- o1: וַ/יַּחְגֹּר = Hc "and" + H2296 חָגַר "to gird on (as a belt, armor, etc.)" [HC/Vqw3ms]
+- o2: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: חַרְבּ/וֹ = H2719 חֶרֶב "drought…" [HNcfsc/Sp3ms]
+- o5: מֵ/עַל = Hm "from" + H5921 עַל "above, over, upon…" [HR/R]
+- o6: לְ/מַדָּי/ו = Hl "to" + H4055 מַד "properly, extent, i.e. height; also a measure…" [HR/Ncmpc/Sp3ms]
+- o7: וַ/יֹּאֶל = Hc "and" + H2974 יָאַל "properly, to yield, especially assent…" [HC/Vhw3ms]
+- o8: לָ/לֶכֶת = Hl "to" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HR/Vqc]
+- o9: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o10: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o11: נִסָּה = H5254 נָסָה "to test; by implication, to attempt" [HVpp3ms]
+- o12: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o13: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o14: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o15: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o16: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o17: אוּכַל = H3201 יָכֹל "to be able, literally (can…" [HVqi1cs]
+- o18: לָ/לֶכֶת = Hl "to" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HR/Vqc]
+- o19: בָּ/אֵלֶּה = Hb "in" + H428 אֵלֶּה "these or those" [HR/Pdxcp]
+- o20: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o21: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o22: נִסִּיתִי = H5254 נָסָה "to test; by implication, to attempt" [HVpp1cs]
+- o23: וַ/יְסִרֵ/ם = Hc "and" + H5493 סוּר "to turn off (literal or figurative)" [HC/Vhw3ms/Sp3mp]
+- o24: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o25: מֵ/עָלָי/ו = Hm "from" + H5921 עַל "above, over, upon…" [HR/R/Sp3ms]
+
+### I Samuel 18:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: כְּ/כַלֹּת/וֹ = Hk "like" + H3615 כָּלָה "to end, whether intransitive (to cease…" [HR/Vpc/Sp3ms]
+- o3: לְ/דַבֵּר = Hl "to" + H1696 דָבַר "perhaps properly, to arrange…" [HR/Vpc]
+- o4: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o5: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o6: וְ/נֶפֶשׁ = Hc "and" + H5315 נֶפֶשׁ "properly, a breathing creature…" [HC/Ncbsc]
+- o7: יְהוֹנָתָן = H3083 יְהוֹנָתָן "Jehonathan, the name of four Israelites" [HNp]
+- o8: נִקְשְׁרָה = H7194 קָשַׁר "to tie, physically (gird, confine…" [HVNp3fs]
+- o9: בְּ/נֶפֶשׁ = Hb "in" + H5315 נֶפֶשׁ "properly, a breathing creature…" [HR/Ncbsc]
+- o10: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o11: ו/יאהבו = Hc "and" + H157 אָהַב "to have affection for (sexually or otherwise)" [HC/Vqw3ms]
+- o12: יְהוֹנָתָן = H3083 יְהוֹנָתָן "Jehonathan, the name of four Israelites" [HNp]
+- o13: כְּ/נַפְשׁ/וֹ = Hk "like" + H5315 נֶפֶשׁ "properly, a breathing creature…" [HR/Ncbsc/Sp3ms]

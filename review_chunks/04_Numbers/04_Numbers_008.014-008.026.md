@@ -711,3 +711,38 @@ Persian entries and current tags:
 - p26: عمل کن  → H6213
 - p27: .
 - p28: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 8:13 (context)
+
+- o1: וְ/הַעֲמַדְתָּ = Hc "and" + H5975 עָמַד "to stand…" [HC/Vhq2ms]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: הַ/לְוִיִּם = Hd "the" + H3881 לֵוִיִּי "a Levite or descendant of Levi" [HTd/Ngmpa]
+- o4: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o5: אַהֲרֹן = H175 אַהֲרוֹן "Aharon, the brother of Moses" [HNp]
+- o6: וְ/לִ/פְנֵי = Hc "and" + Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HC/R/Ncbpc]
+- o7: בָנָי/ו = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc/Sp3ms]
+- o8: וְ/הֵנַפְתָּ = Hc "and" + H5130 נוּף "to quiver (i.e. vibrate up and down…" [HC/Vhq2ms]
+- o9: אֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o10: תְּנוּפָה = H8573 תְּנוּפָה "a brandishing (in threat); by implication, tumult…" [HNcfsa]
+- o11: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+
+### Numbers 9:1 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: בְ/מִדְבַּר = Hb "in" + H4057 מִדְבָּר "a pasture (i.e. open field…" [HR/Ncmsc]
+- o6: סִינַי = H5514 סִינַי "Sinai, mountain of Arabia" [HNp]
+- o7: בַּ/שָּׁנָה = Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HRd/Ncfsa]
+- o8: הַ/שֵּׁנִית = Hd "the" + H8145 שֵׁנִי "properly, double, i.e. second…" [HTd/Aafsa]
+- o9: לְ/צֵאתָ/ם = Hl "to" + H3318 יָצָא "to go (causatively, bring) out…" [HR/Vqc/Sp3mp]
+- o10: מֵ/אֶרֶץ = Hm "from" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o11: מִצְרַיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o12: בַּ/חֹדֶשׁ = Hb "in" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HRd/Ncmsa]
+- o13: הָ/רִאשׁוֹן = Hd "the" + H7223 רִאשׁוֹן "first, in place…" [HTd/Aomsa]
+- o14: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

@@ -649,3 +649,37 @@ Persian entries and current tags:
 - p6: یَعَسیئیل  → H3300
 - p7: مِصوباتی  → H4677
 - p8: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 11:24 (context)
+
+- o1: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o2: עָשָׂה = H6213 עָשָׂה "to do or make…" [HVqp3ms]
+- o3: בְּנָיָהוּ = H1141 בְּנָיָה "Benajah, the name of twelve Israelites" [HNp]
+- o4: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o5: יְהוֹיָדָע = H3077 יְהוֹיָדָע "Jehojada, the name of three Israelites" [HNp]
+- o6: וְ/ל/וֹ = Hc "and" + Hl "to" [HC/R/Sp3ms]
+- o7: שֵׁם = H8034 שֵׁם "an appellation…" [HNcmsa]
+- o8: בִּ/שְׁלוֹשָׁה = Hb "in" + H7969 שָׁלוֹשׁ "three…" [HR/Acmsa]
+- o9: הַ/גִּבֹּרִים = Hd "the" + H1368 גִּבּוֹר "powerful; by implication, warrior, tyrant" [HTd/Aampa]
+
+### I Chronicles 12:1 (context)
+
+- o1: וְ/אֵלֶּה = Hc "and" + H428 אֵלֶּה "these or those" [HC/Pdxcp]
+- o2: הַ/בָּאִים = Hd "the" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HTd/Vqrmpa]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o5: לְ/צִיקְלַג = Hl "to" + H6860 צִקְלַג "Tsiklag or Tsikelag, a place in Palestine" [HR/Np]
+- o6: עוֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+- o7: עָצוּר = H6113 עָצָר "to inclose; by analogy, to hold back…" [HVqsmsa]
+- o8: מִ/פְּנֵי = Hm "from" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o9: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o10: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o11: קִישׁ = H7027 קִישׁ "Kish, the name of five Israelites" [HNp]
+- o12: וְ/הֵמָּה = Hc "and" + H1992 הֵם "they (only used when emphatic)" [HC/Pp3mp]
+- o13: בַּ/גִּבּוֹרִים = Hb "in" + H1368 גִּבּוֹר "powerful; by implication, warrior, tyrant" [HRd/Aampa]
+- o14: עֹזְרֵי = H5826 עָזַר "to surround, i.e. protect or aid" [HVqrmpc]
+- o15: הַ/מִּלְחָמָה = Hd "the" + H4421 מִלְחָמָה "a battle (i.e. the engagement)…" [HTd/Ncfsa]

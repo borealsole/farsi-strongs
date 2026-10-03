@@ -523,3 +523,31 @@ Persian entries and current tags:
 - p11: استوارخواهند شد  → H3559
 - p12: .
 - p13: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 102:14 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: רָצוּ = H7521 רָצָה "to be pleased with; specifically, to satisfy adebt" [HVqp3cp]
+- o3: עֲבָדֶי/ךָ = H5650 עֶבֶד "a servant" [HNcmpc/Sp2ms]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: אֲבָנֶי/הָ = H68 אֶבֶן "a stone" [HNcfpc/Sp3fs]
+- o6: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o7: עֲפָרָ/הּ = H6083 עָפָר "dust (as powdered or gray)…" [HNcmsc/Sp3fs]
+- o8: יְחֹנֵנוּ = H2603 חָנַן "properly…" [HVmi3mp]
+
+### Psalms 103:1 (context)
+
+- o1: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o2: בָּרֲכִי = H1288 בָרַךְ "to kneel…" [HVpv2fs]
+- o3: נַפְשִׁ/י = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsc/Sp1cs]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o6: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o7: קְרָבַ/י = H7130 קֶרֶב "properly, the nearest part, i.e. the center…" [HNcmpc/Sp1cs]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: שֵׁם = H8034 שֵׁם "an appellation…" [HNcmsc]
+- o10: קָדְשׁ/וֹ = H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HNcmsc/Sp3ms]

@@ -172,6 +172,8 @@ def main():
     parser.add_argument('--max-verses', type=int, default=25, help='Most verses in one chunk')
     parser.add_argument('--max-chars', type=int, default=50000,
                         help='Most characters of verse data in one chunk (excluding the examples)')
+    parser.add_argument('--window', type=int, default=1,
+                        help='Neighbouring verses either side whose Strong\'s numbers may be used (default 1)')
     args = parser.parse_args()
 
     paths = data.sync_bible_paths(args.sync_bible)
@@ -184,6 +186,7 @@ def main():
         raise SystemExit(f'{len(missing)} verses of the NMV are missing from NMV_strongs.json '
                          f'(e.g. {data.reference(missing[0])}). Run python -m retag run first.')
     locked = manual.read_locked(grid)
+    order = original.verse_order(accented)
 
     def original_verse(key):
         book, ci, vi = key
@@ -243,6 +246,16 @@ def main():
             lines += ['## Verses to review', '']
             for key in keys:
                 lines += blocks[key]
+            in_chunk = set(keys)
+            context = sorted({k for key in keys for k in original.nearby_keys(order, key, args.window)
+                              if k not in in_chunk and original.morphemes(original_verse(k))})
+            if context:
+                lines += ['## Neighbouring verses (context only, not for review)', '',
+                          'Original words of verses next to the ones above. Where the Persian verse division '
+                          'differs, their Strong\'s numbers may be used for the verses above.', '']
+                for key in context:
+                    lines += [f'### {data.reference(key)} (context)', '']
+                    lines += original_lines(original_verse(key), dictionary) + ['']
             with open(os.path.join(book_dir, name), 'w', encoding='utf8') as f:
                 f.write('\n'.join(lines))
             index.append(f'| [{title}]({os.path.basename(book_dir)}/{name}) | {len(keys)} |')

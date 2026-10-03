@@ -1332,3 +1332,46 @@ Persian entries and current tags:
 - p41: مشغول
 - p42: شد
 - p43: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 18:46 (context)
+
+- o1: וְ/יַד = Hc "and" + H3027 יָד "a hand (the open one (indicating power, means…" [HC/Ncbsc]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: הָיְתָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3fs]
+- o4: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o5: אֵלִיָּהוּ = H452 אֵלִיָּה "Elijah…" [HNp]
+- o6: וַ/יְשַׁנֵּס = Hc "and" + H8151 שָׁנַס "to compress (with a belt)" [HC/Vpw3ms]
+- o7: מָתְנָי/ו = H4975 מֹתֶן "properly, the waist or small of the back…" [HNcmdc/Sp3ms]
+- o8: וַ/יָּרָץ = Hc "and" + H7323 רוּץ "to run (for whatever reason, especially to rush)" [HC/Vqw3ms]
+- o9: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o10: אַחְאָב = H256 אַחְאָב "Achab…" [HNp]
+- o11: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o12: בֹּאֲ/כָה = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqc/Sp2ms]
+- o13: יִזְרְעֶאלָ/ה = H3157 יִזְרְעֵאל "Jizreel…" [HNp/Sd]
+
+### I Kings 20:1 (context)
+
+- o1: וּ/בֶן = Hc "and" + H1130 בֶּן־הֲדַד "Ben-Hadad, the name of several Syrian kings" [HC/Np]
+- o2: הֲדַד = H1130 בֶּן־הֲדַד "Ben-Hadad, the name of several Syrian kings" [HNp]
+- o3: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o4: אֲרָם = H758 אֲרָם "Aram or Syria, and its inhabitants…" [HNp]
+- o5: קָבַץ = H6908 קָבַץ "to grasp, i.e. collect" [HVqp3ms]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o8: חֵיל/וֹ = H2428 חַיִל "probably a force, whether of men…" [HNcmsc/Sp3ms]
+- o9: וּ/שְׁלֹשִׁים = Hc "and" + H7970 שְׁלוֹשִׁים "thirty; or (ordinal) thirtieth" [HC/Acbpa]
+- o10: וּ/שְׁנַיִם = Hc "and" + H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HC/Acmda]
+- o11: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsa]
+- o12: אִתּ/וֹ = H854 אֵת "properly…" [HR/Sp3ms]
+- o13: וְ/סוּס = Hc "and" + H5483 סוּס "a horse (as leaping)…" [HC/Ncmsa]
+- o14: וָ/רָכֶב = Hc "and" + H7393 רֶכֶב "a vehicle; by implication, a team…" [HC/Ncmsa]
+- o15: וַ/יַּעַל = Hc "and" + H5927 עָלָה "to ascend…" [HC/Vqw3ms]
+- o16: וַ/יָּצַר = Hc "and" + H6696 צוּר "to cramp, i.e. confine (in many applications…" [HC/Vqw3ms]
+- o17: עַל = H5921 עַל "above, over, upon…" [HR]
+- o18: שֹׁמְרוֹן = H8111 שֹׁמְרוֹן "Shomeron, a place in Palestine" [HNp]
+- o19: וַ/יִּלָּחֶם = Hc "and" + H3898 לָחַם "to feed on; figuratively, to consume…" [HC/VNw3ms]
+- o20: בָּ/הּ = Hb "in" [HR/Sp3fs]

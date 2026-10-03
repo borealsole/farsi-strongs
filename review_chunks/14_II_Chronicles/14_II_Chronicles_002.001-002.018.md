@@ -1204,3 +1204,51 @@ Persian entries and current tags:
 - p38: کار  → H5647
 - p39: وادارند
 - p40: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 1:17 (context)
+
+- o1: וַ/יַּעֲלוּ = Hc "and" + H5927 עָלָה "to ascend…" [HC/Vhw3mp]
+- o2: וַ/יּוֹצִיאוּ = Hc "and" + H3318 יָצָא "to go (causatively, bring) out…" [HC/Vhw3mp]
+- o3: מִ/מִּצְרַיִם = Hm "from" + H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HR/Np]
+- o4: מֶרְכָּבָה = H4818 מֶרְכָּבָה "a chariot" [HNcfsa]
+- o5: בְּ/שֵׁשׁ = Hb "in" + H8337 שֵׁשׁ "six (as an overplus beyond five or the fingers of…" [HR/Acfsa]
+- o6: מֵאוֹת = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbpa]
+- o7: כֶּסֶף = H3701 כֶּסֶף "silver (from its pale color)…" [HNcmsa]
+- o8: וְ/סוּס = Hc "and" + H5483 סוּס "a horse (as leaping)…" [HC/Ncmsa]
+- o9: בַּ/חֲמִשִּׁים = Hb "in" + H2572 חֲמִשִּׁים "fifty" [HRd/Acbpa]
+- o10: וּ/מֵאָה = Hc "and" + H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HC/Acbsa]
+- o11: וְ/כֵן = Hc "and" + H3651 כֵּן "properly, set upright…" [HC/Tm]
+- o12: לְ/כָל = Hl "to" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o13: מַלְכֵי = H4428 מֶלֶךְ "a king" [HNcmpc]
+- o14: הַ/חִתִּים = Hd "the" + H2850 חִתִּי "a Chittite, or descendant of Cheth" [HTd/Ngmpa]
+- o15: וּ/מַלְכֵי = Hc "and" + H4428 מֶלֶךְ "a king" [HC/Ncmpc]
+- o16: אֲרָם = H758 אֲרָם "Aram or Syria, and its inhabitants…" [HNp]
+- o17: בְּ/יָדָ/ם = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc/Sp3mp]
+- o18: יוֹצִיאוּ = H3318 יָצָא "to go (causatively, bring) out…" [HVhi3mp]
+
+### II Chronicles 3:1 (context)
+
+- o1: וַ/יָּחֶל = Hc "and" + H2490 חָלַל "properly, to bore, i.e. (by implication) to wound…" [HC/Vhw3ms]
+- o2: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o3: לִ/בְנוֹת = Hl "to" + H1129 בָּנָה "to build (literally and figuratively)" [HR/Vqc]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: בִּ/ירוּשָׁלִַם = Hb "in" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HR/Np]
+- o8: בְּ/הַר = Hb "in" + H2022 הַר "a mountain or range of hills (sometimes used…" [HR/Ncmsc]
+- o9: הַ/מּוֹרִיָּה = Hd "the" + H4179 מוֹרִיָּה "Morijah, a hill in Palestine" [HTd/Np]
+- o10: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o11: נִרְאָה = H7200 רָאָה "to see…" [HVNp3ms]
+- o12: לְ/דָוִיד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o13: אָבִי/הוּ = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp3ms]
+- o14: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o15: הֵכִין = H3559 כּוּן "properly, to be erect (i.e. stand perpendicular)…" [HVhp3ms]
+- o16: בִּ/מְקוֹם = Hb "in" + H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HR/Ncmsc]
+- o17: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o18: בְּ/גֹרֶן = Hb "in" + H1637 גֹּרֶן "a threshing-floor (as made even)…" [HR/Ncbsc]
+- o19: אָרְנָן = H771 אׇרְנָן "Ornan, a Jebusite" [HNp]
+- o20: הַ/יְבוּסִי = Hd "the" + H2983 יְבוּסִי "a Jebusite or inhabitant of Jebus" [HTd/Ngmsa]

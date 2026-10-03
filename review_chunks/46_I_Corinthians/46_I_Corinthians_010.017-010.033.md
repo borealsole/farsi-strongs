@@ -771,3 +771,43 @@ Persian entries and current tags:
 - p28: تا  → G700
 - p29: نجات یابند  → G4982
 - p30: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Corinthians 10:16 (context)
+
+- o1: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o2: ποτήριον = G4221 ποτήριον "cup" [N-NSN]
+- o3: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o4: εὐλογίας = G2129 εὐλογία "blessing (a matter of) bounty ( -tifully)…" [N-GSF]
+- o5: ὃ = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-ASN]
+- o6: εὐλογοῦμεν, = G2127 εὐλογέω "bless, praise" [V-PAI-1P]
+- o7: οὐχὶ = G3780 οὐχί "nay, not" [PRT-I]
+- o8: κοινωνία = G2842 κοινωνία "to) communicate(-ation), communion…" [N-NSF]
+- o9: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
+- o10: αἵματος = G129 αἷμα "blood" [N-GSN]
+- o11: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o12: Χριστοῦ = G5547 Χριστός "Christ" [N-GSM]
+- o13: ἐστιν; = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o14: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o15: ἄρτον = G740 ἄρτος "(shew-)bread, loaf" [N-ASM]
+- o16: ὃν = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-ASM]
+- o17: κλῶμεν, = G2806 κλάω "break" [V-PAI-1P]
+- o18: οὐχὶ = G3780 οὐχί "nay, not" [PRT-I]
+- o19: κοινωνία = G2842 κοινωνία "to) communicate(-ation), communion…" [N-NSF]
+- o20: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
+- o21: σώματος = G4983 σῶμα "bodily, body, slave" [N-GSN]
+- o22: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o23: Χριστοῦ = G5547 Χριστός "Christ" [N-GSM]
+- o24: ἐστιν; = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+
+### I Corinthians 11:1 (context)
+
+- o1: Μιμηταί = G3402 μιμητής "follower" [N-NPM]
+- o2: μου = G1473 ἐγώ "I, me" [P-1GS]
+- o3: γίνεσθε, = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-PNM-2P]
+- o4: καθὼς = G2531 καθώς "according to, (according, even) as, how, when" [ADV]
+- o5: κἀγὼ = G2504 κἀγώ "and, even, even so, so) I (also, in like wise)…" [P-1NS-K]
+- o6: Χριστοῦ. = G5547 Χριστός "Christ" [N-GSM]

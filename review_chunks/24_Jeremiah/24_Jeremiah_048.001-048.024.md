@@ -1081,3 +1081,32 @@ Persian entries and current tags:
 - p13: و  → Hc
 - p14: نزدیک  → H7138
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 47:7 (context)
+
+- o1: אֵיךְ = H349 אֵיךְ "how? or how!; also where" [HTi]
+- o2: תִּשְׁקֹטִי = H8252 שָׁקַט "to repose (usually figurative)" [HVqi2fs]
+- o3: וַ/יהוָה = Hc "and" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HC/Np]
+- o4: צִוָּה = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp3ms]
+- o5: לָ/הּ = Hl "to" [HR/Sp3fs]
+- o6: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o7: אַשְׁקְלוֹן = H831 אַשְׁקְלוֹן "Ashkelon, a place in Palestine" [HNp]
+- o8: וְ/אֶל = Hc "and" + H413 אֵל "near, with or among; often in general, to" [HC/R]
+- o9: חוֹף = H2348 חוֹף "a cove (as a sheltered bay)" [HNcmsc]
+- o10: הַ/יָּם = Hd "the" + H3220 יָם "a sea (as breaking in noisy surf) or large body…" [HTd/Ncmsa]
+- o11: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o12: יְעָדָ/הּ = H3259 יָעַד "to fix upon (by agreement or appointment)…" [HVqp3ms/Sp3fs]
+
+### Jeremiah 48:25 (context)
+
+- o1: נִגְדְּעָה = H1438 גָּדַע "to fell a tree; generally, to destroy anything" [HVNp3fs]
+- o2: קֶרֶן = H7161 קֶרֶן "a horn (as projecting)…" [HNcbsc]
+- o3: מוֹאָב = H4124 מוֹאָב "Moab, an incestuous son of Lot…" [HNp]
+- o4: וּ/זְרֹע/וֹ = Hc "and" + H2220 זְרוֹעַ "the arm (as stretched out)…" [HC/Ncbsc/Sp3ms]
+- o5: נִשְׁבָּרָה = H7665 שָׁבַר "to burst (literally or figuratively)" [HVNp3fs]
+- o6: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]

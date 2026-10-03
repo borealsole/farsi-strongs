@@ -821,3 +821,26 @@ Persian entries and current tags:
 - p21: .
 - p22: هَلِلویاه  → H1984 H3050
 - p23: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 106:24 (context)
+
+- o1: וַ/יִּמְאֲסוּ = Hc "and" + H3988 מָאַס "to spurn; also (intransitively) to disappear" [HC/Vqw3mp]
+- o2: בְּ/אֶרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o3: חֶמְדָּה = H2532 חֶמְדָּה "delight" [HNcfsa]
+- o4: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o5: הֶאֱמִינוּ = H539 אָמַן "properly, to build up or support…" [HVhp3cp]
+- o6: לִ/דְבָר/וֹ = Hl "to" + H1697 דָּבָר "a word…" [HR/Ncmsc/Sp3ms]
+
+### Psalms 107:1 (context)
+
+- o1: הֹדוּ = H3034 יָדָה "physically, to throw (a stone…" [HVhv2mp]
+- o2: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o3: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o4: טוֹב = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAamsa]
+- o5: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o6: לְ/עוֹלָם = Hl "to" + H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HR/Ncmsa]
+- o7: חַסְדּ/וֹ = H2617 חֵסֵד "kindness; by implication (towards God) piety…" [HNcmsc/Sp3ms]

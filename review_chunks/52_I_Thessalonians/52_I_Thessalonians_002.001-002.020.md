@@ -1139,3 +1139,43 @@ Persian entries and current tags:
 - p6: شادی  → G5479
 - p7: ما  → G5210 G2249
 - p8: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Thessalonians 1:10 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἀναμένειν = G362 ἀναμένω "wait for" [V-PAN]
+- o3: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o4: υἱὸν = G5207 υἱός "child, foal, son" [N-ASM]
+- o5: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o6: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o7: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o8: οὐρανῶν, = G3772 οὐρανός "air, heaven(-ly), sky" [N-GPM]
+- o9: ὃν = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-ASM]
+- o10: ἤγειρεν = G1453 ἐγείρω "awake, lift (up), raise (again, up), rear up…" [V-AAI-3S]
+- o11: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o12: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o13: νεκρῶν, = G3498 νεκρός "dead" [A-GPM]
+- o14: Ἰησοῦν = G2424 Ἰησοῦς "Jesus" [N-ASM]
+- o15: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o16: ῥυόμενον = G4506 ῥύομαι "deliver(-er)" [V-PNP-ASM]
+- o17: ἡμᾶς = G2249 ἡμεῖς "us, we (ourselves)" [P-1AP]
+- o18: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o19: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o20: ὀργῆς = G3709 ὀργή "anger, indignation, vengeance, wrath" [N-GSF]
+- o21: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o22: ἐρχομένης. = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-PNP-GSF]
+
+### I Thessalonians 3:1 (context)
+
+- o1: Διὸ = G1352 διό "for which cause, therefore, wherefore" [CONJ]
+- o2: μηκέτι = G3371 μηκέτι "any longer, (not) henceforth, hereafter…" [ADV-N]
+- o3: στέγοντες = G4722 στέγω "(for-)bear, suffer" [V-PAP-NPM]
+- o4: εὐδοκήσαμεν = G2106 εὐδοκέω "think good, (be well) please(-d)…" [V-AAI-1P]
+- o5: καταλειφθῆναι = G2641 καταλείπω "forsake, leave, reserve" [V-APN]
+- o6: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o7: Ἀθήναις = G116 Ἀθῆναι "Athens" [N-DPF]
+- o8: μόνοι, = G3441 μόνος "alone, only, by themselves" [A-NPM]

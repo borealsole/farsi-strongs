@@ -795,3 +795,30 @@ Persian entries and current tags:
 - p22: قوم  → H5971
 - p23: خواهیم_شد
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 33:20 (context)
+
+- o1: וַ/יַּצֶּב = Hc "and" + H5324 נָצַב "to station…" [HC/Vhw3ms]
+- o2: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o3: מִזְבֵּחַ = H4196 מִזְבֵּחַ "an altar" [HNcmsa]
+- o4: וַ/יִּקְרָא = Hc "and" + H7121 קָרָא "to call out to (i.e. properly, address by name…" [HC/Vqw3ms]
+- o5: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o6: אֵל = H410 אֵל "strength; as adjective, mighty…" [HNcmsa]
+- o7: אֱלֹהֵי = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc]
+- o8: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+
+### Genesis 34:17 (context)
+
+- o1: וְ/אִם = Hc "and" + H518 אִם "used very widely as demonstrative, lo!…" [HC/C]
+- o2: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o3: תִשְׁמְעוּ = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqi2mp]
+- o4: אֵלֵי/נוּ = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cp]
+- o5: לְ/הִמּוֹל = Hl "to" + H4135 מוּל "to cut short…" [HR/VNc]
+- o6: וְ/לָקַחְנוּ = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqq1cp]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: בִּתֵּ/נוּ = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfsc/Sp1cp]
+- o9: וְ/הָלָכְנוּ = Hc "and" + H1980 הָלַךְ "to walk (in a great variety of applications…" [HC/Vqq1cp]

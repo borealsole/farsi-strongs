@@ -749,3 +749,45 @@ Persian entries and current tags:
 - p15: را
 - p16: پوشانیده بود  → H3680
 - p17: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 37:36 (context)
+
+- o1: וְ/הַ/מְּדָנִים = Hc "and" + Hd "the" + H4092 מְדָנִי "a Midjanite or descendant (native) of Midjan" [HC/Td/Ngmpa]
+- o2: מָכְרוּ = H4376 מָכַר "to sell, literally (as merchandise…" [HVqp3cp]
+- o3: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o4: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o5: מִצְרָיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o6: לְ/פוֹטִיפַר = Hl "to" + H6318 פּוֹטִיפַר "Potiphar, an Egyptian" [HR/Np]
+- o7: סְרִיס = H5631 סָרִיס "a eunuch…" [HNcmsc]
+- o8: פַּרְעֹה = H6547 פַּרְעֹה "Paroh, a general title of Egyptian kings" [HNp]
+- o9: שַׂר = H8269 שַׂר "a head person (of any rank or class)" [HNcmsc]
+- o10: הַ/טַּבָּחִים = Hd "the" + H2876 טַבָּח "properly, a butcher…" [HTd/Ncmpa]
+
+### Genesis 38:16 (context)
+
+- o1: וַ/יֵּט = Hc "and" + H5186 נָטָה "to stretch or spread out…" [HC/Vqw3ms]
+- o2: אֵלֶי/הָ = H413 אֵל "near, with or among; often in general, to" [HR/Sp3fs]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: הַ/דֶּרֶךְ = Hd "the" + H1870 דֶּרֶךְ "a road (as trodden)…" [HTd/Ncbsa]
+- o5: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o6: הָבָ/ה = H3051 יָהַב "to give (whether literal or figurative)…" [HVqv2ms/Sh]
+- o7: נָּא = H4994 נָא "'I pray', 'now', or 'then'…" [HTj]
+- o8: אָבוֹא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqh1cs]
+- o9: אֵלַיִ/ךְ = H413 אֵל "near, with or among; often in general, to" [HR/Sp2fs]
+- o10: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o11: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o12: יָדַע = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqp3ms]
+- o13: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o14: כַלָּת/וֹ = H3618 כַּלָּה "a bride (as if perfect); hence, a son's wife" [HNcfsc/Sp3ms]
+- o15: הִוא = H1931 הוּא "he (she or it)…" [HPp3fs]
+- o16: וַ/תֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3fs]
+- o17: מַה = H4100 מָה "properly…" [HTi]
+- o18: תִּתֶּן = H5414 נָתַן "to give…" [HVqi2ms]
+- o19: לִּ/י = Hl "to" [HR/Sp1cs]
+- o20: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o21: תָבוֹא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqi2ms]
+- o22: אֵלָ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]

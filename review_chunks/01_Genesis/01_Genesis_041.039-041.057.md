@@ -1022,3 +1022,35 @@ Persian entries and current tags:
 - p20: بسیار
 - p21: سخت بود  → H2388
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 41:38 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: פַּרְעֹה = H6547 פַּרְעֹה "Paroh, a general title of Egyptian kings" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: עֲבָדָי/ו = H5650 עֶבֶד "a servant" [HNcmpc/Sp3ms]
+- o5: הֲ/נִמְצָא = Hi "(untranslatable; interrogative particle)" + H4672 מָצָא "properly, to come forth to, i.e. appear or exist…" [HTi/Vqi1cp]
+- o6: כָ/זֶה = Hk "like" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HR/Pdxms]
+- o7: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o8: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o9: רוּחַ = H7307 רוּחַ "wind…" [HNcbsc]
+- o10: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o11: בּ/וֹ = Hb "in" [HR/Sp3ms]
+
+### Genesis 42:1 (context)
+
+- o1: וַ/יַּרְא = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw3ms]
+- o2: יַעֲקֹב = H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HNp]
+- o3: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o4: יֶשׁ = H3426 יֵשׁ "there is or are (or any other form of the verb to…" [HTm]
+- o5: שֶׁבֶר = H7668 שֶׁבֶר "grain (as if broken into kernels)" [HNcmsa]
+- o6: בְּ/מִצְרָיִם = Hb "in" + H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HR/Np]
+- o7: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o8: יַעֲקֹב = H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HNp]
+- o9: לְ/בָנָי/ו = Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmpc/Sp3ms]
+- o10: לָ/מָּה = Hl "to" + H4100 מָה "properly…" [HR/Ti]
+- o11: תִּתְרָאוּ = H7200 רָאָה "to see…" [HVti2mp]

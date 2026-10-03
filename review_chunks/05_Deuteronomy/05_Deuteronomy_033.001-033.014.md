@@ -729,3 +729,34 @@ Persian entries and current tags:
 - p9: حصاد  → H1645
 - p10: ماهها  → H3391
 - p11: ؛
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 32:52 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: מִ/נֶּגֶד = Hm "from" + H5048 נֶגֶד "a front, i.e. part opposite…" [HR/R]
+- o3: תִּרְאֶה = H7200 רָאָה "to see…" [HVqi2ms]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o6: וְ/שָׁמָּ/ה = Hc "and" + H8033 שָׁם "there (transferring to time) then…" [HC/D/Sd]
+- o7: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o8: תָבוֹא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqi2ms]
+- o9: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o10: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o11: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o12: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o13: נֹתֵן = H5414 נָתַן "to give…" [HVqrmsa]
+- o14: לִ/בְנֵי = Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmpc]
+- o15: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+
+### Deuteronomy 33:15 (context)
+
+- o1: וּ/מֵ/רֹאשׁ = Hc "and" + Hm "from" + H7218 רֹאשׁ "the head (as most easily shaken)…" [HC/R/Ncmsc]
+- o2: הַרְרֵי = H2042 הָרָר "a mountain" [HNcmpc]
+- o3: קֶדֶם = H6924 קֶדֶם "the front, of place (absolutely, the fore part…" [HNcmsa]
+- o4: וּ/מִ/מֶּגֶד = Hc "and" + Hm "from" + H4022 מֶגֶד "properly, a distinguished thing…" [HC/R/Ncmsc]
+- o5: גִּבְעוֹת = H1389 גִּבְעָה "a hillock" [HNcfpc]
+- o6: עוֹלָם = H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HNcmsa]

@@ -801,3 +801,39 @@ Persian entries and current tags:
 - p22: یکصد  → H3967
 - p23: ذِراع  → H520
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 40:49 (context)
+
+- o1: אֹרֶךְ = H753 אֹרֶךְ "length" [HNcmsc]
+- o2: הָ/אֻלָם = Hd "the" + H197 אוּלָם "a vestibule (as bound to the building)" [HTd/Ncmsa]
+- o3: עֶשְׂרִים = H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HAcbpa]
+- o4: אַמָּה = H520 אַמָּה "properly, a mother (i.e. unit of measure…" [HNcfsa]
+- o5: וְ/רֹחַב = Hc "and" + H7341 רֹחַב "width (literally or figuratively)" [HC/Ncmsa]
+- o6: עַשְׁתֵּי = H6249 עַשְׁתֵּי "eleven or (ordinal) eleventh" [HAcbpc]
+- o7: עֶשְׂרֵה = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcfsa]
+- o8: אַמָּה = H520 אַמָּה "properly, a mother (i.e. unit of measure…" [HNcfsa]
+- o9: וּ/בַ/מַּעֲלוֹת = Hc "and" + Hb "in" + H4609 מַעֲלָה "elevation, i.e. the act (literally…" [HC/Rd/Ncfpa]
+- o10: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o11: יַעֲלוּ = H5927 עָלָה "to ascend…" [HVqi3mp]
+- o12: אֵלָי/ו = H413 אֵל "near, with or among; often in general, to" [HR/Sp3ms]
+- o13: וְ/עַמֻּדִים = Hc "and" + H5982 עַמּוּד "a column (as standing)…" [HC/Ncmpa]
+- o14: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o15: הָ/אֵילִים = Hd "the" + H352 אַיִל "properly, strength; hence, anything strong…" [HTd/Ncmpa]
+- o16: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o17: מִ/פֹּה = Hm "from" + H6311 פֹּה "this place (French ici), i.e. here or hence" [HR/D]
+- o18: וְ/אֶחָד = Hc "and" + H259 אֶחָד "properly, united, i.e. one…" [HC/Acmsa]
+- o19: מִ/פֹּה = Hm "from" + H6311 פֹּה "this place (French ici), i.e. here or hence" [HR/D]
+
+### Ezekiel 41:14 (context)
+
+- o1: וְ/רֹחַב = Hc "and" + H7341 רֹחַב "width (literally or figuratively)" [HC/Ncmsc]
+- o2: פְּנֵי = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc]
+- o3: הַ/בַּיִת = Hd "the" + H1004 בַּיִת "a house (in the greatest variation of…" [HTd/Ncmsa]
+- o4: וְ/הַ/גִּזְרָה = Hc "and" + Hd "the" + H1508 גִּזְרָה "the figure or person (as if cut out)…" [HC/Td/Ncfsa]
+- o5: לַ/קָּדִים = Hl "to" + H6921 קָדִים "the fore or front part…" [HRd/Ncmsa]
+- o6: מֵאָה = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbsa]
+- o7: אַמָּה = H520 אַמָּה "properly, a mother (i.e. unit of measure…" [HNcfsa]

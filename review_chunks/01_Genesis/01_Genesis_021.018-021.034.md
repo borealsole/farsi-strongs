@@ -770,3 +770,54 @@ Persian entries and current tags:
 - p7: فلسطینیان  → H6430 H7227
 - p8: غربت اختیار کرد  → H1481
 - p9: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 21:17 (context)
+
+- o1: וַ/יִּשְׁמַע = Hc "and" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HC/Vqw3ms]
+- o2: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: קוֹל = H6963 קוֹל "a voice or sound" [HNcmsc]
+- o5: הַ/נַּעַר = Hd "the" + H5288 נַעַר "concretely) a boy (as active)…" [HTd/Ncmsa]
+- o6: וַ/יִּקְרָא = Hc "and" + H7121 קָרָא "to call out to (i.e. properly, address by name…" [HC/Vqw3ms]
+- o7: מַלְאַךְ = H4397 מֲלְאָךְ "a messenger…" [HNcmsc]
+- o8: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o9: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o10: הָגָר = H1904 הָגָר "Hagar, the mother of Ishmael" [HNp]
+- o11: מִן = H4480 מִן "properly, a part of…" [HR]
+- o12: הַ/שָּׁמַיִם = Hd "the" + H8064 שָׁמַיִם "the sky (as aloft…" [HTd/Ncmpa]
+- o13: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o14: לָ/הּ = Hl "to" [HR/Sp3fs]
+- o15: מַה = H4100 מָה "properly…" [HTi]
+- o16: לָּ/ךְ = Hl "to" [HR/Sp2fs]
+- o17: הָגָר = H1904 הָגָר "Hagar, the mother of Ishmael" [HNp]
+- o18: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o19: תִּירְאִי = H3372 יָרֵא "to fear; morally, to revere; caus. to frighten" [HVqj2fs]
+- o20: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o21: שָׁמַע = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqp3ms]
+- o22: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o23: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o24: קוֹל = H6963 קוֹל "a voice or sound" [HNcmsc]
+- o25: הַ/נַּעַר = Hd "the" + H5288 נַעַר "concretely) a boy (as active)…" [HTd/Ncmsa]
+- o26: בַּ/אֲשֶׁר = Hb "in" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o27: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o28: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+
+### Genesis 22:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: אַחַר = H310 אַחַר "properly, the hind part…" [HR]
+- o3: הַ/דְּבָרִים = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmpa]
+- o4: הָ/אֵלֶּה = Hd "the" + H428 אֵלֶּה "these or those" [HTd/Pdxcp]
+- o5: וְ/הָ/אֱלֹהִים = Hc "and" + Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HC/Td/Ncmpa]
+- o6: נִסָּה = H5254 נָסָה "to test; by implication, to attempt" [HVpp3ms]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: אַבְרָהָם = H85 אַבְרָהָם "Abraham, the later name of Abram" [HNp]
+- o9: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o10: אֵלָי/ו = H413 אֵל "near, with or among; often in general, to" [HR/Sp3ms]
+- o11: אַבְרָהָם = H85 אַבְרָהָם "Abraham, the later name of Abram" [HNp]
+- o12: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o13: הִנֵּנִ/י = H2009 הִנֵּה "lo!" [HTm/Sp1cs]

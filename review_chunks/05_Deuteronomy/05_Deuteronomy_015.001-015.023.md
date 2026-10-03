@@ -1304,3 +1304,53 @@ Persian entries and current tags:
 - p14: زمین  → H776
 - p15: بریزید  → H8210
 - p16: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 14:29 (context)
+
+- o1: וּ/בָא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqq3ms]
+- o2: הַ/לֵּוִי = Hd "the" + H3881 לֵוִיִּי "a Levite or descendant of Levi" [HTd/Ngmsa]
+- o3: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o4: אֵין = H369 אַיִן "a non-entity…" [HTn]
+- o5: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o6: חֵלֶק = H2506 חֵלֶק "properly, smoothness (of the tongue)…" [HNcmsa]
+- o7: וְ/נַחֲלָה = Hc "and" + H5159 נַחֲלָה "properly, something inherited…" [HC/Ncfsa]
+- o8: עִמָּ/ךְ = H5973 עִם "adverb or preposition…" [HR/Sp2fs]
+- o9: וְ/הַ/גֵּר = Hc "and" + Hd "the" + H1616 גֵּר "properly, a guest; by implication, a foreigner" [HC/Td/Ncmsa]
+- o10: וְ/הַ/יָּתוֹם = Hc "and" + Hd "the" + H3490 יָתוֹם "a bereaved person" [HC/Td/Ncmsa]
+- o11: וְ/הָ/אַלְמָנָה = Hc "and" + Hd "the" + H490 אַלְמָנָה "a widow; also a desolate place" [HC/Td/Ncfsa]
+- o12: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o13: בִּ/שְׁעָרֶי/ךָ = Hb "in" + H8179 שַׁעַר "an opening, i.e. door or gate" [HR/Ncmpc/Sp2ms]
+- o14: וְ/אָכְלוּ = Hc "and" + H398 אָכַל "to eat (literally or figuratively)" [HC/Vqq3cp]
+- o15: וְ/שָׂבֵעוּ = Hc "and" + H7646 שָׂבַע "to sate…" [HC/Vqq3cp]
+- o16: לְמַעַן = H4616 מַעַן "properly, heed, i.e. purpose…" [HR]
+- o17: יְבָרֶכְ/ךָ = H1288 בָרַךְ "to kneel…" [HVpi3ms/Sp2ms]
+- o18: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o19: אֱלֹהֶי/ךָ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2ms]
+- o20: בְּ/כָל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o21: מַעֲשֵׂה = H4639 מַעֲשֶׂה "an action (good or bad); generally, a transaction…" [HNcmsc]
+- o22: יָדְ/ךָ = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsc/Sp2ms]
+- o23: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o24: תַּעֲשֶׂה = H6213 עָשָׂה "to do or make…" [HVqi2ms]
+
+### Deuteronomy 16:1 (context)
+
+- o1: שָׁמוֹר = H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HVqa]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: חֹדֶשׁ = H2320 חֹדֶשׁ "the new moon; by implication, a month" [HNcmsc]
+- o4: הָ/אָבִיב = Hd "the" + H24 אָבִיב "green, i.e. a young ear of grain…" [HTd/Ncmsa]
+- o5: וְ/עָשִׂיתָ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqq2ms]
+- o6: פֶּסַח = H6453 פֶּסַח "a pretermission, i.e. exemption…" [HNcmsa]
+- o7: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o8: אֱלֹהֶי/ךָ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2ms]
+- o9: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o10: בְּ/חֹדֶשׁ = Hb "in" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HR/Ncmsc]
+- o11: הָ/אָבִיב = Hd "the" + H24 אָבִיב "green, i.e. a young ear of grain…" [HTd/Ncmsa]
+- o12: הוֹצִיאֲ/ךָ = H3318 יָצָא "to go (causatively, bring) out…" [HVhp3ms/Sp2ms]
+- o13: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o14: אֱלֹהֶי/ךָ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2ms]
+- o15: מִ/מִּצְרַיִם = Hm "from" + H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HR/Np]
+- o16: לָיְלָה = H3915 לַיִל "properly, a twist (away of the light), i.e. night…" [HNcmsa]

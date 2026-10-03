@@ -884,3 +884,27 @@ Persian entries and current tags:
 - p31: برگرفته
 - p32: شد
 - p33: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 24:12 (context)
+
+- o1: הָלוֹךְ = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVqa]
+- o2: וְ/דִבַּרְתָּ = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpq2ms]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o5: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o6: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: שָׁלֹשׁ = H7969 שָׁלוֹשׁ "three…" [HAcfsa]
+- o9: אָנֹכִי = H595 אָנֹכִי "I" [HPp1cs]
+- o10: נוֹטֵל = H5190 נָטַל "to lift; by implication, to impose" [HVqrmsa]
+- o11: עָלֶי/ךָ = H5921 עַל "above, over, upon…" [HR/Sp2ms]
+- o12: בְּחַר = H977 בָּחַר "properly, to try, i.e. (by implication) select" [HVqv2ms]
+- o13: לְ/ךָ = Hl "to" [HR/Sp2ms]
+- o14: אַחַת = H259 אֶחָד "properly, united, i.e. one…" [HAcfsa]
+- o15: מֵ/הֶם = Hm "from" [HR/Sp3mp]
+- o16: וְ/אֶעֱשֶׂה = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqi1cs]
+- o17: לָּ/ךְ = Hl "to" [HR/Sp2fs]

@@ -1186,3 +1186,52 @@ Persian entries and current tags:
 - p20: را  → H853
 - p21: دید  → H7200
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 22:20 (context)
+
+- o1: וַ/יָּבֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3ms]
+- o2: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: בִּלְעָם = H1109 בִּלְעָם "Bilam, a Mesopotamian prophet…" [HNp]
+- o5: לַיְלָה = H3915 לַיִל "properly, a twist (away of the light), i.e. night…" [HNcmsa]
+- o6: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o7: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o8: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o9: לִ/קְרֹא = Hl "to" + H7121 קָרָא "to call out to (i.e. properly, address by name…" [HR/Vqc]
+- o10: לְ/ךָ = Hl "to" [HR/Sp2ms]
+- o11: בָּאוּ = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3cp]
+- o12: הָ/אֲנָשִׁים = Hd "the" + H376 אִישׁ "a man as an individual or a male person…" [HTd/Ncmpa]
+- o13: קוּם = H6965 קוּם "to rise (in various applications, literal…" [HVqv2ms]
+- o14: לֵךְ = H3212 יָלַךְ "to walk (literally or figuratively)…" [HVqv2ms]
+- o15: אִתָּ/ם = H854 אֵת "properly…" [HR/Sp3mp]
+- o16: וְ/אַךְ = Hc "and" + H389 אַךְ "a particle of affirmation, surely…" [HC/D]
+- o17: אֶת = H853 אֵת "properly…" [HTo]
+- o18: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]
+- o19: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o20: אֲדַבֵּר = H1696 דָבַר "perhaps properly, to arrange…" [HVpi1cs]
+- o21: אֵלֶי/ךָ = H413 אֵל "near, with or among; often in general, to" [HR/Sp2ms]
+- o22: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o23: תַעֲשֶׂה = H6213 עָשָׂה "to do or make…" [HVqi2ms]
+
+### Numbers 23:1 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: בִּלְעָם = H1109 בִּלְעָם "Bilam, a Mesopotamian prophet…" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: בָּלָק = H1111 בָּלָק "Balak, a Moabitish king" [HNp]
+- o5: בְּנֵה = H1129 בָּנָה "to build (literally and figuratively)" [HVqv2ms]
+- o6: לִ/י = Hl "to" [HR/Sp1cs]
+- o7: בָ/זֶה = Hb "in" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HR/Pdxms]
+- o8: שִׁבְעָה = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcmsa]
+- o9: מִזְבְּחֹת = H4196 מִזְבֵּחַ "an altar" [HNcmpa]
+- o10: וְ/הָכֵן = Hc "and" + H3559 כּוּן "properly, to be erect (i.e. stand perpendicular)…" [HC/Vhv2ms]
+- o11: לִ/י = Hl "to" [HR/Sp1cs]
+- o12: בָּ/זֶה = Hb "in" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HR/Pdxms]
+- o13: שִׁבְעָה = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcmsa]
+- o14: פָרִים = H6499 פַּר "a bullock (apparently as breaking forth in wild…" [HNcmpa]
+- o15: וְ/שִׁבְעָה = Hc "and" + H7651 שֶׁבַע "seven (as the sacred full one)…" [HC/Acmsa]
+- o16: אֵילִים = H352 אַיִל "properly, strength; hence, anything strong…" [HNcmpa]

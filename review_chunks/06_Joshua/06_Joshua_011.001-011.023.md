@@ -1354,3 +1354,43 @@ Persian entries and current tags:
 - p33: جنگ  → H4421
 - p34: بیاسود  → H8252
 - p35: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Joshua 10:43 (context)
+
+- o1: וַ/יָּשָׁב = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqw3ms]
+- o2: יְהוֹשֻׁעַ = H3091 יְהוֹשׁוּעַ "Jehoshua (i.e. Joshua), the Jewish leader" [HNp]
+- o3: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o4: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o5: עִמּ/וֹ = H5973 עִם "adverb or preposition…" [HR/Sp3ms]
+- o6: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o7: הַ/מַּחֲנֶה = Hd "the" + H4264 מַחֲנֶה "an encampment (of travellers or troops)…" [HTd/Ncbsa]
+- o8: הַ/גִּלְגָּלָ/ה = Hd "the" + H1537 גִּלְגָּל "Gilgal, the name of three places in Palestine" [HTd/Np/Sd]
+
+### Joshua 12:1 (context)
+
+- o1: וְ/אֵלֶּה = Hc "and" + H428 אֵלֶּה "these or those" [HC/Pdxcp]
+- o2: מַלְכֵי = H4428 מֶלֶךְ "a king" [HNcmpc]
+- o3: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o4: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o5: הִכּוּ = H5221 נָכָה "to strike (lightly or severely…" [HVhp3cp]
+- o6: בְנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o7: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o8: וַ/יִּרְשׁוּ = Hc "and" + H3423 יָרַשׁ "to occupy (by driving out previous tenants…" [HC/Vqw3mp]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: אַרְצָ/ם = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsc/Sp3mp]
+- o11: בְּ/עֵבֶר = Hb "in" + H5676 עֵבֶר "properly, a region across…" [HR/Ncmsc]
+- o12: הַ/יַּרְדֵּן = Hd "the" + H3383 יַרְדֵּן "Jarden, the principal river of Palestine" [HTd/Np]
+- o13: מִזְרְחָ/ה = H4217 מִזְרָח "sunrise, i.e. the east" [HNcmsc/Sd]
+- o14: הַ/שָּׁמֶשׁ = Hd "the" + H8121 שֶׁמֶשׁ "the sun; by implication, the east…" [HTd/Ncbsa]
+- o15: מִ/נַּחַל = Hm "from" + H5158 נַחַל "a stream, especially a winter torrent…" [HR/Ncmsc]
+- o16: אַרְנוֹן = H769 אַרְנוֹן "the Arnon, a river east of the Jordan…" [HNp]
+- o17: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o18: הַר = H2022 הַר "a mountain or range of hills (sometimes used…" [HNcmsc]
+- o19: חֶרְמוֹן = H2768 חֶרְמוֹן "Chermon, a mount of Palestine" [HNp]
+- o20: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o21: הָ/עֲרָבָה = Hd "the" + H6160 עֲרָבָה "a desert…" [HTd/Ncfsa]
+- o22: מִזְרָחָ/ה = H4217 מִזְרָח "sunrise, i.e. the east" [HNcmsa/Sd]

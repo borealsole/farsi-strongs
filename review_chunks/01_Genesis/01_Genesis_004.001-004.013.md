@@ -630,3 +630,48 @@ Persian entries and current tags:
 - p11: من
 - p12: است
 - p13: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 3:24 (context)
+
+- o1: וַ/יְגָרֶשׁ = Hc "and" + H1644 גָּרַשׁ "to drive out from a possession…" [HC/Vpw3ms]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: הָ/אָדָם = Hd "the" + H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HTd/Ncmsa]
+- o4: וַ/יַּשְׁכֵּן = Hc "and" + H7931 שָׁכַן "to reside or permanently stay (literally or…" [HC/Vhw3ms]
+- o5: מִ/קֶּדֶם = Hm "from" + H6924 קֶדֶם "the front, of place (absolutely, the fore part…" [HR/Ncmsa]
+- o6: לְ/גַן = Hl "to" + H1588 גַּן "a garden (as fenced)" [HR/Ncbsc]
+- o7: עֵדֶן = H5731 עֵדֶן "Eden, the region of Adam's home" [HNp]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: הַ/כְּרֻבִים = Hd "the" + H3742 כְּרוּב "a cherub or imaginary figure" [HTd/Ncmpa]
+- o10: וְ/אֵת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o11: לַהַט = H3858 לַהַט "a blaze…" [HNcmsc]
+- o12: הַ/חֶרֶב = Hd "the" + H2719 חֶרֶב "drought…" [HTd/Ncfsa]
+- o13: הַ/מִּתְהַפֶּכֶת = Hd "the" + H2015 הָפַךְ "to turn about or over…" [HTd/Vtrfsa]
+- o14: לִ/שְׁמֹר = Hl "to" + H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HR/Vqc]
+- o15: אֶת = H853 אֵת "properly…" [HTo]
+- o16: דֶּרֶךְ = H1870 דֶּרֶךְ "a road (as trodden)…" [HNcbsc]
+- o17: עֵץ = H6086 עֵץ "a tree (from its firmness)…" [HNcmsc]
+- o18: הַ/חַיִּים = Hd "the" + H2416 חַי "alive; hence, raw (flesh)…" [HTd/Ncmpa]
+
+### Genesis 4:14 (context)
+
+- o1: הֵן = H2005 הֵן "lo!; also (as expressing surprise) if" [HTm]
+- o2: גֵּרַשְׁתָּ = H1644 גָּרַשׁ "to drive out from a possession…" [HVpp2ms]
+- o3: אֹתִ/י = H853 אֵת "properly…" [HTo/Sp1cs]
+- o4: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o5: מֵ/עַל = Hm "from" + H5921 עַל "above, over, upon…" [HR/R]
+- o6: פְּנֵי = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc]
+- o7: הָ/אֲדָמָה = Hd "the" + H127 אֲדָמָה "soil (from its general redness)" [HTd/Ncfsa]
+- o8: וּ/מִ/פָּנֶי/ךָ = Hc "and" + Hm "from" + H6440 פָּנִים "the face (as the part that turns)…" [HC/R/Ncbpc/Sp2ms]
+- o9: אֶסָּתֵר = H5641 סָתַר "to hide (by covering), literally or figuratively" [HVNi1cs]
+- o10: וְ/הָיִיתִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq1cs]
+- o11: נָע = H5128 נוּעַ "to waver, in a great variety of applications…" [HVqrmsa]
+- o12: וָ/נָד = Hc "and" + H5110 נוּד "to nod, i.e. waver…" [HC/Vqrmsa]
+- o13: בָּ/אָרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HRd/Ncbsa]
+- o14: וְ/הָיָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3ms]
+- o15: כָל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o16: מֹצְאִ/י = H4672 מָצָא "properly, to come forth to, i.e. appear or exist…" [HVqrmsc/Sp1cs]
+- o17: יַהַרְגֵ/נִי = H2026 הָרַג "to smite with deadly intent" [HVqi3ms/Sp1cs]

@@ -1092,3 +1092,40 @@ Persian entries and current tags:
 - p15: گام  → H1980 H7147
 - p16: بردارید  → H7147
 - p17: ،
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 25:55 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: לִ/י = Hl "to" [HR/Sp1cs]
+- o3: בְנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o4: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o5: עֲבָדִים = H5650 עֶבֶד "a servant" [HNcmpa]
+- o6: עֲבָדַ/י = H5650 עֶבֶד "a servant" [HNcmpc/Sp1cs]
+- o7: הֵם = H1992 הֵם "they (only used when emphatic)" [HPp3mp]
+- o8: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o9: הוֹצֵאתִי = H3318 יָצָא "to go (causatively, bring) out…" [HVhp1cs]
+- o10: אוֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o11: מֵ/אֶרֶץ = Hm "from" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o12: מִצְרָיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o13: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o14: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o15: אֱלֹהֵי/כֶם = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2mp]
+
+### Leviticus 26:24 (context)
+
+- o1: וְ/הָלַכְתִּי = Hc "and" + H1980 הָלַךְ "to walk (in a great variety of applications…" [HC/Vqq1cs]
+- o2: אַף = H637 אַף "meaning accession (used as an adverb or…" [HTa]
+- o3: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o4: עִמָּ/כֶם = H5973 עִם "adverb or preposition…" [HR/Sp2mp]
+- o5: בְּ/קֶרִי = Hb "in" + H7147 קְרִי "hostile encounter" [HR/Ncmsa]
+- o6: וְ/הִכֵּיתִי = Hc "and" + H5221 נָכָה "to strike (lightly or severely…" [HC/Vhq1cs]
+- o7: אֶתְ/כֶם = H853 אֵת "properly…" [HTo/Sp2mp]
+- o8: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o9: אָנִי = H589 אֲנִי "I" [HPp1cs]
+- o10: שֶׁבַע = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcfsa]
+- o11: עַל = H5921 עַל "above, over, upon…" [HR]
+- o12: חַטֹּאתֵי/כֶם = H2403 חַטָּאָה "an offence (sometimes habitual sinfulness)…" [HNcfpc/Sp2mp]

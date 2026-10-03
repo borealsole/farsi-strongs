@@ -825,3 +825,44 @@ Persian entries and current tags:
 - p31: .
 - p32: “
 - p33: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 7:25 (context)
+
+- o1: וַ/יִּמָּלֵא = Hc "and" + H4390 מָלֵא "to fill or (intransitively) be full of…" [HC/VNw3ms]
+- o2: שִׁבְעַת = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcmsc]
+- o3: יָמִים = H3117 יוֹם "a day (as the warm hours)…" [HNcmpa]
+- o4: אַחֲרֵי = H310 אַחַר "properly, the hind part…" [HR]
+- o5: הַכּוֹת = H5221 נָכָה "to strike (lightly or severely…" [HVhc]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: הַ/יְאֹר = Hd "the" + H2975 יְאֹר "a channel, e.g. a fosse, canal, shaft…" [HTd/Np]
+
+### Exodus 8:17 (context)
+
+- o1: וַ/יַּעֲשׂוּ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3mp]
+- o2: כֵן = H3651 כֵּן "properly, set upright…" [HD]
+- o3: וַ/יֵּט = Hc "and" + H5186 נָטָה "to stretch or spread out…" [HC/Vqw3ms]
+- o4: אַהֲרֹן = H175 אַהֲרוֹן "Aharon, the brother of Moses" [HNp]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: יָד/וֹ = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsc/Sp3ms]
+- o7: בְ/מַטֵּ/הוּ = Hb "in" + H4294 מַטֶּה "a branch (as extending); figuratively, a tribe…" [HR/Ncmsc/Sp3ms]
+- o8: וַ/יַּךְ = Hc "and" + H5221 נָכָה "to strike (lightly or severely…" [HC/Vhw3ms]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: עֲפַר = H6083 עָפָר "dust (as powdered or gray)…" [HNcmsc]
+- o11: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o12: וַ/תְּהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3fs]
+- o13: הַ/כִּנָּם = Hd "the" + H3654 כֵּן "a gnat" [HTd/Ncmsa]
+- o14: בָּ/אָדָם = Hb "in" + H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HRd/Ncmsa]
+- o15: וּ/בַ/בְּהֵמָה = Hc "and" + Hb "in" + H929 בְּהֵמָה "properly, a dumb beast…" [HC/Rd/Ncfsa]
+- o16: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o17: עֲפַר = H6083 עָפָר "dust (as powdered or gray)…" [HNcmsc]
+- o18: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o19: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o20: כִנִּים = H3654 כֵּן "a gnat" [HNcmpa]
+- o21: בְּ/כָל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o22: אֶרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsc]
+- o23: מִצְרָיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]

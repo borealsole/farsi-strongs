@@ -952,3 +952,54 @@ Persian entries and current tags:
 - p45: او
 - p46: آمرزیده خواهد_شد  → H5545
 - p47: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 4:18 (context)
+
+- o1: וּ/מִן = Hc "and" + H4480 מִן "properly, a part of…" [HC/R]
+- o2: הַ/דָּם = Hd "the" + H1818 דָּם "blood (as that which when shed causes death) of…" [HTd/Ncmsa]
+- o3: יִתֵּן = H5414 נָתַן "to give…" [HVqi3ms]
+- o4: עַל = H5921 עַל "above, over, upon…" [HR]
+- o5: קַרְנֹת = H7161 קֶרֶן "a horn (as projecting)…" [HNcbpc]
+- o6: הַ/מִּזְבֵּחַ = Hd "the" + H4196 מִזְבֵּחַ "an altar" [HTd/Ncmsa]
+- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o8: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o9: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o10: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o11: בְּ/אֹהֶל = Hb "in" + H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HR/Ncmsc]
+- o12: מוֹעֵד = H4150 מוֹעֵד "properly, an appointment…" [HNcmsa]
+- o13: וְ/אֵת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o14: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o15: הַ/דָּם = Hd "the" + H1818 דָּם "blood (as that which when shed causes death) of…" [HTd/Ncmsa]
+- o16: יִשְׁפֹּךְ = H8210 שָׁפַךְ "to spill forth (blood, a libation, liquid metal…" [HVqi3ms]
+- o17: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o18: יְסוֹד = H3247 יְסוֹד "a foundation (literally or figuratively)" [HNcmsc]
+- o19: מִזְבַּח = H4196 מִזְבֵּחַ "an altar" [HNcmsc]
+- o20: הָ/עֹלָה = Hd "the" + H5930 עֹלָה "a step or (collectively, stairs, as ascending)…" [HTd/Ncfsa]
+- o21: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o22: פֶּתַח = H6607 פֶּתַח "an opening (literally)…" [HNcmsc]
+- o23: אֹהֶל = H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HNcmsc]
+- o24: מוֹעֵד = H4150 מוֹעֵד "properly, an appointment…" [HNcmsa]
+
+### Leviticus 5:1 (context)
+
+- o1: וְ/נֶפֶשׁ = Hc "and" + H5315 נֶפֶשׁ "properly, a breathing creature…" [HC/Ncbsa]
+- o2: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o3: תֶחֱטָא = H2398 חָטָא "properly, to miss…" [HVqi3fs]
+- o4: וְ/שָׁמְעָה = Hc "and" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HC/Vqq3fs]
+- o5: קוֹל = H6963 קוֹל "a voice or sound" [HNcmsc]
+- o6: אָלָה = H423 אָלָה "an imprecation" [HNcfsa]
+- o7: וְ/הוּא = Hc "and" + H1931 הוּא "he (she or it)…" [HC/Pp3ms]
+- o8: עֵד = H5707 עֵד "concretely, a witness; abstractly, testimony…" [HNcmsa]
+- o9: אוֹ = H176 אוֹ "desire (and so probably in Proverbs 31:4)…" [HC]
+- o10: רָאָה = H7200 רָאָה "to see…" [HVqp3ms]
+- o11: אוֹ = H176 אוֹ "desire (and so probably in Proverbs 31:4)…" [HC]
+- o12: יָדָע = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqp3ms]
+- o13: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o14: לוֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o15: יַגִּיד = H5046 נָגַד "properly, to front…" [HVhi3ms]
+- o16: וְ/נָשָׂא = Hc "and" + H5375 נָשָׂא "to lift, in a great variety of applications…" [HC/Vqq3ms]
+- o17: עֲוֺנ/וֹ = H5771 עָוֺן "perversity, i.e. (moral) evil" [HNcbsc/Sp3ms]

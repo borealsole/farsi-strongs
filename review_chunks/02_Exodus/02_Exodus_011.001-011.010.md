@@ -618,3 +618,31 @@ Persian entries and current tags:
 - p29: ترک
 - p30: کنند  → H7971
 - p31: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 10:29 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o3: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o4: דִּבַּרְתָּ = H1696 דָבַר "perhaps properly, to arrange…" [HVpp2ms]
+- o5: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o6: אֹסִף = H3254 יָסַף "to add or augment (often adverbial…" [HVhi1cs]
+- o7: עוֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+- o8: רְאוֹת = H7200 רָאָה "to see…" [HVqc]
+- o9: פָּנֶי/ךָ = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc/Sp2ms]
+
+### Exodus 12:1 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: וְ/אֶל = Hc "and" + H413 אֵל "near, with or among; often in general, to" [HC/R]
+- o6: אַהֲרֹן = H175 אַהֲרוֹן "Aharon, the brother of Moses" [HNp]
+- o7: בְּ/אֶרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o8: מִצְרַיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o9: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

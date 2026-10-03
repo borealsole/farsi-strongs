@@ -745,3 +745,46 @@ Persian entries and current tags:
 - p13: شمشیر  → H2719
 - p14: کشته_شده_بود  → H4191
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 23:10 (context)
+
+- o1: וַ/יַּעֲמֵד = Hc "and" + H5975 עָמַד "to stand…" [HC/Vhw3ms]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o4: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o5: וְ/אִישׁ = Hc "and" + H376 אִישׁ "a man as an individual or a male person…" [HC/Ncmsa]
+- o6: שִׁלְח/וֹ = H7973 שֶׁלַח "a missile of attack, i.e. spear…" [HNcmsc/Sp3ms]
+- o7: בְ/יָד/וֹ = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc/Sp3ms]
+- o8: מִ/כֶּתֶף = Hm "from" + H3802 כָּתֵף "the shoulder (proper, i.e. upper end of the arm…" [HR/Ncfsc]
+- o9: הַ/בַּיִת = Hd "the" + H1004 בַּיִת "a house (in the greatest variation of…" [HTd/Ncmsa]
+- o10: הַ/יְמָנִית = Hd "the" + H3233 יְמָנִי "right (i.e. at the right hand)" [HTd/Aafsa]
+- o11: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o12: כֶּתֶף = H3802 כָּתֵף "the shoulder (proper, i.e. upper end of the arm…" [HNcfsc]
+- o13: הַ/בַּיִת = Hd "the" + H1004 בַּיִת "a house (in the greatest variation of…" [HTd/Ncmsa]
+- o14: הַ/שְּׂמָאלִית = Hd "the" + H8042 שְׂמָאלִי "situated on the left side" [HTd/Aafsa]
+- o15: לַ/מִּזְבֵּחַ = Hl "to" + H4196 מִזְבֵּחַ "an altar" [HRd/Ncmsa]
+- o16: וְ/לַ/בָּיִת = Hc "and" + Hl "to" + H1004 בַּיִת "a house (in the greatest variation of…" [HC/Rd/Ncmsa]
+- o17: עַל = H5921 עַל "above, over, upon…" [HR]
+- o18: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o19: סָבִיב = H5439 סָבִיב "as noun) a circle, neighbour, or environs…" [HNcbsa]
+
+### II Chronicles 24:1 (context)
+
+- o1: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o2: שֶׁבַע = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcfsa]
+- o3: שָׁנִים = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfpa]
+- o4: יֹאָשׁ = H3101 יוֹאָשׁ "Joash, the name of six Israelites" [HNp]
+- o5: בְּ/מָלְכ/וֹ = Hb "in" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HR/Vqc/Sp3ms]
+- o6: וְ/אַרְבָּעִים = Hc "and" + H705 אַרְבָּעִים "forty" [HC/Acbpa]
+- o7: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o8: מָלַךְ = H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HVqp3ms]
+- o9: בִּ/ירוּשָׁלִָם = Hb "in" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HR/Np]
+- o10: וְ/שֵׁם = Hc "and" + H8034 שֵׁם "an appellation…" [HC/Ncmsc]
+- o11: אִמּ/וֹ = H517 אֵם "a mother (as the bond of the family)…" [HNcfsc/Sp3ms]
+- o12: צִבְיָה = H6645 צִבְיָּה "Tsibjah, an Israelite" [HNp]
+- o13: מִ/בְּאֵר = Hm "from" + H884 בְּאֵר שֶׁבַע "Beer-Sheba, a place in Palestine" [HR/Np]
+- o14: שָׁבַע = H884 בְּאֵר שֶׁבַע "Beer-Sheba, a place in Palestine" [HNp]

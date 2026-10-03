@@ -1005,3 +1005,44 @@ Persian entries and current tags:
 - p26: برسانیم  → H5046
 - p27: .
 - p28: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 35:19 (context)
+
+- o1: לָ/כֵן = Hl "to" + H3651 כֵּן "properly, set upright…" [HR/D]
+- o2: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o3: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: צְבָאוֹת = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbpa]
+- o6: אֱלֹהֵי = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc]
+- o7: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o8: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o9: יִכָּרֵת = H3772 כָּרַת "to cut (off, down or asunder)…" [HVNi3ms]
+- o10: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o11: לְ/יוֹנָדָב = Hl "to" + H3122 יוֹנָדָב "Jonadab…" [HR/Np]
+- o12: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o13: רֵכָב = H7394 רֵכָב "Rekab, the name of two Arabs and of two Israelites" [HNp]
+- o14: עֹמֵד = H5975 עָמַד "to stand…" [HVqrmsa]
+- o15: לְ/פָנַ/י = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp1cs]
+- o16: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o17: הַ/יָּמִים = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmpa]
+
+### Jeremiah 36:17 (context)
+
+- o1: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o2: בָּרוּךְ = H1263 בָּרוּךְ "Baruk, the name of three Israelites" [HNp]
+- o3: שָׁאֲלוּ = H7592 שָׁאַל "to inquire; by implication, to request…" [HVqp3cp]
+- o4: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o5: הַגֶּד = H5046 נָגַד "properly, to front…" [HVhv2ms]
+- o6: נָא = H4994 נָא "'I pray', 'now', or 'then'…" [HTe]
+- o7: לָ/נוּ = Hl "to" [HR/Sp1cp]
+- o8: אֵיךְ = H349 אֵיךְ "how? or how!; also where" [HTi]
+- o9: כָּתַבְתָּ = H3789 כָּתַב "to grave, by implication, to write (describe…" [HVqp2ms]
+- o10: אֶת = H853 אֵת "properly…" [HTo]
+- o11: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o12: הַ/דְּבָרִים = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmpa]
+- o13: הָ/אֵלֶּה = Hd "the" + H428 אֵלֶּה "these or those" [HTd/Pdxcp]
+- o14: מִ/פִּי/ו = Hm "from" + H6310 פֶּה "the mouth (as the means of blowing)…" [HR/Ncmsc/Sp3ms]

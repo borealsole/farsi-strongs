@@ -837,3 +837,30 @@ Persian entries and current tags:
 - p21: پسرانش  → H1121
 - p22: داد  → H5414 H6680
 - p23: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 3:34 (context)
+
+- o1: וּ/פְקֻדֵי/הֶם = Hc "and" + H6485 פָּקַד "to visit (with friendly or hostile intent)…" [HC/Vqsmpc/Sp3mp]
+- o2: בְּ/מִסְפַּר = Hb "in" + H4557 מִסְפָּר "a number…" [HR/Ncmsc]
+- o3: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o4: זָכָר = H2145 זָכָר "properly, remembered…" [HAamsa]
+- o5: מִ/בֶּן = Hm "from" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmsc]
+- o6: חֹדֶשׁ = H2320 חֹדֶשׁ "the new moon; by implication, a month" [HNcmsa]
+- o7: וָ/מָעְלָ/ה = Hc "and" + H4605 מַעַל "properly, the upper part…" [HC/D/Sd]
+- o8: שֵׁשֶׁת = H8337 שֵׁשׁ "six (as an overplus beyond five or the fingers of…" [HAcmsc]
+- o9: אֲלָפִים = H505 אֶלֶף "hence (the ox's head being the first letter of…" [HAcbpa]
+- o10: וּ/מָאתָיִם = Hc "and" + H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HC/Acbda]
+
+### Numbers 4:1 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: וְ/אֶל = Hc "and" + H413 אֵל "near, with or among; often in general, to" [HC/R]
+- o6: אַהֲרֹן = H175 אַהֲרוֹן "Aharon, the brother of Moses" [HNp]
+- o7: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

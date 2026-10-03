@@ -1129,3 +1129,32 @@ Persian entries and current tags:
 - p30: طاهر  → H2891
 - p31: بودنشان
 - p32: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 13:39 (context)
+
+- o1: וְ/רָאָה = Hc "and" + H7200 רָאָה "to see…" [HC/Vqq3ms]
+- o2: הַ/כֹּהֵן = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmsa]
+- o3: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o4: בְ/עוֹר = Hb "in" + H5785 עוֹר "skin (as naked); by implication, hide, leather" [HR/Ncmsc]
+- o5: בְּשָׂרָ/ם = H1320 בָּשָׂר "flesh (from its freshness)…" [HNcmsc/Sp3mp]
+- o6: בֶּהָרֹת = H934 בֹּהֶרֶת "a whitish spot on the skin" [HNcfpa]
+- o7: כֵּהוֹת = H3544 כֵּהֶה "feeble, obscure" [HAafpa]
+- o8: לְבָנֹת = H3836 לָבָן "white" [HAafpa]
+- o9: בֹּהַק = H933 בֹּהַק "white scurf" [HNcmsa]
+- o10: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o11: פָּרַח = H6524 פָּרַח "to break forth as a bud, i.e. bloom…" [HVqp3ms]
+- o12: בָּ/עוֹר = Hb "in" + H5785 עוֹר "skin (as naked); by implication, hide, leather" [HRd/Ncmsa]
+- o13: טָהוֹר = H2889 טָהוֹר "pure (in a physical, chemical…" [HAamsa]
+- o14: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+
+### Leviticus 14:1 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: לֵּ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

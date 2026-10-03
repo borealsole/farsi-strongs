@@ -691,3 +691,65 @@ Persian entries and current tags:
 - p44: پدید
 - p45: می‌آمد
 - p46: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Revelation of John 11:10 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o3: κατοικοῦντες = G2730 κατοικέω "dwell(-er), inhabitant(-ter)" [V-PAP-NPM]
+- o4: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o5: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o6: γῆς = G1093 γῆ "country, earth(-ly), ground, land, world" [N-GSF]
+- o7: χαίρουσιν = G5463 χαίρω "farewell, be glad, God speed, greeting, hall…" [V-PAI-3P]
+- o8: ἐπ’ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o9: αὐτοῖς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPM]
+- o10: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o11: εὐφραίνονται, = G2165 εὐφραίνω "fare, make glad, be (make) merry, rejoice" [V-PPI-3P]
+- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o13: δῶρα = G1435 δῶρον "gift, offering" [N-APN]
+- o14: πέμπουσιν = G3992 πέμπω "send, thrust in" [V-PAI-3P]
+- o15: ἀλλήλοις, = G240 ἀλλήλων "each other, mutual, one another, (the other)…" [C-DPM]
+- o16: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o17: οὗτοι = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-NPM]
+- o18: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o19: δύο = G1417 δύο "both, twain, two" [A-NUI]
+- o20: προφῆται = G4396 προφήτης "prophet" [N-NPM]
+- o21: ἐβασάνισαν = G928 βασανίζω "pain, toil, torment, toss, vex" [V-AAI-3P]
+- o22: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o23: κατοικοῦντας = G2730 κατοικέω "dwell(-er), inhabitant(-ter)" [V-PAP-APM]
+- o24: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o25: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o26: γῆς. = G1093 γῆ "country, earth(-ly), ground, land, world" [N-GSF]
+
+### Revelation of John 12:1 (context)
+
+- o1: Καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: σημεῖον = G4592 σημεῖον "miracle, sign, token, wonder" [N-NSN]
+- o3: μέγα = G3173 μέγας "+ fear) exceedingly, great(-est), high, large…" [A-NSN]
+- o4: ὤφθη = G3708 ὁράω "behold, perceive, see, take heed" [V-API-3S]
+- o5: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o6: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o7: οὐρανῷ, = G3772 οὐρανός "air, heaven(-ly), sky" [N-DSM]
+- o8: γυνὴ = G1135 γυνή "wife, woman" [N-NSF]
+- o9: περιβεβλημένη = G4016 περιβάλλω "array, cast about, clothe(-d me), put on" [V-RPP-NSF]
+- o10: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o11: ἥλιον, = G2246 ἥλιος "+ east, sun" [N-ASM]
+- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o13: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o14: σελήνη = G4582 σελήνη "moon" [N-NSF]
+- o15: ὑποκάτω = G5270 ὑποκάτω "under" [ADV]
+- o16: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o17: ποδῶν = G4228 πούς "foot(-stool)" [N-GPM]
+- o18: αὐτῆς, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSF]
+- o19: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o20: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o21: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o22: κεφαλῆς = G2776 κεφαλή "head" [N-GSF]
+- o23: αὐτῆς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSF]
+- o24: στέφανος = G4735 στέφανος "crown" [N-NSM]
+- o25: ἀστέρων = G792 ἀστήρ "star" [N-GPM]
+- o26: δώδεκα, = G1427 δώδεκα "twelve" [A-NUI]

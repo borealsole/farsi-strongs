@@ -1125,3 +1125,22 @@ Persian entries and current tags:
 - p8: آنجا
 - p9: بود
 - p10: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Daniel 2:1 (context)
+
+- o1: וּ/בִ/שְׁנַת = Hc "and" + Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HC/R/Ncfsc]
+- o2: שְׁתַּיִם = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcfda]
+- o3: לְ/מַלְכוּת = Hl "to" + H4438 מַלְכוּת "a rule; concretely, a dominion" [HR/Ncfsc]
+- o4: נְבֻכַדְנֶצַּר = H5019 נְבוּכַדְנֶאצַּר "Nebukadnetstsar (or -retstsar, or -retstsor)…" [HNp]
+- o5: חָלַם = H2492 חָלַם "properly, to bind firmly…" [HVqp3ms]
+- o6: נְבֻכַדְנֶצַּר = H5019 נְבוּכַדְנֶאצַּר "Nebukadnetstsar (or -retstsar, or -retstsor)…" [HNp]
+- o7: חֲלֹמוֹת = H2472 חֲלוֹם "a dream" [HNcmpa]
+- o8: וַ/תִּתְפָּעֶם = Hc "and" + H6470 פָּעַם "to tap, i.e. beat regularly…" [HC/Vtw3fs]
+- o9: רוּח/וֹ = H7307 רוּחַ "wind…" [HNcbsc/Sp3ms]
+- o10: וּ/שְׁנָת/וֹ = Hc "and" + H8142 שֵׁנָה "sleep" [HC/Ncfsc/Sp3ms]
+- o11: נִהְיְתָה = H1961 הָיָה "to exist, i.e. be or become…" [HVNp3fs]
+- o12: עָלָי/ו = H5921 עַל "above, over, upon…" [HR/Sp3ms]

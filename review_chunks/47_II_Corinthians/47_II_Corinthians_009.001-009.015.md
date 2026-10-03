@@ -854,3 +854,56 @@ Persian entries and current tags:
 - p5: عطای  → G411
 - p6: وصف‌ناپذیرش  → G1431
 - p7: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Corinthians 8:24 (context)
+
+- o1: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o2: οὖν = G3767 οὖν "and (so, truly), but, now (then)…" [CONJ]
+- o3: ἔνδειξιν = G1732 ἔνδειξις "declare, evident token, proof" [N-ASF]
+- o4: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o5: ἀγάπης = G26 ἀγάπη "(feast of) charity(-ably), dear, love" [N-GSF]
+- o6: ὑμῶν = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
+- o7: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o8: ἡμῶν = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+- o9: καυχήσεως = G2746 καύχησις "boasting, whereof I may glory, glorying, rejoicing" [N-GSF]
+- o10: ὑπὲρ = G5228 ὑπέρ "+ exceeding, abundantly) above…" [PREP]
+- o11: ὑμῶν = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
+- o12: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o13: αὐτοὺς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-APM]
+- o14: ἐνδεικνύμενοι = G1731 ἐνδείκνυμι "do, show (forth)" [V-PMP-NPM]
+- o15: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o16: πρόσωπον = G4383 πρόσωπον "outward) appearance, before, countenance, face…" [N-ASN]
+- o17: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPF]
+- o18: ἐκκλησιῶν. = G1577 ἐκκλησία "assembly, church" [N-GPF]
+
+### II Corinthians 10:1 (context)
+
+- o1: Αὐτὸς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-NSM]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: ἐγὼ = G1473 ἐγώ "I, me" [P-1NS]
+- o4: Παῦλος = G3972 Παῦλος "Paul, Paulus" [N-NSM]
+- o5: παρακαλῶ = G3870 παρακαλέω "beseech, call for, (be of good) comfort, desire…" [V-PAI-1S]
+- o6: ὑμᾶς = G5210 ὑμεῖς "ye (yourselves), you" [P-2AP]
+- o7: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o8: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o9: πραΰτητος = G4240 πραΰτης "meekness" [N-GSF]
+- o10: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o11: ἐπιεικείας = G1932 ἐπιείκεια "clemency, gentleness" [N-GSF]
+- o12: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o13: Χριστοῦ, = G5547 Χριστός "Christ" [N-GSM]
+- o14: ὃς = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-NSM]
+- o15: κατὰ = G2596 κατά "about, according as (to), after, against…" [PREP]
+- o16: πρόσωπον = G4383 πρόσωπον "outward) appearance, before, countenance, face…" [N-ASN]
+- o17: μὲν = G3303 μέν "even, indeed, so, some, truly, verily" [PRT]
+- o18: ταπεινὸς = G5011 ταπεινός "base, cast down, humble, of low degree (estate)…" [A-NSM]
+- o19: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o20: ὑμῖν, = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
+- o21: ἀπὼν = G548 ἄπειμι "be absent" [V-PAP-NSM]
+- o22: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o23: θαρρῶ = G2292 θαῤῥέω "be bold, boldly, have confidence, be confident" [V-PAI-1S]
+- o24: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o25: ὑμᾶς· = G5210 ὑμεῖς "ye (yourselves), you" [P-2AP]

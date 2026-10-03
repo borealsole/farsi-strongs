@@ -963,3 +963,38 @@ Persian entries and current tags:
 - p17: نوبَخ  → H5025
 - p18: نامید  → H7121 H8034
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 32:21 (context)
+
+- o1: וְ/עָבַר = Hc "and" + H5674 עָבַר "to cross over…" [HC/Vqq3ms]
+- o2: לָ/כֶם = Hl "to" [HR/Sp2mp]
+- o3: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o4: חָלוּץ = H2502 חָלַץ "to pull off…" [HVqsmsa]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: הַ/יַּרְדֵּן = Hd "the" + H3383 יַרְדֵּן "Jarden, the principal river of Palestine" [HTd/Np]
+- o7: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o8: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o9: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o10: הוֹרִישׁ/וֹ = H3423 יָרַשׁ "to occupy (by driving out previous tenants…" [HVhc/Sp3ms]
+- o11: אֶת = H853 אֵת "properly…" [HTo]
+- o12: אֹיְבָי/ו = H341 אֹיֵב "hating; an adversary" [HVqrmpc/Sp3ms]
+- o13: מִ/פָּנָי/ו = Hm "from" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp3ms]
+
+### Numbers 33:1 (context)
+
+- o1: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o2: מַסְעֵי = H4550 מַסַּע "a departure (from striking the tents)…" [HNcmpc]
+- o3: בְנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o4: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: יָצְאוּ = H3318 יָצָא "to go (causatively, bring) out…" [HVqp3cp]
+- o7: מֵ/אֶרֶץ = Hm "from" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o8: מִצְרַיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o9: לְ/צִבְאֹתָ/ם = Hl "to" + H6635 צָבָא "a mass of persons (or figuratively, things)…" [HR/Ncbpc/Sp3mp]
+- o10: בְּ/יַד = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o11: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o12: וְ/אַהֲרֹן = Hc "and" + H175 אַהֲרוֹן "Aharon, the brother of Moses" [HC/Np]

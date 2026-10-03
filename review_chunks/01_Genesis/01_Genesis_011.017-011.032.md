@@ -703,3 +703,35 @@ Persian entries and current tags:
 - p13: حَران  → H2771
 - p14: درگذشت  → H4191
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 11:16 (context)
+
+- o1: וַ/יְחִי = Hc "and" + H2421 חָיָה "to live, whether literally or figuratively…" [HC/Vqw3ms]
+- o2: עֵבֶר = H5677 עֵבֵר "Eber…" [HNp]
+- o3: אַרְבַּע = H702 אַרְבַּע "four" [HAcfsa]
+- o4: וּ/שְׁלֹשִׁים = Hc "and" + H7970 שְׁלוֹשִׁים "thirty; or (ordinal) thirtieth" [HC/Acbpa]
+- o5: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o6: וַ/יּוֹלֶד = Hc "and" + H3205 יָלַד "to bear young; causatively, to beget…" [HC/Vhw3ms]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: פָּלֶג = H6389 פֶּלֶג "Peleg, a son of Shem" [HNp]
+
+### Genesis 12:1 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: אַבְרָם = H87 אַבְרָם "Abram, the original name of Abraham" [HNp]
+- o5: לֶךְ = H3212 יָלַךְ "to walk (literally or figuratively)…" [HVqv2ms]
+- o6: לְ/ךָ = Hl "to" [HR/Sp2ms]
+- o7: מֵ/אַרְצְ/ךָ = Hm "from" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc/Sp2ms]
+- o8: וּ/מִ/מּוֹלַדְתְּ/ךָ = Hc "and" + Hm "from" + H4138 מוֹלֶדֶת "nativity (plural birth-place)…" [HC/R/Ncfsc/Sp2ms]
+- o9: וּ/מִ/בֵּית = Hc "and" + Hm "from" + H1004 בַּיִת "a house (in the greatest variation of…" [HC/R/Ncmsc]
+- o10: אָבִי/ךָ = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp2ms]
+- o11: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o12: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o13: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o14: אַרְאֶ/ךָּ = H7200 רָאָה "to see…" [HVhi1cs/Sp2ms]

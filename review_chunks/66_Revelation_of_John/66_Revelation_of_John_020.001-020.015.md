@@ -1034,3 +1034,62 @@ Persian entries and current tags:
 - p12: افکنده  → G906
 - p13: شد
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Revelation of John 19:21 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o3: λοιποὶ = G3062 λοιποί "other, which remain, remnant, residue, rest" [A-NPM]
+- o4: ἀπεκτάνθησαν = G615 ἀποκτείνω "put to death, kill, slay" [V-API-3P]
+- o5: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o6: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o7: ῥομφαίᾳ = G4501 ῥομφαία "sword" [N-DSF]
+- o8: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o9: καθημένου = G2521 κάθημαι "dwell, sit (by, down)" [V-PNP-GSM]
+- o10: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o11: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o12: ἵππου = G2462 ἵππος "horse" [N-GSM]
+- o13: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o14: ἐξελθούσῃ = G1831 ἐξέρχομαι "come (forth, out), depart (out of), escape…" [V-2AAP-DSF]
+- o15: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o16: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
+- o17: στόματος = G4750 στόμα "edge, face, mouth" [N-GSN]
+- o18: αὐτοῦ, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o19: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o20: πάντα = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-NPN]
+- o21: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPN]
+- o22: ὄρνεα = G3732 ὄρνεον "bird, fowl" [N-NPN]
+- o23: ἐχορτάσθησαν = G5526 χορτάζω "feed, fill, satisfy" [V-API-3P]
+- o24: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o25: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPF]
+- o26: σαρκῶν = G4561 σάρξ "carnal(-ly, + -ly minded), flesh(-ly)" [N-GPF]
+- o27: αὐτῶν. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]
+
+### Revelation of John 21:1 (context)
+
+- o1: Καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: εἶδον = G3708 ὁράω "behold, perceive, see, take heed" [V-2AAI-1S]
+- o3: οὐρανὸν = G3772 οὐρανός "air, heaven(-ly), sky" [N-ASM]
+- o4: καινὸν = G2537 καινός "new" [A-ASM]
+- o5: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o6: γῆν = G1093 γῆ "country, earth(-ly), ground, land, world" [N-ASF]
+- o7: καινήν· = G2537 καινός "new" [A-ASF]
+- o8: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o9: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o10: πρῶτος = G4413 πρῶτος "before, beginning, best, chief(-est)…" [A-NSM-S]
+- o11: οὐρανὸς = G3772 οὐρανός "air, heaven(-ly), sky" [N-NSM]
+- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o13: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o14: πρώτη = G4413 πρῶτος "before, beginning, best, chief(-est)…" [A-NSF-S]
+- o15: γῆ = G1093 γῆ "country, earth(-ly), ground, land, world" [N-NSF]
+- o16: ἀπῆλθαν, = G565 ἀπέρχομαι "come, depart, go (aside, away, back, out, … ways)…" [V-2AAI-3P]
+- o17: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o18: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o19: θάλασσα = G2281 θάλασσα "sea" [N-NSF]
+- o20: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o21: ἔστιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o22: ἔτι. = G2089 ἔτι "after that, also, ever, (any) further…" [ADV]

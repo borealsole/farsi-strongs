@@ -795,3 +795,29 @@ Persian entries and current tags:
 - p41: .
 - p42: “
 - p43: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 17:14 (context)
+
+- o1: רְפָאֵ/נִי = H7495 רָפָא "properly, to mend (by stitching)…" [HVqv2ms/Sp1cs]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: וְ/אֵרָפֵא = Hc "and" + H7495 רָפָא "properly, to mend (by stitching)…" [HC/VNh1cs]
+- o4: הוֹשִׁיעֵ/נִי = H3467 יָשַׁע "properly, to be open, wide or free…" [HVhv2ms/Sp1cs]
+- o5: וְ/אִוָּשֵׁעָה = Hc "and" + H3467 יָשַׁע "properly, to be open, wide or free…" [HC/VNh1cs]
+- o6: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o7: תְהִלָּתִ/י = H8416 תְּהִלָּה "laudation; specifically (concretely) a hymn" [HNcfsc/Sp1cs]
+- o8: אָתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+
+### Jeremiah 18:1 (context)
+
+- o1: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]
+- o2: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o3: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o4: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o5: יִרְמְיָהוּ = H3414 יִרְמְיָה "Jirmejah, the name of eight or nine Israelites" [HNp]
+- o6: מֵ/אֵת = Hm "from" + H854 אֵת "properly…" [HR/R]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

@@ -649,3 +649,29 @@ Persian entries and current tags:
 - p16: آشکار  → H1540 H6172
 - p17: کنی
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 17:16 (context)
+
+- o1: וְ/אִם = Hc "and" + H518 אִם "used very widely as demonstrative, lo!…" [HC/C]
+- o2: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o3: יְכַבֵּס = H3526 כָּבַס "to trample…" [HVpi3ms]
+- o4: וּ/בְשָׂר/וֹ = Hc "and" + H1320 בָּשָׂר "flesh (from its freshness)…" [HC/Ncmsc/Sp3ms]
+- o5: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o6: יִרְחָץ = H7364 רָחַץ "to lave (the whole or a part of a thing)" [HVqi3ms]
+- o7: וְ/נָשָׂא = Hc "and" + H5375 נָשָׂא "to lift, in a great variety of applications…" [HC/Vqq3ms]
+- o8: עֲוֺנ/וֹ = H5771 עָוֺן "perversity, i.e. (moral) evil" [HNcbsc/Sp3ms]
+
+### Leviticus 18:16 (context)
+
+- o1: עֶרְוַת = H6172 עֶרְוָה "nudity…" [HNcfsc]
+- o2: אֵשֶׁת = H802 אִשָּׁה "a woman" [HNcfsc]
+- o3: אָחִי/ךָ = H251 אָח "a brother (used in the widest sense of literal…" [HNcmsc/Sp2ms]
+- o4: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o5: תְגַלֵּה = H1540 גָּלָה "to denude (especially in a disgraceful sense)…" [HVpi2ms]
+- o6: עֶרְוַת = H6172 עֶרְוָה "nudity…" [HNcfsc]
+- o7: אָחִי/ךָ = H251 אָח "a brother (used in the widest sense of literal…" [HNcmsc/Sp2ms]
+- o8: הִוא = H1931 הוּא "he (she or it)…" [HPp3fs]

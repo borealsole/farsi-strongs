@@ -1167,3 +1167,52 @@ Persian entries and current tags:
 - p13: کار  → G91
 - p14: نیست  → G3756
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Colossians 2:23 (context)
+
+- o1: ἅτινά = G3748 ὅστις "and (they), (such) as, (they) that, in that they…" [R-NPN]
+- o2: ἐστιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o3: λόγον = G3056 λόγος "account, cause, communication, concerning…" [N-ASM]
+- o4: μὲν = G3303 μέν "even, indeed, so, some, truly, verily" [PRT]
+- o5: ἔχοντα = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAP-NPN]
+- o6: σοφίας = G4678 σοφία "wisdom" [N-GSF]
+- o7: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o8: ἐθελοθρησκίᾳ = G1479 ἐθελοθρησκεία "will worship" [N-DSF]
+- o9: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o10: ταπεινοφροσύνῃ = G5012 ταπεινοφροσύνη "humbleness of mind, humility (of mind…" [N-DSF]
+- o11: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o12: ἀφειδίᾳ = G857 ἀφειδία "neglecting" [N-DSF]
+- o13: σώματος, = G4983 σῶμα "bodily, body, slave" [N-GSN]
+- o14: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o15: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o16: τιμῇ = G5092 τιμή "honour, precious, price, some" [N-DSF]
+- o17: τινι = G5100 τὶς "a (kind of), any (man, thing, thing at all)…" [X-DSF]
+- o18: πρὸς = G4314 πρός "about, according to , against, among, at…" [PREP]
+- o19: πλησμονὴν = G4140 πλησμονή "satisfying" [N-ASF]
+- o20: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o21: σαρκός. = G4561 σάρξ "carnal(-ly, + -ly minded), flesh(-ly)" [N-GSF]
+
+### Colossians 4:1 (context)
+
+- o1: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o2: κύριοι, = G2962 κύριος "God, Lord, master, Sir" [N-NPM]
+- o3: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o4: δίκαιον = G1342 δίκαιος "just, meet, right(-eous)" [A-ASN]
+- o5: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o6: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o7: ἰσότητα = G2471 ἰσότης "equal(-ity)" [N-ASF]
+- o8: τοῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPM]
+- o9: δούλοις = G1401 δοῦλος "bond(-man), servant" [N-DPM]
+- o10: παρέχεσθε, = G3930 παρέχω "bring, do, give, keep, minister, offer, shew…" [V-PMM-2P]
+- o11: εἰδότες = G1492 εἴδω "be aware, behold, can (+ not tell), consider…" [V-RAP-NPM]
+- o12: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o13: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o14: ὑμεῖς = G5210 ὑμεῖς "ye (yourselves), you" [P-2NP]
+- o15: ἔχετε = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAI-2P]
+- o16: κύριον = G2962 κύριος "God, Lord, master, Sir" [N-ASM]
+- o17: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o18: οὐρανῷ. = G3772 οὐρανός "air, heaven(-ly), sky" [N-DSM]

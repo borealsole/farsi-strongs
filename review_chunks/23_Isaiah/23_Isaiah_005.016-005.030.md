@@ -801,3 +801,36 @@ Persian entries and current tags:
 - p29: آن
 - p30: تاریک خواهد_شد  → H2821
 - p31: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 5:15 (context)
+
+- o1: וַ/יִּשַּׁח = Hc "and" + H7817 שָׁחַח "to sink or depress (reflexive or causative)" [HC/VNw3ms]
+- o2: אָדָם = H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HNcmsa]
+- o3: וַ/יִּשְׁפַּל = Hc "and" + H8213 שָׁפֵל "to depress or sink (expectation figuratively…" [HC/Vqw3ms]
+- o4: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o5: וְ/עֵינֵי = Hc "and" + H5869 עַיִן "an eye (literally or figuratively)…" [HC/Ncbdc]
+- o6: גְבֹהִים = H1364 גָּבֹהַּ "elevated (or elated), powerful, arrogant" [HAampa]
+- o7: תִּשְׁפַּלְנָה = H8213 שָׁפֵל "to depress or sink (expectation figuratively…" [HVqi3fp]
+
+### Isaiah 6:1 (context)
+
+- o1: בִּ/שְׁנַת = Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HR/Ncfsc]
+- o2: מוֹת = H4194 מָוֶת "death (natural or violent)…" [HNcmsc]
+- o3: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o4: עֻזִּיָּהוּ = H5818 עֻזִּיָּה "Uzzijah, the name of five Israelites" [HNp]
+- o5: וָ/אֶרְאֶה = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw1cs]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o8: יֹשֵׁב = H3427 יָשַׁב "properly…" [HVqrmsa]
+- o9: עַל = H5921 עַל "above, over, upon…" [HR]
+- o10: כִּסֵּא = H3678 כִּסֵּא "properly, covered, i.e. a throne (as canopied)" [HNcmsa]
+- o11: רָם = H7311 רוּם "to be high actively…" [HVqrmsa]
+- o12: וְ/נִשָּׂא = Hc "and" + H5375 נָשָׂא "to lift, in a great variety of applications…" [HC/VNrmsa]
+- o13: וְ/שׁוּלָי/ו = Hc "and" + H7757 שׁוּל "a skirt; by implication, a bottom edge" [HC/Ncmpc/Sp3ms]
+- o14: מְלֵאִים = H4390 מָלֵא "to fill or (intransitively) be full of…" [HVqrmpa]
+- o15: אֶת = H853 אֵת "properly…" [HTo]
+- o16: הַ/הֵיכָל = Hd "the" + H1964 הֵיכָל "a large public building…" [HTd/Ncmsa]

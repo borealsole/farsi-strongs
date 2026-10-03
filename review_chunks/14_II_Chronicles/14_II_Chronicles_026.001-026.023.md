@@ -1336,3 +1336,38 @@ Persian entries and current tags:
 - p35: او
 - p36: پادشاه شد  → H4427
 - p37: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 25:28 (context)
+
+- o1: וַ/יִּשָּׂאֻ/הוּ = Hc "and" + H5375 נָשָׂא "to lift, in a great variety of applications…" [HC/Vqw3mp/Sp3ms]
+- o2: עַל = H5921 עַל "above, over, upon…" [HR]
+- o3: הַ/סּוּסִים = Hd "the" + H5483 סוּס "a horse (as leaping)…" [HTd/Ncmpa]
+- o4: וַ/יִּקְבְּרוּ = Hc "and" + H6912 קָבַר "to inter" [HC/Vqw3mp]
+- o5: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o6: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o7: אֲבֹתָי/ו = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp3ms]
+- o8: בְּ/עִיר = Hb "in" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HR/Ncfsc]
+- o9: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+
+### II Chronicles 27:1 (context)
+
+- o1: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o2: עֶשְׂרִים = H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HAcbpa]
+- o3: וְ/חָמֵשׁ = Hc "and" + H2568 חָמֵשׁ "five" [HC/Acfsa]
+- o4: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o5: יוֹתָם = H3147 יוֹתָם "Jotham, the name of three Israelites" [HNp]
+- o6: בְּ/מָלְכ/וֹ = Hb "in" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HR/Vqc/Sp3ms]
+- o7: וְ/שֵׁשׁ = Hc "and" + H8337 שֵׁשׁ "six (as an overplus beyond five or the fingers of…" [HC/Acfsa]
+- o8: עֶשְׂרֵה = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcfsa]
+- o9: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o10: מָלַךְ = H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HVqp3ms]
+- o11: בִּ/ירוּשָׁלִָם = Hb "in" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HR/Np]
+- o12: וְ/שֵׁם = Hc "and" + H8034 שֵׁם "an appellation…" [HC/Ncmsc]
+- o13: אִמּ/וֹ = H517 אֵם "a mother (as the bond of the family)…" [HNcfsc/Sp3ms]
+- o14: יְרוּשָׁה = H3388 יְרוּשָׁא "Jerusha or Jerushah, as Israelitess" [HNp]
+- o15: בַּת = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfsc]
+- o16: צָדוֹק = H6659 צָדוֹק "Tsadok, the name of eight or nine Israelites" [HNp]

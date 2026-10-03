@@ -1258,3 +1258,43 @@ Persian entries and current tags:
 - p33: پایمال  → H4823
 - p34: خواهند_کرد
 - p35: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 6:13 (context)
+
+- o1: וְ/עוֹד = Hc "and" + H5750 עוֹד "properly, iteration or continuance…" [HC/D]
+- o2: בָּ/הּ = Hb "in" [HR/Sp3fs]
+- o3: עֲשִׂרִיָּה = H6224 עֲשִׂירִי "tenth…" [HAofsa]
+- o4: וְ/שָׁבָה = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqq3fs]
+- o5: וְ/הָיְתָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3fs]
+- o6: לְ/בָעֵר = Hl "to" + H1197 בָּעַר "to kindle, i.e. consume (by fire or by eating)…" [HR/Vpc]
+- o7: כָּ/אֵלָה = Hk "like" + H424 אֵלָה "an oak or other strong tree" [HRd/Ncfsa]
+- o8: וְ/כָ/אַלּוֹן = Hc "and" + Hk "like" + H437 אַלּוֹן "an oak or other strong tree" [HC/Rd/Ncmsa]
+- o9: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o10: בְּ/שַׁלֶּכֶת = Hb "in" + H7995 שַׁלֶּכֶת "a felling (of trees)" [HR/Ncfsa]
+- o11: מַצֶּבֶת = H4678 מַצֶּבֶת "something stationary, i.e. a monumental stone…" [HNcfsa]
+- o12: בָּ/ם = Hb "in" [HR/Sp3mp]
+- o13: זֶרַע = H2233 זֶרַע "seed…" [HNcmsc]
+- o14: קֹדֶשׁ = H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HNcmsa]
+- o15: מַצַּבְתָּ/הּ = H4678 מַצֶּבֶת "something stationary, i.e. a monumental stone…" [HNcfsc/Sp3fs]
+
+### Isaiah 8:1 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o4: קַח = H3947 לָקַח "to take (in the widest variety of applications)" [HVqv2ms]
+- o5: לְ/ךָ = Hl "to" [HR/Sp2ms]
+- o6: גִּלָּיוֹן = H1549 גִּלָּיוֹן "a tablet for writing (as bare)…" [HNcmsa]
+- o7: גָּדוֹל = H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HAamsa]
+- o8: וּ/כְתֹב = Hc "and" + H3789 כָּתַב "to grave, by implication, to write (describe…" [HC/Vqv2ms]
+- o9: עָלָי/ו = H5921 עַל "above, over, upon…" [HR/Sp3ms]
+- o10: בְּ/חֶרֶט = Hb "in" + H2747 חֶרֶט "a chisel or graver; also a style forwriting" [HR/Ncmsc]
+- o11: אֱנוֹשׁ = H582 אֱנוֹשׁ "a man in general (singly or collectively)" [HNcmsa]
+- o12: לְ/מַהֵר = Hl "to" + H4122 מַהֵר שָׁלָל חָשׁ בַּז "Maher-Shalal-Chash-Baz…" [HR/Np]
+- o13: שָׁלָל = H4122 מַהֵר שָׁלָל חָשׁ בַּז "Maher-Shalal-Chash-Baz…" [HNp]
+- o14: חָשׁ = H4122 מַהֵר שָׁלָל חָשׁ בַּז "Maher-Shalal-Chash-Baz…" [HNp]
+- o15: בַּז = H4122 מַהֵר שָׁלָל חָשׁ בַּז "Maher-Shalal-Chash-Baz…" [HNp]

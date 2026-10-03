@@ -1242,3 +1242,72 @@ Persian entries and current tags:
 - p22: بترسید  → H3372
 - p23: .
 - p24: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Joshua 3:17 (context)
+
+- o1: וַ/יַּעַמְדוּ = Hc "and" + H5975 עָמַד "to stand…" [HC/Vqw3mp]
+- o2: הַ/כֹּהֲנִים = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmpa]
+- o3: נֹשְׂאֵי = H5375 נָשָׂא "to lift, in a great variety of applications…" [HVqrmpc]
+- o4: הָ/אָרוֹן = Hd "the" + H727 אָרוֹן "a box" [HTd/Ncbsa]
+- o5: בְּרִית = H1285 בְּרִית "a compact (because made by passing between pieces…" [HNcfsc]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: בֶּ/חָרָבָה = Hb "in" + H2724 חָרָבָה "a desert" [HRd/Ncfsa]
+- o8: בְּ/תוֹךְ = Hb "in" + H8432 תָּוֶךְ "a bisection, i.e. (by implication) the centre" [HR/Ncmsc]
+- o9: הַ/יַּרְדֵּן = Hd "the" + H3383 יַרְדֵּן "Jarden, the principal river of Palestine" [HTd/Np]
+- o10: הָכֵן = H3559 כּוּן "properly, to be erect (i.e. stand perpendicular)…" [HVha]
+- o11: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o12: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o13: עֹבְרִים = H5674 עָבַר "to cross over…" [HVqrmpa]
+- o14: בֶּ/חָרָבָה = Hb "in" + H2724 חָרָבָה "a desert" [HRd/Ncfsa]
+- o15: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o16: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o17: תַּמּוּ = H8552 תָּמַם "to complete, in a good or a bad sense, literal…" [HVqp3cp]
+- o18: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o19: הַ/גּוֹי = Hd "the" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HTd/Ncmsa]
+- o20: לַ/עֲבֹר = Hl "to" + H5674 עָבַר "to cross over…" [HR/Vqc]
+- o21: אֶת = H853 אֵת "properly…" [HTo]
+- o22: הַ/יַּרְדֵּן = Hd "the" + H3383 יַרְדֵּן "Jarden, the principal river of Palestine" [HTd/Np]
+
+### Joshua 5:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: כִ/שְׁמֹעַ = Hk "like" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HR/Vqc]
+- o3: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o4: מַלְכֵי = H4428 מֶלֶךְ "a king" [HNcmpc]
+- o5: הָ/אֱמֹרִי = Hd "the" + H567 אֱמֹרִי "an Emorite, one of the Canaanitish tribes" [HTd/Ngmsa]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: בְּ/עֵבֶר = Hb "in" + H5676 עֵבֶר "properly, a region across…" [HR/Ncmsc]
+- o8: הַ/יַּרְדֵּן = Hd "the" + H3383 יַרְדֵּן "Jarden, the principal river of Palestine" [HTd/Np]
+- o9: יָמָּ/ה = H3220 יָם "a sea (as breaking in noisy surf) or large body…" [HNcmsa/Sd]
+- o10: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o11: מַלְכֵי = H4428 מֶלֶךְ "a king" [HNcmpc]
+- o12: הַ/כְּנַעֲנִי = Hd "the" + H3669 כְּנַעַנִי "a Kenaanite or inhabitant of Kenaan…" [HTd/Ngmsa]
+- o13: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o14: עַל = H5921 עַל "above, over, upon…" [HR]
+- o15: הַ/יָּם = Hd "the" + H3220 יָם "a sea (as breaking in noisy surf) or large body…" [HTd/Ncmsa]
+- o16: אֵת = H853 אֵת "properly…" [HTo]
+- o17: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o18: הוֹבִישׁ = H3001 יָבֵשׁ "to be ashamed, confused or disappointed…" [HVhp3ms]
+- o19: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o20: אֶת = H853 אֵת "properly…" [HTo]
+- o21: מֵי = H4325 מַיִם "water; figuratively, juice…" [HNcmpc]
+- o22: הַ/יַּרְדֵּן = Hd "the" + H3383 יַרְדֵּן "Jarden, the principal river of Palestine" [HTd/Np]
+- o23: מִ/פְּנֵי = Hm "from" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o24: בְנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o25: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o26: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o27: עבר/נו = H5674 עָבַר "to cross over…" [HVqc/Sp1cp]
+- o28: וַ/יִּמַּס = Hc "and" + H4549 מָסַס "to liquefy…" [HC/VNw3ms]
+- o29: לְבָבָ/ם = H3824 לֵבָב "the heart (as the most interior organ)" [HNcmsc/Sp3mp]
+- o30: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o31: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o32: בָ/ם = Hb "in" [HR/Sp3mp]
+- o33: עוֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+- o34: רוּחַ = H7307 רוּחַ "wind…" [HNcbsa]
+- o35: מִ/פְּנֵי = Hm "from" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o36: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o37: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]

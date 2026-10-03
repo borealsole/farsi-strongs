@@ -1190,3 +1190,54 @@ Persian entries and current tags:
 - p25: است
 - p26: .
 - p27: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 39:18 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: מַלֵּט = H4422 מָלַט "properly, to be smooth…" [HVpa]
+- o3: אֲמַלֶּטְ/ךָ = H4422 מָלַט "properly, to be smooth…" [HVpi1cs/Sp2ms]
+- o4: וּ/בַ/חֶרֶב = Hc "and" + Hb "in" + H2719 חֶרֶב "drought…" [HC/Rd/Ncfsa]
+- o5: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o6: תִפֹּל = H5307 נָפַל "to fall…" [HVqi2ms]
+- o7: וְ/הָיְתָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3fs]
+- o8: לְ/ךָ = Hl "to" [HR/Sp2ms]
+- o9: נַפְשְׁ/ךָ = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsc/Sp2ms]
+- o10: לְ/שָׁלָל = Hl "to" + H7998 שָׁלָל "booty" [HR/Ncmsa]
+- o11: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o12: בָטַחְתָּ = H982 בָּטַח "figuratively, to trust, be confident or sure" [HVqp2ms]
+- o13: בִּ/י = Hb "in" [HR/Sp1cs]
+- o14: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o15: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### Jeremiah 41:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: בַּ/חֹדֶשׁ = Hb "in" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HRd/Ncmsa]
+- o3: הַ/שְּׁבִיעִי = Hd "the" + H7637 שְׁבִיעִי "seventh" [HTd/Aomsa]
+- o4: בָּא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3ms]
+- o5: יִשְׁמָעֵאל = H3458 יִשְׁמָעֵאל "Jishmael, the name of Abraham's oldest son…" [HNp]
+- o6: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o7: נְתַנְיָה = H5418 נְתַנְיָה "Nethanjah, the name of four Israelites" [HNp]
+- o8: בֶן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o9: אֱלִישָׁמָע = H476 אֱלִישָׁמָע "Elishama, the name of seven Israelites" [HNp]
+- o10: מִ/זֶּרַע = Hm "from" + H2233 זֶרַע "seed…" [HR/Ncmsc]
+- o11: הַ/מְּלוּכָה = Hd "the" + H4410 מְלוּכָה "something ruled, i.e. a realm" [HTd/Ncfsa]
+- o12: וְ/רַבֵּי = Hc "and" + H7227 רַב "abundant (in quantity, size, age, number, rank…" [HC/Ncmpc]
+- o13: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o14: וַ/עֲשָׂרָה = Hc "and" + H6235 עֶשֶׂר "ten (as an accumulation to the extent of the…" [HC/Acmsa]
+- o15: אֲנָשִׁים = H376 אִישׁ "a man as an individual or a male person…" [HNcmpa]
+- o16: אִתּ/וֹ = H854 אֵת "properly…" [HR/Sp3ms]
+- o17: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o18: גְּדַלְיָהוּ = H1436 גְּדַּלְיָה "Gedaljah, the name of five Israelites" [HNp]
+- o19: בֶן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o20: אֲחִיקָם = H296 אֲחִיקָם "Achikam, an Israelite" [HNp]
+- o21: הַ/מִּצְפָּתָ/ה = Hd "the" + H4709 מִצְפָּה "Mitspah, the name of two places in Palestine" [HTd/Np/Sd]
+- o22: וַ/יֹּאכְלוּ = Hc "and" + H398 אָכַל "to eat (literally or figuratively)" [HC/Vqw3mp]
+- o23: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o24: לֶחֶם = H3899 לֶחֶם "food (for man or beast), especially bread…" [HNcbsa]
+- o25: יַחְדָּו = H3162 יַחַד "properly, a unit, i.e. (adverb) unitedly" [HD]
+- o26: בַּ/מִּצְפָּה = Hb "in" + H4709 מִצְפָּה "Mitspah, the name of two places in Palestine" [HRd/Np]

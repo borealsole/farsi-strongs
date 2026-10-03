@@ -863,3 +863,42 @@ Persian entries and current tags:
 - p46: بشنوانم  → H8085
 - p47: .
 - p48: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 9:14 (context)
+
+- o1: וַ/יַּעֲלוּ = Hc "and" + H5927 עָלָה "to ascend…" [HC/Vqw3mp]
+- o2: הָ/עִיר = Hd "the" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HTd/Ncfsa]
+- o3: הֵמָּה = H1992 הֵם "they (only used when emphatic)" [HPp3mp]
+- o4: בָּאִים = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqrmpa]
+- o5: בְּ/תוֹךְ = Hb "in" + H8432 תָּוֶךְ "a bisection, i.e. (by implication) the centre" [HR/Ncmsc]
+- o6: הָ/עִיר = Hd "the" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HTd/Ncfsa]
+- o7: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o8: שְׁמוּאֵל = H8050 שְׁמוּאֵל "Shemuel, the name of three Israelites" [HNp]
+- o9: יֹצֵא = H3318 יָצָא "to go (causatively, bring) out…" [HVqrmsa]
+- o10: לִ/קְרָאתָ/ם = Hl "to" + H7122 קָרָא "to encounter…" [HR/Vqc/Sp3mp]
+- o11: לַ/עֲלוֹת = Hl "to" + H5927 עָלָה "to ascend…" [HR/Vqc]
+- o12: הַ/בָּמָה = Hd "the" + H1116 בָּמָה "an elevation" [HTd/Ncfsa]
+
+### I Samuel 10:1 (context)
+
+- o1: וַ/יִּקַּח = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqw3ms]
+- o2: שְׁמוּאֵל = H8050 שְׁמוּאֵל "Shemuel, the name of three Israelites" [HNp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: פַּךְ = H6378 פַּךְ "a flask (from which a liquid may flow)" [HNcmsc]
+- o5: הַ/שֶּׁמֶן = Hd "the" + H8081 שֶׁמֶן "grease, especially liquid (as from the olive…" [HTd/Ncmsa]
+- o6: וַ/יִּצֹק = Hc "and" + H3332 יָצַק "properly…" [HC/Vqw3ms]
+- o7: עַל = H5921 עַל "above, over, upon…" [HR]
+- o8: רֹאשׁ/וֹ = H7218 רֹאשׁ "the head (as most easily shaken)…" [HNcmsc/Sp3ms]
+- o9: וַ/יִּשָּׁקֵ/הוּ = Hc "and" + H5401 נָשַׁק "to kiss, literally or figuratively (touch)…" [HC/Vqw3ms/Sp3ms]
+- o10: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o11: הֲ/לוֹא = Hi "(untranslatable; interrogative particle)" + H3808 לֹא "not (the simple or abs. negation)…" [HTi/Tn]
+- o12: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o13: מְשָׁחֲ/ךָ = H4886 מָשַׁח "to rub with oil, i.e. to anoint…" [HVqp3ms/Sp2ms]
+- o14: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o15: עַל = H5921 עַל "above, over, upon…" [HR]
+- o16: נַחֲלָת/וֹ = H5159 נַחֲלָה "properly, something inherited…" [HNcfsc/Sp3ms]
+- o17: לְ/נָגִיד = Hl "to" + H5057 נָגִיד "a commander (as occupying the front), civil…" [HR/Ncmsa]

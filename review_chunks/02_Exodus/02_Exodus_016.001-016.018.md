@@ -1035,3 +1035,35 @@ Persian entries and current tags:
 - p29: برگرفته
 - p30: بود
 - p31: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 15:27 (context)
+
+- o1: וַ/יָּבֹאוּ = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3mp]
+- o2: אֵילִמָ/ה = H362 אֵילִם "Elim, a place in the Desert" [HNp/Sd]
+- o3: וְ/שָׁם = Hc "and" + H8033 שָׁם "there (transferring to time) then…" [HC/D]
+- o4: שְׁתֵּים = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcfda]
+- o5: עֶשְׂרֵה = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcfsa]
+- o6: עֵינֹת = H5869 עַיִן "an eye (literally or figuratively)…" [HNcbpc]
+- o7: מַיִם = H4325 מַיִם "water; figuratively, juice…" [HNcmpa]
+- o8: וְ/שִׁבְעִים = Hc "and" + H7657 שִׁבְעִים "seventy" [HC/Acbpa]
+- o9: תְּמָרִים = H8558 תָּמָר "a palm tree" [HNcmpa]
+- o10: וַ/יַּחֲנוּ = Hc "and" + H2583 חָנָה "properly, to incline…" [HC/Vqw3mp]
+- o11: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o12: עַל = H5921 עַל "above, over, upon…" [HR]
+- o13: הַ/מָּיִם = Hd "the" + H4325 מַיִם "water; figuratively, juice…" [HTd/Ncmpa]
+
+### Exodus 16:19 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o3: אֲלֵ/הֶם = H413 אֵל "near, with or among; often in general, to" [HR/Sp3mp]
+- o4: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o5: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o6: יוֹתֵר = H3498 יָתַר "to jut over or exceed; by implication, to excel…" [HVhj3ms]
+- o7: מִמֶּ/נּוּ = H4480 מִן "properly, a part of…" [HR/Sp1cp]
+- o8: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o9: בֹּקֶר = H1242 בֹּקֶר "properly, dawn (as the break of day)…" [HNcmsa]

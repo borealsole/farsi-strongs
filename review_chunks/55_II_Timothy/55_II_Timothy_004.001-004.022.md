@@ -1034,3 +1034,22 @@ Persian entries and current tags:
 - p9: شما  → G5210
 - p10: باد
 - p11: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Timothy 3:17 (context)
+
+- o1: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o2: ἄρτιος = G739 ἄρτιος "perfect" [A-NSM]
+- o3: ᾖ = G1510 εἰμί "am, have been, it is I, was" [V-PAS-3S]
+- o4: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o5: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o6: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o7: ἄνθρωπος, = G444 ἄνθρωπος "certain, man" [N-NSM]
+- o8: πρὸς = G4314 πρός "about, according to , against, among, at…" [PREP]
+- o9: πᾶν = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-ASN]
+- o10: ἔργον = G2041 ἔργον "deed, doing, labour, work" [N-ASN]
+- o11: ἀγαθὸν = G18 ἀγαθός "benefit, good(-s, things), well" [A-ASN]
+- o12: ἐξηρτισμένος. = G1822 ἐξαρτίζω "accomplish, thoroughly furnish" [V-RPP-NSM]

@@ -1023,3 +1023,46 @@ Persian entries and current tags:
 - p12: اسرائیل
 - p13: نامید  → H7121
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 32:32 (context)
+
+- o1: עַל = H5921 עַל "above, over, upon…" [HR]
+- o2: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o3: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o4: יֹאכְלוּ = H398 אָכַל "to eat (literally or figuratively)" [HVqi3mp]
+- o5: בְנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o6: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: גִּיד = H1517 גִּיד "a thong (as compressing); by analogy, a tendon" [HNcmsc]
+- o9: הַ/נָּשֶׁה = Hd "the" + H5384 נָשֶׁה "rheumatic or crippled (from the incident to Jacob)" [HTd/Ncmsa]
+- o10: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o11: עַל = H5921 עַל "above, over, upon…" [HR]
+- o12: כַּף = H3709 כַּף "the hollow hand or palm (so of the paw of an…" [HNcfsc]
+- o13: הַ/יָּרֵךְ = Hd "the" + H3409 יָרֵךְ "the thigh (from its fleshy softness)…" [HTd/Ncfsa]
+- o14: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o15: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o16: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o17: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o18: נָגַע = H5060 נָגַע "properly, to touch…" [HVqp3ms]
+- o19: בְּ/כַף = Hb "in" + H3709 כַּף "the hollow hand or palm (so of the paw of an…" [HR/Ncfsc]
+- o20: יֶרֶךְ = H3409 יָרֵךְ "the thigh (from its fleshy softness)…" [HNcfsc]
+- o21: יַעֲקֹב = H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HNp]
+- o22: בְּ/גִיד = Hb "in" + H1517 גִּיד "a thong (as compressing); by analogy, a tendon" [HR/Ncmsc]
+- o23: הַ/נָּשֶׁה = Hd "the" + H5384 נָשֶׁה "rheumatic or crippled (from the incident to Jacob)" [HTd/Ncmsa]
+
+### Genesis 34:1 (context)
+
+- o1: וַ/תֵּצֵא = Hc "and" + H3318 יָצָא "to go (causatively, bring) out…" [HC/Vqw3fs]
+- o2: דִינָה = H1783 דִּינָה "Dinah, the daughter of Jacob" [HNp]
+- o3: בַּת = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfsc]
+- o4: לֵאָה = H3812 לֵאָה "Leah, a wife of Jacob" [HNp]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: יָלְדָה = H3205 יָלַד "to bear young; causatively, to beget…" [HVqp3fs]
+- o7: לְ/יַעֲקֹב = Hl "to" + H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HR/Np]
+- o8: לִ/רְאוֹת = Hl "to" + H7200 רָאָה "to see…" [HR/Vqc]
+- o9: בִּ/בְנוֹת = Hb "in" + H1323 בַּת "a daughter (used in the same wide sense as other…" [HR/Ncfpc]
+- o10: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]

@@ -1246,3 +1246,46 @@ Persian entries and current tags:
 - p17: او  → G846
 - p18: روانه شدند  → G190
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 3:17 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἰδοὺ = G3708 ὁράω "behold, perceive, see, take heed" [V-2AMM-2S]
+- o3: φωνὴ = G5456 φωνή "noise, sound, voice" [N-NSF]
+- o4: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o5: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o6: οὐρανῶν = G3772 οὐρανός "air, heaven(-ly), sky" [N-GPM]
+- o7: λέγουσα, = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAP-NSF]
+- o8: οὗτός = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-NSM]
+- o9: ἐστιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o10: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o11: υἱός = G5207 υἱός "child, foal, son" [N-NSM]
+- o12: μου = G1473 ἐγώ "I, me" [P-1GS]
+- o13: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o14: ἀγαπητός, = G27 ἀγαπητός "(dearly, well) beloved, dear" [A-NSM]
+- o15: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o16: ᾧ = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-DSM]
+- o17: εὐδόκησα. = G2106 εὐδοκέω "think good, (be well) please(-d)…" [V-AAI-1S]
+
+### Matthew 5:1 (context)
+
+- o1: Ἰδὼν = G3708 ὁράω "behold, perceive, see, take heed" [V-2AAP-NSM]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o4: ὄχλους = G3793 ὄχλος "company, multitude, number (of people), people…" [N-APM]
+- o5: ἀνέβη = G305 ἀναβαίνω "arise, ascend (up), climb (go, grow, rise…" [V-2AAI-3S]
+- o6: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o7: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o8: ὄρος· = G3735 ὄρος "hill, mount(-ain)" [N-ASN]
+- o9: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o10: καθίσαντος = G2523 καθίζω "continue, set, sit (down), tarry" [V-AAP-GSM]
+- o11: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o12: προσῆλθαν = G4334 προσέρχομαι "as soon as he) come (unto), come thereunto…" [V-2AAI-3P]
+- o13: αὐτῷ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
+- o14: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o15: μαθηταὶ = G3101 μαθητής "disciple" [N-NPM]
+- o16: αὐτοῦ· = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]

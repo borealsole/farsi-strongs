@@ -632,3 +632,31 @@ Persian entries and current tags:
 - p7: زایل  → H3772
 - p8: نخواهد_شد  → H3808
 - p9: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 22:29 (context)
+
+- o1: חָזִיתָ = H2372 חָזָה "to gaze at…" [HVqp2ms]
+- o2: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o3: מָהִיר = H4106 מָהִיר "quick; hence, skilful" [HAamsa]
+- o4: בִּ/מְלַאכְתּ/וֹ = Hb "in" + H4399 מְלָאכָה "properly, deputyship, i.e. ministry…" [HR/Ncfsc/Sp3ms]
+- o5: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o6: מְלָכִים = H4428 מֶלֶךְ "a king" [HNcmpa]
+- o7: יִתְיַצָּב = H3320 יָצַב "to place (any thing so as to stay)…" [HVti3ms]
+- o8: בַּל = H1077 בַּל "properly, a failure; by implication nothing…" [HTn]
+- o9: יִתְיַצֵּב = H3320 יָצַב "to place (any thing so as to stay)…" [HVti3ms]
+- o10: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o11: חֲשֻׁכִּים = H2823 חָשֹׁךְ "dark (figuratively, i.e. obscure)" [HAampa]
+
+### Proverbs 23:19 (context)
+
+- o1: שְׁמַע = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqv2ms]
+- o2: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o3: בְנִ/י = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp1cs]
+- o4: וַ/חֲכָם = Hc "and" + H2449 חָכַם "to be wise (in mind, word or act)" [HC/Vqv2ms]
+- o5: וְ/אַשֵּׁר = Hc "and" + H833 אָשַׁר "to be straight (used in the widest sense…" [HC/Vpv2ms]
+- o6: בַּ/דֶּרֶךְ = Hb "in" + H1870 דֶּרֶךְ "a road (as trodden)…" [HRd/Ncbsa]
+- o7: לִבֶּ/ךָ = H3820 לֵב "the heart…" [HNcmsc/Sp2ms]

@@ -1188,3 +1188,44 @@ Persian entries and current tags:
 - p11: تقصیرکار است  → H816
 - p12: .
 - p13: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 4:35 (context)
+
+- o1: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o2: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: חֶלְבָּ/ה = H2459 חֶלֶב "fat, whether literally or figuratively…" [HNcmsc/Sp3fs]
+- o4: יָסִיר = H5493 סוּר "to turn off (literal or figurative)" [HVhi3ms]
+- o5: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o6: יוּסַר = H5493 סוּר "to turn off (literal or figurative)" [HVHi3ms]
+- o7: חֵלֶב = H2459 חֶלֶב "fat, whether literally or figuratively…" [HNcmsc]
+- o8: הַ/כֶּשֶׂב = Hd "the" + H3775 כֶּשֶׂב "a young sheep" [HTd/Ncmsa]
+- o9: מִ/זֶּבַח = Hm "from" + H2077 זֶבַח "properly, a slaughter…" [HR/Ncmsc]
+- o10: הַ/שְּׁלָמִים = Hd "the" + H8002 שֶׁלֶם "properly, requital…" [HTd/Ncmpa]
+- o11: וְ/הִקְטִיר = Hc "and" + H6999 קָטַר "to smoke…" [HC/Vhq3ms]
+- o12: הַ/כֹּהֵן = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmsa]
+- o13: אֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o14: הַ/מִּזְבֵּחָ/ה = Hd "the" + H4196 מִזְבֵּחַ "an altar" [HTd/Ncmsa/Sd]
+- o15: עַל = H5921 עַל "above, over, upon…" [HR]
+- o16: אִשֵּׁי = H801 אִשָּׁה "properly, a burnt-offering…" [HNcmpc]
+- o17: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o18: וְ/כִפֶּר = Hc "and" + H3722 כָּפַר "to cover (specifically with bitumen)…" [HC/Vpq3ms]
+- o19: עָלָי/ו = H5921 עַל "above, over, upon…" [HR/Sp3ms]
+- o20: הַ/כֹּהֵן = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmsa]
+- o21: עַל = H5921 עַל "above, over, upon…" [HR]
+- o22: חַטָּאת/וֹ = H2403 חַטָּאָה "an offence (sometimes habitual sinfulness)…" [HNcfsc/Sp3ms]
+- o23: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o24: חָטָא = H2398 חָטָא "properly, to miss…" [HVqp3ms]
+- o25: וְ/נִסְלַח = Hc "and" + H5545 סָלַח "to forgive" [HC/VNq3ms]
+- o26: ל/וֹ = Hl "to" [HR/Sp3ms]
+
+### Leviticus 6:1 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: לֵּ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

@@ -914,3 +914,50 @@ Persian entries and current tags:
 - p16: رها  → H7971
 - p17: نکرد  → H3808
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 9:18 (context)
+
+- o1: הִנְ/נִי = H2005 הֵן "lo!; also (as expressing surprise) if" [HTm/Sp1cs]
+- o2: מַמְטִיר = H4305 מָטַר "to rain" [HVhrmsa]
+- o3: כָּ/עֵת = Hk "like" + H6256 עֵת "time, especially (adverb with preposition) now…" [HRd/Ncbsa]
+- o4: מָחָר = H4279 מָחָר "properly, deferred, i.e. the morrow…" [HNcmsa]
+- o5: בָּרָד = H1259 בָּרָד "hail" [HNcmsa]
+- o6: כָּבֵד = H3515 כָּבֵד "heavy…" [HAamsa]
+- o7: מְאֹד = H3966 מְאֹד "properly, vehemence…" [HD]
+- o8: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o9: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o10: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o11: כָמֹ/הוּ = H3644 כְּמוֹ "a form of the prefix 'k-', but used separately as…" [HR/Sp3ms]
+- o12: בְּ/מִצְרַיִם = Hb "in" + H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HR/Np]
+- o13: לְ/מִן = Hl "to" + H4480 מִן "properly, a part of…" [HR/R]
+- o14: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o15: הִוָּסְדָ/ה = H3245 יָסַד "to set (literally or figuratively)…" [HVNc/Sp3fs]
+- o16: וְ/עַד = Hc "and" + H5704 עַד "as far (or long, or much) as…" [HC/R]
+- o17: עָתָּה = H6258 עַתָּה "at this time, whether adverb…" [HD]
+
+### Exodus 10:1 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: בֹּא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqv2ms]
+- o6: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o7: פַּרְעֹה = H6547 פַּרְעֹה "Paroh, a general title of Egyptian kings" [HNp]
+- o8: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o9: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o10: הִכְבַּדְתִּי = H3513 כָּבַד "to be heavy, i.e. in a bad sense (burdensome…" [HVhp1cs]
+- o11: אֶת = H853 אֵת "properly…" [HTo]
+- o12: לִבּ/וֹ = H3820 לֵב "the heart…" [HNcmsc/Sp3ms]
+- o13: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o14: לֵב = H3820 לֵב "the heart…" [HNcmsc]
+- o15: עֲבָדָי/ו = H5650 עֶבֶד "a servant" [HNcmpc/Sp3ms]
+- o16: לְמַעַן = H4616 מַעַן "properly, heed, i.e. purpose…" [HR]
+- o17: שִׁתִ/י = H7896 שִׁית "to place (in a very wide application)" [HVqc/Sp1cs]
+- o18: אֹתֹתַ/י = H226 אוֹת "a signal (literally or figuratively), as aflag…" [HNcbpc/Sp1cs]
+- o19: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o20: בְּ/קִרְבּ/וֹ = Hb "in" + H7130 קֶרֶב "properly, the nearest part, i.e. the center…" [HR/Ncmsc/Sp3ms]

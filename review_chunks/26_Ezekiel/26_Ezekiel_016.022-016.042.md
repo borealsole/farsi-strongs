@@ -1087,3 +1087,47 @@ Persian entries and current tags:
 - p20: خشمگین  → H3707
 - p21: نخواهم_بود  → H3808
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 16:21 (context)
+
+- o1: וַ/תִּשְׁחֲטִי = Hc "and" + H7819 שָׁחַט "to slaughter (in sacrifice or massacre)" [HC/Vqw2fs]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: בָּנָ/י = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc/Sp1cs]
+- o4: וַ/תִּתְּנִי/ם = Hc "and" + H5414 נָתַן "to give…" [HC/Vqw2fs/Sp3mp]
+- o5: בְּ/הַעֲבִיר = Hb "in" + H5674 עָבַר "to cross over…" [HR/Vhc]
+- o6: אוֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o7: לָ/הֶם = Hl "to" [HR/Sp3mp]
+
+### Ezekiel 16:43 (context)
+
+- o1: יַעַן = H3282 יַעַן "properly, heed…" [HC]
+- o2: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o3: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o4: זכרתי = H2142 זָכַר "properly, to mark (so as to be recognized)…" [HVqp2fs]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: יְמֵי = H3117 יוֹם "a day (as the warm hours)…" [HNcmpc]
+- o7: נְעוּרַיִ/ךְ = H5271 נָעוּר "only in plural collectively or emphatic form)…" [HNcbpc/Sp2fs]
+- o8: וַ/תִּרְגְּזִי = Hc "and" + H7264 רָגַז "to quiver (with any violent emotion…" [HC/Vqw2fs]
+- o9: לִ/י = Hl "to" [HR/Sp1cs]
+- o10: בְּ/כָל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o11: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o12: וְ/גַם = Hc "and" + H1571 גַּם "properly, assemblage…" [HC/Ta]
+- o13: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o14: הֵא = H1887 הֵא "lo!" [HTj]
+- o15: דַּרְכֵּ/ךְ = H1870 דֶּרֶךְ "a road (as trodden)…" [HNcbsc/Sp2fs]
+- o16: בְּ/רֹאשׁ = Hb "in" + H7218 רֹאשׁ "the head (as most easily shaken)…" [HR/Ncmsa]
+- o17: נָתַתִּי = H5414 נָתַן "to give…" [HVqp1cs]
+- o18: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o19: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o20: יְהוִה = H3069 יְהֹוִה "YHWH" [HNp]
+- o21: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o22: עשיתי = H6213 עָשָׂה "to do or make…" [HVqp2fs]
+- o23: אֶת = H853 אֵת "properly…" [HTo]
+- o24: הַ/זִּמָּה = Hd "the" + H2154 זִמָּה "a plan, especially a bad one" [HTd/Ncfsa]
+- o25: עַל = H5921 עַל "above, over, upon…" [HR]
+- o26: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o27: תּוֹעֲבֹתָיִ/ךְ = H8441 תּוֹעֵבַה "properly, something disgusting (morally)…" [HNcfpc/Sp2fs]

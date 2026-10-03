@@ -1290,3 +1290,41 @@ Persian entries and current tags:
 - p23: خواهند_داد  → H3240 H4369
 - p24: .
 - p25: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Zechariah 3:10 (context)
+
+- o1: בַּ/יּוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
+- o2: הַ/הוּא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3ms]
+- o3: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: צְבָאוֹת = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbpa]
+- o6: תִּקְרְאוּ = H7121 קָרָא "to call out to (i.e. properly, address by name…" [HVqi2mp]
+- o7: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o8: לְ/רֵעֵ/הוּ = Hl "to" + H7453 רֵעַ "an associate (more or less close)" [HR/Ncmsc/Sp3ms]
+- o9: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o10: תַּחַת = H8478 תַּחַת "the bottom (as depressed)…" [HR]
+- o11: גֶּפֶן = H1612 גֶּפֶן "a vine (as twining), especially the grape" [HNcbsa]
+- o12: וְ/אֶל = Hc "and" + H413 אֵל "near, with or among; often in general, to" [HC/R]
+- o13: תַּחַת = H8478 תַּחַת "the bottom (as depressed)…" [HR]
+- o14: תְּאֵנָה = H8384 תְּאֵן "the fig (tree or fruit)" [HNcfsa]
+
+### Zechariah 6:1 (context)
+
+- o1: וָ/אָשֻׁב = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqw1cs]
+- o2: וָ/אֶשָּׂא = Hc "and" + H5375 נָשָׂא "to lift, in a great variety of applications…" [HC/Vqw1cs]
+- o3: עֵינַ/י = H5869 עַיִן "an eye (literally or figuratively)…" [HNcbdc/Sp1cs]
+- o4: וָ/אֶרְאֶה = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw1cs]
+- o5: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o6: אַרְבַּע = H702 אַרְבַּע "four" [HAcfsa]
+- o7: מַרְכָּבוֹת = H4818 מֶרְכָּבָה "a chariot" [HNcfpa]
+- o8: יֹצְאוֹת = H3318 יָצָא "to go (causatively, bring) out…" [HVqrfpa]
+- o9: מִ/בֵּין = Hm "from" + H996 בֵּין "between (repeated before each noun…" [HR/R]
+- o10: שְׁנֵי = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmdc]
+- o11: הֶ/הָרִים = Hd "the" + H2022 הַר "a mountain or range of hills (sometimes used…" [HTd/Ncmpa]
+- o12: וְ/הֶ/הָרִים = Hc "and" + Hd "the" + H2022 הַר "a mountain or range of hills (sometimes used…" [HC/Td/Ncmpa]
+- o13: הָרֵי = H2022 הַר "a mountain or range of hills (sometimes used…" [HNcmpc]
+- o14: נְחֹשֶׁת = H5178 נְחֹשֶׁת "copper, hence, something made of that metal…" [HNcfsa]

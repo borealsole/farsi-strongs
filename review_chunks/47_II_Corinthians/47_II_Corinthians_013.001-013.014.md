@@ -753,3 +753,38 @@ Persian entries and current tags:
 - p13: شما  → G5210
 - p14: باد
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Corinthians 12:21 (context)
+
+- o1: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o2: πάλιν = G3825 πάλιν "again" [ADV]
+- o3: ἐλθόντος = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-2AAP-GSM]
+- o4: μου = G1473 ἐγώ "I, me" [P-1GS]
+- o5: ταπεινώσει = G5013 ταπεινόω "abase, bring low, humble (self)" [V-FAI-3S]
+- o6: με = G1473 ἐγώ "I, me" [P-1AS]
+- o7: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o8: θεός = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-NSM]
+- o9: μου = G1473 ἐγώ "I, me" [P-1GS]
+- o10: πρὸς = G4314 πρός "about, according to , against, among, at…" [PREP]
+- o11: ὑμᾶς, = G5210 ὑμεῖς "ye (yourselves), you" [P-2AP]
+- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o13: πενθήσω = G3996 πενθέω "mourn, (be-)wail" [V-AAS-1S]
+- o14: πολλοὺς = G4183 πολύς "abundant, + altogether, common, + far (passed…" [A-APM]
+- o15: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o16: προημαρτηκότων = G4258 προαμαρτάνω "sin already, heretofore sin" [V-RAP-GPM]
+- o17: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o18: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o19: μετανοησάντων = G3340 μετανοέω "repent" [V-AAP-GPM]
+- o20: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o21: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o22: ἀκαθαρσίᾳ = G167 ἀκαθαρσία "uncleanness" [N-DSF]
+- o23: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o24: πορνείᾳ = G4202 πορνεία "fornication" [N-DSF]
+- o25: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o26: ἀσελγείᾳ = G766 ἀσέλγεια "filthy, lasciviousness, wantonness" [N-DSF]
+- o27: ᾗ = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-DSF]
+- o28: ἔπραξαν. = G4238 πράσσω "commit, deeds, do, exact, keep, require, use arts" [V-AAI-3P]

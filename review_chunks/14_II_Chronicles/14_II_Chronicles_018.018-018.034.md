@@ -980,3 +980,36 @@ Persian entries and current tags:
 - p28: آفتاب  → H935 H8121
 - p29: درگذشت  → H4191
 - p30: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 18:17 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o3: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o4: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o5: יְהוֹשָׁפָט = H3092 יְהוֹשָׁפָט "Jehoshaphat, the name of six Israelites…" [HNp]
+- o6: הֲ/לֹא = Hi "(untranslatable; interrogative particle)" + H3808 לֹא "not (the simple or abs. negation)…" [HTi/Tn]
+- o7: אָמַרְתִּי = H559 אָמַר "to say (used with great latitude)" [HVqp1cs]
+- o8: אֵלֶי/ךָ = H413 אֵל "near, with or among; often in general, to" [HR/Sp2ms]
+- o9: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o10: יִתְנַבֵּא = H5012 נָבָא "to prophesy…" [HVti3ms]
+- o11: עָלַ/י = H5921 עַל "above, over, upon…" [HR/Sp1cs]
+- o12: טוֹב = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAamsa]
+- o13: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o14: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o15: לְ/רָע = Hl "to" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HR/Aamsa]
+
+### II Chronicles 19:1 (context)
+
+- o1: וַ/יָּשָׁב = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqw3ms]
+- o2: יְהוֹשָׁפָט = H3092 יְהוֹשָׁפָט "Jehoshaphat, the name of six Israelites…" [HNp]
+- o3: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o4: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o5: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o6: בֵּית/וֹ = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc/Sp3ms]
+- o7: בְּ/שָׁלוֹם = Hb "in" + H7965 שָׁלוֹם "safe, i.e. (figuratively) well, happy, friendly…" [HR/Ncmsa]
+- o8: לִ/ירוּשָׁלִָם = Hl "to" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HR/Np]

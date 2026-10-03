@@ -716,3 +716,39 @@ Persian entries and current tags:
 - p17: پا
 - p18: درآمدند  → H5307
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 21:11 (context)
+
+- o1: וַ/יֻּגַּד = Hc "and" + H5046 נָגַד "properly, to front…" [HC/VHw3ms]
+- o2: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o3: אֵת = H853 אֵת "properly…" [HTo]
+- o4: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o5: עָשְׂתָה = H6213 עָשָׂה "to do or make…" [HVqp3fs]
+- o6: רִצְפָּה = H7532 רִצְפָּה "Ritspah, an Israelitess" [HNp]
+- o7: בַת = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfsc]
+- o8: אַיָּה = H345 אַיָּה "Ajah, the name of two Israelites" [HNp]
+- o9: פִּלֶגֶשׁ = H6370 פִּילֶגֶשׁ "a concubine; also (masculine) a paramour" [HNcfsc]
+- o10: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+
+### II Samuel 22:1 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o3: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: דִּבְרֵי = H1697 דָּבָר "a word…" [HNcmpc]
+- o6: הַ/שִּׁירָה = Hd "the" + H7892 שִׁיר "a song; abstractly, singing" [HTd/Ncbsa]
+- o7: הַ/זֹּאת = Hd "the" + H2063 זֹאת "this (often used adverb)" [HTd/Pdxfs]
+- o8: בְּ/יוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmsc]
+- o9: הִצִּיל = H5337 נָצַל "to snatch away, whether in a good or a bad sense" [HVhp3ms]
+- o10: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o11: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o12: מִ/כַּף = Hm "from" + H3709 כַּף "the hollow hand or palm (so of the paw of an…" [HR/Ncfsc]
+- o13: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o14: אֹיְבָי/ו = H341 אֹיֵב "hating; an adversary" [HVqrmpc/Sp3ms]
+- o15: וּ/מִ/כַּף = Hc "and" + Hm "from" + H3709 כַּף "the hollow hand or palm (so of the paw of an…" [HC/R/Ncfsc]
+- o16: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]

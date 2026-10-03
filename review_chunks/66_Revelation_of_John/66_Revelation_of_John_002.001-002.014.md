@@ -908,3 +908,56 @@ Persian entries and current tags:
 - p43: بی‌عفتی  → G4203
 - p44: بیالایند
 - p45: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Revelation of John 1:20 (context)
+
+- o1: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o2: μυστήριον = G3466 μυστήριον "mystery" [N-NSN]
+- o3: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o4: ἑπτὰ = G2033 ἑπτά "seven" [A-NUI]
+- o5: ἀστέρων = G792 ἀστήρ "star" [N-GPM]
+- o6: οὓς = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-APM]
+- o7: εἶδες = G3708 ὁράω "behold, perceive, see, take heed" [V-2AAI-2S]
+- o8: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o9: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o10: δεξιᾶς = G1188 δεξιός "right (hand, side)" [A-GSF]
+- o11: μου, = G1473 ἐγώ "I, me" [P-1GS]
+- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o13: τὰς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APF]
+- o14: ἑπτὰ = G2033 ἑπτά "seven" [A-NUI]
+- o15: λυχνίας = G3087 λυχνία "candlestick" [N-APF]
+- o16: τὰς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APF]
+- o17: χρυσᾶς· = G5552 χρύσεος "of gold, golden" [A-APF]
+- o18: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o19: ἑπτὰ = G2033 ἑπτά "seven" [A-NUI]
+- o20: ἀστέρες = G792 ἀστήρ "star" [N-NPM]
+- o21: ἄγγελοι = G32 ἄγγελος "angel, messenger" [N-NPM]
+- o22: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPF]
+- o23: ἑπτὰ = G2033 ἑπτά "seven" [A-NUI]
+- o24: ἐκκλησιῶν = G1577 ἐκκλησία "assembly, church" [N-GPF]
+- o25: εἰσιν, = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3P]
+- o26: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o27: αἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPF]
+- o28: λυχνίαι = G3087 λυχνία "candlestick" [N-NPF]
+- o29: αἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPF]
+- o30: ἑπτὰ = G2033 ἑπτά "seven" [A-NUI]
+- o31: ἑπτὰ = G2033 ἑπτά "seven" [A-NUI]
+- o32: ἐκκλησίαι = G1577 ἐκκλησία "assembly, church" [N-NPF]
+- o33: εἰσίν. = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3P]
+
+### Revelation of John 2:15 (context)
+
+- o1: οὕτως = G3779 οὕτω "after that, after (in) this manner, as, even (so)…" [ADV]
+- o2: ἔχεις = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAI-2S]
+- o3: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o4: σὺ = G4771 σύ "thou" [P-2NS]
+- o5: κρατοῦντας = G2902 κρατέω "hold (by, fast), keep, lay hand (hold) on, obtain…" [V-PAP-APM]
+- o6: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o7: διδαχὴν = G1322 διδαχή "doctrine, hath been taught" [N-ASF]
+- o8: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o9: Νικολαϊτῶν = G3531 Νικολαΐτης "Nicolaitane" [N-GPM]
+- o10: ὁμοίως. = G3668 ὁμοίως "likewise, so" [ADV]

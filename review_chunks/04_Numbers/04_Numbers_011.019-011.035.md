@@ -968,3 +968,51 @@ Persian entries and current tags:
 - p11: حَضیروت  → H2698
 - p12: ماندند
 - p13: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 11:18 (context)
+
+- o1: וְ/אֶל = Hc "and" + H413 אֵל "near, with or among; often in general, to" [HC/R]
+- o2: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o3: תֹּאמַר = H559 אָמַר "to say (used with great latitude)" [HVqi2ms]
+- o4: הִתְקַדְּשׁוּ = H6942 קָדַשׁ "to be (causatively, make…" [HVtv2mp]
+- o5: לְ/מָחָר = Hl "to" + H4279 מָחָר "properly, deferred, i.e. the morrow…" [HR/Ncmsa]
+- o6: וַ/אֲכַלְתֶּם = Hc "and" + H398 אָכַל "to eat (literally or figuratively)" [HC/Vqq2mp]
+- o7: בָּשָׂר = H1320 בָּשָׂר "flesh (from its freshness)…" [HNcmsa]
+- o8: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o9: בְּכִיתֶם = H1058 בָּכָה "to weep; generally to bemoan" [HVqp2mp]
+- o10: בְּ/אָזְנֵי = Hb "in" + H241 אֹזֶן "broadness. i.e. (concrete) the ear (from its form…" [HR/Ncfdc]
+- o11: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o12: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o13: מִי = H4310 מִי "who? (occasionally, by a peculiar idiom…" [HTi]
+- o14: יַאֲכִלֵ/נוּ = H398 אָכַל "to eat (literally or figuratively)" [HVhi3ms/Sp1cp]
+- o15: בָּשָׂר = H1320 בָּשָׂר "flesh (from its freshness)…" [HNcmsa]
+- o16: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o17: טוֹב = H2895 טוֹב "to be (transitively…" [HVqp3ms]
+- o18: לָ/נוּ = Hl "to" [HR/Sp1cp]
+- o19: בְּ/מִצְרָיִם = Hb "in" + H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HR/Np]
+- o20: וְ/נָתַן = Hc "and" + H5414 נָתַן "to give…" [HC/Vqq3ms]
+- o21: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o22: לָ/כֶם = Hl "to" [HR/Sp2mp]
+- o23: בָּשָׂר = H1320 בָּשָׂר "flesh (from its freshness)…" [HNcmsa]
+- o24: וַ/אֲכַלְתֶּם = Hc "and" + H398 אָכַל "to eat (literally or figuratively)" [HC/Vqq2mp]
+
+### Numbers 12:1 (context)
+
+- o1: וַ/תְּדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3fs]
+- o2: מִרְיָם = H4813 מִרְיָם "Mirjam, the name of two Israelitesses" [HNp]
+- o3: וְ/אַהֲרֹן = Hc "and" + H175 אַהֲרוֹן "Aharon, the brother of Moses" [HC/Np]
+- o4: בְּ/מֹשֶׁה = Hb "in" + H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HR/Np]
+- o5: עַל = H5921 עַל "above, over, upon…" [HR]
+- o6: אֹדוֹת = H182 אוֹדוֹת "turnings (i.e. occasions); (adverb) on account of" [HNcfpc]
+- o7: הָ/אִשָּׁה = Hd "the" + H802 אִשָּׁה "a woman" [HTd/Ncfsa]
+- o8: הַ/כֻּשִׁית = Hd "the" + H3571 כּוּשִׁית "a Cushite woman" [HTd/Ngfsa]
+- o9: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o10: לָקָח = H3947 לָקַח "to take (in the widest variety of applications)" [HVqp3ms]
+- o11: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o12: אִשָּׁה = H802 אִשָּׁה "a woman" [HNcfsa]
+- o13: כֻשִׁית = H3571 כּוּשִׁית "a Cushite woman" [HNgfsa]
+- o14: לָקָח = H3947 לָקַח "to take (in the widest variety of applications)" [HVqp3ms]

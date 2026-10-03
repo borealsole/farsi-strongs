@@ -1001,3 +1001,40 @@ Persian entries and current tags:
 - p14: او  → G846
 - p15: اهانت می‌کردند  → G3679
 - p16: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 27:22 (context)
+
+- o1: λέγει = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-3S]
+- o2: αὐτοῖς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPM]
+- o3: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o4: Πειλᾶτος· = G4091 Πιλᾶτος "Pilate" [N-NSM]
+- o5: τί = G5101 τίς "every man, how (much), + no(-ne, thing)…" [I-ASN]
+- o6: οὖν = G3767 οὖν "and (so, truly), but, now (then)…" [CONJ]
+- o7: ποιήσω = G4160 ποιέω "abide, + agree, appoint, avenge, + band together…" [V-AAS-1S]
+- o8: Ἰησοῦν = G2424 Ἰησοῦς "Jesus" [N-ASM]
+- o9: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o10: λεγόμενον = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PPP-ASM]
+- o11: Χριστόν; = G5547 Χριστός "Christ" [N-ASM]
+- o12: λέγουσιν = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-3P]
+- o13: πάντες· = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-NPM]
+- o14: σταυρωθήτω. = G4717 σταυρόω "crucify" [V-APM-3S]
+
+### Matthew 27:45 (context)
+
+- o1: Ἀπὸ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: ἕκτης = G1623 ἕκτος "sixth" [A-GSF]
+- o4: ὥρας = G5610 ὥρα "day, hour, instant, season, short, (even-)tide…" [N-GSF]
+- o5: σκότος = G4655 σκότος "darkness" [N-NSN]
+- o6: ἐγένετο = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-2ADI-3S]
+- o7: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o8: πᾶσαν = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-ASF]
+- o9: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o10: γῆν = G1093 γῆ "country, earth(-ly), ground, land, world" [N-ASF]
+- o11: ἕως = G2193 ἕως "even (until, unto), (as) far (as), how long…" [ADV]
+- o12: ὥρας = G5610 ὥρα "day, hour, instant, season, short, (even-)tide…" [N-GSF]
+- o13: ἐνάτης. = G1766 ἔννατος "ninth" [A-GSF]

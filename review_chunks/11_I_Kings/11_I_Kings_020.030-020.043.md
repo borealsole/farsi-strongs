@@ -982,3 +982,49 @@ Persian entries and current tags:
 - p11: سامِرِه  → H8111
 - p12: رفت  → H935
 - p13: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 20:29 (context)
+
+- o1: וַ/יַּחֲנוּ = Hc "and" + H2583 חָנָה "properly, to incline…" [HC/Vqw3mp]
+- o2: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o3: נֹכַח = H5227 נֹכַח "properly, the front part…" [HR]
+- o4: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o5: שִׁבְעַת = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcmsc]
+- o6: יָמִים = H3117 יוֹם "a day (as the warm hours)…" [HNcmpa]
+- o7: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o8: בַּ/יּוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
+- o9: הַ/שְּׁבִיעִי = Hd "the" + H7637 שְׁבִיעִי "seventh" [HTd/Aomsa]
+- o10: וַ/תִּקְרַב = Hc "and" + H7126 קָרַב "to approach (causatively…" [HC/Vqw3fs]
+- o11: הַ/מִּלְחָמָה = Hd "the" + H4421 מִלְחָמָה "a battle (i.e. the engagement)…" [HTd/Ncfsa]
+- o12: וַ/יַּכּוּ = Hc "and" + H5221 נָכָה "to strike (lightly or severely…" [HC/Vhw3mp]
+- o13: בְנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o14: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o15: אֶת = H853 אֵת "properly…" [HTo]
+- o16: אֲרָם = H758 אֲרָם "Aram or Syria, and its inhabitants…" [HNp]
+- o17: מֵאָה = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbsa]
+- o18: אֶלֶף = H505 אֶלֶף "hence (the ox's head being the first letter of…" [HAcbsa]
+- o19: רַגְלִי = H7273 רַגְלִי "a footman (soldier)" [HAamsa]
+- o20: בְּ/יוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmsa]
+- o21: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+
+### I Kings 21:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: אַחַר = H310 אַחַר "properly, the hind part…" [HR]
+- o3: הַ/דְּבָרִים = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmpa]
+- o4: הָ/אֵלֶּה = Hd "the" + H428 אֵלֶּה "these or those" [HTd/Pdxcp]
+- o5: כֶּרֶם = H3754 כֶּרֶם "a garden or vineyard" [HNcbsa]
+- o6: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o7: לְ/נָבוֹת = Hl "to" + H5022 נָבוֹת "Naboth, an Israelite" [HR/Np]
+- o8: הַ/יִּזְרְעֵאלִי = Hd "the" + H3158 יִזְרְעֵאלִי "a Jizreelite or native of Jizreel" [HTd/Ngmsa]
+- o9: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o10: בְּ/יִזְרְעֶאל = Hb "in" + H3157 יִזְרְעֵאל "Jizreel…" [HR/Np]
+- o11: אֵצֶל = H681 אֵצֶל "a side; (as a preposition) near" [HR]
+- o12: הֵיכַל = H1964 הֵיכָל "a large public building…" [HNcmsc]
+- o13: אַחְאָב = H256 אַחְאָב "Achab…" [HNp]
+- o14: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o15: שֹׁמְרוֹן = H8111 שֹׁמְרוֹן "Shomeron, a place in Palestine" [HNp]

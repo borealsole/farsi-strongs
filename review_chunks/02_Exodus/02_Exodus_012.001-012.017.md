@@ -945,3 +945,47 @@ Persian entries and current tags:
 - p28: نسل اندر نسل  → H1755
 - p29: نگاه دارید  → H8104
 - p30: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 11:10 (context)
+
+- o1: וּ/מֹשֶׁה = Hc "and" + H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HC/Np]
+- o2: וְ/אַהֲרֹן = Hc "and" + H175 אַהֲרוֹן "Aharon, the brother of Moses" [HC/Np]
+- o3: עָשׂוּ = H6213 עָשָׂה "to do or make…" [HVqp3cp]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o6: הַ/מֹּפְתִים = Hd "the" + H4159 מוֹפֵת "a miracle; by implication, a token or omen" [HTd/Ncmpa]
+- o7: הָ/אֵלֶּה = Hd "the" + H428 אֵלֶּה "these or those" [HTd/Pdxcp]
+- o8: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o9: פַרְעֹה = H6547 פַּרְעֹה "Paroh, a general title of Egyptian kings" [HNp]
+- o10: וַ/יְחַזֵּק = Hc "and" + H2388 חָזַק "to fasten upon…" [HC/Vpw3ms]
+- o11: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o12: אֶת = H853 אֵת "properly…" [HTo]
+- o13: לֵב = H3820 לֵב "the heart…" [HNcmsc]
+- o14: פַּרְעֹה = H6547 פַּרְעֹה "Paroh, a general title of Egyptian kings" [HNp]
+- o15: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o16: שִׁלַּח = H7971 שָׁלַח "to send away, for…" [HVpp3ms]
+- o17: אֶת = H853 אֵת "properly…" [HTo]
+- o18: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o19: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o20: מֵ/אַרְצ/וֹ = Hm "from" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc/Sp3ms]
+
+### Exodus 12:18 (context)
+
+- o1: בָּ/רִאשֹׁן = Hb "in" + H7223 רִאשׁוֹן "first, in place…" [HRd/Aomsa]
+- o2: בְּ/אַרְבָּעָה = Hb "in" + H702 אַרְבַּע "four" [HR/Acmsa]
+- o3: עָשָׂר = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcmsa]
+- o4: יוֹם = H3117 יוֹם "a day (as the warm hours)…" [HNcmsa]
+- o5: לַ/חֹדֶשׁ = Hl "to" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HRd/Ncmsa]
+- o6: בָּ/עֶרֶב = Hb "in" + H6153 עֶרֶב "dusk" [HRd/Ncmsa]
+- o7: תֹּאכְלוּ = H398 אָכַל "to eat (literally or figuratively)" [HVqi2mp]
+- o8: מַצֹּת = H4682 מַצָּה "properly, sweetness…" [HNcfpa]
+- o9: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o10: יוֹם = H3117 יוֹם "a day (as the warm hours)…" [HNcmsc]
+- o11: הָ/אֶחָד = Hd "the" + H259 אֶחָד "properly, united, i.e. one…" [HTd/Acmsa]
+- o12: וְ/עֶשְׂרִים = Hc "and" + H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HC/Acbpa]
+- o13: לַ/חֹדֶשׁ = Hl "to" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HRd/Ncmsa]
+- o14: בָּ/עָרֶב = Hb "in" + H6153 עֶרֶב "dusk" [HRd/Ncmsa]

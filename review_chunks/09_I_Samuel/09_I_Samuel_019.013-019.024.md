@@ -748,3 +748,42 @@ Persian entries and current tags:
 - p41: انبیاست  → H5030
 - p42: ؟
 - p43: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 19:12 (context)
+
+- o1: וַ/תֹּרֶד = Hc "and" + H3381 יָרַד "to descend (literally, to go downwards…" [HC/Vhw3fs]
+- o2: מִיכַל = H4324 מִיכָל "Mikal, Saul's daughter" [HNp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o5: בְּעַד = H1157 בְּעַד "in up to or over against…" [HR]
+- o6: הַ/חַלּוֹן = Hd "the" + H2474 חַלּוֹן "a window (as perforated)" [HTd/Ncbsa]
+- o7: וַ/יֵּלֶךְ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3ms]
+- o8: וַ/יִּבְרַח = Hc "and" + H1272 בָּרַח "to bolt, i.e. figuratively, to flee suddenly" [HC/Vqw3ms]
+- o9: וַ/יִּמָּלֵט = Hc "and" + H4422 מָלַט "properly, to be smooth…" [HC/VNw3ms]
+
+### I Samuel 20:1 (context)
+
+- o1: וַ/יִּבְרַח = Hc "and" + H1272 בָּרַח "to bolt, i.e. figuratively, to flee suddenly" [HC/Vqw3ms]
+- o2: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o3: מ/נוות = Hm "from" + H5121 נָוִית "Navith, a place in Palestine" [HR/Np]
+- o4: בָּ/רָמָה = Hb "in" + H7414 רָמָה "Ramah, the name of four places in Palestine" [HRd/Np]
+- o5: וַ/יָּבֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3ms]
+- o6: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o7: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o8: יְהוֹנָתָן = H3083 יְהוֹנָתָן "Jehonathan, the name of four Israelites" [HNp]
+- o9: מֶה = H4100 מָה "properly…" [HTi]
+- o10: עָשִׂיתִי = H6213 עָשָׂה "to do or make…" [HVqp1cs]
+- o11: מֶה = H4100 מָה "properly…" [HTi]
+- o12: עֲוֺנִ/י = H5771 עָוֺן "perversity, i.e. (moral) evil" [HNcbsc/Sp1cs]
+- o13: וּ/מֶה = Hc "and" + H4100 מָה "properly…" [HC/Ti]
+- o14: חַטָּאתִ/י = H2403 חַטָּאָה "an offence (sometimes habitual sinfulness)…" [HNcfsc/Sp1cs]
+- o15: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o16: אָבִי/ךָ = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp2ms]
+- o17: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o18: מְבַקֵּשׁ = H1245 בָּקַשׁ "to search out (by any method…" [HVprmsa]
+- o19: אֶת = H853 אֵת "properly…" [HTo]
+- o20: נַפְשִׁ/י = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsc/Sp1cs]

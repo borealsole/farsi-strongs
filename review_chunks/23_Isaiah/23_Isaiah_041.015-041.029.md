@@ -829,3 +829,39 @@ Persian entries and current tags:
 - p18: بیش
 - p19: نیست
 - p20: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 41:14 (context)
+
+- o1: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o2: תִּירְאִי = H3372 יָרֵא "to fear; morally, to revere; caus. to frighten" [HVqj2fs]
+- o3: תּוֹלַעַת = H8438 תּוֹלָע "the crimson-grub…" [HNcfsc]
+- o4: יַעֲקֹב = H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HNp]
+- o5: מְתֵי = H4962 מַת "properly, an adult (as of full length)…" [HNcmpc]
+- o6: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o7: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o8: עֲזַרְתִּי/ךְ = H5826 עָזַר "to surround, i.e. protect or aid" [HVqp1cs/Sp2fs]
+- o9: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o10: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o11: וְ/גֹאֲלֵ/ךְ = Hc "and" + H1350 גָּאַל "to be the next of kin (and as such to buy back a…" [HC/Vqrmsc/Sp2fs]
+- o12: קְדוֹשׁ = H6918 קָדוֹשׁ "sacred (ceremonially or morally)…" [HAamsc]
+- o13: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+
+### Isaiah 42:1 (context)
+
+- o1: הֵן = H2005 הֵן "lo!; also (as expressing surprise) if" [HTm]
+- o2: עַבְדִּ/י = H5650 עֶבֶד "a servant" [HNcmsc/Sp1cs]
+- o3: אֶתְמָךְ = H8551 תָּמַךְ "to sustain; by implication, to obtain, keep fast…" [HVqi1cs]
+- o4: בּ/וֹ = Hb "in" [HR/Sp3ms]
+- o5: בְּחִירִ/י = H972 בָּחִיר "select" [HAamsc/Sp1cs]
+- o6: רָצְתָה = H7521 רָצָה "to be pleased with; specifically, to satisfy adebt" [HVqp3fs]
+- o7: נַפְשִׁ/י = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsc/Sp1cs]
+- o8: נָתַתִּי = H5414 נָתַן "to give…" [HVqp1cs]
+- o9: רוּחִ/י = H7307 רוּחַ "wind…" [HNcbsc/Sp1cs]
+- o10: עָלָי/ו = H5921 עַל "above, over, upon…" [HR/Sp3ms]
+- o11: מִשְׁפָּט = H4941 מִשְׁפָּט "properly…" [HNcmsa]
+- o12: לַ/גּוֹיִם = Hl "to" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HRd/Ncmpa]
+- o13: יוֹצִיא = H3318 יָצָא "to go (causatively, bring) out…" [HVhi3ms]

@@ -479,3 +479,25 @@ Persian entries and current tags:
 - p12: سرازیر
 - p13: می‌شود
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 7:14 (context)
+
+- o1: זִבְחֵי = H2077 זֶבַח "properly, a slaughter…" [HNcmpc]
+- o2: שְׁלָמִים = H8002 שֶׁלֶם "properly, requital…" [HNcmpa]
+- o3: עָלָ/י = H5921 עַל "above, over, upon…" [HR/Sp1cs]
+- o4: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o5: שִׁלַּמְתִּי = H7999 שָׁלַם "to be safe (in mind, body or estate)…" [HVpp1cs]
+- o6: נְדָרָ/י = H5088 נֶדֶר "a promise (to God)…" [HNcmpc/Sp1cs]
+
+### Proverbs 8:1 (context)
+
+- o1: הֲ/לֹא = Hi "(untranslatable; interrogative particle)" + H3808 לֹא "not (the simple or abs. negation)…" [HTi/Tn]
+- o2: חָכְמָה = H2451 חׇכְמָה "wisdom (in a good sense)" [HNcfsa]
+- o3: תִקְרָא = H7121 קָרָא "to call out to (i.e. properly, address by name…" [HVqi3fs]
+- o4: וּ/תְבוּנָה = Hc "and" + H8394 תָּבוּן "intelligence; by implication, an argument…" [HC/Ncfsa]
+- o5: תִּתֵּן = H5414 נָתַן "to give…" [HVqi3fs]
+- o6: קוֹלָ/הּ = H6963 קוֹל "a voice or sound" [HNcmsc/Sp3fs]

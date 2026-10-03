@@ -883,3 +883,49 @@ Persian entries and current tags:
 - p17: او  → G846
 - p18: روانه شدند  → G190
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 20:17 (context)
+
+- o1: Καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἀναβαίνων = G305 ἀναβαίνω "arise, ascend (up), climb (go, grow, rise…" [V-PAP-NSM]
+- o3: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o4: Ἰησοῦς = G2424 Ἰησοῦς "Jesus" [N-NSM]
+- o5: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o6: Ἱεροσόλυμα = G2414 Ἱεροσόλυμα "Jerusalem" [N-APN]
+- o7: παρέλαβεν = G3880 παραλαμβάνω "receive, take (unto, with)" [V-2AAI-3S]
+- o8: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o9: δώδεκα = G1427 δώδεκα "twelve" [A-NUI]
+- o10: κατ’ = G2596 κατά "about, according as (to), after, against…" [PREP]
+- o11: ἰδίαν, = G2398 ἴδιος "his acquaintance, when they were alone, apart…" [A-ASF]
+- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o13: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o14: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o15: ὁδῷ = G3598 ὁδός "journey, (high-)way" [N-DSF]
+- o16: εἶπεν = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-2AAI-3S]
+- o17: αὐτοῖς· = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPM]
+
+### Matthew 21:1 (context)
+
+- o1: Καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ὅτε = G3753 ὅτε "after (that), as soon as, that, when, while" [ADV]
+- o3: ἤγγισαν = G1448 ἐγγίζω "approach, be at hand, come (draw) near, be (come…" [V-AAI-3P]
+- o4: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o5: Ἱεροσόλυμα = G2414 Ἱεροσόλυμα "Jerusalem" [N-APN]
+- o6: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o7: ἦλθον = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-2AAI-3P]
+- o8: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o9: Βηθφαγὴ = G967 Βηθφαγή "Bethphage" [N-PRI]
+- o10: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o11: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o12: ὄρος = G3735 ὄρος "hill, mount(-ain)" [N-ASN]
+- o13: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPF]
+- o14: ἐλαιῶν, = G1636 ἐλαία "olive (berry, tree)" [N-GPF]
+- o15: τότε = G5119 τότε "that time, then" [ADV]
+- o16: Ἰησοῦς = G2424 Ἰησοῦς "Jesus" [N-NSM]
+- o17: ἀπέστειλεν = G649 ἀποστέλλω "put in, send (away, forth, out), set (at liberty)" [V-AAI-3S]
+- o18: δύο = G1417 δύο "both, twain, two" [A-NUI]
+- o19: μαθητὰς = G3101 μαθητής "disciple" [N-APM]

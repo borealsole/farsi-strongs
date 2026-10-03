@@ -767,3 +767,47 @@ Persian entries and current tags:
 - p22: را
 - p23: نخواهد_دید
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Hebrews 11:40 (context)
+
+- o1: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o2: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o3: περὶ = G4012 περί "there-)about, above, against, at, on behalf of…" [PREP]
+- o4: ἡμῶν = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+- o5: κρεῖττόν = G2909 κρείττων "best, better" [A-ASN-C]
+- o6: τι = G5100 τὶς "a (kind of), any (man, thing, thing at all)…" [X-ASN]
+- o7: προβλεψαμένου, = G4265 προβλέπω "provide" [V-AMP-GSM]
+- o8: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o9: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o10: χωρὶς = G5565 χωρίς "beside, by itself, without" [ADV]
+- o11: ἡμῶν = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+- o12: τελειωθῶσιν. = G5048 τελειόω "consecrate, finish, fulfil, make) perfect" [V-APS-3P]
+
+### Hebrews 12:15 (context)
+
+- o1: ἐπισκοποῦντες = G1983 ἐπισκοπέω "look diligently, take the oversight" [V-PAP-NPM]
+- o2: μή = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o3: τις = G5100 τὶς "a (kind of), any (man, thing, thing at all)…" [X-NSM]
+- o4: ὑστερῶν = G5302 ὑστερέω "come behind (short), be destitute, fail, lack…" [V-PAP-NSM]
+- o5: ἀπὸ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
+- o6: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o7: χάριτος = G5485 χάρις "acceptable, benefit, favour, gift, grace(- ious)…" [N-GSF]
+- o8: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o9: θεοῦ, = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o10: μή = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o11: τις = G5100 τὶς "a (kind of), any (man, thing, thing at all)…" [X-NSF]
+- o12: ῥίζα = G4491 ῥίζα "root" [N-NSF]
+- o13: πικρίας = G4088 πικρία "bitterness" [N-GSF]
+- o14: ἄνω = G507 ἄνω "above, brim, high, up" [ADV]
+- o15: φύουσα = G5453 φύω "spring (up)" [V-PAP-NSF]
+- o16: ἐνοχλῇ = G1776 ἐνοχλέω "trouble" [V-PAS-3S]
+- o17: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o18: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o19: ταύτης = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-GSF]
+- o20: μιανθῶσιν = G3392 μιαίνω "defile" [V-APS-3P]
+- o21: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o22: πολλοί, = G4183 πολύς "abundant, + altogether, common, + far (passed…" [A-NPM]

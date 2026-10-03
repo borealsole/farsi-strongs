@@ -595,3 +595,40 @@ Persian entries and current tags:
 - p29: در
 - p30: اورشلیم  → H3389
 - p31: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 30:33 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: עָרוּךְ = H6186 עָרַךְ "to set in a row, i.e. arrange…" [HVqsmsa]
+- o3: מֵ/אֶתְמוּל = Hm "from" + H865 אֶתְמוֹל "heretofore; definitely yesterday" [HR/Ncmsa]
+- o4: תָּפְתֶּה = H8613 תׇּפְתֶּה "Tophteh, a place of cremation" [HNp]
+- o5: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o6: הוא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o7: לַ/מֶּלֶךְ = Hl "to" + H4428 מֶלֶךְ "a king" [HRd/Ncmsa]
+- o8: הוּכָן = H3559 כּוּן "properly, to be erect (i.e. stand perpendicular)…" [HVHp3ms]
+- o9: הֶעְמִיק = H6009 עָמַק "to be (causatively…" [HVhp3ms]
+- o10: הִרְחִב = H7337 רָחַב "to broaden (intransitive or transitive…" [HVhp3ms]
+- o11: מְדֻרָתָ/הּ = H4071 מְדוּרָה "a pile of fuel" [HNcfsc/Sp3fs]
+- o12: אֵשׁ = H784 אֵשׁ "fire (literally or figuratively)" [HNcbsa]
+- o13: וְ/עֵצִים = Hc "and" + H6086 עֵץ "a tree (from its firmness)…" [HC/Ncmpa]
+- o14: הַרְבֵּה = H7235 רָבָה "to increase (in whatever respect)" [HVha]
+- o15: נִשְׁמַת = H5397 נְשָׁמָה "a puff, i.e. wind, angry or vital breath…" [HNcfsc]
+- o16: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o17: כְּ/נַחַל = Hk "like" + H5158 נַחַל "a stream, especially a winter torrent…" [HR/Ncmsc]
+- o18: גָּפְרִית = H1614 גׇּפְרִית "properly, cypress-resin…" [HNcfsa]
+- o19: בֹּעֲרָה = H1197 בָּעַר "to kindle, i.e. consume (by fire or by eating)…" [HVqrfsa]
+- o20: בָּ/הּ = Hb "in" [HR/Sp3fs]
+
+### Isaiah 32:1 (context)
+
+- o1: הֵן = H2005 הֵן "lo!; also (as expressing surprise) if" [HTm]
+- o2: לְ/צֶדֶק = Hl "to" + H6664 צֶדֶק "the right (natural, moral or legal)…" [HR/Ncmsa]
+- o3: יִמְלָךְ = H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HVqi3ms]
+- o4: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsa]
+- o5: וּ/לְ/שָׂרִים = Hc "and" + Hl "to" + H8269 שַׂר "a head person (of any rank or class)" [HC/R/Ncmpa]
+- o6: לְ/מִשְׁפָּט = Hl "to" + H4941 מִשְׁפָּט "properly…" [HR/Ncmsa]
+- o7: יָשֹׂרוּ = H8323 שָׂרַר "to have (transitively, exercise…" [HVqi3mp]

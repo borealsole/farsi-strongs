@@ -496,3 +496,27 @@ Persian entries and current tags:
 - p9: را
 - p10: پایمال خواهد_کرد  → H947
 - p11: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 107:43 (context)
+
+- o1: מִי = H4310 מִי "who? (occasionally, by a peculiar idiom…" [HTi]
+- o2: חָכָם = H2450 חָכָם "wise, (i.e. intelligent, skilful or artful)" [HAamsa]
+- o3: וְ/יִשְׁמָר = Hc "and" + H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HC/Vqi3ms]
+- o4: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o5: וְ/יִתְבּוֹנְנוּ = Hc "and" + H995 בִּין "to separate mentally (or distinguish)…" [HC/Vrj3mp]
+- o6: חַסְדֵי = H2617 חֵסֵד "kindness; by implication (towards God) piety…" [HNcmpc]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### Psalms 109:1 (context)
+
+- o1: לַ/מְנַצֵּחַ = Hl "to" + H5329 נָצַח "properly, to glitter from afar…" [HRd/Vprmsa]
+- o2: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o3: מִזְמוֹר = H4210 מִזְמוֹר "properly, instrumental music…" [HNcmsa]
+- o4: אֱלֹהֵי = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc]
+- o5: תְהִלָּתִ/י = H8416 תְּהִלָּה "laudation; specifically (concretely) a hymn" [HNcfsc/Sp1cs]
+- o6: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o7: תֶּחֱרַשׁ = H2790 חָרַשׁ "to scratch, i.e. (by implication) to engrave…" [HVqj2ms]

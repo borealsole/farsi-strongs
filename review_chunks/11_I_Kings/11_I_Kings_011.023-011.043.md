@@ -1226,3 +1226,41 @@ Persian entries and current tags:
 - p23: به
 - p24: پادشاهی رسید  → H4427
 - p25: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 11:22 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o3: פַרְעֹה = H6547 פַּרְעֹה "Paroh, a general title of Egyptian kings" [HNp]
+- o4: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o5: מָה = H4100 מָה "properly…" [HTi]
+- o6: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o7: חָסֵר = H2638 חָסֵר "lacking; hence, without" [HAamsa]
+- o8: עִמִּ/י = H5973 עִם "adverb or preposition…" [HR/Sp1cs]
+- o9: וְ/הִנְּ/ךָ = Hc "and" + H2005 הֵן "lo!; also (as expressing surprise) if" [HC/Tj/Sp2ms]
+- o10: מְבַקֵּשׁ = H1245 בָּקַשׁ "to search out (by any method…" [HVprmsa]
+- o11: לָ/לֶכֶת = Hl "to" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HR/Vqc]
+- o12: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o13: אַרְצֶ/ךָ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsc/Sp2ms]
+- o14: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o15: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o16: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o17: שַׁלֵּחַ = H7971 שָׁלַח "to send away, for…" [HVpa]
+- o18: תְּשַׁלְּחֵ/נִי = H7971 שָׁלַח "to send away, for…" [HVpi2ms/Sp1cs]
+
+### I Kings 12:1 (context)
+
+- o1: וַ/יֵּלֶךְ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3ms]
+- o2: רְחַבְעָם = H7346 רְחַבְעָם "Rechabam, an Israelite king" [HNp]
+- o3: שְׁכֶם = H7927 שְׁכֶם "Shekem, a place in Palestine" [HNp]
+- o4: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o5: שְׁכֶם = H7927 שְׁכֶם "Shekem, a place in Palestine" [HNp]
+- o6: בָּא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3ms]
+- o7: כָל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o8: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o9: לְ/הַמְלִיךְ = Hl "to" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HR/Vhc]
+- o10: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]

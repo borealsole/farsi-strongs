@@ -1078,3 +1078,27 @@ Persian entries and current tags:
 - p16: باشد
 - p17: .
 - p18: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Habakkuk 1:17 (context)
+
+- o1: הַ/עַל = Hi "(untranslatable; interrogative particle)" + H5921 עַל "above, over, upon…" [HTi/R]
+- o2: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o3: יָרִיק = H7324 רוּק "to pour out (literally or figuratively)…" [HVhi3ms]
+- o4: חֶרְמ/וֹ = H2764 חֵרֶם "physical (as shutting in) a net (either literally…" [HNcmsc/Sp3ms]
+- o5: וְ/תָמִיד = Hc "and" + H8548 תָּמִיד "properly, continuance (as indefinite extension)…" [HC/Ncmsa]
+- o6: לַ/הֲרֹג = Hl "to" + H2026 הָרַג "to smite with deadly intent" [HR/Vqc]
+- o7: גּוֹיִם = H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HNcmpa]
+- o8: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o9: יַחְמוֹל = H2550 חָמַל "to commiserate; by implication, to spare" [HVqi3ms]
+
+### Habakkuk 3:1 (context)
+
+- o1: תְּפִלָּה = H8605 תְּפִלָּה "intercession, supplication; by implication, a hymn" [HNcfsa]
+- o2: לַ/חֲבַקּוּק = Hl "to" + H2265 חֲבַקּוּק "Chabakkuk, the prophet" [HR/Np]
+- o3: הַ/נָּבִיא = Hd "the" + H5030 נָבִיא "a prophet or (generally) inspired man" [HTd/Ncmsa]
+- o4: עַל = H5921 עַל "above, over, upon…" [HR]
+- o5: שִׁגְיֹנוֹת = H7692 שִׁגָּיוֹן "properly, aberration…" [HNp]

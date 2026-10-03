@@ -1009,3 +1009,31 @@ Persian entries and current tags:
 - p20: وی
 - p21: می‌پرداخت
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 52:17 (context)
+
+- o1: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o2: עַמּוּדֵי = H5982 עַמּוּד "a column (as standing)…" [HNcmpc]
+- o3: הַ/נְּחֹשֶׁת = Hd "the" + H5178 נְחֹשֶׁת "copper, hence, something made of that metal…" [HTd/Ncfsa]
+- o4: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o5: לְ/בֵית = Hl "to" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o8: הַ/מְּכֹנוֹת = Hd "the" + H4350 מְכוֹנָה "a pedestal, also a spot" [HTd/Ncfpa]
+- o9: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o10: יָם = H3220 יָם "a sea (as breaking in noisy surf) or large body…" [HNcmsc]
+- o11: הַ/נְּחֹשֶׁת = Hd "the" + H5178 נְחֹשֶׁת "copper, hence, something made of that metal…" [HTd/Ncfsa]
+- o12: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o13: בְּ/בֵית = Hb "in" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc]
+- o14: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o15: שִׁבְּרוּ = H7665 שָׁבַר "to burst (literally or figuratively)" [HVpp3cp]
+- o16: כַשְׂדִּים = H3778 כַּשְׂדִּי "a Kasdite, or descendant of Kesed…" [HNp]
+- o17: וַ/יִּשְׂאוּ = Hc "and" + H5375 נָשָׂא "to lift, in a great variety of applications…" [HC/Vqw3mp]
+- o18: אֶת = H853 אֵת "properly…" [HTo]
+- o19: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o20: נְחֻשְׁתָּ/ם = H5178 נְחֹשֶׁת "copper, hence, something made of that metal…" [HNcfsc/Sp3mp]
+- o21: בָּבֶלָ/ה = H894 בָּבֶל "Babel (i.e. Babylon)…" [HNp/Sd]

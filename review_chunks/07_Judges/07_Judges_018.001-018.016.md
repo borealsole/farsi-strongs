@@ -994,3 +994,54 @@ Persian entries and current tags:
 - p16: دروازه  → H8179
 - p17: ایستاده_بودند  → H5324
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Judges 17:13 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: מִיכָה = H4318 מִיכָה "Micah, the name of seven Israelites" [HNp]
+- o3: עַתָּה = H6258 עַתָּה "at this time, whether adverb…" [HD]
+- o4: יָדַעְתִּי = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqp1cs]
+- o5: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o6: יֵיטִיב = H3190 יָטַב "to be (causative) make well, literally (sound…" [HVhi3ms]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: לִ/י = Hl "to" [HR/Sp1cs]
+- o9: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o10: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o11: לִ/י = Hl "to" [HR/Sp1cs]
+- o12: הַ/לֵּוִי = Hd "the" + H3881 לֵוִיִּי "a Levite or descendant of Levi" [HTd/Ngmsa]
+- o13: לְ/כֹהֵן = Hl "to" + H3548 כֹּהֵן "literally one officiating, a priest…" [HR/Ncmsa]
+
+### Judges 18:17 (context)
+
+- o1: וַ/יַּעֲלוּ = Hc "and" + H5927 עָלָה "to ascend…" [HC/Vqw3mp]
+- o2: חֲמֵשֶׁת = H2568 חָמֵשׁ "five" [HAcmsc]
+- o3: הָ/אֲנָשִׁים = Hd "the" + H376 אִישׁ "a man as an individual or a male person…" [HTd/Ncmpa]
+- o4: הַ/הֹלְכִים = Hd "the" + H1980 הָלַךְ "to walk (in a great variety of applications…" [HTd/Vqrmpa]
+- o5: לְ/רַגֵּל = Hl "to" + H7270 רָגַל "to walk along…" [HR/Vpc]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o8: בָּאוּ = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3cp]
+- o9: שָׁמָּ/ה = H8033 שָׁם "there (transferring to time) then…" [HD/Sd]
+- o10: לָקְחוּ = H3947 לָקַח "to take (in the widest variety of applications)" [HVqp3cp]
+- o11: אֶת = H853 אֵת "properly…" [HTo]
+- o12: הַ/פֶּסֶל = Hd "the" + H6456 פְּסִיל "an idol" [HTd/Ncmsa]
+- o13: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o14: הָ/אֵפוֹד = Hd "the" + H646 אֵפוֹד "a girdle…" [HTd/Ncmsa]
+- o15: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o16: הַ/תְּרָפִים = Hd "the" + H8655 תְּרָפִים "Teraphim (singular or plural) a family idol" [HTd/Ncmpa]
+- o17: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o18: הַ/מַּסֵּכָה = Hd "the" + H4541 מַסֵּכָה "properly, a pouring over…" [HTd/Ncfsa]
+- o19: וְ/הַ/כֹּהֵן = Hc "and" + Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HC/Td/Ncmsa]
+- o20: נִצָּב = H5324 נָצַב "to station…" [HVNrmsa]
+- o21: פֶּתַח = H6607 פֶּתַח "an opening (literally)…" [HNcmsc]
+- o22: הַ/שַּׁעַר = Hd "the" + H8179 שַׁעַר "an opening, i.e. door or gate" [HTd/Ncmsa]
+- o23: וְ/שֵׁשׁ = Hc "and" + H8337 שֵׁשׁ "six (as an overplus beyond five or the fingers of…" [HC/Acfsa]
+- o24: מֵאוֹת = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbpa]
+- o25: הָ/אִישׁ = Hd "the" + H376 אִישׁ "a man as an individual or a male person…" [HTd/Ncmsa]
+- o26: הֶ/חָגוּר = Hd "the" + H2296 חָגַר "to gird on (as a belt, armor, etc.)" [HTd/Vqsmsa]
+- o27: כְּלֵי = H3627 כְּלִי "something prepared…" [HNcmpc]
+- o28: הַ/מִּלְחָמָה = Hd "the" + H4421 מִלְחָמָה "a battle (i.e. the engagement)…" [HTd/Ncfsa]

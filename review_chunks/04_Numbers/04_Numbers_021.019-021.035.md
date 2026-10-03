@@ -879,3 +879,32 @@ Persian entries and current tags:
 - p22: را  → H853
 - p23: تصرف کردند  → H3423
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 21:18 (context)
+
+- o1: בְּאֵר = H875 בְּאֵר "a pit; especially a well" [HNcfsa]
+- o2: חֲפָרוּ/הָ = H2658 חָפַר "properly, to pry into…" [HVqp3cp/Sp3fs]
+- o3: שָׂרִים = H8269 שַׂר "a head person (of any rank or class)" [HNcmpa]
+- o4: כָּרוּ/הָ = H3738 כָּרָה "properly, to dig; figuratively, to plot…" [HVqp3cp/Sp3fs]
+- o5: נְדִיבֵי = H5081 נָדִיב "properly, voluntary, i.e. generous…" [HAampc]
+- o6: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o7: בִּ/מְחֹקֵק = Hb "in" + H2710 חָקַק "properly, to hack, i.e. engrave (Judges 5:14…" [HR/Vmrmsa]
+- o8: בְּ/מִשְׁעֲנֹתָ/ם = Hb "in" + H4938 מִשְׁעֵנָה "support (abstractly)…" [HR/Ncfpc/Sp3mp]
+- o9: וּ/מִ/מִּדְבָּר = Hc "and" + Hm "from" + H4057 מִדְבָּר "a pasture (i.e. open field…" [HC/R/Ncmsa]
+- o10: מַתָּנָה = H4980 מַתָּנָה "Mattanah, a place in the Desert" [HNp]
+
+### Numbers 22:1 (context)
+
+- o1: וַ/יִּסְעוּ = Hc "and" + H5265 נָסַע "properly, to pull up, especially the tent-pins…" [HC/Vqw3mp]
+- o2: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o3: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o4: וַ/יַּחֲנוּ = Hc "and" + H2583 חָנָה "properly, to incline…" [HC/Vqw3mp]
+- o5: בְּ/עַרְבוֹת = Hb "in" + H6160 עֲרָבָה "a desert…" [HR/Ncfpc]
+- o6: מוֹאָב = H4124 מוֹאָב "Moab, an incestuous son of Lot…" [HNp]
+- o7: מֵ/עֵבֶר = Hm "from" + H5676 עֵבֶר "properly, a region across…" [HR/Ncmsa]
+- o8: לְ/יַרְדֵּן = Hl "to" + H3383 יַרְדֵּן "Jarden, the principal river of Palestine" [HR/Np]
+- o9: יְרֵחוֹ = H3405 יְרִיחוֹ "Jericho or Jerecho, a place in Palestine" [HNp]

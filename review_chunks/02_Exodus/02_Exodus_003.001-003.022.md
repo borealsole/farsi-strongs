@@ -1340,3 +1340,36 @@ Persian entries and current tags:
 - p34: غارت خواهید_کرد  → H5337
 - p35: .
 - p36: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 2:25 (context)
+
+- o1: וַ/יַּרְא = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw3ms]
+- o2: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o5: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o6: וַ/יֵּדַע = Hc "and" + H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HC/Vqw3ms]
+- o7: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+
+### Exodus 4:1 (context)
+
+- o1: וַ/יַּעַן = Hc "and" + H6030 עָנָה "properly, to eye or (generally) to heed…" [HC/Vqw3ms]
+- o2: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o3: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o4: וְ/הֵן = Hc "and" + H2005 הֵן "lo!; also (as expressing surprise) if" [HC/Tj]
+- o5: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o6: יַאֲמִינוּ = H539 אָמַן "properly, to build up or support…" [HVhi3mp]
+- o7: לִ/י = Hl "to" [HR/Sp1cs]
+- o8: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o9: יִשְׁמְעוּ = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqi3mp]
+- o10: בְּ/קֹלִ/י = Hb "in" + H6963 קוֹל "a voice or sound" [HR/Ncmsc/Sp1cs]
+- o11: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o12: יֹאמְרוּ = H559 אָמַר "to say (used with great latitude)" [HVqi3mp]
+- o13: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o14: נִרְאָה = H7200 רָאָה "to see…" [HVNp3ms]
+- o15: אֵלֶי/ךָ = H413 אֵל "near, with or among; often in general, to" [HR/Sp2ms]
+- o16: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]

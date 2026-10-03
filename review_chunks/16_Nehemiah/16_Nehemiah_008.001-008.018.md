@@ -1261,3 +1261,42 @@ Persian entries and current tags:
 - p38: پا
 - p39: شد
 - p40: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Nehemiah 7:73 (context)
+
+- o1: וַ/יֵּשְׁבוּ = Hc "and" + H3427 יָשַׁב "properly…" [HC/Vqw3mp]
+- o2: הַ/כֹּהֲנִים = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmpa]
+- o3: וְ/הַ/לְוִיִּם = Hc "and" + Hd "the" + H3881 לֵוִיִּי "a Levite or descendant of Levi" [HC/Td/Ngmpa]
+- o4: וְ/הַ/שּׁוֹעֲרִים = Hc "and" + Hd "the" + H7778 שׁוֹעֵר "a janitor" [HC/Td/Ncmpa]
+- o5: וְ/הַ/מְשֹׁרְרִים = Hc "and" + Hd "the" + H7891 שִׁיר "to sing" [HC/Td/Vormpa]
+- o6: וּ/מִן = Hc "and" + H4480 מִן "properly, a part of…" [HC/R]
+- o7: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o8: וְ/הַ/נְּתִינִים = Hc "and" + Hd "the" + H5411 נָתִין "the Nethinim…" [HC/Td/Ncmpa]
+- o9: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o10: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o11: בְּ/עָרֵי/הֶם = Hb "in" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HR/Ncfpc/Sp3mp]
+- o12: וַ/יִּגַּע = Hc "and" + H5060 נָגַע "properly, to touch…" [HC/Vqw3ms]
+- o13: הַ/חֹדֶשׁ = Hd "the" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HTd/Ncmsa]
+- o14: הַ/שְּׁבִיעִי = Hd "the" + H7637 שְׁבִיעִי "seventh" [HTd/Aomsa]
+- o15: וּ/בְנֵי = Hc "and" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/Ncmpc]
+- o16: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o17: בְּ/עָרֵי/הֶם = Hb "in" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HR/Ncfpc/Sp3mp]
+
+### Nehemiah 9:1 (context)
+
+- o1: וּ/בְ/יוֹם = Hc "and" + Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HC/R/Ncmsc]
+- o2: עֶשְׂרִים = H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HAcbpa]
+- o3: וְ/אַרְבָּעָה = Hc "and" + H702 אַרְבַּע "four" [HC/Acmsa]
+- o4: לַ/חֹדֶשׁ = Hl "to" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HRd/Ncmsa]
+- o5: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o6: נֶאֶסְפוּ = H622 אָסַף "to gather for any purpose…" [HVNp3cp]
+- o7: בְנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o8: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o9: בְּ/צוֹם = Hb "in" + H6685 צוֹם "a fast" [HR/Ncmsa]
+- o10: וּ/בְ/שַׂקִּים = Hc "and" + Hb "in" + H8242 שַׂק "properly…" [HC/R/Ncmpa]
+- o11: וַ/אֲדָמָה = Hc "and" + H127 אֲדָמָה "soil (from its general redness)" [HC/Ncfsa]
+- o12: עֲלֵי/הֶם = H5921 עַל "above, over, upon…" [HR/Sp3mp]

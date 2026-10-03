@@ -1103,3 +1103,27 @@ Persian entries and current tags:
 - p22: است
 - p23: .
 - p24: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 10:34 (context)
+
+- o1: וְ/נִקַּף = Hc "and" + H5362 נָקַף "to strike with more or less violence (beat, fell…" [HC/Vpq3ms]
+- o2: סִבְכֵי = H5442 סְבָךְ "a copse" [HNcmpc]
+- o3: הַ/יַּעַר = Hd "the" + H3293 יַעַר "a copse of bushes; hence, a forest…" [HTd/Ncmsa]
+- o4: בַּ/בַּרְזֶל = Hb "in" + H1270 בַּרְזֶל "iron (as cutting); by extension, an iron implement" [HRd/Ncmsa]
+- o5: וְ/הַ/לְּבָנוֹן = Hc "and" + Hd "the" + H3844 לְבָנוֹן "Lebanon, a mountain range in Palestine" [HC/Td/Np]
+- o6: בְּ/אַדִּיר = Hb "in" + H117 אַדִּיר "wide or (generally) large; figuratively, powerful" [HR/Aamsa]
+- o7: יִפּוֹל = H5307 נָפַל "to fall…" [HVqi3ms]
+
+### Isaiah 13:1 (context)
+
+- o1: מַשָּׂא = H4853 מַשָּׂא "a burden…" [HNcmsc]
+- o2: בָּבֶל = H894 בָּבֶל "Babel (i.e. Babylon)…" [HNp]
+- o3: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o4: חָזָה = H2372 חָזָה "to gaze at…" [HVqp3ms]
+- o5: יְשַׁעְיָהוּ = H3470 יְשַׁעְיָה "Jeshajah, the name of seven Israelites" [HNp]
+- o6: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o7: אָמוֹץ = H531 אָמוֹץ "Amots, an Israelite" [HNp]

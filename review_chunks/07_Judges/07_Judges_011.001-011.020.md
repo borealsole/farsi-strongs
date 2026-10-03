@@ -1136,3 +1136,53 @@ Persian entries and current tags:
 - p25: اسرائیل  → H3478
 - p26: جنگید  → H3898
 - p27: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Judges 10:18 (context)
+
+- o1: וַ/יֹּאמְרוּ = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3mp]
+- o2: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o3: שָׂרֵי = H8269 שַׂר "a head person (of any rank or class)" [HNcmpc]
+- o4: גִלְעָד = H1568 גִּלְעָד "Gilad, a region East of the Jordan…" [HNp]
+- o5: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o6: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o7: רֵעֵ/הוּ = H7453 רֵעַ "an associate (more or less close)" [HNcmsc/Sp3ms]
+- o8: מִי = H4310 מִי "who? (occasionally, by a peculiar idiom…" [HTi]
+- o9: הָ/אִישׁ = Hd "the" + H376 אִישׁ "a man as an individual or a male person…" [HTd/Ncmsa]
+- o10: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o11: יָחֵל = H2490 חָלַל "properly, to bore, i.e. (by implication) to wound…" [HVhi3ms]
+- o12: לְ/הִלָּחֵם = Hl "to" + H3898 לָחַם "to feed on; figuratively, to consume…" [HR/VNc]
+- o13: בִּ/בְנֵי = Hb "in" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmpc]
+- o14: עַמּוֹן = H5983 עַמּוֹן "Ammon, a son of Lot…" [HNp]
+- o15: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o16: לְ/רֹאשׁ = Hl "to" + H7218 רֹאשׁ "the head (as most easily shaken)…" [HR/Ncmsa]
+- o17: לְ/כֹל = Hl "to" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o18: יֹשְׁבֵי = H3427 יָשַׁב "properly…" [HVqrmpc]
+- o19: גִלְעָד = H1568 גִּלְעָד "Gilad, a region East of the Jordan…" [HNp]
+
+### Judges 11:21 (context)
+
+- o1: וַ/יִּתֵּן = Hc "and" + H5414 נָתַן "to give…" [HC/Vqw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֱלֹהֵי = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc]
+- o4: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: סִיחוֹן = H5511 סִיחוֹן "Sichon, an Amoritish king" [HNp]
+- o7: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o8: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o9: עַמּ/וֹ = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp3ms]
+- o10: בְּ/יַד = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o11: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o12: וַ/יַּכּוּ/ם = Hc "and" + H5221 נָכָה "to strike (lightly or severely…" [HC/Vhw3mp/Sp3mp]
+- o13: וַ/יִּירַשׁ = Hc "and" + H3423 יָרַשׁ "to occupy (by driving out previous tenants…" [HC/Vqw3ms]
+- o14: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o15: אֵת = H853 אֵת "properly…" [HTo]
+- o16: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o17: אֶרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsc]
+- o18: הָ/אֱמֹרִי = Hd "the" + H567 אֱמֹרִי "an Emorite, one of the Canaanitish tribes" [HTd/Ngmsa]
+- o19: יוֹשֵׁב = H3427 יָשַׁב "properly…" [HVqrmsa]
+- o20: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o21: הַ/הִיא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3fs]

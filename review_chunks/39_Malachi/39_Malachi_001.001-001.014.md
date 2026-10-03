@@ -936,3 +936,15 @@ Persian entries and current tags:
 - p44: میان قومها  → H1471
 - p45: مَهیب خواهد_بود  → H3372
 - p46: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Malachi 2:1 (context)
+
+- o1: וְ/עַתָּה = Hc "and" + H6258 עַתָּה "at this time, whether adverb…" [HC/D]
+- o2: אֲלֵי/כֶם = H413 אֵל "near, with or among; often in general, to" [HR/Sp2mp]
+- o3: הַ/מִּצְוָה = Hd "the" + H4687 מִצְוָה "a command, whether human or divine (collectively…" [HTd/Ncfsa]
+- o4: הַ/זֹּאת = Hd "the" + H2063 זֹאת "this (often used adverb)" [HTd/Pdxfs]
+- o5: הַ/כֹּהֲנִים = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmpa]

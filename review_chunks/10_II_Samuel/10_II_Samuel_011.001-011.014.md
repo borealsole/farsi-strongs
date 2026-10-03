@@ -862,3 +862,48 @@ Persian entries and current tags:
 - p14: برایش
 - p15: فرستاد  → H7971
 - p16: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 10:19 (context)
+
+- o1: וַ/יִּרְאוּ = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw3mp]
+- o2: כָל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: הַ/מְּלָכִים = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmpa]
+- o4: עַבְדֵי = H5650 עֶבֶד "a servant" [HNcmpc]
+- o5: הֲדַדְעֶזֶר = H1909 הֲדַדְעֶזֶר "Hadadezer, a Syrian king" [HNp]
+- o6: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o7: נִגְּפוּ = H5062 נָגַף "to push, gore, defeat, stub (the toe)…" [HVNp3cp]
+- o8: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o9: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o10: וַ/יַּשְׁלִמוּ = Hc "and" + H7999 שָׁלַם "to be safe (in mind, body or estate)…" [HC/Vhw3mp]
+- o11: אֶת = H854 אֵת "properly…" [HR]
+- o12: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o13: וַ/יַּעַבְדוּ/ם = Hc "and" + H5647 עָבַד "to work (in any sense)…" [HC/Vqw3mp/Sp3mp]
+- o14: וַ/יִּרְאוּ = Hc "and" + H3372 יָרֵא "to fear; morally, to revere; caus. to frighten" [HC/Vqw3mp]
+- o15: אֲרָם = H758 אֲרָם "Aram or Syria, and its inhabitants…" [HNp]
+- o16: לְ/הוֹשִׁיעַ = Hl "to" + H3467 יָשַׁע "properly, to be open, wide or free…" [HR/Vhc]
+- o17: עוֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+- o18: אֶת = H853 אֵת "properly…" [HTo]
+- o19: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o20: עַמּוֹן = H5983 עַמּוֹן "Ammon, a son of Lot…" [HNp]
+
+### II Samuel 11:15 (context)
+
+- o1: וַ/יִּכְתֹּב = Hc "and" + H3789 כָּתַב "to grave, by implication, to write (describe…" [HC/Vqw3ms]
+- o2: בַּ/סֵּפֶר = Hb "in" + H5612 סֵפֶר "properly, writing (the art or a document)…" [HRd/Ncmsa]
+- o3: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o4: הָבוּ = H3051 יָהַב "to give (whether literal or figurative)…" [HVqv2mp]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: אוּרִיָּה = H223 אוּרִיָּה "Urijah…" [HNp]
+- o7: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o8: מוּל = H4136 מוּל "properly, abrupt, i.e. a precipice…" [HR]
+- o9: פְּנֵי = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc]
+- o10: הַ/מִּלְחָמָה = Hd "the" + H4421 מִלְחָמָה "a battle (i.e. the engagement)…" [HTd/Ncfsa]
+- o11: הַ/חֲזָקָה = Hd "the" + H2389 חָזָק "strong (usu. in a bad sense, hard, bold, violent)" [HTd/Aafsa]
+- o12: וְ/שַׁבְתֶּם = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqq2mp]
+- o13: מֵ/אַחֲרָי/ו = Hm "from" + H310 אַחַר "properly, the hind part…" [HR/R/Sp3ms]
+- o14: וְ/נִכָּה = Hc "and" + H5221 נָכָה "to strike (lightly or severely…" [HC/VNq3ms]
+- o15: וָ/מֵת = Hc "and" + H4191 מוּת "to die (literally or figuratively)…" [HC/Vqq3ms]

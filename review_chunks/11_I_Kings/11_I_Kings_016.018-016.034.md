@@ -983,3 +983,46 @@ Persian entries and current tags:
 - p45: پا
 - p46: کرد  → H3245
 - p47: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 16:17 (context)
+
+- o1: וַ/יַּעֲלֶה = Hc "and" + H5927 עָלָה "to ascend…" [HC/Vqw3ms]
+- o2: עָמְרִי = H6018 עׇמְרִי "Omri, an Israelite" [HNp]
+- o3: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o4: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o5: עִמּ/וֹ = H5973 עִם "adverb or preposition…" [HR/Sp3ms]
+- o6: מִ/גִּבְּתוֹן = Hm "from" + H1405 גִּבְּתוֹן "Gibbethon, a place in Palestine" [HR/Np]
+- o7: וַ/יָּצֻרוּ = Hc "and" + H6696 צוּר "to cramp, i.e. confine (in many applications…" [HC/Vqw3mp]
+- o8: עַל = H5921 עַל "above, over, upon…" [HR]
+- o9: תִּרְצָה = H8656 תִּרְצָה "Tirtsah, a place in Palestine; also an Israelitess" [HNp]
+
+### I Kings 17:1 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: אֵלִיָּהוּ = H452 אֵלִיָּה "Elijah…" [HNp]
+- o3: הַ/תִּשְׁבִּי = Hd "the" + H8664 תִּשְׁבִּי "a Tishbite or inhabitant of Tishbeh (in Gilead)" [HTd/Ngmsa]
+- o4: מִ/תֹּשָׁבֵי = Hm "from" + H8453 תּוֹשָׁב "resident alien" [HR/Ncmpc]
+- o5: גִלְעָד = H1568 גִּלְעָד "Gilad, a region East of the Jordan…" [HNp]
+- o6: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o7: אַחְאָב = H256 אַחְאָב "Achab…" [HNp]
+- o8: חַי = H2416 חַי "alive; hence, raw (flesh)…" [HAamsa]
+- o9: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o10: אֱלֹהֵי = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc]
+- o11: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o12: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o13: עָמַדְתִּי = H5975 עָמַד "to stand…" [HVqp1cs]
+- o14: לְ/פָנָי/ו = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp3ms]
+- o15: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o16: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o17: הַ/שָּׁנִים = Hd "the" + H8141 שָׁנֶה "a year (as a revolution of time)" [HTd/Ncfpa]
+- o18: הָ/אֵלֶּה = Hd "the" + H428 אֵלֶּה "these or those" [HTd/Pdxcp]
+- o19: טַל = H2919 טַל "dew (as covering vegetation)" [HNcmsa]
+- o20: וּ/מָטָר = Hc "and" + H4306 מָטַר "rain" [HC/Ncmsa]
+- o21: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o22: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o23: לְ/פִי = Hl "to" + H6310 פֶּה "the mouth (as the means of blowing)…" [HR/Ncmsc]
+- o24: דְבָרִ/י = H1697 דָּבָר "a word…" [HNcmsc/Sp1cs]

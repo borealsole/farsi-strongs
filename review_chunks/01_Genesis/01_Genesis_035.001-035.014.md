@@ -805,3 +805,30 @@ Persian entries and current tags:
 - p27: آن
 - p28: ریخت  → H3332
 - p29: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 34:31 (context)
+
+- o1: וַ/יֹּאמְרוּ = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3mp]
+- o2: הַ/כְ/זוֹנָה = Hd "the" + Hk "like" + H2181 זָנָה "to commit adultery (usually of the female…" [HTi/R/Vqrfsa]
+- o3: יַעֲשֶׂה = H6213 עָשָׂה "to do or make…" [HVqi3ms]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: אֲחוֹתֵ/נוּ = H269 אָחוֹת "a sister (used very widely (like brother)…" [HNcfsc/Sp1cp]
+
+### Genesis 35:15 (context)
+
+- o1: וַ/יִּקְרָא = Hc "and" + H7121 קָרָא "to call out to (i.e. properly, address by name…" [HC/Vqw3ms]
+- o2: יַעֲקֹב = H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HNp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: שֵׁם = H8034 שֵׁם "an appellation…" [HNcmsc]
+- o5: הַ/מָּקוֹם = Hd "the" + H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HTd/Ncmsa]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: דִּבֶּר = H1696 דָבַר "perhaps properly, to arrange…" [HVpp3ms]
+- o8: אִתּ/וֹ = H854 אֵת "properly…" [HR/Sp3ms]
+- o9: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o10: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o11: בֵּית = H1008 בֵּית־אֵל "Beth-El, a place in Palestine" [HNp]
+- o12: אֵל = H1008 בֵּית־אֵל "Beth-El, a place in Palestine" [HNp]

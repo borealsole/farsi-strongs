@@ -1133,3 +1133,37 @@ Persian entries and current tags:
 - p20: موسی  → H3027 H4872
 - p21: گفته_بود  → H1696
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 26:65 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o5: מוֹת = H4191 מוּת "to die (literally or figuratively)…" [HVqa]
+- o6: יָמֻתוּ = H4191 מוּת "to die (literally or figuratively)…" [HVqi3mp]
+- o7: בַּ/מִּדְבָּר = Hb "in" + H4057 מִדְבָּר "a pasture (i.e. open field…" [HRd/Ncmsa]
+- o8: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o9: נוֹתַר = H3498 יָתַר "to jut over or exceed; by implication, to excel…" [HVNp3ms]
+- o10: מֵ/הֶם = Hm "from" [HR/Sp3mp]
+- o11: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o12: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o13: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o14: כָּלֵב = H3612 כָּלֵב "Caleb, the name of three Israelites" [HNp]
+- o15: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o16: יְפֻנֶּה = H3312 יְפֻנֶּה "Jephunneh, the name of two Israelites" [HNp]
+- o17: וִ/יהוֹשֻׁעַ = Hc "and" + H3091 יְהוֹשׁוּעַ "Jehoshua (i.e. Joshua), the Jewish leader" [HC/Np]
+- o18: בִּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o19: נוּן = H5126 נוּן "Nun or Non, the father of Joshua" [HNp]
+
+### Numbers 28:1 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: לֵּ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

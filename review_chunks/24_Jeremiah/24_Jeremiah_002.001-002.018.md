@@ -921,3 +921,44 @@ Persian entries and current tags:
 - p27: فُرات  → H5104
 - p28: بنوشی  → H8354
 - p29: ؟
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 1:19 (context)
+
+- o1: וְ/נִלְחֲמוּ = Hc "and" + H3898 לָחַם "to feed on; figuratively, to consume…" [HC/VNq3cp]
+- o2: אֵלֶי/ךָ = H413 אֵל "near, with or among; often in general, to" [HR/Sp2ms]
+- o3: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o4: יוּכְלוּ = H3201 יָכֹל "to be able, literally (can…" [HVqi3mp]
+- o5: לָ/ךְ = Hl "to" [HR/Sp2fs]
+- o6: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o7: אִתְּ/ךָ = H854 אֵת "properly…" [HR/Sp2ms]
+- o8: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o9: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o10: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o11: לְ/הַצִּילֶ/ךָ = Hl "to" + H5337 נָצַל "to snatch away, whether in a good or a bad sense" [HR/Vhc/Sp2ms]
+
+### Jeremiah 2:19 (context)
+
+- o1: תְּיַסְּרֵ/ךְ = H3256 יָסַר "to chastise…" [HVpi3fs/Sp2fs]
+- o2: רָעָתֵ/ךְ = H7451 רַע "bad or (as noun) evil (natural or moral)" [HNcfsc/Sp2fs]
+- o3: וּ/מְשֻׁבוֹתַיִ/ךְ = Hc "and" + H4878 מְשׁוּבָה "apostasy" [HC/Ncfpc/Sp2fs]
+- o4: תּוֹכִחֻ/ךְ = H3198 יָכַח "to be right (i.e. correct); reciprocal, to argue…" [HVhi3fp/Sp2fs]
+- o5: וּ/דְעִי = Hc "and" + H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HC/Vqv2fs]
+- o6: וּ/רְאִי = Hc "and" + H7200 רָאָה "to see…" [HC/Vqv2fs]
+- o7: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o8: רַע = H7451 רַע "bad or (as noun) evil (natural or moral)" [HAamsa]
+- o9: וָ/מָר = Hc "and" + H4751 מַר "bitter (literally or figuratively)…" [HC/Aamsa]
+- o10: עָזְבֵ/ךְ = H5800 עָזַב "to loosen, i.e. relinquish, permit, etc" [HVqc/Sp2fs]
+- o11: אֶת = H853 אֵת "properly…" [HTo]
+- o12: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o13: אֱלֹהָיִ/ךְ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2fs]
+- o14: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o15: פַחְדָּתִ/י = H6345 פַּחְדָּה "alarm (i.e. awe)" [HNcfsc/Sp1cs]
+- o16: אֵלַיִ/ךְ = H413 אֵל "near, with or among; often in general, to" [HR/Sp2fs]
+- o17: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o18: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o19: יְהוִה = H3069 יְהֹוִה "YHWH" [HNp]
+- o20: צְבָאוֹת = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbpa]

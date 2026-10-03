@@ -730,3 +730,26 @@ Persian entries and current tags:
 - p7: پسر  → H1121
 - p8: مَلْکیا  → H4441
 - p9: ،
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 6:20 (context)
+
+- o1: לְ/גֵרְשׁוֹם = Hl "to" + H1647 גֵּרְשֹׁם "Gereshom, the name of four Israelites" [HR/Np]
+- o2: לִבְנִי = H3845 לִבְנִי "Libni, an Israelite" [HNp]
+- o3: בְנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o4: יַחַת = H3189 יַחַת "Jachath, the name of four Israelites" [HNp]
+- o5: בְּנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o6: זִמָּה = H2155 זִמָּה "Zimmah, the name of two Israelites" [HNp]
+- o7: בְנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+
+### I Chronicles 6:41 (context)
+
+- o1: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o2: אֶתְנִי = H867 אֶתְנִי "Ethni, an Israelite" [HNp]
+- o3: בֶן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o4: זֶרַח = H2226 זֶרַח "Zerach, the name of three Israelites…" [HNp]
+- o5: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o6: עֲדָיָה = H5718 עֲדָיָה "Adajah, the name of eight Israelites" [HNp]

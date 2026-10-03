@@ -234,3 +234,18 @@ Persian entries and current tags:
 - p38: صلح‌آمیز  → H7965
 - p39: می‌گفت  → H1696
 - p40: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Esther 9:32 (context)
+
+- o1: וּ/מַאֲמַר = Hc "and" + H3982 מַאֲמַר "something (authoritatively) said, i.e. an edict" [HC/Ncmsc]
+- o2: אֶסְתֵּר = H635 אֶסְתֵּר "Ester, the Jewish heroine" [HNp]
+- o3: קִיַּם = H6965 קוּם "to rise (in various applications, literal…" [HVpp3ms]
+- o4: דִּבְרֵי = H1697 דָּבָר "a word…" [HNcmpc]
+- o5: הַ/פֻּרִים = Hd "the" + H6332 פּוּר "a lot (as by means of a broken piece)" [HTd/Np]
+- o6: הָ/אֵלֶּה = Hd "the" + H428 אֵלֶּה "these or those" [HTd/Pdxcp]
+- o7: וְ/נִכְתָּב = Hc "and" + H3789 כָּתַב "to grave, by implication, to write (describe…" [HC/VNsmsa]
+- o8: בַּ/סֵּפֶר = Hb "in" + H5612 סֵפֶר "properly, writing (the art or a document)…" [HRd/Ncmsa]

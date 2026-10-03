@@ -696,3 +696,35 @@ Persian entries and current tags:
 - p26: است
 - p27: .
 - p28: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 15:39 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἀπολύσας = G630 ἀπολύω "let) depart, dismiss, divorce, forgive, let go…" [V-AAP-NSM]
+- o3: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o4: ὄχλους = G3793 ὄχλος "company, multitude, number (of people), people…" [N-APM]
+- o5: ἐνέβη = G1684 ἐμβαίνω "come (get) into, enter (into), go (up) into…" [V-2AAI-3S]
+- o6: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o7: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o8: πλοῖον, = G4143 πλοῖον "ship(-ing)" [N-ASN]
+- o9: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o10: ἦλθεν = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-2AAI-3S]
+- o11: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o12: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
+- o13: ὅρια = G3725 ὅριον "border, coast" [N-APN]
+- o14: Μαγαδάν. = G3093 Μαγδαλά "Magdala" [N-PRI]
+
+### Matthew 16:15 (context)
+
+- o1: λέγει = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-3S]
+- o2: αὐτοῖς· = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPM]
+- o3: ὑμεῖς = G5210 ὑμεῖς "ye (yourselves), you" [P-2NP]
+- o4: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o5: τίνα = G5101 τίς "every man, how (much), + no(-ne, thing)…" [I-ASM]
+- o6: με = G1473 ἐγώ "I, me" [P-1AS]
+- o7: λέγετε = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-2P]
+- o8: εἶναι; = G1510 εἰμί "am, have been, it is I, was" [V-PAN]

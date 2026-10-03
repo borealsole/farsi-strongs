@@ -862,3 +862,49 @@ Persian entries and current tags:
 - p21: موسی  → H4872
 - p22: ایمان آوردند  → H539
 - p23: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 14:16 (context)
+
+- o1: וְ/אַתָּה = Hc "and" + H859 אַתָּה "thou and thee, or (plural) ye and you" [HC/Pp2ms]
+- o2: הָרֵם = H7311 רוּם "to be high actively…" [HVhv2ms]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: מַטְּ/ךָ = H4294 מַטֶּה "a branch (as extending); figuratively, a tribe…" [HNcmsc/Sp2ms]
+- o5: וּ/נְטֵה = Hc "and" + H5186 נָטָה "to stretch or spread out…" [HC/Vqv2ms]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: יָדְ/ךָ = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsc/Sp2ms]
+- o8: עַל = H5921 עַל "above, over, upon…" [HR]
+- o9: הַ/יָּם = Hd "the" + H3220 יָם "a sea (as breaking in noisy surf) or large body…" [HTd/Ncmsa]
+- o10: וּ/בְקָעֵ/הוּ = Hc "and" + H1234 בָּקַע "to cleave; generally, to rend, break, rip or open" [HC/Vqv2ms/Sp3ms]
+- o11: וְ/יָבֹאוּ = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqi3mp]
+- o12: בְנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o13: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o14: בְּ/תוֹךְ = Hb "in" + H8432 תָּוֶךְ "a bisection, i.e. (by implication) the centre" [HR/Ncmsc]
+- o15: הַ/יָּם = Hd "the" + H3220 יָם "a sea (as breaking in noisy surf) or large body…" [HTd/Ncmsa]
+- o16: בַּ/יַּבָּשָׁה = Hb "in" + H3004 יַבָּשָׁה "dry ground" [HRd/Ncfsa]
+
+### Exodus 15:1 (context)
+
+- o1: אָז = H227 אָז "at that time or place…" [HD]
+- o2: יָשִׁיר = H7891 שִׁיר "to sing" [HVqi3ms]
+- o3: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o4: וּ/בְנֵי = Hc "and" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/Ncmpc]
+- o5: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: הַ/שִּׁירָה = Hd "the" + H7892 שִׁיר "a song; abstractly, singing" [HTd/Ncbsa]
+- o8: הַ/זֹּאת = Hd "the" + H2063 זֹאת "this (often used adverb)" [HTd/Pdxfs]
+- o9: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o10: וַ/יֹּאמְרוּ = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3mp]
+- o11: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o12: אָשִׁירָה = H7891 שִׁיר "to sing" [HVqh1cs]
+- o13: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o14: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o15: גָאֹה = H1342 גָּאָה "to mount up…" [HVqa]
+- o16: גָּאָה = H1342 גָּאָה "to mount up…" [HVqp3ms]
+- o17: סוּס = H5483 סוּס "a horse (as leaping)…" [HNcmsa]
+- o18: וְ/רֹכְב/וֹ = Hc "and" + H7392 רָכַב "to ride (on an animal or in a vehicle)…" [HC/Vqrmsc/Sp3ms]
+- o19: רָמָה = H7411 רָמָה "to hurl; specifically, to shoot…" [HVqp3ms]
+- o20: בַ/יָּם = Hb "in" + H3220 יָם "a sea (as breaking in noisy surf) or large body…" [HRd/Ncmsa]

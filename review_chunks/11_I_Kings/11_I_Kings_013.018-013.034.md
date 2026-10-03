@@ -1041,3 +1041,38 @@ Persian entries and current tags:
 - p18: ،
 - p19: نابود سازد  → H8045
 - p20: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 13:17 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: דָבָר = H1697 דָּבָר "a word…" [HNcmsa]
+- o3: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o4: בִּ/דְבַר = Hb "in" + H1697 דָּבָר "a word…" [HR/Ncmsc]
+- o5: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o6: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o7: תֹאכַל = H398 אָכַל "to eat (literally or figuratively)" [HVqi2ms]
+- o8: לֶחֶם = H3899 לֶחֶם "food (for man or beast), especially bread…" [HNcbsa]
+- o9: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o10: תִשְׁתֶּה = H8354 שָׁתָה "to imbibe (literally or figuratively)" [HVqi2ms]
+- o11: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o12: מָיִם = H4325 מַיִם "water; figuratively, juice…" [HNcmpa]
+- o13: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o14: תָשׁוּב = H7725 שׁוּב "to turn back (hence…" [HVqi2ms]
+- o15: לָ/לֶכֶת = Hl "to" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HR/Vqc]
+- o16: בַּ/דֶּרֶךְ = Hb "in" + H1870 דֶּרֶךְ "a road (as trodden)…" [HRd/Ncbsa]
+- o17: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o18: הָלַכְתָּ = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVqp2ms]
+- o19: בָּ/הּ = Hb "in" [HR/Sp3fs]
+
+### I Kings 14:1 (context)
+
+- o1: בָּ/עֵת = Hb "in" + H6256 עֵת "time, especially (adverb with preposition) now…" [HRd/Ncbsa]
+- o2: הַ/הִיא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3fs]
+- o3: חָלָה = H2470 חָלָה "properly, to be rubbed or worn…" [HVqp3ms]
+- o4: אֲבִיָּה = H29 אֲבִיָּה "Abijah…" [HNp]
+- o5: בֶן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o6: יָרָבְעָם = H3379 יָרׇבְעָם "Jarobam, the name of two Israelite kings" [HNp]

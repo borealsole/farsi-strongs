@@ -845,3 +845,32 @@ Persian entries and current tags:
 - p12: و
 - p13: کپک  → H6883
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 14:38 (context)
+
+- o1: וְ/יָצָא = Hc "and" + H3318 יָצָא "to go (causatively, bring) out…" [HC/Vqq3ms]
+- o2: הַ/כֹּהֵן = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmsa]
+- o3: מִן = H4480 מִן "properly, a part of…" [HR]
+- o4: הַ/בַּיִת = Hd "the" + H1004 בַּיִת "a house (in the greatest variation of…" [HTd/Ncmsa]
+- o5: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o6: פֶּתַח = H6607 פֶּתַח "an opening (literally)…" [HNcmsc]
+- o7: הַ/בָּיִת = Hd "the" + H1004 בַּיִת "a house (in the greatest variation of…" [HTd/Ncmsa]
+- o8: וְ/הִסְגִּיר = Hc "and" + H5462 סָגַר "to shut up; figuratively, to surrender" [HC/Vhq3ms]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: הַ/בַּיִת = Hd "the" + H1004 בַּיִת "a house (in the greatest variation of…" [HTd/Ncmsa]
+- o11: שִׁבְעַת = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcmsc]
+- o12: יָמִים = H3117 יוֹם "a day (as the warm hours)…" [HNcmpa]
+
+### Leviticus 15:1 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: וְ/אֶל = Hc "and" + H413 אֵל "near, with or among; often in general, to" [HC/R]
+- o6: אַהֲרֹן = H175 אַהֲרוֹן "Aharon, the brother of Moses" [HNp]
+- o7: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

@@ -1179,3 +1179,37 @@ Persian entries and current tags:
 - p22: ،
 - p23: بیرون
 - p24: آورد  → H3947
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 23:20 (context)
+
+- o1: וַ/יָּקָם = Hc "and" + H6965 קוּם "to rise (in various applications, literal…" [HC/Vqw3ms]
+- o2: הַ/שָּׂדֶה = Hd "the" + H7704 שָׂדֶה "a field (as flat)" [HTd/Ncmsa]
+- o3: וְ/הַ/מְּעָרָה = Hc "and" + Hd "the" + H4631 מְעָרָה "a cavern (as dark)" [HC/Td/Ncfsa]
+- o4: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o5: בּ/וֹ = Hb "in" [HR/Sp3ms]
+- o6: לְ/אַבְרָהָם = Hl "to" + H85 אַבְרָהָם "Abraham, the later name of Abram" [HR/Np]
+- o7: לַ/אֲחֻזַּת = Hl "to" + H272 אֲחֻזָּה "something seized…" [HR/Ncfsc]
+- o8: קָבֶר = H6913 קֶבֶר "a sepulchre" [HNcmsa]
+- o9: מֵ/אֵת = Hm "from" + H854 אֵת "properly…" [HR/R]
+- o10: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o11: חֵת = H2845 חֵת "Cheth, an aboriginal Canaanite" [HNp]
+
+### Genesis 24:23 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: בַּת = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfsc]
+- o3: מִי = H4310 מִי "who? (occasionally, by a peculiar idiom…" [HTi]
+- o4: אַתְּ = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2fs]
+- o5: הַגִּידִי = H5046 נָגַד "properly, to front…" [HVhv2fs]
+- o6: נָא = H4994 נָא "'I pray', 'now', or 'then'…" [HTe]
+- o7: לִ/י = Hl "to" [HR/Sp1cs]
+- o8: הֲ/יֵשׁ = Hi "(untranslatable; interrogative particle)" + H3426 יֵשׁ "there is or are (or any other form of the verb to…" [HTi/Tm]
+- o9: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o10: אָבִי/ךְ = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp3fs]
+- o11: מָקוֹם = H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HNcmsa]
+- o12: לָ/נוּ = Hl "to" [HR/Sp1cp]
+- o13: לָ/לִין = Hl "to" + H3885 לוּן "to stop (usually over night)…" [HR/Vqc]

@@ -857,3 +857,32 @@ Persian entries and current tags:
 - p13: ماهر  → H8394
 - p14: هدایت نمود  → H7462 H5148
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 78:48 (context)
+
+- o1: וַ/יַּסְגֵּר = Hc "and" + H5462 סָגַר "to shut up; figuratively, to surrender" [HC/Vhw3ms]
+- o2: לַ/בָּרָד = Hl "to" + H1259 בָּרָד "hail" [HRd/Ncmsa]
+- o3: בְּעִירָ/ם = H1165 בְּעִיר "cattle" [HNcmsc/Sp3mp]
+- o4: וּ/מִקְנֵי/הֶם = Hc "and" + H4735 מִקְנֶה "something bought, i.e. property…" [HC/Ncmsc/Sp3mp]
+- o5: לָ/רְשָׁפִים = Hl "to" + H7565 רֶשֶׁף "a live coal; by analogy lightning…" [HRd/Ncmpa]
+
+### Psalms 79:1 (context)
+
+- o1: מִזְמוֹר = H4210 מִזְמוֹר "properly, instrumental music…" [HNcmsa]
+- o2: לְ/אָסָף = Hl "to" + H623 אָסָף "Asaph, the name of three Israelites…" [HR/Np]
+- o3: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o4: בָּאוּ = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3cp]
+- o5: גוֹיִם = H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HNcmpa]
+- o6: בְּ/נַחֲלָתֶ/ךָ = Hb "in" + H5159 נַחֲלָה "properly, something inherited…" [HR/Ncfsc/Sp2ms]
+- o7: טִמְּאוּ = H2930 טָמֵא "to be foul…" [HVpp3cp]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: הֵיכַל = H1964 הֵיכָל "a large public building…" [HNcmsc]
+- o10: קָדְשֶׁ/ךָ = H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HNcmsc/Sp2ms]
+- o11: שָׂמוּ = H7760 שׂוּם "to put (used in a great variety of applications…" [HVqp3cp]
+- o12: אֶת = H853 אֵת "properly…" [HTo]
+- o13: יְרוּשָׁלִַם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+- o14: לְ/עִיִּים = Hl "to" + H5856 עִי "a ruin (as if overturned)" [HR/Ncmpa]

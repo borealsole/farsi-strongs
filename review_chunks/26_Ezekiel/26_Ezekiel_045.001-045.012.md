@@ -771,3 +771,35 @@ Persian entries and current tags:
 - p19: پانزده  → H6235 H2568
 - p20: مثقال  → H8255
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 44:31 (context)
+
+- o1: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o2: נְבֵלָה = H5038 נְבֵלָה "a flabby thing…" [HNcfsa]
+- o3: וּ/טְרֵפָה = Hc "and" + H2966 טְרֵפָה "prey, i.e. flocks devoured by animals" [HC/Ncfsa]
+- o4: מִן = H4480 מִן "properly, a part of…" [HR]
+- o5: הָ/עוֹף = Hd "the" + H5775 עוֹף "a bird (as covered with feathers…" [HTd/Ncmsa]
+- o6: וּ/מִן = Hc "and" + H4480 מִן "properly, a part of…" [HC/R]
+- o7: הַ/בְּהֵמָה = Hd "the" + H929 בְּהֵמָה "properly, a dumb beast…" [HTd/Ncfsa]
+- o8: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o9: יֹאכְלוּ = H398 אָכַל "to eat (literally or figuratively)" [HVqi3mp]
+- o10: הַ/כֹּהֲנִים = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmpa]
+
+### Ezekiel 45:13 (context)
+
+- o1: זֹאת = H2063 זֹאת "this (often used adverb)" [HPdxfs]
+- o2: הַ/תְּרוּמָה = Hd "the" + H8641 תְּרוּמָה "a present (as offered up)…" [HTd/Ncfsa]
+- o3: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o4: תָּרִימוּ = H7311 רוּם "to be high actively…" [HVhi2mp]
+- o5: שִׁשִּׁית = H8345 שִׁשִּׁי "sixth, ord. or (feminine) fractional" [HAofsc]
+- o6: הָ/אֵיפָה = Hd "the" + H374 אֵיפָה "an ephah or measure for grain…" [HTd/Ncfsa]
+- o7: מֵ/חֹמֶר = Hm "from" + H2563 חֹמֶר "properly, a bubbling up, i.e. of water, a wave…" [HR/Ncmsc]
+- o8: הַ/חִטִּים = Hd "the" + H2406 חִטָּה "wheat, whether the grain or the plant" [HTd/Ncfpa]
+- o9: וְ/שִׁשִּׁיתֶם = Hc "and" + H8341 שָׁשָׁה "to sixth or divide into sixths" [HC/Vpq2mp]
+- o10: הָ/אֵיפָה = Hd "the" + H374 אֵיפָה "an ephah or measure for grain…" [HTd/Ncfsa]
+- o11: מֵ/חֹמֶר = Hm "from" + H2563 חֹמֶר "properly, a bubbling up, i.e. of water, a wave…" [HR/Ncmsc]
+- o12: הַ/שְּׂעֹרִים = Hd "the" + H8184 שְׂעֹרָה "barley (as villose)" [HTd/Ncfpa]

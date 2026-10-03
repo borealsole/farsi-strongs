@@ -986,3 +986,42 @@ Persian entries and current tags:
 - p24: فراهم
 - p25: خواهند_آورد
 - p26: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 9:38 (context)
+
+- o1: δεήθητε = G1189 δέομαι "beseech, pray (to), make request" [V-AOM-2P]
+- o2: οὖν = G3767 οὖν "and (so, truly), but, now (then)…" [CONJ]
+- o3: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o4: κυρίου = G2962 κύριος "God, Lord, master, Sir" [N-GSM]
+- o5: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o6: θερισμοῦ = G2326 θερισμός "harvest" [N-GSM]
+- o7: ὅπως = G3704 ὅπως "because, how, (so) that, to, when" [ADV]
+- o8: ἐκβάλῃ = G1544 ἐκβάλλω "bring forth, cast (forth, out), drive (out)…" [V-2AAS-3S]
+- o9: ἐργάτας = G2040 ἐργάτης "labourer, worker(-men)" [N-APM]
+- o10: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o11: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o12: θερισμὸν = G2326 θερισμός "harvest" [N-ASM]
+- o13: αὐτοῦ. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+
+### Matthew 10:22 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἔσεσθε = G1510 εἰμί "am, have been, it is I, was" [V-FDI-2P]
+- o3: μισούμενοι = G3404 μισέω "hate(-ful)" [V-PPP-NPM]
+- o4: ὑπὸ = G5259 ὑπό "among, by, from, in, of, under, with" [PREP]
+- o5: πάντων = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-GPM]
+- o6: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o7: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o8: ὄνομά = G3686 ὄνομα "called, (+ sur-)name(-d)" [N-ASN]
+- o9: μου· = G1473 ἐγώ "I, me" [P-1GS]
+- o10: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o11: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o12: ὑπομείνας = G5278 ὑπομένω "abide, endure, (take) patient(-ly), suffer…" [V-AAP-NSM]
+- o13: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o14: τέλος = G5056 τέλος "+ continual, custom, end(-ing), finally, uttermost" [N-ASN]
+- o15: οὗτος = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-NSM]
+- o16: σωθήσεται. = G4982 σώζω "heal, preserve, save (self), do well…" [V-FPI-3S]

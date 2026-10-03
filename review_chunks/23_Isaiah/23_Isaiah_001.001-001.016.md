@@ -847,3 +847,20 @@ Persian entries and current tags:
 - p17: بدی  → H7489
 - p18: بازایستید  → H2308
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 1:17 (context)
+
+- o1: לִמְדוּ = H3925 לָמַד "properly, to goad…" [HVqv2mp]
+- o2: הֵיטֵב = H3190 יָטַב "to be (causative) make well, literally (sound…" [HVha]
+- o3: דִּרְשׁוּ = H1875 דָּרַשׁ "properly, to tread or frequent…" [HVqv2mp]
+- o4: מִשְׁפָּט = H4941 מִשְׁפָּט "properly…" [HNcmsa]
+- o5: אַשְּׁרוּ = H833 אָשַׁר "to be straight (used in the widest sense…" [HVpv2mp]
+- o6: חָמוֹץ = H2541 חָמוֹץ "properly, violent; by implication, a robber" [HNcmsa]
+- o7: שִׁפְטוּ = H8199 שָׁפַט "to judge…" [HVqv2mp]
+- o8: יָתוֹם = H3490 יָתוֹם "a bereaved person" [HNcmsa]
+- o9: רִיבוּ = H7378 רִיב "properly, to toss, i.e. grapple…" [HVqv2mp]
+- o10: אַלְמָנָה = H490 אַלְמָנָה "a widow; also a desolate place" [HNcfsa]

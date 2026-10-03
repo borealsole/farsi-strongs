@@ -1154,3 +1154,41 @@ Persian entries and current tags:
 - p28: خواهم_داد
 - p29: .
 - p30: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 27:46 (context)
+
+- o1: וַ/תֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3fs]
+- o2: רִבְקָה = H7259 רִבְקָה "Ribkah, the wife of Isaac" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: יִצְחָק = H3327 יִצְחָק "Jitschak (or Isaac), son of Abraham" [HNp]
+- o5: קַצְתִּי = H6973 קוּץ "to be (causatively, make) disgusted or anxious" [HVqp1cs]
+- o6: בְ/חַיַּ/י = Hb "in" + H2416 חַי "alive; hence, raw (flesh)…" [HR/Ncmpc/Sp1cs]
+- o7: מִ/פְּנֵי = Hm "from" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o8: בְּנוֹת = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfpc]
+- o9: חֵת = H2845 חֵת "Cheth, an aboriginal Canaanite" [HNp]
+- o10: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o11: לֹקֵחַ = H3947 לָקַח "to take (in the widest variety of applications)" [HVqrmsa]
+- o12: יַעֲקֹב = H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HNp]
+- o13: אִשָּׁה = H802 אִשָּׁה "a woman" [HNcfsa]
+- o14: מִ/בְּנוֹת = Hm "from" + H1323 בַּת "a daughter (used in the same wide sense as other…" [HR/Ncfpc]
+- o15: חֵת = H2845 חֵת "Cheth, an aboriginal Canaanite" [HNp]
+- o16: כָּ/אֵלֶּה = Hk "like" + H428 אֵלֶּה "these or those" [HR/Pdxcp]
+- o17: מִ/בְּנוֹת = Hm "from" + H1323 בַּת "a daughter (used in the same wide sense as other…" [HR/Ncfpc]
+- o18: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o19: לָ/מָּה = Hl "to" + H4100 מָה "properly…" [HR/Ti]
+- o20: לִּ/י = Hl "to" [HR/Sp1cs]
+- o21: חַיִּים = H2416 חַי "alive; hence, raw (flesh)…" [HNcmpa]
+
+### Genesis 29:1 (context)
+
+- o1: וַ/יִּשָּׂא = Hc "and" + H5375 נָשָׂא "to lift, in a great variety of applications…" [HC/Vqw3ms]
+- o2: יַעֲקֹב = H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HNp]
+- o3: רַגְלָי/ו = H7272 רֶגֶל "a foot (as used in walking)…" [HNcfdc/Sp3ms]
+- o4: וַ/יֵּלֶךְ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3ms]
+- o5: אַרְצָ/ה = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsc/Sd]
+- o6: בְנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o7: קֶדֶם = H6924 קֶדֶם "the front, of place (absolutely, the fore part…" [HNcmsa]

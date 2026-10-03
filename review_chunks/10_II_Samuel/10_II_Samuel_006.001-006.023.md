@@ -1271,3 +1271,37 @@ Persian entries and current tags:
 - p9: فرزندی  → H3206
 - p10: نشد  → H3808
 - p11: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 5:25 (context)
+
+- o1: וַ/יַּעַשׂ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3ms]
+- o2: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o3: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o4: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o5: צִוָּ/הוּ = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp3ms/Sp3ms]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: וַ/יַּךְ = Hc "and" + H5221 נָכָה "to strike (lightly or severely…" [HC/Vhw3ms]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: פְּלִשְׁתִּים = H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HNgmpa]
+- o10: מִ/גֶּבַע = Hm "from" + H1387 גֶּבַע "Geba, a place in Palestine" [HR/Np]
+- o11: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o12: בֹּאֲ/ךָ = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqc/Sp2ms]
+- o13: גָזֶר = H1507 גֶּזֶר "Gezer, a place in Palestine" [HNp]
+
+### II Samuel 7:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o3: יָשַׁב = H3427 יָשַׁב "properly…" [HVqp3ms]
+- o4: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o5: בְּ/בֵית/וֹ = Hb "in" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc/Sp3ms]
+- o6: וַ/יהוָה = Hc "and" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HC/Np]
+- o7: הֵנִיחַ = H5117 נוּחַ "to rest, i.e. settle down…" [HVhp3ms]
+- o8: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o9: מִ/סָּבִיב = Hm "from" + H5439 סָבִיב "as noun) a circle, neighbour, or environs…" [HR/Ncbsa]
+- o10: מִ/כָּל = Hm "from" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o11: אֹיְבָי/ו = H341 אֹיֵב "hating; an adversary" [HVqrmpc/Sp3ms]

@@ -873,3 +873,33 @@ Persian entries and current tags:
 - p12: جاودانی  → H5769
 - p13: هدایتم فرما  → H5148
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 138:8 (context)
+
+- o1: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o2: יִגְמֹר = H1584 גָּמַר "to end (in the sense of completion or failure)" [HVqi3ms]
+- o3: בַּעֲדִ/י = H1157 בְּעַד "in up to or over against…" [HR/Sp1cs]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: חַסְדְּ/ךָ = H2617 חֵסֵד "kindness; by implication (towards God) piety…" [HNcmsc/Sp2ms]
+- o6: לְ/עוֹלָם = Hl "to" + H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HR/Ncmsa]
+- o7: מַעֲשֵׂי = H4639 מַעֲשֶׂה "an action (good or bad); generally, a transaction…" [HNcmpc]
+- o8: יָדֶי/ךָ = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbdc/Sp2ms]
+- o9: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o10: תֶּרֶף = H7503 רָפָה "to slacken (in many applications…" [HVhj2ms]
+
+### Psalms 140:1 (context)
+
+- o1: לַ/מְנַצֵּחַ = Hl "to" + H5329 נָצַח "properly, to glitter from afar…" [HRd/Vprmsa]
+- o2: מִזְמוֹר = H4210 מִזְמוֹר "properly, instrumental music…" [HNcmsa]
+- o3: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o4: חַלְּצֵ/נִי = H2502 חָלַץ "to pull off…" [HVpv2ms/Sp1cs]
+- o5: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o6: מֵ/אָדָם = Hm "from" + H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HR/Ncmsa]
+- o7: רָע = H7451 רַע "bad or (as noun) evil (natural or moral)" [HAamsa]
+- o8: מֵ/אִישׁ = Hm "from" + H376 אִישׁ "a man as an individual or a male person…" [HR/Ncmsc]
+- o9: חֲמָסִים = H2555 חָמָס "violence; by implication, wrong…" [HNcmpa]
+- o10: תִּנְצְרֵ/נִי = H5341 נָצַר "to guard, in a good sense (to protect, maintain…" [HVqi2ms/Sp1cs]

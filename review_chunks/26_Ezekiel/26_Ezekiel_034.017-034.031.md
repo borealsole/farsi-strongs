@@ -805,3 +805,36 @@ Persian entries and current tags:
 - p24: هستم  → H589
 - p25: .
 - p26: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 34:16 (context)
+
+- o1: אֶת = H853 אֵת "properly…" [HTo]
+- o2: הָ/אֹבֶדֶת = Hd "the" + H6 אָבַד "properly, to wander away, i.e. lose oneself…" [HTd/Vqrfsa]
+- o3: אֲבַקֵּשׁ = H1245 בָּקַשׁ "to search out (by any method…" [HVpi1cs]
+- o4: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o5: הַ/נִּדַּחַת = Hd "the" + H5080 נָדַח "to push off…" [HTd/VNsfsa]
+- o6: אָשִׁיב = H7725 שׁוּב "to turn back (hence…" [HVhi1cs]
+- o7: וְ/לַ/נִּשְׁבֶּרֶת = Hc "and" + Hl "to" + H7665 שָׁבַר "to burst (literally or figuratively)" [HC/Rd/VNsfsa]
+- o8: אֶחֱבֹשׁ = H2280 חָבַשׁ "to wrap firmly (especially a turban, compress…" [HVqi1cs]
+- o9: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o10: הַ/חוֹלָה = Hd "the" + H2470 חָלָה "properly, to be rubbed or worn…" [HTd/Vqrfsa]
+- o11: אֲחַזֵּק = H2388 חָזַק "to fasten upon…" [HVpi1cs]
+- o12: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o13: הַ/שְּׁמֵנָה = Hd "the" + H8082 שָׁמֵן "greasy, i.e. gross; figuratively, rich" [HTd/Aafsa]
+- o14: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o15: הַ/חֲזָקָה = Hd "the" + H2389 חָזָק "strong (usu. in a bad sense, hard, bold, violent)" [HTd/Aafsa]
+- o16: אַשְׁמִיד = H8045 שָׁמַד "to desolate" [HVhi1cs]
+- o17: אֶרְעֶ/נָּה = H7462 רָעָה "to tend a flock; i.e. pasture it…" [HVqi1cs/Sp3fs]
+- o18: בְ/מִשְׁפָּט = Hb "in" + H4941 מִשְׁפָּט "properly…" [HR/Ncmsa]
+
+### Ezekiel 35:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o5: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

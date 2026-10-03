@@ -1092,3 +1092,43 @@ Persian entries and current tags:
 - p17: انجام
 - p18: رسانید  → H6213
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 5:32 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: נֹחַ = H5146 נֹחַ "Noach, the patriarch of the flood" [HNp]
+- o3: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o4: חֲמֵשׁ = H2568 חָמֵשׁ "five" [HAcfsa]
+- o5: מֵאוֹת = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbpa]
+- o6: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o7: וַ/יּוֹלֶד = Hc "and" + H3205 יָלַד "to bear young; causatively, to beget…" [HC/Vhw3ms]
+- o8: נֹחַ = H5146 נֹחַ "Noach, the patriarch of the flood" [HNp]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: שֵׁם = H8035 שֵׁם "Shem, a son of Noah (often includ. his posterity)" [HNp]
+- o11: אֶת = H853 אֵת "properly…" [HTo]
+- o12: חָם = H2526 חָם "Cham, a son of Noah…" [HNp]
+- o13: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o14: יָפֶת = H3315 יֶפֶת "Jepheth, a son of Noah; also his posterity" [HNp]
+
+### Genesis 7:1 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: לְ/נֹחַ = Hl "to" + H5146 נֹחַ "Noach, the patriarch of the flood" [HR/Np]
+- o4: בֹּא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqv2ms]
+- o5: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o6: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o7: בֵּיתְ/ךָ = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc/Sp2ms]
+- o8: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o9: הַ/תֵּבָה = Hd "the" + H8392 תֵּבָה "a box" [HTd/Ncfsa]
+- o10: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o11: אֹתְ/ךָ = H853 אֵת "properly…" [HTo/Sp2ms]
+- o12: רָאִיתִי = H7200 רָאָה "to see…" [HVqp1cs]
+- o13: צַדִּיק = H6662 צַדִּיק "just" [HAamsa]
+- o14: לְ/פָנַ/י = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp1cs]
+- o15: בַּ/דּוֹר = Hb "in" + H1755 דּוֹר "properly, a revolution of time…" [HRd/Ncmsa]
+- o16: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]

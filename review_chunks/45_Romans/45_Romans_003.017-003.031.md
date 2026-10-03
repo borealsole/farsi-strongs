@@ -724,3 +724,30 @@ Persian entries and current tags:
 - p15: استوار  → G2476
 - p16: می‌گردانیم  → G3551
 - p17: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Romans 3:16 (context)
+
+- o1: σύντριμμα = G4938 σύντριμμα "destruction" [N-NSN]
+- o2: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o3: ταλαιπωρία = G5004 ταλαιπωρία "misery" [N-NSF]
+- o4: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o5: ταῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPF]
+- o6: ὁδοῖς = G3598 ὁδός "journey, (high-)way" [N-DPF]
+- o7: αὐτῶν, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]
+
+### Romans 4:1 (context)
+
+- o1: Τί = G5101 τίς "every man, how (much), + no(-ne, thing)…" [I-ASN]
+- o2: οὖν = G3767 οὖν "and (so, truly), but, now (then)…" [CONJ]
+- o3: ἐροῦμεν = G2046 ἐρέω "call, say, speak (of), tell" [V-FAI-1P]
+- o4: εὑρηκέναι = G2147 εὑρίσκω "find, get, obtain, perceive, see" [V-RAN]
+- o5: Ἀβραὰμ = G11 Ἀβραάμ "Abraham" [N-PRI]
+- o6: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o7: προπάτορα = G3962 πατήρ "father, parent" [N-ASM]
+- o8: ἡμῶν = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+- o9: κατὰ = G2596 κατά "about, according as (to), after, against…" [PREP]
+- o10: σάρκα; = G4561 σάρξ "carnal(-ly, + -ly minded), flesh(-ly)" [N-ASF]

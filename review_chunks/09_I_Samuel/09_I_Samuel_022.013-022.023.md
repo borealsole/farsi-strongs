@@ -724,3 +724,33 @@ Persian entries and current tags:
 - p25: خواهی_بود
 - p26: .
 - p27: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 22:12 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o3: שְׁמַע = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqv2ms]
+- o4: נָא = H4994 נָא "'I pray', 'now', or 'then'…" [HTe]
+- o5: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o6: אֲחִיטוּב = H285 אֲחִיטוּב "Achitub, the name of several priests" [HNp]
+- o7: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o8: הִנְ/נִי = H2005 הֵן "lo!; also (as expressing surprise) if" [HTm/Sp1cs]
+- o9: אֲדֹנִ/י = H113 אָדוֹן "sovereign, i.e. controller (human or divine)" [HNcmsc/Sp1cs]
+
+### I Samuel 23:1 (context)
+
+- o1: וַ/יַּגִּדוּ = Hc "and" + H5046 נָגַד "properly, to front…" [HC/Vhw3mp]
+- o2: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o3: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o4: הִנֵּה = H2009 הִנֵּה "lo!" [HTm]
+- o5: פְלִשְׁתִּים = H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HNgmpa]
+- o6: נִלְחָמִים = H3898 לָחַם "to feed on; figuratively, to consume…" [HVNrmpa]
+- o7: בִּ/קְעִילָה = Hb "in" + H7084 קְעִילָה "Keilah, a place in Palestine" [HR/Np]
+- o8: וְ/הֵמָּה = Hc "and" + H1992 הֵם "they (only used when emphatic)" [HC/Pp3mp]
+- o9: שֹׁסִים = H8154 שָׁסָה "to plunder" [HVqrmpa]
+- o10: אֶת = H853 אֵת "properly…" [HTo]
+- o11: הַ/גֳּרָנוֹת = Hd "the" + H1637 גֹּרֶן "a threshing-floor (as made even)…" [HTd/Ncbpa]

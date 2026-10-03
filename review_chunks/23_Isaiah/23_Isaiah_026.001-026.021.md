@@ -994,3 +994,43 @@ Persian entries and current tags:
 - p34: پنهان  → H3680
 - p35: نخواهد_داشت  → H3808
 - p36: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 25:12 (context)
+
+- o1: וּ/מִבְצַר = Hc "and" + H4013 מִבְצָר "a fortification, castle, or fortified city…" [HC/Ncmsc]
+- o2: מִשְׂגַּב = H4869 מִשְׂגָּב "defence, high fort (tower), refuge, Misgab…" [HNcmsc]
+- o3: חוֹמֹתֶי/ךָ = H2346 חוֹמָה "a wall of protection" [HNcfpc/Sp2ms]
+- o4: הֵשַׁח = H7817 שָׁחַח "to sink or depress (reflexive or causative)" [HVhp3ms]
+- o5: הִשְׁפִּיל = H8213 שָׁפֵל "to depress or sink (expectation figuratively…" [HVhp3ms]
+- o6: הִגִּיעַ = H5060 נָגַע "properly, to touch…" [HVhp3ms]
+- o7: לָ/אָרֶץ = Hl "to" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HRd/Ncbsa]
+- o8: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o9: עָפָר = H6083 עָפָר "dust (as powdered or gray)…" [HNcmsa]
+
+### Isaiah 27:1 (context)
+
+- o1: בַּ/יּוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
+- o2: הַ/הוּא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3ms]
+- o3: יִפְקֹד = H6485 פָּקַד "to visit (with friendly or hostile intent)…" [HVqi3ms]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: בְּ/חַרְב/וֹ = Hb "in" + H2719 חֶרֶב "drought…" [HR/Ncfsc/Sp3ms]
+- o6: הַ/קָּשָׁה = Hd "the" + H7186 קָשֶׁה "severe (in various applications)" [HTd/Aafsa]
+- o7: וְ/הַ/גְּדוֹלָה = Hc "and" + Hd "the" + H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HC/Td/Aafsa]
+- o8: וְ/הַ/חֲזָקָה = Hc "and" + Hd "the" + H2389 חָזָק "strong (usu. in a bad sense, hard, bold, violent)" [HC/Td/Aafsa]
+- o9: עַל = H5921 עַל "above, over, upon…" [HR]
+- o10: לִוְיָתָן = H3882 לִוְיָתָן "a wreathed animal…" [HNcmsa]
+- o11: נָחָשׁ = H5175 נָחָשׁ "a snake (from its hiss)" [HNcmsa]
+- o12: בָּרִחַ = H1281 בָּרִיחַ "a fugitive, i.e. the serpent (as fleeing)…" [HAamsa]
+- o13: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o14: לִוְיָתָן = H3882 לִוְיָתָן "a wreathed animal…" [HNcmsa]
+- o15: נָחָשׁ = H5175 נָחָשׁ "a snake (from its hiss)" [HNcmsa]
+- o16: עֲקַלָּתוֹן = H6129 עֲקַלָּתוֹן "tortuous" [HAamsa]
+- o17: וְ/הָרַג = Hc "and" + H2026 הָרַג "to smite with deadly intent" [HC/Vqq3ms]
+- o18: אֶת = H853 אֵת "properly…" [HTo]
+- o19: הַ/תַּנִּין = Hd "the" + H8577 תַּנִּין "a marine or land monster…" [HTd/Ncmsa]
+- o20: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o21: בַּ/יָּם = Hb "in" + H3220 יָם "a sea (as breaking in noisy surf) or large body…" [HRd/Ncmsa]

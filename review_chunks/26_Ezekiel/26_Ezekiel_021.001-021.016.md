@@ -885,3 +885,35 @@ Persian entries and current tags:
 - p19: بدان
 - p20: میل می‌کند  → H3259
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 20:49 (context)
+
+- o1: וָ/אֹמַר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw1cs]
+- o2: אֲהָהּ = H162 אֲהָהּ "Oh!" [HTj]
+- o3: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o4: יְהוִה = H3069 יְהֹוִה "YHWH" [HNp]
+- o5: הֵמָּה = H1992 הֵם "they (only used when emphatic)" [HPp3mp]
+- o6: אֹמְרִים = H559 אָמַר "to say (used with great latitude)" [HVqrmpa]
+- o7: לִ/י = Hl "to" [HR/Sp1cs]
+- o8: הֲ/לֹא = Hi "(untranslatable; interrogative particle)" + H3808 לֹא "not (the simple or abs. negation)…" [HTi/Tn]
+- o9: מְמַשֵּׁל = H4911 מָשַׁל "to liken…" [HVprmsa]
+- o10: מְשָׁלִים = H4912 מָשָׁל "properly, a pithy maxim…" [HNcmpa]
+- o11: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+
+### Ezekiel 21:17 (context)
+
+- o1: וְ/גַם = Hc "and" + H1571 גַּם "properly, assemblage…" [HC/Ta]
+- o2: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o3: אַכֶּה = H5221 נָכָה "to strike (lightly or severely…" [HVhi1cs]
+- o4: כַפִּ/י = H3709 כַּף "the hollow hand or palm (so of the paw of an…" [HNcfsc/Sp1cs]
+- o5: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o6: כַּפִּ/י = H3709 כַּף "the hollow hand or palm (so of the paw of an…" [HNcfsc/Sp1cs]
+- o7: וַ/הֲנִחֹתִי = Hc "and" + H5117 נוּחַ "to rest, i.e. settle down…" [HC/Vhq1cs]
+- o8: חֲמָתִ/י = H2534 חֵמָה "heat; figuratively, anger, poison (from its fever)" [HNcfsc/Sp1cs]
+- o9: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o10: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o11: דִּבַּרְתִּי = H1696 דָבַר "perhaps properly, to arrange…" [HVpp1cs]

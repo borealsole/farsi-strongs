@@ -999,3 +999,43 @@ Persian entries and current tags:
 - p22: که  → H834
 - p23: بدیشان سپرده_شده_است  → H5414
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 33:25 (context)
+
+- o1: וַ/יַּכּוּ = Hc "and" + H5221 נָכָה "to strike (lightly or severely…" [HC/Vhw3mp]
+- o2: עַם = H5971 עַם "a people (as a congregated unit)…" [HNcmsc]
+- o3: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o4: אֵת = H853 אֵת "properly…" [HTo]
+- o5: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o6: הַ/קֹּשְׁרִים = Hd "the" + H7194 קָשַׁר "to tie, physically (gird, confine…" [HTd/Vqrmpa]
+- o7: עַל = H5921 עַל "above, over, upon…" [HR]
+- o8: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o9: אָמוֹן = H526 אָמוֹן "Amon, the name of three Israelites" [HNp]
+- o10: וַ/יַּמְלִיכוּ = Hc "and" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HC/Vhw3mp]
+- o11: עַם = H5971 עַם "a people (as a congregated unit)…" [HNcmsc]
+- o12: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o13: אֶת = H853 אֵת "properly…" [HTo]
+- o14: יֹאשִׁיָּהוּ = H2977 יֹאשִׁיָּה "Joshijah, the name of two Israelites" [HNp]
+- o15: בְנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o16: תַּחְתָּי/ו = H8478 תַּחַת "the bottom (as depressed)…" [HR/Sp3ms]
+
+### II Chronicles 34:17 (context)
+
+- o1: וַ/יַּתִּיכוּ = Hc "and" + H5413 נָתַךְ "to flow forth (literally or figuratively)…" [HC/Vhw3mp]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: הַ/כֶּסֶף = Hd "the" + H3701 כֶּסֶף "silver (from its pale color)…" [HTd/Ncmsa]
+- o4: הַ/נִּמְצָא = Hd "the" + H4672 מָצָא "properly, to come forth to, i.e. appear or exist…" [HTd/VNrmsa]
+- o5: בְּ/בֵית = Hb "in" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: וַ/יִּתְּנוּ/הוּ = Hc "and" + H5414 נָתַן "to give…" [HC/Vqw3mp/Sp3ms]
+- o8: עַל = H5921 עַל "above, over, upon…" [HR]
+- o9: יַד = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsc]
+- o10: הַ/מֻּפְקָדִים = Hd "the" + H6485 פָּקַד "to visit (with friendly or hostile intent)…" [HTd/VHsmpa]
+- o11: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o12: יַד = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsc]
+- o13: עוֹשֵׂי = H6213 עָשָׂה "to do or make…" [HVqrmpc]
+- o14: הַ/מְּלָאכָה = Hd "the" + H4399 מְלָאכָה "properly, deputyship, i.e. ministry…" [HTd/Ncfsa]

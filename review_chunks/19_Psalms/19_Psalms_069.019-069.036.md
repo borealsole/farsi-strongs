@@ -662,3 +662,28 @@ Persian entries and current tags:
 - p14: آن
 - p15: ساکن خواهند_شد  → H7931
 - p16: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 69:18 (context)
+
+- o1: קָרְבָ/ה = H7126 קָרַב "to approach (causatively…" [HVqv2ms/Sh]
+- o2: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o3: נַפְשִׁ/י = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsc/Sp1cs]
+- o4: גְאָלָ/הּ = H1350 גָּאַל "to be the next of kin (and as such to buy back a…" [HVqv2ms/Sp3fs]
+- o5: לְמַעַן = H4616 מַעַן "properly, heed, i.e. purpose…" [HR]
+- o6: אֹיְבַ/י = H341 אֹיֵב "hating; an adversary" [HVqrmpc/Sp1cs]
+- o7: פְּדֵ/נִי = H6299 פָּדָה "to sever, i.e. ransom; gener. to release, preserve" [HVqv2ms/Sp1cs]
+
+### Psalms 70:1 (context)
+
+- o1: לַ/מְנַצֵּחַ = Hl "to" + H5329 נָצַח "properly, to glitter from afar…" [HRd/Vprmsa]
+- o2: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o3: לְ/הַזְכִּיר = Hl "to" + H2142 זָכַר "properly, to mark (so as to be recognized)…" [HR/Vhc]
+- o4: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o5: לְ/הַצִּילֵ/נִי = Hl "to" + H5337 נָצַל "to snatch away, whether in a good or a bad sense" [HR/Vhc/Sp1cs]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: לְ/עֶזְרָתִ/י = Hl "to" + H5833 עֶזְרָה "aid" [HR/Ncfsc/Sp1cs]
+- o8: חוּשָׁ/ה = H2363 חוּשׁ "to hurry…" [HVqv2ms/Sh]

@@ -1281,3 +1281,41 @@ Persian entries and current tags:
 - p12: خواهند_گرفت  → H3925
 - p13: .
 - p14: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 28:29 (context)
+
+- o1: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o2: זֹאת = H2063 זֹאת "this (often used adverb)" [HPdxfs]
+- o3: מֵ/עִם = Hm "from" + H5973 עִם "adverb or preposition…" [HR/R]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: צְבָאוֹת = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbpa]
+- o6: יָצָאָה = H3318 יָצָא "to go (causatively, bring) out…" [HVqp3fs]
+- o7: הִפְלִיא = H6381 פָּלָא "properly, perhaps to separate…" [HVhp3ms]
+- o8: עֵצָה = H6098 עֵצָה "advice; by implication, plan; also prudence" [HNcfsa]
+- o9: הִגְדִּיל = H1431 גָּדַל "to be (causatively make) large (in various senses…" [HVhp3ms]
+- o10: תּוּשִׁיָּה = H8454 תּוּשִׁיָּה "support or (by implication) ability…" [HNcfsa]
+
+### Isaiah 30:1 (context)
+
+- o1: הוֹי = H1945 הוֹי "oh!" [HTj]
+- o2: בָּנִים = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpa]
+- o3: סוֹרְרִים = H5637 סָרַר "to turn away, i.e. (morally) be refractory" [HVqrmpa]
+- o4: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o5: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o6: לַ/עֲשׂוֹת = Hl "to" + H6213 עָשָׂה "to do or make…" [HR/Vqc]
+- o7: עֵצָה = H6098 עֵצָה "advice; by implication, plan; also prudence" [HNcfsa]
+- o8: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o9: מִ/נִּי = Hm "from" + H4480 מִן "properly, a part of…" [HR/Sp1cs]
+- o10: וְ/לִ/נְסֹךְ = Hc "and" + Hl "to" + H5258 נָסַךְ "to pour out, especially a libation…" [HC/R/Vqc]
+- o11: מַסֵּכָה = H4541 מַסֵּכָה "properly, a pouring over…" [HNcfsa]
+- o12: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o13: רוּחִ/י = H7307 רוּחַ "wind…" [HNcbsc/Sp1cs]
+- o14: לְמַעַן = H4616 מַעַן "properly, heed, i.e. purpose…" [HR]
+- o15: סְפוֹת = H5595 סָפָה "properly, to scrape (literally, to shave…" [HVqc]
+- o16: חַטָּאת = H2403 חַטָּאָה "an offence (sometimes habitual sinfulness)…" [HNcfsa]
+- o17: עַל = H5921 עַל "above, over, upon…" [HR]
+- o18: חַטָּאת = H2403 חַטָּאָה "an offence (sometimes habitual sinfulness)…" [HNcfsa]

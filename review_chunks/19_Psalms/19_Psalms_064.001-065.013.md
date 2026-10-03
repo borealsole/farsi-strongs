@@ -895,3 +895,32 @@ Persian entries and current tags:
 - p15: و
 - p16: می‌سرایند  → H7891
 - p17: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 63:11 (context)
+
+- o1: וְ/הַ/מֶּלֶךְ = Hc "and" + Hd "the" + H4428 מֶלֶךְ "a king" [HC/Td/Ncmsa]
+- o2: יִשְׂמַח = H8055 שָׂמַח "probably to brighten up…" [HVqi3ms]
+- o3: בֵּ/אלֹהִים = Hb "in" + H430 אֱלֹהִים "gods in the ordinary sense…" [HR/Ncmpa]
+- o4: יִתְהַלֵּל = H1984 הָלַל "to be clear (orig. of sound…" [HVti3ms]
+- o5: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o6: הַ/נִּשְׁבָּע = Hd "the" + H7650 שָׁבַע "to seven oneself…" [HTd/VNrmsa]
+- o7: בּ/וֹ = Hb "in" [HR/Sp3ms]
+- o8: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o9: יִסָּכֵר = H5534 סָכַר "to shut up; by implication, to surrender" [HVNi3ms]
+- o10: פִּי = H6310 פֶּה "the mouth (as the means of blowing)…" [HNcmsc]
+- o11: דוֹבְרֵי = H1696 דָבַר "perhaps properly, to arrange…" [HVqrmpc]
+- o12: שָׁקֶר = H8267 שֶׁקֶר "an untruth…" [HNcmsa]
+
+### Psalms 66:1 (context)
+
+- o1: לַ/מְנַצֵּחַ = Hl "to" + H5329 נָצַח "properly, to glitter from afar…" [HRd/Vprmsa]
+- o2: שִׁיר = H7892 שִׁיר "a song; abstractly, singing" [HNcbsa]
+- o3: מִזְמוֹר = H4210 מִזְמוֹר "properly, instrumental music…" [HNcmsa]
+- o4: הָרִיעוּ = H7321 רוּעַ "to mar (especially by breaking)…" [HVhv2mp]
+- o5: לֵ/אלֹהִים = Hl "to" + H430 אֱלֹהִים "gods in the ordinary sense…" [HR/Ncmpa]
+- o6: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o7: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]

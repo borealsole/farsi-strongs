@@ -940,3 +940,41 @@ Persian entries and current tags:
 - p24: هستم  → H589
 - p25: .
 - p26: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 24:27 (context)
+
+- o1: בַּ/יּוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
+- o2: הַ/הוּא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3ms]
+- o3: יִפָּתַח = H6605 פָּתַח "to open wide (literally or figuratively)…" [HVNi3ms]
+- o4: פִּי/ךָ = H6310 פֶּה "the mouth (as the means of blowing)…" [HNcmsc/Sp2ms]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: הַ/פָּלִיט = Hd "the" + H6412 פָּלִיט "a refugee" [HTd/Ncmsa]
+- o7: וּ/תְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpi2ms]
+- o8: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o9: תֵאָלֵם = H481 אָלַם "to tie fast…" [HVNi2ms]
+- o10: עוֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+- o11: וְ/הָיִיתָ = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq2ms]
+- o12: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o13: לְ/מוֹפֵת = Hl "to" + H4159 מוֹפֵת "a miracle; by implication, a token or omen" [HR/Ncmsa]
+- o14: וְ/יָדְעוּ = Hc "and" + H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HC/Vqq3cp]
+- o15: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o16: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o17: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### Ezekiel 26:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: בְּ/עַשְׁתֵּי = Hb "in" + H6249 עַשְׁתֵּי "eleven or (ordinal) eleventh" [HR/Aobpc]
+- o3: עֶשְׂרֵה = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcfsa]
+- o4: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o5: בְּ/אֶחָד = Hb "in" + H259 אֶחָד "properly, united, i.e. one…" [HR/Acmsa]
+- o6: לַ/חֹדֶשׁ = Hl "to" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HRd/Ncmsa]
+- o7: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o8: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o9: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o10: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o11: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

@@ -769,3 +769,33 @@ Persian entries and current tags:
 - p8: خداوند  → H3068
 - p9: است
 - p10: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 27:23 (context)
+
+- o1: וַ/יִּסְמֹךְ = Hc "and" + H5564 סָמַךְ "to prop (literally or figuratively)…" [HC/Vqw3ms]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: יָדָי/ו = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbdc/Sp3ms]
+- o4: עָלָי/ו = H5921 עַל "above, over, upon…" [HR/Sp3ms]
+- o5: וַ/יְצַוֵּ/הוּ = Hc "and" + H6680 צָוָה "(intensively) to constitute, enjoin" [HC/Vpw3ms/Sp3ms]
+- o6: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o7: דִּבֶּר = H1696 דָבַר "perhaps properly, to arrange…" [HVpp3ms]
+- o8: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o9: בְּ/יַד = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o10: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+
+### Numbers 28:17 (context)
+
+- o1: וּ/בַ/חֲמִשָּׁה = Hc "and" + Hb "in" + H2568 חָמֵשׁ "five" [HC/Rd/Acfsa]
+- o2: עָשָׂר = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcmsa]
+- o3: יוֹם = H3117 יוֹם "a day (as the warm hours)…" [HNcmsa]
+- o4: לַ/חֹדֶשׁ = Hl "to" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HRd/Ncmsa]
+- o5: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o6: חָג = H2282 חַג "a festival, or a victim therefor" [HNcmsa]
+- o7: שִׁבְעַת = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcmsc]
+- o8: יָמִים = H3117 יוֹם "a day (as the warm hours)…" [HNcmpa]
+- o9: מַצּוֹת = H4682 מַצָּה "properly, sweetness…" [HNcfpa]
+- o10: יֵאָכֵל = H398 אָכַל "to eat (literally or figuratively)" [HVNi3ms]

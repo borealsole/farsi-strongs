@@ -732,3 +732,48 @@ Persian entries and current tags:
 - p7: طنابهای  → H4340
 - p8: آن
 - p9: ؛
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 34:35 (context)
+
+- o1: וְ/רָאוּ = Hc "and" + H7200 רָאָה "to see…" [HC/Vqp3cp]
+- o2: בְנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o3: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: פְּנֵי = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc]
+- o6: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o7: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o8: קָרַן = H7160 קָרַן "to shoot out horns; figuratively, rays" [HVqp3ms]
+- o9: עוֹר = H5785 עוֹר "skin (as naked); by implication, hide, leather" [HNcmsc]
+- o10: פְּנֵי = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc]
+- o11: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o12: וְ/הֵשִׁיב = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vhp3ms]
+- o13: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o14: אֶת = H853 אֵת "properly…" [HTo]
+- o15: הַ/מַּסְוֶה = Hd "the" + H4533 מַסְוֶה "a veil" [HTd/Ncmsa]
+- o16: עַל = H5921 עַל "above, over, upon…" [HR]
+- o17: פָּנָי/ו = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc/Sp3ms]
+- o18: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o19: בֹּא/וֹ = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqc/Sp3ms]
+- o20: לְ/דַבֵּר = Hl "to" + H1696 דָבַר "perhaps properly, to arrange…" [HR/Vpc]
+- o21: אִתּ/וֹ = H854 אֵת "properly…" [HR/Sp3ms]
+
+### Exodus 35:19 (context)
+
+- o1: אֶת = H853 אֵת "properly…" [HTo]
+- o2: בִּגְדֵי = H899 בֶּגֶד "a covering, i.e. clothing…" [HNcmpc]
+- o3: הַ/שְּׂרָד = Hd "the" + H8278 שְׂרָד "stitching (as pierced with a needle)" [HTd/Ncmsa]
+- o4: לְ/שָׁרֵת = Hl "to" + H8334 שָׁרַת "to attend as a menial or worshipper…" [HR/Vpc]
+- o5: בַּ/קֹּדֶשׁ = Hb "in" + H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HRd/Ncmsa]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: בִּגְדֵי = H899 בֶּגֶד "a covering, i.e. clothing…" [HNcmpc]
+- o8: הַ/קֹּדֶשׁ = Hd "the" + H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HTd/Ncmsa]
+- o9: לְ/אַהֲרֹן = Hl "to" + H175 אַהֲרוֹן "Aharon, the brother of Moses" [HR/Np]
+- o10: הַ/כֹּהֵן = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmsa]
+- o11: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o12: בִּגְדֵי = H899 בֶּגֶד "a covering, i.e. clothing…" [HNcmpc]
+- o13: בָנָי/ו = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc/Sp3ms]
+- o14: לְ/כַהֵן = Hl "to" + H3547 כָּהַן "to officiate as a priest…" [HR/Vpc]

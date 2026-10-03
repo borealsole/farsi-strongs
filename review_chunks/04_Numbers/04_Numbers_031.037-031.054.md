@@ -753,3 +753,49 @@ Persian entries and current tags:
 - p29: خداوند  → H3068
 - p30: باشد
 - p31: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 31:36 (context)
+
+- o1: וַ/תְּהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3fs]
+- o2: הַ/מֶּחֱצָה = Hd "the" + H4275 מֶחֱצָה "a halving" [HTd/Ncfsa]
+- o3: חֵלֶק = H2506 חֵלֶק "properly, smoothness (of the tongue)…" [HNcmsc]
+- o4: הַ/יֹּצְאִים = Hd "the" + H3318 יָצָא "to go (causatively, bring) out…" [HTd/Vqrmpa]
+- o5: בַּ/צָּבָא = Hb "in" + H6635 צָבָא "a mass of persons (or figuratively, things)…" [HRd/Ncbsa]
+- o6: מִסְפַּר = H4557 מִסְפָּר "a number…" [HNcmsc]
+- o7: הַ/צֹּאן = Hd "the" + H6629 צֹאן "a collective name for a flock (of sheep or goats)…" [HTd/Ncbsa]
+- o8: שְׁלֹשׁ = H7969 שָׁלוֹשׁ "three…" [HAcfsa]
+- o9: מֵאוֹת = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbpa]
+- o10: אֶלֶף = H505 אֶלֶף "hence (the ox's head being the first letter of…" [HAcbsa]
+- o11: וּ/שְׁלֹשִׁים = Hc "and" + H7970 שְׁלוֹשִׁים "thirty; or (ordinal) thirtieth" [HC/Acbpa]
+- o12: אֶלֶף = H505 אֶלֶף "hence (the ox's head being the first letter of…" [HAcbsa]
+- o13: וְ/שִׁבְעַת = Hc "and" + H7651 שֶׁבַע "seven (as the sacred full one)…" [HC/Acmsc]
+- o14: אֲלָפִים = H505 אֶלֶף "hence (the ox's head being the first letter of…" [HAcbpa]
+- o15: וַ/חֲמֵשׁ = Hc "and" + H2568 חָמֵשׁ "five" [HC/Acfsa]
+- o16: מֵאוֹת = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbpa]
+
+### Numbers 32:1 (context)
+
+- o1: וּ/מִקְנֶה = Hc "and" + H4735 מִקְנֶה "something bought, i.e. property…" [HC/Ncmsa]
+- o2: רַב = H7227 רַב "abundant (in quantity, size, age, number, rank…" [HAamsa]
+- o3: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o4: לִ/בְנֵי = Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmpc]
+- o5: רְאוּבֵן = H7205 רְאוּבֵן "Reuben, a son of Jacob" [HNp]
+- o6: וְ/לִ/בְנֵי = Hc "and" + Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/R/Ncmpc]
+- o7: גָד = H1410 גָּד "Gad, a son of Jacob…" [HNp]
+- o8: עָצוּם = H6099 עָצוּם "powerful (specifically, a paw)…" [HAamsa]
+- o9: מְאֹד = H3966 מְאֹד "properly, vehemence…" [HD]
+- o10: וַ/יִּרְאוּ = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw3mp]
+- o11: אֶת = H853 אֵת "properly…" [HTo]
+- o12: אֶרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsc]
+- o13: יַעְזֵר = H3270 יַעֲזֵיר "Jaazer or Jazer, a place East of the Jordan" [HNp]
+- o14: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o15: אֶרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsc]
+- o16: גִּלְעָד = H1568 גִּלְעָד "Gilad, a region East of the Jordan…" [HNp]
+- o17: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o18: הַ/מָּקוֹם = Hd "the" + H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HTd/Ncmsa]
+- o19: מְקוֹם = H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HNcmsc]
+- o20: מִקְנֶה = H4735 מִקְנֶה "something bought, i.e. property…" [HNcmsa]

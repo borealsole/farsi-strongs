@@ -986,3 +986,32 @@ Persian entries and current tags:
 - p21: به
 - p22: انجام رسید  → H935
 - p23: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Joshua 21:22 (context)
+
+- o1: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o2: קִבְצַיִם = H6911 קִבְצַיִם "Kibtsajim, a place in Palestine" [HNp]
+- o3: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o4: מִגְרָשֶׁ/הָ = H4054 מִגְרָשׁ "a suburb (i.e. open country whither flocks are…" [HNcmpc/Sp3fs]
+- o5: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o6: בֵּית = H1032 בֵּית חוֹרוֹן "Beth-Choron…" [HNp]
+- o7: חוֹרֹן = H1032 בֵּית חוֹרוֹן "Beth-Choron…" [HNp]
+- o8: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o9: מִגְרָשֶׁ/הָ = H4054 מִגְרָשׁ "a suburb (i.e. open country whither flocks are…" [HNcmpc/Sp3fs]
+- o10: עָרִים = H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HNcfpa]
+- o11: אַרְבַּע = H702 אַרְבַּע "four" [HAcfsa]
+
+### Joshua 22:1 (context)
+
+- o1: אָז = H227 אָז "at that time or place…" [HD]
+- o2: יִקְרָא = H7121 קָרָא "to call out to (i.e. properly, address by name…" [HVqi3ms]
+- o3: יְהוֹשֻׁעַ = H3091 יְהוֹשׁוּעַ "Jehoshua (i.e. Joshua), the Jewish leader" [HNp]
+- o4: לָ/ראוּבֵנִי = Hl "to" + H7206 רְאוּבֵנִי "a Reubenite or descendant of Reuben" [HRd/Ngmsa]
+- o5: וְ/לַ/גָּדִי = Hc "and" + Hl "to" + H1425 גָּדִי "a Gadite (collectively) or descendants of Gad" [HC/Rd/Ngmsa]
+- o6: וְ/לַ/חֲצִי = Hc "and" + Hl "to" + H2677 חֵצִי "the half or middle" [HC/R/Ncmsc]
+- o7: מַטֵּה = H4294 מַטֶּה "a branch (as extending); figuratively, a tribe…" [HNcmsc]
+- o8: מְנַשֶּׁה = H4519 מְנַשֶּׁה "Menashsheh, a grandson of Jacob…" [HNp]

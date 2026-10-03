@@ -720,3 +720,46 @@ Persian entries and current tags:
 - p19: محبتم  → H2617
 - p20: می‌کند
 - p21: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 58:11 (context)
+
+- o1: וְ/יֹאמַר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqi3ms]
+- o2: אָדָם = H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HNcmsa]
+- o3: אַךְ = H389 אַךְ "a particle of affirmation, surely…" [HTa]
+- o4: פְּרִי = H6529 פְּרִי "fruit (literally or figuratively)" [HNcmsa]
+- o5: לַ/צַּדִּיק = Hl "to" + H6662 צַדִּיק "just" [HRd/Aamsa]
+- o6: אַךְ = H389 אַךְ "a particle of affirmation, surely…" [HTa]
+- o7: יֵשׁ = H3426 יֵשׁ "there is or are (or any other form of the verb to…" [HTm]
+- o8: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o9: שֹׁפְטִים = H8199 שָׁפַט "to judge…" [HVqrmpa]
+- o10: בָּ/אָרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HRd/Ncbsa]
+
+### Psalms 60:1 (context)
+
+- o1: בְּ/הַצּוֹת/וֹ = Hb "in" + H5327 נָצָה "properly, to go forth…" [HR/Vhc/Sp3ms]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: אֲרַם = H763 אֲרַם נַהֲרַיִם "Aram of (the) two rivers (Euphrates and Tigris)…" [HNp]
+- o4: נַהֲרַיִם = H763 אֲרַם נַהֲרַיִם "Aram of (the) two rivers (Euphrates and Tigris)…" [HNp]
+- o5: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o6: אֲרַם = H760 אֲרַם צוֹבָה "Aram of Tsoba (or Coele-Syria)" [HNp]
+- o7: צוֹבָה = H760 אֲרַם צוֹבָה "Aram of Tsoba (or Coele-Syria)" [HNp]
+- o8: וַ/יָּשָׁב = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqw3ms]
+- o9: יוֹאָב = H3097 יוֹאָב "Joab, the name of three Israelites" [HNp]
+- o10: וַ/יַּךְ = Hc "and" + H5221 נָכָה "to strike (lightly or severely…" [HC/Vhw3ms]
+- o11: אֶת = H853 אֵת "properly…" [HTo]
+- o12: אֱדוֹם = H123 אֱדֹם "Edom, the elder twin-brother of Jacob…" [HNp]
+- o13: בְּ/גֵיא = Hb "in" + H1516 גַּיְא "a gorge (from its lofty sides…" [HR/Np]
+- o14: מֶלַח = H4417 מֶלַח "properly, powder…" [HNp]
+- o15: שְׁנֵים = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmda]
+- o16: עָשָׂר = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcmsa]
+- o17: אָלֶף = H505 אֶלֶף "hence (the ox's head being the first letter of…" [HAcbsa]
+- o18: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o19: זְנַחְתָּ/נוּ = H2186 זָנַח "reject, forsake, fail" [HVqp2ms/Sp1cp]
+- o20: פְרַצְתָּ/נוּ = H6555 פָּרַץ "to break out (in many applications…" [HVqp2ms/Sp1cp]
+- o21: אָנַפְתָּ = H599 אָנַף "to breathe hard, i.e. be enraged" [HVqp2ms]
+- o22: תְּשׁוֹבֵב = H7725 שׁוּב "to turn back (hence…" [HVoi2ms]
+- o23: לָ/נוּ = Hl "to" [HR/Sp1cp]

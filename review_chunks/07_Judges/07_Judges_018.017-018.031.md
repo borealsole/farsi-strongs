@@ -938,3 +938,45 @@ Persian entries and current tags:
 - p20: پا
 - p21: داشتند  → H7760
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Judges 18:16 (context)
+
+- o1: וְ/שֵׁשׁ = Hc "and" + H8337 שֵׁשׁ "six (as an overplus beyond five or the fingers of…" [HC/Acfsa]
+- o2: מֵאוֹת = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbpa]
+- o3: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o4: חֲגוּרִים = H2296 חָגַר "to gird on (as a belt, armor, etc.)" [HVqsmpa]
+- o5: כְּלֵי = H3627 כְּלִי "something prepared…" [HNcmpc]
+- o6: מִלְחַמְתָּ/ם = H4421 מִלְחָמָה "a battle (i.e. the engagement)…" [HNcfsc/Sp3mp]
+- o7: נִצָּבִים = H5324 נָצַב "to station…" [HVNrmpa]
+- o8: פֶּתַח = H6607 פֶּתַח "an opening (literally)…" [HNcmsc]
+- o9: הַ/שָּׁעַר = Hd "the" + H8179 שַׁעַר "an opening, i.e. door or gate" [HTd/Ncmsa]
+- o10: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o11: מִ/בְּנֵי = Hm "from" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmpc]
+- o12: דָן = H1835 דָּן "Dan, one of the sons of Jacob…" [HNp]
+
+### Judges 19:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: בַּ/יָּמִים = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmpa]
+- o3: הָ/הֵם = Hd "the" + H1992 הֵם "they (only used when emphatic)" [HTd/Pp3mp]
+- o4: וּ/מֶלֶךְ = Hc "and" + H4428 מֶלֶךְ "a king" [HC/Ncmsa]
+- o5: אֵין = H369 אַיִן "a non-entity…" [HTn]
+- o6: בְּ/יִשְׂרָאֵל = Hb "in" + H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HR/Np]
+- o7: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o8: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o9: לֵוִי = H3881 לֵוִיִּי "a Levite or descendant of Levi" [HNgmsa]
+- o10: גָּר = H1481 גּוּר "properly…" [HVqrmsa]
+- o11: בְּ/יַרְכְּתֵי = Hb "in" + H3411 יְרֵכָה "properly, the flank…" [HR/Ncfdc]
+- o12: הַר = H2022 הַר "a mountain or range of hills (sometimes used…" [HNcmsc]
+- o13: אֶפְרַיִם = H669 אֶפְרַיִם "Ephrajim, a son of Joseph…" [HNp]
+- o14: וַ/יִּקַּח = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqw3ms]
+- o15: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o16: אִשָּׁה = H802 אִשָּׁה "a woman" [HNcfsa]
+- o17: פִילֶגֶשׁ = H6370 פִּילֶגֶשׁ "a concubine; also (masculine) a paramour" [HNcfsa]
+- o18: מִ/בֵּית = Hm "from" + H1035 בֵּית לֶחֶם "Beth-Lechem, a place in Palestine" [HR/Np]
+- o19: לֶחֶם = H1035 בֵּית לֶחֶם "Beth-Lechem, a place in Palestine" [HNp]
+- o20: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]

@@ -588,3 +588,27 @@ Persian entries and current tags:
 - p20: نباشم
 - p21: .
 - p22: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 38:22 (context)
+
+- o1: חוּשָׁ/ה = H2363 חוּשׁ "to hurry…" [HVqv2ms/Sh]
+- o2: לְ/עֶזְרָתִ/י = Hl "to" + H5833 עֶזְרָה "aid" [HR/Ncfsc/Sp1cs]
+- o3: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o4: תְּשׁוּעָתִ/י = H8668 תְּשׁוּעָה "rescue (literal or figurative, persons…" [HNcfsc/Sp1cs]
+
+### Psalms 40:1 (context)
+
+- o1: לַ/מְנַצֵּחַ = Hl "to" + H5329 נָצַח "properly, to glitter from afar…" [HRd/Vprmsa]
+- o2: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o3: מִזְמוֹר = H4210 מִזְמוֹר "properly, instrumental music…" [HNcmsa]
+- o4: קַוֺּה = H6960 קָוָה "to bind together (perhaps by twisting)…" [HVpa]
+- o5: קִוִּיתִי = H6960 קָוָה "to bind together (perhaps by twisting)…" [HVpp1cs]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: וַ/יֵּט = Hc "and" + H5186 נָטָה "to stretch or spread out…" [HC/Vqw3ms]
+- o8: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o9: וַ/יִּשְׁמַע = Hc "and" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HC/Vqw3ms]
+- o10: שַׁוְעָתִ/י = H7775 שַׁוְעָה "a hallooing" [HNcfsc/Sp1cs]

@@ -912,3 +912,42 @@ Persian entries and current tags:
 - p29: سفید  → H7950
 - p30: شده_بود
 - p31: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 5:14 (context)
+
+- o1: וַ/יֵּרֶד = Hc "and" + H3381 יָרַד "to descend (literally, to go downwards…" [HC/Vqw3ms]
+- o2: וַ/יִּטְבֹּל = Hc "and" + H2881 טָבַל "to dip, to immerse" [HC/Vqw3ms]
+- o3: בַּ/יַּרְדֵּן = Hb "in" + H3383 יַרְדֵּן "Jarden, the principal river of Palestine" [HRd/Np]
+- o4: שֶׁבַע = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcfsa]
+- o5: פְּעָמִים = H6471 פַּעַם "a stroke…" [HNcfpa]
+- o6: כִּ/דְבַר = Hk "like" + H1697 דָּבָר "a word…" [HR/Ncmsc]
+- o7: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsc]
+- o8: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o9: וַ/יָּשָׁב = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqw3ms]
+- o10: בְּשָׂר/וֹ = H1320 בָּשָׂר "flesh (from its freshness)…" [HNcmsc/Sp3ms]
+- o11: כִּ/בְשַׂר = Hk "like" + H1320 בָּשָׂר "flesh (from its freshness)…" [HR/Ncmsc]
+- o12: נַעַר = H5288 נַעַר "concretely) a boy (as active)…" [HNcmsa]
+- o13: קָטֹן = H6996 קָטָן "abbreviated, i.e. diminutive…" [HAamsa]
+- o14: וַ/יִּטְהָר = Hc "and" + H2891 טָהֵר "to be pure (physical sound, clear, unadulterated…" [HC/Vqw3ms]
+
+### II Kings 6:1 (context)
+
+- o1: וַ/יֹּאמְרוּ = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3mp]
+- o2: בְנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o3: הַ/נְּבִיאִים = Hd "the" + H5030 נָבִיא "a prophet or (generally) inspired man" [HTd/Ncmpa]
+- o4: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o5: אֱלִישָׁע = H477 אֱלִישָׁע "Elisha, the famous prophet" [HNp]
+- o6: הִנֵּה = H2009 הִנֵּה "lo!" [HTm]
+- o7: נָא = H4994 נָא "'I pray', 'now', or 'then'…" [HTe]
+- o8: הַ/מָּקוֹם = Hd "the" + H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HTd/Ncmsa]
+- o9: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o10: אֲנַחְנוּ = H587 אֲנַחְנוּ "we" [HPp1cp]
+- o11: יֹשְׁבִים = H3427 יָשַׁב "properly…" [HVqrmpa]
+- o12: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o13: לְ/פָנֶי/ךָ = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp2ms]
+- o14: צַר = H6862 צַר "narrow…" [HAamsa]
+- o15: מִמֶּ/נּוּ = H4480 מִן "properly, a part of…" [HR/Sp1cp]

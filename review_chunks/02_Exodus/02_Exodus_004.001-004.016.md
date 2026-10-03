@@ -913,3 +913,41 @@ Persian entries and current tags:
 - p19: همچون
 - p20: خدا  → H430
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 3:22 (context)
+
+- o1: וְ/שָׁאֲלָה = Hc "and" + H7592 שָׁאַל "to inquire; by implication, to request…" [HC/Vqq3fs]
+- o2: אִשָּׁה = H802 אִשָּׁה "a woman" [HNcfsa]
+- o3: מִ/שְּׁכֶנְתָּ/הּ = Hm "from" + H7934 שָׁכֵן "a resident; by extension, a fellow-citizen" [HR/Aafsc/Sp3fs]
+- o4: וּ/מִ/גָּרַת = Hc "and" + Hm "from" + H1481 גּוּר "properly…" [HC/R/Vqrfsc]
+- o5: בֵּיתָ/הּ = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc/Sp3fs]
+- o6: כְּלֵי = H3627 כְּלִי "something prepared…" [HNcmpc]
+- o7: כֶסֶף = H3701 כֶּסֶף "silver (from its pale color)…" [HNcmsa]
+- o8: וּ/כְלֵי = Hc "and" + H3627 כְּלִי "something prepared…" [HC/Ncmpc]
+- o9: זָהָב = H2091 זָהָב "gold, figuratively…" [HNcmsa]
+- o10: וּ/שְׂמָלֹת = Hc "and" + H8071 שִׂמְלָה "a dress, especially a mantle" [HC/Ncfpa]
+- o11: וְ/שַׂמְתֶּם = Hc "and" + H7760 שׂוּם "to put (used in a great variety of applications…" [HC/Vqq2mp]
+- o12: עַל = H5921 עַל "above, over, upon…" [HR]
+- o13: בְּנֵי/כֶם = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc/Sp2mp]
+- o14: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o15: בְּנֹתֵי/כֶם = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfpc/Sp2mp]
+- o16: וְ/נִצַּלְתֶּם = Hc "and" + H5337 נָצַל "to snatch away, whether in a good or a bad sense" [HC/Vpq2mp]
+- o17: אֶת = H853 אֵת "properly…" [HTo]
+- o18: מִצְרָיִם = H4713 מִצְרִי "a Mitsrite, or inhabitant of Mitsrajim" [HNp]
+
+### Exodus 4:17 (context)
+
+- o1: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o2: הַ/מַּטֶּה = Hd "the" + H4294 מַטֶּה "a branch (as extending); figuratively, a tribe…" [HTd/Ncmsa]
+- o3: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o4: תִּקַּח = H3947 לָקַח "to take (in the widest variety of applications)" [HVqi2ms]
+- o5: בְּ/יָדֶ/ךָ = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc/Sp2ms]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: תַּעֲשֶׂה = H6213 עָשָׂה "to do or make…" [HVqi2ms]
+- o8: בּ/וֹ = Hb "in" [HR/Sp3ms]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: הָ/אֹתֹת = Hd "the" + H226 אוֹת "a signal (literally or figuratively), as aflag…" [HTd/Ncbpa]

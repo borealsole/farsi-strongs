@@ -1204,3 +1204,32 @@ Persian entries and current tags:
 - p18: بیهوده  → G1432
 - p19: مرد  → G599
 - p20: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Galatians 1:24 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἐδόξαζον = G1392 δοξάζω "make) glorify(-ious), full of (have) glory…" [V-IAI-3P]
+- o3: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o4: ἐμοὶ = G1473 ἐγώ "I, me" [P-1DS]
+- o5: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o6: θεόν. = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-ASM]
+
+### Galatians 3:1 (context)
+
+- o1: Ὦ = G5599 ὦ "O" [INJ]
+- o2: ἀνόητοι = G453 ἀνόητος "fool(-ish), unwise" [A-VPM]
+- o3: Γαλάται, = G1052 Γαλάτης "Galatian" [N-VPM]
+- o4: τίς = G5101 τίς "every man, how (much), + no(-ne, thing)…" [I-NSM]
+- o5: ὑμᾶς = G5210 ὑμεῖς "ye (yourselves), you" [P-2AP]
+- o6: ἐβάσκανεν, = G940 βασκαίνω "bewitch" [V-AAI-3S]
+- o7: οἷς = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-DPM]
+- o8: κατ’ = G2596 κατά "about, according as (to), after, against…" [PREP]
+- o9: ὀφθαλμοὺς = G3788 ὀφθαλμός "eye, sight" [N-APM]
+- o10: Ἰησοῦς = G2424 Ἰησοῦς "Jesus" [N-NSM]
+- o11: Χριστὸς = G5547 Χριστός "Christ" [N-NSM]
+- o12: προεγράφη = G4270 προγράφω "before ordain, evidently set forth, write (afore…" [V-2API-3S]
+- o13: ἐσταυρωμένος; = G4717 σταυρόω "crucify" [V-RPP-NSM]

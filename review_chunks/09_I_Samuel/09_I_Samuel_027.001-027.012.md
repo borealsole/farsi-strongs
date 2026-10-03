@@ -784,3 +784,55 @@ Persian entries and current tags:
 - p25: خواهد_بود
 - p26: .
 - p27: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 26:25 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o5: בָּרוּךְ = H1288 בָרַךְ "to kneel…" [HVqsmsa]
+- o6: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o7: בְּנִ/י = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp1cs]
+- o8: דָוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o9: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o10: עָשֹׂה = H6213 עָשָׂה "to do or make…" [HVqa]
+- o11: תַעֲשֶׂה = H6213 עָשָׂה "to do or make…" [HVqi2ms]
+- o12: וְ/גַם = Hc "and" + H1571 גַּם "properly, assemblage…" [HC/Ta]
+- o13: יָכֹל = H3201 יָכֹל "to be able, literally (can…" [HVqa]
+- o14: תּוּכָל = H3201 יָכֹל "to be able, literally (can…" [HVqi2ms]
+- o15: וַ/יֵּלֶךְ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3ms]
+- o16: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o17: לְ/דַרְכּ/וֹ = Hl "to" + H1870 דֶּרֶךְ "a road (as trodden)…" [HR/Ncbsc/Sp3ms]
+- o18: וְ/שָׁאוּל = Hc "and" + H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HC/Np]
+- o19: שָׁב = H7725 שׁוּב "to turn back (hence…" [HVqp3ms]
+- o20: לִ/מְקוֹמ/וֹ = Hl "to" + H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HR/Ncmsc/Sp3ms]
+
+### I Samuel 28:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: בַּ/יָּמִים = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmpa]
+- o3: הָ/הֵם = Hd "the" + H1992 הֵם "they (only used when emphatic)" [HTd/Pp3mp]
+- o4: וַ/יִּקְבְּצוּ = Hc "and" + H6908 קָבַץ "to grasp, i.e. collect" [HC/Vqw3mp]
+- o5: פְלִשְׁתִּים = H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HNgmpa]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: מַחֲנֵי/הֶם = H4264 מַחֲנֶה "an encampment (of travellers or troops)…" [HNcbpc/Sp3mp]
+- o8: לַ/צָּבָא = Hl "to" + H6635 צָבָא "a mass of persons (or figuratively, things)…" [HRd/Ncbsa]
+- o9: לְ/הִלָּחֵם = Hl "to" + H3898 לָחַם "to feed on; figuratively, to consume…" [HR/VNc]
+- o10: בְּ/יִשְׂרָאֵל = Hb "in" + H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HR/Np]
+- o11: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o12: אָכִישׁ = H397 אֲכִישׁ "Akish, a Philistine king" [HNp]
+- o13: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o14: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o15: יָדֹעַ = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqa]
+- o16: תֵּדַע = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqi2ms]
+- o17: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o18: אִתִּ/י = H854 אֵת "properly…" [HR/Sp1cs]
+- o19: תֵּצֵא = H3318 יָצָא "to go (causatively, bring) out…" [HVqi2ms]
+- o20: בַ/מַּחֲנֶה = Hb "in" + H4264 מַחֲנֶה "an encampment (of travellers or troops)…" [HRd/Ncbsa]
+- o21: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o22: וַ/אֲנָשֶׁי/ךָ = Hc "and" + H376 אִישׁ "a man as an individual or a male person…" [HC/Ncmpc/Sp2ms]

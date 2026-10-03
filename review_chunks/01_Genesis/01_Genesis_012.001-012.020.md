@@ -1041,3 +1041,34 @@ Persian entries and current tags:
 - p19: داشت
 - p20: روانه کردند  → H7971
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 11:32 (context)
+
+- o1: וַ/יִּהְיוּ = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3mp]
+- o2: יְמֵי = H3117 יוֹם "a day (as the warm hours)…" [HNcmpc]
+- o3: תֶרַח = H8646 תֶּרַח "Terach, the father of Abraham…" [HNp]
+- o4: חָמֵשׁ = H2568 חָמֵשׁ "five" [HAcfsa]
+- o5: שָׁנִים = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfpa]
+- o6: וּ/מָאתַיִם = Hc "and" + H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HC/Acbda]
+- o7: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o8: וַ/יָּמָת = Hc "and" + H4191 מוּת "to die (literally or figuratively)…" [HC/Vqw3ms]
+- o9: תֶּרַח = H8646 תֶּרַח "Terach, the father of Abraham…" [HNp]
+- o10: בְּ/חָרָן = Hb "in" + H2771 חָרָן "Charan, the name of a man and also of a place" [HR/Np]
+
+### Genesis 13:1 (context)
+
+- o1: וַ/יַּעַל = Hc "and" + H5927 עָלָה "to ascend…" [HC/Vqw3ms]
+- o2: אַבְרָם = H87 אַבְרָם "Abram, the original name of Abraham" [HNp]
+- o3: מִ/מִּצְרַיִם = Hm "from" + H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HR/Np]
+- o4: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o5: וְ/אִשְׁתּ/וֹ = Hc "and" + H802 אִשָּׁה "a woman" [HC/Ncfsc/Sp3ms]
+- o6: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o8: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o9: וְ/לוֹט = Hc "and" + H3876 לוֹט "Lot, Abraham's nephew" [HC/Np]
+- o10: עִמּ/וֹ = H5973 עִם "adverb or preposition…" [HR/Sp3ms]
+- o11: הַ/נֶּגְבָּ/ה = Hd "the" + H5045 נֶגֶב "the south (from its drought)…" [HTd/Ncmsa/Sd]

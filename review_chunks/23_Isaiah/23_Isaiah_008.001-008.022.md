@@ -1092,3 +1092,50 @@ Persian entries and current tags:
 - p19: افکنده  → H5080
 - p20: خواهند_شد
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 7:25 (context)
+
+- o1: וְ/כֹל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o2: הֶ/הָרִים = Hd "the" + H2022 הַר "a mountain or range of hills (sometimes used…" [HTd/Ncmpa]
+- o3: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o4: בַּ/מַּעְדֵּר = Hb "in" + H4576 מַעְדֵּר "a (weeding) hoe" [HRd/Ncmsa]
+- o5: יֵעָדֵרוּ/ן = H5737 עֲדַר "to arrange as a battle, a vineyard (to hoe)…" [HVNi3mp/Sn]
+- o6: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o7: תָבוֹא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqi2ms]
+- o8: שָׁמָּ/ה = H8033 שָׁם "there (transferring to time) then…" [HD/Sd]
+- o9: יִרְאַת = H3374 יִרְאָה "fear (also used as infinitive); morally, reverence" [HNcfsc]
+- o10: שָׁמִיר = H8068 שָׁמִיר "a thorn…" [HNcmsa]
+- o11: וָ/שָׁיִת = Hc "and" + H7898 שַׁיִת "scrub or trash…" [HC/Ncmsa]
+- o12: וְ/הָיָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3ms]
+- o13: לְ/מִשְׁלַח = Hl "to" + H4916 מִשְׁלוֹחַ "a sending out…" [HR/Ncmsc]
+- o14: שׁוֹר = H7794 שׁוֹר "a bullock (as a traveller)" [HNcmsa]
+- o15: וּ/לְ/מִרְמַס = Hc "and" + Hl "to" + H4823 מִרְמָס "abasement (the act or the thing)" [HC/R/Ncmsc]
+- o16: שֶׂה = H7716 שֶׂה "a member of a flock, i.e. a sheep or goat" [HNcbsa]
+
+### Isaiah 9:1 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o3: מוּעָף = H4155 מוּעָף "properly, covered, i.e. dark…" [HNcmsa]
+- o4: לַ/אֲשֶׁר = Hl "to" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o5: מוּצָק = H4164 מוּצַק "narrowness; figuratively, distress" [HNcmsa]
+- o6: לָ/הּ = Hl "to" [HR/Sp3fs]
+- o7: כָּ/עֵת = Hk "like" + H6256 עֵת "time, especially (adverb with preposition) now…" [HRd/Ncbsa]
+- o8: הָ/רִאשׁוֹן = Hd "the" + H7223 רִאשׁוֹן "first, in place…" [HTd/Aomsa]
+- o9: הֵקַל = H7043 קָלַל "to be (causatively, make) light, literally (swift…" [HVhp3ms]
+- o10: אַרְצָ/ה = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsc/Sd]
+- o11: זְבֻלוּן = H2074 זְבוּלוּן "Zebulon, a son of Jacob…" [HNp]
+- o12: וְ/אַרְצָ/ה = Hc "and" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HC/Ncbsc/Sd]
+- o13: נַפְתָּלִי = H5321 נַפְתָּלִי "Naphtali, a son of Jacob…" [HNp]
+- o14: וְ/הָ/אַחֲרוֹן = Hc "and" + Hd "the" + H314 אַחֲרוֹן "hinder; generally, late or last…" [HC/Td/Aamsa]
+- o15: הִכְבִּיד = H3513 כָּבַד "to be heavy, i.e. in a bad sense (burdensome…" [HVhp3ms]
+- o16: דֶּרֶךְ = H1870 דֶּרֶךְ "a road (as trodden)…" [HNcbsc]
+- o17: הַ/יָּם = Hd "the" + H3220 יָם "a sea (as breaking in noisy surf) or large body…" [HTd/Ncmsa]
+- o18: עֵבֶר = H5676 עֵבֶר "properly, a region across…" [HNcmsc]
+- o19: הַ/יַּרְדֵּן = Hd "the" + H3383 יַרְדֵּן "Jarden, the principal river of Palestine" [HTd/Np]
+- o20: גְּלִיל = H1551 גָּלִיל "Galil (as a special circuit) in the North of…" [HNp]
+- o21: הַ/גּוֹיִם = Hd "the" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HTd/Ncmpa]

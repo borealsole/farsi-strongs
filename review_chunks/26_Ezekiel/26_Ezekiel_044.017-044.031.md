@@ -803,3 +803,48 @@ Persian entries and current tags:
 - p10: را
 - p11: بخورند  → H398
 - p12: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 44:16 (context)
+
+- o1: הֵמָּה = H1992 הֵם "they (only used when emphatic)" [HPp3mp]
+- o2: יָבֹאוּ = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqi3mp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מִקְדָּשִׁ/י = H4720 מִקְדָּשׁ "a consecrated thing or place, especially…" [HNcmsc/Sp1cs]
+- o5: וְ/הֵמָּה = Hc "and" + H1992 הֵם "they (only used when emphatic)" [HC/Pp3mp]
+- o6: יִקְרְבוּ = H7126 קָרַב "to approach (causatively…" [HVqi3mp]
+- o7: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o8: שֻׁלְחָנִ/י = H7979 שֻׁלְחָן "a table (as spread out); by implication, a meal" [HNcmsc/Sp1cs]
+- o9: לְ/שָׁרְתֵ/נִי = Hl "to" + H8334 שָׁרַת "to attend as a menial or worshipper…" [HR/Vpc/Sp1cs]
+- o10: וְ/שָׁמְרוּ = Hc "and" + H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HC/Vqq3cp]
+- o11: אֶת = H853 אֵת "properly…" [HTo]
+- o12: מִשְׁמַרְתִּ/י = H4931 מִשְׁמֶרֶת "watch, i.e. the act (custody)…" [HNcfsc/Sp1cs]
+
+### Ezekiel 45:1 (context)
+
+- o1: וּ/בְ/הַפִּילְ/כֶם = Hc "and" + Hb "in" + H5307 נָפַל "to fall…" [HC/R/Vhc/Sp2mp]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o4: בְּ/נַחֲלָה = Hb "in" + H5159 נַחֲלָה "properly, something inherited…" [HR/Ncfsa]
+- o5: תָּרִימוּ = H7311 רוּם "to be high actively…" [HVhi2mp]
+- o6: תְרוּמָה = H8641 תְּרוּמָה "a present (as offered up)…" [HNcfsa]
+- o7: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o8: קֹדֶשׁ = H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HNcmsa]
+- o9: מִן = H4480 מִן "properly, a part of…" [HR]
+- o10: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o11: אֹרֶךְ = H753 אֹרֶךְ "length" [HNcmsa]
+- o12: חֲמִשָּׁה = H2568 חָמֵשׁ "five" [HAcmsa]
+- o13: וְ/עֶשְׂרִים = Hc "and" + H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HC/Acbpa]
+- o14: אֶלֶף = H505 אֶלֶף "hence (the ox's head being the first letter of…" [HAcbsa]
+- o15: אֹרֶךְ = H753 אֹרֶךְ "length" [HNcmsa]
+- o16: וְ/רֹחַב = Hc "and" + H7341 רֹחַב "width (literally or figuratively)" [HC/Ncmsa]
+- o17: עֲשָׂרָה = H6235 עֶשֶׂר "ten (as an accumulation to the extent of the…" [HAcmsa]
+- o18: אָלֶף = H505 אֶלֶף "hence (the ox's head being the first letter of…" [HAcbsa]
+- o19: קֹדֶשׁ = H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HNcmsa]
+- o20: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o21: בְ/כָל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o22: גְּבוּלָ/הּ = H1366 גְּבוּל "properly, a cord (as twisted)…" [HNcmsc/Sp3fs]
+- o23: סָבִיב = H5439 סָבִיב "as noun) a circle, neighbour, or environs…" [HNcbsa]

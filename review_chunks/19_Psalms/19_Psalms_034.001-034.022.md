@@ -768,3 +768,28 @@ Persian entries and current tags:
 - p15: هرگز  → H3808
 - p16: محکوم نخواهد_شد  → H816
 - p17: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 33:22 (context)
+
+- o1: יְהִי = H1961 הָיָה "to exist, i.e. be or become…" [HVqj3ms]
+- o2: חַסְדְּ/ךָ = H2617 חֵסֵד "kindness; by implication (towards God) piety…" [HNcmsc/Sp2ms]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: עָלֵי/נוּ = H5921 עַל "above, over, upon…" [HR/Sp1cp]
+- o5: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o6: יִחַלְנוּ = H3176 יָחַל "to wait; by implication, to be patient, hope" [HVpp1cp]
+- o7: לָ/ךְ = Hl "to" [HR/Sp2fs]
+
+### Psalms 35:1 (context)
+
+- o1: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o2: רִיבָ/ה = H7378 רִיב "properly, to toss, i.e. grapple…" [HVqv2ms/Sh]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: יְרִיבַ/י = H3401 יָרִיב "literally he will contend…" [HNcmpc/Sp1cs]
+- o6: לְחַם = H3898 לָחַם "to feed on; figuratively, to consume…" [HVqv2ms]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: לֹחֲמָ/י = H3898 לָחַם "to feed on; figuratively, to consume…" [HVqrmpc/Sp1cs]

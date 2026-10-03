@@ -827,3 +827,34 @@ Persian entries and current tags:
 - p33: هستم
 - p34: .
 - p35: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 5:17 (context)
+
+- o1: וְ/שִׁלַּחְתִּי = Hc "and" + H7971 שָׁלַח "to send away, for…" [HC/Vpq1cs]
+- o2: עֲלֵי/כֶם = H5921 עַל "above, over, upon…" [HR/Sp2mp]
+- o3: רָעָב = H7458 רָעָב "hunger (more or less extensive)" [HNcmsa]
+- o4: וְ/חַיָּה = Hc "and" + H2416 חַי "alive; hence, raw (flesh)…" [HC/Ncfsa]
+- o5: רָעָה = H7451 רַע "bad or (as noun) evil (natural or moral)" [HAafsa]
+- o6: וְ/שִׁכְּלֻ/ךְ = Hc "and" + H7921 שָׁכֹל "properly, to miscarry, i.e. suffer abortion…" [HC/Vpq3cp/Sp2fs]
+- o7: וְ/דֶבֶר = Hc "and" + H1698 דֶּבֶר "a pestilence" [HC/Ncmsa]
+- o8: וָ/דָם = Hc "and" + H1818 דָּם "blood (as that which when shed causes death) of…" [HC/Ncmsa]
+- o9: יַעֲבָר = H5674 עָבַר "to cross over…" [HVqi3ms]
+- o10: בָּ/ךְ = Hb "in" [HR/Sp2fs]
+- o11: וְ/חֶרֶב = Hc "and" + H2719 חֶרֶב "drought…" [HC/Ncfsa]
+- o12: אָבִיא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVhi1cs]
+- o13: עָלַיִ/ךְ = H5921 עַל "above, over, upon…" [HR/Sp2fs]
+- o14: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o15: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o16: דִּבַּרְתִּי = H1696 דָבַר "perhaps properly, to arrange…" [HVpp1cs]
+
+### Ezekiel 7:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o5: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

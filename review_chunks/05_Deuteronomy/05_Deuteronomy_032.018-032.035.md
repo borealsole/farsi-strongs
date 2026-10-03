@@ -830,3 +830,41 @@ Persian entries and current tags:
 - p29: می‌شتابد  → H2363
 - p30: .
 - p31: “
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 32:17 (context)
+
+- o1: יִזְבְּחוּ = H2076 זָבַח "to slaughter an animal (usually in sacrifice)" [HVqi3mp]
+- o2: לַ/שֵּׁדִים = Hl "to" + H7700 שֵׁד "a doemon (as malignant)" [HRd/Ncmpa]
+- o3: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o4: אֱלֹהַ = H433 אֱלוֹהַּ "a deity or the Deity" [HNcmsa]
+- o5: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o6: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o7: יְדָעוּ/ם = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqp3cp/Sp3mp]
+- o8: חֲדָשִׁים = H2319 חָדָשׁ "new" [HAampa]
+- o9: מִ/קָּרֹב = Hm "from" + H7138 קָרוֹב "near (in place, kindred or time)" [HR/Aamsa]
+- o10: בָּאוּ = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3cp]
+- o11: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o12: שְׂעָרוּ/ם = H8175 שָׂעַר "to storm; by implication, to shiver, i.e. fear" [HVqp3cp/Sp3mp]
+- o13: אֲבֹתֵי/כֶם = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp2mp]
+
+### Deuteronomy 32:36 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: יָדִין = H1777 דִּין "a straight course, i.e. sail direct" [HVqi3ms]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: עַמּ/וֹ = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp3ms]
+- o5: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o6: עֲבָדָי/ו = H5650 עֶבֶד "a servant" [HNcmpc/Sp3ms]
+- o7: יִתְנֶחָם = H5162 נָחַם "properly, to sigh, i.e. breathe strongly…" [HVti3ms]
+- o8: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o9: יִרְאֶה = H7200 רָאָה "to see…" [HVqi3ms]
+- o10: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o11: אָזְלַת = H235 אָזַל "to go away, hence, to disappear" [HVqp3fs]
+- o12: יָד = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsa]
+- o13: וְ/אֶפֶס = Hc "and" + H657 אֶפֶס "cessation, i.e. an end (especially of the earth)…" [HC/Ncmsa]
+- o14: עָצוּר = H6113 עָצָר "to inclose; by analogy, to hold back…" [HVqsmsa]
+- o15: וְ/עָזוּב = Hc "and" + H5800 עָזַב "to loosen, i.e. relinquish, permit, etc" [HC/Vqsmsa]

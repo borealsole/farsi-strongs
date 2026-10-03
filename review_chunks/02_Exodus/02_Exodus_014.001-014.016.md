@@ -862,3 +862,37 @@ Persian entries and current tags:
 - p26: داخل
 - p27: شوند
 - p28: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 13:22 (context)
+
+- o1: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o2: יָמִישׁ = H4185 מוּשׁ "to withdraw (both literally and figuratively…" [HVqi3ms]
+- o3: עַמּוּד = H5982 עַמּוּד "a column (as standing)…" [HNcmsc]
+- o4: הֶ/עָנָן = Hd "the" + H6051 עָנָן "a cloud (as covering the sky)…" [HTd/Ncmsa]
+- o5: יוֹמָם = H3119 יוֹמָם "daily" [HD]
+- o6: וְ/עַמּוּד = Hc "and" + H5982 עַמּוּד "a column (as standing)…" [HC/Ncmsc]
+- o7: הָ/אֵשׁ = Hd "the" + H784 אֵשׁ "fire (literally or figuratively)" [HTd/Ncbsa]
+- o8: לָיְלָה = H3915 לַיִל "properly, a twist (away of the light), i.e. night…" [HNcmsa]
+- o9: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o10: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+
+### Exodus 14:17 (context)
+
+- o1: וַ/אֲנִי = Hc "and" + H589 אֲנִי "I" [HC/Pp1cs]
+- o2: הִנְ/נִי = H2005 הֵן "lo!; also (as expressing surprise) if" [HTm/Sp1cs]
+- o3: מְחַזֵּק = H2388 חָזַק "to fasten upon…" [HVprmsa]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: לֵב = H3820 לֵב "the heart…" [HNcmsc]
+- o6: מִצְרַיִם = H4713 מִצְרִי "a Mitsrite, or inhabitant of Mitsrajim" [HNp]
+- o7: וְ/יָבֹאוּ = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqi3mp]
+- o8: אַחֲרֵי/הֶם = H310 אַחַר "properly, the hind part…" [HR/Sp3mp]
+- o9: וְ/אִכָּבְדָה = Hc "and" + H3513 כָּבַד "to be heavy, i.e. in a bad sense (burdensome…" [HC/VNh1cs]
+- o10: בְּ/פַרְעֹה = Hb "in" + H6547 פַּרְעֹה "Paroh, a general title of Egyptian kings" [HR/Np]
+- o11: וּ/בְ/כָל = Hc "and" + Hb "in" + H3605 כֹּל "properly, the whole…" [HC/R/Ncmsc]
+- o12: חֵיל/וֹ = H2428 חַיִל "probably a force, whether of men…" [HNcmsc/Sp3ms]
+- o13: בְּ/רִכְבּ/וֹ = Hb "in" + H7393 רֶכֶב "a vehicle; by implication, a team…" [HR/Ncmsc/Sp3ms]
+- o14: וּ/בְ/פָרָשָׁי/ו = Hc "and" + Hb "in" + H6571 פָּרָשׁ "a steed (as stretched out to a vehicle…" [HC/R/Ncmpc/Sp3ms]

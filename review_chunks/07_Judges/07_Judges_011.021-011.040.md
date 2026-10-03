@@ -1150,3 +1150,51 @@ Persian entries and current tags:
 - p16: گرامی
 - p17: می‌داشتند
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Judges 11:20 (context)
+
+- o1: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o2: הֶאֱמִין = H539 אָמַן "properly, to build up or support…" [HVhp3ms]
+- o3: סִיחוֹן = H5511 סִיחוֹן "Sichon, an Amoritish king" [HNp]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o6: עֲבֹר = H5674 עָבַר "to cross over…" [HVqc]
+- o7: בִּ/גְבֻל/וֹ = Hb "in" + H1366 גְּבוּל "properly, a cord (as twisted)…" [HR/Ncmsc/Sp3ms]
+- o8: וַ/יֶּאֱסֹף = Hc "and" + H622 אָסַף "to gather for any purpose…" [HC/Vqw3ms]
+- o9: סִיחוֹן = H5511 סִיחוֹן "Sichon, an Amoritish king" [HNp]
+- o10: אֶת = H853 אֵת "properly…" [HTo]
+- o11: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o12: עַמּ/וֹ = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp3ms]
+- o13: וַ/יַּחֲנוּ = Hc "and" + H2583 חָנָה "properly, to incline…" [HC/Vqw3mp]
+- o14: בְּ/יָהְצָ/ה = Hb "in" + H3096 יַהַץ "Jahats or Jahtsah, a place East of the Jordan" [HR/Np/Sd]
+- o15: וַ/יִּלָּחֶם = Hc "and" + H3898 לָחַם "to feed on; figuratively, to consume…" [HC/VNw3ms]
+- o16: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o17: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+
+### Judges 12:1 (context)
+
+- o1: וַ/יִּצָּעֵק = Hc "and" + H6817 צָעַק "to shriek…" [HC/VNw3ms]
+- o2: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsc]
+- o3: אֶפְרַיִם = H669 אֶפְרַיִם "Ephrajim, a son of Joseph…" [HNp]
+- o4: וַ/יַּעֲבֹר = Hc "and" + H5674 עָבַר "to cross over…" [HC/Vqw3ms]
+- o5: צָפוֹנָ/ה = H6828 צָפוֹן "properly, hidden, i.e. dark…" [HNcfsa/Sd]
+- o6: וַ/יֹּאמְרוּ = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3mp]
+- o7: לְ/יִפְתָּח = Hl "to" + H3316 יִפְתָּח "Jiphtach, an Israelite; also a place in Palestine" [HR/Np]
+- o8: מַדּוּעַ = H4069 מַדּוּעַ "what (is) known?…" [HTi]
+- o9: עָבַרְתָּ = H5674 עָבַר "to cross over…" [HVqp2ms]
+- o10: לְ/הִלָּחֵם = Hl "to" + H3898 לָחַם "to feed on; figuratively, to consume…" [HR/VNc]
+- o11: בִּ/בְנֵי = Hb "in" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmpc]
+- o12: עַמּוֹן = H5983 עַמּוֹן "Ammon, a son of Lot…" [HNp]
+- o13: וְ/לָ/נוּ = Hc "and" + Hl "to" [HC/R/Sp1cp]
+- o14: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o15: קָרָאתָ = H7121 קָרָא "to call out to (i.e. properly, address by name…" [HVqp2ms]
+- o16: לָ/לֶכֶת = Hl "to" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HR/Vqc]
+- o17: עִמָּ/ךְ = H5973 עִם "adverb or preposition…" [HR/Sp2fs]
+- o18: בֵּיתְ/ךָ = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc/Sp2ms]
+- o19: נִשְׂרֹף = H8313 שָׂרַף "to be (causatively, set) on fire" [HVqi1cp]
+- o20: עָלֶי/ךָ = H5921 עַל "above, over, upon…" [HR/Sp2ms]
+- o21: בָּ/אֵשׁ = Hb "in" + H784 אֵשׁ "fire (literally or figuratively)" [HRd/Ncbsa]

@@ -988,3 +988,45 @@ Persian entries and current tags:
 - p35: خانه‌هایشان  → H168
 - p36: رفتند  → H3212
 - p37: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 8:50 (context)
+
+- o1: וְ/סָלַחְתָּ = Hc "and" + H5545 סָלַח "to forgive" [HC/Vqq2ms]
+- o2: לְ/עַמְּ/ךָ = Hl "to" + H5971 עַם "a people (as a congregated unit)…" [HR/Ncmsc/Sp2ms]
+- o3: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o4: חָטְאוּ = H2398 חָטָא "properly, to miss…" [HVqp3cp]
+- o5: לָ/ךְ = Hl "to" [HR/Sp2fs]
+- o6: וּ/לְ/כָל = Hc "and" + Hl "to" + H3605 כֹּל "properly, the whole…" [HC/R/Ncmsc]
+- o7: פִּשְׁעֵי/הֶם = H6588 פֶּשַׁע "a revolt (national, moral or religious)" [HNcmpc/Sp3mp]
+- o8: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o9: פָּשְׁעוּ = H6586 פָּשַׁע "to break away (from just authority)…" [HVqp3cp]
+- o10: בָ/ךְ = Hb "in" [HR/Sp2fs]
+- o11: וּ/נְתַתָּ/ם = Hc "and" + H5414 נָתַן "to give…" [HC/Vqq2ms/Sp3mp]
+- o12: לְ/רַחֲמִים = Hl "to" + H7356 רַחַם "compassion (in the plural)…" [HR/Ncmpa]
+- o13: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o14: שֹׁבֵי/הֶם = H7617 שָׁבָה "to transport into captivity" [HVqrmpc/Sp3mp]
+- o15: וְ/רִחֲמוּ/ם = Hc "and" + H7355 רָחַם "to fondle…" [HC/Vpq3cp/Sp3mp]
+
+### I Kings 9:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: כְּ/כַלּוֹת = Hk "like" + H3615 כָּלָה "to end, whether intransitive (to cease…" [HR/Vpc]
+- o3: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o4: לִ/בְנוֹת = Hl "to" + H1129 בָּנָה "to build (literally and figuratively)" [HR/Vqc]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o9: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o10: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o11: וְ/אֵת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o12: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o13: חֵשֶׁק = H2837 חֵשֶׁק "delight" [HNcmsc]
+- o14: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o15: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o16: חָפֵץ = H2654 חָפֵץ "properly, to incline to…" [HVqp3ms]
+- o17: לַ/עֲשׂוֹת = Hl "to" + H6213 עָשָׂה "to do or make…" [HR/Vqc]

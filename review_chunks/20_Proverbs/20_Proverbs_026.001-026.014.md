@@ -510,3 +510,30 @@ Persian entries and current tags:
 - p7: بر
 - p8: بسترش  → H6102 H4296
 - p9: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 25:28 (context)
+
+- o1: עִיר = H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HNcfsc]
+- o2: פְּרוּצָה = H6555 פָּרַץ "to break out (in many applications…" [HVqsfsa]
+- o3: אֵין = H369 אַיִן "a non-entity…" [HTn]
+- o4: חוֹמָה = H2346 חוֹמָה "a wall of protection" [HNcfsa]
+- o5: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: אֵין = H369 אַיִן "a non-entity…" [HTn]
+- o8: מַעְצָר = H4623 מַעְצָר "subjectively, control" [HNcmsa]
+- o9: לְ/רוּח/וֹ = Hl "to" + H7307 רוּחַ "wind…" [HR/Ncbsc/Sp3ms]
+
+### Proverbs 26:15 (context)
+
+- o1: טָמַן = H2934 טָמַן "to hide (by covering over)" [HVqp3ms]
+- o2: עָצֵל = H6102 עָצֵל "indolent" [HAamsa]
+- o3: יָד/וֹ = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsc/Sp3ms]
+- o4: בַּ/צַּלָּחַת = Hb "in" + H6747 צַלַּחַת "something advanced or deep, i.e. a bowl…" [HRd/Ncfsa]
+- o5: נִלְאָה = H3811 לָאָה "to tire; (figuratively) to be (or make) disgusted" [HVNp3ms]
+- o6: לַ/הֲשִׁיבָ/הּ = Hl "to" + H7725 שׁוּב "to turn back (hence…" [HR/Vhc/Sp3fs]
+- o7: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o8: פִּי/ו = H6310 פֶּה "the mouth (as the means of blowing)…" [HNcmsc/Sp3ms]

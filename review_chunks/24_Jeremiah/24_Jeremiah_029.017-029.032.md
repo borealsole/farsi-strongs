@@ -1002,3 +1002,43 @@ Persian entries and current tags:
 - p52: .
 - p53: “
 - p54: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 29:16 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: כֹה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o3: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o6: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o7: הַ/יּוֹשֵׁב = Hd "the" + H3427 יָשַׁב "properly…" [HTd/Vqrmsa]
+- o8: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o9: כִּסֵּא = H3678 כִּסֵּא "properly, covered, i.e. a throne (as canopied)" [HNcmsc]
+- o10: דָוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o11: וְ/אֶל = Hc "and" + H413 אֵל "near, with or among; often in general, to" [HC/R]
+- o12: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o13: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o14: הַ/יּוֹשֵׁב = Hd "the" + H3427 יָשַׁב "properly…" [HTd/Vqrmsa]
+- o15: בָּ/עִיר = Hb "in" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HRd/Ncfsa]
+- o16: הַ/זֹּאת = Hd "the" + H2063 זֹאת "this (often used adverb)" [HTd/Pdxfs]
+- o17: אֲחֵי/כֶם = H251 אָח "a brother (used in the widest sense of literal…" [HNcmpc/Sp2mp]
+- o18: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o19: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o20: יָצְאוּ = H3318 יָצָא "to go (causatively, bring) out…" [HVqp3cp]
+- o21: אִתְּ/כֶם = H854 אֵת "properly…" [HR/Sp2mp]
+- o22: בַּ/גּוֹלָה = Hb "in" + H1473 גּוֹלָה "exile; concretely and collectively exiles" [HRd/Ncfsa]
+
+### Jeremiah 30:1 (context)
+
+- o1: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]
+- o2: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o3: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o4: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o5: יִרְמְיָהוּ = H3414 יִרְמְיָה "Jirmejah, the name of eight or nine Israelites" [HNp]
+- o6: מֵ/אֵת = Hm "from" + H854 אֵת "properly…" [HR/R]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

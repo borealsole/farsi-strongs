@@ -807,3 +807,36 @@ Persian entries and current tags:
 - p22: بستری  → H5307 H4904
 - p23: شود
 - p24: ،
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 20:26 (context)
+
+- o1: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o2: תַעֲלֶה = H5927 עָלָה "to ascend…" [HVqi2ms]
+- o3: בְ/מַעֲלֹת = Hb "in" + H4609 מַעֲלָה "elevation, i.e. the act (literally…" [HR/Ncfpa]
+- o4: עַל = H5921 עַל "above, over, upon…" [HR]
+- o5: מִזְבְּחִ/י = H4196 מִזְבֵּחַ "an altar" [HNcmsc/Sp1cs]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o8: תִגָּלֶה = H1540 גָּלָה "to denude (especially in a disgraceful sense)…" [HVNi3fs]
+- o9: עֶרְוָתְ/ךָ = H6172 עֶרְוָה "nudity…" [HNcfsc/Sp2ms]
+- o10: עָלָי/ו = H5921 עַל "above, over, upon…" [HR/Sp3ms]
+
+### Exodus 21:19 (context)
+
+- o1: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o2: יָקוּם = H6965 קוּם "to rise (in various applications, literal…" [HVqi3ms]
+- o3: וְ/הִתְהַלֵּךְ = Hc "and" + H1980 הָלַךְ "to walk (in a great variety of applications…" [HC/Vtq3ms]
+- o4: בַּ/חוּץ = Hb "in" + H2351 חוּץ "properly, separate by awall, i.e. outside…" [HRd/Ncmsa]
+- o5: עַל = H5921 עַל "above, over, upon…" [HR]
+- o6: מִשְׁעַנְתּ/וֹ = H4938 מִשְׁעֵנָה "support (abstractly)…" [HNcfsc/Sp3ms]
+- o7: וְ/נִקָּה = Hc "and" + H5352 נָקָה "to be (or make) clean (literally or figuratively)…" [HC/VNq3ms]
+- o8: הַ/מַּכֶּה = Hd "the" + H5221 נָכָה "to strike (lightly or severely…" [HTd/Vhrmsa]
+- o9: רַק = H7535 רַק "properly, leanness…" [HTa]
+- o10: שִׁבְתּ/וֹ = H7674 שֶׁבֶת "rest, interruption, cessation" [HNcfsc/Sp3ms]
+- o11: יִתֵּן = H5414 נָתַן "to give…" [HVqi3ms]
+- o12: וְ/רַפֹּא = Hc "and" + H7495 רָפָא "properly, to mend (by stitching)…" [HC/Vpa]
+- o13: יְרַפֵּא = H7495 רָפָא "properly, to mend (by stitching)…" [HVpi3ms]

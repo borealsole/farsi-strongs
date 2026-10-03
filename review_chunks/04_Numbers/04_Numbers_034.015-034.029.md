@@ -517,3 +517,40 @@ Persian entries and current tags:
 - p13: بنی‌اسرائیل  → H3478
 - p14: تقسیم کنند  → H5157
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 34:14 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: לָקְחוּ = H3947 לָקַח "to take (in the widest variety of applications)" [HVqp3cp]
+- o3: מַטֵּה = H4294 מַטֶּה "a branch (as extending); figuratively, a tribe…" [HNcmsc]
+- o4: בְנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o5: הָ/ראוּבֵנִי = Hd "the" + H7206 רְאוּבֵנִי "a Reubenite or descendant of Reuben" [HTd/Ngmsa]
+- o6: לְ/בֵית = Hl "to" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc]
+- o7: אֲבֹתָ/ם = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp3mp]
+- o8: וּ/מַטֵּה = Hc "and" + H4294 מַטֶּה "a branch (as extending); figuratively, a tribe…" [HC/Ncmsc]
+- o9: בְנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o10: הַ/גָּדִי = Hd "the" + H1425 גָּדִי "a Gadite (collectively) or descendants of Gad" [HTd/Ngmsa]
+- o11: לְ/בֵית = Hl "to" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc]
+- o12: אֲבֹתָ/ם = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp3mp]
+- o13: וַ/חֲצִי = Hc "and" + H2677 חֵצִי "the half or middle" [HC/Ncmsc]
+- o14: מַטֵּה = H4294 מַטֶּה "a branch (as extending); figuratively, a tribe…" [HNcmsc]
+- o15: מְנַשֶּׁה = H4519 מְנַשֶּׁה "Menashsheh, a grandson of Jacob…" [HNp]
+- o16: לָקְחוּ = H3947 לָקַח "to take (in the widest variety of applications)" [HVqp3cp]
+- o17: נַחֲלָתָ/ם = H5159 נַחֲלָה "properly, something inherited…" [HNcfsc/Sp3mp]
+
+### Numbers 35:1 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: בְּ/עַרְבֹת = Hb "in" + H6160 עֲרָבָה "a desert…" [HR/Ncfpc]
+- o6: מוֹאָב = H4124 מוֹאָב "Moab, an incestuous son of Lot…" [HNp]
+- o7: עַל = H5921 עַל "above, over, upon…" [HR]
+- o8: יַרְדֵּן = H3383 יַרְדֵּן "Jarden, the principal river of Palestine" [HNp]
+- o9: יְרֵחוֹ = H3405 יְרִיחוֹ "Jericho or Jerecho, a place in Palestine" [HNp]
+- o10: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

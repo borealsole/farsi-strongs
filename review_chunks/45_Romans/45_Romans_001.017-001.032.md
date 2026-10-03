@@ -870,3 +870,54 @@ Persian entries and current tags:
 - p28: ،
 - p29: تأیید می‌کنند  → G4909
 - p30: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Romans 1:16 (context)
+
+- o1: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o2: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o3: ἐπαισχύνομαι = G1870 ἐπαισχύνομαι "be ashamed" [V-PNI-1S]
+- o4: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o5: εὐαγγέλιον, = G2098 εὐαγγέλιον "gospel" [N-ASN]
+- o6: δύναμις = G1411 δύναμις "ability, abundance, meaning, might(-ily, -y…" [N-NSF]
+- o7: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o8: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o9: ἐστιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o10: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o11: σωτηρίαν = G4991 σωτηρία "deliver, health, salvation, save, saving" [N-ASF]
+- o12: παντὶ = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-DSM]
+- o13: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o14: πιστεύοντι, = G4100 πιστεύω "believe(-r), commit (to trust), put in trust with" [V-PAP-DSM]
+- o15: Ἰουδαίῳ = G2453 Ἰουδαῖος "Jew(-ess), of Judæa" [A-DSM]
+- o16: τε = G5037 τέ "also, and, both, even, then, whether" [PRT]
+- o17: πρῶτον = G4412 πρῶτον "before, at the beginning, chiefly (at…" [ADV-S]
+- o18: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o19: Ἕλληνι. = G1672 Ἕλλην "Gentile, Greek" [N-DSM]
+
+### Romans 2:1 (context)
+
+- o1: Διὸ = G1352 διό "for which cause, therefore, wherefore" [CONJ]
+- o2: ἀναπολόγητος = G379 ἀναπολόγητος "without an excuse, inexcusable" [A-NSM]
+- o3: εἶ, = G1510 εἰμί "am, have been, it is I, was" [V-PAI-2S]
+- o4: ὦ = G5599 ὦ "O" [INJ]
+- o5: ἄνθρωπε = G444 ἄνθρωπος "certain, man" [N-VSM]
+- o6: πᾶς = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-NSM]
+- o7: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o8: κρίνων· = G2919 κρίνω "avenge, conclude, condemn, damn, decree…" [V-PAP-NSM]
+- o9: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o10: ᾧ = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-DSN]
+- o11: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o12: κρίνεις = G2919 κρίνω "avenge, conclude, condemn, damn, decree…" [V-PAI-2S]
+- o13: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o14: ἕτερον, = G2087 ἕτερος "altered, else, next (day), one, (an-)other, some…" [A-ASM]
+- o15: σεαυτὸν = G4572 σεαυτοῦ "thee, thine own self, (thou) thy(-self)" [F-2ASM]
+- o16: κατακρίνεις, = G2632 κατακρίνω "condemn, damn" [V-PAI-2S]
+- o17: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
+- o18: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o19: αὐτὰ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-APN]
+- o20: πράσσεις = G4238 πράσσω "commit, deeds, do, exact, keep, require, use arts" [V-PAI-2S]
+- o21: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o22: κρίνων. = G2919 κρίνω "avenge, conclude, condemn, damn, decree…" [V-PAP-NSM]

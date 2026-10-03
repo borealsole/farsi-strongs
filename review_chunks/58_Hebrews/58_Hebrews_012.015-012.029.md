@@ -791,3 +791,29 @@ Persian entries and current tags:
 - p6: سوزاننده است  → G2654
 - p7: .
 - p8: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Hebrews 12:14 (context)
+
+- o1: εἰρήνην = G1515 εἰρήνη "one, peace, quietness, rest, + set at one again" [N-ASF]
+- o2: διώκετε = G1377 διώκω "ensue, follow (after), given to…" [V-PAM-2P]
+- o3: μετὰ = G3326 μετά "after(-ward), that he again, against, among, and…" [PREP]
+- o4: πάντων, = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-GPM]
+- o5: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o6: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o7: ἁγιασμόν, = G38 ἁγιασμός "holiness, sanctification" [N-ASM]
+- o8: οὗ = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-GSM]
+- o9: χωρὶς = G5565 χωρίς "beside, by itself, without" [ADV]
+- o10: οὐδεὶς = G3762 οὐδείς "any (man), aught, man, neither any (thing)…" [A-NSM-N]
+- o11: ὄψεται = G3708 ὁράω "behold, perceive, see, take heed" [V-FDI-3S]
+- o12: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o13: κύριον, = G2962 κύριος "God, Lord, master, Sir" [N-ASM]
+
+### Hebrews 13:1 (context)
+
+- o1: Ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o2: φιλαδελφία = G5360 φιλαδελφία "brotherly love (kindness), love of the brethren" [N-NSF]
+- o3: μενέτω. = G3306 μένω "abide, continue, dwell, endure, be present…" [V-PAM-3S]

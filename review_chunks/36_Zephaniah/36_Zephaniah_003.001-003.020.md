@@ -1089,3 +1089,31 @@ Persian entries and current tags:
 - p43: فرمودۀ  → H559
 - p44: خداوند  → H3068
 - p45: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Zephaniah 2:15 (context)
+
+- o1: זֹאת = H2063 זֹאת "this (often used adverb)" [HPdxfs]
+- o2: הָ/עִיר = Hd "the" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HTd/Ncfsa]
+- o3: הָ/עַלִּיזָה = Hd "the" + H5947 עַלִּיז "exultant" [HTd/Aafsa]
+- o4: הַ/יּוֹשֶׁבֶת = Hd "the" + H3427 יָשַׁב "properly…" [HTd/Vqrfsa]
+- o5: לָ/בֶטַח = Hl "to" + H983 בֶּטַח "properly, a place of refuge…" [HR/Ncmsa]
+- o6: הָ/אֹמְרָה = Hd "the" + H559 אָמַר "to say (used with great latitude)" [HTd/Vqrfsa]
+- o7: בִּ/לְבָבָ/הּ = Hb "in" + H3824 לֵבָב "the heart (as the most interior organ)" [HR/Ncmsc/Sp3fs]
+- o8: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o9: וְ/אַפְסִ/י = Hc "and" + H657 אֶפֶס "cessation, i.e. an end (especially of the earth)…" [HC/Ncmsc/Sp1cs]
+- o10: עוֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+- o11: אֵיךְ = H349 אֵיךְ "how? or how!; also where" [HTi]
+- o12: הָיְתָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3fs]
+- o13: לְ/שַׁמָּה = Hl "to" + H8047 שַׁמָּה "ruin; by implication, consternation" [HR/Ncfsa]
+- o14: מַרְבֵּץ = H4769 מַרְבֵּץ "a reclining place, i.e. fold (for flocks)" [HNcmsa]
+- o15: לַ/חַיָּה = Hl "to" + H2416 חַי "alive; hence, raw (flesh)…" [HRd/Ncfsa]
+- o16: כֹּל = H3605 כֹּל "properly, the whole…" [HNcmsa]
+- o17: עוֹבֵר = H5674 עָבַר "to cross over…" [HVqrmsa]
+- o18: עָלֶי/הָ = H5921 עַל "above, over, upon…" [HR/Sp3fs]
+- o19: יִשְׁרֹק = H8319 שָׁרַק "properly, to be shrill…" [HVqi3ms]
+- o20: יָנִיעַ = H5128 נוּעַ "to waver, in a great variety of applications…" [HVhi3ms]
+- o21: יָד/וֹ = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsc/Sp3ms]

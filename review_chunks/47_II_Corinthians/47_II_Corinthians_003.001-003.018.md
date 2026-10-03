@@ -907,3 +907,47 @@ Persian entries and current tags:
 - p37: روح  → G4151
 - p38: است
 - p39: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Corinthians 2:17 (context)
+
+- o1: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o2: γάρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o3: ἐσμεν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-1P]
+- o4: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
+- o5: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o6: πολλοὶ = G4183 πολύς "abundant, + altogether, common, + far (passed…" [A-NPM]
+- o7: καπηλεύοντες = G2585 καπηλεύω "corrupt" [V-PAP-NPM]
+- o8: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o9: λόγον = G3056 λόγος "account, cause, communication, concerning…" [N-ASM]
+- o10: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o11: θεοῦ, = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o12: ἀλλ’ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o13: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
+- o14: ἐξ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o15: εἰλικρινίας, = G1505 εἰλικρίνεια "sincerity" [N-GSF]
+- o16: ἀλλ’ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o17: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
+- o18: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o19: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o20: κατέναντι = G2713 κατέναντι "before, over against" [PREP]
+- o21: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o22: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o23: Χριστῷ = G5547 Χριστός "Christ" [N-DSM]
+- o24: λαλοῦμεν. = G2980 λαλέω "preach, say, speak (after), talk, tell, utter" [V-PAI-1P]
+
+### II Corinthians 4:1 (context)
+
+- o1: Διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o2: τοῦτο = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-ASN]
+- o3: ἔχοντες = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAP-NPM]
+- o4: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o5: διακονίαν = G1248 διακονία "ad-)minister(-ing, -tration, -try), office…" [N-ASF]
+- o6: ταύτην, = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-ASF]
+- o7: καθὼς = G2531 καθώς "according to, (according, even) as, how, when" [ADV]
+- o8: ἠλεήθημεν, = G1653 ἐλεέω "have compassion (pity on), have (obtain, receive…" [V-API-1P]
+- o9: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o10: ἐγκακοῦμεν, = G1573 ἐκκακέω "faint, be weary" [V-PAI-1P]

@@ -1141,3 +1141,43 @@ Persian entries and current tags:
 - p45: منحرف  → H5493
 - p46: نشدند  → H3808
 - p47: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 34:16 (context)
+
+- o1: וַ/יָּבֵא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vhw3ms]
+- o2: שָׁפָן = H8227 שָׁפָן "a species of rockrabbit (from its hiding)…" [HNp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: הַ/סֵּפֶר = Hd "the" + H5612 סֵפֶר "properly, writing (the art or a document)…" [HTd/Ncmsa]
+- o5: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o6: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o7: וַ/יָּשֶׁב = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vhw3ms]
+- o8: עוֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o11: דָּבָר = H1697 דָּבָר "a word…" [HNcmsa]
+- o12: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o13: כֹּל = H3605 כֹּל "properly, the whole…" [HNcmsa]
+- o14: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o15: נִתַּן = H5414 נָתַן "to give…" [HVNp3ms]
+- o16: בְּ/יַד = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o17: עֲבָדֶי/ךָ = H5650 עֶבֶד "a servant" [HNcmpc/Sp2ms]
+- o18: הֵם = H1992 הֵם "they (only used when emphatic)" [HPp3mp]
+- o19: עֹשִׂים = H6213 עָשָׂה "to do or make…" [HVqrmpa]
+
+### II Chronicles 35:1 (context)
+
+- o1: וַ/יַּעַשׂ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3ms]
+- o2: יֹאשִׁיָּהוּ = H2977 יֹאשִׁיָּה "Joshijah, the name of two Israelites" [HNp]
+- o3: בִ/ירוּשָׁלִַם = Hb "in" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HR/Np]
+- o4: פֶּסַח = H6453 פֶּסַח "a pretermission, i.e. exemption…" [HNcmsa]
+- o5: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o6: וַ/יִּשְׁחֲטוּ = Hc "and" + H7819 שָׁחַט "to slaughter (in sacrifice or massacre)" [HC/Vqw3mp]
+- o7: הַ/פֶּסַח = Hd "the" + H6453 פֶּסַח "a pretermission, i.e. exemption…" [HTd/Ncmsa]
+- o8: בְּ/אַרְבָּעָה = Hb "in" + H702 אַרְבַּע "four" [HR/Acmsa]
+- o9: עָשָׂר = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcmsa]
+- o10: לַ/חֹדֶשׁ = Hl "to" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HRd/Ncmsa]
+- o11: הָ/רִאשׁוֹן = Hd "the" + H7223 רִאשׁוֹן "first, in place…" [HTd/Aomsa]

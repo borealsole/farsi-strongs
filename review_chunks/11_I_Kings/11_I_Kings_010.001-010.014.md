@@ -834,3 +834,36 @@ Persian entries and current tags:
 - p14: وزنه  → H3603 H2091
 - p15: بود
 - p16: ،
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 9:28 (context)
+
+- o1: וַ/יָּבֹאוּ = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3mp]
+- o2: אוֹפִירָ/ה = H211 אוֹפִיר "Ophir, the name of a son of Joktan…" [HNp/Sd]
+- o3: וַ/יִּקְחוּ = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqw3mp]
+- o4: מִ/שָּׁם = Hm "from" + H8033 שָׁם "there (transferring to time) then…" [HR/D]
+- o5: זָהָב = H2091 זָהָב "gold, figuratively…" [HNcmsa]
+- o6: אַרְבַּע = H702 אַרְבַּע "four" [HAcfsa]
+- o7: מֵאוֹת = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbpa]
+- o8: וְ/עֶשְׂרִים = Hc "and" + H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HC/Acbpa]
+- o9: כִּכָּר = H3603 כִּכָּר "a circle…" [HNcbsa]
+- o10: וַ/יָּבִאוּ = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vhw3mp]
+- o11: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o12: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o13: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+
+### I Kings 10:15 (context)
+
+- o1: לְ/בַד = Hl "to" + H905 בַּד "properly, separation…" [HR/Ncmsa]
+- o2: מֵ/אַנְשֵׁי = Hm "from" + H376 אִישׁ "a man as an individual or a male person…" [HR/Ncmpc]
+- o3: הַ/תָּרִים = Hd "the" + H8446 תּוּר "to meander (causatively, guide) about…" [HTd/Vqrmpa]
+- o4: וּ/מִסְחַר = Hc "and" + H4536 מִסְחָר "trade" [HC/Ncmsc]
+- o5: הָ/רֹכְלִים = Hd "the" + H7402 רָכַל "to travel for trading" [HTd/Vqrmpa]
+- o6: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o7: מַלְכֵי = H4428 מֶלֶךְ "a king" [HNcmpc]
+- o8: הָ/עֶרֶב = Hd "the" + H6152 עֲרָב "Arab (i.e. Arabia), a country East of Palestine" [HTd/Ncmsa]
+- o9: וּ/פַחוֹת = Hc "and" + H6346 פֶּחָה "a prefect (of a city or small district)" [HC/Ncmpc]
+- o10: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]

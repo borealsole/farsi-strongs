@@ -662,3 +662,26 @@ Persian entries and current tags:
 - p21: !
 - p22: هَلِلویاه  → H1984 H3050
 - p23: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 104:18 (context)
+
+- o1: הָרִים = H2022 הַר "a mountain or range of hills (sometimes used…" [HNcmpa]
+- o2: הַ/גְּבֹהִים = Hd "the" + H1364 גָּבֹהַּ "elevated (or elated), powerful, arrogant" [HTd/Aampa]
+- o3: לַ/יְּעֵלִים = Hl "to" + H3277 יָעֵל "an ibex (as climbing)" [HRd/Ncmpa]
+- o4: סְלָעִים = H5553 סֶלַע "a craggy rock…" [HNcmpa]
+- o5: מַחְסֶה = H4268 מַחֲסֶה "a shelter (literally or figuratively)" [HNcmsa]
+- o6: לַ/שְׁפַנִּים = Hl "to" + H8227 שָׁפָן "a species of rockrabbit (from its hiding)…" [HRd/Ncmpa]
+
+### Psalms 105:1 (context)
+
+- o1: הוֹדוּ = H3034 יָדָה "physically, to throw (a stone…" [HVhv2mp]
+- o2: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o3: קִרְאוּ = H7121 קָרָא "to call out to (i.e. properly, address by name…" [HVqv2mp]
+- o4: בִּ/שְׁמ/וֹ = Hb "in" + H8034 שֵׁם "an appellation…" [HR/Ncmsc/Sp3ms]
+- o5: הוֹדִיעוּ = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVhv2mp]
+- o6: בָ/עַמִּים = Hb "in" + H5971 עַם "a people (as a congregated unit)…" [HRd/Ncmpa]
+- o7: עֲלִילוֹתָי/ו = H5949 עֲלִילָה "an exploit (of God), or a performance (of man…" [HNcfpc/Sp3ms]

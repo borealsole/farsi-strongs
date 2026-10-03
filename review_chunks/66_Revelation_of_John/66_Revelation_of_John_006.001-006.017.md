@@ -1136,3 +1136,59 @@ Persian entries and current tags:
 - p13: است  → G1410
 - p14: ؟
 - p15: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Revelation of John 5:14 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPN]
+- o3: τέσσερα = G5064 τέσσαρες "four" [A-NPN]
+- o4: ζῷα = G2226 ζῶον "beast" [N-NPN]
+- o5: ἔλεγον, = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-IAI-3P]
+- o6: ἀμήν· = G281 ἀμήν "amen, verily" [HEB]
+- o7: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o8: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o9: πρεσβύτεροι = G4245 πρεσβύτερος "elder(-est), old" [A-NPM-C]
+- o10: ἔπεσαν = G4098 πίπτω "fail, fall (down), light on" [V-2AAI-3P]
+- o11: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o12: προσεκύνησαν. = G4352 προσκυνέω "worship" [V-AAI-3P]
+
+### Revelation of John 7:1 (context)
+
+- o1: Καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: μετὰ = G3326 μετά "after(-ward), that he again, against, among, and…" [PREP]
+- o3: τοῦτο = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-ASN]
+- o4: ἴδον = G3708 ὁράω "behold, perceive, see, take heed" [V-2AAI-1S]
+- o5: τέσσαρας = G5064 τέσσαρες "four" [A-APM]
+- o6: ἀγγέλους = G32 ἄγγελος "angel, messenger" [N-APM]
+- o7: ἑστῶτας = G2476 ἵστημι "abide, appoint, bring, continue, covenant…" [V-RAP-APM]
+- o8: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o9: τὰς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APF]
+- o10: τέσσαρας = G5064 τέσσαρες "four" [A-APF]
+- o11: γωνίας = G1137 γωνία "corner, quarter" [N-APF]
+- o12: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o13: γῆς, = G1093 γῆ "country, earth(-ly), ground, land, world" [N-GSF]
+- o14: κρατοῦντας = G2902 κρατέω "hold (by, fast), keep, lay hand (hold) on, obtain…" [V-PAP-APM]
+- o15: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o16: τέσσαρας = G5064 τέσσαρες "four" [A-APM]
+- o17: ἀνέμους = G417 ἄνεμος "wind" [N-APM]
+- o18: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o19: γῆς, = G1093 γῆ "country, earth(-ly), ground, land, world" [N-GSF]
+- o20: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o21: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o22: πνέῃ = G4154 πνέω "blow" [V-PAS-3S]
+- o23: ἄνεμος = G417 ἄνεμος "wind" [N-NSM]
+- o24: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o25: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o26: γῆς = G1093 γῆ "country, earth(-ly), ground, land, world" [N-GSF]
+- o27: μήτε = G3383 μήτε "neither, (n-)or, so as much" [CONJ-N]
+- o28: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o29: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o30: θαλάσσης = G2281 θάλασσα "sea" [N-GSF]
+- o31: μήτε = G3383 μήτε "neither, (n-)or, so as much" [CONJ-N]
+- o32: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o33: πᾶν = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-ASN]
+- o34: δένδρον. = G1186 δένδρον "tree" [N-ASN]

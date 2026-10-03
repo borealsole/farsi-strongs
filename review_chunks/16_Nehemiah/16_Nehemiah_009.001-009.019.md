@@ -1218,3 +1218,45 @@ Persian entries and current tags:
 - p45: آنها
 - p46: روشن سازد  → H215
 - p47: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Nehemiah 8:18 (context)
+
+- o1: וַ/יִּקְרָא = Hc "and" + H7121 קָרָא "to call out to (i.e. properly, address by name…" [HC/Vqw3ms]
+- o2: בְּ/סֵפֶר = Hb "in" + H5612 סֵפֶר "properly, writing (the art or a document)…" [HR/Ncmsc]
+- o3: תּוֹרַת = H8451 תּוֹרָה "a precept or statute…" [HNcfsc]
+- o4: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o5: יוֹם = H3117 יוֹם "a day (as the warm hours)…" [HNcmsa]
+- o6: בְּ/יוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmsa]
+- o7: מִן = H4480 מִן "properly, a part of…" [HR]
+- o8: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o9: הָ/רִאשׁוֹן = Hd "the" + H7223 רִאשׁוֹן "first, in place…" [HTd/Aomsa]
+- o10: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o11: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o12: הָ/אַחֲרוֹן = Hd "the" + H314 אַחֲרוֹן "hinder; generally, late or last…" [HTd/Aamsa]
+- o13: וַ/יַּעֲשׂוּ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3mp]
+- o14: חָג = H2282 חַג "a festival, or a victim therefor" [HNcmsa]
+- o15: שִׁבְעַת = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcmsc]
+- o16: יָמִים = H3117 יוֹם "a day (as the warm hours)…" [HNcmpa]
+- o17: וּ/בַ/יּוֹם = Hc "and" + Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HC/Rd/Ncmsa]
+- o18: הַ/שְּׁמִינִי = Hd "the" + H8066 שְׁמִינִי "eight" [HTd/Aomsa]
+- o19: עֲצֶרֶת = H6116 עֲצָרָה "an assembly, especially on afestival or holiday" [HNcfsa]
+- o20: כַּ/מִּשְׁפָּט = Hk "like" + H4941 מִשְׁפָּט "properly…" [HRd/Ncmsa]
+
+### Nehemiah 9:20 (context)
+
+- o1: וְ/רוּחֲ/ךָ = Hc "and" + H7307 רוּחַ "wind…" [HC/Ncbsc/Sp2ms]
+- o2: הַ/טּוֹבָה = Hd "the" + H2896 טוֹב "good (as an adjective) in the widest sense…" [HTd/Aafsa]
+- o3: נָתַתָּ = H5414 נָתַן "to give…" [HVqp2ms]
+- o4: לְ/הַשְׂכִּילָ/ם = Hl "to" + H7919 שָׂכַל "to be (causatively…" [HR/Vhc/Sp3mp]
+- o5: וּ/מַנְ/ךָ = Hc "and" + H4478 מָן "literally a whatness (so to speak)…" [HC/Ncmsc/Sp2ms]
+- o6: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o7: מָנַעְתָּ = H4513 מָנַע "to debar (negatively or positively) from benefit…" [HVqp2ms]
+- o8: מִ/פִּי/הֶם = Hm "from" + H6310 פֶּה "the mouth (as the means of blowing)…" [HR/Ncmsc/Sp3mp]
+- o9: וּ/מַיִם = Hc "and" + H4325 מַיִם "water; figuratively, juice…" [HC/Ncmpa]
+- o10: נָתַתָּה = H5414 נָתַן "to give…" [HVqp2ms]
+- o11: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o12: לִ/צְמָאָ/ם = Hl "to" + H6772 צָמָא "thirst (literally or figuratively)" [HR/Ncmsc/Sp3mp]

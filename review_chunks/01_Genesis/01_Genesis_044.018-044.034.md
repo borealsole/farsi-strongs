@@ -858,3 +858,52 @@ Persian entries and current tags:
 - p26: ندارم
 - p27: .
 - p28: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 44:17 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: חָלִילָ/ה = H2486 חָלִילָה "literal fora profaned thing…" [HTj/Sh]
+- o3: לִּ/י = Hl "to" [HR/Sp1cs]
+- o4: מֵ/עֲשׂוֹת = Hm "from" + H6213 עָשָׂה "to do or make…" [HR/Vqc]
+- o5: זֹאת = H2063 זֹאת "this (often used adverb)" [HPdxfs]
+- o6: הָ/אִישׁ = Hd "the" + H376 אִישׁ "a man as an individual or a male person…" [HTd/Ncmsa]
+- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o8: נִמְצָא = H4672 מָצָא "properly, to come forth to, i.e. appear or exist…" [HVNp3ms]
+- o9: הַ/גָּבִיעַ = Hd "the" + H1375 גְּבִיעַ "a goblet; by analogy, the calyx of aflower" [HTd/Ncmsa]
+- o10: בְּ/יָד/וֹ = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc/Sp3ms]
+- o11: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o12: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o13: לִּ/י = Hl "to" [HR/Sp1cs]
+- o14: עָבֶד = H5650 עֶבֶד "a servant" [HNcmsa]
+- o15: וְ/אַתֶּם = Hc "and" + H859 אַתָּה "thou and thee, or (plural) ye and you" [HC/Pp2mp]
+- o16: עֲלוּ = H5927 עָלָה "to ascend…" [HVqv2mp]
+- o17: לְ/שָׁלוֹם = Hl "to" + H7965 שָׁלוֹם "safe, i.e. (figuratively) well, happy, friendly…" [HR/Ncmsa]
+- o18: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o19: אֲבִי/כֶם = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp2mp]
+
+### Genesis 45:1 (context)
+
+- o1: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o2: יָכֹל = H3201 יָכֹל "to be able, literally (can…" [HVqp3ms]
+- o3: יוֹסֵף = H3130 יוֹסֵף "Joseph, the name of seven Israelites" [HNp]
+- o4: לְ/הִתְאַפֵּק = Hl "to" + H662 אָפַק "to contain, i.e. (reflex.) abstain" [HR/Vtc]
+- o5: לְ/כֹל = Hl "to" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o6: הַ/נִּצָּבִים = Hd "the" + H5324 נָצַב "to station…" [HTd/VNrmpa]
+- o7: עָלָי/ו = H5921 עַל "above, over, upon…" [HR/Sp3ms]
+- o8: וַ/יִּקְרָא = Hc "and" + H7121 קָרָא "to call out to (i.e. properly, address by name…" [HC/Vqw3ms]
+- o9: הוֹצִיאוּ = H3318 יָצָא "to go (causatively, bring) out…" [HVhv2mp]
+- o10: כָל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o11: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o12: מֵ/עָלָ/י = Hm "from" + H5921 עַל "above, over, upon…" [HR/R/Sp1cs]
+- o13: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o14: עָמַד = H5975 עָמַד "to stand…" [HVqp3ms]
+- o15: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o16: אִתּ/וֹ = H854 אֵת "properly…" [HR/Sp3ms]
+- o17: בְּ/הִתְוַדַּע = Hb "in" + H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HR/Vtc]
+- o18: יוֹסֵף = H3130 יוֹסֵף "Joseph, the name of seven Israelites" [HNp]
+- o19: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o20: אֶחָי/ו = H251 אָח "a brother (used in the widest sense of literal…" [HNcmpc/Sp3ms]

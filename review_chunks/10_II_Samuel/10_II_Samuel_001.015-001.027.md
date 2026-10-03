@@ -643,3 +643,46 @@ Persian entries and current tags:
 - p8: تلف شده_است  → H6
 - p9: !
 - p10: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 1:14 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: אֵלָי/ו = H413 אֵל "near, with or among; often in general, to" [HR/Sp3ms]
+- o3: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o4: אֵיךְ = H349 אֵיךְ "how? or how!; also where" [HTi]
+- o5: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o6: יָרֵאתָ = H3372 יָרֵא "to fear; morally, to revere; caus. to frighten" [HVqp2ms]
+- o7: לִ/שְׁלֹחַ = Hl "to" + H7971 שָׁלַח "to send away, for…" [HR/Vqc]
+- o8: יָדְ/ךָ = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsc/Sp2ms]
+- o9: לְ/שַׁחֵת = Hl "to" + H7843 שָׁחַת "to decay…" [HR/Vpc]
+- o10: אֶת = H853 אֵת "properly…" [HTo]
+- o11: מְשִׁיחַ = H4899 מָשִׁיחַ "anointed…" [HNcmsc]
+- o12: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### II Samuel 2:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: אַחֲרֵי = H310 אַחַר "properly, the hind part…" [HR]
+- o3: כֵן = H3651 כֵּן "properly, set upright…" [HD]
+- o4: וַ/יִּשְׁאַל = Hc "and" + H7592 שָׁאַל "to inquire; by implication, to request…" [HC/Vqw3ms]
+- o5: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o6: בַּ/יהוָה = Hb "in" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o7: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o8: הַ/אֶעֱלֶה = Hi "(untranslatable; interrogative particle)" + H5927 עָלָה "to ascend…" [HTi/Vqi1cs]
+- o9: בְּ/אַחַת = Hb "in" + H259 אֶחָד "properly, united, i.e. one…" [HR/Acfsc]
+- o10: עָרֵי = H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HNcfpc]
+- o11: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o12: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o13: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o14: אֵלָי/ו = H413 אֵל "near, with or among; often in general, to" [HR/Sp3ms]
+- o15: עֲלֵה = H5927 עָלָה "to ascend…" [HVqv2ms]
+- o16: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o17: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o18: אָנָה = H575 אָן "where?; hence, whither?, when?…" [HD]
+- o19: אֶעֱלֶה = H5927 עָלָה "to ascend…" [HVqi1cs]
+- o20: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o21: חֶבְרֹנָ/ה = H2275 חֶבְרוֹן "Chebron, a place in Palestine…" [HNp/Sd]

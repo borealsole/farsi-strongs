@@ -775,3 +775,49 @@ Persian entries and current tags:
 - p14: شهر  → H5892
 - p15: بیاورند
 - p16: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 21:23 (context)
+
+- o1: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o2: תָלִין = H3885 לוּן "to stop (usually over night)…" [HVqi3fs]
+- o3: נִבְלָת/וֹ = H5038 נְבֵלָה "a flabby thing…" [HNcfsc/Sp3ms]
+- o4: עַל = H5921 עַל "above, over, upon…" [HR]
+- o5: הָ/עֵץ = Hd "the" + H6086 עֵץ "a tree (from its firmness)…" [HTd/Ncmsa]
+- o6: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o7: קָבוֹר = H6912 קָבַר "to inter" [HVqa]
+- o8: תִּקְבְּרֶ/נּוּ = H6912 קָבַר "to inter" [HVqi2ms/Sp3ms]
+- o9: בַּ/יּוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
+- o10: הַ/הוּא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3ms]
+- o11: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o12: קִלְלַת = H7045 קְלָלָה "vilification" [HNcfsc]
+- o13: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o14: תָּלוּי = H8518 תָּלָה "to suspend (especially to gibbet)" [HVqsmsa]
+- o15: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o16: תְטַמֵּא = H2930 טָמֵא "to be foul…" [HVpi2ms]
+- o17: אֶת = H853 אֵת "properly…" [HTo]
+- o18: אַדְמָתְ/ךָ = H127 אֲדָמָה "soil (from its general redness)" [HNcfsc/Sp2ms]
+- o19: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o20: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o21: אֱלֹהֶי/ךָ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2ms]
+- o22: נֹתֵן = H5414 נָתַן "to give…" [HVqrmsa]
+- o23: לְ/ךָ = Hl "to" [HR/Sp2ms]
+- o24: נַחֲלָה = H5159 נַחֲלָה "properly, something inherited…" [HNcfsa]
+
+### Deuteronomy 22:16 (context)
+
+- o1: וְ/אָמַר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqq3ms]
+- o2: אֲבִי = H1 אָב "father, in a literal and immediate…" [HNcmsc]
+- o3: ה/נער = Hd "the" + H5291 נַעֲרָה "a girl (from infancy to adolescence)" [HTd/Ncfsa]
+- o4: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o5: הַ/זְּקֵנִים = Hd "the" + H2205 זָקֵן "old" [HTd/Aampa]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: בִּתִּ/י = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfsc/Sp1cs]
+- o8: נָתַתִּי = H5414 נָתַן "to give…" [HVqp1cs]
+- o9: לָ/אִישׁ = Hl "to" + H376 אִישׁ "a man as an individual or a male person…" [HRd/Ncmsa]
+- o10: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o11: לְ/אִשָּׁה = Hl "to" + H802 אִשָּׁה "a woman" [HR/Ncfsa]
+- o12: וַ/יִּשְׂנָאֶ/הָ = Hc "and" + H8130 שָׂנֵא "to hate (personally)" [HC/Vqw3ms/Sp3fs]

@@ -1015,3 +1015,50 @@ Persian entries and current tags:
 - p43: خواهی_شد  → H8531
 - p44: .
 - p45: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Daniel 4:37 (context)
+
+- o1: כְּעַן = H3705 כְּעַן "now" [AD]
+- o2: אֲנָה = H576 אֲנָא "I" [APp1cs]
+- o3: נְבוּכַדְנֶצַּר = H5020 נְבוּכַדְנֶצַּר "Nebukadnetstsar (or -retstsar, or -retstsor)…" [ANp]
+- o4: מְשַׁבַּח = H7624 שְׁבַח "to adulate, i.e. adore" [AVprmsa]
+- o5: וּ/מְרוֹמֵם = Hc "and" + H7313 רוּם "to be high actively…" [AC/Vormsa]
+- o6: וּ/מְהַדַּר = Hc "and" + H1922 הֲדַר "to magnify (figuratively)" [AC/Vprmsa]
+- o7: לְ/מֶלֶךְ = Hl "to" + H4430 מֶלֶךְ "a king" [AR/Ncmsc]
+- o8: שְׁמַיָּ/א = H8065 שָׁמַיִן "the sky (as aloft…" [ANcmpd/Td]
+- o9: דִּי = H1768 דִּי "that, used as relative conjunction…" [ATr]
+- o10: כָל = H3606 כֹּל "properly, the whole…" [ANcmsc]
+- o11: מַעֲבָדוֹ/הִי = H4567 מַעְבָד "an act" [ANcmpc/Sp3ms]
+- o12: קְשֹׁט = H7187 קְשׁוֹט "fidelity" [ANcmsa]
+- o13: וְ/אֹרְחָתֵ/הּ = Hc "and" + H735 אֹרַח "a road" [AC/Ncfpc/Sp3ms]
+- o14: דִּין = H1780 דִּין "judgement (the suit, justice…" [ANcmsa]
+- o15: וְ/דִי = Hc "and" + H1768 דִּי "that, used as relative conjunction…" [AC/Tr]
+- o16: מַהְלְכִין = H1981 הֲלַךְ "to walk" [AVarmpa]
+- o17: בְּ/גֵוָה = Hb "in" + H1467 גֵּוָה "exaltation; (figuratively) arrogance" [AR/Ncfsa]
+- o18: יָכִל = H3202 יְכֵל "to be able, literally (can…" [AVqrmsa]
+- o19: לְ/הַשְׁפָּלָה = Hl "to" + H8214 שְׁפַל "to depress or sink (expectation figuratively…" [AR/Vhc]
+
+### Daniel 5:17 (context)
+
+- o1: בֵּ/אדַיִן = Hb "in" + H116 אֱדַיִן "then (of time)" [AR/D]
+- o2: עָנֵה = H6032 עֲנָה "properly, to eye or (generally) to heed…" [AVqrmsa]
+- o3: דָנִיֵּאל = H1841 דָּנִיֵּאל "Danijel, the Hebrew prophet" [ANp]
+- o4: וְ/אָמַר = Hc "and" + H560 אֲמַר "to say (used with great latitude)" [AC/Vqrmsa]
+- o5: קֳדָם = H6925 קֳדָם "before" [AR]
+- o6: מַלְכָּ/א = H4430 מֶלֶךְ "a king" [ANcmsd/Td]
+- o7: מַתְּנָתָ/ךְ = H4978 מַתְּנָא "a present…" [ANcfpc/Sp2ms]
+- o8: לָ/ךְ = Hl "to" [AR/Sp2ms]
+- o9: לֶהֶוְיָן = H1934 הָוָא "to exist…" [AVqi3fp]
+- o10: וּ/נְבָזְבְּיָתָ/ךְ = Hc "and" + H5023 נְבִזְבָּה "a largess" [AC/Ncfpc/Sp2ms]
+- o11: לְ/אָחֳרָן = Hl "to" + H321 אׇחֳרָן "other" [AR/Aamsa]
+- o12: הַב = H3052 יְהַב "to give (whether literal or figurative)…" [AVqv2ms]
+- o13: בְּרַם = H1297 בְּרַם "properly, highly, i.e. surely…" [AD]
+- o14: כְּתָבָ/א = H3792 כְּתָב "something written, i.e. a writing, record or book" [ANcmsd/Td]
+- o15: אֶקְרֵא = H7123 קְרָא "to call out to (i.e. properly, address by name…" [AVqi1cs]
+- o16: לְ/מַלְכָּ/א = Hl "to" + H4430 מֶלֶךְ "a king" [AR/Ncmsd/Td]
+- o17: וּ/פִשְׁרָ/א = Hc "and" + H6591 פְּשַׁר "an interpretation" [AC/Ncmsd/Td]
+- o18: אֲהוֹדְעִנֵּ/הּ = H3046 יְדַע "to know (properly, to ascertain by seeing)…" [AVhi1cs/Sp3ms]

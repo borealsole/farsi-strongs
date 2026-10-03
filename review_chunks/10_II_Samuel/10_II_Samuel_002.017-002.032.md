@@ -918,3 +918,45 @@ Persian entries and current tags:
 - p26: حِبرون  → H2275
 - p27: رسیدند  → H3212
 - p28: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 2:16 (context)
+
+- o1: וַ/יַּחֲזִקוּ = Hc "and" + H2388 חָזַק "to fasten upon…" [HC/Vhw3mp]
+- o2: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o3: בְּ/רֹאשׁ = Hb "in" + H7218 רֹאשׁ "the head (as most easily shaken)…" [HR/Ncmsc]
+- o4: רֵעֵ/הוּ = H7453 רֵעַ "an associate (more or less close)" [HNcmsc/Sp3ms]
+- o5: וְ/חַרְבּ/וֹ = Hc "and" + H2719 חֶרֶב "drought…" [HC/Ncfsc/Sp3ms]
+- o6: בְּ/צַד = Hb "in" + H6654 צַד "a side; figuratively, an adversary" [HR/Ncmsc]
+- o7: רֵעֵ/הוּ = H7453 רֵעַ "an associate (more or less close)" [HNcmsc/Sp3ms]
+- o8: וַ/יִּפְּלוּ = Hc "and" + H5307 נָפַל "to fall…" [HC/Vqw3mp]
+- o9: יַחְדָּו = H3162 יַחַד "properly, a unit, i.e. (adverb) unitedly" [HD]
+- o10: וַ/יִּקְרָא = Hc "and" + H7121 קָרָא "to call out to (i.e. properly, address by name…" [HC/Vqw3ms]
+- o11: לַ/מָּקוֹם = Hl "to" + H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HRd/Ncmsa]
+- o12: הַ/הוּא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3ms]
+- o13: חֶלְקַת = H2521 חֶלְקַת הַצֻּרִים "Chelkath Hats-tsurim, a place in Palestine" [HNp]
+- o14: הַצֻּרִים = H2521 חֶלְקַת הַצֻּרִים "Chelkath Hats-tsurim, a place in Palestine" [HNp]
+- o15: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o16: בְּ/גִבְעוֹן = Hb "in" + H1391 גִּבְעוֹן "Gibon, a place in Palestine" [HR/Np]
+
+### II Samuel 3:1 (context)
+
+- o1: וַ/תְּהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3fs]
+- o2: הַ/מִּלְחָמָה = Hd "the" + H4421 מִלְחָמָה "a battle (i.e. the engagement)…" [HTd/Ncfsa]
+- o3: אֲרֻכָּה = H752 אָרֹךְ "long" [HAafsa]
+- o4: בֵּין = H996 בֵּין "between (repeated before each noun…" [HR]
+- o5: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o6: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o7: וּ/בֵין = Hc "and" + H996 בֵּין "between (repeated before each noun…" [HC/R]
+- o8: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o9: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o10: וְ/דָוִד = Hc "and" + H1732 דָּוִד "David, the youngest son of Jesse" [HC/Np]
+- o11: הֹלֵךְ = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVqrmsa]
+- o12: וְ/חָזֵק = Hc "and" + H2390 חָזֵק "powerful" [HC/Aamsa]
+- o13: וּ/בֵית = Hc "and" + H1004 בַּיִת "a house (in the greatest variation of…" [HC/Ncmsc]
+- o14: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o15: הֹלְכִים = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVqrmpa]
+- o16: וְ/דַלִּים = Hc "and" + H1800 דַּל "properly, dangling…" [HC/Aampa]

@@ -1356,3 +1356,49 @@ Persian entries and current tags:
 - p36: بگذرند
 - p37: .
 - p38: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 50:11 (context)
+
+- o1: הֵן = H2005 הֵן "lo!; also (as expressing surprise) if" [HTm]
+- o2: כֻּלְּ/כֶם = H3605 כֹּל "properly, the whole…" [HNcmsc/Sp2mp]
+- o3: קֹדְחֵי = H6919 קָדַח "to inflame" [HVqrmpc]
+- o4: אֵשׁ = H784 אֵשׁ "fire (literally or figuratively)" [HNcbsa]
+- o5: מְאַזְּרֵי = H247 אָזַר "to belt" [HVprmpc]
+- o6: זִיקוֹת = H2131 זִיקָה "properly, what leaps forth, i.e. flash of fire…" [HNcbpa]
+- o7: לְכוּ = H3212 יָלַךְ "to walk (literally or figuratively)…" [HVqv2mp]
+- o8: בְּ/אוּר = Hb "in" + H217 אוּר "flame…" [HR/Ncmsc]
+- o9: אֶשְׁ/כֶם = H784 אֵשׁ "fire (literally or figuratively)" [HNcbsc/Sp2mp]
+- o10: וּ/בְ/זִיקוֹת = Hc "and" + Hb "in" + H2131 זִיקָה "properly, what leaps forth, i.e. flash of fire…" [HC/R/Ncbpa]
+- o11: בִּעַרְתֶּם = H1197 בָּעַר "to kindle, i.e. consume (by fire or by eating)…" [HVpp2mp]
+- o12: מִ/יָּדִ/י = Hm "from" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc/Sp1cs]
+- o13: הָיְתָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3fs]
+- o14: זֹּאת = H2063 זֹאת "this (often used adverb)" [HPdxfs]
+- o15: לָ/כֶם = Hl "to" [HR/Sp2mp]
+- o16: לְ/מַעֲצֵבָה = Hl "to" + H4620 מַעֲצֵבָה "anguish" [HR/Ncfsa]
+- o17: תִּשְׁכָּבוּ/ן = H7901 שָׁכַב "to lie down (for rest, sexual connection…" [HVqi2mp/Sn]
+
+### Isaiah 52:1 (context)
+
+- o1: עוּרִי = H5782 עוּר "to wake (literally or figuratively)" [HVqv2fs]
+- o2: עוּרִי = H5782 עוּר "to wake (literally or figuratively)" [HVqv2fs]
+- o3: לִבְשִׁי = H3847 לָבַשׁ "properly, wrap around…" [HVqv2fs]
+- o4: עֻזֵּ/ךְ = H5797 עֹז "strength in various applications (force, security…" [HNcmsc/Sp2fs]
+- o5: צִיּוֹן = H6726 צִיּוֹן "Tsijon (as a permanent capital)…" [HNp]
+- o6: לִבְשִׁי = H3847 לָבַשׁ "properly, wrap around…" [HVqv2fs]
+- o7: בִּגְדֵי = H899 בֶּגֶד "a covering, i.e. clothing…" [HNcmpc]
+- o8: תִפְאַרְתֵּ/ךְ = H8597 תִּפְאָרָה "ornament (abstractly or concretely…" [HNcfsc/Sp2fs]
+- o9: יְרוּשָׁלִַם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+- o10: עִיר = H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HNcfsc]
+- o11: הַ/קֹּדֶשׁ = Hd "the" + H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HTd/Ncmsa]
+- o12: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o13: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o14: יוֹסִיף = H3254 יָסַף "to add or augment (often adverbial…" [HVhi3ms]
+- o15: יָבֹא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqi3ms]
+- o16: בָ/ךְ = Hb "in" [HR/Sp2fs]
+- o17: עוֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+- o18: עָרֵל = H6189 עָרֵל "uncircumcised (i.e. still having the prepuce…" [HAamsa]
+- o19: וְ/טָמֵא = Hc "and" + H2931 טָמֵא "foul in a religious sense" [HC/Aamsa]

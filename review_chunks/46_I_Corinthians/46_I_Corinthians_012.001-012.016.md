@@ -776,3 +776,45 @@ Persian entries and current tags:
 - p23: بدن  → G4983
 - p24: نباشد  → G3756
 - p25: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Corinthians 11:34 (context)
+
+- o1: εἴ = G1487 εἰ "forasmuch as, if, that, (al-)though, whether" [COND]
+- o2: τις = G5100 τὶς "a (kind of), any (man, thing, thing at all)…" [X-NSM]
+- o3: πεινᾷ, = G3983 πεινάω "be an hungered" [V-PAI-3S]
+- o4: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o5: οἴκῳ = G3624 οἶκος "home, house(-hold), temple" [N-DSM]
+- o6: ἐσθιέτω, = G2068 ἐσθίω "devour, eat, live" [V-PAM-3S]
+- o7: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o8: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o9: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o10: κρίμα = G2917 κρίμα "avenge, condemned, condemnation, damnation…" [N-ASN]
+- o11: συνέρχησθε. = G4905 συνέρχομαι "accompany, assemble (with), come (together)…" [V-PNS-2P]
+- o12: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
+- o13: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o14: λοιπὰ = G3062 λοιποί "other, which remain, remnant, residue, rest" [A-APN]
+- o15: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
+- o16: ἂν = G302 ἄν "(what-, where-, wither-, who-)soever" [PRT]
+- o17: ἔλθω = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-2AAS-1S]
+- o18: διατάξομαι. = G1299 διατάσσω "appoint, command, give, (set in) order, ordain" [V-FDI-1S]
+
+### I Corinthians 12:17 (context)
+
+- o1: εἰ = G1487 εἰ "forasmuch as, if, that, (al-)though, whether" [COND]
+- o2: ὅλον = G3650 ὅλος "all, altogether, every whit, + throughout, whole" [A-NSN]
+- o3: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o4: σῶμα = G4983 σῶμα "bodily, body, slave" [N-NSN]
+- o5: ὀφθαλμός, = G3788 ὀφθαλμός "eye, sight" [N-NSM]
+- o6: ποῦ = G4226 ποῦ "where, whither" [ADV-I]
+- o7: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o8: ἀκοή; = G189 ἀκοή "audience, ear, fame, which ye heard, hearing…" [N-NSF]
+- o9: εἰ = G1487 εἰ "forasmuch as, if, that, (al-)though, whether" [COND]
+- o10: ὅλον = G3650 ὅλος "all, altogether, every whit, + throughout, whole" [A-NSN]
+- o11: ἀκοή, = G189 ἀκοή "audience, ear, fame, which ye heard, hearing…" [N-NSF]
+- o12: ποῦ = G4226 ποῦ "where, whither" [ADV-I]
+- o13: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o14: ὄσφρησις; = G3750 ὄσφρησις "smelling" [N-NSF]

@@ -717,3 +717,48 @@ Persian entries and current tags:
 - p42: خطاکاران  → H6586
 - p43: شفاعت می‌کند  → H6293
 - p44: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 52:15 (context)
+
+- o1: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o2: יַזֶּה = H5137 נָזָה "to spirt…" [HVhi3ms]
+- o3: גּוֹיִם = H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HNcmpa]
+- o4: רַבִּים = H7227 רַב "abundant (in quantity, size, age, number, rank…" [HAampa]
+- o5: עָלָי/ו = H5921 עַל "above, over, upon…" [HR/Sp3ms]
+- o6: יִקְפְּצוּ = H7092 קָפַץ "to draw together, i.e. close…" [HVqi3mp]
+- o7: מְלָכִים = H4428 מֶלֶךְ "a king" [HNcmpa]
+- o8: פִּי/הֶם = H6310 פֶּה "the mouth (as the means of blowing)…" [HNcmsc/Sp3mp]
+- o9: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o10: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o11: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o12: סֻפַּר = H5608 סָפַר "properly…" [HVPp3ms]
+- o13: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o14: רָאוּ = H7200 רָאָה "to see…" [HVqp3cp]
+- o15: וַ/אֲשֶׁר = Hc "and" + H834 אֲשֶׁר "who, which, what, that…" [HC/Tr]
+- o16: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o17: שָׁמְעוּ = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqp3cp]
+- o18: הִתְבּוֹנָנוּ = H995 בִּין "to separate mentally (or distinguish)…" [HVrp3cp]
+
+### Isaiah 54:1 (context)
+
+- o1: רָנִּי = H7442 רָנַן "properly, to creak (or emit a stridulous sound)…" [HVqv2fs]
+- o2: עֲקָרָה = H6135 עָקָר "sterile (as if extirpated in the generative…" [HAafsa]
+- o3: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o4: יָלָדָה = H3205 יָלַד "to bear young; causatively, to beget…" [HVqp3fs]
+- o5: פִּצְחִי = H6476 פָּצַח "to break out (in joyful sound)" [HVqv2fs]
+- o6: רִנָּה = H7440 רִנָּה "properly, a creaking (or shrill sound)…" [HNcfsa]
+- o7: וְ/צַהֲלִי = Hc "and" + H6670 צָהַל "to gleam, i.e. (figuratively) be cheerful…" [HC/Vqv2fs]
+- o8: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o9: חָלָה = H2342 חוּל "properly…" [HVqp3fs]
+- o10: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o11: רַבִּים = H7227 רַב "abundant (in quantity, size, age, number, rank…" [HAampa]
+- o12: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o13: שׁוֹמֵמָה = H8074 שָׁמֵם "to stun (or intransitively, grow numb)…" [HVqrfsa]
+- o14: מִ/בְּנֵי = Hm "from" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmpc]
+- o15: בְעוּלָה = H1166 בָּעַל "to be master; hence, to marry" [HVqsfsa]
+- o16: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o17: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]

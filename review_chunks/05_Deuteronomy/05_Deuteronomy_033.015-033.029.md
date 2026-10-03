@@ -793,3 +793,41 @@ Persian entries and current tags:
 - p38: خواهی_نهاد  → H1869
 - p39: .
 - p40: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 33:14 (context)
+
+- o1: וּ/מִ/מֶּגֶד = Hc "and" + Hm "from" + H4022 מֶגֶד "properly, a distinguished thing…" [HC/R/Ncmsc]
+- o2: תְּבוּאֹת = H8393 תְּבוּאָה "income, i.e. produce (literally or figuratively)" [HNcfpc]
+- o3: שָׁמֶשׁ = H8121 שֶׁמֶשׁ "the sun; by implication, the east…" [HNcbsa]
+- o4: וּ/מִ/מֶּגֶד = Hc "and" + Hm "from" + H4022 מֶגֶד "properly, a distinguished thing…" [HC/R/Ncmsc]
+- o5: גֶּרֶשׁ = H1645 גֶּרֶשׁ "produce (as if expelled)" [HNcmsc]
+- o6: יְרָחִים = H3391 יֶרַח "a lunation, i.e. month" [HNcmpa]
+
+### Deuteronomy 34:1 (context)
+
+- o1: וַ/יַּעַל = Hc "and" + H5927 עָלָה "to ascend…" [HC/Vqw3ms]
+- o2: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o3: מֵ/עַרְבֹת = Hm "from" + H6160 עֲרָבָה "a desert…" [HR/Ncfpc]
+- o4: מוֹאָב = H4124 מוֹאָב "Moab, an incestuous son of Lot…" [HNp]
+- o5: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o6: הַר = H2022 הַר "a mountain or range of hills (sometimes used…" [HNcmsc]
+- o7: נְבוֹ = H5015 נְבוֹ "Nebo, the name of a Babylonian deity…" [HNp]
+- o8: רֹאשׁ = H7218 רֹאשׁ "the head (as most easily shaken)…" [HNcmsc]
+- o9: הַ/פִּסְגָּה = Hd "the" + H6449 פִּסְגָּה "Pisgah, a Mountain East of Jordan" [HTd/Np]
+- o10: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o11: עַל = H5921 עַל "above, over, upon…" [HR]
+- o12: פְּנֵי = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc]
+- o13: יְרֵחוֹ = H3405 יְרִיחוֹ "Jericho or Jerecho, a place in Palestine" [HNp]
+- o14: וַ/יַּרְאֵ/הוּ = Hc "and" + H7200 רָאָה "to see…" [HC/Vhw3ms/Sp3ms]
+- o15: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o16: אֶת = H853 אֵת "properly…" [HTo]
+- o17: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o18: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o19: אֶת = H853 אֵת "properly…" [HTo]
+- o20: הַ/גִּלְעָד = Hd "the" + H1568 גִּלְעָד "Gilad, a region East of the Jordan…" [HTd/Np]
+- o21: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o22: דָּן = H1835 דָּן "Dan, one of the sons of Jacob…" [HNp]

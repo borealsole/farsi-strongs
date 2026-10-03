@@ -1380,3 +1380,32 @@ Persian entries and current tags:
 - p13: برانگیختن او  → H6470
 - p14: آغاز کرد  → H2490
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Judges 12:15 (context)
+
+- o1: וַ/יָּמָת = Hc "and" + H4191 מוּת "to die (literally or figuratively)…" [HC/Vqw3ms]
+- o2: עַבְדּוֹן = H5658 עַבְדוֹן "Abdon…" [HNp]
+- o3: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o4: הִלֵּל = H1985 הִלֵּל "Hillel, an Israelite" [HNp]
+- o5: הַ/פִּרְעָתוֹנִי = Hd "the" + H6553 פִּרְעָתוֹנִי "a Pirathonite or inhabitant of Pirathon" [HTd/Ngmsa]
+- o6: וַ/יִּקָּבֵר = Hc "and" + H6912 קָבַר "to inter" [HC/VNw3ms]
+- o7: בְּ/פִרְעָתוֹן = Hb "in" + H6552 פִּרְעָתוֹן "Pirathon, a place in Palestine" [HR/Np]
+- o8: בְּ/אֶרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o9: אֶפְרַיִם = H669 אֶפְרַיִם "Ephrajim, a son of Joseph…" [HNp]
+- o10: בְּ/הַר = Hb "in" + H2022 הַר "a mountain or range of hills (sometimes used…" [HR/Ncmsc]
+- o11: הָ/עֲמָלֵקִי = Hd "the" + H6003 עֲמָלֵקִי "an Amalekite (or collectively the Amalekites) or…" [HTd/Ngmsa]
+
+### Judges 14:1 (context)
+
+- o1: וַ/יֵּרֶד = Hc "and" + H3381 יָרַד "to descend (literally, to go downwards…" [HC/Vqw3ms]
+- o2: שִׁמְשׁוֹן = H8123 שִׁמְשׁוֹן "Shimshon, an Israelite" [HNp]
+- o3: תִּמְנָתָ/ה = H8553 תִּמְנָה "Timnah, the name of two places in Palestine" [HNp/Sd]
+- o4: וַ/יַּרְא = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw3ms]
+- o5: אִשָּׁה = H802 אִשָּׁה "a woman" [HNcfsa]
+- o6: בְּ/תִמְנָתָ/ה = Hb "in" + H8553 תִּמְנָה "Timnah, the name of two places in Palestine" [HR/Np/Sd]
+- o7: מִ/בְּנוֹת = Hm "from" + H1323 בַּת "a daughter (used in the same wide sense as other…" [HR/Ncfpc]
+- o8: פְּלִשְׁתִּים = H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HNgmpa]

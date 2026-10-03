@@ -778,3 +778,47 @@ Persian entries and current tags:
 - p20: سرورم  → H113
 - p21: .
 - p22: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 21:15 (context)
+
+- o1: חֲסַר = H2638 חָסֵר "lacking; hence, without" [HAamsc]
+- o2: מְשֻׁגָּעִים = H7696 שָׁגַע "to rave through insanity" [HVPsmpa]
+- o3: אָנִי = H589 אֲנִי "I" [HPp1cs]
+- o4: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o5: הֲבֵאתֶם = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVhp2mp]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: זֶה = H2088 זֶה "the masculine demonstrative pronoun, this or that" [HPdxms]
+- o8: לְ/הִשְׁתַּגֵּעַ = Hl "to" + H7696 שָׁגַע "to rave through insanity" [HR/Vtc]
+- o9: עָלָ/י = H5921 עַל "above, over, upon…" [HR/Sp1cs]
+- o10: הֲ/זֶה = Hi "(untranslatable; interrogative particle)" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTi/Pdxms]
+- o11: יָבוֹא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqi3ms]
+- o12: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o13: בֵּיתִ/י = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc/Sp1cs]
+
+### I Samuel 22:13 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: אל/ו = H413 אֵל "near, with or among; often in general, to" [HR/Sp3ms]
+- o3: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o4: לָ/מָּה = Hl "to" + H4100 מָה "properly…" [HR/Ti]
+- o5: קְשַׁרְתֶּם = H7194 קָשַׁר "to tie, physically (gird, confine…" [HVqp2mp]
+- o6: עָלַ/י = H5921 עַל "above, over, upon…" [HR/Sp1cs]
+- o7: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o8: וּ/בֶן = Hc "and" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/Ncmsc]
+- o9: יִשָׁי = H3448 יִשַׁי "Jishai, David's father" [HNp]
+- o10: בְּ/תִתְּ/ךָ = Hb "in" + H5414 נָתַן "to give…" [HR/Vqc/Sp2ms]
+- o11: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o12: לֶחֶם = H3899 לֶחֶם "food (for man or beast), especially bread…" [HNcbsa]
+- o13: וְ/חֶרֶב = Hc "and" + H2719 חֶרֶב "drought…" [HC/Ncfsa]
+- o14: וְ/שָׁאוֹל = Hc "and" + H7592 שָׁאַל "to inquire; by implication, to request…" [HC/Vqa]
+- o15: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o16: בֵּ/אלֹהִים = Hb "in" + H430 אֱלֹהִים "gods in the ordinary sense…" [HR/Ncmpa]
+- o17: לָ/קוּם = Hl "to" + H6965 קוּם "to rise (in various applications, literal…" [HR/Vqc]
+- o18: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o19: לְ/אֹרֵב = Hl "to" + H693 אָרַב "to lurk" [HR/Vqrmsa]
+- o20: כַּ/יּוֹם = Hk "like" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
+- o21: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]

@@ -711,3 +711,36 @@ Persian entries and current tags:
 - p13: تاریکی  → H2822
 - p14: سودمندتر
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ecclesiastes 1:18 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: בְּ/רֹב = Hb "in" + H7230 רֹב "abundance (in any respect)" [HR/Ncbsc]
+- o3: חָכְמָה = H2451 חׇכְמָה "wisdom (in a good sense)" [HNcfsa]
+- o4: רָב = H7227 רַב "abundant (in quantity, size, age, number, rank…" [HNcmsc]
+- o5: כָּעַס = H3708 כַּעַס "vexation" [HNcmsa]
+- o6: וְ/יוֹסִיף = Hc "and" + H3254 יָסַף "to add or augment (often adverbial…" [HC/Vhi3ms]
+- o7: דַּעַת = H1847 דַּעַת "knowledge" [HNcfsa]
+- o8: יוֹסִיף = H3254 יָסַף "to add or augment (often adverbial…" [HVhi3ms]
+- o9: מַכְאוֹב = H4341 מַכְאֹב "anguish or (figuratively) affliction" [HNcmsa]
+
+### Ecclesiastes 2:14 (context)
+
+- o1: הֶ/חָכָם = Hd "the" + H2450 חָכָם "wise, (i.e. intelligent, skilful or artful)" [HTd/Aamsa]
+- o2: עֵינָי/ו = H5869 עַיִן "an eye (literally or figuratively)…" [HNcbdc/Sp3ms]
+- o3: בְּ/רֹאשׁ/וֹ = Hb "in" + H7218 רֹאשׁ "the head (as most easily shaken)…" [HR/Ncmsc/Sp3ms]
+- o4: וְ/הַ/כְּסִיל = Hc "and" + Hd "the" + H3684 כְּסִיל "properly, fat, i.e. (figuratively) stupid or silly" [HC/Td/Aamsa]
+- o5: בַּ/חֹשֶׁךְ = Hb "in" + H2822 חֹשֶׁךְ "the dark; hence (literally) darkness…" [HRd/Ncmsa]
+- o6: הוֹלֵךְ = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVqrmsa]
+- o7: וְ/יָדַעְתִּי = Hc "and" + H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HC/Vqp1cs]
+- o8: גַם = H1571 גַּם "properly, assemblage…" [HD]
+- o9: אָנִי = H589 אֲנִי "I" [HPp1cs]
+- o10: שֶׁ/מִּקְרֶה = Hs "which" + H4745 מִקְרֶה "something met with, i.e. an accident or fortune" [HTr/Ncmsa]
+- o11: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o12: יִקְרֶה = H7136 קָרָה "to light upon (chiefly by accident)…" [HVqi3ms]
+- o13: אֶת = H853 אֵת "properly…" [HTo]
+- o14: כֻּלָּ/ם = H3605 כֹּל "properly, the whole…" [HNcmsc/Sp3mp]

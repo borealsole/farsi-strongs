@@ -1215,3 +1215,42 @@ Persian entries and current tags:
 - p20: او
 - p21: پادشاه شد  → H4427
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 15:38 (context)
+
+- o1: וַ/יִּשְׁכַּב = Hc "and" + H7901 שָׁכַב "to lie down (for rest, sexual connection…" [HC/Vqw3ms]
+- o2: יוֹתָם = H3147 יוֹתָם "Jotham, the name of three Israelites" [HNp]
+- o3: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o4: אֲבֹתָי/ו = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp3ms]
+- o5: וַ/יִּקָּבֵר = Hc "and" + H6912 קָבַר "to inter" [HC/VNw3ms]
+- o6: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o7: אֲבֹתָי/ו = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp3ms]
+- o8: בְּ/עִיר = Hb "in" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HR/Ncfsc]
+- o9: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o10: אָבִי/ו = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp3ms]
+- o11: וַ/יִּמְלֹךְ = Hc "and" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HC/Vqw3ms]
+- o12: אָחָז = H271 אָחָז "Achaz…" [HNp]
+- o13: בְּנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o14: תַּחְתָּי/ו = H8478 תַּחַת "the bottom (as depressed)…" [HR/Sp3ms]
+
+### II Kings 17:1 (context)
+
+- o1: בִּ/שְׁנַת = Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HR/Ncfsc]
+- o2: שְׁתֵּים = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcfda]
+- o3: עֶשְׂרֵה = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcfsa]
+- o4: לְ/אָחָז = Hl "to" + H271 אָחָז "Achaz…" [HR/Np]
+- o5: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o6: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o7: מָלַךְ = H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HVqp3ms]
+- o8: הוֹשֵׁעַ = H1954 הוֹשֵׁעַ "Hoshea, the name of five Israelites" [HNp]
+- o9: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o10: אֵלָה = H425 אֵלָה "Elah, the name of an Edomite, of four Israelites…" [HNp]
+- o11: בְ/שֹׁמְרוֹן = Hb "in" + H8111 שֹׁמְרוֹן "Shomeron, a place in Palestine" [HR/Np]
+- o12: עַל = H5921 עַל "above, over, upon…" [HR]
+- o13: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o14: תֵּשַׁע = H8672 תֵּשַׁע "nine or (ordinal) ninth" [HAcfsa]
+- o15: שָׁנִים = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfpa]

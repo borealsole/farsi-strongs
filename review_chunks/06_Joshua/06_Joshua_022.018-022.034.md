@@ -1177,3 +1177,44 @@ Persian entries and current tags:
 - p19: خداست  → H430
 - p20: .
 - p21: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Joshua 22:17 (context)
+
+- o1: הַ/מְעַט = Hd "the" + H4592 מְעַט "a little or few (often adverbial or compar.)" [HTi/Aamsa]
+- o2: לָ/נוּ = Hl "to" [HR/Sp1cp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: עֲוֺן = H5771 עָוֺן "perversity, i.e. (moral) evil" [HNcbsc]
+- o5: פְּעוֹר = H6465 פְּעוֹר "Peor, a mountain East of Jordan…" [HNp]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o8: הִטַּהַרְנוּ = H2891 טָהֵר "to be pure (physical sound, clear, unadulterated…" [HVtp1cp]
+- o9: מִמֶּ/נּוּ = H4480 מִן "properly, a part of…" [HR/Sp1cp]
+- o10: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o11: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o12: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o13: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o14: הַ/נֶּגֶף = Hd "the" + H5063 נֶגֶף "a trip (of the foot)…" [HTd/Ncmsa]
+- o15: בַּ/עֲדַת = Hb "in" + H5712 עֵדָה "a stated assemblage (specifically, a concourse…" [HR/Ncfsc]
+- o16: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### Joshua 23:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: מִ/יָּמִים = Hm "from" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmpa]
+- o3: רַבִּים = H7227 רַב "abundant (in quantity, size, age, number, rank…" [HAampa]
+- o4: אַחֲרֵי = H310 אַחַר "properly, the hind part…" [HR]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: הֵנִיחַ = H5117 נוּחַ "to rest, i.e. settle down…" [HVhp3ms]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: לְ/יִשְׂרָאֵל = Hl "to" + H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HR/Np]
+- o9: מִ/כָּל = Hm "from" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o10: אֹיְבֵי/הֶם = H341 אֹיֵב "hating; an adversary" [HVqrmpc/Sp3mp]
+- o11: מִ/סָּבִיב = Hm "from" + H5439 סָבִיב "as noun) a circle, neighbour, or environs…" [HR/Ncbsa]
+- o12: וִ/יהוֹשֻׁעַ = Hc "and" + H3091 יְהוֹשׁוּעַ "Jehoshua (i.e. Joshua), the Jewish leader" [HC/Np]
+- o13: זָקֵן = H2204 זָקֵן "to be old" [HVqp3ms]
+- o14: בָּא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3ms]
+- o15: בַּ/יָּמִים = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmpa]

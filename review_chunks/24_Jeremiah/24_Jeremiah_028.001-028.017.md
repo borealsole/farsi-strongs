@@ -1006,3 +1006,52 @@ Persian entries and current tags:
 - p8: سال  → H8141
 - p9: مرد  → H4191
 - p10: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 27:22 (context)
+
+- o1: בָּבֶלָ/ה = H894 בָּבֶל "Babel (i.e. Babylon)…" [HNp/Sd]
+- o2: יוּבָאוּ = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVHi3mp]
+- o3: וְ/שָׁמָּ/ה = Hc "and" + H8033 שָׁם "there (transferring to time) then…" [HC/D/Sd]
+- o4: יִהְיוּ = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3mp]
+- o5: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o6: יוֹם = H3117 יוֹם "a day (as the warm hours)…" [HNcmsc]
+- o7: פָּקְדִ/י = H6485 פָּקַד "to visit (with friendly or hostile intent)…" [HVqc/Sp1cs]
+- o8: אֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o9: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o10: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o11: וְ/הַעֲלִיתִי/ם = Hc "and" + H5927 עָלָה "to ascend…" [HC/Vhq1cs/Sp3mp]
+- o12: וַ/הֲשִׁיבֹתִי/ם = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vhq1cs/Sp3mp]
+- o13: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o14: הַ/מָּקוֹם = Hd "the" + H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HTd/Ncmsa]
+- o15: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+
+### Jeremiah 29:1 (context)
+
+- o1: וְ/אֵלֶּה = Hc "and" + H428 אֵלֶּה "these or those" [HC/Pdxcp]
+- o2: דִּבְרֵי = H1697 דָּבָר "a word…" [HNcmpc]
+- o3: הַ/סֵּפֶר = Hd "the" + H5612 סֵפֶר "properly, writing (the art or a document)…" [HTd/Ncmsa]
+- o4: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o5: שָׁלַח = H7971 שָׁלַח "to send away, for…" [HVqp3ms]
+- o6: יִרְמְיָה = H3414 יִרְמְיָה "Jirmejah, the name of eight or nine Israelites" [HNp]
+- o7: הַ/נָּבִיא = Hd "the" + H5030 נָבִיא "a prophet or (generally) inspired man" [HTd/Ncmsa]
+- o8: מִ/ירוּשָׁלִָם = Hm "from" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HR/Np]
+- o9: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o10: יֶתֶר = H3499 יֶתֶר "properly, an overhanging…" [HNcmsc]
+- o11: זִקְנֵי = H2205 זָקֵן "old" [HAampc]
+- o12: הַ/גּוֹלָה = Hd "the" + H1473 גּוֹלָה "exile; concretely and collectively exiles" [HTd/Ncfsa]
+- o13: וְ/אֶל = Hc "and" + H413 אֵל "near, with or among; often in general, to" [HC/R]
+- o14: הַ/כֹּהֲנִים = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmpa]
+- o15: וְ/אֶל = Hc "and" + H413 אֵל "near, with or among; often in general, to" [HC/R]
+- o16: הַ/נְּבִיאִים = Hd "the" + H5030 נָבִיא "a prophet or (generally) inspired man" [HTd/Ncmpa]
+- o17: וְ/אֶל = Hc "and" + H413 אֵל "near, with or among; often in general, to" [HC/R]
+- o18: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o19: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o20: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o21: הֶגְלָה = H1540 גָּלָה "to denude (especially in a disgraceful sense)…" [HVhp3ms]
+- o22: נְבוּכַדְנֶאצַּר = H5019 נְבוּכַדְנֶאצַּר "Nebukadnetstsar (or -retstsar, or -retstsor)…" [HNp]
+- o23: מִ/ירוּשָׁלִַם = Hm "from" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HR/Np]
+- o24: בָּבֶלָ/ה = H894 בָּבֶל "Babel (i.e. Babylon)…" [HNp/Sd]

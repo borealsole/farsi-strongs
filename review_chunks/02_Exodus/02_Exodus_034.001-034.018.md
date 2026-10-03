@@ -1016,3 +1016,32 @@ Persian entries and current tags:
 - p34: مصر  → H4714
 - p35: بیرون آمدید  → H3318
 - p36: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 33:23 (context)
+
+- o1: וַ/הֲסִרֹתִי = Hc "and" + H5493 סוּר "to turn off (literal or figurative)" [HC/Vhq1cs]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: כַּפִּ/י = H3709 כַּף "the hollow hand or palm (so of the paw of an…" [HNcfsc/Sp1cs]
+- o4: וְ/רָאִיתָ = Hc "and" + H7200 רָאָה "to see…" [HC/Vqq2ms]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: אֲחֹרָ/י = H268 אָחוֹר "the hinder part; hence (adverb) behind, backward…" [HNcmpc/Sp1cs]
+- o7: וּ/פָנַ/י = Hc "and" + H6440 פָּנִים "the face (as the part that turns)…" [HC/Ncbpc/Sp1cs]
+- o8: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o9: יֵרָאוּ = H7200 רָאָה "to see…" [HVNi3mp]
+
+### Exodus 34:19 (context)
+
+- o1: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o2: פֶּטֶר = H6363 פֶּטֶר "a fissure…" [HNcmsc]
+- o3: רֶחֶם = H7358 רֶחֶם "the womb" [HNcmsa]
+- o4: לִ/י = Hl "to" [HR/Sp1cs]
+- o5: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o6: מִקְנְ/ךָ = H4735 מִקְנֶה "something bought, i.e. property…" [HNcmsc/Sp2ms]
+- o7: תִּזָּכָר = H2142 זָכַר "properly, to mark (so as to be recognized)…" [HVNi3fs]
+- o8: פֶּטֶר = H6363 פֶּטֶר "a fissure…" [HNcmsc]
+- o9: שׁוֹר = H7794 שׁוֹר "a bullock (as a traveller)" [HNcmsa]
+- o10: וָ/שֶׂה = Hc "and" + H7716 שֶׂה "a member of a flock, i.e. a sheep or goat" [HC/Ncbsa]

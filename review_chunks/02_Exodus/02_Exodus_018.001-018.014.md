@@ -785,3 +785,33 @@ Persian entries and current tags:
 - p38: می‌ایستند
 - p39: ؟
 - p40: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 17:16 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o3: יָד = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsa]
+- o4: עַל = H5921 עַל "above, over, upon…" [HR]
+- o5: כֵּס = H3676 כֵּס "a flag; also a sail; by implication, a flagstaff…" [HNcmsc]
+- o6: יָהּ = H3050 יָהּ "Jah, the sacred name" [HNp]
+- o7: מִלְחָמָה = H4421 מִלְחָמָה "a battle (i.e. the engagement)…" [HNcfsa]
+- o8: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o9: בַּ/עֲמָלֵק = Hb "in" + H6002 עֲמָלֵק "Amalek, a descendant of Esau…" [HR/Np]
+- o10: מִ/דֹּר = Hm "from" + H1755 דּוֹר "properly, a revolution of time…" [HR/Ncmsa]
+- o11: דֹּר = H1755 דּוֹר "properly, a revolution of time…" [HNcmsa]
+
+### Exodus 18:15 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o3: לְ/חֹתְנ/וֹ = Hl "to" + H2859 חָתַן "to give (a daughter) away in marriage…" [HR/Vqrmsc/Sp3ms]
+- o4: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o5: יָבֹא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqi3ms]
+- o6: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o7: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o8: לִ/דְרֹשׁ = Hl "to" + H1875 דָּרַשׁ "properly, to tread or frequent…" [HR/Vqc]
+- o9: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]

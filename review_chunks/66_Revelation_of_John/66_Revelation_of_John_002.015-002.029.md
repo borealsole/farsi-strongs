@@ -841,3 +841,72 @@ Persian entries and current tags:
 - p10: چه  → G5101
 - p11: می‌گوید  → G3004
 - p12: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Revelation of John 2:14 (context)
+
+- o1: ἀλλ’ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o2: ἔχω = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAI-1S]
+- o3: κατὰ = G2596 κατά "about, according as (to), after, against…" [PREP]
+- o4: σοῦ = G4771 σύ "thou" [P-2GS]
+- o5: ὀλίγα, = G3641 ὀλίγος "+ almost, brief(-ly), few, (a) little, + long…" [A-APN]
+- o6: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o7: ἔχεις = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAI-2S]
+- o8: ἐκεῖ = G1563 ἐκεῖ "there, thither(-ward), (to) yonder (place)" [ADV]
+- o9: κρατοῦντας = G2902 κρατέω "hold (by, fast), keep, lay hand (hold) on, obtain…" [V-PAP-APM]
+- o10: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o11: διδαχὴν = G1322 διδαχή "doctrine, hath been taught" [N-ASF]
+- o12: Βαλαάμ, = G903 Βαλαάμ "Balaam" [N-PRI]
+- o13: ὃς = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-NSM]
+- o14: ἐδίδασκεν = G1321 διδάσκω "teach" [V-IAI-3S]
+- o15: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o16: Βαλὰκ = G904 Βαλάκ "Balac" [N-PRI]
+- o17: βαλεῖν = G906 βάλλω "arise, cast (out), dung, lay, lie, pour, put (up)…" [V-2AAN]
+- o18: σκάνδαλον = G4625 σκάνδαλον "occasion to fall (of stumbling), offence…" [N-ASN]
+- o19: ἐνώπιον = G1799 ἐνώπιον "before, in the presence (sight) of, to" [PREP]
+- o20: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o21: υἱῶν = G5207 υἱός "child, foal, son" [N-GPM]
+- o22: Ἰσραήλ, = G2474 Ἰσραήλ "Israel" [N-PRI]
+- o23: φαγεῖν = G5315 φάγω "eat, meat" [V-2AAN]
+- o24: εἰδωλόθυτα = G1494 εἰδωλόθυτον "meat, thing that is) offered (in sacrifice…" [A-APN]
+- o25: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o26: πορνεῦσαι. = G4203 πορνεύω "commit (fornication)" [V-AAN]
+
+### Revelation of John 3:1 (context)
+
+- o1: Καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o3: ἀγγέλῳ = G32 ἄγγελος "angel, messenger" [N-DSM]
+- o4: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o5: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o6: Σάρδεσιν = G4554 Σάρδεις "Sardis" [N-DPF]
+- o7: ἐκκλησίας = G1577 ἐκκλησία "assembly, church" [N-GSF]
+- o8: γράψον· = G1125 γράφω "describe, write(-ing, -ten)" [V-AAM-2S]
+- o9: τάδε = G3592 ὅδε "he, she, such, these, thus" [D-APN]
+- o10: λέγει = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-3S]
+- o11: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o12: ἔχων = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAP-NSM]
+- o13: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
+- o14: ἑπτὰ = G2033 ἑπτά "seven" [A-NUI]
+- o15: πνεύματα = G4151 πνεῦμα "ghost, life, spirit(-ual, -ually), mind" [N-APN]
+- o16: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o17: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o18: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o19: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o20: ἑπτὰ = G2033 ἑπτά "seven" [A-NUI]
+- o21: ἀστέρας· = G792 ἀστήρ "star" [N-APM]
+- o22: οἶδά = G1492 εἴδω "be aware, behold, can (+ not tell), consider…" [V-RAI-1S]
+- o23: σου = G4771 σύ "thou" [P-2GS]
+- o24: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
+- o25: ἔργα, = G2041 ἔργον "deed, doing, labour, work" [N-APN]
+- o26: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o27: ὄνομα = G3686 ὄνομα "called, (+ sur-)name(-d)" [N-ASN]
+- o28: ἔχεις = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAI-2S]
+- o29: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o30: ζῇς, = G2198 ζάω "life(-time), (a-)live(-ly), quick" [V-PAI-2S]
+- o31: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o32: νεκρὸς = G3498 νεκρός "dead" [A-NSM]
+- o33: εἶ. = G1510 εἰμί "am, have been, it is I, was" [V-PAI-2S]

@@ -974,3 +974,45 @@ Persian entries and current tags:
 - p41: سر
 - p42: برند
 - p43: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Judges 18:31 (context)
+
+- o1: וַ/יָּשִׂימוּ = Hc "and" + H7760 שׂוּם "to put (used in a great variety of applications…" [HC/Vqw3mp]
+- o2: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: פֶּסֶל = H6459 פֶּסֶל "an idol" [HNcmsc]
+- o5: מִיכָה = H4318 מִיכָה "Micah, the name of seven Israelites" [HNp]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: עָשָׂה = H6213 עָשָׂה "to do or make…" [HVqp3ms]
+- o8: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o9: יְמֵי = H3117 יוֹם "a day (as the warm hours)…" [HNcmpc]
+- o10: הֱיוֹת = H1961 הָיָה "to exist, i.e. be or become…" [HVqc]
+- o11: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o12: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o13: בְּ/שִׁלֹה = Hb "in" + H7887 שִׁילֹה "Shiloh, a place in Palestine" [HR/Np]
+
+### Judges 19:16 (context)
+
+- o1: וְ/הִנֵּה = Hc "and" + H2009 הִנֵּה "lo!" [HC/Tm]
+- o2: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o3: זָקֵן = H2205 זָקֵן "old" [HAamsa]
+- o4: בָּא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqrmsa]
+- o5: מִן = H4480 מִן "properly, a part of…" [HR]
+- o6: מַעֲשֵׂ/הוּ = H4639 מַעֲשֶׂה "an action (good or bad); generally, a transaction…" [HNcmsc/Sp3ms]
+- o7: מִן = H4480 מִן "properly, a part of…" [HR]
+- o8: הַ/שָּׂדֶה = Hd "the" + H7704 שָׂדֶה "a field (as flat)" [HTd/Ncmsa]
+- o9: בָּ/עֶרֶב = Hb "in" + H6153 עֶרֶב "dusk" [HRd/Ncmsa]
+- o10: וְ/הָ/אִישׁ = Hc "and" + Hd "the" + H376 אִישׁ "a man as an individual or a male person…" [HC/Td/Ncmsa]
+- o11: מֵ/הַר = Hm "from" + H2022 הַר "a mountain or range of hills (sometimes used…" [HR/Ncmsc]
+- o12: אֶפְרַיִם = H669 אֶפְרַיִם "Ephrajim, a son of Joseph…" [HNp]
+- o13: וְ/הוּא = Hc "and" + H1931 הוּא "he (she or it)…" [HC/Pp3ms]
+- o14: גָר = H1481 גּוּר "properly…" [HVqrmsa]
+- o15: בַּ/גִּבְעָה = Hb "in" + H1390 גִּבְעָה "Gibah; the name of three places in Palestine" [HRd/Np]
+- o16: וְ/אַנְשֵׁי = Hc "and" + H376 אִישׁ "a man as an individual or a male person…" [HC/Ncmpc]
+- o17: הַ/מָּקוֹם = Hd "the" + H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HTd/Ncmsa]
+- o18: בְּנֵי = H1145 בֶּן־יְמִינִי "a Benjaminite, or descendent of Benjamin" [HNcmpc]
+- o19: יְמִינִי = H1145 בֶּן־יְמִינִי "a Benjaminite, or descendent of Benjamin" [HNgmsa]

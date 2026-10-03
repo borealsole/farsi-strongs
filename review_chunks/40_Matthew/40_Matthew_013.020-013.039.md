@@ -1149,3 +1149,55 @@ Persian entries and current tags:
 - p21: ،
 - p22: فرشتگانند  → G32
 - p23: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 13:19 (context)
+
+- o1: παντὸς = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-GSM]
+- o2: ἀκούοντος = G191 ἀκούω "give (in the) audience (of), come (to the ears)…" [V-PAP-GSM]
+- o3: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o4: λόγον = G3056 λόγος "account, cause, communication, concerning…" [N-ASM]
+- o5: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o6: βασιλείας = G932 βασιλεία "kingdom, + reign" [N-GSF]
+- o7: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o8: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o9: συνιέντος, = G4920 συνίημι "consider, understand, be wise" [V-PAP-GSM]
+- o10: ἔρχεται = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-PNI-3S]
+- o11: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o12: πονηρὸς = G4190 πονηρός "bad, evil, grievous, harm, lewd, malicious…" [A-NSM]
+- o13: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o14: ἁρπάζει = G726 ἁρπάζω "catch (away, up), pluck, pull, take (by force)" [V-PAI-3S]
+- o15: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o16: ἐσπαρμένον = G4687 σπείρω "sow(- er), receive seed" [V-2RPP-ASN]
+- o17: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o18: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o19: καρδίᾳ = G2588 καρδία "(+ broken-)heart(-ed)" [N-DSF]
+- o20: αὐτοῦ· = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o21: οὗτός = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-NSM]
+- o22: ἐστιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o23: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o24: παρὰ = G3844 παρά "above, against, among, at, before, by…" [PREP]
+- o25: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o26: ὁδὸν = G3598 ὁδός "journey, (high-)way" [N-ASF]
+- o27: σπαρείς. = G4687 σπείρω "sow(- er), receive seed" [V-2APP-NSM]
+
+### Matthew 13:40 (context)
+
+- o1: ὥσπερ = G5618 ὥσπερ "(even, like) as" [ADV]
+- o2: οὖν = G3767 οὖν "and (so, truly), but, now (then)…" [CONJ]
+- o3: συλλέγεται = G4816 συλλέγω "gather (together, up)" [V-PPI-3S]
+- o4: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPN]
+- o5: ζιζάνια = G2215 ζιζάνιον "tares" [N-NPN]
+- o6: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o7: πυρὶ = G4442 πῦρ "fiery, fire" [N-DSN]
+- o8: κατακαίεται, = G2618 κατακαίω "burn (up, utterly)" [V-PPI-3S]
+- o9: οὕτως = G3779 οὕτω "after that, after (in) this manner, as, even (so)…" [ADV]
+- o10: ἔσται = G1510 εἰμί "am, have been, it is I, was" [V-FDI-3S]
+- o11: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o12: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o13: συντελείᾳ = G4930 συντέλεια "end" [N-DSF]
+- o14: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o15: αἰῶνος· = G165 αἰών "age, course, eternal, (for) ever(-more), (n-)ever…" [N-GSM]

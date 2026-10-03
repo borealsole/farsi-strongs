@@ -945,3 +945,30 @@ Persian entries and current tags:
 - p32: زایل
 - p33: نخواهد_شد  → H3809 H2255
 - p34: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Daniel 6:28 (context)
+
+- o1: וְ/דָנִיֵּאל = Hc "and" + H1841 דָּנִיֵּאל "Danijel, the Hebrew prophet" [AC/Np]
+- o2: דְּנָה = H1836 דֵּן "this" [APdxms]
+- o3: הַצְלַח = H6744 צְלַח "to advance (transitive or intransitive)" [AVhp3ms]
+- o4: בְּ/מַלְכוּת = Hb "in" + H4437 מַלְכוּ "dominion (abstractly or concretely)" [AR/Ncfsc]
+- o5: דָּרְיָוֶשׁ = H1868 דָּרְיָוֵשׁ "Darejavesh…" [ANp]
+- o6: וּ/בְ/מַלְכוּת = Hc "and" + Hb "in" + H4437 מַלְכוּ "dominion (abstractly or concretely)" [AC/R/Ncfsc]
+- o7: כּוֹרֶשׁ = H3567 כּוֹרֶשׁ "Koresh (or Cyrus), the Persian king" [ANp]
+- o8: פרסי/א = H6543 פַּרְסִי "a Parsite (i.e. Persian), or inhabitant of Peres" [ANgmsd/Td]
+
+### Daniel 7:15 (context)
+
+- o1: אֶתְכְּרִיַּת = H3735 כָּרָא "to grieve" [AVip3fs]
+- o2: רוּחִ/י = H7308 רוּחַ "wind…" [ANcfsc/Sp1cs]
+- o3: אֲנָה = H576 אֲנָא "I" [APp1cs]
+- o4: דָנִיֵּאל = H1841 דָּנִיֵּאל "Danijel, the Hebrew prophet" [ANp]
+- o5: בְּ/גוֹא = Hb "in" + H1459 גַּו "the middle" [AR/Ncmsc]
+- o6: נִדְנֶה = H5085 נִדְנֶה "a sheath…" [ANcmsa]
+- o7: וְ/חֶזְוֵי = Hc "and" + H2376 חֵזֵו "a sight" [AC/Ncmpc]
+- o8: רֵאשִׁ/י = H7217 רֵאשׁ "the head; figuratively, the sum" [ANcmsc/Sp1cs]
+- o9: יְבַהֲלֻנַּ/נִי = H927 בְּהַל "to terrify, hasten" [AVpi3mp/Sp1cs]

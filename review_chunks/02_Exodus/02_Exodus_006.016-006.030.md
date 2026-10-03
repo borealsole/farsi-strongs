@@ -690,3 +690,38 @@ Persian entries and current tags:
 - p20: فرا~خواهد داد  → H8085
 - p21: ؟
 - p22: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 6:15 (context)
+
+- o1: וּ/בְנֵי = Hc "and" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/Ncmpc]
+- o2: שִׁמְעוֹן = H8095 שִׁמְעוֹן "Shimon, one of Jacob's sons…" [HNp]
+- o3: יְמוּאֵל = H3223 יְמוּאֵל "Jemuel, an Israelite" [HNp]
+- o4: וְ/יָמִין = Hc "and" + H3226 יָמִין "Jamin, the name of three Israelites" [HC/Np]
+- o5: וְ/אֹהַד = Hc "and" + H161 אֹהַד "Ohad, an Israelite" [HC/Np]
+- o6: וְ/יָכִין = Hc "and" + H3199 יָכִין "Jakin…" [HC/Np]
+- o7: וְ/צֹחַר = Hc "and" + H6714 צֹחַר "Tsochar, the name of a Hittite and of an Israelite" [HC/Np]
+- o8: וְ/שָׁאוּל = Hc "and" + H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HC/Np]
+- o9: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o10: הַ/כְּנַעֲנִית = Hd "the" + H3669 כְּנַעַנִי "a Kenaanite or inhabitant of Kenaan…" [HTd/Ngfsa]
+- o11: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o12: מִשְׁפְּחֹת = H4940 מִשְׁפָּחָה "a family, i.e. circle of relatives…" [HNcfpc]
+- o13: שִׁמְעוֹן = H8095 שִׁמְעוֹן "Shimon, one of Jacob's sons…" [HNp]
+
+### Exodus 7:1 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: רְאֵה = H7200 רָאָה "to see…" [HVqv2ms]
+- o6: נְתַתִּי/ךָ = H5414 נָתַן "to give…" [HVqp1cs/Sp2ms]
+- o7: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o8: לְ/פַרְעֹה = Hl "to" + H6547 פַּרְעֹה "Paroh, a general title of Egyptian kings" [HR/Np]
+- o9: וְ/אַהֲרֹן = Hc "and" + H175 אַהֲרוֹן "Aharon, the brother of Moses" [HC/Np]
+- o10: אָחִי/ךָ = H251 אָח "a brother (used in the widest sense of literal…" [HNcmsc/Sp2ms]
+- o11: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o12: נְבִיאֶ/ךָ = H5030 נָבִיא "a prophet or (generally) inspired man" [HNcmsc/Sp2ms]

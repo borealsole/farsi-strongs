@@ -472,3 +472,26 @@ Persian entries and current tags:
 - p15: جاودانه  → H5769 H2617
 - p16: است  → H5769
 - p17: ؛
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 135:21 (context)
+
+- o1: בָּרוּךְ = H1288 בָרַךְ "to kneel…" [HVqsmsa]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: מִ/צִּיּוֹן = Hm "from" + H6726 צִיּוֹן "Tsijon (as a permanent capital)…" [HR/Np]
+- o4: שֹׁכֵן = H7931 שָׁכַן "to reside or permanently stay (literally or…" [HVqrmsa]
+- o5: יְרוּשָׁלִָם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+- o6: הַלְלוּ = H1984 הָלַל "to be clear (orig. of sound…" [HVpv2mp]
+- o7: יָהּ = H3050 יָהּ "Jah, the sacred name" [HNp]
+
+### Psalms 136:14 (context)
+
+- o1: וְ/הֶעֱבִיר = Hc "and" + H5674 עָבַר "to cross over…" [HC/Vhp3ms]
+- o2: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o3: בְּ/תוֹכ/וֹ = Hb "in" + H8432 תָּוֶךְ "a bisection, i.e. (by implication) the centre" [HR/Ncmsc/Sp3ms]
+- o4: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o5: לְ/עוֹלָם = Hl "to" + H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HR/Ncmsa]
+- o6: חַסְדּ/וֹ = H2617 חֵסֵד "kindness; by implication (towards God) piety…" [HNcmsc/Sp3ms]

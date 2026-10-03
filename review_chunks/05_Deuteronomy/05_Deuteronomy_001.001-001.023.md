@@ -1238,3 +1238,19 @@ Persian entries and current tags:
 - p18: قبیله  → H7626
 - p19: گرفتم  → H3947
 - p20: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 1:24 (context)
+
+- o1: וַ/יִּפְנוּ = Hc "and" + H6437 פָּנָה "to turn…" [HC/Vqw3mp]
+- o2: וַ/יַּעֲלוּ = Hc "and" + H5927 עָלָה "to ascend…" [HC/Vqw3mp]
+- o3: הָ/הָרָ/ה = Hd "the" + H2022 הַר "a mountain or range of hills (sometimes used…" [HTd/Ncmsa/Sd]
+- o4: וַ/יָּבֹאוּ = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3mp]
+- o5: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o6: נַחַל = H5158 נַחַל "a stream, especially a winter torrent…" [HNcmsc]
+- o7: אֶשְׁכֹּל = H812 אֶשְׁכֹּל "Eshcol, the name of an Amorite…" [HNp]
+- o8: וַ/יְרַגְּלוּ = Hc "and" + H7270 רָגַל "to walk along…" [HC/Vpw3mp]
+- o9: אֹתָ/הּ = H853 אֵת "properly…" [HTo/Sp3fs]

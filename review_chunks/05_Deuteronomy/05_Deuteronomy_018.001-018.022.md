@@ -1113,3 +1113,49 @@ Persian entries and current tags:
 - p34: او
 - p35: مترسید
 - p36: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 17:20 (context)
+
+- o1: לְ/בִלְתִּי = Hl "to" + H1115 בִּלְתִּי "properly, a failure of…" [HR/C]
+- o2: רוּם = H7311 רוּם "to be high actively…" [HVqc]
+- o3: לְבָב/וֹ = H3824 לֵבָב "the heart (as the most interior organ)" [HNcmsc/Sp3ms]
+- o4: מֵ/אֶחָי/ו = Hm "from" + H251 אָח "a brother (used in the widest sense of literal…" [HR/Ncmpc/Sp3ms]
+- o5: וּ/לְ/בִלְתִּי = Hc "and" + Hl "to" + H1115 בִּלְתִּי "properly, a failure of…" [HC/R/C]
+- o6: סוּר = H5493 סוּר "to turn off (literal or figurative)" [HVqc]
+- o7: מִן = H4480 מִן "properly, a part of…" [HR]
+- o8: הַ/מִּצְוָה = Hd "the" + H4687 מִצְוָה "a command, whether human or divine (collectively…" [HTd/Ncfsa]
+- o9: יָמִין = H3225 יָמִין "the right hand or side (leg…" [HNcfsa]
+- o10: וּ/שְׂמֹאול = Hc "and" + H8040 שְׂמֹאול "properly, dark (as enveloped), i.e. the north…" [HC/Ncmsa]
+- o11: לְמַעַן = H4616 מַעַן "properly, heed, i.e. purpose…" [HR]
+- o12: יַאֲרִיךְ = H748 אָרַךְ "to be (causative…" [HVhi3ms]
+- o13: יָמִים = H3117 יוֹם "a day (as the warm hours)…" [HNcmpa]
+- o14: עַל = H5921 עַל "above, over, upon…" [HR]
+- o15: מַמְלַכְתּ/וֹ = H4467 מַמְלָכָה "dominion…" [HNcfsc/Sp3ms]
+- o16: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o17: וּ/בָנָי/ו = Hc "and" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/Ncmpc/Sp3ms]
+- o18: בְּ/קֶרֶב = Hb "in" + H7130 קֶרֶב "properly, the nearest part, i.e. the center…" [HR/Ncmsc]
+- o19: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+
+### Deuteronomy 19:1 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: יַכְרִית = H3772 כָּרַת "to cut (off, down or asunder)…" [HVhi3ms]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֱלֹהֶי/ךָ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2ms]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: הַ/גּוֹיִם = Hd "the" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HTd/Ncmpa]
+- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o8: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o9: אֱלֹהֶי/ךָ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2ms]
+- o10: נֹתֵן = H5414 נָתַן "to give…" [HVqrmsa]
+- o11: לְ/ךָ = Hl "to" [HR/Sp2ms]
+- o12: אֶת = H853 אֵת "properly…" [HTo]
+- o13: אַרְצָ/ם = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsc/Sp3mp]
+- o14: וִ/ירִשְׁתָּ/ם = Hc "and" + H3423 יָרַשׁ "to occupy (by driving out previous tenants…" [HC/Vqq2ms/Sp3mp]
+- o15: וְ/יָשַׁבְתָּ = Hc "and" + H3427 יָשַׁב "properly…" [HC/Vqq2ms]
+- o16: בְ/עָרֵי/הֶם = Hb "in" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HR/Ncfpc/Sp3mp]
+- o17: וּ/בְ/בָתֵּי/הֶם = Hc "and" + Hb "in" + H1004 בַּיִת "a house (in the greatest variation of…" [HC/R/Ncmpc/Sp3mp]

@@ -616,3 +616,31 @@ Persian entries and current tags:
 - p13: خداوند  → H3068
 - p14: می‌آید
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 16:16 (context)
+
+- o1: קְנֹה = H7069 קָנָה "to erect, i.e. create…" [HVqc]
+- o2: חָכְמָה = H2451 חׇכְמָה "wisdom (in a good sense)" [HNcfsa]
+- o3: מַה = H4100 מָה "properly…" [HTi]
+- o4: טּוֹב = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAamsa]
+- o5: מֵ/חָרוּץ = Hm "from" + H2742 חֲרוּץ "properly, incised or (active) incisive…" [HR/Ncmsa]
+- o6: וּ/קְנוֹת = Hc "and" + H7069 קָנָה "to erect, i.e. create…" [HC/Vqc]
+- o7: בִּינָה = H998 בִּינָה "understanding" [HNcfsa]
+- o8: נִבְחָר = H977 בָּחַר "properly, to try, i.e. (by implication) select" [HVNrmsa]
+- o9: מִ/כָּסֶף = Hm "from" + H3701 כֶּסֶף "silver (from its pale color)…" [HR/Ncmsa]
+
+### Proverbs 17:1 (context)
+
+- o1: טוֹב = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAamsa]
+- o2: פַּת = H6595 פַּת "a bit" [HNcfsa]
+- o3: חֲרֵבָה = H2720 חָרֵב "parched or ruined" [HAafsa]
+- o4: וְ/שַׁלְוָה = Hc "and" + H7962 שַׁלְוָה "security (genuine or false)" [HC/Ncfsa]
+- o5: בָ/הּ = Hb "in" [HR/Sp3fs]
+- o6: מִ/בַּיִת = Hm "from" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsa]
+- o7: מָלֵא = H4392 מָלֵא "full (literally or figuratively) or filling…" [HAamsa]
+- o8: זִבְחֵי = H2077 זֶבַח "properly, a slaughter…" [HNcmpc]
+- o9: רִיב = H7379 רִיב "a contest (personal or legal)" [HNcbsa]

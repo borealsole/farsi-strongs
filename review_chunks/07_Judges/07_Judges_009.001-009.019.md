@@ -1079,3 +1079,47 @@ Persian entries and current tags:
 - p22: شما
 - p23: شاد باشد  → H8055
 - p24: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Judges 8:35 (context)
+
+- o1: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o2: עָשׂוּ = H6213 עָשָׂה "to do or make…" [HVqp3cp]
+- o3: חֶסֶד = H2617 חֵסֵד "kindness; by implication (towards God) piety…" [HNcmsa]
+- o4: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o5: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o6: יְרֻבַּעַל = H3378 יְרֻבַּעַל "Jerubbaal, a symbolic name of Gideon" [HNp]
+- o7: גִּדְעוֹן = H1439 גִּדְעוֹן "Gidon, an Israelite" [HNp]
+- o8: כְּ/כָל = Hk "like" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o9: הַ/טּוֹבָה = Hd "the" + H2896 טוֹב "good (as an adjective) in the widest sense…" [HTd/Aafsa]
+- o10: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o11: עָשָׂה = H6213 עָשָׂה "to do or make…" [HVqp3ms]
+- o12: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o13: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+
+### Judges 9:20 (context)
+
+- o1: וְ/אִם = Hc "and" + H518 אִם "used very widely as demonstrative, lo!…" [HC/C]
+- o2: אַיִן = H369 אַיִן "a non-entity…" [HTn]
+- o3: תֵּצֵא = H3318 יָצָא "to go (causatively, bring) out…" [HVqi3fs]
+- o4: אֵשׁ = H784 אֵשׁ "fire (literally or figuratively)" [HNcbsa]
+- o5: מֵ/אֲבִימֶלֶךְ = Hm "from" + H40 אֲבִימֶלֶךְ "Abimelek…" [HR/Np]
+- o6: וְ/תֹאכַל = Hc "and" + H398 אָכַל "to eat (literally or figuratively)" [HC/Vqi3fs]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: בַּעֲלֵי = H1167 בַּעַל "a master…" [HNcmpc]
+- o9: שְׁכֶם = H7927 שְׁכֶם "Shekem, a place in Palestine" [HNp]
+- o10: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o11: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o12: מִלּוֹא = H4407 מִלּוֹא "a rampart (as filled in), i.e. the citadel" [HNp]
+- o13: וְ/תֵצֵא = Hc "and" + H3318 יָצָא "to go (causatively, bring) out…" [HC/Vqi3fs]
+- o14: אֵשׁ = H784 אֵשׁ "fire (literally or figuratively)" [HNcbsa]
+- o15: מִ/בַּעֲלֵי = Hm "from" + H1167 בַּעַל "a master…" [HR/Ncmpc]
+- o16: שְׁכֶם = H7927 שְׁכֶם "Shekem, a place in Palestine" [HNp]
+- o17: וּ/מִ/בֵּית = Hc "and" + Hm "from" + H1004 בַּיִת "a house (in the greatest variation of…" [HC/R/Ncmsc]
+- o18: מִלּוֹא = H4407 מִלּוֹא "a rampart (as filled in), i.e. the citadel" [HNp]
+- o19: וְ/תֹאכַל = Hc "and" + H398 אָכַל "to eat (literally or figuratively)" [HC/Vqi3fs]
+- o20: אֶת = H853 אֵת "properly…" [HTo]
+- o21: אֲבִימֶלֶךְ = H40 אֲבִימֶלֶךְ "Abimelek…" [HNp]

@@ -486,3 +486,39 @@ Persian entries and current tags:
 - p12: را
 - p13: فدیه ده  → H6299
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 44:13 (context)
+
+- o1: תְּשִׂימֵ/נוּ = H7760 שׂוּם "to put (used in a great variety of applications…" [HVqi2ms/Sp1cp]
+- o2: חֶרְפָּה = H2781 חֶרְפָּה "contumely, disgrace, the pudenda" [HNcfsa]
+- o3: לִ/שְׁכֵנֵי/נוּ = Hl "to" + H7934 שָׁכֵן "a resident; by extension, a fellow-citizen" [HR/Aampc/Sp1cp]
+- o4: לַעַג = H3933 לַעַג "derision, scoffing" [HNcmsa]
+- o5: וָ/קֶלֶס = Hc "and" + H7047 קֶלֶס "a laughing-stock" [HC/Ncmsa]
+- o6: לִ/סְבִיבוֹתֵי/נוּ = Hl "to" + H5439 סָבִיב "as noun) a circle, neighbour, or environs…" [HR/Ncbpc/Sp1cp]
+
+### Psalms 45:1 (context)
+
+- o1: לַ/מְנַצֵּחַ = Hl "to" + H5329 נָצַח "properly, to glitter from afar…" [HRd/Vprmsa]
+- o2: עַל = H5921 עַל "above, over, upon…" [HR]
+- o3: שֹׁשַׁנִּים = H7799 שׁוּשַׁן "a lily (from its whiteness)…" [HNcbpa]
+- o4: לִ/בְנֵי = Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmpc]
+- o5: קֹרַח = H7141 קֹרַח "Korach…" [HNp]
+- o6: מַשְׂכִּיל = H4905 מַשְׂכִּיל "instructive, i.e. a didactic poem" [HNcmsa]
+- o7: שִׁיר = H7892 שִׁיר "a song; abstractly, singing" [HNcbsc]
+- o8: יְדִידֹת = H3039 יְדִיד "loved" [HNcfpa]
+- o9: רָחַשׁ = H7370 רָחַשׁ "to gush" [HVqp3ms]
+- o10: לִבִּ/י = H3820 לֵב "the heart…" [HNcmsc/Sp1cs]
+- o11: דָּבָר = H1697 דָּבָר "a word…" [HNcmsa]
+- o12: טוֹב = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAamsa]
+- o13: אֹמֵר = H559 אָמַר "to say (used with great latitude)" [HVqrmsa]
+- o14: אָנִי = H589 אֲנִי "I" [HPp1cs]
+- o15: מַעֲשַׂ/י = H4639 מַעֲשֶׂה "an action (good or bad); generally, a transaction…" [HNcmpc/Sp1cs]
+- o16: לְ/מֶלֶךְ = Hl "to" + H4428 מֶלֶךְ "a king" [HR/Ncmsa]
+- o17: לְשׁוֹנִ/י = H3956 לָשׁוֹן "the tongue (of man or animals)…" [HNcbsc/Sp1cs]
+- o18: עֵט = H5842 עֵט "a stylus or marking stick" [HNcmsa]
+- o19: סוֹפֵר = H5608 סָפַר "properly…" [HNcmsa]
+- o20: מָהִיר = H4106 מָהִיר "quick; hence, skilful" [HAamsa]

@@ -875,3 +875,54 @@ Persian entries and current tags:
 - p13: جماعت  → H6951
 - p14: واگذاشتند
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 27:9 (context)
+
+- o1: וַ/יִּשְׁכַּב = Hc "and" + H7901 שָׁכַב "to lie down (for rest, sexual connection…" [HC/Vqw3ms]
+- o2: יוֹתָם = H3147 יוֹתָם "Jotham, the name of three Israelites" [HNp]
+- o3: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o4: אֲבֹתָי/ו = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp3ms]
+- o5: וַ/יִּקְבְּרוּ = Hc "and" + H6912 קָבַר "to inter" [HC/Vqw3mp]
+- o6: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o7: בְּ/עִיר = Hb "in" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HR/Ncfsc]
+- o8: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o9: וַ/יִּמְלֹךְ = Hc "and" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HC/Vqw3ms]
+- o10: אָחָז = H271 אָחָז "Achaz…" [HNp]
+- o11: בְּנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o12: תַּחְתָּי/ו = H8478 תַּחַת "the bottom (as depressed)…" [HR/Sp3ms]
+
+### II Chronicles 28:15 (context)
+
+- o1: וַ/יָּקֻמוּ = Hc "and" + H6965 קוּם "to rise (in various applications, literal…" [HC/Vqw3mp]
+- o2: הָ/אֲנָשִׁים = Hd "the" + H376 אִישׁ "a man as an individual or a male person…" [HTd/Ncmpa]
+- o3: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o4: נִקְּבוּ = H5344 נָקַב "to puncture, literally (to perforate…" [HVNp3cp]
+- o5: בְ/שֵׁמוֹת = Hb "in" + H8034 שֵׁם "an appellation…" [HR/Ncmpa]
+- o6: וַ/יַּחֲזִיקוּ = Hc "and" + H2388 חָזַק "to fasten upon…" [HC/Vhw3mp]
+- o7: בַ/שִּׁבְיָה = Hb "in" + H7633 שִׁבְיָה "exile (abstractly or concretely and collectively)" [HRd/Ncbsa]
+- o8: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o9: מַעֲרֻמֵּי/הֶם = H4636 מַעֲרֹם "bare" [HNcmpc/Sp3mp]
+- o10: הִלְבִּישׁוּ = H3847 לָבַשׁ "properly, wrap around…" [HVhp3cp]
+- o11: מִן = H4480 מִן "properly, a part of…" [HR]
+- o12: הַ/שָּׁלָל = Hd "the" + H7998 שָׁלָל "booty" [HTd/Ncmsa]
+- o13: וַ/יַּלְבִּשׁוּ/ם = Hc "and" + H3847 לָבַשׁ "properly, wrap around…" [HC/Vhw3mp/Sp3mp]
+- o14: וַ/יַּנְעִלוּ/ם = Hc "and" + H5274 נָעַל "properly, to fasten up, i.e. with abar or cord…" [HC/Vhw3mp/Sp3mp]
+- o15: וַ/יַּאֲכִלוּ/ם = Hc "and" + H398 אָכַל "to eat (literally or figuratively)" [HC/Vhw3mp/Sp3mp]
+- o16: וַ/יַּשְׁקוּ/ם = Hc "and" + H8248 שָׁקָה "to quaff…" [HC/Vhw3mp/Sp3mp]
+- o17: וַ/יְסֻכוּ/ם = Hc "and" + H5480 סוּךְ "properly, to smear over (with oil), i.e. anoint" [HC/Vqw3mp/Sp3mp]
+- o18: וַ/יְנַהֲלוּ/ם = Hc "and" + H5095 נָהַל "properly, to run with asparkle, i.e. flow…" [HC/Vpw3mp/Sp3mp]
+- o19: בַּ/חֲמֹרִים = Hb "in" + H2543 חֲמוֹר "a male ass (from its dun red)" [HRd/Ncbpa]
+- o20: לְ/כָל = Hl "to" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o21: כּוֹשֵׁל = H3782 כָּשַׁל "to totter or waver (through weakness of the legs…" [HVqrmsa]
+- o22: וַ/יְבִיאוּ/ם = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vhw3mp/Sp3mp]
+- o23: יְרֵחוֹ = H3405 יְרִיחוֹ "Jericho or Jerecho, a place in Palestine" [HNp]
+- o24: עִיר = H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HNcfsc]
+- o25: הַ/תְּמָרִים = Hd "the" + H8558 תָּמָר "a palm tree" [HTd/Ncmpa]
+- o26: אֵצֶל = H681 אֵצֶל "a side; (as a preposition) near" [HR]
+- o27: אֲחֵי/הֶם = H251 אָח "a brother (used in the widest sense of literal…" [HNcmpc/Sp3mp]
+- o28: וַ/יָּשׁוּבוּ = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqw3mp]
+- o29: שֹׁמְרוֹן = H8111 שֹׁמְרוֹן "Shomeron, a place in Palestine" [HNp]

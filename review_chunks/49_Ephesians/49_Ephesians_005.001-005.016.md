@@ -667,3 +667,41 @@ Persian entries and current tags:
 - p8: بدی  → G4190
 - p9: است
 - p10: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ephesians 4:32 (context)
+
+- o1: γίνεσθε = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-PNM-2P]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o4: ἀλλήλους = G240 ἀλλήλων "each other, mutual, one another, (the other)…" [C-APM]
+- o5: χρηστοί, = G5543 χρηστός "better, easy, good(-ness), gracious, kind" [A-NPM]
+- o6: εὔσπλαγχνοι, = G2155 εὔσπλαγχνος "pitiful, tender-hearted" [A-NPM]
+- o7: χαριζόμενοι = G5483 χαρίζομαι "deliver, (frankly) forgive, (freely) give, grant" [V-PNP-NPM]
+- o8: ἑαυτοῖς = G1438 ἑαυτοῦ "alone, her (own, -self), (he) himself, his (own)…" [F-2DPM]
+- o9: καθὼς = G2531 καθώς "according to, (according, even) as, how, when" [ADV]
+- o10: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o11: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o12: θεὸς = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-NSM]
+- o13: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o14: Χριστῷ = G5547 Χριστός "Christ" [N-DSM]
+- o15: ἐχαρίσατο = G5483 χαρίζομαι "deliver, (frankly) forgive, (freely) give, grant" [V-ADI-3S]
+- o16: ὑμῖν. = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
+
+### Ephesians 5:17 (context)
+
+- o1: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o2: τοῦτο = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-ASN]
+- o3: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o4: γίνεσθε = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-PNM-2P]
+- o5: ἄφρονες, = G878 ἄφρων "fool(-ish), unwise" [A-NPM]
+- o6: ἀλλὰ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o7: συνίετε = G4920 συνίημι "consider, understand, be wise" [V-PAM-2P]
+- o8: τί = G5101 τίς "every man, how (much), + no(-ne, thing)…" [I-NSN]
+- o9: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o10: θέλημα = G2307 θέλημα "desire, pleasure, will" [N-NSN]
+- o11: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o12: κυρίου. = G2962 κύριος "God, Lord, master, Sir" [N-GSM]

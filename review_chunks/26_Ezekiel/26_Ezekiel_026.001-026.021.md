@@ -1173,3 +1173,32 @@ Persian entries and current tags:
 - p24: نخواهی_شد  → H3808 H5750
 - p25: .
 - p26: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 25:17 (context)
+
+- o1: וְ/עָשִׂיתִי = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqq1cs]
+- o2: בָ/ם = Hb "in" [HR/Sp3mp]
+- o3: נְקָמוֹת = H5360 נְקָמָה "avengement, whether the act of the passion" [HNcfpa]
+- o4: גְּדֹלוֹת = H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HAafpa]
+- o5: בְּ/תוֹכְחוֹת = Hb "in" + H8433 תּוֹכֵחָה "chastisement…" [HR/Ncfpc]
+- o6: חֵמָה = H2534 חֵמָה "heat; figuratively, anger, poison (from its fever)" [HNcfsa]
+- o7: וְ/יָדְעוּ = Hc "and" + H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HC/Vqq3cp]
+- o8: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o9: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o10: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o11: בְּ/תִתִּ/י = Hb "in" + H5414 נָתַן "to give…" [HR/Vqc/Sp1cs]
+- o12: אֶת = H853 אֵת "properly…" [HTo]
+- o13: נִקְמָתִ/י = H5360 נְקָמָה "avengement, whether the act of the passion" [HNcfsc/Sp1cs]
+- o14: בָּ/ם = Hb "in" [HR/Sp3mp]
+
+### Ezekiel 27:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o5: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

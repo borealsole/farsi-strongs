@@ -969,3 +969,41 @@ Persian entries and current tags:
 - p27: چنین  → H3651
 - p28: کرد  → H6213
 - p29: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Joshua 4:24 (context)
+
+- o1: לְמַעַן = H4616 מַעַן "properly, heed, i.e. purpose…" [HR]
+- o2: דַּעַת = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqc]
+- o3: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o4: עַמֵּי = H5971 עַם "a people (as a congregated unit)…" [HNcmpc]
+- o5: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: יַד = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsc]
+- o8: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o9: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o10: חֲזָקָה = H2389 חָזָק "strong (usu. in a bad sense, hard, bold, violent)" [HAafsa]
+- o11: הִיא = H1931 הוּא "he (she or it)…" [HPp3fs]
+- o12: לְמַעַן = H4616 מַעַן "properly, heed, i.e. purpose…" [HR]
+- o13: יְרָאתֶם = H3372 יָרֵא "to fear; morally, to revere; caus. to frighten" [HVqp2mp]
+- o14: אֶת = H853 אֵת "properly…" [HTo]
+- o15: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o16: אֱלֹהֵי/כֶם = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2mp]
+- o17: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o18: הַ/יָּמִים = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmpa]
+
+### Joshua 6:1 (context)
+
+- o1: וִ/ירִיחוֹ = Hc "and" + H3405 יְרִיחוֹ "Jericho or Jerecho, a place in Palestine" [HC/Np]
+- o2: סֹגֶרֶת = H5462 סָגַר "to shut up; figuratively, to surrender" [HVqrfsa]
+- o3: וּ/מְסֻגֶּרֶת = Hc "and" + H5462 סָגַר "to shut up; figuratively, to surrender" [HC/VPsfsa]
+- o4: מִ/פְּנֵי = Hm "from" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o5: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o6: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o7: אֵין = H369 אַיִן "a non-entity…" [HTn]
+- o8: יוֹצֵא = H3318 יָצָא "to go (causatively, bring) out…" [HVqrmsa]
+- o9: וְ/אֵין = Hc "and" + H369 אַיִן "a non-entity…" [HC/Tn]
+- o10: בָּא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqrmsa]

@@ -685,3 +685,65 @@ Persian entries and current tags:
 - p11: خود  → G846
 - p12: توبه کردند  → G3340
 - p13: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Revelation of John 9:10 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἔχουσιν = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAI-3P]
+- o3: οὐρὰς = G3769 οὐρά "tail" [N-APF]
+- o4: ὁμοίας = G3664 ὅμοιος "like, + manner" [A-APF]
+- o5: σκορπίοις = G4651 σκορπίος "scorpion" [N-DPM]
+- o6: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o7: κέντρα, = G2759 κέντρον "prick, sting" [N-APN]
+- o8: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o9: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o10: ταῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPF]
+- o11: οὐραῖς = G3769 οὐρά "tail" [N-DPF]
+- o12: αὐτῶν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPF]
+- o13: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o14: ἐξουσία = G1849 ἐξουσία "authority, jurisdiction, liberty, power, right…" [N-NSF]
+- o15: αὐτῶν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPF]
+- o16: ἀδικῆσαι = G91 ἀδικέω "hurt, injure, be an offender, be unjust, (do…" [V-AAN]
+- o17: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o18: ἀνθρώπους = G444 ἄνθρωπος "certain, man" [N-APM]
+- o19: μῆνας = G3376 μήν "month" [N-APM]
+- o20: πέντε. = G4002 πέντε "five" [A-NUI]
+
+### Revelation of John 10:1 (context)
+
+- o1: Καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: εἶδον = G3708 ὁράω "behold, perceive, see, take heed" [V-2AAI-1S]
+- o3: ἄλλον = G243 ἄλλος "more, one (another), (an-, some an-)other(-s…" [A-ASM]
+- o4: ἄγγελον = G32 ἄγγελος "angel, messenger" [N-ASM]
+- o5: ἰσχυρὸν = G2478 ἰσχυρός "boisterous, mighty(-ier), powerful, strong(-er…" [A-ASM]
+- o6: καταβαίνοντα = G2597 καταβαίνω "come (get, go, step) down, fall (down)" [V-PAP-ASM]
+- o7: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o8: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o9: οὐρανοῦ, = G3772 οὐρανός "air, heaven(-ly), sky" [N-GSM]
+- o10: περιβεβλημένον = G4016 περιβάλλω "array, cast about, clothe(-d me), put on" [V-RPP-ASM]
+- o11: νεφέλην, = G3507 νεφέλη "cloud" [N-ASF]
+- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o13: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o14: ἶρις = G2463 ἶρις "rainbow" [N-NSF]
+- o15: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o16: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o17: κεφαλὴν = G2776 κεφαλή "head" [N-ASF]
+- o18: αὐτοῦ, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o19: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o20: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o21: πρόσωπον = G4383 πρόσωπον "outward) appearance, before, countenance, face…" [N-NSN]
+- o22: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o23: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
+- o24: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o25: ἥλιος, = G2246 ἥλιος "+ east, sun" [N-NSM]
+- o26: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o27: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o28: πόδες = G4228 πούς "foot(-stool)" [N-NPM]
+- o29: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o30: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
+- o31: στῦλοι = G4769 στῦλος "pillar" [N-NPM]
+- o32: πυρός, = G4442 πῦρ "fiery, fire" [N-GSN]

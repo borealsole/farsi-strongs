@@ -721,3 +721,46 @@ Persian entries and current tags:
 - p17: آن
 - p18: کم‌اند  → G3641
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 6:34 (context)
+
+- o1: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o2: οὖν = G3767 οὖν "and (so, truly), but, now (then)…" [CONJ]
+- o3: μεριμνήσητε = G3309 μεριμνάω "(be, have) care(-ful), take thought" [V-AAS-2P]
+- o4: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o5: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o6: αὔριον, = G839 αὔριον "(to-)morrow, next day" [ADV]
+- o7: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o8: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o9: αὔριον = G839 αὔριον "(to-)morrow, next day" [ADV]
+- o10: μεριμνήσει = G3309 μεριμνάω "(be, have) care(-ful), take thought" [V-FAI-3S]
+- o11: ἑαυτῆς· = G1438 ἑαυτοῦ "alone, her (own, -self), (he) himself, his (own)…" [F-3GSF]
+- o12: ἀρκετὸν = G713 ἀρκετός "enough, suffice (-ient)" [A-NSN]
+- o13: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o14: ἡμέρᾳ = G2250 ἡμέρα "age, + alway, (mid-)day (by day, (-ly))…" [N-DSF]
+- o15: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o16: κακία = G2549 κακία "evil, malice(-iousness), naughtiness, wickedness" [N-NSF]
+- o17: αὐτῆς. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSF]
+
+### Matthew 7:15 (context)
+
+- o1: Προσέχετε = G4337 προσέχω "give) attend(-ance, -ance at, -ance to, unto)…" [V-PAM-2P]
+- o2: ἀπὸ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
+- o3: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o4: ψευδοπροφητῶν, = G5578 ψευδοπροφήτης "false prophet" [N-GPM]
+- o5: οἵτινες = G3748 ὅστις "and (they), (such) as, (they) that, in that they…" [R-NPM]
+- o6: ἔρχονται = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-PNI-3P]
+- o7: πρὸς = G4314 πρός "about, according to , against, among, at…" [PREP]
+- o8: ὑμᾶς = G5210 ὑμεῖς "ye (yourselves), you" [P-2AP]
+- o9: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o10: ἐνδύμασιν = G1742 ἔνδυμα "clothing, garment, raiment" [N-DPN]
+- o11: προβάτων, = G4263 πρόβατον "sheep(-fold)" [N-GPN]
+- o12: ἔσωθεν = G2081 ἔσωθεν "inward(-ly), (from) within, without" [ADV]
+- o13: δέ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o14: εἰσιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3P]
+- o15: λύκοι = G3074 λύκος "wolf" [N-NPM]
+- o16: ἅρπαγες. = G727 ἅρπαξ "extortion, ravening" [A-NPM]

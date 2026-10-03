@@ -1315,3 +1315,39 @@ Persian entries and current tags:
 - p46: خواهم_گردانید  → H7622
 - p47: .
 - p48: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 32:22 (context)
+
+- o1: וַ/תִּתֵּן = Hc "and" + H5414 נָתַן "to give…" [HC/Vqw2ms]
+- o2: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o5: הַ/זֹּאת = Hd "the" + H2063 זֹאת "this (often used adverb)" [HTd/Pdxfs]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: נִשְׁבַּעְתָּ = H7650 שָׁבַע "to seven oneself…" [HVNp2ms]
+- o8: לַ/אֲבוֹתָ/ם = Hl "to" + H1 אָב "father, in a literal and immediate…" [HR/Ncmpc/Sp3mp]
+- o9: לָ/תֵת = Hl "to" + H5414 נָתַן "to give…" [HR/Vqc]
+- o10: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o11: אֶרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsa]
+- o12: זָבַת = H2100 זוּב "to flow freely (as water)…" [HVqrfsc]
+- o13: חָלָב = H2461 חָלָב "milk (as the richness of kine)" [HNcmsa]
+- o14: וּ/דְבָשׁ = Hc "and" + H1706 דְּבַשׁ "honey (from its stickiness); by analogy, syrup" [HC/Ncmsa]
+
+### Jeremiah 33:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o5: יִרְמְיָהוּ = H3414 יִרְמְיָה "Jirmejah, the name of eight or nine Israelites" [HNp]
+- o6: שֵׁנִית = H8145 שֵׁנִי "properly, double, i.e. second…" [HAofsa]
+- o7: וְ/הוּא = Hc "and" + H1931 הוּא "he (she or it)…" [HC/Pp3ms]
+- o8: עוֹדֶ/נּוּ = H5750 עוֹד "properly, iteration or continuance…" [HD/Sp3ms]
+- o9: עָצוּר = H6113 עָצָר "to inclose; by analogy, to hold back…" [HVqsmsa]
+- o10: בַּ/חֲצַר = Hb "in" + H2691 חָצֵר "a yard (as inclosed by a fence)…" [HR/Ncbsc]
+- o11: הַ/מַּטָּרָה = Hd "the" + H4307 מַטָּרָא "a jail (as a guard-house)…" [HTd/Ncfsa]
+- o12: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

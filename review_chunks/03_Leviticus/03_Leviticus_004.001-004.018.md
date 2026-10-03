@@ -968,3 +968,31 @@ Persian entries and current tags:
 - p33: ،
 - p34: بریزد  → H5414 H8210
 - p35: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 3:17 (context)
+
+- o1: חֻקַּת = H2708 חֻקָּה "an enactment…" [HNcbsc]
+- o2: עוֹלָם = H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HNcmsa]
+- o3: לְ/דֹרֹתֵי/כֶם = Hl "to" + H1755 דּוֹר "properly, a revolution of time…" [HR/Ncmpc/Sp2mp]
+- o4: בְּ/כֹל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o5: מוֹשְׁבֹתֵי/כֶם = H4186 מוֹשָׁב "a seat; figuratively, a site…" [HNcmpc/Sp2mp]
+- o6: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o7: חֵלֶב = H2459 חֶלֶב "fat, whether literally or figuratively…" [HNcmsa]
+- o8: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o9: דָּם = H1818 דָּם "blood (as that which when shed causes death) of…" [HNcmsa]
+- o10: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o11: תֹאכֵלוּ = H398 אָכַל "to eat (literally or figuratively)" [HVqi2mp]
+
+### Leviticus 4:19 (context)
+
+- o1: וְ/אֵת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o2: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: חֶלְבּ/וֹ = H2459 חֶלֶב "fat, whether literally or figuratively…" [HNcmsc/Sp3ms]
+- o4: יָרִים = H7311 רוּם "to be high actively…" [HVhi3ms]
+- o5: מִמֶּ/נּוּ = H4480 מִן "properly, a part of…" [HR/Sp1cp]
+- o6: וְ/הִקְטִיר = Hc "and" + H6999 קָטַר "to smoke…" [HC/Vhq3ms]
+- o7: הַ/מִּזְבֵּחָ/ה = Hd "the" + H4196 מִזְבֵּחַ "an altar" [HTd/Ncmsa/Sd]

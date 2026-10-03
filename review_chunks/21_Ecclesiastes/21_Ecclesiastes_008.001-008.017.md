@@ -973,3 +973,53 @@ Persian entries and current tags:
 - p50: عاجز
 - p51: است
 - p52: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ecclesiastes 7:29 (context)
+
+- o1: לְ/בַד = Hl "to" + H905 בַּד "properly, separation…" [HR/Ncmsa]
+- o2: רְאֵה = H7200 רָאָה "to see…" [HVqv2ms]
+- o3: זֶה = H2088 זֶה "the masculine demonstrative pronoun, this or that" [HPdxms]
+- o4: מָצָאתִי = H4672 מָצָא "properly, to come forth to, i.e. appear or exist…" [HVqp1cs]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: עָשָׂה = H6213 עָשָׂה "to do or make…" [HVqp3ms]
+- o7: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: הָ/אָדָם = Hd "the" + H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HTd/Ncmsa]
+- o10: יָשָׁר = H3477 יָשָׁר "straight (literally or figuratively)" [HAamsa]
+- o11: וְ/הֵמָּה = Hc "and" + H1992 הֵם "they (only used when emphatic)" [HC/Pp3mp]
+- o12: בִקְשׁוּ = H1245 בָּקַשׁ "to search out (by any method…" [HVpp3cp]
+- o13: חִשְּׁבֹנוֹת = H2810 חִשָּׁבוֹן "a contrivance…" [HNcmpa]
+- o14: רַבִּים = H7227 רַב "abundant (in quantity, size, age, number, rank…" [HAampa]
+
+### Ecclesiastes 9:1 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o4: זֶה = H2088 זֶה "the masculine demonstrative pronoun, this or that" [HPdxms]
+- o5: נָתַתִּי = H5414 נָתַן "to give…" [HVqp1cs]
+- o6: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o7: לִבִּ/י = H3820 לֵב "the heart…" [HNcmsc/Sp1cs]
+- o8: וְ/לָ/בוּר = Hc "and" + Hl "to" + H952 בּוּר "to bore, i.e. (figuratively) examine" [HC/R/Vqc]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o11: זֶה = H2088 זֶה "the masculine demonstrative pronoun, this or that" [HPdxms]
+- o12: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o13: הַ/צַּדִּיקִים = Hd "the" + H6662 צַדִּיק "just" [HTd/Aampa]
+- o14: וְ/הַ/חֲכָמִים = Hc "and" + Hd "the" + H2450 חָכָם "wise, (i.e. intelligent, skilful or artful)" [HC/Td/Aampa]
+- o15: וַ/עֲבָדֵי/הֶם = Hc "and" + H5652 עֲבָד "a deed" [HC/Ncmpc/Sp3mp]
+- o16: בְּ/יַד = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o17: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o18: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o19: אַהֲבָה = H160 אַהֲבָה "affection (in a good or a bad sense)" [HNcfsa]
+- o20: גַם = H1571 גַּם "properly, assemblage…" [HD]
+- o21: שִׂנְאָה = H8135 שִׂנְאָה "hate" [HNcfsa]
+- o22: אֵין = H369 אַיִן "a non-entity…" [HTn]
+- o23: יוֹדֵעַ = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqrmsa]
+- o24: הָ/אָדָם = Hd "the" + H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HTd/Ncmsa]
+- o25: הַ/כֹּל = Hd "the" + H3605 כֹּל "properly, the whole…" [HTd/Ncmsa]
+- o26: לִ/פְנֵי/הֶם = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp3mp]

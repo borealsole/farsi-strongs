@@ -1072,3 +1072,58 @@ Persian entries and current tags:
 - p32: شو
 - p33: !
 - p34: “
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 24:51 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: διχοτομήσει = G1371 διχοτομέω "cut asunder (in sunder)" [V-FAI-3S]
+- o3: αὐτὸν, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASM]
+- o4: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o5: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o6: μέρος = G3313 μέρος "behalf, course, coast, craft, particular (+ -ly)…" [N-ASN]
+- o7: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o8: μετὰ = G3326 μετά "after(-ward), that he again, against, among, and…" [PREP]
+- o9: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o10: ὑποκριτῶν = G5273 ὑποκριτής "hypocrite" [N-GPM]
+- o11: θήσει· = G5087 τίθημι "+ advise, appoint, bow, commit, conceive, give…" [V-FAI-3S]
+- o12: ἐκεῖ = G1563 ἐκεῖ "there, thither(-ward), (to) yonder (place)" [ADV]
+- o13: ἔσται = G1510 εἰμί "am, have been, it is I, was" [V-FDI-3S]
+- o14: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o15: κλαυθμὸς = G2805 κλαυθμός "wailing, weeping, wept" [N-NSM]
+- o16: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o17: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o18: βρυγμὸς = G1030 βρυγμός "gnashing" [N-NSM]
+- o19: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o20: ὀδόντων. = G3599 ὀδούς "tooth" [N-GPM]
+
+### Matthew 25:24 (context)
+
+- o1: προσελθὼν = G4334 προσέρχομαι "as soon as he) come (unto), come thereunto…" [V-2AAP-NSM]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o4: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o5: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o6: ἓν = G1520 εἷς "a(-n, -ny, certain), + abundantly, man…" [A-ASN]
+- o7: τάλαντον = G5007 τάλαντον "talent" [N-ASN]
+- o8: εἰληφὼς = G2983 λαμβάνω "accept, + be amazed, assay, attain, bring…" [V-2RAP-NSM]
+- o9: εἶπεν· = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-2AAI-3S]
+- o10: κύριε, = G2962 κύριος "God, Lord, master, Sir" [N-VSM]
+- o11: ἔγνων = G1097 γινώσκω "allow, be aware (of), feel, (have) know(-ledge)…" [V-2AAI-1S]
+- o12: σε = G4771 σύ "thou" [P-2AS]
+- o13: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o14: σκληρὸς = G4642 σκληρός "fierce, hard" [A-NSM]
+- o15: εἶ = G1510 εἰμί "am, have been, it is I, was" [V-PAI-2S]
+- o16: ἄνθρωπος, = G444 ἄνθρωπος "certain, man" [N-NSM]
+- o17: θερίζων = G2325 θερίζω "reap" [V-PAP-NSM]
+- o18: ὅπου = G3699 ὅπου "in what place, where(-as, -soever)…" [ADV]
+- o19: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o20: ἔσπειρας, = G4687 σπείρω "sow(- er), receive seed" [V-AAI-2S]
+- o21: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o22: συνάγων = G4863 συνάγω "+ accompany, assemble (selves, together), bestow…" [V-PAP-NSM]
+- o23: ὅθεν = G3606 ὅθεν "from thence, (from) whence, where(-by, -fore…" [ADV]
+- o24: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o25: διεσκόρπισας· = G1287 διασκορπίζω "disperse, scatter (abroad), strew, waste" [V-AAI-2S]

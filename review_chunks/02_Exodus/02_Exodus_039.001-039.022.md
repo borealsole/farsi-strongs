@@ -1033,3 +1033,40 @@ Persian entries and current tags:
 - p10: بافندگان
 - p11: بود
 - p12: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 38:31 (context)
+
+- o1: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o2: אַדְנֵי = H134 אֶדֶן "a basis (of a building, a column, etc.)" [HNcmpc]
+- o3: הֶ/חָצֵר = Hd "the" + H2691 חָצֵר "a yard (as inclosed by a fence)…" [HTd/Ncbsa]
+- o4: סָבִיב = H5439 סָבִיב "as noun) a circle, neighbour, or environs…" [HNcbsa]
+- o5: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o6: אַדְנֵי = H134 אֶדֶן "a basis (of a building, a column, etc.)" [HNcmpc]
+- o7: שַׁעַר = H8179 שַׁעַר "an opening, i.e. door or gate" [HNcmsc]
+- o8: הֶ/חָצֵר = Hd "the" + H2691 חָצֵר "a yard (as inclosed by a fence)…" [HTd/Ncbsa]
+- o9: וְ/אֵת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o10: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o11: יִתְדֹת = H3489 יָתֵד "a peg" [HNcfpc]
+- o12: הַ/מִּשְׁכָּן = Hd "the" + H4908 מִשְׁכָּן "a residence (including a shepherd's hut…" [HTd/Ncmsa]
+- o13: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o14: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o15: יִתְדֹת = H3489 יָתֵד "a peg" [HNcfpc]
+- o16: הֶ/חָצֵר = Hd "the" + H2691 חָצֵר "a yard (as inclosed by a fence)…" [HTd/Ncbsa]
+- o17: סָבִיב = H5439 סָבִיב "as noun) a circle, neighbour, or environs…" [HNcbsa]
+
+### Exodus 39:23 (context)
+
+- o1: וּ/פִי = Hc "and" + H6310 פֶּה "the mouth (as the means of blowing)…" [HC/Ncmsc]
+- o2: הַ/מְּעִיל = Hd "the" + H4598 מְעִיל "a robe (i.e. upper and outer garment)" [HTd/Ncmsa]
+- o3: בְּ/תוֹכ/וֹ = Hb "in" + H8432 תָּוֶךְ "a bisection, i.e. (by implication) the centre" [HR/Ncmsc/Sp3ms]
+- o4: כְּ/פִי = Hk "like" + H6310 פֶּה "the mouth (as the means of blowing)…" [HR/Ncmsc]
+- o5: תַחְרָא = H8473 תַּחֲרָא "a linen corslet (as white or hollow)" [HNcmsa]
+- o6: שָׂפָה = H8193 שָׂפָה "the lip (as a natural boundary)…" [HNcfsa]
+- o7: לְ/פִי/ו = Hl "to" + H6310 פֶּה "the mouth (as the means of blowing)…" [HR/Ncmsc/Sp3ms]
+- o8: סָבִיב = H5439 סָבִיב "as noun) a circle, neighbour, or environs…" [HNcbsa]
+- o9: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o10: יִקָּרֵעַ = H7167 קָרַע "to rend, literally or figuratively (revile…" [HVNi3ms]

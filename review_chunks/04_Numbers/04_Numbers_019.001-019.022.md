@@ -1230,3 +1230,46 @@ Persian entries and current tags:
 - p24: خواهد_بود
 - p25: .
 - p26: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 18:32 (context)
+
+- o1: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o2: תִשְׂאוּ = H5375 נָשָׂא "to lift, in a great variety of applications…" [HVqi2mp]
+- o3: עָלָי/ו = H5921 עַל "above, over, upon…" [HR/Sp3ms]
+- o4: חֵטְא = H2399 חֵטְא "a crime or its penalty" [HNcmsa]
+- o5: בַּ/הֲרִימְ/כֶם = Hb "in" + H7311 רוּם "to be high actively…" [HR/Vhc/Sp2mp]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: חֶלְבּ/וֹ = H2459 חֶלֶב "fat, whether literally or figuratively…" [HNcmsc/Sp3ms]
+- o8: מִמֶּ/נּוּ = H4480 מִן "properly, a part of…" [HR/Sp1cp]
+- o9: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o10: קָדְשֵׁי = H6918 קָדוֹשׁ "sacred (ceremonially or morally)…" [HNcmpc]
+- o11: בְנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o12: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o13: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o14: תְחַלְּלוּ = H2490 חָלַל "properly, to bore, i.e. (by implication) to wound…" [HVpi2mp]
+- o15: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o16: תָמוּתוּ = H4191 מוּת "to die (literally or figuratively)…" [HVqi2mp]
+
+### Numbers 20:1 (context)
+
+- o1: וַ/יָּבֹאוּ = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3mp]
+- o2: בְנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o3: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o4: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o5: הָ/עֵדָה = Hd "the" + H5712 עֵדָה "a stated assemblage (specifically, a concourse…" [HTd/Ncfsa]
+- o6: מִדְבַּר = H4057 מִדְבָּר "a pasture (i.e. open field…" [HNcmsc]
+- o7: צִן = H6790 צִן "Tsin, a part of the Desert" [HNp]
+- o8: בַּ/חֹדֶשׁ = Hb "in" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HRd/Ncmsa]
+- o9: הָ/רִאשׁוֹן = Hd "the" + H7223 רִאשׁוֹן "first, in place…" [HTd/Aomsa]
+- o10: וַ/יֵּשֶׁב = Hc "and" + H3427 יָשַׁב "properly…" [HC/Vqw3ms]
+- o11: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o12: בְּ/קָדֵשׁ = Hb "in" + H6946 קָדֵשׁ "Kadesh, a place in the Desert" [HR/Np]
+- o13: וַ/תָּמָת = Hc "and" + H4191 מוּת "to die (literally or figuratively)…" [HC/Vqw3fs]
+- o14: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o15: מִרְיָם = H4813 מִרְיָם "Mirjam, the name of two Israelitesses" [HNp]
+- o16: וַ/תִּקָּבֵר = Hc "and" + H6912 קָבַר "to inter" [HC/VNw3fs]
+- o17: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]

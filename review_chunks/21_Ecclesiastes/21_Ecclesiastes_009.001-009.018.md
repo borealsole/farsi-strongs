@@ -1077,3 +1077,55 @@ Persian entries and current tags:
 - p13: را
 - p14: نابود می‌سازد  → H6
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ecclesiastes 8:17 (context)
+
+- o1: וְ/רָאִיתִי = Hc "and" + H7200 רָאָה "to see…" [HC/Vqq1cs]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o4: מַעֲשֵׂה = H4639 מַעֲשֶׂה "an action (good or bad); generally, a transaction…" [HNcmsc]
+- o5: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o6: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o7: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o8: יוּכַל = H3201 יָכֹל "to be able, literally (can…" [HVqi3ms]
+- o9: הָ/אָדָם = Hd "the" + H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HTd/Ncmsa]
+- o10: לִ/מְצוֹא = Hl "to" + H4672 מָצָא "properly, to come forth to, i.e. appear or exist…" [HR/Vqc]
+- o11: אֶת = H853 אֵת "properly…" [HTo]
+- o12: הַ/מַּעֲשֶׂה = Hd "the" + H4639 מַעֲשֶׂה "an action (good or bad); generally, a transaction…" [HTd/Ncmsa]
+- o13: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o14: נַעֲשָׂה = H6213 עָשָׂה "to do or make…" [HVNp3ms]
+- o15: תַחַת = H8478 תַּחַת "the bottom (as depressed)…" [HR]
+- o16: הַ/שֶּׁמֶשׁ = Hd "the" + H8121 שֶׁמֶשׁ "the sun; by implication, the east…" [HTd/Ncbsa]
+- o17: בְּ/שֶׁ/ל = Hb "in" + Hs "which" + H7945 שֶׁל "on account of, whatsoever, whichsoever" [HR/Tr/R]
+- o18: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o19: יַעֲמֹל = H5998 עָמַל "to toil, i.e. work severely and with irksomeness" [HVqi3ms]
+- o20: הָ/אָדָם = Hd "the" + H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HTd/Ncmsa]
+- o21: לְ/בַקֵּשׁ = Hl "to" + H1245 בָּקַשׁ "to search out (by any method…" [HR/Vpc]
+- o22: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o23: יִמְצָא = H4672 מָצָא "properly, to come forth to, i.e. appear or exist…" [HVqi3ms]
+- o24: וְ/גַם = Hc "and" + H1571 גַּם "properly, assemblage…" [HC/Ta]
+- o25: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o26: יֹאמַר = H559 אָמַר "to say (used with great latitude)" [HVqi3ms]
+- o27: הֶ/חָכָם = Hd "the" + H2450 חָכָם "wise, (i.e. intelligent, skilful or artful)" [HTd/Aamsa]
+- o28: לָ/דַעַת = Hl "to" + H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HR/Vqc]
+- o29: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o30: יוּכַל = H3201 יָכֹל "to be able, literally (can…" [HVqi3ms]
+- o31: לִ/מְצֹא = Hl "to" + H4672 מָצָא "properly, to come forth to, i.e. appear or exist…" [HR/Vqc]
+
+### Ecclesiastes 10:1 (context)
+
+- o1: זְבוּבֵי = H2070 זְבוּב "a fly (especially one of a stinging nature)" [HNcmpc]
+- o2: מָוֶת = H4194 מָוֶת "death (natural or violent)…" [HNcmsa]
+- o3: יַבְאִישׁ = H887 בָּאַשׁ "to smell bad…" [HVhi3ms]
+- o4: יַבִּיעַ = H5042 נָבַע "to gush forth…" [HVhi3ms]
+- o5: שֶׁמֶן = H8081 שֶׁמֶן "grease, especially liquid (as from the olive…" [HNcmsc]
+- o6: רוֹקֵחַ = H7543 רָקַח "to perfume" [HVqrmsa]
+- o7: יָקָר = H3368 יָקָר "valuable (objectively or subjectively)" [HAamsa]
+- o8: מֵ/חָכְמָה = Hm "from" + H2451 חׇכְמָה "wisdom (in a good sense)" [HR/Ncfsa]
+- o9: מִ/כָּבוֹד = Hm "from" + H3519 כָּבוֹד "properly, weight…" [HR/Ncbsa]
+- o10: סִכְלוּת = H5531 סִכְלוּת "silliness" [HNcfsc]
+- o11: מְעָט = H4592 מְעַט "a little or few (often adverbial or compar.)" [HAamsa]

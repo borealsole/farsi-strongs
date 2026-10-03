@@ -660,3 +660,34 @@ Persian entries and current tags:
 - p8: نام
 - p9: حِزقیال  → H3168
 - p10: ،
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 23:32 (context)
+
+- o1: וְ/שָׁמְרוּ = Hc "and" + H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HC/Vqq3cp]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: מִשְׁמֶרֶת = H4931 מִשְׁמֶרֶת "watch, i.e. the act (custody)…" [HNcfsc]
+- o4: אֹהֶל = H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HNcmsc]
+- o5: מוֹעֵד = H4150 מוֹעֵד "properly, an appointment…" [HNcmsa]
+- o6: וְ/אֵת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o7: מִשְׁמֶרֶת = H4931 מִשְׁמֶרֶת "watch, i.e. the act (custody)…" [HNcfsc]
+- o8: הַ/קֹּדֶשׁ = Hd "the" + H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HTd/Ncmsa]
+- o9: וּ/מִשְׁמֶרֶת = Hc "and" + H4931 מִשְׁמֶרֶת "watch, i.e. the act (custody)…" [HC/Ncfsc]
+- o10: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o11: אַהֲרֹן = H175 אַהֲרוֹן "Aharon, the brother of Moses" [HNp]
+- o12: אֲחֵי/הֶם = H251 אָח "a brother (used in the widest sense of literal…" [HNcmpc/Sp3mp]
+- o13: לַ/עֲבֹדַת = Hl "to" + H5656 עֲבֹדָה "work of any kind" [HR/Ncfsc]
+- o14: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o15: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### I Chronicles 24:17 (context)
+
+- o1: לְ/יָכִין = Hl "to" + H3199 יָכִין "Jakin…" [HR/Np]
+- o2: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o3: וְ/עֶשְׂרִים = Hc "and" + H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HC/Acbpa]
+- o4: לְ/גָמוּל = Hl "to" + H1577 גָּמוּל "Gamul, an Israelite" [HR/Np]
+- o5: שְׁנַיִם = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmda]
+- o6: וְ/עֶשְׂרִים = Hc "and" + H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HC/Acbpa]

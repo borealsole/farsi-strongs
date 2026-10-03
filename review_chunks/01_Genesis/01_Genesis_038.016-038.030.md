@@ -849,3 +849,36 @@ Persian entries and current tags:
 - p13: زِراح  → H2226
 - p14: نامیدند  → H8034
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 38:15 (context)
+
+- o1: וַ/יִּרְאֶ/הָ = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw3ms/Sp3fs]
+- o2: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o3: וַ/יַּחְשְׁבֶ/הָ = Hc "and" + H2803 חָשַׁב "properly, to plait or interpenetrate…" [HC/Vqw3ms/Sp3fs]
+- o4: לְ/זוֹנָה = Hl "to" + H2181 זָנָה "to commit adultery (usually of the female…" [HR/Vqrfsa]
+- o5: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o6: כִסְּתָה = H3680 כָּסָה "properly, to plump, i.e. fill up hollows…" [HVpp3fs]
+- o7: פָּנֶי/הָ = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc/Sp3fs]
+
+### Genesis 39:1 (context)
+
+- o1: וְ/יוֹסֵף = Hc "and" + H3130 יוֹסֵף "Joseph, the name of seven Israelites" [HC/Np]
+- o2: הוּרַד = H3381 יָרַד "to descend (literally, to go downwards…" [HVHp3ms]
+- o3: מִצְרָיְמָ/ה = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp/Sd]
+- o4: וַ/יִּקְנֵ/הוּ = Hc "and" + H7069 קָנָה "to erect, i.e. create…" [HC/Vqw3ms/Sp3ms]
+- o5: פּוֹטִיפַר = H6318 פּוֹטִיפַר "Potiphar, an Egyptian" [HNp]
+- o6: סְרִיס = H5631 סָרִיס "a eunuch…" [HNcmsc]
+- o7: פַּרְעֹה = H6547 פַּרְעֹה "Paroh, a general title of Egyptian kings" [HNp]
+- o8: שַׂר = H8269 שַׂר "a head person (of any rank or class)" [HNcmsc]
+- o9: הַ/טַּבָּחִים = Hd "the" + H2876 טַבָּח "properly, a butcher…" [HTd/Ncmpa]
+- o10: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o11: מִצְרִי = H4713 מִצְרִי "a Mitsrite, or inhabitant of Mitsrajim" [HNgmsa]
+- o12: מִ/יַּד = Hm "from" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o13: הַ/יִּשְׁמְעֵאלִים = Hd "the" + H3459 יִשְׁמָעֵאלִי "a Jishmaelite or descendant of Jishmael" [HTd/Ngmpa]
+- o14: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o15: הוֹרִדֻ/הוּ = H3381 יָרַד "to descend (literally, to go downwards…" [HVhp3cp/Sp3ms]
+- o16: שָׁמָּ/ה = H8033 שָׁם "there (transferring to time) then…" [HD/Sd]

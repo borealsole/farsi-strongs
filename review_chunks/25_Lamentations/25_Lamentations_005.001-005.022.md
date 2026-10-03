@@ -733,3 +733,24 @@ Persian entries and current tags:
 - p10: خشمگین  → H7107 H3966
 - p11: باشی
 - p12: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Lamentations 4:22 (context)
+
+- o1: תַּם = H8552 תָּמַם "to complete, in a good or a bad sense, literal…" [HVqp3ms]
+- o2: עֲוֺנֵ/ךְ = H5771 עָוֺן "perversity, i.e. (moral) evil" [HNcbsc/Sp2fs]
+- o3: בַּת = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfsc]
+- o4: צִיּוֹן = H6726 צִיּוֹן "Tsijon (as a permanent capital)…" [HNp]
+- o5: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o6: יוֹסִיף = H3254 יָסַף "to add or augment (often adverbial…" [HVhi3ms]
+- o7: לְ/הַגְלוֹתֵ/ךְ = Hl "to" + H1540 גָּלָה "to denude (especially in a disgraceful sense)…" [HR/Vhc/Sp2fs]
+- o8: פָּקַד = H6485 פָּקַד "to visit (with friendly or hostile intent)…" [HVqp3ms]
+- o9: עֲוֺנֵ/ךְ = H5771 עָוֺן "perversity, i.e. (moral) evil" [HNcbsc/Sp2fs]
+- o10: בַּת = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfsc]
+- o11: אֱדוֹם = H123 אֱדֹם "Edom, the elder twin-brother of Jacob…" [HNp]
+- o12: גִּלָּה = H1540 גָּלָה "to denude (especially in a disgraceful sense)…" [HVpp3ms]
+- o13: עַל = H5921 עַל "above, over, upon…" [HR]
+- o14: חַטֹּאתָיִ/ךְ = H2403 חַטָּאָה "an offence (sometimes habitual sinfulness)…" [HNcfpc/Sp2fs]

@@ -909,3 +909,53 @@ Persian entries and current tags:
 - p35: ریخته_شود  → H5413
 - p36: .
 - p37: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Daniel 9:14 (context)
+
+- o1: וַ/יִּשְׁקֹד = Hc "and" + H8245 שָׁקַד "to be alert, i.e. sleepless…" [HC/Vqw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: עַל = H5921 עַל "above, over, upon…" [HR]
+- o4: הָ/רָעָה = Hd "the" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HTd/Ncfsa]
+- o5: וַ/יְבִיאֶ/הָ = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vhw3ms/Sp3fs]
+- o6: עָלֵי/נוּ = H5921 עַל "above, over, upon…" [HR/Sp1cp]
+- o7: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o8: צַדִּיק = H6662 צַדִּיק "just" [HAamsa]
+- o9: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o10: אֱלֹהֵי/נוּ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp1cp]
+- o11: עַל = H5921 עַל "above, over, upon…" [HR]
+- o12: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o13: מַעֲשָׂי/ו = H4639 מַעֲשֶׂה "an action (good or bad); generally, a transaction…" [HNcmpc/Sp3ms]
+- o14: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o15: עָשָׂה = H6213 עָשָׂה "to do or make…" [HVqp3ms]
+- o16: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o17: שָׁמַעְנוּ = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqp1cp]
+- o18: בְּ/קֹל/וֹ = Hb "in" + H6963 קוֹל "a voice or sound" [HR/Ncmsc/Sp3ms]
+
+### Daniel 10:1 (context)
+
+- o1: בִּ/שְׁנַת = Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HR/Ncfsc]
+- o2: שָׁלוֹשׁ = H7969 שָׁלוֹשׁ "three…" [HAcfsa]
+- o3: לְ/כוֹרֶשׁ = Hl "to" + H3566 כּוֹרֶשׁ "Koresh (or Cyrus), the Persian king" [HR/Np]
+- o4: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o5: פָּרַס = H6539 פָּרַס "Paras (i.e. Persia), an Eastern country…" [HNp]
+- o6: דָּבָר = H1697 דָּבָר "a word…" [HNcmsa]
+- o7: נִגְלָה = H1540 גָּלָה "to denude (especially in a disgraceful sense)…" [HVNp3ms]
+- o8: לְ/דָנִיֵּאל = Hl "to" + H1840 דָנִיֵּאל "Daniel or Danijel, the name of two Israelites" [HR/Np]
+- o9: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o10: נִקְרָא = H7121 קָרָא "to call out to (i.e. properly, address by name…" [HVNp3ms]
+- o11: שְׁמ/וֹ = H8034 שֵׁם "an appellation…" [HNcmsc/Sp3ms]
+- o12: בֵּלְטְשַׁאצַּר = H1095 בֵּלְטְשַׁאצַּר "Belteshatstsar, the Babylonian name of Daniel" [HNp]
+- o13: וֶ/אֱמֶת = Hc "and" + H571 אֶמֶת "stability…" [HC/Ncfsa]
+- o14: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]
+- o15: וְ/צָבָא = Hc "and" + H6635 צָבָא "a mass of persons (or figuratively, things)…" [HC/Ncbsa]
+- o16: גָדוֹל = H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HAamsa]
+- o17: וּ/בִין = Hc "and" + H995 בִּין "to separate mentally (or distinguish)…" [HC/Vqp3ms]
+- o18: אֶת = H853 אֵת "properly…" [HTo]
+- o19: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]
+- o20: וּ/בִינָה = Hc "and" + H998 בִּינָה "understanding" [HC/Ncfsa]
+- o21: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o22: בַּ/מַּרְאֶה = Hb "in" + H4758 מַרְאֶה "a view (the act of seeing)…" [HRd/Ncmsa]

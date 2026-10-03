@@ -889,3 +889,34 @@ Persian entries and current tags:
 - p12: را
 - p13: اجابت فرما  → H6030
 - p14: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 18:50 (context)
+
+- o1: מגדל = H1431 גָּדַל "to be (causatively make) large (in various senses…" [HVprmsa]
+- o2: יְשׁוּעוֹת = H3444 יְשׁוּעָה "something saved, i.e. (abstractly) deliverance…" [HNcfpc]
+- o3: מַלְכּ/וֹ = H4428 מֶלֶךְ "a king" [HNcmsc/Sp3ms]
+- o4: וְ/עֹשֶׂה = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqrmsa]
+- o5: חֶסֶד = H2617 חֵסֵד "kindness; by implication (towards God) piety…" [HNcmsa]
+- o6: לִ/מְשִׁיח/וֹ = Hl "to" + H4899 מָשִׁיחַ "anointed…" [HR/Ncmsc/Sp3ms]
+- o7: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o8: וּ/לְ/זַרְע/וֹ = Hc "and" + Hl "to" + H2233 זֶרַע "seed…" [HC/R/Ncmsc/Sp3ms]
+- o9: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o10: עוֹלָם = H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HNcmsa]
+
+### Psalms 21:1 (context)
+
+- o1: לַ/מְנַצֵּחַ = Hl "to" + H5329 נָצַח "properly, to glitter from afar…" [HRd/Vprmsa]
+- o2: מִזְמוֹר = H4210 מִזְמוֹר "properly, instrumental music…" [HNcmsa]
+- o3: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: בְּ/עָזְּ/ךָ = Hb "in" + H5797 עֹז "strength in various applications (force, security…" [HR/Ncmsc/Sp2ms]
+- o6: יִשְׂמַח = H8055 שָׂמַח "probably to brighten up…" [HVqi3ms]
+- o7: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsa]
+- o8: וּ/בִ/ישׁוּעָתְ/ךָ = Hc "and" + Hb "in" + H3444 יְשׁוּעָה "something saved, i.e. (abstractly) deliverance…" [HC/R/Ncfsc/Sp2ms]
+- o9: מַה = H4100 מָה "properly…" [HTi]
+- o10: יגיל = H1523 גִּיל "properly…" [HVqi3ms]
+- o11: מְאֹד = H3966 מְאֹד "properly, vehemence…" [HD]

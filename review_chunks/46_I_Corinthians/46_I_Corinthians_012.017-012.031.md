@@ -701,3 +701,54 @@ Persian entries and current tags:
 - p19: شما  → G5210
 - p20: نشان می‌دهم  → G1166
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Corinthians 12:16 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἐὰν = G1437 ἐάν "before, but, except, (and) if, (if) so, (what-…" [COND]
+- o3: εἴπῃ = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-2AAS-3S]
+- o4: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o5: οὖς, = G3775 οὖς "ear" [N-NSN]
+- o6: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o7: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o8: εἰμὶ = G1510 εἰμί "am, have been, it is I, was" [V-PAI-1S]
+- o9: ὀφθαλμός, = G3788 ὀφθαλμός "eye, sight" [N-NSM]
+- o10: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o11: εἰμὶ = G1510 εἰμί "am, have been, it is I, was" [V-PAI-1S]
+- o12: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o13: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
+- o14: σώματος, = G4983 σῶμα "bodily, body, slave" [N-GSN]
+- o15: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o16: παρὰ = G3844 παρά "above, against, among, at, before, by…" [PREP]
+- o17: τοῦτο = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-ASN]
+- o18: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o19: ἔστιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o20: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o21: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
+- o22: σώματος· = G4983 σῶμα "bodily, body, slave" [N-GSN]
+
+### I Corinthians 13:1 (context)
+
+- o1: Ἐὰν = G1437 ἐάν "before, but, except, (and) if, (if) so, (what-…" [COND]
+- o2: ταῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPF]
+- o3: γλώσσαις = G1100 γλῶσσα "tongue" [N-DPF]
+- o4: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o5: ἀνθρώπων = G444 ἄνθρωπος "certain, man" [N-GPM]
+- o6: λαλῶ = G2980 λαλέω "preach, say, speak (after), talk, tell, utter" [V-PAS-1S]
+- o7: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o8: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o9: ἀγγέλων, = G32 ἄγγελος "angel, messenger" [N-GPM]
+- o10: ἀγάπην = G26 ἀγάπη "(feast of) charity(-ably), dear, love" [N-ASF]
+- o11: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o12: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o13: ἔχω, = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAS-1S]
+- o14: γέγονα = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-2RAI-1S]
+- o15: χαλκὸς = G5475 χαλκός "brass, money" [N-NSM]
+- o16: ἠχῶν = G2278 ἠχέω "roar, sound" [V-PAP-NSM]
+- o17: ἢ = G2228 ἤ "and, but (either), (n-)either, except it be…" [PRT]
+- o18: κύμβαλον = G2950 κύμβαλον "cymbal" [N-NSN]
+- o19: ἀλαλάζον. = G214 ἀλαλάζω "tinkle, wail" [V-PAP-NSN]

@@ -854,3 +854,54 @@ Persian entries and current tags:
 - p26: به
 - p27: جامه  → H899
 - p28: بپوشاند  → H3680
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 17:24 (context)
+
+- o1: וְ/יָדְעוּ = Hc "and" + H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HC/Vqq3cp]
+- o2: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: עֲצֵי = H6086 עֵץ "a tree (from its firmness)…" [HNcmpc]
+- o4: הַ/שָּׂדֶה = Hd "the" + H7704 שָׂדֶה "a field (as flat)" [HTd/Ncmsa]
+- o5: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o6: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: הִשְׁפַּלְתִּי = H8213 שָׁפֵל "to depress or sink (expectation figuratively…" [HVhp1cs]
+- o9: עֵץ = H6086 עֵץ "a tree (from its firmness)…" [HNcmsa]
+- o10: גָּבֹהַ = H1364 גָּבֹהַּ "elevated (or elated), powerful, arrogant" [HAamsa]
+- o11: הִגְבַּהְתִּי = H1361 גָּבַהּ "to soar, i.e. be lofty…" [HVhp1cs]
+- o12: עֵץ = H6086 עֵץ "a tree (from its firmness)…" [HNcmsa]
+- o13: שָׁפָל = H8217 שָׁפָל "depressed, literally or figuratively" [HAamsa]
+- o14: הוֹבַשְׁתִּי = H3001 יָבֵשׁ "to be ashamed, confused or disappointed…" [HVhp1cs]
+- o15: עֵץ = H6086 עֵץ "a tree (from its firmness)…" [HNcmsa]
+- o16: לָח = H3892 לַח "fresh, i.e. unused or undried" [HAamsa]
+- o17: וְ/הִפְרַחְתִּי = Hc "and" + H6524 פָּרַח "to break forth as a bud, i.e. bloom…" [HC/Vhp1cs]
+- o18: עֵץ = H6086 עֵץ "a tree (from its firmness)…" [HNcmsa]
+- o19: יָבֵשׁ = H3002 יָבֵשׁ "dry" [HAamsa]
+- o20: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o21: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o22: דִּבַּרְתִּי = H1696 דָבַר "perhaps properly, to arrange…" [HVpp1cs]
+- o23: וְ/עָשִׂיתִי = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqq1cs]
+
+### Ezekiel 18:17 (context)
+
+- o1: מֵ/עָנִי = Hm "from" + H6041 עָנִי "depressed, in mind or circumstances" [HR/Aamsa]
+- o2: הֵשִׁיב = H7725 שׁוּב "to turn back (hence…" [HVhp3ms]
+- o3: יָד/וֹ = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsc/Sp3ms]
+- o4: נֶשֶׁךְ = H5392 נֶשֶׁךְ "interest on a debt" [HNcmsa]
+- o5: וְ/תַרְבִּית = Hc "and" + H8636 תַּרְבִּית "multiplication…" [HC/Ncfsa]
+- o6: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o7: לָקָח = H3947 לָקַח "to take (in the widest variety of applications)" [HVqp3ms]
+- o8: מִשְׁפָּטַ/י = H4941 מִשְׁפָּט "properly…" [HNcmpc/Sp1cs]
+- o9: עָשָׂה = H6213 עָשָׂה "to do or make…" [HVqp3ms]
+- o10: בְּ/חֻקּוֹתַ/י = Hb "in" + H2708 חֻקָּה "an enactment…" [HR/Ncbpc/Sp1cs]
+- o11: הָלָךְ = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVqp3ms]
+- o12: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o13: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o14: יָמוּת = H4191 מוּת "to die (literally or figuratively)…" [HVqi3ms]
+- o15: בַּ/עֲוֺן = Hb "in" + H5771 עָוֺן "perversity, i.e. (moral) evil" [HR/Ncbsc]
+- o16: אָבִי/ו = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp3ms]
+- o17: חָיֹה = H2421 חָיָה "to live, whether literally or figuratively…" [HVqa]
+- o18: יִחְיֶה = H2421 חָיָה "to live, whether literally or figuratively…" [HVqi3ms]

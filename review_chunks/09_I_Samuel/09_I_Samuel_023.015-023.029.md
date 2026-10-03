@@ -839,3 +839,43 @@ Persian entries and current tags:
 - p9: عِین‌جِدی  → H5872
 - p10: مأوا گرفت  → H3427
 - p11: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 23:14 (context)
+
+- o1: וַ/יֵּשֶׁב = Hc "and" + H3427 יָשַׁב "properly…" [HC/Vqw3ms]
+- o2: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o3: בַּ/מִּדְבָּר = Hb "in" + H4057 מִדְבָּר "a pasture (i.e. open field…" [HRd/Ncmsa]
+- o4: בַּ/מְּצָדוֹת = Hb "in" + H4679 מְצַד "a fastness (as a covert of ambush)" [HRd/Ncfpa]
+- o5: וַ/יֵּשֶׁב = Hc "and" + H3427 יָשַׁב "properly…" [HC/Vqw3ms]
+- o6: בָּ/הָר = Hb "in" + H2022 הַר "a mountain or range of hills (sometimes used…" [HRd/Ncmsa]
+- o7: בְּ/מִדְבַּר = Hb "in" + H4057 מִדְבָּר "a pasture (i.e. open field…" [HR/Ncmsc]
+- o8: זִיף = H2128 זִיף "Ziph, the name of a place in Palestine…" [HNp]
+- o9: וַ/יְבַקְשֵׁ/הוּ = Hc "and" + H1245 בָּקַשׁ "to search out (by any method…" [HC/Vpw3ms/Sp3ms]
+- o10: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o11: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o12: הַ/יָּמִים = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmpa]
+- o13: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o14: נְתָנ/וֹ = H5414 נָתַן "to give…" [HVqp3ms/Sp3ms]
+- o15: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o16: בְּ/יָד/וֹ = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc/Sp3ms]
+
+### I Samuel 24:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o3: שָׁב = H7725 שׁוּב "to turn back (hence…" [HVqp3ms]
+- o4: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o5: מֵ/אַחֲרֵי = Hm "from" + H310 אַחַר "properly, the hind part…" [HR/R]
+- o6: פְּלִשְׁתִּים = H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HNgmpa]
+- o7: וַ/יַּגִּדוּ = Hc "and" + H5046 נָגַד "properly, to front…" [HC/Vhw3mp]
+- o8: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o9: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o10: הִנֵּה = H2009 הִנֵּה "lo!" [HTm]
+- o11: דָוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o12: בְּ/מִדְבַּר = Hb "in" + H4057 מִדְבָּר "a pasture (i.e. open field…" [HR/Ncmsc]
+- o13: עֵין = H5872 עֵין גֶּדִי "En-Gedi, a place in Palestine" [HNp]
+- o14: גֶּדִי = H5872 עֵין גֶּדִי "En-Gedi, a place in Palestine" [HNp]

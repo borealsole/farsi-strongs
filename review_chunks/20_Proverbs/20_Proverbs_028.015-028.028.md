@@ -559,3 +559,29 @@ Persian entries and current tags:
 - p16: پارسایان  → H6662
 - p17: فزونی می‌یابند  → H7235
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 28:14 (context)
+
+- o1: אַשְׁרֵי = H835 אֶשֶׁר "happiness…" [HNcmpa]
+- o2: אָדָם = H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HNcmsa]
+- o3: מְפַחֵד = H6342 פָּחַד "to be startled (by a sudden alarm)…" [HVprmsa]
+- o4: תָּמִיד = H8548 תָּמִיד "properly, continuance (as indefinite extension)…" [HNcmsa]
+- o5: וּ/מַקְשֶׁה = Hc "and" + H7185 קָשָׁה "properly, to be dense…" [HC/Vhrmsa]
+- o6: לִבּ/וֹ = H3820 לֵב "the heart…" [HNcmsc/Sp3ms]
+- o7: יִפּוֹל = H5307 נָפַל "to fall…" [HVqi3ms]
+- o8: בְּ/רָעָה = Hb "in" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HR/Ncfsa]
+
+### Proverbs 29:1 (context)
+
+- o1: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsc]
+- o2: תּוֹכָחוֹת = H8433 תּוֹכֵחָה "chastisement…" [HNcfpa]
+- o3: מַקְשֶׁה = H7185 קָשָׁה "properly, to be dense…" [HVhrmsa]
+- o4: עֹרֶף = H6203 עֹרֶף "the nape or back of the neck (as declining)…" [HNcmsa]
+- o5: פֶּתַע = H6621 פֶּתַע "a wink…" [HD]
+- o6: יִשָּׁבֵר = H7665 שָׁבַר "to burst (literally or figuratively)" [HVNi3ms]
+- o7: וְ/אֵין = Hc "and" + H369 אַיִן "a non-entity…" [HC/Tn]
+- o8: מַרְפֵּא = H4832 מַרְפֵּא "properly, curative…" [HNcmsa]

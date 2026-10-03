@@ -1060,3 +1060,31 @@ Persian entries and current tags:
 - p36: تأمین
 - p37: خواهد_کرد
 - p38: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 47:23 (context)
+
+- o1: וְ/הָיָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3ms]
+- o2: בַ/שֵּׁבֶט = Hb "in" + H7626 שֵׁבֶט "a scion, i.e. (literally) a stick (for punishing…" [HRd/Ncmsa]
+- o3: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o4: גָּר = H1481 גּוּר "properly…" [HVqp3ms]
+- o5: הַ/גֵּר = Hd "the" + H1616 גֵּר "properly, a guest; by implication, a foreigner" [HTd/Ncmsa]
+- o6: אִתּ/וֹ = H854 אֵת "properly…" [HR/Sp3ms]
+- o7: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o8: תִּתְּנוּ = H5414 נָתַן "to give…" [HVqi2mp]
+- o9: נַחֲלָת/וֹ = H5159 נַחֲלָה "properly, something inherited…" [HNcfsc/Sp3ms]
+- o10: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o11: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o12: יְהוִה = H3069 יְהֹוִה "YHWH" [HNp]
+
+### Ezekiel 48:19 (context)
+
+- o1: וְ/הָ/עֹבֵד = Hc "and" + Hd "the" + H5647 עָבַד "to work (in any sense)…" [HC/Td/Vqrmsa]
+- o2: הָ/עִיר = Hd "the" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HTd/Ncfsa]
+- o3: יַעַבְדוּ/הוּ = H5647 עָבַד "to work (in any sense)…" [HVqi3mp/Sp3ms]
+- o4: מִ/כֹּל = Hm "from" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o5: שִׁבְטֵי = H7626 שֵׁבֶט "a scion, i.e. (literally) a stick (for punishing…" [HNcmpc]
+- o6: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]

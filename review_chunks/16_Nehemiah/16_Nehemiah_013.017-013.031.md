@@ -907,3 +907,22 @@ Persian entries and current tags:
 - p26: یاد  → H2142
 - p27: آور  → H2896
 - p28: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Nehemiah 13:16 (context)
+
+- o1: וְ/הַ/צֹּרִים = Hc "and" + Hd "the" + H6876 צֹרִי "a Tsorite or inhabitant of Tsor (i.e. Syrian)" [HC/Td/Ngmpa]
+- o2: יָשְׁבוּ = H3427 יָשַׁב "properly…" [HVqp3cp]
+- o3: בָ/הּ = Hb "in" [HR/Sp3fs]
+- o4: מְבִיאִים = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVhrmpa]
+- o5: דָּאג = H1709 דָּג "a fish (often used collectively)" [HNcmsa]
+- o6: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o7: מֶכֶר = H4377 מֶכֶר "merchandise; also value" [HNcmsa]
+- o8: וּ/מֹכְרִים = Hc "and" + H4376 מָכַר "to sell, literally (as merchandise…" [HC/Vqrmpa]
+- o9: בַּ/שַּׁבָּת = Hb "in" + H7676 שַׁבָּת "intermission, i.e (specifically) the Sabbath" [HRd/Ncbsa]
+- o10: לִ/בְנֵי = Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmpc]
+- o11: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o12: וּ/בִ/ירוּשָׁלִָם = Hc "and" + Hb "in" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HC/R/Np]

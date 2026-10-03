@@ -970,3 +970,43 @@ Persian entries and current tags:
 - p15: مَجَدان  → G3093
 - p16: رفت  → G2064
 - p17: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 15:20 (context)
+
+- o1: ταῦτά = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-NPN]
+- o2: ἐστιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o3: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPN]
+- o4: κοινοῦντα = G2840 κοινόω "call common, defile, pollute, unclean" [V-PAP-NPN]
+- o5: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o6: ἄνθρωπον· = G444 ἄνθρωπος "certain, man" [N-ASM]
+- o7: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o8: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o9: ἀνίπτοις = G449 ἄνιπτος "unwashen" [A-DPF]
+- o10: χερσὶν = G5495 χείρ "hand" [N-DPF]
+- o11: φαγεῖν = G5315 φάγω "eat, meat" [V-2AAN]
+- o12: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o13: κοινοῖ = G2840 κοινόω "call common, defile, pollute, unclean" [V-PAI-3S]
+- o14: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o15: ἄνθρωπον. = G444 ἄνθρωπος "certain, man" [N-ASM]
+
+### Matthew 16:1 (context)
+
+- o1: Καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: προσελθόντες = G4334 προσέρχομαι "as soon as he) come (unto), come thereunto…" [V-2AAP-NPM]
+- o3: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o4: Φαρισαῖοι = G5330 Φαρισαῖος "Pharisee" [N-NPM]
+- o5: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o6: Σαδδουκαῖοι = G4523 Σαδδουκαῖος "Sadducee" [N-NPM]
+- o7: πειράζοντες = G3985 πειράζω "assay, examine, go about, prove, tempt(-er), try" [V-PAP-NPM]
+- o8: ἐπηρώτησαν = G1905 ἐπερωτάω "ask (after, questions), demand, desire, question" [V-AAI-3P]
+- o9: αὐτὸν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASM]
+- o10: σημεῖον = G4592 σημεῖον "miracle, sign, token, wonder" [N-ASN]
+- o11: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o12: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o13: οὐρανοῦ = G3772 οὐρανός "air, heaven(-ly), sky" [N-GSM]
+- o14: ἐπιδεῖξαι = G1925 ἐπιδείκνυμι "shew" [V-AAN]
+- o15: αὐτοῖς. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPM]

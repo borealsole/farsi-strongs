@@ -579,3 +579,24 @@ Persian entries and current tags:
 - p8: پدرِ  → H3205
 - p9: عِبِر  → H5677
 - p10: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 1:19 (context)
+
+- o1: וּ/לְ/עֵבֶר = Hc "and" + Hl "to" + H5677 עֵבֵר "Eber…" [HC/R/Np]
+- o2: יֻלַּד = H3205 יָלַד "to bear young; causatively, to beget…" [HVPp3ms]
+- o3: שְׁנֵי = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmdc]
+- o4: בָנִים = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpa]
+- o5: שֵׁם = H8034 שֵׁם "an appellation…" [HNcmsc]
+- o6: הָ/אֶחָד = Hd "the" + H259 אֶחָד "properly, united, i.e. one…" [HTd/Acmsa]
+- o7: פֶּלֶג = H6389 פֶּלֶג "Peleg, a son of Shem" [HNp]
+- o8: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o9: בְ/יָמָי/ו = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmpc/Sp3ms]
+- o10: נִפְלְגָה = H6385 פָּלַג "to split (literally or figuratively)" [HVNp3fs]
+- o11: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o12: וְ/שֵׁם = Hc "and" + H8034 שֵׁם "an appellation…" [HC/Ncmsc]
+- o13: אָחִי/ו = H251 אָח "a brother (used in the widest sense of literal…" [HNcmsc/Sp3ms]
+- o14: יָקְטָן = H3355 יׇקְטָן "Joktan, an Arabian patriarch" [HNp]

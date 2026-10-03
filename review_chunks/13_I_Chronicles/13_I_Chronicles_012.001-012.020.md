@@ -1003,3 +1003,30 @@ Persian entries and current tags:
 - p35: مَنَسی  → H4519
 - p36: بودند
 - p37: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 11:47 (context)
+
+- o1: אֱלִיאֵל = H447 אֱלִיאֵל "Eliel, the name of nine Israelites" [HNp]
+- o2: וְ/עוֹבֵד = Hc "and" + H5744 עוֹבֵד "Obed, the name of five Israelites" [HC/Np]
+- o3: וְ/יַעֲשִׂיאֵל = Hc "and" + H3300 יַעֲשִׂיאֵל "Jaasiel, an Israelite" [HC/Np]
+- o4: הַ/מְּצֹבָיָה = Hd "the" + H4677 מְצֹבָיָה "Metsobajah, a place in Palestine" [HTd/Np]
+
+### I Chronicles 12:21 (context)
+
+- o1: וְ/הֵמָּה = Hc "and" + H1992 הֵם "they (only used when emphatic)" [HC/Pp3mp]
+- o2: עָזְרוּ = H5826 עָזַר "to surround, i.e. protect or aid" [HVqp3cp]
+- o3: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o4: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o5: עַל = H5921 עַל "above, over, upon…" [HR]
+- o6: הַ/גְּדוּד = Hd "the" + H1416 גְּדוּד "a crowd (especially of soldiers)" [HTd/Ncmsa]
+- o7: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o8: גִבּוֹרֵי = H1368 גִּבּוֹר "powerful; by implication, warrior, tyrant" [HAampc]
+- o9: חַיִל = H2428 חַיִל "probably a force, whether of men…" [HNcmsa]
+- o10: כֻּלָּ/ם = H3605 כֹּל "properly, the whole…" [HNcmsc/Sp3mp]
+- o11: וַ/יִּהְיוּ = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3mp]
+- o12: שָׂרִים = H8269 שַׂר "a head person (of any rank or class)" [HNcmpa]
+- o13: בַּ/צָּבָא = Hb "in" + H6635 צָבָא "a mass of persons (or figuratively, things)…" [HRd/Ncbsa]

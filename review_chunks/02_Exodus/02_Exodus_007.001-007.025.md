@@ -1296,3 +1296,41 @@ Persian entries and current tags:
 - p10: روز  → H3117
 - p11: گذشت  → H4390 H7651
 - p12: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 6:30 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o3: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: הֵן = H2005 הֵן "lo!; also (as expressing surprise) if" [HTm]
+- o6: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o7: עֲרַל = H6189 עָרֵל "uncircumcised (i.e. still having the prepuce…" [HAamsc]
+- o8: שְׂפָתַיִם = H8193 שָׂפָה "the lip (as a natural boundary)…" [HNcfda]
+- o9: וְ/אֵיךְ = Hc "and" + H349 אֵיךְ "how? or how!; also where" [HC/Ti]
+- o10: יִשְׁמַע = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqi3ms]
+- o11: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o12: פַּרְעֹה = H6547 פַּרְעֹה "Paroh, a general title of Egyptian kings" [HNp]
+
+### Exodus 8:1 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: בֹּא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqv2ms]
+- o6: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o7: פַּרְעֹה = H6547 פַּרְעֹה "Paroh, a general title of Egyptian kings" [HNp]
+- o8: וְ/אָמַרְתָּ = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqq2ms]
+- o9: אֵלָי/ו = H413 אֵל "near, with or among; often in general, to" [HR/Sp3ms]
+- o10: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o11: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o12: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o13: שַׁלַּח = H7971 שָׁלַח "to send away, for…" [HVpv2ms]
+- o14: אֶת = H853 אֵת "properly…" [HTo]
+- o15: עַמִּ/י = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp1cs]
+- o16: וְ/יַעַבְדֻ/נִי = Hc "and" + H5647 עָבַד "to work (in any sense)…" [HC/Vqi3mp/Sp1cs]

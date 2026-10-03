@@ -1144,3 +1144,28 @@ Persian entries and current tags:
 - p29: نخواهی_گشود  → H3808
 - p30: .
 - p31: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 16:42 (context)
+
+- o1: וַ/הֲנִחֹתִי = Hc "and" + H5117 נוּחַ "to rest, i.e. settle down…" [HC/Vhq1cs]
+- o2: חֲמָתִ/י = H2534 חֵמָה "heat; figuratively, anger, poison (from its fever)" [HNcfsc/Sp1cs]
+- o3: בָּ/ךְ = Hb "in" [HR/Sp2fs]
+- o4: וְ/סָרָה = Hc "and" + H5493 סוּר "to turn off (literal or figurative)" [HC/Vqq3fs]
+- o5: קִנְאָתִ/י = H7068 קִנְאָה "jealousy or envy" [HNcfsc/Sp1cs]
+- o6: מִמֵּ/ךְ = H4480 מִן "properly, a part of…" [HR/Sp2fs]
+- o7: וְ/שָׁקַטְתִּי = Hc "and" + H8252 שָׁקַט "to repose (usually figurative)" [HC/Vqq1cs]
+- o8: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o9: אֶכְעַס = H3707 כַּעַס "to trouble…" [HVqi1cs]
+- o10: עוֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+
+### Ezekiel 17:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o5: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

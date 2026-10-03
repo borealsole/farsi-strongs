@@ -888,3 +888,48 @@ Persian entries and current tags:
 - p38: ضلع  → H6285
 - p39: غربی  → H3220
 - p40: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Joshua 17:18 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: הַר = H2022 הַר "a mountain or range of hills (sometimes used…" [HNcmsa]
+- o3: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o4: לָּ/ךְ = Hl "to" [HR/Sp2fs]
+- o5: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o6: יַעַר = H3293 יַעַר "a copse of bushes; hence, a forest…" [HNcmsa]
+- o7: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o8: וּ/בֵרֵאת/וֹ = Hc "and" + H1254 בָּרָא "absolutely) to create…" [HC/Vpq2ms/Sp3ms]
+- o9: וְ/הָיָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3ms]
+- o10: לְ/ךָ = Hl "to" [HR/Sp2ms]
+- o11: תֹּצְאֹתָי/ו = H8444 תּוֹצָאָה "only in plural collective) exit…" [HNcfpc/Sp3ms]
+- o12: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o13: תוֹרִישׁ = H3423 יָרַשׁ "to occupy (by driving out previous tenants…" [HVhi2ms]
+- o14: אֶת = H853 אֵת "properly…" [HTo]
+- o15: הַ/כְּנַעֲנִי = Hd "the" + H3669 כְּנַעַנִי "a Kenaanite or inhabitant of Kenaan…" [HTd/Ngmsa]
+- o16: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o17: רֶכֶב = H7393 רֶכֶב "a vehicle; by implication, a team…" [HNcmsc]
+- o18: בַּרְזֶל = H1270 בַּרְזֶל "iron (as cutting); by extension, an iron implement" [HNcmsa]
+- o19: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o20: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o21: חָזָק = H2389 חָזָק "strong (usu. in a bad sense, hard, bold, violent)" [HAamsa]
+- o22: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+
+### Joshua 18:15 (context)
+
+- o1: וּ/פְאַת = Hc "and" + H6285 פֵּאָה "properly, mouth in a figurative sense…" [HC/Ncfsc]
+- o2: נֶגְבָּ/ה = H5045 נֶגֶב "the south (from its drought)…" [HNcmsa/Sd]
+- o3: מִ/קְצֵה = Hm "from" + H7097 קָצֶה "an extremity" [HR/Ncbsc]
+- o4: קִרְיַת = H7157 קִרְיַת יְעָרִים "Kirjath-Jearim or Kirjath-Arim…" [HNp]
+- o5: יְעָרִים = H7157 קִרְיַת יְעָרִים "Kirjath-Jearim or Kirjath-Arim…" [HNp]
+- o6: וְ/יָצָא = Hc "and" + H3318 יָצָא "to go (causatively, bring) out…" [HC/Vqq3ms]
+- o7: הַ/גְּבוּל = Hd "the" + H1366 גְּבוּל "properly, a cord (as twisted)…" [HTd/Ncmsa]
+- o8: יָמָּ/ה = H3220 יָם "a sea (as breaking in noisy surf) or large body…" [HNcmsa/Sd]
+- o9: וְ/יָצָא = Hc "and" + H3318 יָצָא "to go (causatively, bring) out…" [HC/Vqq3ms]
+- o10: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o11: מַעְיַן = H4599 מַעְיָן "a fountain (also collectively), figuratively…" [HNcmsc]
+- o12: מֵי = H4325 מַיִם "water; figuratively, juice…" [HNcmpc]
+- o13: נֶפְתּוֹחַ = H5318 נֶפְתּוֹחַ "Nephtoach, a place in Palestine" [HNp]

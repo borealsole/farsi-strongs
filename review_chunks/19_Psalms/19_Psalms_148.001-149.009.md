@@ -816,3 +816,31 @@ Persian entries and current tags:
 - p18: .
 - p19: هللویاه  → H1984 H3050
 - p20: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 147:20 (context)
+
+- o1: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o2: עָשָׂה = H6213 עָשָׂה "to do or make…" [HVqp3ms]
+- o3: כֵן = H3651 כֵּן "properly, set upright…" [HD]
+- o4: לְ/כָל = Hl "to" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o5: גּוֹי = H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HNcmsa]
+- o6: וּ/מִשְׁפָּטִים = Hc "and" + H4941 מִשְׁפָּט "properly…" [HC/Ncmpa]
+- o7: בַּל = H1077 בַּל "properly, a failure; by implication nothing…" [HTn]
+- o8: יְדָעוּ/ם = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqp3cp/Sp3mp]
+- o9: הַלְלוּ = H1984 הָלַל "to be clear (orig. of sound…" [HVpv2mp]
+- o10: יָהּ = H3050 יָהּ "Jah, the sacred name" [HNp]
+
+### Psalms 150:1 (context)
+
+- o1: הַלְלוּ = H1984 הָלַל "to be clear (orig. of sound…" [HVpv2mp]
+- o2: יָהּ = H3050 יָהּ "Jah, the sacred name" [HNp]
+- o3: הַלְלוּ = H1984 הָלַל "to be clear (orig. of sound…" [HVpv2mp]
+- o4: אֵל = H410 אֵל "strength; as adjective, mighty…" [HNcmsa]
+- o5: בְּ/קָדְשׁ/וֹ = Hb "in" + H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HR/Ncmsc/Sp3ms]
+- o6: הַלְלוּ/הוּ = H1984 הָלַל "to be clear (orig. of sound…" [HVpv2mp/Sp3ms]
+- o7: בִּ/רְקִיעַ = Hb "in" + H7549 רָקִיעַ "properly, an expanse…" [HR/Ncmsc]
+- o8: עֻזּ/וֹ = H5797 עֹז "strength in various applications (force, security…" [HNcmsc/Sp3ms]

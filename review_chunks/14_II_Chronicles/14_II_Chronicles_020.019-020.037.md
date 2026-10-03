@@ -1092,3 +1092,39 @@ Persian entries and current tags:
 - p38: تَرشیش  → H8659
 - p39: بروند  → H3212
 - p40: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 20:18 (context)
+
+- o1: וַ/יִּקֹּד = Hc "and" + H6915 קָדַד "to shrivel up…" [HC/Vqw3ms]
+- o2: יְהוֹשָׁפָט = H3092 יְהוֹשָׁפָט "Jehoshaphat, the name of six Israelites…" [HNp]
+- o3: אַפַּיִם = H639 אַף "properly, the nose or nostril…" [HNcmda]
+- o4: אָרְצָ/ה = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsa/Sd]
+- o5: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o6: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o7: וְ/יֹשְׁבֵי = Hc "and" + H3427 יָשַׁב "properly…" [HC/Vqrmpc]
+- o8: יְרוּשָׁלִַם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+- o9: נָפְלוּ = H5307 נָפַל "to fall…" [HVqp3cp]
+- o10: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o11: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o12: לְ/הִשְׁתַּחֲוֺת = Hl "to" + H7812 שָׁחָה "to depress, i.e. prostrate (especially reflexive…" [HR/Vtc]
+- o13: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+
+### II Chronicles 21:1 (context)
+
+- o1: וַ/יִּשְׁכַּב = Hc "and" + H7901 שָׁכַב "to lie down (for rest, sexual connection…" [HC/Vqw3ms]
+- o2: יְהוֹשָׁפָט = H3092 יְהוֹשָׁפָט "Jehoshaphat, the name of six Israelites…" [HNp]
+- o3: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o4: אֲבֹתָי/ו = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp3ms]
+- o5: וַ/יִּקָּבֵר = Hc "and" + H6912 קָבַר "to inter" [HC/VNw3ms]
+- o6: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o7: אֲבֹתָי/ו = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp3ms]
+- o8: בְּ/עִיר = Hb "in" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HR/Ncfsc]
+- o9: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o10: וַ/יִּמְלֹךְ = Hc "and" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HC/Vqw3ms]
+- o11: יְהוֹרָם = H3088 יְהוֹרָם "Jehoram…" [HNp]
+- o12: בְּנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o13: תַּחְתָּי/ו = H8478 תַּחַת "the bottom (as depressed)…" [HR/Sp3ms]

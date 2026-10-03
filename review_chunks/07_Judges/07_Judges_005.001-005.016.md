@@ -805,3 +805,45 @@ Persian entries and current tags:
 - p22: بسیار  → H1419
 - p23: بود
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Judges 4:24 (context)
+
+- o1: וַ/תֵּלֶךְ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3fs]
+- o2: יַד = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsc]
+- o3: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o4: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o5: הָלוֹךְ = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVqa]
+- o6: וְ/קָשָׁה = Hc "and" + H7186 קָשֶׁה "severe (in various applications)" [HC/Aafsa]
+- o7: עַל = H5921 עַל "above, over, upon…" [HR]
+- o8: יָבִין = H2985 יָבִין "Jabin, the name of two Canaanitish kings" [HNp]
+- o9: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o10: כְּנָעַן = H3667 כְּנַעַן "Kenaan, a son a Ham…" [HNp]
+- o11: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o12: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o13: הִכְרִיתוּ = H3772 כָּרַת "to cut (off, down or asunder)…" [HVhp3cp]
+- o14: אֵת = H853 אֵת "properly…" [HTo]
+- o15: יָבִין = H2985 יָבִין "Jabin, the name of two Canaanitish kings" [HNp]
+- o16: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o17: כְּנָעַן = H3667 כְּנַעַן "Kenaan, a son a Ham…" [HNp]
+
+### Judges 5:17 (context)
+
+- o1: גִּלְעָד = H1568 גִּלְעָד "Gilad, a region East of the Jordan…" [HNp]
+- o2: בְּ/עֵבֶר = Hb "in" + H5676 עֵבֶר "properly, a region across…" [HR/Ncmsc]
+- o3: הַ/יַּרְדֵּן = Hd "the" + H3383 יַרְדֵּן "Jarden, the principal river of Palestine" [HTd/Np]
+- o4: שָׁכֵן = H7931 שָׁכַן "to reside or permanently stay (literally or…" [HVqp3ms]
+- o5: וְ/דָן = Hc "and" + H1835 דָּן "Dan, one of the sons of Jacob…" [HC/Np]
+- o6: לָ/מָּה = Hl "to" + H4100 מָה "properly…" [HR/Ti]
+- o7: יָגוּר = H1481 גּוּר "properly…" [HVqi3ms]
+- o8: אֳנִיּוֹת = H591 אֳנִיָּה "a ship" [HNcfpa]
+- o9: אָשֵׁר = H836 אָשֵׁר "happy…" [HNp]
+- o10: יָשַׁב = H3427 יָשַׁב "properly…" [HVqp3ms]
+- o11: לְ/חוֹף = Hl "to" + H2348 חוֹף "a cove (as a sheltered bay)" [HR/Ncmsc]
+- o12: יַמִּים = H3220 יָם "a sea (as breaking in noisy surf) or large body…" [HNcmpa]
+- o13: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o14: מִפְרָצָי/ו = H4664 מִפְרָץ "a break (in the shore), i.e. a haven" [HNcmpc/Sp3ms]
+- o15: יִשְׁכּוֹן = H7931 שָׁכַן "to reside or permanently stay (literally or…" [HVqi3ms]

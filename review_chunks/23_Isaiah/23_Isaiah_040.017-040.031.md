@@ -738,3 +738,33 @@ Persian entries and current tags:
 - p25: درمانده  → H3286
 - p26: نخواهند_گردید  → H3808 H3286
 - p27: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 40:16 (context)
+
+- o1: וּ/לְבָנוֹן = Hc "and" + H3844 לְבָנוֹן "Lebanon, a mountain range in Palestine" [HC/Np]
+- o2: אֵין = H369 אַיִן "a non-entity…" [HTn]
+- o3: דֵּי = H1767 דַּי "enough (as noun or adverb)…" [HNcmsc]
+- o4: בָּעֵר = H1197 בָּעַר "to kindle, i.e. consume (by fire or by eating)…" [HVpc]
+- o5: וְ/חַיָּת/וֹ = Hc "and" + H2416 חַי "alive; hence, raw (flesh)…" [HC/Ncfsc/Sp3ms]
+- o6: אֵין = H369 אַיִן "a non-entity…" [HTn]
+- o7: דֵּי = H1767 דַּי "enough (as noun or adverb)…" [HNcmsc]
+- o8: עוֹלָה = H5930 עֹלָה "a step or (collectively, stairs, as ascending)…" [HNcfsa]
+
+### Isaiah 41:1 (context)
+
+- o1: הַחֲרִישׁוּ = H2790 חָרַשׁ "to scratch, i.e. (by implication) to engrave…" [HVhv2mp]
+- o2: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o3: אִיִּים = H339 אִי "properly, a habitable spot (as desirable)…" [HNcmpa]
+- o4: וּ/לְאֻמִּים = Hc "and" + H3816 לְאֹם "a community" [HC/Ncmpa]
+- o5: יַחֲלִיפוּ = H2498 חָלַף "properly, to slide by…" [HVhi3mp]
+- o6: כֹחַ = H3581 כֹּחַ "vigor, literally (force…" [HNcmsa]
+- o7: יִגְּשׁוּ = H5066 נָגַשׁ "to be or come (causatively…" [HVqi3mp]
+- o8: אָז = H227 אָז "at that time or place…" [HD]
+- o9: יְדַבֵּרוּ = H1696 דָבַר "perhaps properly, to arrange…" [HVpi3mp]
+- o10: יַחְדָּו = H3162 יַחַד "properly, a unit, i.e. (adverb) unitedly" [HD]
+- o11: לַ/מִּשְׁפָּט = Hl "to" + H4941 מִשְׁפָּט "properly…" [HRd/Ncmsa]
+- o12: נִקְרָבָה = H7126 קָרַב "to approach (causatively…" [HVqh1cp]

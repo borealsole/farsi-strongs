@@ -971,3 +971,56 @@ Persian entries and current tags:
 - p24: رتبۀ  → G5010
 - p25: مِلْکیصِدِق  → G3198
 - p26: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Hebrews 5:14 (context)
+
+- o1: τελείων = G5046 τέλειος "of full age, man, perfect" [A-GPM]
+- o2: δέ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: ἐστιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o4: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o5: στερεὰ = G4731 στερεός "stedfast, strong, sure" [A-NSF]
+- o6: τροφή, = G5160 τροφή "food, meat" [N-NSF]
+- o7: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o8: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o9: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o10: ἕξιν = G1838 ἕξις "use" [N-ASF]
+- o11: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
+- o12: αἰσθητήρια = G145 αἰσθητήριον "senses" [N-APN]
+- o13: γεγυμνασμένα = G1128 γυμνάζω "exercise" [V-RPP-APN]
+- o14: ἐχόντων = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAP-GPM]
+- o15: πρὸς = G4314 πρός "about, according to , against, among, at…" [PREP]
+- o16: διάκρισιν = G1253 διάκρισις "discern(-ing), disputation" [N-ASF]
+- o17: καλοῦ = G2570 καλός "better, fair, good(-ly), honest, meet, well…" [A-GSN]
+- o18: τε = G5037 τέ "also, and, both, even, then, whether" [PRT]
+- o19: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o20: κακοῦ. = G2556 κακός "bad, evil, harm, ill, noisome, wicked" [A-GSN]
+
+### Hebrews 7:1 (context)
+
+- o1: Οὗτος = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-NSM]
+- o2: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o3: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o4: Μελχισέδεκ, = G3198 Μελχισεδέκ "Melchisedec" [N-PRI]
+- o5: βασιλεὺς = G935 βασιλεύς "king" [N-NSM]
+- o6: Σαλήμ, = G4532 Σαλήμ "Salem" [N-PRI]
+- o7: ἱερεὺς = G2409 ἱερεύς "(high) priest" [N-NSM]
+- o8: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o9: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o10: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o11: ὑψίστου, = G5310 ὕψιστος "most high, highest" [A-GSM-S]
+- o12: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o13: συναντήσας = G4876 συναντάω "befall, meet" [V-AAP-NSM]
+- o14: Ἀβραὰμ = G11 Ἀβραάμ "Abraham" [N-PRI]
+- o15: ὑποστρέφοντι = G5290 ὑποστρέφω "come again, return (again, back again)…" [V-PAP-DSM]
+- o16: ἀπὸ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
+- o17: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o18: κοπῆς = G2871 κοπή "slaughter" [N-GSF]
+- o19: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o20: βασιλέων = G935 βασιλεύς "king" [N-GPM]
+- o21: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o22: εὐλογήσας = G2127 εὐλογέω "bless, praise" [V-AAP-NSM]
+- o23: αὐτόν, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASM]

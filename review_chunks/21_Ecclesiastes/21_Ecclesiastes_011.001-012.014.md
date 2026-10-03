@@ -1228,3 +1228,30 @@ Persian entries and current tags:
 - p18: محاکمه  → H4941
 - p19: خواهد_آورد  → H935
 - p20: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ecclesiastes 10:20 (context)
+
+- o1: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o2: בְּ/מַדָּעֲ/ךָ = Hb "in" + H4093 מַדָּע "intelligence or consciousness" [HR/Ncmsc/Sp2ms]
+- o3: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsa]
+- o4: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o5: תְּקַלֵּל = H7043 קָלַל "to be (causatively, make) light, literally (swift…" [HVpj2ms]
+- o6: וּ/בְ/חַדְרֵי = Hc "and" + Hb "in" + H2315 חֶדֶר "an apartment (usually literal)" [HC/R/Ncmpc]
+- o7: מִשְׁכָּבְ/ךָ = H4904 מִשְׁכָּב "a bed (figuratively, a bier); abstractly, sleep…" [HNcmsc/Sp2ms]
+- o8: אַל = H408 אַל "not (the qualified negation…" [HTn]
+- o9: תְּקַלֵּל = H7043 קָלַל "to be (causatively, make) light, literally (swift…" [HVpj2ms]
+- o10: עָשִׁיר = H6223 עָשִׁיר "rich, whether literal or figurative (noble)" [HAamsa]
+- o11: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o12: עוֹף = H5775 עוֹף "a bird (as covered with feathers…" [HNcmsc]
+- o13: הַ/שָּׁמַיִם = Hd "the" + H8064 שָׁמַיִם "the sky (as aloft…" [HTd/Ncmpa]
+- o14: יוֹלִיךְ = H3212 יָלַךְ "to walk (literally or figuratively)…" [HVhi3ms]
+- o15: אֶת = H853 אֵת "properly…" [HTo]
+- o16: הַ/קּוֹל = Hd "the" + H6963 קוֹל "a voice or sound" [HTd/Ncmsa]
+- o17: וּ/בַעַל = Hc "and" + H1167 בַּעַל "a master…" [HC/Ncmsc]
+- o18: ה/כנפים = Hd "the" + H3671 כָּנָף "an edge or extremity…" [HTd/Ncfda]
+- o19: יַגֵּיד = H5046 נָגַד "properly, to front…" [HVhi3ms]
+- o20: דָּבָר = H1697 דָּבָר "a word…" [HNcmsa]

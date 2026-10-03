@@ -1064,3 +1064,62 @@ Persian entries and current tags:
 - p20: سر
 - p21: آورم
 - p22: ؟
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 19:15 (context)
+
+- o1: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o2: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: צְבָאוֹת = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbpa]
+- o5: אֱלֹהֵי = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc]
+- o6: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o7: הִנְ/נִי = H2005 הֵן "lo!; also (as expressing surprise) if" [HTm/Sp1cs]
+- o8: מבי = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVhrmsa]
+- o9: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o10: הָ/עִיר = Hd "the" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HTd/Ncfsa]
+- o11: הַ/זֹּאת = Hd "the" + H2063 זֹאת "this (often used adverb)" [HTd/Pdxfs]
+- o12: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o13: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o14: עָרֶי/הָ = H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HNcfpc/Sp3fs]
+- o15: אֵת = H853 אֵת "properly…" [HTo]
+- o16: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o17: הָ/רָעָה = Hd "the" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HTd/Ncfsa]
+- o18: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o19: דִּבַּרְתִּי = H1696 דָבַר "perhaps properly, to arrange…" [HVpp1cs]
+- o20: עָלֶי/הָ = H5921 עַל "above, over, upon…" [HR/Sp3fs]
+- o21: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o22: הִקְשׁוּ = H7185 קָשָׁה "properly, to be dense…" [HVhp3cp]
+- o23: אֶת = H853 אֵת "properly…" [HTo]
+- o24: עָרְפָּ/ם = H6203 עֹרֶף "the nape or back of the neck (as declining)…" [HNcmsc/Sp3mp]
+- o25: לְ/בִלְתִּי = Hl "to" + H1115 בִּלְתִּי "properly, a failure of…" [HR/C]
+- o26: שְׁמוֹעַ = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqc]
+- o27: אֶת = H853 אֵת "properly…" [HTo]
+- o28: דְּבָרָ/י = H1697 דָּבָר "a word…" [HNcmpc/Sp1cs]
+
+### Jeremiah 21:1 (context)
+
+- o1: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]
+- o2: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o3: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o4: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o5: יִרְמְיָהוּ = H3414 יִרְמְיָה "Jirmejah, the name of eight or nine Israelites" [HNp]
+- o6: מֵ/אֵת = Hm "from" + H854 אֵת "properly…" [HR/R]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: בִּ/שְׁלֹחַ = Hb "in" + H7971 שָׁלַח "to send away, for…" [HR/Vqc]
+- o9: אֵלָי/ו = H413 אֵל "near, with or among; often in general, to" [HR/Sp3ms]
+- o10: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o11: צִדְקִיָּהוּ = H6667 צִדְקִיָּה "Tsidkijah, the name of six Israelites" [HNp]
+- o12: אֶת = H853 אֵת "properly…" [HTo]
+- o13: פַּשְׁחוּר = H6583 פַּשְׁחוּר "Pashchur, the name of four Israelites" [HNp]
+- o14: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o15: מַלְכִּיָּה = H4441 מַלְכִּיָּה "Malkijah, the name of ten Israelites" [HNp]
+- o16: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o17: צְפַנְיָה = H6846 צְפַנְיָה "Tsephanjah, the name of four Israelites" [HNp]
+- o18: בֶן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o19: מַעֲשֵׂיָה = H4641 מַעֲשֵׂיָה "Maasejah, the name of sixteen Israelites" [HNp]
+- o20: הַ/כֹּהֵן = Hd "the" + H3548 כֹּהֵן "literally one officiating, a priest…" [HTd/Ncmsa]
+- o21: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

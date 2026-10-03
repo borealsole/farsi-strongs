@@ -750,3 +750,37 @@ Persian entries and current tags:
 - p12: بر  → H5921
 - p13: توست
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 32:11 (context)
+
+- o1: שִׂמְחוּ = H8055 שָׂמַח "probably to brighten up…" [HVqv2mp]
+- o2: בַ/יהוָה = Hb "in" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o3: וְ/גִילוּ = Hc "and" + H1523 גִּיל "properly…" [HC/Vqv2mp]
+- o4: צַדִּיקִים = H6662 צַדִּיק "just" [HAampa]
+- o5: וְ/הַרְנִינוּ = Hc "and" + H7442 רָנַן "properly, to creak (or emit a stridulous sound)…" [HC/Vhv2mp]
+- o6: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o7: יִשְׁרֵי = H3477 יָשָׁר "straight (literally or figuratively)" [HAampc]
+- o8: לֵב = H3820 לֵב "the heart…" [HNcmsa]
+
+### Psalms 34:1 (context)
+
+- o1: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o2: בְּ/שַׁנּוֹת/וֹ = Hb "in" + H8138 שָׁנָה "to fold…" [HR/Vpc/Sp3ms]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: טַעְמ/וֹ = H2940 טַעַם "properly, a taste, i.e. (figuratively) perception…" [HNcmsc/Sp3ms]
+- o5: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o6: אֲבִימֶלֶךְ = H40 אֲבִימֶלֶךְ "Abimelek…" [HNp]
+- o7: וַ/יְגָרֲשֵׁ/הוּ = Hc "and" + H1644 גָּרַשׁ "to drive out from a possession…" [HC/Vpw3ms/Sp3ms]
+- o8: וַ/יֵּלַךְ = Hc "and" + H1980 הָלַךְ "to walk (in a great variety of applications…" [HC/Vqw3ms]
+- o9: אֲבָרֲכָה = H1288 בָרַךְ "to kneel…" [HVph1cs]
+- o10: אֶת = H853 אֵת "properly…" [HTo]
+- o11: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o12: בְּ/כָל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o13: עֵת = H6256 עֵת "time, especially (adverb with preposition) now…" [HNcbsa]
+- o14: תָּמִיד = H8548 תָּמִיד "properly, continuance (as indefinite extension)…" [HNcmsa]
+- o15: תְּהִלָּת/וֹ = H8416 תְּהִלָּה "laudation; specifically (concretely) a hymn" [HNcfsc/Sp3ms]
+- o16: בְּ/פִ/י = Hb "in" + H6310 פֶּה "the mouth (as the means of blowing)…" [HR/Ncmsc/Sp1cs]

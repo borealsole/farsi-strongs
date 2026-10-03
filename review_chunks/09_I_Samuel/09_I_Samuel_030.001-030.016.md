@@ -950,3 +950,47 @@ Persian entries and current tags:
 - p35: بزم
 - p36: مشغولند
 - p37: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 29:11 (context)
+
+- o1: וַ/יַּשְׁכֵּם = Hc "and" + H7925 שָׁכַם "literally…" [HC/Vhw3ms]
+- o2: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o3: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o4: וַ/אֲנָשָׁי/ו = Hc "and" + H376 אִישׁ "a man as an individual or a male person…" [HC/Ncmpc/Sp3ms]
+- o5: לָ/לֶכֶת = Hl "to" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HR/Vqc]
+- o6: בַּ/בֹּקֶר = Hb "in" + H1242 בֹּקֶר "properly, dawn (as the break of day)…" [HRd/Ncmsa]
+- o7: לָ/שׁוּב = Hl "to" + H7725 שׁוּב "to turn back (hence…" [HR/Vqc]
+- o8: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o9: אֶרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsc]
+- o10: פְּלִשְׁתִּים = H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HNgmpa]
+- o11: וּ/פְלִשְׁתִּים = Hc "and" + H6430 פְּלִשְׁתִּי "a Pelishtite or inhabitant of Pelesheth" [HC/Ngmpa]
+- o12: עָלוּ = H5927 עָלָה "to ascend…" [HVqp3cp]
+- o13: יִזְרְעֶאל = H3157 יִזְרְעֵאל "Jizreel…" [HNp]
+
+### I Samuel 30:17 (context)
+
+- o1: וַ/יַּכֵּ/ם = Hc "and" + H5221 נָכָה "to strike (lightly or severely…" [HC/Vhw3ms/Sp3mp]
+- o2: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o3: מֵ/הַ/נֶּשֶׁף = Hm "from" + Hd "the" + H5399 נֶשֶׁף "properly, a breeze…" [HR/Td/Ncmsa]
+- o4: וְ/עַד = Hc "and" + H5704 עַד "as far (or long, or much) as…" [HC/R]
+- o5: הָ/עֶרֶב = Hd "the" + H6153 עֶרֶב "dusk" [HTd/Ncmsa]
+- o6: לְ/מָחֳרָתָ/ם = Hl "to" + H4283 מׇחֳרָת "the morrow or (adverbially) tomorrow" [HR/Ncfsc/Sp3mp]
+- o7: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o8: נִמְלַט = H4422 מָלַט "properly, to be smooth…" [HVNp3ms]
+- o9: מֵ/הֶם = Hm "from" [HR/Sp3mp]
+- o10: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o11: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o12: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o13: אַרְבַּע = H702 אַרְבַּע "four" [HAcfsa]
+- o14: מֵאוֹת = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbpa]
+- o15: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o16: נַעַר = H5288 נַעַר "concretely) a boy (as active)…" [HNcmsa]
+- o17: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o18: רָכְבוּ = H7392 רָכַב "to ride (on an animal or in a vehicle)…" [HVqp3cp]
+- o19: עַל = H5921 עַל "above, over, upon…" [HR]
+- o20: הַ/גְּמַלִּים = Hd "the" + H1581 גָּמָל "a camel" [HTd/Ncmpa]
+- o21: וַ/יָּנֻסוּ = Hc "and" + H5127 נוּס "to flit, i.e. vanish away (subside, escape…" [HC/Vqw3mp]

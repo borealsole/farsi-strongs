@@ -917,3 +917,47 @@ Persian entries and current tags:
 - p38: .
 - p39: “
 - p40: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 44:14 (context)
+
+- o1: לִ/כְרָת = Hl "to" + H3772 כָּרַת "to cut (off, down or asunder)…" [HR/Vqc]
+- o2: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o3: אֲרָזִים = H730 אֶרֶז "a cedar tree (from the tenacity of its roots)" [HNcmpa]
+- o4: וַ/יִּקַּח = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqw3ms]
+- o5: תִּרְזָה = H8645 תִּרְזָה "a species of tree (apparently from its…" [HNcfsa]
+- o6: וְ/אַלּוֹן = Hc "and" + H437 אַלּוֹן "an oak or other strong tree" [HC/Ncmsa]
+- o7: וַ/יְאַמֶּץ = Hc "and" + H553 אָמַץ "to be alert…" [HC/Vpw3ms]
+- o8: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o9: בַּ/עֲצֵי = Hb "in" + H6086 עֵץ "a tree (from its firmness)…" [HR/Ncmpc]
+- o10: יָעַר = H3293 יַעַר "a copse of bushes; hence, a forest…" [HNcmsa]
+- o11: נָטַע = H5193 נָטַע "properly, to strike in, i.e. fix…" [HVqp3ms]
+- o12: אֹרֶן = H766 אֹרֶן "the ash tree (from its toughness)" [HNcmsa]
+- o13: וְ/גֶשֶׁם = Hc "and" + H1653 גֶּשֶׁם "a shower" [HC/Ncmsa]
+- o14: יְגַדֵּל = H1431 גָּדַל "to be (causatively make) large (in various senses…" [HVpi3ms]
+
+### Isaiah 45:1 (context)
+
+- o1: כֹּה = H3541 כֹּה "properly, like this, i.e. by implication…" [HD]
+- o2: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: לִ/מְשִׁיח/וֹ = Hl "to" + H4899 מָשִׁיחַ "anointed…" [HR/Ncmsc/Sp3ms]
+- o5: לְ/כוֹרֶשׁ = Hl "to" + H3566 כּוֹרֶשׁ "Koresh (or Cyrus), the Persian king" [HR/Np]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: הֶחֱזַקְתִּי = H2388 חָזַק "to fasten upon…" [HVhp1cs]
+- o8: בִ/ימִינ/וֹ = Hb "in" + H3225 יָמִין "the right hand or side (leg…" [HR/Ncfsc/Sp3ms]
+- o9: לְ/רַד = Hl "to" + H7286 רָדַד "to tread in pieces…" [HR/Vqc]
+- o10: לְ/פָנָי/ו = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp3ms]
+- o11: גּוֹיִם = H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HNcmpa]
+- o12: וּ/מָתְנֵי = Hc "and" + H4975 מֹתֶן "properly, the waist or small of the back…" [HC/Ncmdc]
+- o13: מְלָכִים = H4428 מֶלֶךְ "a king" [HNcmpa]
+- o14: אֲפַתֵּחַ = H6605 פָּתַח "to open wide (literally or figuratively)…" [HVpi1cs]
+- o15: לִ/פְתֹּחַ = Hl "to" + H6605 פָּתַח "to open wide (literally or figuratively)…" [HR/Vqc]
+- o16: לְ/פָנָי/ו = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp3ms]
+- o17: דְּלָתַיִם = H1817 דֶּלֶת "something swinging, i.e. the valve of adoor" [HNcfda]
+- o18: וּ/שְׁעָרִים = Hc "and" + H8179 שַׁעַר "an opening, i.e. door or gate" [HC/Ncmpa]
+- o19: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o20: יִסָּגֵרוּ = H5462 סָגַר "to shut up; figuratively, to surrender" [HVNi3mp]

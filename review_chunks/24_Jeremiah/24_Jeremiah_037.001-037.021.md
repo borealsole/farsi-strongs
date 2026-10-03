@@ -1165,3 +1165,65 @@ Persian entries and current tags:
 - p37: قراولان  → H4307
 - p38: بماند  → H3427
 - p39: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 36:32 (context)
+
+- o1: וְ/יִרְמְיָהוּ = Hc "and" + H3414 יִרְמְיָה "Jirmejah, the name of eight or nine Israelites" [HC/Np]
+- o2: לָקַח = H3947 לָקַח "to take (in the widest variety of applications)" [HVqp3ms]
+- o3: מְגִלָּה = H4039 מְגִלָּה "a roll" [HNcfsa]
+- o4: אַחֶרֶת = H312 אַחֵר "properly, hinder; generally, next, other, etc" [HAafsa]
+- o5: וַ/יִּתְּנָ/הּ = Hc "and" + H5414 נָתַן "to give…" [HC/Vqw3ms/Sp3fs]
+- o6: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o7: בָּרוּךְ = H1263 בָּרוּךְ "Baruk, the name of three Israelites" [HNp]
+- o8: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o9: נֵרִיָּהוּ = H5374 נֵרִיָּה "Nerijah, an Israelite" [HNp]
+- o10: הַ/סֹּפֵר = Hd "the" + H5608 סָפַר "properly…" [HTd/Ncmsa]
+- o11: וַ/יִּכְתֹּב = Hc "and" + H3789 כָּתַב "to grave, by implication, to write (describe…" [HC/Vqw3ms]
+- o12: עָלֶי/הָ = H5921 עַל "above, over, upon…" [HR/Sp3fs]
+- o13: מִ/פִּי = Hm "from" + H6310 פֶּה "the mouth (as the means of blowing)…" [HR/Ncmsc]
+- o14: יִרְמְיָהוּ = H3414 יִרְמְיָה "Jirmejah, the name of eight or nine Israelites" [HNp]
+- o15: אֵת = H853 אֵת "properly…" [HTo]
+- o16: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o17: דִּבְרֵי = H1697 דָּבָר "a word…" [HNcmpc]
+- o18: הַ/סֵּפֶר = Hd "the" + H5612 סֵפֶר "properly, writing (the art or a document)…" [HTd/Ncmsa]
+- o19: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o20: שָׂרַף = H8313 שָׂרַף "to be (causatively, set) on fire" [HVqp3ms]
+- o21: יְהוֹיָקִים = H3079 יְהוֹיָקִים "Jehojakim, a Jewish king" [HNp]
+- o22: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o23: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o24: בָּ/אֵשׁ = Hb "in" + H784 אֵשׁ "fire (literally or figuratively)" [HRd/Ncbsa]
+- o25: וְ/עוֹד = Hc "and" + H5750 עוֹד "properly, iteration or continuance…" [HC/D]
+- o26: נוֹסַף = H3254 יָסַף "to add or augment (often adverbial…" [HVNp3ms]
+- o27: עֲלֵי/הֶם = H5921 עַל "above, over, upon…" [HR/Sp3mp]
+- o28: דְּבָרִים = H1697 דָּבָר "a word…" [HNcmpa]
+- o29: רַבִּים = H7227 רַב "abundant (in quantity, size, age, number, rank…" [HAampa]
+- o30: כָּ/הֵמָּה = Hk "like" + H1992 הֵם "they (only used when emphatic)" [HR/Sp3mp]
+
+### Jeremiah 38:1 (context)
+
+- o1: וַ/יִּשְׁמַע = Hc "and" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HC/Vqw3ms]
+- o2: שְׁפַטְיָה = H8203 שְׁפַטְיָה "Shephatjah, the name of ten Israelites" [HNp]
+- o3: בֶן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o4: מַתָּן = H4977 מַתָּן "Mattan, the name of a priest of Baal…" [HNp]
+- o5: וּ/גְדַלְיָהוּ = Hc "and" + H1436 גְּדַּלְיָה "Gedaljah, the name of five Israelites" [HC/Np]
+- o6: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o7: פַּשְׁחוּר = H6583 פַּשְׁחוּר "Pashchur, the name of four Israelites" [HNp]
+- o8: וְ/יוּכַל = Hc "and" + H3116 יוּכַל "Jukal, an Israelite" [HC/Np]
+- o9: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o10: שֶׁלֶמְיָהוּ = H8018 שֶׁלֶמְיָה "Shelemjah, the name of nine Israelites" [HNp]
+- o11: וּ/פַשְׁחוּר = Hc "and" + H6583 פַּשְׁחוּר "Pashchur, the name of four Israelites" [HC/Np]
+- o12: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o13: מַלְכִּיָּה = H4441 מַלְכִּיָּה "Malkijah, the name of ten Israelites" [HNp]
+- o14: אֶת = H853 אֵת "properly…" [HTo]
+- o15: הַ/דְּבָרִים = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmpa]
+- o16: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o17: יִרְמְיָהוּ = H3414 יִרְמְיָה "Jirmejah, the name of eight or nine Israelites" [HNp]
+- o18: מְדַבֵּר = H1696 דָבַר "perhaps properly, to arrange…" [HVprmsa]
+- o19: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o20: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o21: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o22: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

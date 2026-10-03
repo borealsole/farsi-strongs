@@ -1252,3 +1252,50 @@ Persian entries and current tags:
 - p39: نجس  → H3808 H2930
 - p40: مسازید  → H2930
 - p41: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 20:20 (context)
+
+- o1: רַק = H7535 רַק "properly, leanness…" [HTa]
+- o2: עֵץ = H6086 עֵץ "a tree (from its firmness)…" [HNcmsa]
+- o3: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o4: תֵּדַע = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqi2ms]
+- o5: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o6: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o7: עֵץ = H6086 עֵץ "a tree (from its firmness)…" [HNcmsc]
+- o8: מַאֲכָל = H3978 מַאֲכָל "an eatable (includ. provender, flesh and fruit)" [HNcmsa]
+- o9: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o10: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o11: תַשְׁחִית = H7843 שָׁחַת "to decay…" [HVhi2ms]
+- o12: וְ/כָרָתָּ = Hc "and" + H3772 כָּרַת "to cut (off, down or asunder)…" [HC/Vqq2ms]
+- o13: וּ/בָנִיתָ = Hc "and" + H1129 בָּנָה "to build (literally and figuratively)" [HC/Vqq2ms]
+- o14: מָצוֹר = H4692 מָצוֹר "something hemming in…" [HNcmsa]
+- o15: עַל = H5921 עַל "above, over, upon…" [HR]
+- o16: הָ/עִיר = Hd "the" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HTd/Ncfsa]
+- o17: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o18: הִוא = H1931 הוּא "he (she or it)…" [HPp3fs]
+- o19: עֹשָׂה = H6213 עָשָׂה "to do or make…" [HVqrfsa]
+- o20: עִמְּ/ךָ = H5973 עִם "adverb or preposition…" [HR/Sp2ms]
+- o21: מִלְחָמָה = H4421 מִלְחָמָה "a battle (i.e. the engagement)…" [HNcfsa]
+- o22: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o23: רִדְתָּ/הּ = H3381 יָרַד "to descend (literally, to go downwards…" [HVqc/Sp3fs]
+
+### Deuteronomy 22:1 (context)
+
+- o1: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o2: תִרְאֶה = H7200 רָאָה "to see…" [HVqi2ms]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: שׁוֹר = H7794 שׁוֹר "a bullock (as a traveller)" [HNcmsc]
+- o5: אָחִי/ךָ = H251 אָח "a brother (used in the widest sense of literal…" [HNcmsc/Sp2ms]
+- o6: אוֹ = H176 אוֹ "desire (and so probably in Proverbs 31:4)…" [HC]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: שֵׂי/וֹ = H7716 שֶׂה "a member of a flock, i.e. a sheep or goat" [HNcbsc/Sp3ms]
+- o9: נִדָּחִים = H5080 נָדַח "to push off…" [HVNrmpa]
+- o10: וְ/הִתְעַלַּמְתָּ = Hc "and" + H5956 עָלַם "to veil from sight…" [HC/Vtq2ms]
+- o11: מֵ/הֶם = Hm "from" [HR/Sp3mp]
+- o12: הָשֵׁב = H7725 שׁוּב "to turn back (hence…" [HVha]
+- o13: תְּשִׁיבֵ/ם = H7725 שׁוּב "to turn back (hence…" [HVhi2ms/Sp3mp]
+- o14: לְ/אָחִי/ךָ = Hl "to" + H251 אָח "a brother (used in the widest sense of literal…" [HR/Ncmsc/Sp2ms]

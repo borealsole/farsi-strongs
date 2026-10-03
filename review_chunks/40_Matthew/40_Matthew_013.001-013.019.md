@@ -914,3 +914,51 @@ Persian entries and current tags:
 - p33: راه  → G3598
 - p34: کاشته_شد  → G4687
 - p35: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 12:50 (context)
+
+- o1: ὅστις = G3748 ὅστις "and (they), (such) as, (they) that, in that they…" [R-NSM]
+- o2: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o3: ἂν = G302 ἄν "(what-, where-, wither-, who-)soever" [PRT]
+- o4: ποιήσῃ = G4160 ποιέω "abide, + agree, appoint, avenge, + band together…" [V-AAS-3S]
+- o5: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o6: θέλημα = G2307 θέλημα "desire, pleasure, will" [N-ASN]
+- o7: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o8: πατρός = G3962 πατήρ "father, parent" [N-GSM]
+- o9: μου = G1473 ἐγώ "I, me" [P-1GS]
+- o10: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o11: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o12: οὐρανοῖς, = G3772 οὐρανός "air, heaven(-ly), sky" [N-DPM]
+- o13: αὐτός = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-NSM]
+- o14: μου = G1473 ἐγώ "I, me" [P-1GS]
+- o15: ἀδελφὸς = G80 ἀδελφός "brother" [N-NSM]
+- o16: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o17: ἀδελφὴ = G79 ἀδελφή "sister" [N-NSF]
+- o18: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o19: μήτηρ = G3384 μήτηρ "mother" [N-NSF]
+- o20: ἐστίν. = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+
+### Matthew 13:20 (context)
+
+- o1: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o4: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
+- o5: πετρώδη = G4075 πετρώδης "stony" [A-APN]
+- o6: σπαρείς, = G4687 σπείρω "sow(- er), receive seed" [V-2APP-NSM]
+- o7: οὗτός = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-NSM]
+- o8: ἐστιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o9: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o10: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o11: λόγον = G3056 λόγος "account, cause, communication, concerning…" [N-ASM]
+- o12: ἀκούων = G191 ἀκούω "give (in the) audience (of), come (to the ears)…" [V-PAP-NSM]
+- o13: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o14: εὐθὺς = G2112 εὐθέως "anon, as soon as, forthwith, immediately, shortly…" [ADV]
+- o15: μετὰ = G3326 μετά "after(-ward), that he again, against, among, and…" [PREP]
+- o16: χαρᾶς = G5479 χαρά "gladness, greatly, ( be exceeding) joy(-ful…" [N-GSF]
+- o17: λαμβάνων = G2983 λαμβάνω "accept, + be amazed, assay, attain, bring…" [V-PAP-NSM]
+- o18: αὐτόν· = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASM]

@@ -1068,3 +1068,32 @@ Persian entries and current tags:
 - p31: برایشان
 - p32: طلبید  → H7592
 - p33: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 10:19 (context)
+
+- o1: וַ/יִּפְשְׁעוּ = Hc "and" + H6586 פָּשַׁע "to break away (from just authority)…" [HC/Vqw3mp]
+- o2: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o3: בְּ/בֵית = Hb "in" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc]
+- o4: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o5: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o6: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o7: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+
+### II Chronicles 12:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: כְּ/הָכִין = Hk "like" + H3559 כּוּן "properly, to be erect (i.e. stand perpendicular)…" [HR/Vhc]
+- o3: מַלְכוּת = H4438 מַלְכוּת "a rule; concretely, a dominion" [HNcfsc]
+- o4: רְחַבְעָם = H7346 רְחַבְעָם "Rechabam, an Israelite king" [HNp]
+- o5: וּ/כְ/חֶזְקָת/וֹ = Hc "and" + Hk "like" + H2393 חֶזְקָה "prevailing power" [HC/R/Ncfsc/Sp3ms]
+- o6: עָזַב = H5800 עָזַב "to loosen, i.e. relinquish, permit, etc" [HVqp3ms]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: תּוֹרַת = H8451 תּוֹרָה "a precept or statute…" [HNcfsc]
+- o9: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o10: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o11: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o12: עִמּ/וֹ = H5973 עִם "adverb or preposition…" [HR/Sp3ms]

@@ -743,3 +743,33 @@ Persian entries and current tags:
 - p14: را
 - p15: حکمت آموزد  → H2449
 - p16: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 104:35 (context)
+
+- o1: יִתַּמּוּ = H8552 תָּמַם "to complete, in a good or a bad sense, literal…" [HVqi3mp]
+- o2: חַטָּאִים = H2400 חַטָּא "a criminal, or one accounted guilty" [HAampa]
+- o3: מִן = H4480 מִן "properly, a part of…" [HR]
+- o4: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o5: וּ/רְשָׁעִים = Hc "and" + H7563 רָשָׁע "morally wrong…" [HC/Aampa]
+- o6: עוֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+- o7: אֵינָ/ם = H369 אַיִן "a non-entity…" [HTn/Sp3mp]
+- o8: בָּרֲכִי = H1288 בָרַךְ "to kneel…" [HVpv2fs]
+- o9: נַפְשִׁ/י = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsc/Sp1cs]
+- o10: אֶת = H853 אֵת "properly…" [HTo]
+- o11: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o12: הַלְלוּ = H1984 הָלַל "to be clear (orig. of sound…" [HVpv2mp]
+- o13: יָהּ = H3050 יָהּ "Jah, the sacred name" [HNp]
+
+### Psalms 105:23 (context)
+
+- o1: וַ/יָּבֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3ms]
+- o2: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o3: מִצְרָיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o4: וְ/יַעֲקֹב = Hc "and" + H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HC/Np]
+- o5: גָּר = H1481 גּוּר "properly…" [HVqp3ms]
+- o6: בְּ/אֶרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o7: חָם = H2526 חָם "Cham, a son of Noah…" [HNp]

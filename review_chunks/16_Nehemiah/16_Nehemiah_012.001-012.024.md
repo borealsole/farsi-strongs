@@ -792,3 +792,29 @@ Persian entries and current tags:
 - p31: و
 - p32: شکرگزاری کنند  → H3034
 - p33: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Nehemiah 11:36 (context)
+
+- o1: וּ/מִן = Hc "and" + H4480 מִן "properly, a part of…" [HC/R]
+- o2: הַ/לְוִיִּם = Hd "the" + H3881 לֵוִיִּי "a Levite or descendant of Levi" [HTd/Ngmpa]
+- o3: מַחְלְקוֹת = H4256 מַחֲלֹקֶת "a section (of Levites, people or soldiers)" [HNcfpc]
+- o4: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o5: לְ/בִנְיָמִין = Hl "to" + H1144 בִּנְיָמִין "Binjamin, youngest son of Jacob…" [HR/Np]
+
+### Nehemiah 12:25 (context)
+
+- o1: מַתַּנְיָה = H4983 מַתַּנְיָה "Mattanjah, the name of ten Israelites" [HNp]
+- o2: וּ/בַקְבֻּקְיָה = Hc "and" + H1229 בַּקְבֻּקְיָה "Bakbukjah, an Israelite" [HC/Np]
+- o3: עֹבַדְיָה = H5662 עֹבַדְיָה "Obadjah, the name of thirteen Israelites" [HNp]
+- o4: מְשֻׁלָּם = H4918 מְשֻׁלָּם "Meshullam, the name of seventeen Israelites" [HNp]
+- o5: טַלְמוֹן = H2929 טַלְמוֹן "Talmon, a temple doorkeeper" [HNp]
+- o6: עַקּוּב = H6126 עַקּוּב "Akkub, the name of five Israelites" [HNp]
+- o7: שֹׁמְרִים = H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HVqrmpa]
+- o8: שׁוֹעֲרִים = H7778 שׁוֹעֵר "a janitor" [HNcmpa]
+- o9: מִשְׁמָר = H4929 מִשְׁמָר "a guard (the man, the post or the prison)…" [HNcmsa]
+- o10: בַּ/אֲסֻפֵּי = Hb "in" + H624 אָסֻף "collected (only in the plural)…" [HR/Ncmpc]
+- o11: הַ/שְּׁעָרִים = Hd "the" + H8179 שַׁעַר "an opening, i.e. door or gate" [HTd/Ncmpa]

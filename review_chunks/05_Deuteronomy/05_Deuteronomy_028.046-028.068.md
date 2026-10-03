@@ -1379,3 +1379,53 @@ Persian entries and current tags:
 - p36: نخواهد_بود  → H369
 - p37: .
 - p38: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 28:45 (context)
+
+- o1: וּ/בָאוּ = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqq3cp]
+- o2: עָלֶי/ךָ = H5921 עַל "above, over, upon…" [HR/Sp2ms]
+- o3: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o4: הַ/קְּלָלוֹת = Hd "the" + H7045 קְלָלָה "vilification" [HTd/Ncfpa]
+- o5: הָ/אֵלֶּה = Hd "the" + H428 אֵלֶּה "these or those" [HTd/Pdxcp]
+- o6: וּ/רְדָפוּ/ךָ = Hc "and" + H7291 רָדַף "to run after (usually with hostile intent…" [HC/Vqq3cp/Sp2ms]
+- o7: וְ/הִשִּׂיגוּ/ךָ = Hc "and" + H5381 נָשַׂג "to reach (literally or figuratively)" [HC/Vhq3cp/Sp2ms]
+- o8: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o9: הִשָּׁמְדָ/ךְ = H8045 שָׁמַד "to desolate" [HVNc/Sp2fs]
+- o10: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o11: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o12: שָׁמַעְתָּ = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqp2ms]
+- o13: בְּ/קוֹל = Hb "in" + H6963 קוֹל "a voice or sound" [HR/Ncmsc]
+- o14: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o15: אֱלֹהֶי/ךָ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2ms]
+- o16: לִ/שְׁמֹר = Hl "to" + H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HR/Vqc]
+- o17: מִצְוֺתָי/ו = H4687 מִצְוָה "a command, whether human or divine (collectively…" [HNcfpc/Sp3ms]
+- o18: וְ/חֻקֹּתָי/ו = Hc "and" + H2708 חֻקָּה "an enactment…" [HC/Ncbpc/Sp3ms]
+- o19: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o20: צִוָּ/ךְ = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp3ms/Sp2fs]
+
+### Deuteronomy 29:1 (context)
+
+- o1: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o2: דִבְרֵי = H1697 דָּבָר "a word…" [HNcmpc]
+- o3: הַ/בְּרִית = Hd "the" + H1285 בְּרִית "a compact (because made by passing between pieces…" [HTd/Ncfsa]
+- o4: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o5: צִוָּה = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp3ms]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o9: לִ/כְרֹת = Hl "to" + H3772 כָּרַת "to cut (off, down or asunder)…" [HR/Vqc]
+- o10: אֶת = H854 אֵת "properly…" [HR]
+- o11: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o12: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o13: בְּ/אֶרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o14: מוֹאָב = H4124 מוֹאָב "Moab, an incestuous son of Lot…" [HNp]
+- o15: מִ/לְּ/בַד = Hm "from" + Hl "to" + H905 בַּד "properly, separation…" [HR/R/Ncmsc]
+- o16: הַ/בְּרִית = Hd "the" + H1285 בְּרִית "a compact (because made by passing between pieces…" [HTd/Ncfsa]
+- o17: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o18: כָּרַת = H3772 כָּרַת "to cut (off, down or asunder)…" [HVqp3ms]
+- o19: אִתָּ/ם = H854 אֵת "properly…" [HR/Sp3mp]
+- o20: בְּ/חֹרֵב = Hb "in" + H2722 חֹרֵב "Choreb…" [HR/Np]

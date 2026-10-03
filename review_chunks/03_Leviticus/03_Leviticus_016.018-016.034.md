@@ -967,3 +967,37 @@ Persian entries and current tags:
 - p31: به
 - p32: عمل آورد  → H6213
 - p33: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 16:17 (context)
+
+- o1: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o2: אָדָם = H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HNcmsa]
+- o3: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o4: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o5: בְּ/אֹהֶל = Hb "in" + H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HR/Ncmsc]
+- o6: מוֹעֵד = H4150 מוֹעֵד "properly, an appointment…" [HNcmsa]
+- o7: בְּ/בֹא/וֹ = Hb "in" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HR/Vqc/Sp3ms]
+- o8: לְ/כַפֵּר = Hl "to" + H3722 כָּפַר "to cover (specifically with bitumen)…" [HR/Vpc]
+- o9: בַּ/קֹּדֶשׁ = Hb "in" + H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HRd/Ncmsa]
+- o10: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o11: צֵאת/וֹ = H3318 יָצָא "to go (causatively, bring) out…" [HVqc/Sp3ms]
+- o12: וְ/כִפֶּר = Hc "and" + H3722 כָּפַר "to cover (specifically with bitumen)…" [HC/Vpq3ms]
+- o13: בַּעֲד/וֹ = H1157 בְּעַד "in up to or over against…" [HR/Sp3ms]
+- o14: וּ/בְעַד = Hc "and" + H1157 בְּעַד "in up to or over against…" [HC/R]
+- o15: בֵּית/וֹ = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc/Sp3ms]
+- o16: וּ/בְעַד = Hc "and" + H1157 בְּעַד "in up to or over against…" [HC/R]
+- o17: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o18: קְהַל = H6951 קָהָל "assemblage (usually concretely)" [HNcmsc]
+- o19: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+
+### Leviticus 17:1 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: לֵּ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

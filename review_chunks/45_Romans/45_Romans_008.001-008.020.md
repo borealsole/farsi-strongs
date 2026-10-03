@@ -1017,3 +1017,57 @@ Persian entries and current tags:
 - p20: این
 - p21: امید  → G1680
 - p22: که
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Romans 7:25 (context)
+
+- o1: χάρις = G5485 χάρις "acceptable, benefit, favour, gift, grace(- ious)…" [N-NSF]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o4: θεῷ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-DSM]
+- o5: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o6: Ἰησοῦ = G2424 Ἰησοῦς "Jesus" [N-GSM]
+- o7: Χριστοῦ = G5547 Χριστός "Christ" [N-GSM]
+- o8: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o9: κυρίου = G2962 κύριος "God, Lord, master, Sir" [N-GSM]
+- o10: ἡμῶν. = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+- o11: ἄρα = G686 ἄρα "haply, (what) manner (of man), no doubt, perhaps…" [PRT]
+- o12: οὖν = G3767 οὖν "and (so, truly), but, now (then)…" [CONJ]
+- o13: αὐτὸς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-NSM]
+- o14: ἐγὼ = G1473 ἐγώ "I, me" [P-1NS]
+- o15: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o16: νοῒ = G3563 νοῦς "mind, understanding" [N-DSM]
+- o17: δουλεύω = G1398 δουλεύω "be in bondage, (do) serve(-ice)" [V-PAI-1S]
+- o18: νόμῳ = G3551 νόμος "law" [N-DSM]
+- o19: θεοῦ, = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o20: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o21: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o22: σαρκὶ = G4561 σάρξ "carnal(-ly, + -ly minded), flesh(-ly)" [N-DSF]
+- o23: νόμῳ = G3551 νόμος "law" [N-DSM]
+- o24: ἁμαρτίας. = G266 ἁμαρτία "offence, sin(-ful)" [N-GSF]
+
+### Romans 8:21 (context)
+
+- o1: διότι = G1360 διότι "because (that), for, therefore" [CONJ]
+- o2: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o3: αὐτὴ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-NSF]
+- o4: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o5: κτίσις = G2937 κτίσις "building, creation, creature, ordinance" [N-NSF]
+- o6: ἐλευθερωθήσεται = G1659 ἐλευθερόω "deliver, make free" [V-FPI-3S]
+- o7: ἀπὸ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
+- o8: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o9: δουλίας = G1397 δουλεία "bondage" [N-GSF]
+- o10: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o11: φθορᾶς = G5356 φθορά "corruption, destroy, perish" [N-GSF]
+- o12: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o13: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o14: ἐλευθερίαν = G1657 ἐλευθερία "liberty" [N-ASF]
+- o15: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o16: δόξης = G1391 δόξα "dignity, glory(-ious), honour, praise, worship" [N-GSF]
+- o17: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPN]
+- o18: τέκνων = G5043 τέκνον "child, daughter, son" [N-GPN]
+- o19: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o20: θεοῦ. = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]

@@ -799,3 +799,28 @@ Persian entries and current tags:
 - p28: خویش
 - p29: پیوست  → H622
 - p30: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 49:16 (context)
+
+- o1: דָּן = H1835 דָּן "Dan, one of the sons of Jacob…" [HNp]
+- o2: יָדִין = H1777 דִּין "a straight course, i.e. sail direct" [HVqi3ms]
+- o3: עַמּ/וֹ = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp3ms]
+- o4: כְּ/אַחַד = Hk "like" + H259 אֶחָד "properly, united, i.e. one…" [HR/Acmsc]
+- o5: שִׁבְטֵי = H7626 שֵׁבֶט "a scion, i.e. (literally) a stick (for punishing…" [HNcmpc]
+- o6: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+
+### Genesis 50:1 (context)
+
+- o1: וַ/יִּפֹּל = Hc "and" + H5307 נָפַל "to fall…" [HC/Vqw3ms]
+- o2: יוֹסֵף = H3130 יוֹסֵף "Joseph, the name of seven Israelites" [HNp]
+- o3: עַל = H5921 עַל "above, over, upon…" [HR]
+- o4: פְּנֵי = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc]
+- o5: אָבִי/ו = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp3ms]
+- o6: וַ/יֵּבְךְּ = Hc "and" + H1058 בָּכָה "to weep; generally to bemoan" [HC/Vqw3ms]
+- o7: עָלָי/ו = H5921 עַל "above, over, upon…" [HR/Sp3ms]
+- o8: וַ/יִּשַּׁק = Hc "and" + H5401 נָשַׁק "to kiss, literally or figuratively (touch)…" [HC/Vqw3ms]
+- o9: ל/וֹ = Hl "to" [HR/Sp3ms]

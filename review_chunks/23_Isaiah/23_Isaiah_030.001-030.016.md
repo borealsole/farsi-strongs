@@ -863,3 +863,39 @@ Persian entries and current tags:
 - p27: تیزرو  → H7031
 - p28: خواهند_بود
 - p29: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 29:24 (context)
+
+- o1: וְ/יָדְעוּ = Hc "and" + H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HC/Vqq3cp]
+- o2: תֹעֵי = H8582 תָּעָה "to vacillate…" [HVqrmpc]
+- o3: רוּחַ = H7307 רוּחַ "wind…" [HNcbsa]
+- o4: בִּינָה = H998 בִּינָה "understanding" [HNcfsa]
+- o5: וְ/רוֹגְנִים = Hc "and" + H7279 רָגַן "to grumble, i.e. rebel" [HC/Vqrmpa]
+- o6: יִלְמְדוּ = H3925 לָמַד "properly, to goad…" [HVqi3mp]
+- o7: לֶקַח = H3948 לֶקַח "properly, something received…" [HNcmsa]
+
+### Isaiah 30:17 (context)
+
+- o1: אֶלֶף = H505 אֶלֶף "hence (the ox's head being the first letter of…" [HAcbsa]
+- o2: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o3: מִ/פְּנֵי = Hm "from" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o4: גַּעֲרַת = H1606 גְּעָרָה "a chiding" [HNcfsc]
+- o5: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o6: מִ/פְּנֵי = Hm "from" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
+- o7: גַּעֲרַת = H1606 גְּעָרָה "a chiding" [HNcfsc]
+- o8: חֲמִשָּׁה = H2568 חָמֵשׁ "five" [HAcmsa]
+- o9: תָּנֻסוּ = H5127 נוּס "to flit, i.e. vanish away (subside, escape…" [HVqi2mp]
+- o10: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o11: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o12: נוֹתַרְתֶּם = H3498 יָתַר "to jut over or exceed; by implication, to excel…" [HVNp2mp]
+- o13: כַּ/תֹּרֶן = Hk "like" + H8650 תֹּרֶן "a pole (as a mast or flagstaff)" [HRd/Ncmsa]
+- o14: עַל = H5921 עַל "above, over, upon…" [HR]
+- o15: רֹאשׁ = H7218 רֹאשׁ "the head (as most easily shaken)…" [HNcmsc]
+- o16: הָ/הָר = Hd "the" + H2022 הַר "a mountain or range of hills (sometimes used…" [HTd/Ncmsa]
+- o17: וְ/כַ/נֵּס = Hc "and" + Hk "like" + H5251 נֵס "a flag; also a sail; by implication, a flagstaff…" [HC/Rd/Ncmsa]
+- o18: עַל = H5921 עַל "above, over, upon…" [HR]
+- o19: הַ/גִּבְעָה = Hd "the" + H1389 גִּבְעָה "a hillock" [HTd/Ncfsa]

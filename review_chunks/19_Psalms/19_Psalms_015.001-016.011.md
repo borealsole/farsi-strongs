@@ -666,3 +666,38 @@ Persian entries and current tags:
 - p22: تا
 - p23: ابدالآباد  → H5331
 - p24: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 14:7 (context)
+
+- o1: מִי = H4310 מִי "who? (occasionally, by a peculiar idiom…" [HTi]
+- o2: יִתֵּן = H5414 נָתַן "to give…" [HVqi3ms]
+- o3: מִ/צִּיּוֹן = Hm "from" + H6726 צִיּוֹן "Tsijon (as a permanent capital)…" [HR/Np]
+- o4: יְשׁוּעַת = H3444 יְשׁוּעָה "something saved, i.e. (abstractly) deliverance…" [HNcfsc]
+- o5: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o6: בְּ/שׁוּב = Hb "in" + H7725 שׁוּב "to turn back (hence…" [HR/Vqc]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: שְׁבוּת = H7622 שְׁבוּת "exile, concretely, prisoners…" [HNcfsc]
+- o9: עַמּ/וֹ = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp3ms]
+- o10: יָגֵל = H1523 גִּיל "properly…" [HVqi3ms]
+- o11: יַעֲקֹב = H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HNp]
+- o12: יִשְׂמַח = H8055 שָׂמַח "probably to brighten up…" [HVqi3ms]
+- o13: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+
+### Psalms 17:1 (context)
+
+- o1: תְּפִלָּה = H8605 תְּפִלָּה "intercession, supplication; by implication, a hymn" [HNcfsa]
+- o2: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o3: שִׁמְעָ/ה = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqv2ms/Sh]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: צֶדֶק = H6664 צֶדֶק "the right (natural, moral or legal)…" [HNcmsa]
+- o6: הַקְשִׁיבָ/ה = H7181 קָשַׁב "to prick up the ears, i.e. hearken" [HVhv2ms/Sh]
+- o7: רִנָּתִ/י = H7440 רִנָּה "properly, a creaking (or shrill sound)…" [HNcfsc/Sp1cs]
+- o8: הַאֲזִינָ/ה = H238 אָזַן "to broaden out the ear (with the hand)…" [HVhv2ms/Sh]
+- o9: תְפִלָּתִ/י = H8605 תְּפִלָּה "intercession, supplication; by implication, a hymn" [HNcfsc/Sp1cs]
+- o10: בְּ/לֹא = Hb "in" + H3808 לֹא "not (the simple or abs. negation)…" [HR/Tn]
+- o11: שִׂפְתֵי = H8193 שָׂפָה "the lip (as a natural boundary)…" [HNcfdc]
+- o12: מִרְמָה = H4820 מִרְמָה "fraud" [HNcfsa]

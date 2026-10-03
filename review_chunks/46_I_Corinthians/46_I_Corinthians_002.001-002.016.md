@@ -861,3 +861,36 @@ Persian entries and current tags:
 - p19: را
 - p20: داریم  → G2192
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Corinthians 1:31 (context)
+
+- o1: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o2: καθὼς = G2531 καθώς "according to, (according, even) as, how, when" [ADV]
+- o3: γέγραπται, = G1125 γράφω "describe, write(-ing, -ten)" [V-RPI-3S]
+- o4: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o5: καυχώμενος = G2744 καυχάομαι "(make) boast, glory, joy, rejoice" [V-PNP-NSM]
+- o6: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o7: κυρίῳ = G2962 κύριος "God, Lord, master, Sir" [N-DSM]
+- o8: καυχάσθω. = G2744 καυχάομαι "(make) boast, glory, joy, rejoice" [V-PNM-3S]
+
+### I Corinthians 3:1 (context)
+
+- o1: Κἀγώ, = G2504 κἀγώ "and, even, even so, so) I (also, in like wise)…" [P-1NS-K]
+- o2: ἀδελφοί, = G80 ἀδελφός "brother" [N-VPM]
+- o3: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o4: ἠδυνήθην = G1410 δύναμαι "be able, can (do, + -not), could, may, might…" [V-AOI-1S-ATT]
+- o5: λαλῆσαι = G2980 λαλέω "preach, say, speak (after), talk, tell, utter" [V-AAN]
+- o6: ὑμῖν = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
+- o7: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
+- o8: πνευματικοῖς = G4152 πνευματικός "spiritual" [A-DPM]
+- o9: ἀλλ’ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o10: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
+- o11: σαρκίνοις, = G4560 σάρκινος "fleshly" [A-DPM]
+- o12: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
+- o13: νηπίοις = G3516 νήπιος "babe, child (+ -ish)" [A-DPM]
+- o14: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o15: Χριστῷ. = G5547 Χριστός "Christ" [N-DSM]

@@ -850,3 +850,44 @@ Persian entries and current tags:
 - p15: آنجا  → H8033
 - p16: ساکن شده‌اند  → H3427
 - p17: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 4:22 (context)
+
+- o1: וְ/יוֹקִים = Hc "and" + H3137 יוֹקִים "Jokim, an Israelite" [HC/Np]
+- o2: וְ/אַנְשֵׁי = Hc "and" + H376 אִישׁ "a man as an individual or a male person…" [HC/Ncmpc]
+- o3: כֹזֵבָא = H3578 כֹּזְבָא "Cozeba, a place in Palestine" [HNp]
+- o4: וְ/יוֹאָשׁ = Hc "and" + H3101 יוֹאָשׁ "Joash, the name of six Israelites" [HC/Np]
+- o5: וְ/שָׂרָף = Hc "and" + H8315 שָׂרָף "Saraph, an Israelite" [HC/Np]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: בָּעֲלוּ = H1166 בָּעַל "to be master; hence, to marry" [HVqp3cp]
+- o8: לְ/מוֹאָב = Hl "to" + H4124 מוֹאָב "Moab, an incestuous son of Lot…" [HR/Np]
+- o9: וְ/יָשֻׁבִי = Hc "and" + H3433 יָשֻׁבִי לֶחֶם "Jashubi-Lechem, an Israelite" [HC/Np]
+- o10: לָחֶם = H3433 יָשֻׁבִי לֶחֶם "Jashubi-Lechem, an Israelite" [HNp]
+- o11: וְ/הַ/דְּבָרִים = Hc "and" + Hd "the" + H1697 דָּבָר "a word…" [HC/Td/Ncmpa]
+- o12: עַתִּיקִים = H6267 עַתִּיק "removed, i.e. weaned; also antique" [HAampa]
+
+### I Chronicles 5:1 (context)
+
+- o1: וּ/בְנֵי = Hc "and" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/Ncmpc]
+- o2: רְאוּבֵן = H7205 רְאוּבֵן "Reuben, a son of Jacob" [HNp]
+- o3: בְּכוֹר = H1060 בְּכוֹר "firstborn; hence, chief" [HNcmsc]
+- o4: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o5: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o6: הוּא = H1931 הוּא "he (she or it)…" [HPp3ms]
+- o7: הַ/בְּכוֹר = Hd "the" + H1060 בְּכוֹר "firstborn; hence, chief" [HTd/Ncmsa]
+- o8: וּ/בְ/חַלְּל/וֹ = Hc "and" + Hb "in" + H2490 חָלַל "properly, to bore, i.e. (by implication) to wound…" [HC/R/Vpc/Sp3ms]
+- o9: יְצוּעֵי = H3326 יָצוּעַ "spread, i.e. a bed…" [HNcmpc]
+- o10: אָבִי/ו = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp3ms]
+- o11: נִתְּנָה = H5414 נָתַן "to give…" [HVNp3fs]
+- o12: בְּכֹרָת/וֹ = H1062 בְּכוֹרָה "the firstling of man or beast…" [HNcbsc/Sp3ms]
+- o13: לִ/בְנֵי = Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmpc]
+- o14: יוֹסֵף = H3130 יוֹסֵף "Joseph, the name of seven Israelites" [HNp]
+- o15: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o16: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o17: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o18: לְ/הִתְיַחֵשׂ = Hl "to" + H3187 יָחַשׂ "to enroll by pedigree" [HR/Vtc]
+- o19: לַ/בְּכֹרָה = Hl "to" + H1062 בְּכוֹרָה "the firstling of man or beast…" [HRd/Ncbsa]

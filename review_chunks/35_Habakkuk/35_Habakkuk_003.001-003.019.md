@@ -919,3 +919,17 @@ Persian entries and current tags:
 - p27: سازهای  → H5058
 - p28: زهی
 - p29: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Habakkuk 2:20 (context)
+
+- o1: וַ/יהוָה = Hc "and" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HC/Np]
+- o2: בְּ/הֵיכַל = Hb "in" + H1964 הֵיכָל "a large public building…" [HR/Ncmsc]
+- o3: קָדְשׁ/וֹ = H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HNcmsc/Sp3ms]
+- o4: הַס = H2013 הָסָה "to hush" [HTj]
+- o5: מִ/פָּנָי/ו = Hm "from" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp3ms]
+- o6: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o7: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]

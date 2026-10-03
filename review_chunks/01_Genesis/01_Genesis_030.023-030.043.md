@@ -1135,3 +1135,42 @@ Persian entries and current tags:
 - p19: دست
 - p20: آورد
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 30:22 (context)
+
+- o1: וַ/יִּזְכֹּר = Hc "and" + H2142 זָכַר "properly, to mark (so as to be recognized)…" [HC/Vqw3ms]
+- o2: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: רָחֵל = H7354 רָחֵל "Rachel, a wife of Jacob" [HNp]
+- o5: וַ/יִּשְׁמַע = Hc "and" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HC/Vqw3ms]
+- o6: אֵלֶי/הָ = H413 אֵל "near, with or among; often in general, to" [HR/Sp3fs]
+- o7: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o8: וַ/יִּפְתַּח = Hc "and" + H6605 פָּתַח "to open wide (literally or figuratively)…" [HC/Vqw3ms]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: רַחְמָ/הּ = H7358 רֶחֶם "the womb" [HNcmsc/Sp3fs]
+
+### Genesis 31:1 (context)
+
+- o1: וַ/יִּשְׁמַע = Hc "and" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HC/Vqw3ms]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: דִּבְרֵי = H1697 דָּבָר "a word…" [HNcmpc]
+- o4: בְנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o5: לָבָן = H3837 לָבָן "Laban, a Mesopotamian; also a place in the Desert" [HNp]
+- o6: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o7: לָקַח = H3947 לָקַח "to take (in the widest variety of applications)" [HVqp3ms]
+- o8: יַעֲקֹב = H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HNp]
+- o9: אֵת = H853 אֵת "properly…" [HTo]
+- o10: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o11: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o12: לְ/אָבִי/נוּ = Hl "to" + H1 אָב "father, in a literal and immediate…" [HR/Ncmsc/Sp1cp]
+- o13: וּ/מֵ/אֲשֶׁר = Hc "and" + Hm "from" + H834 אֲשֶׁר "who, which, what, that…" [HC/R/Tr]
+- o14: לְ/אָבִי/נוּ = Hl "to" + H1 אָב "father, in a literal and immediate…" [HR/Ncmsc/Sp1cp]
+- o15: עָשָׂה = H6213 עָשָׂה "to do or make…" [HVqp3ms]
+- o16: אֵת = H853 אֵת "properly…" [HTo]
+- o17: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o18: הַ/כָּבֹד = Hd "the" + H3519 כָּבוֹד "properly, weight…" [HTd/Ncbsa]
+- o19: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]

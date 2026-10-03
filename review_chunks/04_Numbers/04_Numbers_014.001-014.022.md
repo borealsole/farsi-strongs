@@ -1148,3 +1148,38 @@ Persian entries and current tags:
 - p36: گوش  → H8085
 - p37: فرا~ندادند  → H3808
 - p38: ،
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 13:33 (context)
+
+- o1: וְ/שָׁם = Hc "and" + H8033 שָׁם "there (transferring to time) then…" [HC/D]
+- o2: רָאִינוּ = H7200 רָאָה "to see…" [HVqp1cp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: הַ/נְּפִילִים = Hd "the" + H5303 נְפִיל "properly, a feller, i.e. a bully or tyrant" [HTd/Ncmpa]
+- o5: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o6: עֲנָק = H6061 עָנָק "Anak, a Canaanite" [HNp]
+- o7: מִן = H4480 מִן "properly, a part of…" [HR]
+- o8: הַ/נְּפִלִים = Hd "the" + H5303 נְפִיל "properly, a feller, i.e. a bully or tyrant" [HTd/Ncmpa]
+- o9: וַ/נְּהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw1cp]
+- o10: בְ/עֵינֵי/נוּ = Hb "in" + H5869 עַיִן "an eye (literally or figuratively)…" [HR/Ncbdc/Sp1cp]
+- o11: כַּ/חֲגָבִים = Hk "like" + H2284 חָגָב "a locust" [HR/Ncmpa]
+- o12: וְ/כֵן = Hc "and" + H3651 כֵּן "properly, set upright…" [HC/Tm]
+- o13: הָיִינוּ = H1961 הָיָה "to exist, i.e. be or become…" [HVqp1cp]
+- o14: בְּ/עֵינֵי/הֶם = Hb "in" + H5869 עַיִן "an eye (literally or figuratively)…" [HR/Ncbdc/Sp3mp]
+
+### Numbers 14:23 (context)
+
+- o1: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o2: יִרְאוּ = H7200 רָאָה "to see…" [HVqi3mp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: נִשְׁבַּעְתִּי = H7650 שָׁבַע "to seven oneself…" [HVNp1cs]
+- o7: לַ/אֲבֹתָ/ם = Hl "to" + H1 אָב "father, in a literal and immediate…" [HR/Ncmpc/Sp3mp]
+- o8: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o9: מְנַאֲצַ/י = H5006 נָאַץ "to scorn" [HVprmpc/Sp1cs]
+- o10: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o11: יִרְאוּ/הָ = H7200 רָאָה "to see…" [HVqi3mp/Sp3fs]

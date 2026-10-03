@@ -898,3 +898,48 @@ Persian entries and current tags:
 - p54: یِبوسی  → H2983
 - p55: ایستاده_بود  → H5975
 - p56: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 20:8 (context)
+
+- o1: אֵל = H411 אֵל "these or those" [HPdxcp]
+- o2: נוּלְּדוּ = H3205 יָלַד "to bear young; causatively, to beget…" [HVNp3cp]
+- o3: לְ/הָ/רָפָא = Hl "to" + Hd "the" + H7497 רָפָא "a giant" [HR/Td/Ngmsa]
+- o4: בְּ/גַת = Hb "in" + H1661 גַּת "Gath, a Philistine city" [HR/Np]
+- o5: וַ/יִּפְּלוּ = Hc "and" + H5307 נָפַל "to fall…" [HC/Vqw3mp]
+- o6: בְ/יַד = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o7: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o8: וּ/בְ/יַד = Hc "and" + Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HC/R/Ncbsc]
+- o9: עֲבָדָי/ו = H5650 עֶבֶד "a servant" [HNcmpc/Sp3ms]
+
+### I Chronicles 21:16 (context)
+
+- o1: וַ/יִּשָּׂא = Hc "and" + H5375 נָשָׂא "to lift, in a great variety of applications…" [HC/Vqw3ms]
+- o2: דָוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: עֵינָי/ו = H5869 עַיִן "an eye (literally or figuratively)…" [HNcbdc/Sp3ms]
+- o5: וַ/יַּרְא = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw3ms]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: מַלְאַךְ = H4397 מֲלְאָךְ "a messenger…" [HNcmsc]
+- o8: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o9: עֹמֵד = H5975 עָמַד "to stand…" [HVqrmsa]
+- o10: בֵּין = H996 בֵּין "between (repeated before each noun…" [HR]
+- o11: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o12: וּ/בֵין = Hc "and" + H996 בֵּין "between (repeated before each noun…" [HC/R]
+- o13: הַ/שָּׁמַיִם = Hd "the" + H8064 שָׁמַיִם "the sky (as aloft…" [HTd/Ncmpa]
+- o14: וְ/חַרְבּ/וֹ = Hc "and" + H2719 חֶרֶב "drought…" [HC/Ncfsc/Sp3ms]
+- o15: שְׁלוּפָה = H8025 שָׁלַף "to pull out, up or off" [HVqsfsa]
+- o16: בְּ/יָד/וֹ = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc/Sp3ms]
+- o17: נְטוּיָה = H5186 נָטָה "to stretch or spread out…" [HVqsfsa]
+- o18: עַל = H5921 עַל "above, over, upon…" [HR]
+- o19: יְרוּשָׁלִָם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+- o20: וַ/יִּפֹּל = Hc "and" + H5307 נָפַל "to fall…" [HC/Vqw3ms]
+- o21: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o22: וְ/הַ/זְּקֵנִים = Hc "and" + Hd "the" + H2205 זָקֵן "old" [HC/Td/Aampa]
+- o23: מְכֻסִּים = H3680 כָּסָה "properly, to plump, i.e. fill up hollows…" [HVPsmpa]
+- o24: בַּ/שַּׂקִּים = Hb "in" + H8242 שַׂק "properly…" [HRd/Ncmpa]
+- o25: עַל = H5921 עַל "above, over, upon…" [HR]
+- o26: פְּנֵי/הֶם = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc/Sp3mp]

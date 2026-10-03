@@ -789,3 +789,49 @@ Persian entries and current tags:
 - p40: هستم
 - p41: .
 - p42: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 28:13 (context)
+
+- o1: בְּ/עֵדֶן = Hb "in" + H5731 עֵדֶן "Eden, the region of Adam's home" [HR/Np]
+- o2: גַּן = H1588 גַּן "a garden (as fenced)" [HNcbsc]
+- o3: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o4: הָיִיתָ = H1961 הָיָה "to exist, i.e. be or become…" [HVqp2ms]
+- o5: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o6: אֶבֶן = H68 אֶבֶן "a stone" [HNcfsa]
+- o7: יְקָרָה = H3368 יָקָר "valuable (objectively or subjectively)" [HAafsa]
+- o8: מְסֻכָתֶ/ךָ = H4540 מְסֻכָּה "a covering, i.e. garniture" [HNcfsc/Sp2ms]
+- o9: אֹדֶם = H124 אֹדֶם "redness, i.e. the ruby, garnet…" [HNcmsa]
+- o10: פִּטְדָה = H6357 פִּטְדָה "a gem, probably the topaz" [HNcfsa]
+- o11: וְ/יָהֲלֹם = Hc "and" + H3095 יַהֲלֹם "a precious stone, probably onyx" [HC/Ncmsa]
+- o12: תַּרְשִׁישׁ = H8658 תַּרְשִׁישׁ "a gem, perhaps the topaz" [HNcmsa]
+- o13: שֹׁהַם = H7718 שֹׁהַם "a gem…" [HNcmsa]
+- o14: וְ/יָשְׁפֵה = Hc "and" + H3471 יָשְׁפֵה "a gem supposed to be jasper (from the resemblance…" [HC/Ncmsa]
+- o15: סַפִּיר = H5601 סַפִּיר "a gem (perhaps used for scratching other…" [HNcmsa]
+- o16: נֹפֶךְ = H5306 נֹפֶךְ "shining; a gem, probably the garnet" [HNcmsa]
+- o17: וּ/בָרְקַת = Hc "and" + H1304 בָּרֶקֶת "a gem (as flashing), perhaps the emerald" [HC/Ncfsa]
+- o18: וְ/זָהָב = Hc "and" + H2091 זָהָב "gold, figuratively…" [HC/Ncmsa]
+- o19: מְלֶאכֶת = H4399 מְלָאכָה "properly, deputyship, i.e. ministry…" [HNcfsc]
+- o20: תֻּפֶּי/ךָ = H8596 תֹּף "a tambourine" [HNcmpc/Sp2ms]
+- o21: וּ/נְקָבֶי/ךָ = Hc "and" + H5345 נֶקֶב "a bezel (for a gem)" [HC/Ncmpc/Sp2ms]
+- o22: בָּ/ךְ = Hb "in" [HR/Sp2fs]
+- o23: בְּ/יוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmsc]
+- o24: הִבָּרַאֲ/ךָ = H1254 בָּרָא "absolutely) to create…" [HVNc/Sp2ms]
+- o25: כּוֹנָנוּ = H3559 כּוּן "properly, to be erect (i.e. stand perpendicular)…" [HVOp3cp]
+
+### Ezekiel 29:1 (context)
+
+- o1: בַּ/שָּׁנָה = Hb "in" + H8141 שָׁנֶה "a year (as a revolution of time)" [HRd/Ncfsa]
+- o2: הָ/עֲשִׂירִית = Hd "the" + H6224 עֲשִׂירִי "tenth…" [HTd/Aofsa]
+- o3: בָּ/עֲשִׂרִי = Hb "in" + H6224 עֲשִׂירִי "tenth…" [HRd/Aomsa]
+- o4: בִּ/שְׁנֵים = Hb "in" + H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HR/Acmda]
+- o5: עָשָׂר = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcmsa]
+- o6: לַ/חֹדֶשׁ = Hl "to" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HRd/Ncmsa]
+- o7: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o8: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o9: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o10: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o11: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

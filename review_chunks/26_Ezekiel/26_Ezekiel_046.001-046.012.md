@@ -779,3 +779,39 @@ Persian entries and current tags:
 - p57: را  → H853
 - p58: ببندند  → H5462
 - p59: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 45:25 (context)
+
+- o1: בַּ/שְּׁבִיעִי = Hb "in" + H7637 שְׁבִיעִי "seventh" [HRd/Aomsa]
+- o2: בַּ/חֲמִשָּׁה = Hb "in" + H2568 חָמֵשׁ "five" [HRd/Acmsa]
+- o3: עָשָׂר = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcmsa]
+- o4: יוֹם = H3117 יוֹם "a day (as the warm hours)…" [HNcmsa]
+- o5: לַ/חֹדֶשׁ = Hl "to" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HRd/Ncmsa]
+- o6: בֶּ/חָג = Hb "in" + H2282 חַג "a festival, or a victim therefor" [HRd/Ncmsa]
+- o7: יַעֲשֶׂה = H6213 עָשָׂה "to do or make…" [HVqi3ms]
+- o8: כָ/אֵלֶּה = Hk "like" + H428 אֵלֶּה "these or those" [HR/Pdxcp]
+- o9: שִׁבְעַת = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcmsc]
+- o10: הַ/יָּמִים = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmpa]
+- o11: כַּ/חַטָּאת = Hk "like" + H2403 חַטָּאָה "an offence (sometimes habitual sinfulness)…" [HRd/Ncfsa]
+- o12: כָּ/עֹלָה = Hk "like" + H5930 עֹלָה "a step or (collectively, stairs, as ascending)…" [HRd/Ncfsa]
+- o13: וְ/כַ/מִּנְחָה = Hc "and" + Hk "like" + H4503 מִנְחָה "a donation; euphemistically, tribute…" [HC/Rd/Ncfsa]
+- o14: וְ/כַ/שָּׁמֶן = Hc "and" + Hk "like" + H8081 שֶׁמֶן "grease, especially liquid (as from the olive…" [HC/Rd/Ncmsa]
+
+### Ezekiel 46:13 (context)
+
+- o1: וְ/כֶבֶשׂ = Hc "and" + H3532 כֶּבֶשׂ "a ram (just old enough to butt)" [HC/Ncmsa]
+- o2: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o3: שְׁנָת/וֹ = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsc/Sp3ms]
+- o4: תָּמִים = H8549 תָּמִים "entire (literally, figuratively or morally)…" [HAamsa]
+- o5: תַּעֲשֶׂה = H6213 עָשָׂה "to do or make…" [HVqi2ms]
+- o6: עוֹלָה = H5930 עֹלָה "a step or (collectively, stairs, as ascending)…" [HNcfsa]
+- o7: לַ/יּוֹם = Hl "to" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
+- o8: לַ/יהֹוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o9: בַּ/בֹּקֶר = Hb "in" + H1242 בֹּקֶר "properly, dawn (as the break of day)…" [HRd/Ncmsa]
+- o10: בַּ/בֹּקֶר = Hb "in" + H1242 בֹּקֶר "properly, dawn (as the break of day)…" [HRd/Ncmsa]
+- o11: תַּעֲשֶׂה = H6213 עָשָׂה "to do or make…" [HVqi2ms]
+- o12: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]

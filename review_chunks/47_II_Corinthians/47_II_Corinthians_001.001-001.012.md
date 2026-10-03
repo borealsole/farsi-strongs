@@ -753,3 +753,28 @@ Persian entries and current tags:
 - p36: خدا  → G2316
 - p37: عمل کرده‌ایم  → G390
 - p38: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Corinthians 1:13 (context)
+
+- o1: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o2: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o3: ἄλλα = G243 ἄλλος "more, one (another), (an-, some an-)other(-s…" [A-APN]
+- o4: γράφομεν = G1125 γράφω "describe, write(-ing, -ten)" [V-PAI-1P]
+- o5: ὑμῖν = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
+- o6: ἀλλ’ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o7: ἢ = G2228 ἤ "and, but (either), (n-)either, except it be…" [PRT]
+- o8: ἃ = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-APN]
+- o9: ἀναγινώσκετε = G314 ἀναγινώσκω "read" [V-PAI-2P]
+- o10: ἢ = G2228 ἤ "and, but (either), (n-)either, except it be…" [PRT]
+- o11: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o12: ἐπιγινώσκετε, = G1921 ἐπιγινώσκω "(ac-, have, take)know(-ledge, well), perceive" [V-PAI-2P]
+- o13: ἐλπίζω = G1679 ἐλπίζω "(have, thing) hope(-d) (for), trust" [V-PAI-1S]
+- o14: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o15: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o16: ἕως = G2193 ἕως "even (until, unto), (as) far (as), how long…" [ADV]
+- o17: τέλους = G5056 τέλος "+ continual, custom, end(-ing), finally, uttermost" [N-GSN]
+- o18: ἐπιγνώσεσθε, = G1921 ἐπιγινώσκω "(ac-, have, take)know(-ledge, well), perceive" [V-FDI-2P]

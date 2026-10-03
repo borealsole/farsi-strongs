@@ -914,3 +914,43 @@ Persian entries and current tags:
 - p16: است
 - p17: سوگند خورده_است  → G3660
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 22:46 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: οὐδεὶς = G3762 οὐδείς "any (man), aught, man, neither any (thing)…" [A-NSM-N]
+- o3: ἐδύνατο = G1410 δύναμαι "be able, can (do, + -not), could, may, might…" [V-INI-3S]
+- o4: ἀποκριθῆναι = G611 ἀποκρίνομαι "answer" [V-AON]
+- o5: αὐτῷ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
+- o6: λόγον, = G3056 λόγος "account, cause, communication, concerning…" [N-ASM]
+- o7: οὐδὲ = G3761 οὐδέ "neither (indeed), never, no (more, nor, not)…" [CONJ-N]
+- o8: ἐτόλμησέν = G5111 τολμάω "be bold, boldly, dare, durst" [V-AAI-3S]
+- o9: τις = G5100 τὶς "a (kind of), any (man, thing, thing at all)…" [X-NSM]
+- o10: ἀπ’ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
+- o11: ἐκείνης = G1565 ἐκεῖνος "he, it, the other (same), selfsame, that (same…" [D-GSF]
+- o12: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o13: ἡμέρας = G2250 ἡμέρα "age, + alway, (mid-)day (by day, (-ly))…" [N-GSF]
+- o14: ἐπερωτῆσαι = G1905 ἐπερωτάω "ask (after, questions), demand, desire, question" [V-AAN]
+- o15: αὐτὸν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASM]
+- o16: οὐκέτι. = G3765 οὐκέτι "after that (not), (not) any more…" [ADV-N]
+
+### Matthew 23:21 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o3: ὀμόσας = G3660 ὀμνύω "swear" [V-AAP-NSM]
+- o4: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o5: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o6: ναῷ = G3485 ναός "shrine, temple" [N-DSM]
+- o7: ὀμνύει = G3660 ὀμνύω "swear" [V-PAI-3S]
+- o8: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o9: αὐτῷ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
+- o10: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o11: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o12: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o13: κατοικοῦντι = G2730 κατοικέω "dwell(-er), inhabitant(-ter)" [V-PAP-DSM]
+- o14: αὐτόν· = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASM]

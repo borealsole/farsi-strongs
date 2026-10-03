@@ -702,3 +702,32 @@ Persian entries and current tags:
 - p20: خداوند  → H3068
 - p21: آغاز کردند  → H2490
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 4:13 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: קַיִן = H7014 קַיִן "Kajin, the name of the first child…" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: גָּדוֹל = H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HAamsa]
+- o6: עֲוֺנִ/י = H5771 עָוֺן "perversity, i.e. (moral) evil" [HNcbsc/Sp1cs]
+- o7: מִ/נְּשֹׂא = Hm "from" + H5375 נָשָׂא "to lift, in a great variety of applications…" [HR/Vqc]
+
+### Genesis 5:1 (context)
+
+- o1: זֶה = H2088 זֶה "the masculine demonstrative pronoun, this or that" [HPdxms]
+- o2: סֵפֶר = H5612 סֵפֶר "properly, writing (the art or a document)…" [HNcmsc]
+- o3: תּוֹלְדֹת = H8435 תּוֹלְדָה "plural only) descent, i.e. family…" [HNcfpc]
+- o4: אָדָם = H121 אָדָם "Adam the name of the first man…" [HNp]
+- o5: בְּ/יוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmsc]
+- o6: בְּרֹא = H1254 בָּרָא "absolutely) to create…" [HVqc]
+- o7: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o8: אָדָם = H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HNcmsa]
+- o9: בִּ/דְמוּת = Hb "in" + H1823 דְּמוּת "resemblance; concretely, model, shape…" [HR/Ncfsc]
+- o10: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o11: עָשָׂה = H6213 עָשָׂה "to do or make…" [HVqp3ms]
+- o12: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]

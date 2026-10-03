@@ -1285,3 +1285,40 @@ Persian entries and current tags:
 - p20: بگذارم
 - p21: !
 - p22: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 24:22 (context)
+
+- o1: וַ/יִּשָּׁבַע = Hc "and" + H7650 שָׁבַע "to seven oneself…" [HC/VNw3ms]
+- o2: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o3: לְ/שָׁאוּל = Hl "to" + H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HR/Np]
+- o4: וַ/יֵּלֶךְ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3ms]
+- o5: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o6: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o7: בֵּית/וֹ = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc/Sp3ms]
+- o8: וְ/דָוִד = Hc "and" + H1732 דָּוִד "David, the youngest son of Jesse" [HC/Np]
+- o9: וַ/אֲנָשָׁי/ו = Hc "and" + H376 אִישׁ "a man as an individual or a male person…" [HC/Ncmpc/Sp3ms]
+- o10: עָלוּ = H5927 עָלָה "to ascend…" [HVqp3cp]
+- o11: עַל = H5921 עַל "above, over, upon…" [HR]
+- o12: הַ/מְּצוּדָה = Hd "the" + H4686 מָצוּד "a net, or (abstractly) capture; also a fastness" [HTd/Ncbsa]
+
+### I Samuel 25:23 (context)
+
+- o1: וַ/תֵּרֶא = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw3fs]
+- o2: אֲבִיגַיִל = H26 אֲבִיגַיִל "Abigail or Abigal, the name of two Israelitesses" [HNp]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o5: וַ/תְּמַהֵר = Hc "and" + H4116 מָהַר "properly, to be liquid or flow easily…" [HC/Vpw3fs]
+- o6: וַ/תֵּרֶד = Hc "and" + H3381 יָרַד "to descend (literally, to go downwards…" [HC/Vqw3fs]
+- o7: מֵ/עַל = Hm "from" + H5921 עַל "above, over, upon…" [HR/R]
+- o8: הַ/חֲמוֹר = Hd "the" + H2543 חֲמוֹר "a male ass (from its dun red)" [HTd/Ncbsa]
+- o9: וַ/תִּפֹּל = Hc "and" + H5307 נָפַל "to fall…" [HC/Vqw3fs]
+- o10: לְ/אַפֵּי = Hl "to" + H639 אַף "properly, the nose or nostril…" [HR/Ncmdc]
+- o11: דָוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o12: עַל = H5921 עַל "above, over, upon…" [HR]
+- o13: פָּנֶי/הָ = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc/Sp3fs]
+- o14: וַ/תִּשְׁתַּחוּ = Hc "and" + H7812 שָׁחָה "to depress, i.e. prostrate (especially reflexive…" [HC/Vvw3fs]
+- o15: אָרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsa]

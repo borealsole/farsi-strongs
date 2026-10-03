@@ -1016,3 +1016,46 @@ Persian entries and current tags:
 - p22: شما
 - p23: سلطنت خواهم_کرد  → H4427
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 20:16 (context)
+
+- o1: יַעַן = H3282 יַעַן "properly, heed…" [HC]
+- o2: בְּ/מִשְׁפָּטַ/י = Hb "in" + H4941 מִשְׁפָּט "properly…" [HR/Ncmpc/Sp1cs]
+- o3: מָאָסוּ = H3988 מָאַס "to spurn; also (intransitively) to disappear" [HVqp3cp]
+- o4: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o5: חֻקּוֹתַ/י = H2708 חֻקָּה "an enactment…" [HNcbpc/Sp1cs]
+- o6: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o7: הָלְכוּ = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVqp3cp]
+- o8: בָ/הֶם = Hb "in" [HR/Sp3mp]
+- o9: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o10: שַׁבְּתוֹתַ/י = H7676 שַׁבָּת "intermission, i.e (specifically) the Sabbath" [HNcbpc/Sp1cs]
+- o11: חִלֵּלוּ = H2490 חָלַל "properly, to bore, i.e. (by implication) to wound…" [HVpp3cp]
+- o12: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o13: אַחֲרֵי = H310 אַחַר "properly, the hind part…" [HR]
+- o14: גִלּוּלֵי/הֶם = H1544 גִּלּוּל "properly, a log (as round)…" [HNcmpc/Sp3mp]
+- o15: לִבָּ/ם = H3820 לֵב "the heart…" [HNcmsc/Sp3mp]
+- o16: הֹלֵךְ = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVqrmsa]
+
+### Ezekiel 20:34 (context)
+
+- o1: וְ/הוֹצֵאתִי = Hc "and" + H3318 יָצָא "to go (causatively, bring) out…" [HC/Vhq1cs]
+- o2: אֶתְ/כֶם = H853 אֵת "properly…" [HTo/Sp2mp]
+- o3: מִן = H4480 מִן "properly, a part of…" [HR]
+- o4: הָ/עַמִּים = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmpa]
+- o5: וְ/קִבַּצְתִּי = Hc "and" + H6908 קָבַץ "to grasp, i.e. collect" [HC/Vpq1cs]
+- o6: אֶתְ/כֶם = H853 אֵת "properly…" [HTo/Sp2mp]
+- o7: מִן = H4480 מִן "properly, a part of…" [HR]
+- o8: הָ/אֲרָצוֹת = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbpa]
+- o9: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o10: נְפוֹצֹתֶם = H6327 פּוּץ "to dash in pieces…" [HVNp2mp]
+- o11: בָּ/ם = Hb "in" [HR/Sp3mp]
+- o12: בְּ/יָד = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsa]
+- o13: חֲזָקָה = H2389 חָזָק "strong (usu. in a bad sense, hard, bold, violent)" [HAafsa]
+- o14: וּ/בִ/זְרוֹעַ = Hc "and" + Hb "in" + H2220 זְרוֹעַ "the arm (as stretched out)…" [HC/R/Ncbsa]
+- o15: נְטוּיָה = H5186 נָטָה "to stretch or spread out…" [HVqsfsa]
+- o16: וּ/בְ/חֵמָה = Hc "and" + Hb "in" + H2534 חֵמָה "heat; figuratively, anger, poison (from its fever)" [HC/R/Ncfsa]
+- o17: שְׁפוּכָה = H8210 שָׁפַךְ "to spill forth (blood, a libation, liquid metal…" [HVqsfsa]

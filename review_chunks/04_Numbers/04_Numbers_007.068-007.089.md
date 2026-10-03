@@ -1086,3 +1086,38 @@ Persian entries and current tags:
 - p42: وی
 - p43: سخن گفت  → H1696
 - p44: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 7:67 (context)
+
+- o1: קָרְבָּנ/וֹ = H7133 קׇרְבָּן "something brought near the altar…" [HNcmsc/Sp3ms]
+- o2: קַעֲרַת = H7086 קְעָרָה "a bowl (as cut out hollow)" [HNcfsc]
+- o3: כֶּסֶף = H3701 כֶּסֶף "silver (from its pale color)…" [HNcmsa]
+- o4: אַחַת = H259 אֶחָד "properly, united, i.e. one…" [HAcfsa]
+- o5: שְׁלֹשִׁים = H7970 שְׁלוֹשִׁים "thirty; or (ordinal) thirtieth" [HAcbpa]
+- o6: וּ/מֵאָה = Hc "and" + H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HC/Acbsa]
+- o7: מִשְׁקָלָ/הּ = H4948 מִשְׁקָל "weight (numerically estimated)…" [HNcmsc/Sp3fs]
+- o8: מִזְרָק = H4219 מִזְרָק "a bowl (as if for sprinkling)" [HNcmsa]
+- o9: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o10: כֶּסֶף = H3701 כֶּסֶף "silver (from its pale color)…" [HNcmsa]
+- o11: שִׁבְעִים = H7657 שִׁבְעִים "seventy" [HAcbpa]
+- o12: שֶׁקֶל = H8255 שֶׁקֶל "probably a weight; used as a commercial standard" [HNcmsa]
+- o13: בְּ/שֶׁקֶל = Hb "in" + H8255 שֶׁקֶל "probably a weight; used as a commercial standard" [HR/Ncmsc]
+- o14: הַ/קֹּדֶשׁ = Hd "the" + H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HTd/Ncmsa]
+- o15: שְׁנֵי/הֶם = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmdc/Sp3mp]
+- o16: מְלֵאִים = H4392 מָלֵא "full (literally or figuratively) or filling…" [HAampa]
+- o17: סֹלֶת = H5560 סֹלֶת "flour (as chipped off)" [HNcfsa]
+- o18: בְּלוּלָה = H1101 בָּלַל "to overflow (specifically with oil.)…" [HVqsfsa]
+- o19: בַ/שֶּׁמֶן = Hb "in" + H8081 שֶׁמֶן "grease, especially liquid (as from the olive…" [HRd/Ncmsa]
+- o20: לְ/מִנְחָה = Hl "to" + H4503 מִנְחָה "a donation; euphemistically, tribute…" [HR/Ncfsa]
+
+### Numbers 8:1 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: לֵּ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

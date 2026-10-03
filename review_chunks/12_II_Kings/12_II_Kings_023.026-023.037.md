@@ -792,3 +792,49 @@ Persian entries and current tags:
 - p18: جا
 - p19: آورد
 - p20: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 23:25 (context)
+
+- o1: וְ/כָמֹ/הוּ = Hc "and" + H3644 כְּמוֹ "a form of the prefix 'k-', but used separately as…" [HC/R/Sp3ms]
+- o2: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o3: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o4: לְ/פָנָי/ו = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp3ms]
+- o5: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsa]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: שָׁב = H7725 שׁוּב "to turn back (hence…" [HVqp3ms]
+- o8: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o9: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o10: בְּ/כָל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o11: לְבָב/וֹ = H3824 לֵבָב "the heart (as the most interior organ)" [HNcmsc/Sp3ms]
+- o12: וּ/בְ/כָל = Hc "and" + Hb "in" + H3605 כֹּל "properly, the whole…" [HC/R/Ncmsc]
+- o13: נַפְשׁ/וֹ = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsc/Sp3ms]
+- o14: וּ/בְ/כָל = Hc "and" + Hb "in" + H3605 כֹּל "properly, the whole…" [HC/R/Ncmsc]
+- o15: מְאֹד/וֹ = H3966 מְאֹד "properly, vehemence…" [HNcmsc/Sp3ms]
+- o16: כְּ/כֹל = Hk "like" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o17: תּוֹרַת = H8451 תּוֹרָה "a precept or statute…" [HNcfsc]
+- o18: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o19: וְ/אַחֲרָי/ו = Hc "and" + H310 אַחַר "properly, the hind part…" [HC/R/Sp3ms]
+- o20: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o21: קָם = H6965 קוּם "to rise (in various applications, literal…" [HVqp3ms]
+- o22: כָּמֹ/הוּ = H3644 כְּמוֹ "a form of the prefix 'k-', but used separately as…" [HR/Sp3ms]
+
+### II Kings 24:1 (context)
+
+- o1: בְּ/יָמָי/ו = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmpc/Sp3ms]
+- o2: עָלָה = H5927 עָלָה "to ascend…" [HVqp3ms]
+- o3: נְבֻכַדְנֶאצַּר = H5019 נְבוּכַדְנֶאצַּר "Nebukadnetstsar (or -retstsar, or -retstsor)…" [HNp]
+- o4: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o5: בָּבֶל = H894 בָּבֶל "Babel (i.e. Babylon)…" [HNp]
+- o6: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o7: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o8: יְהוֹיָקִים = H3079 יְהוֹיָקִים "Jehojakim, a Jewish king" [HNp]
+- o9: עֶבֶד = H5650 עֶבֶד "a servant" [HNcmsa]
+- o10: שָׁלֹשׁ = H7969 שָׁלוֹשׁ "three…" [HAcfsa]
+- o11: שָׁנִים = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfpa]
+- o12: וַ/יָּשָׁב = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqw3ms]
+- o13: וַ/יִּמְרָד = Hc "and" + H4775 מָרַד "to rebel" [HC/Vqw3ms]
+- o14: בּ/וֹ = Hb "in" [HR/Sp3ms]

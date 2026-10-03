@@ -770,3 +770,27 @@ Persian entries and current tags:
 - p14: بس
 - p15: .
 - p16: سِلاه  → H5542
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 8:9 (context)
+
+- o1: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o2: אֲדֹנֵי/נוּ = H113 אָדוֹן "sovereign, i.e. controller (human or divine)" [HNcmpc/Sp1cp]
+- o3: מָה = H4100 מָה "properly…" [HTi]
+- o4: אַדִּיר = H117 אַדִּיר "wide or (generally) large; figuratively, powerful" [HAamsa]
+- o5: שִׁמְ/ךָ = H8034 שֵׁם "an appellation…" [HNcmsc/Sp2ms]
+- o6: בְּ/כָל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o7: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+
+### Psalms 10:1 (context)
+
+- o1: לָ/מָה = Hl "to" + H4100 מָה "properly…" [HR/Ti]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: תַּעֲמֹד = H5975 עָמַד "to stand…" [HVqi2ms]
+- o4: בְּ/רָחוֹק = Hb "in" + H7350 רָחוֹק "remote, literally or figuratively…" [HR/Aamsa]
+- o5: תַּעְלִים = H5956 עָלַם "to veil from sight…" [HVhi2ms]
+- o6: לְ/עִתּוֹת = Hl "to" + H6256 עֵת "time, especially (adverb with preposition) now…" [HR/Ncbpa]
+- o7: בַּצָּרָה = H6869 צָרָה "tightness (i.e. figuratively, trouble)…" [HNcfsa]

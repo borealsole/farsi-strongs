@@ -1247,3 +1247,35 @@ Persian entries and current tags:
 - p21: روز  → H3117
 - p22: ششم  → H8345
 - p23: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 1:7 (context)
+
+- o1: וַ/יַּעַשׂ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3ms]
+- o2: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: הָ/רָקִיעַ = Hd "the" + H7549 רָקִיעַ "properly, an expanse…" [HTd/Ncmsa]
+- o5: וַ/יַּבְדֵּל = Hc "and" + H914 בָּדַל "to divide (in variation senses literally or…" [HC/Vhw3ms]
+- o6: בֵּין = H996 בֵּין "between (repeated before each noun…" [HR]
+- o7: הַ/מַּיִם = Hd "the" + H4325 מַיִם "water; figuratively, juice…" [HTd/Ncmpa]
+- o8: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o9: מִ/תַּחַת = Hm "from" + H8478 תַּחַת "the bottom (as depressed)…" [HR/R]
+- o10: לָ/רָקִיעַ = Hl "to" + H7549 רָקִיעַ "properly, an expanse…" [HRd/Ncmsa]
+- o11: וּ/בֵין = Hc "and" + H996 בֵּין "between (repeated before each noun…" [HC/R]
+- o12: הַ/מַּיִם = Hd "the" + H4325 מַיִם "water; figuratively, juice…" [HTd/Ncmpa]
+- o13: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o14: מֵ/עַל = Hm "from" + H5921 עַל "above, over, upon…" [HR/R]
+- o15: לָ/רָקִיעַ = Hl "to" + H7549 רָקִיעַ "properly, an expanse…" [HRd/Ncmsa]
+- o16: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o17: כֵן = H3651 כֵּן "properly, set upright…" [HD]
+
+### Genesis 2:1 (context)
+
+- o1: וַ/יְכֻלּוּ = Hc "and" + H3615 כָּלָה "to end, whether intransitive (to cease…" [HC/VPw3mp]
+- o2: הַ/שָּׁמַיִם = Hd "the" + H8064 שָׁמַיִם "the sky (as aloft…" [HTd/Ncmpa]
+- o3: וְ/הָ/אָרֶץ = Hc "and" + Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HC/Td/Ncbsa]
+- o4: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o5: צְבָאָ/ם = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbsc/Sp3mp]

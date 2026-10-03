@@ -726,3 +726,51 @@ Persian entries and current tags:
 - p20: را
 - p21: ببخشایید
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ephesians 4:16 (context)
+
+- o1: ἐξ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o2: οὗ = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-GSM]
+- o3: πᾶν = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-NSN]
+- o4: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o5: σῶμα = G4983 σῶμα "bodily, body, slave" [N-NSN]
+- o6: συναρμολογούμενον = G4883 συναρμολογέω "be fitly framed (joined) together" [V-PPP-NSN]
+- o7: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o8: συνβιβαζόμενον = G4822 συμβιβάζω "compact, assuredly gather, intrust, knit together…" [V-PPP-NSN]
+- o9: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o10: πάσης = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-GSF]
+- o11: ἁφῆς = G860 ἁφή "joint" [N-GSF]
+- o12: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o13: ἐπιχορηγίας = G2024 ἐπιχορηγία "supply" [N-GSF]
+- o14: κατ’ = G2596 κατά "about, according as (to), after, against…" [PREP]
+- o15: ἐνέργειαν = G1753 ἐνέργεια "operation, strong, (effectual) working" [N-ASF]
+- o16: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o17: μέτρῳ = G3358 μέτρον "measure" [N-DSN]
+- o18: ἑνὸς = G1520 εἷς "a(-n, -ny, certain), + abundantly, man…" [A-GSN]
+- o19: ἑκάστου = G1538 ἕκαστος "any, both, each (one), every (man, one, woman)…" [A-GSN]
+- o20: μέρους = G3313 μέρος "behalf, course, coast, craft, particular (+ -ly)…" [N-GSN]
+- o21: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o22: αὔξησιν = G838 αὔξησις "increase" [N-ASF]
+- o23: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
+- o24: σώματος = G4983 σῶμα "bodily, body, slave" [N-GSN]
+- o25: ποιεῖται = G4160 ποιέω "abide, + agree, appoint, avenge, + band together…" [V-PMI-3S]
+- o26: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o27: οἰκοδομὴν = G3619 οἰκοδομή "building, edify(-ication, -ing)" [N-ASF]
+- o28: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o29: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o30: ἀγάπῃ. = G26 ἀγάπη "(feast of) charity(-ably), dear, love" [N-DSF]
+
+### Ephesians 5:1 (context)
+
+- o1: Γίνεσθε = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-PNM-2P]
+- o2: οὖν = G3767 οὖν "and (so, truly), but, now (then)…" [CONJ]
+- o3: μιμηταὶ = G3402 μιμητής "follower" [N-NPM]
+- o4: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o5: θεοῦ, = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o6: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
+- o7: τέκνα = G5043 τέκνον "child, daughter, son" [N-NPN]
+- o8: ἀγαπητά, = G27 ἀγαπητός "(dearly, well) beloved, dear" [A-NPN]

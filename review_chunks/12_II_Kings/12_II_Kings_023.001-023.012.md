@@ -925,3 +925,64 @@ Persian entries and current tags:
 - p43: قِدرون  → H6939
 - p44: ریخت  → H7993
 - p45: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 22:20 (context)
+
+- o1: לָ/כֵן = Hl "to" + H3651 כֵּן "properly, set upright…" [HR/D]
+- o2: הִנְ/נִי = H2005 הֵן "lo!; also (as expressing surprise) if" [HTm/Sp1cs]
+- o3: אֹסִפְ/ךָ = H622 אָסַף "to gather for any purpose…" [HVqrmsc/Sp2ms]
+- o4: עַל = H5921 עַל "above, over, upon…" [HR]
+- o5: אֲבֹתֶי/ךָ = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp2ms]
+- o6: וְ/נֶאֱסַפְתָּ = Hc "and" + H622 אָסַף "to gather for any purpose…" [HC/VNq2ms]
+- o7: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o8: קִבְרֹתֶי/ךָ = H6913 קֶבֶר "a sepulchre" [HNcmpc/Sp2ms]
+- o9: בְּ/שָׁלוֹם = Hb "in" + H7965 שָׁלוֹם "safe, i.e. (figuratively) well, happy, friendly…" [HR/Ncmsa]
+- o10: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o11: תִרְאֶינָה = H7200 רָאָה "to see…" [HVqi3fp]
+- o12: עֵינֶי/ךָ = H5869 עַיִן "an eye (literally or figuratively)…" [HNcbdc/Sp2ms]
+- o13: בְּ/כֹל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o14: הָ/רָעָה = Hd "the" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HTd/Ncfsa]
+- o15: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o16: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o17: מֵבִיא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVhrmsa]
+- o18: עַל = H5921 עַל "above, over, upon…" [HR]
+- o19: הַ/מָּקוֹם = Hd "the" + H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HTd/Ncmsa]
+- o20: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o21: וַ/יָּשִׁיבוּ = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vhw3mp]
+- o22: אֶת = H853 אֵת "properly…" [HTo]
+- o23: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o24: דָּבָר = H1697 דָּבָר "a word…" [HNcmsa]
+
+### II Kings 23:13 (context)
+
+- o1: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o2: הַ/בָּמוֹת = Hd "the" + H1116 בָּמָה "an elevation" [HTd/Ncfpa]
+- o3: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o4: עַל = H5921 עַל "above, over, upon…" [HR]
+- o5: פְּנֵי = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc]
+- o6: יְרוּשָׁלִַם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o8: מִ/ימִין = Hm "from" + H3225 יָמִין "the right hand or side (leg…" [HR/Ncfsc]
+- o9: לְ/הַר = Hl "to" + H2022 הַר "a mountain or range of hills (sometimes used…" [HR/Ncmsc]
+- o10: הַ/מַּשְׁחִית = Hd "the" + H4889 מַשְׁחִית "destructive, i.e. (as noun) destruction…" [HTd/Ncmsa]
+- o11: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o12: בָּנָה = H1129 בָּנָה "to build (literally and figuratively)" [HVqp3ms]
+- o13: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o14: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o15: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o16: לְ/עַשְׁתֹּרֶת = Hl "to" + H6253 עַשְׁתֹּרֶת "Ashtoreth…" [HR/Np]
+- o17: שִׁקֻּץ = H8251 שִׁקּוּץ "disgusting, i.e. filthy…" [HNcmsc]
+- o18: צִידֹנִים = H6722 צִידֹנִי "a Tsidonian or inhabitant of Tsidon" [HNgmpa]
+- o19: וְ/לִ/כְמוֹשׁ = Hc "and" + Hl "to" + H3645 כְּמוֹשׁ "Kemosh, the god of the Moabites" [HC/R/Np]
+- o20: שִׁקֻּץ = H8251 שִׁקּוּץ "disgusting, i.e. filthy…" [HNcmsc]
+- o21: מוֹאָב = H4124 מוֹאָב "Moab, an incestuous son of Lot…" [HNp]
+- o22: וּ/לְ/מִלְכֹּם = Hc "and" + Hl "to" + H4445 מַלְכָּם "Malcam or Milcom…" [HC/R/Np]
+- o23: תּוֹעֲבַת = H8441 תּוֹעֵבַה "properly, something disgusting (morally)…" [HNcfsc]
+- o24: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o25: עַמּוֹן = H5983 עַמּוֹן "Ammon, a son of Lot…" [HNp]
+- o26: טִמֵּא = H2930 טָמֵא "to be foul…" [HVpp3ms]
+- o27: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]

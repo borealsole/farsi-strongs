@@ -719,3 +719,25 @@ Persian entries and current tags:
 - p11: دور
 - p12: نشده‌ام  → H3808
 - p13: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 119:88 (context)
+
+- o1: כְּ/חַסְדְּ/ךָ = Hk "like" + H2617 חֵסֵד "kindness; by implication (towards God) piety…" [HR/Ncmsc/Sp2ms]
+- o2: חַיֵּ/נִי = H2421 חָיָה "to live, whether literally or figuratively…" [HVpv2ms/Sp1cs]
+- o3: וְ/אֶשְׁמְרָה = Hc "and" + H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HC/Vqh1cs]
+- o4: עֵדוּת = H5715 עֵדוּת "testimony" [HNcfsc]
+- o5: פִּי/ךָ = H6310 פֶּה "the mouth (as the means of blowing)…" [HNcmsc/Sp2ms]
+
+### Psalms 119:111 (context)
+
+- o1: נָחַלְתִּי = H5157 נָחַל "to inherit (as a (figurative) mode of descent)…" [HVqp1cs]
+- o2: עֵדְוֺתֶי/ךָ = H5715 עֵדוּת "testimony" [HNcfpc/Sp2ms]
+- o3: לְ/עוֹלָם = Hl "to" + H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HR/Ncmsa]
+- o4: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o5: שְׂשׂוֹן = H8342 שָׂשׂוֹן "cheerfulness; specifically, welcome" [HNcmsc]
+- o6: לִבִּ/י = H3820 לֵב "the heart…" [HNcmsc/Sp1cs]
+- o7: הֵמָּה = H1992 הֵם "they (only used when emphatic)" [HPp3mp]

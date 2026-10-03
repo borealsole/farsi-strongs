@@ -917,3 +917,43 @@ Persian entries and current tags:
 - p24: شما
 - p25: هستم  → H589
 - p26: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 25:37 (context)
+
+- o1: אֶת = H853 אֵת "properly…" [HTo]
+- o2: כַּסְפְּ/ךָ = H3701 כֶּסֶף "silver (from its pale color)…" [HNcmsc/Sp2ms]
+- o3: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o4: תִתֵּן = H5414 נָתַן "to give…" [HVqi2ms]
+- o5: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o6: בְּ/נֶשֶׁךְ = Hb "in" + H5392 נֶשֶׁךְ "interest on a debt" [HR/Ncmsa]
+- o7: וּ/בְ/מַרְבִּית = Hc "and" + Hb "in" + H4768 מַרְבִּית "a multitude; also offspring…" [HC/R/Ncfsa]
+- o8: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o9: תִתֵּן = H5414 נָתַן "to give…" [HVqi2ms]
+- o10: אָכְלֶ/ךָ = H400 אֹכֶל "food" [HNcmsc/Sp2ms]
+
+### Leviticus 26:1 (context)
+
+- o1: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o2: תַעֲשׂוּ = H6213 עָשָׂה "to do or make…" [HVqi2mp]
+- o3: לָ/כֶם = Hl "to" [HR/Sp2mp]
+- o4: אֱלִילִם = H457 אֱלִיל "good for nothing, by anal. vain or vanity…" [HNcmpa]
+- o5: וּ/פֶסֶל = Hc "and" + H6459 פֶּסֶל "an idol" [HC/Ncmsa]
+- o6: וּ/מַצֵּבָה = Hc "and" + H4676 מַצֵּבָה "something stationed…" [HC/Ncfsa]
+- o7: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o8: תָקִימוּ = H6965 קוּם "to rise (in various applications, literal…" [HVhi2mp]
+- o9: לָ/כֶם = Hl "to" [HR/Sp2mp]
+- o10: וְ/אֶבֶן = Hc "and" + H68 אֶבֶן "a stone" [HC/Ncfsc]
+- o11: מַשְׂכִּית = H4906 מַשְׂכִּית "a figure (carved on stone, the wall…" [HNcfsa]
+- o12: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o13: תִתְּנוּ = H5414 נָתַן "to give…" [HVqi2mp]
+- o14: בְּ/אַרְצְ/כֶם = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc/Sp2cp]
+- o15: לְ/הִשְׁתַּחֲוֺת = Hl "to" + H7812 שָׁחָה "to depress, i.e. prostrate (especially reflexive…" [HR/Vtc]
+- o16: עָלֶי/הָ = H5921 עַל "above, over, upon…" [HR/Sp3fs]
+- o17: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o18: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o19: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o20: אֱלֹהֵי/כֶם = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2mp]

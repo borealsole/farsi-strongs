@@ -730,3 +730,28 @@ Persian entries and current tags:
 - p16: دود  → H6227
 - p17: محو خواهند_شد  → H3615
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 36:12 (context)
+
+- o1: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
+- o2: נָפְלוּ = H5307 נָפַל "to fall…" [HVqp3cp]
+- o3: פֹּעֲלֵי = H6466 פָּעַל "to do or make (systematically and habitually)…" [HVqrmpc]
+- o4: אָוֶן = H205 אָוֶן "strictly nothingness…" [HNcmsa]
+- o5: דֹּחוּ = H1760 דָּחָה "to push down" [HVPp3cp]
+- o6: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o7: יָכְלוּ = H3201 יָכֹל "to be able, literally (can…" [HVqp3cp]
+- o8: קוּם = H6965 קוּם "to rise (in various applications, literal…" [HVqc]
+
+### Psalms 37:21 (context)
+
+- o1: לֹוֶה = H3867 לָוָה "properly, to twine…" [HVqrmsa]
+- o2: רָשָׁע = H7563 רָשָׁע "morally wrong…" [HAamsa]
+- o3: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o4: יְשַׁלֵּם = H7999 שָׁלַם "to be safe (in mind, body or estate)…" [HVpi3ms]
+- o5: וְ/צַדִּיק = Hc "and" + H6662 צַדִּיק "just" [HC/Aamsa]
+- o6: חוֹנֵן = H2603 חָנַן "properly…" [HVqrmsa]
+- o7: וְ/נוֹתֵן = Hc "and" + H5414 נָתַן "to give…" [HC/Vqrmsa]

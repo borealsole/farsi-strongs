@@ -788,3 +788,34 @@ Persian entries and current tags:
 - p13: مَنَسی  → H4519
 - p14: داده_شد
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 6:40 (context)
+
+- o1: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o2: מִיכָאֵל = H4317 מִיכָאֵל "Mikael…" [HNp]
+- o3: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o4: בַּעֲשֵׂיָה = H1202 בַּעֲשֵׂיָה "Baasejah, an Israelite" [HNp]
+- o5: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o6: מַלְכִּיָּה = H4441 מַלְכִּיָּה "Malkijah, the name of ten Israelites" [HNp]
+
+### I Chronicles 6:62 (context)
+
+- o1: וְ/לִ/בְנֵי = Hc "and" + Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/R/Ncmpc]
+- o2: גֵרְשׁוֹם = H1647 גֵּרְשֹׁם "Gereshom, the name of four Israelites" [HNp]
+- o3: לְ/מִשְׁפְּחוֹתָ/ם = Hl "to" + H4940 מִשְׁפָּחָה "a family, i.e. circle of relatives…" [HR/Ncfpc/Sp3mp]
+- o4: מִ/מַּטֵּה = Hm "from" + H4294 מַטֶּה "a branch (as extending); figuratively, a tribe…" [HR/Ncmsc]
+- o5: יִשָׂשכָר = H3485 יִשָּׂשכָר "Jissaskar, a son of Jacob" [HNp]
+- o6: וּ/מִ/מַּטֵּה = Hc "and" + Hm "from" + H4294 מַטֶּה "a branch (as extending); figuratively, a tribe…" [HC/R/Ncmsc]
+- o7: אָשֵׁר = H836 אָשֵׁר "happy…" [HNp]
+- o8: וּ/מִ/מַּטֵּה = Hc "and" + Hm "from" + H4294 מַטֶּה "a branch (as extending); figuratively, a tribe…" [HC/R/Ncmsc]
+- o9: נַפְתָּלִי = H5321 נַפְתָּלִי "Naphtali, a son of Jacob…" [HNp]
+- o10: וּ/מִ/מַּטֵּה = Hc "and" + Hm "from" + H4294 מַטֶּה "a branch (as extending); figuratively, a tribe…" [HC/R/Ncmsc]
+- o11: מְנַשֶּׁה = H4519 מְנַשֶּׁה "Menashsheh, a grandson of Jacob…" [HNp]
+- o12: בַּ/בָּשָׁן = Hb "in" + H1316 בָּשָׁן "Bashan (often with the article)…" [HRd/Np]
+- o13: עָרִים = H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HNcfpa]
+- o14: שְׁלֹשׁ = H7969 שָׁלוֹשׁ "three…" [HAcfsa]
+- o15: עֶשְׂרֵה = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcfsa]

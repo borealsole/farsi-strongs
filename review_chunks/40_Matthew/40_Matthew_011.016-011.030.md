@@ -805,3 +805,40 @@ Persian entries and current tags:
 - p9: سبک  → G1645
 - p10: .
 - p11: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 11:15 (context)
+
+- o1: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o2: ἔχων = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAP-NSM]
+- o3: ὦτα = G3775 οὖς "ear" [N-APN]
+- o4: ἀκουέτω. = G191 ἀκούω "give (in the) audience (of), come (to the ears)…" [V-PAM-3S]
+
+### Matthew 12:1 (context)
+
+- o1: Ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o2: ἐκείνῳ = G1565 ἐκεῖνος "he, it, the other (same), selfsame, that (same…" [D-DSM]
+- o3: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o4: καιρῷ = G2540 καιρός "always, opportunity, (convenient, due) season…" [N-DSM]
+- o5: ἐπορεύθη = G4198 πορεύομαι "--depart, go (away, forth, one's way, up)…" [V-AOI-3S]
+- o6: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o7: Ἰησοῦς = G2424 Ἰησοῦς "Jesus" [N-NSM]
+- o8: τοῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPN]
+- o9: σάββασιν = G4521 σάββατον "sabbath (day), week" [N-DPN]
+- o10: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o11: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPN]
+- o12: σπορίμων· = G4702 σπόριμος "corn(-field)" [A-GPN]
+- o13: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o14: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o15: μαθηταὶ = G3101 μαθητής "disciple" [N-NPM]
+- o16: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o17: ἐπείνασαν, = G3983 πεινάω "be an hungered" [V-AAI-3P]
+- o18: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o19: ἤρξαντο = G756 ἄρχομαι "(rehearse from the) begin(-ning)" [V-AMI-3P]
+- o20: τίλλειν = G5089 τίλλω "pluck" [V-PAN]
+- o21: στάχυας = G4719 στάχυς "ear (of corn)" [N-APM]
+- o22: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o23: ἐσθίειν. = G2068 ἐσθίω "devour, eat, live" [V-PAN]

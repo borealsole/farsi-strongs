@@ -1032,3 +1032,47 @@ Persian entries and current tags:
 - p9: او  → G846
 - p10: رفت
 - p11: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 8:34 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἰδοὺ = G3708 ὁράω "behold, perceive, see, take heed" [V-2AMM-2S]
+- o3: πᾶσα = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-NSF]
+- o4: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o5: πόλις = G4172 πόλις "city" [N-NSF]
+- o6: ἐξῆλθεν = G1831 ἐξέρχομαι "come (forth, out), depart (out of), escape…" [V-2AAI-3S]
+- o7: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o8: ὑπάντησιν = G5222 ὑπάντησις "meeting" [N-ASF]
+- o9: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o10: Ἰησοῦ, = G2424 Ἰησοῦς "Jesus" [N-GSM]
+- o11: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o12: ἰδόντες = G3708 ὁράω "behold, perceive, see, take heed" [V-2AAP-NPM]
+- o13: αὐτὸν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASM]
+- o14: παρεκάλεσαν = G3870 παρακαλέω "beseech, call for, (be of good) comfort, desire…" [V-AAI-3P]
+- o15: ὅπως = G3704 ὅπως "because, how, (so) that, to, when" [ADV]
+- o16: μεταβῇ = G3327 μεταβαίνω "depart, go, pass, remove" [V-2AAS-3S]
+- o17: ἀπὸ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
+- o18: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPN]
+- o19: ὁρίων = G3725 ὅριον "border, coast" [N-GPN]
+- o20: αὐτῶν. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]
+
+### Matthew 9:20 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἰδοὺ = G3708 ὁράω "behold, perceive, see, take heed" [V-2AMM-2S]
+- o3: γυνὴ = G1135 γυνή "wife, woman" [N-NSF]
+- o4: αἱμορροοῦσα = G131 αἱμοῤῥέω "diseased with an issue of blood" [V-PAP-NSF]
+- o5: δώδεκα = G1427 δώδεκα "twelve" [A-NUI]
+- o6: ἔτη = G2094 ἔτος "year" [N-APN]
+- o7: προσελθοῦσα = G4334 προσέρχομαι "as soon as he) come (unto), come thereunto…" [V-2AAP-NSF]
+- o8: ὄπισθεν = G3693 ὄπισθεν "after, backside, behind" [ADV]
+- o9: ἥψατο = G680 ἅπτομαι "touch" [V-ADI-3S]
+- o10: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
+- o11: κρασπέδου = G2899 κράσπεδον "border, hem" [N-GSN]
+- o12: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
+- o13: ἱματίου = G2440 ἱμάτιον "apparel, cloke, clothes, garment, raiment, robe…" [N-GSN]
+- o14: αὐτοῦ· = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]

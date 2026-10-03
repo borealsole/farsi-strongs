@@ -780,3 +780,39 @@ Persian entries and current tags:
 - p26: اسرائیل  → H3478
 - p27: است
 - p28: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 40:31 (context)
+
+- o1: וְ/קוֹיֵ = Hc "and" + H6960 קָוָה "to bind together (perhaps by twisting)…" [HC/Vqrmpc]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: יַחֲלִיפוּ = H2498 חָלַף "properly, to slide by…" [HVhi3mp]
+- o4: כֹחַ = H3581 כֹּחַ "vigor, literally (force…" [HNcmsa]
+- o5: יַעֲלוּ = H5927 עָלָה "to ascend…" [HVhi3mp]
+- o6: אֵבֶר = H83 אֵבֶר "a pinion" [HNcmsa]
+- o7: כַּ/נְּשָׁרִים = Hk "like" + H5404 נֶשֶׁר "the eagle (or other large bird of prey)" [HRd/Ncmpa]
+- o8: יָרוּצוּ = H7323 רוּץ "to run (for whatever reason, especially to rush)" [HVqi3mp]
+- o9: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o10: יִיגָעוּ = H3021 יָגַע "properly, to gasp…" [HVqi3mp]
+- o11: יֵלְכוּ = H3212 יָלַךְ "to walk (literally or figuratively)…" [HVqi3mp]
+- o12: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o13: יִיעָפוּ = H3286 יָעַף "to tire (as if from wearisome flight)" [HVqi3mp]
+
+### Isaiah 41:15 (context)
+
+- o1: הִנֵּה = H2009 הִנֵּה "lo!" [HTm]
+- o2: שַׂמְתִּי/ךְ = H7760 שׂוּם "to put (used in a great variety of applications…" [HVqp1cs/Sp2fs]
+- o3: לְ/מוֹרַג = Hl "to" + H4173 מוֹרַג "a threshing sledge" [HR/Ncmsc]
+- o4: חָרוּץ = H2742 חֲרוּץ "properly, incised or (active) incisive…" [HNcmsa]
+- o5: חָדָשׁ = H2319 חָדָשׁ "new" [HAamsa]
+- o6: בַּעַל = H1167 בַּעַל "a master…" [HNcmsc]
+- o7: פִּיפִיּוֹת = H6374 פִּיפִיָּה "an edge or tooth" [HNcbpa]
+- o8: תָּדוּשׁ = H1758 דּוּשׁ "to trample or thresh" [HVqi2ms]
+- o9: הָרִים = H2022 הַר "a mountain or range of hills (sometimes used…" [HNcmpa]
+- o10: וְ/תָדֹק = Hc "and" + H1854 דָּקַק "to crush (or intransitively) crumble" [HC/Vqi2ms]
+- o11: וּ/גְבָעוֹת = Hc "and" + H1389 גִּבְעָה "a hillock" [HC/Ncfpa]
+- o12: כַּ/מֹּץ = Hk "like" + H4671 מֹץ "chaff (as pressed out…" [HRd/Ncmsa]
+- o13: תָּשִׂים = H7760 שׂוּם "to put (used in a great variety of applications…" [HVqi2ms]

@@ -835,3 +835,32 @@ Persian entries and current tags:
 - p27: نادیده‌ات
 - p28: می‌گرفتم
 - p29: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 2:25 (context)
+
+- o1: וַ/יֵּלֶךְ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqw3ms]
+- o2: מִ/שָּׁם = Hm "from" + H8033 שָׁם "there (transferring to time) then…" [HR/D]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: הַר = H2022 הַר "a mountain or range of hills (sometimes used…" [HNcmsc]
+- o5: הַ/כַּרְמֶל = Hd "the" + H3760 כַּרְמֶל "Karmel…" [HTd/Np]
+- o6: וּ/מִ/שָּׁם = Hc "and" + Hm "from" + H8033 שָׁם "there (transferring to time) then…" [HC/R/D]
+- o7: שָׁב = H7725 שׁוּב "to turn back (hence…" [HVqp3ms]
+- o8: שֹׁמְרוֹן = H8111 שֹׁמְרוֹן "Shomeron, a place in Palestine" [HNp]
+
+### II Kings 3:15 (context)
+
+- o1: וְ/עַתָּה = Hc "and" + H6258 עַתָּה "at this time, whether adverb…" [HC/D]
+- o2: קְחוּ = H3947 לָקַח "to take (in the widest variety of applications)" [HVqv2mp]
+- o3: לִ/י = Hl "to" [HR/Sp1cs]
+- o4: מְנַגֵּן = H5059 נָגַן "properly, to thrum…" [HVprmsa]
+- o5: וְ/הָיָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3ms]
+- o6: כְּ/נַגֵּן = Hk "like" + H5059 נָגַן "properly, to thrum…" [HR/Vpc]
+- o7: הַ/מְנַגֵּן = Hd "the" + H5059 נָגַן "properly, to thrum…" [HTd/Vprmsa]
+- o8: וַ/תְּהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3fs]
+- o9: עָלָי/ו = H5921 עַל "above, over, upon…" [HR/Sp3ms]
+- o10: יַד = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsc]
+- o11: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]

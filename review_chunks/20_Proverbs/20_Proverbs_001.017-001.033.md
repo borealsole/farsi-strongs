@@ -642,3 +642,27 @@ Persian entries and current tags:
 - p17: خواهد_ماند
 - p18: .
 - p19: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 1:16 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: רַגְלֵי/הֶם = H7272 רֶגֶל "a foot (as used in walking)…" [HNcfdc/Sp3mp]
+- o3: לָ/רַע = Hl "to" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HRd/Ncmsa]
+- o4: יָרוּצוּ = H7323 רוּץ "to run (for whatever reason, especially to rush)" [HVqi3mp]
+- o5: וִ/ימַהֲרוּ = Hc "and" + H4116 מָהַר "properly, to be liquid or flow easily…" [HC/Vpi3mp]
+- o6: לִ/שְׁפָּךְ = Hl "to" + H8210 שָׁפַךְ "to spill forth (blood, a libation, liquid metal…" [HR/Vqc]
+- o7: דָּם = H1818 דָּם "blood (as that which when shed causes death) of…" [HNcmsa]
+
+### Proverbs 2:1 (context)
+
+- o1: בְּנִ/י = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp1cs]
+- o2: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o3: תִּקַּח = H3947 לָקַח "to take (in the widest variety of applications)" [HVqi2ms]
+- o4: אֲמָרָ/י = H561 אֵמֶר "something said" [HNcmpc/Sp1cs]
+- o5: וּ/מִצְוֺתַ/י = Hc "and" + H4687 מִצְוָה "a command, whether human or divine (collectively…" [HC/Ncfpc/Sp1cs]
+- o6: תִּצְפֹּן = H6845 צָפַן "to hide (by covering over)…" [HVqi2ms]
+- o7: אִתָּ/ךְ = H854 אֵת "properly…" [HR/Sp2fs]

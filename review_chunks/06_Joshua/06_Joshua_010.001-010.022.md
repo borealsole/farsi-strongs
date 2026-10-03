@@ -1271,3 +1271,56 @@ Persian entries and current tags:
 - p19: بیرون آورید  → H3318
 - p20: .
 - p21: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Joshua 9:27 (context)
+
+- o1: וַ/יִּתְּנֵ/ם = Hc "and" + H5414 נָתַן "to give…" [HC/Vqw3ms/Sp3mp]
+- o2: יְהוֹשֻׁעַ = H3091 יְהוֹשׁוּעַ "Jehoshua (i.e. Joshua), the Jewish leader" [HNp]
+- o3: בַּ/יּוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
+- o4: הַ/הוּא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3ms]
+- o5: חֹטְבֵי = H2404 חָטַב "to chop or carve wood" [HVqrmpc]
+- o6: עֵצִים = H6086 עֵץ "a tree (from its firmness)…" [HNcmpa]
+- o7: וְ/שֹׁאֲבֵי = Hc "and" + H7579 שָׁאַב "to bale up water" [HC/Vqrmpc]
+- o8: מַיִם = H4325 מַיִם "water; figuratively, juice…" [HNcmpa]
+- o9: לָ/עֵדָה = Hl "to" + H5712 עֵדָה "a stated assemblage (specifically, a concourse…" [HRd/Ncfsa]
+- o10: וּ/לְ/מִזְבַּח = Hc "and" + Hl "to" + H4196 מִזְבֵּחַ "an altar" [HC/R/Ncmsc]
+- o11: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o12: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o13: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o14: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o15: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o16: הַ/מָּקוֹם = Hd "the" + H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HTd/Ncmsa]
+- o17: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o18: יִבְחָר = H977 בָּחַר "properly, to try, i.e. (by implication) select" [HVqi3ms]
+
+### Joshua 10:23 (context)
+
+- o1: וַ/יַּעֲשׂוּ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqw3mp]
+- o2: כֵן = H3651 כֵּן "properly, set upright…" [HD]
+- o3: וַ/יֹּצִיאוּ = Hc "and" + H3318 יָצָא "to go (causatively, bring) out…" [HC/Vhw3mp]
+- o4: אֵלָי/ו = H413 אֵל "near, with or among; often in general, to" [HR/Sp3ms]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: חֲמֵשֶׁת = H2568 חָמֵשׁ "five" [HAcmsc]
+- o7: הַ/מְּלָכִים = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmpa]
+- o8: הָ/אֵלֶּה = Hd "the" + H428 אֵלֶּה "these or those" [HTd/Pdxcp]
+- o9: מִן = H4480 מִן "properly, a part of…" [HR]
+- o10: הַ/מְּעָרָה = Hd "the" + H4631 מְעָרָה "a cavern (as dark)" [HTd/Ncfsa]
+- o11: אֵת = H853 אֵת "properly…" [HTo]
+- o12: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o13: יְרוּשָׁלִַם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+- o14: אֶת = H853 אֵת "properly…" [HTo]
+- o15: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o16: חֶבְרוֹן = H2275 חֶבְרוֹן "Chebron, a place in Palestine…" [HNp]
+- o17: אֶת = H853 אֵת "properly…" [HTo]
+- o18: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o19: יַרְמוּת = H3412 יַרְמוּת "Jarmuth, the name of two places in Palestine" [HNp]
+- o20: אֶת = H853 אֵת "properly…" [HTo]
+- o21: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o22: לָכִישׁ = H3923 לָכִישׁ "Lakish, a place in Palestine" [HNp]
+- o23: אֶת = H853 אֵת "properly…" [HTo]
+- o24: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o25: עֶגְלוֹן = H5700 עֶגְלוֹן "Eglon…" [HNp]

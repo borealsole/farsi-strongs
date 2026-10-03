@@ -648,3 +648,33 @@ Persian entries and current tags:
 - p36: ،
 - p37: باخبر سازد  → H5046
 - p38: ؟
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ecclesiastes 5:20 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o3: הַרְבֵּה = H7235 רָבָה "to increase (in whatever respect)" [HVha]
+- o4: יִזְכֹּר = H2142 זָכַר "properly, to mark (so as to be recognized)…" [HVqi3ms]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: יְמֵי = H3117 יוֹם "a day (as the warm hours)…" [HNcmpc]
+- o7: חַיָּי/ו = H2416 חַי "alive; hence, raw (flesh)…" [HNcmpc/Sp3ms]
+- o8: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o9: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
+- o10: מַעֲנֶה = H6031 עָנָה "to depress literally or figuratively…" [HVhrmsa]
+- o11: בְּ/שִׂמְחַת = Hb "in" + H8057 שִׂמְחָה "blithesomeness or glee, (religious or festival)" [HR/Ncfsc]
+- o12: לִבּ/וֹ = H3820 לֵב "the heart…" [HNcmsc/Sp3ms]
+
+### Ecclesiastes 7:1 (context)
+
+- o1: טוֹב = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAamsa]
+- o2: שֵׁם = H8034 שֵׁם "an appellation…" [HNcmsa]
+- o3: מִ/שֶּׁמֶן = Hm "from" + H8081 שֶׁמֶן "grease, especially liquid (as from the olive…" [HR/Ncmsa]
+- o4: טוֹב = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAamsa]
+- o5: וְ/יוֹם = Hc "and" + H3117 יוֹם "a day (as the warm hours)…" [HC/Ncmsc]
+- o6: הַ/מָּוֶת = Hd "the" + H4194 מָוֶת "death (natural or violent)…" [HTd/Ncmsa]
+- o7: מִ/יּוֹם = Hm "from" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmsc]
+- o8: הִוָּלְד/וֹ = H3205 יָלַד "to bear young; causatively, to beget…" [HVNc/Sp3ms]

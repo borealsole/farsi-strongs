@@ -697,3 +697,35 @@ Persian entries and current tags:
 - p29: هستم  → H589
 - p30: .
 - p31: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 24:14 (context)
+
+- o1: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: דִּבַּרְתִּי = H1696 דָבַר "perhaps properly, to arrange…" [HVpp1cs]
+- o4: בָּאָה = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqrfsa]
+- o5: וְ/עָשִׂיתִי = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqq1cs]
+- o6: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o7: אֶפְרַע = H6544 פָּרַע "to loosen; by implication, to expose, dismiss…" [HVqi1cs]
+- o8: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o9: אָחוּס = H2347 חוּס "properly, to cover…" [HVqi1cs]
+- o10: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o11: אֶנָּחֵם = H5162 נָחַם "properly, to sigh, i.e. breathe strongly…" [HVNi1cs]
+- o12: כִּ/דְרָכַיִ/ךְ = Hk "like" + H1870 דֶּרֶךְ "a road (as trodden)…" [HR/Ncbpc/Sp2fs]
+- o13: וְ/כַ/עֲלִילוֹתַיִ/ךְ = Hc "and" + Hk "like" + H5949 עֲלִילָה "an exploit (of God), or a performance (of man…" [HC/R/Ncfpc/Sp2fs]
+- o14: שְׁפָטוּ/ךְ = H8199 שָׁפַט "to judge…" [HVqp3cp/Sp2fs]
+- o15: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o16: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o17: יְהֹוִה = H3069 יְהֹוִה "YHWH" [HNp]
+
+### Ezekiel 25:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o5: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

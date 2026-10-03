@@ -756,3 +756,29 @@ Persian entries and current tags:
 - p21: بنی‌اسرائیل  → H3478
 - p22: امر فرمود  → H6680
 - p23: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 35:34 (context)
+
+- o1: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o2: תְטַמֵּא = H2930 טָמֵא "to be foul…" [HVpi2ms]
+- o3: אֶת = H853 אֵת "properly…" [HTo]
+- o4: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o6: אַתֶּם = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2mp]
+- o7: יֹשְׁבִים = H3427 יָשַׁב "properly…" [HVqrmpa]
+- o8: בָּ/הּ = Hb "in" [HR/Sp3fs]
+- o9: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o10: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o11: שֹׁכֵן = H7931 שָׁכַן "to reside or permanently stay (literally or…" [HVqrmsa]
+- o12: בְּ/תוֹכָ/הּ = Hb "in" + H8432 תָּוֶךְ "a bisection, i.e. (by implication) the centre" [HR/Ncmsc/Sp3fs]
+- o13: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o14: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o15: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o16: שֹׁכֵן = H7931 שָׁכַן "to reside or permanently stay (literally or…" [HVqrmsa]
+- o17: בְּ/תוֹךְ = Hb "in" + H8432 תָּוֶךְ "a bisection, i.e. (by implication) the centre" [HR/Ncmsc]
+- o18: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o19: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]

@@ -721,3 +721,46 @@ Persian entries and current tags:
 - p30: اسرائیل  → H3478
 - p31: نوشته_نشده_است  → H3808 H3789
 - p32: ؟
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 12:21 (context)
+
+- o1: וְ/יוֹזָבָד = Hc "and" + H3108 יוֹזָכָר "Jozacar, an Israelite" [HC/Np]
+- o2: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o3: שִׁמְעָת = H8100 שִׁמְעַת "Shimath, an Ammonitess" [HNp]
+- o4: וִ/יהוֹזָבָד = Hc "and" + H3075 יְהוֹזָבָד "Jehozabad, the name of three Israelites" [HC/Np]
+- o5: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o6: שֹׁמֵר = H7763 שׁוֹמֵר "Shomer, the name of two Israelites" [HNp]
+- o7: עֲבָדָי/ו = H5650 עֶבֶד "a servant" [HNcmpc/Sp3ms]
+- o8: הִכֻּ/הוּ = H5221 נָכָה "to strike (lightly or severely…" [HVhp3cp/Sp3ms]
+- o9: וַ/יָּמֹת = Hc "and" + H4191 מוּת "to die (literally or figuratively)…" [HC/Vqw3ms]
+- o10: וַ/יִּקְבְּרוּ = Hc "and" + H6912 קָבַר "to inter" [HC/Vqw3mp]
+- o11: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o12: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o13: אֲבֹתָי/ו = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp3ms]
+- o14: בְּ/עִיר = Hb "in" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HR/Ncfsc]
+- o15: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o16: וַ/יִּמְלֹךְ = Hc "and" + H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HC/Vqw3ms]
+- o17: אֲמַצְיָה = H558 אֲמַצְיָה "Amatsjah, the name of four Israelites" [HNp]
+- o18: בְנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
+- o19: תַּחְתָּי/ו = H8478 תַּחַת "the bottom (as depressed)…" [HR/Sp3ms]
+
+### II Kings 13:13 (context)
+
+- o1: וַ/יִּשְׁכַּב = Hc "and" + H7901 שָׁכַב "to lie down (for rest, sexual connection…" [HC/Vqw3ms]
+- o2: יוֹאָשׁ = H3101 יוֹאָשׁ "Joash, the name of six Israelites" [HNp]
+- o3: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o4: אֲבֹתָי/ו = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp3ms]
+- o5: וְ/יָרָבְעָם = Hc "and" + H3379 יָרׇבְעָם "Jarobam, the name of two Israelite kings" [HC/Np]
+- o6: יָשַׁב = H3427 יָשַׁב "properly…" [HVqp3ms]
+- o7: עַל = H5921 עַל "above, over, upon…" [HR]
+- o8: כִּסְא/וֹ = H3678 כִּסֵּא "properly, covered, i.e. a throne (as canopied)" [HNcmsc/Sp3ms]
+- o9: וַ/יִּקָּבֵר = Hc "and" + H6912 קָבַר "to inter" [HC/VNw3ms]
+- o10: יוֹאָשׁ = H3101 יוֹאָשׁ "Joash, the name of six Israelites" [HNp]
+- o11: בְּ/שֹׁמְרוֹן = Hb "in" + H8111 שֹׁמְרוֹן "Shomeron, a place in Palestine" [HR/Np]
+- o12: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o13: מַלְכֵי = H4428 מֶלֶךְ "a king" [HNcmpc]
+- o14: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]

@@ -944,3 +944,45 @@ Persian entries and current tags:
 - p29: از
 - p30: جسم‌اند  → G4561
 - p31: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Corinthians 15:19 (context)
+
+- o1: εἰ = G1487 εἰ "forasmuch as, if, that, (al-)though, whether" [COND]
+- o2: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o3: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o4: ζωῇ = G2222 ζωή "life(-time)" [N-DSF]
+- o5: ταύτῃ = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-DSF]
+- o6: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o7: Χριστῷ = G5547 Χριστός "Christ" [N-DSM]
+- o8: ἠλπικότες = G1679 ἐλπίζω "(have, thing) hope(-d) (for), trust" [V-RAP-NPM]
+- o9: ἐσμὲν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-1P]
+- o10: μόνον, = G3440 μόνον "alone, but, only" [ADV]
+- o11: ἐλεεινότεροι = G1652 ἐλεεινός "miserable" [A-NPM-C]
+- o12: πάντων = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-GPM]
+- o13: ἀνθρώπων = G444 ἄνθρωπος "certain, man" [N-GPM]
+- o14: ἐσμέν. = G1510 εἰμί "am, have been, it is I, was" [V-PAI-1P]
+
+### I Corinthians 15:40 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: σώματα = G4983 σῶμα "bodily, body, slave" [N-NPN]
+- o3: ἐπουράνια, = G2032 ἐπουράνιος "celestial, (in) heaven(-ly), high" [A-NPN]
+- o4: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o5: σώματα = G4983 σῶμα "bodily, body, slave" [N-NPN]
+- o6: ἐπίγεια· = G1919 ἐπίγειος "earthly, in earth, terrestrial" [A-NPN]
+- o7: ἀλλὰ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o8: ἑτέρα = G2087 ἕτερος "altered, else, next (day), one, (an-)other, some…" [A-NSF]
+- o9: μὲν = G3303 μέν "even, indeed, so, some, truly, verily" [PRT]
+- o10: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o11: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPN]
+- o12: ἐπουρανίων = G2032 ἐπουράνιος "celestial, (in) heaven(-ly), high" [A-GPN]
+- o13: δόξα, = G1391 δόξα "dignity, glory(-ious), honour, praise, worship" [N-NSF]
+- o14: ἑτέρα = G2087 ἕτερος "altered, else, next (day), one, (an-)other, some…" [A-NSF]
+- o15: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o16: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o17: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPN]
+- o18: ἐπιγείων. = G1919 ἐπίγειος "earthly, in earth, terrestrial" [A-GPN]

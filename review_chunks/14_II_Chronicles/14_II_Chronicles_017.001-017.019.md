@@ -896,3 +896,42 @@ Persian entries and current tags:
 - p16: را  → H853
 - p17: خدمت می‌کردند  → H8334
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Chronicles 16:14 (context)
+
+- o1: וַ/יִּקְבְּרֻ/הוּ = Hc "and" + H6912 קָבַר "to inter" [HC/Vqw3mp/Sp3ms]
+- o2: בְ/קִבְרֹתָי/ו = Hb "in" + H6913 קֶבֶר "a sepulchre" [HR/Ncmpc/Sp3ms]
+- o3: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o4: כָּרָה = H3738 כָּרָה "properly, to dig; figuratively, to plot…" [HVqp3ms]
+- o5: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o6: בְּ/עִיר = Hb "in" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HR/Ncfsc]
+- o7: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o8: וַ/יַּשְׁכִּיבֻ/הוּ = Hc "and" + H7901 שָׁכַב "to lie down (for rest, sexual connection…" [HC/Vhw3mp/Sp3ms]
+- o9: בַּ/מִּשְׁכָּב = Hb "in" + H4904 מִשְׁכָּב "a bed (figuratively, a bier); abstractly, sleep…" [HRd/Ncmsa]
+- o10: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o11: מִלֵּא = H4390 מָלֵא "to fill or (intransitively) be full of…" [HVpp3ms]
+- o12: בְּשָׂמִים = H1314 בֶּשֶׂם "fragrance; by implication, spicery…" [HNcmpa]
+- o13: וּ/זְנִים = Hc "and" + H2177 זַן "properly, nourished (or fully developed)…" [HC/Ncmpa]
+- o14: מְרֻקָּחִים = H7543 רָקַח "to perfume" [HVPsmpa]
+- o15: בְּ/מִרְקַחַת = Hb "in" + H4842 מִרְקַחַת "an aromatic unguent; also an unguent-pot" [HR/Ncfsc]
+- o16: מַעֲשֶׂה = H4639 מַעֲשֶׂה "an action (good or bad); generally, a transaction…" [HNcmsa]
+- o17: וַ/יִּשְׂרְפוּ = Hc "and" + H8313 שָׂרַף "to be (causatively, set) on fire" [HC/Vqw3mp]
+- o18: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o19: שְׂרֵפָה = H8316 שְׂרֵפָה "cremation" [HNcfsa]
+- o20: גְּדוֹלָה = H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HAafsa]
+- o21: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o22: לִ/מְאֹד = Hl "to" + H3966 מְאֹד "properly, vehemence…" [HR/Ncmsa]
+
+### II Chronicles 18:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: לִ/יהוֹשָׁפָט = Hl "to" + H3092 יְהוֹשָׁפָט "Jehoshaphat, the name of six Israelites…" [HR/Np]
+- o3: עֹשֶׁר = H6239 עֹשֶׁר "wealth" [HNcmsa]
+- o4: וְ/כָבוֹד = Hc "and" + H3519 כָּבוֹד "properly, weight…" [HC/Ncbsa]
+- o5: לָ/רֹב = Hl "to" + H7230 רֹב "abundance (in any respect)" [HR/Ncbsa]
+- o6: וַ/יִּתְחַתֵּן = Hc "and" + H2859 חָתַן "to give (a daughter) away in marriage…" [HC/Vtw3ms]
+- o7: לְ/אַחְאָב = Hl "to" + H256 אַחְאָב "Achab…" [HR/Np]

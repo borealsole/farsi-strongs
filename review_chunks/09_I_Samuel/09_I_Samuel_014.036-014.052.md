@@ -1019,3 +1019,40 @@ Persian entries and current tags:
 - p26: خود
 - p27: می‌آورد  → H622
 - p28: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Samuel 14:35 (context)
+
+- o1: וַ/יִּבֶן = Hc "and" + H1129 בָּנָה "to build (literally and figuratively)" [HC/Vqw3ms]
+- o2: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o3: מִזְבֵּחַ = H4196 מִזְבֵּחַ "an altar" [HNcmsa]
+- o4: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o5: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o6: הֵחֵל = H2490 חָלַל "properly, to bore, i.e. (by implication) to wound…" [HVhp3ms]
+- o7: לִ/בְנוֹת = Hl "to" + H1129 בָּנָה "to build (literally and figuratively)" [HR/Vqc]
+- o8: מִזְבֵּחַ = H4196 מִזְבֵּחַ "an altar" [HNcmsa]
+- o9: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+
+### I Samuel 15:1 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: שְׁמוּאֵל = H8050 שְׁמוּאֵל "Shemuel, the name of three Israelites" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o5: אֹתִ/י = H853 אֵת "properly…" [HTo/Sp1cs]
+- o6: שָׁלַח = H7971 שָׁלַח "to send away, for…" [HVqp3ms]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: לִ/מְשָׁחֳ/ךָ = Hl "to" + H4886 מָשַׁח "to rub with oil, i.e. to anoint…" [HR/Vqc/Sp2ms]
+- o9: לְ/מֶלֶךְ = Hl "to" + H4428 מֶלֶךְ "a king" [HR/Ncmsa]
+- o10: עַל = H5921 עַל "above, over, upon…" [HR]
+- o11: עַמּ/וֹ = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp3ms]
+- o12: עַל = H5921 עַל "above, over, upon…" [HR]
+- o13: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o14: וְ/עַתָּה = Hc "and" + H6258 עַתָּה "at this time, whether adverb…" [HC/D]
+- o15: שְׁמַע = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqv2ms]
+- o16: לְ/קוֹל = Hl "to" + H6963 קוֹל "a voice or sound" [HR/Ncmsc]
+- o17: דִּבְרֵי = H1697 דָּבָר "a word…" [HNcmpc]
+- o18: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]

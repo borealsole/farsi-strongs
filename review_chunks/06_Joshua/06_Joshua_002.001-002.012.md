@@ -743,3 +743,47 @@ Persian entries and current tags:
 - p28: از
 - p29: حسن‌نیت
 - p30: بدهید  → H226
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Joshua 1:18 (context)
+
+- o1: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o2: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o3: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o4: יַמְרֶה = H4784 מָרָה "to be (causatively, make) bitter (or unpleasant)…" [HVhi3ms]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: פִּי/ךָ = H6310 פֶּה "the mouth (as the means of blowing)…" [HNcmsc/Sp2ms]
+- o7: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o8: יִשְׁמַע = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqi3ms]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: דְּבָרֶי/ךָ = H1697 דָּבָר "a word…" [HNcmpc/Sp2ms]
+- o11: לְ/כֹל = Hl "to" + H3605 כֹּל "properly, the whole…" [HR/Ncmsa]
+- o12: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o13: תְּצַוֶּ/נּוּ = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpi2ms/Sp3ms]
+- o14: יוּמָת = H4191 מוּת "to die (literally or figuratively)…" [HVHi3ms]
+- o15: רַק = H7535 רַק "properly, leanness…" [HTa]
+- o16: חֲזַק = H2388 חָזַק "to fasten upon…" [HVqv2ms]
+- o17: וֶ/אֱמָץ = Hc "and" + H553 אָמַץ "to be alert…" [HC/Vqv2ms]
+
+### Joshua 2:13 (context)
+
+- o1: וְ/הַחֲיִתֶם = Hc "and" + H2421 חָיָה "to live, whether literally or figuratively…" [HC/Vhq2mp]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: אָבִ/י = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp1cs]
+- o4: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o5: אִמִּ/י = H517 אֵם "a mother (as the bond of the family)…" [HNcfsc/Sp1cs]
+- o6: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o7: אַחַ/י = H251 אָח "a brother (used in the widest sense of literal…" [HNcmpc/Sp1cs]
+- o8: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o9: אחות/י = H269 אָחוֹת "a sister (used very widely (like brother)…" [HNcfsc/Sp1cs]
+- o10: וְ/אֵת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o11: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o12: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o13: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o14: וְ/הִצַּלְתֶּם = Hc "and" + H5337 נָצַל "to snatch away, whether in a good or a bad sense" [HC/Vhq2mp]
+- o15: אֶת = H853 אֵת "properly…" [HTo]
+- o16: נַפְשֹׁתֵי/נוּ = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbpc/Sp1cp]
+- o17: מִ/מָּוֶת = Hm "from" + H4194 מָוֶת "death (natural or violent)…" [HR/Ncmsa]

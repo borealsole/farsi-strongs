@@ -703,3 +703,47 @@ Persian entries and current tags:
 - p11: ابرها  → H6051
 - p12: پدیدار شود  → H7200
 - p13: ،
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 8:22 (context)
+
+- o1: עֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+- o2: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: יְמֵי = H3117 יוֹם "a day (as the warm hours)…" [HNcmpc]
+- o4: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o5: זֶרַע = H2233 זֶרַע "seed…" [HNcmsa]
+- o6: וְ/קָצִיר = Hc "and" + H7105 קָצִיר "severed, i.e. harvest (as reaped), the crop…" [HC/Ncmsa]
+- o7: וְ/קֹר = Hc "and" + H7120 קֹר "cold" [HC/Ncmsa]
+- o8: וָ/חֹם = Hc "and" + H2527 חֹם "heat" [HC/Ncmsa]
+- o9: וְ/קַיִץ = Hc "and" + H7019 קַיִץ "harvest (as the crop)…" [HC/Ncmsa]
+- o10: וָ/חֹרֶף = Hc "and" + H2779 חֹרֶף "properly, the crop gathered…" [HC/Ncmsa]
+- o11: וְ/יוֹם = Hc "and" + H3117 יוֹם "a day (as the warm hours)…" [HC/Ncmsa]
+- o12: וָ/לַיְלָה = Hc "and" + H3915 לַיִל "properly, a twist (away of the light), i.e. night…" [HC/Ncmsa]
+- o13: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o14: יִשְׁבֹּתוּ = H7673 שָׁבַת "to repose, i.e. desist from exertion…" [HVqi3mp]
+
+### Genesis 9:15 (context)
+
+- o1: וְ/זָכַרְתִּי = Hc "and" + H2142 זָכַר "properly, to mark (so as to be recognized)…" [HC/Vqq1cs]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: בְּרִיתִ/י = H1285 בְּרִית "a compact (because made by passing between pieces…" [HNcfsc/Sp1cs]
+- o4: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o5: בֵּינִ/י = H996 בֵּין "between (repeated before each noun…" [HR/Sp1cs]
+- o6: וּ/בֵינֵי/כֶם = Hc "and" + H996 בֵּין "between (repeated before each noun…" [HC/R/Sp2mp]
+- o7: וּ/בֵין = Hc "and" + H996 בֵּין "between (repeated before each noun…" [HC/R]
+- o8: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o9: נֶפֶשׁ = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsa]
+- o10: חַיָּה = H2416 חַי "alive; hence, raw (flesh)…" [HAafsa]
+- o11: בְּ/כָל = Hb "in" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o12: בָּשָׂר = H1320 בָּשָׂר "flesh (from its freshness)…" [HNcmsa]
+- o13: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o14: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o15: עוֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+- o16: הַ/מַּיִם = Hd "the" + H4325 מַיִם "water; figuratively, juice…" [HTd/Ncmpa]
+- o17: לְ/מַבּוּל = Hl "to" + H3999 מַבּוּל "a deluge" [HR/Ncmsa]
+- o18: לְ/שַׁחֵת = Hl "to" + H7843 שָׁחַת "to decay…" [HR/Vpc]
+- o19: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o20: בָּשָׂר = H1320 בָּשָׂר "flesh (from its freshness)…" [HNcmsa]

@@ -893,3 +893,43 @@ Persian entries and current tags:
 - p19: امنیت
 - p20: ساکن شوید  → H3427
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Leviticus 24:23 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o5: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o6: וַ/יּוֹצִיאוּ = Hc "and" + H3318 יָצָא "to go (causatively, bring) out…" [HC/Vhw3mp]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: הַ/מְקַלֵּל = Hd "the" + H7043 קָלַל "to be (causatively, make) light, literally (swift…" [HTd/Vprmsa]
+- o9: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o10: מִ/חוּץ = Hm "from" + H2351 חוּץ "properly, separate by awall, i.e. outside…" [HR/Ncmsa]
+- o11: לַ/מַּחֲנֶה = Hl "to" + H4264 מַחֲנֶה "an encampment (of travellers or troops)…" [HRd/Ncbsa]
+- o12: וַ/יִּרְגְּמוּ = Hc "and" + H7275 רָגַם "to cast together (stones), i.e. to lapidate" [HC/Vqw3mp]
+- o13: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o14: אָבֶן = H68 אֶבֶן "a stone" [HNcfsa]
+- o15: וּ/בְנֵי = Hc "and" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/Ncmpc]
+- o16: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o17: עָשׂוּ = H6213 עָשָׂה "to do or make…" [HVqp3cp]
+- o18: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
+- o19: צִוָּה = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp3ms]
+- o20: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o21: אֶת = H853 אֵת "properly…" [HTo]
+- o22: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+
+### Leviticus 25:19 (context)
+
+- o1: וְ/נָתְנָה = Hc "and" + H5414 נָתַן "to give…" [HC/Vqq3fs]
+- o2: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o3: פִּרְיָ/הּ = H6529 פְּרִי "fruit (literally or figuratively)" [HNcmsc/Sp3fs]
+- o4: וַ/אֲכַלְתֶּם = Hc "and" + H398 אָכַל "to eat (literally or figuratively)" [HC/Vqq2mp]
+- o5: לָ/שֹׂבַע = Hl "to" + H7648 שֹׂבַע "satisfaction (of food or (figuratively) joy)" [HR/Ncmsa]
+- o6: וִ/ישַׁבְתֶּם = Hc "and" + H3427 יָשַׁב "properly…" [HC/Vqq2mp]
+- o7: לָ/בֶטַח = Hl "to" + H983 בֶּטַח "properly, a place of refuge…" [HR/Ncmsa]
+- o8: עָלֶי/הָ = H5921 עַל "above, over, upon…" [HR/Sp3fs]

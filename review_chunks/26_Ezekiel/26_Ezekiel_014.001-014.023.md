@@ -1384,3 +1384,34 @@ Persian entries and current tags:
 - p19: نبوده_است  → H3808
 - p20: .
 - p21: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 13:23 (context)
+
+- o1: לָ/כֵן = Hl "to" + H3651 כֵּן "properly, set upright…" [HR/D]
+- o2: שָׁוְא = H7723 שָׁוְא "evil (as destructive)…" [HNcmsa]
+- o3: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o4: תֶחֱזֶינָה = H2372 חָזָה "to gaze at…" [HVqi2fp]
+- o5: וְ/קֶסֶם = Hc "and" + H7081 קֶסֶם "a lot; also divination (including its fee), oracle" [HC/Ncmsa]
+- o6: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o7: תִקְסַמְנָה = H7080 קָסַם "properly, to distribute…" [HVqi2fp]
+- o8: עוֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+- o9: וְ/הִצַּלְתִּי = Hc "and" + H5337 נָצַל "to snatch away, whether in a good or a bad sense" [HC/Vhq1cs]
+- o10: אֶת = H853 אֵת "properly…" [HTo]
+- o11: עַמִּ/י = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp1cs]
+- o12: מִ/יֶּדְ/כֶן = Hm "from" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc/Sp2fp]
+- o13: וִ/ידַעְתֶּן = Hc "and" + H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HC/Vqq2fp]
+- o14: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o15: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o16: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### Ezekiel 15:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o5: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

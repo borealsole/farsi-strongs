@@ -934,3 +934,54 @@ Persian entries and current tags:
 - p7: دلداری
 - p8: دهید
 - p9: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Thessalonians 3:13 (context)
+
+- o1: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o2: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o3: στηρίξαι = G4741 στηρίζω "fix, (e-)stablish, stedfastly set, strengthen" [V-AAN]
+- o4: ὑμῶν = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
+- o5: τὰς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APF]
+- o6: καρδίας = G2588 καρδία "(+ broken-)heart(-ed)" [N-APF]
+- o7: ἀμέμπτους = G273 ἄμεμπτος "blameless, faultless, unblamable" [A-APF]
+- o8: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o9: ἁγιωσύνῃ = G42 ἁγιωσύνη "holiness" [N-DSF]
+- o10: ἔμπροσθεν = G1715 ἔμπροσθεν "against, at, before, (in presence, sight) of" [PREP]
+- o11: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o12: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o13: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o14: πατρὸς = G3962 πατήρ "father, parent" [N-GSM]
+- o15: ἡμῶν = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+- o16: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o17: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o18: παρουσίᾳ = G3952 παρουσία "coming, presence" [N-DSF]
+- o19: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o20: κυρίου = G2962 κύριος "God, Lord, master, Sir" [N-GSM]
+- o21: ἡμῶν = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+- o22: Ἰησοῦ = G2424 Ἰησοῦς "Jesus" [N-GSM]
+- o23: μετὰ = G3326 μετά "after(-ward), that he again, against, among, and…" [PREP]
+- o24: πάντων = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-GPM]
+- o25: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o26: ἁγίων = G40 ἅγιος "(most) holy (one, thing), saint" [A-GPM]
+- o27: αὐτοῦ. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o28: ἀμήν. = G281 ἀμήν "amen, verily" [HEB]
+
+### I Thessalonians 5:1 (context)
+
+- o1: Περὶ = G4012 περί "there-)about, above, against, at, on behalf of…" [PREP]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o4: χρόνων = G5550 χρόνος "+ years old, season, space, ( often-)time(-s)…" [N-GPM]
+- o5: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o6: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o7: καιρῶν, = G2540 καιρός "always, opportunity, (convenient, due) season…" [N-GPM]
+- o8: ἀδελφοί, = G80 ἀδελφός "brother" [N-VPM]
+- o9: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o10: χρείαν = G5532 χρεία "business, lack, necessary(-ity), need(-ful), use…" [N-ASF]
+- o11: ἔχετε = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAI-2P]
+- o12: ὑμῖν = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
+- o13: γράφεσθαι· = G1125 γράφω "describe, write(-ing, -ten)" [V-PPN]

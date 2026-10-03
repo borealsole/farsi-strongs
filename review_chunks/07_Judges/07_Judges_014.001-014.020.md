@@ -1272,3 +1272,43 @@ Persian entries and current tags:
 - p15: زنی  → H802
 - p16: دادند
 - p17: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Judges 13:25 (context)
+
+- o1: וַ/תָּחֶל = Hc "and" + H2490 חָלַל "properly, to bore, i.e. (by implication) to wound…" [HC/Vhw3fs]
+- o2: רוּחַ = H7307 רוּחַ "wind…" [HNcbsc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: לְ/פַעֲמ/וֹ = Hl "to" + H6470 פָּעַם "to tap, i.e. beat regularly…" [HR/Vqc/Sp3ms]
+- o5: בְּ/מַחֲנֵה = Hb "in" + H4264 מַחֲנֶה "an encampment (of travellers or troops)…" [HR/Np]
+- o6: דָן = H1835 דָּן "Dan, one of the sons of Jacob…" [HNp]
+- o7: בֵּין = H996 בֵּין "between (repeated before each noun…" [HR]
+- o8: צָרְעָה = H6881 צׇרְעָה "Tsorah, a place in Palestine" [HNp]
+- o9: וּ/בֵין = Hc "and" + H996 בֵּין "between (repeated before each noun…" [HC/R]
+- o10: אֶשְׁתָּאֹל = H847 אֶשְׁתָּאֹל "Eshtaol, a place in Palestine" [HNp]
+
+### Judges 15:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: מִ/יָּמִים = Hm "from" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmpa]
+- o3: בִּ/ימֵי = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmpc]
+- o4: קְצִיר = H7105 קָצִיר "severed, i.e. harvest (as reaped), the crop…" [HNcmsc]
+- o5: חִטִּים = H2406 חִטָּה "wheat, whether the grain or the plant" [HNcfpa]
+- o6: וַ/יִּפְקֹד = Hc "and" + H6485 פָּקַד "to visit (with friendly or hostile intent)…" [HC/Vqw3ms]
+- o7: שִׁמְשׁוֹן = H8123 שִׁמְשׁוֹן "Shimshon, an Israelite" [HNp]
+- o8: אֶת = H853 אֵת "properly…" [HTo]
+- o9: אִשְׁתּ/וֹ = H802 אִשָּׁה "a woman" [HNcfsc/Sp3ms]
+- o10: בִּ/גְדִי = Hb "in" + H1423 גְּדִי "a young goat (from browsing)" [HR/Ncmsc]
+- o11: עִזִּים = H5795 עֵז "a she-goat (as strong)…" [HNcfpa]
+- o12: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o13: אָבֹאָה = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqi1cs]
+- o14: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o15: אִשְׁתִּ/י = H802 אִשָּׁה "a woman" [HNcfsc/Sp1cs]
+- o16: הֶ/חָדְרָ/ה = Hd "the" + H2315 חֶדֶר "an apartment (usually literal)" [HTd/Ncmsa/Sd]
+- o17: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o18: נְתָנ/וֹ = H5414 נָתַן "to give…" [HVqp3ms/Sp3ms]
+- o19: אָבִי/הָ = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp3fs]
+- o20: לָ/בוֹא = Hl "to" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HR/Vqc]

@@ -906,3 +906,55 @@ Persian entries and current tags:
 - p41: فرمودۀ  → H5002
 - p42: خداوند  → H3068
 - p43: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 53:12 (context)
+
+- o1: לָ/כֵן = Hl "to" + H3651 כֵּן "properly, set upright…" [HR/D]
+- o2: אֲחַלֶּק = H2505 חָלַק "to be smooth (figuratively)…" [HVpi1cs]
+- o3: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o4: בָ/רַבִּים = Hb "in" + H7227 רַב "abundant (in quantity, size, age, number, rank…" [HRd/Aampa]
+- o5: וְ/אֶת = Hc "and" + H854 אֵת "properly…" [HC/R]
+- o6: עֲצוּמִים = H6099 עָצוּם "powerful (specifically, a paw)…" [HAampa]
+- o7: יְחַלֵּק = H2505 חָלַק "to be smooth (figuratively)…" [HVpi3ms]
+- o8: שָׁלָל = H7998 שָׁלָל "booty" [HNcmsa]
+- o9: תַּחַת = H8478 תַּחַת "the bottom (as depressed)…" [HR]
+- o10: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o11: הֶעֱרָה = H6168 עָרָה "to be (causatively, make) bare…" [HVhp3ms]
+- o12: לַ/מָּוֶת = Hl "to" + H4194 מָוֶת "death (natural or violent)…" [HRd/Ncmsa]
+- o13: נַפְשׁ/וֹ = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsc/Sp3ms]
+- o14: וְ/אֶת = Hc "and" + H854 אֵת "properly…" [HC/R]
+- o15: פֹּשְׁעִים = H6586 פָּשַׁע "to break away (from just authority)…" [HVqrmpa]
+- o16: נִמְנָה = H4487 מָנָה "properly, to weigh out…" [HVNp3ms]
+- o17: וְ/הוּא = Hc "and" + H1931 הוּא "he (she or it)…" [HC/Pp3ms]
+- o18: חֵטְא = H2399 חֵטְא "a crime or its penalty" [HNcmsc]
+- o19: רַבִּים = H7227 רַב "abundant (in quantity, size, age, number, rank…" [HAampa]
+- o20: נָשָׂא = H5375 נָשָׂא "to lift, in a great variety of applications…" [HVqp3ms]
+- o21: וְ/לַ/פֹּשְׁעִים = Hc "and" + Hl "to" + H6586 פָּשַׁע "to break away (from just authority)…" [HC/Rd/Vqrmpa]
+- o22: יַפְגִּיעַ = H6293 פָּגַע "to impinge, by accident or violence…" [HVhi3ms]
+
+### Isaiah 55:1 (context)
+
+- o1: הוֹי = H1945 הוֹי "oh!" [HTj]
+- o2: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: צָמֵא = H6771 צָמֵא "thirsty (literally or figuratively)" [HAamsa]
+- o4: לְכוּ = H3212 יָלַךְ "to walk (literally or figuratively)…" [HVqv2mp]
+- o5: לַ/מַּיִם = Hl "to" + H4325 מַיִם "water; figuratively, juice…" [HRd/Ncmpa]
+- o6: וַ/אֲשֶׁר = Hc "and" + H834 אֲשֶׁר "who, which, what, that…" [HC/Tr]
+- o7: אֵין = H369 אַיִן "a non-entity…" [HTn]
+- o8: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o9: כָּסֶף = H3701 כֶּסֶף "silver (from its pale color)…" [HNcmsa]
+- o10: לְכוּ = H3212 יָלַךְ "to walk (literally or figuratively)…" [HVqv2mp]
+- o11: שִׁבְרוּ = H7666 שָׁבַר "to deal in grain" [HVqv2mp]
+- o12: וֶ/אֱכֹלוּ = Hc "and" + H398 אָכַל "to eat (literally or figuratively)" [HC/Vqv2mp]
+- o13: וּ/לְכוּ = Hc "and" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HC/Vqv2mp]
+- o14: שִׁבְרוּ = H7666 שָׁבַר "to deal in grain" [HVqv2mp]
+- o15: בְּ/לוֹא = Hb "in" + H3808 לֹא "not (the simple or abs. negation)…" [HR/Tn]
+- o16: כֶסֶף = H3701 כֶּסֶף "silver (from its pale color)…" [HNcmsa]
+- o17: וּ/בְ/לוֹא = Hc "and" + Hb "in" + H3808 לֹא "not (the simple or abs. negation)…" [HC/R/Tn]
+- o18: מְחִיר = H4242 מְחִיר "price, payment, wages" [HNcmsa]
+- o19: יַיִן = H3196 יַיִן "wine (as fermented); by implication, intoxication" [HNcmsa]
+- o20: וְ/חָלָב = Hc "and" + H2461 חָלָב "milk (as the richness of kine)" [HC/Ncmsa]

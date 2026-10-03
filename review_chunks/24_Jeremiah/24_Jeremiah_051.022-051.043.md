@@ -1184,3 +1184,38 @@ Persian entries and current tags:
 - p27: عبور  → H5674
 - p28: نکند  → H2004
 - p29: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 51:21 (context)
+
+- o1: וְ/נִפַּצְתִּי = Hc "and" + H5310 נָפַץ "to dash to pieces, or scatter" [HC/Vpq1cs]
+- o2: בְ/ךָ = Hb "in" [HR/Sp2ms]
+- o3: סוּס = H5483 סוּס "a horse (as leaping)…" [HNcmsa]
+- o4: וְ/רֹכְב/וֹ = Hc "and" + H7392 רָכַב "to ride (on an animal or in a vehicle)…" [HC/Vqrmsc/Sp3ms]
+- o5: וְ/נִפַּצְתִּי = Hc "and" + H5310 נָפַץ "to dash to pieces, or scatter" [HC/Vpq1cs]
+- o6: בְ/ךָ = Hb "in" [HR/Sp2ms]
+- o7: רֶכֶב = H7393 רֶכֶב "a vehicle; by implication, a team…" [HNcmsa]
+- o8: וְ/רֹכְב/וֹ = Hc "and" + H7392 רָכַב "to ride (on an animal or in a vehicle)…" [HC/Vqrmsc/Sp3ms]
+
+### Jeremiah 51:44 (context)
+
+- o1: וּ/פָקַדְתִּי = Hc "and" + H6485 פָּקַד "to visit (with friendly or hostile intent)…" [HC/Vqq1cs]
+- o2: עַל = H5921 עַל "above, over, upon…" [HR]
+- o3: בֵּל = H1078 בֵּל "Bel, the Baal of the Babylonians" [HNp]
+- o4: בְּ/בָבֶל = Hb "in" + H894 בָּבֶל "Babel (i.e. Babylon)…" [HR/Np]
+- o5: וְ/הֹצֵאתִי = Hc "and" + H3318 יָצָא "to go (causatively, bring) out…" [HC/Vhq1cs]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: בִּלְע/וֹ = H1105 בֶּלַע "a gulp; figuratively, destruction" [HNcmsc/Sp3ms]
+- o8: מִ/פִּי/ו = Hm "from" + H6310 פֶּה "the mouth (as the means of blowing)…" [HR/Ncmsc/Sp3ms]
+- o9: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o10: יִנְהֲרוּ = H5102 נָהַר "to sparkle, i.e. (figuratively) be cheerful…" [HVqi3mp]
+- o11: אֵלָי/ו = H413 אֵל "near, with or among; often in general, to" [HR/Sp3ms]
+- o12: עוֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+- o13: גּוֹיִם = H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HNcmpa]
+- o14: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
+- o15: חוֹמַת = H2346 חוֹמָה "a wall of protection" [HNcfsc]
+- o16: בָּבֶל = H894 בָּבֶל "Babel (i.e. Babylon)…" [HNp]
+- o17: נָפָלָה = H5307 נָפַל "to fall…" [HVqp3fs]

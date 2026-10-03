@@ -778,3 +778,39 @@ Persian entries and current tags:
 - p19: و  → Hc
 - p20: مَلکیئیل  → H4439
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 45:28 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o3: רַב = H7227 רַב "abundant (in quantity, size, age, number, rank…" [HAamsa]
+- o4: עוֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+- o5: יוֹסֵף = H3130 יוֹסֵף "Joseph, the name of seven Israelites" [HNp]
+- o6: בְּנִ/י = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp1cs]
+- o7: חָי = H2416 חַי "alive; hence, raw (flesh)…" [HAamsa]
+- o8: אֵלְכָה = H3212 יָלַךְ "to walk (literally or figuratively)…" [HVqh1cs]
+- o9: וְ/אֶרְאֶ/נּוּ = Hc "and" + H7200 רָאָה "to see…" [HC/Vqh1cs/Sp3ms]
+- o10: בְּ/טֶרֶם = Hb "in" + H2962 טֶרֶם "properly, non-occurrence…" [HR/D]
+- o11: אָמוּת = H4191 מוּת "to die (literally or figuratively)…" [HVqi1cs]
+
+### Genesis 46:18 (context)
+
+- o1: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o2: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o3: זִלְפָּה = H2153 זִלְפָּה "Zilpah, Leah's maid" [HNp]
+- o4: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o5: נָתַן = H5414 נָתַן "to give…" [HVqp3ms]
+- o6: לָבָן = H3837 לָבָן "Laban, a Mesopotamian; also a place in the Desert" [HNp]
+- o7: לְ/לֵאָה = Hl "to" + H3812 לֵאָה "Leah, a wife of Jacob" [HR/Np]
+- o8: בִתּ/וֹ = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfsc/Sp3ms]
+- o9: וַ/תֵּלֶד = Hc "and" + H3205 יָלַד "to bear young; causatively, to beget…" [HC/Vqw3fs]
+- o10: אֶת = H853 אֵת "properly…" [HTo]
+- o11: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o12: לְ/יַעֲקֹב = Hl "to" + H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HR/Np]
+- o13: שֵׁשׁ = H8337 שֵׁשׁ "six (as an overplus beyond five or the fingers of…" [HAcfsa]
+- o14: עֶשְׂרֵה = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcfsa]
+- o15: נָפֶשׁ = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsa]

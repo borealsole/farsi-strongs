@@ -1170,3 +1170,33 @@ Persian entries and current tags:
 - p20: گردانیده
 - p21: است
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 9:29 (context)
+
+- o1: וְ/הֵם = Hc "and" + H1992 הֵם "they (only used when emphatic)" [HC/Pp3mp]
+- o2: עַמְּ/ךָ = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp2ms]
+- o3: וְ/נַחֲלָתֶ/ךָ = Hc "and" + H5159 נַחֲלָה "properly, something inherited…" [HC/Ncfsc/Sp2ms]
+- o4: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o5: הוֹצֵאתָ = H3318 יָצָא "to go (causatively, bring) out…" [HVhp2ms]
+- o6: בְּ/כֹחֲ/ךָ = Hb "in" + H3581 כֹּחַ "vigor, literally (force…" [HR/Ncmsc/Sp2ms]
+- o7: הַ/גָּדֹל = Hd "the" + H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HTd/Aamsa]
+- o8: וּ/בִ/זְרֹעֲ/ךָ = Hc "and" + Hb "in" + H2220 זְרוֹעַ "the arm (as stretched out)…" [HC/R/Ncbsc/Sp2ms]
+- o9: הַ/נְּטוּיָה = Hd "the" + H5186 נָטָה "to stretch or spread out…" [HTd/Vqsfsa]
+
+### Deuteronomy 11:1 (context)
+
+- o1: וְ/אָהַבְתָּ = Hc "and" + H157 אָהַב "to have affection for (sexually or otherwise)" [HC/Vqq2ms]
+- o2: אֵת = H853 אֵת "properly…" [HTo]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֱלֹהֶי/ךָ = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2ms]
+- o5: וְ/שָׁמַרְתָּ = Hc "and" + H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HC/Vqq2ms]
+- o6: מִשְׁמַרְתּ/וֹ = H4931 מִשְׁמֶרֶת "watch, i.e. the act (custody)…" [HNcfsc/Sp3ms]
+- o7: וְ/חֻקֹּתָי/ו = Hc "and" + H2708 חֻקָּה "an enactment…" [HC/Ncbpc/Sp3ms]
+- o8: וּ/מִשְׁפָּטָי/ו = Hc "and" + H4941 מִשְׁפָּט "properly…" [HC/Ncmpc/Sp3ms]
+- o9: וּ/מִצְוֺתָי/ו = Hc "and" + H4687 מִצְוָה "a command, whether human or divine (collectively…" [HC/Ncfpc/Sp3ms]
+- o10: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o11: הַ/יָּמִים = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmpa]

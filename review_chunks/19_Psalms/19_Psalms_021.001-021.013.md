@@ -516,3 +516,33 @@ Persian entries and current tags:
 - p12: و  → Hc
 - p13: می‌ستاییم
 - p14: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 20:9 (context)
+
+- o1: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o2: הוֹשִׁיעָ/ה = H3467 יָשַׁע "properly, to be open, wide or free…" [HVhv2ms/Sh]
+- o3: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o4: יַעֲנֵ/נוּ = H6030 עָנָה "properly, to eye or (generally) to heed…" [HVqi3ms/Sp1cp]
+- o5: בְ/יוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmsc]
+- o6: קָרְאֵ/נוּ = H7121 קָרָא "to call out to (i.e. properly, address by name…" [HVqc/Sp1cp]
+
+### Psalms 22:1 (context)
+
+- o1: לַ/מְנַצֵּחַ = Hl "to" + H5329 נָצַח "properly, to glitter from afar…" [HRd/Vprmsa]
+- o2: עַל = H5921 עַל "above, over, upon…" [HR]
+- o3: אַיֶּלֶת = H365 אַיֶּלֶת "a doe" [HNcfsc]
+- o4: הַ/שַּׁחַר = Hd "the" + H7837 שַׁחַר "dawn (literal, figurative or adverbial)" [HTd/Ncmsa]
+- o5: מִזְמוֹר = H4210 מִזְמוֹר "properly, instrumental music…" [HNcmsa]
+- o6: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o7: אֵלִ/י = H410 אֵל "strength; as adjective, mighty…" [HNcmsc/Sp1cs]
+- o8: אֵלִ/י = H410 אֵל "strength; as adjective, mighty…" [HNcmsc/Sp1cs]
+- o9: לָ/מָה = Hl "to" + H4100 מָה "properly…" [HR/Ti]
+- o10: עֲזַבְתָּ/נִי = H5800 עָזַב "to loosen, i.e. relinquish, permit, etc" [HVqp2ms/Sp1cs]
+- o11: רָחוֹק = H7350 רָחוֹק "remote, literally or figuratively…" [HAamsa]
+- o12: מִ/ישׁוּעָתִ/י = Hm "from" + H3444 יְשׁוּעָה "something saved, i.e. (abstractly) deliverance…" [HR/Ncfsc/Sp1cs]
+- o13: דִּבְרֵי = H1697 דָּבָר "a word…" [HNcmpc]
+- o14: שַׁאֲגָתִ/י = H7581 שְׁאָגָה "a rumbling or moan" [HNcfsc/Sp1cs]

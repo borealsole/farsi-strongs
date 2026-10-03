@@ -997,3 +997,35 @@ Persian entries and current tags:
 - p35: خواهند_خوابید  → H7901
 - p36: .
 - p37: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 32:16 (context)
+
+- o1: קִינָה = H7015 קִינָה "a dirge (as accompanied by beating the breasts or…" [HNcfsa]
+- o2: הִיא = H1931 הוּא "he (she or it)…" [HPp3fs]
+- o3: וְ/קוֹנְנוּ/הָ = Hc "and" + H6969 קוּן "to strike a musical note…" [HC/Voq3cp/Sp3fs]
+- o4: בְּנוֹת = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfpc]
+- o5: הַ/גּוֹיִם = Hd "the" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HTd/Ncmpa]
+- o6: תְּקוֹנֵנָּה = H6969 קוּן "to strike a musical note…" [HVoi3fp]
+- o7: אוֹתָ/הּ = H853 אֵת "properly…" [HTo/Sp3fs]
+- o8: עַל = H5921 עַל "above, over, upon…" [HR]
+- o9: מִצְרַיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o10: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o11: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o12: הֲמוֹנָ/הּ = H1995 הָמוֹן "a noise, tumult, crowd; also disquietude, wealth" [HNcmsc/Sp3fs]
+- o13: תְּקוֹנֵנָּה = H6969 קוּן "to strike a musical note…" [HVoi3fp]
+- o14: אוֹתָ/הּ = H853 אֵת "properly…" [HTo/Sp3fs]
+- o15: נְאֻם = H5002 נְאֻם "an oracle" [HNcmsc]
+- o16: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o17: יְהוִה = H3069 יְהֹוִה "YHWH" [HNp]
+
+### Ezekiel 33:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o5: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

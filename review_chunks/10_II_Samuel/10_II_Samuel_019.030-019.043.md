@@ -924,3 +924,51 @@ Persian entries and current tags:
 - p58: اسرائیل  → H3478
 - p59: درشت‌تر بود  → H7185
 - p60: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 19:29 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o3: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o4: לָ/מָּה = Hl "to" + H4100 מָה "properly…" [HR/Ti]
+- o5: תְּדַבֵּר = H1696 דָבַר "perhaps properly, to arrange…" [HVpi2ms]
+- o6: עוֹד = H5750 עוֹד "properly, iteration or continuance…" [HD]
+- o7: דְּבָרֶי/ךָ = H1697 דָּבָר "a word…" [HNcmpc/Sp2ms]
+- o8: אָמַרְתִּי = H559 אָמַר "to say (used with great latitude)" [HVqp1cs]
+- o9: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o10: וְ/צִיבָא = Hc "and" + H6717 צִיבָא "Tsiba, an Israelite" [HC/Np]
+- o11: תַּחְלְקוּ = H2505 חָלַק "to be smooth (figuratively)…" [HVqi2mp]
+- o12: אֶת = H853 אֵת "properly…" [HTo]
+- o13: הַ/שָּׂדֶה = Hd "the" + H7704 שָׂדֶה "a field (as flat)" [HTd/Ncmsa]
+
+### II Samuel 20:1 (context)
+
+- o1: וְ/שָׁם = Hc "and" + H8033 שָׁם "there (transferring to time) then…" [HC/D]
+- o2: נִקְרָא = H7122 קָרָא "to encounter…" [HVNp3ms]
+- o3: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsc]
+- o4: בְּלִיַּעַל = H1100 בְּלִיַּעַל "without profit, worthlessness…" [HNcmsa]
+- o5: וּ/שְׁמ/וֹ = Hc "and" + H8034 שֵׁם "an appellation…" [HC/Ncmsc/Sp3ms]
+- o6: שֶׁבַע = H7652 שֶׁבַע "Sheba, the name of a place in Palestine…" [HAcfsa]
+- o7: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o8: בִּכְרִי = H1075 בִּכְרִי "Bikri, an Israelite" [HNp]
+- o9: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o10: יְמִינִי = H3228 יְמִינִי "a Jeminite (collectively) or descendants of Jamin" [HNgmsa]
+- o11: וַ/יִּתְקַע = Hc "and" + H8628 תָּקַע "to clatter, i.e. slap (the hands together)…" [HC/Vqw3ms]
+- o12: בַּ/שֹּׁפָר = Hb "in" + H7782 שׁוֹפָר "a cornet (as giving a clear sound) or curved horn" [HRd/Ncmsa]
+- o13: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o14: אֵין = H369 אַיִן "a non-entity…" [HTn]
+- o15: לָ/נוּ = Hl "to" [HR/Sp1cp]
+- o16: חֵלֶק = H2506 חֵלֶק "properly, smoothness (of the tongue)…" [HNcmsa]
+- o17: בְּ/דָוִד = Hb "in" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o18: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o19: נַחֲלָה = H5159 נַחֲלָה "properly, something inherited…" [HNcfsa]
+- o20: לָ/נוּ = Hl "to" [HR/Sp1cp]
+- o21: בְּ/בֶן = Hb "in" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmsc]
+- o22: יִשַׁי = H3448 יִשַׁי "Jishai, David's father" [HNp]
+- o23: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o24: לְ/אֹהָלָי/ו = Hl "to" + H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HR/Ncmpc/Sp3ms]
+- o25: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]

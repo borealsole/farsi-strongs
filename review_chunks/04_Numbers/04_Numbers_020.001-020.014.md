@@ -764,3 +764,35 @@ Persian entries and current tags:
 - p25: ،
 - p26: آگاهی  → H3045
 - p27: :
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 19:22 (context)
+
+- o1: וְ/כֹל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsa]
+- o2: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o3: יִגַּע = H5060 נָגַע "properly, to touch…" [HVqi3ms]
+- o4: בּ/וֹ = Hb "in" [HR/Sp3ms]
+- o5: הַ/טָּמֵא = Hd "the" + H2931 טָמֵא "foul in a religious sense" [HTd/Aamsa]
+- o6: יִטְמָא = H2930 טָמֵא "to be foul…" [HVqi3ms]
+- o7: וְ/הַ/נֶּפֶשׁ = Hc "and" + Hd "the" + H5315 נֶפֶשׁ "properly, a breathing creature…" [HC/Td/Ncbsa]
+- o8: הַ/נֹּגַעַת = Hd "the" + H5060 נָגַע "properly, to touch…" [HTd/Vqrfsa]
+- o9: תִּטְמָא = H2930 טָמֵא "to be foul…" [HVqi3fs]
+- o10: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o11: הָ/עָרֶב = Hd "the" + H6153 עֶרֶב "dusk" [HTd/Ncmsa]
+
+### Numbers 20:15 (context)
+
+- o1: וַ/יֵּרְדוּ = Hc "and" + H3381 יָרַד "to descend (literally, to go downwards…" [HC/Vqw3mp]
+- o2: אֲבֹתֵי/נוּ = H1 אָב "father, in a literal and immediate…" [HNcmpc/Sp1cp]
+- o3: מִצְרַיְמָ/ה = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp/Sd]
+- o4: וַ/נֵּשֶׁב = Hc "and" + H3427 יָשַׁב "properly…" [HC/Vqw1cp]
+- o5: בְּ/מִצְרַיִם = Hb "in" + H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HR/Np]
+- o6: יָמִים = H3117 יוֹם "a day (as the warm hours)…" [HNcmpa]
+- o7: רַבִּים = H7227 רַב "abundant (in quantity, size, age, number, rank…" [HAampa]
+- o8: וַ/יָּרֵעוּ = Hc "and" + H7489 רָעַע "properly, to spoil (literally…" [HC/Vhw3mp]
+- o9: לָ/נוּ = Hl "to" [HR/Sp1cp]
+- o10: מִצְרַיִם = H4713 מִצְרִי "a Mitsrite, or inhabitant of Mitsrajim" [HNp]
+- o11: וְ/לַ/אֲבֹתֵי/נוּ = Hc "and" + Hl "to" + H1 אָב "father, in a literal and immediate…" [HC/R/Ncmpc/Sp1cp]

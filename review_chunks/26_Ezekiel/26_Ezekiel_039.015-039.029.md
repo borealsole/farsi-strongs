@@ -863,3 +863,56 @@ Persian entries and current tags:
 - p23: ریخت  → H8210
 - p24: .
 - p25: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 39:14 (context)
+
+- o1: וְ/אַנְשֵׁי = Hc "and" + H376 אִישׁ "a man as an individual or a male person…" [HC/Ncmpc]
+- o2: תָמִיד = H8548 תָּמִיד "properly, continuance (as indefinite extension)…" [HNcmsa]
+- o3: יַבְדִּילוּ = H914 בָּדַל "to divide (in variation senses literally or…" [HVhi3mp]
+- o4: עֹבְרִים = H5674 עָבַר "to cross over…" [HVqrmpa]
+- o5: בָּ/אָרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HRd/Ncbsa]
+- o6: מְקַבְּרִים = H6912 קָבַר "to inter" [HVprmpa]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: הָ/עֹבְרִים = Hd "the" + H5674 עָבַר "to cross over…" [HTd/Vqrmpa]
+- o9: אֶת = H853 אֵת "properly…" [HTo]
+- o10: הַ/נּוֹתָרִים = Hd "the" + H3498 יָתַר "to jut over or exceed; by implication, to excel…" [HTd/VNrmpa]
+- o11: עַל = H5921 עַל "above, over, upon…" [HR]
+- o12: פְּנֵי = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc]
+- o13: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o14: לְ/טַהֲרָ/הּ = Hl "to" + H2891 טָהֵר "to be pure (physical sound, clear, unadulterated…" [HR/Vpc/Sp3fs]
+- o15: מִ/קְצֵה = Hm "from" + H7097 קָצֶה "an extremity" [HR/Ncbsc]
+- o16: שִׁבְעָה = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcmsa]
+- o17: חֳדָשִׁים = H2320 חֹדֶשׁ "the new moon; by implication, a month" [HNcmpa]
+- o18: יַחְקֹרוּ = H2713 חָקַר "properly, to penetrate…" [HVqi3mp]
+
+### Ezekiel 40:1 (context)
+
+- o1: בְּ/עֶשְׂרִים = Hb "in" + H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HR/Acbpa]
+- o2: וְ/חָמֵשׁ = Hc "and" + H2568 חָמֵשׁ "five" [HC/Acfsa]
+- o3: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o4: לְ/גָלוּתֵ/נוּ = Hl "to" + H1546 גָּלוּת "captivity; concretely, exiles (collectively)" [HR/Ncfsc/Sp1cp]
+- o5: בְּ/רֹאשׁ = Hb "in" + H7218 רֹאשׁ "the head (as most easily shaken)…" [HR/Ncmsc]
+- o6: הַ/שָּׁנָה = Hd "the" + H8141 שָׁנֶה "a year (as a revolution of time)" [HTd/Ncfsa]
+- o7: בֶּ/עָשׂוֹר = Hb "in" + H6218 עָשׂוֹר "ten…" [HRd/Ncmsa]
+- o8: לַ/חֹדֶשׁ = Hl "to" + H2320 חֹדֶשׁ "the new moon; by implication, a month" [HRd/Ncmsa]
+- o9: בְּ/אַרְבַּע = Hb "in" + H702 אַרְבַּע "four" [HR/Acfsa]
+- o10: עֶשְׂרֵה = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcfsa]
+- o11: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o12: אַחַר = H310 אַחַר "properly, the hind part…" [HR]
+- o13: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o14: הֻכְּתָה = H5221 נָכָה "to strike (lightly or severely…" [HVHp3fs]
+- o15: הָ/עִיר = Hd "the" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HTd/Ncfsa]
+- o16: בְּ/עֶצֶם = Hb "in" + H6106 עֶצֶם "a bone (as strong); by extension, the body…" [HR/Ncfsc]
+- o17: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o18: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o19: הָיְתָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3fs]
+- o20: עָלַ/י = H5921 עַל "above, over, upon…" [HR/Sp1cs]
+- o21: יַד = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsc]
+- o22: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o23: וַ/יָּבֵא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vhw3ms]
+- o24: אֹתִ/י = H853 אֵת "properly…" [HTo/Sp1cs]
+- o25: שָׁמָּ/ה = H8033 שָׁם "there (transferring to time) then…" [HD/Sd]

@@ -869,3 +869,45 @@ Persian entries and current tags:
 - p15: مرسانید
 - p16: !
 - p17: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 15:29 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: אֲרוֹן = H727 אָרוֹן "a box" [HNcbsc]
+- o3: בְּרִית = H1285 בְּרִית "a compact (because made by passing between pieces…" [HNcfsc]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: בָּא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3ms]
+- o6: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o7: עִיר = H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HNcfsc]
+- o8: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o9: וּ/מִיכַל = Hc "and" + H4324 מִיכָל "Mikal, Saul's daughter" [HC/Np]
+- o10: בַּת = H1323 בַּת "a daughter (used in the same wide sense as other…" [HNcfsc]
+- o11: שָׁאוּל = H7586 שָׁאוּל "Shaul, the name of an Edomite and two Israelites" [HNp]
+- o12: נִשְׁקְפָה = H8259 שָׁקַף "properly, to lean out (of a window)…" [HVNp3fs]
+- o13: בְּעַד = H1157 בְּעַד "in up to or over against…" [HR]
+- o14: הַ/חַלּוֹן = Hd "the" + H2474 חַלּוֹן "a window (as perforated)" [HTd/Ncbsa]
+- o15: וַ/תֵּרֶא = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw3fs]
+- o16: אֶת = H853 אֵת "properly…" [HTo]
+- o17: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o18: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o19: מְרַקֵּד = H7540 רָקַד "properly, to stamp…" [HVprmsa]
+- o20: וּ/מְשַׂחֵק = Hc "and" + H7832 שָׂחַק "to laugh (in pleasure or detraction)…" [HC/Vprmsa]
+- o21: וַ/תִּבֶז = Hc "and" + H959 בָּזָה "to disesteem" [HC/Vqw3fs]
+- o22: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o23: בְּ/לִבָּ/הּ = Hb "in" + H3820 לֵב "the heart…" [HR/Ncmsc/Sp3fs]
+
+### I Chronicles 16:23 (context)
+
+- o1: שִׁירוּ = H7891 שִׁיר "to sing" [HVqv2mp]
+- o2: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o3: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o4: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o5: בַּשְּׂרוּ = H1319 בָּשַׂר "properly, to be fresh, i.e. full (rosy…" [HVpv2mp]
+- o6: מִ/יּוֹם = Hm "from" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmsa]
+- o7: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o8: יוֹם = H3117 יוֹם "a day (as the warm hours)…" [HNcmsa]
+- o9: יְשׁוּעָת/וֹ = H3444 יְשׁוּעָה "something saved, i.e. (abstractly) deliverance…" [HNcfsc/Sp3ms]

@@ -657,3 +657,31 @@ Persian entries and current tags:
 - p9: .
 - p10: هَلِلویاه  → H1984 H3050
 - p11: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 111:10 (context)
+
+- o1: רֵאשִׁית = H7225 רֵאשִׁית "the first, in place, time…" [HNcfsc]
+- o2: חָכְמָה = H2451 חׇכְמָה "wisdom (in a good sense)" [HNcfsa]
+- o3: יִרְאַת = H3374 יִרְאָה "fear (also used as infinitive); morally, reverence" [HNcfsc]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: שֵׂכֶל = H7922 שֶׂכֶל "intelligence; by implication, success" [HNcmsa]
+- o6: טוֹב = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAamsa]
+- o7: לְ/כָל = Hl "to" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o8: עֹשֵׂי/הֶם = H6213 עָשָׂה "to do or make…" [HVqrmpc/Sp3mp]
+- o9: תְּהִלָּת/וֹ = H8416 תְּהִלָּה "laudation; specifically (concretely) a hymn" [HNcfsc/Sp3ms]
+- o10: עֹמֶדֶת = H5975 עָמַד "to stand…" [HVqrfsa]
+- o11: לָ/עַד = Hl "to" + H5703 עַד "properly, a (peremptory) terminus…" [HR/Ncmsa]
+
+### Psalms 114:1 (context)
+
+- o1: בְּ/צֵאת = Hb "in" + H3318 יָצָא "to go (causatively, bring) out…" [HR/Vqc]
+- o2: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o3: מִ/מִּצְרָיִם = Hm "from" + H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HR/Np]
+- o4: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o5: יַעֲקֹב = H3290 יַעֲקֹב "Jaakob, the Israelitish patriarch" [HNp]
+- o6: מֵ/עַם = Hm "from" + H5971 עַם "a people (as a congregated unit)…" [HR/Ncmsa]
+- o7: לֹעֵז = H3937 לָעַז "to speak in a foreign tongue" [HVqrmsa]

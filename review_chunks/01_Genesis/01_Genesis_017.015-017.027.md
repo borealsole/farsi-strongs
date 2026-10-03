@@ -678,3 +678,39 @@ Persian entries and current tags:
 - p16: وی
 - p17: ختنه شدند  → H4135
 - p18: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 17:14 (context)
+
+- o1: וְ/עָרֵל = Hc "and" + H6189 עָרֵל "uncircumcised (i.e. still having the prepuce…" [HC/Aamsa]
+- o2: זָכָר = H2145 זָכָר "properly, remembered…" [HAamsa]
+- o3: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o4: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o5: יִמּוֹל = H4135 מוּל "to cut short…" [HVNi3ms]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: בְּשַׂר = H1320 בָּשָׂר "flesh (from its freshness)…" [HNcmsc]
+- o8: עָרְלָת/וֹ = H6190 עׇרְלָה "the prepuce" [HNcfsc/Sp3ms]
+- o9: וְ/נִכְרְתָה = Hc "and" + H3772 כָּרַת "to cut (off, down or asunder)…" [HC/VNq3fs]
+- o10: הַ/נֶּפֶשׁ = Hd "the" + H5315 נֶפֶשׁ "properly, a breathing creature…" [HTd/Ncbsa]
+- o11: הַ/הִוא = Hd "the" + H1931 הוּא "he (she or it)…" [HTd/Pp3fs]
+- o12: מֵ/עַמֶּי/הָ = Hm "from" + H5971 עַם "a people (as a congregated unit)…" [HR/Ncmpc/Sp3fs]
+- o13: אֶת = H853 אֵת "properly…" [HTo]
+- o14: בְּרִיתִ/י = H1285 בְּרִית "a compact (because made by passing between pieces…" [HNcfsc/Sp1cs]
+- o15: הֵפַר = H6565 פָּרַר "to break up (usually figuratively)…" [HVhp3ms]
+
+### Genesis 18:1 (context)
+
+- o1: וַ/יֵּרָא = Hc "and" + H7200 רָאָה "to see…" [HC/VNw3ms]
+- o2: אֵלָי/ו = H413 אֵל "near, with or among; often in general, to" [HR/Sp3ms]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: בְּ/אֵלֹנֵי = Hb "in" + H436 אֵלוֹן "an oak or other strong tree" [HR/Ncmpc]
+- o5: מַמְרֵא = H4471 מַמְרֵא "Mamre, an Amorite" [HNp]
+- o6: וְ/הוּא = Hc "and" + H1931 הוּא "he (she or it)…" [HC/Pp3ms]
+- o7: יֹשֵׁב = H3427 יָשַׁב "properly…" [HVqrmsa]
+- o8: פֶּתַח = H6607 פֶּתַח "an opening (literally)…" [HNcmsc]
+- o9: הָ/אֹהֶל = Hd "the" + H168 אֹהֶל "a tent (as clearly conspicuous from a distance)" [HTd/Ncmsa]
+- o10: כְּ/חֹם = Hk "like" + H2527 חֹם "heat" [HR/Ncmsc]
+- o11: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]

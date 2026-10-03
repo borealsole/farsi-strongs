@@ -948,3 +948,48 @@ Persian entries and current tags:
 - p15: امروزی  → H3117
 - p16: است
 - p17: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 19:19 (context)
+
+- o1: הִנֵּה = H2009 הִנֵּה "lo!" [HTm]
+- o2: נָא = H4994 נָא "'I pray', 'now', or 'then'…" [HTe]
+- o3: מָצָא = H4672 מָצָא "properly, to come forth to, i.e. appear or exist…" [HVqp3ms]
+- o4: עַבְדְּ/ךָ = H5650 עֶבֶד "a servant" [HNcmsc/Sp2ms]
+- o5: חֵן = H2580 חֵן "graciousness, i.e. subjective (kindness…" [HNcmsa]
+- o6: בְּ/עֵינֶי/ךָ = Hb "in" + H5869 עַיִן "an eye (literally or figuratively)…" [HR/Ncbdc/Sp2ms]
+- o7: וַ/תַּגְדֵּל = Hc "and" + H1431 גָּדַל "to be (causatively make) large (in various senses…" [HC/Vhw2ms]
+- o8: חַסְדְּ/ךָ = H2617 חֵסֵד "kindness; by implication (towards God) piety…" [HNcmsc/Sp2ms]
+- o9: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o10: עָשִׂיתָ = H6213 עָשָׂה "to do or make…" [HVqp2ms]
+- o11: עִמָּדִ/י = H5978 עִמָּד "along with" [HR/Sp1cs]
+- o12: לְ/הַחֲיוֹת = Hl "to" + H2421 חָיָה "to live, whether literally or figuratively…" [HR/Vhc]
+- o13: אֶת = H853 אֵת "properly…" [HTo]
+- o14: נַפְשִׁ/י = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsc/Sp1cs]
+- o15: וְ/אָנֹכִי = Hc "and" + H595 אָנֹכִי "I" [HC/Pp1cs]
+- o16: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o17: אוּכַל = H3201 יָכֹל "to be able, literally (can…" [HVqi1cs]
+- o18: לְ/הִמָּלֵט = Hl "to" + H4422 מָלַט "properly, to be smooth…" [HR/VNc]
+- o19: הָ/הָרָ/ה = Hd "the" + H2022 הַר "a mountain or range of hills (sometimes used…" [HTd/Ncmsa/Sd]
+- o20: פֶּן = H6435 פֵּן "properly, removal…" [HC]
+- o21: תִּדְבָּקַ/נִי = H1692 דָּבַק "properly, to impinge, i.e. cling or adhere…" [HVqi3fs/Sp1cs]
+- o22: הָ/רָעָה = Hd "the" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HTd/Ncfsa]
+- o23: וָ/מַתִּי = Hc "and" + H4191 מוּת "to die (literally or figuratively)…" [HC/Vqp1cs]
+
+### Genesis 20:1 (context)
+
+- o1: וַ/יִּסַּע = Hc "and" + H5265 נָסַע "properly, to pull up, especially the tent-pins…" [HC/Vqw3ms]
+- o2: מִ/שָּׁם = Hm "from" + H8033 שָׁם "there (transferring to time) then…" [HR/D]
+- o3: אַבְרָהָם = H85 אַבְרָהָם "Abraham, the later name of Abram" [HNp]
+- o4: אַרְצָ/ה = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsc/Sd]
+- o5: הַ/נֶּגֶב = Hd "the" + H5045 נֶגֶב "the south (from its drought)…" [HTd/Ncmsa]
+- o6: וַ/יֵּשֶׁב = Hc "and" + H3427 יָשַׁב "properly…" [HC/Vqw3ms]
+- o7: בֵּין = H996 בֵּין "between (repeated before each noun…" [HR]
+- o8: קָדֵשׁ = H6946 קָדֵשׁ "Kadesh, a place in the Desert" [HNp]
+- o9: וּ/בֵין = Hc "and" + H996 בֵּין "between (repeated before each noun…" [HC/R]
+- o10: שׁוּר = H7793 שׁוּר "Shur, a region of the Desert" [HNp]
+- o11: וַ/יָּגָר = Hc "and" + H1481 גּוּר "properly…" [HC/Vqw3ms]
+- o12: בִּ/גְרָר = Hb "in" + H1642 גְּרָר "Gerar, a Philistine city" [HR/Np]

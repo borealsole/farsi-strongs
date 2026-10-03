@@ -534,3 +534,26 @@ Persian entries and current tags:
 - p14: خداوند  → H3068
 - p15: است
 - p16: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Proverbs 18:24 (context)
+
+- o1: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsc]
+- o2: רֵעִים = H7453 רֵעַ "an associate (more or less close)" [HNcmpa]
+- o3: לְ/הִתְרֹעֵעַ = Hl "to" + H7489 רָעַע "properly, to spoil (literally…" [HR/Vrc]
+- o4: וְ/יֵשׁ = Hc "and" + H3426 יֵשׁ "there is or are (or any other form of the verb to…" [HC/Tm]
+- o5: אֹהֵב = H157 אָהַב "to have affection for (sexually or otherwise)" [HVqrmsa]
+- o6: דָּבֵק = H1695 דָּבֵק "adhering" [HAamsa]
+- o7: מֵ/אָח = Hm "from" + H251 אָח "a brother (used in the widest sense of literal…" [HR/Ncmsa]
+
+### Proverbs 19:15 (context)
+
+- o1: עַצְלָה = H6103 עַצְלָה "(as abstractly) indolence" [HNcfsa]
+- o2: תַּפִּיל = H5307 נָפַל "to fall…" [HVhi3fs]
+- o3: תַּרְדֵּמָה = H8639 תַּרְדֵּמָה "a lethargy or (by implication) trance" [HNcfsa]
+- o4: וְ/נֶפֶשׁ = Hc "and" + H5315 נֶפֶשׁ "properly, a breathing creature…" [HC/Ncbsc]
+- o5: רְמִיָּה = H7423 רְמִיָּה "remissness, treachery" [HNcfsa]
+- o6: תִרְעָב = H7456 רָעֵב "to hunger" [HVqi3fs]

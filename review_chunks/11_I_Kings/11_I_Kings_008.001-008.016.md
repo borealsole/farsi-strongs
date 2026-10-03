@@ -846,3 +846,49 @@ Persian entries and current tags:
 - p43: براند
 - p44: .
 - p45: “
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 7:51 (context)
+
+- o1: וַ/תִּשְׁלַם = Hc "and" + H7999 שָׁלַם "to be safe (in mind, body or estate)…" [HC/Vqw3fs]
+- o2: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: הַ/מְּלָאכָה = Hd "the" + H4399 מְלָאכָה "properly, deputyship, i.e. ministry…" [HTd/Ncfsa]
+- o4: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o5: עָשָׂה = H6213 עָשָׂה "to do or make…" [HVqp3ms]
+- o6: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o7: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o8: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o9: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o10: וַ/יָּבֵא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vhw3ms]
+- o11: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o12: אֶת = H853 אֵת "properly…" [HTo]
+- o13: קָדְשֵׁי = H6944 קֹדֶשׁ "a sacred place or thing; rarely abstract, sanctity" [HNcmpc]
+- o14: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o15: אָבִי/ו = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp3ms]
+- o16: אֶת = H853 אֵת "properly…" [HTo]
+- o17: הַ/כֶּסֶף = Hd "the" + H3701 כֶּסֶף "silver (from its pale color)…" [HTd/Ncmsa]
+- o18: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o19: הַ/זָּהָב = Hd "the" + H2091 זָהָב "gold, figuratively…" [HTd/Ncmsa]
+- o20: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o21: הַ/כֵּלִים = Hd "the" + H3627 כְּלִי "something prepared…" [HTd/Ncmpa]
+- o22: נָתַן = H5414 נָתַן "to give…" [HVqp3ms]
+- o23: בְּ/אֹצְרוֹת = Hb "in" + H214 אוֹצָר "a depository" [HR/Ncmpc]
+- o24: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o25: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### I Kings 8:17 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o3: לְבַב = H3824 לֵבָב "the heart (as the most interior organ)" [HNcmsc]
+- o4: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o5: אָבִ/י = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp1cs]
+- o6: לִ/בְנוֹת = Hl "to" + H1129 בָּנָה "to build (literally and figuratively)" [HR/Vqc]
+- o7: בַּיִת = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsa]
+- o8: לְ/שֵׁם = Hl "to" + H8034 שֵׁם "an appellation…" [HR/Ncmsc]
+- o9: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o10: אֱלֹהֵי = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc]
+- o11: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]

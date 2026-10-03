@@ -638,3 +638,37 @@ Persian entries and current tags:
 - p17: ساکن  → H3427
 - p18: می‌سازی  → H3462
 - p19: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 2:12 (context)
+
+- o1: נַשְּׁקוּ = H5401 נָשַׁק "to kiss, literally or figuratively (touch)…" [HVpv2mp]
+- o2: בַר = H1248 בַּר "the heir (apparent to the throne)" [HNcmsa]
+- o3: פֶּן = H6435 פֵּן "properly, removal…" [HC]
+- o4: יֶאֱנַף = H599 אָנַף "to breathe hard, i.e. be enraged" [HVqi3ms]
+- o5: וְ/תֹאבְדוּ = Hc "and" + H6 אָבַד "properly, to wander away, i.e. lose oneself…" [HC/Vqi2mp]
+- o6: דֶרֶךְ = H1870 דֶּרֶךְ "a road (as trodden)…" [HNcbsa]
+- o7: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o8: יִבְעַר = H1197 בָּעַר "to kindle, i.e. consume (by fire or by eating)…" [HVqi3ms]
+- o9: כִּ/מְעַט = Hk "like" + H4592 מְעַט "a little or few (often adverbial or compar.)" [HR/Ncmsa]
+- o10: אַפּ/וֹ = H639 אַף "properly, the nose or nostril…" [HNcmsc/Sp3ms]
+- o11: אַשְׁרֵי = H835 אֶשֶׁר "happiness…" [HNcmpa]
+- o12: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o13: חוֹסֵי = H2620 חָסָה "to flee for protection…" [HVqrmpc]
+- o14: ב/וֹ = Hb "in" [HR/Sp3ms]
+
+### Psalms 5:1 (context)
+
+- o1: לַ/מְנַצֵּחַ = Hl "to" + H5329 נָצַח "properly, to glitter from afar…" [HRd/Vprmsa]
+- o2: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o3: הַ/נְּחִילוֹת = Hd "the" + H5155 נְחִילָה "a flute" [HTd/Np]
+- o4: מִזְמוֹר = H4210 מִזְמוֹר "properly, instrumental music…" [HNcmsa]
+- o5: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o6: אֲמָרַ/י = H561 אֵמֶר "something said" [HNcmpc/Sp1cs]
+- o7: הַאֲזִינָ/ה = H238 אָזַן "to broaden out the ear (with the hand)…" [HVhv2ms/Sh]
+- o8: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o9: בִּינָ/ה = H995 בִּין "to separate mentally (or distinguish)…" [HVqv2ms/Sh]
+- o10: הֲגִיגִ/י = H1901 הָגִיג "properly, a murmur, i.e. complaint" [HNcmsc/Sp1cs]

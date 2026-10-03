@@ -1238,3 +1238,35 @@ Persian entries and current tags:
 - p8: .
 - p9: آمین
 - p10: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Revelation of John 21:27 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o3: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o4: εἰσέλθῃ = G1525 εἰσέρχομαι "arise, come (in, into), enter in(-to)…" [V-2AAS-3S]
+- o5: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o6: αὐτὴν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASF]
+- o7: πᾶν = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-NSN]
+- o8: κοινὸν = G2839 κοινός "common, defiled, unclean, unholy" [A-NSN]
+- o9: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o10: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o11: ποιῶν = G4160 ποιέω "abide, + agree, appoint, avenge, + band together…" [V-PAP-NSM]
+- o12: βδέλυγμα = G946 βδέλυγμα "abomination" [N-ASN]
+- o13: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o14: ψεῦδος, = G5579 ψεῦδος "lie, lying" [N-ASN]
+- o15: εἰ = G1487 εἰ "forasmuch as, if, that, (al-)though, whether" [COND]
+- o16: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o17: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o18: γεγραμμένοι = G1125 γράφω "describe, write(-ing, -ten)" [V-RPP-NPM]
+- o19: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o20: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSN]
+- o21: βιβλίῳ = G975 βιβλίον "bill, book, scroll, writing" [N-DSN]
+- o22: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o23: ζωῆς = G2222 ζωή "life(-time)" [N-GSF]
+- o24: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
+- o25: ἀρνίου. = G721 ἀρνίον "lamb" [N-GSN]

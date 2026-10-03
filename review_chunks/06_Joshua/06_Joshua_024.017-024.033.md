@@ -991,3 +991,21 @@ Persian entries and current tags:
 - p25: به
 - p26: خاک سپردند  → H6912
 - p27: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Joshua 24:16 (context)
+
+- o1: וַ/יַּעַן = Hc "and" + H6030 עָנָה "properly, to eye or (generally) to heed…" [HC/Vqw3ms]
+- o2: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o3: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o4: חָלִילָ/ה = H2486 חָלִילָה "literal fora profaned thing…" [HTj/Sh]
+- o5: לָּ/נוּ = Hl "to" [HR/Sp1cp]
+- o6: מֵ/עֲזֹב = Hm "from" + H5800 עָזַב "to loosen, i.e. relinquish, permit, etc" [HR/Vqc]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o9: לַ/עֲבֹד = Hl "to" + H5647 עָבַד "to work (in any sense)…" [HR/Vqc]
+- o10: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o11: אֲחֵרִים = H312 אַחֵר "properly, hinder; generally, next, other, etc" [HAampa]

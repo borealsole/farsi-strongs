@@ -997,3 +997,47 @@ Persian entries and current tags:
 - p31: نفر
 - p32: داوری کنند  → H3198
 - p33: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 31:18 (context)
+
+- o1: וַ/יִּנְהַג = Hc "and" + H5090 נָהַג "to drive forth (a person, an animal or chariot)…" [HC/Vqw3ms]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o4: מִקְנֵ/הוּ = H4735 מִקְנֶה "something bought, i.e. property…" [HNcmsc/Sp3ms]
+- o5: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o6: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o7: רְכֻשׁ/וֹ = H7399 רְכוּשׁ "property (as gathered)" [HNcmsc/Sp3ms]
+- o8: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o9: רָכָשׁ = H7408 רָכַשׁ "to lay up, i.e. collect" [HVqp3ms]
+- o10: מִקְנֵה = H4735 מִקְנֶה "something bought, i.e. property…" [HNcmsc]
+- o11: קִנְיָנ/וֹ = H7075 קִנְיָן "creation, i.e. (concretely) creatures…" [HNcmsc/Sp3ms]
+- o12: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o13: רָכַשׁ = H7408 רָכַשׁ "to lay up, i.e. collect" [HVqp3ms]
+- o14: בְּ/פַדַּן = Hb "in" + H6307 פַּדָּן "Paddan or Paddan-Aram, a region of Syria" [HR/Np]
+- o15: אֲרָם = H6307 פַּדָּן "Paddan or Paddan-Aram, a region of Syria" [HNp]
+- o16: לָ/בוֹא = Hl "to" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HR/Vqc]
+- o17: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o18: יִצְחָק = H3327 יִצְחָק "Jitschak (or Isaac), son of Abraham" [HNp]
+- o19: אָבִי/ו = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp3ms]
+- o20: אַרְצָ/ה = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsc/Sd]
+- o21: כְּנָעַן = H3667 כְּנַעַן "Kenaan, a son a Ham…" [HNp]
+
+### Genesis 31:38 (context)
+
+- o1: זֶה = H2088 זֶה "the masculine demonstrative pronoun, this or that" [HPdxms]
+- o2: עֶשְׂרִים = H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HAcbpa]
+- o3: שָׁנָה = H8141 שָׁנֶה "a year (as a revolution of time)" [HNcfsa]
+- o4: אָנֹכִי = H595 אָנֹכִי "I" [HPp1cs]
+- o5: עִמָּ/ךְ = H5973 עִם "adverb or preposition…" [HR/Sp2ms]
+- o6: רְחֵלֶי/ךָ = H7353 רָחֵל "a ewe (the females being the predominant element…" [HNcfpc/Sp2ms]
+- o7: וְ/עִזֶּי/ךָ = Hc "and" + H5795 עֵז "a she-goat (as strong)…" [HC/Ncfpc/Sp2ms]
+- o8: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o9: שִׁכֵּלוּ = H7921 שָׁכֹל "properly, to miscarry, i.e. suffer abortion…" [HVpp3cp]
+- o10: וְ/אֵילֵי = Hc "and" + H352 אַיִל "properly, strength; hence, anything strong…" [HC/Ncmpc]
+- o11: צֹאנְ/ךָ = H6629 צֹאן "a collective name for a flock (of sheep or goats)…" [HNcbsc/Sp2ms]
+- o12: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o13: אָכָלְתִּי = H398 אָכַל "to eat (literally or figuratively)" [HVqp1cs]

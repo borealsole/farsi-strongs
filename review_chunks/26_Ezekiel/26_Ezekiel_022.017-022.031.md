@@ -826,3 +826,26 @@ Persian entries and current tags:
 - p27: آوردم  → H5414
 - p28: .
 - p29: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 22:16 (context)
+
+- o1: וְ/נִחַלְתְּ = Hc "and" + H2490 חָלַל "properly, to bore, i.e. (by implication) to wound…" [HC/VNq2fs]
+- o2: בָּ/ךְ = Hb "in" [HR/Sp2fs]
+- o3: לְ/עֵינֵי = Hl "to" + H5869 עַיִן "an eye (literally or figuratively)…" [HR/Ncbdc]
+- o4: גוֹיִם = H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HNcmpa]
+- o5: וְ/יָדַעַתְּ = Hc "and" + H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HC/Vqq2fs]
+- o6: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o7: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o8: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### Ezekiel 23:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o5: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

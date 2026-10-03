@@ -779,3 +779,37 @@ Persian entries and current tags:
 - p20: یارِ  → H7453
 - p21: من
 - p22: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Song of Solomon 4:16 (context)
+
+- o1: עוּרִי = H5782 עוּר "to wake (literally or figuratively)" [HVqv2fs]
+- o2: צָפוֹן = H6828 צָפוֹן "properly, hidden, i.e. dark…" [HNcfsa]
+- o3: וּ/בוֹאִי = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqv2fs]
+- o4: תֵימָן = H8486 תֵּימָן "the south (as being on the right hand of a person…" [HNcfsa]
+- o5: הָפִיחִי = H6315 פּוּחַ "to puff, i.e. blow with the breath or air…" [HVhv2fs]
+- o6: גַנִּ/י = H1588 גַּן "a garden (as fenced)" [HNcbsc/Sp1cs]
+- o7: יִזְּלוּ = H5140 נָזַל "to drip, or shed by trickling" [HVqj3mp]
+- o8: בְשָׂמָי/ו = H1314 בֶּשֶׂם "fragrance; by implication, spicery…" [HNcmpc/Sp3ms]
+- o9: יָבֹא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqj3ms]
+- o10: דוֹדִ/י = H1730 דּוֹד "figuratively) to love…" [HNcmsc/Sp1cs]
+- o11: לְ/גַנּ/וֹ = Hl "to" + H1588 גַּן "a garden (as fenced)" [HR/Ncbsc/Sp3ms]
+- o12: וְ/יֹאכַל = Hc "and" + H398 אָכַל "to eat (literally or figuratively)" [HC/Vqj3ms]
+- o13: פְּרִי = H6529 פְּרִי "fruit (literally or figuratively)" [HNcmsc]
+- o14: מְגָדָי/ו = H4022 מֶגֶד "properly, a distinguished thing…" [HNcmpc/Sp3ms]
+
+### Song of Solomon 6:1 (context)
+
+- o1: אָנָה = H575 אָן "where?; hence, whither?, when?…" [HD]
+- o2: הָלַךְ = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVqp3ms]
+- o3: דּוֹדֵ/ךְ = H1730 דּוֹד "figuratively) to love…" [HNcmsc/Sp2fs]
+- o4: הַ/יָּפָה = Hd "the" + H3303 יָפֶה "beautiful (literally or figuratively)" [HTd/Aafsa]
+- o5: בַּ/נָּשִׁים = Hb "in" + H802 אִשָּׁה "a woman" [HRd/Ncfpa]
+- o6: אָנָה = H575 אָן "where?; hence, whither?, when?…" [HD]
+- o7: פָּנָה = H6437 פָּנָה "to turn…" [HVqp3ms]
+- o8: דוֹדֵ/ךְ = H1730 דּוֹד "figuratively) to love…" [HNcmsc/Sp2fs]
+- o9: וּ/נְבַקְשֶׁ/נּוּ = Hc "and" + H1245 בָּקַשׁ "to search out (by any method…" [HC/Vpi1cp/Sp3ms]
+- o10: עִמָּ/ךְ = H5973 עִם "adverb or preposition…" [HR/Sp2fs]

@@ -551,3 +551,48 @@ Persian entries and current tags:
 - p15: نتواند  → G1410
 - p16: کرد  → G1438
 - p17: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Timothy 1:18 (context)
+
+- o1: δῴη = G1325 δίδωμι "adventure, bestow, bring forth, commit…" [V-2AAO-3S]
+- o2: αὐτῷ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
+- o3: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o4: κύριος = G2962 κύριος "God, Lord, master, Sir" [N-NSM]
+- o5: εὑρεῖν = G2147 εὑρίσκω "find, get, obtain, perceive, see" [V-2AAN]
+- o6: ἔλεος = G1656 ἔλεος "(+ tender) mercy" [N-ASN]
+- o7: παρὰ = G3844 παρά "above, against, among, at, before, by…" [PREP]
+- o8: κυρίου = G2962 κύριος "God, Lord, master, Sir" [N-GSM]
+- o9: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o10: ἐκείνῃ = G1565 ἐκεῖνος "he, it, the other (same), selfsame, that (same…" [D-DSF]
+- o11: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o12: ἡμέρᾳ. = G2250 ἡμέρα "age, + alway, (mid-)day (by day, (-ly))…" [N-DSF]
+- o13: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o14: ὅσα = G3745 ὅσος "all (that), as (long, many, much) (as)…" [K-APN]
+- o15: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o16: Ἐφέσῳ = G2181 Ἔφεσος "Ephesus" [N-DSF]
+- o17: διηκόνησεν, = G1247 διακονέω "ad-)minister (unto), serve…" [V-AAI-3S]
+- o18: Βέλτιον = G957 βελτίον "very well" [ADV-C]
+- o19: σὺ = G4771 σύ "thou" [P-2NS]
+- o20: γινώσκεις. = G1097 γινώσκω "allow, be aware (of), feel, (have) know(-ledge)…" [V-PAI-2S]
+
+### II Timothy 2:14 (context)
+
+- o1: Ταῦτα = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-APN]
+- o2: ὑπομίμνῃσκε, = G5279 ὑπομιμνήσκω "put in mind, remember…" [V-PAM-2S]
+- o3: διαμαρτυρόμενος = G1263 διαμαρτύρομαι "charge, testify (unto), witness" [V-PNP-NSM]
+- o4: ἐνώπιον = G1799 ἐνώπιον "before, in the presence (sight) of, to" [PREP]
+- o5: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o6: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o7: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o8: λογομαχεῖν, = G3054 λογομαχέω "strive about words" [V-PAN]
+- o9: ἐπ’ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o10: οὐδὲν = G3762 οὐδείς "any (man), aught, man, neither any (thing)…" [A-ASN-N]
+- o11: χρήσιμον, = G5539 χρήσιμος "profit" [A-ASN]
+- o12: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o13: καταστροφῇ = G2692 καταστροφή "overthrow, subverting" [N-DSF]
+- o14: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o15: ἀκουόντων. = G191 ἀκούω "give (in the) audience (of), come (to the ears)…" [V-PAP-GPM]

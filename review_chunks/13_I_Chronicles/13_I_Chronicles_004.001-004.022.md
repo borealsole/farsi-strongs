@@ -1007,3 +1007,33 @@ Persian entries and current tags:
 - p22: باستانی  → H6267
 - p23: هستند
 - p24: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Chronicles 3:24 (context)
+
+- o1: וּ/בְנֵי = Hc "and" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/Ncmpc]
+- o2: אֶלְיוֹעֵינַי = H454 אֶלְיְהוֹעֵינַי "Eljehoenai or Eljoenai…" [HNp]
+- o3: הדיוהו = H1939 הוֹדַיְוָהוּ "Hodajvah, an Israelite" [HNp]
+- o4: וְ/אֶלְיָשִׁיב = Hc "and" + H475 אֶלְיָשִׁיב "Eljashib, the name of six Israelites" [HC/Np]
+- o5: וּ/פְלָיָה = Hc "and" + H6411 פְּלָיָה "Pelajah, the name of three Israelites" [HC/Np]
+- o6: וְ/עַקּוּב = Hc "and" + H6126 עַקּוּב "Akkub, the name of five Israelites" [HC/Np]
+- o7: וְ/יוֹחָנָן = Hc "and" + H3110 יוֹחָנָן "Jochanan, the name of nine Israelites" [HC/Np]
+- o8: וּ/דְלָיָה = Hc "and" + H1806 דְּלָיָה "Delajah, the name of five Israelites" [HC/Np]
+- o9: וַ/עֲנָנִי = Hc "and" + H6054 עֲנָנִי "Anani, an Israelite" [HC/Np]
+- o10: שִׁבְעָה = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcmsa]
+
+### I Chronicles 4:23 (context)
+
+- o1: הֵמָּה = H1992 הֵם "they (only used when emphatic)" [HPp3mp]
+- o2: הַ/יּוֹצְרִים = Hd "the" + H3335 יָצַר "to mould into a form; especially as apotter…" [HTd/Vqrmpa]
+- o3: וְ/יֹשְׁבֵי = Hc "and" + H3427 יָשַׁב "properly…" [HC/Vqrmpc]
+- o4: נְטָעִים = H5196 נְטָעִים "Netaim, a place in Palestine" [HNp]
+- o5: וּ/גְדֵרָה = Hc "and" + H1448 גְּדֵרָה "enclosure (especially for flocks)" [HC/Np]
+- o6: עִם = H5973 עִם "adverb or preposition…" [HR]
+- o7: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o8: בִּ/מְלַאכְתּ/וֹ = Hb "in" + H4399 מְלָאכָה "properly, deputyship, i.e. ministry…" [HR/Ncfsc/Sp3ms]
+- o9: יָשְׁבוּ = H3427 יָשַׁב "properly…" [HVqp3cp]
+- o10: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]

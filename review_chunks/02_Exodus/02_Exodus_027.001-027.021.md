@@ -995,3 +995,49 @@ Persian entries and current tags:
 - p38: ابدی  → H5769
 - p39: باشد
 - p40: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 26:37 (context)
+
+- o1: וְ/עָשִׂיתָ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqq2ms]
+- o2: לַ/מָּסָךְ = Hl "to" + H4539 מָסָךְ "a cover, i.e. veil" [HRd/Ncmsa]
+- o3: חֲמִשָּׁה = H2568 חָמֵשׁ "five" [HAcmsa]
+- o4: עַמּוּדֵי = H5982 עַמּוּד "a column (as standing)…" [HNcmpc]
+- o5: שִׁטִּים = H7848 שִׁטָּה "the acacia (from its scourging thorns)" [HNcfpa]
+- o6: וְ/צִפִּיתָ = Hc "and" + H6823 צָפָה "to sheet over (especially with metal)" [HC/Vpq2ms]
+- o7: אֹתָ/ם = H853 אֵת "properly…" [HTo/Sp3mp]
+- o8: זָהָב = H2091 זָהָב "gold, figuratively…" [HNcmsa]
+- o9: וָוֵי/הֶם = H2053 וָו "a hook (the name of the sixth Hebrew letter)" [HNcmpc/Sp3mp]
+- o10: זָהָב = H2091 זָהָב "gold, figuratively…" [HNcmsa]
+- o11: וְ/יָצַקְתָּ = Hc "and" + H3332 יָצַק "properly…" [HC/Vqq2ms]
+- o12: לָ/הֶם = Hl "to" [HR/Sp3mp]
+- o13: חֲמִשָּׁה = H2568 חָמֵשׁ "five" [HAcmsa]
+- o14: אַדְנֵי = H134 אֶדֶן "a basis (of a building, a column, etc.)" [HNcmpc]
+- o15: נְחֹשֶׁת = H5178 נְחֹשֶׁת "copper, hence, something made of that metal…" [HNcfsa]
+
+### Exodus 28:1 (context)
+
+- o1: וְ/אַתָּה = Hc "and" + H859 אַתָּה "thou and thee, or (plural) ye and you" [HC/Pp2ms]
+- o2: הַקְרֵב = H7126 קָרַב "to approach (causatively…" [HVhv2ms]
+- o3: אֵלֶי/ךָ = H413 אֵל "near, with or among; often in general, to" [HR/Sp2ms]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: אַהֲרֹן = H175 אַהֲרוֹן "Aharon, the brother of Moses" [HNp]
+- o6: אָחִי/ךָ = H251 אָח "a brother (used in the widest sense of literal…" [HNcmsc/Sp2ms]
+- o7: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o8: בָּנָי/ו = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc/Sp3ms]
+- o9: אִתּ/וֹ = H854 אֵת "properly…" [HR/Sp3ms]
+- o10: מִ/תּוֹךְ = Hm "from" + H8432 תָּוֶךְ "a bisection, i.e. (by implication) the centre" [HR/Ncmsc]
+- o11: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o12: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o13: לְ/כַהֲנ/וֹ = Hl "to" + H3547 כָּהַן "to officiate as a priest…" [HR/Vpc/Sp3ms]
+- o14: לִ/י = Hl "to" [HR/Sp1cs]
+- o15: אַהֲרֹן = H175 אַהֲרוֹן "Aharon, the brother of Moses" [HNp]
+- o16: נָדָב = H5070 נָדָב "Nadab, the name of four Israelites" [HNp]
+- o17: וַ/אֲבִיהוּא = Hc "and" + H30 אֲבִיהוּא "Abihu, a son of Aaron" [HC/Np]
+- o18: אֶלְעָזָר = H499 אֶלְעָזָר "Elazar, the name of seven Israelites" [HNp]
+- o19: וְ/אִיתָמָר = Hc "and" + H385 אִיתָמָר "Ithamar, a son of Aaron" [HC/Np]
+- o20: בְּנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o21: אַהֲרֹן = H175 אַהֲרוֹן "Aharon, the brother of Moses" [HNp]

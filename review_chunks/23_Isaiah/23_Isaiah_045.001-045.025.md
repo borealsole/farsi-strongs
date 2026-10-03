@@ -1464,3 +1464,36 @@ Persian entries and current tags:
 - p11: خواهند_کرد  → H1984
 - p12: .
 - p13: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Isaiah 44:28 (context)
+
+- o1: הָ/אֹמֵר = Hd "the" + H559 אָמַר "to say (used with great latitude)" [HTd/Vqrmsa]
+- o2: לְ/כוֹרֶשׁ = Hl "to" + H3566 כּוֹרֶשׁ "Koresh (or Cyrus), the Persian king" [HR/Np]
+- o3: רֹעִ/י = H7473 רֹעִי "pastoral; as noun, a shepherd" [HVqrmsc/Sp1cs]
+- o4: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o5: חֶפְצִ/י = H2656 חֵפֶץ "pleasure; hence (abstractly) desire…" [HNcmsc/Sp1cs]
+- o6: יַשְׁלִם = H7999 שָׁלַם "to be safe (in mind, body or estate)…" [HVhi3ms]
+- o7: וְ/לֵ/אמֹר = Hc "and" + Hl "to" + H559 אָמַר "to say (used with great latitude)" [HC/R/Vqc]
+- o8: לִ/ירוּשָׁלִַם = Hl "to" + H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HR/Np]
+- o9: תִּבָּנֶה = H1129 בָּנָה "to build (literally and figuratively)" [HVNi3fs]
+- o10: וְ/הֵיכָל = Hc "and" + H1964 הֵיכָל "a large public building…" [HC/Ncmsa]
+- o11: תִּוָּסֵד = H3245 יָסַד "to set (literally or figuratively)…" [HVNi3fs]
+
+### Isaiah 46:1 (context)
+
+- o1: כָּרַע = H3766 כָּרַע "to bend the knee…" [HVqp3ms]
+- o2: בֵּל = H1078 בֵּל "Bel, the Baal of the Babylonians" [HNp]
+- o3: קֹרֵס = H7164 קָרַס "to hunch, i.e. be hump-backed" [HVqrmsa]
+- o4: נְבוֹ = H5015 נְבוֹ "Nebo, the name of a Babylonian deity…" [HNp]
+- o5: הָיוּ = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3cp]
+- o6: עֲצַבֵּי/הֶם = H6091 עָצָב "an (idolatrous) image" [HNcmpc/Sp3mp]
+- o7: לַ/חַיָּה = Hl "to" + H2416 חַי "alive; hence, raw (flesh)…" [HRd/Ncfsa]
+- o8: וְ/לַ/בְּהֵמָה = Hc "and" + Hl "to" + H929 בְּהֵמָה "properly, a dumb beast…" [HC/Rd/Ncfsa]
+- o9: נְשֻׂאֹתֵי/כֶם = H5385 נְשׂוּאָה "something borne, i.e. a load" [HVqsfpc/Sp2mp]
+- o10: עֲמוּסוֹת = H6006 עָמַס "to load, i.e. impose aburden (or figuratively…" [HVqsfpa]
+- o11: מַשָּׂא = H4853 מַשָּׂא "a burden…" [HNcmsa]
+- o12: לַ/עֲיֵפָה = Hl "to" + H5889 עָיֵף "languid" [HR/Aafsa]

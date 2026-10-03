@@ -855,3 +855,26 @@ Persian entries and current tags:
 - p13: خود
 - p14: منقطع شود  → H3772
 - p15: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 30:19 (context)
+
+- o1: וְ/רָחֲצוּ = Hc "and" + H7364 רָחַץ "to lave (the whole or a part of a thing)" [HC/Vqq3cp]
+- o2: אַהֲרֹן = H175 אַהֲרוֹן "Aharon, the brother of Moses" [HNp]
+- o3: וּ/בָנָי/ו = Hc "and" + H1121 בֵּן "a son (as a builder of the family name)…" [HC/Ncmpc/Sp3ms]
+- o4: מִמֶּ/נּוּ = H4480 מִן "properly, a part of…" [HR/Sp1cp]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: יְדֵי/הֶם = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbdc/Sp3mp]
+- o7: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o8: רַגְלֵי/הֶם = H7272 רֶגֶל "a foot (as used in walking)…" [HNcfdc/Sp3mp]
+
+### Exodus 31:1 (context)
+
+- o1: וַ/יְדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o5: לֵּ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

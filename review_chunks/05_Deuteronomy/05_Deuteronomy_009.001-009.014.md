@@ -953,3 +953,39 @@ Persian entries and current tags:
 - p23: پدید آورم  → H6213
 - p24: .
 - p25: “
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 8:20 (context)
+
+- o1: כַּ/גּוֹיִם = Hk "like" + H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HRd/Ncmpa]
+- o2: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: מַאֲבִיד = H6 אָבַד "properly, to wander away, i.e. lose oneself…" [HVhrmsa]
+- o5: מִ/פְּנֵי/כֶם = Hm "from" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp2mp]
+- o6: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o7: תֹאבֵדוּ/ן = H6 אָבַד "properly, to wander away, i.e. lose oneself…" [HVqi2mp/Sn]
+- o8: עֵקֶב = H6118 עֵקֶב "a heel…" [HNcmsc]
+- o9: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o10: תִשְׁמְעוּ/ן = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqi2mp/Sn]
+- o11: בְּ/קוֹל = Hb "in" + H6963 קוֹל "a voice or sound" [HR/Ncmsc]
+- o12: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o13: אֱלֹהֵי/כֶם = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2mp]
+
+### Deuteronomy 9:15 (context)
+
+- o1: וָ/אֵפֶן = Hc "and" + H6437 פָּנָה "to turn…" [HC/Vqw1cs]
+- o2: וָ/אֵרֵד = Hc "and" + H3381 יָרַד "to descend (literally, to go downwards…" [HC/Vqw1cs]
+- o3: מִן = H4480 מִן "properly, a part of…" [HR]
+- o4: הָ/הָר = Hd "the" + H2022 הַר "a mountain or range of hills (sometimes used…" [HTd/Ncmsa]
+- o5: וְ/הָ/הָר = Hc "and" + Hd "the" + H2022 הַר "a mountain or range of hills (sometimes used…" [HC/Td/Ncmsa]
+- o6: בֹּעֵר = H1197 בָּעַר "to kindle, i.e. consume (by fire or by eating)…" [HVqrmsa]
+- o7: בָּ/אֵשׁ = Hb "in" + H784 אֵשׁ "fire (literally or figuratively)" [HRd/Ncbsa]
+- o8: וּ/שְׁנֵי = Hc "and" + H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HC/Acmdc]
+- o9: לֻחֹת = H3871 לוּחַ "probably meaning to glisten…" [HNcmpc]
+- o10: הַ/בְּרִית = Hd "the" + H1285 בְּרִית "a compact (because made by passing between pieces…" [HTd/Ncfsa]
+- o11: עַל = H5921 עַל "above, over, upon…" [HR]
+- o12: שְׁתֵּי = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcfdc]
+- o13: יָדָ/י = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbdc/Sp1cs]

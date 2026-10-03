@@ -764,3 +764,30 @@ Persian entries and current tags:
 - p31: خداوندگارْ یهوه  → H3069
 - p32: .
 - p33: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 12:14 (context)
+
+- o1: וְ/כֹל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsa]
+- o2: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o3: סְבִיבֹתָי/ו = H5439 סָבִיב "as noun) a circle, neighbour, or environs…" [HNcbpc/Sp3ms]
+- o4: עזר/ה = H5828 עֵזֶר "aid" [HNcmsc/Sp3fs]
+- o5: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o6: אֲגַפָּי/ו = H102 אַגָּף "only plural) wings of an army…" [HNcmpc/Sp3ms]
+- o7: אֱזָרֶה = H2219 זָרָה "to toss about; by implication, to diffuse, winnow" [HVpi1cs]
+- o8: לְ/כָל = Hl "to" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o9: רוּחַ = H7307 רוּחַ "wind…" [HNcbsa]
+- o10: וְ/חֶרֶב = Hc "and" + H2719 חֶרֶב "drought…" [HC/Ncfsa]
+- o11: אָרִיק = H7324 רוּק "to pour out (literally or figuratively)…" [HVhi1cs]
+- o12: אַחֲרֵי/הֶם = H310 אַחַר "properly, the hind part…" [HR/Sp3mp]
+
+### Ezekiel 13:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o5: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

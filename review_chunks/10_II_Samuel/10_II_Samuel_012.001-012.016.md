@@ -966,3 +966,46 @@ Persian entries and current tags:
 - p19: دراز
 - p20: کشید  → H7901
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 11:27 (context)
+
+- o1: וַ/יַּעֲבֹר = Hc "and" + H5674 עָבַר "to cross over…" [HC/Vqw3ms]
+- o2: הָ/אֵבֶל = Hd "the" + H60 אֵבֶל "lamentation" [HTd/Ncmsa]
+- o3: וַ/יִּשְׁלַח = Hc "and" + H7971 שָׁלַח "to send away, for…" [HC/Vqw3ms]
+- o4: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o5: וַ/יַּאַסְפָ/הּ = Hc "and" + H622 אָסַף "to gather for any purpose…" [HC/Vqw3ms/Sp3fs]
+- o6: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o7: בֵּית/וֹ = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc/Sp3ms]
+- o8: וַ/תְּהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3fs]
+- o9: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o10: לְ/אִשָּׁה = Hl "to" + H802 אִשָּׁה "a woman" [HR/Ncfsa]
+- o11: וַ/תֵּלֶד = Hc "and" + H3205 יָלַד "to bear young; causatively, to beget…" [HC/Vqw3fs]
+- o12: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o13: בֵּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsa]
+- o14: וַ/יֵּרַע = Hc "and" + H7489 רָעַע "properly, to spoil (literally…" [HC/Vqw3ms]
+- o15: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]
+- o16: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o17: עָשָׂה = H6213 עָשָׂה "to do or make…" [HVqp3ms]
+- o18: דָוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o19: בְּ/עֵינֵי = Hb "in" + H5869 עַיִן "an eye (literally or figuratively)…" [HR/Ncbdc]
+- o20: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+
+### II Samuel 12:17 (context)
+
+- o1: וַ/יָּקֻמוּ = Hc "and" + H6965 קוּם "to rise (in various applications, literal…" [HC/Vqw3mp]
+- o2: זִקְנֵי = H2205 זָקֵן "old" [HAampc]
+- o3: בֵית/וֹ = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc/Sp3ms]
+- o4: עָלָי/ו = H5921 עַל "above, over, upon…" [HR/Sp3ms]
+- o5: לַ/הֲקִימ/וֹ = Hl "to" + H6965 קוּם "to rise (in various applications, literal…" [HR/Vhc/Sp3ms]
+- o6: מִן = H4480 מִן "properly, a part of…" [HR]
+- o7: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o8: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o9: אָבָה = H14 אָבָה "to breathe after…" [HVqp3ms]
+- o10: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o11: בָרָא = H1262 בָּרָה "to select; to feed; to render clear" [HVqp3ms]
+- o12: אִתָּ/ם = H854 אֵת "properly…" [HR/Sp3mp]
+- o13: לָחֶם = H3899 לֶחֶם "food (for man or beast), especially bread…" [HNcbsa]

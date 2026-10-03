@@ -1021,3 +1021,51 @@ Persian entries and current tags:
 - p9: نیکویی  → G18
 - p10: مغلوب ساز  → G3528
 - p11: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Romans 11:36 (context)
+
+- o1: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o2: ἐξ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o3: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o4: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o5: δι’ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o6: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o7: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o8: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o9: αὐτὸν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASM]
+- o10: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPN]
+- o11: πάντα· = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-NPN]
+- o12: αὐτῷ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
+- o13: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o14: δόξα = G1391 δόξα "dignity, glory(-ious), honour, praise, worship" [N-NSF]
+- o15: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o16: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o17: αἰῶνας· = G165 αἰών "age, course, eternal, (for) ever(-more), (n-)ever…" [N-APM]
+- o18: ἀμήν. = G281 ἀμήν "amen, verily" [HEB]
+
+### Romans 13:1 (context)
+
+- o1: Πᾶσα = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-NSF]
+- o2: ψυχὴ = G5590 ψυχή "heart (+ -ily), life, mind, soul, + us, + you" [N-NSF]
+- o3: ἐξουσίαις = G1849 ἐξουσία "authority, jurisdiction, liberty, power, right…" [N-DPF]
+- o4: ὑπερεχούσαις = G5242 ὑπερέχω "better, excellency, higher, pass, supreme" [V-PAP-DPF]
+- o5: ὑποτασσέσθω. = G5293 ὑποτάσσω "be under obedience (obedient), put under…" [V-PMM-3S]
+- o6: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o7: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o8: ἔστιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o9: ἐξουσία = G1849 ἐξουσία "authority, jurisdiction, liberty, power, right…" [N-NSF]
+- o10: εἰ = G1487 εἰ "forasmuch as, if, that, (al-)though, whether" [COND]
+- o11: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o12: ὑπὸ = G5259 ὑπό "among, by, from, in, of, under, with" [PREP]
+- o13: θεοῦ, = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o14: αἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPF]
+- o15: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o16: οὖσαι = G1510 εἰμί "am, have been, it is I, was" [V-PAP-NPF]
+- o17: ὑπὸ = G5259 ὑπό "among, by, from, in, of, under, with" [PREP]
+- o18: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o19: τεταγμέναι = G5021 τάσσω "addict, appoint, determine, ordain, set" [V-RPP-NPF]
+- o20: εἰσίν· = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3P]

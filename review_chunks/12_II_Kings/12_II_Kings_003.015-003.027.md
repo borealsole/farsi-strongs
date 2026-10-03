@@ -806,3 +806,62 @@ Persian entries and current tags:
 - p41: خویش
 - p42: بازگشتند  → H7725
 - p43: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Kings 3:14 (context)
+
+- o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o2: אֱלִישָׁע = H477 אֱלִישָׁע "Elisha, the famous prophet" [HNp]
+- o3: חַי = H2416 חַי "alive; hence, raw (flesh)…" [HAamsa]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: צְבָאוֹת = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbpa]
+- o6: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o7: עָמַדְתִּי = H5975 עָמַד "to stand…" [HVqp1cs]
+- o8: לְ/פָנָי/ו = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp3ms]
+- o9: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o10: לוּלֵי = H3884 לוּלֵא "if not" [HC]
+- o11: פְּנֵי = H6440 פָּנִים "the face (as the part that turns)…" [HNcbpc]
+- o12: יְהוֹשָׁפָט = H3092 יְהוֹשָׁפָט "Jehoshaphat, the name of six Israelites…" [HNp]
+- o13: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o14: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o15: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o16: נֹשֵׂא = H5375 נָשָׂא "to lift, in a great variety of applications…" [HVqrmsa]
+- o17: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o18: אַבִּיט = H5027 נָבַט "to scan, i.e. look intently at…" [HVhi1cs]
+- o19: אֵלֶי/ךָ = H413 אֵל "near, with or among; often in general, to" [HR/Sp2ms]
+- o20: וְ/אִם = Hc "and" + H518 אִם "used very widely as demonstrative, lo!…" [HC/C]
+- o21: אֶרְאֶ/ךָּ = H7200 רָאָה "to see…" [HVqi1cs/Sp2ms]
+
+### II Kings 4:1 (context)
+
+- o1: וְ/אִשָּׁה = Hc "and" + H802 אִשָּׁה "a woman" [HC/Ncfsa]
+- o2: אַחַת = H259 אֶחָד "properly, united, i.e. one…" [HAcfsa]
+- o3: מִ/נְּשֵׁי = Hm "from" + H802 אִשָּׁה "a woman" [HR/Ncfpc]
+- o4: בְנֵי = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc]
+- o5: הַ/נְּבִיאִים = Hd "the" + H5030 נָבִיא "a prophet or (generally) inspired man" [HTd/Ncmpa]
+- o6: צָעֲקָה = H6817 צָעַק "to shriek…" [HVqp3fs]
+- o7: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o8: אֱלִישָׁע = H477 אֱלִישָׁע "Elisha, the famous prophet" [HNp]
+- o9: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o10: עַבְדְּ/ךָ = H5650 עֶבֶד "a servant" [HNcmsc/Sp2ms]
+- o11: אִישִׁ/י = H376 אִישׁ "a man as an individual or a male person…" [HNcmsc/Sp1cs]
+- o12: מֵת = H4191 מוּת "to die (literally or figuratively)…" [HVqp3ms]
+- o13: וְ/אַתָּה = Hc "and" + H859 אַתָּה "thou and thee, or (plural) ye and you" [HC/Pp2ms]
+- o14: יָדַעְתָּ = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqp2ms]
+- o15: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o16: עַבְדְּ/ךָ = H5650 עֶבֶד "a servant" [HNcmsc/Sp2ms]
+- o17: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o18: יָרֵא = H3372 יָרֵא "to fear; morally, to revere; caus. to frighten" [HVqrmsa]
+- o19: אֶת = H853 אֵת "properly…" [HTo]
+- o20: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o21: וְ/הַ/נֹּשֶׁה = Hc "and" + Hd "the" + H5383 נָשָׁה "to lend or (by reciprocity) borrow on security or…" [HC/Td/Vqrmsa]
+- o22: בָּא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3ms]
+- o23: לָ/קַחַת = Hl "to" + H3947 לָקַח "to take (in the widest variety of applications)" [HR/Vqc]
+- o24: אֶת = H853 אֵת "properly…" [HTo]
+- o25: שְׁנֵי = H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HAcmdc]
+- o26: יְלָדַ/י = H3206 יֶלֶד "something born, i.e. a lad or offspring" [HNcmpc/Sp1cs]
+- o27: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o28: לַ/עֲבָדִים = Hl "to" + H5650 עֶבֶד "a servant" [HR/Ncmpa]

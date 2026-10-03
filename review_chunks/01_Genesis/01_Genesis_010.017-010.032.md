@@ -593,3 +593,26 @@ Persian entries and current tags:
 - p19: توفان  → H3999
 - p20: منشعب شدند  → H6504
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Genesis 10:16 (context)
+
+- o1: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o2: הַ/יְבוּסִי = Hd "the" + H2983 יְבוּסִי "a Jebusite or inhabitant of Jebus" [HTd/Ngmsa]
+- o3: וְ/אֶת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o4: הָ/אֱמֹרִי = Hd "the" + H567 אֱמֹרִי "an Emorite, one of the Canaanitish tribes" [HTd/Ngmsa]
+- o5: וְ/אֵת = Hc "and" + H853 אֵת "properly…" [HC/To]
+- o6: הַ/גִּרְגָּשִׁי = Hd "the" + H1622 גִּרְגָּשִׁי "a Girgashite, one of the native tribes of Canaan" [HTd/Ngmsa]
+
+### Genesis 11:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: כָל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
+- o4: שָׂפָה = H8193 שָׂפָה "the lip (as a natural boundary)…" [HNcfsa]
+- o5: אֶחָת = H259 אֶחָד "properly, united, i.e. one…" [HAcfsa]
+- o6: וּ/דְבָרִים = Hc "and" + H1697 דָּבָר "a word…" [HC/Ncmpa]
+- o7: אֲחָדִים = H259 אֶחָד "properly, united, i.e. one…" [HAcmpa]

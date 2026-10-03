@@ -780,3 +780,41 @@ Persian entries and current tags:
 - p20: جایگاه کفّاره  → H3727
 - p21: باشد  → H1961
 - p22: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 24:18 (context)
+
+- o1: וַ/יָּבֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3ms]
+- o2: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o3: בְּ/תוֹךְ = Hb "in" + H8432 תָּוֶךְ "a bisection, i.e. (by implication) the centre" [HR/Ncmsc]
+- o4: הֶ/עָנָן = Hd "the" + H6051 עָנָן "a cloud (as covering the sky)…" [HTd/Ncmsa]
+- o5: וַ/יַּעַל = Hc "and" + H5927 עָלָה "to ascend…" [HC/Vqw3ms]
+- o6: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o7: הָ/הָר = Hd "the" + H2022 הַר "a mountain or range of hills (sometimes used…" [HTd/Ncmsa]
+- o8: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o9: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o10: בָּ/הָר = Hb "in" + H2022 הַר "a mountain or range of hills (sometimes used…" [HRd/Ncmsa]
+- o11: אַרְבָּעִים = H705 אַרְבָּעִים "forty" [HAcbpa]
+- o12: יוֹם = H3117 יוֹם "a day (as the warm hours)…" [HNcmsa]
+- o13: וְ/אַרְבָּעִים = Hc "and" + H705 אַרְבָּעִים "forty" [HC/Acbpa]
+- o14: לָיְלָה = H3915 לַיִל "properly, a twist (away of the light), i.e. night…" [HNcmsa]
+
+### Exodus 25:21 (context)
+
+- o1: וְ/נָתַתָּ = Hc "and" + H5414 נָתַן "to give…" [HC/Vqq2ms]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: הַ/כַּפֹּרֶת = Hd "the" + H3727 כַּפֹּרֶת "a lid (used only of the cover of the sacred Ark)" [HTd/Ncfsa]
+- o4: עַל = H5921 עַל "above, over, upon…" [HR]
+- o5: הָ/אָרֹן = Hd "the" + H727 אָרוֹן "a box" [HTd/Ncbsa]
+- o6: מִ/לְ/מָעְלָ/ה = Hm "from" + Hl "to" + H4605 מַעַל "properly, the upper part…" [HR/R/D/Sd]
+- o7: וְ/אֶל = Hc "and" + H413 אֵל "near, with or among; often in general, to" [HC/R]
+- o8: הָ/אָרֹן = Hd "the" + H727 אָרוֹן "a box" [HTd/Ncbsa]
+- o9: תִּתֵּן = H5414 נָתַן "to give…" [HVqi2ms]
+- o10: אֶת = H853 אֵת "properly…" [HTo]
+- o11: הָ/עֵדֻת = Hd "the" + H5715 עֵדוּת "testimony" [HTd/Ncfsa]
+- o12: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o13: אֶתֵּן = H5414 נָתַן "to give…" [HVqi1cs]
+- o14: אֵלֶי/ךָ = H413 אֵל "near, with or among; often in general, to" [HR/Sp2ms]

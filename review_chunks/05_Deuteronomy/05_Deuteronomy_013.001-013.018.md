@@ -1128,3 +1128,41 @@ Persian entries and current tags:
 - p36: جای
 - p37: آرید
 - p38: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Deuteronomy 12:32 (context)
+
+- o1: אֵת = H853 אֵת "properly…" [HTo]
+- o2: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o3: הַ/דָּבָר = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmsa]
+- o4: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o5: אָנֹכִי = H595 אָנֹכִי "I" [HPp1cs]
+- o6: מְצַוֶּה = H6680 צָוָה "(intensively) to constitute, enjoin" [HVprmsa]
+- o7: אֶתְ/כֶם = H853 אֵת "properly…" [HTo/Sp2mp]
+- o8: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o9: תִשְׁמְרוּ = H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HVqi2mp]
+- o10: לַ/עֲשׂוֹת = Hl "to" + H6213 עָשָׂה "to do or make…" [HR/Vqc]
+- o11: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o12: תֹסֵף = H3254 יָסַף "to add or augment (often adverbial…" [HVhi2ms]
+- o13: עָלָי/ו = H5921 עַל "above, over, upon…" [HR/Sp3ms]
+- o14: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o15: תִגְרַע = H1639 גָּרַע "to scrape off…" [HVqi2ms]
+- o16: מִמֶּ/נּוּ = H4480 מִן "properly, a part of…" [HR/Sp3ms]
+
+### Deuteronomy 14:1 (context)
+
+- o1: בָּנִים = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpa]
+- o2: אַתֶּם = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2mp]
+- o3: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
+- o4: אֱלֹהֵי/כֶם = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp2mp]
+- o5: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o6: תִתְגֹּדְדוּ = H1413 גָּדַד "to crowd; also to gash (as if by pressing into)" [HVri2mp]
+- o7: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o8: תָשִׂימוּ = H7760 שׂוּם "to put (used in a great variety of applications…" [HVqi2mp]
+- o9: קָרְחָה = H7144 קׇרְחָה "baldness" [HNcfsa]
+- o10: בֵּין = H996 בֵּין "between (repeated before each noun…" [HR]
+- o11: עֵינֵי/כֶם = H5869 עַיִן "an eye (literally or figuratively)…" [HNcbdc/Sp2mp]
+- o12: לָ/מֵת = Hl "to" + H4191 מוּת "to die (literally or figuratively)…" [HR/Vqrmsa]

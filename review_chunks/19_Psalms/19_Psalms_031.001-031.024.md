@@ -1002,3 +1002,29 @@ Persian entries and current tags:
 - p11: خداوند  → H3068
 - p12: انتظار می‌کشید  → H3176
 - p13: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 30:12 (context)
+
+- o1: לְמַעַן = H4616 מַעַן "properly, heed, i.e. purpose…" [HR]
+- o2: יְזַמֶּרְ/ךָ = H2167 זָמַר "play upon it…" [HVpi3ms/Sp2ms]
+- o3: כָבוֹד = H3519 כָּבוֹד "properly, weight…" [HNcbsa]
+- o4: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o5: יִדֹּם = H1826 דָּמַם "to be dumb…" [HVqi3ms]
+- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o7: אֱלֹהַ/י = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp1cs]
+- o8: לְ/עוֹלָם = Hl "to" + H5769 עוֹלָם "properly, concealed, i.e. the vanishing point…" [HR/Ncmsa]
+- o9: אוֹדֶ/ךָּ = H3034 יָדָה "physically, to throw (a stone…" [HVhi1cs/Sp2ms]
+
+### Psalms 32:1 (context)
+
+- o1: לְ/דָוִד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
+- o2: מַשְׂכִּיל = H4905 מַשְׂכִּיל "instructive, i.e. a didactic poem" [HNcmsa]
+- o3: אַשְׁרֵי = H835 אֶשֶׁר "happiness…" [HNcmpa]
+- o4: נְשׂוּי = H5375 נָשָׂא "to lift, in a great variety of applications…" [HVqsmsc]
+- o5: פֶּשַׁע = H6588 פֶּשַׁע "a revolt (national, moral or religious)" [HNcmsa]
+- o6: כְּסוּי = H3680 כָּסָה "properly, to plump, i.e. fill up hollows…" [HVqsmsc]
+- o7: חֲטָאָה = H2401 חֲטָאָה "an offence, or a sacrifice forit" [HNcfsa]

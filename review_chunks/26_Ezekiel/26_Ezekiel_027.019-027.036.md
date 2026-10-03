@@ -844,3 +844,29 @@ Persian entries and current tags:
 - p22: .
 - p23: “
 - p24: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Ezekiel 27:18 (context)
+
+- o1: דַּמֶּשֶׂק = H1834 דַּמֶּשֶׂק "Damascus, a city of Syria" [HNp]
+- o2: סֹחַרְתֵּ/ךְ = H5503 סָחַר "to travel round (specifically as a pedlar)…" [HVqrfsc/Sp2fs]
+- o3: בְּ/רֹב = Hb "in" + H7230 רֹב "abundance (in any respect)" [HR/Ncbsc]
+- o4: מַעֲשַׂיִ/ךְ = H4639 מַעֲשֶׂה "an action (good or bad); generally, a transaction…" [HNcmpc/Sp2fs]
+- o5: מֵ/רֹב = Hm "from" + H7230 רֹב "abundance (in any respect)" [HR/Ncbsc]
+- o6: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o7: הוֹן = H1952 הוֹן "wealth; by implication, enough" [HNcmsa]
+- o8: בְּ/יֵין = Hb "in" + H3196 יַיִן "wine (as fermented); by implication, intoxication" [HR/Ncmsc]
+- o9: חֶלְבּוֹן = H2463 חֶלְבּוֹן "Chelbon, a place in Syria" [HNp]
+- o10: וְ/צֶמֶר = Hc "and" + H6785 צֶמֶר "wool" [HC/Ncmsc]
+- o11: צָחַר = H6713 צַחַר "sheen, i.e. whiteness" [HNcmsa]
+
+### Ezekiel 28:1 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: דְבַר = H1697 דָּבָר "a word…" [HNcmsc]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o5: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]

@@ -934,3 +934,31 @@ Persian entries and current tags:
 - p14: را
 - p15: بستاید  → G4921
 - p16: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Corinthians 9:15 (context)
+
+- o1: χάρις = G5485 χάρις "acceptable, benefit, favour, gift, grace(- ious)…" [N-NSF]
+- o2: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o3: θεῷ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-DSM]
+- o4: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o5: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o6: ἀνεκδιηγήτῳ = G411 ἀνεκδιήγητος "unspeakable" [A-DSF]
+- o7: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o8: δωρεᾷ. = G1431 δωρεά "gift" [N-DSF]
+
+### II Corinthians 11:1 (context)
+
+- o1: Ὄφελον = G3785 ὄφελον "would (to God)" [V-2AAI-1S]
+- o2: ἀνείχεσθέ = G430 ἀνέχομαι "bear with, endure, forbear, suffer" [V-INI-2P]
+- o3: μου = G1473 ἐγώ "I, me" [P-1GS]
+- o4: μικρόν = G3398 μικρός "least, less, little, small" [A-ASN]
+- o5: τι = G5100 τὶς "a (kind of), any (man, thing, thing at all)…" [X-ASN]
+- o6: ἀφροσύνης· = G877 ἀφροσύνη "folly, foolishly(-ness)" [N-GSF]
+- o7: ἀλλὰ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o8: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o9: ἀνέχεσθέ = G430 ἀνέχομαι "bear with, endure, forbear, suffer" [V-PNI-2P]
+- o10: μου. = G1473 ἐγώ "I, me" [P-1GS]

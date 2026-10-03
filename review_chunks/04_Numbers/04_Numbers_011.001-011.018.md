@@ -1021,3 +1021,35 @@ Persian entries and current tags:
 - p43: تا
 - p44: بخورید  → H398
 - p45: ،
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 10:36 (context)
+
+- o1: וּ/בְ/נֻחֹ/ה = Hc "and" + Hb "in" + H5117 נוּחַ "to rest, i.e. settle down…" [HC/R/Vqc/Sp3ms]
+- o2: יֹאמַר = H559 אָמַר "to say (used with great latitude)" [HVqi3ms]
+- o3: שׁוּבָ/ה = H7725 שׁוּב "to turn back (hence…" [HVqv2ms/Sh]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: רִבְבוֹת = H7233 רְבָבָה "abundance (in number)…" [HNcfpc]
+- o6: אַלְפֵי = H505 אֶלֶף "hence (the ox's head being the first letter of…" [HAcbpc]
+- o7: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+
+### Numbers 11:19 (context)
+
+- o1: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o2: יוֹם = H3117 יוֹם "a day (as the warm hours)…" [HNcmsa]
+- o3: אֶחָד = H259 אֶחָד "properly, united, i.e. one…" [HAcmsa]
+- o4: תֹּאכְלוּ/ן = H398 אָכַל "to eat (literally or figuratively)" [HVqi2mp/Sn]
+- o5: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o6: יוֹמָיִם = H3117 יוֹם "a day (as the warm hours)…" [HNcmda]
+- o7: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o8: חֲמִשָּׁה = H2568 חָמֵשׁ "five" [HAcmsa]
+- o9: יָמִים = H3117 יוֹם "a day (as the warm hours)…" [HNcmpa]
+- o10: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o11: עֲשָׂרָה = H6235 עֶשֶׂר "ten (as an accumulation to the extent of the…" [HAcmsa]
+- o12: יָמִים = H3117 יוֹם "a day (as the warm hours)…" [HNcmpa]
+- o13: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
+- o14: עֶשְׂרִים = H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HAcbpa]
+- o15: יוֹם = H3117 יוֹם "a day (as the warm hours)…" [HNcmsa]

@@ -719,3 +719,46 @@ Persian entries and current tags:
 - p37: .
 - p38: “‘
 - p39: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Jeremiah 26:24 (context)
+
+- o1: אַךְ = H389 אַךְ "a particle of affirmation, surely…" [HTa]
+- o2: יַד = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsc]
+- o3: אֲחִיקָם = H296 אֲחִיקָם "Achikam, an Israelite" [HNp]
+- o4: בֶּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc]
+- o5: שָׁפָן = H8227 שָׁפָן "a species of rockrabbit (from its hiding)…" [HNp]
+- o6: הָיְתָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3fs]
+- o7: אֶת = H854 אֵת "properly…" [HR]
+- o8: יִרְמְיָהוּ = H3414 יִרְמְיָה "Jirmejah, the name of eight or nine Israelites" [HNp]
+- o9: לְ/בִלְתִּי = Hl "to" + H1115 בִּלְתִּי "properly, a failure of…" [HR/C]
+- o10: תֵּת = H5414 נָתַן "to give…" [HVqc]
+- o11: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o12: בְ/יַד = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
+- o13: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o14: לַ/הֲמִית/וֹ = Hl "to" + H4191 מוּת "to die (literally or figuratively)…" [HR/Vhc/Sp3ms]
+
+### Jeremiah 27:12 (context)
+
+- o1: וְ/אֶל = Hc "and" + H413 אֵל "near, with or among; often in general, to" [HC/R]
+- o2: צִדְקִיָּה = H6667 צִדְקִיָּה "Tsidkijah, the name of six Israelites" [HNp]
+- o3: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o4: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
+- o5: דִּבַּרְתִּי = H1696 דָבַר "perhaps properly, to arrange…" [HVpp1cs]
+- o6: כְּ/כָל = Hk "like" + H3605 כֹּל "properly, the whole…" [HR/Ncmsc]
+- o7: הַ/דְּבָרִים = Hd "the" + H1697 דָּבָר "a word…" [HTd/Ncmpa]
+- o8: הָ/אֵלֶּה = Hd "the" + H428 אֵלֶּה "these or those" [HTd/Pdxcp]
+- o9: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
+- o10: הָבִיאוּ = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVhv2mp]
+- o11: אֶת = H853 אֵת "properly…" [HTo]
+- o12: צַוְּארֵי/כֶם = H6677 צַוָּאר "the back of the neck (as that on which burdens…" [HNcmpc/Sp2mp]
+- o13: בְּ/עֹל = Hb "in" + H5923 עֹל "a yoke (as imposed on the neck)…" [HR/Ncmsc]
+- o14: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
+- o15: בָּבֶל = H894 בָּבֶל "Babel (i.e. Babylon)…" [HNp]
+- o16: וְ/עִבְדוּ = Hc "and" + H5647 עָבַד "to work (in any sense)…" [HC/Vqv2mp]
+- o17: אֹת/וֹ = H853 אֵת "properly…" [HTo/Sp3ms]
+- o18: וְ/עַמּ/וֹ = Hc "and" + H5971 עַם "a people (as a congregated unit)…" [HC/Ncmsc/Sp3ms]
+- o19: וִ/חְיוּ = Hc "and" + H2421 חָיָה "to live, whether literally or figuratively…" [HC/Vqv2mp]

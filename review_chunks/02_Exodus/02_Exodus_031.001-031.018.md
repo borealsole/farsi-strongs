@@ -842,3 +842,55 @@ Persian entries and current tags:
 - p34: آنها
 - p35: نگاشته بود  → H3789
 - p36: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Exodus 30:38 (context)
+
+- o1: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o2: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o3: יַעֲשֶׂה = H6213 עָשָׂה "to do or make…" [HVqi3ms]
+- o4: כָמוֹ/הָ = H3644 כְּמוֹ "a form of the prefix 'k-', but used separately as…" [HR/Sp3fs]
+- o5: לְ/הָרִיחַ = Hl "to" + H7306 רוּחַ "properly, to blow, i.e. breathe…" [HR/Vhc]
+- o6: בָּ/הּ = Hb "in" [HR/Sp3fs]
+- o7: וְ/נִכְרַת = Hc "and" + H3772 כָּרַת "to cut (off, down or asunder)…" [HC/VNq3ms]
+- o8: מֵ/עַמָּי/ו = Hm "from" + H5971 עַם "a people (as a congregated unit)…" [HR/Ncmpc/Sp3ms]
+
+### Exodus 32:1 (context)
+
+- o1: וַ/יַּרְא = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw3ms]
+- o2: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o3: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o4: בֹשֵׁשׁ = H954 בּוּשׁ "properly, to pale…" [HVop3ms]
+- o5: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o6: לָ/רֶדֶת = Hl "to" + H3381 יָרַד "to descend (literally, to go downwards…" [HR/Vqc]
+- o7: מִן = H4480 מִן "properly, a part of…" [HR]
+- o8: הָ/הָר = Hd "the" + H2022 הַר "a mountain or range of hills (sometimes used…" [HTd/Ncmsa]
+- o9: וַ/יִּקָּהֵל = Hc "and" + H6950 קָהַל "to convoke" [HC/VNw3ms]
+- o10: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+- o11: עַל = H5921 עַל "above, over, upon…" [HR]
+- o12: אַהֲרֹן = H175 אַהֲרוֹן "Aharon, the brother of Moses" [HNp]
+- o13: וַ/יֹּאמְרוּ = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3mp]
+- o14: אֵלָי/ו = H413 אֵל "near, with or among; often in general, to" [HR/Sp3ms]
+- o15: קוּם = H6965 קוּם "to rise (in various applications, literal…" [HVqv2ms]
+- o16: עֲשֵׂה = H6213 עָשָׂה "to do or make…" [HVqv2ms]
+- o17: לָ/נוּ = Hl "to" [HR/Sp1cp]
+- o18: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
+- o19: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o20: יֵלְכוּ = H3212 יָלַךְ "to walk (literally or figuratively)…" [HVqi3mp]
+- o21: לְ/פָנֵי/נוּ = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp1cp]
+- o22: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o23: זֶה = H2088 זֶה "the masculine demonstrative pronoun, this or that" [HPdxms]
+- o24: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o25: הָ/אִישׁ = Hd "the" + H376 אִישׁ "a man as an individual or a male person…" [HTd/Ncmsa]
+- o26: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o27: הֶעֱלָ/נוּ = H5927 עָלָה "to ascend…" [HVhp3ms/Sp1cp]
+- o28: מֵ/אֶרֶץ = Hm "from" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o29: מִצְרַיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
+- o30: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o31: יָדַעְנוּ = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqp1cp]
+- o32: מֶה = H4100 מָה "properly…" [HTi]
+- o33: הָיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVqp3ms]
+- o34: ל/וֹ = Hl "to" [HR/Sp3ms]

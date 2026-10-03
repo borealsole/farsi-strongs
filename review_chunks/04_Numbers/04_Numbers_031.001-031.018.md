@@ -854,3 +854,48 @@ Persian entries and current tags:
 - p19: نگاه
 - p20: دارید
 - p21: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 30:16 (context)
+
+- o1: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
+- o2: הַ/חֻקִּים = Hd "the" + H2706 חֹק "an enactment…" [HTd/Ncmpa]
+- o3: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o4: צִוָּה = H6680 צָוָה "(intensively) to constitute, enjoin" [HVpp3ms]
+- o5: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: מֹשֶׁה = H4872 מֹשֶׁה "Mosheh, the Israelite lawgiver" [HNp]
+- o8: בֵּין = H996 בֵּין "between (repeated before each noun…" [HR]
+- o9: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o10: לְ/אִשְׁתּ/וֹ = Hl "to" + H802 אִשָּׁה "a woman" [HR/Ncfsc/Sp3ms]
+- o11: בֵּין = H996 בֵּין "between (repeated before each noun…" [HR]
+- o12: אָב = H1 אָב "father, in a literal and immediate…" [HNcmsa]
+- o13: לְ/בִתּ/וֹ = Hl "to" + H1323 בַּת "a daughter (used in the same wide sense as other…" [HR/Ncfsc/Sp3ms]
+- o14: בִּ/נְעֻרֶי/הָ = Hb "in" + H5271 נָעוּר "only in plural collectively or emphatic form)…" [HR/Ncbpc/Sp3fs]
+- o15: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
+- o16: אָבִי/הָ = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp3fs]
+
+### Numbers 31:19 (context)
+
+- o1: וְ/אַתֶּם = Hc "and" + H859 אַתָּה "thou and thee, or (plural) ye and you" [HC/Pp2mp]
+- o2: חֲנוּ = H2583 חָנָה "properly, to incline…" [HVqv2mp]
+- o3: מִ/חוּץ = Hm "from" + H2351 חוּץ "properly, separate by awall, i.e. outside…" [HR/Ncmsa]
+- o4: לַ/מַּחֲנֶה = Hl "to" + H4264 מַחֲנֶה "an encampment (of travellers or troops)…" [HRd/Ncbsa]
+- o5: שִׁבְעַת = H7651 שֶׁבַע "seven (as the sacred full one)…" [HAcmsc]
+- o6: יָמִים = H3117 יוֹם "a day (as the warm hours)…" [HNcmpa]
+- o7: כֹּל = H3605 כֹּל "properly, the whole…" [HNcmsa]
+- o8: הֹרֵג = H2026 הָרַג "to smite with deadly intent" [HVqrmsa]
+- o9: נֶפֶשׁ = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsa]
+- o10: וְ/כֹל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsa]
+- o11: נֹגֵעַ = H5060 נָגַע "properly, to touch…" [HVqrmsa]
+- o12: בֶּ/חָלָל = Hb "in" + H2491 חָלָל "pierced (especially to death)…" [HRd/Aamsa]
+- o13: תִּתְחַטְּאוּ = H2398 חָטָא "properly, to miss…" [HVti2mp]
+- o14: בַּ/יּוֹם = Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
+- o15: הַ/שְּׁלִישִׁי = Hd "the" + H7992 שְׁלִישִׁי "third; feminine athird (part)…" [HTd/Aomsa]
+- o16: וּ/בַ/יּוֹם = Hc "and" + Hb "in" + H3117 יוֹם "a day (as the warm hours)…" [HC/Rd/Ncmsa]
+- o17: הַ/שְּׁבִיעִי = Hd "the" + H7637 שְׁבִיעִי "seventh" [HTd/Aomsa]
+- o18: אַתֶּם = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2mp]
+- o19: וּ/שְׁבִי/כֶם = Hc "and" + H7628 שְׁבִי "exiled; captured…" [HC/Ncbsc/Sp2mp]

@@ -675,3 +675,30 @@ Persian entries and current tags:
 - p21: پایدار  → H5975 H5703
 - p22: است
 - p23: !
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Psalms 109:31 (context)
+
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: יַעֲמֹד = H5975 עָמַד "to stand…" [HVqi3ms]
+- o3: לִ/ימִין = Hl "to" + H3225 יָמִין "the right hand or side (leg…" [HR/Ncfsc]
+- o4: אֶבְיוֹן = H34 אֶבְיוֹן "destitute" [HAamsa]
+- o5: לְ/הוֹשִׁיעַ = Hl "to" + H3467 יָשַׁע "properly, to be open, wide or free…" [HR/Vhc]
+- o6: מִ/שֹּׁפְטֵי = Hm "from" + H8199 שָׁפַט "to judge…" [HR/Vqrmpc]
+- o7: נַפְשׁ/וֹ = H5315 נֶפֶשׁ "properly, a breathing creature…" [HNcbsc/Sp3ms]
+
+### Psalms 112:1 (context)
+
+- o1: הַלְלוּ = H1984 הָלַל "to be clear (orig. of sound…" [HVpv2mp]
+- o2: יָהּ = H3050 יָהּ "Jah, the sacred name" [HNp]
+- o3: אַשְׁרֵי = H835 אֶשֶׁר "happiness…" [HNcmpa]
+- o4: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
+- o5: יָרֵא = H3372 יָרֵא "to fear; morally, to revere; caus. to frighten" [HVqrmsa]
+- o6: אֶת = H853 אֵת "properly…" [HTo]
+- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o8: בְּ/מִצְוֺתָי/ו = Hb "in" + H4687 מִצְוָה "a command, whether human or divine (collectively…" [HR/Ncfpc/Sp3ms]
+- o9: חָפֵץ = H2654 חָפֵץ "properly, to incline to…" [HVqp3ms]
+- o10: מְאֹד = H3966 מְאֹד "properly, vehemence…" [HD]

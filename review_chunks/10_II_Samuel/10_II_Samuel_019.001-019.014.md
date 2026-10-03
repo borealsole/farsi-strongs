@@ -907,3 +907,52 @@ Persian entries and current tags:
 - p25: بازگردید  → H7725
 - p26: .
 - p27: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### II Samuel 18:33 (context)
+
+- o1: וַ/יִּרְגַּז = Hc "and" + H7264 רָגַז "to quiver (with any violent emotion…" [HC/Vqw3ms]
+- o2: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o3: וַ/יַּעַל = Hc "and" + H5927 עָלָה "to ascend…" [HC/Vqw3ms]
+- o4: עַל = H5921 עַל "above, over, upon…" [HR]
+- o5: עֲלִיַּת = H5944 עֲלִיָּה "something lofty, i.e. a stair-way…" [HNcfsc]
+- o6: הַ/שַּׁעַר = Hd "the" + H8179 שַׁעַר "an opening, i.e. door or gate" [HTd/Ncmsa]
+- o7: וַ/יֵּבְךְּ = Hc "and" + H1058 בָּכָה "to weep; generally to bemoan" [HC/Vqw3ms]
+- o8: וְ/כֹה = Hc "and" + H3541 כֹּה "properly, like this, i.e. by implication…" [HC/D]
+- o9: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o10: בְּ/לֶכְתּ/וֹ = Hb "in" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HR/Vqc/Sp3ms]
+- o11: בְּנִ/י = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp1cs]
+- o12: אַבְשָׁלוֹם = H53 אֲבִישָׁלוֹם "Abshalom, a son of David…" [HNp]
+- o13: בְּנִ/י = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp1cs]
+- o14: בְנִ/י = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp1cs]
+- o15: אַבְשָׁלוֹם = H53 אֲבִישָׁלוֹם "Abshalom, a son of David…" [HNp]
+- o16: מִי = H4310 מִי "who? (occasionally, by a peculiar idiom…" [HTi]
+- o17: יִתֵּן = H5414 נָתַן "to give…" [HVqi3ms]
+- o18: מוּתִ/י = H4191 מוּת "to die (literally or figuratively)…" [HVqc/Sp1cs]
+- o19: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o20: תַחְתֶּי/ךָ = H8478 תַּחַת "the bottom (as depressed)…" [HR/Sp2ms]
+- o21: אַבְשָׁלוֹם = H53 אֲבִישָׁלוֹם "Abshalom, a son of David…" [HNp]
+- o22: בְּנִ/י = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp1cs]
+- o23: בְנִ/י = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp1cs]
+
+### II Samuel 19:15 (context)
+
+- o1: וַ/יָּשָׁב = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqw3ms]
+- o2: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o3: וַ/יָּבֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3ms]
+- o4: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
+- o5: הַ/יַּרְדֵּן = Hd "the" + H3383 יַרְדֵּן "Jarden, the principal river of Palestine" [HTd/Np]
+- o6: וִ/יהוּדָה = Hc "and" + H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HC/Np]
+- o7: בָּא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqp3ms]
+- o8: הַ/גִּלְגָּלָ/ה = Hd "the" + H1537 גִּלְגָּל "Gilgal, the name of three places in Palestine" [HTd/Np/Sd]
+- o9: לָ/לֶכֶת = Hl "to" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HR/Vqc]
+- o10: לִ/קְרַאת = Hl "to" + H7125 קִרְאָה "an encountering, accidental…" [HR/Vqc]
+- o11: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o12: לְ/הַעֲבִיר = Hl "to" + H5674 עָבַר "to cross over…" [HR/Vhc]
+- o13: אֶת = H853 אֵת "properly…" [HTo]
+- o14: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o15: אֶת = H853 אֵת "properly…" [HTo]
+- o16: הַ/יַּרְדֵּן = Hd "the" + H3383 יַרְדֵּן "Jarden, the principal river of Palestine" [HTd/Np]

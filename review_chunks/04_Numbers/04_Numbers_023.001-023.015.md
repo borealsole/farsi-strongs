@@ -824,3 +824,39 @@ Persian entries and current tags:
 - p18: ملاقات کنم  → H7136
 - p19: .
 - p20: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Numbers 22:41 (context)
+
+- o1: וַ/יְהִי = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqw3ms]
+- o2: בַ/בֹּקֶר = Hb "in" + H1242 בֹּקֶר "properly, dawn (as the break of day)…" [HRd/Ncmsa]
+- o3: וַ/יִּקַּח = Hc "and" + H3947 לָקַח "to take (in the widest variety of applications)" [HC/Vqw3ms]
+- o4: בָּלָק = H1111 בָּלָק "Balak, a Moabitish king" [HNp]
+- o5: אֶת = H853 אֵת "properly…" [HTo]
+- o6: בִּלְעָם = H1109 בִּלְעָם "Bilam, a Mesopotamian prophet…" [HNp]
+- o7: וַ/יַּעֲלֵ/הוּ = Hc "and" + H5927 עָלָה "to ascend…" [HC/Vhw3ms/Sp3ms]
+- o8: בָּמוֹת = H1120 בָּמוֹת "Bamoth or Bamoth-Baal, a place East of the Jordan" [HNp]
+- o9: בָּעַל = H1120 בָּמוֹת "Bamoth or Bamoth-Baal, a place East of the Jordan" [HNp]
+- o10: וַ/יַּרְא = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw3ms]
+- o11: מִ/שָּׁם = Hm "from" + H8033 שָׁם "there (transferring to time) then…" [HR/D]
+- o12: קְצֵה = H7097 קָצֶה "an extremity" [HNcbsc]
+- o13: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
+
+### Numbers 23:16 (context)
+
+- o1: וַ/יִּקָּר = Hc "and" + H7136 קָרָה "to light upon (chiefly by accident)…" [HC/VNw3ms]
+- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: בִּלְעָם = H1109 בִּלְעָם "Bilam, a Mesopotamian prophet…" [HNp]
+- o5: וַ/יָּשֶׂם = Hc "and" + H7760 שׂוּם "to put (used in a great variety of applications…" [HC/Vqw3ms]
+- o6: דָּבָר = H1697 דָּבָר "a word…" [HNcmsa]
+- o7: בְּ/פִי/ו = Hb "in" + H6310 פֶּה "the mouth (as the means of blowing)…" [HR/Ncmsc/Sp3ms]
+- o8: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
+- o9: שׁוּב = H7725 שׁוּב "to turn back (hence…" [HVqv2ms]
+- o10: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o11: בָּלָק = H1111 בָּלָק "Balak, a Moabitish king" [HNp]
+- o12: וְ/כֹה = Hc "and" + H3541 כֹּה "properly, like this, i.e. by implication…" [HC/D]
+- o13: תְדַבֵּר = H1696 דָבַר "perhaps properly, to arrange…" [HVpi2ms]

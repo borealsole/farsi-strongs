@@ -912,3 +912,50 @@ Persian entries and current tags:
 - p42: خداوند  → H3068
 - p43: گذاشت  → H5414
 - p44: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### I Kings 7:34 (context)
+
+- o1: וְ/אַרְבַּע = Hc "and" + H702 אַרְבַּע "four" [HC/Acfsa]
+- o2: כְּתֵפוֹת = H3802 כָּתֵף "the shoulder (proper, i.e. upper end of the arm…" [HNcfpa]
+- o3: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o4: אַרְבַּע = H702 אַרְבַּע "four" [HAcfsa]
+- o5: פִּנּוֹת = H6438 פִּנָּה "an angle; by implication, a pinnacle…" [HNcfpc]
+- o6: הַ/מְּכֹנָה = Hd "the" + H4350 מְכוֹנָה "a pedestal, also a spot" [HTd/Ncfsa]
+- o7: הָ/אֶחָת = Hd "the" + H259 אֶחָד "properly, united, i.e. one…" [HTd/Acfsa]
+- o8: מִן = H4480 מִן "properly, a part of…" [HR]
+- o9: הַ/מְּכֹנָה = Hd "the" + H4350 מְכוֹנָה "a pedestal, also a spot" [HTd/Ncfsa]
+- o10: כְּתֵפֶי/הָ = H3802 כָּתֵף "the shoulder (proper, i.e. upper end of the arm…" [HNcfdc/Sp3fs]
+
+### I Kings 8:1 (context)
+
+- o1: אָז = H227 אָז "at that time or place…" [HD]
+- o2: יַקְהֵל = H6950 קָהַל "to convoke" [HVhj3ms]
+- o3: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o4: אֶת = H853 אֵת "properly…" [HTo]
+- o5: זִקְנֵי = H2205 זָקֵן "old" [HAampc]
+- o6: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o7: אֶת = H853 אֵת "properly…" [HTo]
+- o8: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o9: רָאשֵׁי = H7218 רֹאשׁ "the head (as most easily shaken)…" [HNcmpc]
+- o10: הַ/מַּטּוֹת = Hd "the" + H4294 מַטֶּה "a branch (as extending); figuratively, a tribe…" [HTd/Ncmpa]
+- o11: נְשִׂיאֵי = H5387 נָשִׂיא "properly, an exalted one, i.e. a king or sheik…" [HNcmpc]
+- o12: הָ/אָבוֹת = Hd "the" + H1 אָב "father, in a literal and immediate…" [HTd/Ncmpa]
+- o13: לִ/בְנֵי = Hl "to" + H1121 בֵּן "a son (as a builder of the family name)…" [HR/Ncmpc]
+- o14: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
+- o15: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o16: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
+- o17: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
+- o18: יְרוּשָׁלִָם = H3389 יְרוּשָׁלַ͏ִם "Jerushalaim or Jerushalem…" [HNp]
+- o19: לְ/הַעֲלוֹת = Hl "to" + H5927 עָלָה "to ascend…" [HR/Vhc]
+- o20: אֶת = H853 אֵת "properly…" [HTo]
+- o21: אֲרוֹן = H727 אָרוֹן "a box" [HNcbsc]
+- o22: בְּרִית = H1285 בְּרִית "a compact (because made by passing between pieces…" [HNcfsc]
+- o23: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o24: מֵ/עִיר = Hm "from" + H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HR/Ncfsc]
+- o25: דָּוִד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o26: הִיא = H1931 הוּא "he (she or it)…" [HPp3fs]
+- o27: צִיּוֹן = H6726 צִיּוֹן "Tsijon (as a permanent capital)…" [HNp]

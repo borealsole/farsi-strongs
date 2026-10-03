@@ -1183,3 +1183,17 @@ Persian entries and current tags:
 - p4: شما  → G5210
 - p5: باد
 - p6: .
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Hebrews 12:29 (context)
+
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o3: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o4: θεὸς = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-NSM]
+- o5: ἡμῶν = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+- o6: πῦρ = G4442 πῦρ "fiery, fire" [N-NSN]
+- o7: καταναλίσκον. = G2654 καταναλίσκω "consume" [V-PAP-NSN]
