@@ -2,817 +2,677 @@
 
 Generated 2026-10-04 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
-## 14 verse(s) with changes
+## 17 verse(s) with changes
 
-### Hebrews 1:1: 6 word(s) changed
+### Psalms 1:1: 9 word(s) changed
 
 Reply line 2.
 
-Original: Πολυμερῶς καὶ πολυτρόπως πάλαι ὁ θεὸς λαλήσας τοῖς πατράσιν ἐν τοῖς προφήταις ἐπ’ ἐσχάτου τῶν ἡμερῶν τούτων ἐλάλησεν ἡμῖν ἐν υἱῷ,
+Original: אַשְׁרֵי הָ/אִישׁ אֲשֶׁר לֹא הָלַךְ בַּ/עֲצַת רְשָׁעִים וּ/בְ/דֶרֶךְ חַטָּאִים לֹא עָמָד וּ/בְ/מוֹשַׁב לֵצִים לֹא יָשָׁב
 
-Persian: در گذشته، خدا بارها و از راههای گوناگون به واسطۀ پیامبران با پدران ما سخن گفت،
+Persian: خوشا به حال کسی که در مشورت شریران گام نزند و در راه گنهکاران نایستد و در محفل تمسخرگران ننشیند؛
 
 Original words:
-- o1: Πολυμερῶς = G4181 πολυμερῶς "at sundry times" [ADV]
-- o2: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o3: πολυτρόπως = G4187 πολυτρόπως "in divers manners" [ADV]
-- o4: πάλαι = G3819 πάλαι "any while, a great while ago, (of) old…" [ADV]
-- o5: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
-- o6: θεὸς = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-NSM]
-- o7: λαλήσας = G2980 λαλέω "preach, say, speak (after), talk, tell, utter" [V-AAP-NSM]
-- o8: τοῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPM]
-- o9: πατράσιν = G3962 πατήρ "father, parent" [N-DPM]
-- o10: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
-- o11: τοῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPM]
-- o12: προφήταις = G4396 προφήτης "prophet" [N-DPM]
-- o13: ἐπ’ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
-- o14: ἐσχάτου = G2078 ἔσχατος "ends of, last, latter end, lowest, uttermost" [A-GSM-S]
-- o15: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPF]
-- o16: ἡμερῶν = G2250 ἡμέρα "age, + alway, (mid-)day (by day, (-ly))…" [N-GPF]
-- o17: τούτων = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-GPF]
-- o18: ἐλάλησεν = G2980 λαλέω "preach, say, speak (after), talk, tell, utter" [V-AAI-3S]
-- o19: ἡμῖν = G2249 ἡμεῖς "us, we (ourselves)" [P-1DP]
-- o20: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
-- o21: υἱῷ, = G5207 υἱός "child, foal, son" [N-DSM]
+- o1: אַשְׁרֵי = H835 אֶשֶׁר "happiness…" [HNcmpa]
+- o2: הָ/אִישׁ = Hd "the" + H376 אִישׁ "a man as an individual or a male person…" [HTd/Ncmsa]
+- o3: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o4: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o5: הָלַךְ = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVqp3ms]
+- o6: בַּ/עֲצַת = Hb "in" + H6098 עֵצָה "advice; by implication, plan; also prudence" [HR/Ncfsc]
+- o7: רְשָׁעִים = H7563 רָשָׁע "morally wrong…" [HAampa]
+- o8: וּ/בְ/דֶרֶךְ = Hc "and" + Hb "in" + H1870 דֶּרֶךְ "a road (as trodden)…" [HC/R/Ncbsc]
+- o9: חַטָּאִים = H2400 חַטָּא "a criminal, or one accounted guilty" [HAampa]
+- o10: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o11: עָמָד = H5975 עָמַד "to stand…" [HVqp3ms]
+- o12: וּ/בְ/מוֹשַׁב = Hc "and" + Hb "in" + H4186 מוֹשָׁב "a seat; figuratively, a site…" [HC/R/Ncmsc]
+- o13: לֵצִים = H3887 לוּץ "properly, to make mouths at, i.e. to scoff…" [HAampa]
+- o14: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o15: יָשָׁב = H3427 יָשַׁב "properly…" [HVqp3ms]
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | در | [در گذشته] G3819 | [در گذشته] G3819 |
-|  | گذشته | [در گذشته] G3819 | [در گذشته] G3819 |
-|  | ، |  |  |
-|  | خدا | G2316 | G2316 |
-|  | بارها | G4181 | G4181 |
-|  | و | G2532 | G2532 |
-|  | از |  |  |
-|  | راههای | [راههای گوناگون] G4187 | [راههای گوناگون] G4187 |
-|  | گوناگون | [راههای گوناگون] G4187 | [راههای گوناگون] G4187 |
-| ✱ | به |  | [به واسطۀ] G1722 ἐν "about, after, against…" |
-| ✱ | واسطۀ |  | [به واسطۀ] G1722 ἐν "about, after, against…" |
-| ✱ | پیامبران | G3962 πατήρ "father, parent"; G4396 προφήτης "prophet" | G4396 προφήτης "prophet" |
-| ✱ | با |  | G3588 ὁ "the, this, that, one, he, she…" |
-| ✱ | پدران | G3962 πατήρ "father, parent"; G4396 προφήτης "prophet" | G3962 πατήρ "father, parent" |
-| ✱ | ما | G2249 ἡμεῖς "us, we (ourselves)" |  |
-|  | سخن | [سخن گفت] G2980 | [سخن گفت] G2980 |
-|  | گفت | [سخن گفت] G2980 | [سخن گفت] G2980 |
-|  | ، |  |  |
+|  | خوشا | H835 | H835 |
+|  | به |  |  |
+|  | حال |  |  |
+|  | کسی | H376 | H376 |
+|  | که | H834 | H834 |
+| ✱ | در |  | Hb "in" |
+|  | مشورت | H6098 | H6098 |
+| ✱ | شریران |  | H7563 רָשָׁע "morally wrong…" |
+| ✱ | گام | [گام نزند] H1980 הָלַךְ "to walk (in a great variety…" | [گام نزند] H3808 לֹא "not (the simple or abs.…"; H1980 הָלַךְ "to walk (in a great variety…" |
+| ✱ | نزند | [گام نزند] H1980 הָלַךְ "to walk (in a great variety…" | [گام نزند] H3808 לֹא "not (the simple or abs.…"; H1980 הָלַךְ "to walk (in a great variety…" |
+|  | و | Hc | Hc |
+| ✱ | در |  | Hb "in" |
+|  | راه | H1870 | H1870 |
+|  | گنهکاران | H2400 | H2400 |
+| ✱ | نایستد |  | H3808 לֹא "not (the simple or abs.…"; H5975 עָמַד "to stand…" |
+|  | و | Hc | Hc |
+| ✱ | در |  | Hb "in" |
+| ✱ | محفل |  | H4186 מוֹשָׁב "a seat; figuratively, a site…" |
+|  | تمسخرگران | H3887 | H3887 |
+| ✱ | ننشیند | H3427 יָשַׁב "properly…" | H3808 לֹא "not (the simple or abs.…"; H3427 יָשַׁב "properly…" |
+|  | ؛ |  |  |
 
-### Hebrews 1:2: 15 word(s) changed
+### Psalms 1:2: 3 word(s) changed
 
-Reply line 3. Uses numbers from neighbouring verses: G1722 (Hebrews 1:1), G1909 (Hebrews 1:1), G2078 (Hebrews 1:1), G2249 (Hebrews 1:1), G2250 (Hebrews 1:1), G2980 (Hebrews 1:1), G3778 (Hebrews 1:1), G5207 (Hebrews 1:1).
+Reply line 3.
 
-Original: ὃν ἔθηκεν κληρονόμον πάντων, δι’ οὗ καὶ ἐποίησεν τοὺς αἰῶνας·
+Original: כִּי אִם בְּ/תוֹרַת יְהוָה חֶפְצ/וֹ וּ/בְ/תוֹרָת/וֹ יֶהְגֶּה יוֹמָם וָ/לָיְלָה
 
-Persian: امّا در این ایام آخر به واسطۀ پسر خود با ما سخن گفته_است، پسری که او را وارث همه چیز مقرر داشت و به واسطۀ او جهان را آفرید.
+Persian: بلکه رغبتش در شریعت خداوند باشد و شبانه‌روز در شریعت او تأمل کند.
 
 Original words:
-- o1: ὃν = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-ASM]
-- o2: ἔθηκεν = G5087 τίθημι "+ advise, appoint, bow, commit, conceive, give…" [V-AAI-3S]
-- o3: κληρονόμον = G2818 κληρονόμος "heir" [N-ASM]
-- o4: πάντων, = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-GPN]
-- o5: δι’ = G1223 διά "after, always, among, at, to avoid…" [PREP]
-- o6: οὗ = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-GSM]
-- o7: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o8: ἐποίησεν = G4160 ποιέω "abide, + agree, appoint, avenge, + band together…" [V-AAI-3S]
-- o9: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
-- o10: αἰῶνας· = G165 αἰών "age, course, eternal, (for) ever(-more), (n-)ever…" [N-APM]
-
-Original words of Hebrews 1:1 (neighbouring verse; this reply uses G1722, G1909, G2078, G2249, G2250, G2980, G3778, G5207 from it):
-- o1: Πολυμερῶς = G4181 πολυμερῶς "at sundry times" [ADV]
-- o2: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o3: πολυτρόπως = G4187 πολυτρόπως "in divers manners" [ADV]
-- o4: πάλαι = G3819 πάλαι "any while, a great while ago, (of) old…" [ADV]
-- o5: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
-- o6: θεὸς = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-NSM]
-- o7: λαλήσας = G2980 λαλέω "preach, say, speak (after), talk, tell, utter" [V-AAP-NSM]
-- o8: τοῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPM]
-- o9: πατράσιν = G3962 πατήρ "father, parent" [N-DPM]
-- o10: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
-- o11: τοῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPM]
-- o12: προφήταις = G4396 προφήτης "prophet" [N-DPM]
-- o13: ἐπ’ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
-- o14: ἐσχάτου = G2078 ἔσχατος "ends of, last, latter end, lowest, uttermost" [A-GSM-S]
-- o15: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPF]
-- o16: ἡμερῶν = G2250 ἡμέρα "age, + alway, (mid-)day (by day, (-ly))…" [N-GPF]
-- o17: τούτων = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-GPF]
-- o18: ἐλάλησεν = G2980 λαλέω "preach, say, speak (after), talk, tell, utter" [V-AAI-3S]
-- o19: ἡμῖν = G2249 ἡμεῖς "us, we (ourselves)" [P-1DP]
-- o20: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
-- o21: υἱῷ, = G5207 υἱός "child, foal, son" [N-DSM]
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o3: בְּ/תוֹרַת = Hb "in" + H8451 תּוֹרָה "a precept or statute…" [HR/Ncfsc]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: חֶפְצ/וֹ = H2656 חֵפֶץ "pleasure; hence (abstractly) desire…" [HNcmsc/Sp3ms]
+- o6: וּ/בְ/תוֹרָת/וֹ = Hc "and" + Hb "in" + H8451 תּוֹרָה "a precept or statute…" [HC/R/Ncfsc/Sp3ms]
+- o7: יֶהְגֶּה = H1897 הָגָה "to murmur (in pleasure or anger)…" [HVqi3ms]
+- o8: יוֹמָם = H3119 יוֹמָם "daily" [HD]
+- o9: וָ/לָיְלָה = Hc "and" + H3915 לַיִל "properly, a twist (away of the light), i.e. night…" [HC/Ncmsa]
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | امّا |  |  |
-| ✱ | در |  | G1909 ἐπί "about (the times), above…" (from Hebrews 1:1) |
-| ✱ | این |  | G3778 οὗτος "he (it was that), hereof, it…" (from Hebrews 1:1) |
-| ✱ | ایام |  | G2250 ἡμέρα "age, + alway…" (from Hebrews 1:1) |
-| ✱ | آخر |  | G2078 ἔσχατος "ends of, last, latter end…" (from Hebrews 1:1) |
-| ✱ | به |  | [به واسطۀ] G1722 ἐν "about, after, against…" (from Hebrews 1:1) |
-| ✱ | واسطۀ | G1223 διά "after, always, among, at…" | [به واسطۀ] G1722 ἐν "about, after, against…" (from Hebrews 1:1) |
-| ✱ | پسر |  | G5207 υἱός "child, foal, son" (from Hebrews 1:1) |
-|  | خود |  |  |
-|  | با |  |  |
-| ✱ | ما |  | G2249 ἡμεῖς "us, we (ourselves)" (from Hebrews 1:1) |
-| ✱ | سخن |  | [سخن گفته_است] G2980 λαλέω "preach, say, speak (after)…" (from Hebrews 1:1) |
-| ✱ | گفته_است |  | [سخن گفته_است] G2980 λαλέω "preach, say, speak (after)…" (from Hebrews 1:1) |
-|  | ، |  |  |
-|  | پسری |  |  |
-|  | که | G3739 | G3739 |
+| ✱ | بلکه | H3588 כִּי "by implication) very widely…" | H3588 כִּי "by implication) very widely…"; H518 אִם "used very widely as…" |
+|  | رغبتش | H2656 | H2656 |
+|  | در | Hb | Hb |
+|  | شریعت | H8451 | H8451 |
+|  | خداوند | H3068 | H3068 |
+|  | باشد |  |  |
+|  | و | Hc | Hc |
+| ✱ | شبانه‌روز | H3119 יוֹמָם "daily"; H3915 לַיִל "properly…" | H3119 יוֹמָם "daily"; Hc "and"; H3915 לַיִל "properly…" |
+| ✱ | در |  | Hb "in" |
+|  | شریعت | H8451 | H8451 |
 |  | او |  |  |
-|  | را |  |  |
-|  | وارث | G2818 | G2818 |
-|  | همه | [همه چیز] G3956 | [همه چیز] G3956 |
-|  | چیز | [همه چیز] G3956 | [همه چیز] G3956 |
-| ✱ | مقرر |  | [مقرر داشت] G5087 τίθημι "+ advise, appoint, bow…" |
-| ✱ | داشت |  | [مقرر داشت] G5087 τίθημι "+ advise, appoint, bow…" |
-|  | و | G2532 | G2532 |
-| ✱ | به |  | [به واسطۀ] G1223 διά "after, always, among, at…" |
-| ✱ | واسطۀ | G1223 διά "after, always, among, at…" | [به واسطۀ] G1223 διά "after, always, among, at…" |
-| ✱ | او |  | G3739 ὅς "one, (an-, the) other, some…" |
-|  | جهان | G165 | G165 |
-|  | را |  |  |
-|  | آفرید | G4160 | G4160 |
+|  | تأمل | [تأمل کند] H1897 | [تأمل کند] H1897 |
+|  | کند | [تأمل کند] H1897 | [تأمل کند] H1897 |
 |  | . |  |  |
 
-### Hebrews 1:3: 12 word(s) changed
+### Psalms 1:3: 13 word(s) changed
 
 Reply line 4.
 
-Original: ὃς ὢν ἀπαύγασμα τῆς δόξης καὶ χαρακτὴρ τῆς ὑποστάσεως αὐτοῦ, φέρων τε τὰ πάντα τῷ ῥήματι τῆς δυνάμεως αὐτοῦ, καθαρισμὸν τῶν ἁμαρτιῶν ποιησάμενος ἐκάθισεν ἐν δεξιᾷ τῆς μεγαλωσύνης ἐν ὑψηλοῖς,
+Original: וְ/הָיָה כְּ/עֵץ שָׁתוּל עַל פַּלְגֵי מָיִם אֲשֶׁר פִּרְי/וֹ יִתֵּן בְּ/עִתּ/וֹ וְ/עָלֵ/הוּ לֹא יִבּוֹל וְ/כֹל אֲשֶׁר יַעֲשֶׂה יַצְלִיחַ
 
-Persian: او فروغِ جلالِ خدا و مظهر کامل ذات اوست، و همه چیز را با کلام نیرومند خود نگاه می‌دارد. او پس از پاک کردن گناهان، به دست راست مقام کبریا در عرش برین بنشست.
+Persian: او بسان درختیست نشانده بر کنارۀ جویبار، که میوۀ خویش در موسمش آرد به بار، و برگش نیز پژمرده نشود، و در هر آنچه کند کام یابد.
 
 Original words:
-- o1: ὃς = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-NSM]
-- o2: ὢν = G1510 εἰμί "am, have been, it is I, was" [V-PAP-NSM]
-- o3: ἀπαύγασμα = G541 ἀπαύγασμα "brightness" [N-NSN]
-- o4: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
-- o5: δόξης = G1391 δόξα "dignity, glory(-ious), honour, praise, worship" [N-GSF]
-- o6: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o7: χαρακτὴρ = G5481 χαρακτήρ "express image" [N-NSM]
-- o8: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
-- o9: ὑποστάσεως = G5287 ὑπόστασις "confidence, confident, person, substance" [N-GSF]
-- o10: αὐτοῦ, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
-- o11: φέρων = G5342 φέρω "be, bear, bring (forth), carry, come…" [V-PAP-NSM]
-- o12: τε = G5037 τέ "also, and, both, even, then, whether" [PRT]
-- o13: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
-- o14: πάντα = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-APN]
-- o15: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSN]
-- o16: ῥήματι = G4487 ῥῆμα "+ evil, + nothing, saying, word" [N-DSN]
-- o17: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
-- o18: δυνάμεως = G1411 δύναμις "ability, abundance, meaning, might(-ily, -y…" [N-GSF]
-- o19: αὐτοῦ, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
-- o20: καθαρισμὸν = G2512 καθαρισμός "cleansing, + purge, purification(-fying)" [N-ASM]
-- o21: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPF]
-- o22: ἁμαρτιῶν = G266 ἁμαρτία "offence, sin(-ful)" [N-GPF]
-- o23: ποιησάμενος = G4160 ποιέω "abide, + agree, appoint, avenge, + band together…" [V-AMP-NSM]
-- o24: ἐκάθισεν = G2523 καθίζω "continue, set, sit (down), tarry" [V-AAI-3S]
-- o25: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
-- o26: δεξιᾷ = G1188 δεξιός "right (hand, side)" [A-DSF]
-- o27: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
-- o28: μεγαλωσύνης = G3172 μεγαλωσύνη "majesty" [N-GSF]
-- o29: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
-- o30: ὑψηλοῖς, = G5308 ὑψηλός "high(-er, -ly) (esteemed)" [A-DPN]
+- o1: וְ/הָיָה = Hc "and" + H1961 הָיָה "to exist, i.e. be or become…" [HC/Vqq3ms]
+- o2: כְּ/עֵץ = Hk "like" + H6086 עֵץ "a tree (from its firmness)…" [HR/Ncmsa]
+- o3: שָׁתוּל = H8362 שָׁתַל "to transplant" [HVqsmsa]
+- o4: עַל = H5921 עַל "above, over, upon…" [HR]
+- o5: פַּלְגֵי = H6388 פֶּלֶג "a rill (i.e. small channel of water…" [HNcmpc]
+- o6: מָיִם = H4325 מַיִם "water; figuratively, juice…" [HNcmpa]
+- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o8: פִּרְי/וֹ = H6529 פְּרִי "fruit (literally or figuratively)" [HNcmsc/Sp3ms]
+- o9: יִתֵּן = H5414 נָתַן "to give…" [HVqi3ms]
+- o10: בְּ/עִתּ/וֹ = Hb "in" + H6256 עֵת "time, especially (adverb with preposition) now…" [HR/Ncbsc/Sp3ms]
+- o11: וְ/עָלֵ/הוּ = Hc "and" + H5929 עָלֶה "a leaf (as coming up on a tree)…" [HC/Ncmsc/Sp3ms]
+- o12: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o13: יִבּוֹל = H5034 נָבֵל "to wilt; generally, to fall away, fail, faint…" [HVqi3ms]
+- o14: וְ/כֹל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsa]
+- o15: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o16: יַעֲשֶׂה = H6213 עָשָׂה "to do or make…" [HVqi3ms]
+- o17: יַצְלִיחַ = H6743 צָלַח "to push forward…" [HVhi3ms]
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | او | G3739 | G3739 |
-|  | فروغِ | G541 | G541 |
-|  | جلالِ | G1391 | G1391 |
-|  | خدا |  |  |
-|  | و | G2532 | G2532 |
-|  | مظهر | [مظهر کامل] G5481 | [مظهر کامل] G5481 |
-|  | کامل | [مظهر کامل] G5481 | [مظهر کامل] G5481 |
-|  | ذات | G5287 | G5287 |
-| ✱ | اوست | G846 αὐτός "her, it(-self), one…" | G1510 εἰμί "am, have been, it is I, was"; G846 αὐτός "her, it(-self), one…" |
+|  | او |  |  |
+| ✱ | بسان |  | Hk "like" |
+| ✱ | درختیست | H6086 עֵץ "a tree (from its firmness)…" | H1961 הָיָה "to exist, i.e. be or become…"; H6086 עֵץ "a tree (from its firmness)…" |
+|  | نشانده | H8362 | H8362 |
+|  | بر | H5921 | H5921 |
+| ✱ | کنارۀ | H6388 פֶּלֶג "a rill (i.e. small channel of…" |  |
+| ✱ | جویبار | H4325 מַיִם "water; figuratively, juice…" | H6388 פֶּלֶג "a rill (i.e. small channel of…"; H4325 מַיִם "water; figuratively, juice…" |
 |  | ، |  |  |
-| ✱ | و | G2532 καί "and, also, both, but, even…" | G5037 τέ "also, and, both, even, then…" |
-|  | همه | [همه چیز] G3956 | [همه چیز] G3956 |
-|  | چیز | [همه چیز] G3956 | [همه چیز] G3956 |
-|  | را |  |  |
-| ✱ | با |  | G3588 ὁ "the, this, that, one, he, she…" |
-|  | کلام | G4487 | G4487 |
-| ✱ | نیرومند | G5481 χαρακτήρ "express image"; G1411 δύναμις "ability, abundance, meaning…" | G1411 δύναμις "ability, abundance, meaning…" |
-|  | خود | G846 | G846 |
-|  | نگاه | [نگاه می‌دارد] G5342 | [نگاه می‌دارد] G5342 |
-|  | می‌دارد | [نگاه می‌دارد] G5342 | [نگاه می‌دارد] G5342 |
-|  | . |  |  |
-|  | او | G3739 | G3739 |
-|  | پس |  |  |
-|  | از |  |  |
-|  | پاک | G2512 | G2512 |
-| ✱ | کردن |  | G4160 ποιέω "abide, + agree, appoint…" |
-|  | گناهان | G266 | G266 |
+|  | که | H834 | H834 |
+|  | میوۀ | H6529 | H6529 |
+|  | خویش |  |  |
+| ✱ | در |  | Hb "in" |
+|  | موسمش | H6256 | H6256 |
+| ✱ | آرد | H5034 נָבֵל "to wilt…" | [آرد به بار] H5414 נָתַן "to give…" |
+| ✱ | به |  | [آرد به بار] H5414 נָתַן "to give…" |
+| ✱ | بار | H6529 פְּרִי "fruit (literally or…" | [آرد به بار] H5414 נָתַן "to give…" |
 |  | ، |  |  |
-| ✱ | به |  | G1722 ἐν "about, after, against…" |
-| ✱ | دست |  | [دست راست] G1188 δεξιός "right (hand, side)" |
-| ✱ | راست | G1188 δεξιός "right (hand, side)" | [دست راست] G1188 δεξιός "right (hand, side)" |
-| ✱ | مقام | G3172 μεγαλωσύνη "majesty" | [مقام کبریا] G3172 μεγαλωσύνη "majesty" |
-| ✱ | کبریا |  | [مقام کبریا] G3172 μεγαλωσύνη "majesty" |
-|  | در | G1722 | G1722 |
-| ✱ | عرش | G1188 δεξιός "right (hand, side)" | [عرش برین] G5308 ὑψηλός "high(-er, -ly) (esteemed)" |
-| ✱ | برین |  | [عرش برین] G5308 ὑψηλός "high(-er, -ly) (esteemed)" |
-|  | بنشست | G2523 | G2523 |
+|  | و | Hc | Hc |
+|  | برگش | H5929 | H5929 |
+|  | نیز |  |  |
+| ✱ | پژمرده | [پژمرده نشود] H5034 נָבֵל "to wilt…" | [پژمرده نشود] H3808 לֹא "not (the simple or abs.…"; H5034 נָבֵל "to wilt…" |
+| ✱ | نشود | [پژمرده نشود] H5034 נָבֵל "to wilt…" | [پژمرده نشود] H3808 לֹא "not (the simple or abs.…"; H5034 נָבֵל "to wilt…" |
+|  | ، |  |  |
+|  | و | Hc | Hc |
+|  | در |  |  |
+|  | هر | H3605 | H3605 |
+|  | آنچه | H834 | H834 |
+| ✱ | کند |  | H6213 עָשָׂה "to do or make…" |
+| ✱ | کام |  | [کام یابد] H6743 צָלַח "to push forward…" |
+| ✱ | یابد | H6743 צָלַח "to push forward…" | [کام یابد] H6743 צָלַח "to push forward…" |
 |  | . |  |  |
 
-### Hebrews 1:4: 15 word(s) changed
+### Psalms 1:4: 2 word(s) changed
 
 Reply line 5.
 
-Original: τοσούτῳ κρείττων γενόμενος τῶν ἀγγέλων ὅσῳ διαφορώτερον παρ’ αὐτοὺς κεκληρονόμηκεν ὄνομα.
+Original: לֹא כֵן הָ/רְשָׁעִים כִּי אִם כַּ/מֹּץ אֲשֶׁר תִּדְּפֶ/נּוּ רוּחַ
 
-Persian: پس به همان اندازه که نامی برتر از فرشتگان به میراث بُرد، از مقامی والاتر از آنها نیز برخوردار شد.
+Persian: لیکن چنین نیستند شریران بلکه همچو کاهند که دستِ باد می‌رانَدشان.
 
 Original words:
-- o1: τοσούτῳ = G5118 τοσοῦτος "as large, so great (long, many, much), these many" [D-DSN]
-- o2: κρείττων = G2909 κρείττων "best, better" [A-NSM-C]
-- o3: γενόμενος = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-2ADP-NSM]
-- o4: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
-- o5: ἀγγέλων = G32 ἄγγελος "angel, messenger" [N-GPM]
-- o6: ὅσῳ = G3745 ὅσος "all (that), as (long, many, much) (as)…" [K-DSN]
-- o7: διαφορώτερον = G1313 διάφορος "differing, divers, more excellent" [A-ASN-C]
-- o8: παρ’ = G3844 παρά "above, against, among, at, before, by…" [PREP]
-- o9: αὐτοὺς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-APM]
-- o10: κεκληρονόμηκεν = G2816 κληρονομέω "be heir, (obtain by) inherit(-ance)" [V-RAI-3S]
-- o11: ὄνομα. = G3686 ὄνομα "called, (+ sur-)name(-d)" [N-ASN]
+- o1: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o2: כֵן = H3651 כֵּן "properly, set upright…" [HD]
+- o3: הָ/רְשָׁעִים = Hd "the" + H7563 רָשָׁע "morally wrong…" [HTd/Aampa]
+- o4: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o5: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
+- o6: כַּ/מֹּץ = Hk "like" + H4671 מֹץ "chaff (as pressed out…" [HRd/Ncmsa]
+- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o8: תִּדְּפֶ/נּוּ = H5086 נָדַף "to shove asunder, i.e. disperse" [HVqi3fs/Sp3ms]
+- o9: רוּחַ = H7307 רוּחַ "wind…" [HNcbsa]
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | پس |  |  |
-| ✱ | به | G5118 τοσοῦτος "as large, so great (long…" | [به همان اندازه] G5118 τοσοῦτος "as large, so great (long…" |
-| ✱ | همان |  | [به همان اندازه] G5118 τοσοῦτος "as large, so great (long…" |
-| ✱ | اندازه |  | [به همان اندازه] G5118 τοσοῦτος "as large, so great (long…" |
-| ✱ | که |  | G3745 ὅσος "all (that), as (long, many…" |
-|  | نامی | G3686 | G3686 |
-| ✱ | برتر | [برتر از] G2909 κρείττων "best, better" | G1313 διάφορος "differing, divers…" |
-| ✱ | از | [برتر از] G2909 κρείττων "best, better" | G3844 παρά "above, against, among, at…" |
-|  | فرشتگان | G32 | G32 |
-| ✱ | به | G5118 τοσοῦτος "as large, so great (long…" | [به میراث بُرد] G2816 κληρονομέω "be heir…" |
-| ✱ | میراث | G2816 κληρονομέω "be heir…" | [به میراث بُرد] G2816 κληρονομέω "be heir…" |
-| ✱ | بُرد |  | [به میراث بُرد] G2816 κληρονομέω "be heir…" |
-|  | ، |  |  |
-| ✱ | از | G2909 κρείττων "best, better" |  |
-| ✱ | مقامی | G1313 διάφορος "differing, divers…" |  |
-| ✱ | والاتر |  | G2909 κρείττων "best, better" |
-| ✱ | از | G2909 κρείττων "best, better" |  |
-|  | آنها | G846 | G846 |
-|  | نیز |  |  |
-| ✱ | برخوردار |  | [برخوردار شد] G1096 γίνομαι "arise, be assembled, be(-come…" |
-| ✱ | شد |  | [برخوردار شد] G1096 γίνομαι "arise, be assembled, be(-come…" |
+|  | لیکن |  |  |
+|  | چنین | H3651 | H3651 |
+|  | نیستند | H3808 | H3808 |
+| ✱ | شریران |  | H7563 רָשָׁע "morally wrong…" |
+| ✱ | بلکه | H518 אִם "used very widely as…" | H3588 כִּי "by implication) very widely…"; H518 אִם "used very widely as…" |
+|  | همچو | Hk | Hk |
+|  | کاهند | H4671 | H4671 |
+|  | که | H834 | H834 |
+|  | دستِ |  |  |
+|  | باد | H7307 | H7307 |
+|  | می‌رانَدشان | H5086 | H5086 |
 |  | . |  |  |
 
-### Hebrews 1:5: 6 word(s) changed
+### Psalms 1:5: 5 word(s) changed
 
 Reply line 6.
 
-Original: τίνι γὰρ εἶπέν ποτε τῶν ἀγγέλων, υἱός μου εἶ σύ, ἐγὼ σήμερον γεγέννηκά σε; καὶ πάλιν, ἐγὼ ἔσομαι αὐτῷ εἰς πατέρα, καὶ αὐτὸς ἔσται μοι εἰς υἱόν;
+Original: עַל כֵּן לֹא יָקֻמוּ רְשָׁעִים בַּ/מִּשְׁפָּט וְ/חַטָּאִים בַּ/עֲדַת צַדִּיקִים
 
-Persian: زیرا خدا تا کنون به کدام‌یک از فرشتگان گفته_است:« تو پسر من هستی؛ امروز من تو را مولود ساخته‌ام»؟ و یا:« من او را پدر خواهم_بود، و او مرا پسر»؟
+Persian: پس شریران را در داوری تابِ ایستادن نیست و نه گنهکاران را در جمع پارسایان.
 
 Original words:
-- o1: τίνι = G5101 τίς "every man, how (much), + no(-ne, thing)…" [I-DSM]
-- o2: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
-- o3: εἶπέν = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-2AAI-3S]
-- o4: ποτε = G4218 ποτέ "afore-(any, some-)time(-s), at length (the last)…" [PRT]
-- o5: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
-- o6: ἀγγέλων, = G32 ἄγγελος "angel, messenger" [N-GPM]
-- o7: υἱός = G5207 υἱός "child, foal, son" [N-NSM]
-- o8: μου = G1473 ἐγώ "I, me" [P-1GS]
-- o9: εἶ = G1510 εἰμί "am, have been, it is I, was" [V-PAI-2S]
-- o10: σύ, = G4771 σύ "thou" [P-2NS]
-- o11: ἐγὼ = G1473 ἐγώ "I, me" [P-1NS]
-- o12: σήμερον = G4594 σήμερον "this (to-)day" [ADV]
-- o13: γεγέννηκά = G1080 γεννάω "bear, beget, be born, bring forth, conceive…" [V-RAI-1S]
-- o14: σε; = G4771 σύ "thou" [P-2AS]
-- o15: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o16: πάλιν, = G3825 πάλιν "again" [ADV]
-- o17: ἐγὼ = G1473 ἐγώ "I, me" [P-1NS]
-- o18: ἔσομαι = G1510 εἰμί "am, have been, it is I, was" [V-FDI-1S]
-- o19: αὐτῷ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
-- o20: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
-- o21: πατέρα, = G3962 πατήρ "father, parent" [N-ASM]
-- o22: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o23: αὐτὸς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-NSM]
-- o24: ἔσται = G1510 εἰμί "am, have been, it is I, was" [V-FDI-3S]
-- o25: μοι = G1473 ἐγώ "I, me" [P-1DS]
-- o26: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
-- o27: υἱόν; = G5207 υἱός "child, foal, son" [N-ASM]
+- o1: עַל = H5921 עַל "above, over, upon…" [HR]
+- o2: כֵּן = H3651 כֵּן "properly, set upright…" [HTm]
+- o3: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
+- o4: יָקֻמוּ = H6965 קוּם "to rise (in various applications, literal…" [HVqi3mp]
+- o5: רְשָׁעִים = H7563 רָשָׁע "morally wrong…" [HAampa]
+- o6: בַּ/מִּשְׁפָּט = Hb "in" + H4941 מִשְׁפָּט "properly…" [HRd/Ncmsa]
+- o7: וְ/חַטָּאִים = Hc "and" + H2400 חַטָּא "a criminal, or one accounted guilty" [HC/Aampa]
+- o8: בַּ/עֲדַת = Hb "in" + H5712 עֵדָה "a stated assemblage (specifically, a concourse…" [HR/Ncfsc]
+- o9: צַדִּיקִים = H6662 צַדִּיק "just" [HAampa]
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | زیرا | G1063 | G1063 |
-|  | خدا |  |  |
-| ✱ | تا | G4218 ποτέ "afore-(any, some-)time(-s)…" | [تا کنون] G4218 ποτέ "afore-(any, some-)time(-s)…" |
-| ✱ | کنون |  | [تا کنون] G4218 ποτέ "afore-(any, some-)time(-s)…" |
-|  | به |  |  |
-|  | کدام‌یک | G5101 | G5101 |
-|  | از |  |  |
-|  | فرشتگان | G32 | G32 |
-| ✱ | گفته_است |  | G3004 λέγω "ask, bid, boast, call…" |
-|  | : |  |  |
-|  | « |  |  |
-|  | تو | G4771 | G4771 |
-|  | پسر | G5207 | G5207 |
-|  | من | G1473 | G1473 |
-| ✱ | هستی |  | G1510 εἰμί "am, have been, it is I, was" |
-|  | ؛ |  |  |
-|  | امروز | G4594 | G4594 |
-|  | من | G1473 | G1473 |
-|  | تو | G4771 | G4771 |
+| ✱ | پس | H3651 כֵּן "properly, set upright…" | H5921 עַל "above, over, upon…"; H3651 כֵּן "properly, set upright…" |
+|  | شریران | H7563 | H7563 |
 |  | را |  |  |
-|  | مولود | [مولود ساخته‌ام] G1080 | [مولود ساخته‌ام] G1080 |
-|  | ساخته‌ام | [مولود ساخته‌ام] G1080 | [مولود ساخته‌ام] G1080 |
-|  | » |  |  |
-|  | ؟ |  |  |
-|  | و | G2532 | G2532 |
-| ✱ | یا | G3825 πάλιν "again" |  |
-|  | : |  |  |
-|  | « |  |  |
-|  | من | G1473 | G1473 |
-|  | او | G846 | G846 |
+|  | در | Hb | Hb |
+|  | داوری | H4941 | H4941 |
+|  | تابِ |  |  |
+| ✱ | ایستادن | [ایستادن نیست] H6965 קוּם "to rise (in various…" | H6965 קוּם "to rise (in various…" |
+| ✱ | نیست | [ایستادن نیست] H6965 קוּם "to rise (in various…" | H3808 לֹא "not (the simple or abs.…" |
+|  | و | Hc | Hc |
+| ✱ | نه |  | H3808 לֹא "not (the simple or abs.…" |
+|  | گنهکاران | H2400 | H2400 |
 |  | را |  |  |
-|  | پدر | G3962 | G3962 |
-| ✱ | خواهم_بود |  | G1510 εἰμί "am, have been, it is I, was" |
-|  | ، |  |  |
-|  | و | G2532 | G2532 |
-|  | او | G846 | G846 |
-|  | مرا | G1473 | G1473 |
-|  | پسر | G5207 | G5207 |
-|  | » |  |  |
-|  | ؟ |  |  |
+| ✱ | در |  | Hb "in" |
+|  | جمع | H5712 | H5712 |
+|  | پارسایان | H6662 | H6662 |
+|  | . |  |  |
 
-### Hebrews 1:6: 4 word(s) changed
+### Psalms 1:6: 5 word(s) changed
 
 Reply line 7.
 
-Original: ὅταν δὲ πάλιν εἰσαγάγῃ τὸν πρωτότοκον εἰς τὴν οἰκουμένην, λέγει, καὶ προσκυνησάτωσαν αὐτῷ πάντες ἄγγελοι θεοῦ.
+Original: כִּי יוֹדֵעַ יְהוָה דֶּרֶךְ צַדִּיקִים וְ/דֶרֶךְ רְשָׁעִים תֹּאבֵד
 
-Persian: بلکه آن هنگام نیز که فرزند ارشد را به جهان می‌آورَد، می‌فرماید:« همۀ فرشتگان خدا او را بپرستند.»
+Persian: زیرا خداوند راه پارسایان را می‌پاید اما طریق شریران به نابودی می‌انجامد.
 
 Original words:
-- o1: ὅταν = G3752 ὅταν "as long (soon) as, that, + till, when(-soever)…" [CONJ]
-- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
-- o3: πάλιν = G3825 πάλιν "again" [ADV]
-- o4: εἰσαγάγῃ = G1521 εἰσάγω "bring in(-to), (+ was to) lead into" [V-2AAS-3S]
-- o5: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
-- o6: πρωτότοκον = G4416 πρωτότοκος "firstbegotten(-born)" [A-ASM-S]
-- o7: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
-- o8: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
-- o9: οἰκουμένην, = G3625 οἰκουμένη "earth, world" [N-ASF]
-- o10: λέγει, = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-3S]
-- o11: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o12: προσκυνησάτωσαν = G4352 προσκυνέω "worship" [V-AAM-3P]
-- o13: αὐτῷ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
-- o14: πάντες = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-NPM]
-- o15: ἄγγελοι = G32 ἄγγελος "angel, messenger" [N-NPM]
-- o16: θεοῦ. = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o2: יוֹדֵעַ = H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HVqrmsa]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: דֶּרֶךְ = H1870 דֶּרֶךְ "a road (as trodden)…" [HNcbsc]
+- o5: צַדִּיקִים = H6662 צַדִּיק "just" [HAampa]
+- o6: וְ/דֶרֶךְ = Hc "and" + H1870 דֶּרֶךְ "a road (as trodden)…" [HC/Ncbsc]
+- o7: רְשָׁעִים = H7563 רָשָׁע "morally wrong…" [HAampa]
+- o8: תֹּאבֵד = H6 אָבַד "properly, to wander away, i.e. lose oneself…" [HVqi3fs]
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | بلکه | G1161 | G1161 |
-| ✱ | آن |  | [آن هنگام] G3752 ὅταν "as long (soon) as, that…" |
-| ✱ | هنگام | G3752 ὅταν "as long (soon) as, that…" | [آن هنگام] G3752 ὅταν "as long (soon) as, that…" |
-|  | نیز | G3825 | G3825 |
-|  | که | G3752 | G3752 |
-| ✱ | فرزند |  | [فرزند ارشد] G4416 πρωτότοκος "firstbegotten(-born)" |
-| ✱ | ارشد | G4416 πρωτότοκος "firstbegotten(-born)" | [فرزند ارشد] G4416 πρωτότοκος "firstbegotten(-born)" |
+|  | زیرا | H3588 | H3588 |
+|  | خداوند | H3068 | H3068 |
+|  | راه | H1870 | H1870 |
+|  | پارسایان | H6662 | H6662 |
 |  | را |  |  |
-|  | به | G1519 | G1519 |
-|  | جهان | G3625 | G3625 |
-|  | می‌آورَد | G1521 | G1521 |
-|  | ، |  |  |
-|  | می‌فرماید | G3004 | G3004 |
-|  | : |  |  |
-|  | « |  |  |
-|  | همۀ | G3956 | G3956 |
-|  | فرشتگان | G32 | G32 |
-|  | خدا | G2316 | G2316 |
-|  | او | G846 | G846 |
-|  | را |  |  |
-|  | بپرستند | G4352 | G4352 |
+| ✱ | می‌پاید |  | H3045 יָדַע "to know (properly…" |
+|  | اما | Hc | Hc |
+|  | طریق | H1870 | H1870 |
+| ✱ | شریران |  | H7563 רָשָׁע "morally wrong…" |
+| ✱ | به |  | [به نابودی می‌انجامد] H6 אָבַד "properly, to wander away…" |
+| ✱ | نابودی | [نابودی می‌انجامد] H6 אָבַד "properly, to wander away…" | [به نابودی می‌انجامد] H6 אָבַד "properly, to wander away…" |
+| ✱ | می‌انجامد | [نابودی می‌انجامد] H6 אָבַד "properly, to wander away…" | [به نابودی می‌انجامد] H6 אָבַד "properly, to wander away…" |
 |  | . |  |  |
-|  | » |  |  |
 
-### Hebrews 1:7: 3 word(s) changed
+### Psalms 2:1: 5 word(s) changed
 
 Reply line 8.
 
-Original: καὶ πρὸς μὲν τοὺς ἀγγέλους λέγει, ὁ ποιῶν τοὺς ἀγγέλους αὐτοῦ πνεύματα, καὶ τοὺς λειτουργοὺς αὐτοῦ πυρὸς φλόγα·
+Original: לָ/מָּה רָגְשׁוּ גוֹיִם וּ/לְאֻמִּים יֶהְגּוּ רִיק
 
-Persian: حال آنکه دربارۀ فرشتگان می‌گوید:« فرشتگانش را بادها می‌سازد، و خادمانش را شعله‌های آتش.»
+Persian: از چه سبب قومها می‌شورند و ملتها به عبث تدبیر می‌کنند؟
 
 Original words:
-- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o2: πρὸς = G4314 πρός "about, according to , against, among, at…" [PREP]
-- o3: μὲν = G3303 μέν "even, indeed, so, some, truly, verily" [PRT]
-- o4: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
-- o5: ἀγγέλους = G32 ἄγγελος "angel, messenger" [N-APM]
-- o6: λέγει, = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-3S]
-- o7: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
-- o8: ποιῶν = G4160 ποιέω "abide, + agree, appoint, avenge, + band together…" [V-PAP-NSM]
-- o9: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
-- o10: ἀγγέλους = G32 ἄγγελος "angel, messenger" [N-APM]
-- o11: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
-- o12: πνεύματα, = G4151 πνεῦμα "ghost, life, spirit(-ual, -ually), mind" [N-APN]
-- o13: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o14: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
-- o15: λειτουργοὺς = G3011 λειτουργός "minister(-ed)" [N-APM]
-- o16: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
-- o17: πυρὸς = G4442 πῦρ "fiery, fire" [N-GSN]
-- o18: φλόγα· = G5395 φλόξ "flame(-ing)" [N-ASF]
+- o1: לָ/מָּה = Hl "to" + H4100 מָה "properly…" [HR/Ti]
+- o2: רָגְשׁוּ = H7283 רָגַשׁ "to be tumultuous" [HVqp3cp]
+- o3: גוֹיִם = H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HNcmpa]
+- o4: וּ/לְאֻמִּים = Hc "and" + H3816 לְאֹם "a community" [HC/Ncmpa]
+- o5: יֶהְגּוּ = H1897 הָגָה "to murmur (in pleasure or anger)…" [HVqi3mp]
+- o6: רִיק = H7385 רִיק "emptiness; figuratively, a worthless thing…" [HNcmsa]
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | حال |  | [حال آنکه] G2532 καί "and, also, both, but, even…" |
-| ✱ | آنکه |  | [حال آنکه] G2532 καί "and, also, both, but, even…" |
-|  | دربارۀ | G4314 | G4314 |
-|  | فرشتگان | G32 | G32 |
-|  | می‌گوید | G3004 | G3004 |
-|  | : |  |  |
-|  | « |  |  |
-|  | فرشتگانش | G32 G846 | G32 G846 |
-|  | را |  |  |
-|  | بادها | G4151 | G4151 |
-|  | می‌سازد | G4160 | G4160 |
-|  | ، |  |  |
-|  | و | G2532 | G2532 |
-| ✱ | خادمانش |  | G3011 λειτουργός "minister(-ed)"; G846 αὐτός "her, it(-self), one…" |
-|  | را |  |  |
-|  | شعله‌های | G5395 | G5395 |
-|  | آتش | G4442 | G4442 |
-|  | . |  |  |
-|  | » |  |  |
+| ✱ | از |  | [از چه سبب] Hl "to"; H4100 מָה "properly…" |
+| ✱ | چه | H4100 מָה "properly…" | [از چه سبب] Hl "to"; H4100 מָה "properly…" |
+| ✱ | سبب |  | [از چه سبب] Hl "to"; H4100 מָה "properly…" |
+|  | قومها | H1471 | H1471 |
+|  | می‌شورند | H7283 | H7283 |
+|  | و | Hc | Hc |
+|  | ملتها | H3816 | H3816 |
+| ✱ | به |  | [به عبث] H7385 רִיק "emptiness…" |
+| ✱ | عبث | H7385 רִיק "emptiness…" | [به عبث] H7385 רִיק "emptiness…" |
+|  | تدبیر | [تدبیر می‌کنند] H1897 | [تدبیر می‌کنند] H1897 |
+|  | می‌کنند | [تدبیر می‌کنند] H1897 | [تدبیر می‌کنند] H1897 |
+|  | ؟ |  |  |
 
-### Hebrews 1:8: 7 word(s) changed
+### Psalms 2:2: 8 word(s) changed
 
 Reply line 9.
 
-Original: πρὸς δὲ τὸν υἱόν, ὁ θρόνος σου, ὁ θεός, εἰς τὸν αἰῶνα τοῦ αἰῶνος, καὶ ἡ ῥάβδος τῆς εὐθύτητος ῥάβδος τῆς βασιλείας σου.
+Original: יִתְיַצְּבוּ מַלְכֵי אֶרֶץ וְ/רוֹזְנִים נוֹסְדוּ יָחַד עַל יְהוָה וְ/עַל מְשִׁיח/וֹ
 
-Persian: امّا دربارۀ پسر می‌گوید:« ای خدا، تخت سلطنت تو جاودانه است؛ عصای پادشاهی تو عصای عدل و انصاف است.
+Persian: پادشاهان زمین به صف می‌شوند و فرمانروایان به مشورت می‌نشینند، بر ضد خداوند و بر ضد مسیح او؛
 
 Original words:
-- o1: πρὸς = G4314 πρός "about, according to , against, among, at…" [PREP]
-- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
-- o3: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
-- o4: υἱόν, = G5207 υἱός "child, foal, son" [N-ASM]
-- o5: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
-- o6: θρόνος = G2362 θρόνος "seat, throne" [N-NSM]
-- o7: σου, = G4771 σύ "thou" [P-2GS]
-- o8: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
-- o9: θεός, = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-NSM]
-- o10: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
-- o11: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
-- o12: αἰῶνα = G165 αἰών "age, course, eternal, (for) ever(-more), (n-)ever…" [N-ASM]
-- o13: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
-- o14: αἰῶνος, = G165 αἰών "age, course, eternal, (for) ever(-more), (n-)ever…" [N-GSM]
-- o15: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o16: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
-- o17: ῥάβδος = G4464 ῥάβδος "rod, sceptre, staff" [N-NSF]
-- o18: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
-- o19: εὐθύτητος = G2118 εὐθύτης "righteousness" [N-GSF]
-- o20: ῥάβδος = G4464 ῥάβδος "rod, sceptre, staff" [N-NSF]
-- o21: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
-- o22: βασιλείας = G932 βασιλεία "kingdom, + reign" [N-GSF]
-- o23: σου. = G4771 σύ "thou" [P-2GS]
+- o1: יִתְיַצְּבוּ = H3320 יָצַב "to place (any thing so as to stay)…" [HVti3mp]
+- o2: מַלְכֵי = H4428 מֶלֶךְ "a king" [HNcmpc]
+- o3: אֶרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsa]
+- o4: וְ/רוֹזְנִים = Hc "and" + H7336 רָזַן "probably to be heavy…" [HC/Vqrmpa]
+- o5: נוֹסְדוּ = H3245 יָסַד "to set (literally or figuratively)…" [HVNp3cp]
+- o6: יָחַד = H3162 יַחַד "properly, a unit, i.e. (adverb) unitedly" [HD]
+- o7: עַל = H5921 עַל "above, over, upon…" [HR]
+- o8: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o9: וְ/עַל = Hc "and" + H5921 עַל "above, over, upon…" [HC/R]
+- o10: מְשִׁיח/וֹ = H4899 מָשִׁיחַ "anointed…" [HAamsc/Sp3ms]
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | امّا | G1161 | G1161 |
-| ✱ | دربارۀ |  | G4314 πρός "about, according to , against…" |
-|  | پسر | G5207 | G5207 |
-|  | می‌گوید |  |  |
-|  | : |  |  |
-|  | « |  |  |
-| ✱ | ای |  | G3588 ὁ "the, this, that, one, he, she…" |
-|  | خدا | G2316 | G2316 |
+|  | پادشاهان | H4428 | H4428 |
+|  | زمین | H776 | H776 |
+| ✱ | به | H3320 יָצַב "to place (any thing so as to…" | [به صف می‌شوند] H3320 יָצַב "to place (any thing so as to…" |
+| ✱ | صف |  | [به صف می‌شوند] H3320 יָצַב "to place (any thing so as to…" |
+| ✱ | می‌شوند |  | [به صف می‌شوند] H3320 יָצַב "to place (any thing so as to…" |
+|  | و | Hc | Hc |
+|  | فرمانروایان | H7336 | H7336 |
+| ✱ | به | H3320 יָצַב "to place (any thing so as to…" | [به مشورت می‌نشینند] H3245 יָסַד "to set (literally or…" |
+| ✱ | مشورت | H3245 יָסַד "to set (literally or…" | [به مشورت می‌نشینند] H3245 יָסַד "to set (literally or…" |
+| ✱ | می‌نشینند |  | [به مشورت می‌نشینند] H3245 יָסַד "to set (literally or…" |
 |  | ، |  |  |
-| ✱ | تخت | G2362 θρόνος "seat, throne" | [تخت سلطنت] G2362 θρόνος "seat, throne" |
-| ✱ | سلطنت |  | [تخت سلطنت] G2362 θρόνος "seat, throne" |
-|  | تو | G4771 | G4771 |
-|  | جاودانه | G1519 G165 | G1519 G165 |
-|  | است |  |  |
+|  | بر | [بر ضد] H5921 | [بر ضد] H5921 |
+|  | ضد | [بر ضد] H5921 | [بر ضد] H5921 |
+|  | خداوند | H3068 | H3068 |
+|  | و | Hc | Hc |
+| ✱ | بر | H5921 עַל "above, over, upon…" | [بر ضد] H5921 עַל "above, over, upon…" |
+| ✱ | ضد | H5921 עַל "above, over, upon…" | [بر ضد] H5921 עַל "above, over, upon…" |
+|  | مسیح | H4899 | H4899 |
+|  | او |  |  |
 |  | ؛ |  |  |
-|  | عصای | G4464 | G4464 |
-|  | پادشاهی | G932 | G932 |
-|  | تو | G4771 | G4771 |
-|  | عصای | G4464 | G4464 |
-| ✱ | عدل | G2118 εὐθύτης "righteousness" | [عدل و انصاف] G2118 εὐθύτης "righteousness" |
-| ✱ | و | G2532 καί "and, also, both, but, even…" | [عدل و انصاف] G2118 εὐθύτης "righteousness" |
-| ✱ | انصاف |  | [عدل و انصاف] G2118 εὐθύτης "righteousness" |
-|  | است |  |  |
-|  | . |  |  |
 
-### Hebrews 1:9: 5 word(s) changed
+### Psalms 2:3: 1 word(s) changed
 
 Reply line 10.
 
-Original: ἠγάπησας δικαιοσύνην καὶ ἐμίσησας ἀδικίαν· διὰ τοῦτο ἔχρισέν σε ὁ θεός, ὁ θεός σου, ἔλαιον ἀγαλλιάσεως παρὰ τοὺς μετόχους σου·
+Original: נְנַתְּקָה אֶת מוֹסְרוֹתֵי/מוֹ וְ/נַשְׁלִיכָה מִמֶּ/נּוּ עֲבֹתֵי/מוֹ
 
-Persian: تو پارسایی را دوست می‌داری و شرارت را دشمن؛ از این رو خدا، خدای تو، تو را بیش از همقطارانت به روغن شادمانی مسح کرده_است.»
+Persian: که« بیایید بندهایشان بگسلیم و زنجیرهایشان از خود بیفکنیم.»
 
 Original words:
-- o1: ἠγάπησας = G25 ἀγαπάω "(be-)love(-ed)" [V-AAI-2S]
-- o2: δικαιοσύνην = G1343 δικαιοσύνη "righteousness" [N-ASF]
-- o3: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o4: ἐμίσησας = G3404 μισέω "hate(-ful)" [V-AAI-2S]
-- o5: ἀδικίαν· = G93 ἀδικία "iniquity, unjust, unrighteousness, wrong" [N-ASF]
-- o6: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
-- o7: τοῦτο = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-ASN]
-- o8: ἔχρισέν = G5548 χρίω "anoint" [V-AAI-3S]
-- o9: σε = G4771 σύ "thou" [P-2AS]
-- o10: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
-- o11: θεός, = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-NSM]
-- o12: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
-- o13: θεός = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-NSM]
-- o14: σου, = G4771 σύ "thou" [P-2GS]
-- o15: ἔλαιον = G1637 ἔλαιον "oil" [N-ASN]
-- o16: ἀγαλλιάσεως = G20 ἀγαλλίασις "gladness, (exceeding) joy" [N-GSF]
-- o17: παρὰ = G3844 παρά "above, against, among, at, before, by…" [PREP]
-- o18: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
-- o19: μετόχους = G3353 μέτοχος "fellow, partaker, partner" [A-APM]
-- o20: σου· = G4771 σύ "thou" [P-2GS]
+- o1: נְנַתְּקָה = H5423 נָתַק "to tear off" [HVph1cp]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: מוֹסְרוֹתֵי/מוֹ = H4147 מוֹסֵר "properly, chastisement…" [HNcbpc/Sp3mp]
+- o4: וְ/נַשְׁלִיכָה = Hc "and" + H7993 שָׁלַךְ "to throw out…" [HC/Vhh1cp]
+- o5: מִמֶּ/נּוּ = H4480 מִן "properly, a part of…" [HR/Sp1cp]
+- o6: עֲבֹתֵי/מוֹ = H5688 עֲבֹת "something intwined, i.e. a string…" [HNcbpc/Sp3mp]
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | تو |  |  |
-|  | پارسایی | G1343 | G1343 |
-|  | را |  |  |
-|  | دوست | [دوست می‌داری] G25 | [دوست می‌داری] G25 |
-|  | می‌داری | [دوست می‌داری] G25 | [دوست می‌داری] G25 |
-|  | و | G2532 | G2532 |
-| ✱ | شرارت | G1343 δικαιοσύνη "righteousness"; G93 ἀδικία "iniquity, unjust…" | G93 ἀδικία "iniquity, unjust…" |
-|  | را |  |  |
-|  | دشمن | G3404 | G3404 |
-|  | ؛ |  |  |
-|  | از |  |  |
-|  | این | G3778 | G3778 |
-|  | رو | G1223 | G1223 |
-|  | خدا | G2316 | G2316 |
-|  | ، |  |  |
-|  | خدای | G2316 | G2316 |
-|  | تو | G4771 | G4771 |
-|  | ، |  |  |
-| ✱ | تو |  | G4771 σύ "thou" |
-|  | را |  |  |
-| ✱ | بیش | G3844 παρά "above, against, among, at…" | [بیش از] G3844 παρά "above, against, among, at…" |
-| ✱ | از |  | [بیش از] G3844 παρά "above, against, among, at…" |
-| ✱ | همقطارانت | G3353 μέτοχος "fellow, partaker, partner" | G3353 μέτοχος "fellow, partaker, partner"; G4771 σύ "thou" |
-|  | به |  |  |
-|  | روغن | G1637 | G1637 |
-|  | شادمانی | G20 | G20 |
-|  | مسح | [مسح کرده_است] G5548 | [مسح کرده_است] G5548 |
-|  | کرده_است | [مسح کرده_است] G5548 | [مسح کرده_است] G5548 |
+|  | که |  |  |
+|  | « |  |  |
+|  | بیایید | H5423 | H5423 |
+|  | بندهایشان | H4147 | H4147 |
+|  | بگسلیم | H5423 | H5423 |
+|  | و | Hc | Hc |
+|  | زنجیرهایشان | H5688 | H5688 |
+| ✱ | از |  | H4480 מִן "properly, a part of…" |
+|  | خود |  |  |
+|  | بیفکنیم | H7993 | H7993 |
 |  | . |  |  |
 |  | » |  |  |
 
-### Hebrews 1:10: 2 word(s) changed
+### Psalms 2:4: 1 word(s) changed
 
 Reply line 11.
 
-Original: καί, σὺ κατ’ ἀρχάς, κύριε, τὴν γῆν ἐθεμελίωσας, καὶ ἔργα τῶν χειρῶν σού εἰσιν οἱ οὐρανοί·
+Original: יוֹשֵׁב בַּ/שָּׁמַיִם יִשְׂחָק אֲדֹנָ/י יִלְעַג לָ/מוֹ
 
-Persian: و نیز می‌فرماید:« تو، ای خداوند، در آغازْ بنیان زمین را نهادی، و آسمانها صنعت دستان توست!
+Persian: آن که در آسمانها جلوس کرده، می‌خندد؛ خداوندگار ریشخندشان می‌کند.
 
 Original words:
-- o1: καί, = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o2: σὺ = G4771 σύ "thou" [P-2NS]
-- o3: κατ’ = G2596 κατά "about, according as (to), after, against…" [PREP]
-- o4: ἀρχάς, = G746 ἀρχή "beginning, corner, (at the, the) first (estate)…" [N-APF]
-- o5: κύριε, = G2962 κύριος "God, Lord, master, Sir" [N-VSM]
-- o6: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
-- o7: γῆν = G1093 γῆ "country, earth(-ly), ground, land, world" [N-ASF]
-- o8: ἐθεμελίωσας, = G2311 θεμελιόω "(lay the) found(- ation), ground, settle" [V-AAI-2S]
-- o9: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o10: ἔργα = G2041 ἔργον "deed, doing, labour, work" [N-NPN]
-- o11: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPF]
-- o12: χειρῶν = G5495 χείρ "hand" [N-GPF]
-- o13: σού = G4771 σύ "thou" [P-2GS]
-- o14: εἰσιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3P]
-- o15: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
-- o16: οὐρανοί· = G3772 οὐρανός "air, heaven(-ly), sky" [N-NPM]
+- o1: יוֹשֵׁב = H3427 יָשַׁב "properly…" [HVqrmsa]
+- o2: בַּ/שָּׁמַיִם = Hb "in" + H8064 שָׁמַיִם "the sky (as aloft…" [HRd/Ncmpa]
+- o3: יִשְׂחָק = H7832 שָׂחַק "to laugh (in pleasure or detraction)…" [HVqi3ms]
+- o4: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
+- o5: יִלְעַג = H3932 לָעַג "to deride…" [HVqi3ms]
+- o6: לָ/מוֹ = Hl "to" [HR/Sp3mp]
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | و | G2532 | G2532 |
-|  | نیز |  |  |
-|  | می‌فرماید |  |  |
-|  | : |  |  |
-|  | « |  |  |
-|  | تو | G4771 | G4771 |
+|  | آن |  |  |
+|  | که |  |  |
+| ✱ | در |  | Hb "in" |
+|  | آسمانها | H8064 | H8064 |
+|  | جلوس | [جلوس کرده] H3427 | [جلوس کرده] H3427 |
+|  | کرده | [جلوس کرده] H3427 | [جلوس کرده] H3427 |
 |  | ، |  |  |
-|  | ای |  |  |
-|  | خداوند | G2962 | G2962 |
-|  | ، |  |  |
-|  | در | G2596 | G2596 |
-|  | آغازْ | G746 | G746 |
-|  | بنیان | G2311 | G2311 |
-|  | زمین | G1093 | G1093 |
-|  | را |  |  |
-| ✱ | نهادی |  | G2311 θεμελιόω "lay the) found(- ation)…" |
-|  | ، |  |  |
-|  | و | G2532 | G2532 |
-|  | آسمانها | G3772 | G3772 |
-|  | صنعت | G2041 | G2041 |
-|  | دستان | G5495 | G5495 |
-| ✱ | توست | G4771 σύ "thou" | G4771 σύ "thou"; G1510 εἰμί "am, have been, it is I, was" |
-|  | ! |  |  |
+|  | می‌خندد | H7832 | H7832 |
+|  | ؛ |  |  |
+|  | خداوندگار | H136 | H136 |
+|  | ریشخندشان | [ریشخندشان می‌کند] H3932 | [ریشخندشان می‌کند] H3932 |
+|  | می‌کند | [ریشخندشان می‌کند] H3932 | [ریشخندشان می‌کند] H3932 |
+|  | . |  |  |
 
-### Hebrews 1:11: 6 word(s) changed
+### Psalms 2:5: 2 word(s) changed
 
 Reply line 12.
 
-Original: αὐτοὶ ἀπολοῦνται, σὺ δὲ διαμένεις· καὶ πάντες ὡς ἱμάτιον παλαιωθήσονται,
+Original: אָז יְדַבֵּר אֵלֵי/מוֹ בְ/אַפּ/וֹ וּ/בַ/חֲרוֹנ/וֹ יְבַהֲלֵ/מוֹ
 
-Persian: آنها از میان می‌روند، امّا تو بر‌جا می‌مانی! آنها همه چون جامهْ مندرس خواهند_شد!
+Persian: آنگاه در خشم خویش بدیشان سخن خواهد_گفت، و به غضب خویش ایشان را هراسان خواهد_ساخت.
 
 Original words:
-- o1: αὐτοὶ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-NPM]
-- o2: ἀπολοῦνται, = G622 ἀπόλλυμι "destroy, die, lose, mar, perish" [V-FMI-3P]
-- o3: σὺ = G4771 σύ "thou" [P-2NS]
-- o4: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
-- o5: διαμένεις· = G1265 διαμένω "continue, remain" [V-PAI-2S]
-- o6: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o7: πάντες = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-NPM]
-- o8: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
-- o9: ἱμάτιον = G2440 ἱμάτιον "apparel, cloke, clothes, garment, raiment, robe…" [N-NSN]
-- o10: παλαιωθήσονται, = G3822 παλαιόω "decay, make (wax) old" [V-FPI-3P]
+- o1: אָז = H227 אָז "at that time or place…" [HD]
+- o2: יְדַבֵּר = H1696 דָבַר "perhaps properly, to arrange…" [HVpi3ms]
+- o3: אֵלֵי/מוֹ = H413 אֵל "near, with or among; often in general, to" [HR/Sp3mp]
+- o4: בְ/אַפּ/וֹ = Hb "in" + H639 אַף "properly, the nose or nostril…" [HR/Ncmsc/Sp3ms]
+- o5: וּ/בַ/חֲרוֹנ/וֹ = Hc "and" + Hb "in" + H2740 חָרוֹן "a burning of anger" [HC/R/Ncmsc/Sp3ms]
+- o6: יְבַהֲלֵ/מוֹ = H926 בָּהַל "to tremble inwardly (or palpitate)…" [HVpi3ms/Sp3mp]
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | آنها | G846 | G846 |
-| ✱ | از |  | [از میان می‌روند] G622 ἀπόλλυμι "destroy, die, lose, mar…" |
-| ✱ | میان |  | [از میان می‌روند] G622 ἀπόλλυμι "destroy, die, lose, mar…" |
-| ✱ | می‌روند | G1265 διαμένω "continue, remain" | [از میان می‌روند] G622 ἀπόλλυμι "destroy, die, lose, mar…" |
+|  | آنگاه | H227 | H227 |
+|  | در | Hb | Hb |
+|  | خشم | H639 | H639 |
+|  | خویش |  |  |
+| ✱ | بدیشان |  | H413 אֵל "near, with or among…" |
+|  | سخن | [سخن خواهد_گفت] H1696 | [سخن خواهد_گفت] H1696 |
+|  | خواهد_گفت | [سخن خواهد_گفت] H1696 | [سخن خواهد_گفت] H1696 |
 |  | ، |  |  |
-|  | امّا | G1161 | G1161 |
-|  | تو | G4771 | G4771 |
-| ✱ | بر‌جا | G622 ἀπόλλυμι "destroy, die, lose, mar…" | [بر‌جا می‌مانی] G1265 διαμένω "continue, remain" |
-| ✱ | می‌مانی |  | [بر‌جا می‌مانی] G1265 διαμένω "continue, remain" |
-|  | ! |  |  |
-| ✱ | آنها | G846 αὐτός "her, it(-self), one…" |  |
-|  | همه | G3956 | G3956 |
-|  | چون | G5613 | G5613 |
-|  | جامهْ | G2440 | G2440 |
-|  | مندرس | [مندرس خواهند_شد] G3822 | [مندرس خواهند_شد] G3822 |
-|  | خواهند_شد | [مندرس خواهند_شد] G3822 | [مندرس خواهند_شد] G3822 |
-|  | ! |  |  |
+|  | و | Hc | Hc |
+| ✱ | به | H413 אֵל "near, with or among…"; Hb "in" | Hb "in" |
+|  | غضب | H2740 | H2740 |
+|  | خویش |  |  |
+|  | ایشان |  |  |
+|  | را |  |  |
+|  | هراسان | [هراسان خواهد_ساخت] H926 | [هراسان خواهد_ساخت] H926 |
+|  | خواهد_ساخت | [هراسان خواهد_ساخت] H926 | [هراسان خواهد_ساخت] H926 |
+|  | . |  |  |
 
-### Hebrews 1:12: 9 word(s) changed
+### Psalms 2:7: 5 word(s) changed
 
 Reply line 13.
 
-Original: καὶ ὡσεὶ περιβόλαιον ἀλλάξεις αὐτούς, καὶ ἀλλαγήσονται, σὺ δὲ ὁ αὐτὸς εἶ καὶ τὰ ἔτη σου οὐκ ἐκλείψουσιν.
+Original: אֲסַפְּרָה אֶל חֹק יְהוָה אָמַר אֵלַ/י בְּנִ/י אַתָּה אֲנִי הַ/יּוֹם יְלִדְתִּי/ךָ
 
-Persian: آنها را چون ردایی در هم خواهی_پیچید، و بسان جامه‌ای جایگزین خواهند_شد. امّا تو همان هستی، و سالهای تو را پایانی نیست!»
+Persian: و حال، من حکم را بازمی‌گویم، خداوند مرا گفته_است:« تو پسر من هستی؛ امروز من تو را مولود ساخته‌ام.
 
 Original words:
-- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o2: ὡσεὶ = G5616 ὡσεί "about, as (it had been, it were), like (as)" [ADV]
-- o3: περιβόλαιον = G4018 περιβόλαιον "covering, vesture" [N-ASN]
-- o4: ἀλλάξεις = G236 ἀλλάσσω "change" [V-FAI-2S]
-- o5: αὐτούς, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-APM]
-- o6: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o7: ἀλλαγήσονται, = G236 ἀλλάσσω "change" [V-2FPI-3P]
-- o8: σὺ = G4771 σύ "thou" [P-2NS]
-- o9: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
-- o10: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
-- o11: αὐτὸς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-NSM]
-- o12: εἶ = G1510 εἰμί "am, have been, it is I, was" [V-PAI-2S]
-- o13: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o14: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPN]
-- o15: ἔτη = G2094 ἔτος "year" [N-NPN]
-- o16: σου = G4771 σύ "thou" [P-2GS]
-- o17: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
-- o18: ἐκλείψουσιν. = G1587 ἐκλείπω "fail" [V-FAI-3P]
+- o1: אֲסַפְּרָה = H5608 סָפַר "properly…" [HVph1cs]
+- o2: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
+- o3: חֹק = H2706 חֹק "an enactment…" [HNcmsc]
+- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o5: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
+- o6: אֵלַ/י = H413 אֵל "near, with or among; often in general, to" [HR/Sp1cs]
+- o7: בְּנִ/י = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp1cs]
+- o8: אַתָּה = H859 אַתָּה "thou and thee, or (plural) ye and you" [HPp2ms]
+- o9: אֲנִי = H589 אֲנִי "I" [HPp1cs]
+- o10: הַ/יּוֹם = Hd "the" + H3117 יוֹם "a day (as the warm hours)…" [HTd/Ncmsa]
+- o11: יְלִדְתִּי/ךָ = H3205 יָלַד "to bear young; causatively, to beget…" [HVqp1cs/Sp2ms]
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | آنها | G846 | G846 |
-|  | را |  |  |
-| ✱ | چون | G5616 ὡσεί "about, as (it had been…"; G2532 καί "and, also, both, but, even…" | G5616 ὡσεί "about, as (it had been…" |
-|  | ردایی | G4018 | G4018 |
-| ✱ | در |  | [در هم خواهی_پیچید] G236 ἀλλάσσω "change" |
-| ✱ | هم |  | [در هم خواهی_پیچید] G236 ἀλλάσσω "change" |
-| ✱ | خواهی_پیچید |  | [در هم خواهی_پیچید] G236 ἀλλάσσω "change" |
+|  | و |  |  |
+|  | حال |  |  |
 |  | ، |  |  |
-|  | و | G2532 | G2532 |
-| ✱ | بسان | G236 ἀλλάσσω "change" |  |
-|  | جامه‌ای |  |  |
-| ✱ | جایگزین |  | [جایگزین خواهند_شد] G236 ἀλλάσσω "change" |
-| ✱ | خواهند_شد | G236 ἀλλάσσω "change" | [جایگزین خواهند_شد] G236 ἀλλάσσω "change" |
+|  | من |  |  |
+|  | حکم | H2706 | H2706 |
+|  | را |  |  |
+|  | بازمی‌گویم | H5608 | H5608 |
+|  | ، |  |  |
+|  | خداوند | H3068 | H3068 |
+| ✱ | مرا |  | H413 אֵל "near, with or among…" |
+|  | گفته_است | H559 | H559 |
+|  | : |  |  |
+|  | « |  |  |
+| ✱ | تو |  | H859 אַתָּה "thou and thee…" |
+|  | پسر | H1121 | H1121 |
+| ✱ | من | H589 אֲנִי "I" |  |
+| ✱ | هستی | H859 אַתָּה "thou and thee…" |  |
+|  | ؛ |  |  |
+|  | امروز | H3117 | H3117 |
+| ✱ | من |  | H589 אֲנִי "I" |
+|  | تو |  |  |
+|  | را |  |  |
+|  | مولود | [مولود ساخته‌ام] H3205 | [مولود ساخته‌ام] H3205 |
+|  | ساخته‌ام | [مولود ساخته‌ام] H3205 | [مولود ساخته‌ام] H3205 |
 |  | . |  |  |
-|  | امّا | G1161 | G1161 |
-|  | تو | G4771 | G4771 |
-| ✱ | همان | G846 αὐτός "her, it(-self), one…" | G3588 ὁ "the, this, that, one, he, she…"; G846 αὐτός "her, it(-self), one…" |
-| ✱ | هستی |  | G1510 εἰμί "am, have been, it is I, was" |
-|  | ، |  |  |
-|  | و | G2532 | G2532 |
-|  | سالهای | G2094 | G2094 |
-|  | تو | G4771 | G4771 |
-|  | را |  |  |
-|  | پایانی | G1587 | G1587 |
-|  | نیست | G3756 | G3756 |
-|  | ! |  |  |
-|  | » |  |  |
 
-### Hebrews 1:13: 10 word(s) changed
+### Psalms 2:8: 4 word(s) changed
 
 Reply line 14.
 
-Original: πρὸς τίνα δὲ τῶν ἀγγέλων εἴρηκέν ποτε, κάθου ἐκ δεξιῶν μου ἕως ἂν θῶ τοὺς ἐχθρούς σου ὑποπόδιον τῶν ποδῶν σου;
+Original: שְׁאַל מִמֶּ/נִּי וְ/אֶתְּנָה גוֹיִם נַחֲלָתֶ/ךָ וַ/אֲחֻזָּתְ/ךָ אַפְסֵי אָרֶץ
 
-Persian: خدا تا کنون به کدام‌یک از فرشتگان گفته_است:« به دست راست من بنشین تا آن هنگام که دشمنانت را کرسی زیر پایت سازم»؟
+Persian: از من بخواه، که ملتها را میراث تو خواهم_گردانید و کرانهای زمین را مُلک تو خواهم_ساخت.
 
 Original words:
-- o1: πρὸς = G4314 πρός "about, according to , against, among, at…" [PREP]
-- o2: τίνα = G5101 τίς "every man, how (much), + no(-ne, thing)…" [I-ASM]
-- o3: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
-- o4: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
-- o5: ἀγγέλων = G32 ἄγγελος "angel, messenger" [N-GPM]
-- o6: εἴρηκέν = G2046 ἐρέω "call, say, speak (of), tell" [V-RAI-3S-ATT]
-- o7: ποτε, = G4218 ποτέ "afore-(any, some-)time(-s), at length (the last)…" [PRT]
-- o8: κάθου = G2521 κάθημαι "dwell, sit (by, down)" [V-PNM-2S]
-- o9: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
-- o10: δεξιῶν = G1188 δεξιός "right (hand, side)" [A-GPN]
-- o11: μου = G1473 ἐγώ "I, me" [P-1GS]
-- o12: ἕως = G2193 ἕως "even (until, unto), (as) far (as), how long…" [ADV]
-- o13: ἂν = G302 ἄν "(what-, where-, wither-, who-)soever" [PRT]
-- o14: θῶ = G5087 τίθημι "+ advise, appoint, bow, commit, conceive, give…" [V-2AAS-1S]
-- o15: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
-- o16: ἐχθρούς = G2190 ἐχθρός "enemy, foe" [A-APM]
-- o17: σου = G4771 σύ "thou" [P-2GS]
-- o18: ὑποπόδιον = G5286 ὑποπόδιον "footstool" [N-ASN]
-- o19: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
-- o20: ποδῶν = G4228 πούς "foot(-stool)" [N-GPM]
-- o21: σου; = G4771 σύ "thou" [P-2GS]
+- o1: שְׁאַל = H7592 שָׁאַל "to inquire; by implication, to request…" [HVqv2ms]
+- o2: מִמֶּ/נִּי = H4480 מִן "properly, a part of…" [HR/Sp1cs]
+- o3: וְ/אֶתְּנָה = Hc "and" + H5414 נָתַן "to give…" [HC/Vqh1cs]
+- o4: גוֹיִם = H1471 גּוֹי "a foreign nation; hence, a Gentile…" [HNcmpa]
+- o5: נַחֲלָתֶ/ךָ = H5159 נַחֲלָה "properly, something inherited…" [HNcfsc/Sp2ms]
+- o6: וַ/אֲחֻזָּתְ/ךָ = Hc "and" + H272 אֲחֻזָּה "something seized…" [HC/Ncfsc/Sp2ms]
+- o7: אַפְסֵי = H657 אֶפֶס "cessation, i.e. an end (especially of the earth)…" [HNcmpc]
+- o8: אָרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsa]
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | خدا |  |  |
-| ✱ | تا |  | [تا کنون] G4218 ποτέ "afore-(any, some-)time(-s)…" |
-| ✱ | کنون |  | [تا کنون] G4218 ποτέ "afore-(any, some-)time(-s)…" |
-|  | به | G4314 | G4314 |
-|  | کدام‌یک | G5101 | G5101 |
-|  | از |  |  |
-|  | فرشتگان | G32 | G32 |
-|  | گفته_است | G2046 | G2046 |
-|  | : |  |  |
-|  | « |  |  |
-| ✱ | به | G4314 πρός "about, according to , against…" | G1537 ἐκ "after, among, are, at…" |
-|  | دست | [دست راست] G1188 | [دست راست] G1188 |
-|  | راست | [دست راست] G1188 | [دست راست] G1188 |
-|  | من | G1473 | G1473 |
-|  | بنشین | G2521 | G2521 |
-| ✱ | تا | G1161 δέ "also, and, but, moreover…" | [تا آن هنگام که] G2193 ἕως "even (until, unto)…"; G302 ἄν "what-, where-, wither-…" |
-| ✱ | آن |  | [تا آن هنگام که] G2193 ἕως "even (until, unto)…"; G302 ἄν "what-, where-, wither-…" |
-| ✱ | هنگام |  | [تا آن هنگام که] G2193 ἕως "even (until, unto)…"; G302 ἄν "what-, where-, wither-…" |
-| ✱ | که | G2193 ἕως "even (until, unto)…"; G302 ἄν "what-, where-, wither-…" | [تا آن هنگام که] G2193 ἕως "even (until, unto)…"; G302 ἄν "what-, where-, wither-…" |
-| ✱ | دشمنانت | G2190 ἐχθρός "enemy, foe" | G2190 ἐχθρός "enemy, foe"; G4771 σύ "thou" |
+| ✱ | از |  | H4480 מִן "properly, a part of…" |
+|  | من |  |  |
+|  | بخواه | H7592 | H7592 |
+|  | ، |  |  |
+| ✱ | که |  | Hc "and" |
+|  | ملتها | H1471 | H1471 |
 |  | را |  |  |
-|  | کرسی | G5286 | G5286 |
-|  | زیر |  |  |
-| ✱ | پایت | G4228 πούς "foot(-stool)" | G4228 πούς "foot(-stool)"; G4771 σύ "thou" |
-| ✱ | سازم |  | G5087 τίθημι "+ advise, appoint, bow…" |
-|  | » |  |  |
-|  | ؟ |  |  |
+|  | میراث | H5159 | H5159 |
+|  | تو |  |  |
+| ✱ | خواهم_گردانید |  | H5414 נָתַן "to give…" |
+|  | و | Hc | Hc |
+|  | کرانهای | H657 | H657 |
+|  | زمین | H776 | H776 |
+|  | را |  |  |
+|  | مُلک | H272 | H272 |
+|  | تو |  |  |
+| ✱ | خواهم_ساخت | H272 אֲחֻזָּה "something seized…" | H5414 נָתַן "to give…" |
+|  | . |  |  |
 
-### Hebrews 1:14: 6 word(s) changed
+### Psalms 2:9: 4 word(s) changed
 
 Reply line 15.
 
-Original: οὐχὶ πάντες εἰσὶν λειτουργικὰ πνεύματα εἰς διακονίαν ἀποστελλόμενα διὰ τοὺς μέλλοντας κληρονομεῖν σωτηρίαν;
+Original: תְּרֹעֵ/ם בְּ/שֵׁבֶט בַּרְזֶל כִּ/כְלִי יוֹצֵר תְּנַפְּצֵ/ם
 
-Persian: مگر آنها جملگی روحهایی خدمتگزار نیستند که برای خدمت به وارثان آیندۀ نجات فرستاده_می‌شوند؟
+Persian: به عصای آهنین ایشان را خواهی_شکست و همچون کوزۀ کوزه‌گر خُردشان خواهی_کرد.
 
 Original words:
-- o1: οὐχὶ = G3780 οὐχί "nay, not" [PRT-I]
-- o2: πάντες = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-NPM]
-- o3: εἰσὶν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3P]
-- o4: λειτουργικὰ = G3010 λειτουργικός "ministering" [A-NPN]
-- o5: πνεύματα = G4151 πνεῦμα "ghost, life, spirit(-ual, -ually), mind" [N-NPN]
-- o6: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
-- o7: διακονίαν = G1248 διακονία "ad-)minister(-ing, -tration, -try), office…" [N-ASF]
-- o8: ἀποστελλόμενα = G649 ἀποστέλλω "put in, send (away, forth, out), set (at liberty)" [V-PPP-NPN]
-- o9: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
-- o10: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
-- o11: μέλλοντας = G3195 μέλλω "about, after that, be (almost), (that which is…" [V-PAP-APM]
-- o12: κληρονομεῖν = G2816 κληρονομέω "be heir, (obtain by) inherit(-ance)" [V-PAN]
-- o13: σωτηρίαν; = G4991 σωτηρία "deliver, health, salvation, save, saving" [N-ASF]
+- o1: תְּרֹעֵ/ם = H7489 רָעַע "properly, to spoil (literally…" [HVqi2ms/Sp3mp]
+- o2: בְּ/שֵׁבֶט = Hb "in" + H7626 שֵׁבֶט "a scion, i.e. (literally) a stick (for punishing…" [HR/Ncmsc]
+- o3: בַּרְזֶל = H1270 בַּרְזֶל "iron (as cutting); by extension, an iron implement" [HNcmsa]
+- o4: כִּ/כְלִי = Hk "like" + H3627 כְּלִי "something prepared…" [HR/Ncmsc]
+- o5: יוֹצֵר = H3335 יָצַר "to mould into a form; especially as apotter…" [HNcmsa]
+- o6: תְּנַפְּצֵ/ם = H5310 נָפַץ "to dash to pieces, or scatter" [HVpi2ms/Sp3mp]
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | مگر | G3780 | G3780 |
-|  | آنها |  |  |
-| ✱ | جملگی | G3956 πᾶς "all (manner of, means)…"; G3010 λειτουργικός "ministering" | G3956 πᾶς "all (manner of, means)…" |
-|  | روحهایی | G4151 | G4151 |
-|  | خدمتگزار | G3010 | G3010 |
-| ✱ | نیستند | G3780 οὐχί "nay, not" | G3780 οὐχί "nay, not"; G1510 εἰμί "am, have been, it is I, was" |
+|  | به | Hb | Hb |
+|  | عصای | H7626 | H7626 |
+|  | آهنین | H1270 | H1270 |
+| ✱ | ایشان | H5310 נָפַץ "to dash to pieces, or scatter" |  |
+|  | را |  |  |
+|  | خواهی_شکست | H7489 | H7489 |
+|  | و |  |  |
+|  | همچون | Hk | Hk |
+| ✱ | کوزۀ | H3627 כְּלִי "something prepared…"; H3335 יָצַר "to mould into a form…" | H3627 כְּלִי "something prepared…" |
+|  | کوزه‌گر | H3335 | H3335 |
+| ✱ | خُردشان | H5310 נָפַץ "to dash to pieces, or scatter" | [خُردشان خواهی_کرد] H5310 נָפַץ "to dash to pieces, or scatter" |
+| ✱ | خواهی_کرد | H3627 כְּלִי "something prepared…" | [خُردشان خواهی_کرد] H5310 נָפַץ "to dash to pieces, or scatter" |
+|  | . |  |  |
+
+### Psalms 2:10: 1 word(s) changed
+
+Reply line 16.
+
+Original: וְ/עַתָּה מְלָכִים הַשְׂכִּילוּ הִוָּסְרוּ שֹׁפְטֵי אָרֶץ
+
+Persian: پس حال خردمند باشید، ای شاهان، و ادب شوید، ای فرمانداران جهان.
+
+Original words:
+- o1: וְ/עַתָּה = Hc "and" + H6258 עַתָּה "at this time, whether adverb…" [HC/D]
+- o2: מְלָכִים = H4428 מֶלֶךְ "a king" [HNcmpa]
+- o3: הַשְׂכִּילוּ = H7919 שָׂכַל "to be (causatively…" [HVhv2mp]
+- o4: הִוָּסְרוּ = H3256 יָסַר "to chastise…" [HVNv2mp]
+- o5: שֹׁפְטֵי = H8199 שָׁפַט "to judge…" [HVqrmpc]
+- o6: אָרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsa]
+
+| | Persian | Now | Proposed |
+| --- | --- | --- | --- |
+|  | پس | Hc | Hc |
+|  | حال | H6258 | H6258 |
+|  | خردمند | [خردمند باشید] H7919 | [خردمند باشید] H7919 |
+|  | باشید | [خردمند باشید] H7919 | [خردمند باشید] H7919 |
+|  | ، |  |  |
+|  | ای |  |  |
+| ✱ | شاهان | H4428 מֶלֶךְ "a king"; H7919 שָׂכַל "to be (causatively…" | H4428 מֶלֶךְ "a king" |
+|  | ، |  |  |
+|  | و |  |  |
+|  | ادب | [ادب شوید] H3256 | [ادب شوید] H3256 |
+|  | شوید | [ادب شوید] H3256 | [ادب شوید] H3256 |
+|  | ، |  |  |
+|  | ای |  |  |
+|  | فرمانداران | H8199 | H8199 |
+|  | جهان | H776 | H776 |
+|  | . |  |  |
+
+### Psalms 2:11: 3 word(s) changed
+
+Reply line 17.
+
+Original: עִבְדוּ אֶת יְהוָה בְּ/יִרְאָה וְ/גִילוּ בִּ/רְעָדָה
+
+Persian: خداوند را با ترس عبادت کنید و با لرز به وجد آیید.
+
+Original words:
+- o1: עִבְדוּ = H5647 עָבַד "to work (in any sense)…" [HVqv2mp]
+- o2: אֶת = H853 אֵת "properly…" [HTo]
+- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
+- o4: בְּ/יִרְאָה = Hb "in" + H3374 יִרְאָה "fear (also used as infinitive); morally, reverence" [HR/Ncfsa]
+- o5: וְ/גִילוּ = Hc "and" + H1523 גִּיל "properly…" [HC/Vqv2mp]
+- o6: בִּ/רְעָדָה = Hb "in" + H7461 רַעַד "a shudder" [HR/Ncfsa]
+
+| | Persian | Now | Proposed |
+| --- | --- | --- | --- |
+|  | خداوند | H3068 | H3068 |
+|  | را | H853 | H853 |
+|  | با | Hb | Hb |
+|  | ترس | H3374 | H3374 |
+|  | عبادت | [عبادت کنید] H5647 | [عبادت کنید] H5647 |
+|  | کنید | [عبادت کنید] H5647 | [عبادت کنید] H5647 |
+|  | و | Hc | Hc |
+|  | با | Hb | Hb |
+|  | لرز | H7461 | H7461 |
+| ✱ | به |  | [به وجد آیید] H1523 גִּיל "properly…" |
+| ✱ | وجد | [وجد آیید] H1523 גִּיל "properly…" | [به وجد آیید] H1523 גִּיל "properly…" |
+| ✱ | آیید | [وجد آیید] H1523 גִּיל "properly…" | [به وجد آیید] H1523 גִּיל "properly…" |
+|  | . |  |  |
+
+### Psalms 2:12: 12 word(s) changed
+
+Reply line 18.
+
+Original: נַשְּׁקוּ בַר פֶּן יֶאֱנַף וְ/תֹאבְדוּ דֶרֶךְ כִּי יִבְעַר כִּ/מְעַט אַפּ/וֹ אַשְׁרֵי כָּל חוֹסֵי ב/וֹ
+
+Persian: پسر را ببوسید، مبادا به خشم آید، و در راه هلاک شوید، زیرا خشم او به دمی افروخته می‌شود. خوشا به حال همۀ آنان که به او پناه می‌برند.
+
+Original words:
+- o1: נַשְּׁקוּ = H5401 נָשַׁק "to kiss, literally or figuratively (touch)…" [HVpv2mp]
+- o2: בַר = H1248 בַּר "the heir (apparent to the throne)" [HNcmsa]
+- o3: פֶּן = H6435 פֵּן "properly, removal…" [HC]
+- o4: יֶאֱנַף = H599 אָנַף "to breathe hard, i.e. be enraged" [HVqi3ms]
+- o5: וְ/תֹאבְדוּ = Hc "and" + H6 אָבַד "properly, to wander away, i.e. lose oneself…" [HC/Vqi2mp]
+- o6: דֶרֶךְ = H1870 דֶּרֶךְ "a road (as trodden)…" [HNcbsa]
+- o7: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o8: יִבְעַר = H1197 בָּעַר "to kindle, i.e. consume (by fire or by eating)…" [HVqi3ms]
+- o9: כִּ/מְעַט = Hk "like" + H4592 מְעַט "a little or few (often adverbial or compar.)" [HR/Ncmsa]
+- o10: אַפּ/וֹ = H639 אַף "properly, the nose or nostril…" [HNcmsc/Sp3ms]
+- o11: אַשְׁרֵי = H835 אֶשֶׁר "happiness…" [HNcmpa]
+- o12: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o13: חוֹסֵי = H2620 חָסָה "to flee for protection…" [HVqrmpc]
+- o14: ב/וֹ = Hb "in" [HR/Sp3ms]
+
+| | Persian | Now | Proposed |
+| --- | --- | --- | --- |
+|  | پسر | H1248 | H1248 |
+|  | را |  |  |
+|  | ببوسید | H5401 | H5401 |
+|  | ، |  |  |
+|  | مبادا | H6435 | H6435 |
+| ✱ | به |  | [به خشم آید] H599 אָנַף "to breathe hard…" |
+| ✱ | خشم | [خشم آید] H599 אָנַף "to breathe hard…" | [به خشم آید] H599 אָנַף "to breathe hard…" |
+| ✱ | آید | [خشم آید] H599 אָנַף "to breathe hard…" | [به خشم آید] H599 אָנַף "to breathe hard…" |
+|  | ، |  |  |
+|  | و | Hc | Hc |
+|  | در |  |  |
+|  | راه | H1870 | H1870 |
+|  | هلاک | [هلاک شوید] H6 | [هلاک شوید] H6 |
+|  | شوید | [هلاک شوید] H6 | [هلاک شوید] H6 |
+|  | ، |  |  |
+|  | زیرا | H3588 | H3588 |
+|  | خشم | H639 | H639 |
+|  | او |  |  |
+| ✱ | به |  | [به دمی] Hk "like"; H4592 מְעַט "a little or few (often…" |
+| ✱ | دمی |  | [به دمی] Hk "like"; H4592 מְעַט "a little or few (often…" |
+| ✱ | افروخته | H1197 בָּעַר "to kindle…"; H4592 מְעַט "a little or few (often…" | [افروخته می‌شود] H1197 בָּעַר "to kindle…" |
+| ✱ | می‌شود |  | [افروخته می‌شود] H1197 בָּעַר "to kindle…" |
+|  | . |  |  |
+|  | خوشا | H835 | H835 |
+|  | به |  |  |
+|  | حال |  |  |
+| ✱ | همۀ | [همۀ آنان] H3605 כֹּל "properly, the whole…" | H3605 כֹּל "properly, the whole…" |
+| ✱ | آنان | [همۀ آنان] H3605 כֹּל "properly, the whole…" |  |
 |  | که |  |  |
-| ✱ | برای | G1519 εἰς "abundant-)ly, against, among…"; G1223 διά "after, always, among, at…" | G1519 εἰς "abundant-)ly, against, among…" |
-|  | خدمت | G1248 | G1248 |
-| ✱ | به |  | G1223 διά "after, always, among, at…" |
-| ✱ | وارثان |  | G2816 κληρονομέω "be heir…" |
-|  | آیندۀ | G3195 | G3195 |
-|  | نجات | G4991 | G4991 |
-| ✱ | فرستاده_می‌شوند | G649 ἀποστέλλω "put in, send (away, forth…"; G2816 κληρονομέω "be heir…" | G649 ἀποστέλλω "put in, send (away, forth…" |
-|  | ؟ |  |  |
+| ✱ | به |  | Hb "in" |
+|  | او |  |  |
+| ✱ | پناه | H2620 חָסָה "to flee for protection…" | [پناه می‌برند] H2620 חָסָה "to flee for protection…" |
+| ✱ | می‌برند |  | [پناه می‌برند] H2620 חָסָה "to flee for protection…" |
+|  | . |  |  |
