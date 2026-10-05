@@ -158,7 +158,7 @@ Persian entries and current tags:
 - p19: چنین  → H3541
 - p20: می‌فرماید  → H559
 - p21: :
-- p22: ای  → H408
+- p22: ای
 - p23: خادم  → H5650
 - p24: من
 - p25: یعقوب  → H3290
@@ -203,7 +203,7 @@ Persian entries and current tags:
 - p4: زمین
 - p5: تشنه  → H6771
 - p6: آب  → H4325
-- p7: خواهم_ریخت  → H3332
+- p7: خواهم_ریخت
 - p8: ،
 - p9: و  → Hc
 - p10: بر  → H5921
@@ -219,7 +219,7 @@ Persian entries and current tags:
 - p20: نسل  → H2233
 - p21: تو
 - p22: فرو~خواهم
-- p23: ریخت  → H3332
+- p23: ریخت
 - p24: ،
 - p25: و  → Hc
 - p26: برکت  → H1293
@@ -246,7 +246,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: آنان
-- p2: در  → H6779
+- p2: در  → H6779 Hb
 - p3: میان  → H996
 - p4: نیزار  → H2682
 - p5: خواهند_رویید  → H6779
@@ -348,8 +348,8 @@ Persian entries and current tags:
 - p2: چنین  → H3541
 - p3: می‌فرماید  → H559
 - p4: ،
-- p5: خداوند  → H3068
-- p6: لشکرها  → H6635
+- p5: خداوند
+- p6: لشکرها
 - p7: ،
 - p8: که
 - p9: پادشاه  → H4428
@@ -483,7 +483,7 @@ Persian entries and current tags:
 - p18: اعلام  → H5046
 - p19: نکردم  → H3808
 - p20: ؟
-- p21: شما
+- p21: شما  → H859
 - p22: شاهدان  → H5707
 - p23: من
 - p24: هستید
@@ -495,11 +495,11 @@ Persian entries and current tags:
 - p30: خدایی  → H433
 - p31: هست  → H3426
 - p32: ؟
-- p33: نه  → H369
+- p33: نه
 - p34: ،
 - p35: صخره‌ای  → H6697
 - p36: دیگر  → H369
-- p37: نیست
+- p37: نیست  → H1077
 - p38: و  → Hc
 - p39: احدی
 - p40: را
@@ -547,7 +547,7 @@ Persian entries and current tags:
 - p15: .
 - p16: شاهدان  → H5707
 - p17: ایشان  → H1992
-- p18: نمی‌بینند  → H1077 H7200
+- p18: نمی‌بینند  → H7200 H1077
 - p19: و  → Hc
 - p20: نمی‌دانند  → H3045
 - p21: ،
@@ -661,7 +661,7 @@ Original words:
 - o18: וַ/יִּיעָף = Hc "and" + H3286 יָעַף "to tire (as if from wearisome flight)" [HC/Vqw3ms]
 
 Persian entries and current tags:
-- p1: آهنگر  → H2796 H1270
+- p1: آهنگر  → H2796
 - p2: با
 - p3: تیشه  → H4621
 - p4: بر  → H6466
@@ -671,7 +671,7 @@ Persian entries and current tags:
 - p8: .
 - p9: او
 - p10: با  → Hb
-- p11: چکش
+- p11: چکش  → H4717
 - p12: به
 - p13: بتی  → H4717
 - p14: شکل می‌دهد  → H3335
@@ -745,7 +745,7 @@ Persian entries and current tags:
 - p17: صاف
 - p18: می‌کند
 - p19: و  → Hc
-- p20: با
+- p20: با  → Hb
 - p21: پرگار  → H4230
 - p22: بر
 - p23: آن
@@ -792,7 +792,7 @@ Original words:
 Persian entries and current tags:
 - p1: او
 - p2: سروهای  → H730
-- p3: آزاد  → H3772
+- p3: آزاد  → H3772 H730
 - p4: می‌بُرد
 - p5: ،
 - p6: و  → Hc
@@ -809,18 +809,20 @@ Persian entries and current tags:
 - p17: تا
 - p18: در
 - p19: جنگل  → H6086 H3293
-- p20: نمو کند  → H5193
-- p21: ؛
-- p22: و
-- p23: یا
-- p24: درخت  → H8645 H6086
-- p25: کاجی می‌نشاند  → H766
-- p26: و  → Hc
-- p27: باران  → H1653
-- p28: آن
-- p29: را
-- p30: نمو می‌دهد  → H1431
-- p31: .
+- p20: نمو  → H5193
+- p21: کند  → H553
+- p22: ؛
+- p23: و
+- p24: یا
+- p25: درخت  → H8645 H6086
+- p26: کاجی می‌نشاند  → H766
+- p27: و  → Hc
+- p28: باران  → H1653
+- p29: آن
+- p30: را
+- p31: نمو
+- p32: می‌دهد  → H1431
+- p33: .
 
 ## Neighbouring verses (context only, not for review)
 

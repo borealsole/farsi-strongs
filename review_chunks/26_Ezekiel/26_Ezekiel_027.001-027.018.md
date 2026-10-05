@@ -96,12 +96,13 @@ Original words:
 Persian entries and current tags:
 - p1: کلام  → H1697
 - p2: خداوند  → H3068
-- p3: بر
+- p3: بر  → H413
 - p4: من
-- p5: نازل شده  → H1961
-- p6: ،
-- p7: گفت  → H559
-- p8: :
+- p5: نازل
+- p6: شده
+- p7: ،
+- p8: گفت  → H559
+- p9: :
 
 ### Ezekiel 27:2
 
@@ -164,7 +165,7 @@ Persian entries and current tags:
 - p2: به
 - p3: صور  → H6865
 - p4: که
-- p5: نزد
+- p5: نزد  → H5921
 - p6: مدخل  → H3997
 - p7: دریا  → H3220
 - p8: ساکن است  → H3427
@@ -215,7 +216,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: حدودت  → H1366
-- p2: در
+- p2: در  → Hb
 - p3: وسط  → H3820
 - p4: دریاست  → H3220
 - p5: و
@@ -224,7 +225,7 @@ Persian entries and current tags:
 - p8: را
 - p9: به
 - p10: کمال
-- p11: رسانده‌اند
+- p11: رسانده‌اند  → H3634
 - p12: .
 
 ### Ezekiel 27:5
@@ -257,15 +258,16 @@ Persian entries and current tags:
 - p7: ساختند  → H1129
 - p8: ،
 - p9: و
-- p10: سرو آزاد  → H730
-- p11: لبنان  → H3844
-- p12: را  → H853
-- p13: گرفتند  → H3947
-- p14: تا
-- p15: برایت  → H5921
-- p16: دَکَلها  → H8650
-- p17: بسازند  → H6213
-- p18: .
+- p10: سرو
+- p11: آزاد  → H730
+- p12: لبنان  → H3844
+- p13: را  → H853
+- p14: گرفتند  → H3947
+- p15: تا
+- p16: برایت  → H5921
+- p17: دَکَلها  → H8650
+- p18: بسازند  → H6213
+- p19: .
 
 ### Ezekiel 27:6
 
@@ -286,7 +288,7 @@ Original words:
 - o11: כתים = H3794 כִּתִּי "a Kittite or Cypriote…" [HNgmpa]
 
 Persian entries and current tags:
-- p1: پاروهایت  → H1316
+- p1: پاروهایت
 - p2: را
 - p3: از  → Hm
 - p4: بلوطهای  → H437
@@ -329,7 +331,7 @@ Persian entries and current tags:
 - p2: نفیسِ  → H7553
 - p3: گلدوزی‌شدۀ
 - p4: مصری  → H8336 H4714
-- p5: بادبانت
+- p5: بادبانت  → H4666
 - p6: بود
 - p7: تا
 - p8: تو
@@ -381,7 +383,7 @@ Persian entries and current tags:
 - p11: صور  → H6865
 - p12: ،
 - p13: ناخدایان  → H2450
-- p14: در
+- p14: در  → Hb
 - p15: میانت
 - p16: .
 
@@ -412,7 +414,7 @@ Persian entries and current tags:
 - p2: جِبال  → H1380
 - p3: و  → Hc
 - p4: استادکارانش  → H2450
-- p5: در
+- p5: در  → Hb
 - p6: میان
 - p7: تو
 - p8: بوده
@@ -426,7 +428,7 @@ Persian entries and current tags:
 - p16: دریا  → H3220
 - p17: با
 - p18: ملوانانش  → H4419
-- p19: در
+- p19: در  → Hb
 - p20: تو
 - p21: بودند
 - p22: تا
@@ -463,7 +465,7 @@ Persian entries and current tags:
 - p4: لود  → H3865
 - p5: و  → Hc
 - p6: فوط  → H6316
-- p7: در
+- p7: در  → Hb
 - p8: لشکرت  → H2428
 - p9: جنگاوران  → H4421
 - p10: تو
@@ -564,7 +566,7 @@ Persian entries and current tags:
 - p2: سبب
 - p3: فراوانی  → H7230 H1952
 - p4: دولت  → H5503 H1952
-- p5: عظیمت  → H7230
+- p5: عظیمت
 - p6: ،
 - p7: تَرشیش  → H8659
 - p8: با
@@ -619,7 +621,7 @@ Persian entries and current tags:
 - p11: ستد داشتند  → H7402
 - p12: ،
 - p13: و
-- p14: نفوس  → H5315
+- p14: نفوس
 - p15: آدمیان  → H5315 H120
 - p16: و  → Hc
 - p17: ظروف  → H3627
@@ -646,7 +648,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: مردمان
-- p2: بِت‌توجَرمَه  → H1004 H8425
+- p2: بِت‌توجَرمَه  → H8425
 - p3: اسبان  → H5483
 - p4: معمولی
 - p5: و  → Hc
@@ -680,7 +682,7 @@ Original words:
 - o12: אֶשְׁכָּרֵ/ךְ = H814 אֶשְׁכָּר "a gratuity" [HNcmsc/Sp2fs]
 
 Persian entries and current tags:
-- p1: بنی‌دِدان  → H1121 H1719
+- p1: بنی‌دِدان  → H1719
 - p2: نیز
 - p3: با
 - p4: تو
@@ -729,7 +731,7 @@ Persian entries and current tags:
 - p3: سبب
 - p4: فراوانی  → H7230
 - p5: کالاهایت  → H4639
-- p6: با  → Hb
+- p6: با
 - p7: تو
 - p8: داد
 - p9: و
@@ -739,22 +741,23 @@ Persian entries and current tags:
 - p13: و
 - p14: ارغوان  → H713
 - p15: و  → Hc
-- p16: پارچه‌های گلدوزی‌شده  → H7553
-- p17: در  → Hb
-- p18: ازای  → H5801
-- p19: متاع
-- p20: تو
-- p21: می‌داد  → H5414
-- p22: ،
-- p23: و  → Hc
-- p24: هم
-- p25: کتان  → H948 H7215
-- p26: نفیس  → H7553
-- p27: و  → Hc
-- p28: مرجان  → H7215
-- p29: و  → Hc
-- p30: لعل  → H3539
-- p31: .
+- p16: پارچه‌های  → H7553
+- p17: گلدوزی‌شده
+- p18: در  → Hb
+- p19: ازای  → H5801
+- p20: متاع
+- p21: تو
+- p22: می‌داد  → H5414
+- p23: ،
+- p24: و  → Hc
+- p25: هم
+- p26: کتان  → H948 H7215
+- p27: نفیس
+- p28: و  → Hc
+- p29: مرجان
+- p30: و  → Hc
+- p31: لعل  → H3539
+- p32: .
 
 ### Ezekiel 27:17
 
@@ -781,7 +784,7 @@ Persian entries and current tags:
 - p2: و  → Hc
 - p3: سرزمین  → H776
 - p4: اسرائیل  → H3478
-- p5: نیز  → H7402
+- p5: نیز
 - p6: با
 - p7: تو
 - p8: داد
@@ -799,9 +802,9 @@ Persian entries and current tags:
 - p20: هم
 - p21: عسل  → H1706
 - p22: و  → Hc
-- p23: روغن  → H8081 H6875
+- p23: روغن  → H8081
 - p24: و  → Hc
-- p25: بَلَسان  → H6875
+- p25: بَلَسان
 - p26: .
 
 ### Ezekiel 27:18
@@ -840,8 +843,9 @@ Persian entries and current tags:
 - p15: ساحار  → H6713
 - p16: با
 - p17: تو
-- p18: مبادله می‌کرد  → H5503
-- p19: .
+- p18: مبادله  → H5503 H2463
+- p19: می‌کرد
+- p20: .
 
 ## Neighbouring verses (context only, not for review)
 

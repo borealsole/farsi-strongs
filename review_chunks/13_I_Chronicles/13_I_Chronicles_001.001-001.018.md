@@ -92,7 +92,7 @@ Original words:
 - o3: אֱנוֹשׁ = H583 אֱנוֹשׁ "Enosh, a son of Seth" [HNp]
 
 Persian entries and current tags:
-- p1: آدم  → H121 H8352
+- p1: آدم  → H121
 - p2: ،
 - p3: شِیث
 - p4: ،
@@ -406,7 +406,7 @@ Persian entries and current tags:
 - p9: فلسطینیان  → H6430
 - p10: از  → Hm
 - p11: ایشان
-- p12: پدید
+- p12: پدید  → H3695
 - p13: آمدند  → H3318
 - p14: )
 - p15: ،
@@ -544,7 +544,7 @@ Persian entries and current tags:
 - p15: پسران  → H1121
 - p16: اَرام  → H758
 - p17: ،
-- p18: عوص  → H5780 H2343
+- p18: عوص  → H2343
 - p19: ،
 - p20: حول  → H5780
 - p21: ،

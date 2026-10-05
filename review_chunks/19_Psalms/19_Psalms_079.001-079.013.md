@@ -121,9 +121,8 @@ Persian entries and current tags:
 - p16: را  → H853
 - p17: به  → H935 Hl
 - p18: ویرانه‌ای  → H5159 H5856
-- p19: بدل  → H7760 H5856
-- p20: کرده‌اند
-- p21: .
+- p19: بدل کرده‌اند  → H7760
+- p20: .
 
 ### Psalms 79:2
 
@@ -157,7 +156,7 @@ Persian entries and current tags:
 - p11: تن
 - p12: سرسپردگانت
 - p13: را  → H853
-- p14: طعمۀ  → H3978
+- p14: طعمۀ
 - p15: وحوش  → H2416
 - p16: زمین  → H776
 - p17: گردانیده‌اند
@@ -213,7 +212,7 @@ Persian entries and current tags:
 - p3: رسوا  → H2781 H3933
 - p4: شده‌ایم
 - p5: ،
-- p6: و  → Hc
+- p6: و
 - p7: مایۀ
 - p8: تمسخر  → H3933
 - p9: و  → Hc
@@ -245,16 +244,16 @@ Persian entries and current tags:
 - p5: ؟
 - p6: آیا
 - p7: تا
-- p8: به  → H4100 Hl
+- p8: به  → H4100
 - p9: ابد  → H5331
 - p10: خشمگین  → H599 H7068
-- p11: خواهی_بود
+- p11: خواهی_بود  → H5331
 - p12: ؟
 - p13: تا
 - p14: به  → H4100
 - p15: کی
 - p16: غیرتت  → H7068
-- p17: چون  → H3644
+- p17: چون
 - p18: آتش  → H784
 - p19: خواهد_سوزانید  → H1197
 - p20: ؟
@@ -283,16 +282,16 @@ Persian entries and current tags:
 - p1: غضب  → H8210 H2534
 - p2: خود
 - p3: را
-- p4: بر
+- p4: بر  → H413
 - p5: قومهایی  → H1471
 - p6: بریز  → H8210
 - p7: که  → H834
 - p8: تو
 - p9: را
-- p10: نمی‌شناسند  → H3045 H3808
+- p10: نمی‌شناسند  → H3808 H3045
 - p11: ،
 - p12: و  → Hc
-- p13: بر
+- p13: بر  → H5921
 - p14: ممالکی  → H4467
 - p15: که  → H834
 - p16: نام  → H8034
@@ -324,7 +323,7 @@ Persian entries and current tags:
 - p6: منزلگاه  → H5116
 - p7: او
 - p8: را  → H853
-- p9: ویران کرده‌اند  → H398 H8074
+- p9: ویران کرده‌اند  → H8074
 - p10: .
 
 ### Psalms 79:8
@@ -389,7 +388,7 @@ Original words:
 - o13: שְׁמֶ/ךָ = H8034 שֵׁם "an appellation…" [HNcmsc/Sp2ms]
 
 Persian entries and current tags:
-- p1: ای
+- p1: ای  → H5826
 - p2: خدای  → H430
 - p3: نجات  → H3468
 - p4: ما
@@ -410,8 +409,9 @@ Persian entries and current tags:
 - p19: و  → Hc
 - p20: گناهانمان  → H2403
 - p21: را
-- p22: کفاره فرما  → H3722
-- p23: !
+- p22: کفاره
+- p23: فرما  → H3722
+- p24: !
 
 ### Psalms 79:10
 
@@ -486,7 +486,7 @@ Persian entries and current tags:
 - p8: بر
 - p9: حسب  → Hk
 - p10: عظمت  → H1433 H2220
-- p11: بازوی  → H2220 H1121
+- p11: بازوی  → H1121
 - p12: خویش
 - p13: جان
 - p14: محکومانِ  → H1121
@@ -513,7 +513,7 @@ Original words:
 - o9: אֲדֹנָ/י = H136 אֲדֹנָי "the Lord (used as a proper name of God only)" [HNcmpc/Sp1cs]
 
 Persian entries and current tags:
-- p1: دامن  → H7725
+- p1: دامن  → H7725 H2436
 - p2: همسایگان  → H7934
 - p3: ما
 - p4: را
@@ -569,7 +569,7 @@ Persian entries and current tags:
 - p14: ،
 - p15: و  → Hc
 - p16: نسل  → H1755
-- p17: اندر
+- p17: اندر  → Hl H1755
 - p18: نسل  → H1755
 - p19: ستایش
 - p20: تو

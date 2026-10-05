@@ -104,7 +104,7 @@ Persian entries and current tags:
 - p5: مبر  → H408
 - p6: ،
 - p7: و  → Hc H408
-- p8: مشتاق  → H7065 H183
+- p8: مشتاق  → H183
 - p9: همنشینی
 - p10: با  → H854
 - p11: آنها
@@ -211,7 +211,7 @@ Original words:
 - o7: כֹּחַ = H3581 כֹּחַ "vigor, literally (force…" [HNcmsa]
 
 Persian entries and current tags:
-- p1: مرد
+- p1: مرد  → H1397
 - p2: حکیم  → H2450
 - p3: را
 - p4: نیرویی  → H5797
@@ -246,12 +246,12 @@ Persian entries and current tags:
 - p2: تدبیرهای  → H8458
 - p3: نیکو
 - p4: می‌توان
-- p5: به
+- p5: به  → Hl
 - p6: جنگ  → H4421
-- p7: رفت
+- p7: رفت  → H6213
 - p8: ،
 - p9: و  → Hc
-- p10: با  → Hb
+- p10: با
 - p11: مشاوران  → H3289
 - p12: بسیار  → H7230
 - p13: می‌توان
@@ -275,12 +275,12 @@ Original words:
 
 Persian entries and current tags:
 - p1: دست  → H2454
-- p2: نادان  → H7311 H191
+- p2: نادان  → H191
 - p3: به
 - p4: حکمت  → H2454
 - p5: نمی‌رسد  → H3808
 - p6: ؛
-- p7: در
+- p7: در  → Hb
 - p8: مجلس  → H8179
 - p9: بزرگان
 - p10: ،
@@ -332,7 +332,7 @@ Original words:
 Persian entries and current tags:
 - p1: تدبیر  → H2154
 - p2: جاهلانه  → H200
-- p3: گناه  → H200 H2403
+- p3: گناه  → H2403
 - p4: است
 - p5: ،
 - p6: مردمان  → H120
@@ -496,8 +496,8 @@ Persian entries and current tags:
 - p7: ؛
 - p8: عسل  → H1706 H5317
 - p9: از
-- p10: شانه  → H5317
-- p11: به
+- p10: شانه
+- p11: به  → H5921
 - p12: کامت  → H2441
 - p13: شیرین  → H4966
 - p14: خواهد_بود
@@ -522,31 +522,30 @@ Original words:
 - o11: תִכָּרֵת = H3772 כָּרַת "to cut (off, down or asunder)…" [HVNi3fs]
 
 Persian entries and current tags:
-- p1: و
-- p2: بدان  → H3045
-- p3: که  → H3651
-- p4: حکمت  → H2451
-- p5: نیز
-- p6: از
-- p7: بهر
-- p8: جان  → H5315
-- p9: تو
-- p10: چنین
-- p11: است
-- p12: ؛
-- p13: اگر  → H518
-- p14: آن
-- p15: را
-- p16: بیابی  → H4672
-- p17: ،
-- p18: آینده‌ای  → H3426 H319
-- p19: روشن
-- p20: خواهی_داشت
-- p21: و  → H3045 Hc
-- p22: امیدت  → H8615
-- p23: زایل  → H3772
-- p24: نخواهد_شد  → H3808
-- p25: .
+- p1: و بدان  → H3045
+- p2: که  → H3651
+- p3: حکمت  → H2451
+- p4: نیز
+- p5: از
+- p6: بهر
+- p7: جان  → H5315
+- p8: تو
+- p9: چنین
+- p10: است
+- p11: ؛
+- p12: اگر  → H518
+- p13: آن
+- p14: را
+- p15: بیابی  → H4672
+- p16: ،
+- p17: آینده‌ای  → H3426 H319
+- p18: روشن
+- p19: خواهی_داشت
+- p20: و  → H3045 Hc
+- p21: امیدت  → H8615
+- p22: زایل  → H3772
+- p23: نخواهد_شد  → H3808 H3772
+- p24: .
 
 ### Proverbs 24:15
 
@@ -564,7 +563,7 @@ Original words:
 - o8: רִבְצ/וֹ = H7258 רֵבֶץ "a couch or place of repose" [HNcmsc/Sp3ms]
 
 Persian entries and current tags:
-- p1: ای  → H408 H693
+- p1: ای  → H693
 - p2: شریر  → H7563
 - p3: ،
 - p4: در  → Hl
@@ -607,9 +606,9 @@ Persian entries and current tags:
 - p7: نیز  → H6965
 - p8: بیفتد  → H5307
 - p9: ،
-- p10: باز  → H6965
+- p10: باز
 - p11: بر
-- p12: خواهد_خاست
+- p12: خواهد_خاست  → H6965
 - p13: ؛
 - p14: اما  → Hc
 - p15: شریران  → H7451
@@ -634,7 +633,7 @@ Original words:
 - o8: לִבֶּ/ךָ = H3820 לֵב "the heart…" [HNcmsc/Sp2ms]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hb
 - p2: فرو~افتادن
 - p3: دشمنت  → H341
 - p4: شادمان  → H8055

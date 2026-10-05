@@ -1,6 +1,6 @@
 # Check of 20_Proverbs_001.001-001.016.md
 
-Generated 2026-10-04 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
 ## 13 verse(s) with changes
 
@@ -68,7 +68,7 @@ Original words:
 |  | انصاف | H4339 | H4339 |
 |  | ؛ |  |  |
 
-### Proverbs 1:5: 4 word(s) changed
+### Proverbs 1:5: 2 word(s) changed
 
 Reply line 4.
 
@@ -92,11 +92,11 @@ Original words:
 |  | بشنوند | H8085 | H8085 |
 |  | و | Hc | Hc |
 |  | بر |  |  |
-| ✱ | آموخته‌هایشان | [آموخته‌هایشان بیفزایند] H3948 לֶקַח "properly, something received…" | H3948 לֶקַח "properly, something received…" |
-| ✱ | بیفزایند | [آموخته‌هایشان بیفزایند] H3948 לֶקַח "properly, something received…" | H3254 יָסַף "to add or augment (often…" |
+|  | آموخته‌هایشان | H3948 | H3948 |
+| ✱ | بیفزایند |  | H3254 יָסַף "to add or augment (often…" |
 |  | و | Hc | Hc |
 |  | فهیمان | H995 | H995 |
-| ✱ | هدایت | H8458 תַּחְבֻּלָה "only in plural) properly…"; H7069 קָנָה "to erect, i.e. create…" | H8458 תַּחְבֻּלָה "only in plural) properly…" |
+|  | هدایت | H8458 | H8458 |
 | ✱ | یابند |  | H7069 קָנָה "to erect, i.e. create…" |
 |  | - |  |  |
 
@@ -231,7 +231,7 @@ Original words:
 | ✱ | مده |  | [تن دَر مده] H408 אַל "not (the qualified negation…"; H14 אָבָה "to breathe after…" |
 |  | . |  |  |
 
-### Proverbs 1:11: 5 word(s) changed
+### Proverbs 1:11: 6 word(s) changed
 
 Reply line 9.
 
@@ -268,11 +268,11 @@ Original words:
 |  | در |  |  |
 | ✱ | نهان | H5355 נָקִי "innocent" | H6845 צָפַן "to hide (by covering over)…" |
 | ✱ | منتظر |  | H6845 צָפַן "to hide (by covering over)…" |
-|  | بی‌گناهان | H5355 | H5355 |
+| ✱ | بی‌گناهان | H6845 צָפַן "to hide (by covering over)…"; H5355 נָקִי "innocent" | H5355 נָקִי "innocent" |
 | ✱ | بمانیم | H2600 חִנָּם "gratis, i.e. devoid of cost…" | H6845 צָפַן "to hide (by covering over)…" |
 |  | ؛ |  |  |
 
-### Proverbs 1:12: 1 word(s) changed
+### Proverbs 1:12: 2 word(s) changed
 
 Reply line 10.
 
@@ -291,7 +291,7 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | تا |  |  |
-|  | آنان |  |  |
+| ✱ | آنان | H1104 בָּלַע "to make away with…" |  |
 |  | را |  |  |
 |  | چون | Hk | Hk |
 |  | گور | H7585 | H7585 |
@@ -309,7 +309,7 @@ Original words:
 |  | فرو~افتند | H3381 | H3381 |
 |  | ؛ |  |  |
 
-### Proverbs 1:13: 6 word(s) changed
+### Proverbs 1:13: 5 word(s) changed
 
 Reply line 11.
 
@@ -329,8 +329,8 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | همه | H3605 | H3605 |
-| ✱ | گونه | H3368 יָקָר "valuable (objectively or…" |  |
-| ✱ | نفایس |  | H1952 הוֹן "wealth; by implication, enough"; H3368 יָקָר "valuable (objectively or…" |
+|  | گونه |  |  |
+| ✱ | نفایس | H3368 יָקָר "valuable (objectively or…" | H1952 הוֹן "wealth; by implication, enough"; H3368 יָקָר "valuable (objectively or…" |
 | ✱ | به |  | [به چنگ خواهیم_آورد] H4672 מָצָא "properly, to come forth to…" |
 | ✱ | چنگ | H7998 שָׁלָל "booty" | [به چنگ خواهیم_آورد] H4672 מָצָא "properly, to come forth to…" |
 | ✱ | خواهیم_آورد | H4672 מָצָא "properly, to come forth to…" | [به چنگ خواهیم_آورد] H4672 מָצָא "properly, to come forth to…" |
@@ -364,7 +364,7 @@ Original words:
 | --- | --- | --- | --- |
 | ✱ | قرعۀ | H5307 נָפַל "to fall…" | H1486 גּוֹרָל "properly, a pebble…" |
 |  | خود |  |  |
-| ✱ | با |  | Hb "in"; H8432 תָּוֶךְ "a bisection…" |
+| ✱ | با | H8432 תָּוֶךְ "a bisection…" | Hb "in"; H8432 תָּוֶךְ "a bisection…" |
 |  | ما |  |  |
 | ✱ | بیَفکن |  | H5307 נָפַל "to fall…" |
 |  | و |  |  |
@@ -399,7 +399,7 @@ Original words:
 |  | ، |  |  |
 | ✱ | با |  | H854 אֵת "properly…" |
 |  | آنان |  |  |
-| ✱ | همراه | H3212 יָלַךְ "to walk (literally or…"; H854 אֵת "properly…" | [همراه مشو] H408 אַל "not (the qualified negation…"; H3212 יָלַךְ "to walk (literally or…" |
+| ✱ | همراه | H3212 יָלַךְ "to walk (literally or…" | [همراه مشو] H408 אַל "not (the qualified negation…"; H3212 יָלַךְ "to walk (literally or…" |
 | ✱ | مشو | H408 אַל "not (the qualified negation…" | [همراه مشو] H408 אַל "not (the qualified negation…"; H3212 יָלַךְ "to walk (literally or…" |
 |  | و |  |  |
 | ✱ | در | Hb "in" | Hm "from" |
@@ -430,9 +430,9 @@ Original words:
 | --- | --- | --- | --- |
 |  | زیرا | H3588 | H3588 |
 |  | پاهایشان | H7272 | H7272 |
-|  | به | Hl | Hl |
+| ✱ | به |  | Hl "to" |
 |  | سوی |  |  |
-| ✱ | شرارت | H7451 רַע "bad or (as noun) evil…"; H4116 מָהַר "properly…" | H7451 רַע "bad or (as noun) evil…" |
+|  | شرارت | H7451 | H7451 |
 |  | دوان | [دوان است] H7323 | [دوان است] H7323 |
 |  | است | [دوان است] H7323 | [دوان است] H7323 |
 |  | ، |  |  |

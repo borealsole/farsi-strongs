@@ -50,7 +50,7 @@ Original words:
 |  | و | G2532 | G2532 |
 |  | فرزندانش | G5043 G846 | G5043 G846 |
 |  | که | G3739 | G3739 |
-| ✱ | ایشان | G846 αὐτός "her, it(-self), one…" | G3739 ὅς "one, (an-, the) other, some…" |
+| ✱ | ایشان |  | G3739 ὅς "one, (an-, the) other, some…" |
 |  | را |  |  |
 |  | در | G1722 | G1722 |
 |  | ’حقیقت‘ | G225 | G225 |
@@ -71,7 +71,7 @@ Original words:
 |  | شناخته‌اند | G1097 | G1097 |
 |  | - |  |  |
 
-### II John 1:2: 1 word(s) changed
+### II John 1:2: 2 word(s) changed
 
 Reply line 3.
 
@@ -107,7 +107,7 @@ Original words:
 |  | ساکن | [ساکن است] G3306 | [ساکن است] G3306 |
 |  | است | [ساکن است] G3306 | [ساکن است] G3306 |
 |  | و | G2532 | G2532 |
-|  | تا | G1519 | G1519 |
+| ✱ | تا | G1519 εἰς "abundant-)ly, against, among…"; G165 αἰών "age, course, eternal…" | G1519 εἰς "abundant-)ly, against, among…" |
 |  | ابد | G165 | G165 |
 |  | با | G3326 | G3326 |
 |  | ما | G2249 | G2249 |
@@ -172,10 +172,10 @@ Original words:
 |  | محبت | G26 | G26 |
 |  | با | G3326 | G3326 |
 |  | ما | G2249 | G2249 |
-| ✱ | خواهد_بود | G1510 εἰμί "am, have been, it is I, was"; G3962 πατήρ "father, parent" | G1510 εἰμί "am, have been, it is I, was" |
+| ✱ | خواهد_بود | G3962 πατήρ "father, parent" | G1510 εἰμί "am, have been, it is I, was" |
 |  | . |  |  |
 
-### II John 1:4: 6 word(s) changed
+### II John 1:4: 7 word(s) changed
 
 Reply line 5.
 
@@ -211,7 +211,7 @@ Original words:
 |  | دریافتم | G2147 | G2147 |
 | ✱ | برخی | G1537 ἐκ "after, among, are, at…" | [برخی از] G1537 ἐκ "after, among, are, at…" |
 | ✱ | از |  | [برخی از] G1537 ἐκ "after, among, are, at…" |
-|  | فرزندان | G5043 | G5043 |
+| ✱ | فرزندان | G5043 τέκνον "child, daughter, son"; G4043 περιπατέω "go, be occupied with…" | G5043 τέκνον "child, daughter, son" |
 |  | تو | G4771 | G4771 |
 | ✱ | بنا | G2531 καθώς "according to, (according…" | [بنا بر] G2531 καθώς "according to, (according…" |
 | ✱ | بر |  | [بنا بر] G2531 καθώς "according to, (according…" |
@@ -227,7 +227,7 @@ Original words:
 |  | می‌کنند | [سلوک می‌کنند] G4043 | [سلوک می‌کنند] G4043 |
 |  | . |  |  |
 
-### II John 1:5: 3 word(s) changed
+### II John 1:5: 7 word(s) changed
 
 Reply line 6.
 
@@ -261,13 +261,13 @@ Original words:
 |  | امّا | G2532 | G2532 |
 |  | حال | G3568 | G3568 |
 |  | ، |  |  |
-|  | بانوی | G2959 | G2959 |
-|  | گرامی |  |  |
+| ✱ | بانوی | [بانوی گرامی] G2959 Κυρία "lady" | G2959 Κυρία "lady" |
+| ✱ | گرامی | [بانوی گرامی] G2959 Κυρία "lady" |  |
 |  | ، |  |  |
 |  | از |  |  |
 |  | تو | G4771 | G4771 |
-|  | درخواستی | [درخواستی دارم] G2065 | [درخواستی دارم] G2065 |
-|  | دارم | [درخواستی دارم] G2065 | [درخواستی دارم] G2065 |
+| ✱ | درخواستی | G2065 ἐρωτάω "ask, beseech, desire, intreat…"; G1785 ἐντολή "commandment, precept" | [درخواستی دارم] G2065 ἐρωτάω "ask, beseech, desire, intreat…" |
+| ✱ | دارم | G2065 ἐρωτάω "ask, beseech, desire, intreat…" | [درخواستی دارم] G2065 ἐρωτάω "ask, beseech, desire, intreat…" |
 |  | . |  |  |
 |  | نه | G3756 | G3756 |
 |  | آنکه | G5613 | G5613 |
@@ -291,7 +291,7 @@ Original words:
 |  | کنیم | [محبت کنیم] G25 | [محبت کنیم] G25 |
 |  | . |  |  |
 
-### II John 1:6: 12 word(s) changed
+### II John 1:6: 11 word(s) changed
 
 Reply line 7.
 
@@ -330,7 +330,7 @@ Original words:
 |  | و | G2532 | G2532 |
 |  | محبت | G26 | G26 |
 |  | این | G3778 | G3778 |
-| ✱ | است |  | G1510 εἰμί "am, have been, it is I, was" |
+|  | است | G1510 | G1510 |
 |  | که | G2443 | G2443 |
 | ✱ | بنا | G2596 κατά "about, according as (to)…" | [بنا بر] G2596 κατά "about, according as (to)…" |
 | ✱ | بر |  | [بنا بر] G2596 κατά "about, according as (to)…" |
@@ -341,7 +341,7 @@ Original words:
 |  | . |  |  |
 | ✱ | آری | G1785 ἐντολή "commandment, precept" |  |
 |  | ، |  |  |
-| ✱ | همان‌گونه | G2531 καθώς "according to, (according…" | [همان‌گونه که] G2531 καθώς "according to, (according…" |
+| ✱ | همان‌گونه | G2443 ἵνα "albeit, because…"; G2531 καθώς "according to, (according…" | [همان‌گونه که] G2531 καθώς "according to, (according…" |
 | ✱ | که | G2443 ἵνα "albeit, because…" | [همان‌گونه که] G2531 καθώς "according to, (according…" |
 |  | از | G575 | G575 |
 |  | آغاز | G746 | G746 |
@@ -358,7 +358,7 @@ Original words:
 |  | کنید | [سلوک کنید] G4043 | [سلوک کنید] G4043 |
 |  | . |  |  |
 
-### II John 1:7: 8 word(s) changed
+### II John 1:7: 9 word(s) changed
 
 Reply line 8.
 
@@ -415,7 +415,7 @@ Original words:
 | ✱ | چنین | G3778 οὗτος "he (it was that), hereof, it…" | [چنین کسان] G3778 οὗτος "he (it was that), hereof, it…" |
 | ✱ | کسان |  | [چنین کسان] G3778 οὗτος "he (it was that), hereof, it…" |
 |  | ، |  |  |
-|  | همان |  |  |
+| ✱ | همان | G1510 εἰμί "am, have been, it is I, was" |  |
 |  | فریبکار | G4108 | G4108 |
 |  | و | G2532 | G2532 |
 | ✱ | ضدّمسیح‌اند | G500 ἀντίχριστος "antichrist" | G1510 εἰμί "am, have been, it is I, was"; G500 ἀντίχριστος "antichrist" |
@@ -594,7 +594,7 @@ Original words:
 | ✱ | مگویید |  | G3361 μή "any but (that), forbear…"; G3004 λέγω "ask, bid, boast, call…" |
 |  | ؛ |  |  |
 
-### II John 1:11: 3 word(s) changed
+### II John 1:11: 4 word(s) changed
 
 Reply line 12.
 
@@ -623,7 +623,7 @@ Original words:
 |  | او | G846 | G846 |
 |  | را |  |  |
 |  | خوشامد | G5463 | G5463 |
-|  | گوید | G3004 | G3004 |
+| ✱ | گوید |  | G3004 λέγω "ask, bid, boast, call…" |
 |  | ، |  |  |
 |  | در |  |  |
 |  | اعمال | G2041 | G2041 |

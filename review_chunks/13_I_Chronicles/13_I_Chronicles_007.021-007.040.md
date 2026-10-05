@@ -123,7 +123,7 @@ Persian entries and current tags:
 - p16: مردان  → H376
 - p17: جَت  → H1661
 - p18: که
-- p19: در
+- p19: در  → Hb
 - p20: آن
 - p21: سرزمین  → H776
 - p22: به
@@ -217,8 +217,9 @@ Persian entries and current tags:
 - p21: بر  → Hb
 - p22: خاندان  → H1004
 - p23: او
-- p24: نازل شده_بود  → H1961
-- p25: .
+- p24: نازل
+- p25: شده_بود
+- p26: .
 
 ### I Chronicles 7:24
 
@@ -250,7 +251,7 @@ Persian entries and current tags:
 - p8: بِیت‌حورونِ
 - p9: پایین  → H8481
 - p10: و  → Hc
-- p11: بِیت‌حورونِ  → H1032
+- p11: بِیت‌حورونِ
 - p12: بالا  → H5945
 - p13: و  → Hc
 - p14: نیز
@@ -343,7 +344,7 @@ Persian entries and current tags:
 - p1: پسر  → H1121
 - p2: او
 - p3: ،
-- p4: نون  → H5126
+- p4: نون
 - p5: ،
 - p6: و
 - p7: پسر  → H1121
@@ -379,7 +380,7 @@ Persian entries and current tags:
 - p2: و  → Hc
 - p3: املاک  → H4186
 - p4: ایشان
-- p5: عبارت
+- p5: عبارت  → Hc
 - p6: بود
 - p7: از
 - p8: بِیت‌ئیل  → H1008
@@ -387,7 +388,7 @@ Persian entries and current tags:
 - p10: توابعش  → H1323
 - p11: ،
 - p12: نَعَران  → H5295
-- p13: به
+- p13: به  → Hl
 - p14: طرف
 - p15: شرق  → H4217
 - p16: ،
@@ -404,7 +405,7 @@ Persian entries and current tags:
 - p27: عَیَّه  → H5804
 - p28: و  → Hc
 - p29: توابعش  → H1323
-- p30: به  → Hl
+- p30: به
 - p31: طرف
 - p32: غرب  → H4628
 - p33: ؛
@@ -441,7 +442,7 @@ Persian entries and current tags:
 - p3: در  → H5921
 - p4: امتداد  → H3027
 - p5: مرزهای
-- p6: بنی‌مَنَسی  → H4519 H1052
+- p6: بنی‌مَنَسی  → H4519 H1052 H1121
 - p7: ،
 - p8: بِیت‌شِاَن  → H1052
 - p9: و  → Hc
@@ -461,8 +462,8 @@ Persian entries and current tags:
 - p23: توابعش  → H1323
 - p24: ؛
 - p25: که
-- p26: در
-- p27: اینها
+- p26: در  → Hb
+- p27: اینها  → H428
 - p28: پسران  → H1121
 - p29: یوسف  → H3130
 - p30: پسر  → H1121
@@ -555,7 +556,7 @@ Persian entries and current tags:
 - p4: ،
 - p5: شومیر  → H7763
 - p6: و  → Hc
-- p7: حوتام  → H2369
+- p7: حوتام  → H7774
 - p8: ،
 - p9: و  → Hc
 - p10: خواهرشان  → H269
@@ -638,7 +639,7 @@ Persian entries and current tags:
 - p1: پسران  → H1121
 - p2: برادرِ  → H251
 - p3: او
-- p4: هِلِم  → H1987
+- p4: هِلِم
 - p5: :
 - p6: صُوفَح  → H6690
 - p7: ،
@@ -808,7 +809,7 @@ Persian entries and current tags:
 - p27: نبرد  → H4421
 - p28: بودند
 - p29: ،
-- p30: در  → Hb
+- p30: در
 - p31: نسب‌نامه‌ها ثبت گردیدند  → H3187
 - p32: .
 

@@ -118,7 +118,7 @@ Persian entries and current tags:
 - p12: داده_بود  → H5414
 - p13: .
 - p14: او
-- p15: این
+- p15: این  → H428
 - p16: شانزده  → H8337 H6240
 - p17: را  → H853
 - p18: برای  → Hl
@@ -179,7 +179,7 @@ Persian entries and current tags:
 - p1: و  → Hc
 - p2: برای
 - p3: یوسف  → H3130
-- p4: در
+- p4: در  → Hb
 - p5: سرزمین  → H776
 - p6: مصر  → H4714
 - p7: ،
@@ -228,7 +228,7 @@ Persian entries and current tags:
 - p7: و  → Hc
 - p8: اَشبیل  → H788 H278
 - p9: و  → Hc
-- p10: جیرا  → H278
+- p10: جیرا
 - p11: و  → Hc
 - p12: نَعَمان
 - p13: و
@@ -411,8 +411,8 @@ Persian entries and current tags:
 - p19: از
 - p20: عروسانش  → H802
 - p21: ،
-- p22: شصت  → H8346
-- p23: و  → H8346 Hc
+- p22: شصت  → H8346 H8337
+- p23: و  → H8346 Hc H8337
 - p24: شش  → H8346 H8337
 - p25: تن  → H5315
 - p26: بودند
@@ -444,7 +444,7 @@ Persian entries and current tags:
 - p1: برای
 - p2: یوسف  → H3130
 - p3: نیز
-- p4: دو  → H8147 H5315
+- p4: دو  → H5315 H8147
 - p5: پسر  → H1121
 - p6: در
 - p7: مصر  → H4714
@@ -455,7 +455,7 @@ Persian entries and current tags:
 - p12: خاندان  → H1004
 - p13: یعقوب  → H3290
 - p14: که  → H834
-- p15: به
+- p15: به  → H935
 - p16: مصر  → H4714
 - p17: رفتند  → H935
 - p18: ،
@@ -493,7 +493,7 @@ Persian entries and current tags:
 - p6: پیشاپیش  → H6440
 - p7: خود
 - p8: نزد  → H413
-- p9: یوسف  → H3063 H3130
+- p9: یوسف  → H3130
 - p10: فرستاد  → H7971
 - p11: تا
 - p12: او
@@ -548,19 +548,19 @@ Persian entries and current tags:
 - p12: اسرائیل  → H3478
 - p13: به
 - p14: جوشِن  → H1657
-- p15: رود
+- p15: رود  → H7125
 - p16: .
 - p17: یوسف  → H3130
 - p18: خویشتن
 - p19: را
 - p20: به  → H413
 - p21: او
-- p22: نمود  → H7200
+- p22: نمود
 - p23: و  → Hc
 - p24: بر  → H5921
 - p25: گردنش  → H6677
 - p26: بیاویخت  → H5307
-- p27: و  → Hc
+- p27: و
 - p28: مدتی  → H5750
 - p29: بر  → H5921
 - p30: گردنش  → H6677
@@ -661,7 +661,7 @@ Persian entries and current tags:
 - p21: :
 - p22: ”برادران  → H251
 - p23: و  → Hc
-- p24: اهل
+- p24: اهل  → H1
 - p25: خانۀ  → H1 H1004
 - p26: پدرم  → H1
 - p27: که  → H834
@@ -697,7 +697,7 @@ Original words:
 Persian entries and current tags:
 - p1: آنان
 - p2: شبان  → H7462
-- p3: و
+- p3: و  → Hc
 - p4: دامدارند  → H6629 H4735
 - p5: ،
 - p6: و  → Hc
@@ -796,7 +796,7 @@ Persian entries and current tags:
 - p18: ،
 - p19: “
 - p20: تا
-- p21: در
+- p21: در  → Hb
 - p22: سرزمین  → H776
 - p23: جوشِن  → H1657
 - p24: ساکن شوید  → H3427
@@ -806,10 +806,9 @@ Persian entries and current tags:
 - p28: از
 - p29: همۀ  → H3605
 - p30: شبانان  → H7462 H6629
-- p31: کراهت  → H8441
-- p32: دارند
-- p33: .
-- p34: »
+- p31: کراهت دارند  → H8441
+- p32: .
+- p33: »
 
 ## Neighbouring verses (context only, not for review)
 

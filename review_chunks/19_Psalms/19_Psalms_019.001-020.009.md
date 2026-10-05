@@ -110,7 +110,7 @@ Persian entries and current tags:
 - p8: فَلَک  → H7549
 - p9: از
 - p10: عمل  → H4639
-- p11: دستهایش  → H3027
+- p11: دستهایش  → H4639 H3027
 - p12: سخن  → H5608
 - p13: می‌گوید  → H5046
 - p14: .
@@ -174,7 +174,7 @@ Persian entries and current tags:
 - p8: و  → H369
 - p9: آواز  → H6963
 - p10: آنها
-- p11: شنیده_نمی‌شود  → H1097 H8085
+- p11: شنیده_نمی‌شود  → H8085
 - p12: .
 
 ### Psalms 19:4
@@ -198,7 +198,7 @@ Original words:
 Persian entries and current tags:
 - p1: با
 - p2: این
-- p3: همه  → H3605
+- p3: همه
 - p4: ،
 - p5: آوازشان  → H6957
 - p6: در
@@ -285,7 +285,7 @@ Persian entries and current tags:
 - p8: مدارش  → H8622
 - p9: تا
 - p10: به
-- p11: کران
+- p11: کران  → H7098
 - p12: دیگر
 - p13: ،
 - p14: و  → Hc
@@ -329,7 +329,7 @@ Persian entries and current tags:
 - p13: امین است  → H539
 - p14: ،
 - p15: و
-- p16: ساده‌لوحان  → H2449 H6612
+- p16: ساده‌لوحان  → H6612
 - p17: را
 - p18: حکیم می‌گرداند  → H2449
 - p19: .
@@ -615,7 +615,7 @@ Persian entries and current tags:
 - p4: در  → Hb
 - p5: روز  → H3117
 - p6: تنگی  → H6869
-- p7: مستجاب  → H6030
+- p7: مستجاب
 - p8: فرما‌ید
 - p9: ؛
 - p10: نامِ  → H8034
@@ -674,7 +674,7 @@ Persian entries and current tags:
 - p4: جملگی  → H3605
 - p5: به
 - p6: یاد آورد  → H2142
-- p7: و  → Hc
+- p7: و
 - p8: قربانیهای  → H5930
 - p9: تمام‌سوز  → H3605 H5930
 - p10: تو
@@ -740,7 +740,7 @@ Persian entries and current tags:
 - p9: عَلَم‌های
 - p10: خود
 - p11: را
-- p12: در
+- p12: در  → Hb
 - p13: نام  → H8034
 - p14: خدایمان  → H430 H1713
 - p15: برافرازیم  → H1713
@@ -751,7 +751,7 @@ Persian entries and current tags:
 - p20: تو
 - p21: را
 - p22: به
-- p23: انجام  → H4390
+- p23: انجام
 - p24: رساند
 - p25: !
 
@@ -848,7 +848,7 @@ Original words:
 - o6: וַ/נִּתְעוֹדָד = Hc "and" + H5749 עוּד "to duplicate or repeat…" [HC/Vrw1cp]
 
 Persian entries and current tags:
-- p1: آنها
+- p1: آنها  → H1992
 - p2: خم  → H3766 H5307
 - p3: شده  → H3766
 - p4: ،

@@ -100,9 +100,9 @@ Persian entries and current tags:
 - p6: خداوند
 - p7: به
 - p8: موسی
-- p9: و  → Hc
+- p9: و
 - p10: به
-- p11: اِلعازار
+- p11: اِلعازار  → H4046
 - p12: ،
 - p13: پسر
 - p14: هارونِ
@@ -158,7 +158,7 @@ Persian entries and current tags:
 - p20: بر
 - p21: حسب  → Hl
 - p22: خاندانهایشان  → H1004 H1
-- p23: سرشماری  → H7218
+- p23: سرشماری  → H7218 H1
 - p24: کنید  → H5375
 - p25: .
 - p26: »
@@ -189,20 +189,21 @@ Persian entries and current tags:
 - p5: کاهن  → H3548
 - p6: ایشان
 - p7: را  → H853
-- p8: در
+- p8: در  → Hb
 - p9: همواریهای  → H6160
 - p10: موآب  → H4124
 - p11: ،
-- p12: نزد
-- p13: اردن  → H3383 H3405
+- p12: نزد  → H5921
+- p13: اردن  → H3405
 - p14: ،
 - p15: و
 - p16: مقابل
-- p17: اَریحا  → H499 H3405
-- p18: خطاب کرده  → H1696
-- p19: ،
-- p20: گفتند  → H559
-- p21: :
+- p17: اَریحا  → H499
+- p18: خطاب
+- p19: کرده
+- p20: ،
+- p21: گفتند  → H559
+- p22: :
 
 ### Numbers 26:4
 
@@ -312,7 +313,7 @@ Original words:
 - o6: הַ/כַּרְמִי = Hd "the" + H3757 כַּרְמִי "a Karmite or descendant of Karmi" [HTd/Ngmsa]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: حِصرون  → H2696
 - p3: ،
 - p4: طایفۀ
@@ -352,7 +353,7 @@ Persian entries and current tags:
 - p5: و  → Hc
 - p6: شمارش‌شدگان  → H6485
 - p7: آنان
-- p8: ۴۳۷۳۰  → H7969 H705 H7651
+- p8: ۴۳۷۳۰  → H7969 H705 H7651 H7970
 - p9: تن  → H505
 - p10: بودند
 - p11: .
@@ -427,7 +428,7 @@ Persian entries and current tags:
 - p22: در  → Hb
 - p23: زمرۀ
 - p24: همراهان  → H5712
-- p25: قورَح  → H7141
+- p25: قورَح
 - p26: بر  → H5327
 - p27: ضد  → H5921
 - p28: موسی  → H4872 H175
@@ -488,10 +489,10 @@ Persian entries and current tags:
 - p14: که
 - p15: آن
 - p16: گروه  → H5712
-- p17: مردند  → H4194
+- p17: مردند  → H4194 H398
 - p18: و
 - p19: آتش  → H784
-- p20: دویست  → H2572 H3967
+- p20: دویست  → H2572
 - p21: و  → Hc
 - p22: پنجاه  → H2572 H3967
 - p23: تن  → H376
@@ -522,7 +523,7 @@ Persian entries and current tags:
 - p1: ولی  → Hc
 - p2: پسران  → H1121
 - p3: قورَح  → H7141
-- p4: نمردند
+- p4: نمردند  → H4191
 - p5: .
 
 ### Numbers 26:12
@@ -584,7 +585,7 @@ Original words:
 - o6: הַ/שָּׁאוּלִי = Hd "the" + H7587 שָׁאוּלִי "a Shaulite or descendant of Shaul" [HTd/Ngmsa]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: زِراح  → H2226
 - p3: ،
 - p4: طایفۀ  → H4940
@@ -618,7 +619,7 @@ Persian entries and current tags:
 - p3: شمعونیان  → H8099
 - p4: ،
 - p5: ۲۲۲۰۰  → H8147 H6242 H505
-- p6: تن
+- p6: تن  → H505
 - p7: .
 
 ### Numbers 26:15
@@ -680,13 +681,13 @@ Original words:
 - o6: הָ/עֵרִי = Hd "the" + H6180 עֵרִי "a Erite (collectively) or descendants of Eri" [HTd/Ngmsa]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: اُزنی  → H244
 - p3: ،
 - p4: طایفۀ  → H4940
 - p5: اُزنیان  → H244
 - p6: ؛
-- p7: از
+- p7: از  → Hl
 - p8: عِری  → H6179
 - p9: ،
 - p10: طایفۀ  → H4940
@@ -707,7 +708,7 @@ Original words:
 - o6: הָ/אַרְאֵלִי = Hd "the" + H692 אַרְאֵלִי "Areli (or an Arelite, collectively)…" [HTd/Ngmsa]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: اَرود  → H720
 - p3: ،
 - p4: طایفۀ  → H4940
@@ -779,7 +780,7 @@ Persian entries and current tags:
 - p9: عیر  → H6147
 - p10: و  → Hc
 - p11: اونان  → H209
-- p12: در
+- p12: در  → Hb
 - p13: سرزمین  → H776
 - p14: کنعان  → H3667
 - p15: مردند  → H4191
@@ -809,7 +810,7 @@ Persian entries and current tags:
 - p1: نسل  → H1121
 - p2: یهودا  → H3063
 - p3: بر
-- p4: حسب
+- p4: حسب  → Hl
 - p5: طایفه‌هایشان  → H4940
 - p6: اینان
 - p7: بودند
@@ -896,7 +897,7 @@ Persian entries and current tags:
 - p7: آنان
 - p8: ،
 - p9: ۷۶۵۰۰  → H8337 H7657 H2568
-- p10: تن  → H8337 H505 H3967
+- p10: تن  → H505 H3967
 - p11: .
 
 ## Neighbouring verses (context only, not for review)

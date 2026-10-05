@@ -350,7 +350,7 @@ Persian entries and current tags:
 - p3: پدر  → H3205
 - p4: عَزَریا  → H5838
 - p5: ؛
-- p6: عَزَریا  → H5838 H3547
+- p6: عَزَریا  → H5838
 - p7: در
 - p8: معبدی  → H1004
 - p9: که  → H834
@@ -382,7 +382,7 @@ Persian entries and current tags:
 - p1: عَزَریا  → H5838
 - p2: پدر  → H3205
 - p3: اَمَریا  → H568
-- p4: بود  → H3205
+- p4: بود
 - p5: ،
 - p6: اَمَریا  → H568
 - p7: پدر  → H3205
@@ -484,7 +484,7 @@ Original words:
 Persian entries and current tags:
 - p1: یِهوصاداق  → H3087
 - p2: ،
-- p3: آنگاه  → Hc
+- p3: آنگاه
 - p4: که
 - p5: خداوند  → H3068
 - p6: یهودا  → H3063
@@ -625,7 +625,7 @@ Original words:
 - o7: בְנ/וֹ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp3ms]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: جِرشوم  → H1647
 - p3: :
 - p4: پسرش  → H1121

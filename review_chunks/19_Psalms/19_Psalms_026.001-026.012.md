@@ -105,12 +105,12 @@ Persian entries and current tags:
 - p3: حکم  → H8199 H982
 - p4: بر
 - p5: برائتم  → H1732
-- p6: ده
+- p6: ده  → H8199
 - p7: ،
 - p8: زیرا  → H3588
 - p9: که
 - p10: من  → H589
-- p11: در
+- p11: در  → Hb
 - p12: صداقت  → H8537
 - p13: خویش
 - p14: گام برداشته‌ام  → H1980
@@ -119,7 +119,7 @@ Persian entries and current tags:
 - p17: بی‌تزلزل  → H982
 - p18: بر  → Hb
 - p19: خداوند  → H3068
-- p20: توکل کرده‌ام  → H4571
+- p20: توکل کرده‌ام  → H982 H4571
 - p21: .
 
 ### Psalms 26:2
@@ -141,14 +141,14 @@ Persian entries and current tags:
 - p3: مرا
 - p4: امتحان کن  → H974
 - p5: و  → Hc
-- p6: بیازما
+- p6: بیازما  → H6884
 - p7: ،
 - p8: دل  → H3820
 - p9: و  → Hc
 - p10: اندیشه‌ام  → H3629
 - p11: را
 - p12: از
-- p13: بوتۀ  → H6884
+- p13: بوتۀ  → H974 H6884
 - p14: آزمایش  → H5254
 - p15: بگذران  → H6884
 - p16: ؛
@@ -178,7 +178,7 @@ Persian entries and current tags:
 - p9: ،
 - p10: و  → Hc
 - p11: پیوسته  → H1980
-- p12: در
+- p12: در  → Hb
 - p13: سایۀ
 - p14: وفاداری  → H571
 - p15: تو
@@ -205,8 +205,8 @@ Persian entries and current tags:
 - p1: با  → H5973
 - p2: مردان  → H4962
 - p3: باطل  → H7723
-- p4: همنشین  → H5956
-- p5: نمی‌گردم  → H3808 H3427
+- p4: همنشین
+- p5: نمی‌گردم  → H3427
 - p6: ،
 - p7: و  → Hc
 - p8: با  → H5973
@@ -236,9 +236,8 @@ Persian entries and current tags:
 - p5: و  → Hc
 - p6: با  → H5973
 - p7: شریران  → H7489
-- p8: همنشینی  → H3427
-- p9: نمی‌کنم  → H3808
-- p10: .
+- p8: همنشینی نمی‌کنم  → H3427
+- p9: .
 
 ### Psalms 26:6
 
@@ -262,7 +261,7 @@ Persian entries and current tags:
 - p5: می‌شویم
 - p6: ،
 - p7: و  → Hc
-- p8: مذبح  → H4196
+- p8: مذبح
 - p9: تو
 - p10: را  → H853
 - p11: ،
@@ -286,7 +285,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: تا  → H8085
-- p2: آواز  → H8085 H6963
+- p2: آواز  → H6963
 - p3: شکرگزاری  → H8426
 - p4: را
 - p5: بشنوانم  → H8085
@@ -323,7 +322,7 @@ Persian entries and current tags:
 - p7: دوست می‌دارم  → H157
 - p8: ،
 - p9: و  → Hc
-- p10: جایگاه  → H4725
+- p10: جایگاه  → H4583 H4725
 - p11: سکونت
 - p12: جلالت  → H3519
 - p13: را
@@ -377,7 +376,7 @@ Original words:
 Persian entries and current tags:
 - p1: که  → H834
 - p2: در
-- p3: دستانشان  → H834 H3027
+- p3: دستانشان  → H3027
 - p4: ترفندهای  → H2154
 - p5: شریرانه
 - p6: است
@@ -404,7 +403,7 @@ Original words:
 Persian entries and current tags:
 - p1: و اما  → Hc
 - p2: من  → H589
-- p3: در
+- p3: در  → Hb
 - p4: صداقت  → H8537
 - p5: خویش  → H589
 - p6: گام  → H3212
@@ -431,11 +430,11 @@ Original words:
 
 Persian entries and current tags:
 - p1: پایم  → H7272
-- p2: در
+- p2: در  → Hb
 - p3: جای هموار  → H4334
 - p4: ایستاده_است  → H5975
 - p5: ؛
-- p6: در
+- p6: در  → Hb
 - p7: جماعت بزرگ  → H4721
 - p8: خداوند  → H3068
 - p9: را

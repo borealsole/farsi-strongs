@@ -98,7 +98,7 @@ Original words:
 Persian entries and current tags:
 - p1: خداوند  → H3068
 - p2: از
-- p3: ترازوی  → H3976
+- p3: ترازوی
 - p4: نامیزان  → H4820
 - p5: کراهت  → H8441
 - p6: دارد
@@ -133,7 +133,7 @@ Persian entries and current tags:
 - p6: ،
 - p7: اما  → Hc
 - p8: حکمت  → H2451
-- p9: با
+- p9: با  → H854
 - p10: فروتنان  → H6800
 - p11: است
 - p12: .
@@ -154,7 +154,7 @@ Original words:
 Persian entries and current tags:
 - p1: راستیِ  → H8538
 - p2: صالحان  → H3477
-- p3: هادی  → H5148
+- p3: هادی
 - p4: ایشان
 - p5: است
 - p6: ،
@@ -218,7 +218,7 @@ Persian entries and current tags:
 - p5: آنهاست
 - p6: ،
 - p7: اما  → Hc
-- p8: شریران  → H8549 H7563
+- p8: شریران  → H7563
 - p9: از
 - p10: شرارت  → H7564
 - p11: خود
@@ -248,7 +248,7 @@ Persian entries and current tags:
 - p6: ،
 - p7: اما  → Hc
 - p8: خیانت‌پیشگان  → H898
-- p9: در
+- p9: در  → Hb
 - p10: دام
 - p11: هوسهای
 - p12: خویش
@@ -279,15 +279,14 @@ Persian entries and current tags:
 - p6: امیدش  → H8615 H8431
 - p7: نیز
 - p8: بر
-- p9: باد
-- p10: می‌شود  → H6
-- p11: ؛
-- p12: چشمداشتهای  → H8431
-- p13: او
-- p14: از
-- p15: قدرت
-- p16: تباه می‌گردد  → H6
-- p17: .
+- p9: باد می‌شود  → H6
+- p10: ؛
+- p11: چشمداشتهای  → H8431
+- p12: او
+- p13: از
+- p14: قدرت
+- p15: تباه می‌گردد  → H6
+- p16: .
 
 ### Proverbs 11:8
 
@@ -306,17 +305,16 @@ Persian entries and current tags:
 - p1: پارسا  → H6662
 - p2: از  → Hm
 - p3: تنگنا  → H6869
-- p4: نجات
-- p5: داده_می‌شود
-- p6: ؛
-- p7: شریر  → H6662 H7563
-- p8: به
-- p9: جای  → H8478
-- p10: او
-- p11: در
-- p12: آن  → H935
-- p13: فرو~می‌افتد
-- p14: .
+- p4: نجات داده_می‌شود  → H2502
+- p5: ؛
+- p6: شریر  → H6662 H7563
+- p7: به
+- p8: جای  → H8478
+- p9: او
+- p10: در
+- p11: آن  → H935
+- p12: فرو~می‌افتد
+- p13: .
 
 ### Proverbs 11:9
 
@@ -338,7 +336,7 @@ Persian entries and current tags:
 - p3: گفتارِ  → H6310
 - p4: خود
 - p5: همنوع  → H2611 H7453
-- p6: خویش
+- p6: خویش  → H7453
 - p7: را
 - p8: هلاک می‌کنند  → H7843
 - p9: ،
@@ -347,9 +345,8 @@ Persian entries and current tags:
 - p12: را
 - p13: دانش  → H1847
 - p14: او
-- p15: نجات
-- p16: می‌دهد
-- p17: .
+- p15: نجات می‌دهد  → H2502
+- p16: .
 
 ### Proverbs 11:10
 
@@ -366,7 +363,7 @@ Original words:
 - o7: רִנָּה = H7440 רִנָּה "properly, a creaking (or shrill sound)…" [HNcfsa]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hb
 - p2: کامیابیِ  → H2898
 - p3: پارسایان  → H6662
 - p4: شهر  → H7151
@@ -395,7 +392,7 @@ Original words:
 - o7: תֵּהָרֵס = H2040 הָרַס "to pull down or in pieces, break, destroy" [HVNi3fs]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hb
 - p2: برکت  → H1293
 - p3: صالحان  → H3477
 - p4: ،
@@ -457,15 +454,16 @@ Original words:
 
 Persian entries and current tags:
 - p1: سخن‌چین  → H1980 H7400
-- p2: اَسرار  → H7400 H5475
+- p2: اَسرار  → H1980 H7400 H5475
 - p3: را
 - p4: فاش می‌کند  → H1540
 - p5: ،
 - p6: اما  → Hc
 - p7: شخص
 - p8: امین  → H7307
-- p9: رازدار است  → H539
-- p10: .
+- p9: رازدار  → H539
+- p10: است  → H3680
+- p11: .
 
 ### Proverbs 11:14
 
@@ -482,9 +480,9 @@ Original words:
 - o7: יוֹעֵץ = H3289 יָעַץ "to advise; reflexively, to deliberate or resolve" [HVqrmsa]
 
 Persian entries and current tags:
-- p1: بی‌نقشه
+- p1: بی‌نقشه  → H8458
 - p2: ،
-- p3: لشکر  → H5971
+- p3: لشکر
 - p4: شکست
 - p5: می‌خورد  → H5307
 - p6: ،
@@ -522,7 +520,7 @@ Persian entries and current tags:
 - p6: زیان  → H7451
 - p7: خواهد_دید
 - p8: ،
-- p9: اما  → Hc
+- p9: اما
 - p10: هر
 - p11: که
 - p12: از

@@ -131,7 +131,7 @@ Original words:
 - o6: הַ/שִּׁמְרֹנִי = Hd "the" + H8117 שִׁמְרֹנִי "a Shimronite (collectively) or descendants of…" [HTd/Ngmsa]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: یاشوب  → H3437
 - p3: ،
 - p4: طایفۀ  → H4940
@@ -430,32 +430,33 @@ Original words:
 - o18: וְ/תִרְצָה = Hc "and" + H8656 תִּרְצָה "Tirtsah, a place in Palestine; also an Israelitess" [HC/Np]
 
 Persian entries and current tags:
-- p1: و اما  → Hc
-- p2: صِلُفِحاد  → H6765
-- p3: پسر  → H1121
-- p4: خِفِر  → H6765 H2660
-- p5: را
-- p6: پسری  → H1121
-- p7: نبود  → H3808
-- p8: ،
-- p9: اما
-- p10: دختران  → H1323
-- p11: داشت
-- p12: .
-- p13: نامهای  → H8034
-- p14: دختران  → H1323
-- p15: او
-- p16: مَحلَه  → H4244
-- p17: ،
-- p18: نوعَه  → H5270
-- p19: ،
-- p20: حُجلَه  → H2295
-- p21: ،
-- p22: مِلکَه  → H2295 H4435
-- p23: و  → Hc
-- p24: تِرصَه  → H8656
-- p25: بود
-- p26: .
+- p1: و  → Hc
+- p2: اما
+- p3: صِلُفِحاد  → H6765
+- p4: پسر  → H1121
+- p5: خِفِر  → H2660
+- p6: را
+- p7: پسری  → H1121
+- p8: نبود  → H3808
+- p9: ،
+- p10: اما
+- p11: دختران  → H1323
+- p12: داشت
+- p13: .
+- p14: نامهای  → H8034
+- p15: دختران  → H1323
+- p16: او
+- p17: مَحلَه  → H4244
+- p18: ،
+- p19: نوعَه  → H5270
+- p20: ،
+- p21: حُجلَه  → H2295
+- p22: ،
+- p23: مِلکَه  → H2295 H4435
+- p24: و  → Hc
+- p25: تِرصَه  → H8656
+- p26: بود
+- p27: .
 
 ### Numbers 26:34
 
@@ -482,7 +483,7 @@ Persian entries and current tags:
 - p6: شمارش‌شدگان  → H6485
 - p7: آنان
 - p8: ۵۲۷۰۰  → H8147 H2572 H7651
-- p9: تن  → H8147 H2572 H505 H3967
+- p9: تن  → H8147 H505 H3967
 - p10: بودند
 - p11: .
 
@@ -582,7 +583,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: اینانند  → H428
-- p2: طایفه‌های  → H4940
+- p2: طایفه‌های  → H4940 H1121
 - p3: نسل  → H1121
 - p4: اِفرایِم  → H669
 - p5: بر
@@ -660,7 +661,7 @@ Original words:
 - o6: הַ/חוּפָמִי = Hd "the" + H2350 חוּפָמִי "a Chuphamite or descendant of Chupham" [HTd/Ngmsa]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: شِفوفام  → H8197
 - p3: ،
 - p4: طایفۀ  → H4940
@@ -742,7 +743,7 @@ Persian entries and current tags:
 - p8: و  → Hc
 - p9: شمارش‌شدگان  → H6485
 - p10: آنان
-- p11: ۴۵۶۰۰  → H2568 H705 H8337 H3967
+- p11: ۴۵۶۰۰  → H2568 H705 H8337
 - p12: تن  → H505
 - p13: بودند
 - p14: .

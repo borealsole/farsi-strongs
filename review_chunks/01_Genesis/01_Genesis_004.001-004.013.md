@@ -165,7 +165,7 @@ Persian entries and current tags:
 - p12: گله‌بان  → H7462 H6629
 - p13: بود
 - p14: و  → Hc
-- p15: قائن  → H7014
+- p15: قائن
 - p16: کِشتگرِ  → H5647
 - p17: زمین  → H127
 - p18: .
@@ -188,10 +188,10 @@ Original words:
 
 Persian entries and current tags:
 - p1: پس
-- p2: از
+- p2: از  → Hm
 - p3: چندی
 - p4: ،
-- p5: قائن  → H7014
+- p5: قائن
 - p6: هدیه‌ای  → H4503
 - p7: از  → Hm
 - p8: محصول  → H6529
@@ -224,7 +224,7 @@ Original words:
 Persian entries and current tags:
 - p1: ولی  → Hc
 - p2: هابیل  → H1893
-- p3: از
+- p3: از  → Hm
 - p4: نخست‌زادگان  → H1062
 - p5: گلۀ  → H6629
 - p6: خویش
@@ -232,7 +232,7 @@ Persian entries and current tags:
 - p8: از  → Hm
 - p9: بهترین قسمتهای  → H2459
 - p10: آنها
-- p11: هدیه‌ای
+- p11: هدیه‌ای  → H4503
 - p12: آورد  → H935
 - p13: .
 - p14: خداوند  → H3068
@@ -271,13 +271,13 @@ Persian entries and current tags:
 - p6: منظور  → H8159
 - p7: نداشت  → H3808
 - p8: .
-- p9: پس  → Hc
+- p9: پس
 - p10: قائن  → H7014
 - p11: بسیار  → H3966
 - p12: خشمگین شد  → H2734
 - p13: و  → Hc
 - p14: دلریش
-- p15: گشت
+- p15: گشت  → H5307
 - p16: .
 
 ### Genesis 4:6
@@ -312,7 +312,7 @@ Persian entries and current tags:
 - p12: و  → Hc
 - p13: چرا  → H4100
 - p14: دلریش  → H6440
-- p15: گشته‌ای
+- p15: گشته‌ای  → H5307
 - p16: ؟
 
 ### Genesis 4:7
@@ -349,14 +349,14 @@ Persian entries and current tags:
 - p9: آیا  → Hi
 - p10: پذیرفته_نمی‌شوی  → H7613
 - p11: ؟
-- p12: ولی  → Hc
+- p12: ولی
 - p13: اگر  → H518
 - p14: آنچه
 - p15: را
 - p16: که
 - p17: نیکوست  → H3190
 - p18: انجام
-- p19: ندهی
+- p19: ندهی  → H3808
 - p20: ،
 - p21: بدان
 - p22: که
@@ -364,7 +364,7 @@ Persian entries and current tags:
 - p24: بر
 - p25: در
 - p26: به  → H413
-- p27: کمین  → H8669
+- p27: کمین
 - p28: نشسته  → H7257
 - p29: و  → Hc
 - p30: مشتاق  → H8669
@@ -541,7 +541,7 @@ Persian entries and current tags:
 - p3: تو
 - p4: ملعون  → H779
 - p5: هستی  → H859
-- p6: از
+- p6: از  → H4480
 - p7: زمینی  → H127
 - p8: که  → H834
 - p9: دهان  → H6310

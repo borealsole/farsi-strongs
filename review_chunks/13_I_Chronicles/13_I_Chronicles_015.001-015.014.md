@@ -104,7 +104,7 @@ Persian entries and current tags:
 - p1: داوود
 - p2: برای  → Hl
 - p3: خود
-- p4: در
+- p4: در  → Hb
 - p5: شهر  → H5892
 - p6: داوود
 - p7: خانه‌ها  → H1004
@@ -215,7 +215,7 @@ Persian entries and current tags:
 - p1: و  → Hc
 - p2: داوود  → H1732
 - p3: همۀ  → H3605
-- p4: اسرائیلیان  → H3605 H3478
+- p4: اسرائیلیان  → H3478
 - p5: را  → H853
 - p6: در
 - p7: اورشلیم  → H3389
@@ -273,7 +273,7 @@ Original words:
 - o7: וְ/עֶשְׂרִים = Hc "and" + H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HC/Acbpa]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: پسران  → H1121
 - p3: قُهات  → H6955
 - p4: :
@@ -302,7 +302,7 @@ Original words:
 - o7: וְ/עֶשְׂרִים = Hc "and" + H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HC/Acbpa]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: پسران  → H1121
 - p3: مِراری  → H4847
 - p4: :
@@ -311,7 +311,7 @@ Persian entries and current tags:
 - p7: را
 - p8: با
 - p9: ۲۲۰  → H3967 H6242
-- p10: تن  → H6242
+- p10: تن
 - p11: از
 - p12: خویشانش  → H251
 - p13: .
@@ -331,7 +331,7 @@ Original words:
 - o7: וּ/שְׁלֹשִׁים = Hc "and" + H7970 שְׁלוֹשִׁים "thirty; or (ordinal) thirtieth" [HC/Acbpa]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: پسران  → H1121
 - p3: جِرشوم  → H1648
 - p4: :
@@ -340,7 +340,7 @@ Persian entries and current tags:
 - p7: را
 - p8: با
 - p9: ۱۳۰  → H3967 H7970
-- p10: تن  → H3967
+- p10: تن
 - p11: از
 - p12: خویشانش  → H251
 - p13: .
@@ -359,7 +359,7 @@ Original words:
 - o6: מָאתָיִם = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbda]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: پسران  → H1121
 - p3: اِلیصافان  → H469
 - p4: :
@@ -367,10 +367,11 @@ Persian entries and current tags:
 - p6: رئیس  → H8269
 - p7: را
 - p8: با
-- p9: ۲۰۰ تن  → H3967
-- p10: از
-- p11: خویشانش  → H251
-- p12: .
+- p9: ۲۰۰  → H3967
+- p10: تن
+- p11: از
+- p12: خویشانش  → H251
+- p13: .
 
 ### I Chronicles 15:9
 
@@ -386,7 +387,7 @@ Original words:
 - o6: שְׁמוֹנִים = H8084 שְׁמֹנִים "eighty, also eightieth" [HAcbpa]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: پسران  → H1121
 - p3: حِبرون  → H2275
 - p4: :
@@ -416,7 +417,7 @@ Original words:
 - o8: עָשָׂר = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcmsa]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: پسران  → H1121
 - p3: عُزّیئیل  → H5816
 - p4: :
@@ -424,7 +425,7 @@ Persian entries and current tags:
 - p6: رئیس  → H8269
 - p7: را
 - p8: با
-- p9: ۱۱۲  → H3967 H8147 H6240
+- p9: ۱۱۲  → H3967 H8147
 - p10: تن  → H6240
 - p11: از
 - p12: خویشانش  → H251
@@ -458,7 +459,7 @@ Persian entries and current tags:
 - p6: اَبیّاتار  → H54
 - p7: را
 - p8: که
-- p9: کاهن
+- p9: کاهن  → H3548
 - p10: بودند
 - p11: و  → Hc
 - p12: نیز
@@ -536,7 +537,7 @@ Persian entries and current tags:
 - p29: برایش
 - p30: آماده کرده‌ام  → H3559
 - p31: ،
-- p32: بیاورید  → H5927
+- p32: بیاورید
 - p33: .
 
 ### I Chronicles 15:13

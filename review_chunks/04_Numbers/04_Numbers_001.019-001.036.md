@@ -98,7 +98,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: پس
-- p2: چنانکه
+- p2: چنانکه  → Hk
 - p3: خداوند  → H3068
 - p4: به
 - p5: موسی  → H4872
@@ -158,7 +158,7 @@ Persian entries and current tags:
 - p13: و  → Hc
 - p14: بالاتر  → H4605
 - p15: یعنی
-- p16: همۀ  → H3605
+- p16: همۀ
 - p17: آنان
 - p18: که
 - p19: قادر  → H6635
@@ -171,9 +171,9 @@ Persian entries and current tags:
 - p26: یک
 - p27: بر
 - p28: حسبِ  → Hl
-- p29: طایفه  → H4940 H4557
+- p29: طایفه  → H4940
 - p30: و
-- p31: خاندانشان  → H4940 H1004
+- p31: خاندانشان  → H1004
 - p32: ثبت
 - p33: گردید
 - p34: .
@@ -197,7 +197,7 @@ Persian entries and current tags:
 - p1: تعدادِ شمارش‌شدگان  → H6485
 - p2: قبیلۀ  → H4294
 - p3: رِئوبین  → H7205
-- p4: ۴۶۵۰۰  → H8337 H705
+- p4: ۴۶۵۰۰  → H8337 H705 H2568
 - p5: تن  → H505
 - p6: بود
 - p7: .
@@ -233,7 +233,7 @@ Persian entries and current tags:
 - p2: نسل  → H1121
 - p3: شمعون  → H8095
 - p4: ،
-- p5: شمار  → H4557
+- p5: شمار  → H6485 H4557
 - p6: نامهای  → H8034
 - p7: مردان  → H2145
 - p8: بیست  → H6242
@@ -250,10 +250,10 @@ Persian entries and current tags:
 - p19: بودند
 - p20: ،
 - p21: بر
-- p22: حسبِ
-- p23: طایفه  → H4940 H4557
+- p22: حسبِ  → Hl
+- p23: طایفه  → H4940
 - p24: و
-- p25: خاندانشان  → H4940 H1004
+- p25: خاندانشان  → H1004
 - p26: ثبت گردید  → H6485
 - p27: .
 
@@ -304,7 +304,7 @@ Original words:
 - o15: צָבָא = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbsa]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: نسل  → H1121
 - p3: جاد  → H1410
 - p4: ،
@@ -325,11 +325,11 @@ Persian entries and current tags:
 - p19: بودند
 - p20: ،
 - p21: بر
-- p22: حسبِ
-- p23: طایفه  → H4940 H4557
+- p22: حسبِ  → Hl
+- p23: طایفه  → H4940
 - p24: و
 - p25: خاندانشان  → H4940 H1004
-- p26: ثبت  → H8435
+- p26: ثبت
 - p27: گردید
 - p28: .
 
@@ -353,8 +353,8 @@ Persian entries and current tags:
 - p1: تعداد شمارش‌شدگان  → H6485
 - p2: قبیلۀ  → H4294
 - p3: جاد  → H1410
-- p4: ۴۵۶۵۰  → H705 H8337 H2572
-- p5: تن  → H505 H8337 H3967 H2572
+- p4: ۴۵۶۵۰  → H2568 H705 H8337 H2572
+- p5: تن  → H505 H8337 H3967
 - p6: بود
 - p7: .
 
@@ -381,7 +381,7 @@ Original words:
 - o15: צָבָא = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbsa]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: نسل  → H1121
 - p3: یهودا  → H3063
 - p4: ،
@@ -402,11 +402,11 @@ Persian entries and current tags:
 - p19: بودند
 - p20: ،
 - p21: بر
-- p22: حسبِ
-- p23: طایفه  → H4940 H4557
+- p22: حسبِ  → Hl
+- p23: طایفه  → H4940
 - p24: و
 - p25: خاندانشان  → H4940 H1004
-- p26: ثبت  → H8435
+- p26: ثبت
 - p27: گردید
 - p28: .
 
@@ -457,7 +457,7 @@ Original words:
 - o15: צָבָא = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbsa]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: نسل  → H1121
 - p3: یِساکار  → H3485
 - p4: ،
@@ -478,11 +478,11 @@ Persian entries and current tags:
 - p19: بودند
 - p20: ،
 - p21: بر
-- p22: حسبِ
+- p22: حسبِ  → Hl
 - p23: طایفه  → H4940
 - p24: و
 - p25: خاندانشان  → H1004
-- p26: ثبت  → H8435
+- p26: ثبت  → H1
 - p27: گردید
 - p28: .
 
@@ -533,7 +533,7 @@ Original words:
 - o15: צָבָא = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbsa]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: نسل  → H1121
 - p3: زِبولون  → H2074
 - p4: ،
@@ -554,11 +554,11 @@ Persian entries and current tags:
 - p19: بودند
 - p20: ،
 - p21: بر
-- p22: حسبِ
-- p23: طایفه  → H4940 H4557
+- p22: حسبِ  → Hl
+- p23: طایفه  → H4940
 - p24: و
 - p25: خاندانشان  → H4940 H1004
-- p26: ثبت  → H8435
+- p26: ثبت  → H4557
 - p27: گردید
 - p28: .
 
@@ -580,8 +580,8 @@ Original words:
 Persian entries and current tags:
 - p1: تعداد شمارش‌شدگان  → H6485
 - p2: قبیلۀ  → H4294
-- p3: زِبولون  → H4294 H2074
-- p4: ۵۷۴۰۰  → H7651 H2572 H702
+- p3: زِبولون
+- p4: ۵۷۴۰۰  → H7651 H2572
 - p5: تن  → H505
 - p6: بود
 - p7: .
@@ -636,10 +636,10 @@ Persian entries and current tags:
 - p23: ،
 - p24: بر
 - p25: حسب  → Hl
-- p26: طایفه  → H4940 H4557
+- p26: طایفه  → H4940
 - p27: و
 - p28: خاندانشان  → H4940 H1004
-- p29: ثبت  → H8435
+- p29: ثبت
 - p30: گردید
 - p31: .
 
@@ -710,11 +710,11 @@ Persian entries and current tags:
 - p19: بودند
 - p20: ،
 - p21: بر
-- p22: حسبِ
-- p23: طایفه  → H4940 H4557
+- p22: حسبِ  → Hl
+- p23: طایفه  → H4940
 - p24: و
 - p25: خاندانشان  → H4940 H1004
-- p26: ثبت  → H8435
+- p26: ثبت
 - p27: گردید
 - p28: .
 
@@ -736,7 +736,7 @@ Persian entries and current tags:
 - p1: تعداد شمارش‌شدگان  → H6485
 - p2: قبیلۀ  → H4294
 - p3: مَنَسی  → H4519
-- p4: ۳۲۲۰۰  → H8147 H7970 H505
+- p4: ۳۲۲۰۰  → H8147 H7970 H3967
 - p5: تن  → H8147 H7970 H505 H3967
 - p6: بود
 - p7: .
@@ -764,7 +764,7 @@ Original words:
 - o15: צָבָא = H6635 צָבָא "a mass of persons (or figuratively, things)…" [HNcbsa]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: نسل  → H1121
 - p3: بِنیامین
 - p4: ،
@@ -785,11 +785,11 @@ Persian entries and current tags:
 - p19: بودند
 - p20: ،
 - p21: بر
-- p22: حسب
-- p23: طایفه  → H4940 H4557
+- p22: حسب  → Hl
+- p23: طایفه  → H4940
 - p24: و
 - p25: خاندانشان  → H4940 H1004
-- p26: ثبت  → H8435
+- p26: ثبت  → H4557
 - p27: گردید
 - p28: .
 

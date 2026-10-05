@@ -63,7 +63,7 @@ Original words:
 |  | با | Hb | Hb |
 | ✱ | میگساران | H5433 סָבָא "to quaff to satiety…" | H5433 סָבָא "to quaff to satiety…"; H3196 יַיִן "wine (as fermented)…" |
 | ✱ | دمساز | H3196 יַיִן "wine (as fermented)…" | [دمساز مشو] H408 אַל "not (the qualified negation…"; H1961 הָיָה "to exist, i.e. be or become…" |
-| ✱ | مشو |  | [دمساز مشو] H408 אַל "not (the qualified negation…"; H1961 הָיָה "to exist, i.e. be or become…" |
+| ✱ | مشو | H408 אַל "not (the qualified negation…" | [دمساز مشو] H408 אַל "not (the qualified negation…"; H1961 הָיָה "to exist, i.e. be or become…" |
 |  | ، |  |  |
 |  | و |  |  |
 |  | نه |  |  |
@@ -103,7 +103,7 @@ Original words:
 | ✱ | خواهد_کرد |  | [ژنده‌پوششان خواهد_کرد] H7168 קֶרַע "a rag"; H3847 לָבַשׁ "properly, wrap around…" |
 |  | . |  |  |
 
-### Proverbs 23:22: 3 word(s) changed
+### Proverbs 23:22: 5 word(s) changed
 
 Reply line 5.
 
@@ -131,8 +131,8 @@ Original words:
 |  | او |  |  |
 |  | جان | [جان یافتی] H3205 | [جان یافتی] H3205 |
 |  | یافتی | [جان یافتی] H3205 | [جان یافتی] H3205 |
-|  | گوش | [گوش فرا~ده] H8085 | [گوش فرا~ده] H8085 |
-|  | فرا~ده | [گوش فرا~ده] H8085 | [گوش فرا~ده] H8085 |
+| ✱ | گوش |  | [گوش فرا~ده] H8085 שָׁמַע "to hear intelligently (often…" |
+| ✱ | فرا~ده | H8085 שָׁמַע "to hear intelligently (often…" | [گوش فرا~ده] H8085 שָׁמַע "to hear intelligently (often…" |
 |  | ، |  |  |
 |  | و | Hc | Hc |
 |  | مادر | H517 | H517 |
@@ -144,7 +144,7 @@ Original words:
 | ✱ | مشمار | H936 בּוּז "to disrespect" | H408 אַל "not (the qualified negation…"; H936 בּוּז "to disrespect" |
 |  | . |  |  |
 
-### Proverbs 23:23: 1 word(s) changed
+### Proverbs 23:23: 2 word(s) changed
 
 Reply line 6.
 
@@ -165,7 +165,7 @@ Original words:
 | --- | --- | --- | --- |
 |  | حقیقت | H571 | H571 |
 |  | را |  |  |
-|  | بخر | H7069 | H7069 |
+| ✱ | بخر | H7069 קָנָה "to erect, i.e. create…"; H4376 מָכַר "to sell…" | H7069 קָנָה "to erect, i.e. create…" |
 |  | و | Hc | Hc |
 |  | هرگز | H408 | H408 |
 |  | آن |  |  |
@@ -254,7 +254,7 @@ Original words:
 |  | باشد | [شادمان باشد] H1523 | [شادمان باشد] H1523 |
 |  | ! |  |  |
 
-### Proverbs 23:26: 2 word(s) changed
+### Proverbs 23:26: 1 word(s) changed
 
 Reply line 9.
 
@@ -278,7 +278,7 @@ Original words:
 |  | دل | H3820 | H3820 |
 |  | خویش |  |  |
 |  | را |  |  |
-| ✱ | به |  | Hl "to" |
+|  | به | Hl | Hl |
 |  | من |  |  |
 |  | بده | H5414 | H5414 |
 |  | و | Hc | Hc |
@@ -315,7 +315,7 @@ Original words:
 |  | است |  |  |
 |  | عمیق | H6013 | H6013 |
 |  | و | Hc | Hc |
-| ✱ | زن | H2181 זָנָה "to commit adultery (usually…" | [زن بیگانه] H5237 נׇכְרִי "strange…" |
+| ✱ | زن |  | [زن بیگانه] H5237 נׇכְרִי "strange…" |
 | ✱ | بیگانه | H875 בְּאֵר "a pit; especially a well"; H6862 צַר "narrow…"; H5237 נׇכְרִי "strange…" | [زن بیگانه] H5237 נׇכְרִי "strange…" |
 |  | ، |  |  |
 | ✱ | چاهی | H7745 שׁוּחָה "a chasm"; H875 בְּאֵר "a pit; especially a well" | H875 בְּאֵר "a pit; especially a well" |
@@ -352,7 +352,7 @@ Original words:
 |  | تا |  |  |
 |  | خیانتکاران | H898 | H898 |
 |  | را |  |  |
-| ✱ | در |  | [در میان] Hb "in" |
+| ✱ | در | Hb "in" | [در میان] Hb "in" |
 | ✱ | میان |  | [در میان] Hb "in" |
 |  | آدمیان | H120 | H120 |
 |  | بیفزاید | H3254 | H3254 |
@@ -454,7 +454,7 @@ Original words:
 |  | می‌روند | H935 | H935 |
 |  | . |  |  |
 
-### Proverbs 23:31: 7 word(s) changed
+### Proverbs 23:31: 6 word(s) changed
 
 Reply line 14.
 
@@ -477,18 +477,18 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | به |  |  |
+| ✱ | به | H7200 רָאָה "to see…" |  |
 |  | شراب | H3196 | H3196 |
 | ✱ | آنگاه |  | [آنگاه که] H3588 כִּי "by implication) very widely…" |
 | ✱ | که | H3588 כִּי "by implication) very widely…" | [آنگاه که] H3588 כִּי "by implication) very widely…" |
 |  | سرخ‌فام | [سرخ‌فام است] H119 | [سرخ‌فام است] H119 |
 |  | است | [سرخ‌فام است] H119 | [سرخ‌فام است] H119 |
-| ✱ | منگر |  | H408 אַל "not (the qualified negation…"; H7200 רָאָה "to see…" |
+| ✱ | منگر | H408 אַל "not (the qualified negation…" | H408 אַל "not (the qualified negation…"; H7200 רָאָה "to see…" |
 |  | ، |  |  |
-| ✱ | آنگاه | H3588 כִּי "by implication) very widely…" | [آنگاه که] H3588 כִּי "by implication) very widely…" |
-| ✱ | که | H3588 כִּי "by implication) very widely…" | [آنگاه که] H3588 כִּי "by implication) very widely…" |
-| ✱ | در |  | Hb "in" |
-|  | پیاله | H3599 | H3599 |
+|  | آنگاه | [آنگاه که] H3588 | [آنگاه که] H3588 |
+|  | که | [آنگاه که] H3588 | [آنگاه که] H3588 |
+|  | در | Hb | Hb |
+| ✱ | پیاله | H5414 נָתַן "to give…"; H3599 כִּיס "a cup…" | H3599 כִּיס "a cup…" |
 | ✱ | می‌درخشد | H5869 עַיִן "an eye (literally or…" | H5414 נָתַן "to give…"; H5869 עַיִן "an eye (literally or…" |
 |  | ، |  |  |
 |  | و |  |  |
@@ -581,19 +581,19 @@ Original words:
 |  | کسی |  |  |
 | ✱ | خواهی_بود |  | H1961 הָיָה "to exist, i.e. be or become…" |
 |  | که |  |  |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | دلِ | H3820 | H3820 |
 |  | دریا | H3220 | H3220 |
 |  | خفته | H7901 | H7901 |
 |  | و | Hc | Hc |
-|  | بر | Hb | Hb |
+| ✱ | بر |  | Hb "in" |
 |  | دَکَل | H2260 | H2260 |
 |  | کشتی |  |  |
 | ✱ | لمیده |  | [لمیده باشد] H7901 שָׁכַב "to lie down (for rest…" |
 | ✱ | باشد |  | [لمیده باشد] H7901 שָׁכַב "to lie down (for rest…" |
 |  | . |  |  |
 
-### Proverbs 23:35: 7 word(s) changed
+### Proverbs 23:35: 5 word(s) changed
 
 Reply line 18.
 
@@ -623,7 +623,7 @@ Original words:
 | ✱ | زدند |  | H5221 נָכָה "to strike (lightly or…" |
 |  | و |  |  |
 | ✱ | احساس | H2470 חָלָה "properly…" | [احساس نکردم] H1077 בַּל "properly, a failure…"; H2470 חָלָה "properly…" |
-| ✱ | نکردم | H5221 נָכָה "to strike (lightly or…"; H1077 בַּל "properly, a failure…" | [احساس نکردم] H1077 בַּל "properly, a failure…"; H2470 חָלָה "properly…" |
+| ✱ | نکردم | H1077 בַּל "properly, a failure…" | [احساس نکردم] H1077 בַּל "properly, a failure…"; H2470 חָלָה "properly…" |
 |  | ! |  |  |
 |  | مرا |  |  |
 |  | کوفتند | H1986 | H1986 |
@@ -635,8 +635,8 @@ Original words:
 |  | بیدار | [بیدار خواهم_شد] H6974 | [بیدار خواهم_شد] H6974 |
 |  | خواهم_شد | [بیدار خواهم_شد] H6974 | [بیدار خواهم_شد] H6974 |
 |  | تا |  |  |
-| ✱ | جرعه‌ای | H6974 קוּץ "to awake (literally or…" |  |
-| ✱ | دیگر | H3254 יָסַף "to add or augment (often…" | H3254 יָסַף "to add or augment (often…"; H5750 עוֹד "properly…" |
+|  | جرعه‌ای |  |  |
+|  | دیگر | H3254 H5750 | H3254 H5750 |
 | ✱ | بنوشم | H6974 קוּץ "to awake (literally or…" | H1245 בָּקַשׁ "to search out (by any method…" |
 |  | ؟ |  |  |
 |  | » |  |  |

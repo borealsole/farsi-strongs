@@ -103,7 +103,7 @@ Original words:
 - o14: יֹאכֲלֶ/נּוּ = H398 אָכַל "to eat (literally or figuratively)" [HVqi3ms/Sp3ms]
 
 Persian entries and current tags:
-- p1: در
+- p1: در  → Hb
 - p2: بیرون  → H2351
 - p3: شمشیر  → H2719
 - p4: است
@@ -118,7 +118,7 @@ Persian entries and current tags:
 - p13: هر
 - p14: آن
 - p15: که  → H834
-- p16: در
+- p16: در  → Hb
 - p17: مزرعه  → H7704
 - p18: است
 - p19: به  → Hb
@@ -127,8 +127,8 @@ Persian entries and current tags:
 - p22: و  → Hc
 - p23: هر
 - p24: آن
-- p25: که  → H834
-- p26: در
+- p25: که
+- p26: در  → Hb
 - p27: شهر  → H5892
 - p28: است
 - p29: ،
@@ -207,7 +207,7 @@ Persian entries and current tags:
 - p6: زانوها  → H1290
 - p7: مانند  → H3212
 - p8: آبْ  → H4325
-- p9: لرزان
+- p9: لرزان  → H1290
 - p10: خواهد_شد
 - p11: .
 
@@ -240,11 +240,11 @@ Persian entries and current tags:
 - p7: ایشان
 - p8: را  → H853
 - p9: در
-- p10: بر
+- p10: بر  → H413
 - p11: خواهد_گرفت
 - p12: .
 - p13: همۀ  → H3605
-- p14: چهره‌ها  → H7144
+- p14: چهره‌ها
 - p15: را  → H853
 - p16: شرم  → H955
 - p17: خواهد_پوشانید  → H3680
@@ -319,7 +319,7 @@ Persian entries and current tags:
 - p28: آن
 - p29: خود
 - p30: را
-- p31: سیر  → H5315
+- p31: سیر  → H7646
 - p32: نتوانند
 - p33: کرد  → H7646
 - p34: و  → Hc
@@ -374,7 +374,7 @@ Persian entries and current tags:
 - p13: تمثالهای  → H6754
 - p14: منفور  → H8441
 - p15: و
-- p16: بتهای
+- p16: بتهای  → H8251
 - p17: مکروه  → H8441 H8251
 - p18: خویش
 - p19: بهره
@@ -549,10 +549,9 @@ Persian entries and current tags:
 - p15: را  → H853
 - p16: زایل خواهم_ساخت  → H7673
 - p17: و  → Hc
-- p18: مکانهای
-- p19: مقدسشان  → H6942
-- p20: بی‌حرمت خواهد_شد  → H2490
-- p21: .
+- p18: مکانهای مقدسشان  → H6942
+- p19: بی‌حرمت خواهد_شد  → H2490
+- p20: .
 
 ### Ezekiel 7:25
 
@@ -608,7 +607,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: مصیبت  → H1943
-- p2: از
+- p2: از  → H5921
 - p3: پی
 - p4: مصیبت  → H1943
 - p5: و  → Hc
@@ -623,9 +622,9 @@ Persian entries and current tags:
 - p14: به  → H413
 - p15: عبث  → H6
 - p16: از
-- p17: نبی  → H5030 H3548
+- p17: نبی  → H5030
 - p18: رؤیا  → H2377
-- p19: خواهند_طلبید  → H1245
+- p19: خواهند_طلبید
 - p20: ،
 - p21: و  → Hc
 - p22: شریعت  → H8451
@@ -637,7 +636,7 @@ Persian entries and current tags:
 - p28: نه
 - p29: مشورت  → H6098
 - p30: نزد
-- p31: مشایخ  → H5030
+- p31: مشایخ
 - p32: .
 
 ### Ezekiel 7:27
@@ -704,7 +703,7 @@ Persian entries and current tags:
 - p36: را  → H853
 - p37: داوری خواهم_نمود  → H56 H8199
 - p38: ؛
-- p39: آنگاه
+- p39: آنگاه  → Hc
 - p40: خواهند_دانست  → H3045
 - p41: که  → H3588
 - p42: من  → H589

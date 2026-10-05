@@ -111,8 +111,8 @@ Persian entries and current tags:
 - p10: برای  → Hl
 - p11: خدای  → H430
 - p12: یعقوب  → H623 H3290
-- p13: فریاد
-- p14: بلند  → H7442
+- p13: فریاد  → H7321
+- p14: بلند
 - p15: سر
 - p16: دهید
 - p17: !
@@ -137,7 +137,7 @@ Persian entries and current tags:
 - p2: آغاز
 - p3: کنید
 - p4: ،
-- p5: دف  → H8596 H3658
+- p5: دف  → H3658
 - p6: را
 - p7: به
 - p8: صدا  → H8596
@@ -168,7 +168,7 @@ Persian entries and current tags:
 - p1: کَرِنا  → H7782
 - p2: را
 - p3: بنوازید  → H8628
-- p4: در
+- p4: در  → Hb
 - p5: ماهِ نو  → H2320
 - p6: ،
 - p7: در
@@ -231,7 +231,7 @@ Persian entries and current tags:
 - p1: آن
 - p2: را
 - p3: شهادتی  → H5715
-- p4: در
+- p4: در  → Hb
 - p5: یوسف  → H3084
 - p6: قرار
 - p7: داد
@@ -299,27 +299,28 @@ Original words:
 Persian entries and current tags:
 - p1: در  → Hb
 - p2: تنگی  → H6869
-- p3: فریاد برآوردی  → H7121
-- p4: و  → Hc
-- p5: تو
-- p6: را
-- p7: خلاصی دادم  → H2502
-- p8: ؛
-- p9: از
-- p10: جایگاه مخفیِ  → H5643
-- p11: رعد  → H7482
-- p12: تو
-- p13: را
-- p14: اجابت کردم  → H6030
-- p15: ؛
-- p16: نزد
-- p17: آبهای  → H4325
-- p18: مِریبَه  → H4809
-- p19: تو
-- p20: را
-- p21: آزمودم  → H974
-- p22: .
-- p23: سِلاه  → H5542
+- p3: فریاد
+- p4: برآوردی
+- p5: و  → Hc
+- p6: تو
+- p7: را
+- p8: خلاصی دادم  → H2502
+- p9: ؛
+- p10: از
+- p11: جایگاه مخفیِ  → H5643
+- p12: رعد  → H7482
+- p13: تو
+- p14: را
+- p15: اجابت کردم  → H6030
+- p16: ؛
+- p17: نزد  → H5921
+- p18: آبهای  → H4325
+- p19: مِریبَه  → H4809
+- p20: تو
+- p21: را
+- p22: آزمودم  → H974
+- p23: .
+- p24: سِلاه  → H5542
 
 ### Psalms 81:8
 
@@ -374,7 +375,7 @@ Original words:
 - o9: נֵכָר = H5236 נֵכָר "foreign, or (concretely) a foreigner…" [HNcmsa]
 
 Persian entries and current tags:
-- p1: در  → Hb
+- p1: در
 - p2: میان
 - p3: تو
 - p4: خدای  → H410
@@ -386,7 +387,7 @@ Persian entries and current tags:
 - p10: خدای  → H410
 - p11: بیگانه  → H5236
 - p12: سَجده  → H7812
-- p13: مکن  → H3808
+- p13: مکن
 - p14: !
 
 ### Psalms 81:10
@@ -454,7 +455,7 @@ Persian entries and current tags:
 - p4: من
 - p5: صدای  → H8085 H6963
 - p6: مرا
-- p7: نشنیدند  → H3808 H8085
+- p7: نشنیدند  → H8085 H3808
 - p8: ،
 - p9: و  → Hc
 - p10: اسرائیل  → H3478
@@ -476,7 +477,7 @@ Original words:
 - o5: בְּ/מוֹעֲצוֹתֵי/הֶם = Hb "in" + H4156 מוֹעֵצָה "a purpose" [HR/Ncfpc/Sp3mp]
 
 Persian entries and current tags:
-- p1: پس
+- p1: پس  → Hc
 - p2: ایشان
 - p3: را
 - p4: به  → Hb
@@ -611,7 +612,7 @@ Persian entries and current tags:
 - p12: عسل  → H1706
 - p13: از  → Hm
 - p14: صخره  → H6697
-- p15: سیر می‌کردم  → H398
+- p15: سیر می‌کردم  → H398 H7646
 - p16: .
 - p17: »
 
@@ -694,7 +695,7 @@ Original words:
 Persian entries and current tags:
 - p1: بینوایان  → H1800
 - p2: و  → Hc
-- p3: یتیمان  → H3490
+- p3: یتیمان
 - p4: را
 - p5: دادرسی کنید  → H8199
 - p6: ،
@@ -721,7 +722,7 @@ Original words:
 - o6: הַצִּילוּ = H5337 נָצַל "to snatch away, whether in a good or a bad sense" [HVhv2mp]
 
 Persian entries and current tags:
-- p1: بینوایان  → H1800
+- p1: بینوایان
 - p2: و  → Hc
 - p3: نیازمندان  → H34
 - p4: را
@@ -860,7 +861,7 @@ Persian entries and current tags:
 - p8: ،
 - p9: زیرا  → H3588
 - p10: تو  → H859
-- p11: قومها  → H1471
+- p11: قومها  → H3605 H1471
 - p12: را
 - p13: جملگی  → H3605
 - p14: به

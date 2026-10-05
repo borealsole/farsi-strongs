@@ -113,7 +113,7 @@ Persian entries and current tags:
 - p8: و  → Hc
 - p9: هان  → H2009
 - p10: در
-- p11: برابرم
+- p11: برابرم  → H5869
 - p12: چهار  → H702
 - p13: ارابه  → H4818
 - p14: بود
@@ -152,14 +152,14 @@ Persian entries and current tags:
 - p3: اسبهایی  → H5483
 - p4: داشت
 - p5: به
-- p6: رنگ  → H5483
+- p6: رنگ
 - p7: سرخ  → H122
 - p8: ،
 - p9: ارابۀ  → H4818
 - p10: دوّم  → H8145
 - p11: اسبهایی  → H5483
 - p12: به
-- p13: رنگ  → H5483
+- p13: رنگ
 - p14: سیاه  → H7838
 - p15: ،
 
@@ -184,14 +184,14 @@ Persian entries and current tags:
 - p2: سوّم  → H7992 H1261
 - p3: اسبهایی  → H5483
 - p4: به
-- p5: رنگ  → H5483
+- p5: رنگ
 - p6: سپید  → H3836
 - p7: و  → Hc
 - p8: ارابۀ  → H4818
 - p9: چهارم  → H7243
 - p10: اسبهایی  → H5483
 - p11: به
-- p12: رنگ  → H5483
+- p12: رنگ
 - p13: اَبلَق  → H1261
 - p14: ،
 - p15: و
@@ -261,10 +261,10 @@ Original words:
 Persian entries and current tags:
 - p1: فرشته  → H4397
 - p2: پاسخ  → H6030
-- p3: داد  → H6030 H559
+- p3: داد  → H559
 - p4: :
 - p5: «
-- p6: اینها
+- p6: اینها  → H428
 - p7: چهار  → H702
 - p8: روح  → H7307
 - p9: آسمان‌اند  → H8064
@@ -305,21 +305,21 @@ Original words:
 
 Persian entries and current tags:
 - p1: ارابه‌‌ای
-- p2: که
+- p2: که  → H834
 - p3: اسبان  → H5483
 - p4: سیاه  → H7838
 - p5: دارد  → H5483
 - p6: ،
 - p7: رو  → H3318
-- p8: به  → H413
-- p9: سوی
+- p8: به
+- p9: سوی  → H413
 - p10: سرزمین  → H776
 - p11: شمال  → H6828
 - p12: می‌نهد
 - p13: ،
 - p14: سپیدها  → H3836
 - p15: به
-- p16: سوی
+- p16: سوی  → H413
 - p17: غرب  → H310
 - p18: ،
 - p19: و  → Hc
@@ -358,7 +358,7 @@ Persian entries and current tags:
 - p6: ،
 - p7: خواهان  → H1245
 - p8: گشت‌زدن  → H1980
-- p9: در
+- p9: در  → Hb
 - p10: جهان  → H776
 - p11: بودند
 - p12: .
@@ -404,11 +404,11 @@ Original words:
 - o15: צָפוֹן = H6828 צָפוֹן "properly, hidden, i.e. dark…" [HNcfsa]
 
 Persian entries and current tags:
-- p1: آنگاه  → Hc H1696
+- p1: آنگاه  → Hc
 - p2: مرا
 - p3: ندا  → H2199
 - p4: کرد  → H2199 H559
-- p5: و  → Hc H1696
+- p5: و  → H1696
 - p6: گفت  → H2199 H559
 - p7: :
 - p8: «
@@ -449,10 +449,11 @@ Persian entries and current tags:
 - p3: خداوند  → H3068
 - p4: بر
 - p5: من
-- p6: نازل شده  → H1961
-- p7: ،
-- p8: گفت  → H559
-- p9: :
+- p6: نازل
+- p7: شده
+- p8: ،
+- p9: گفت  → H559
+- p10: :
 
 ### Zechariah 6:10
 
@@ -483,7 +484,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: «
-- p2: از  → Hm
+- p2: از
 - p3: اسیرانی  → H1473
 - p4: که  → H834
 - p5: از  → Hm
@@ -533,7 +534,7 @@ Original words:
 - o12: הַ/גָּדוֹל = Hd "the" + H1419 גָּדוֹל "great (in any sense); hence, older; also insolent" [HTd/Aamsa]
 
 Persian entries and current tags:
-- p1: طلا  → H3701 H2091
+- p1: طلا  → H3701
 - p2: و  → Hc
 - p3: نقره  → H2091
 - p4: را
@@ -646,7 +647,7 @@ Persian entries and current tags:
 - p5: را  → H853
 - p6: بنا خواهد_کرد  → H1129
 - p7: و  → Hc
-- p8: از  → H5375
+- p8: از
 - p9: جلال
 - p10: ملوکانه  → H1935
 - p11: برخوردار
@@ -663,7 +664,7 @@ Persian entries and current tags:
 - p22: و  → Hc
 - p23: کاهنی  → H3548
 - p24: نیز
-- p25: بر
+- p25: بر  → H5921
 - p26: تخت  → H3678
 - p27: او
 - p28: خواهد_بود
@@ -672,11 +673,10 @@ Persian entries and current tags:
 - p31: آن
 - p32: دو  → H8147
 - p33: مشورت  → H6098
-- p34: صلح‌آمیز  → H7965
-- p35: برقرار
-- p36: خواهد_بود
-- p37: .
-- p38: “‘
+- p34: صلح‌آمیز برقرار  → H7965
+- p35: خواهد_بود
+- p36: .
+- p37: “‘
 
 ### Zechariah 6:14
 
@@ -701,7 +701,7 @@ Persian entries and current tags:
 - p2: آن
 - p3: تاج  → H5850
 - p4: به  → Hl
-- p5: عنوان  → Hl
+- p5: عنوان
 - p6: یادبودِ  → H2146
 - p7: حِلدای  → H2494
 - p8: ،
@@ -713,7 +713,7 @@ Persian entries and current tags:
 - p14: فرزند  → H1121
 - p15: صَفَنیا  → H6846
 - p16: ،
-- p17: در
+- p17: در  → Hb
 - p18: خانۀ  → H1964
 - p19: خداوند  → H3068
 - p20: خواهد_بود

@@ -103,7 +103,7 @@ Persian entries and current tags:
 - p5: را
 - p6: بنا می‌کند  → H1129
 - p7: ،
-- p8: اما
+- p8: اما  → Hc
 - p9: زن
 - p10: نادان  → H2454 H200
 - p11: به  → Hb
@@ -131,7 +131,7 @@ Original words:
 Persian entries and current tags:
 - p1: آن
 - p2: که
-- p3: در
+- p3: در  → Hb
 - p4: راستی  → H3476
 - p5: خود
 - p6: گام  → H1980
@@ -207,9 +207,9 @@ Persian entries and current tags:
 - p8: است
 - p9: ،
 - p10: اما  → Hc
-- p11: از  → Hb
+- p11: از
 - p12: قوّت  → H3581
-- p13: گاو  → H18 H7794
+- p13: گاو  → H504 H7794
 - p14: است
 - p15: که
 - p16: محصول  → H8393
@@ -236,11 +236,11 @@ Persian entries and current tags:
 - p1: شاهد  → H5707 H529
 - p2: امین  → H529
 - p3: دروغ  → H3576 H3577
-- p4: نمی‌گوید
+- p4: نمی‌گوید  → H3808
 - p5: ،
 - p6: اما  → Hc
 - p7: شاهد  → H529 H5707
-- p8: کاذب  → H8267
+- p8: کاذب  → H6315 H8267
 - p9: دروغ  → H3577
 - p10: می‌بافد  → H6315
 - p11: !
@@ -351,14 +351,14 @@ Original words:
 Persian entries and current tags:
 - p1: جاهلان  → H191
 - p2: را
-- p3: توانِ
+- p3: توانِ  → H3887
 - p4: دلجویی  → H817
 - p5: نیست
 - p6: ،
 - p7: اما  → Hc
 - p8: در
 - p9: میان  → H996
-- p10: صالحان  → H3477
+- p10: صالحان  → H191 H3477
 - p11: خشنودی  → H7522
 - p12: است
 - p13: .
@@ -379,7 +379,7 @@ Original words:
 - o8: זָר = H2114 זוּר "to turn aside (especially for lodging)…" [HAamsa]
 
 Persian entries and current tags:
-- p1: تنها  → H4787
+- p1: تنها
 - p2: دل  → H3820
 - p3: از
 - p4: تلخی  → H4787 H8057
@@ -389,7 +389,7 @@ Persian entries and current tags:
 - p8: نیز
 - p9: هیچ  → H3808
 - p10: بیگانه  → H2114
-- p11: در
+- p11: در  → Hb
 - p12: شادی  → H8057
 - p13: آن
 - p14: شریک
@@ -412,7 +412,7 @@ Original words:
 Persian entries and current tags:
 - p1: خانۀ  → H1004
 - p2: شریران
-- p3: ویران خواهد_شد  → H8045 H6524
+- p3: ویران خواهد_شد  → H8045
 - p4: ،
 - p5: اما  → Hc
 - p6: خیمۀ  → H168
@@ -471,7 +471,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: حتی  → H1571
-- p2: در
+- p2: در  → Hb
 - p3: خنده  → H7814
 - p4: نیز
 - p5: دل  → H3820
@@ -563,14 +563,14 @@ Original words:
 - o7: וּ/בוֹטֵחַ = Hc "and" + H982 בָּטַח "figuratively, to trust, be confident or sure" [HC/Vqrmsa]
 
 Persian entries and current tags:
-- p1: حکیم  → H2450 H3373
+- p1: حکیم  → H2450
 - p2: می‌ترسد  → H3373
 - p3: و  → Hc
 - p4: از  → Hm
 - p5: بدی  → H7451
 - p6: اجتناب می‌کند  → H5493
 - p7: ،
-- p8: اما  → Hc
+- p8: اما
 - p9: نادان  → H3684
 - p10: ،
 - p11: آسوده‌خیال  → H982

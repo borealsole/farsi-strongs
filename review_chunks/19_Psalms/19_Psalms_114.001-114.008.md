@@ -106,7 +106,7 @@ Persian entries and current tags:
 - p8: و
 - p9: خاندان  → H1004
 - p10: یعقوب  → H3290
-- p11: از  → Hm
+- p11: از
 - p12: میان
 - p13: قوم  → H5971
 - p14: غریب‌زبان  → H3937
@@ -128,7 +128,7 @@ Persian entries and current tags:
 - p1: یهودا  → H3063
 - p2: قُدسِ  → H6944
 - p3: خدا
-- p4: شد  → H1961
+- p4: شد
 - p5: ،
 - p6: و
 - p7: اسرائیل  → H3478
@@ -157,10 +157,9 @@ Persian entries and current tags:
 - p5: ،
 - p6: و
 - p7: اردن  → H3383
-- p8: به
-- p9: عقب  → H268
-- p10: بازگشت  → H5127
-- p11: ؛
+- p8: به  → Hl
+- p9: عقب بازگشت  → H268
+- p10: ؛
 
 ### Psalms 114:4
 
@@ -222,7 +221,7 @@ Persian entries and current tags:
 - p13: اردن  → H3383
 - p14: ،
 - p15: که  → H3588
-- p16: به  → Hl
+- p16: به
 - p17: عقب  → H5437 H268
 - p18: بازگشتی  → H268
 - p19: ؟

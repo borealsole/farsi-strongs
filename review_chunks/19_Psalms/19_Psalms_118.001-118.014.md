@@ -208,17 +208,17 @@ Persian entries and current tags:
 - p1: در  → H4480
 - p2: تنگی  → H4712
 - p3: خود
-- p4: خداوند  → H3050
+- p4: خداوند
 - p5: را
 - p6: خواندم  → H7121
 - p7: ،
 - p8: و
-- p9: خداوند  → H3050
+- p9: خداوند
 - p10: اجابتم فرموده  → H6030
 - p11: ،
 - p12: مرا
 - p13: فراخی  → H4800
-- p14: بخشید  → H6030
+- p14: بخشید
 - p15: .
 
 ### Psalms 118:6
@@ -243,7 +243,7 @@ Persian entries and current tags:
 - p4: است
 - p5: ،
 - p6: پس
-- p7: نخواهم_ترسید  → H3808 H3372
+- p7: نخواهم_ترسید  → H3808
 - p8: .
 - p9: انسان  → H120
 - p10: به
@@ -294,16 +294,17 @@ Original words:
 - o5: בָּ/אָדָם = Hb "in" + H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HRd/Ncmsa]
 
 Persian entries and current tags:
-- p1: پناه بردن  → H2620
-- p2: بر  → Hb
-- p3: خداوند  → H3068
-- p4: بهتر  → H2896
-- p5: است
-- p6: از  → Hm
-- p7: توکل  → H982
-- p8: بر  → Hb
-- p9: انسان  → H120
-- p10: .
+- p1: پناه
+- p2: بردن  → H2620
+- p3: بر  → Hb
+- p4: خداوند  → H3068
+- p5: بهتر  → H2896
+- p6: است
+- p7: از  → Hm
+- p8: توکل  → H982
+- p9: بر  → Hb
+- p10: انسان  → H120
+- p11: .
 
 ### Psalms 118:9
 
@@ -318,16 +319,17 @@ Original words:
 - o5: בִּ/נְדִיבִים = Hb "in" + H5081 נָדִיב "properly, voluntary, i.e. generous…" [HR/Aampa]
 
 Persian entries and current tags:
-- p1: پناه بردن  → H2620
-- p2: بر  → Hb
-- p3: خداوند  → H3068
-- p4: بهتر  → H2896
-- p5: است
-- p6: از  → Hm
-- p7: توکل  → H982
-- p8: بر  → Hb
-- p9: امیران  → H5081
-- p10: .
+- p1: پناه
+- p2: بردن  → H2620
+- p3: بر  → Hb
+- p4: خداوند  → H3068
+- p5: بهتر  → H2896
+- p6: است
+- p7: از  → Hm
+- p8: توکل  → H982
+- p9: بر  → Hb
+- p10: امیران  → H5081
+- p11: .
 
 ### Psalms 118:10
 
@@ -345,7 +347,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: همۀ  → H3605
-- p2: قومها  → H1471
+- p2: قومها  → H3605 H1471
 - p3: مرا
 - p4: احاطه‌کردند  → H5437
 - p5: ،
@@ -379,7 +381,7 @@ Persian entries and current tags:
 - p4: احاطه‌ام کردند  → H5437
 - p5: ،
 - p6: اما
-- p7: به
+- p7: به  → Hb
 - p8: نام  → H8034
 - p9: خداوند  → H3068
 - p10: ایشان  → H3588 H4135

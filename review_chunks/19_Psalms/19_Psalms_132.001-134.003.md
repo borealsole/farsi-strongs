@@ -129,7 +129,7 @@ Persian entries and current tags:
 - p2: چگونه
 - p3: برای  → Hl
 - p4: خداوند  → H3068
-- p5: سوگند  → H7650 H5087
+- p5: سوگند  → H7650
 - p6: یاد
 - p7: کرد
 - p8: ،
@@ -161,7 +161,7 @@ Original words:
 Persian entries and current tags:
 - p1: «
 - p2: به  → H935
-- p3: خیمه  → H168
+- p3: خیمه
 - p4: و
 - p5: خانۀ  → H1004
 - p6: خویش
@@ -169,7 +169,7 @@ Persian entries and current tags:
 - p8: نخواهم_آمد
 - p9: ،
 - p10: و
-- p11: در  → H5921
+- p11: در
 - p12: بستر  → H6210 H3326
 - p13: و
 - p14: تختخواب  → H3326
@@ -192,10 +192,10 @@ Original words:
 
 Persian entries and current tags:
 - p1: خواب
-- p2: به
+- p2: به  → Hl
 - p3: چشمان  → H5869
 - p4: خود
-- p5: نخواهم_داد
+- p5: نخواهم_داد  → H518
 - p6: ،
 - p7: و
 - p8: نه
@@ -250,7 +250,7 @@ Original words:
 Persian entries and current tags:
 - p1: اینک  → H2009
 - p2: ،
-- p3: در
+- p3: در  → Hb
 - p4: اِفراتَه  → H672
 - p5: ذکر
 - p6: آن
@@ -401,7 +401,7 @@ Persian entries and current tags:
 - p1: خداوند  → H3068
 - p2: برای  → Hl
 - p3: داوود  → H1732
-- p4: براستی
+- p4: براستی  → H571
 - p5: سوگند خورد  → H7650
 - p6: ،
 - p7: و
@@ -409,11 +409,11 @@ Persian entries and current tags:
 - p9: از
 - p10: آن
 - p11: بر
-- p12: نخواهد_گشت
+- p12: نخواهد_گشت  → H7650
 - p13: ،
 - p14: که
 - p15: «
-- p16: از  → Hm
+- p16: از
 - p17: ثمرۀ  → H6529
 - p18: صُلْب  → H990
 - p19: تو
@@ -552,15 +552,16 @@ Persian entries and current tags:
 - p1: آذوقۀ  → H6718
 - p2: آن
 - p3: را
-- p4: به‌یقین  → H1288
+- p4: به‌یقین
 - p5: برکت خواهم_داد  → H1288
 - p6: و
 - p7: نیازمندانش  → H34
 - p8: را
 - p9: به
 - p10: نان  → H3899
-- p11: سیر خواهم_کرد  → H7646
-- p12: .
+- p11: سیر  → H7646 H3899
+- p12: خواهم_کرد
+- p13: .
 
 ### Psalms 132:16
 
@@ -611,7 +612,7 @@ Persian entries and current tags:
 - p4: داوود  → H1732
 - p5: خواهم_رویانید  → H6779
 - p6: ؛
-- p7: چراغی  → H5216
+- p7: چراغی  → H6186 H5216
 - p8: برای  → Hl
 - p9: مسیح  → H4899
 - p10: خویش
@@ -709,7 +710,7 @@ Original words:
 Persian entries and current tags:
 - p1: همچون  → Hk
 - p2: روغن
-- p3: خوشبو  → H2896
+- p3: خوشبو  → H8081 H2896
 - p4: بر  → H5921
 - p5: سر  → H7218
 - p6: است
@@ -725,7 +726,7 @@ Persian entries and current tags:
 - p16: ،
 - p17: که
 - p18: تا
-- p19: به  → H5921
+- p19: به
 - p20: یقۀ  → H6310
 - p21: ردایش  → H4060
 - p22: فرود می‌آید  → H3381
@@ -803,7 +804,7 @@ Original words:
 Persian entries and current tags:
 - p1: هان  → H2009
 - p2: ،
-- p3: خداوند  → H3068
+- p3: خداوند
 - p4: را  → H853
 - p5: متبارک خوانید  → H1288
 - p6: ،
@@ -817,7 +818,7 @@ Persian entries and current tags:
 - p14: خانۀ  → H1004
 - p15: خداوند
 - p16: به  → Hb
-- p17: خدمت
+- p17: خدمت  → H5975
 - p18: می‌ایستید
 - p19: !
 

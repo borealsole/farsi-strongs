@@ -196,7 +196,7 @@ Original words:
 - o9: הַ/גֵּרְשֻׁנִּי = Hd "the" + H1649 גֵּרְשֻׁנִּי "a Gereshonite or descendant of Gereshon" [HTd/Ngmsa]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: جِرشون  → H1648
 - p3: ،
 - p4: طایفۀ  → H4940
@@ -321,9 +321,9 @@ Original words:
 Persian entries and current tags:
 - p1: مسئولیت  → H4931
 - p2: جِرشونیان  → H1648
-- p3: در
+- p3: در  → Hb
 - p4: خیمۀ  → H168
-- p5: ملاقات  → H168 H4150
+- p5: ملاقات  → H4150
 - p6: ،
 - p7: شامل
 - p8: مسکن  → H4908
@@ -336,7 +336,7 @@ Persian entries and current tags:
 - p15: پردۀ  → H4539
 - p16: درِ
 - p17: خیمۀ  → H168
-- p18: ملاقات  → H168 H4150
+- p18: ملاقات  → H4150
 - p19: ،
 
 ### Numbers 3:26
@@ -376,7 +376,7 @@ Persian entries and current tags:
 - p11: گرداگرد  → H5439
 - p12: مسکن  → H4908
 - p13: و  → Hc
-- p14: مذبح  → H4196
+- p14: مذبح
 - p15: بود
 - p16: ،
 - p17: و  → Hc
@@ -459,7 +459,7 @@ Persian entries and current tags:
 - p3: قُدس  → H6944
 - p4: بودند
 - p5: ،
-- p6: و
+- p6: و  → Hc
 - p7: شمار  → H4557
 - p8: تمامی  → H3605
 - p9: ذکوران  → H2145
@@ -496,8 +496,9 @@ Persian entries and current tags:
 - p6: جانب
 - p7: جنوبی  → H8486
 - p8: مسکن  → H4908
-- p9: خیمه می‌زدند  → H2583
-- p10: .
+- p9: خیمه  → H2583 H4908
+- p10: می‌زدند  → H2583
+- p11: .
 
 ### Numbers 3:30
 
@@ -605,7 +606,7 @@ Persian entries and current tags:
 - p5: اِلعازار  → H499
 - p6: پسر  → H1121
 - p7: هارون  → H175
-- p8: کاهن  → H3881 H3548
+- p8: کاهن  → H3548
 - p9: بود
 - p10: .
 - p11: او  → H3548
@@ -638,7 +639,7 @@ Original words:
 - o9: מְרָרִי = H4847 מְרָרִי "Merari, an Israelite" [HNp]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: مِراری  → H4847
 - p3: ،
 - p4: طایفۀ  → H4940

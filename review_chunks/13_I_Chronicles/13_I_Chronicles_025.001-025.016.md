@@ -144,7 +144,7 @@ Persian entries and current tags:
 - p35: انجام
 - p36: می‌دادند
 - p37: ،
-- p38: و
+- p38: و  → Hc
 - p39: شرح
 - p40: وظایفشان  → H5656
 - p41: ،
@@ -177,7 +177,7 @@ Original words:
 - o15: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: پسران  → H1121
 - p3: آساف  → H623
 - p4: :
@@ -191,18 +191,17 @@ Persian entries and current tags:
 - p12: .
 - p13: پسران  → H1121
 - p14: آساف  → H623
-- p15: زیرِ  → H3027
-- p16: دست  → H3027
-- p17: آساف  → H623
-- p18: بودند
-- p19: ،
-- p20: که
-- p21: خودْ
-- p22: زیرِ  → H3027
-- p23: دست  → H3027
-- p24: پادشاه  → H4428
-- p25: نبوّت می‌کرد  → H5012
-- p26: .
+- p15: زیرِ دست  → H3027
+- p16: آساف  → H623
+- p17: بودند
+- p18: ،
+- p19: که
+- p20: خودْ
+- p21: زیرِ  → H3027
+- p22: دست  → H3027
+- p23: پادشاه  → H4428
+- p24: نبوّت می‌کرد  → H5012
+- p25: .
 
 ### I Chronicles 25:3
 
@@ -231,7 +230,7 @@ Original words:
 - o19: לַ/יהוָה = Hl "to" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HR/Np]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: یِدوتون  → H3038
 - p3: ،
 - p4: پسران  → H1121
@@ -262,7 +261,7 @@ Persian entries and current tags:
 - p29: که
 - p30: با  → Hb
 - p31: چنگ  → H3658
-- p32: در  → H5921
+- p32: در
 - p33: سپاس  → H3034
 - p34: و  → Hc
 - p35: ستایش  → H1984
@@ -296,7 +295,7 @@ Original words:
 - o18: מַחֲזִיאוֹת = H4238 מַחֲזִיאוֹת "Machazioth, an Israelite" [HNp]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: هیمان  → H1968
 - p3: ،
 - p4: پسران  → H1121
@@ -367,7 +366,7 @@ Persian entries and current tags:
 - p8: بودند
 - p9: ،
 - p10: که
-- p11: بر  → Hb
+- p11: بر
 - p12: طبق
 - p13: وعدۀ  → H1697
 - p14: خدا  → H430
@@ -389,7 +388,7 @@ Persian entries and current tags:
 - p30: سه  → H7969
 - p31: دختر  → H1323
 - p32: عطا
-- p33: فرمود  → H7311
+- p33: فرمود
 - p34: .
 
 ### I Chronicles 25:6
@@ -433,7 +432,7 @@ Persian entries and current tags:
 - p11: خدمتِ  → H5656
 - p12: خانۀ  → H1004
 - p13: خدا  → H430
-- p14: با  → Hb
+- p14: با
 - p15: سنج  → H4700
 - p16: و
 - p17: چنگ  → H4700 H5035
@@ -535,7 +534,7 @@ Persian entries and current tags:
 - p14: و
 - p15: شاگرد  → H8527
 - p16: ،
-- p17: به
+- p17: به  → Hl
 - p18: یکسان  → H5980
 - p19: .
 
@@ -564,19 +563,19 @@ Persian entries and current tags:
 - p3: پسران
 - p4: آساف  → H623
 - p5: ،
-- p6: به  → Hl
+- p6: به
 - p7: نام
-- p8: یوسف  → H3130
+- p8: یوسف
 - p9: درآمد  → H3318
 - p10: .
-- p11: قرعۀ  → H1486
+- p11: قرعۀ
 - p12: دوّم  → H8145
 - p13: به
 - p14: نام
 - p15: جِدَلیا  → H1436
 - p16: درآمد  → H3318
 - p17: ؛
-- p18: او
+- p18: او  → H1931
 - p19: و  → Hc
 - p20: بستگان  → H251
 - p21: و  → Hc
@@ -638,7 +637,7 @@ Original words:
 Persian entries and current tags:
 - p1: قرعۀ
 - p2: چهارم  → H7243
-- p3: به  → Hl
+- p3: به
 - p4: نام
 - p5: یِصری  → H3339
 - p6: درآمد
@@ -704,7 +703,7 @@ Original words:
 - o6: עָשָׂר = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcmsa]
 
 Persian entries and current tags:
-- p1: قرعۀ  → H1232
+- p1: قرعۀ
 - p2: ششم  → H8345
 - p3: به
 - p4: نام
@@ -806,7 +805,7 @@ Original words:
 - o6: עָשָׂר = H6240 עָשָׂר "ten (only in combination), i.e. -teen…" [HAcmsa]
 
 Persian entries and current tags:
-- p1: قرعۀ  → H4983
+- p1: قرعۀ
 - p2: نهم  → H8671
 - p3: به
 - p4: نام
@@ -820,7 +819,7 @@ Persian entries and current tags:
 - p12: بستگانش  → H251
 - p13: بر
 - p14: روی
-- p15: هم
+- p15: هم  → H8147
 - p16: دوازده  → H8147 H6240
 - p17: تن
 - p18: بودند

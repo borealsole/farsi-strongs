@@ -2,7 +2,9 @@
 
 Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
-## 12 verse(s) with changes
+No change from the current tags (will be skipped): Proverbs 25:23.
+
+## 11 verse(s) with changes
 
 ### Proverbs 25:15: 5 word(s) changed
 
@@ -77,7 +79,7 @@ Original words:
 |  | کنی | [قی‌اش کنی] H6958 | [قی‌اش کنی] H6958 |
 |  | . |  |  |
 
-### Proverbs 25:17: 5 word(s) changed
+### Proverbs 25:17: 3 word(s) changed
 
 Reply line 4.
 
@@ -106,8 +108,8 @@ Original words:
 |  | مبادا | H6435 | H6435 |
 |  | از |  |  |
 |  | دیدنت |  |  |
-| ✱ | سیر |  | [سیر شود] H7646 שָׂבַע "to sate…" |
-| ✱ | شود |  | [سیر شود] H7646 שָׂבַע "to sate…" |
+|  | سیر | [سیر شود] H7646 | [سیر شود] H7646 |
+|  | شود | [سیر شود] H7646 | [سیر شود] H7646 |
 |  | و | Hc | Hc |
 |  | از |  |  |
 |  | تو |  |  |
@@ -115,7 +117,7 @@ Original words:
 |  | گردد | [بیزار گردد] H8130 | [بیزار گردد] H8130 |
 |  | . |  |  |
 
-### Proverbs 25:18: 3 word(s) changed
+### Proverbs 25:18: 2 word(s) changed
 
 Reply line 5.
 
@@ -145,7 +147,7 @@ Original words:
 |  | است | [تیز است] H8150 | [تیز است] H8150 |
 |  | آن | H376 | H376 |
 |  | که |  |  |
-| ✱ | بر |  | Hb "in" |
+|  | بر | Hb | Hb |
 |  | همنوع | [همنوع خویش] H7453 | [همنوع خویش] H7453 |
 |  | خویش | [همنوع خویش] H7453 | [همنوع خویش] H7453 |
 |  | شهادت | H5707 | H5707 |
@@ -187,7 +189,7 @@ Original words:
 | ✱ | تنگی | H4154 מוּעֶדֶת "properly, made to slip…"; H6869 צָרָה "tightness (i.e. figuratively…" | H6869 צָרָה "tightness (i.e. figuratively…" |
 |  | . |  |  |
 
-### Proverbs 25:20: 4 word(s) changed
+### Proverbs 25:20: 2 word(s) changed
 
 Reply line 7.
 
@@ -212,8 +214,8 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | آواز | H7892 | H7892 |
-| ✱ | خواندن | [خواندن نزد] H7891 שִׁיר "to sing" | H7891 שִׁיר "to sing" |
-| ✱ | نزد | [خواندن نزد] H7891 שִׁיר "to sing" | H5921 עַל "above, over, upon…" |
+|  | خواندن | H7891 | H7891 |
+|  | نزد | H5921 | H5921 |
 |  | دلی | H3820 | H3820 |
 |  | دردمند | H7451 | H7451 |
 |  | ، |  |  |
@@ -229,39 +231,7 @@ Original words:
 |  | زخمش | H5427 | H5427 |
 |  | . |  |  |
 
-### Proverbs 25:23: 1 word(s) changed
-
-Reply line 8.
-
-Original: רוּחַ צָפוֹן תְּחוֹלֵל גָּשֶׁם וּ/פָנִים נִזְעָמִים לְשׁוֹן סָתֶר
-
-Persian: باد شمالی باران می‌آورد، زبان غیبتگو، نگاههای خشمگین.
-
-Original words:
-- o1: רוּחַ = H7307 רוּחַ "wind…" [HNcbsc]
-- o2: צָפוֹן = H6828 צָפוֹן "properly, hidden, i.e. dark…" [HNcfsa]
-- o3: תְּחוֹלֵל = H2342 חוּל "properly…" [HVoi3fs]
-- o4: גָּשֶׁם = H1653 גֶּשֶׁם "a shower" [HNcmsa]
-- o5: וּ/פָנִים = Hc "and" + H6440 פָּנִים "the face (as the part that turns)…" [HC/Ncbpa]
-- o6: נִזְעָמִים = H2194 זָעַם "properly, to foam at the mouth, i.e. to be enraged" [HVNrmpa]
-- o7: לְשׁוֹן = H3956 לָשׁוֹן "the tongue (of man or animals)…" [HNcbsc]
-- o8: סָתֶר = H5643 סֵתֶר "a cover (in a good or a bad…" [HNcmsa]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | باد | H7307 | H7307 |
-|  | شمالی | H6828 | H6828 |
-|  | باران | H1653 | H1653 |
-| ✱ | می‌آورد |  | H2342 חוּל "properly…" |
-|  | ، |  |  |
-|  | زبان | H3956 | H3956 |
-|  | غیبتگو | H5643 | H5643 |
-|  | ، |  |  |
-|  | نگاههای | H6440 | H6440 |
-|  | خشمگین | H2194 | H2194 |
-|  | . |  |  |
-
-### Proverbs 25:24: 5 word(s) changed
+### Proverbs 25:24: 6 word(s) changed
 
 Reply line 9.
 
@@ -285,20 +255,20 @@ Original words:
 |  | سکونت | H3427 | H3427 |
 |  | در | H5921 | H5921 |
 |  | کُنجِ | H6438 | H6438 |
-|  | بام | H1406 | H1406 |
+| ✱ | بام |  | H1406 גָּג "a roof…" |
 |  | ، |  |  |
 | ✱ | بِه |  | H2896 טוֹב "good (as an adjective) in the…" |
-|  | از | Hm | Hm |
+| ✱ | از |  | Hm "from" |
 | ✱ | زندگی | H3427 יָשַׁב "properly…" |  |
 |  | زیر |  |  |
 | ✱ | یک |  | H2267 חֶבֶר "a society; also a spell" |
-| ✱ | سقف | H6438 פִּנָּה "an angle…"; H1004 בַּיִת "a house (in the greatest…"; H2267 חֶבֶר "a society; also a spell" | H1004 בַּיִת "a house (in the greatest…" |
+| ✱ | سقف | H6438 פִּנָּה "an angle…"; H1004 בַּיִת "a house (in the greatest…" | H1004 בַּיִת "a house (in the greatest…" |
 |  | با |  |  |
 |  | زن | H802 | H802 |
-| ✱ | ستیزه‌جو | H4066 מָדוֹן "a contest or quarrel"; H2267 חֶבֶר "a society; also a spell" | H4066 מָדוֹן "a contest or quarrel" |
+|  | ستیزه‌جو | H4066 | H4066 |
 |  | . |  |  |
 
-### Proverbs 25:25: 4 word(s) changed
+### Proverbs 25:25: 3 word(s) changed
 
 Reply line 10.
 
@@ -322,7 +292,7 @@ Original words:
 |  | خبر | H8052 | H8052 |
 | ✱ | خوش | H7119 קַר "cool; figuratively, quiet"; H2896 טוֹב "good (as an adjective) in the…" | H2896 טוֹב "good (as an adjective) in the…" |
 |  | از | Hm | Hm |
-| ✱ | دیار | H5889 עָיֵף "languid"; H776 אֶרֶץ "the earth (at large…" | H776 אֶרֶץ "the earth (at large…" |
+|  | دیار | H776 | H776 |
 |  | دوردست | H4801 | H4801 |
 |  | ، |  |  |
 |  | آبی | H4325 | H4325 |
@@ -370,7 +340,7 @@ Original words:
 |  | مانَد |  |  |
 |  | . |  |  |
 
-### Proverbs 25:27: 3 word(s) changed
+### Proverbs 25:27: 2 word(s) changed
 
 Reply line 12.
 
@@ -394,7 +364,7 @@ Original words:
 |  | زیاد | H7235 | H7235 |
 |  | خوردن | H398 | H398 |
 |  | ، |  |  |
-| ✱ | نیکو | H2896 טוֹב "good (as an adjective) in the…"; H3519 כָּבוֹד "properly, weight…" | H2896 טוֹב "good (as an adjective) in the…" |
+|  | نیکو | H2896 | H2896 |
 |  | نیست | H3808 | H3808 |
 |  | ، |  |  |
 | ✱ | در |  | [در پی] H2714 חֵקֶר "examination, enumeration…" |
@@ -440,7 +410,7 @@ Original words:
 | ✱ | بی‌حصار | H2346 חוֹמָה "a wall of protection" | H369 אַיִן "a non-entity…"; H2346 חוֹמָה "a wall of protection" |
 |  | را |  |  |
 |  | مانَد |  |  |
-| ✱ | که | H834 אֲשֶׁר "who, which, what, that…" |  |
+| ✱ | که | H376 אִישׁ "a man as an individual or a…"; H834 אֲשֶׁר "who, which, what, that…" |  |
 |  | بدان |  |  |
 |  | رخنه | [رخنه کرده_باشند] H6555 | [رخنه کرده_باشند] H6555 |
 |  | کرده_باشند | [رخنه کرده_باشند] H6555 | [رخنه کرده_باشند] H6555 |

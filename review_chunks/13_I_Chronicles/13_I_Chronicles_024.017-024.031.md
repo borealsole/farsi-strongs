@@ -95,16 +95,16 @@ Original words:
 - o6: וְ/עֶשְׂרִים = Hc "and" + H6242 עֶשְׂרִים "twenty; also (ordinal) twentieth" [HC/Acbpa]
 
 Persian entries and current tags:
-- p1: بیست  → H259 H6242
-- p2: و  → H259 Hc
+- p1: بیست  → H6242
+- p2: و  → H259 Hc H6242
 - p3: یکمین  → H259 H6242
 - p4: به
 - p5: نام
 - p6: یاکین  → H3199
 - p7: ،
 - p8: بیست  → H6242
-- p9: و  → H259 H6242 Hc
-- p10: دوّمین  → H6242 H8147
+- p9: و  → H6242 Hc
+- p10: دوّمین  → H8147 H6242
 - p11: به
 - p12: نام
 - p13: جامول  → H1577
@@ -131,10 +131,10 @@ Persian entries and current tags:
 - p5: نام
 - p6: دِلایا  → H1806
 - p7: ،
-- p8: و  → H7969 Hc
+- p8: و  → H7969 H6242 Hc
 - p9: بیست  → H7969 H6242
 - p10: و  → Hc
-- p11: چهارمین  → H702 H6242
+- p11: چهارمین  → H6242 H702
 - p12: قرعه
 - p13: به
 - p14: نام
@@ -164,35 +164,36 @@ Original words:
 - o15: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
 
 Persian entries and current tags:
-- p1: این
+- p1: این  → H428
 - p2: بود
 - p3: ترتیب  → H6486
-- p4: انجام
+- p4: انجام  → H5656
 - p5: وظیفۀ
 - p6: ایشان  → H428
-- p7: در  → Hl
+- p7: در
 - p8: خصوص
-- p9: داخل شدن  → H935
-- p10: به  → Hl
-- p11: خانۀ  → H1004
-- p12: خداوند  → H3068
-- p13: بر
-- p14: حسب  → Hk
-- p15: دستورالعملی که  → H4941
-- p16: به  → Hb
-- p17: واسطۀ  → H3027
-- p18: پدرشان  → H1
-- p19: هارون  → H175
-- p20: ،
-- p21: مطابق  → Hk
-- p22: فرمان  → H3068 H6680
-- p23: یهوه  → H3068
-- p24: خدای  → H430
-- p25: اسرائیل  → H3478
-- p26: ،
-- p27: بدیشان
-- p28: داده_شد
-- p29: .
+- p9: داخل
+- p10: شدن
+- p11: به  → Hl
+- p12: خانۀ  → H1004
+- p13: خداوند  → H3068
+- p14: بر
+- p15: حسب  → Hk
+- p16: دستورالعملی که  → H4941
+- p17: به  → Hb
+- p18: واسطۀ  → H3027
+- p19: پدرشان  → H1
+- p20: هارون  → H175
+- p21: ،
+- p22: مطابق  → Hk
+- p23: فرمان  → H3068 H6680
+- p24: یهوه  → H3068
+- p25: خدای  → H430
+- p26: اسرائیل  → H3478
+- p27: ،
+- p28: بدیشان
+- p29: داده_شد
+- p30: .
 
 ### I Chronicles 24:20
 
@@ -211,24 +212,25 @@ Original words:
 - o9: יֶחְדְּיָהוּ = H3165 יֶחְדִּיָּהוּ "Jechdijah, the name of two Israelites" [HNp]
 
 Persian entries and current tags:
-- p1: و اما  → Hc
-- p2: دربارۀ
-- p3: بقیۀ  → H3498
-- p4: پسران  → H1121
-- p5: لاوی  → H3878
-- p6: :
-- p7: از
-- p8: پسران  → H1121
-- p9: عَمرام  → H6019
-- p10: :
-- p11: شوبائیل  → H7619
-- p12: ؛
-- p13: از
-- p14: پسران  → H1121
-- p15: شوبائیل  → H7619
-- p16: :
-- p17: یِحْدِیا  → H3165
-- p18: .
+- p1: و  → Hc
+- p2: اما
+- p3: دربارۀ
+- p4: بقیۀ  → H3498
+- p5: پسران  → H1121
+- p6: لاوی  → H3878
+- p7: :
+- p8: از
+- p9: پسران  → H1121
+- p10: عَمرام  → H6019
+- p11: :
+- p12: شوبائیل  → H7619
+- p13: ؛
+- p14: از  → Hl
+- p15: پسران  → H1121
+- p16: شوبائیل  → H7619
+- p17: :
+- p18: یِحْدِیا  → H3165
+- p19: .
 
 ### I Chronicles 24:21
 
@@ -243,10 +245,10 @@ Original words:
 - o5: יִשִּׁיָּה = H3449 יִשִּׁיָּה "Jishshijah, the name of five Israelites" [HNp]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: رِحَبیا  → H7345
 - p3: :
-- p4: از
+- p4: از  → Hl
 - p5: پسرانش  → H1121
 - p6: ،
 - p7: یِشّیا  → H7345 H3449
@@ -268,12 +270,12 @@ Original words:
 - o5: יָחַת = H3189 יַחַת "Jachath, the name of four Israelites" [HNp]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: یِصهاریان  → H3325
 - p3: :
 - p4: شِلوموت  → H8013
 - p5: ؛
-- p6: از
+- p6: از  → Hl
 - p7: پسران  → H1121
 - p8: شِلوموت  → H8013
 - p9: :
@@ -338,7 +340,7 @@ Persian entries and current tags:
 - p3: :
 - p4: میکاه  → H4318
 - p5: ؛
-- p6: از
+- p6: از  → Hl
 - p7: پسران  → H1121
 - p8: میکاه  → H4318
 - p9: :
@@ -364,7 +366,7 @@ Persian entries and current tags:
 - p3: :
 - p4: یِشّیا  → H3449
 - p5: ؛
-- p6: از
+- p6: از  → Hl
 - p7: پسران  → H1121
 - p8: یِشّیا  → H3449
 - p9: :
@@ -396,7 +398,7 @@ Persian entries and current tags:
 - p8: پسر  → H1121
 - p9: یَعَزیا  → H3269
 - p10: :
-- p11: بِنو
+- p11: بِنو  → H1121
 - p12: .
 
 ### I Chronicles 24:27
@@ -417,10 +419,10 @@ Persian entries and current tags:
 - p1: پسران  → H1121
 - p2: مِراری  → H4847
 - p3: :
-- p4: از
+- p4: از  → Hl
 - p5: یَعَزیا  → H3269
 - p6: :
-- p7: بِنو
+- p7: بِنو  → H1121
 - p8: و  → Hc
 - p9: شوهَم  → H7719
 - p10: و  → Hc
@@ -443,7 +445,7 @@ Original words:
 - o6: בָּנִים = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpa]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: مَحْلی  → H4249
 - p3: :
 - p4: اِلعازار  → H499
@@ -465,7 +467,7 @@ Original words:
 - o4: יְרַחְמְאֵל = H3396 יְרַחְמְאֵל "Jerachmeel, the name of three Israelites" [HNp]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: قِیس  → H7027
 - p3: :
 - p4: پسرِ  → H1121
@@ -559,12 +561,12 @@ Persian entries and current tags:
 - p17: و  → Hc
 - p18: سران  → H7218
 - p19: خاندانهای  → H1
-- p20: کاهنان  → H6659 H288 H3548
+- p20: کاهنان  → H288 H3548
 - p21: و  → Hc
 - p22: لاویان  → H3881
 - p23: ،
 - p24: بر
-- p25: حسب  → Hl
+- p25: حسب  → H5307
 - p26: قرعه  → H1486
 - p27: منصوب
 - p28: شدند
@@ -577,7 +579,7 @@ Persian entries and current tags:
 - p35: به
 - p36: یکسان  → H5980
 - p37: بر
-- p38: حسب  → Hl
+- p38: حسب  → H5307 Hl
 - p39: قرعه  → H1486
 - p40: منصوب
 - p41: گردیدند

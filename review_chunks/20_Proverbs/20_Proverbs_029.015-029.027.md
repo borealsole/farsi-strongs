@@ -243,7 +243,7 @@ Persian entries and current tags:
 - p13: اما  → Hc
 - p14: به
 - p15: جا
-- p16: نمی‌آورد  → H4617
+- p16: نمی‌آورد  → H369 H4617
 - p17: .
 
 ### Proverbs 29:20
@@ -331,7 +331,7 @@ Original words:
 Persian entries and current tags:
 - p1: مرد  → H376
 - p2: کج‌خُلق  → H639
-- p3: نزاع  → H4066
+- p3: نزاع  → H4066 H6588
 - p4: برمی‌انگیزد  → H1624
 - p5: ،
 - p6: و  → Hc
@@ -401,7 +401,7 @@ Persian entries and current tags:
 - p10: قسم
 - p11: داده_می‌شود  → H8085
 - p12: ،
-- p13: اما  → Hc
+- p13: اما
 - p14: هیچ  → H3808
 - p15: نمی‌گوید  → H5046
 - p16: .
@@ -492,7 +492,7 @@ Persian entries and current tags:
 - p5: راه  → H1870
 - p6: خود
 - p7: را
-- p8: کج
+- p8: کج  → H6662
 - p9: می‌سازند
 - p10: ،
 - p11: کراهت  → H8441

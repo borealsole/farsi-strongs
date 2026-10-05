@@ -95,7 +95,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: من  → H589
-- p2: نرگسِ
+- p2: نرگسِ  → H2261
 - p3: شارونم  → H8289
 - p4: ،
 - p5: من
@@ -156,7 +156,7 @@ Original words:
 Persian entries and current tags:
 - p1: همچون  → Hk
 - p2: درخت سیبی  → H8598
-- p3: در
+- p3: در  → Hb
 - p4: میان
 - p5: درختان  → H6086
 - p6: جنگل  → H3293
@@ -204,7 +204,7 @@ Persian entries and current tags:
 - p2: مرا
 - p3: به  → H413
 - p4: میخانه  → H1004
-- p5: درآورده  → H935
+- p5: درآورده  → H935 H3196
 - p6: ،
 - p7: و  → Hc
 - p8: عشق  → H160
@@ -307,7 +307,7 @@ Persian entries and current tags:
 - p5: شما
 - p6: را  → H853
 - p7: به  → Hb
-- p8: غزالها  → H6643
+- p8: غزالها  → H6643 H7704
 - p9: و  → H176
 - p10: آهوانِ  → H355
 - p11: صحرا  → H7704
@@ -317,12 +317,12 @@ Persian entries and current tags:
 - p15: عشق  → H160
 - p16: را  → H853
 - p17: تا  → H5704
-- p18: سیر  → H5782
+- p18: سیر
 - p19: نگشته  → H518
 - p20: ،
 - p21: زحمت  → H5782 H2654
-- p22: مرسانید
-- p23: و  → H176 Hc
+- p22: مرسانید  → H5782
+- p23: و  → Hc
 - p24: بازمدارید  → H5782
 - p25: !
 
@@ -411,10 +411,10 @@ Persian entries and current tags:
 - p17: ایستاده_است  → H5975
 - p18: !
 - p19: از
-- p20: پنجره‌ها  → H2762
+- p20: پنجره‌ها
 - p21: می‌نگرد  → H6692
 - p22: ،
-- p23: از
+- p23: از  → H4480
 - p24: میان
 - p25: شبکه‌ها  → H2474
 - p26: نگاه می‌کند  → H7688
@@ -442,7 +442,7 @@ Persian entries and current tags:
 - p2: من
 - p3: ندا
 - p4: در
-- p5: داده
+- p5: داده  → H6030
 - p6: ،
 - p7: مرا
 - p8: گوید  → H559
@@ -514,7 +514,7 @@ Original words:
 Persian entries and current tags:
 - p1: زمین  → H776
 - p2: گلشن  → H5339
-- p3: گشته
+- p3: گشته  → H776
 - p4: ،
 - p5: زمان  → H6256
 - p6: نغمه‌سرایی  → H2159
@@ -522,7 +522,7 @@ Persian entries and current tags:
 - p8: ،
 - p9: و  → Hc
 - p10: آواز  → H6963
-- p11: فاخته  → H8449
+- p11: فاخته  → H7200 H8449
 - p12: در  → Hb
 - p13: ولایت  → H776
 - p14: ما
@@ -610,9 +610,9 @@ Persian entries and current tags:
 - p3: من
 - p4: ،
 - p5: که
-- p6: در
+- p6: در  → Hb
 - p7: شکافهای  → H2288
-- p8: صخره  → H5553 H4095
+- p8: صخره  → H5553
 - p9: و
 - p10: جایهای
 - p11: مخفی  → H5643
@@ -745,7 +745,7 @@ Persian entries and current tags:
 - p5: پیش  → H5704
 - p6: از
 - p7: آنکه
-- p8: نسیمِ
+- p8: نسیمِ  → H6315
 - p9: روز  → H3117
 - p10: وزیدن گیرد  → H6315
 - p11: ،

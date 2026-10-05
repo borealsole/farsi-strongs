@@ -2,7 +2,9 @@
 
 Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
-## 13 verse(s) with changes
+No change from the current tags (will be skipped): Proverbs 26:26.
+
+## 12 verse(s) with changes
 
 ### Proverbs 26:15: 1 word(s) changed
 
@@ -38,7 +40,7 @@ Original words:
 |  | برنمی‌آورد | H7725 | H7725 |
 |  | ! |  |  |
 
-### Proverbs 26:16: 2 word(s) changed
+### Proverbs 26:16: 3 word(s) changed
 
 Reply line 3.
 
@@ -57,14 +59,14 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | کاهل | H6102 | H6102 |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | چشم | H5869 | H5869 |
 |  | خود |  |  |
 |  | حکیمتر | H2450 | H2450 |
 |  | است |  |  |
 |  | از | Hm | Hm |
-|  | هفت | H7651 | H7651 |
-|  | تن |  |  |
+| ✱ | هفت | [هفت تن] H7651 שֶׁבַע "seven (as the sacred full…" | H7651 שֶׁבַע "seven (as the sacred full…" |
+| ✱ | تن | [هفت تن] H7651 שֶׁבַע "seven (as the sacred full…" |  |
 |  | که |  |  |
 |  | پاسخِ | H7725 | H7725 |
 |  | خردمندانه | H2940 | H2940 |
@@ -104,7 +106,7 @@ Original words:
 | ✱ | دیگران | H241 אֹזֶן "broadness. i.e. (concrete)…" | H3808 לֹא "not (the simple or abs.…"; Hl "to" |
 |  | ! |  |  |
 
-### Proverbs 26:18: 3 word(s) changed
+### Proverbs 26:18: 5 word(s) changed
 
 Reply line 5.
 
@@ -123,10 +125,10 @@ Original words:
 | --- | --- | --- | --- |
 |  | دیوانه‌ای | H3856 | H3856 |
 |  | را |  |  |
-| ✱ | مانَد |  | Hk "like" |
+| ✱ | مانَد | H3384 יָרָה "properly…" | Hk "like" |
 |  | که |  |  |
-|  | تیرهای | H2671 | H2671 |
-|  | آتشین | H2131 | H2131 |
+| ✱ | تیرهای |  | H2671 חֵץ "properly, a piercer…" |
+| ✱ | آتشین | H2131 זִיקָה "properly, what leaps forth…"; H2671 חֵץ "properly, a piercer…" | H2131 זִיקָה "properly, what leaps forth…" |
 |  | و | Hc | Hc |
 |  | مرگبار | H4194 | H4194 |
 | ✱ | پرتاب | H3384 יָרָה "properly…"; H2671 חֵץ "properly, a piercer…" | [پرتاب کند] H3384 יָרָה "properly…" |
@@ -168,7 +170,7 @@ Original words:
 |  | می‌پذیرد | [پایان می‌پذیرد] H8367 | [پایان می‌پذیرد] H8367 |
 |  | . |  |  |
 
-### Proverbs 26:21: 2 word(s) changed
+### Proverbs 26:21: 1 word(s) changed
 
 Reply line 7.
 
@@ -193,7 +195,7 @@ Original words:
 |  | برای | Hl | Hl |
 |  | اخگر | H1513 | H1513 |
 |  | و | Hc | Hc |
-| ✱ | چوب | H6352 פֶּחָם "a coal…"; H6086 עֵץ "a tree (from its firmness)…" | H6086 עֵץ "a tree (from its firmness)…" |
+|  | چوب | H6086 | H6086 |
 |  | برای | Hl | Hl |
 |  | آتش | H784 | H784 |
 |  | است |  |  |
@@ -207,7 +209,7 @@ Original words:
 |  | نزاع | H7379 | H7379 |
 |  | . |  |  |
 
-### Proverbs 26:22: 2 word(s) changed
+### Proverbs 26:22: 5 word(s) changed
 
 Reply line 8.
 
@@ -228,15 +230,15 @@ Original words:
 | --- | --- | --- | --- |
 |  | کلمات | H1697 | H1697 |
 |  | سخن‌چین | H5372 | H5372 |
-|  | لقمه‌های | H3859 | H3859 |
-| ✱ | لذیذ | H5372 נִרְגָּן "a slanderer"; H3859 לָהַם "properly, to burn in…" | H3859 לָהַם "properly, to burn in…" |
+| ✱ | لقمه‌های | [لقمه‌های لذیذ] H3859 לָהַם "properly, to burn in…" | H3859 לָהַם "properly, to burn in…" |
+| ✱ | لذیذ | [لقمه‌های لذیذ] H3859 לָהַם "properly, to burn in…" | H3859 לָהַם "properly, to burn in…" |
 |  | را |  |  |
 | ✱ | مانَد |  | Hk "like" |
 |  | که |  |  |
 |  | به |  |  |
 |  | اعماق | H2315 | H2315 |
-|  | وجود | [وجود انسان] H990 | [وجود انسان] H990 |
-|  | انسان | [وجود انسان] H990 | [وجود انسان] H990 |
+| ✱ | وجود |  | [وجود انسان] H990 בֶּטֶן "the belly…" |
+| ✱ | انسان | H990 בֶּטֶן "the belly…" | [وجود انسان] H990 בֶּטֶן "the belly…" |
 |  | فرو~می‌رود | H3381 | H3381 |
 |  | . |  |  |
 
@@ -263,22 +265,22 @@ Original words:
 | --- | --- | --- | --- |
 |  | لبهای | H8193 | H8193 |
 | ✱ | پر |  | [پر شور] H1814 דָּלַק "to flame (literally or…" |
-| ✱ | شور |  | [پر شور] H1814 דָּלַק "to flame (literally or…" |
+| ✱ | شور | H1814 דָּלַק "to flame (literally or…" | [پر شور] H1814 דָּלַק "to flame (literally or…" |
 | ✱ | با |  | Hc "and" |
 |  | دلی | H3820 | H3820 |
 |  | شریر | H7451 | H7451 |
 |  | ، |  |  |
-|  | ظرفی | H2789 | H2789 |
-| ✱ | گِلی |  | H2789 חֶרֶשׂ "a piece of pottery" |
+| ✱ | ظرفی |  | H2789 חֶרֶשׂ "a piece of pottery" |
+| ✱ | گِلی | H5509 סִיג "scoria" | H2789 חֶרֶשׂ "a piece of pottery" |
 |  | است |  |  |
-| ✱ | اندوده |  | H6823 צָפָה "to sheet over (especially…" |
+|  | اندوده | H6823 | H6823 |
 |  | به | H5921 | H5921 |
 |  | نقرۀ | H3701 | H3701 |
 | ✱ | پُر |  | [پُر زنگار] H5509 סִיג "scoria" |
-| ✱ | زنگار | H5509 סִיג "scoria"; H3820 לֵב "the heart…" | [پُر زنگار] H5509 סִיג "scoria" |
+| ✱ | زنگار | H5509 סִיג "scoria" | [پُر زنگار] H5509 סִיג "scoria" |
 |  | ! |  |  |
 
-### Proverbs 26:24: 8 word(s) changed
+### Proverbs 26:24: 7 word(s) changed
 
 Reply line 10.
 
@@ -296,13 +298,13 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | کینه‌توز |  | H8130 שָׂנֵא "to hate (personally)" |
-| ✱ | با |  | Hb "in" |
+| ✱ | کینه‌توز | H5234 נָכַר "properly, to scrutinize…"; H8130 שָׂנֵא "to hate (personally)" | H8130 שָׂנֵא "to hate (personally)" |
+|  | با | Hb | Hb |
 | ✱ | سخنانش |  | H8193 שָׂפָה "the lip (as a natural…" |
 | ✱ | کینۀ | [کینۀ خود] H5234 נָכַר "properly, to scrutinize…" |  |
 | ✱ | خود | [کینۀ خود] H5234 נָכַר "properly, to scrutinize…" |  |
 |  | را |  |  |
-| ✱ | پنهان |  | [پنهان می‌کند] H5234 נָכַר "properly, to scrutinize…" |
+| ✱ | پنهان | H7896 שִׁית "to place (in a very wide…" | [پنهان می‌کند] H5234 נָכַר "properly, to scrutinize…" |
 | ✱ | می‌کند | H5234 נָכַר "properly, to scrutinize…" | [پنهان می‌کند] H5234 נָכַר "properly, to scrutinize…" |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
@@ -354,41 +356,7 @@ Original words:
 |  | است |  |  |
 |  | . |  |  |
 
-### Proverbs 26:26: 1 word(s) changed
-
-Reply line 12.
-
-Original: תִּכַּסֶּה שִׂנְאָה בְּ/מַשָּׁאוֹן תִּגָּלֶה רָעָת/וֹ בְ/קָהָל
-
-Persian: هرچند بُغض خویش به حیله پنهان دارد، شرارتش در میان جمع آشکار خواهد_شد.
-
-Original words:
-- o1: תִּכַּסֶּה = H3680 כָּסָה "properly, to plump, i.e. fill up hollows…" [HVNi3fs]
-- o2: שִׂנְאָה = H8135 שִׂנְאָה "hate" [HNcfsa]
-- o3: בְּ/מַשָּׁאוֹן = Hb "in" + H4860 מַשָּׁאוֹן "dissimulation" [HR/Ncmsa]
-- o4: תִּגָּלֶה = H1540 גָּלָה "to denude (especially in a disgraceful sense)…" [HVNi3fs]
-- o5: רָעָת/וֹ = H7451 רַע "bad or (as noun) evil (natural or moral)" [HNcfsc/Sp3ms]
-- o6: בְ/קָהָל = Hb "in" + H6951 קָהָל "assemblage (usually concretely)" [HR/Ncmsa]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | هرچند |  |  |
-|  | بُغض | H8135 | H8135 |
-|  | خویش |  |  |
-|  | به | Hb | Hb |
-|  | حیله | H4860 | H4860 |
-|  | پنهان | [پنهان دارد] H3680 | [پنهان دارد] H3680 |
-|  | دارد | [پنهان دارد] H3680 | [پنهان دارد] H3680 |
-|  | ، |  |  |
-|  | شرارتش | H7451 | H7451 |
-| ✱ | در |  | Hb "in" |
-|  | میان |  |  |
-|  | جمع | H6951 | H6951 |
-|  | آشکار | [آشکار خواهد_شد] H1540 | [آشکار خواهد_شد] H1540 |
-|  | خواهد_شد | [آشکار خواهد_شد] H1540 | [آشکار خواهد_شد] H1540 |
-|  | . |  |  |
-
-### Proverbs 26:27: 7 word(s) changed
+### Proverbs 26:27: 6 word(s) changed
 
 Reply line 13.
 
@@ -421,16 +389,16 @@ Original words:
 |  | هر |  |  |
 |  | که |  |  |
 |  | سنگی | H68 | H68 |
-| ✱ | بغلتاند |  | H1556 גָּלַל "to roll (literally or…" |
+|  | بغلتاند | H1556 | H1556 |
 |  | ، |  |  |
 | ✱ | به | H413 אֵל "near, with or among…" | [به سوی] H413 אֵל "near, with or among…" |
 | ✱ | سوی |  | [به سوی] H413 אֵל "near, with or among…" |
 |  | او |  |  |
-| ✱ | بر |  | [بر خواهد_گشت] H7725 שׁוּב "to turn back (hence…" |
-| ✱ | خواهد_گشت |  | [بر خواهد_گشت] H7725 שׁוּב "to turn back (hence…" |
+| ✱ | بر | [بر خواهد_گشت] H1556 גָּלַל "to roll (literally or…" | [بر خواهد_گشت] H7725 שׁוּב "to turn back (hence…" |
+| ✱ | خواهد_گشت | [بر خواهد_گشت] H1556 גָּלַל "to roll (literally or…" | [بر خواهد_گشت] H7725 שׁוּב "to turn back (hence…" |
 |  | . |  |  |
 
-### Proverbs 26:28: 4 word(s) changed
+### Proverbs 26:28: 3 word(s) changed
 
 Reply line 14.
 
@@ -460,7 +428,7 @@ Original words:
 |  | ، |  |  |
 |  | و | Hc | Hc |
 |  | دهان | H6310 | H6310 |
-| ✱ | چاپلوس | H2509 חָלָק "smooth (especially of tongue)"; H6213 עָשָׂה "to do or make…" | H2509 חָלָק "smooth (especially of tongue)" |
+|  | چاپلوس | H2509 | H2509 |
 |  | ویرانی | H4072 | H4072 |
 | ✱ | به |  | [به بار می‌آورد] H6213 עָשָׂה "to do or make…" |
 | ✱ | بار |  | [به بار می‌آورد] H6213 עָשָׂה "to do or make…" |

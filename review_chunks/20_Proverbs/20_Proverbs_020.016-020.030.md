@@ -101,7 +101,7 @@ Persian entries and current tags:
 - p2: آن
 - p3: کس
 - p4: را
-- p5: که
+- p5: که  → H3588
 - p6: ضامن  → H6148
 - p7: غریبه  → H2114
 - p8: می‌شود
@@ -176,12 +176,12 @@ Persian entries and current tags:
 - p5: مشورت  → H6098
 - p6: بخواه
 - p7: ؛
-- p8: با  → Hb
+- p8: با
 - p9: کسب
 - p10: هدایت  → H6098 H8458
 - p11: به
 - p12: جنگ  → H4421
-- p13: برو  → H6213
+- p13: برو
 - p14: .
 
 ### Proverbs 20:19
@@ -200,7 +200,7 @@ Original words:
 - o8: תִתְעָרָב = H6148 עָרַב "to braid, i.e. intermix…" [HVti2ms]
 
 Persian entries and current tags:
-- p1: سخن‌چین  → H7400
+- p1: سخن‌چین  → H7400 H8193
 - p2: ،
 - p3: رازها  → H5475 H7400
 - p4: را
@@ -261,7 +261,7 @@ Original words:
 Persian entries and current tags:
 - p1: اموالی  → H5159
 - p2: که  → H973
-- p3: در
+- p3: در  → Hb
 - p4: آغاز  → H7223
 - p5: به‌شتاب  → H973
 - p6: به
@@ -272,7 +272,7 @@ Persian entries and current tags:
 - p11: پایان  → H319
 - p12: ،
 - p13: برکت  → H5159 H1288
-- p14: نخواهد_داشت  → H3808 H1288
+- p14: نخواهد_داشت  → H3808
 - p15: .
 
 ### Proverbs 20:22
@@ -334,7 +334,7 @@ Persian entries and current tags:
 - p7: ،
 - p8: ترازوی  → H3976
 - p9: ناراست  → H4820
-- p10: نیکو  → H68 H2896
+- p10: نیکو  → H2896
 - p11: نیست  → H3808
 - p12: .
 
@@ -355,12 +355,12 @@ Original words:
 Persian entries and current tags:
 - p1: قدمهای  → H4703
 - p2: انسان  → H1397 H120
-- p3: از
+- p3: از  → Hm
 - p4: جانب
 - p5: خداوند  → H3068
 - p6: است
 - p7: ،
-- p8: پس  → Hc
+- p8: پس
 - p9: آدمی  → H1397 H120
 - p10: راه  → H1870
 - p11: خود
@@ -433,7 +433,7 @@ Persian entries and current tags:
 - p12: را
 - p13: بر  → H5921
 - p14: آنان
-- p15: می‌راند
+- p15: می‌راند  → H7725
 - p16: .
 
 ### Proverbs 20:27

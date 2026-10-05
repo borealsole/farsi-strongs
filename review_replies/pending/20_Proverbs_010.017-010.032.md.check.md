@@ -1,10 +1,12 @@
 # Check of 20_Proverbs_010.017-010.032.md
 
-Generated 2026-10-04 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
-## 13 verse(s) with changes
+No change from the current tags (will be skipped): Proverbs 10:28, Proverbs 10:29.
 
-### Proverbs 10:17: 14 word(s) changed
+## 11 verse(s) with changes
+
+### Proverbs 10:17: 11 word(s) changed
 
 Reply line 2.
 
@@ -23,9 +25,9 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | آن | [آن که] H8104 שָׁמַר "properly…" | [آن که]  |
-| ✱ | که | [آن که] H8104 שָׁמַר "properly…" | [آن که]  |
-| ✱ | به | Hl "to" |  |
+| ✱ | آن | H8104 שָׁמַר "properly…" | [آن که]  |
+| ✱ | که |  | [آن که]  |
+|  | به |  |  |
 | ✱ | تأدیب | H4148 מוּסָר "properly, chastisement…"; H8433 תּוֹכֵחָה "chastisement…" | H4148 מוּסָר "properly, chastisement…" |
 | ✱ | گوش |  | [گوش می‌سپارد] H8104 שָׁמַר "properly…" |
 | ✱ | می‌سپارد | H8104 שָׁמַר "properly…" | [گوش می‌سپارد] H8104 שָׁמַר "properly…" |
@@ -40,8 +42,8 @@ Original words:
 | ✱ | که | [آن که] H8104 שָׁמַר "properly…" | [آن که]  |
 |  | توبیخ | H8433 | H8433 |
 |  | را |  |  |
-| ✱ | ترک | H5800 עָזַב "to loosen, i.e. relinquish…" | [ترک می‌گوید] H5800 עָזַב "to loosen, i.e. relinquish…" |
-| ✱ | می‌گوید |  | [ترک می‌گوید] H5800 עָזַב "to loosen, i.e. relinquish…" |
+|  | ترک | [ترک می‌گوید] H5800 | [ترک می‌گوید] H5800 |
+|  | می‌گوید | [ترک می‌گوید] H5800 | [ترک می‌گوید] H5800 |
 |  | ، |  |  |
 | ✱ | گمراهی | H8582 תָּעָה "to vacillate…" | [گمراهی به بار می‌آورد] H8582 תָּעָה "to vacillate…" |
 | ✱ | به |  | [گمراهی به بار می‌آورد] H8582 תָּעָה "to vacillate…" |
@@ -49,7 +51,7 @@ Original words:
 | ✱ | می‌آورد |  | [گمراهی به بار می‌آورد] H8582 תָּעָה "to vacillate…" |
 |  | . |  |  |
 
-### Proverbs 10:18: 3 word(s) changed
+### Proverbs 10:18: 2 word(s) changed
 
 Reply line 3.
 
@@ -82,10 +84,10 @@ Original words:
 |  | ، |  |  |
 |  | آن |  |  |
 |  | که |  |  |
-| ✱ | شایعه‌پراکنی | H1681 דִּבָּה "slander" | [شایعه‌پراکنی کند] H3318 יָצָא "to go (causatively…"; H1681 דִּבָּה "slander" |
+| ✱ | شایعه‌پراکنی |  | [شایعه‌پراکنی کند] H3318 יָצָא "to go (causatively…"; H1681 דִּבָּה "slander" |
 | ✱ | کند |  | [شایعه‌پراکنی کند] H3318 יָצָא "to go (causatively…"; H1681 דִּבָּה "slander" |
 |  | ، |  |  |
-| ✱ | نادان | H1681 דִּבָּה "slander"; H3684 כְּסִיל "properly, fat…" | H3684 כְּסִיל "properly, fat…" |
+|  | نادان | H3684 | H3684 |
 |  | است |  |  |
 |  | . |  |  |
 
@@ -109,7 +111,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | پرگویی | H7230 רֹב "abundance (in any respect)" | Hb "in"; H7230 רֹב "abundance (in any respect)"; H1697 דָּבָר "a word…" |
+| ✱ | پرگویی | H7230 רֹב "abundance (in any respect)"; H1697 דָּבָר "a word…" | Hb "in"; H7230 רֹב "abundance (in any respect)"; H1697 דָּבָר "a word…" |
 |  | خالی | H2308 | H2308 |
 |  | از |  |  |
 | ✱ | گناه | H6588 פֶּשַׁע "a revolt (national…"; H7919 שָׂכַל "to be (causatively…" | H6588 פֶּשַׁע "a revolt (national…" |
@@ -125,7 +127,7 @@ Original words:
 | ✱ | دارد |  | [نگاه دارد] H2820 חָשַׂךְ "to restrain or (reflex.)…" |
 |  | . |  |  |
 
-### Proverbs 10:21: 2 word(s) changed
+### Proverbs 10:21: 1 word(s) changed
 
 Reply line 5.
 
@@ -150,7 +152,7 @@ Original words:
 |  | ، |  |  |
 |  | بسیاری | H7227 | H7227 |
 |  | را |  |  |
-| ✱ | می‌پرورد |  | H7462 רָעָה "to tend a flock…" |
+|  | می‌پرورد | H7462 | H7462 |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
 |  | جاهلان | H191 | H191 |
@@ -228,7 +230,7 @@ Original words:
 |  | می‌برد |  |  |
 |  | . |  |  |
 
-### Proverbs 10:24: 5 word(s) changed
+### Proverbs 10:24: 3 word(s) changed
 
 Reply line 8.
 
@@ -247,11 +249,11 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | هرآنچه | H4034 מְגוֹרַה "affright" |  |
+|  | هرآنچه |  |  |
 |  | شریر | H7563 | H7563 |
 | ✱ | از | H935 בּוֹא "to go or come (in a wide…" |  |
 |  | آن |  |  |
-| ✱ | می‌ترسد |  | H4034 מְגוֹרַה "affright" |
+|  | می‌ترسد | H4034 | H4034 |
 |  | ، |  |  |
 |  | بر |  |  |
 |  | سرش |  |  |
@@ -268,7 +270,7 @@ Original words:
 |  | می‌شود | [عطا می‌شود] H5414 | [عطا می‌شود] H5414 |
 |  | . |  |  |
 
-### Proverbs 10:25: 5 word(s) changed
+### Proverbs 10:25: 6 word(s) changed
 
 Reply line 9.
 
@@ -293,7 +295,7 @@ Original words:
 |  | ، |  |  |
 |  | اثری | H369 | H369 |
 |  | از |  |  |
-|  | شریران | H7563 | H7563 |
+| ✱ | شریران |  | H7563 רָשָׁע "morally wrong…" |
 |  | بر |  |  |
 |  | جا |  |  |
 | ✱ | نخواهد_بود |  | H369 אַיִן "a non-entity…" |
@@ -339,72 +341,7 @@ Original words:
 |  | می‌شود | [کوتاه می‌شود] H7114 | [کوتاه می‌شود] H7114 |
 |  | . |  |  |
 
-### Proverbs 10:28: 3 word(s) changed
-
-Reply line 11.
-
-Original: תּוֹחֶלֶת צַדִּיקִים שִׂמְחָה וְ/תִקְוַת רְשָׁעִים תֹּאבֵד
-
-Persian: انتظارِ پارسایان به شادی می‌انجامد، اما امیدِ شریران بر باد می‌رود.
-
-Original words:
-- o1: תּוֹחֶלֶת = H8431 תּוֹחֶלֶת "expectation" [HNcfsc]
-- o2: צַדִּיקִים = H6662 צַדִּיק "just" [HAampa]
-- o3: שִׂמְחָה = H8057 שִׂמְחָה "blithesomeness or glee, (religious or festival)" [HNcfsa]
-- o4: וְ/תִקְוַת = Hc "and" + H8615 תִּקְוָה "literally a cord (as an attachment)…" [HC/Ncfsc]
-- o5: רְשָׁעִים = H7563 רָשָׁע "morally wrong…" [HAampa]
-- o6: תֹּאבֵד = H6 אָבַד "properly, to wander away, i.e. lose oneself…" [HVqi3fs]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | انتظارِ | H8431 | H8431 |
-|  | پارسایان | H6662 | H6662 |
-|  | به |  |  |
-|  | شادی | H8057 | H8057 |
-|  | می‌انجامد |  |  |
-|  | ، |  |  |
-|  | اما | Hc | Hc |
-|  | امیدِ | H8615 | H8615 |
-|  | شریران | H7563 | H7563 |
-| ✱ | بر | H6 אָבַד "properly, to wander away…" | [بر باد می‌رود] H6 אָבַד "properly, to wander away…" |
-| ✱ | باد |  | [بر باد می‌رود] H6 אָבַד "properly, to wander away…" |
-| ✱ | می‌رود |  | [بر باد می‌رود] H6 אָבַד "properly, to wander away…" |
-|  | . |  |  |
-
-### Proverbs 10:29: 2 word(s) changed
-
-Reply line 12.
-
-Original: מָעוֹז לַ/תֹּם דֶּרֶךְ יְהוָה וּ/מְחִתָּה לְ/פֹעֲלֵי אָוֶן
-
-Persian: طریق خداوند برای راستان قلعۀ مستحکم است، برای بدکاران، نابودی.
-
-Original words:
-- o1: מָעוֹז = H4581 מָעוֹז "a fortified place; figuratively, a defence" [HNcmsa]
-- o2: לַ/תֹּם = Hl "to" + H8537 תֹּם "completeness; figuratively, prosperity…" [HRd/Ncmsa]
-- o3: דֶּרֶךְ = H1870 דֶּרֶךְ "a road (as trodden)…" [HNcbsc]
-- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
-- o5: וּ/מְחִתָּה = Hc "and" + H4288 מְחִתָּה "properly, a dissolution…" [HC/Ncfsa]
-- o6: לְ/פֹעֲלֵי = Hl "to" + H6466 פָּעַל "to do or make (systematically and habitually)…" [HR/Vqrmpc]
-- o7: אָוֶן = H205 אָוֶן "strictly nothingness…" [HNcmsa]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | طریق | H1870 | H1870 |
-|  | خداوند | H3068 | H3068 |
-|  | برای | Hl | Hl |
-|  | راستان | H8537 | H8537 |
-| ✱ | قلعۀ | H4581 מָעוֹז "a fortified place…" | [قلعۀ مستحکم] H4581 מָעוֹז "a fortified place…" |
-| ✱ | مستحکم |  | [قلعۀ مستحکم] H4581 מָעוֹז "a fortified place…" |
-|  | است |  |  |
-|  | ، |  |  |
-|  | برای | Hl | Hl |
-|  | بدکاران | H6466 H205 | H6466 H205 |
-|  | ، |  |  |
-|  | نابودی | H4288 | H4288 |
-|  | . |  |  |
-
-### Proverbs 10:30: 5 word(s) changed
+### Proverbs 10:30: 6 word(s) changed
 
 Reply line 13.
 
@@ -430,7 +367,7 @@ Original words:
 | ✱ | نخواهند_خورد | H1077 בַּל "properly, a failure…" | [جنبش نخواهند_خورد] H1077 בַּל "properly, a failure…"; H4131 מוֹט "to waver…" |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
-|  | شریران | H7563 | H7563 |
+| ✱ | شریران |  | H7563 רָשָׁע "morally wrong…" |
 | ✱ | در | H7931 שָׁכַן "to reside or permanently stay…" |  |
 |  | سرزمین | H776 | H776 |
 |  | وعده |  |  |

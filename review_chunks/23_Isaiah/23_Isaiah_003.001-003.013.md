@@ -151,7 +151,7 @@ Original words:
 Persian entries and current tags:
 - p1: همچنین
 - p2: دلاوران  → H1368
-- p3: و  → Hc
+- p3: و
 - p4: جنگاوران  → H376 H4421
 - p5: را
 - p6: ،
@@ -215,7 +215,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: من
-- p2: پسران
+- p2: پسران  → H5288
 - p3: جوان
 - p4: را
 - p5: بر
@@ -251,7 +251,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: قوم  → H5971
-- p2: بر  → Hb
+- p2: بر
 - p3: یکدیگر  → H376
 - p4: ظلم خواهند_کرد  → H5065
 - p5: ،
@@ -296,12 +296,12 @@ Original words:
 Persian entries and current tags:
 - p1: هر  → H3588
 - p2: کس  → H376
-- p3: در
+- p3: در  → Hb
 - p4: خانۀ  → H1004
 - p5: پدری  → H1
 - p6: دست
 - p7: به
-- p8: دامان
+- p8: دامان  → H4384
 - p9: برادر  → H251
 - p10: خویش  → H1
 - p11: شده
@@ -322,7 +322,7 @@ Persian entries and current tags:
 - p26: ،
 - p27: و  → Hc
 - p28: این
-- p29: ویرانه  → H4384
+- p29: ویرانه
 - p30: زیر  → H8478
 - p31: دست  → H3027
 - p32: تو
@@ -356,7 +356,7 @@ Original words:
 Persian entries and current tags:
 - p1: اما
 - p2: او
-- p3: در
+- p3: در  → Hb
 - p4: آن
 - p5: روز  → H3117
 - p6: فریاد
@@ -371,7 +371,7 @@ Persian entries and current tags:
 - p15: نتوانم  → H3808
 - p16: کرد
 - p17: !
-- p18: در
+- p18: در  → Hb
 - p19: منزل  → H1004
 - p20: من
 - p21: نه  → H369
@@ -482,7 +482,7 @@ Persian entries and current tags:
 - p14: جار
 - p15: می‌زنند
 - p16: ،
-- p17: و  → Hc
+- p17: و
 - p18: آن
 - p19: را
 - p20: پنهان  → H3582
@@ -564,11 +564,11 @@ Persian entries and current tags:
 - p11: زیرا  → H3588
 - p12: که
 - p13: بر
-- p14: حسب
+- p14: حسب  → Hl
 - p15: عمل
 - p16: دست  → H3027
 - p17: خودشان
-- p18: بدیشان  → H7451
+- p18: بدیشان
 - p19: کرده_خواهد_شد  → H6213
 - p20: .
 
@@ -643,11 +643,11 @@ Persian entries and current tags:
 - p4: اعلام‌جرم
 - p5: برخاسته
 - p6: ،
-- p7: و  → Hc
+- p7: و
 - p8: برای  → Hl
 - p9: داوری  → H1777
 - p10: قومها  → H5971
-- p11: ایستاده_است  → H5975
+- p11: ایستاده_است
 - p12: .
 
 ## Neighbouring verses (context only, not for review)

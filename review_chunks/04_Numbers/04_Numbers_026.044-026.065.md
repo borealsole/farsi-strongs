@@ -143,7 +143,7 @@ Original words:
 - o8: הַ/מַּלְכִּיאֵלִי = Hd "the" + H4440 מַלְכִּיאֵלִי "a Malkielite or descendant of Malkiel" [HTd/Ngmsa]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: نسل  → H1121
 - p3: بِریعَه  → H1283
 - p4: :
@@ -208,8 +208,8 @@ Persian entries and current tags:
 - p7: شمارش‌شدگان  → H6485
 - p8: آنان
 - p9: ،
-- p10: ۵۳۴۰۰  → H7969 H2572 H702
-- p11: تن  → H2572 H505 H702 H3967
+- p10: ۵۳۴۰۰  → H2572 H702 H3967
+- p11: تن  → H505 H702 H3967
 - p12: .
 
 ### Numbers 26:48
@@ -262,7 +262,7 @@ Original words:
 - o6: הַ/שִּׁלֵּמִי = Hd "the" + H8016 שִׁלֵּמִי "a Shilemite (collectively) or descendants of…" [HTd/Ngmsa]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: یِصِر  → H3337
 - p3: ،
 - p4: طایفۀ  → H4940
@@ -333,8 +333,8 @@ Persian entries and current tags:
 - p3: شمارش‌شدگان  → H6485
 - p4: بنی‌اسرائیل  → H3478
 - p5: ،
-- p6: ۶۰۱۷۳۰  → H8337 H505 H7651
-- p7: تن  → H3967
+- p6: ۶۰۱۷۳۰  → H8337 H505 H7651 H7970
+- p7: تن  → H505
 - p8: .
 
 ### Numbers 26:52
@@ -404,14 +404,14 @@ Original words:
 - o11: נַחֲלָת/וֹ = H5159 נַחֲלָה "properly, something inherited…" [HNcfsc/Sp3ms]
 
 Persian entries and current tags:
-- p1: میراث قبیلۀ  → H5159
-- p2: پرشمارتر  → H7227
-- p3: را
-- p4: فزونتر کن  → H7235
-- p5: ،
-- p6: و  → Hc
-- p7: میراث  → H5159
-- p8: قبیلۀ  → H5159
+- p1: میراث  → H5159
+- p2: قبیلۀ  → H5159
+- p3: پرشمارتر  → H7227
+- p4: را
+- p5: فزونتر کن  → H7235
+- p6: ،
+- p7: و  → Hc
+- p8: میراث قبیلۀ  → H5159
 - p9: کم‌شمارتر  → H4591
 - p10: را
 - p11: کمتر  → H4591
@@ -627,7 +627,7 @@ Persian entries and current tags:
 - p10: لاوی  → H3878
 - p11: بود
 - p12: و
-- p13: در
+- p13: در  → Hb
 - p14: مصر  → H4714
 - p15: برای
 - p16: وی
@@ -672,7 +672,7 @@ Persian entries and current tags:
 - p5: و  → Hc
 - p6: اَبیهو  → H30
 - p7: و  → Hc
-- p8: اِلعازار  → H499
+- p8: اِلعازار
 - p9: و  → Hc
 - p10: ایتامار  → H385
 - p11: زاده شدند  → H3205
@@ -705,7 +705,7 @@ Persian entries and current tags:
 - p9: در  → Hl
 - p10: پیشگاه  → H6440
 - p11: خداوند  → H3068
-- p12: قربانی
+- p12: قربانی  → H2114
 - p13: تقدیم می‌کردند  → H7126
 - p14: ،
 - p15: مردند  → H4191
@@ -810,12 +810,12 @@ Persian entries and current tags:
 - p12: که
 - p13: بنی‌اسرائیل  → H3478
 - p14: را  → H853
-- p15: در
+- p15: در  → Hb
 - p16: همواریهای  → H6160
 - p17: موآب  → H4124
 - p18: ،
-- p19: نزد
-- p20: اردن  → H3383 H3405
+- p19: نزد  → H5921
+- p20: اردن  → H3405
 - p21: ،
 - p22: و
 - p23: مقابل
@@ -902,8 +902,8 @@ Persian entries and current tags:
 - p6: که
 - p7: ،
 - p8: «
-- p9: به‌یقین  → H4191
-- p10: در
+- p9: به‌یقین
+- p10: در  → Hb
 - p11: بیابان  → H4057
 - p12: خواهند_مرد  → H4191
 - p13: .

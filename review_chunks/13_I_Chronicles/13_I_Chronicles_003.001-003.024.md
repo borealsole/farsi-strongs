@@ -109,7 +109,7 @@ Persian entries and current tags:
 - p2: پسران  → H1121
 - p3: داوود  → H1732
 - p4: که  → H834
-- p5: در
+- p5: در  → Hb
 - p6: حِبرون  → H2275
 - p7: برایش  → Hl
 - p8: زاده شدند  → H3205
@@ -162,7 +162,7 @@ Persian entries and current tags:
 - p10: پادشاه  → H4428
 - p11: جِشور  → H1650
 - p12: ؛
-- p13: چهارمین  → H7243
+- p13: چهارمین  → H7992 H7243
 - p14: ،
 - p15: اَدونیا  → H138
 - p16: ،
@@ -228,7 +228,7 @@ Persian entries and current tags:
 - p1: این
 - p2: شش  → H8337
 - p3: تن
-- p4: در
+- p4: در  → Hb
 - p5: حِبرون  → H2275
 - p6: برای
 - p7: داوود
@@ -240,7 +240,7 @@ Persian entries and current tags:
 - p13: هفت  → H7651
 - p14: سال  → H8141
 - p15: و  → Hc
-- p16: نیم  → H8337
+- p16: نیم  → H8337 H2320
 - p17: سلطنت کرد  → H4427
 - p18: .
 - p19: داوود
@@ -277,7 +277,7 @@ Original words:
 Persian entries and current tags:
 - p1: و  → Hc
 - p2: اینان  → H428
-- p3: در
+- p3: در  → Hb
 - p4: اورشلیم  → H3389
 - p5: برایش  → Hl
 - p6: زاده شدند  → H3205
@@ -379,7 +379,7 @@ Original words:
 Persian entries and current tags:
 - p1: تمامی  → H3605
 - p2: اینها
-- p3: پسران  → H1121
+- p3: پسران  → H1121 H1732
 - p4: داوود  → H1732
 - p5: بودند
 - p6: ،
@@ -388,7 +388,7 @@ Persian entries and current tags:
 - p9: افزون
 - p10: بر
 - p11: این
-- p12: از
+- p12: از  → Hm
 - p13: مُتَعِه‌هایش  → H6370
 - p14: نیز
 - p15: پسران  → H1732 H1121
@@ -610,7 +610,7 @@ Persian entries and current tags:
 - p2: یِهویاقیم  → H3079
 - p3: ،
 - p4: پسرش  → H1121
-- p5: یِهویاکین  → H3204
+- p5: یِهویاکین  → H3204 H6667
 - p6: و
 - p7: پسر  → H1121
 - p8: وی
@@ -769,11 +769,11 @@ Persian entries and current tags:
 - p3: ،
 - p4: فِلَطیا
 - p5: و  → Hc
-- p6: یِشَعیا  → H6410 H3470
+- p6: یِشَعیا  → H3470
 - p7: بودند
 - p8: ؛
 - p9: پسر  → H1121
-- p10: یِشَعیا  → H6410 H3470
+- p10: یِشَعیا  → H3470
 - p11: ،
 - p12: رِفایا  → H7509
 - p13: بود
@@ -814,7 +814,7 @@ Original words:
 Persian entries and current tags:
 - p1: نوادگان  → H1121
 - p2: شِکَنیا  → H7935
-- p3: عبارت
+- p3: عبارت  → Hc
 - p4: بودند
 - p5: از
 - p6: شِمَعیا  → H8098
@@ -894,7 +894,7 @@ Persian entries and current tags:
 - p7: ،
 - p8: فِلایا  → H6411
 - p9: ،
-- p10: عَقّوب  → H6126
+- p10: عَقّوب
 - p11: ،
 - p12: یوحانان  → H3110
 - p13: ،

@@ -1,10 +1,10 @@
 # Check of 19_Psalms_001.001-002.012.md
 
-Generated 2026-10-04 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
 ## 17 verse(s) with changes
 
-### Psalms 1:1: 9 word(s) changed
+### Psalms 1:1: 6 word(s) changed
 
 Reply line 2.
 
@@ -36,24 +36,24 @@ Original words:
 |  | حال |  |  |
 |  | کسی | H376 | H376 |
 |  | که | H834 | H834 |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | مشورت | H6098 | H6098 |
 | ✱ | شریران |  | H7563 רָשָׁע "morally wrong…" |
 | ✱ | گام | [گام نزند] H1980 הָלַךְ "to walk (in a great variety…" | [گام نزند] H3808 לֹא "not (the simple or abs.…"; H1980 הָלַךְ "to walk (in a great variety…" |
 | ✱ | نزند | [گام نزند] H1980 הָלַךְ "to walk (in a great variety…" | [گام نزند] H3808 לֹא "not (the simple or abs.…"; H1980 הָלַךְ "to walk (in a great variety…" |
 |  | و | Hc | Hc |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | راه | H1870 | H1870 |
 |  | گنهکاران | H2400 | H2400 |
 | ✱ | نایستد |  | H3808 לֹא "not (the simple or abs.…"; H5975 עָמַד "to stand…" |
 |  | و | Hc | Hc |
 | ✱ | در |  | Hb "in" |
-| ✱ | محفل |  | H4186 מוֹשָׁב "a seat; figuratively, a site…" |
+|  | محفل | H4186 | H4186 |
 |  | تمسخرگران | H3887 | H3887 |
 | ✱ | ننشیند | H3427 יָשַׁב "properly…" | H3808 לֹא "not (the simple or abs.…"; H3427 יָשַׁב "properly…" |
 |  | ؛ |  |  |
 
-### Psalms 1:2: 3 word(s) changed
+### Psalms 1:2: 2 word(s) changed
 
 Reply line 3.
 
@@ -82,14 +82,14 @@ Original words:
 |  | باشد |  |  |
 |  | و | Hc | Hc |
 | ✱ | شبانه‌روز | H3119 יוֹמָם "daily"; H3915 לַיִל "properly…" | H3119 יוֹמָם "daily"; Hc "and"; H3915 לַיִל "properly…" |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | شریعت | H8451 | H8451 |
 |  | او |  |  |
 |  | تأمل | [تأمل کند] H1897 | [تأمل کند] H1897 |
 |  | کند | [تأمل کند] H1897 | [تأمل کند] H1897 |
 |  | . |  |  |
 
-### Psalms 1:3: 13 word(s) changed
+### Psalms 1:3: 11 word(s) changed
 
 Reply line 4.
 
@@ -119,7 +119,7 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | او |  |  |
-| ✱ | بسان |  | Hk "like" |
+|  | بسان | Hk | Hk |
 | ✱ | درختیست | H6086 עֵץ "a tree (from its firmness)…" | H1961 הָיָה "to exist, i.e. be or become…"; H6086 עֵץ "a tree (from its firmness)…" |
 |  | نشانده | H8362 | H8362 |
 |  | بر | H5921 | H5921 |
@@ -129,7 +129,7 @@ Original words:
 |  | که | H834 | H834 |
 |  | میوۀ | H6529 | H6529 |
 |  | خویش |  |  |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | موسمش | H6256 | H6256 |
 | ✱ | آرد | H5034 נָבֵל "to wilt…" | [آرد به بار] H5414 נָתַן "to give…" |
 | ✱ | به |  | [آرد به بار] H5414 נָתַן "to give…" |
@@ -175,7 +175,7 @@ Original words:
 |  | چنین | H3651 | H3651 |
 |  | نیستند | H3808 | H3808 |
 | ✱ | شریران |  | H7563 רָשָׁע "morally wrong…" |
-| ✱ | بلکه | H518 אִם "used very widely as…" | H3588 כִּי "by implication) very widely…"; H518 אִם "used very widely as…" |
+| ✱ | بلکه |  | H3588 כִּי "by implication) very widely…"; H518 אִם "used very widely as…" |
 |  | همچو | Hk | Hk |
 |  | کاهند | H4671 | H4671 |
 |  | که | H834 | H834 |
@@ -184,7 +184,7 @@ Original words:
 |  | می‌رانَدشان | H5086 | H5086 |
 |  | . |  |  |
 
-### Psalms 1:5: 5 word(s) changed
+### Psalms 1:5: 4 word(s) changed
 
 Reply line 6.
 
@@ -205,7 +205,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | پس | H3651 כֵּן "properly, set upright…" | H5921 עַל "above, over, upon…"; H3651 כֵּן "properly, set upright…" |
+|  | پس | H5921 H3651 | H5921 H3651 |
 |  | شریران | H7563 | H7563 |
 |  | را |  |  |
 |  | در | Hb | Hb |
@@ -274,7 +274,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | از |  | [از چه سبب] Hl "to"; H4100 מָה "properly…" |
+| ✱ | از | Hl "to" | [از چه سبب] Hl "to"; H4100 מָה "properly…" |
 | ✱ | چه | H4100 מָה "properly…" | [از چه سبب] Hl "to"; H4100 מָה "properly…" |
 | ✱ | سبب |  | [از چه سبب] Hl "to"; H4100 מָה "properly…" |
 |  | قومها | H1471 | H1471 |
@@ -393,7 +393,7 @@ Original words:
 |  | می‌کند | [ریشخندشان می‌کند] H3932 | [ریشخندشان می‌کند] H3932 |
 |  | . |  |  |
 
-### Psalms 2:5: 2 word(s) changed
+### Psalms 2:5: 1 word(s) changed
 
 Reply line 12.
 
@@ -420,7 +420,7 @@ Original words:
 |  | خواهد_گفت | [سخن خواهد_گفت] H1696 | [سخن خواهد_گفت] H1696 |
 |  | ، |  |  |
 |  | و | Hc | Hc |
-| ✱ | به | H413 אֵל "near, with or among…"; Hb "in" | Hb "in" |
+|  | به | Hb | Hb |
 |  | غضب | H2740 | H2740 |
 |  | خویش |  |  |
 |  | ایشان |  |  |
@@ -478,7 +478,7 @@ Original words:
 |  | ساخته‌ام | [مولود ساخته‌ام] H3205 | [مولود ساخته‌ام] H3205 |
 |  | . |  |  |
 
-### Psalms 2:8: 4 word(s) changed
+### Psalms 2:8: 3 word(s) changed
 
 Reply line 14.
 
@@ -498,7 +498,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | از |  | H4480 מִן "properly, a part of…" |
+|  | از | H4480 | H4480 |
 |  | من |  |  |
 |  | بخواه | H7592 | H7592 |
 |  | ، |  |  |
@@ -517,7 +517,7 @@ Original words:
 | ✱ | خواهم_ساخت | H272 אֲחֻזָּה "something seized…" | H5414 נָתַן "to give…" |
 |  | . |  |  |
 
-### Psalms 2:9: 4 word(s) changed
+### Psalms 2:9: 5 word(s) changed
 
 Reply line 15.
 
@@ -543,13 +543,13 @@ Original words:
 |  | خواهی_شکست | H7489 | H7489 |
 |  | و |  |  |
 |  | همچون | Hk | Hk |
-| ✱ | کوزۀ | H3627 כְּלִי "something prepared…"; H3335 יָצַר "to mould into a form…" | H3627 כְּלִי "something prepared…" |
-|  | کوزه‌گر | H3335 | H3335 |
+| ✱ | کوزۀ | [کوزۀ کوزه‌گر] H3335 יָצַר "to mould into a form…" | H3627 כְּלִי "something prepared…" |
+| ✱ | کوزه‌گر | [کوزۀ کوزه‌گر] H3335 יָצַר "to mould into a form…" | H3335 יָצַר "to mould into a form…" |
 | ✱ | خُردشان | H5310 נָפַץ "to dash to pieces, or scatter" | [خُردشان خواهی_کرد] H5310 נָפַץ "to dash to pieces, or scatter" |
 | ✱ | خواهی_کرد | H3627 כְּלִי "something prepared…" | [خُردشان خواهی_کرد] H5310 נָפַץ "to dash to pieces, or scatter" |
 |  | . |  |  |
 
-### Psalms 2:10: 1 word(s) changed
+### Psalms 2:10: 2 word(s) changed
 
 Reply line 16.
 
@@ -567,7 +567,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | پس | Hc | Hc |
+| ✱ | پس | Hc "and"; H6258 עַתָּה "at this time, whether adverb…" | Hc "and" |
 |  | حال | H6258 | H6258 |
 |  | خردمند | [خردمند باشید] H7919 | [خردمند باشید] H7919 |
 |  | باشید | [خردمند باشید] H7919 | [خردمند باشید] H7919 |
@@ -584,7 +584,7 @@ Original words:
 |  | جهان | H776 | H776 |
 |  | . |  |  |
 
-### Psalms 2:11: 3 word(s) changed
+### Psalms 2:11: 5 word(s) changed
 
 Reply line 17.
 
@@ -606,17 +606,17 @@ Original words:
 |  | را | H853 | H853 |
 |  | با | Hb | Hb |
 |  | ترس | H3374 | H3374 |
-|  | عبادت | [عبادت کنید] H5647 | [عبادت کنید] H5647 |
-|  | کنید | [عبادت کنید] H5647 | [عبادت کنید] H5647 |
+| ✱ | عبادت | H5647 עָבַד "to work (in any sense)…" | [عبادت کنید] H5647 עָבַד "to work (in any sense)…" |
+| ✱ | کنید | H1523 גִּיל "properly…" | [عبادت کنید] H5647 עָבַד "to work (in any sense)…" |
 |  | و | Hc | Hc |
 |  | با | Hb | Hb |
 |  | لرز | H7461 | H7461 |
 | ✱ | به |  | [به وجد آیید] H1523 גִּיל "properly…" |
-| ✱ | وجد | [وجد آیید] H1523 גִּיל "properly…" | [به وجد آیید] H1523 גִּיל "properly…" |
-| ✱ | آیید | [وجد آیید] H1523 גִּיל "properly…" | [به وجد آیید] H1523 גִּיל "properly…" |
+| ✱ | وجد | H1523 גִּיל "properly…" | [به وجد آیید] H1523 גִּיל "properly…" |
+| ✱ | آیید | H5647 עָבַד "to work (in any sense)…"; H1523 גִּיל "properly…" | [به وجد آیید] H1523 גִּיל "properly…" |
 |  | . |  |  |
 
-### Psalms 2:12: 12 word(s) changed
+### Psalms 2:12: 10 word(s) changed
 
 Reply line 18.
 
@@ -654,16 +654,16 @@ Original words:
 |  | و | Hc | Hc |
 |  | در |  |  |
 |  | راه | H1870 | H1870 |
-|  | هلاک | [هلاک شوید] H6 | [هلاک شوید] H6 |
-|  | شوید | [هلاک شوید] H6 | [هلاک شوید] H6 |
+| ✱ | هلاک |  | [هلاک شوید] H6 אָבַד "properly, to wander away…" |
+| ✱ | شوید | H6 אָבַד "properly, to wander away…" | [هلاک شوید] H6 אָבַד "properly, to wander away…" |
 |  | ، |  |  |
 |  | زیرا | H3588 | H3588 |
 |  | خشم | H639 | H639 |
 |  | او |  |  |
 | ✱ | به |  | [به دمی] Hk "like"; H4592 מְעַט "a little or few (often…" |
 | ✱ | دمی |  | [به دمی] Hk "like"; H4592 מְעַט "a little or few (often…" |
-| ✱ | افروخته | H1197 בָּעַר "to kindle…"; H4592 מְעַט "a little or few (often…" | [افروخته می‌شود] H1197 בָּעַר "to kindle…" |
-| ✱ | می‌شود |  | [افروخته می‌شود] H1197 בָּעַר "to kindle…" |
+|  | افروخته | [افروخته می‌شود] H1197 | [افروخته می‌شود] H1197 |
+|  | می‌شود | [افروخته می‌شود] H1197 | [افروخته می‌شود] H1197 |
 |  | . |  |  |
 |  | خوشا | H835 | H835 |
 |  | به |  |  |
@@ -673,6 +673,6 @@ Original words:
 |  | که |  |  |
 | ✱ | به |  | Hb "in" |
 |  | او |  |  |
-| ✱ | پناه | H2620 חָסָה "to flee for protection…" | [پناه می‌برند] H2620 חָסָה "to flee for protection…" |
-| ✱ | می‌برند |  | [پناه می‌برند] H2620 חָסָה "to flee for protection…" |
+|  | پناه | [پناه می‌برند] H2620 | [پناه می‌برند] H2620 |
+|  | می‌برند | [پناه می‌برند] H2620 | [پناه می‌برند] H2620 |
 |  | . |  |  |

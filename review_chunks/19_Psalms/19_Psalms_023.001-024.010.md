@@ -97,7 +97,7 @@ Original words:
 Persian entries and current tags:
 - p1: خداوند  → H3068 H7462
 - p2: شبان  → H7462
-- p3: من  → H1732
+- p3: من
 - p4: است
 - p5: ؛
 - p6: محتاج  → H4210 H2637
@@ -204,12 +204,12 @@ Persian entries and current tags:
 - p15: با  → H5978
 - p16: منی
 - p17: ؛
-- p18: عصا  → H7626 H4938
+- p18: عصا  → H4938
 - p19: و  → Hc
 - p20: چوبدستی  → H7626
 - p21: تو
 - p22: قوّت  → H5162
-- p23: قلبم
+- p23: قلبم  → H4938
 - p24: می‌بخشند
 - p25: .
 
@@ -235,7 +235,7 @@ Persian entries and current tags:
 - p2: برای  → Hl H6440
 - p3: من
 - p4: در
-- p5: برابر
+- p5: برابر  → H5048
 - p6: دیدگان
 - p7: دشمنانم  → H6887
 - p8: می‌گسترانی
@@ -288,7 +288,7 @@ Persian entries and current tags:
 - p14: و  → Hc
 - p15: سالیان
 - p16: دراز
-- p17: در
+- p17: در  → Hb
 - p18: خانۀ  → H1004
 - p19: خداوند  → H3068
 - p20: ساکن  → H3427
@@ -314,17 +314,17 @@ Persian entries and current tags:
 - p1: زمین  → H776
 - p2: و  → Hc
 - p3: هرآنچه  → H4393
-- p4: در
+- p4: در  → Hb
 - p5: آن
 - p6: است
 - p7: از
 - p8: آن
-- p9: خداوند  → H3068
+- p9: خداوند
 - p10: است
 - p11: ،
 - p12: جهان  → H8398
 - p13: و  → Hc
-- p14: همۀ  → H3068 H4393
+- p14: همۀ
 - p15: ساکنانش  → H3427
 - p16: .
 
@@ -355,7 +355,7 @@ Persian entries and current tags:
 - p9: نهاد
 - p10: و  → Hc
 - p11: بر  → H5921
-- p12: آبها
+- p12: آبها  → H3220
 - p13: آن
 - p14: را
 - p15: استوار ساخت  → H3559
@@ -387,7 +387,7 @@ Persian entries and current tags:
 - p8: و  → Hc
 - p9: کیست  → H4310
 - p10: که
-- p11: در
+- p11: در  → Hb
 - p12: مکان  → H4725
 - p13: مقدس  → H6944
 - p14: او
@@ -416,7 +416,7 @@ Original words:
 Persian entries and current tags:
 - p1: آن
 - p2: که
-- p3: پاک‌دست  → H1249
+- p3: پاک‌دست
 - p4: و  → Hc
 - p5: صاف‌دل  → H5355
 - p6: باشد
@@ -427,7 +427,7 @@ Persian entries and current tags:
 - p11: را
 - p12: به
 - p13: سوی  → H5375
-- p14: آنچه  → H834
+- p14: آنچه
 - p15: باطل  → H7723 H4820
 - p16: است
 - p17: ،

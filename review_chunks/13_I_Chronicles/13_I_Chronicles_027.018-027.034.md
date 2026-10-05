@@ -103,7 +103,7 @@ Persian entries and current tags:
 - p4: اِلیهو  → H453
 - p5: ،
 - p6: یکی
-- p7: از
+- p7: از  → Hm
 - p8: برادران  → H251
 - p9: داوود  → H1732
 - p10: بود
@@ -170,7 +170,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: رئیسِ
-- p2: اِفرایِم  → H669 H1121
+- p2: اِفرایِم  → H669 H4519 H1121
 - p3: ،
 - p4: هوشع  → H1954
 - p5: پسر  → H1121
@@ -347,18 +347,18 @@ Persian entries and current tags:
 - p13: پایان  → H3615
 - p14: نرساند  → H3808
 - p15: .
-- p16: با  → Hb
-- p17: این  → H2063
+- p16: با
+- p17: این
 - p18: حال
 - p19: اسرائیل  → H3478
 - p20: بدین
-- p21: سبب
+- p21: سبب  → H2063 H5921
 - p22: به
 - p23: غضب  → H7110
 - p24: گرفتار
 - p25: آمد
 - p26: ،
-- p27: و  → Hc
+- p27: و
 - p28: شمار  → H4557
 - p29: آنان  → H4557
 - p30: در
@@ -438,7 +438,7 @@ Persian entries and current tags:
 - p1: عِزری  → H5836
 - p2: پسر  → H1121
 - p3: کِلوب  → H3620
-- p4: ناظر
+- p4: ناظر  → H5921
 - p5: کارگرانِ  → H4399
 - p6: مزارع  → H7704
 - p7: بود
@@ -483,7 +483,7 @@ Persian entries and current tags:
 - p14: به
 - p15: جهت  → Hl
 - p16: انبارهای  → H214 H3196
-- p17: شراب
+- p17: شراب  → H3196
 - p18: تهیه
 - p19: می‌شد
 - p20: .
@@ -562,7 +562,7 @@ Persian entries and current tags:
 - p13: عَدْلای  → H5724
 - p14: ناظر
 - p15: رمه‌ها  → H1241
-- p16: در
+- p16: در  → Hb
 - p17: وادیها  → H6010
 - p18: بود
 - p19: .
@@ -615,7 +615,7 @@ Original words:
 - o11: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
 
 Persian entries and current tags:
-- p1: یازیزِ  → H3151
+- p1: یازیزِ
 - p2: هاجْری  → H1905
 - p3: ناظر
 - p4: گله‌ها  → H6629
@@ -694,7 +694,7 @@ Original words:
 - o7: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
 
 Persian entries and current tags:
-- p1: اَخیتوفِل  → H302
+- p1: اَخیتوفِل  → H302 H4428
 - p2: مشاور  → H3289
 - p3: پادشاه  → H4428
 - p4: بود
@@ -725,7 +725,7 @@ Original words:
 - o10: יוֹאָב = H3097 יוֹאָב "Joab, the name of three Israelites" [HNp]
 
 Persian entries and current tags:
-- p1: یِهویاداع  → H3077
+- p1: یِهویاداع  → H302 H3077
 - p2: پسر  → H1121
 - p3: بِنایا  → H1141
 - p4: ،

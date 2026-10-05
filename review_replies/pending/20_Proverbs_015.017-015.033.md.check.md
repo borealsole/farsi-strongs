@@ -1,8 +1,10 @@
 # Check of 20_Proverbs_015.017-015.033.md
 
-Generated 2026-10-04 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
-## 15 verse(s) with changes
+No change from the current tags (will be skipped): Proverbs 15:30.
+
+## 14 verse(s) with changes
 
 ### Proverbs 15:17: 2 word(s) changed
 
@@ -73,7 +75,7 @@ Original words:
 |  | فرو~می‌نشاند | H8252 | H8252 |
 |  | . |  |  |
 
-### Proverbs 15:19: 4 word(s) changed
+### Proverbs 15:19: 3 word(s) changed
 
 Reply line 4.
 
@@ -94,10 +96,10 @@ Original words:
 | --- | --- | --- | --- |
 | ✱ | راهِ | H1870 דֶּרֶךְ "a road (as trodden)…"; H734 אֹרַח "a well-trodden road…" | H1870 דֶּרֶךְ "a road (as trodden)…" |
 |  | کاهلان | H6102 | H6102 |
-| ✱ | خاربست | H4881 מְשׂוּכָה "a hedge" | H4881 מְשׂוּכָה "a hedge"; H2312 חֵדֶק "a prickly plant" |
+| ✱ | خاربست |  | H4881 מְשׂוּכָה "a hedge"; H2312 חֵדֶק "a prickly plant" |
 |  | است |  |  |
 |  | ، |  |  |
-| ✱ | طریق | H734 אֹרַח "a well-trodden road…"; H5549 סָלַל "to mound up (especially a…" | H734 אֹרַח "a well-trodden road…" |
+|  | طریق | H734 | H734 |
 | ✱ | صالحان | H2312 חֵדֶק "a prickly plant"; H3477 יָשָׁר "straight (literally or…" | H3477 יָשָׁר "straight (literally or…" |
 |  | ، |  |  |
 |  | شاهراه | H5549 | H5549 |
@@ -214,7 +216,7 @@ Original words:
 |  | گفته_شود |  |  |
 |  | ! |  |  |
 
-### Proverbs 15:24: 6 word(s) changed
+### Proverbs 15:24: 5 word(s) changed
 
 Reply line 8.
 
@@ -248,7 +250,7 @@ Original words:
 |  | را |  |  |
 |  | از | Hm | Hm |
 |  | پایین | H4295 | H4295 |
-| ✱ | رفتن | H5493 סוּר "to turn off (literal or…" |  |
+|  | رفتن |  |  |
 |  | به |  |  |
 |  | گور | H7585 | H7585 |
 | ✱ | بازدارد | H4295 מַטָּה "downward, below or beneath…" | H5493 סוּר "to turn off (literal or…" |
@@ -346,8 +348,8 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 | ✱ | طالبِ | H5916 עָכַר "properly, to roil water…" | H1214 בָּצַע "figuratively, to finish…" |
-| ✱ | سودِ | [سودِ نامشروع] H1214 בָּצַע "figuratively, to finish…"; H1215 בֶּצַע "plunder…" | [سودِ نامشروع] H1215 בֶּצַע "plunder…" |
-| ✱ | نامشروع | [سودِ نامشروع] H1214 בָּצַע "figuratively, to finish…"; H1215 בֶּצַע "plunder…" | [سودِ نامشروع] H1215 בֶּצַע "plunder…" |
+| ✱ | سودِ | H1214 בָּצַע "figuratively, to finish…" | [سودِ نامشروع] H1215 בֶּצַע "plunder…" |
+| ✱ | نامشروع | H1214 בָּצַע "figuratively, to finish…"; H1215 בֶּצַע "plunder…" | [سودِ نامشروع] H1215 בֶּצַע "plunder…" |
 |  | ، |  |  |
 |  | خانوادۀ | H1004 | H1004 |
 |  | خویش |  |  |
@@ -367,7 +369,7 @@ Original words:
 |  | خواهد_زیست | H2421 | H2421 |
 |  | . |  |  |
 
-### Proverbs 15:28: 4 word(s) changed
+### Proverbs 15:28: 6 word(s) changed
 
 Reply line 12.
 
@@ -396,49 +398,13 @@ Original words:
 |  | ، |  |  |
 |  | اما | Hc | Hc |
 |  | دهانِ | H6310 | H6310 |
-| ✱ | شریران | [شریران سیل] H7563 רָשָׁע "morally wrong…" | H7563 רָשָׁע "morally wrong…" |
-| ✱ | سیل | [شریران سیل] H7563 רָשָׁע "morally wrong…" | H5042 נָבַע "to gush forth…" |
-|  | سخنان | [سخنان بد] H7451 | [سخنان بد] H7451 |
-|  | بد | [سخنان بد] H7451 | [سخنان بد] H7451 |
+| ✱ | شریران |  | H7563 רָשָׁע "morally wrong…" |
+| ✱ | سیل | H7563 רָשָׁע "morally wrong…" | H5042 נָבַע "to gush forth…" |
+| ✱ | سخنان | H5042 נָבַע "to gush forth…"; H7451 רַע "bad or (as noun) evil…" | [سخنان بد] H7451 רַע "bad or (as noun) evil…" |
+| ✱ | بد | H7451 רַע "bad or (as noun) evil…" | [سخنان بد] H7451 רַע "bad or (as noun) evil…" |
 |  | را |  |  |
 | ✱ | روان | H7451 רַע "bad or (as noun) evil…" | [روان می‌سازد] H5042 נָבַע "to gush forth…" |
 | ✱ | می‌سازد |  | [روان می‌سازد] H5042 נָבַע "to gush forth…" |
-|  | . |  |  |
-
-### Proverbs 15:30: 2 word(s) changed
-
-Reply line 13.
-
-Original: מְאוֹר עֵינַיִם יְשַׂמַּח לֵב שְׁמוּעָה טוֹבָה תְּדַשֶּׁן עָצֶם
-
-Persian: نورِ چشمان، دل را شادمان می‌سازد، خبر خوش استخوانها را قوّت می‌بخشد.
-
-Original words:
-- o1: מְאוֹר = H3974 מָאוֹר "properly, a luminous body or luminary…" [HNcmsc]
-- o2: עֵינַיִם = H5869 עַיִן "an eye (literally or figuratively)…" [HNcbda]
-- o3: יְשַׂמַּח = H8055 שָׂמַח "probably to brighten up…" [HVpi3ms]
-- o4: לֵב = H3820 לֵב "the heart…" [HNcmsa]
-- o5: שְׁמוּעָה = H8052 שְׁמוּעָה "something heard, i.e. an announcement" [HNcfsa]
-- o6: טוֹבָה = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAafsa]
-- o7: תְּדַשֶּׁן = H1878 דָּשֵׁן "to be fat…" [HVpi3fs]
-- o8: עָצֶם = H6106 עֶצֶם "a bone (as strong); by extension, the body…" [HNcfsa]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | نورِ | H3974 | H3974 |
-|  | چشمان | H5869 | H5869 |
-|  | ، |  |  |
-|  | دل | H3820 | H3820 |
-|  | را |  |  |
-|  | شادمان | [شادمان می‌سازد] H8055 | [شادمان می‌سازد] H8055 |
-|  | می‌سازد | [شادمان می‌سازد] H8055 | [شادمان می‌سازد] H8055 |
-|  | ، |  |  |
-|  | خبر | H8052 | H8052 |
-|  | خوش | H2896 | H2896 |
-|  | استخوانها | H6106 | H6106 |
-|  | را |  |  |
-| ✱ | قوّت | H1878 דָּשֵׁן "to be fat…" | [قوّت می‌بخشد] H1878 דָּשֵׁן "to be fat…" |
-| ✱ | می‌بخشد |  | [قوّت می‌بخشد] H1878 דָּשֵׁן "to be fat…" |
 |  | . |  |  |
 
 ### Proverbs 15:31: 4 word(s) changed
@@ -463,12 +429,12 @@ Original words:
 |  | آن |  |  |
 |  | که |  |  |
 |  | به |  |  |
-| ✱ | توبیخِ | H8433 תּוֹכֵחָה "chastisement…"; H2416 חַי "alive; hence, raw (flesh)…" | H8433 תּוֹכֵחָה "chastisement…" |
-| ✱ | جانبخش | H8433 תּוֹכֵחָה "chastisement…" | H2416 חַי "alive; hence, raw (flesh)…" |
+| ✱ | توبیخِ | [توبیخِ جانبخش] H8433 תּוֹכֵחָה "chastisement…" | H8433 תּוֹכֵחָה "chastisement…" |
+| ✱ | جانبخش | [توبیخِ جانبخش] H8433 תּוֹכֵחָה "chastisement…" | H2416 חַי "alive; hence, raw (flesh)…" |
 | ✱ | گوش | H241 אֹזֶן "broadness. i.e. (concrete)…"; H8433 תּוֹכֵחָה "chastisement…" | H241 אֹזֶן "broadness. i.e. (concrete)…" |
 |  | فرا~می‌دهد | H8085 | H8085 |
 |  | ، |  |  |
-| ✱ | در | H3885 לוּן "to stop (usually over night)…" | Hb "in" |
+| ✱ | در | Hb "in"; H3885 לוּן "to stop (usually over night)…" | Hb "in" |
 |  | میان | H7130 | H7130 |
 |  | حکیمان | H2450 | H2450 |
 |  | ساکن | [ساکن خواهد_شد] H3885 | [ساکن خواهد_شد] H3885 |
@@ -499,7 +465,7 @@ Original words:
 |  | که |  |  |
 | ✱ | تأدیب | H4148 מוּסָר "properly, chastisement…"; H8433 תּוֹכֵחָה "chastisement…" | H4148 מוּסָר "properly, chastisement…" |
 |  | را |  |  |
-| ✱ | ترک | H3988 מָאַס "to spurn…" | [ترک گوید] H6544 פָּרַע "to loosen…" |
+| ✱ | ترک |  | [ترک گوید] H6544 פָּרַע "to loosen…" |
 | ✱ | گوید |  | [ترک گوید] H6544 פָּרַע "to loosen…" |
 |  | ، |  |  |
 | ✱ | جان | [جان خویش] H5315 נֶפֶשׁ "properly…" | H5315 נֶפֶשׁ "properly…" |

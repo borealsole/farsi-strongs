@@ -114,7 +114,7 @@ Persian entries and current tags:
 - p1: چون
 - p2: به  → H7126
 - p3: قلمرو  → H4136
-- p4: بنی‌عَمّون  → H1121 H5983
+- p4: بنی‌عَمّون  → H5983 H1121
 - p5: نزدیک شوی  → H7126
 - p6: ،
 - p7: آزارشان مرسان  → H6696
@@ -132,7 +132,7 @@ Persian entries and current tags:
 - p19: شما
 - p20: نخواهم_داد  → H3808 H5414
 - p21: ،
-- p22: چون  → H3588
+- p22: چون
 - p23: آن
 - p24: را
 - p25: به  → H7126 Hl
@@ -166,7 +166,7 @@ Original words:
 Persian entries and current tags:
 - p1: (
 - p2: آنجا
-- p3: نیز
+- p3: نیز  → H637
 - p4: از
 - p5: سرزمینهای  → H776
 - p6: رِفائیانِ غول‌پیکر  → H7497
@@ -175,7 +175,7 @@ Persian entries and current tags:
 - p9: .
 - p10: رِفائیان  → H7497
 - p11: پیشتر  → H6440
-- p12: در
+- p12: در  → Hb
 - p13: آنجا
 - p14: می‌زیستند  → H3427
 - p15: ،
@@ -268,7 +268,7 @@ Persian entries and current tags:
 - p2: برای
 - p3: بنی‌عیسو  → H6215
 - p4: که
-- p5: در
+- p5: در  → Hb
 - p6: سِعیر  → H8165
 - p7: ساکنند  → H3427
 - p8: نیز
@@ -321,7 +321,7 @@ Persian entries and current tags:
 - p2: اما
 - p3: عَوّیان  → H5761
 - p4: که
-- p5: در
+- p5: در  → Hb
 - p6: روستاها  → H2699
 - p7: تا به  → H5704
 - p8: غزه  → H5804
@@ -404,7 +404,7 @@ Persian entries and current tags:
 - p29: و  → Hc
 - p30: با
 - p31: وی
-- p32: جنگ  → H1624 H4421
+- p32: جنگ  → H4421
 - p33: نما
 - p34: .
 
@@ -458,7 +458,7 @@ Persian entries and current tags:
 - p22: خواهند_لرزید  → H7264
 - p23: و  → Hc
 - p24: به
-- p25: سبب  → H6440
+- p25: سبب
 - p26: تو
 - p27: مضطرب خواهند_شد  → H2342
 - p28: .
@@ -484,7 +484,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: «
-- p2: پس  → Hc
+- p2: پس
 - p3: فرستادگانی  → H4397
 - p4: با
 - p5: سخنان  → H1697
@@ -520,15 +520,15 @@ Original words:
 Persian entries and current tags:
 - p1: ”اجازه
 - p2: بده
-- p3: از  → H5674
+- p3: از
 - p4: سرزمینت  → H776
 - p5: بگذرم  → H5674
 - p6: .
-- p7: از  → H5674
+- p7: از
 - p8: شاهراه  → H1870
 - p9: خواهم_رفت  → H3212
 - p10: و
-- p11: به  → Hb
+- p11: به
 - p12: جانب
 - p13: راست  → H3225
 - p14: یا
@@ -582,7 +582,7 @@ Persian entries and current tags:
 - p23: اجازه
 - p24: بده
 - p25: تا
-- p26: بر
+- p26: بر  → Hb
 - p27: پایهای  → H7272
 - p28: خود
 - p29: بگذرم  → H5674
@@ -627,7 +627,7 @@ Persian entries and current tags:
 - p7: و  → Hc
 - p8: موآبیان  → H4125
 - p9: که
-- p10: در
+- p10: در  → Hb
 - p11: عار  → H6144
 - p12: ساکنند  → H3427
 - p13: برای
@@ -635,7 +635,7 @@ Persian entries and current tags:
 - p15: کردند  → H6213
 - p16: ،
 - p17: تا  → H5704
-- p18: از  → H5674
+- p18: از
 - p19: رودِ
 - p20: اردن  → H3383
 - p21: به  → H413
@@ -680,7 +680,7 @@ Original words:
 - o21: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
 
 Persian entries and current tags:
-- p1: اما  → Hc
+- p1: اما
 - p2: سیحون  → H5511
 - p3: پادشاه  → H4428
 - p4: حِشبون  → H2809
@@ -703,8 +703,8 @@ Persian entries and current tags:
 - p21: او
 - p22: را  → H853
 - p23: سنگ
-- p24: ساخت  → H7185
-- p25: تا  → H4616
+- p24: ساخت
+- p25: تا
 - p26: او
 - p27: را  → H853
 - p28: به  → Hb
@@ -866,7 +866,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: و  → Hc
-- p2: در
+- p2: در  → Hb
 - p3: آن
 - p4: وقت  → H6256
 - p5: ،
@@ -891,9 +891,8 @@ Persian entries and current tags:
 - p24: و  → Hc
 - p25: اَحَدی
 - p26: را  → H853
-- p27: باقی  → H8300
-- p28: نگذاشتیم  → H3808
-- p29: .
+- p27: باقی نگذاشتیم  → H8300
+- p28: .
 
 ### Deuteronomy 2:35
 
@@ -919,7 +918,7 @@ Persian entries and current tags:
 - p6: شهرهایی  → H5892
 - p7: که  → H834
 - p8: تسخیر کرده_بودیم  → H962 H3920
-- p9: برای
+- p9: برای  → Hl
 - p10: خود
 - p11: به
 - p12: یغما  → H962
@@ -985,8 +984,8 @@ Persian entries and current tags:
 - p26: خدایمان  → H430
 - p27: همه  → H3605
 - p28: را  → H853
-- p29: به  → Hl
-- p30: دست
+- p29: به
+- p30: دست  → H6440
 - p31: ما
 - p32: تسلیم
 - p33: کرد
@@ -1043,8 +1042,9 @@ Persian entries and current tags:
 - p23: را
 - p24: منع کرده_بود  → H6680
 - p25: ،
-- p26: نزدیک نشدیم  → H7126
-- p27: .
+- p26: نزدیک  → H7126
+- p27: نشدیم  → H3808
+- p28: .
 
 ## Neighbouring verses (context only, not for review)
 

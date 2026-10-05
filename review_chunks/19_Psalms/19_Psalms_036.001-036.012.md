@@ -104,8 +104,8 @@ Original words:
 
 Persian entries and current tags:
 - p1: نافرمانی  → H6588
-- p2: در  → Hb
-- p3: اعماق  → H7130
+- p2: در
+- p3: اعماق
 - p4: دل  → H3820
 - p5: شریر  → H7563
 - p6: بدو
@@ -117,7 +117,7 @@ Persian entries and current tags:
 - p12: در
 - p13: چشمان  → H5869
 - p14: او
-- p15: نیست  → H369
+- p15: نیست
 - p16: .
 
 ### Psalms 36:2
@@ -138,7 +138,7 @@ Persian entries and current tags:
 - p1: زیرا  → H3588
 - p2: خویشتن
 - p3: را
-- p4: در
+- p4: در  → Hb
 - p5: نظر  → H5869
 - p6: خود
 - p7: چندان
@@ -147,7 +147,7 @@ Persian entries and current tags:
 - p10: از
 - p11: پی  → H4672
 - p12: بردن
-- p13: به
+- p13: به  → H413
 - p14: گناه  → H5771
 - p15: خویش
 - p16: و
@@ -183,7 +183,7 @@ Persian entries and current tags:
 - p8: از
 - p9: خردمندی  → H7919
 - p10: و
-- p11: نیکوکاری  → H3190
+- p11: نیکوکاری  → H4820 H3190
 - p12: دست
 - p13: شسته
 - p14: است
@@ -219,7 +219,7 @@ Persian entries and current tags:
 - p8: ؛
 - p9: راهی  → H1870
 - p10: ناپسند  → H2896
-- p11: در  → H5921
+- p11: در
 - p12: پیش
 - p13: گرفته_است
 - p14: و
@@ -247,7 +247,7 @@ Persian entries and current tags:
 - p2: ،
 - p3: محبتت  → H2617
 - p4: تا
-- p5: به  → Hb
+- p5: به
 - p6: آسمانها  → H8064
 - p7: می‌رسد
 - p8: و
@@ -327,7 +327,7 @@ Persian entries and current tags:
 - p6: است
 - p7: !
 - p8: بنی‌آدم  → H1121 H120
-- p9: در  → H2620
+- p9: در  → Hb H2620
 - p10: سایۀ  → H6738
 - p11: بالهایت  → H3671
 - p12: پناه
@@ -422,7 +422,7 @@ Persian entries and current tags:
 - p9: عدالتت  → H6666
 - p10: را
 - p11: برای  → Hl
-- p12: راست‌دلان  → H3477
+- p12: راست‌دلان  → H3477 H3820
 - p13: .
 
 ### Psalms 36:11
@@ -441,7 +441,7 @@ Original words:
 - o8: תְּנִדֵ/נִי = H5110 נוּד "to nod, i.e. waver…" [HVhj3fs/Sp1cs]
 
 Persian entries and current tags:
-- p1: مباد  → H408
+- p1: مباد
 - p2: که
 - p3: متکبران  → H1346
 - p4: بر
@@ -451,8 +451,8 @@ Persian entries and current tags:
 - p8: ،
 - p9: یا
 - p10: دست  → H3027
-- p11: شریران  → H1346
-- p12: مرا  → H408
+- p11: شریران
+- p12: مرا
 - p13: براند  → H5110
 - p14: .
 
@@ -484,7 +484,7 @@ Persian entries and current tags:
 - p10: شده‌اند
 - p11: و  → Hc
 - p12: یارای  → H3201
-- p13: برخاستنشان  → H6965
+- p13: برخاستنشان
 - p14: نیست  → H3808 H3201
 - p15: !
 

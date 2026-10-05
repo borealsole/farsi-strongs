@@ -4,7 +4,7 @@ Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change
 
 ## 14 verse(s) with changes
 
-### Hebrews 1:1: 6 word(s) changed
+### Hebrews 1:1: 10 word(s) changed
 
 Reply line 2.
 
@@ -44,16 +44,16 @@ Original words:
 |  | بارها | G4181 | G4181 |
 |  | و | G2532 | G2532 |
 |  | از |  |  |
-|  | راههای | [راههای گوناگون] G4187 | [راههای گوناگون] G4187 |
-|  | گوناگون | [راههای گوناگون] G4187 | [راههای گوناگون] G4187 |
+| ✱ | راههای | G4187 πολυτρόπως "in divers manners" | [راههای گوناگون] G4187 πολυτρόπως "in divers manners" |
+| ✱ | گوناگون | G4181 πολυμερῶς "at sundry times"; G4187 πολυτρόπως "in divers manners" | [راههای گوناگون] G4187 πολυτρόπως "in divers manners" |
 | ✱ | به |  | [به واسطۀ] G1722 ἐν "about, after, against…" |
 | ✱ | واسطۀ |  | [به واسطۀ] G1722 ἐν "about, after, against…" |
 | ✱ | پیامبران | G3962 πατήρ "father, parent"; G4396 προφήτης "prophet" | G4396 προφήτης "prophet" |
 | ✱ | با |  | G3588 ὁ "the, this, that, one, he, she…" |
 | ✱ | پدران | G3962 πατήρ "father, parent"; G4396 προφήτης "prophet" | G3962 πατήρ "father, parent" |
 | ✱ | ما | G2249 ἡμεῖς "us, we (ourselves)" |  |
-|  | سخن | [سخن گفت] G2980 | [سخن گفت] G2980 |
-|  | گفت | [سخن گفت] G2980 | [سخن گفت] G2980 |
+| ✱ | سخن | G2980 λαλέω "preach, say, speak (after)…" | [سخن گفت] G2980 λαλέω "preach, say, speak (after)…" |
+| ✱ | گفت |  | [سخن گفت] G2980 λαλέω "preach, say, speak (after)…" |
 |  | ، |  |  |
 
 ### Hebrews 1:2: 15 word(s) changed
@@ -105,7 +105,7 @@ Original words of Hebrews 1:1 (neighbouring verse; this reply uses G1722, G1909,
 | ✱ | در |  | G1909 ἐπί "about (the times), above…" (from Hebrews 1:1) |
 | ✱ | این |  | G3778 οὗτος "he (it was that), hereof, it…" (from Hebrews 1:1) |
 | ✱ | ایام |  | G2250 ἡμέρα "age, + alway…" (from Hebrews 1:1) |
-| ✱ | آخر |  | G2078 ἔσχατος "ends of, last, latter end…" (from Hebrews 1:1) |
+| ✱ | آخر | G165 αἰών "age, course, eternal…" | G2078 ἔσχατος "ends of, last, latter end…" (from Hebrews 1:1) |
 | ✱ | به |  | [به واسطۀ] G1722 ἐν "about, after, against…" (from Hebrews 1:1) |
 | ✱ | واسطۀ | G1223 διά "after, always, among, at…" | [به واسطۀ] G1722 ἐν "about, after, against…" (from Hebrews 1:1) |
 | ✱ | پسر |  | G5207 υἱός "child, foal, son" (from Hebrews 1:1) |
@@ -123,7 +123,7 @@ Original words of Hebrews 1:1 (neighbouring verse; this reply uses G1722, G1909,
 |  | همه | [همه چیز] G3956 | [همه چیز] G3956 |
 |  | چیز | [همه چیز] G3956 | [همه چیز] G3956 |
 | ✱ | مقرر |  | [مقرر داشت] G5087 τίθημι "+ advise, appoint, bow…" |
-| ✱ | داشت |  | [مقرر داشت] G5087 τίθημι "+ advise, appoint, bow…" |
+| ✱ | داشت | G5087 τίθημι "+ advise, appoint, bow…" | [مقرر داشت] G5087 τίθημι "+ advise, appoint, bow…" |
 |  | و | G2532 | G2532 |
 | ✱ | به |  | [به واسطۀ] G1223 διά "after, always, among, at…" |
 | ✱ | واسطۀ | G1223 διά "after, always, among, at…" | [به واسطۀ] G1223 διά "after, always, among, at…" |
@@ -133,7 +133,7 @@ Original words of Hebrews 1:1 (neighbouring verse; this reply uses G1722, G1909,
 |  | آفرید | G4160 | G4160 |
 |  | . |  |  |
 
-### Hebrews 1:3: 12 word(s) changed
+### Hebrews 1:3: 11 word(s) changed
 
 Reply line 4.
 
@@ -200,7 +200,7 @@ Original words:
 |  | پس |  |  |
 |  | از |  |  |
 |  | پاک | G2512 | G2512 |
-| ✱ | کردن |  | G4160 ποιέω "abide, + agree, appoint…" |
+|  | کردن | G4160 | G4160 |
 |  | گناهان | G266 | G266 |
 |  | ، |  |  |
 | ✱ | به |  | G1722 ἐν "about, after, against…" |
@@ -214,7 +214,7 @@ Original words:
 |  | بنشست | G2523 | G2523 |
 |  | . |  |  |
 
-### Hebrews 1:4: 15 word(s) changed
+### Hebrews 1:4: 14 word(s) changed
 
 Reply line 5.
 
@@ -240,11 +240,11 @@ Original words:
 |  | پس |  |  |
 | ✱ | به | G5118 τοσοῦτος "as large, so great (long…" | [به همان اندازه] G5118 τοσοῦτος "as large, so great (long…" |
 | ✱ | همان |  | [به همان اندازه] G5118 τοσοῦτος "as large, so great (long…" |
-| ✱ | اندازه |  | [به همان اندازه] G5118 τοσοῦτος "as large, so great (long…" |
+| ✱ | اندازه | G5118 τοσοῦτος "as large, so great (long…" | [به همان اندازه] G5118 τοσοῦτος "as large, so great (long…" |
 | ✱ | که |  | G3745 ὅσος "all (that), as (long, many…" |
 |  | نامی | G3686 | G3686 |
-| ✱ | برتر | [برتر از] G2909 κρείττων "best, better" | G1313 διάφορος "differing, divers…" |
-| ✱ | از | [برتر از] G2909 κρείττων "best, better" | G3844 παρά "above, against, among, at…" |
+| ✱ | برتر | G2909 κρείττων "best, better" | G1313 διάφορος "differing, divers…" |
+| ✱ | از |  | G3844 παρά "above, against, among, at…" |
 |  | فرشتگان | G32 | G32 |
 | ✱ | به | G5118 τοσοῦτος "as large, so great (long…" | [به میراث بُرد] G2816 κληρονομέω "be heir…" |
 | ✱ | میراث | G2816 κληρονομέω "be heir…" | [به میراث بُرد] G2816 κληρονομέω "be heir…" |
@@ -253,7 +253,7 @@ Original words:
 | ✱ | از | G2909 κρείττων "best, better" |  |
 | ✱ | مقامی | G1313 διάφορος "differing, divers…" |  |
 | ✱ | والاتر |  | G2909 κρείττων "best, better" |
-| ✱ | از | G2909 κρείττων "best, better" |  |
+|  | از |  |  |
 |  | آنها | G846 | G846 |
 |  | نیز |  |  |
 | ✱ | برخوردار |  | [برخوردار شد] G1096 γίνομαι "arise, be assembled, be(-come…" |
@@ -340,7 +340,7 @@ Original words:
 |  | » |  |  |
 |  | ؟ |  |  |
 
-### Hebrews 1:6: 4 word(s) changed
+### Hebrews 1:6: 5 word(s) changed
 
 Reply line 7.
 
@@ -380,7 +380,7 @@ Original words:
 |  | جهان | G3625 | G3625 |
 |  | می‌آورَد | G1521 | G1521 |
 |  | ، |  |  |
-|  | می‌فرماید | G3004 | G3004 |
+| ✱ | می‌فرماید |  | G3004 λέγω "ask, bid, boast, call…" |
 |  | : |  |  |
 |  | « |  |  |
 |  | همۀ | G3956 | G3956 |
@@ -392,7 +392,7 @@ Original words:
 |  | . |  |  |
 |  | » |  |  |
 
-### Hebrews 1:7: 3 word(s) changed
+### Hebrews 1:7: 4 word(s) changed
 
 Reply line 8.
 
@@ -424,7 +424,7 @@ Original words:
 | --- | --- | --- | --- |
 | ✱ | حال |  | [حال آنکه] G2532 καί "and, also, both, but, even…" |
 | ✱ | آنکه |  | [حال آنکه] G2532 καί "and, also, both, but, even…" |
-|  | دربارۀ | G4314 | G4314 |
+| ✱ | دربارۀ | G4314 πρός "about, according to , against…"; G3303 μέν "even, indeed, so, some, truly…" | G4314 πρός "about, according to , against…" |
 |  | فرشتگان | G32 | G32 |
 |  | می‌گوید | G3004 | G3004 |
 |  | : |  |  |
@@ -502,7 +502,7 @@ Original words:
 |  | است |  |  |
 |  | . |  |  |
 
-### Hebrews 1:9: 5 word(s) changed
+### Hebrews 1:9: 6 word(s) changed
 
 Reply line 10.
 
@@ -541,9 +541,9 @@ Original words:
 |  | دوست | [دوست می‌داری] G25 | [دوست می‌داری] G25 |
 |  | می‌داری | [دوست می‌داری] G25 | [دوست می‌داری] G25 |
 |  | و | G2532 | G2532 |
-| ✱ | شرارت | G1343 δικαιοσύνη "righteousness"; G93 ἀδικία "iniquity, unjust…" | G93 ἀδικία "iniquity, unjust…" |
+| ✱ | شرارت | G1343 δικαιοσύνη "righteousness"; G93 ἀδικία "iniquity, unjust…"; G458 ἀνομία "iniquity…" | G93 ἀδικία "iniquity, unjust…" |
 |  | را |  |  |
-|  | دشمن | G3404 | G3404 |
+| ✱ | دشمن | G3404 μισέω "hate(-ful)"; G458 ἀνομία "iniquity…" | G3404 μισέω "hate(-ful)" |
 |  | ؛ |  |  |
 |  | از |  |  |
 |  | این | G3778 | G3778 |
@@ -658,7 +658,7 @@ Original words:
 |  | خواهند_شد | [مندرس خواهند_شد] G3822 | [مندرس خواهند_شد] G3822 |
 |  | ! |  |  |
 
-### Hebrews 1:12: 9 word(s) changed
+### Hebrews 1:12: 10 word(s) changed
 
 Reply line 13.
 
@@ -693,17 +693,17 @@ Original words:
 | --- | --- | --- | --- |
 |  | آنها | G846 | G846 |
 |  | را |  |  |
-| ✱ | چون | G5616 ὡσεί "about, as (it had been…"; G2532 καί "and, also, both, but, even…" | G5616 ὡσεί "about, as (it had been…" |
+| ✱ | چون | G2532 καί "and, also, both, but, even…"; G5616 ὡσεί "about, as (it had been…" | G5616 ὡσεί "about, as (it had been…" |
 |  | ردایی | G4018 | G4018 |
 | ✱ | در |  | [در هم خواهی_پیچید] G236 ἀλλάσσω "change" |
 | ✱ | هم |  | [در هم خواهی_پیچید] G236 ἀλλάσσω "change" |
-| ✱ | خواهی_پیچید |  | [در هم خواهی_پیچید] G236 ἀλλάσσω "change" |
+| ✱ | خواهی_پیچید | G1667 ἑλίσσω "fold up" | [در هم خواهی_پیچید] G236 ἀλλάσσω "change" |
 |  | ، |  |  |
-|  | و | G2532 | G2532 |
-| ✱ | بسان | G236 ἀλλάσσω "change" |  |
-|  | جامه‌ای |  |  |
+| ✱ | و |  | G2532 καί "and, also, both, but, even…" |
+|  | بسان |  |  |
+| ✱ | جامه‌ای | G2440 ἱμάτιον "apparel, cloke, clothes…" |  |
 | ✱ | جایگزین |  | [جایگزین خواهند_شد] G236 ἀλλάσσω "change" |
-| ✱ | خواهند_شد | G236 ἀλλάσσω "change" | [جایگزین خواهند_شد] G236 ἀλλάσσω "change" |
+| ✱ | خواهند_شد |  | [جایگزین خواهند_شد] G236 ἀλλάσσω "change" |
 |  | . |  |  |
 |  | امّا | G1161 | G1161 |
 |  | تو | G4771 | G4771 |
@@ -719,7 +719,7 @@ Original words:
 |  | ! |  |  |
 |  | » |  |  |
 
-### Hebrews 1:13: 10 word(s) changed
+### Hebrews 1:13: 9 word(s) changed
 
 Reply line 14.
 
@@ -762,7 +762,7 @@ Original words:
 |  | گفته_است | G2046 | G2046 |
 |  | : |  |  |
 |  | « |  |  |
-| ✱ | به | G4314 πρός "about, according to , against…" | G1537 ἐκ "after, among, are, at…" |
+| ✱ | به |  | G1537 ἐκ "after, among, are, at…" |
 |  | دست | [دست راست] G1188 | [دست راست] G1188 |
 |  | راست | [دست راست] G1188 | [دست راست] G1188 |
 |  | من | G1473 | G1473 |
@@ -770,17 +770,17 @@ Original words:
 | ✱ | تا | G1161 δέ "also, and, but, moreover…" | [تا آن هنگام که] G2193 ἕως "even (until, unto)…"; G302 ἄν "what-, where-, wither-…" |
 | ✱ | آن |  | [تا آن هنگام که] G2193 ἕως "even (until, unto)…"; G302 ἄν "what-, where-, wither-…" |
 | ✱ | هنگام |  | [تا آن هنگام که] G2193 ἕως "even (until, unto)…"; G302 ἄν "what-, where-, wither-…" |
-| ✱ | که | G2193 ἕως "even (until, unto)…"; G302 ἄν "what-, where-, wither-…" | [تا آن هنگام که] G2193 ἕως "even (until, unto)…"; G302 ἄν "what-, where-, wither-…" |
+| ✱ | که | G2193 ἕως "even (until, unto)…" | [تا آن هنگام که] G2193 ἕως "even (until, unto)…"; G302 ἄν "what-, where-, wither-…" |
 | ✱ | دشمنانت | G2190 ἐχθρός "enemy, foe" | G2190 ἐχθρός "enemy, foe"; G4771 σύ "thou" |
 |  | را |  |  |
 |  | کرسی | G5286 | G5286 |
 |  | زیر |  |  |
 | ✱ | پایت | G4228 πούς "foot(-stool)" | G4228 πούς "foot(-stool)"; G4771 σύ "thou" |
-| ✱ | سازم |  | G5087 τίθημι "+ advise, appoint, bow…" |
+|  | سازم | G5087 | G5087 |
 |  | » |  |  |
 |  | ؟ |  |  |
 
-### Hebrews 1:14: 6 word(s) changed
+### Hebrews 1:14: 5 word(s) changed
 
 Reply line 15.
 
@@ -810,13 +810,13 @@ Original words:
 | ✱ | جملگی | G3956 πᾶς "all (manner of, means)…"; G3010 λειτουργικός "ministering" | G3956 πᾶς "all (manner of, means)…" |
 |  | روحهایی | G4151 | G4151 |
 |  | خدمتگزار | G3010 | G3010 |
-| ✱ | نیستند | G3780 οὐχί "nay, not" | G3780 οὐχί "nay, not"; G1510 εἰμί "am, have been, it is I, was" |
+| ✱ | نیستند |  | G3780 οὐχί "nay, not"; G1510 εἰμί "am, have been, it is I, was" |
 |  | که |  |  |
-| ✱ | برای | G1519 εἰς "abundant-)ly, against, among…"; G1223 διά "after, always, among, at…" | G1519 εἰς "abundant-)ly, against, among…" |
+| ✱ | برای | G1223 διά "after, always, among, at…" | G1519 εἰς "abundant-)ly, against, among…" |
 |  | خدمت | G1248 | G1248 |
 | ✱ | به |  | G1223 διά "after, always, among, at…" |
 | ✱ | وارثان |  | G2816 κληρονομέω "be heir…" |
 |  | آیندۀ | G3195 | G3195 |
 |  | نجات | G4991 | G4991 |
-| ✱ | فرستاده_می‌شوند | G649 ἀποστέλλω "put in, send (away, forth…"; G2816 κληρονομέω "be heir…" | G649 ἀποστέλλω "put in, send (away, forth…" |
+|  | فرستاده_می‌شوند | G649 | G649 |
 |  | ؟ |  |  |

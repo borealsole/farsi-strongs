@@ -1,10 +1,12 @@
 # Check of 20_Proverbs_007.015-007.027.md
 
-Generated 2026-10-04 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
-## 13 verse(s) with changes
+No change from the current tags (will be skipped): Proverbs 7:19.
 
-### Proverbs 7:15: 6 word(s) changed
+## 12 verse(s) with changes
+
+### Proverbs 7:15: 5 word(s) changed
 
 Reply line 2.
 
@@ -23,7 +25,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | پس | H3651 כֵּן "properly, set upright…" | H5921 עַל "above, over, upon…"; H3651 כֵּן "properly, set upright…" |
+|  | پس | H5921 H3651 | H5921 H3651 |
 |  | به | Hl | Hl |
 |  | دیدار | H7125 | H7125 |
 |  | تو |  |  |
@@ -39,7 +41,7 @@ Original words:
 |  | یافتم | H4672 | H4672 |
 |  | ! |  |  |
 
-### Proverbs 7:16: 2 word(s) changed
+### Proverbs 7:16: 3 word(s) changed
 
 Reply line 3.
 
@@ -63,7 +65,7 @@ Original words:
 | ✱ | دیباها | H4765 מַרְבַד "a coverlet" | H4765 מַרְבַד "a coverlet"; H2405 חֲטֻבָה "properly, a carving…" |
 |  | از |  |  |
 | ✱ | کتان | H2405 חֲטֻבָה "properly, a carving…" | H330 אֵטוּן "properly, twisted (yarn)…" |
-|  | مصری | H4714 | H4714 |
+| ✱ | مصری | H330 אֵטוּן "properly, twisted (yarn)…"; H4714 מִצְרַיִם "Mitsrajim…" | H4714 מִצְרַיִם "Mitsrajim…" |
 |  | گسترانیده‌ام | H7234 | H7234 |
 |  | ؛ |  |  |
 
@@ -133,37 +135,6 @@ Original words:
 |  | کنیم | [سرمست کنیم] H5965 | [سرمست کنیم] H5965 |
 |  | ! |  |  |
 
-### Proverbs 7:19: 1 word(s) changed
-
-Reply line 6.
-
-Original: כִּי אֵין הָ/אִישׁ בְּ/בֵית/וֹ הָלַךְ בְּ/דֶרֶךְ מֵ/רָחוֹק
-
-Persian: زیرا شوهرم در خانه نیست و به سفری دراز رفته_است.
-
-Original words:
-- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
-- o2: אֵין = H369 אַיִן "a non-entity…" [HTn]
-- o3: הָ/אִישׁ = Hd "the" + H376 אִישׁ "a man as an individual or a male person…" [HTd/Ncmsa]
-- o4: בְּ/בֵית/וֹ = Hb "in" + H1004 בַּיִת "a house (in the greatest variation of…" [HR/Ncmsc/Sp3ms]
-- o5: הָלַךְ = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVqp3ms]
-- o6: בְּ/דֶרֶךְ = Hb "in" + H1870 דֶּרֶךְ "a road (as trodden)…" [HR/Ncbsa]
-- o7: מֵ/רָחוֹק = Hm "from" + H7350 רָחוֹק "remote, literally or figuratively…" [HR/Aamsa]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | زیرا | H3588 | H3588 |
-|  | شوهرم | H376 | H376 |
-| ✱ | در |  | Hb "in" |
-|  | خانه | H1004 | H1004 |
-|  | نیست | H369 | H369 |
-|  | و |  |  |
-|  | به | Hb | Hb |
-|  | سفری | H1870 | H1870 |
-|  | دراز | H7350 | H7350 |
-|  | رفته_است | H1980 | H1980 |
-|  | . |  |  |
-
 ### Proverbs 7:20: 7 word(s) changed
 
 Reply line 7.
@@ -188,8 +159,8 @@ Original words:
 |  | پر |  |  |
 |  | از |  |  |
 |  | پول | H3701 | H3701 |
-| ✱ | با | [با خود] H3027 יָד "a hand (the open one…" | [با خود] Hb "in"; H3027 יָד "a hand (the open one…" |
-| ✱ | خود | [با خود] H3027 יָד "a hand (the open one…" | [با خود] Hb "in"; H3027 יָד "a hand (the open one…" |
+| ✱ | با |  | [با خود] Hb "in"; H3027 יָד "a hand (the open one…" |
+| ✱ | خود | H3027 יָד "a hand (the open one…" | [با خود] Hb "in"; H3027 יָד "a hand (the open one…" |
 |  | برده | H3947 | H3947 |
 |  | و |  |  |
 | ✱ | تا |  | Hl "to" |
@@ -232,7 +203,7 @@ Original words:
 |  | کرد | [اغوا کرد] H5080 | [اغوا کرد] H5080 |
 |  | . |  |  |
 
-### Proverbs 7:22: 9 word(s) changed
+### Proverbs 7:22: 7 word(s) changed
 
 Reply line 9.
 
@@ -261,8 +232,8 @@ Original words:
 | ✱ | از |  | [از پی] H310 אַחַר "properly, the hind part…" |
 | ✱ | پی | H310 אַחַר "properly, the hind part…" | [از پی] H310 אַחַר "properly, the hind part…" |
 |  | او |  |  |
-| ✱ | روان | H1980 הָלַךְ "to walk (in a great variety…"; H310 אַחַר "properly, the hind part…" | [روان شد] H1980 הָלַךְ "to walk (in a great variety…" |
-| ✱ | شد |  | [روان شد] H1980 הָלַךְ "to walk (in a great variety…" |
+|  | روان | [روان شد] H1980 | [روان شد] H1980 |
+|  | شد | [روان شد] H1980 | [روان شد] H1980 |
 |  | ، |  |  |
 |  | همچون | Hk | Hk |
 |  | گاوی | H7794 | H7794 |
@@ -316,7 +287,7 @@ Original words:
 | ✱ | پرنده‌ای | H2671 חֵץ "properly, a piercer…"; H6833 צִפּוֹר "a little bird (as hopping)" | H6833 צִפּוֹר "a little bird (as hopping)" |
 |  | که |  |  |
 | ✱ | به |  | [به سوی] H413 אֵל "near, with or among…" |
-| ✱ | سوی |  | [به سوی] H413 אֵל "near, with or among…" |
+| ✱ | سوی | H413 אֵל "near, with or among…" | [به سوی] H413 אֵל "near, with or among…" |
 |  | دام | H6341 | H6341 |
 |  | می‌شتابد | H4116 | H4116 |
 |  | ، |  |  |
@@ -330,7 +301,7 @@ Original words:
 |  | خواهد_شد |  |  |
 |  | . |  |  |
 
-### Proverbs 7:24: 6 word(s) changed
+### Proverbs 7:24: 3 word(s) changed
 
 Reply line 11.
 
@@ -355,10 +326,10 @@ Original words:
 |  | ای |  |  |
 |  | پسرانم | H1121 | H1121 |
 |  | ، |  |  |
-| ✱ | به |  | Hl "to" |
+|  | به | Hl | Hl |
 |  | من |  |  |
-| ✱ | گوش | H8085 שָׁמַע "to hear intelligently (often…"; H561 אֵמֶר "something said" | [گوش فرا~دهید] H8085 שָׁמַע "to hear intelligently (often…" |
-| ✱ | فرا~دهید | H8085 שָׁמַע "to hear intelligently (often…" | [گوش فرا~دهید] H8085 שָׁמַע "to hear intelligently (often…" |
+|  | گوش | [گوش فرا~دهید] H8085 | [گوش فرا~دهید] H8085 |
+|  | فرا~دهید | [گوش فرا~دهید] H8085 | [گوش فرا~دهید] H8085 |
 |  | و | Hc | Hc |
 | ✱ | به |  | Hl "to" |
 | ✱ | آنچه |  | [آنچه می‌گویم] H561 אֵמֶר "something said"; H6310 פֶּה "the mouth (as the means of…" |
@@ -367,7 +338,7 @@ Original words:
 |  | کنید | [توجه کنید] H7181 | [توجه کنید] H7181 |
 |  | . |  |  |
 
-### Proverbs 7:25: 4 word(s) changed
+### Proverbs 7:25: 3 word(s) changed
 
 Reply line 12.
 
@@ -394,7 +365,7 @@ Original words:
 |  | متمایل | H7847 | H7847 |
 |  | نشود | H408 | H408 |
 |  | و |  |  |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | طریقهایش | H5410 | H5410 |
 | ✱ | گمراه | H7847 שָׂטָה "to deviate from duty"; H8582 תָּעָה "to vacillate…" | H8582 תָּעָה "to vacillate…" |
 | ✱ | نگردد | H408 אַל "not (the qualified negation…"; H8582 תָּעָה "to vacillate…" | H408 אַל "not (the qualified negation…" |

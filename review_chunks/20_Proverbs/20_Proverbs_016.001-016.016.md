@@ -159,7 +159,7 @@ Original words:
 - o6: מַחְשְׁבֹתֶי/ךָ = H4284 מַחֲשָׁבָה "a contrivance, i.e. (concretely) a texture…" [HNcfpc/Sp2ms]
 
 Persian entries and current tags:
-- p1: کارهای  → H4639
+- p1: کارهای  → H4639 H4284
 - p2: خویش
 - p3: را
 - p4: به  → H413
@@ -191,7 +191,7 @@ Persian entries and current tags:
 - p3: را
 - p4: برای  → Hl
 - p5: هدفش  → H4617
-- p6: ساخته_است  → H6466
+- p6: ساخته_است
 - p7: ،
 - p8: شریران  → H7563
 - p9: را
@@ -228,7 +228,7 @@ Persian entries and current tags:
 - p8: کراهت  → H8441
 - p9: دارد
 - p10: ،
-- p11: یقین  → H3027
+- p11: یقین
 - p12: دان
 - p13: که
 - p14: چنین
@@ -253,7 +253,7 @@ Original words:
 - o8: מֵ/רָע = Hm "from" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HR/Aamsa]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hb
 - p2: محبت  → H2617
 - p3: و  → Hc
 - p4: امانت  → H571
@@ -301,7 +301,7 @@ Persian entries and current tags:
 - p12: نیز
 - p13: به
 - p14: صلح  → H7999
-- p15: با
+- p15: با  → H854
 - p16: او
 - p17: وا
 - p18: می‌دارد
@@ -449,7 +449,7 @@ Persian entries and current tags:
 - p1: پادشاهان  → H4428
 - p2: از
 - p3: شرارت  → H7562
-- p4: کراهت  → H8441
+- p4: کراهت
 - p5: دارند
 - p6: ،
 - p7: زیرا  → H3588
@@ -482,7 +482,7 @@ Persian entries and current tags:
 - p5: راستگوست
 - p6: ،
 - p7: آنان
-- p8: راستگویان  → H3477
+- p8: راستگویان  → H6664 H3477
 - p9: را
 - p10: دوست می‌دارند  → H157
 - p11: .
@@ -510,7 +510,7 @@ Persian entries and current tags:
 - p6: ،
 - p7: اما  → Hc
 - p8: مرد  → H376
-- p9: حکیم  → H2450 H3722
+- p9: حکیم  → H2450
 - p10: آن
 - p11: را
 - p12: فرو~می‌نشاند

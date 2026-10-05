@@ -1,6 +1,6 @@
 # Check of 20_Proverbs_016.017-016.033.md
 
-Generated 2026-10-04 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
 ## 16 verse(s) with changes
 
@@ -76,7 +76,7 @@ Original words:
 |  | لغزش | H3783 | H3783 |
 |  | . |  |  |
 
-### Proverbs 16:19: 3 word(s) changed
+### Proverbs 16:19: 1 word(s) changed
 
 Reply line 4.
 
@@ -99,17 +99,17 @@ Original words:
 | --- | --- | --- | --- |
 |  | افتادگی | H8217 H7307 | H8217 H7307 |
 |  | با | H854 | H854 |
-| ✱ | افتادگان | H8217 שָׁפָל "depressed…"; H6041 עָנִי "depressed…" | H6041 עָנִי "depressed…" |
+|  | افتادگان | H6041 | H6041 |
 |  | ، |  |  |
 | ✱ | بِه |  | H2896 טוֹב "good (as an adjective) in the…" |
 |  | از | Hm | Hm |
 |  | تقسیم | H2505 | H2505 |
 |  | غنیمت | H7998 | H7998 |
-| ✱ | با |  | H854 אֵת "properly…" |
+|  | با | H854 | H854 |
 |  | متکبران | H1343 | H1343 |
 |  | . |  |  |
 
-### Proverbs 16:20: 8 word(s) changed
+### Proverbs 16:20: 9 word(s) changed
 
 Reply line 5.
 
@@ -131,24 +131,24 @@ Original words:
 | --- | --- | --- | --- |
 |  | آن |  |  |
 |  | که |  |  |
-|  | در | H5921 | H5921 |
+| ✱ | در |  | H5921 עַל "above, over, upon…" |
 |  | مَثَل | H1697 | H1697 |
 | ✱ | تأمل | H7919 שָׂכַל "to be (causatively…" | [تأمل کند] H7919 שָׂכַל "to be (causatively…" |
 | ✱ | کند | H4672 מָצָא "properly, to come forth to…" | [تأمل کند] H7919 שָׂכַל "to be (causatively…" |
-| ✱ | کامیاب | H2896 טוֹב "good (as an adjective) in the…"; H835 אֶשֶׁר "happiness…" | [کامیاب خواهد_شد] H4672 מָצָא "properly, to come forth to…"; H2896 טוֹב "good (as an adjective) in the…" |
+| ✱ | کامیاب | H7919 שָׂכַל "to be (causatively…"; H2896 טוֹב "good (as an adjective) in the…" | [کامیاب خواهد_شد] H4672 מָצָא "properly, to come forth to…"; H2896 טוֹב "good (as an adjective) in the…" |
 | ✱ | خواهد_شد |  | [کامیاب خواهد_شد] H4672 מָצָא "properly, to come forth to…"; H2896 טוֹב "good (as an adjective) in the…" |
 |  | ، |  |  |
 |  | آن |  |  |
 |  | که |  |  |
 |  | بر | Hb | Hb |
 |  | خداوند | H3068 | H3068 |
-| ✱ | توکل | H982 בָּטַח "figuratively, to trust…" | [توکل کند] H982 בָּטַח "figuratively, to trust…" |
-| ✱ | کند | H4672 מָצָא "properly, to come forth to…" | [توکل کند] H982 בָּטַח "figuratively, to trust…" |
-| ✱ | مبارک | H982 בָּטַח "figuratively, to trust…"; H835 אֶשֶׁר "happiness…" | [مبارک خواهد_بود] H835 אֶשֶׁר "happiness…" |
+| ✱ | توکل | H982 בָּטַח "figuratively, to trust…"; H835 אֶשֶׁר "happiness…" | [توکل کند] H982 בָּטַח "figuratively, to trust…" |
+| ✱ | کند |  | [توکل کند] H982 בָּטַח "figuratively, to trust…" |
+| ✱ | مبارک | H835 אֶשֶׁר "happiness…" | [مبارک خواهد_بود] H835 אֶשֶׁר "happiness…" |
 | ✱ | خواهد_بود |  | [مبارک خواهد_بود] H835 אֶשֶׁר "happiness…" |
 |  | . |  |  |
 
-### Proverbs 16:21: 6 word(s) changed
+### Proverbs 16:21: 5 word(s) changed
 
 Reply line 6.
 
@@ -173,12 +173,12 @@ Original words:
 |  | خوانده_می‌شود | H7121 | H7121 |
 |  | ، |  |  |
 |  | و | Hc | Hc |
-| ✱ | زبان | [زبان شیرین] H4986 מֶתֶק "figuratively…" | H8193 שָׂפָה "the lip (as a natural…" |
-| ✱ | شیرین | [زبان شیرین] H4986 מֶתֶק "figuratively…" | H4986 מֶתֶק "figuratively…" |
-| ✱ | آموزش | H8193 שָׂפָה "the lip (as a natural…"; H3948 לֶקַח "properly, something received…" | H3948 לֶקַח "properly, something received…" |
+| ✱ | زبان |  | H8193 שָׂפָה "the lip (as a natural…" |
+|  | شیرین | H4986 | H4986 |
+| ✱ | آموزش | H8193 שָׂפָה "the lip (as a natural…" | H3948 לֶקַח "properly, something received…" |
 |  | را |  |  |
 | ✱ | رواج |  | [رواج می‌دهد] H3254 יָסַף "to add or augment (often…" |
-| ✱ | می‌دهد |  | [رواج می‌دهد] H3254 יָסַף "to add or augment (often…" |
+| ✱ | می‌دهد | H3254 יָסַף "to add or augment (often…" | [رواج می‌دهد] H3254 יָסַף "to add or augment (often…" |
 |  | . |  |  |
 
 ### Proverbs 16:23: 3 word(s) changed
@@ -214,7 +214,7 @@ Original words:
 |  | آموزش | H3948 | H3948 |
 |  | را |  |  |
 | ✱ | رواج |  | [رواج می‌دهد] H3254 יָסַף "to add or augment (often…" |
-| ✱ | می‌دهد |  | [رواج می‌دهد] H3254 יָסַף "to add or augment (often…" |
+| ✱ | می‌دهد | H3254 יָסַף "to add or augment (often…" | [رواج می‌دهد] H3254 יָסַף "to add or augment (often…" |
 |  | . |  |  |
 
 ### Proverbs 16:24: 2 word(s) changed
@@ -348,7 +348,7 @@ Original words:
 |  | شخص | H376 | H376 |
 |  | رذل | H1100 | H1100 |
 |  | نقشه‌های | H3738 | H3738 |
-| ✱ | پلید | H1100 בְּלִיַּעַל "without profit, worthlessness…"; H7451 רַע "bad or (as noun) evil…" | H7451 רַע "bad or (as noun) evil…" |
+| ✱ | پلید | H1100 בְּלִיַּעַל "without profit, worthlessness…" | H7451 רַע "bad or (as noun) evil…" |
 |  | می‌کشد | H3738 | H3738 |
 |  | ، |  |  |
 | ✱ | سخنان | H8193 שָׂפָה "the lip (as a natural…"; H6867 צָרֶבֶת "conflagration (of fire or…" | H8193 שָׂפָה "the lip (as a natural…" |
@@ -380,7 +380,7 @@ Original words:
 |  | شخص | H376 | H376 |
 |  | منحرف | H8419 | H8419 |
 | ✱ | تخم | H4066 מָדוֹן "a contest or quarrel" | H7971 שָׁלַח "to send away, for…" |
-| ✱ | نزاع | H8419 תַּהְפֻּכָה "a perversity or fraud"; H4066 מָדוֹן "a contest or quarrel" | H4066 מָדוֹן "a contest or quarrel" |
+| ✱ | نزاع | H8419 תַּהְפֻּכָה "a perversity or fraud" | H4066 מָדוֹן "a contest or quarrel" |
 |  | می‌پاشد | H7971 | H7971 |
 |  | ، |  |  |
 |  | سخن‌چین | H5372 | H5372 |
@@ -474,7 +474,7 @@ Original words:
 | ✱ | می‌رساند |  | [به انجام می‌رساند] H3615 כָּלָה "to end…" |
 |  | . |  |  |
 
-### Proverbs 16:31: 4 word(s) changed
+### Proverbs 16:31: 3 word(s) changed
 
 Reply line 15.
 
@@ -498,7 +498,7 @@ Original words:
 |  | جلال | H8597 | H8597 |
 |  | است |  |  |
 |  | که |  |  |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | طریق | H1870 | H1870 |
 |  | پارسایی | H6666 | H6666 |
 | ✱ | به |  | [به دست می‌آید] H4672 מָצָא "properly, to come forth to…" |
@@ -506,7 +506,7 @@ Original words:
 | ✱ | می‌آید |  | [به دست می‌آید] H4672 מָצָא "properly, to come forth to…" |
 |  | . |  |  |
 
-### Proverbs 16:32: 2 word(s) changed
+### Proverbs 16:32: 3 word(s) changed
 
 Reply line 16.
 
@@ -542,7 +542,7 @@ Original words:
 |  | مسلط | [مسلط باشد] H4910 | [مسلط باشد] H4910 |
 |  | باشد | [مسلط باشد] H4910 | [مسلط باشد] H4910 |
 |  | از | Hm | Hm |
-|  | فاتح | H3920 | H3920 |
+| ✱ | فاتح |  | H3920 לָכַד "to catch (in a net…" |
 |  | شهر | H5892 | H5892 |
 |  | ، |  |  |
 | ✱ | برتر |  | H2896 טוֹב "good (as an adjective) in the…" |
@@ -577,7 +577,7 @@ Original words:
 |  | تمامی | H3605 | H3605 |
 |  | حکم | H4941 | H4941 |
 |  | آن |  |  |
-| ✱ | از |  | [از جانب] Hm "from" |
+| ✱ | از | Hm "from" | [از جانب] Hm "from" |
 | ✱ | جانب |  | [از جانب] Hm "from" |
 |  | خداوند | H3068 | H3068 |
 |  | می‌آید |  |  |

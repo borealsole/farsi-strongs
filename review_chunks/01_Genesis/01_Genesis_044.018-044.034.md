@@ -124,7 +124,7 @@ Persian entries and current tags:
 - p14: بگذاری
 - p15: بنده‌ات  → H5650
 - p16: سخنی  → H1697
-- p17: در
+- p17: در  → Hb
 - p18: گوش  → H241
 - p19: سرورم  → H113
 - p20: بگوید
@@ -222,12 +222,12 @@ Persian entries and current tags:
 - p19: .
 - p20: برادر  → H251
 - p21: آن
-- p22: پسر
+- p22: پسر  → H3206
 - p23: مرده_است  → H4191
 - p24: و  → Hc
 - p25: او
 - p26: تنها  → H905
-- p27: پسر
+- p27: پسر  → H3206
 - p28: مادر  → H517
 - p29: خویش
 - p30: است
@@ -269,7 +269,7 @@ Persian entries and current tags:
 - p10: آورید
 - p11: تا
 - p12: به  → H413
-- p13: چشم  → H5869
+- p13: چشم  → H7760 H5869
 - p14: خود
 - p15: او
 - p16: را
@@ -353,7 +353,7 @@ Persian entries and current tags:
 - p4: بندگانت  → H5650
 - p5: گفتی  → H559
 - p6: :
-- p7: ”تا  → H518 H3808
+- p7: ”تا  → H518
 - p8: برادر  → H251
 - p9: کوچک  → H6996
 - p10: خود
@@ -429,7 +429,7 @@ Persian entries and current tags:
 - p8: آذوقه  → H400
 - p9: برای  → H7666 Hl
 - p10: ما
-- p11: بخرید  → H7666 H400
+- p11: بخرید  → H7666
 - p12: .
 - p13: “
 
@@ -488,7 +488,7 @@ Persian entries and current tags:
 - p25: ،
 - p26: مگر
 - p27: آن
-- p28: که  → H369
+- p28: که
 - p29: برادر  → H251
 - p30: کوچکمان  → H6996
 - p31: با
@@ -524,7 +524,7 @@ Persian entries and current tags:
 - p6: گفت  → H559
 - p7: :
 - p8: ”می‌دانید  → H3045
-- p9: که
+- p9: که  → H3588
 - p10: همسرم  → H802
 - p11: دو  → H8147
 - p12: پسر
@@ -555,7 +555,7 @@ Persian entries and current tags:
 - p1: یکی  → H259
 - p2: از
 - p3: آنان
-- p4: از  → Hm
+- p4: از
 - p5: نزد  → H854
 - p6: من
 - p7: رفت  → H3318
@@ -602,7 +602,7 @@ Persian entries and current tags:
 - p2: این یکی  → H2088
 - p3: را  → H853
 - p4: نیز  → H1571
-- p5: از  → H5973
+- p5: از  → Hm H5973
 - p6: من  → H6440
 - p7: بگیرید  → H3947
 - p8: و  → Hc
@@ -612,11 +612,11 @@ Persian entries and current tags:
 - p12: ،
 - p13: موی سپید  → H7872
 - p14: مرا
-- p15: در
+- p15: در  → Hb
 - p16: اندوه  → H7451
 - p17: به  → H7136
 - p18: گور  → H7585
-- p19: فرو~خواهید  → H3381
+- p19: فرو~خواهید
 - p20: برد
 - p21: .
 - p22: “
@@ -640,10 +640,10 @@ Original words:
 - o11: בְ/נַפְשׁ/וֹ = Hb "in" + H5315 נֶפֶשׁ "properly, a breathing creature…" [HR/Ncbsc/Sp3ms]
 
 Persian entries and current tags:
-- p1: پس  → Hc
+- p1: پس  → Hc H6258
 - p2: اکنون  → H6258
 - p3: اگر
-- p4: نزد  → H413
+- p4: نزد
 - p5: بنده‌ات  → H5650
 - p6: پدرم  → H1
 - p7: بازگردیم
@@ -705,7 +705,7 @@ Persian entries and current tags:
 - p13: سپید  → H5650
 - p14: پدرمان  → H1
 - p15: را  → H853
-- p16: در
+- p16: در  → Hb
 - p17: اندوه  → H3015
 - p18: به
 - p19: گور  → H7585
@@ -750,7 +750,7 @@ Persian entries and current tags:
 - p11: ”اگر  → H518
 - p12: او
 - p13: را  → H853
-- p14: نزد  → H5650 H413
+- p14: نزد
 - p15: تو
 - p16: بازنگردانم  → H935
 - p17: ،
@@ -797,7 +797,7 @@ Persian entries and current tags:
 - p10: جوان  → H5288
 - p11: بمانم  → H3427
 - p12: و
-- p13: غلام  → H5650
+- p13: غلام  → H5650 H113
 - p14: سرورم  → H113
 - p15: باشم
 - p16: و  → Hc
@@ -840,7 +840,7 @@ Persian entries and current tags:
 - p8: اگر
 - p9: این
 - p10: جوان  → H5288
-- p11: با
+- p11: با  → H854
 - p12: من
 - p13: نباشد  → H369
 - p14: ؟

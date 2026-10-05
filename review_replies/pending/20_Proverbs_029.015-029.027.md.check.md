@@ -153,7 +153,7 @@ Original words:
 |  | اما | Hc | Hc |
 | ✱ | به |  | [به جا نمی‌آورد] H369 אַיִן "a non-entity…"; H4617 מַעֲנֶה "a reply (favorable or…" |
 | ✱ | جا |  | [به جا نمی‌آورد] H369 אַיִן "a non-entity…"; H4617 מַעֲנֶה "a reply (favorable or…" |
-| ✱ | نمی‌آورد | H4617 מַעֲנֶה "a reply (favorable or…" | [به جا نمی‌آورد] H369 אַיִן "a non-entity…"; H4617 מַעֲנֶה "a reply (favorable or…" |
+| ✱ | نمی‌آورد | H369 אַיִן "a non-entity…"; H4617 מַעֲנֶה "a reply (favorable or…" | [به جا نمی‌آورد] H369 אַיִן "a non-entity…"; H4617 מַעֲנֶה "a reply (favorable or…" |
 |  | . |  |  |
 
 ### Proverbs 29:20: 3 word(s) changed
@@ -265,7 +265,7 @@ Original words:
 | ✱ | می‌یابد |  | H8551 תָּמַךְ "to sustain…" |
 |  | . |  |  |
 
-### Proverbs 29:24: 3 word(s) changed
+### Proverbs 29:24: 4 word(s) changed
 
 Reply line 9.
 
@@ -298,7 +298,7 @@ Original words:
 | ✱ | قسم |  | H423 אָלָה "an imprecation" |
 |  | داده_می‌شود | H8085 | H8085 |
 |  | ، |  |  |
-|  | اما | Hc | Hc |
+| ✱ | اما |  | Hc "and" |
 |  | هیچ | H3808 | H3808 |
 |  | نمی‌گوید | H5046 | H5046 |
 |  | . |  |  |
@@ -402,7 +402,7 @@ Original words:
 | ✱ | راه | H1870 דֶּרֶךְ "a road (as trodden)…" |  |
 |  | خود |  |  |
 |  | را |  |  |
-| ✱ | کج |  | [کج می‌سازند] H5766 עֶוֶל "(moral) evil" |
+| ✱ | کج | H6662 צַדִּיק "just" | [کج می‌سازند] H5766 עֶוֶל "(moral) evil" |
 | ✱ | می‌سازند |  | [کج می‌سازند] H5766 עֶוֶל "(moral) evil" |
 |  | ، |  |  |
 | ✱ | کراهت | H8441 תּוֹעֵבַה "properly…" | [کراهت دارند] H8441 תּוֹעֵבַה "properly…" |

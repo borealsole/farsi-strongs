@@ -104,7 +104,7 @@ Persian entries and current tags:
 - p1: باری
 - p2: ،
 - p3: فلسطینیان  → H6430
-- p4: با
+- p4: با  → Hb
 - p5: اسرائیلیان  → H3478
 - p6: جنگیدند  → H3898
 - p7: ،
@@ -119,7 +119,7 @@ Persian entries and current tags:
 - p16: بسیاری
 - p17: از
 - p18: ایشان
-- p19: بر  → Hb
+- p19: بر
 - p20: کوه  → H2022
 - p21: جِلبواَع  → H1533
 - p22: از
@@ -153,7 +153,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: فلسطینیان  → H6430
-- p2: شائول  → H7586
+- p2: شائول  → H6430 H7586
 - p3: و  → Hc
 - p4: پسرانش  → H1121
 - p5: را  → H853
@@ -161,7 +161,7 @@ Persian entries and current tags:
 - p7: تعقیب کرده  → H1692
 - p8: ،
 - p9: پسران  → H1121
-- p10: شائول  → H7586
+- p10: شائول  → H6430 H7586
 - p11: یعنی
 - p12: یوناتان  → H4444
 - p13: ،
@@ -169,7 +169,7 @@ Persian entries and current tags:
 - p15: و  → Hc
 - p16: مَلکیشوعَ  → H4444
 - p17: را  → H853
-- p18: کشتند  → H5221
+- p18: کشتند  → H1692 H5221 H4444
 - p19: .
 
 ### I Samuel 31:3
@@ -192,7 +192,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: جنگ  → H4421
-- p2: بر
+- p2: بر  → H413
 - p3: شائول  → H7586
 - p4: سخت شد  → H3513
 - p5: ،
@@ -258,21 +258,21 @@ Persian entries and current tags:
 - p11: برگیر  → H8025 H1856
 - p12: و  → Hc
 - p13: بر من  → H1856
-- p14: فرو~بَر  → H1856 H5375 H3627
+- p14: فرو~بَر  → H1856
 - p15: ،
 - p16: مبادا  → H6435
 - p17: این
 - p18: نامختونان  → H6189
 - p19: آمده  → H935
 - p20: ،
-- p21: شمشیرشان  → H1856
+- p21: شمشیرشان
 - p22: را  → H853
 - p23: بر من فرو~بَرَند  → H1856
 - p24: و  → Hc
 - p25: استهزایم کنند  → H5953
 - p26: .
 - p27: »
-- p28: اما  → Hc
+- p28: اما
 - p29: سلاحدار  → H5375 H3627
 - p30: او
 - p31: نخواست  → H3808 H14
@@ -288,11 +288,11 @@ Persian entries and current tags:
 - p41: شمشیر  → H3947 H2719
 - p42: خود
 - p43: را  → H853
-- p44: برگرفته  → Hc
+- p44: برگرفته
 - p45: ،
 - p46: خویشتن
 - p47: را  → H853
-- p48: بر  → H1856
+- p48: بر  → H5921
 - p49: آن
 - p50: افکند  → H5307
 - p51: .
@@ -331,7 +331,7 @@ Persian entries and current tags:
 - p11: خود
 - p12: را
 - p13: بر  → H5921
-- p14: شمشیر  → H5375 H3627 H2719
+- p14: شمشیر  → H5375 H3627
 - p15: خویش
 - p16: افکند  → H5307
 - p17: و  → Hc
@@ -420,7 +420,7 @@ Persian entries and current tags:
 - p5: آن
 - p6: سوی  → H5676
 - p7: وادی  → H6010
-- p8: و  → Hc
+- p8: و  → H834
 - p9: در
 - p10: طرف  → H5676
 - p11: دیگر
@@ -432,9 +432,9 @@ Persian entries and current tags:
 - p17: مردان  → H376
 - p18: اسرائیل  → H3478
 - p19: گریخته  → H5127
-- p20: و  → Hc
+- p20: و  → H834 Hc
 - p21: شائول  → H7586
-- p22: و  → Hc
+- p22: و  → H834 Hc
 - p23: پسرانش  → H1121
 - p24: نیز
 - p25: مرده‌اند  → H4191
@@ -448,7 +448,7 @@ Persian entries and current tags:
 - p33: به
 - p34: فرار نهادند  → H5127
 - p35: ،
-- p36: و  → Hc
+- p36: و  → H834 Hc
 - p37: فلسطینیان  → H6430
 - p38: آمده  → H935
 - p39: ،
@@ -527,7 +527,7 @@ Original words:
 - o15: הָ/עָם = Hd "the" + H5971 עַם "a people (as a congregated unit)…" [HTd/Ncmsa]
 
 Persian entries and current tags:
-- p1: پس  → Hc
+- p1: پس
 - p2: سر  → H3772 H7218
 - p3: شائول
 - p4: را  → H853
@@ -671,13 +671,13 @@ Persian entries and current tags:
 - p13: رفته
 - p14: ،
 - p15: اجساد
-- p16: شائول  → H7586 H1052
+- p16: شائول  → H7586
 - p17: و  → Hc
 - p18: پسرانش  → H1121
 - p19: را  → H853
 - p20: از  → Hm
 - p21: دیوار  → H2346
-- p22: بِیتْ‌شان  → H1052 H3003
+- p22: بِیتْ‌شان  → H1052
 - p23: برگرفتند
 - p24: و  → Hc
 - p25: به
@@ -717,7 +717,7 @@ Persian entries and current tags:
 - p6: و  → Hc
 - p7: زیر  → H8478
 - p8: درخت گز  → H815
-- p9: در
+- p9: در  → Hb
 - p10: یابیش  → H3003
 - p11: دفن کردند  → H6912
 - p12: ،
@@ -726,7 +726,7 @@ Persian entries and current tags:
 - p15: روز  → H3117
 - p16: ،
 - p17: روزه  → H6684 H3117
-- p18: گرفتند
+- p18: گرفتند  → H6684
 - p19: .
 
 ## Neighbouring verses (context only, not for review)

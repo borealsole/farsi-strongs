@@ -98,14 +98,14 @@ Original words:
 
 Persian entries and current tags:
 - p1: به  → Hl
-- p2: درستی
+- p2: درستی  → H389
 - p3: که
 - p4: خدا  → H430
 - p5: برای
 - p6: اسرائیل  → H3478
 - p7: نیکوست  → H2896
 - p8: ؛
-- p9: برای
+- p9: برای  → Hl
 - p10: آنان
 - p11: که
 - p12: پاکدلند  → H1249
@@ -218,9 +218,9 @@ Original words:
 - o7: יְנֻגָּעוּ = H5060 נָגַע "properly, to touch…" [HVPi3mp]
 
 Persian entries and current tags:
-- p1: همچون
+- p1: همچون  → H5973
 - p2: دیگران  → H582
-- p3: در
+- p3: در  → Hb
 - p4: زحمت  → H5999
 - p5: نیستند
 - p6: ،
@@ -246,7 +246,7 @@ Original words:
 - o7: לָ/מוֹ = Hl "to" [HR/Sp3mp]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: این
 - p3: رو  → H3651
 - p4: ،
@@ -277,8 +277,8 @@ Original words:
 - o6: לֵבָב = H3824 לֵבָב "the heart (as the most interior organ)" [HNcmsa]
 
 Persian entries and current tags:
-- p1: چشمانشان  → H5869
-- p2: از  → Hm
+- p1: چشمانشان  → H5869 H3824
+- p2: از
 - p3: فربهی  → H2459
 - p4: به
 - p5: در آمده_است  → H3318
@@ -315,7 +315,7 @@ Persian entries and current tags:
 - p6: و
 - p7: متکبرانه  → H4791
 - p8: ،
-- p9: ظلم  → H7451 H6233
+- p9: ظلم  → H6233
 - p10: را
 - p11: بر
 - p12: زبان
@@ -376,7 +376,7 @@ Persian entries and current tags:
 - p7: روی
 - p8: می‌آورند  → H7725
 - p9: و  → Hc
-- p10: مشتاقانه  → H4392
+- p10: مشتاقانه
 - p11: هر
 - p12: سخن
 - p13: آنها  → H1988
@@ -407,7 +407,7 @@ Persian entries and current tags:
 - p6: چگونه  → H349 H3045
 - p7: بداند  → H3045
 - p8: ؟
-- p9: آیا
+- p9: آیا  → H349 H3426
 - p10: آن  → H3426
 - p11: متعال  → H5945
 - p12: علم  → H1844
@@ -432,7 +432,7 @@ Original words:
 Persian entries and current tags:
 - p1: آری  → H2009
 - p2: ،
-- p3: شریران  → H7563
+- p3: شریران
 - p4: چنین‌اند  → H428
 - p5: ؛
 - p6: همواره  → H2009 H5769

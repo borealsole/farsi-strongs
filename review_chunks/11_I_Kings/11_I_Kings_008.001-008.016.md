@@ -136,7 +136,7 @@ Persian entries and current tags:
 - p18: در
 - p19: اورشلیم  → H3389
 - p20: گرد
-- p21: آورد
+- p21: آورد  → H6950
 - p22: تا
 - p23: صندوق  → H727
 - p24: عهد  → H1285
@@ -184,7 +184,7 @@ Persian entries and current tags:
 - p8: که
 - p9: ماه  → H3391 H2320
 - p10: هفتم  → H7637
-- p11: است  → H1931
+- p11: است
 - p12: ،
 - p13: به
 - p14: هنگام
@@ -249,7 +249,7 @@ Original words:
 - o17: וְ/הַ/לְוִיִּם = Hc "and" + Hd "the" + H3881 לֵוִיִּי "a Levite or descendant of Levi" [HC/Td/Ngmpa]
 
 Persian entries and current tags:
-- p1: کاهنان  → H3548
+- p1: کاهنان  → H3548 H3881
 - p2: و  → Hc
 - p3: لاویان  → H3881
 - p4: صندوقِ  → H727
@@ -304,7 +304,7 @@ Persian entries and current tags:
 - p5: جماعت  → H5712
 - p6: اسرائیل  → H3478
 - p7: که
-- p8: نزد
+- p8: نزد  → H5921
 - p9: او
 - p10: گرد  → H3259
 - p11: آمده_بودند
@@ -419,8 +419,9 @@ Persian entries and current tags:
 - p17: تیرکهای  → H905
 - p18: حمل
 - p19: آن
-- p20: سایه‌گستر بودند  → H5526 H4605
-- p21: .
+- p20: سایه‌گستر  → H5526
+- p21: بودند  → H5526 H4605
+- p22: .
 
 ### I Kings 8:8
 
@@ -454,7 +455,7 @@ Persian entries and current tags:
 - p4: که
 - p5: سر  → H7218
 - p6: آنها
-- p7: از
+- p7: از  → H4480
 - p8: قُدسِ  → H6944
 - p9: جلو
 - p10: محراب
@@ -514,10 +515,10 @@ Persian entries and current tags:
 - p11: حوریب  → H2722
 - p12: در
 - p13: آن
-- p14: گذاشته_بود
+- p14: گذاشته_بود  → H3240
 - p15: ،
-- p16: همان‌جا
-- p17: که
+- p16: همان‌جا  → H8033
+- p17: که  → H834
 - p18: خداوند  → H3068
 - p19: پس
 - p20: از
@@ -529,8 +530,9 @@ Persian entries and current tags:
 - p26: ،
 - p27: با  → H5973
 - p28: آنها
-- p29: عهد بست  → H3772
-- p30: .
+- p29: عهد
+- p30: بست  → H3772
+- p31: .
 
 ### I Kings 8:10
 
@@ -556,7 +558,7 @@ Persian entries and current tags:
 - p4: قُدس  → H6944
 - p5: بیرون آمدند  → H3318
 - p6: ،
-- p7: ابر  → H6051
+- p7: ابر
 - p8: خانۀ  → H1004
 - p9: خداوند  → H6944 H3068
 - p10: را  → H853
@@ -744,7 +746,7 @@ Persian entries and current tags:
 - p8: خدای  → H430
 - p9: اسرائیل  → H3478
 - p10: ،
-- p11: که  → H834
+- p11: که
 - p12: به
 - p13: دست  → H3027
 - p14: خود
@@ -762,7 +764,7 @@ Persian entries and current tags:
 - p26: به  → Hb
 - p27: انجام رسانید  → H4390
 - p28: ،
-- p29: آنگاه  → Hc
+- p29: آنگاه
 - p30: که
 - p31: فرمود  → H559
 - p32: :
@@ -833,7 +835,7 @@ Persian entries and current tags:
 - p30: آن
 - p31: باشد
 - p32: ،
-- p33: ولی  → Hc
+- p33: ولی
 - p34: داوود  → H1732
 - p35: را  → H853
 - p36: برگزیده‌ام  → H977

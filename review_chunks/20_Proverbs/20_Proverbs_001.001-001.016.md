@@ -183,7 +183,7 @@ Persian entries and current tags:
 - p7: دانش  → H1847
 - p8: و  → Hc
 - p9: دوراندیشی  → H4209
-- p10: به  → Hl
+- p10: به
 - p11: جوانان  → H5288
 - p12: -
 
@@ -207,12 +207,13 @@ Persian entries and current tags:
 - p3: بشنوند  → H8085
 - p4: و  → Hc
 - p5: بر
-- p6: آموخته‌هایشان بیفزایند  → H3948
-- p7: و  → Hc
-- p8: فهیمان  → H995
-- p9: هدایت  → H8458 H7069
-- p10: یابند
-- p11: -
+- p6: آموخته‌هایشان  → H3948
+- p7: بیفزایند
+- p8: و  → Hc
+- p9: فهیمان  → H995
+- p10: هدایت  → H8458
+- p11: یابند
+- p12: -
 
 ### Proverbs 1:6
 
@@ -392,7 +393,7 @@ Persian entries and current tags:
 - p14: در
 - p15: نهان  → H5355
 - p16: منتظر
-- p17: بی‌گناهان  → H5355
+- p17: بی‌گناهان  → H6845 H5355
 - p18: بمانیم  → H2600
 - p19: ؛
 
@@ -411,7 +412,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: تا
-- p2: آنان
+- p2: آنان  → H1104
 - p3: را
 - p4: چون  → Hk
 - p5: گور  → H7585
@@ -445,8 +446,8 @@ Original words:
 
 Persian entries and current tags:
 - p1: همه  → H3605
-- p2: گونه  → H3368
-- p3: نفایس
+- p2: گونه
+- p3: نفایس  → H3368
 - p4: به
 - p5: چنگ  → H7998
 - p6: خواهیم_آورد  → H4672
@@ -475,7 +476,7 @@ Original words:
 Persian entries and current tags:
 - p1: قرعۀ  → H5307
 - p2: خود
-- p3: با
+- p3: با  → H8432
 - p4: ما
 - p5: بیَفکن
 - p6: و
@@ -506,7 +507,7 @@ Persian entries and current tags:
 - p2: ،
 - p3: با
 - p4: آنان
-- p5: همراه  → H3212 H854
+- p5: همراه  → H3212
 - p6: مشو  → H408
 - p7: و
 - p8: در  → Hb
@@ -533,9 +534,9 @@ Original words:
 Persian entries and current tags:
 - p1: زیرا  → H3588
 - p2: پاهایشان  → H7272
-- p3: به  → Hl
+- p3: به
 - p4: سوی
-- p5: شرارت  → H7451 H4116
+- p5: شرارت  → H7451
 - p6: دوان است  → H7323
 - p7: ،
 - p8: و  → Hc

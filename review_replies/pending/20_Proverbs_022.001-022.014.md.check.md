@@ -4,7 +4,7 @@ Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change
 
 ## 12 verse(s) with changes
 
-### Proverbs 22:1: 2 word(s) changed
+### Proverbs 22:1: 3 word(s) changed
 
 Reply line 2.
 
@@ -31,7 +31,7 @@ Original words:
 | ✱ | برتر | H6239 עֹשֶׁר "wealth" | H977 בָּחַר "properly, to try…" |
 |  | است |  |  |
 |  | ؛ |  |  |
-|  | و | Hc | Hc |
+| ✱ | و |  | Hc "and" |
 | ✱ | محبوبیت |  | H2580 חֵן "graciousness…" |
 |  | از | Hm | Hm |
 |  | سیم | H3701 | H3701 |
@@ -103,7 +103,7 @@ Original words:
 |  | می‌شود | [پنهان می‌شود] H5641 | [پنهان می‌شود] H5641 |
 |  | ، |  |  |
 |  | ساده‌لوح | H6612 | H6612 |
-| ✱ | پیش |  | [پیش می‌رود] H5674 עָבַר "to cross over…" |
+| ✱ | پیش | H5674 עָבַר "to cross over…" | [پیش می‌رود] H5674 עָבַר "to cross over…" |
 | ✱ | می‌رود |  | [پیش می‌رود] H5674 עָבַר "to cross over…" |
 |  | و | Hc | Hc |
 |  | تاوانش | H6064 | H6064 |
@@ -111,7 +111,7 @@ Original words:
 | ✱ | می‌دهد |  | H6064 עָנַשׁ "properly, to urge…" |
 |  | ! |  |  |
 
-### Proverbs 22:5: 5 word(s) changed
+### Proverbs 22:5: 6 word(s) changed
 
 Reply line 5.
 
@@ -144,8 +144,8 @@ Original words:
 |  | که |  |  |
 |  | مراقب | H8104 | H8104 |
 |  | جان | H5315 | H5315 |
-|  | خویش |  |  |
-| ✱ | باشد |  | H8104 שָׁמַר "properly…" |
+| ✱ | خویش | [خویش باشد] H7368 רָחַק "to widen (in any direction)…" |  |
+| ✱ | باشد | [خویش باشد] H7368 רָחַק "to widen (in any direction)…" | H8104 שָׁמַר "properly…" |
 |  | ، |  |  |
 |  | از | Hm | Hm |
 |  | آنها |  |  |
@@ -154,7 +154,7 @@ Original words:
 | ✱ | می‌ماند |  | [در امان می‌ماند] H7368 רָחַק "to widen (in any direction)…" |
 |  | . |  |  |
 
-### Proverbs 22:6: 9 word(s) changed
+### Proverbs 22:6: 10 word(s) changed
 
 Reply line 6.
 
@@ -184,7 +184,7 @@ Original words:
 |  | به |  |  |
 |  | راهی | H1870 | H1870 |
 |  | که |  |  |
-| ✱ | درخور |  | H5921 עַל "above, over, upon…"; H6310 פֶּה "the mouth (as the means of…" |
+| ✱ | درخور | H2204 זָקֵן "to be old" | H5921 עַל "above, over, upon…"; H6310 פֶּה "the mouth (as the means of…" |
 |  | اوست |  |  |
 | ✱ | تربیت |  | [تربیت کن] H2596 חָנַךְ "properly, to narrow…" |
 | ✱ | کن |  | [تربیت کن] H2596 חָנַךְ "properly, to narrow…" |
@@ -192,7 +192,7 @@ Original words:
 |  | که |  |  |
 | ✱ | تا | H1571 גַּם "properly, assemblage…" | H3588 כִּי "by implication) very widely…" |
 |  | پیری | H2204 | H2204 |
-|  | هم | H1571 | H1571 |
+| ✱ | هم |  | H1571 גַּם "properly, assemblage…" |
 | ✱ | از |  | H4480 מִן "properly, a part of…" |
 |  | آن |  |  |
 | ✱ | منحرف | H5493 סוּר "to turn off (literal or…" | [منحرف نخواهد_شد] H3808 לֹא "not (the simple or abs.…"; H5493 סוּר "to turn off (literal or…" |
@@ -252,10 +252,10 @@ Original words:
 | --- | --- | --- | --- |
 | ✱ | آن | [آن که] H2232 זָרַע "to sow…" | [آن که]  |
 | ✱ | که | [آن که] H2232 זָרַע "to sow…" | [آن که]  |
-|  | ظلم | H5766 | H5766 |
-| ✱ | می‌کارد | H2232 זָרַע "to sow…"; H7114 קָצַר "to dock off…" | H2232 זָרַע "to sow…" |
+| ✱ | ظلم | H5766 עֶוֶל "(moral) evil"; H5678 עֶבְרָה "an outburst of passion" | H5766 עֶוֶל "(moral) evil" |
+| ✱ | می‌کارد | H7114 קָצַר "to dock off…" | H2232 זָרַע "to sow…" |
 |  | ، |  |  |
-| ✱ | بلا |  | H205 אָוֶן "strictly nothingness…" |
+|  | بلا | H205 | H205 |
 |  | می‌دِرَوَد | H7114 | H7114 |
 |  | ، |  |  |
 |  | و | Hc | Hc |
@@ -264,7 +264,7 @@ Original words:
 |  | می‌شکند | H3615 | H3615 |
 |  | . |  |  |
 
-### Proverbs 22:9: 2 word(s) changed
+### Proverbs 22:9: 3 word(s) changed
 
 Reply line 9.
 
@@ -292,7 +292,7 @@ Original words:
 |  | خواهد_بود | [مبارک خواهد_بود] H1288 | [مبارک خواهد_بود] H1288 |
 |  | ، |  |  |
 |  | چراکه | H3588 | H3588 |
-|  | از | Hm | Hm |
+| ✱ | از |  | Hm "from" |
 |  | نان | H3899 | H3899 |
 |  | خود |  |  |
 |  | به | Hl | Hl |
@@ -370,7 +370,7 @@ Original words:
 | ✱ | می‌سازد | H5557 סָלַף "properly, to wrench…" | [باطل می‌سازد] H5557 סָלַף "properly, to wrench…" |
 |  | . |  |  |
 
-### Proverbs 22:13: 5 word(s) changed
+### Proverbs 22:13: 4 word(s) changed
 
 Reply line 12.
 
@@ -400,7 +400,7 @@ Original words:
 |  | شیری | H738 | H738 |
 |  | بیرون | H2351 | H2351 |
 |  | در |  |  |
-| ✱ | کمین | H7339 רְחֹב "a width…" |  |
+|  | کمین |  |  |
 |  | است |  |  |
 |  | ! |  |  |
 |  | » |  |  |
@@ -414,7 +414,7 @@ Original words:
 |  | ! |  |  |
 |  | » |  |  |
 
-### Proverbs 22:14: 3 word(s) changed
+### Proverbs 22:14: 7 word(s) changed
 
 Reply line 13.
 
@@ -435,8 +435,8 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | دهان | H6310 | H6310 |
-|  | زن | [زن بیگانه] H2114 | [زن بیگانه] H2114 |
-|  | بیگانه | [زن بیگانه] H2114 | [زن بیگانه] H2114 |
+| ✱ | زن |  | [زن بیگانه] H2114 זוּר "to turn aside (especially for…" |
+| ✱ | بیگانه | H2114 זוּר "to turn aside (especially for…" | [زن بیگانه] H2114 זוּר "to turn aside (especially for…" |
 |  | گودال | H7745 | H7745 |
 |  | عمیق | H6013 | H6013 |
 |  | است |  |  |
@@ -446,8 +446,8 @@ Original words:
 |  | خداوند | H3068 | H3068 |
 |  | بر |  |  |
 |  | او |  |  |
-|  | غضبناک | [غضبناک باشد] H2194 | [غضبناک باشد] H2194 |
-|  | باشد | [غضبناک باشد] H2194 | [غضبناک باشد] H2194 |
+| ✱ | غضبناک | [غضبناک باشد] H2194 זָעַם "properly…"; H5307 נָפַל "to fall…" | [غضبناک باشد] H2194 זָעַם "properly…" |
+| ✱ | باشد | [غضبناک باشد] H2194 זָעַם "properly…"; H5307 נָפַל "to fall…" | [غضبناک باشد] H2194 זָעַם "properly…" |
 |  | ، |  |  |
 | ✱ | در |  | [در آن] H8033 שָׁם "there (transferring to time)…" |
 | ✱ | آن |  | [در آن] H8033 שָׁם "there (transferring to time)…" |

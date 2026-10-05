@@ -105,10 +105,11 @@ Persian entries and current tags:
 - p7: آواز  → H6963
 - p8: من
 - p9: و
-- p10: فریاد التماسم  → H8469
-- p11: را  → H853
-- p12: شنیده_است  → H8085
-- p13: .
+- p10: فریاد
+- p11: التماسم  → H8469
+- p12: را  → H853
+- p13: شنیده_است  → H8085
+- p14: .
 
 ### Psalms 116:2
 
@@ -125,15 +126,15 @@ Original words:
 
 Persian entries and current tags:
 - p1: چون  → H3588
-- p2: گوش  → H5186 H241
+- p2: گوش  → H241
 - p3: خود
 - p4: را
-- p5: به
+- p5: به  → Hl
 - p6: من
 - p7: مایل  → H5186
 - p8: گردانیده
 - p9: ،
-- p10: در
+- p10: در  → Hb
 - p11: روزهای زندگی  → H3117
 - p12: خود
 - p13: او
@@ -199,7 +200,7 @@ Persian entries and current tags:
 - p4: را
 - p5: خوانده  → H7121
 - p6: ،
-- p7: گفتم
+- p7: گفتم  → H7121
 - p8: :
 - p9: «
 - p10: آه  → H577 H3068
@@ -261,9 +262,8 @@ Persian entries and current tags:
 - p8: ذلت  → H1809
 - p9: من
 - p10: مرا
-- p11: نجات  → H3467
-- p12: بخشید
-- p13: .
+- p11: نجات بخشید  → H3467
+- p12: .
 
 ### Psalms 116:7
 
@@ -290,7 +290,7 @@ Persian entries and current tags:
 - p8: ،
 - p9: زیرا  → H3588
 - p10: خداوند  → H3068
-- p11: بر
+- p11: بر  → H5921
 - p12: تو
 - p13: احسان کرده_است  → H1580
 - p14: .
@@ -356,7 +356,7 @@ Persian entries and current tags:
 - p5: گام  → H1980
 - p6: بردارم
 - p7: ،
-- p8: در
+- p8: در  → Hb
 - p9: سرزمین  → H776
 - p10: زندگان  → H2416
 - p11: !
@@ -426,7 +426,7 @@ Original words:
 - o6: עָלָ/י = H5921 עַל "above, over, upon…" [HR/Sp1cs]
 
 Persian entries and current tags:
-- p1: دِینِ
+- p1: دِینِ  → H8408
 - p2: خود
 - p3: را
 - p4: به
@@ -575,7 +575,7 @@ Original words:
 Persian entries and current tags:
 - p1: قربانی  → H2077
 - p2: شکرگزاری  → H8426
-- p3: به  → Hl
+- p3: به
 - p4: تو
 - p5: تقدیم خواهم_کرد  → H2076
 - p6: و  → Hc

@@ -1,8 +1,10 @@
 # Check of 20_Proverbs_013.001-013.025.md
 
-Generated 2026-10-04 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
-## 25 verse(s) with changes
+No change from the current tags (will be skipped): Proverbs 13:19.
+
+## 24 verse(s) with changes
 
 ### Proverbs 13:1: 2 word(s) changed
 
@@ -37,7 +39,7 @@ Original words:
 |  | به |  |  |
 |  | توبیخ | H1606 | H1606 |
 | ✱ | گوش | H8085 שָׁמַע "to hear intelligently (often…" | [گوش فرا~نمی‌دهد] H3808 לֹא "not (the simple or abs.…"; H8085 שָׁמַע "to hear intelligently (often…" |
-| ✱ | فرا~نمی‌دهد |  | [گوش فرا~نمی‌دهد] H3808 לֹא "not (the simple or abs.…"; H8085 שָׁמַע "to hear intelligently (often…" |
+| ✱ | فرا~نمی‌دهد | H3808 לֹא "not (the simple or abs.…" | [گوش فرا~نمی‌دهد] H3808 לֹא "not (the simple or abs.…"; H8085 שָׁמַע "to hear intelligently (often…" |
 |  | . |  |  |
 
 ### Proverbs 13:2: 4 word(s) changed
@@ -122,7 +124,7 @@ Original words:
 | ✱ | می‌سازد |  | [هلاک می‌سازد] H4288 מְחִתָּה "properly, a dissolution…" |
 |  | . |  |  |
 
-### Proverbs 13:4: 5 word(s) changed
+### Proverbs 13:4: 4 word(s) changed
 
 Reply line 5.
 
@@ -154,7 +156,7 @@ Original words:
 |  | ، |  |  |
 |  | اما | Hc | Hc |
 | ✱ | شخص |  | H5315 נֶפֶשׁ "properly…" |
-| ✱ | سخت‌کوش |  | H2742 חֲרוּץ "properly…" |
+|  | سخت‌کوش | H2742 | H2742 |
 |  | فربه | [فربه خواهد_شد] H1878 | [فربه خواهد_شد] H1878 |
 |  | خواهد_شد | [فربه خواهد_شد] H1878 | [فربه خواهد_شد] H1878 |
 |  | . |  |  |
@@ -194,7 +196,7 @@ Original words:
 | ✱ | می‌آورد | H887 בָּאַשׁ "to smell bad…" | [به بار می‌آورد] H887 בָּאַשׁ "to smell bad…"; H2659 חָפֵר "to blush…" |
 |  | . |  |  |
 
-### Proverbs 13:6: 2 word(s) changed
+### Proverbs 13:6: 3 word(s) changed
 
 Reply line 7.
 
@@ -221,15 +223,15 @@ Original words:
 |  | می‌کند | [حفظ می‌کند] H5341 | [حفظ می‌کند] H5341 |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
-|  | گناه | H2403 | H2403 |
+| ✱ | گناه | H7564 רִשְׁעָה "wrong (especially moral)"; H2403 חַטָּאָה "an offence (sometimes…" | H2403 חַטָּאָה "an offence (sometimes…" |
 |  | ، |  |  |
-| ✱ | شریران | H8537 תֹּם "completeness…" | H7564 רִשְׁעָה "wrong (especially moral)" |
+| ✱ | شریران |  | H7564 רִשְׁעָה "wrong (especially moral)" |
 |  | را |  |  |
 |  | سرنگون | [سرنگون می‌سازد] H5557 | [سرنگون می‌سازد] H5557 |
 |  | می‌سازد | [سرنگون می‌سازد] H5557 | [سرنگون می‌سازد] H5557 |
 |  | . |  |  |
 
-### Proverbs 13:7: 10 word(s) changed
+### Proverbs 13:7: 9 word(s) changed
 
 Reply line 8.
 
@@ -251,13 +253,13 @@ Original words:
 |  | یکی | H3426 | H3426 |
 |  | با |  |  |
 |  | وجود |  |  |
-| ✱ | بی‌چیزی | H369 אַיִן "a non-entity…" | H369 אַיִן "a non-entity…"; H3605 כֹּל "properly, the whole…" |
-| ✱ | تظاهر |  | [تظاهر به دولتمندی می‌کند] H6238 עָשַׁר "properly, to accumulate…" |
+| ✱ | بی‌چیزی |  | H369 אַיִן "a non-entity…"; H3605 כֹּל "properly, the whole…" |
+| ✱ | تظاهر | H7326 רוּשׁ "to be destitute" | [تظاهر به دولتمندی می‌کند] H6238 עָשַׁר "properly, to accumulate…" |
 | ✱ | به |  | [تظاهر به دولتمندی می‌کند] H6238 עָשַׁר "properly, to accumulate…" |
 | ✱ | دولتمندی | [دولتمندی می‌کند] H6238 עָשַׁר "properly, to accumulate…" | [تظاهر به دولتمندی می‌کند] H6238 עָשַׁר "properly, to accumulate…" |
 | ✱ | می‌کند | [دولتمندی می‌کند] H6238 עָשַׁר "properly, to accumulate…" | [تظاهر به دولتمندی می‌کند] H6238 עָשַׁר "properly, to accumulate…" |
 |  | ؛ |  |  |
-| ✱ | دیگری | H3605 כֹּל "properly, the whole…" |  |
+|  | دیگری |  |  |
 | ✱ | با |  | Hc "and" |
 |  | ثروتی | H1952 | H1952 |
 |  | عظیم | H7227 | H7227 |
@@ -266,7 +268,7 @@ Original words:
 | ✱ | فقر | H1952 הוֹן "wealth; by implication, enough" | [تظاهر به فقر] H7326 רוּשׁ "to be destitute" |
 |  | ! |  |  |
 
-### Proverbs 13:8: 2 word(s) changed
+### Proverbs 13:8: 3 word(s) changed
 
 Reply line 9.
 
@@ -289,7 +291,7 @@ Original words:
 | ✱ | ثروتمند |  | H376 אִישׁ "a man as an individual or a…"; H6239 עֹשֶׁר "wealth" |
 |  | می‌تواند |  |  |
 |  | فدیۀ | H3724 | H3724 |
-|  | جان | H5315 | H5315 |
+| ✱ | جان | H5315 נֶפֶשׁ "properly…"; H6239 עֹשֶׁר "wealth" | H5315 נֶפֶשׁ "properly…" |
 |  | خویش |  |  |
 |  | را |  |  |
 |  | بپردازد |  |  |
@@ -334,7 +336,7 @@ Original words:
 |  | می‌شود | [خاموش می‌شود] H1846 | [خاموش می‌شود] H1846 |
 |  | . |  |  |
 
-### Proverbs 13:10: 3 word(s) changed
+### Proverbs 13:10: 4 word(s) changed
 
 Reply line 11.
 
@@ -357,7 +359,7 @@ Original words:
 |  | تکبر | H2087 | H2087 |
 |  | چیزی |  |  |
 |  | جز | H7535 | H7535 |
-|  | نزاع | H4683 | H4683 |
+| ✱ | نزاع | H2087 זָדוֹן "arrogance"; H4683 מַצָּה "a quarrel" | H4683 מַצָּה "a quarrel" |
 | ✱ | برنخیزد |  | H5414 נָתַן "to give…" |
 |  | اما | Hc | Hc |
 |  | حکمت | H2451 | H2451 |
@@ -368,7 +370,7 @@ Original words:
 |  | مشورت‌پذیرند | H3289 | H3289 |
 |  | . |  |  |
 
-### Proverbs 13:11: 10 word(s) changed
+### Proverbs 13:11: 11 word(s) changed
 
 Reply line 12.
 
@@ -394,11 +396,11 @@ Original words:
 | ✱ | باد |  | [بر باد می‌رود] H4591 מָעַט "properly, to pare off…" |
 | ✱ | می‌رود |  | [بر باد می‌رود] H4591 מָעַט "properly, to pare off…" |
 |  | ، |  |  |
-|  | اما | Hc | Hc |
+| ✱ | اما |  | Hc "and" |
 |  | آن |  |  |
 |  | که |  |  |
-| ✱ | اندک | [اندک اندک] H4591 מָעַט "properly, to pare off…" | [اندک اندک] H5921 עַל "above, over, upon…"; H3027 יָד "a hand (the open one…" |
-| ✱ | اندک | [اندک اندک] H4591 מָעַט "properly, to pare off…" | [اندک اندک] H5921 עַל "above, over, upon…"; H3027 יָד "a hand (the open one…" |
+| ✱ | اندک | H4591 מָעַט "properly, to pare off…" | [اندک اندک] H5921 עַל "above, over, upon…"; H3027 יָד "a hand (the open one…" |
+| ✱ | اندک |  | [اندک اندک] H5921 עַל "above, over, upon…"; H3027 יָד "a hand (the open one…" |
 |  | اندوزد | H6908 | H6908 |
 |  | ، |  |  |
 | ✱ | مالش | H7235 רָבָה "to increase (in whatever…" |  |
@@ -428,8 +430,8 @@ Original words:
 | --- | --- | --- | --- |
 |  | امیدِ | H8431 | H8431 |
 | ✱ | به |  | [به تعویق افتاده] H4900 מָשַׁךְ "to draw…" |
-| ✱ | تعویق | [تعویق افتاده] H4900 מָשַׁךְ "to draw…" | [به تعویق افتاده] H4900 מָשַׁךְ "to draw…" |
-| ✱ | افتاده | [تعویق افتاده] H4900 מָשַׁךְ "to draw…" | [به تعویق افتاده] H4900 מָשַׁךְ "to draw…" |
+| ✱ | تعویق | H4900 מָשַׁךְ "to draw…" | [به تعویق افتاده] H4900 מָשַׁךְ "to draw…" |
+| ✱ | افتاده |  | [به تعویق افتاده] H4900 מָשַׁךְ "to draw…" |
 |  | ، |  |  |
 |  | دل | H3820 | H3820 |
 |  | را |  |  |
@@ -485,7 +487,7 @@ Original words:
 |  | خواهد_یافت | [پاداش خواهد_یافت] H7999 | [پاداش خواهد_یافت] H7999 |
 |  | . |  |  |
 
-### Proverbs 13:14: 1 word(s) changed
+### Proverbs 13:14: 2 word(s) changed
 
 Reply line 15.
 
@@ -504,7 +506,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | رهنمودِ | H8451 | H8451 |
+| ✱ | رهنمودِ |  | H8451 תּוֹרָה "a precept or statute…" |
 |  | حکیمان | H2450 | H2450 |
 |  | چشمۀ | H4726 | H4726 |
 |  | حیات | H2416 | H2416 |
@@ -521,7 +523,7 @@ Original words:
 |  | بدارد | [دور بدارد] H5493 | [دور بدارد] H5493 |
 |  | . |  |  |
 
-### Proverbs 13:15: 6 word(s) changed
+### Proverbs 13:15: 5 word(s) changed
 
 Reply line 16.
 
@@ -542,8 +544,8 @@ Original words:
 | --- | --- | --- | --- |
 |  | عقل | H7922 | H7922 |
 | ✱ | سلیم | H2580 חֵן "graciousness…" | H2896 טוֹב "good (as an adjective) in the…" |
-| ✱ | مقبول | H2896 טוֹב "good (as an adjective) in the…" | H2580 חֵן "graciousness…" |
-| ✱ | می‌سازد |  | H5414 נָתַן "to give…" |
+| ✱ | مقبول |  | H2580 חֵן "graciousness…" |
+|  | می‌سازد | H5414 | H5414 |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
 |  | راهِ | H1870 | H1870 |
@@ -553,7 +555,7 @@ Original words:
 | ✱ | نمی‌رسد | H386 אֵיתָן "permanence…" | [به جایی نمی‌رسد] H386 אֵיתָן "permanence…" |
 |  | . |  |  |
 
-### Proverbs 13:16: 3 word(s) changed
+### Proverbs 13:16: 4 word(s) changed
 
 Reply line 17.
 
@@ -574,7 +576,7 @@ Original words:
 | --- | --- | --- | --- |
 |  | شخص |  |  |
 |  | عاقل | H6175 | H6175 |
-|  | با | Hb | Hb |
+| ✱ | با |  | Hb "in" |
 |  | دانش | H1847 | H1847 |
 |  | عمل | [عمل می‌کند] H6213 | [عمل می‌کند] H6213 |
 |  | می‌کند | [عمل می‌کند] H6213 | [عمل می‌کند] H6213 |
@@ -623,7 +625,7 @@ Original words:
 |  | می‌آورد |  |  |
 |  | . |  |  |
 
-### Proverbs 13:18: 7 word(s) changed
+### Proverbs 13:18: 8 word(s) changed
 
 Reply line 19.
 
@@ -655,49 +657,13 @@ Original words:
 | ✱ | گوید |  | [ترک گوید] H6544 פָּרַע "to loosen…" |
 |  | ، |  |  |
 | ✱ | عزّت | H8104 שָׁמַר "properly…" | H3513 כָּבַד "to be heavy…" |
-|  | نصیب |  |  |
+| ✱ | نصیب | H7036 קָלוֹן "disgrace…" |  |
 |  | آن |  |  |
 |  | که |  |  |
 |  | به |  |  |
 | ✱ | توبیخ | [توبیخ گوش] H8433 תּוֹכֵחָה "chastisement…" | H8433 תּוֹכֵחָה "chastisement…" |
 | ✱ | گوش | [توبیخ گوش] H8433 תּוֹכֵחָה "chastisement…" | [گوش بسپارد] H8104 שָׁמַר "properly…" |
 | ✱ | بسپارد |  | [گوش بسپارد] H8104 שָׁמַר "properly…" |
-|  | . |  |  |
-
-### Proverbs 13:19: 2 word(s) changed
-
-Reply line 20.
-
-Original: תַּאֲוָה נִהְיָה תֶּעֱרַב לְ/נָפֶשׁ וְ/תוֹעֲבַת כְּסִילִים סוּר מֵ/רָע
-
-Persian: آرزوی برآورده برای جان شیرین است، اما جاهلان از ترک بدی کراهت دارند.
-
-Original words:
-- o1: תַּאֲוָה = H8378 תַּאֲוָה "a longing…" [HNcfsa]
-- o2: נִהְיָה = H1961 הָיָה "to exist, i.e. be or become…" [HVNrfsa]
-- o3: תֶּעֱרַב = H6149 עָרֵב "to be agreeable" [HVqi3fs]
-- o4: לְ/נָפֶשׁ = Hl "to" + H5315 נֶפֶשׁ "properly, a breathing creature…" [HR/Ncbsa]
-- o5: וְ/תוֹעֲבַת = Hc "and" + H8441 תּוֹעֵבַה "properly, something disgusting (morally)…" [HC/Ncfsc]
-- o6: כְּסִילִים = H3684 כְּסִיל "properly, fat, i.e. (figuratively) stupid or silly" [HAampa]
-- o7: סוּר = H5493 סוּר "to turn off (literal or figurative)" [HVqc]
-- o8: מֵ/רָע = Hm "from" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HR/Aamsa]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | آرزوی | H8378 | H8378 |
-|  | برآورده | H1961 | H1961 |
-|  | برای | Hl | Hl |
-|  | جان | H5315 | H5315 |
-|  | شیرین | [شیرین است] H6149 | [شیرین است] H6149 |
-|  | است | [شیرین است] H6149 | [شیرین است] H6149 |
-|  | ، |  |  |
-|  | اما | Hc | Hc |
-|  | جاهلان | H3684 | H3684 |
-|  | از | Hm | Hm |
-|  | ترک | H5493 | H5493 |
-|  | بدی | H7451 | H7451 |
-| ✱ | کراهت | H8441 תּוֹעֵבַה "properly…" | [کراهت دارند] H8441 תּוֹעֵבַה "properly…" |
-| ✱ | دارند |  | [کراهت دارند] H8441 תּוֹעֵבַה "properly…" |
 |  | . |  |  |
 
 ### Proverbs 13:20: 5 word(s) changed
@@ -731,7 +697,7 @@ Original words:
 | ✱ | بیند |  | [زیان بیند] H7489 רָעַע "properly, to spoil (literally…" |
 |  | . |  |  |
 
-### Proverbs 13:21: 4 word(s) changed
+### Proverbs 13:21: 3 word(s) changed
 
 Reply line 22.
 
@@ -759,11 +725,11 @@ Original words:
 |  | اما | Hc | Hc |
 | ✱ | نیکبختی |  | H2896 טוֹב "good (as an adjective) in the…" |
 |  | پاداش | H7999 | H7999 |
-| ✱ | پارسایان | H6662 צַדִּיק "just"; H7999 שָׁלַם "to be safe (in mind…"; H2896 טוֹב "good (as an adjective) in the…" | H6662 צַדִּיק "just" |
+|  | پارسایان | H6662 | H6662 |
 |  | است |  |  |
 |  | . |  |  |
 
-### Proverbs 13:22: 6 word(s) changed
+### Proverbs 13:22: 5 word(s) changed
 
 Reply line 23.
 
@@ -797,14 +763,14 @@ Original words:
 |  | ، |  |  |
 | ✱ | اما |  | Hc "and" |
 |  | ثروت | H2428 | H2428 |
-| ✱ | گنهکاران |  | H2398 חָטָא "properly, to miss…" |
+|  | گنهکاران | H2398 | H2398 |
 |  | برای | Hl | Hl |
 |  | پارسایان | H6662 | H6662 |
 |  | اندوخته | [اندوخته شده_است] H6845 | [اندوخته شده_است] H6845 |
 |  | شده_است | [اندوخته شده_است] H6845 | [اندوخته شده_است] H6845 |
 |  | . |  |  |
 
-### Proverbs 13:23: 8 word(s) changed
+### Proverbs 13:23: 9 word(s) changed
 
 Reply line 24.
 
@@ -828,7 +794,7 @@ Original words:
 |  | کوچکِ |  |  |
 |  | شخص |  |  |
 |  | فقیر | H7326 | H7326 |
-|  | چه |  |  |
+| ✱ | چه | H3426 יֵשׁ "there is or are (or any other…" |  |
 | ✱ | بسا | H7230 רֹב "abundance (in any respect)" |  |
 |  | محصول | H400 | H400 |
 | ✱ | فراوان | [فراوان دهد] H5595 סָפָה "properly…" | H7230 רֹב "abundance (in any respect)" |
@@ -840,10 +806,10 @@ Original words:
 |  | را |  |  |
 | ✱ | از | H5595 סָפָה "properly…" | [از میان می‌برد] H5595 סָפָה "properly…" |
 | ✱ | میان |  | [از میان می‌برد] H5595 סָפָה "properly…" |
-| ✱ | می‌برد | H3426 יֵשׁ "there is or are (or any other…" | [از میان می‌برد] H5595 סָפָה "properly…" |
+| ✱ | می‌برد |  | [از میان می‌برد] H5595 סָפָה "properly…" |
 |  | ! |  |  |
 
-### Proverbs 13:24: 3 word(s) changed
+### Proverbs 13:24: 2 word(s) changed
 
 Reply line 25.
 
@@ -873,7 +839,7 @@ Original words:
 |  | نفرت | [نفرت می‌کند] H8130 | [نفرت می‌کند] H8130 |
 |  | می‌کند | [نفرت می‌کند] H8130 | [نفرت می‌کند] H8130 |
 |  | ، |  |  |
-| ✱ | اما |  | Hc "and" |
+|  | اما | Hc | Hc |
 |  | آن |  |  |
 |  | که |  |  |
 |  | فرزندش | H1121 | H1121 |
@@ -890,7 +856,7 @@ Original words:
 | ✱ | خواهد_کرد |  | [ادب خواهد_کرد] H4148 מוּסָר "properly, chastisement…" |
 |  | . |  |  |
 
-### Proverbs 13:25: 7 word(s) changed
+### Proverbs 13:25: 5 word(s) changed
 
 Reply line 26.
 
@@ -912,9 +878,9 @@ Original words:
 |  | پارسایان | H6662 | H6662 |
 | ✱ | تا |  | [تا به] Hl "to" |
 | ✱ | به |  | [تا به] Hl "to" |
-| ✱ | سیری | H7648 שֹׂבַע "satisfaction (of food or…"; H7563 רָשָׁע "morally wrong…" | H7648 שֹׂבַע "satisfaction (of food or…" |
+|  | سیری | H7648 | H7648 |
 | ✱ | طعام | H5315 נֶפֶשׁ "properly…" |  |
-| ✱ | خواهند_خورد | H398 אָכַל "to eat (literally or…"; H7648 שֹׂבַע "satisfaction (of food or…" | H398 אָכַל "to eat (literally or…" |
+|  | خواهند_خورد | H398 | H398 |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
 |  | شکم | H990 | H990 |

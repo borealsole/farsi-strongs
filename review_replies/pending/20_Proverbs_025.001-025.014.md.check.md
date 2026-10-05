@@ -2,49 +2,11 @@
 
 Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
-## 14 verse(s) with changes
+No change from the current tags (will be skipped): Proverbs 25:1.
 
-### Proverbs 25:1: 1 word(s) changed
+## 13 verse(s) with changes
 
-Reply line 2.
-
-Original: גַּם אֵלֶּה מִשְׁלֵי שְׁלֹמֹה אֲשֶׁר הֶעְתִּיקוּ אַנְשֵׁי חִזְקִיָּה מֶלֶךְ יְהוּדָה
-
-Persian: اینها نیز امثال سلیمان است که به وسیلۀ مردان حِزِقیا، پادشاه یهودا، نگاشته شد:
-
-Original words:
-- o1: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
-- o2: אֵלֶּה = H428 אֵלֶּה "these or those" [HPdxcp]
-- o3: מִשְׁלֵי = H4912 מָשָׁל "properly, a pithy maxim…" [HNcmpc]
-- o4: שְׁלֹמֹה = H8010 שְׁלֹמֹה "Shelomah, David's successor" [HNp]
-- o5: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
-- o6: הֶעְתִּיקוּ = H6275 עָתַק "to remove (intransitive or transitive)…" [HVhp3cp]
-- o7: אַנְשֵׁי = H376 אִישׁ "a man as an individual or a male person…" [HNcmpc]
-- o8: חִזְקִיָּה = H2396 חִזְקִיָּה "Chizkijah, a king of Judah…" [HNp]
-- o9: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsc]
-- o10: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-| ✱ | اینها |  | H428 אֵלֶּה "these or those" |
-|  | نیز | H1571 | H1571 |
-|  | امثال | H4912 | H4912 |
-|  | سلیمان | H8010 | H8010 |
-|  | است |  |  |
-|  | که | H834 | H834 |
-|  | به |  |  |
-|  | وسیلۀ |  |  |
-|  | مردان | H376 | H376 |
-|  | حِزِقیا | H2396 | H2396 |
-|  | ، |  |  |
-|  | پادشاه | H4428 | H4428 |
-|  | یهودا | H3063 | H3063 |
-|  | ، |  |  |
-|  | نگاشته | [نگاشته شد] H6275 | [نگاشته شد] H6275 |
-|  | شد | [نگاشته شد] H6275 | [نگاشته شد] H6275 |
-|  | : |  |  |
-
-### Proverbs 25:2: 1 word(s) changed
+### Proverbs 25:2: 3 word(s) changed
 
 Reply line 3.
 
@@ -64,8 +26,8 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | پنهان | [پنهان داشتن] H5641 | [پنهان داشتن] H5641 |
-|  | داشتن | [پنهان داشتن] H5641 | [پنهان داشتن] H5641 |
+| ✱ | پنهان | H5641 סָתַר "to hide (by covering)…" | [پنهان داشتن] H5641 סָתַר "to hide (by covering)…" |
+| ✱ | داشتن | H2713 חָקַר "properly, to penetrate…" | [پنهان داشتن] H5641 סָתַר "to hide (by covering)…" |
 |  | امور | H1697 | H1697 |
 |  | ، |  |  |
 |  | امتیاز | H3519 | H3519 |
@@ -143,7 +105,7 @@ Original words:
 | ✱ | می‌آید | [بیرون می‌آید] H1898 הָגָה "to remove"; H3318 יָצָא "to go (causatively…" | [بیرون می‌آید] H3318 יָצָא "to go (causatively…" |
 |  | ؛ |  |  |
 
-### Proverbs 25:5: 6 word(s) changed
+### Proverbs 25:5: 5 word(s) changed
 
 Reply line 6.
 
@@ -173,13 +135,13 @@ Original words:
 | ✱ | که |  | Hc "and" |
 |  | تخت | H3678 | H3678 |
 |  | او |  |  |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | پارسایی | H6664 | H6664 |
 | ✱ | استوار | H3559 כּוּן "properly…" | [استوار می‌ماند] H3559 כּוּן "properly…" |
 | ✱ | می‌ماند |  | [استوار می‌ماند] H3559 כּוּן "properly…" |
 |  | . |  |  |
 
-### Proverbs 25:6: 2 word(s) changed
+### Proverbs 25:6: 4 word(s) changed
 
 Reply line 7.
 
@@ -199,14 +161,14 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | خویشتن | H1921 | H1921 |
+| ✱ | خویشتن |  | H1921 הָדַר "to swell up (literally or…" |
 |  | را |  |  |
 |  | در | Hl | Hl |
 |  | حضور | H6440 | H6440 |
 |  | پادشاه | H4428 | H4428 |
 | ✱ | برمیفراز | H1921 הָדַר "to swell up (literally or…" | H408 אַל "not (the qualified negation…"; H1921 הָדַר "to swell up (literally or…" |
 |  | ، |  |  |
-|  | و | Hc | Hc |
+| ✱ | و |  | Hc "and" |
 |  | تکیه | H5975 | H5975 |
 |  | بر | Hb | Hb |
 |  | جای | H4725 | H4725 |
@@ -214,7 +176,7 @@ Original words:
 | ✱ | مزن |  | H408 אַל "not (the qualified negation…"; H5975 עָמַד "to stand…" |
 |  | ؛ |  |  |
 
-### Proverbs 25:7: 8 word(s) changed
+### Proverbs 25:7: 7 word(s) changed
 
 Reply line 8.
 
@@ -238,7 +200,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | بهتر | H3588 כִּי "by implication) very widely…"; H2896 טוֹב "good (as an adjective) in the…" | H2896 טוֹב "good (as an adjective) in the…" |
+|  | بهتر | H2896 | H2896 |
 |  | آن |  |  |
 |  | است |  |  |
 |  | که |  |  |
@@ -248,7 +210,7 @@ Original words:
 |  | : |  |  |
 |  | « |  |  |
 |  | اینجا | H2008 | H2008 |
-| ✱ | بالا | H5927 עָלָה "to ascend…"; H2008 הֵנָּה "hither or thither (but used…" | [بالا بیا] H5927 עָלָה "to ascend…" |
+| ✱ | بالا | H5927 עָלָה "to ascend…" | [بالا بیا] H5927 עָלָה "to ascend…" |
 | ✱ | بیا |  | [بالا بیا] H5927 עָלָה "to ascend…" |
 |  | » |  |  |
 |  | ، |  |  |
@@ -265,7 +227,7 @@ Original words:
 |  | دیده_است | H7200 | H7200 |
 |  | ، |  |  |
 
-### Proverbs 25:8: 3 word(s) changed
+### Proverbs 25:8: 2 word(s) changed
 
 Reply line 9.
 
@@ -297,7 +259,7 @@ Original words:
 |  | در | Hb | Hb |
 |  | آخر | H319 | H319 |
 |  | چه | H4100 | H4100 |
-| ✱ | خواهی_کرد |  | H6213 עָשָׂה "to do or make…" |
+|  | خواهی_کرد | H6213 | H6213 |
 | ✱ | اگر |  | Hb "in" |
 |  | همسایه‌ات | H7453 | H7453 |
 |  | تو |  |  |
@@ -306,7 +268,7 @@ Original words:
 |  | سازد | [شرمنده سازد] H3637 | [شرمنده سازد] H3637 |
 |  | ؟ |  |  |
 
-### Proverbs 25:9: 6 word(s) changed
+### Proverbs 25:9: 5 word(s) changed
 
 Reply line 10.
 
@@ -329,7 +291,7 @@ Original words:
 | ✱ | مشاجره‌ات | H7378 רִיב "properly, to toss…" | H7379 רִיב "a contest (personal or legal)" |
 |  | را |  |  |
 | ✱ | مستقیم | H7379 רִיב "a contest (personal or legal)" |  |
-| ✱ | با |  | H854 אֵת "properly…" |
+|  | با | H854 | H854 |
 |  | همسایه‌ات | H7453 | H7453 |
 | ✱ | بکن |  | H7378 רִיב "properly, to toss…" |
 |  | ، |  |  |
@@ -338,7 +300,7 @@ Original words:
 |  | دیگری | H312 | H312 |
 |  | را |  |  |
 | ✱ | فاش | H1540 גָּלָה "to denude (especially in a…" | [فاش منما] H408 אַל "not (the qualified negation…"; H1540 גָּלָה "to denude (especially in a…" |
-| ✱ | منما |  | [فاش منما] H408 אַל "not (the qualified negation…"; H1540 גָּלָה "to denude (especially in a…" |
+| ✱ | منما | H7378 רִיב "properly, to toss…" | [فاش منما] H408 אַל "not (the qualified negation…"; H1540 גָּלָה "to denude (especially in a…" |
 |  | ، |  |  |
 
 ### Proverbs 25:10: 2 word(s) changed
@@ -371,7 +333,7 @@ Original words:
 | ✱ | نشود | H3808 לֹא "not (the simple or abs.…" | [رفع نشود] H3808 לֹא "not (the simple or abs.…"; H7725 שׁוּב "to turn back (hence…" |
 |  | . |  |  |
 
-### Proverbs 25:11: 2 word(s) changed
+### Proverbs 25:11: 3 word(s) changed
 
 Reply line 12.
 
@@ -396,12 +358,12 @@ Original words:
 |  | ، |  |  |
 |  | سیب | H8598 | H8598 |
 |  | طلاست | H2091 | H2091 |
-|  | در | Hb | Hb |
+| ✱ | در |  | Hb "in" |
 |  | سینی | H4906 | H4906 |
 | ✱ | نقره | H2091 זָהָב "gold, figuratively…"; H3701 כֶּסֶף "silver (from its pale color)…" | H3701 כֶּסֶף "silver (from its pale color)…" |
 |  | ! |  |  |
 
-### Proverbs 25:12: 4 word(s) changed
+### Proverbs 25:12: 3 word(s) changed
 
 Reply line 13.
 
@@ -429,7 +391,7 @@ Original words:
 |  | طلاست | H3800 | H3800 |
 |  | توبیخ‌کنندۀ | H3198 | H3198 |
 | ✱ | حکیم | H3198 יָכַח "to be right (i.e. correct)…"; H2450 חָכָם "wise, (i.e. intelligent…" | H2450 חָכָם "wise, (i.e. intelligent…" |
-| ✱ | برای |  | H5921 עַל "above, over, upon…" |
+|  | برای | H5921 | H5921 |
 | ✱ | گوش | H2450 חָכָם "wise, (i.e. intelligent…"; H241 אֹזֶן "broadness. i.e. (concrete)…" | H241 אֹזֶן "broadness. i.e. (concrete)…" |
 | ✱ | شنوا |  | H8085 שָׁמַע "to hear intelligently (often…" |
 |  | . |  |  |
@@ -463,9 +425,9 @@ Original words:
 |  | خود |  |  |
 |  | ، |  |  |
 | ✱ | خنکی | H539 אָמַן "properly…" | H6793 צִנָּה "a hook (as pointed)…" |
-|  | برف | H7950 | H7950 |
+| ✱ | برف |  | H7950 שֶׁלֶג "snow (probably from its…" |
 |  | است |  |  |
-|  | در | Hb | Hb |
+| ✱ | در |  | Hb "in" |
 | ✱ | گرمای | H6793 צִנָּה "a hook (as pointed)…" |  |
 | ✱ | تابستان | H7950 שֶׁלֶג "snow (probably from its…" | H7105 קָצִיר "severed…" |
 |  | ؛ |  |  |
@@ -474,8 +436,8 @@ Original words:
 |  | سروران | H113 | H113 |
 |  | خویش |  |  |
 |  | را |  |  |
-| ✱ | تازه | H6735 צִיר "a hinge (as pressed in…"; H7725 שׁוּב "to turn back (hence…" | [تازه می‌سازد] H7725 שׁוּב "to turn back (hence…" |
-| ✱ | می‌سازد | H7725 שׁוּב "to turn back (hence…" | [تازه می‌سازد] H7725 שׁוּב "to turn back (hence…" |
+|  | تازه | [تازه می‌سازد] H7725 | [تازه می‌سازد] H7725 |
+|  | می‌سازد | [تازه می‌سازد] H7725 | [تازه می‌سازد] H7725 |
 |  | . |  |  |
 
 ### Proverbs 25:14: 5 word(s) changed

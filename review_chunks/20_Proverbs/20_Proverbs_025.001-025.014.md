@@ -99,7 +99,7 @@ Original words:
 - o10: יְהוּדָה = H3063 יְהוּדָה "Jehudah (or Judah), the name of five Israelites…" [HNp]
 
 Persian entries and current tags:
-- p1: اینها
+- p1: اینها  → H428
 - p2: نیز  → H1571
 - p3: امثال  → H4912
 - p4: سلیمان  → H8010
@@ -132,18 +132,19 @@ Original words:
 - o8: דָּבָר = H1697 דָּבָר "a word…" [HNcmsa]
 
 Persian entries and current tags:
-- p1: پنهان داشتن  → H5641
-- p2: امور  → H1697
-- p3: ،
-- p4: امتیاز  → H3519
-- p5: خداست  → H430
-- p6: ؛
-- p7: تفحص  → H5641 H2713
-- p8: امور  → H1697
-- p9: ،
-- p10: امتیازِ  → H3519
-- p11: شاهان  → H4428
-- p12: .
+- p1: پنهان  → H5641
+- p2: داشتن  → H2713
+- p3: امور  → H1697
+- p4: ،
+- p5: امتیاز  → H3519
+- p6: خداست  → H430
+- p7: ؛
+- p8: تفحص  → H5641 H2713
+- p9: امور  → H1697
+- p10: ،
+- p11: امتیازِ  → H3519
+- p12: شاهان  → H4428
+- p13: .
 
 ### Proverbs 25:3
 
@@ -226,7 +227,7 @@ Persian entries and current tags:
 - p8: که
 - p9: تخت  → H3678
 - p10: او
-- p11: در
+- p11: در  → Hb
 - p12: پارسایی  → H6664
 - p13: استوار  → H3559
 - p14: می‌ماند
@@ -248,14 +249,14 @@ Original words:
 - o8: תַּעֲמֹד = H5975 עָמַד "to stand…" [HVqj2ms]
 
 Persian entries and current tags:
-- p1: خویشتن  → H1921
+- p1: خویشتن
 - p2: را
 - p3: در  → Hl
 - p4: حضور  → H6440
 - p5: پادشاه  → H4428
 - p6: برمیفراز  → H1921
 - p7: ،
-- p8: و  → Hc
+- p8: و
 - p9: تکیه  → H5975
 - p10: بر  → Hb
 - p11: جای  → H4725
@@ -283,7 +284,7 @@ Original words:
 - o12: עֵינֶי/ךָ = H5869 עַיִן "an eye (literally or figuratively)…" [HNcbdc/Sp2ms]
 
 Persian entries and current tags:
-- p1: بهتر  → H3588 H2896
+- p1: بهتر  → H2896
 - p2: آن
 - p3: است
 - p4: که
@@ -293,7 +294,7 @@ Persian entries and current tags:
 - p8: :
 - p9: «
 - p10: اینجا  → H2008
-- p11: بالا  → H5927 H2008
+- p11: بالا  → H5927
 - p12: بیا
 - p13: »
 - p14: ،
@@ -338,7 +339,7 @@ Persian entries and current tags:
 - p7: در  → Hb
 - p8: آخر  → H319
 - p9: چه  → H4100
-- p10: خواهی_کرد
+- p10: خواهی_کرد  → H6213
 - p11: اگر
 - p12: همسایه‌ات  → H7453
 - p13: تو
@@ -365,7 +366,7 @@ Persian entries and current tags:
 - p1: مشاجره‌ات  → H7378
 - p2: را
 - p3: مستقیم  → H7379
-- p4: با
+- p4: با  → H854
 - p5: همسایه‌ات  → H7453
 - p6: بکن
 - p7: ،
@@ -374,7 +375,7 @@ Persian entries and current tags:
 - p10: دیگری  → H312
 - p11: را
 - p12: فاش  → H1540
-- p13: منما
+- p13: منما  → H7378
 - p14: ،
 
 ### Proverbs 25:10
@@ -423,7 +424,7 @@ Persian entries and current tags:
 - p3: ،
 - p4: سیب  → H8598
 - p5: طلاست  → H2091
-- p6: در  → Hb
+- p6: در
 - p7: سینی  → H4906
 - p8: نقره  → H2091 H3701
 - p9: !
@@ -452,7 +453,7 @@ Persian entries and current tags:
 - p5: طلاست  → H3800
 - p6: توبیخ‌کنندۀ  → H3198
 - p7: حکیم  → H3198 H2450
-- p8: برای
+- p8: برای  → H5921
 - p9: گوش  → H2450 H241
 - p10: شنوا
 - p11: .
@@ -482,9 +483,9 @@ Persian entries and current tags:
 - p5: خود
 - p6: ،
 - p7: خنکی  → H539
-- p8: برف  → H7950
+- p8: برف
 - p9: است
-- p10: در  → Hb
+- p10: در
 - p11: گرمای  → H6793
 - p12: تابستان  → H7950
 - p13: ؛
@@ -493,9 +494,8 @@ Persian entries and current tags:
 - p16: سروران  → H113
 - p17: خویش
 - p18: را
-- p19: تازه  → H6735 H7725
-- p20: می‌سازد  → H7725
-- p21: .
+- p19: تازه می‌سازد  → H7725
+- p20: .
 
 ### Proverbs 25:14
 

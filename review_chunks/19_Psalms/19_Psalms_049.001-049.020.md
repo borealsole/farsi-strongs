@@ -103,7 +103,7 @@ Original words:
 Persian entries and current tags:
 - p1: ای
 - p2: همۀ  → H3605
-- p3: قومها  → H5971
+- p3: قومها  → H5329 H5971
 - p4: ،
 - p5: این  → H2063
 - p6: را
@@ -114,8 +114,9 @@ Persian entries and current tags:
 - p11: ساکنان  → H3427
 - p12: جهان  → H2465
 - p13: ،
-- p14: گوش فرا~دهید  → H238
-- p15: ،
+- p14: گوش
+- p15: فرا~دهید  → H238
+- p16: ،
 
 ### Psalms 49:2
 
@@ -137,12 +138,12 @@ Persian entries and current tags:
 - p1: از  → H1571
 - p2: عام  → H120
 - p3: و
-- p4: خاص  → H1121 H376
+- p4: خاص  → H376
 - p5: ،
 - p6: از
 - p7: نیازمند  → H6223 H34
 - p8: و  → Hc
-- p9: توانگر  → H6223
+- p9: توانگر
 - p10: ،
 - p11: جملگی  → H3162
 - p12: :
@@ -249,7 +250,7 @@ Original words:
 Persian entries and current tags:
 - p1: همانها
 - p2: که
-- p3: بر
+- p3: بر  → H5921
 - p4: اموال  → H2428 H6239
 - p5: خود
 - p6: توکل دارند  → H982
@@ -278,13 +279,13 @@ Original words:
 - o9: כָּפְר/וֹ = H3724 כֹּפֶר "properly, a cover…" [HNcmsc/Sp3ms]
 
 Persian entries and current tags:
-- p1: به‌یقین  → H6299
+- p1: به‌یقین
 - p2: کسی  → H376
 - p3: فدیۀ  → H6299
 - p4: جان
 - p5: برادر خویش  → H251
 - p6: نتواند  → H3808
-- p7: داد
+- p7: داد  → H6299
 - p8: و
 - p9: خونبهای  → H3724
 - p10: او
@@ -292,7 +293,7 @@ Persian entries and current tags:
 - p12: به  → Hl
 - p13: خدا  → H430
 - p14: نتواند  → H3808
-- p15: پرداخت  → H5414
+- p15: پرداخت
 - p16: ؛
 
 ### Psalms 49:8
@@ -315,7 +316,7 @@ Persian entries and current tags:
 - p5: ،
 - p6: و  → Hc
 - p7: هیچ
-- p8: بهایی  → H6306 H2308
+- p8: بهایی  → H6306
 - p9: کافی  → H2308 H5769
 - p10: نخواهد_بود
 
@@ -420,7 +421,7 @@ Persian entries and current tags:
 - p16: نامهای  → H8034
 - p17: خود
 - p18: را
-- p19: بر
+- p19: بر  → H5921
 - p20: زمینهای  → H127
 - p21: خویش
 - p22: می‌نهند
@@ -449,7 +450,7 @@ Persian entries and current tags:
 - p6: ،
 - p7: بر
 - p8: جا
-- p9: نخواهد_ماند  → H1077 H3885
+- p9: نخواهد_ماند  → H1077
 - p10: ؛
 - p11: او
 - p12: چارپایان  → H929
@@ -484,7 +485,7 @@ Persian entries and current tags:
 - p6: جاهلانه  → H3689
 - p7: بر
 - p8: خویشتن
-- p9: توکل  → H3689
+- p9: توکل
 - p10: دارند
 - p11: ،
 - p12: و  → Hc
@@ -526,7 +527,7 @@ Persian entries and current tags:
 - p4: هاویه  → H7585
 - p5: مقرر گشته‌اند  → H8371
 - p6: ،
-- p7: و  → Hc
+- p7: و
 - p8: مرگ  → H4194
 - p9: ،
 - p10: ایشان
@@ -578,15 +579,16 @@ Persian entries and current tags:
 - p5: از  → Hm
 - p6: چنگال  → H3027
 - p7: هاویه  → H7585
-- p8: فدیه خواهد_داد  → H6299
-- p9: ،
-- p10: و
-- p11: مرا
-- p12: نزد
-- p13: خود
-- p14: خواهد_پذیرفت
-- p15: .
-- p16: سِلاه  → H5542
+- p8: فدیه
+- p9: خواهد_داد
+- p10: ،
+- p11: و  → H3588
+- p12: مرا
+- p13: نزد  → H3947
+- p14: خود
+- p15: خواهد_پذیرفت
+- p16: .
+- p17: سِلاه  → H5542
 
 ### Psalms 49:16
 
@@ -639,11 +641,11 @@ Original words:
 
 Persian entries and current tags:
 - p1: زیرا چون  → H3588
-- p2: بمیرد
+- p2: بمیرد  → H4194
 - p3: چیزی  → H3808
 - p4: با
 - p5: خود
-- p6: نخواهد_برد
+- p6: نخواهد_برد  → H3808
 - p7: ،
 - p8: و
 - p9: شوکتش  → H3519
@@ -670,7 +672,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: هرچند  → H3588
-- p2: در
+- p2: در  → Hb
 - p3: زمان  → H5315
 - p4: حیات  → H2416
 - p5: ،
@@ -686,7 +688,7 @@ Persian entries and current tags:
 - p15: همگان  → H3034
 - p16: تو
 - p17: را
-- p18: می‌ستایند
+- p18: می‌ستایند  → H3190
 - p19: -
 
 ### Psalms 49:19
@@ -737,7 +739,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: آدمی  → H120 H929
-- p2: در
+- p2: در  → Hb
 - p3: توانگری‌اش  → H3366
 - p4: فهم  → H995
 - p5: ندارد  → H3808

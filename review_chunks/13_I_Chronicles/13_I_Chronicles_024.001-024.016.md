@@ -141,7 +141,7 @@ Original words:
 - o12: וְ/אִיתָמָר = Hc "and" + H385 אִיתָמָר "Ithamar, a son of Aaron" [HC/Np]
 
 Persian entries and current tags:
-- p1: ناداب  → H5070
+- p1: ناداب  → H5070 H499
 - p2: و  → Hc
 - p3: اَبیهو  → H30
 - p4: پیش  → H6440
@@ -153,7 +153,7 @@ Persian entries and current tags:
 - p10: پسری  → H1121
 - p11: نداشتند  → H3808
 - p12: ،
-- p13: پس  → Hc
+- p13: پس
 - p14: تنها
 - p15: اِلعازار  → H499
 - p16: و  → Hc
@@ -185,7 +185,7 @@ Persian entries and current tags:
 - p2: به
 - p3: یاری
 - p4: صادوق  → H6659
-- p5: از
+- p5: از  → H4480
 - p6: نسل  → H1121
 - p7: اِلعازار  → H499
 - p8: و  → Hc
@@ -198,13 +198,13 @@ Persian entries and current tags:
 - p15: را
 - p16: بر
 - p17: حسب  → Hl
-- p18: وظایفی
+- p18: وظایفی  → H5656
 - p19: که
 - p20: بدیشان
 - p21: محول  → H6486
 - p22: شده_بود
 - p23: ،
-- p24: در
+- p24: در  → Hb
 - p25: خدمتشان  → H5656
 - p26: به
 - p27: گروه‌های مختلف  → H6486
@@ -250,7 +250,7 @@ Persian entries and current tags:
 - p7: توانایی
 - p8: ریاست  → H7218
 - p9: داشتند
-- p10: در  → H4672
+- p10: در
 - p11: میان
 - p12: پسران  → H1121
 - p13: اِلعازار  → H499 H385
@@ -267,13 +267,13 @@ Persian entries and current tags:
 - p24: شانزده  → H8337 H6240
 - p25: سَر  → H7218
 - p26: برای  → Hl
-- p27: خاندانها  → H1 H1004
+- p27: خاندانها  → H1004 H1
 - p28: ،
 - p29: و  → Hc
 - p30: از
 - p31: میان
 - p32: پسران  → H1121
-- p33: ایتامار  → H385
+- p33: ایتامار  → H499 H385
 - p34: هشت  → H8083
 - p35: سَر
 - p36: برای  → Hl
@@ -306,12 +306,12 @@ Original words:
 Persian entries and current tags:
 - p1: همۀ
 - p2: این  → H428
-- p3: افراد  → H2505
+- p3: افراد
 - p4: به
 - p5: یکسان
 - p6: به
 - p7: قید
-- p8: قرعه
+- p8: قرعه  → H428
 - p9: تقسیم شدند  → H2505
 - p10: ،
 - p11: زیرا  → H3588
@@ -379,7 +379,7 @@ Persian entries and current tags:
 - p5: نِتَنئیل  → H5417
 - p6: ،
 - p7: که
-- p8: از
+- p8: از  → H4480
 - p9: لاویان  → H3881
 - p10: بود
 - p11: ،
@@ -440,7 +440,7 @@ Persian entries and current tags:
 - p6: درآمد  → H3318
 - p7: ،
 - p8: دوّمین  → H8145
-- p9: به  → Hl
+- p9: به
 - p10: نام
 - p11: یِدَعیا  → H3048
 - p12: ،
@@ -458,12 +458,12 @@ Original words:
 
 Persian entries and current tags:
 - p1: سوّمین  → H7992
-- p2: به  → Hl
+- p2: به
 - p3: نام
 - p4: حاریم  → H2766
 - p5: ،
-- p6: چهارمین  → H7243
-- p7: به
+- p6: چهارمین  → H7992 H7243
+- p7: به  → Hl
 - p8: نام
 - p9: سِعوریم  → H8188
 - p10: ،
@@ -504,7 +504,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: هفتمین  → H7637
-- p2: به  → Hl
+- p2: به
 - p3: نام
 - p4: هَقّوص  → H6976
 - p5: ،
@@ -552,7 +552,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: یازدهمین  → H6249 H6240
-- p2: به
+- p2: به  → Hl
 - p3: نام
 - p4: اِلیاشیب  → H475
 - p5: ،
@@ -602,7 +602,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: پانزدهمین  → H2568 H6240
-- p2: به  → Hl
+- p2: به
 - p3: نام
 - p4: بِلجَه  → H1083
 - p5: ،
@@ -627,12 +627,12 @@ Original words:
 
 Persian entries and current tags:
 - p1: هفدهمین  → H7651 H6240
-- p2: به
+- p2: به  → Hl
 - p3: نام
 - p4: حِزیر  → H2387
 - p5: ،
 - p6: هجدهمین  → H6240 H8083
-- p7: به  → Hl
+- p7: به
 - p8: نام
 - p9: هَفِصیص  → H6483
 - p10: ،
@@ -656,7 +656,7 @@ Persian entries and current tags:
 - p4: فِتَحیا  → H6611
 - p5: ،
 - p6: بیستمین  → H6242
-- p7: به  → Hl
+- p7: به
 - p8: نام
 - p9: حِزقیال  → H3168
 - p10: ،

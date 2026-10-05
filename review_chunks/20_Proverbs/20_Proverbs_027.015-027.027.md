@@ -96,15 +96,17 @@ Original words:
 - o7: נִשְׁתָּוָה = H7737 שָׁוָה "properly, to level, i.e. equalize…" [HVDp3fs]
 
 Persian entries and current tags:
-- p1: چکیدنِ پیوستۀ آب  → H1812
-- p2: در
-- p3: روز  → H3117
-- p4: بارانی  → H5464
-- p5: و  → Hc
-- p6: زن  → H802
-- p7: ستیزه‌جو  → H4066
-- p8: مشابه‌اند  → H7737
-- p9: ؛
+- p1: چکیدنِ  → H1812
+- p2: پیوستۀ
+- p3: آب
+- p4: در  → Hb
+- p5: روز  → H3117
+- p6: بارانی  → H5464
+- p7: و  → Hc
+- p8: زن  → H802
+- p9: ستیزه‌جو  → H4066
+- p10: مشابه‌اند  → H7737
+- p11: ؛
 
 ### Proverbs 27:16
 
@@ -152,13 +154,14 @@ Persian entries and current tags:
 - p1: آهن  → H1270
 - p2: آهن  → H1270
 - p3: را
-- p4: تیز می‌کند  → H2300
-- p5: ،
-- p6: مرد  → H376
-- p7: ،
-- p8: مرد  → H376
-- p9: را
-- p10: .
+- p4: تیز  → H2300
+- p5: می‌کند  → H2300
+- p6: ،
+- p7: مرد  → H376
+- p8: ،
+- p9: مرد  → H376
+- p10: را
+- p11: .
 
 ### Proverbs 27:18
 
@@ -217,7 +220,7 @@ Persian entries and current tags:
 - p3: چهرۀ
 - p4: انسان  → H120
 - p5: را
-- p6: منعکس  → H3651
+- p6: منعکس
 - p7: می‌کند
 - p8: ،
 - p9: دل  → H3820
@@ -279,7 +282,7 @@ Persian entries and current tags:
 - p6: برای  → Hl
 - p7: طلاست  → H2091
 - p8: ،
-- p9: ستایش
+- p9: ستایش  → H3564
 - p10: نیز
 - p11: برای  → Hl
 - p12: آزمایش  → H4110
@@ -310,7 +313,7 @@ Persian entries and current tags:
 - p2: احمق  → H191
 - p3: را  → H853
 - p4: چون
-- p5: گندم  → H4388 H7383
+- p5: گندم  → H4388
 - p6: نیز
 - p7: در
 - p8: هاون  → H5940
@@ -376,7 +379,7 @@ Persian entries and current tags:
 - p7: نه
 - p8: حتی
 - p9: تاج  → H5145
-- p10: و  → Hc
+- p10: و
 - p11: تخت  → H5145
 - p12: ،
 - p13: باقی
@@ -404,7 +407,7 @@ Original words:
 Persian entries and current tags:
 - p1: پس  → Hc
 - p2: چون  → H7200
-- p3: علفها  → H2682 H1877
+- p3: علفها  → H1877
 - p4: را
 - p5: بزنند  → H1540
 - p6: و  → Hc

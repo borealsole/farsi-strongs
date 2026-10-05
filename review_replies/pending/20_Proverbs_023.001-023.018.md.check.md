@@ -4,7 +4,7 @@ Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change
 
 ## 17 verse(s) with changes
 
-### Proverbs 23:1: 7 word(s) changed
+### Proverbs 23:1: 6 word(s) changed
 
 Reply line 2.
 
@@ -29,7 +29,7 @@ Original words:
 |  | چون | H3588 | H3588 |
 |  | با | H854 | H854 |
 |  | حاکمی | H4910 | H4910 |
-|  | به | Hl | Hl |
+| ✱ | به |  | Hl "to" |
 | ✱ | طعام |  | H3898 לָחַם "to feed on…" |
 | ✱ | می‌نشینی | H3427 יָשַׁב "properly…"; H3898 לָחַם "to feed on…" | H3427 יָשַׁב "properly…" |
 |  | ، |  |  |
@@ -38,8 +38,8 @@ Original words:
 | ✱ | پیش | H6440 פָּנִים "the face (as the part that…" | [پیش روی] Hl "to"; H6440 פָּנִים "the face (as the part that…" |
 | ✱ | روی |  | [پیش روی] Hl "to"; H6440 פָּנִים "the face (as the part that…" |
 |  | توست |  |  |
-| ✱ | تأمل |  | [تأمل کن] H995 בִּין "to separate mentally (or…" |
-| ✱ | کن |  | [تأمل کن] H995 בִּין "to separate mentally (or…" |
+|  | تأمل | [تأمل کن] H995 | [تأمل کن] H995 |
+|  | کن | [تأمل کن] H995 | [تأمل کن] H995 |
 |  | ، |  |  |
 
 ### Proverbs 23:2: 4 word(s) changed
@@ -63,7 +63,7 @@ Original words:
 | --- | --- | --- | --- |
 |  | و | Hc | Hc |
 |  | اگر | H518 | H518 |
-| ✱ | شکمباره‌ای | H7915 שַׂכִּין "a knife (as pointed or edged)"; H3930 לֹעַ "the gullet" | H1167 בַּעַל "a master…"; H5315 נֶפֶשׁ "properly…"; H859 אַתָּה "thou and thee…" |
+| ✱ | شکمباره‌ای | H3930 לֹעַ "the gullet" | H1167 בַּעַל "a master…"; H5315 נֶפֶשׁ "properly…"; H859 אַתָּה "thou and thee…" |
 |  | ، |  |  |
 | ✱ | کارد |  | H7915 שַׂכִּין "a knife (as pointed or edged)" |
 | ✱ | بر |  | Hb "in" |
@@ -103,7 +103,7 @@ Original words:
 |  | است |  |  |
 |  | . |  |  |
 
-### Proverbs 23:4: 5 word(s) changed
+### Proverbs 23:4: 6 word(s) changed
 
 Reply line 5.
 
@@ -129,7 +129,7 @@ Original words:
 | ✱ | پا | H6238 עָשַׁר "properly, to accumulate…" | [از پا مَیَفکن] H408 אַל "not (the qualified negation…"; H3021 יָגַע "properly, to gasp…" |
 | ✱ | مَیَفکن | H3021 יָגַע "properly, to gasp…" | [از پا مَیَفکن] H408 אַל "not (the qualified negation…"; H3021 יָגַע "properly, to gasp…" |
 |  | ؛ |  |  |
-|  | از | Hm | Hm |
+| ✱ | از |  | Hm "from" |
 |  | اندیشیدن | H998 | H998 |
 |  | بدان |  |  |
 |  | بازایست | H2308 | H2308 |
@@ -161,7 +161,7 @@ Original words:
 | --- | --- | --- | --- |
 |  | تا |  |  |
 |  | چشم | H5869 | H5869 |
-| ✱ | بر |  | Hb "in" |
+|  | بر | Hb | Hb |
 |  | آن |  |  |
 | ✱ | بدوزی |  | H5774 עוּף "to fly…" |
 | ✱ | از |  | [از میان رفته_است] H369 אַיִן "a non-entity…" |
@@ -172,13 +172,13 @@ Original words:
 | ✱ | ثروت | H3671 כָּנָף "an edge or extremity…" |  |
 | ✱ | چون | H6213 עָשָׂה "to do or make…"; Hk "like" | Hk "like" |
 |  | عقاب | H5404 | H5404 |
-|  | بال | H3671 | H3671 |
+| ✱ | بال |  | H3671 כָּנָף "an edge or extremity…" |
 |  | می‌گیرد | H6213 | H6213 |
 |  | و | Hc | Hc |
 | ✱ | می‌پَرَد | H6213 עָשָׂה "to do or make…"; H5774 עוּף "to fly…"; H8064 שָׁמַיִם "the sky (as aloft…" | H5774 עוּף "to fly…" |
 |  | ! |  |  |
 
-### Proverbs 23:6: 5 word(s) changed
+### Proverbs 23:6: 6 word(s) changed
 
 Reply line 7.
 
@@ -202,7 +202,7 @@ Original words:
 |  | از |  |  |
 | ✱ | سفرۀ |  | H3899 לֶחֶם "food (for man or beast)…" |
 |  | مرد |  |  |
-|  | خسیس | H7451 H5869 | H7451 H5869 |
+| ✱ | خسیس | H3898 לָחַם "to feed on…"; H7451 רַע "bad or (as noun) evil…" | H7451 רַע "bad or (as noun) evil…"; H5869 עַיִן "an eye (literally or…" |
 | ✱ | مخور | H3899 לֶחֶם "food (for man or beast)…"; H5869 עַיִן "an eye (literally or…" | H408 אַל "not (the qualified negation…"; H3898 לָחַם "to feed on…" |
 |  | ، |  |  |
 |  | و | Hc | Hc |
@@ -266,7 +266,7 @@ Original words:
 |  | نیست | H1077 | H1077 |
 |  | . |  |  |
 
-### Proverbs 23:8: 3 word(s) changed
+### Proverbs 23:8: 4 word(s) changed
 
 Reply line 9.
 
@@ -292,7 +292,7 @@ Original words:
 |  | قی | [قی خواهی_کرد] H6958 | [قی خواهی_کرد] H6958 |
 |  | خواهی_کرد | [قی خواهی_کرد] H6958 | [قی خواهی_کرد] H6958 |
 |  | و | Hc | Hc |
-|  | تعارفاتت | H1697 H5273 | H1697 H5273 |
+| ✱ | تعارفاتت | H1697 דָּבָר "a word…" | H1697 דָּבָר "a word…"; H5273 נָעִים "delightful (objective or…" |
 |  | را |  |  |
 |  | نیز |  |  |
 | ✱ | به |  | [به هدر خواهی_داد] H7843 שָׁחַת "to decay…" |
@@ -322,7 +322,7 @@ Original words:
 | --- | --- | --- | --- |
 |  | نادان | H3684 | H3684 |
 |  | را |  |  |
-| ✱ | نصیحت | H241 אֹזֶן "broadness. i.e. (concrete)…" | [نصیحت مکن] H408 אַל "not (the qualified negation…"; H1696 דָבַר "perhaps properly, to arrange…" |
+| ✱ | نصیحت |  | [نصیحت مکن] H408 אַל "not (the qualified negation…"; H1696 דָבַר "perhaps properly, to arrange…" |
 | ✱ | مکن | H408 אַל "not (the qualified negation…" | [نصیحت مکن] H408 אַל "not (the qualified negation…"; H1696 דָבַר "perhaps properly, to arrange…" |
 |  | ، |  |  |
 |  | چه | H3588 | H3588 |
@@ -391,8 +391,8 @@ Original words:
 |  | زیرا | H3588 | H3588 |
 |  | ولیّ | H1350 | H1350 |
 |  | آنها |  |  |
-| ✱ | نیرومند | H1350 גָּאַל "to be the next of kin (and as…"; H2389 חָזָק "strong (usu. in a bad sense…" | H2389 חָזָק "strong (usu. in a bad sense…" |
-|  | است |  |  |
+|  | نیرومند | H2389 | H2389 |
+| ✱ | است | H1931 הוּא "he (she or it)…" |  |
 |  | و |  |  |
 | ✱ | علیه |  | H854 אֵת "properly…" |
 |  | تو |  |  |
@@ -434,8 +434,8 @@ Original words:
 |  | گوش‌خود | H241 | H241 |
 |  | را |  |  |
 |  | به | Hl | Hl |
-| ✱ | سخنان | H561 אֵמֶר "something said"; H1847 דַּעַת "knowledge" | H561 אֵמֶר "something said" |
-|  | معرفت | H1847 | H1847 |
+|  | سخنان | H561 | H561 |
+| ✱ | معرفت | H935 בּוֹא "to go or come (in a wide…"; H1847 דַּעַת "knowledge" | H1847 דַּעַת "knowledge" |
 |  | . |  |  |
 
 ### Proverbs 23:13: 4 word(s) changed
@@ -464,7 +464,7 @@ Original words:
 | ✱ | کردن |  | [ادب کردن] H4148 מוּסָר "properly, chastisement…" |
 |  | جوان | H5288 | H5288 |
 | ✱ | اِبا |  | [اِبا مکن] H408 אַל "not (the qualified negation…"; H4513 מָנַע "to debar (negatively or…" |
-| ✱ | مکن | H408 אַל "not (the qualified negation…"; H4513 מָנַע "to debar (negatively or…" | [اِبا مکن] H408 אַל "not (the qualified negation…"; H4513 מָנַע "to debar (negatively or…" |
+| ✱ | مکن | H4513 מָנַע "to debar (negatively or…" | [اِبا مکن] H408 אַל "not (the qualified negation…"; H4513 מָנַע "to debar (negatively or…" |
 |  | ؛ |  |  |
 |  | چوب | H7626 | H7626 |
 |  | تنبیه | H5221 | H5221 |
@@ -532,7 +532,7 @@ Original words:
 | ✱ | می‌آید |  | [به وجد می‌آید] H5937 עָלַז "to jump for joy, i.e. exult" |
 |  | . |  |  |
 
-### Proverbs 23:17: 4 word(s) changed
+### Proverbs 23:17: 5 word(s) changed
 
 Reply line 17.
 
@@ -555,10 +555,10 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | دلت | H3820 | H3820 |
-|  | بر | Hb | Hb |
+| ✱ | بر |  | Hb "in" |
 |  | گنهکاران | H2400 | H2400 |
 | ✱ | حسد | H7065 קָנָא "to be (causatively…" | [حسد مبَرد] H408 אַל "not (the qualified negation…"; H7065 קָנָא "to be (causatively…" |
-| ✱ | مبَرد |  | [حسد مبَرد] H408 אַל "not (the qualified negation…"; H7065 קָנָא "to be (causatively…" |
+| ✱ | مبَرد | H2400 חַטָּא "a criminal…" | [حسد مبَرد] H408 אַל "not (the qualified negation…"; H7065 קָנָא "to be (causatively…" |
 |  | ، |  |  |
 | ✱ | بلکه | H3588 כִּי "by implication) very widely…" | H3588 כִּי "by implication) very widely…"; H518 אִם "used very widely as…" |
 |  | همۀ | H3605 | H3605 |
@@ -596,5 +596,5 @@ Original words:
 |  | و | Hc | Hc |
 |  | امیدت | H8615 | H8615 |
 | ✱ | زایل | H3772 כָּרַת "to cut (off, down or asunder)…" | [زایل نخواهد_شد] H3808 לֹא "not (the simple or abs.…"; H3772 כָּרַת "to cut (off, down or asunder)…" |
-| ✱ | نخواهد_شد | H3808 לֹא "not (the simple or abs.…" | [زایل نخواهد_شد] H3808 לֹא "not (the simple or abs.…"; H3772 כָּרַת "to cut (off, down or asunder)…" |
+| ✱ | نخواهد_شد | H3808 לֹא "not (the simple or abs.…"; H3772 כָּרַת "to cut (off, down or asunder)…" | [زایل نخواهد_شد] H3808 לֹא "not (the simple or abs.…"; H3772 כָּרַת "to cut (off, down or asunder)…" |
 |  | . |  |  |

@@ -106,8 +106,8 @@ Persian entries and current tags:
 - p6: توبیخم  → H3198
 - p7: مکن  → H408
 - p8: و  → Hc
-- p9: در
-- p10: غضبت  → H2142 H2534
+- p9: در  → Hb
+- p10: غضبت  → H2534
 - p11: ،
 - p12: تأدیبم  → H3198 H3256
 - p13: مفرما  → H2142
@@ -134,11 +134,11 @@ Persian entries and current tags:
 - p4: تو
 - p5: در
 - p6: من
-- p7: نشسته  → H5181
+- p7: نشسته
 - p8: ،
 - p9: و  → Hc
 - p10: دستت  → H3027
-- p11: بر
+- p11: بر  → H5921
 - p12: من
 - p13: فرود آمده_است  → H5181
 - p14: .
@@ -161,7 +161,7 @@ Original words:
 - o10: חַטָּאתִ/י = H2403 חַטָּאָה "an offence (sometimes habitual sinfulness)…" [HNcfsc/Sp1cs]
 
 Persian entries and current tags:
-- p1: در
+- p1: در  → Hb
 - p2: تن  → H1320
 - p3: من
 - p4: به
@@ -205,12 +205,13 @@ Persian entries and current tags:
 - p4: گذشته  → H5674
 - p5: ،
 - p6: همچون  → Hk
-- p7: باری
+- p7: باری  → H3515
 - p8: گران  → H4853
 - p9: از
 - p10: طاقتم  → H4853
-- p11: سنگینتر است  → H3513
-- p12: .
+- p11: سنگینتر  → H3515 H3513
+- p12: است
+- p13: .
 
 ### Psalms 38:5
 
@@ -258,7 +259,7 @@ Persian entries and current tags:
 - p3: می‌پیچم
 - p4: و
 - p5: بسیار  → H3966
-- p6: خم گشته‌ام  → H5753 H7817
+- p6: خم گشته‌ام  → H7817
 - p7: ؛
 - p8: همۀ  → H3605
 - p9: روز  → H3117
@@ -313,7 +314,7 @@ Persian entries and current tags:
 - p2: در
 - p3: من
 - p4: نمانده  → H1794 H3966
-- p5: و
+- p5: و  → Hc
 - p6: سخت  → H3966
 - p7: کوفته شده‌ام  → H6313
 - p8: ؛
@@ -375,7 +376,7 @@ Original words:
 Persian entries and current tags:
 - p1: دلم  → H3820
 - p2: در
-- p3: سینه  → H3581
+- p3: سینه
 - p4: به
 - p5: تندی
 - p6: می‌تپد  → H5503
@@ -520,7 +521,7 @@ Persian entries and current tags:
 - p8: نمی‌شنود  → H8085
 - p9: ،
 - p10: و  → Hc
-- p11: در
+- p11: در  → Hb
 - p12: دهانش  → H6310
 - p13: پاسخی  → H8433
 - p14: نیست  → H369
@@ -610,12 +611,12 @@ Persian entries and current tags:
 - p2: که
 - p3: نزدیک
 - p4: است
-- p5: بیفتم  → H6761
+- p5: بیفتم
 - p6: ،
 - p7: و  → Hc
 - p8: دردم  → H4341
 - p9: همیشه  → H8548
-- p10: با  → H5048
+- p10: با
 - p11: من
 - p12: است
 - p13: .
@@ -695,12 +696,12 @@ Persian entries and current tags:
 - p2: که
 - p3: به
 - p4: تلافی  → H7999
-- p5: نیکی  → H7451 H2896
+- p5: نیکی  → H2896
 - p6: ،
 - p7: بدی  → H7451
 - p8: بر
 - p9: من
-- p10: روا می‌دارند  → H7853
+- p10: روا می‌دارند  → H7291
 - p11: ،
 - p12: چون  → H8478
 - p13: در

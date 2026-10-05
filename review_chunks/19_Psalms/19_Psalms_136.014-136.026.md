@@ -98,7 +98,7 @@ Persian entries and current tags:
 - p1: و  → Hc
 - p2: اسرائیل  → H3478
 - p3: را
-- p4: از  → H5674
+- p4: از
 - p5: میان  → H8432
 - p6: آن
 - p7: عبور داد  → H5674
@@ -225,7 +225,7 @@ Persian entries and current tags:
 - p2: را
 - p3: که
 - p4: شاهان  → H4428
-- p5: مقتدر  → H117 H2617
+- p5: مقتدر  → H117
 - p6: را
 - p7: کُشت  → H2026
 - p8: ،
@@ -233,8 +233,9 @@ Persian entries and current tags:
 - p10: که
 - p11: محبت  → H2617
 - p12: او  → H2026
-- p13: جاودانه است  → H5769
-- p14: ؛
+- p13: جاودانه  → H5769
+- p14: است
+- p15: ؛
 
 ### Psalms 136:19
 

@@ -48,7 +48,7 @@ Original words:
 |  | اُکال | H401 | H401 |
 |  | : |  |  |
 
-### Proverbs 30:2: 2 word(s) changed
+### Proverbs 30:2: 3 word(s) changed
 
 Reply line 3.
 
@@ -69,7 +69,7 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | « |  |  |
-|  | بی‌گمان | H3588 | H3588 |
+| ✱ | بی‌گمان |  | H3588 כִּי "by implication) very widely…" |
 |  | من | H595 | H595 |
 | ✱ | نادان‌ترینِ | H1198 בַּעַר "properly, foot (as consumed)…" | H1198 בַּעַר "properly, foot (as consumed)…"; Hm "from" |
 |  | آدمیانم | H376 | H376 |
@@ -110,7 +110,7 @@ Original words:
 | ✱ | برخوردارم |  | H3045 יָדַע "to know (properly…" |
 |  | . |  |  |
 
-### Proverbs 30:4: 12 word(s) changed
+### Proverbs 30:4: 14 word(s) changed
 
 Reply line 5.
 
@@ -146,36 +146,36 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | کیست |  | H4310 מִי "who? (occasionally…" |
-| ✱ | که | H4310 מִי "who? (occasionally…" |  |
+| ✱ | کیست | [کیست که] H4310 מִי "who? (occasionally…" | H4310 מִי "who? (occasionally…" |
+| ✱ | که | [کیست که] H4310 מִי "who? (occasionally…" |  |
 |  | به |  |  |
 |  | آسمان | H8064 | H8064 |
 |  | صعود | H5927 | H5927 |
 |  | و | Hc | Hc |
 |  | از |  |  |
-|  | آنجا |  |  |
-|  | نزول | [نزول کرده_باشد] H3381 | [نزول کرده_باشد] H3381 |
-|  | کرده_باشد | [نزول کرده_باشد] H3381 | [نزول کرده_باشد] H3381 |
+| ✱ | آنجا | [آنجا نزول کرده_باشد] H3381 יָרַד "to descend (literally…" |  |
+| ✱ | نزول | [آنجا نزول کرده_باشد] H3381 יָרַד "to descend (literally…" | [نزول کرده_باشد] H3381 יָרַד "to descend (literally…" |
+| ✱ | کرده_باشد | [آنجا نزول کرده_باشد] H3381 יָרַד "to descend (literally…" | [نزول کرده_باشد] H3381 יָרַד "to descend (literally…" |
 |  | ؟ |  |  |
-| ✱ | کیست |  | H4310 מִי "who? (occasionally…" |
+|  | کیست | H4310 | H4310 |
 | ✱ | که | H4310 מִי "who? (occasionally…" |  |
 |  | باد | H7307 | H7307 |
 |  | را |  |  |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | مُشت | H2651 | H2651 |
 |  | خود |  |  |
 | ✱ | گرد | H622 אָסַף "to gather for any purpose…"; H6887 צָרַר "to cramp…" | [گرد آورده_باشد] H622 אָסַף "to gather for any purpose…" |
-| ✱ | آورده_باشد | H622 אָסַף "to gather for any purpose…" | [گرد آورده_باشد] H622 אָסַף "to gather for any purpose…" |
+| ✱ | آورده_باشد |  | [گرد آورده_باشد] H622 אָסַף "to gather for any purpose…" |
 |  | ؟ |  |  |
-| ✱ | کیست |  | H4310 מִי "who? (occasionally…" |
-| ✱ | که | H4310 מִי "who? (occasionally…" |  |
+| ✱ | کیست | [کیست که] H4310 מִי "who? (occasionally…" | H4310 מִי "who? (occasionally…" |
+| ✱ | که | [کیست که] H4310 מִי "who? (occasionally…" |  |
 |  | آبها | H4325 | H4325 |
 |  | را |  |  |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | ردایی | H8071 | H8071 |
 |  | پیچیده_باشد | H6887 | H6887 |
 |  | ؟ |  |  |
-| ✱ | کیست |  | H4310 מִי "who? (occasionally…" |
+|  | کیست | H4310 | H4310 |
 | ✱ | که | H4310 מִי "who? (occasionally…" |  |
 |  | جملۀ | H3605 | H3605 |
 |  | کرانهای | H657 | H657 |
@@ -186,7 +186,7 @@ Original words:
 |  | ؟ |  |  |
 |  | نام | H8034 | H8034 |
 |  | او |  |  |
-|  | چیست | H4100 | H4100 |
+| ✱ | چیست |  | H4100 מָה "properly…" |
 |  | و | Hc | Hc |
 |  | پسر | H1121 | H1121 |
 |  | او |  |  |
@@ -194,8 +194,8 @@ Original words:
 |  | نام | H8034 | H8034 |
 |  | دارد |  |  |
 |  | ؟ |  |  |
-|  | بگو |  |  |
-|  | اگر | H3588 | H3588 |
+| ✱ | بگو | [بگو اگر] H3588 כִּי "by implication) very widely…" |  |
+| ✱ | اگر | [بگو اگر] H3588 כִּי "by implication) very widely…" | H3588 כִּי "by implication) very widely…" |
 |  | می‌دانی | H3045 | H3045 |
 |  | ! |  |  |
 
@@ -301,13 +301,13 @@ Original words:
 |  | چیز |  |  |
 | ✱ | از |  | Hm "from"; H854 אֵת "properly…" |
 |  | تو |  |  |
-|  | می‌خواهم | H7592 | H7592 |
+| ✱ | می‌خواهم |  | H7592 שָׁאַל "to inquire…" |
 |  | ، |  |  |
 | ✱ | تا | H2962 טֶרֶם "properly, non-occurrence…" | Hb "in"; H2962 טֶרֶם "properly, non-occurrence…" |
 | ✱ | نمرده‌ام | H4513 מָנַע "to debar (negatively or…" | H4191 מוּת "to die (literally or…" |
 |  | آن |  |  |
 |  | را |  |  |
-| ✱ | از |  | H4480 מִן "properly, a part of…" |
+|  | از | H4480 | H4480 |
 |  | من |  |  |
 | ✱ | دریغ | H4513 מָנַע "to debar (negatively or…" | [دریغ مدار] H408 אַל "not (the qualified negation…"; H4513 מָנַע "to debar (negatively or…" |
 | ✱ | مدار | H4191 מוּת "to die (literally or…" | [دریغ مدار] H408 אַל "not (the qualified negation…"; H4513 מָנַע "to debar (negatively or…" |
@@ -342,13 +342,13 @@ Original words:
 |  | و | Hc | Hc |
 |  | دروغ | H1697 H3577 | H1697 H3577 |
 |  | را |  |  |
-|  | از |  |  |
+| ✱ | از | H4480 מִן "properly, a part of…" |  |
 |  | من |  |  |
 |  | دور | [دور کن] H7368 | [دور کن] H7368 |
 |  | کن | [دور کن] H7368 | [دور کن] H7368 |
 |  | ؛ |  |  |
 |  | نه | H408 | H408 |
-| ✱ | فقرم |  | H7389 רֵישׁ "poverty" |
+|  | فقرم | H7389 | H7389 |
 | ✱ | ده |  | H5414 נָתַן "to give…" |
 |  | ، |  |  |
 |  | نه | H408 | H408 |
@@ -365,7 +365,7 @@ Original words:
 |  | بپرور | H2963 | H2963 |
 |  | . |  |  |
 
-### Proverbs 30:9: 6 word(s) changed
+### Proverbs 30:9: 3 word(s) changed
 
 Reply line 10.
 
@@ -390,8 +390,8 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | مبادا | H6435 | H6435 |
-| ✱ | سیر | H7646 שָׂבַע "to sate…" | [سیر گشته] H7646 שָׂבַע "to sate…" |
-| ✱ | گشته | H6435 פֵּן "properly, removal…" | [سیر گشته] H7646 שָׂבַע "to sate…" |
+|  | سیر | [سیر گشته] H7646 | [سیر گشته] H7646 |
+|  | گشته | [سیر گشته] H7646 | [سیر گشته] H7646 |
 |  | ، |  |  |
 |  | تو |  |  |
 |  | را |  |  |
@@ -402,7 +402,7 @@ Original words:
 |  | بگویم | H559 | H559 |
 |  | : |  |  |
 |  | ”خداوند | H3068 | H3068 |
-| ✱ | کیست |  | H4310 מִי "who? (occasionally…" |
+|  | کیست | H4310 | H4310 |
 |  | ؟ |  |  |
 |  | “ |  |  |
 | ✱ | یا |  | Hc "and"; H6435 פֵּן "properly, removal…" |
@@ -420,7 +420,7 @@ Original words:
 |  | سازم | [بی‌حرمت سازم] H8610 | [بی‌حرمت سازم] H8610 |
 |  | . |  |  |
 
-### Proverbs 30:10: 4 word(s) changed
+### Proverbs 30:10: 5 word(s) changed
 
 Reply line 11.
 
@@ -442,11 +442,11 @@ Original words:
 | --- | --- | --- | --- |
 |  | « |  |  |
 |  | از |  |  |
-|  | غلام | H5650 | H5650 |
+| ✱ | غلام | H5650 עֶבֶד "a servant"; H113 אָדוֹן "sovereign…" | H5650 עֶבֶד "a servant" |
 |  | نزد | H413 | H413 |
 | ✱ | سرورش | H5650 עֶבֶד "a servant"; H113 אָדוֹן "sovereign…" | H113 אָדוֹן "sovereign…" |
 | ✱ | بد |  | [بد مگو] H408 אַל "not (the qualified negation…"; H3960 לָשַׁן "to wag the tongue…" |
-| ✱ | مگو | H408 אַל "not (the qualified negation…"; H3960 לָשַׁן "to wag the tongue…" | [بد مگو] H408 אַל "not (the qualified negation…"; H3960 לָשַׁן "to wag the tongue…" |
+| ✱ | مگو | H3960 לָשַׁן "to wag the tongue…" | [بد مگو] H408 אַל "not (the qualified negation…"; H3960 לָשַׁן "to wag the tongue…" |
 |  | ، |  |  |
 |  | مبادا | H6435 | H6435 |
 |  | تو |  |  |
@@ -491,11 +491,11 @@ Original words:
 |  | مادر | H517 | H517 |
 |  | خویش |  |  |
 |  | را | H853 | H853 |
-| ✱ | برکت | H1288 בָרַךְ "to kneel…" | [برکت نمی‌دهند] H3808 לֹא "not (the simple or abs.…"; H1288 בָרַךְ "to kneel…" |
-| ✱ | نمی‌دهند | H3808 לֹא "not (the simple or abs.…"; H1288 בָרַךְ "to kneel…" | [برکت نمی‌دهند] H3808 לֹא "not (the simple or abs.…"; H1288 בָרַךְ "to kneel…" |
+| ✱ | برکت | [برکت نمی‌دهند] H1288 בָרַךְ "to kneel…" | [برکت نمی‌دهند] H3808 לֹא "not (the simple or abs.…"; H1288 בָרַךְ "to kneel…" |
+| ✱ | نمی‌دهند | [برکت نمی‌دهند] H1288 בָרַךְ "to kneel…" | [برکت نمی‌دهند] H3808 לֹא "not (the simple or abs.…"; H1288 בָרַךְ "to kneel…" |
 |  | . |  |  |
 
-### Proverbs 30:12: 6 word(s) changed
+### Proverbs 30:12: 4 word(s) changed
 
 Reply line 13.
 
@@ -516,10 +516,10 @@ Original words:
 |  | هستند | H1755 | H1755 |
 |  | کسانی |  |  |
 |  | که |  |  |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | نظر | H5869 | H5869 |
 |  | خویش |  |  |
-| ✱ | پاکند |  | H2889 טָהוֹר "pure (in a physical, chemical…" |
+|  | پاکند | H2889 | H2889 |
 |  | ، |  |  |
 | ✱ | حال |  | [حال آنکه] Hc "and" |
 | ✱ | آنکه |  | [حال آنکه] Hc "and" |
@@ -530,7 +530,7 @@ Original words:
 | ✱ | نشده‌اند | H3808 לֹא "not (the simple or abs.…" | [شسته نشده‌اند] H3808 לֹא "not (the simple or abs.…"; H7364 רָחַץ "to lave (the whole or a part…" |
 |  | . |  |  |
 
-### Proverbs 30:13: 4 word(s) changed
+### Proverbs 30:13: 3 word(s) changed
 
 Reply line 14.
 
@@ -551,7 +551,7 @@ Original words:
 |  | هستند | H1755 | H1755 |
 |  | کسانی |  |  |
 | ✱ | که | H4100 מָה "properly…" |  |
-| ✱ | چشمانشان | H5869 עַיִן "an eye (literally or…"; H6079 עַפְעַף "an eyelash (as fluttering)…" | H5869 עַיִן "an eye (literally or…" |
+|  | چشمانشان | H5869 | H5869 |
 | ✱ | بس |  | H4100 מָה "properly…" |
 |  | متکبر | [متکبر است] H7311 | [متکبر است] H7311 |
 |  | است | [متکبر است] H7311 | [متکبر است] H7311 |
@@ -561,7 +561,7 @@ Original words:
 |  | تحقیرگر | H5375 | H5375 |
 |  | . |  |  |
 
-### Proverbs 30:14: 4 word(s) changed
+### Proverbs 30:14: 6 word(s) changed
 
 Reply line 15.
 
@@ -583,8 +583,8 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | هستند | [هستند کسانی] H1755 | [هستند کسانی] H1755 |
-|  | کسانی | [هستند کسانی] H1755 | [هستند کسانی] H1755 |
+| ✱ | هستند | H1755 דּוֹר "properly…" | [هستند کسانی] H1755 דּוֹר "properly…" |
+| ✱ | کسانی |  | [هستند کسانی] H1755 דּוֹר "properly…" |
 |  | که |  |  |
 | ✱ | دندانهایشان | H8127 שֵׁן "a tooth (as sharp)…"; H4973 מְתַלְּעָה "properly, a biter…" | H8127 שֵׁן "a tooth (as sharp)…" |
 |  | چونان |  |  |
@@ -671,7 +671,7 @@ Original words:
 |  | ! |  |  |
 |  | “ |  |  |
 
-### Proverbs 30:16: 6 word(s) changed
+### Proverbs 30:16: 5 word(s) changed
 
 Reply line 17.
 
@@ -710,7 +710,7 @@ Original words:
 |  | آتش | H784 | H784 |
 | ✱ | که | [که هرگز] H3808 לֹא "not (the simple or abs.…" |  |
 | ✱ | هرگز | [که هرگز] H3808 לֹא "not (the simple or abs.…" |  |
-| ✱ | نمی‌گوید | H559 אָמַר "to say (used with great…" | H3808 לֹא "not (the simple or abs.…"; H559 אָמַר "to say (used with great…" |
+|  | نمی‌گوید | H3808 H559 | H3808 H559 |
 |  | : |  |  |
 |  | ”بس | H1952 | H1952 |
 |  | است |  |  |

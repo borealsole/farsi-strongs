@@ -133,7 +133,7 @@ Original words:
 Persian entries and current tags:
 - p1: غلام  → H5650
 - p2: حکیم  → H7919
-- p3: بر  → H4910
+- p3: بر  → H4910 Hb
 - p4: پسرِ  → H1121
 - p5: شرم‌آفرین  → H954
 - p6: حکم  → H4910
@@ -201,14 +201,14 @@ Original words:
 Persian entries and current tags:
 - p1: شخص
 - p2: بدکار  → H7489
-- p3: به  → H5921
+- p3: به
 - p4: لبهای  → H8193
 - p5: فتنه‌انگیز  → H1942
-- p6: گوش
+- p6: گوش  → H8193 H238
 - p7: می‌سپارد  → H7181
 - p8: ؛
 - p9: دروغگو  → H8267 H238
-- p10: به  → H5921
+- p10: به
 - p11: زبان  → H3956
 - p12: خرابکار  → H205
 - p13: .
@@ -234,7 +234,7 @@ Persian entries and current tags:
 - p3: فقیران  → H7326
 - p4: را
 - p5: تمسخر کند  → H3932
-- p6: به
+- p6: به  → Hl
 - p7: آفرینندۀ  → H6213
 - p8: آنها
 - p9: اهانت می‌ورزد  → H2778
@@ -242,8 +242,8 @@ Persian entries and current tags:
 - p11: آن
 - p12: که
 - p13: از
-- p14: مصیبت  → H8056 H343 H5352
-- p15: شادمان  → H8056
+- p14: مصیبت  → H343
+- p15: شادمان
 - p16: شود
 - p17: ،
 - p18: بی‌سزا  → H5352
@@ -305,7 +305,7 @@ Persian entries and current tags:
 - p6: نشاید
 - p7: ،
 - p8: چقدر  → H637
-- p9: کمتر  → H3588
+- p9: کمتر  → H637 H3588
 - p10: ،
 - p11: زبان  → H8193
 - p12: دروغگو  → H8267
@@ -380,7 +380,7 @@ Persian entries and current tags:
 - p14: را
 - p15: بازگو می‌کند  → H8138
 - p16: ،
-- p17: میان
+- p17: میان  → H6504
 - p18: دوستانِ  → H441
 - p19: خالص
 - p20: جدایی می‌افکند  → H6504
@@ -400,10 +400,10 @@ Original words:
 - o6: מֵאָה = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbsa]
 
 Persian entries and current tags:
-- p1: اثر
+- p1: اثر  → H5181
 - p2: یک
 - p3: نکوهش  → H1606
-- p4: بر
+- p4: بر  → Hb
 - p5: شخص
 - p6: فهیم  → H995
 - p7: ،
@@ -438,7 +438,7 @@ Persian entries and current tags:
 - p2: تنها  → H389
 - p3: در
 - p4: پی  → H1245
-- p5: طغیان  → H4805
+- p5: طغیان  → H4805 H7451
 - p6: است  → H1245
 - p7: ؛
 - p8: مأمور  → H4397
@@ -463,7 +463,7 @@ Original words:
 - o7: בְּ/אִוַּלְתּ/וֹ = Hb "in" + H200 אִוֶּלֶת "silliness" [HR/Ncfsc/Sp3ms]
 
 Persian entries and current tags:
-- p1: برخوردن
+- p1: برخوردن  → H6298
 - p2: به
 - p3: خرسی  → H1677
 - p4: که
@@ -508,7 +508,7 @@ Persian entries and current tags:
 - p10: از  → Hm
 - p11: خانه‌اش  → H1004
 - p12: دور  → H4185
-- p13: نخواهد_شد  → H3808 H4185
+- p13: نخواهد_شد  → H3808
 - p14: .
 
 ### Proverbs 17:14
@@ -534,7 +534,7 @@ Persian entries and current tags:
 - p5: آب  → H4325
 - p6: است
 - p7: ؛
-- p8: پس  → Hc
+- p8: پس
 - p9: ،
 - p10: از
 - p11: آن

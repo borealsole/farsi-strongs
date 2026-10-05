@@ -99,7 +99,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: فریادهای  → H6963 H7440
-- p2: شادی  → H7440 H3444
+- p2: شادی  → H7440
 - p3: و  → Hc
 - p4: پیروزی  → H3444
 - p5: در
@@ -166,7 +166,7 @@ Persian entries and current tags:
 - p9: خداوند  → H3050
 - p10: را
 - p11: باز  → H2421
-- p12: خواهم_گفت
+- p12: خواهم_گفت  → H5608
 - p13: .
 
 ### Psalms 118:18
@@ -316,7 +316,7 @@ Original words:
 - o7: בְּ/עֵינֵי/נוּ = Hb "in" + H5869 עַיִן "an eye (literally or figuratively)…" [HR/Ncbdc/Sp1cp]
 
 Persian entries and current tags:
-- p1: این
+- p1: این  → H2063
 - p2: را
 - p3: خداوند
 - p4: کرده
@@ -405,7 +405,7 @@ Persian entries and current tags:
 - p1: مبارک است  → H1288
 - p2: آن
 - p3: که
-- p4: به
+- p4: به  → Hb
 - p5: نام  → H8034
 - p6: خداوند  → H3068
 - p7: می‌آید  → H935
@@ -449,7 +449,7 @@ Persian entries and current tags:
 - p10: ما
 - p11: تابان ساخته_است  → H215
 - p12: !
-- p13: قربانی
+- p13: قربانی  → H631
 - p14: عید  → H2282
 - p15: را
 - p16: به  → Hb

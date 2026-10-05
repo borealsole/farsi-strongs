@@ -4,7 +4,7 @@ Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change
 
 ## 14 verse(s) with changes
 
-### Proverbs 20:16: 9 word(s) changed
+### Proverbs 20:16: 8 word(s) changed
 
 Reply line 2.
 
@@ -28,7 +28,7 @@ Original words:
 |  | آن |  |  |
 |  | کس |  |  |
 |  | را |  |  |
-| ✱ | که |  | H3588 כִּי "by implication) very widely…" |
+|  | که | H3588 | H3588 |
 |  | ضامن | H6148 | H6148 |
 |  | غریبه | H2114 | H2114 |
 | ✱ | می‌شود |  | H6148 עָרַב "to braid, i.e. intermix…" |
@@ -88,7 +88,7 @@ Original words:
 |  | می‌شود | [پر می‌شود] H4390 | [پر می‌شود] H4390 |
 |  | . |  |  |
 
-### Proverbs 20:18: 3 word(s) changed
+### Proverbs 20:18: 5 word(s) changed
 
 Reply line 4.
 
@@ -113,12 +113,12 @@ Original words:
 |  | مشورت | H6098 | H6098 |
 |  | بخواه |  |  |
 |  | ؛ |  |  |
-|  | با | Hb | Hb |
+| ✱ | با |  | Hb "in" |
 |  | کسب |  |  |
 | ✱ | هدایت | H6098 עֵצָה "advice; by implication, plan…"; H8458 תַּחְבֻּלָה "only in plural) properly…" | H8458 תַּחְבֻּלָה "only in plural) properly…" |
 |  | به |  |  |
 |  | جنگ | H4421 | H4421 |
-|  | برو | H6213 | H6213 |
+| ✱ | برو |  | H6213 עָשָׂה "to do or make…" |
 |  | . |  |  |
 
 ### Proverbs 20:19: 6 word(s) changed
@@ -141,7 +141,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | سخن‌چین | H7400 רָכִיל "a scandal-monger (as…" | H1980 הָלַךְ "to walk (in a great variety…"; H7400 רָכִיל "a scandal-monger (as…" |
+| ✱ | سخن‌چین | H7400 רָכִיל "a scandal-monger (as…"; H8193 שָׂפָה "the lip (as a natural…" | H1980 הָלַךְ "to walk (in a great variety…"; H7400 רָכִיל "a scandal-monger (as…" |
 |  | ، |  |  |
 | ✱ | رازها | H5475 סוֹד "a session…"; H7400 רָכִיל "a scandal-monger (as…" | H5475 סוֹד "a session…" |
 |  | را |  |  |
@@ -193,7 +193,7 @@ Original words:
 |  | خواهد_شد | [خاموش خواهد_شد] H1846 | [خاموش خواهد_شد] H1846 |
 |  | . |  |  |
 
-### Proverbs 20:21: 7 word(s) changed
+### Proverbs 20:21: 5 word(s) changed
 
 Reply line 7.
 
@@ -213,7 +213,7 @@ Original words:
 | --- | --- | --- | --- |
 |  | اموالی | H5159 | H5159 |
 | ✱ | که | H973 בָּחַל "to loath" |  |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | آغاز | H7223 | H7223 |
 |  | به‌شتاب | H973 | H973 |
 | ✱ | به |  | [به دست آید] H973 בָּחַל "to loath" |
@@ -224,7 +224,7 @@ Original words:
 |  | پایان | H319 | H319 |
 |  | ، |  |  |
 | ✱ | برکت | H5159 נַחֲלָה "properly, something inherited…"; H1288 בָרַךְ "to kneel…" | H1288 בָרַךְ "to kneel…" |
-| ✱ | نخواهد_داشت | H3808 לֹא "not (the simple or abs.…"; H1288 בָרַךְ "to kneel…" | H3808 לֹא "not (the simple or abs.…" |
+|  | نخواهد_داشت | H3808 | H3808 |
 |  | . |  |  |
 
 ### Proverbs 20:22: 3 word(s) changed
@@ -266,7 +266,7 @@ Original words:
 |  | خواهد_بخشید | H3467 | H3467 |
 |  | . |  |  |
 
-### Proverbs 20:23: 4 word(s) changed
+### Proverbs 20:23: 3 word(s) changed
 
 Reply line 9.
 
@@ -295,7 +295,7 @@ Original words:
 |  | ، |  |  |
 |  | ترازوی | H3976 | H3976 |
 |  | ناراست | H4820 | H4820 |
-| ✱ | نیکو | H68 אֶבֶן "a stone"; H2896 טוֹב "good (as an adjective) in the…" | H2896 טוֹב "good (as an adjective) in the…" |
+|  | نیکو | H2896 | H2896 |
 |  | نیست | H3808 | H3808 |
 |  | . |  |  |
 
@@ -320,12 +320,12 @@ Original words:
 | --- | --- | --- | --- |
 |  | قدمهای | H4703 | H4703 |
 | ✱ | انسان | H1397 גֶּבֶר "properly…"; H120 אָדָם "ruddy i.e. a human being (an…" | H1397 גֶּבֶר "properly…" |
-| ✱ | از |  | Hm "from" |
+|  | از | Hm | Hm |
 |  | جانب |  |  |
 |  | خداوند | H3068 | H3068 |
 |  | است |  |  |
 |  | ، |  |  |
-|  | پس | Hc | Hc |
+| ✱ | پس |  | Hc "and" |
 | ✱ | آدمی | H1397 גֶּבֶר "properly…"; H120 אָדָם "ruddy i.e. a human being (an…" | H120 אָדָם "ruddy i.e. a human being (an…" |
 |  | راه | H1870 | H1870 |
 |  | خود |  |  |
@@ -374,7 +374,7 @@ Original words:
 |  | بیندیشد | H1239 | H1239 |
 |  | ! |  |  |
 
-### Proverbs 20:26: 3 word(s) changed
+### Proverbs 20:26: 2 word(s) changed
 
 Reply line 12.
 
@@ -408,7 +408,7 @@ Original words:
 |  | را |  |  |
 |  | بر | H5921 | H5921 |
 |  | آنان |  |  |
-| ✱ | می‌راند |  | H7725 שׁוּב "to turn back (hence…" |
+|  | می‌راند | H7725 | H7725 |
 |  | . |  |  |
 
 ### Proverbs 20:28: 3 word(s) changed

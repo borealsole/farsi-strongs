@@ -1,8 +1,10 @@
 # Check of 20_Proverbs_012.001-012.014.md
 
-Generated 2026-10-04 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
-## 14 verse(s) with changes
+No change from the current tags (will be skipped): Proverbs 12:5.
+
+## 13 verse(s) with changes
 
 ### Proverbs 12:1: 2 word(s) changed
 
@@ -159,36 +161,6 @@ Original words:
 |  | استخوانهایش | H6106 | H6106 |
 |  | . |  |  |
 
-### Proverbs 12:5: 1 word(s) changed
-
-Reply line 6.
-
-Original: מַחְשְׁבוֹת צַדִּיקִים מִשְׁפָּט תַּחְבֻּלוֹת רְשָׁעִים מִרְמָה
-
-Persian: تدبیرهای پارسایان، عدالت است، مشورتهای شریران، فریب.
-
-Original words:
-- o1: מַחְשְׁבוֹת = H4284 מַחֲשָׁבָה "a contrivance, i.e. (concretely) a texture…" [HNcfpc]
-- o2: צַדִּיקִים = H6662 צַדִּיק "just" [HAampa]
-- o3: מִשְׁפָּט = H4941 מִשְׁפָּט "properly…" [HNcmsa]
-- o4: תַּחְבֻּלוֹת = H8458 תַּחְבֻּלָה "only in plural) properly…" [HNcfpc]
-- o5: רְשָׁעִים = H7563 רָשָׁע "morally wrong…" [HAampa]
-- o6: מִרְמָה = H4820 מִרְמָה "fraud" [HNcfsa]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | تدبیرهای | H4284 | H4284 |
-|  | پارسایان | H6662 | H6662 |
-|  | ، |  |  |
-| ✱ | عدالت | H4941 מִשְׁפָּט "properly…"; H4820 מִרְמָה "fraud" | H4941 מִשְׁפָּט "properly…" |
-|  | است |  |  |
-|  | ، |  |  |
-|  | مشورتهای | H8458 | H8458 |
-|  | شریران | H7563 | H7563 |
-|  | ، |  |  |
-|  | فریب | H4820 | H4820 |
-|  | . |  |  |
-
 ### Proverbs 12:6: 3 word(s) changed
 
 Reply line 7.
@@ -255,7 +227,7 @@ Original words:
 | ✱ | می‌ماند |  | [برقرار می‌ماند] H5975 עָמַד "to stand…" |
 |  | . |  |  |
 
-### Proverbs 12:8: 5 word(s) changed
+### Proverbs 12:8: 4 word(s) changed
 
 Reply line 9.
 
@@ -281,7 +253,7 @@ Original words:
 |  | عقلش | H7922 | H7922 |
 |  | می‌ستایند | H1984 | H1984 |
 |  | ، |  |  |
-| ✱ | اما |  | Hc "and" |
+|  | اما | Hc | Hc |
 | ✱ | کج‌دلان | H5753 עָוָה "to crook…" | H5753 עָוָה "to crook…"; H3820 לֵב "the heart…" |
 | ✱ | خوار |  | [خوار شمرده_می‌شوند] H1961 הָיָה "to exist, i.e. be or become…"; Hl "to"; H937 בּוּז "disrespect" |
 | ✱ | شمرده_می‌شوند | H937 בּוּז "disrespect" | [خوار شمرده_می‌شوند] H1961 הָיָה "to exist, i.e. be or become…"; Hl "to"; H937 בּוּז "disrespect" |
@@ -348,7 +320,7 @@ Original words:
 | --- | --- | --- | --- |
 |  | پارسا | H6662 | H6662 |
 | ✱ | در |  | [در فکر] H3045 יָדַע "to know (properly…" |
-| ✱ | فکر | H7563 רָשָׁע "morally wrong…" | [در فکر] H3045 יָדַע "to know (properly…" |
+| ✱ | فکر |  | [در فکر] H3045 יָדַע "to know (properly…" |
 | ✱ | آسایش |  | H5315 נֶפֶשׁ "properly…" |
 | ✱ | چارپایان | H5315 נֶפֶשׁ "properly…"; H929 בְּהֵמָה "properly, a dumb beast…" | H929 בְּהֵמָה "properly, a dumb beast…" |
 |  | خود |  |  |
@@ -364,7 +336,7 @@ Original words:
 |  | است |  |  |
 |  | . |  |  |
 
-### Proverbs 12:11: 11 word(s) changed
+### Proverbs 12:11: 8 word(s) changed
 
 Reply line 12.
 
@@ -386,15 +358,15 @@ Original words:
 | --- | --- | --- | --- |
 |  | آن |  |  |
 | ✱ | که | H5647 עָבַד "to work (in any sense)…" |  |
-| ✱ | بر | H7291 רָדַף "to run after (usually with…" |  |
+|  | بر |  |  |
 |  | زمین | H127 | H127 |
 |  | خود |  |  |
 |  | کار | [کار کند] H5647 | [کار کند] H5647 |
 |  | کند | [کار کند] H5647 | [کار کند] H5647 |
 |  | ، |  |  |
 |  | نانِ | H3899 | H3899 |
-| ✱ | سیر | H7646 שָׂבַע "to sate…"; H7386 רֵיק "empty; figuratively, worthless" | [سیر خواهد_خورد] H7646 שָׂבַע "to sate…" |
-| ✱ | خواهد_خورد |  | [سیر خواهد_خورد] H7646 שָׂבַע "to sate…" |
+|  | سیر | [سیر خواهد_خورد] H7646 | [سیر خواهد_خورد] H7646 |
+|  | خواهد_خورد | [سیر خواهد_خورد] H7646 | [سیر خواهد_خورد] H7646 |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
 | ✱ | کم‌عقل | [کم‌عقل است] H2638 חָסֵר "lacking; hence, without" | [کم‌عقل است] H2638 חָסֵר "lacking; hence, without"; H3820 לֵב "the heart…" |
@@ -407,7 +379,7 @@ Original words:
 | ✱ | می‌دود | H7386 רֵיק "empty; figuratively, worthless" | H7291 רָדַף "to run after (usually with…" |
 |  | . |  |  |
 
-### Proverbs 12:12: 7 word(s) changed
+### Proverbs 12:12: 6 word(s) changed
 
 Reply line 13.
 
@@ -426,7 +398,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | شریران | H2530 חָמַד "to delight in"; H7563 רָשָׁע "morally wrong…"; H4685 מָצוֹד "a net (for capturing animals…" | H7563 רָשָׁע "morally wrong…" |
+| ✱ | شریران | H2530 חָמַד "to delight in" | H7563 רָשָׁע "morally wrong…" |
 |  | به |  |  |
 | ✱ | مالِ | H4685 מָצוֹד "a net (for capturing animals…" | [مالِ غصبی] H4685 מָצוֹד "a net (for capturing animals…" |
 | ✱ | غصبی |  | [مالِ غصبی] H4685 מָצוֹד "a net (for capturing animals…" |
@@ -437,7 +409,7 @@ Original words:
 | ✱ | طمع | [طمع دارند] H2530 חָמַד "to delight in" | [چشم طمع دارند] H2530 חָמַד "to delight in" |
 | ✱ | دارند | [طمع دارند] H2530 חָמַד "to delight in" | [چشم طمع دارند] H2530 חָמַד "to delight in" |
 |  | ، |  |  |
-| ✱ | اما |  | Hc "and" |
+|  | اما | Hc | Hc |
 |  | ریشۀ | H8328 | H8328 |
 |  | پارسایان | H6662 | H6662 |
 |  | میوۀ |  |  |
@@ -446,7 +418,7 @@ Original words:
 |  | می‌دهد | H5414 | H5414 |
 |  | . |  |  |
 
-### Proverbs 12:13: 4 word(s) changed
+### Proverbs 12:13: 5 word(s) changed
 
 Reply line 14.
 
@@ -470,7 +442,7 @@ Original words:
 | ✱ | در |  | Hb "in" |
 | ✱ | دام | H8193 שָׂפָה "the lip (as a natural…"; H4170 מוֹקֵשׁ "a noose (for catching…" | H4170 מוֹקֵשׁ "a noose (for catching…" |
 | ✱ | زبان |  | H8193 שָׂפָה "the lip (as a natural…" |
-|  | عِصیانگر | H6588 | H6588 |
+| ✱ | عِصیانگر |  | H6588 פֶּשַׁע "a revolt (national…" |
 |  | خود |  |  |
 | ✱ | گرفتار | H4170 מוֹקֵשׁ "a noose (for catching…" |  |
 |  | می‌آید |  |  |

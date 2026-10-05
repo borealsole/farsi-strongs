@@ -199,8 +199,9 @@ Persian entries and current tags:
 - p50: تا
 - p51: نزد  → H413
 - p52: ما
-- p53: گِرد آیند  → H6908
-- p54: .
+- p53: گِرد  → H6908
+- p54: آیند
+- p55: .
 
 ### I Chronicles 13:3
 
@@ -270,7 +271,7 @@ Persian entries and current tags:
 - p9: زیرا  → H3588
 - p10: این
 - p11: امر  → H1697
-- p12: در
+- p12: در  → Hb
 - p13: نظر  → H5869
 - p14: تمامی  → H3605
 - p15: قوم  → H5971
@@ -315,7 +316,7 @@ Persian entries and current tags:
 - p11: تا  → H5704
 - p12: لِبوحَمات  → H935 H2574
 - p13: گرد
-- p14: آورد
+- p14: آورد  → H6950
 - p15: ،
 - p16: تا
 - p17: صندوق  → H727
@@ -368,7 +369,7 @@ Persian entries and current tags:
 - p11: قَریه‌یِعاریم  → H7157
 - p12: که  → H834
 - p13: متعلق
-- p14: به  → Hl
+- p14: به
 - p15: یهوداست  → H3063
 - p16: ،
 - p17: برآمدند  → H5927
@@ -393,8 +394,9 @@ Persian entries and current tags:
 - p36: بر  → H3427
 - p37: روی
 - p38: صندوق  → H727
-- p39: جلوس می‌کند  → H3427
-- p40: .
+- p39: جلوس  → H3427 H3742
+- p40: می‌کند  → H3427
+- p41: .
 
 ### I Chronicles 13:7
 
@@ -428,7 +430,7 @@ Persian entries and current tags:
 - p9: از  → Hm
 - p10: خانۀ  → H1004
 - p11: اَبیناداب  → H41
-- p12: آوردند  → H7392
+- p12: آوردند
 - p13: .
 - p14: و  → Hc
 - p15: عُزَّه  → H5798
@@ -470,7 +472,7 @@ Persian entries and current tags:
 - p7: قوّتِ  → H5797
 - p8: تمام  → H3605
 - p9: با  → Hb
-- p10: سرود  → H7892
+- p10: سرود  → H7892 H5035
 - p11: و  → Hc
 - p12: چنگ  → H3658 H5035 H4700
 - p13: و  → Hc
@@ -481,7 +483,7 @@ Persian entries and current tags:
 - p18: سنج  → H4700
 - p19: و  → Hc
 - p20: شیپور  → H2689
-- p21: در
+- p21: در  → Hb
 - p22: حضور  → H6440
 - p23: خدا  → H430
 - p24: وجد می‌کردند  → H7832
@@ -566,7 +568,7 @@ Persian entries and current tags:
 - p10: را
 - p11: زد  → H5221
 - p12: ،
-- p13: زیرا  → H5921 H834
+- p13: زیرا  → H834
 - p14: دست  → H3027
 - p15: خود
 - p16: را
@@ -697,7 +699,7 @@ Original words:
 - o15: הַ/גִּתִּי = Hd "the" + H1663 גִּתִּי "a Gittite or inhabitant of Gath" [HTd/Ngmsa]
 
 Persian entries and current tags:
-- p1: پس  → Hc
+- p1: پس
 - p2: داوود  → H1732
 - p3: صندوق  → H727
 - p4: را  → H853
@@ -709,7 +711,7 @@ Persian entries and current tags:
 - p10: نیاورد  → H3808
 - p11: ،
 - p12: بلکه
-- p13: تغییر
+- p13: تغییر  → H5493
 - p14: جهت
 - p15: داده
 - p16: ،
@@ -756,7 +758,7 @@ Persian entries and current tags:
 - p4: خدا  → H430
 - p5: سه  → H7969
 - p6: ماه  → H2320
-- p7: در
+- p7: در  → Hb
 - p8: خانۀ  → H1004
 - p9: عوبیداَدوم  → H5654
 - p10: نزد  → H5973

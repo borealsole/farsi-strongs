@@ -1,6 +1,6 @@
 # Check of 22_Song_of_Solomon_003.001-003.011.md
 
-Generated 2026-10-04 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
 ## 10 verse(s) with changes
 
@@ -47,7 +47,7 @@ Original words:
 |  | نیافتم | H3808 H4672 | H3808 H4672 |
 |  | ! |  |  |
 
-### Song of Solomon 3:2: 10 word(s) changed
+### Song of Solomon 3:2: 9 word(s) changed
 
 Reply line 3.
 
@@ -84,7 +84,7 @@ Original words:
 | ✱ | خواهم_پیمود | H7784 שׁוּק "a street (as run over)" | H5437 סָבַב "to revolve, surround…" |
 |  | ، |  |  |
 | ✱ | و | Hc "and" |  |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | هر |  |  |
 | ✱ | کوی | H7339 רְחֹב "a width…" | H7784 שׁוּק "a street (as run over)" |
 | ✱ | و |  | Hc "and" |
@@ -177,7 +177,7 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | هنوز |  |  |
-| ✱ | از | H5674 עָבַר "to cross over…" | Hm "from" |
+| ✱ | از |  | Hm "from" |
 |  | ایشان |  |  |
 |  | چندان | H4592 | H4592 |
 | ✱ | نگذشته_بودم | Hs "which" | H5674 עָבַר "to cross over…" |
@@ -248,7 +248,7 @@ Original words:
 |  | شما |  |  |
 |  | را | H853 | H853 |
 |  | به | Hb | Hb |
-|  | غزالها | H6643 | H6643 |
+| ✱ | غزالها | H6643 צְבִי "splendor (as conspicuous)…"; H7704 שָׂדֶה "a field (as flat)" | H6643 צְבִי "splendor (as conspicuous)…" |
 |  | و | H176 | H176 |
 |  | آهوانِ | H355 | H355 |
 |  | صحرا | H7704 | H7704 |
@@ -261,13 +261,13 @@ Original words:
 | ✱ | سیر | H5782 עוּר "to wake (literally or…" | [سیر نگشته] Hs "which"; H2654 חָפֵץ "properly, to incline to…" |
 | ✱ | نگشته | H518 אִם "used very widely as…" | [سیر نگشته] Hs "which"; H2654 חָפֵץ "properly, to incline to…" |
 |  | ، |  |  |
-| ✱ | زحمت | H2654 חָפֵץ "properly, to incline to…" | [زحمت مرسانید] H518 אִם "used very widely as…"; H5782 עוּר "to wake (literally or…" |
-| ✱ | مرسانید |  | [زحمت مرسانید] H518 אִם "used very widely as…"; H5782 עוּר "to wake (literally or…" |
-| ✱ | و | H176 אוֹ "desire (and so probably in…"; Hc "and" | Hc "and" |
+| ✱ | زحمت | H5782 עוּר "to wake (literally or…"; H2654 חָפֵץ "properly, to incline to…" | [زحمت مرسانید] H518 אִם "used very widely as…"; H5782 עוּר "to wake (literally or…" |
+| ✱ | مرسانید | H5782 עוּר "to wake (literally or…" | [زحمت مرسانید] H518 אִם "used very widely as…"; H5782 עוּר "to wake (literally or…" |
+|  | و | Hc | Hc |
 | ✱ | بازمدارید | H5782 עוּר "to wake (literally or…" | H518 אִם "used very widely as…"; H5782 עוּר "to wake (literally or…" |
 |  | ! |  |  |
 
-### Song of Solomon 3:6: 6 word(s) changed
+### Song of Solomon 3:6: 4 word(s) changed
 
 Reply line 7.
 
@@ -293,17 +293,17 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | این | H2063 | H2063 |
-| ✱ | کیست |  | H4310 מִי "who? (occasionally…" |
+|  | کیست | H4310 | H4310 |
 | ✱ | که | H5927 עָלָה "to ascend…" |  |
 |  | همچون | Hk | Hk |
 |  | ستونی | H8490 | H8490 |
 |  | از |  |  |
 |  | دود | H6227 | H6227 |
-| ✱ | از |  | H4480 מִן "properly, a part of…" |
+|  | از | H4480 | H4480 |
 |  | بیابان | H4057 | H4057 |
 |  | برمی‌آید | H5927 | H5927 |
 |  | ؟ |  |  |
-| ✱ | که | H5927 עָלָה "to ascend…" |  |
+|  | که |  |  |
 |  | به |  |  |
 |  | مُر | H4753 | H4753 |
 |  | و | Hc | Hc |
@@ -311,7 +311,7 @@ Original words:
 |  | معطّر | [معطّر است] H6999 | [معطّر است] H6999 |
 |  | است | [معطّر است] H6999 | [معطّر است] H6999 |
 |  | ، |  |  |
-|  | و |  |  |
+| ✱ | و | Hc "and" |  |
 | ✱ | به |  | Hm "from" |
 |  | عطریاتِ | H81 | H81 |
 |  | بازرگانان | H7402 | H7402 |
@@ -361,7 +361,7 @@ Original words:
 |  | شب | H3915 | H3915 |
 |  | . |  |  |
 
-### Song of Solomon 3:9: 2 word(s) changed
+### Song of Solomon 3:9: 5 word(s) changed
 
 Reply line 9.
 
@@ -380,11 +380,11 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | سلیمانِ | H8010 | H8010 |
-| ✱ | پادشاه | H4428 מֶלֶךְ "a king"; H8010 שְׁלֹמֹה "Shelomah, David's successor" | H4428 מֶלֶךְ "a king" |
+| ✱ | سلیمانِ | [سلیمانِ پادشاه] H8010 שְׁלֹמֹה "Shelomah, David's successor" | H8010 שְׁלֹמֹה "Shelomah, David's successor" |
+| ✱ | پادشاه | [سلیمانِ پادشاه] H8010 שְׁלֹמֹה "Shelomah, David's successor" | H4428 מֶלֶךְ "a king" |
 |  | ، |  |  |
-|  | تختِ | [تختِ روانی] H668 | [تختِ روانی] H668 |
-|  | روانی | [تختِ روانی] H668 | [تختِ روانی] H668 |
+| ✱ | تختِ |  | [تختِ روانی] H668 אַפִּרְיוֹן "a palanquin" |
+| ✱ | روانی | H668 אַפִּרְיוֹן "a palanquin" | [تختِ روانی] H668 אַפִּרְיוֹן "a palanquin" |
 |  | از | Hm | Hm |
 |  | سرو | H6086 | H6086 |
 |  | لبنان | H3844 | H3844 |
@@ -440,10 +440,10 @@ Original words:
 |  | ، |  |  |
 |  | با |  |  |
 |  | عشق | H160 | H160 |
-| ✱ | دوخته_بودند |  | H7528 רָצַף "to tessellate…" |
+| ✱ | دوخته_بودند | H6213 עָשָׂה "to do or make…" | H7528 רָצַף "to tessellate…" |
 |  | ! |  |  |
 
-### Song of Solomon 3:11: 9 word(s) changed
+### Song of Solomon 3:11: 10 word(s) changed
 
 Reply line 11.
 
@@ -475,7 +475,7 @@ Original words:
 |  | صَهیون | H6726 | H6726 |
 |  | ، |  |  |
 | ✱ | بُرون |  | [بُرون آیید] H3318 יָצָא "to go (causatively…" |
-| ✱ | آیید | H3318 יָצָא "to go (causatively…" | [بُرون آیید] H3318 יָצָא "to go (causatively…" |
+| ✱ | آیید |  | [بُرون آیید] H3318 יָצָא "to go (causatively…" |
 |  | و | Hc | Hc |
 | ✱ | بنگرید |  | H7200 רָאָה "to see…" |
 |  | ! |  |  |
@@ -485,18 +485,18 @@ Original words:
 |  | ببینید | H7200 | H7200 |
 |  | ، |  |  |
 |  | با | Hb | Hb |
-|  | تاجی | H5850 | H5850 |
+| ✱ | تاجی | H5850 עֲטָרָה "a crown"; H5849 עָטַר "to encircle (for attack or…" | H5850 עֲטָרָה "a crown" |
 | ✱ | که |  | Hs "which" |
 |  | مادرش | H517 | H517 |
 | ✱ | بر |  | Hl "to" |
-|  | سرش |  |  |
-| ✱ | نهاد |  | H5849 עָטַר "to encircle (for attack or…" |
+| ✱ | سرش | [سرش نهاد] H5849 עָטַר "to encircle (for attack or…" |  |
+| ✱ | نهاد | [سرش نهاد] H5849 עָטַר "to encircle (for attack or…" | H5849 עָטַר "to encircle (for attack or…" |
 |  | ، |  |  |
 | ✱ | در |  | Hb "in" |
 |  | روز | H3117 | H3117 |
 | ✱ | عروسی | H2861 חֲתֻנָּה "a wedding"; H8057 שִׂמְחָה "blithesomeness or glee…" | H2861 חֲתֻנָּה "a wedding" |
 |  | ، |  |  |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | روز | H3117 | H3117 |
 |  | شادیِ | H8057 | H8057 |
 |  | دلش | H3820 | H3820 |

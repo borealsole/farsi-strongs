@@ -126,7 +126,7 @@ Persian entries and current tags:
 - p20: کَروبیان  → H3742
 - p21: بر
 - p22: تخت
-- p23: نشسته‌ای  → H3427
+- p23: نشسته‌ای
 - p24: ،
 - p25: تجلی فرما  → H3313
 - p26: !
@@ -151,7 +151,7 @@ Original words:
 Persian entries and current tags:
 - p1: پیش  → H6440
 - p2: روی  → H6440 H5782
-- p3: اِفرایِم  → H669
+- p3: اِفرایِم  → H669 H4519
 - p4: ،
 - p5: بِنیامین  → H1144
 - p6: و  → Hc
@@ -220,14 +220,13 @@ Persian entries and current tags:
 - p6: ،
 - p7: تا  → H5704
 - p8: چند  → H4970
-- p9: شعله‌های  → H6225
-- p10: خَشمت  → H6225 H5971
-- p11: بر
-- p12: دعاهای  → H8605
-- p13: قومت  → H5971
-- p14: زبانه
-- p15: خواهد_کشید
-- p16: ؟
+- p9: شعله‌های خَشمت  → H6225
+- p10: بر  → Hb
+- p11: دعاهای  → H8605
+- p12: قومت  → H5971
+- p13: زبانه
+- p14: خواهد_کشید
+- p15: ؟
 
 ### Psalms 80:5
 
@@ -246,7 +245,7 @@ Persian entries and current tags:
 - p1: نان  → H3899
 - p2: اشک  → H1832
 - p3: بدیشان
-- p4: خورانیدی
+- p4: خورانیدی  → H398
 - p5: ،
 - p6: و  → Hc
 - p7: جام  → H8248
@@ -361,7 +360,7 @@ Original words:
 - o6: אָרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsa]
 
 Persian entries and current tags:
-- p1: زمین
+- p1: زمین  → H6440
 - p2: را
 - p3: پیش  → H6440
 - p4: روی  → H6437
@@ -369,11 +368,11 @@ Persian entries and current tags:
 - p6: فراخ
 - p7: ساختی
 - p8: ،
-- p9: پس  → Hc
+- p9: پس
 - p10: ریشه  → H8327 H8328
 - p11: گرفت  → H8328
 - p12: و  → Hc
-- p13: زمین  → H776
+- p13: زمین  → H6440 H776
 - p14: را
 - p15: پر  → H4390
 - p16: ساخت  → H6437
@@ -423,7 +422,7 @@ Original words:
 - o7: יוֹנְקוֹתֶי/הָ = H3127 יוֹנֶקֶת "a sprout" [HNcfpc/Sp3fs]
 
 Persian entries and current tags:
-- p1: شاخه‌های  → H7105
+- p1: شاخه‌های  → H7971 H7105
 - p2: خود
 - p3: را
 - p4: تا  → H5704

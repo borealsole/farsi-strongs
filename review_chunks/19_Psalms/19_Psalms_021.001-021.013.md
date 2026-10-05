@@ -103,7 +103,7 @@ Persian entries and current tags:
 - p1: خداوندا  → H3068
 - p2: ،
 - p3: در  → Hb
-- p4: قوّت  → H5797 H3444
+- p4: قوّت  → H5797
 - p5: تو
 - p6: پادشاه  → H4428
 - p7: شادی می‌کند  → H8055
@@ -282,9 +282,8 @@ Persian entries and current tags:
 - p11: حضور  → H6440
 - p12: خویش
 - p13: ،
-- p14: شادمانش  → H8057
-- p15: گردانیده‌ای  → H2302
-- p16: .
+- p14: شادمانش گردانیده‌ای  → H2302
+- p15: .
 
 ### Psalms 21:7
 
@@ -377,7 +376,7 @@ Persian entries and current tags:
 - p8: را
 - p9: چون  → Hk
 - p10: تنور  → H8574
-- p11: آتش  → H784
+- p11: آتش
 - p12: خواهی_ساخت
 - p13: .
 - p14: خداوند  → H3068
@@ -504,7 +503,7 @@ Original words:
 Persian entries and current tags:
 - p1: خداوندا  → H7311 H3068
 - p2: ،
-- p3: در
+- p3: در  → Hb
 - p4: قوّت  → H5797
 - p5: خویش
 - p6: متعال شو  → H7311

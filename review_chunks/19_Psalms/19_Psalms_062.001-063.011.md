@@ -108,7 +108,7 @@ Persian entries and current tags:
 - p5: من
 - p6: در  → H5921
 - p7: سکوت  → H3038
-- p8: انتظار
+- p8: انتظار  → H4210
 - p9: می‌کشد  → H1747
 - p10: ،
 - p11: زیرا
@@ -172,7 +172,7 @@ Original words:
 - o11: הַ/דְּחוּיָה = Hd "the" + H1760 דָּחָה "to push down" [HTd/Vqsfsa]
 
 Persian entries and current tags:
-- p1: تا  → H5704
+- p1: تا  → H5704 H575
 - p2: به
 - p3: کِی  → H575
 - p4: بر  → H5921
@@ -190,8 +190,8 @@ Persian entries and current tags:
 - p16: دیواری  → H7023 H1447
 - p17: خمیده
 - p18: و
-- p19: حصاری  → H1447 H1760
-- p20: لرزان  → H1760
+- p19: حصاری  → H1760
+- p20: لرزان
 - p21: ؟
 
 ### Psalms 62:4
@@ -213,16 +213,16 @@ Original words:
 - o11: סֶלָה = H5542 סֶלָה "suspension (of music), i.e. pause" [HTj]
 
 Persian entries and current tags:
-- p1: به‌یقین  → H389 H3577
+- p1: به‌یقین  → H389
 - p2: بر
 - p3: آنند
 - p4: که
 - p5: او
 - p6: را
-- p7: از  → Hm
+- p7: از
 - p8: جایگاه بلندش  → H7613
 - p9: سرنگون
-- p10: کنند
+- p10: کنند  → H3289
 - p11: ؛
 - p12: از
 - p13: دروغ  → H3577
@@ -267,7 +267,7 @@ Persian entries and current tags:
 - p9: در
 - p10: سکوت  → H1826
 - p11: انتظار
-- p12: بکش  → H5315
+- p12: بکش
 - p13: !
 - p14: زیرا  → H3588
 - p15: امید  → H8615
@@ -300,7 +300,7 @@ Persian entries and current tags:
 - p6: من
 - p7: است
 - p8: ؛
-- p9: و  → Hc
+- p9: و
 - p10: دژ  → H4869
 - p11: بلند  → H4131
 - p12: من
@@ -420,14 +420,14 @@ Persian entries and current tags:
 - p11: بیش
 - p12: نی
 - p13: ؛
-- p14: در
+- p14: در  → Hb
 - p15: کفۀ
 - p16: ترازو  → H3976
 - p17: بالا  → H5927
 - p18: می‌روند
 - p19: ،
 - p20: زیرا
-- p21: جملگی  → H3577
+- p21: جملگی
 - p22: با
 - p23: هم  → H3162
 - p24: از  → Hm
@@ -456,15 +456,15 @@ Original words:
 - o12: לֵב = H3820 לֵב "the heart…" [HNcmsa]
 
 Persian entries and current tags:
-- p1: بر  → Hb
+- p1: بر
 - p2: ظلم  → H982 H6233
-- p3: توکل  → H6233
+- p3: توکل  → H982
 - p4: مکنید  → H408
 - p5: و  → Hc
 - p6: به  → Hb
 - p7: مالِ
 - p8: دزدی  → H1498
-- p9: امید
+- p9: امید  → H1891
 - p10: مبندید  → H5107
 - p11: ؛
 - p12: و
@@ -504,7 +504,7 @@ Persian entries and current tags:
 - p6: دو  → H8147
 - p7: بار  → H259
 - p8: شنیده‌ام  → H8085
-- p9: که  → H2098
+- p9: که
 - p10: :
 - p11: قدرت  → H5797
 - p12: از
@@ -587,13 +587,13 @@ Persian entries and current tags:
 - p5: من
 - p6: هستی  → H859
 - p7: ،
-- p8: با  → Hb
+- p8: با
 - p9: تمام
 - p10: وجود  → H4057
 - p11: ،
 - p12: تو
 - p13: را
-- p14: می‌جویم  → H3642
+- p14: می‌جویم
 - p15: ؛
 - p16: جان  → H5315
 - p17: من
@@ -605,7 +605,7 @@ Persian entries and current tags:
 - p23: مشتاق  → H7836 H1320
 - p24: تو
 - p25: ،
-- p26: در
+- p26: در  → Hb
 - p27: زمین  → H776
 - p28: خشک  → H6723
 - p29: و  → Hc
@@ -629,7 +629,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: من
-- p2: در
+- p2: در  → Hb
 - p3: قُدس  → H6944
 - p4: بر
 - p5: تو
@@ -692,16 +692,16 @@ Persian entries and current tags:
 - p3: زنده‌ام  → H2416
 - p4: تو
 - p5: را
-- p6: متبارک خواهم_خواند  → H1288
-- p7: ،
-- p8: و
-- p9: در
-- p10: نام  → H8034
-- p11: تو
-- p12: دستهایم  → H3709
-- p13: را
-- p14: بر
-- p15: خواهم_افراشت  → H5375
+- p6: متبارک  → H1288
+- p7: خواهم_خواند
+- p8: ،
+- p9: و
+- p10: در  → Hb
+- p11: نام  → H8034
+- p12: تو
+- p13: دستهایم  → H3709
+- p14: را
+- p15: بر خواهم_افراشت  → H5375
 - p16: .
 
 ### Psalms 63:5
@@ -724,7 +724,7 @@ Persian entries and current tags:
 - p1: جان  → H5315
 - p2: من
 - p3: سیر خواهد_شد  → H7646
-- p4: چنانکه
+- p4: چنانکه  → H3644
 - p5: از
 - p6: مغز  → H2459
 - p7: و  → Hc
@@ -734,7 +734,7 @@ Persian entries and current tags:
 - p11: دهانم  → H6310
 - p12: با
 - p13: لبهایی  → H8193 H7445
-- p14: شادمان  → H7646 H7445
+- p14: شادمان  → H7445
 - p15: تو
 - p16: را
 - p17: خواهد_ستود  → H1984
@@ -763,7 +763,7 @@ Persian entries and current tags:
 - p6: یاد می‌کنم  → H2142
 - p7: ؛
 - p8: و
-- p9: در
+- p9: در  → Hb
 - p10: پاسهای شب  → H821
 - p11: به
 - p12: تو
@@ -794,7 +794,7 @@ Persian entries and current tags:
 - p7: تو
 - p8: یاور  → H5833
 - p9: من
-- p10: بوده‌ای
+- p10: بوده‌ای  → H1961
 - p11: .
 
 ### Psalms 63:8
@@ -813,7 +813,7 @@ Original words:
 Persian entries and current tags:
 - p1: جان  → H5315
 - p2: من
-- p3: به  → Hb
+- p3: به  → H310
 - p4: تو
 - p5: چسبیده است  → H1692
 - p6: ،
@@ -839,7 +839,7 @@ Original words:
 - o7: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
 
 Persian entries and current tags:
-- p1: آنان  → H1992
+- p1: آنان
 - p2: که
 - p3: قصد  → H1245
 - p4: جان  → H5315
@@ -849,7 +849,7 @@ Persian entries and current tags:
 - p8: خواهند_شد
 - p9: ،
 - p10: و  → Hc
-- p11: به
+- p11: به  → Hb
 - p12: ژرفای  → H8482
 - p13: زمین  → H776
 - p14: فرو~خواهند
@@ -873,7 +873,7 @@ Original words:
 Persian entries and current tags:
 - p1: به  → H5921
 - p2: دم
-- p3: شمشیر  → H2719 H7776
+- p3: شمشیر  → H7776
 - p4: سپرده_خواهند_شد  → H5064
 - p5: و
 - p6: خوراک
@@ -903,7 +903,7 @@ Original words:
 Persian entries and current tags:
 - p1: اما  → Hc
 - p2: پادشاه  → H4428
-- p3: در
+- p3: در  → Hb
 - p4: خدا  → H430
 - p5: شادی خواهد_کرد  → H8055
 - p6: ،

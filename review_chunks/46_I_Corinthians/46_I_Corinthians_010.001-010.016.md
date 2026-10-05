@@ -200,7 +200,7 @@ Persian entries and current tags:
 - p10: آن
 - p11: صخرۀ  → G4073
 - p12: روحانی  → G4152
-- p13: می‌نوشیدند  → G4095
+- p13: می‌نوشیدند  → G4095 G190
 - p14: که
 - p15: از  → G1537
 - p16: پِی می‌آمد  → G190
@@ -342,7 +342,7 @@ Persian entries and current tags:
 - p16: «
 - p17: قوم  → G2992
 - p18: به
-- p19: خوردن  → G5315
+- p19: خوردن  → G5315 G4095
 - p20: و  → G2532
 - p21: نوشیدن  → G4095
 - p22: نشستند  → G2523
@@ -427,7 +427,7 @@ Original words:
 Persian entries and current tags:
 - p1: و
 - p2: نه  → G3366
-- p3: مسیح
+- p3: مسیح  → G3789
 - p4: را
 - p5: بیازماییم  → G1598
 - p6: ،
@@ -474,10 +474,9 @@ Persian entries and current tags:
 - p10: ایشان  → G846
 - p11: کردند  → G1111
 - p12: و  → G2532
-- p13: هلاک‌کننده  → G3644
-- p14: هلاکشان  → G622 G3644
-- p15: ساخت
-- p16: .
+- p13: هلاک‌کننده هلاکشان  → G3644
+- p14: ساخت
+- p15: .
 
 ### I Corinthians 10:11
 
@@ -504,7 +503,7 @@ Original words:
 - o17: κατήντηκεν. = G2658 καταντάω "attain, come" [V-RAI-3S]
 
 Persian entries and current tags:
-- p1: این
+- p1: این  → G3778
 - p2: امور
 - p3: چون  → G1161
 - p4: نمونه  → G5179
@@ -517,7 +516,7 @@ Persian entries and current tags:
 - p11: تا
 - p12: عبرتی  → G3559
 - p13: باشد
-- p14: برای  → G4314
+- p14: برای
 - p15: ما  → G2249
 - p16: که
 - p17: در
@@ -741,7 +740,7 @@ Persian entries and current tags:
 - p21: شریک شدن در  → G2842
 - p22: بدن  → G4983
 - p23: مسیح  → G5547
-- p24: نیست  → G1510
+- p24: نیست  → G3780 G1510
 - p25: ؟
 
 ## Neighbouring verses (context only, not for review)

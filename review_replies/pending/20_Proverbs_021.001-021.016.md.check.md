@@ -4,7 +4,7 @@ Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change
 
 ## 15 verse(s) with changes
 
-### Proverbs 21:1: 3 word(s) changed
+### Proverbs 21:1: 5 word(s) changed
 
 Reply line 2.
 
@@ -39,10 +39,10 @@ Original words:
 |  | همچون |  |  |
 |  | جریان | H6388 | H6388 |
 |  | آب | H4325 | H4325 |
-|  | به | H5921 | H5921 |
+| ✱ | به |  | H5921 עַל "above, over, upon…" |
 |  | هر | H3605 | H3605 |
-| ✱ | جا | H3605 כֹּל "properly, the whole…"; H834 אֲשֶׁר "who, which, what, that…" |  |
-|  | که | H834 | H834 |
+| ✱ | جا | H5921 עַל "above, over, upon…"; H3605 כֹּל "properly, the whole…"; H834 אֲשֶׁר "who, which, what, that…" |  |
+| ✱ | که |  | H834 אֲשֶׁר "who, which, what, that…" |
 |  | بخواهد | H2654 | H2654 |
 | ✱ | هدایت |  | [هدایت می‌کند] H5186 נָטָה "to stretch or spread out…" |
 | ✱ | می‌کند |  | [هدایت می‌کند] H5186 נָטָה "to stretch or spread out…" |
@@ -81,7 +81,7 @@ Original words:
 | ✱ | عدالت | H4941 מִשְׁפָּט "properly…"; H2077 זֶבַח "properly, a slaughter…" | H4941 מִשְׁפָּט "properly…" |
 |  | . |  |  |
 
-### Proverbs 21:4: 4 word(s) changed
+### Proverbs 21:4: 5 word(s) changed
 
 Reply line 4.
 
@@ -102,7 +102,7 @@ Original words:
 | --- | --- | --- | --- |
 | ✱ | چشمان | H7312 רוּם "literally) elevation or…"; H5869 עַיִן "an eye (literally or…" | H5869 עַיִן "an eye (literally or…" |
 |  | متکبر | H7312 | H7312 |
-|  | و | Hc | Hc |
+| ✱ | و |  | Hc "and" |
 |  | دل | H3820 | H3820 |
 | ✱ | مغرور | H7312 רוּם "literally) elevation or…"; H7342 רָחָב "roomy…" | H7342 רָחָב "roomy…" |
 |  | ، |  |  |
@@ -187,7 +187,7 @@ Original words:
 |  | مرگ | H4194 | H4194 |
 |  | . |  |  |
 
-### Proverbs 21:7: 5 word(s) changed
+### Proverbs 21:7: 4 word(s) changed
 
 Reply line 7.
 
@@ -212,7 +212,7 @@ Original words:
 |  | گریبان | H1641 | H1641 |
 |  | خودشان |  |  |
 |  | را |  |  |
-| ✱ | می‌گیرد |  | H1641 גָּרַר "to drag off roughly…" |
+|  | می‌گیرد | H1641 | H1641 |
 |  | ، |  |  |
 |  | زیرا | H3588 | H3588 |
 | ✱ | که | H3985 מָאֵן "to refuse" |  |
@@ -277,20 +277,20 @@ Original words:
 |  | سکونت | H3427 | H3427 |
 |  | در | H5921 | H5921 |
 |  | کُنج | H6438 | H6438 |
-|  | بام | H1406 | H1406 |
+| ✱ | بام |  | H1406 גָּג "a roof…" |
 |  | ، |  |  |
 | ✱ | بِه |  | H2896 טוֹב "good (as an adjective) in the…" |
 |  | از | Hm | Hm |
 | ✱ | زندگی | H3427 יָשַׁב "properly…" |  |
 |  | زیر |  |  |
 | ✱ | یک |  | H2267 חֶבֶר "a society; also a spell" |
-| ✱ | سقف | H6438 פִּנָּה "an angle…"; H1004 בַּיִת "a house (in the greatest…"; H2267 חֶבֶר "a society; also a spell" | H1004 בַּיִת "a house (in the greatest…" |
+| ✱ | سقف | H6438 פִּנָּה "an angle…"; H1004 בַּיִת "a house (in the greatest…" | H1004 בַּיִת "a house (in the greatest…" |
 |  | با |  |  |
 |  | زن | H802 | H802 |
-| ✱ | ستیزه‌جو | H4079 מִדְיָן "a contest or quarrel"; H2267 חֶבֶר "a society; also a spell" | H4079 מִדְיָן "a contest or quarrel" |
+|  | ستیزه‌جو | H4079 | H4079 |
 |  | . |  |  |
 
-### Proverbs 21:10: 2 word(s) changed
+### Proverbs 21:10: 3 word(s) changed
 
 Reply line 10.
 
@@ -314,7 +314,7 @@ Original words:
 |  | مرد |  |  |
 |  | شریر | H7563 | H7563 |
 |  | مشتاق | H183 | H183 |
-|  | شرارت | H7451 | H7451 |
+| ✱ | شرارت | H7563 רָשָׁע "morally wrong…"; H7451 רַע "bad or (as noun) evil…" | H7451 רַע "bad or (as noun) evil…" |
 |  | است |  |  |
 |  | ؛ |  |  |
 |  | چشمان | H5869 | H5869 |
@@ -322,7 +322,7 @@ Original words:
 |  | بر |  |  |
 |  | همسایه‌اش | H7453 | H7453 |
 | ✱ | ترحم | H2603 חָנַן "properly…" | [ترحم نمی‌کند] H3808 לֹא "not (the simple or abs.…"; H2603 חָנַן "properly…" |
-| ✱ | نمی‌کند | H183 אָוָה "to wish for" | [ترحم نمی‌کند] H3808 לֹא "not (the simple or abs.…"; H2603 חָנַן "properly…" |
+| ✱ | نمی‌کند | H183 אָוָה "to wish for"; H3808 לֹא "not (the simple or abs.…" | [ترحم نمی‌کند] H3808 לֹא "not (the simple or abs.…"; H2603 חָנַן "properly…" |
 |  | . |  |  |
 
 ### Proverbs 21:11: 5 word(s) changed
@@ -362,9 +362,9 @@ Original words:
 |  | ، |  |  |
 |  | معرفت | H1847 | H1847 |
 |  | را |  |  |
-| ✱ | به |  | [به دست می‌آورد] H3947 לָקַח "to take (in the widest…" |
+| ✱ | به | Hl "to" | [به دست می‌آورد] H3947 לָקַח "to take (in the widest…" |
 | ✱ | دست |  | [به دست می‌آورد] H3947 לָקַח "to take (in the widest…" |
-| ✱ | می‌آورد |  | [به دست می‌آورد] H3947 לָקַח "to take (in the widest…" |
+| ✱ | می‌آورد | H3947 לָקַח "to take (in the widest…" | [به دست می‌آورد] H3947 לָקַח "to take (in the widest…" |
 |  | . |  |  |
 
 ### Proverbs 21:12: 7 word(s) changed
@@ -439,15 +439,15 @@ Original words:
 |  | ، |  |  |
 | ✱ | خود |  | H1931 הוּא "he (she or it)…" |
 |  | نیز | H1571 | H1571 |
-| ✱ | فریاد | H2201 זַעַק "a shriek or outcry"; H7121 קָרָא "to call out to (i.e. properly…" | [فریاد بر خواهد_آورد] H7121 קָרָא "to call out to (i.e. properly…" |
+| ✱ | فریاد | H2201 זַעַק "a shriek or outcry" | [فریاد بر خواهد_آورد] H7121 קָרָא "to call out to (i.e. properly…" |
 | ✱ | بر |  | [فریاد بر خواهد_آورد] H7121 קָרָא "to call out to (i.e. properly…" |
-| ✱ | خواهد_آورد |  | [فریاد بر خواهد_آورد] H7121 קָרָא "to call out to (i.e. properly…" |
+| ✱ | خواهد_آورد | H7121 קָרָא "to call out to (i.e. properly…" | [فریاد بر خواهد_آورد] H7121 קָרָא "to call out to (i.e. properly…" |
 |  | و | Hc | Hc |
 |  | کسی |  |  |
 |  | نخواهد_شنید | H3808 H6030 | H3808 H6030 |
 |  | . |  |  |
 
-### Proverbs 21:14: 9 word(s) changed
+### Proverbs 21:14: 6 word(s) changed
 
 Reply line 14.
 
@@ -468,24 +468,24 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | هدیه‌ای | H4976 | H4976 |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | نهان | H5643 | H5643 |
 |  | ، |  |  |
 | ✱ | خشم | H639 אַף "properly, the nose or nostril…"; H2534 חֵמָה "heat…" | H639 אַף "properly, the nose or nostril…" |
 |  | را |  |  |
 | ✱ | برمی‌گرداند |  | H3711 כָּפָה "properly, to bend…" |
 |  | ، |  |  |
-| ✱ | رشوه‌ای |  | H7810 שַׁחַד "a donation (venal or…" |
+|  | رشوه‌ای | H7810 | H7810 |
 | ✱ | زیر |  | Hb "in" |
-| ✱ | قبا | H7810 שַׁחַד "a donation (venal or…"; H2436 חֵיק "the bosom (literally or…" | H2436 חֵיק "the bosom (literally or…" |
+| ✱ | قبا | H7810 שַׁחַד "a donation (venal or…" | H2436 חֵיק "the bosom (literally or…" |
 |  | ، |  |  |
 | ✱ | غضب | H2534 חֵמָה "heat…"; H5794 עַז "strong, vehement, harsh" | H2534 חֵמָה "heat…" |
-| ✱ | سخت | H2534 חֵמָה "heat…" | H5794 עַז "strong, vehement, harsh" |
+|  | سخت | H5794 | H5794 |
 |  | را |  |  |
-| ✱ | فرو~می‌نشاند | H5794 עַז "strong, vehement, harsh" | H3711 כָּפָה "properly, to bend…" |
+| ✱ | فرو~می‌نشاند |  | H3711 כָּפָה "properly, to bend…" |
 |  | . |  |  |
 
-### Proverbs 21:15: 8 word(s) changed
+### Proverbs 21:15: 7 word(s) changed
 
 Reply line 15.
 
@@ -504,10 +504,10 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | اجرای |  | H6213 עָשָׂה "to do or make…" |
+|  | اجرای | H6213 | H6213 |
 |  | عدالت | H4941 | H4941 |
 |  | ، |  |  |
-| ✱ | پارسایان | H6662 צַדִּיק "just"; H205 אָוֶן "strictly nothingness…" | H6662 צַדִּיק "just" |
+| ✱ | پارسایان | H6662 צַדִּיק "just"; H6466 פָּעַל "to do or make (systematically…"; H205 אָוֶן "strictly nothingness…" | H6662 צַדִּיק "just" |
 |  | را |  |  |
 | ✱ | شادمان | H8057 שִׂמְחָה "blithesomeness or glee…" | [شادمان می‌سازد] H8057 שִׂמְחָה "blithesomeness or glee…" |
 | ✱ | می‌سازد |  | [شادمان می‌سازد] H8057 שִׂמְחָה "blithesomeness or glee…" |
@@ -516,7 +516,7 @@ Original words:
 | ✱ | ظالمان | H4288 מְחִתָּה "properly, a dissolution…"; H6466 פָּעַל "to do or make (systematically…"; H205 אָוֶן "strictly nothingness…" | H6466 פָּעַל "to do or make (systematically…"; H205 אָוֶן "strictly nothingness…" |
 |  | را |  |  |
 | ✱ | به |  | [به وحشت می‌افکند] H4288 מְחִתָּה "properly, a dissolution…" |
-| ✱ | وحشت |  | [به وحشت می‌افکند] H4288 מְחִתָּה "properly, a dissolution…" |
+| ✱ | وحشت | H4288 מְחִתָּה "properly, a dissolution…" | [به وحشت می‌افکند] H4288 מְחִתָּה "properly, a dissolution…" |
 | ✱ | می‌افکند |  | [به وحشت می‌افکند] H4288 מְחִתָּה "properly, a dissolution…" |
 |  | . |  |  |
 

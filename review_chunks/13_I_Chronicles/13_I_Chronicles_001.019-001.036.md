@@ -116,7 +116,7 @@ Persian entries and current tags:
 - p11: ،
 - p12: زیرا  → H3588
 - p13: زمین  → H776
-- p14: در
+- p14: در  → Hb
 - p15: روزگار  → H3117
 - p16: او
 - p17: تقسیم شد  → H6385
@@ -192,7 +192,7 @@ Original words:
 - o6: שְׁבָא = H7614 שְׁבָא "Sheba…" [HNp]
 
 Persian entries and current tags:
-- p1: عوبال  → H5858 H39
+- p1: عوبال  → H5858
 - p2: ،
 - p3: اَبیمائیل  → H39
 - p4: ،
@@ -299,7 +299,7 @@ Persian entries and current tags:
 - p2: اَبرام  → H87
 - p3: که
 - p4: همان  → H1931
-- p5: ابراهیم  → H87 H85
+- p5: ابراهیم  → H85
 - p6: است
 - p7: .
 
@@ -401,7 +401,7 @@ Persian entries and current tags:
 - p4: و  → Hc
 - p5: قِدِمَه  → H6929
 - p6: .
-- p7: اینها
+- p7: اینها  → H428
 - p8: پسران  → H1121
 - p9: اسماعیل  → H3458
 - p10: بودند
@@ -451,7 +451,7 @@ Persian entries and current tags:
 - p18: و  → Hc
 - p19: شواَح  → H7744
 - p20: را  → H853
-- p21: زایید  → H3205
+- p21: زایید
 - p22: .
 - p23: پسران  → H1121
 - p24: یُقشان  → H3370
@@ -495,7 +495,7 @@ Persian entries and current tags:
 - p12: اِلداعَه
 - p13: بودند
 - p14: .
-- p15: اینان  → H3605 H428
+- p15: اینان  → H428
 - p16: همگی
 - p17: پسران  → H1121
 - p18: قِطوره  → H6989
@@ -549,7 +549,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: پسران  → H1121
-- p2: عیسو  → H6215 H464
+- p2: عیسو  → H6215
 - p3: ،
 - p4: اِلیفاز  → H464
 - p5: ،
@@ -585,7 +585,7 @@ Persian entries and current tags:
 - p3: ،
 - p4: تیمان  → H8487
 - p5: ،
-- p6: اومار  → H201 H6825
+- p6: اومار  → H6825
 - p7: ،
 - p8: صِفوا  → H6825
 - p9: ،

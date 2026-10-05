@@ -4,7 +4,7 @@ Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change
 
 ## 14 verse(s) with changes
 
-### Proverbs 29:1: 3 word(s) changed
+### Proverbs 29:1: 4 word(s) changed
 
 Reply line 2.
 
@@ -28,10 +28,10 @@ Original words:
 |  | که |  |  |
 |  | با |  |  |
 |  | وجود |  |  |
-|  | توبیخهای | [توبیخهای بسیار] H8433 | [توبیخهای بسیار] H8433 |
-|  | بسیار | [توبیخهای بسیار] H8433 | [توبیخهای بسیار] H8433 |
-| ✱ | سر |  | H6203 עֹרֶף "the nape or back of the neck…" |
-| ✱ | خم | H6203 עֹרֶף "the nape or back of the neck…" | [خم نمی‌کند] H7185 קָשָׁה "properly, to be dense…" |
+| ✱ | توبیخهای | H8433 תּוֹכֵחָה "chastisement…" | [توبیخهای بسیار] H8433 תּוֹכֵחָה "chastisement…" |
+| ✱ | بسیار | H8433 תּוֹכֵחָה "chastisement…"; H7185 קָשָׁה "properly, to be dense…" | [توبیخهای بسیار] H8433 תּוֹכֵחָה "chastisement…" |
+|  | سر | H6203 | H6203 |
+| ✱ | خم |  | [خم نمی‌کند] H7185 קָשָׁה "properly, to be dense…" |
 | ✱ | نمی‌کند |  | [خم نمی‌کند] H7185 קָשָׁה "properly, to be dense…" |
 |  | ناگهان | H6621 | H6621 |
 |  | خواهد_شکست | H7665 | H7665 |
@@ -119,7 +119,7 @@ Original words:
 | ✱ | می‌دهد | [باد می‌دهد] H6 אָבַד "properly, to wander away…" | [بر باد می‌دهد] H6 אָבַד "properly, to wander away…" |
 |  | . |  |  |
 
-### Proverbs 29:4: 3 word(s) changed
+### Proverbs 29:4: 2 word(s) changed
 
 Reply line 5.
 
@@ -139,7 +139,7 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | پادشاهْ | H4428 | H4428 |
-| ✱ | با |  | Hb "in" |
+|  | با | Hb | Hb |
 |  | عدالت | H4941 | H4941 |
 |  | ، |  |  |
 |  | مملکت | H776 | H776 |
@@ -227,7 +227,7 @@ Original words:
 |  | باشد | [شادمان باشد] H8055 | [شادمان باشد] H8055 |
 |  | . |  |  |
 
-### Proverbs 29:7: 3 word(s) changed
+### Proverbs 29:7: 5 word(s) changed
 
 Reply line 8.
 
@@ -248,7 +248,7 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | پارسا | H6662 | H6662 |
-|  | به |  |  |
+| ✱ | به | H3045 יָדַע "to know (properly…" |  |
 |  | حقوق | H1779 | H1779 |
 |  | بینوایان | H1800 | H1800 |
 | ✱ | توجه | [توجه دارد] H995 בִּין "to separate mentally (or…" | [توجه دارد] H3045 יָדַע "to know (properly…" |
@@ -259,7 +259,7 @@ Original words:
 |  | را |  |  |
 |  | چنین |  |  |
 | ✱ | درکی | H1847 דַּעַת "knowledge" | H995 בִּין "to separate mentally (or…"; H1847 דַּעַת "knowledge" |
-|  | نیست | H3808 | H3808 |
+| ✱ | نیست |  | H3808 לֹא "not (the simple or abs.…" |
 |  | . |  |  |
 
 ### Proverbs 29:8: 5 word(s) changed
@@ -295,7 +295,7 @@ Original words:
 |  | فرو~می‌نشانند | H7725 | H7725 |
 |  | . |  |  |
 
-### Proverbs 29:9: 10 word(s) changed
+### Proverbs 29:9: 11 word(s) changed
 
 Reply line 10.
 
@@ -318,27 +318,27 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | چون |  |  |
-| ✱ | حکیم | H2450 חָכָם "wise, (i.e. intelligent…"; H376 אִישׁ "a man as an individual or a…" | H376 אִישׁ "a man as an individual or a…"; H2450 חָכָם "wise, (i.e. intelligent…" |
+| ✱ | حکیم | H2450 חָכָם "wise, (i.e. intelligent…" | H376 אִישׁ "a man as an individual or a…"; H2450 חָכָם "wise, (i.e. intelligent…" |
 |  | و | Hc | Hc |
-| ✱ | نادان | H2450 חָכָם "wise, (i.e. intelligent…"; H191 אֱוִיל "(figuratively) silly" | H376 אִישׁ "a man as an individual or a…"; H191 אֱוִיל "(figuratively) silly" |
+| ✱ | نادان | H191 אֱוִיל "(figuratively) silly" | H376 אִישׁ "a man as an individual or a…"; H191 אֱוִיל "(figuratively) silly" |
 | ✱ | علیه | H8199 שָׁפַט "to judge…" | H854 אֵת "properly…" |
 |  | یکدیگر |  |  |
 | ✱ | به |  | [به محکمه روند] H8199 שָׁפַט "to judge…" |
 | ✱ | محکمه | H376 אִישׁ "a man as an individual or a…" | [به محکمه روند] H8199 שָׁפַט "to judge…" |
 | ✱ | روند |  | [به محکمه روند] H8199 שָׁפַט "to judge…" |
 |  | ، |  |  |
-|  | دمی |  |  |
+| ✱ | دمی | H191 אֱוִיל "(figuratively) silly" |  |
 | ✱ | برآشفتن | [برآشفتن خواهد_بود] H7264 רָגַז "to quiver (with any violent…"; H7832 שָׂחַק "to laugh (in pleasure or…" | [برآشفتن خواهد_بود] H7264 רָגַז "to quiver (with any violent…" |
 | ✱ | خواهد_بود | [برآشفتن خواهد_بود] H7264 רָגַז "to quiver (with any violent…"; H7832 שָׂחַק "to laugh (in pleasure or…" | [برآشفتن خواهد_بود] H7264 רָגַז "to quiver (with any violent…" |
 |  | و | Hc | Hc |
 |  | دمی |  |  |
-| ✱ | تمسخر | H7264 רָגַז "to quiver (with any violent…"; H5183 נַחַת "a descent, i.e. imposition…" | H7832 שָׂחַק "to laugh (in pleasure or…" |
+| ✱ | تمسخر | H5183 נַחַת "a descent, i.e. imposition…" | H7832 שָׂחַק "to laugh (in pleasure or…" |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
 | ✱ | بی‌حاصل | H369 אַיִן "a non-entity…" | H369 אַיִן "a non-entity…"; H5183 נַחַת "a descent, i.e. imposition…" |
 |  | ! |  |  |
 
-### Proverbs 29:10: 7 word(s) changed
+### Proverbs 29:10: 6 word(s) changed
 
 Reply line 11.
 
@@ -369,7 +369,7 @@ Original words:
 |  | صالحان | H3477 | H3477 |
 | ✱ | در |  | [در پی] H1245 בָּקַשׁ "to search out (by any method…" |
 | ✱ | پی | H1245 בָּקַשׁ "to search out (by any method…" | [در پی] H1245 בָּקַשׁ "to search out (by any method…" |
-| ✱ | سلامت | H3477 יָשָׁר "straight (literally or…" |  |
+|  | سلامت |  |  |
 |  | جان | H5315 | H5315 |
 |  | اویند | H1245 | H1245 |
 |  | . |  |  |
@@ -399,7 +399,7 @@ Original words:
 |  | خود |  |  |
 |  | را |  |  |
 |  | بی‌مهابا |  |  |
-| ✱ | بروز | H268 אָחוֹר "the hinder part…" | [بروز می‌دهد] H3318 יָצָא "to go (causatively…" |
+| ✱ | بروز |  | [بروز می‌دهد] H3318 יָצָא "to go (causatively…" |
 | ✱ | می‌دهد | H3605 כֹּל "properly, the whole…" | [بروز می‌دهد] H3318 יָצָא "to go (causatively…" |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
@@ -409,7 +409,7 @@ Original words:
 |  | بازمی‌دارد | H268 H7623 | H268 H7623 |
 |  | . |  |  |
 
-### Proverbs 29:12: 1 word(s) changed
+### Proverbs 29:12: 3 word(s) changed
 
 Reply line 13.
 
@@ -434,8 +434,8 @@ Original words:
 |  | به | H5921 | H5921 |
 | ✱ | سخنان | H7181 קָשַׁב "to prick up the ears…"; H1697 דָּבָר "a word…"; H8267 שֶׁקֶר "an untruth…" | H1697 דָּבָר "a word…" |
 |  | دروغ | H8267 | H8267 |
-|  | گوش | [گوش سپارد] H7181 | [گوش سپارد] H7181 |
-|  | سپارد | [گوش سپارد] H7181 | [گوش سپارد] H7181 |
+| ✱ | گوش |  | [گوش سپارد] H7181 קָשַׁב "to prick up the ears…" |
+| ✱ | سپارد | H7181 קָשַׁב "to prick up the ears…" | [گوش سپارد] H7181 קָשַׁב "to prick up the ears…" |
 |  | ، |  |  |
 |  | خادمانش | H8334 | H8334 |
 |  | ، |  |  |
@@ -481,7 +481,7 @@ Original words:
 | ✱ | است | H215 אוֹר "to be (causative…" |  |
 |  | . |  |  |
 
-### Proverbs 29:14: 4 word(s) changed
+### Proverbs 29:14: 5 word(s) changed
 
 Reply line 15.
 
@@ -504,7 +504,7 @@ Original words:
 |  | که |  |  |
 | ✱ | بر | H8199 שָׁפַט "to judge…" |  |
 |  | بینوایان | H1800 | H1800 |
-|  | به | Hb | Hb |
+| ✱ | به |  | Hb "in" |
 |  | انصاف | H571 | H571 |
 |  | داوری | [داوری کند] H8199 | [داوری کند] H8199 |
 |  | کند | [داوری کند] H8199 | [داوری کند] H8199 |

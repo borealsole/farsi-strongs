@@ -101,7 +101,7 @@ Persian entries and current tags:
 - p2: مجرمان  → H7563
 - p3: و  → Hc
 - p4: محکوم کردن  → H6663 H7561
-- p5: بی‌گناهان  → H7563 H6662
+- p5: بی‌گناهان  → H6662
 - p6: !
 - p7: خداوند  → H3068
 - p8: از
@@ -131,21 +131,21 @@ Persian entries and current tags:
 - p1: بهای  → H4242
 - p2: خریدِ  → H4242 H7069
 - p3: حکمت  → H2451
-- p4: در
+- p4: در  → Hb
 - p5: دست  → H3027
 - p6: جاهل  → H3684
 - p7: به  → Hl
 - p8: چه  → H4100
-- p9: کار
+- p9: کار  → H3820
 - p10: آید
 - p11: ،
-- p12: چه
+- p12: چه  → H4100
 - p13: او
 - p14: را
 - p15: دل  → H3820
 - p16: برای
 - p17: این  → H369
-- p18: کار  → H3820
+- p18: کار
 - p19: نیست  → H369
 - p20: .
 
@@ -165,7 +165,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: دوست  → H7453
-- p2: در
+- p2: در  → Hb
 - p3: همه  → H3605
 - p4: حال  → H6256
 - p5: محبت می‌کند  → H157
@@ -173,11 +173,10 @@ Persian entries and current tags:
 - p7: و  → Hc
 - p8: برادر  → H251
 - p9: برای  → Hl
-- p10: روز
-- p11: تنگی  → H6869
-- p12: به
-- p13: دنیا آمده_است  → H3205
-- p14: .
+- p10: روز تنگی  → H6869
+- p11: به
+- p12: دنیا آمده_است  → H3205
+- p13: .
 
 ### Proverbs 17:18
 
@@ -199,10 +198,10 @@ Persian entries and current tags:
 - p1: مرد  → H120
 - p2: کم‌عقل  → H2638 H3820
 - p3: دست  → H3709
-- p4: می‌دهد
+- p4: می‌دهد  → H8628
 - p5: و
 - p6: ضامن  → H6148 H6161
-- p7: دیگری
+- p7: دیگری  → H7453
 - p8: می‌شود  → H6148
 - p9: .
 
@@ -264,7 +263,7 @@ Original words:
 - o9: בְּ/רָעָה = Hb "in" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HR/Ncfsa]
 
 Persian entries and current tags:
-- p1: کج‌دِل  → H6141
+- p1: کج‌دِل  → H6141 H2896
 - p2: ،
 - p3: کامروا
 - p4: نخواهد_شد  → H3808
@@ -306,7 +305,7 @@ Persian entries and current tags:
 - p10: فرزندِ
 - p11: ابله  → H5036
 - p12: شادی  → H8055
-- p13: به
+- p13: به  → Hl
 - p14: خود
 - p15: نمی‌بیند  → H3808
 - p16: .
@@ -427,7 +426,7 @@ Persian entries and current tags:
 - p10: و  → Hc
 - p11: مایۀ تلخی  → H4470
 - p12: جانِ  → H3708
-- p13: مادر  → H4470
+- p13: مادر
 - p14: خویش
 - p15: است
 - p16: .
@@ -483,7 +482,7 @@ Persian entries and current tags:
 - p3: زبان  → H561
 - p4: خود
 - p5: را
-- p6: بازمی‌دارد
+- p6: بازمی‌دارد  → H2820
 - p7: صاحب  → H3045
 - p8: معرفت  → H1847 H8394
 - p9: است
@@ -531,7 +530,7 @@ Persian entries and current tags:
 - p16: می‌دارد  → H331
 - p17: ،
 - p18: فهیم  → H995
-- p19: شمرده_می‌شود
+- p19: شمرده_می‌شود  → H2803
 - p20: .
 
 ## Neighbouring verses (context only, not for review)

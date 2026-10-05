@@ -101,13 +101,13 @@ Persian entries and current tags:
 - p2: !
 - p3: خدا  → H410
 - p4: را
-- p5: در
+- p5: در  → Hb
 - p6: قُدسش  → H6944
 - p7: بستایید  → H3050 H1984
 - p8: !
 - p9: او
 - p10: را
-- p11: در
+- p11: در  → Hb
 - p12: فَلَکِ  → H7549
 - p13: پرقدرتش  → H5797
 - p14: بستایید  → H3050 H1984
@@ -156,14 +156,14 @@ Original words:
 Persian entries and current tags:
 - p1: او
 - p2: را
-- p3: با
+- p3: با  → Hb
 - p4: نوای  → H7782
-- p5: کَرِنا  → H8629
+- p5: کَرِنا
 - p6: بستایید  → H1984
 - p7: !
 - p8: او
 - p9: را
-- p10: با
+- p10: با  → Hb
 - p11: چنگ  → H5035 H3658
 - p12: و  → Hc
 - p13: بربط  → H5035 H3658
@@ -218,7 +218,7 @@ Original words:
 Persian entries and current tags:
 - p1: او
 - p2: را
-- p3: با
+- p3: با  → Hb
 - p4: سَنجها  → H6767
 - p5: بستایید  → H1984
 - p6: !
@@ -226,7 +226,7 @@ Persian entries and current tags:
 - p8: را
 - p9: با  → Hb
 - p10: سَنجهای  → H6767
-- p11: بلندآوا  → H8643
+- p11: بلندآوا  → H8088 H8643
 - p12: بستایید  → H1984
 - p13: !
 

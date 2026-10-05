@@ -169,7 +169,7 @@ Persian entries and current tags:
 - p5: ،
 - p6: تمام  → H3605
 - p7: آنچه  → H834
-- p8: در  → H5921
+- p8: در
 - p9: حومۀ
 - p10: اَشدود  → H795
 - p11: بود
@@ -235,7 +235,7 @@ Original words:
 - o4: וְ/שׂוֹכֹה = Hc "and" + H7755 שׂוֹכֹה "Sokoh or Soko, the name of two places in Palestine" [HC/Np]
 
 Persian entries and current tags:
-- p1: در
+- p1: در  → Hb
 - p2: نواحی مرتفع  → H2022
 - p3: :
 - p4: شامیر  → H8069
@@ -261,7 +261,7 @@ Persian entries and current tags:
 - p1: دَنَّه  → H1837
 - p2: ،
 - p3: قَریه‌سَنَّه  → H7158
-- p4: یعنی  → H1931
+- p4: یعنی
 - p5: دِبیر  → H1688
 - p6: ،
 
@@ -369,7 +369,7 @@ Persian entries and current tags:
 - p1: حُمطَه  → H2547
 - p2: ،
 - p3: قَریه‌اَربَع  → H7153
-- p4: یعنی  → H1931
+- p4: یعنی
 - p5: حِبرون  → H2275
 - p6: ،
 - p7: و  → Hc
@@ -581,7 +581,7 @@ Persian entries and current tags:
 - p7: ،
 - p8: که
 - p9: شش  → H8337
-- p10: شهر  → H5892
+- p10: شهر
 - p11: بود
 - p12: با
 - p13: روستاهای  → H2691
@@ -623,20 +623,20 @@ Persian entries and current tags:
 - p7: را  → H853
 - p8: که
 - p9: در
-- p10: اورشلیم  → H3389
+- p10: اورشلیم  → H3389 H2983
 - p11: ساکن بودند  → H3427
 - p12: بیرون براند  → H3423
 - p13: ،
-- p14: پس  → Hc
+- p14: پس
 - p15: آنان
 - p16: تا  → H5704
 - p17: به
 - p18: امروز  → H3117 H2088
-- p19: با
+- p19: با  → H854
 - p20: مردم  → H1121
 - p21: یهودا  → H2983 H3063
-- p22: در
-- p23: اورشلیم  → H3389
+- p22: در  → Hb
+- p23: اورشلیم  → H2983 H3389
 - p24: ساکنند  → H3427
 - p25: .
 

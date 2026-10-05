@@ -107,7 +107,7 @@ Original words:
 - o18: אֲהוֹדְעִנֵּ/הּ = H3046 יְדַע "to know (properly, to ascertain by seeing)…" [AVhi1cs/Sp3ms]
 
 Persian entries and current tags:
-- p1: آنگاه  → H116 Hc
+- p1: آنگاه  → H116
 - p2: دانیال  → H1841
 - p3: در
 - p4: حضور  → H6925
@@ -140,8 +140,9 @@ Persian entries and current tags:
 - p31: را
 - p32: برای
 - p33: او
-- p34: بیان خواهم_کرد  → H3046
-- p35: .
+- p34: بیان
+- p35: خواهم_کرد
+- p36: .
 
 ### Daniel 5:18
 
@@ -162,7 +163,7 @@ Original words:
 - o11: אֲב/וּךְ = H2 אַב "father" [ANcmsc/Sp2ms]
 
 Persian entries and current tags:
-- p1: پادشاها  → H607 H4430
+- p1: پادشاها  → H4430
 - p2: ،
 - p3: خدای  → H426
 - p4: متعال  → H5943
@@ -173,11 +174,12 @@ Persian entries and current tags:
 - p9: و  → Hc
 - p10: عظمت  → H7238 H3367
 - p11: و  → Hc
-- p12: فَرّ  → H3367 H1923
+- p12: فَرّ  → H1923
 - p13: و  → Hc
-- p14: شکوه  → H1923
-- p15: عطا فرمود  → H3052
-- p16: .
+- p14: شکوه  → H3367
+- p15: عطا
+- p16: فرمود  → H3052
+- p17: .
 
 ### Daniel 5:19
 
@@ -232,7 +234,7 @@ Persian entries and current tags:
 - p9: ،
 - p10: تمامی  → H3606
 - p11: قومها  → H5972
-- p12: و
+- p12: و  → H4481
 - p13: ملتها  → H524
 - p14: و  → Hc
 - p15: زبانها  → H3961
@@ -252,7 +254,7 @@ Persian entries and current tags:
 - p29: هر  → H1768
 - p30: که
 - p31: را
-- p32: می‌خواست  → H1934 H6634
+- p32: می‌خواست  → H6634 H1934
 - p33: زنده  → H1934 H2418
 - p34: نگاه
 - p35: می‌داشت  → H1934 H2418
@@ -262,7 +264,7 @@ Persian entries and current tags:
 - p39: را
 - p40: می‌خواست  → H6634 H1934
 - p41: برمی‌افراشت  → H1934 H7313
-- p42: و  → Hc
+- p42: و  → H4481 Hc
 - p43: هر  → H1768
 - p44: که
 - p45: را
@@ -293,12 +295,12 @@ Original words:
 
 Persian entries and current tags:
 - p1: اما  → Hc
-- p2: چون
+- p2: چون  → Hk H1768
 - p3: دلش  → H3825 H7308
 - p4: مغرور  → H7313
 - p5: و  → Hc
 - p6: سخت گردید  → H8631
-- p7: به  → Hl
+- p7: به
 - p8: گونه‌ای
 - p9: که
 - p10: متکبرانه عمل می‌کرد  → H2103
@@ -371,7 +373,7 @@ Persian entries and current tags:
 - p12: و  → Hc
 - p13: در
 - p14: کنار
-- p15: خَران  → H5974
+- p15: خَران
 - p16: وحشی  → H6167
 - p17: سکونت  → H4070
 - p18: گزید
@@ -397,7 +399,7 @@ Persian entries and current tags:
 - p38: متعال  → H5943
 - p39: است
 - p40: که
-- p41: در
+- p41: در  → Hb
 - p42: حکومت  → H4437
 - p43: بشری  → H606
 - p44: حکم  → H7990
@@ -448,7 +450,7 @@ Persian entries and current tags:
 - p14: ،
 - p15: خود
 - p16: را
-- p17: متواضع  → H1113 H8214
+- p17: متواضع  → H8214
 - p18: نساختی  → H3809
 - p19: .
 
@@ -559,7 +561,7 @@ Persian entries and current tags:
 - p57: را
 - p58: که  → H1768
 - p59: نَفَست  → H7313 H5396
-- p60: در
+- p60: در  → Hb
 - p61: دست  → H3028
 - p62: اوست
 - p63: و  → Hc
@@ -625,11 +627,11 @@ Persian entries and current tags:
 - p2: این  → H1836
 - p3: است
 - p4: :
-- p5: مِنِه  → H4484
+- p5: مِنِه
 - p6: ،
 - p7: مِنِه
 - p8: ،
-- p9: ثِقِل  → H8625
+- p9: ثِقِل
 - p10: و  → Hc
 - p11: پَرسین  → H6537
 - p12: .
@@ -685,9 +687,9 @@ Original words:
 - o5: חַסִּיר = H2627 חַסִּיר "deficient" [AAamsa]
 
 Persian entries and current tags:
-- p1: ثِقِل  → H8625
+- p1: ثِقِل
 - p2: :
-- p3: در
+- p3: در  → Hb
 - p4: ترازو  → H3977
 - p5: وزن  → H2627
 - p6: شده  → H8625
@@ -711,7 +713,7 @@ Original words:
 - o6: וּ/פָרָס = Hc "and" + H6540 פָּרַס "Paras (i.e. Persia), an Eastern country…" [AC/Ngmsd]
 
 Persian entries and current tags:
-- p1: پِرِس  → H6537
+- p1: پِرِس
 - p2: :
 - p3: پادشاهی  → H4437
 - p4: تو
@@ -721,7 +723,7 @@ Persian entries and current tags:
 - p8: مادها  → H4076
 - p9: و  → Hc
 - p10: پارس‌ها  → H6540
-- p11: داده_شده_است  → H3052
+- p11: داده_شده_است
 - p12: .
 - p13: »
 
@@ -758,9 +760,9 @@ Persian entries and current tags:
 - p5: ،
 - p6: دانیال  → H1841
 - p7: را
-- p8: به  → Hl
+- p8: به
 - p9: جامۀ  → H2002
-- p10: ارغوان  → H3848 H711
+- p10: ارغوان  → H711
 - p11: پوشانیدند  → H3848
 - p12: و  → Hc
 - p13: طوق
@@ -774,7 +776,7 @@ Persian entries and current tags:
 - p21: دادند
 - p22: که
 - p23: او
-- p24: در
+- p24: در  → Hb
 - p25: مملکت  → H4437
 - p26: حاکم  → H7990
 - p27: سوّم  → H8531
@@ -827,7 +829,7 @@ Persian entries and current tags:
 - p4: که
 - p5: نزدیک
 - p6: به
-- p7: شصت  → H8361 H8648
+- p7: شصت  → H8361
 - p8: و  → Hc
 - p9: دو  → H8361 H8648
 - p10: سال  → H8140

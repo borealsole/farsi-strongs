@@ -1,10 +1,10 @@
 # Check of 22_Song_of_Solomon_001.001-001.017.md
 
-Generated 2026-10-04 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
 ## 17 verse(s) with changes
 
-### Song of Solomon 1:1: 4 word(s) changed
+### Song of Solomon 1:1: 3 word(s) changed
 
 Reply line 2.
 
@@ -21,7 +21,7 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | غزل | H7892 | H7892 |
-| ✱ | غزلها |  | H7892 שִׁיר "a song; abstractly, singing" |
+|  | غزلها | H7892 | H7892 |
 |  | که | H834 | H834 |
 | ✱ | از | Hl "to" | [از آنِ] Hl "to" |
 | ✱ | آنِ | [آنِ سلیمان] H8010 שְׁלֹמֹה "Shelomah, David's successor" | [از آنِ] Hl "to" |
@@ -94,7 +94,7 @@ Original words:
 |  | ! |  |  |
 | ✱ | نامت | H8081 שֶׁמֶן "grease…"; H8034 שֵׁם "an appellation…" | H8034 שֵׁם "an appellation…" |
 |  | همچون |  |  |
-| ✱ | عطریست |  | H8081 שֶׁמֶן "grease…" |
+| ✱ | عطریست | H2896 טוֹב "good (as an adjective) in the…" | H8081 שֶׁמֶן "grease…" |
 |  | ریخته | [ریخته شده] H7324 | [ریخته شده] H7324 |
 |  | شده | [ریخته شده] H7324 | [ریخته شده] H7324 |
 |  | ؛ |  |  |
@@ -106,7 +106,7 @@ Original words:
 |  | تواند | [دلباختۀ تواند] H157 | [دلباختۀ تواند] H157 |
 |  | ! |  |  |
 
-### Song of Solomon 1:4: 7 word(s) changed
+### Song of Solomon 1:4: 8 word(s) changed
 
 Reply line 5.
 
@@ -140,13 +140,13 @@ Original words:
 |  | ؛ |  |  |
 |  | بیا |  |  |
 |  | تا |  |  |
-| ✱ | بدویم |  | H7323 רוּץ "to run (for whatever reason…" |
+| ✱ | بدویم | H2142 זָכַר "properly…" | H7323 רוּץ "to run (for whatever reason…" |
 |  | ! |  |  |
 |  | پادشاه | H4428 | H4428 |
 |  | مرا |  |  |
 |  | به |  |  |
 | ✱ | حجله‌های | H2315 חֶדֶר "an apartment (usually literal)"; H2142 זָכַר "properly…" | H2315 חֶדֶר "an apartment (usually literal)" |
-|  | خویش |  |  |
+| ✱ | خویش | H1730 דּוֹד "figuratively) to love…" |  |
 | ✱ | درآورده | [درآورده است] H935 בּוֹא "to go or come (in a wide…"; H8055 שָׂמַח "probably to brighten up…" | [درآورده است] H935 בּוֹא "to go or come (in a wide…" |
 | ✱ | است | [درآورده است] H935 בּוֹא "to go or come (in a wide…"; H8055 שָׂמַח "probably to brighten up…" | [درآورده است] H935 בּוֹא "to go or come (in a wide…" |
 |  | . |  |  |
@@ -225,8 +225,8 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | بر |  |  |
-| ✱ | سیه‌چِردگی‌ام |  | H7840 שְׁחַרְחֹרֶת "swarthy" |
-| ✱ | خیره | H7840 שְׁחַרְחֹרֶת "swarthy"; H7805 שָׁזַף "to tan (by sunburning)…" | [خیره منگرید] H408 אַל "not (the qualified negation…"; H7200 רָאָה "to see…" |
+| ✱ | سیه‌چِردگی‌ام | H408 אַל "not (the qualified negation…" | H7840 שְׁחַרְחֹרֶת "swarthy" |
+| ✱ | خیره |  | [خیره منگرید] H408 אַל "not (the qualified negation…"; H7200 רָאָה "to see…" |
 | ✱ | منگرید | H7200 רָאָה "to see…" | [خیره منگرید] H408 אַל "not (the qualified negation…"; H7200 רָאָה "to see…" |
 |  | ، |  |  |
 | ✱ | زیرا |  | [زیرا که] Hs "which" |
@@ -317,7 +317,7 @@ Original words:
 | ✱ | باشم |  | H1961 הָיָה "to exist, i.e. be or become…" |
 |  | ؟ |  |  |
 
-### Song of Solomon 1:8: 7 word(s) changed
+### Song of Solomon 1:8: 6 word(s) changed
 
 Reply line 9.
 
@@ -354,7 +354,7 @@ Original words:
 |  | ، |  |  |
 | ✱ | ردِ | H3318 יָצָא "to go (causatively…" | [ردِ پای] H6119 עָקֵב "a heel (as protuberant)…" |
 | ✱ | پای | H6119 עָקֵב "a heel (as protuberant)…" | [ردِ پای] H6119 עָקֵב "a heel (as protuberant)…" |
-| ✱ | گله‌ها | H6629 צֹאן "a collective name for a flock…"; H4908 מִשְׁכָּן "a residence (including a…" | H6629 צֹאן "a collective name for a flock…" |
+|  | گله‌ها | H6629 | H6629 |
 | ✱ | را | H853 אֵת "properly…" |  |
 | ✱ | بگیر |  | H3318 יָצָא "to go (causatively…" |
 |  | و | Hc | Hc |
@@ -462,7 +462,7 @@ Original words:
 |  | باشد |  |  |
 |  | . |  |  |
 
-### Song of Solomon 1:12: 5 word(s) changed
+### Song of Solomon 1:12: 4 word(s) changed
 
 Reply line 13.
 
@@ -481,7 +481,7 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 | ✱ | حینی |  | [حینی که] H5704 עַד "as far (or long, or much) as…"; Hs "which" |
-| ✱ | که |  | [حینی که] H5704 עַד "as far (or long, or much) as…"; Hs "which" |
+| ✱ | که | H5704 עַד "as far (or long, or much) as…" | [حینی که] H5704 עַד "as far (or long, or much) as…"; Hs "which" |
 |  | پادشاه | H4428 | H4428 |
 |  | بر | Hb | Hb |
 |  | سفرۀ | H4524 | H4524 |
@@ -491,7 +491,7 @@ Original words:
 | ✱ | رایحۀ | [رایحۀ عطرِ] H7381 רֵיחַ "odor (as if blown)" | H7381 רֵיחַ "odor (as if blown)" |
 | ✱ | عطرِ | [رایحۀ عطرِ] H7381 רֵיחַ "odor (as if blown)" | H5373 נֵרְדְּ "nard, an aromatic" |
 |  | من |  |  |
-| ✱ | فضا | H5373 נֵרְדְּ "nard, an aromatic" |  |
+|  | فضا |  |  |
 |  | را |  |  |
 |  | آکند | H5414 | H5414 |
 |  | . |  |  |
@@ -525,14 +525,14 @@ Original words:
 |  | ، |  |  |
 |  | که |  |  |
 |  | تمامِ |  |  |
-| ✱ | شب | [شب در] H3885 לוּן "to stop (usually over night)…" |  |
-| ✱ | در | [شب در] H3885 לוּן "to stop (usually over night)…" | [در میان] H996 בֵּין "between (repeated before each…" |
+| ✱ | شب | H3885 לוּן "to stop (usually over night)…" |  |
+| ✱ | در | Hl "to"; H3885 לוּן "to stop (usually over night)…" | [در میان] H996 בֵּין "between (repeated before each…" |
 | ✱ | میان | H996 בֵּין "between (repeated before each…" | [در میان] H996 בֵּין "between (repeated before each…" |
 | ✱ | سینه‌هایم | H6872 צְרוֹר "a parcel (as packed up)…"; H7699 שַׁד "the breast of a woman or…" | H7699 שַׁד "the breast of a woman or…" |
 | ✱ | می‌آرَمَد |  | H3885 לוּן "to stop (usually over night)…" |
 |  | . |  |  |
 
-### Song of Solomon 1:14: 3 word(s) changed
+### Song of Solomon 1:14: 2 word(s) changed
 
 Reply line 15.
 
@@ -557,12 +557,12 @@ Original words:
 |  | همچون |  |  |
 | ✱ | خوشۀ | H811 אֶשְׁכּוֹל "a bunch of grapes or other…"; H3724 כֹּפֶר "properly, a cover…" | H811 אֶשְׁכּוֹל "a bunch of grapes or other…" |
 |  | حناست | H3724 | H3724 |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | تاکستانهای | H3754 | H3754 |
 |  | عِین‌جِدی | H5872 | H5872 |
 |  | ! |  |  |
 
-### Song of Solomon 1:15: 1 word(s) changed
+### Song of Solomon 1:15: 2 word(s) changed
 
 Reply line 16.
 
@@ -586,7 +586,7 @@ Original words:
 |  | زیبایی | H3303 | H3303 |
 |  | ، |  |  |
 |  | ای |  |  |
-|  | نازنین | H7474 | H7474 |
+| ✱ | نازنین |  | H7474 רַעְיָה "a female associate" |
 |  | من |  |  |
 |  | ، |  |  |
 | ✱ | وه |  | H2005 הֵן "lo!…" |
@@ -601,7 +601,7 @@ Original words:
 |  | مانَد |  |  |
 |  | . |  |  |
 
-### Song of Solomon 1:16: 2 word(s) changed
+### Song of Solomon 1:16: 3 word(s) changed
 
 Reply line 17.
 
@@ -630,7 +630,7 @@ Original words:
 |  | من |  |  |
 |  | ، |  |  |
 |  | و |  |  |
-|  | براستی | H637 | H637 |
+| ✱ | براستی |  | H637 אַף "meaning accession (used as an…" |
 |  | دل‌انگیز | H5273 | H5273 |
 |  | ! |  |  |
 | ✱ | سبزه‌های | H6210 עֶרֶשׂ "a couch (properly…" | H7488 רַעֲנָן "verdant; by analogy, new…" |
@@ -655,7 +655,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | سرو | H6982 קוֹרָה "a rafter (forming trenches as…" | [سرو آزاد] H730 אֶרֶז "a cedar tree (from the…" |
+| ✱ | سرو | H6982 קוֹרָה "a rafter (forming trenches as…"; H730 אֶרֶז "a cedar tree (from the…" | [سرو آزاد] H730 אֶרֶז "a cedar tree (from the…" |
 | ✱ | آزاد | H730 אֶרֶז "a cedar tree (from the…" | [سرو آزاد] H730 אֶרֶז "a cedar tree (from the…" |
 |  | است |  |  |
 |  | تیرکهای | H6982 | H6982 |
@@ -663,6 +663,6 @@ Original words:
 |  | ، |  |  |
 | ✱ | صنوبر | H7351 רְחִיט "a panel (as resembling a…" | H1266 בְּרוֹת "the cypress (or some elastic…" |
 |  | است |  |  |
-| ✱ | سقفِ | H7351 רְחִיט "a panel (as resembling a…"; H1266 בְּרוֹת "the cypress (or some elastic…" | H7351 רְחִיט "a panel (as resembling a…" |
+| ✱ | سقفِ | H1266 בְּרוֹת "the cypress (or some elastic…" | H7351 רְחִיט "a panel (as resembling a…" |
 |  | آن |  |  |
 |  | ! |  |  |

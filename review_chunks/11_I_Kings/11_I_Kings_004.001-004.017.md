@@ -98,12 +98,12 @@ Original words:
 Persian entries and current tags:
 - p1: بدین‌گونه
 - p2: ،
-- p3: سلیمانِ  → H4428 H8010
+- p3: سلیمانِ  → H8010
 - p4: پادشاه  → H4428
 - p5: بر  → H5921
 - p6: تمامی  → H3605
 - p7: اسرائیل  → H3478
-- p8: پادشاهی
+- p8: پادشاهی  → H4428
 - p9: می‌کرد
 - p10: ،
 
@@ -191,7 +191,7 @@ Persian entries and current tags:
 - p5: سردار  → H5921
 - p6: لشکر  → H6635
 - p7: ؛
-- p8: صادوق  → H1141 H6659
+- p8: صادوق  → H6659
 - p9: و  → Hc
 - p10: اَبیّاتار  → H54
 - p11: -
@@ -369,7 +369,7 @@ Persian entries and current tags:
 - p1: بِن‌دِقِر  → H1128
 - p2: ،
 - p3: در  → Hb
-- p4: ماقَص  → H4739
+- p4: ماقَص  → H4739 H8169
 - p5: ،
 - p6: شَعَلبیم  → H8169
 - p7: ،
@@ -396,7 +396,7 @@ Original words:
 Persian entries and current tags:
 - p1: بِن‌خِسِد  → H1136
 - p2: ،
-- p3: در
+- p3: در  → Hb
 - p4: اَرُبّوت  → H700
 - p5: ،
 - p6: که
@@ -434,7 +434,7 @@ Persian entries and current tags:
 - p2: ،
 - p3: در
 - p4: تمامی  → H3605
-- p5: نافَت‌دُر  → H5299
+- p5: نافَت‌دُر  → H1756
 - p6: ،
 - p7: که
 - p8: تافَت  → H2955
@@ -544,7 +544,7 @@ Persian entries and current tags:
 - p8: یائیر  → H2971
 - p9: پسر  → H1121
 - p10: مَنَسی  → H4519
-- p11: در
+- p11: در  → Hb
 - p12: جِلعاد  → H1568
 - p13: و
 - p14: منطقۀ  → H2256
@@ -560,7 +560,7 @@ Persian entries and current tags:
 - p24: شصت  → H8346
 - p25: شهر  → H5892
 - p26: بزرگ  → H1419
-- p27: حصاردار
+- p27: حصاردار  → H2346
 - p28: با
 - p29: پشت‌بند‌های  → H1280 H5178
 - p30: برنجین  → H5178
@@ -606,7 +606,7 @@ Original words:
 Persian entries and current tags:
 - p1: اَخیمَعَص  → H290
 - p2: ،
-- p3: در
+- p3: در  → Hb
 - p4: نَفتالی  → H5321
 - p5: ،
 - p6: که

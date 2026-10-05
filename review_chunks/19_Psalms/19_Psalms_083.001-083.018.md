@@ -106,7 +106,7 @@ Persian entries and current tags:
 - p3: خاموش  → H1824 H2790
 - p4: مباش  → H623 H408
 - p5: ؛
-- p6: ای  → H408
+- p6: ای
 - p7: خدا  → H430 H410
 - p8: ،
 - p9: تو
@@ -196,23 +196,21 @@ Persian entries and current tags:
 - p2: :
 - p3: «
 - p4: بیایید  → H3212
-- p5: نابودشان
-- p6: کنیم
-- p7: تا
-- p8: دیگر
-- p9: قومی  → H1471
-- p10: نباشند  → H3808
-- p11: ،
-- p12: و  → Hc
-- p13: تا
-- p14: نام  → H8034
-- p15: اسرائیل  → H3478
-- p16: دیگر  → H5750
-- p17: به
-- p18: یاد  → H2142
-- p19: آورده_نشود  → H3808 H2142
-- p20: .
-- p21: »
+- p5: نابودشان کنیم  → H3582
+- p6: تا
+- p7: دیگر
+- p8: قومی  → H1471
+- p9: نباشند
+- p10: ،
+- p11: و  → Hc
+- p12: تا
+- p13: نام  → H8034
+- p14: اسرائیل  → H3478
+- p15: دیگر  → H5750
+- p16: به
+- p17: یاد آورده_نشود  → H2142
+- p18: .
+- p19: »
 
 ### Psalms 83:5
 
@@ -230,7 +228,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: به
-- p2: یک
+- p2: یک  → H3162
 - p3: دل  → H3820
 - p4: دسیسه می‌چینند  → H3289
 - p5: ،
@@ -311,7 +309,7 @@ Original words:
 Persian entries and current tags:
 - p1: آشور  → H804
 - p2: نیز  → H1571
-- p3: بدیشان  → H5973
+- p3: بدیشان
 - p4: پیوسته_است  → H3867
 - p5: ؛
 - p6: ایشان
@@ -338,7 +336,7 @@ Original words:
 - o7: קִישׁוֹן = H7028 קִישׁוֹן "Kishon, a river of Palestine" [HNp]
 
 Persian entries and current tags:
-- p1: با
+- p1: با  → H6213
 - p2: ایشان
 - p3: همان  → Hk
 - p4: کن
@@ -373,7 +371,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: که
-- p2: در
+- p2: در  → Hb
 - p3: عِین‌دور  → H5874
 - p4: هلاک شدند  → H8045
 - p5: ،
@@ -406,7 +404,7 @@ Persian entries and current tags:
 - p4: عُرِب  → H6159
 - p5: و  → Hc
 - p6: ذِئِب  → H2062
-- p7: بساز  → H7896
+- p7: بساز
 - p8: ،
 - p9: و  → Hc
 - p10: امیرانشان  → H5257
@@ -504,7 +502,7 @@ Persian entries and current tags:
 - p8: کوهها  → H2022
 - p9: را
 - p10: مشتعل  → H3852 H3857
-- p11: می‌سازد
+- p11: می‌سازد  → H3857
 - p12: ،
 
 ### Psalms 83:15
@@ -521,7 +519,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: همچنان  → H3651
-- p2: به
+- p2: به  → Hb
 - p3: تندباد  → H5591
 - p4: خویش
 - p5: تعقیبشان کن  → H7291 H926
@@ -589,7 +587,7 @@ Persian entries and current tags:
 - p10: و  → Hc
 - p11: شرمنده  → H954 H2659
 - p12: و  → Hc
-- p13: هلاک گردند  → H2659 H6
+- p13: هلاک گردند  → H6
 - p14: !
 
 ### Psalms 83:18

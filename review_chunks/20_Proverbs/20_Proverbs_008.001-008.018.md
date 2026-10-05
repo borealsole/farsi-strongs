@@ -187,9 +187,9 @@ Persian entries and current tags:
 - p6: ندا می‌دهم  → H7121
 - p7: ،
 - p8: آوای خویش  → H6963
-- p9: بر
+- p9: بر  → H413
 - p10: همۀ
-- p11: آدمیان  → H120
+- p11: آدمیان  → H1121 H120
 - p12: بلند  → H6963
 - p13: می‌کنم
 - p14: .
@@ -218,7 +218,7 @@ Persian entries and current tags:
 - p8: ای
 - p9: جاهلان  → H3684
 - p10: ،
-- p11: دانادلی  → H995 H3820
+- p11: دانادلی  → H995
 - p12: را
 - p13: به
 - p14: دست
@@ -244,13 +244,13 @@ Persian entries and current tags:
 - p2: ،
 - p3: زیرا  → H3588
 - p4: گفتنیهای  → H5057 H1696
-- p5: ارزنده
+- p5: ارزنده  → H4669
 - p6: دارم
-- p7: و  → Hc
+- p7: و
 - p8: لبانم  → H8193
 - p9: را
 - p10: به  → H4669
-- p11: بیان  → H5057
+- p11: بیان
 - p12: درستیها
 - p13: می‌گشایم  → H8193
 - p14: .
@@ -360,7 +360,7 @@ Original words:
 - o7: נִבְחָר = H977 בָּחַר "properly, to try, i.e. (by implication) select" [HVNrmsa]
 
 Persian entries and current tags:
-- p1: رهنمود  → H3947 H4148
+- p1: رهنمود  → H4148
 - p2: مرا
 - p3: به
 - p4: جای
@@ -372,8 +372,8 @@ Persian entries and current tags:
 - p10: دانش  → H1847
 - p11: را
 - p12: بیش
-- p13: از  → Hm
-- p14: طلای  → H3701
+- p13: از
+- p14: طلای  → H3701 H2742
 - p15: ناب  → H977
 - p16: .
 
@@ -510,7 +510,7 @@ Persian entries and current tags:
 - p9: من  → H589
 - p10: فهم  → H998
 - p11: و
-- p12: قوّت  → H8454 H1369
+- p12: قوّت  → H1369
 - p13: را
 - p14: در
 - p15: اختیار
@@ -531,7 +531,7 @@ Original words:
 - o6: צֶדֶק = H6664 צֶדֶק "the right (natural, moral or legal)…" [HNcmsa]
 
 Persian entries and current tags:
-- p1: به
+- p1: به  → Hb
 - p2: مدد
 - p3: من
 - p4: پادشاهان  → H4428
@@ -569,7 +569,7 @@ Persian entries and current tags:
 - p7: می‌رانند
 - p8: ،
 - p9: و  → Hc
-- p10: نیز
+- p10: نیز  → H3605
 - p11: شریفان  → H5081
 - p12: و
 - p13: جملۀ
@@ -600,12 +600,10 @@ Persian entries and current tags:
 - p8: و  → Hc
 - p9: آنان
 - p10: که
-- p11: مرا
-- p12: به
-- p13: جِدّ بجویند  → H7836
-- p14: ،
-- p15: می‌یابند
-- p16: .
+- p11: مرا به جِدّ بجویند  → H7836
+- p12: ،
+- p13: می‌یابند
+- p14: .
 
 ### Proverbs 8:18
 
@@ -623,7 +621,7 @@ Original words:
 Persian entries and current tags:
 - p1: دولت  → H6239 H1952
 - p2: و  → Hc
-- p3: جلال  → H6239 H3519
+- p3: جلال  → H3519
 - p4: با  → H854
 - p5: من
 - p6: است

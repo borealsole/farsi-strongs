@@ -122,7 +122,7 @@ Persian entries and current tags:
 - p1: «
 - p2: دشمنانمان  → H341
 - p3: جملگی  → H3605
-- p4: دهان  → H6475 H6310
+- p4: دهان  → H6310
 - p5: خویش
 - p6: را
 - p7: بر
@@ -155,7 +155,7 @@ Persian entries and current tags:
 - p8: ،
 - p9: خرابی  → H7612
 - p10: و  → Hc
-- p11: ویرانی  → H7612 H7667
+- p11: ویرانی  → H7667
 - p12: ؛
 
 ### Lamentations 3:48
@@ -183,8 +183,8 @@ Persian entries and current tags:
 - p7: جویهای  → H3381
 - p8: اشک
 - p9: از
-- p10: دیدگانم  → H1323
-- p11: روان
+- p10: دیدگانم  → H5869 H1323
+- p11: روان  → H6388
 - p12: است
 - p13: .
 
@@ -204,7 +204,7 @@ Original words:
 Persian entries and current tags:
 - p1: «
 - p2: چشمانم  → H5869
-- p3: بی‌امان
+- p3: بی‌امان  → H3808
 - p4: اشک  → H1820
 - p5: می‌ریزد  → H5064
 - p6: و  → Hc
@@ -249,9 +249,9 @@ Original words:
 - o6: עִירִ/י = H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HNcfsc/Sp1cs]
 
 Persian entries and current tags:
-- p1: به
-- p2: سبب
-- p3: جملۀ  → H3605
+- p1: به  → Hl
+- p2: سبب  → Hm
+- p3: جملۀ
 - p4: دختران  → H1323
 - p5: شهرم  → H5892
 - p6: ،
@@ -260,7 +260,7 @@ Persian entries and current tags:
 - p9: مرا
 - p10: قرین  → H5315
 - p11: اندوه
-- p12: می‌سازد
+- p12: می‌سازد  → H5953
 - p13: .
 
 ### Lamentations 3:52
@@ -471,7 +471,7 @@ Persian entries and current tags:
 - p1: خداوندا  → H3068
 - p2: ،
 - p3: تو
-- p4: ظلمی  → H5792
+- p4: ظلمی
 - p5: را
 - p6: که
 - p7: بر
@@ -533,7 +533,7 @@ Persian entries and current tags:
 - p2: خداوندا  → H3068
 - p3: ،
 - p4: تو
-- p5: اهانتهای  → H2781 H4284
+- p5: اهانتهای  → H2781
 - p6: ایشان
 - p7: را
 - p8: شنیده‌ای  → H8085
@@ -588,7 +588,7 @@ Original words:
 Persian entries and current tags:
 - p1: نشست  → H3427 H5027
 - p2: و  → Hc
-- p3: برخاستِ  → H7012 H589
+- p3: برخاستِ  → H7012
 - p4: ایشان
 - p5: را
 - p6: ملاحظه
@@ -597,10 +597,11 @@ Persian entries and current tags:
 - p9: زیرا
 - p10: که
 - p11: موضوع
-- p12: سرودهای طعنه‌آمیز  → H4485
-- p13: ایشان
-- p14: گشته‌ام
-- p15: .
+- p12: سرودهای  → H4485
+- p13: طعنه‌آمیز
+- p14: ایشان
+- p15: گشته‌ام
+- p16: .
 
 ### Lamentations 3:64
 
@@ -646,7 +647,7 @@ Persian entries and current tags:
 - p1: دل  → H3820
 - p2: مشوش
 - p3: بدیشان
-- p4: بده  → H5414
+- p4: بده
 - p5: ؛
 - p6: لعنت  → H8381
 - p7: تو
@@ -671,7 +672,7 @@ Original words:
 Persian entries and current tags:
 - p1: خداوندا  → H3068
 - p2: ،
-- p3: در
+- p3: در  → Hb
 - p4: خشم  → H639
 - p5: خود
 - p6: تعقیبشان کن  → H7291

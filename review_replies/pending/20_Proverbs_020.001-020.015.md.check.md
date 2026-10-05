@@ -4,7 +4,7 @@ Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change
 
 ## 15 verse(s) with changes
 
-### Proverbs 20:1: 5 word(s) changed
+### Proverbs 20:1: 8 word(s) changed
 
 Reply line 2.
 
@@ -29,16 +29,16 @@ Original words:
 | ✱ | تمسخر | H3887 לוּץ "properly, to make mouths at…" | [تمسخر می‌کند] H3887 לוּץ "properly, to make mouths at…" |
 | ✱ | می‌کند |  | [تمسخر می‌کند] H3887 לוּץ "properly, to make mouths at…" |
 |  | و | Hc | Hc |
-|  | باده | H7941 | H7941 |
-|  | عربده | [عربده می‌کشد] H1993 | [عربده می‌کشد] H1993 |
-|  | می‌کشد | [عربده می‌کشد] H1993 | [عربده می‌کشد] H1993 |
+| ✱ | باده | H3196 יַיִן "wine (as fermented)…"; H7941 שֵׁכָר "an intoxicant…" | H7941 שֵׁכָר "an intoxicant…" |
+| ✱ | عربده | H1993 הָמָה "to make a loud sound (like…" | [عربده می‌کشد] H1993 הָמָה "to make a loud sound (like…" |
+| ✱ | می‌کشد | H7941 שֵׁכָר "an intoxicant…" | [عربده می‌کشد] H1993 הָמָה "to make a loud sound (like…" |
 |  | ؛ |  |  |
 | ✱ | حکیم | H7686 שָׁגָה "to stray (causatively…"; H2449 חָכַם "to be wise (in mind…" | H2449 חָכַם "to be wise (in mind…" |
 |  | نیست | H3808 | H3808 |
 |  | هر | H3605 | H3605 |
 |  | آن |  |  |
 |  | که |  |  |
-| ✱ | فریفتۀ |  | H7686 שָׁגָה "to stray (causatively…" |
+| ✱ | فریفتۀ | H2449 חָכַם "to be wise (in mind…" | H7686 שָׁגָה "to stray (causatively…" |
 |  | آنان |  |  |
 | ✱ | شود | H2449 חָכַם "to be wise (in mind…" | H7686 שָׁגָה "to stray (causatively…" |
 |  | . |  |  |
@@ -79,7 +79,7 @@ Original words:
 | ✱ | می‌دهد | H2398 חָטָא "properly, to miss…" | [بر باد می‌دهد] H2398 חָטָא "properly, to miss…" |
 |  | . |  |  |
 
-### Proverbs 20:3: 4 word(s) changed
+### Proverbs 20:3: 5 word(s) changed
 
 Reply line 4.
 
@@ -105,7 +105,7 @@ Original words:
 | ✱ | عزّت | H3519 כָּבוֹד "properly, weight…"; H7674 שֶׁבֶת "rest, interruption, cessation" | H3519 כָּבוֹד "properly, weight…" |
 |  | آدمی | H376 | H376 |
 |  | است |  |  |
-|  | اما | Hc | Hc |
+| ✱ | اما |  | Hc "and" |
 |  | تن |  |  |
 |  | هر | H3605 | H3605 |
 |  | نادان | H191 | H191 |
@@ -114,7 +114,7 @@ Original words:
 | ✱ | می‌خارد |  | [مجادله می‌خارد] H1566 גָּלַע "to be obstinate" |
 |  | ! |  |  |
 
-### Proverbs 20:4: 8 word(s) changed
+### Proverbs 20:4: 7 word(s) changed
 
 Reply line 5.
 
@@ -142,7 +142,7 @@ Original words:
 | ✱ | نمی‌زند | H3808 לֹא "not (the simple or abs.…"; H2790 חָרַשׁ "to scratch…" | [شخم نمی‌زند] H3808 לֹא "not (the simple or abs.…"; H2790 חָרַשׁ "to scratch…" |
 |  | ؛ |  |  |
 |  | پس |  |  |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | موسم | [موسم درو] H7105 | [موسم درو] H7105 |
 |  | درو | [موسم درو] H7105 | [موسم درو] H7105 |
 |  | گدایی | [گدایی می‌کند] H7592 | [گدایی می‌کند] H7592 |
@@ -152,7 +152,7 @@ Original words:
 | ✱ | نمی‌یابد |  | [چیزی نمی‌یابد] H369 אַיִן "a non-entity…" |
 |  | . |  |  |
 
-### Proverbs 20:5: 3 word(s) changed
+### Proverbs 20:5: 1 word(s) changed
 
 Reply line 6.
 
@@ -177,9 +177,9 @@ Original words:
 |  | آبی | H4325 | H4325 |
 |  | است |  |  |
 |  | عمیق | H6013 | H6013 |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | دل | H3820 | H3820 |
-| ✱ | انسان |  | H376 אִישׁ "a man as an individual or a…" |
+|  | انسان | H376 | H376 |
 |  | ، |  |  |
 |  | مردی | H376 | H376 |
 |  | فهیم | H8394 | H8394 |
@@ -325,8 +325,8 @@ Original words:
 |  | دل | H3820 | H3820 |
 |  | خود |  |  |
 |  | را |  |  |
-| ✱ | طاهر | [طاهر ساخته‌ام] H2135 זָכָה "to be translucent…"; H2891 טָהֵר "to be pure (physical sound…" | [طاهر ساخته‌ام] H2135 זָכָה "to be translucent…" |
-| ✱ | ساخته‌ام | [طاهر ساخته‌ام] H2135 זָכָה "to be translucent…"; H2891 טָהֵר "to be pure (physical sound…" | [طاهر ساخته‌ام] H2135 זָכָה "to be translucent…" |
+| ✱ | طاهر | H2891 טָהֵר "to be pure (physical sound…" | [طاهر ساخته‌ام] H2135 זָכָה "to be translucent…" |
+| ✱ | ساخته‌ام | H2135 זָכָה "to be translucent…" | [طاهر ساخته‌ام] H2135 זָכָה "to be translucent…" |
 |  | ؛ |  |  |
 |  | من |  |  |
 |  | از | Hm | Hm |
@@ -371,7 +371,7 @@ Original words:
 | ✱ | دارد |  | [کراهت دارد] H8441 תּוֹעֵבַה "properly…" |
 |  | . |  |  |
 
-### Proverbs 20:11: 4 word(s) changed
+### Proverbs 20:11: 5 word(s) changed
 
 Reply line 12.
 
@@ -403,7 +403,7 @@ Original words:
 |  | که |  |  |
 |  | آیا | H518 | H518 |
 |  | رفتارش | H6467 | H6467 |
-|  | پاک | H2134 | H2134 |
+| ✱ | پاک | H2134 זַךְ "clear"; H3477 יָשָׁר "straight (literally or…" | H2134 זַךְ "clear" |
 |  | و | Hc | Hc |
 |  | درست | H3477 | H3477 |
 |  | است |  |  |
@@ -412,7 +412,7 @@ Original words:
 |  | نه |  |  |
 |  | . |  |  |
 
-### Proverbs 20:12: 6 word(s) changed
+### Proverbs 20:12: 5 word(s) changed
 
 Reply line 13.
 
@@ -435,7 +435,7 @@ Original words:
 | ✱ | گوش | H241 אֹזֶן "broadness. i.e. (concrete)…"; H8085 שָׁמַע "to hear intelligently (often…" | H241 אֹזֶן "broadness. i.e. (concrete)…" |
 | ✱ | شنوا |  | H8085 שָׁמַע "to hear intelligently (often…" |
 |  | و | Hc | Hc |
-| ✱ | چشم | H241 אֹזֶן "broadness. i.e. (concrete)…"; H5869 עַיִן "an eye (literally or…" | H5869 עַיִן "an eye (literally or…" |
+|  | چشم | H5869 | H5869 |
 |  | بینا | H7200 | H7200 |
 |  | ، |  |  |
 | ✱ | هر |  | [هر دو] H8147 שְׁנַיִם "two; also (as ordinal) twofold" |
@@ -480,11 +480,11 @@ Original words:
 |  | تا |  |  |
 |  | از |  |  |
 |  | نان | H3899 | H3899 |
-| ✱ | سیر |  | [سیر شوی] H7646 שָׂבַע "to sate…" |
+| ✱ | سیر | H7646 שָׂבַע "to sate…"; H3899 לֶחֶם "food (for man or beast)…" | [سیر شوی] H7646 שָׂבַע "to sate…" |
 | ✱ | شوی | H7646 שָׂבַע "to sate…" | [سیر شوی] H7646 שָׂבַע "to sate…" |
 |  | . |  |  |
 
-### Proverbs 20:14: 1 word(s) changed
+### Proverbs 20:14: 2 word(s) changed
 
 Reply line 15.
 
@@ -515,7 +515,7 @@ Original words:
 |  | است |  |  |
 |  | » |  |  |
 |  | ، |  |  |
-|  | آنگاه | Hc H227 | Hc H227 |
+| ✱ | آنگاه | H227 אָז "at that time or place…" | Hc "and"; H227 אָז "at that time or place…" |
 |  | می‌رود | H235 | H235 |
 |  | و | Hc | Hc |
 |  | به |  |  |
@@ -548,8 +548,8 @@ Original words:
 | ✱ | یافت |  | [یافت می‌شود] H3426 יֵשׁ "there is or are (or any other…" |
 | ✱ | می‌شود |  | [یافت می‌شود] H3426 יֵשׁ "there is or are (or any other…" |
 |  | و | Hc | Hc |
-| ✱ | یاقوت | [یاقوت بسیار] H7230 רֹב "abundance (in any respect)"; H6443 פָּנִין "probably a pearl (as round)" | H6443 פָּנִין "probably a pearl (as round)" |
-| ✱ | بسیار | [یاقوت بسیار] H7230 רֹב "abundance (in any respect)"; H6443 פָּנִין "probably a pearl (as round)" | H7230 רֹב "abundance (in any respect)" |
+| ✱ | یاقوت | [یاقوت بسیار] H6443 פָּנִין "probably a pearl (as round)" | H6443 פָּנִין "probably a pearl (as round)" |
+| ✱ | بسیار | [یاقوت بسیار] H6443 פָּנִין "probably a pearl (as round)" | H7230 רֹב "abundance (in any respect)" |
 | ✱ | است | H3426 יֵשׁ "there is or are (or any other…" |  |
 |  | ، |  |  |
 |  | اما | Hc | Hc |

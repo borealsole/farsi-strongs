@@ -69,7 +69,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: پس عیسی  → G2532
-- p2: سوار  → G1684 G1276
+- p2: سوار  → G1684
 - p3: قایق
 - p4: شد  → G1276
 - p5: و  → G2532
@@ -123,7 +123,7 @@ Persian entries and current tags:
 - p5: که
 - p6: بر  → G1909
 - p7: تشکی  → G2825
-- p8: خوابیده_بود  → G3885
+- p8: خوابیده_بود
 - p9: ،
 - p10: نزدش  → G846
 - p11: آوردند  → G4374
@@ -218,7 +218,7 @@ Persian entries and current tags:
 - p6: گفت  → G3004
 - p7: :
 - p8: «
-- p9: چرا  → G2444
+- p9: چرا  → G2444 G1760
 - p10: چنین
 - p11: اندیشۀ  → G1760
 - p12: پلیدی  → G4190
@@ -256,7 +256,7 @@ Persian entries and current tags:
 - p4: است
 - p5: :
 - p6: اینکه
-- p7: ”گناهانت  → G266
+- p7: ”گناهانت  → G2123 G266
 - p8: آمرزیده شد  → G863
 - p9: ،
 - p10: “
@@ -334,7 +334,7 @@ Persian entries and current tags:
 - p27: و  → G2532
 - p28: به  → G1519
 - p29: خانه  → G1519 G3624
-- p30: برو
+- p30: برو  → G5217
 - p31: .
 - p32: »
 
@@ -357,7 +357,7 @@ Persian entries and current tags:
 - p2: مرد
 - p3: برخاست  → G1453
 - p4: و
-- p5: به
+- p5: به  → G1519
 - p6: خانه  → G1519 G3624
 - p7: رفت  → G565
 - p8: .
@@ -386,7 +386,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: چون  → G1161
-- p2: مردم  → G3793
+- p2: مردم
 - p3: این
 - p4: واقعه  → G3793
 - p5: را
@@ -447,7 +447,7 @@ Persian entries and current tags:
 - p8: مردی  → G444
 - p9: را
 - p10: دید  → G3708
-- p11: مَتّی  → G3156
+- p11: مَتّی
 - p12: نام  → G3004
 - p13: که
 - p14: در  → G1909
@@ -503,7 +503,7 @@ Original words:
 - o20: αὐτοῦ. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
 
 Persian entries and current tags:
-- p1: روزی  → G2532
+- p1: روزی  → G1096 G2532
 - p2: عیسی  → G846
 - p3: در  → G1722
 - p4: خانۀ  → G3614
@@ -522,7 +522,7 @@ Persian entries and current tags:
 - p17: با
 - p18: او  → G2424
 - p19: و  → G2532
-- p20: شاگردانش  → G846 G3101
+- p20: شاگردانش  → G3101 G846
 - p21: همسفره شدند  → G4873
 - p22: .
 
@@ -556,7 +556,7 @@ Persian entries and current tags:
 - p2: فَریسیان  → G5330
 - p3: این
 - p4: را
-- p5: دیدند  → G3708
+- p5: دیدند
 - p6: ،
 - p7: به
 - p8: شاگردان  → G3101
@@ -598,7 +598,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: چون
-- p2: عیسی
+- p2: عیسی  → G1161
 - p3: این
 - p4: را
 - p5: شنید  → G191
@@ -609,7 +609,7 @@ Persian entries and current tags:
 - p10: بیمارانند  → G2395
 - p11: که
 - p12: به
-- p13: طبیب
+- p13: طبیب  → G3756
 - p14: نیاز  → G5532
 - p15: دارند  → G2192
 - p16: ،
@@ -656,7 +656,7 @@ Persian entries and current tags:
 - p12: می‌پسندم
 - p13: ،
 - p14: نه  → G3756
-- p15: قربانی  → G2378 G268
+- p15: قربانی  → G2378
 - p16: را
 - p17: .
 - p18: “
@@ -704,7 +704,7 @@ Persian entries and current tags:
 - p2: شاگردان  → G3101
 - p3: یحیی  → G2491
 - p4: نزد  → G4334
-- p5: عیسی  → G846
+- p5: عیسی  → G846 G2491
 - p6: آمدند  → G4334 G846
 - p7: و
 - p8: گفتند  → G3004
@@ -720,7 +720,7 @@ Persian entries and current tags:
 - p18: شاگردان  → G3101
 - p19: تو  → G4771
 - p20: روزه  → G3522
-- p21: نمی‌گیرند  → G3756 G3522
+- p21: نمی‌گیرند  → G3756
 - p22: ؟
 - p23: »
 
@@ -763,12 +763,12 @@ Original words:
 - o31: νηστεύσουσιν. = G3522 νηστεύω "fast" [V-FAI-3P]
 
 Persian entries and current tags:
-- p1: عیسی  → G2532 G2424
+- p1: عیسی  → G2424
 - p2: پاسخ  → G3004 G846
 - p3: داد  → G846
 - p4: :
 - p5: «
-- p6: آیا  → G3361
+- p6: آیا  → G3361 G1410
 - p7: ممکن است  → G1410
 - p8: میهمانان  → G5207
 - p9: عروسی  → G3567
@@ -782,7 +782,7 @@ Persian entries and current tags:
 - p17: ،
 - p18: سوگواری کنند  → G3996
 - p19: ؟
-- p20: امّا  → G1161 G2532
+- p20: امّا  → G2532 G1161
 - p21: ایامی  → G2250
 - p22: می‌آید  → G2064
 - p23: که
@@ -827,12 +827,12 @@ Original words:
 Persian entries and current tags:
 - p1: هیچ‌کس  → G3762
 - p2: پارچۀ  → G1915 G4470
-- p3: نو
+- p3: نو  → G46
 - p4: را
 - p5: به  → G1909
 - p6: جامۀ  → G2440
-- p7: کهنه  → G4470 G3820
-- p8: وصله
+- p7: کهنه  → G4470
+- p8: وصله  → G46
 - p9: نمی‌زند  → G1911
 - p10: ،
 - p11: زیرا  → G1063
@@ -891,7 +891,7 @@ Persian entries and current tags:
 - p3: شراب  → G3631
 - p4: نو  → G3501
 - p5: را
-- p6: در  → G906
+- p6: در
 - p7: مَشکهای  → G779
 - p8: کهنه  → G3820
 - p9: نمی‌ریزند  → G779
@@ -912,7 +912,7 @@ Persian entries and current tags:
 - p24: شراب  → G3631
 - p25: نو  → G3501
 - p26: را
-- p27: در
+- p27: در  → G906
 - p28: مَشکهای  → G779
 - p29: نو  → G3501 G2537
 - p30: می‌ریزند  → G906 G779
@@ -963,7 +963,7 @@ Persian entries and current tags:
 - p3: حال
 - p4: که عیسی  → G846
 - p5: این
-- p6: سخنان  → G2980
+- p6: سخنان
 - p7: را
 - p8: برای
 - p9: آنان  → G846
@@ -974,13 +974,13 @@ Persian entries and current tags:
 - p14: رئیسان  → G758
 - p15: نزد
 - p16: وی  → G846
-- p17: آمد  → G2064
+- p17: آمد  → G1525 G2064
 - p18: و
 - p19: در
 - p20: برابرش  → G846
 - p21: زانو زد  → G4352
 - p22: و
-- p23: گفت  → G3004
+- p23: گفت  → G3004 G3754
 - p24: :
 - p25: «
 - p26: دخترم  → G2364
@@ -998,7 +998,7 @@ Persian entries and current tags:
 - p38: بر  → G1909
 - p39: او  → G846
 - p40: بگذار  → G2007
-- p41: که
+- p41: که  → G846
 - p42: زنده  → G2198
 - p43: خواهد_شد
 - p44: .
@@ -1024,14 +1024,14 @@ Original words:
 Persian entries and current tags:
 - p1: عیسی  → G2532 G2424
 - p2: برخاست  → G1453
-- p3: و  → G2532
+- p3: و
 - p4: به
 - p5: اتفاق
 - p6: شاگردان  → G3101
 - p7: خود  → G846
 - p8: با  → G190
 - p9: او  → G846
-- p10: رفت
+- p10: رفت  → G1453
 - p11: .
 
 ## Neighbouring verses (context only, not for review)

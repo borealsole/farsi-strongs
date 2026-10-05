@@ -128,7 +128,7 @@ Original words:
 - o9: יַאֲרִיךְ = H748 אָרַךְ "to be (causative…" [HVhi3ms]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hb
 - p2: شورشگریِ  → H6588
 - p3: مملکت  → H776
 - p4: ،
@@ -163,7 +163,7 @@ Original words:
 - o8: לָחֶם = H3899 לֶחֶם "food (for man or beast), especially bread…" [HNcbsa]
 
 Persian entries and current tags:
-- p1: مرد
+- p1: مرد  → H1397
 - p2: فقیر  → H7326
 - p3: که
 - p4: بر  → H6231
@@ -199,7 +199,7 @@ Persian entries and current tags:
 - p1: آنان
 - p2: که
 - p3: به  → H5800
-- p4: شریعت  → H8451 H7563
+- p4: شریعت  → H8451
 - p5: پشت
 - p6: می‌کنند
 - p7: ،
@@ -210,7 +210,7 @@ Persian entries and current tags:
 - p12: اما  → Hc
 - p13: آنان
 - p14: که
-- p15: شریعت  → H7563 H8451
+- p15: شریعت  → H8451
 - p16: را
 - p17: نگاه  → H5800 H8104
 - p18: می‌دارند  → H8104
@@ -219,7 +219,7 @@ Persian entries and current tags:
 - p21: مبارزه  → H1624
 - p22: با  → Hb
 - p23: ایشان
-- p24: برمی‌خیزند
+- p24: برمی‌خیزند  → H1624
 - p25: .
 
 ### Proverbs 28:5
@@ -242,7 +242,7 @@ Persian entries and current tags:
 - p1: مردمان  → H376 H7451
 - p2: شریر  → H7451
 - p3: ،
-- p4: عدالت  → H4941 H995
+- p4: عدالت  → H4941
 - p5: را
 - p6: درنمی‌یابند  → H995
 - p7: ،
@@ -271,18 +271,17 @@ Original words:
 - o8: עָשִׁיר = H6223 עָשִׁיר "rich, whether literal or figurative (noble)" [HAamsa]
 
 Persian entries and current tags:
-- p1: فقیر  → H7326 H6141
-- p2: بودن
-- p3: با  → Hb
-- p4: راستی  → H8537
-- p5: ،
-- p6: بِه  → H2896
-- p7: از  → Hm
-- p8: ثروتمند  → H6141 H6223
-- p9: شدن
-- p10: با
-- p11: کج‌رَوی  → H6141 H6223
-- p12: .
+- p1: فقیر بودن  → H7326
+- p2: با  → Hb
+- p3: راستی  → H8537
+- p4: ،
+- p5: بِه  → H2896
+- p6: از  → Hm
+- p7: ثروتمند  → H6141 H6223
+- p8: شدن
+- p9: با
+- p10: کج‌رَوی  → H6141 H6223
+- p11: .
 
 ### Proverbs 28:7
 
@@ -309,7 +308,7 @@ Persian entries and current tags:
 - p7: می‌سپارد  → H5341
 - p8: ،
 - p9: اما  → Hc
-- p10: رفیق  → H7462
+- p10: رفیق
 - p11: عیاشان  → H2151
 - p12: مایۀ
 - p13: ننگ  → H3637
@@ -337,7 +336,7 @@ Persian entries and current tags:
 - p2: که
 - p3: ثروت  → H1952 H5392
 - p4: خویش
-- p5: با
+- p5: با  → Hb
 - p6: بهرۀ  → H5392
 - p7: گزاف  → H8636
 - p8: بیفزاید  → H7235
@@ -376,14 +375,13 @@ Persian entries and current tags:
 - p6: به
 - p7: شریعت  → H8451
 - p8: سر
-- p9: باز
-- p10: زند  → H5493
-- p11: ،
-- p12: حتی  → H1571
-- p13: دعایش  → H8605
-- p14: کراهت‌آور  → H8441
-- p15: است
-- p16: .
+- p9: باز زند  → H5493
+- p10: ،
+- p11: حتی  → H1571
+- p12: دعایش  → H8605
+- p13: کراهت‌آور  → H8441
+- p14: است
+- p15: .
 
 ### Proverbs 28:10
 
@@ -408,16 +406,16 @@ Persian entries and current tags:
 - p3: صالحان  → H3477
 - p4: را
 - p5: به  → Hb
-- p6: راه  → H1870
+- p6: راه  → H1870 H7451
 - p7: بد  → H7451
 - p8: منحرف سازد  → H7686
 - p9: ،
-- p10: در
+- p10: در  → Hb
 - p11: چاهی  → H7816
 - p12: که
 - p13: خود
 - p14: کنده  → H7816
-- p15: است
+- p15: است  → H1931
 - p16: خواهد_افتاد  → H5307
 - p17: ،
 - p18: اما  → Hc
@@ -454,7 +452,7 @@ Persian entries and current tags:
 - p9: اما  → Hc
 - p10: بینوای  → H1800
 - p11: خردمند  → H995
-- p12: مشت
+- p12: مشت  → H2713
 - p13: او
 - p14: را
 - p15: باز می‌کند  → H2713
@@ -485,7 +483,7 @@ Persian entries and current tags:
 - p7: بار
 - p8: می‌آورد
 - p9: ؛
-- p10: اما  → Hc
+- p10: اما
 - p11: چون
 - p12: شریران  → H7563
 - p13: به
@@ -496,7 +494,7 @@ Persian entries and current tags:
 - p18: خود  → H2664
 - p19: را
 - p20: پنهان
-- p21: می‌کنند  → H2664
+- p21: می‌کنند
 - p22: .
 
 ### Proverbs 28:13
@@ -569,7 +567,7 @@ Persian entries and current tags:
 - p15: سخت  → H7185
 - p16: سازد  → H5307
 - p17: ،
-- p18: به
+- p18: به  → Hb
 - p19: بلا گرفتار  → H7451
 - p20: خواهد_شد
 - p21: .

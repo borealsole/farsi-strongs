@@ -99,7 +99,7 @@ Persian entries and current tags:
 - p3: جان  → H5315
 - p4: خود
 - p5: را
-- p6: به
+- p6: به  → Hl
 - p7: سوی  → H5375
 - p8: تو
 - p9: برمی‌افرازم  → H5375
@@ -171,9 +171,8 @@ Persian entries and current tags:
 - p13: سرافکنده خواهند_شد  → H954
 - p14: که
 - p15: بی‌سبب  → H7387
-- p16: خیانت  → H898
-- p17: می‌ورزند
-- p18: .
+- p16: خیانت می‌ورزند  → H898
+- p17: .
 
 ### Psalms 25:4
 
@@ -226,7 +225,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: مرا
-- p2: در
+- p2: در  → Hb
 - p3: راستی  → H571
 - p4: خود
 - p5: سالک
@@ -248,7 +247,7 @@ Persian entries and current tags:
 - p21: ،
 - p22: منتظر  → H6960
 - p23: تو
-- p24: هستم
+- p24: هستم  → H6960
 - p25: !
 
 ### Psalms 25:6
@@ -268,22 +267,21 @@ Original words:
 Persian entries and current tags:
 - p1: خداوندا  → H3068
 - p2: ،
-- p3: رحمت  → H7356 H2617
+- p3: رحمت  → H7356
 - p4: و  → Hc
 - p5: محبت  → H2617
 - p6: خود
 - p7: را
 - p8: به
-- p9: یاد  → H2142
-- p10: آر
-- p11: ،
-- p12: زیرا  → H3588
-- p13: که
-- p14: آنها
-- p15: از  → Hm
-- p16: ازل  → H5769
-- p17: بوده_است
-- p18: .
+- p9: یاد آر  → H2142
+- p10: ،
+- p11: زیرا  → H3588
+- p12: که
+- p13: آنها
+- p14: از  → Hm
+- p15: ازل  → H5769
+- p16: بوده_است
+- p17: .
 
 ### Psalms 25:7
 
@@ -305,7 +303,7 @@ Original words:
 - o12: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
 
 Persian entries and current tags:
-- p1: گناهان  → H2403 H2142
+- p1: گناهان  → H2403
 - p2: جوانی‌ام  → H5271
 - p3: را
 - p4: به
@@ -384,7 +382,7 @@ Persian entries and current tags:
 - p2: فروتنان  → H6035
 - p3: را
 - p4: در
-- p5: طریق
+- p5: طریق  → H1870
 - p6: عدالت  → H4941
 - p7: سالک  → H6035
 - p8: می‌گرداند  → H1869
@@ -394,7 +392,7 @@ Persian entries and current tags:
 - p12: خویش
 - p13: را
 - p14: به
-- p15: افتادگان
+- p15: افتادگان  → H6035
 - p16: می‌آموزد  → H3925
 - p17: .
 
@@ -495,7 +493,7 @@ Persian entries and current tags:
 - p12: را
 - p13: بر
 - p14: او
-- p15: خواهد_نمود  → H3384
+- p15: خواهد_نمود
 - p16: .
 
 ### Psalms 25:13
@@ -514,7 +512,7 @@ Original words:
 Persian entries and current tags:
 - p1: جان  → H5315
 - p2: او
-- p3: در
+- p3: در  → Hb
 - p4: نیکویی  → H2896
 - p5: به
 - p6: سر
@@ -541,19 +539,20 @@ Original words:
 - o5: לְ/הוֹדִיעָ/ם = Hl "to" + H3045 יָדַע "to know (properly, to ascertain by seeing)…" [HR/Vhc/Sp3mp]
 
 Persian entries and current tags:
-- p1: محرم اسرار  → H5475
-- p2: خداوند  → H3068
-- p3: ،
-- p4: ترسندگان  → H3373
-- p5: اویند
-- p6: ؛
-- p7: او
-- p8: عهد  → H1285
-- p9: خویش
-- p10: را
-- p11: بدیشان  → H1285 H3045
-- p12: می‌نماید
-- p13: .
+- p1: محرم
+- p2: اسرار  → H5475
+- p3: خداوند  → H3068
+- p4: ،
+- p5: ترسندگان  → H3373
+- p6: اویند
+- p7: ؛
+- p8: او
+- p9: عهد  → H1285
+- p10: خویش
+- p11: را
+- p12: بدیشان
+- p13: می‌نماید
+- p14: .
 
 ### Psalms 25:15
 
@@ -575,7 +574,7 @@ Persian entries and current tags:
 - p1: چشمان  → H5869
 - p2: من
 - p3: همواره  → H8548
-- p4: بر
+- p4: بر  → H413
 - p5: خداوند  → H3068
 - p6: است
 - p7: ،
@@ -665,7 +664,7 @@ Persian entries and current tags:
 - p6: ،
 - p7: و  → Hc
 - p8: همۀ  → H3605
-- p9: گناهانم  → H6040 H2403
+- p9: گناهانم  → H2403
 - p10: را
 - p11: بیامرز  → H5375
 - p12: .
@@ -726,7 +725,7 @@ Persian entries and current tags:
 - p10: ،
 - p11: زیرا  → H3588
 - p12: که
-- p13: در
+- p13: در  → Hb
 - p14: تو
 - p15: پناه  → H2620
 - p16: جُسته‌ام

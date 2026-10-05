@@ -159,16 +159,16 @@ Persian entries and current tags:
 - p5: او
 - p6: با
 - p7: تو
-- p8: چه  → H4100
+- p8: چه
 - p9: کند
 - p10: ؟
-- p11: بیش
+- p11: بیش  → H3254
 - p12: از
 - p13: این
 - p14: تو
 - p15: را
-- p16: چه  → H4100
-- p17: دهد
+- p16: چه  → H4100 H5414
+- p17: دهد  → H5414
 - p18: ؟
 
 ### Psalms 120:4
@@ -185,7 +185,7 @@ Original words:
 - o6: רְתָמִים = H7574 רֶתֶם "the Spanish broom (from its pole-like stems)" [HNcmpa]
 
 Persian entries and current tags:
-- p1: تیرهای  → H2671 H8150
+- p1: تیرهای  → H2671
 - p2: تیزِ  → H8150
 - p3: مرد دلاور  → H1368
 - p4: را
@@ -338,7 +338,7 @@ Original words:
 Persian entries and current tags:
 - p1: یاری  → H5828
 - p2: من
-- p3: از  → Hm H5973
+- p3: از
 - p4: سوی
 - p5: خداوند  → H3068
 - p6: است
@@ -366,7 +366,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: او
-- p2: نخواهد_گذاشت
+- p2: نخواهد_گذاشت  → H408
 - p3: پای  → H7272
 - p4: تو
 - p5: بلغزد  → H4132
@@ -379,7 +379,7 @@ Persian entries and current tags:
 - p12: چشم
 - p13: بر
 - p14: هم
-- p15: نخواهد_گذاشت
+- p15: نخواهد_گذاشت  → H408 H5414
 - p16: !
 
 ### Psalms 121:4
@@ -434,8 +434,8 @@ Persian entries and current tags:
 - p3: توست
 - p4: !
 - p5: خداوند  → H3068
-- p6: به  → H5921
-- p7: دست  → H3027
+- p6: به
+- p7: دست  → H6738 H3027
 - p8: راستت  → H3225
 - p9: سایۀ  → H6738
 - p10: توست
@@ -528,7 +528,7 @@ Persian entries and current tags:
 - p11: و  → Hc
 - p12: تا  → H5704
 - p13: به
-- p14: ابد  → H5704 H5769
+- p14: ابد  → H5769
 - p15: !
 
 ### Psalms 122:1
@@ -548,20 +548,19 @@ Original words:
 - o9: נֵלֵךְ = H3212 יָלַךְ "to walk (literally or figuratively)…" [HVqi1cp]
 
 Persian entries and current tags:
-- p1: شادمان
-- p2: می‌شدم
-- p3: آنگاه
-- p4: که
-- p5: مرا  → H8055
-- p6: می‌گفتند  → H559
-- p7: :
-- p8: «
-- p9: به  → Hl
-- p10: خانۀ  → H1004
-- p11: خداوند  → H1732 H3068
-- p12: برویم  → H3212
-- p13: !
-- p14: »
+- p1: شادمان می‌شدم  → H8055
+- p2: آنگاه
+- p3: که
+- p4: مرا  → H8055
+- p5: می‌گفتند  → H559
+- p6: :
+- p7: «
+- p8: به  → Hl
+- p9: خانۀ  → H1004
+- p10: خداوند  → H1732 H3068
+- p11: برویم  → H3212
+- p12: !
+- p13: »
 
 ### Psalms 122:2
 
@@ -725,13 +724,13 @@ Persian entries and current tags:
 - p2: میان
 - p3: برجهایت  → H759
 - p4: امنیت  → H7962
-- p5: حکمفرما  → H2426
+- p5: حکمفرما
 - p6: باشد  → H1961
 - p7: ،
 - p8: و
-- p9: در  → H7965 Hb
+- p9: در
 - p10: میان
-- p11: باروهایت
+- p11: باروهایت  → H2426 H7962
 - p12: ،
 - p13: صلح  → H7965
 - p14: و

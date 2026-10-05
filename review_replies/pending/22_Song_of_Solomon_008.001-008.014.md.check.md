@@ -1,10 +1,10 @@
 # Check of 22_Song_of_Solomon_008.001-008.014.md
 
-Generated 2026-10-04 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
 ## 14 verse(s) with changes
 
-### Song of Solomon 8:1: 9 word(s) changed
+### Song of Solomon 8:1: 8 word(s) changed
 
 Reply line 2.
 
@@ -39,7 +39,7 @@ Original words:
 |  | از |  |  |
 |  | سینۀ | H7699 | H7699 |
 |  | مادرم | H517 | H517 |
-| ✱ | شیر | H3243 יָנַק "to suck…"; H7699 שַׁד "the breast of a woman or…" | [شیر خورده_است] H3243 יָנַק "to suck…" |
+| ✱ | شیر | H7699 שַׁד "the breast of a woman or…" | [شیر خورده_است] H3243 יָנַק "to suck…" |
 | ✱ | خورده_است | H3243 יָנַק "to suck…" | [شیر خورده_است] H3243 יָנַק "to suck…" |
 |  | ، |  |  |
 |  | آنگاه |  |  |
@@ -57,7 +57,7 @@ Original words:
 | ✱ | بر | H936 בּוּז "to disrespect" | Hl "to" |
 |  | من |  |  |
 |  | به |  |  |
-| ✱ | دیدۀ | H517 אֵם "a mother (as the bond of the…" |  |
+|  | دیدۀ |  |  |
 |  | حقارت | H936 | H936 |
 | ✱ | نمی‌نگریست |  | H3808 לֹא "not (the simple or abs.…"; H936 בּוּז "to disrespect" |
 |  | . |  |  |
@@ -90,7 +90,7 @@ Original words:
 |  | هدایت | [هدایت می‌کردم] H5090 | [هدایت می‌کردم] H5090 |
 |  | می‌کردم | [هدایت می‌کردم] H5090 | [هدایت می‌کردم] H5090 |
 |  | و |  |  |
-|  | به | H413 | H413 |
+| ✱ | به |  | H413 אֵל "near, with or among…" |
 |  | خانۀ | H1004 | H1004 |
 |  | مادرم | H517 | H517 |
 |  | می‌بردم | H935 | H935 |
@@ -103,7 +103,7 @@ Original words:
 |  | ؛ |  |  |
 |  | تو |  |  |
 |  | را |  |  |
-| ✱ | شرابِ | H6071 עָסִיס "must or fresh grape-juice (as…" | H3196 יַיִן "wine (as fermented)…" |
+|  | شرابِ | H3196 | H3196 |
 |  | عطرآگین | H7544 | H7544 |
 |  | می‌دادم | H8248 | H8248 |
 |  | تا |  |  |
@@ -199,7 +199,7 @@ Original words:
 | ✱ | بازمدارید | H5782 עוּר "to wake (literally or…" | H4100 מָה "properly…"; H5782 עוּר "to wake (literally or…" |
 |  | ! |  |  |
 
-### Song of Solomon 8:5: 6 word(s) changed
+### Song of Solomon 8:5: 5 word(s) changed
 
 Reply line 6.
 
@@ -229,7 +229,7 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 | ✱ | این | H4310 מִי "who? (occasionally…"; H2063 זֹאת "this (often used adverb)" | H2063 זֹאת "this (often used adverb)" |
-| ✱ | کیست |  | H4310 מִי "who? (occasionally…" |
+|  | کیست | H4310 | H4310 |
 |  | که |  |  |
 |  | از | H4480 | H4480 |
 | ✱ | بیابان | H4057 מִדְבָּר "a pasture (i.e. open field…"; H1730 דּוֹד "figuratively) to love…" | H4057 מִדְבָּר "a pasture (i.e. open field…" |
@@ -241,7 +241,7 @@ Original words:
 | ✱ | دلداده‌اش | H1730 דּוֹד "figuratively) to love…"; H2254 חָבַל "to wind tightly (as a rope)…" | H1730 דּוֹד "figuratively) to love…" |
 |  | ؟ |  |  |
 
-### Song of Solomon 8:6: 8 word(s) changed
+### Song of Solomon 8:6: 10 word(s) changed
 
 Reply line 7.
 
@@ -277,24 +277,24 @@ Original words:
 |  | خاتم | H2368 | H2368 |
 |  | بر | H5921 | H5921 |
 | ✱ | دلت | H3820 לֵב "the heart…"; H2220 זְרוֹעַ "the arm (as stretched out)…" | H3820 לֵב "the heart…" |
-|  | بگذار | H7760 | H7760 |
+| ✱ | بگذار |  | H7760 שׂוּם "to put (used in a great…" |
 |  | ، |  |  |
 |  | و |  |  |
 |  | چون | Hk | Hk |
 |  | مُهری | H2368 | H2368 |
 |  | بر | H5921 | H5921 |
-|  | بازویت | H2220 | H2220 |
+| ✱ | بازویت |  | H2220 זְרוֹעַ "the arm (as stretched out)…" |
 |  | ، |  |  |
 |  | زیرا | H3588 | H3588 |
 |  | که |  |  |
 |  | عشق | H160 | H160 |
 |  | همچون | Hk | Hk |
 |  | مرگ | H4194 | H4194 |
-| ✱ | نیرومند | H5794 עַז "strong, vehement, harsh"; H7068 קִנְאָה "jealousy or envy" | H5794 עַז "strong, vehement, harsh" |
+|  | نیرومند | H5794 | H5794 |
 |  | است |  |  |
 |  | ، |  |  |
 |  | و |  |  |
-| ✱ | شور |  | [شور عاشقانه] H7068 קִנְאָה "jealousy or envy" |
+| ✱ | شور | H7565 רֶשֶׁף "a live coal…" | [شور عاشقانه] H7068 קִנְאָה "jealousy or envy" |
 | ✱ | عاشقانه |  | [شور عاشقانه] H7068 קִנְאָה "jealousy or envy" |
 |  | ، |  |  |
 | ✱ | ستمکیش |  | H7186 קָשֶׁה "severe (in various…" |
@@ -303,11 +303,11 @@ Original words:
 |  | . |  |  |
 |  | شعله‌هایش | H7565 | H7565 |
 |  | ، |  |  |
-|  | شعله‌های | H7565 | H7565 |
+| ✱ | شعله‌های | H2368 חוֹתָם "a signature-ring"; H7565 רֶשֶׁף "a live coal…" | H7565 רֶשֶׁף "a live coal…" |
 |  | آتش | H784 | H784 |
 |  | است |  |  |
 |  | ؛ |  |  |
-| ✱ | شعله‌های | H7565 רֶשֶׁף "a live coal…" | H7957 שַׁלְהֶבֶת "a flare of fire" |
+| ✱ | شعله‌های | H2368 חוֹתָם "a signature-ring"; H7565 רֶשֶׁף "a live coal…" | H7957 שַׁלְהֶבֶת "a flare of fire" |
 | ✱ | سرکشِ | H7957 שַׁלְהֶבֶת "a flare of fire" | H3050 יָהּ "Jah, the sacred name" |
 | ✱ | آتش | H784 אֵשׁ "fire (literally or…" | H7957 שַׁלְהֶבֶת "a flare of fire" |
 |  | ! |  |  |
@@ -365,20 +365,20 @@ Original words:
 |  | همۀ | H3605 | H3605 |
 | ✱ | دار |  | [دار و ندار] H1952 הוֹן "wealth; by implication, enough" |
 | ✱ | و |  | [دار و ندار] H1952 הוֹן "wealth; by implication, enough" |
-| ✱ | ندار | H1952 הוֹן "wealth; by implication, enough" | [دار و ندار] H1952 הוֹן "wealth; by implication, enough" |
+| ✱ | ندار | H1952 הוֹן "wealth; by implication, enough"; H1004 בַּיִת "a house (in the greatest…" | [دار و ندار] H1952 הוֹן "wealth; by implication, enough" |
 |  | خویش |  |  |
 |  | نیز |  |  |
 | ✱ | به |  | Hb "in" |
 | ✱ | پای | H1952 הוֹן "wealth; by implication, enough" |  |
 |  | عشق | H160 | H160 |
-| ✱ | ریزَد | H936 בּוּז "to disrespect" | H5414 נָתַן "to give…" |
+| ✱ | ریزَد |  | H5414 נָתַן "to give…" |
 |  | ، |  |  |
 |  | به |  |  |
 |  | چیزی |  |  |
 |  | شمرده_نخواهد_شد | H936 | H936 |
 |  | ! |  |  |
 
-### Song of Solomon 8:8: 7 word(s) changed
+### Song of Solomon 8:8: 6 word(s) changed
 
 Reply line 9.
 
@@ -418,14 +418,14 @@ Original words:
 |  | روز | H3117 | H3117 |
 | ✱ | خواستگاریش | H269 אָחוֹת "a sister (used very widely…" | Hs "which"; H1696 דָבַר "perhaps properly, to arrange…" |
 |  | ، |  |  |
-| ✱ | برای |  | Hl "to" |
+|  | برای | Hl | Hl |
 | ✱ | او |  | H269 אָחוֹת "a sister (used very widely…" |
 |  | چه | H4100 | H4100 |
 | ✱ | توانیم |  | [توانیم کرد] H6213 עָשָׂה "to do or make…" |
-| ✱ | کرد |  | [توانیم کرد] H6213 עָשָׂה "to do or make…" |
+| ✱ | کرد | H1696 דָבַר "perhaps properly, to arrange…" | [توانیم کرد] H6213 עָשָׂה "to do or make…" |
 |  | ؟ |  |  |
 
-### Song of Solomon 8:9: 6 word(s) changed
+### Song of Solomon 8:9: 5 word(s) changed
 
 Reply line 10.
 
@@ -469,13 +469,13 @@ Original words:
 |  | ، |  |  |
 |  | آن |  |  |
 |  | را |  |  |
-| ✱ | به | H5921 עַל "above, over, upon…" |  |
+|  | به |  |  |
 | ✱ | چوب | H730 אֶרֶז "a cedar tree (from the…" | H3871 לוּחַ "probably meaning to glisten…" |
 | ✱ | سرو |  | H730 אֶרֶז "a cedar tree (from the…" |
 |  | می‌آراستیم | H6696 | H6696 |
 |  | ! |  |  |
 
-### Song of Solomon 8:10: 5 word(s) changed
+### Song of Solomon 8:10: 4 word(s) changed
 
 Reply line 11.
 
@@ -507,7 +507,7 @@ Original words:
 | ✱ | از |  | [از این رو] H227 אָז "at that time or place…" |
 | ✱ | این |  | [از این رو] H227 אָז "at that time or place…" |
 | ✱ | رو | H227 אָז "at that time or place…" | [از این رو] H227 אָז "at that time or place…" |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | چشم | H5869 | H5869 |
 |  | او |  |  |
 |  | ، |  |  |
@@ -516,7 +516,7 @@ Original words:
 | ✱ | گشته‌ام |  | H1961 הָיָה "to exist, i.e. be or become…" |
 |  | . |  |  |
 
-### Song of Solomon 8:11: 7 word(s) changed
+### Song of Solomon 8:11: 6 word(s) changed
 
 Reply line 12.
 
@@ -546,7 +546,7 @@ Original words:
 | ✱ | را | H853 אֵת "properly…" | Hl "to" |
 |  | تاکستانی | H3754 | H3754 |
 | ✱ | بود |  | H1961 הָיָה "to exist, i.e. be or become…" |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | بَعَل‌هامون | H1174 | H1174 |
 |  | ؛ |  |  |
 |  | تاکستان | H3754 | H3754 |
@@ -557,7 +557,7 @@ Original words:
 |  | ، |  |  |
 |  | تا |  |  |
 | ✱ | هر |  | [هر یک] H376 אִישׁ "a man as an individual or a…" |
-| ✱ | یک | H376 אִישׁ "a man as an individual or a…" | [هر یک] H376 אִישׁ "a man as an individual or a…" |
+| ✱ | یک |  | [هر یک] H376 אִישׁ "a man as an individual or a…" |
 |  | هزار | H505 | H505 |
 |  | سکۀ |  |  |
 |  | نقره | H3701 | H3701 |
@@ -616,7 +616,7 @@ Original words:
 |  | میوه‌اش | H6529 | H6529 |
 |  | . |  |  |
 
-### Song of Solomon 8:13: 4 word(s) changed
+### Song of Solomon 8:13: 3 word(s) changed
 
 Reply line 14.
 
@@ -637,7 +637,7 @@ Original words:
 |  | ای |  |  |
 |  | تو |  |  |
 |  | که |  |  |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | باغها | H1588 | H1588 |
 |  | مسکن | [مسکن داری] H3427 | [مسکن داری] H3427 |
 |  | داری | [مسکن داری] H3427 | [مسکن داری] H3427 |

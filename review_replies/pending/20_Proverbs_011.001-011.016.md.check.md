@@ -1,10 +1,12 @@
 # Check of 20_Proverbs_011.001-011.016.md
 
-Generated 2026-10-04 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
-## 15 verse(s) with changes
+No change from the current tags (will be skipped): Proverbs 11:2.
 
-### Proverbs 11:1: 1 word(s) changed
+## 14 verse(s) with changes
+
+### Proverbs 11:1: 2 word(s) changed
 
 Reply line 2.
 
@@ -25,7 +27,7 @@ Original words:
 | --- | --- | --- | --- |
 |  | خداوند | H3068 | H3068 |
 |  | از |  |  |
-|  | ترازوی | H3976 | H3976 |
+| ✱ | ترازوی |  | H3976 מֹאזֵן "only in the dual) a pair of…" |
 |  | نامیزان | H4820 | H4820 |
 |  | کراهت | H8441 | H8441 |
 |  | دارد |  |  |
@@ -35,38 +37,6 @@ Original words:
 | ✱ | کامل | H3976 מֹאזֵן "only in the dual) a pair of…"; H8003 שָׁלֵם "complete (literally or…" | H8003 שָׁלֵם "complete (literally or…" |
 |  | پسندیدۀ | H7522 | H7522 |
 |  | اوست |  |  |
-|  | . |  |  |
-
-### Proverbs 11:2: 1 word(s) changed
-
-Reply line 3.
-
-Original: בָּא זָדוֹן וַ/יָּבֹא קָלוֹן וְ/אֶת צְנוּעִים חָכְמָה
-
-Persian: با تکبر، شرمساری می‌آید، اما حکمت با فروتنان است.
-
-Original words:
-- o1: בָּא = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqrmsa]
-- o2: זָדוֹן = H2087 זָדוֹן "arrogance" [HNcmsa]
-- o3: וַ/יָּבֹא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqw3ms]
-- o4: קָלוֹן = H7036 קָלוֹן "disgrace; (by implication) the pudenda" [HNcmsa]
-- o5: וְ/אֶת = Hc "and" + H854 אֵת "properly…" [HC/R]
-- o6: צְנוּעִים = H6800 צָנַע "to humiliate" [HAampa]
-- o7: חָכְמָה = H2451 חׇכְמָה "wisdom (in a good sense)" [HNcfsa]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | با |  |  |
-|  | تکبر | H2087 | H2087 |
-|  | ، |  |  |
-|  | شرمساری | H7036 | H7036 |
-|  | می‌آید | H935 | H935 |
-|  | ، |  |  |
-|  | اما | Hc | Hc |
-|  | حکمت | H2451 | H2451 |
-| ✱ | با |  | H854 אֵת "properly…" |
-|  | فروتنان | H6800 | H6800 |
-|  | است |  |  |
 |  | . |  |  |
 
 ### Proverbs 11:4: 3 word(s) changed
@@ -105,7 +75,7 @@ Original words:
 |  | می‌بخشد | [رهایی می‌بخشد] H5337 | [رهایی می‌بخشد] H5337 |
 |  | . |  |  |
 
-### Proverbs 11:5: 5 word(s) changed
+### Proverbs 11:5: 4 word(s) changed
 
 Reply line 5.
 
@@ -131,7 +101,7 @@ Original words:
 |  | آنهاست |  |  |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
-| ✱ | شریران | H8549 תָּמִים "entire (literally…"; H7563 רָשָׁע "morally wrong…" | H7563 רָשָׁע "morally wrong…" |
+|  | شریران | H7563 | H7563 |
 | ✱ | از |  | Hb "in" |
 |  | شرارت | H7564 | H7564 |
 |  | خود |  |  |
@@ -139,7 +109,7 @@ Original words:
 | ✱ | می‌کنند | H3474 יָשַׁר "to be straight or even…" | [سقوط می‌کنند] H5307 נָפַל "to fall…" |
 |  | . |  |  |
 
-### Proverbs 11:6: 2 word(s) changed
+### Proverbs 11:6: 1 word(s) changed
 
 Reply line 6.
 
@@ -166,7 +136,7 @@ Original words:
 |  | ، |  |  |
 |  | اما | Hc | Hc |
 |  | خیانت‌پیشگان | H898 | H898 |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | دام |  |  |
 | ✱ | هوسهای |  | H1942 הַוָּה "by implication, of falling)…" |
 |  | خویش |  |  |
@@ -202,8 +172,8 @@ Original words:
 | ✱ | امیدش | H8615 תִּקְוָה "literally a cord (as an…"; H8431 תּוֹחֶלֶת "expectation" | H8615 תִּקְוָה "literally a cord (as an…" |
 |  | نیز |  |  |
 | ✱ | بر |  | [بر باد می‌شود] H6 אָבַד "properly, to wander away…" |
-| ✱ | باد |  | [بر باد می‌شود] H6 אָבַד "properly, to wander away…" |
-| ✱ | می‌شود | H6 אָבַד "properly, to wander away…" | [بر باد می‌شود] H6 אָבַד "properly, to wander away…" |
+| ✱ | باد | [باد می‌شود] H6 אָבַד "properly, to wander away…" | [بر باد می‌شود] H6 אָבַד "properly, to wander away…" |
+| ✱ | می‌شود | [باد می‌شود] H6 אָבַד "properly, to wander away…" | [بر باد می‌شود] H6 אָבַד "properly, to wander away…" |
 |  | ؛ |  |  |
 |  | چشمداشتهای | H8431 | H8431 |
 |  | او |  |  |
@@ -213,7 +183,7 @@ Original words:
 |  | می‌گردد | [تباه می‌گردد] H6 | [تباه می‌گردد] H6 |
 |  | . |  |  |
 
-### Proverbs 11:8: 5 word(s) changed
+### Proverbs 11:8: 3 word(s) changed
 
 Reply line 8.
 
@@ -234,8 +204,8 @@ Original words:
 |  | پارسا | H6662 | H6662 |
 |  | از | Hm | Hm |
 |  | تنگنا | H6869 | H6869 |
-| ✱ | نجات |  | [نجات داده_می‌شود] H2502 חָלַץ "to pull off…" |
-| ✱ | داده_می‌شود |  | [نجات داده_می‌شود] H2502 חָלַץ "to pull off…" |
+|  | نجات | [نجات داده_می‌شود] H2502 | [نجات داده_می‌شود] H2502 |
+|  | داده_می‌شود | [نجات داده_می‌شود] H2502 | [نجات داده_می‌شود] H2502 |
 |  | ؛ |  |  |
 | ✱ | شریر | H6662 צַדִּיק "just"; H7563 רָשָׁע "morally wrong…" | H7563 רָשָׁע "morally wrong…" |
 |  | به |  |  |
@@ -246,7 +216,7 @@ Original words:
 | ✱ | فرو~می‌افتد |  | H935 בּוֹא "to go or come (in a wide…" |
 |  | . |  |  |
 
-### Proverbs 11:9: 3 word(s) changed
+### Proverbs 11:9: 2 word(s) changed
 
 Reply line 9.
 
@@ -270,7 +240,7 @@ Original words:
 |  | گفتارِ | H6310 | H6310 |
 |  | خود |  |  |
 | ✱ | همنوع | H2611 חָנֵף "soiled (i.e. with sin)…"; H7453 רֵעַ "an associate (more or less…" | H7453 רֵעַ "an associate (more or less…" |
-|  | خویش |  |  |
+| ✱ | خویش | H7453 רֵעַ "an associate (more or less…" |  |
 |  | را |  |  |
 |  | هلاک | [هلاک می‌کنند] H7843 | [هلاک می‌کنند] H7843 |
 |  | می‌کنند | [هلاک می‌کنند] H7843 | [هلاک می‌کنند] H7843 |
@@ -280,11 +250,11 @@ Original words:
 |  | را |  |  |
 |  | دانش | H1847 | H1847 |
 |  | او |  |  |
-| ✱ | نجات |  | [نجات می‌دهد] H2502 חָלַץ "to pull off…" |
-| ✱ | می‌دهد |  | [نجات می‌دهد] H2502 חָלַץ "to pull off…" |
+|  | نجات | [نجات می‌دهد] H2502 | [نجات می‌دهد] H2502 |
+|  | می‌دهد | [نجات می‌دهد] H2502 | [نجات می‌دهد] H2502 |
 |  | . |  |  |
 
-### Proverbs 11:10: 5 word(s) changed
+### Proverbs 11:10: 4 word(s) changed
 
 Reply line 10.
 
@@ -303,7 +273,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | از |  | Hb "in" |
+|  | از | Hb | Hb |
 |  | کامیابیِ | H2898 | H2898 |
 |  | پارسایان | H6662 | H6662 |
 |  | شهر | H7151 | H7151 |
@@ -318,7 +288,7 @@ Original words:
 | ✱ | برمی‌خیزد | H5970 עָלַץ "to jump for joy, i.e. exult" |  |
 |  | . |  |  |
 
-### Proverbs 11:11: 2 word(s) changed
+### Proverbs 11:11: 1 word(s) changed
 
 Reply line 11.
 
@@ -337,7 +307,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | از |  | Hb "in" |
+|  | از | Hb | Hb |
 |  | برکت | H1293 | H1293 |
 |  | صالحان | H3477 | H3477 |
 |  | ، |  |  |
@@ -409,7 +379,7 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | سخن‌چین | H1980 H7400 | H1980 H7400 |
-| ✱ | اَسرار | H7400 רָכִיל "a scandal-monger (as…"; H5475 סוֹד "a session…" | H5475 סוֹד "a session…" |
+| ✱ | اَسرار | H1980 הָלַךְ "to walk (in a great variety…"; H7400 רָכִיל "a scandal-monger (as…"; H5475 סוֹד "a session…" | H5475 סוֹד "a session…" |
 |  | را |  |  |
 |  | فاش | [فاش می‌کند] H1540 | [فاش می‌کند] H1540 |
 |  | می‌کند | [فاش می‌کند] H1540 | [فاش می‌کند] H1540 |
@@ -417,11 +387,11 @@ Original words:
 |  | اما | Hc | Hc |
 |  | شخص |  |  |
 | ✱ | امین | H7307 רוּחַ "wind…" | H539 אָמַן "properly…" |
-| ✱ | رازدار | [رازدار است] H539 אָמַן "properly…" | H3680 כָּסָה "properly, to plump…"; H1697 דָּבָר "a word…" |
-| ✱ | است | [رازدار است] H539 אָמַן "properly…" |  |
+| ✱ | رازدار | H539 אָמַן "properly…" | H3680 כָּסָה "properly, to plump…"; H1697 דָּבָר "a word…" |
+| ✱ | است | H3680 כָּסָה "properly, to plump…" |  |
 |  | . |  |  |
 
-### Proverbs 11:14: 3 word(s) changed
+### Proverbs 11:14: 4 word(s) changed
 
 Reply line 14.
 
@@ -440,9 +410,9 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | بی‌نقشه |  | Hb "in"; H369 אַיִן "a non-entity…"; H8458 תַּחְבֻּלָה "only in plural) properly…" |
+| ✱ | بی‌نقشه | H8458 תַּחְבֻּלָה "only in plural) properly…" | Hb "in"; H369 אַיִן "a non-entity…"; H8458 תַּחְבֻּלָה "only in plural) properly…" |
 |  | ، |  |  |
-|  | لشکر | H5971 | H5971 |
+| ✱ | لشکر |  | H5971 עַם "a people (as a congregated…" |
 | ✱ | شکست |  | [شکست می‌خورد] H5307 נָפַל "to fall…" |
 | ✱ | می‌خورد | H5307 נָפַל "to fall…" | [شکست می‌خورد] H5307 נָפַל "to fall…" |
 |  | ، |  |  |
@@ -456,7 +426,7 @@ Original words:
 |  | می‌شود |  |  |
 |  | . |  |  |
 
-### Proverbs 11:15: 6 word(s) changed
+### Proverbs 11:15: 7 word(s) changed
 
 Reply line 15.
 
@@ -484,7 +454,7 @@ Original words:
 |  | زیان | H7451 | H7451 |
 | ✱ | خواهد_دید |  | H7489 רָעַע "properly, to spoil (literally…" |
 |  | ، |  |  |
-|  | اما | Hc | Hc |
+| ✱ | اما |  | Hc "and" |
 |  | هر |  |  |
 |  | که |  |  |
 | ✱ | از |  | [از دست دادن] H8628 תָּקַע "to clatter…" |

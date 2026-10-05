@@ -100,13 +100,13 @@ Original words:
 Persian entries and current tags:
 - p1: آنگاه  → Hc
 - p2: یوسف  → H3130
-- p3: بر  → H5921
+- p3: بر  → H5307 H5921
 - p4: روی  → H6440
 - p5: پدر  → H1
 - p6: خود
 - p7: افتاده  → H5307
 - p8: ،
-- p9: بر  → H5921
+- p9: بر  → H5307 H5921
 - p10: وی
 - p11: بگریست  → H1058
 - p12: و  → Hc
@@ -145,7 +145,7 @@ Persian entries and current tags:
 - p7: او
 - p8: بودند
 - p9: ،
-- p10: فرمود
+- p10: فرمود  → H6680
 - p11: تا
 - p12: پدرش  → H1
 - p13: اسرائیل  → H3478
@@ -188,7 +188,7 @@ Persian entries and current tags:
 - p5: روز  → H3117
 - p6: تمام
 - p7: طول
-- p8: کشید
+- p8: کشید  → H4390
 - p9: ،
 - p10: زیرا  → H3588
 - p11: این
@@ -253,11 +253,11 @@ Persian entries and current tags:
 - p18: :
 - p19: «
 - p20: اگر  → H518
-- p21: بر  → Hb
+- p21: بر
 - p22: من
 - p23: نظر  → H5869
 - p24: لطف  → H2580
-- p25: دارید
+- p25: دارید  → H4672
 - p26: ،
 - p27: در
 - p28: گوش  → H241
@@ -302,17 +302,17 @@ Persian entries and current tags:
 - p4: ،
 - p5: گفت  → H559
 - p6: :
-- p7: ”من
-- p8: به‌زودی  → H4994
+- p7: ”من  → H595
+- p8: به‌زودی
 - p9: می‌میرم  → H4191
 - p10: .
 - p11: مرا
-- p12: در
+- p12: در  → Hb
 - p13: قبری  → H6913
 - p14: که  → H834
 - p15: برای  → Hl
 - p16: خود
-- p17: در
+- p17: در  → Hb
 - p18: سرزمین  → H776
 - p19: کنعان  → H3667
 - p20: کنده‌ام  → H3738
@@ -320,7 +320,7 @@ Persian entries and current tags:
 - p22: دفن کن  → H6912
 - p23: .
 - p24: “
-- p25: پس  → Hc
+- p25: پس
 - p26: اکنون  → H6258
 - p27: اجازه
 - p28: بده  → H4994
@@ -394,7 +394,7 @@ Original words:
 - o16: מִצְרָיִם = H4714 מִצְרַיִם "Mitsrajim, i.e. Upper and Lower Egypt" [HNp]
 
 Persian entries and current tags:
-- p1: پس  → Hc
+- p1: پس
 - p2: یوسف  → H3130
 - p3: رفت  → H5927
 - p4: تا
@@ -489,8 +489,8 @@ Persian entries and current tags:
 - p4: نیز  → H1571
 - p5: با  → H5973
 - p6: او
-- p7: همراه  → H5927 H5973
-- p8: شدند
+- p7: همراه  → H5973
+- p8: شدند  → H5927
 - p9: .
 - p10: جماعت  → H4264
 - p11: بسیار  → H3966
@@ -525,7 +525,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: آنگاه  → Hc
-- p2: که
+- p2: که  → H834
 - p3: به
 - p4: خرمنگاه  → H1637
 - p5: اَطاد  → H329
@@ -540,7 +540,7 @@ Persian entries and current tags:
 - p14: آنجا  → H8033
 - p15: ماتمی  → H5594 H4553
 - p16: عظیم  → H1419
-- p17: و  → Hc
+- p17: و
 - p18: بسیار  → H3966
 - p19: سخت  → H3515
 - p20: گرفتند
@@ -587,7 +587,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: و  → Hc
-- p2: چون
+- p2: چون  → H7200
 - p3: کنعانیانِ  → H3669
 - p4: ساکن  → H3427
 - p5: آن
@@ -596,7 +596,7 @@ Persian entries and current tags:
 - p8: این
 - p9: ماتم  → H60
 - p10: را  → H853
-- p11: در
+- p11: در  → Hb
 - p12: خرمنگاه  → H1637
 - p13: اَطاد  → H329
 - p14: دیدند  → H7200
@@ -612,7 +612,7 @@ Persian entries and current tags:
 - p24: است
 - p25: .
 - p26: »
-- p27: به  → Hl
+- p27: به
 - p28: همین  → H5921 H3651
 - p29: سبب
 - p30: ،
@@ -620,7 +620,7 @@ Persian entries and current tags:
 - p32: محل  → H7121
 - p33: را  → H853
 - p34: که  → H834
-- p35: در
+- p35: در  → Hb
 - p36: آن
 - p37: سوی  → H5676
 - p38: اردن  → H3383
@@ -699,14 +699,14 @@ Persian entries and current tags:
 - p5: کنعان  → H3667
 - p6: بردند  → H5375
 - p7: و  → Hc
-- p8: در
+- p8: در  → Hb
 - p9: غاری  → H4631
 - p10: دفن کردند  → H6912
 - p11: که
 - p12: در
 - p13: زمین  → H7704
 - p14: مَکفیلَه  → H4375
-- p15: در  → H5921
+- p15: در
 - p16: نزدیکی  → H6440
 - p17: مَمری  → H4471
 - p18: است

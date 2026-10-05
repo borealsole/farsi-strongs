@@ -98,10 +98,11 @@ Persian entries and current tags:
 - p2: خداوند  → H3068
 - p3: بر
 - p4: من
-- p5: نازل شده  → H1961
-- p6: ،
-- p7: گفت  → H559
-- p8: :
+- p5: نازل
+- p6: شده
+- p7: ،
+- p8: گفت  → H559
+- p9: :
 
 ### Ezekiel 22:2
 
@@ -124,7 +125,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: «
-- p2: تو
+- p2: تو  → H859
 - p3: ای
 - p4: پسر  → H1121
 - p5: انسان  → H120
@@ -138,7 +139,7 @@ Persian entries and current tags:
 - p13: خون‌ریز  → H1818
 - p14: داوری خواهی_کرد  → H8199
 - p15: ؟
-- p16: پس  → Hc
+- p16: پس
 - p17: آن
 - p18: را  → H853
 - p19: از
@@ -180,7 +181,7 @@ Persian entries and current tags:
 - p8: ای
 - p9: شهری  → H5892
 - p10: که
-- p11: در
+- p11: در  → Hb
 - p12: میانت  → H8210 H8432
 - p13: خون  → H1818
 - p14: می‌ریزی  → H8210
@@ -254,7 +255,7 @@ Persian entries and current tags:
 - p25: سالهایت  → H8141
 - p26: رسیده‌ای  → H935
 - p27: .
-- p28: بنابراین  → H5921 H3651
+- p28: بنابراین  → H3651
 - p29: تو
 - p30: را
 - p31: نزد
@@ -337,7 +338,7 @@ Persian entries and current tags:
 - p3: حاکمان  → H5387
 - p4: اسرائیل  → H3478
 - p5: هریک  → H376
-- p6: به  → Hl
+- p6: به
 - p7: اندازۀ
 - p8: قدرت  → H2220
 - p9: خویش
@@ -415,7 +416,7 @@ Persian entries and current tags:
 - p4: و  → Hc
 - p5: شَبّاتهای  → H7676 H2490
 - p6: مرا
-- p7: بی‌حرمت کرده‌اید  → H959 H2490
+- p7: بی‌حرمت کرده‌اید  → H2490
 - p8: .
 
 ### Ezekiel 22:9
@@ -455,7 +456,7 @@ Persian entries and current tags:
 - p13: و  → Hc
 - p14: کسانی
 - p15: که
-- p16: بر
+- p16: بر  → H413
 - p17: کوه‌ها  → H2022
 - p18: طعام  → H7400
 - p19: می‌خورند
@@ -493,13 +494,13 @@ Persian entries and current tags:
 - p8: و
 - p9: زنان
 - p10: را
-- p11: در
+- p11: در  → Hb
 - p12: دورۀ
 - p13: نجاست  → H2931
 - p14: ماهانۀ  → H5079
 - p15: ایشان
-- p16: بی‌عصمت  → H6031
-- p17: می‌سازند  → H2931 H6031
+- p16: بی‌عصمت  → H5079 H6031
+- p17: می‌سازند
 - p18: .
 
 ### Ezekiel 22:11
@@ -539,7 +540,7 @@ Persian entries and current tags:
 - p9: و  → Hc
 - p10: دیگری  → H376
 - p11: بی‌شرمانه  → H2154
-- p12: عروس  → H7453 H3618 H2930
+- p12: عروس  → H7453 H3618
 - p13: خود
 - p14: را  → H853
 - p15: نجس
@@ -598,7 +599,7 @@ Persian entries and current tags:
 - p14: می‌گیرند  → H3947
 - p15: .
 - p16: شما
-- p17: ربا  → H5392
+- p17: ربا
 - p18: و  → Hc
 - p19: سود  → H8636
 - p20: می‌ستانید
@@ -657,7 +658,7 @@ Persian entries and current tags:
 - p20: دست  → H3709
 - p21: بر
 - p22: هم
-- p23: خواهم_کوفت  → H1215
+- p23: خواهم_کوفت  → H3709
 - p24: !
 
 ### Ezekiel 22:14
@@ -728,7 +729,7 @@ Original words:
 Persian entries and current tags:
 - p1: تو
 - p2: را  → H853
-- p3: در
+- p3: در  → Hb
 - p4: میان قومها  → H1471
 - p5: پراکنده خواهم_ساخت  → H6327
 - p6: و  → Hc

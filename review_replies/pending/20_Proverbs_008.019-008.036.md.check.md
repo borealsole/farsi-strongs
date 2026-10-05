@@ -1,6 +1,6 @@
 # Check of 20_Proverbs_008.019-008.036.md
 
-Generated 2026-10-04 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
 ## 17 verse(s) with changes
 
@@ -66,7 +66,7 @@ Original words:
 |  | می‌سازم | [مملو می‌سازم] H4390 | [مملو می‌سازم] H4390 |
 |  | . |  |  |
 
-### Proverbs 8:22: 5 word(s) changed
+### Proverbs 8:22: 7 word(s) changed
 
 Reply line 4.
 
@@ -92,8 +92,8 @@ Original words:
 |  | آغازِ | H7225 | H7225 |
 |  | راه | H1870 | H1870 |
 |  | خویش |  |  |
-|  | تولد | [تولد بخشید] H7069 | [تولد بخشید] H7069 |
-|  | بخشید | [تولد بخشید] H7069 | [تولد بخشید] H7069 |
+| ✱ | تولد | H7069 קָנָה "to erect, i.e. create…" | [تولد بخشید] H7069 קָנָה "to erect, i.e. create…" |
+| ✱ | بخشید |  | [تولد بخشید] H7069 קָנָה "to erect, i.e. create…" |
 |  | ، |  |  |
 | ✱ | پیش |  | H6924 קֶדֶם "the front…" |
 |  | از |  |  |
@@ -136,7 +136,7 @@ Original words:
 |  | جهان | H776 | H776 |
 |  | . |  |  |
 
-### Proverbs 8:24: 8 word(s) changed
+### Proverbs 8:24: 7 word(s) changed
 
 Reply line 6.
 
@@ -168,8 +168,8 @@ Original words:
 | ✱ | زمانی |  | Hb "in" |
 |  | که |  |  |
 |  | هیچ | H369 | H369 |
-| ✱ | چشمۀ | [چشمۀ پرآبی] H4599 מַעְיָן "a fountain (also…" | H4599 מַעְיָן "a fountain (also…" |
-| ✱ | پرآبی | [چشمۀ پرآبی] H4599 מַעְיָן "a fountain (also…" | H3513 כָּבַד "to be heavy…"; H4325 מַיִם "water; figuratively, juice…" |
+|  | چشمۀ | H4599 | H4599 |
+| ✱ | پرآبی | H4599 מַעְיָן "a fountain (also…"; H3513 כָּבַד "to be heavy…" | H3513 כָּבַד "to be heavy…"; H4325 מַיִם "water; figuratively, juice…" |
 | ✱ | وجود |  | [وجود نداشت] H369 אַיִן "a non-entity…" |
 | ✱ | نداشت |  | [وجود نداشت] H369 אַיִן "a non-entity…" |
 |  | ؛ |  |  |
@@ -245,7 +245,7 @@ Original words:
 |  | را |  |  |
 |  | . |  |  |
 
-### Proverbs 8:27: 3 word(s) changed
+### Proverbs 8:27: 1 word(s) changed
 
 Reply line 9.
 
@@ -278,8 +278,8 @@ Original words:
 |  | بر | H5921 | H5921 |
 |  | سطح | H6440 | H6440 |
 |  | ژرفا | H8415 | H8415 |
-| ✱ | نشان |  | [نشان گذاشت] H2710 חָקַק "properly, to hack…" |
-| ✱ | گذاشت | H2710 חָקַק "properly, to hack…" | [نشان گذاشت] H2710 חָקַק "properly, to hack…" |
+|  | نشان | [نشان گذاشت] H2710 | [نشان گذاشت] H2710 |
+|  | گذاشت | [نشان گذاشت] H2710 | [نشان گذاشت] H2710 |
 |  | ، |  |  |
 |  | من | H589 | H589 |
 |  | آنجا | H8033 | H8033 |
@@ -365,7 +365,7 @@ Original words:
 | ✱ | گذاشت |  | [نشان گذاشت] H2710 חָקַק "properly, to hack…" |
 |  | . |  |  |
 
-### Proverbs 8:30: 6 word(s) changed
+### Proverbs 8:30: 9 word(s) changed
 
 Reply line 12.
 
@@ -391,9 +391,9 @@ Original words:
 | ✱ | آنگاه | Hc "and"; H525 אָמוֹן "skilled, i.e. an architect" | Hc "and" |
 |  | همچون |  |  |
 |  | معماری | H525 | H525 |
-|  | در | [در کنار] H681 | [در کنار] H681 |
-|  | کنار | [در کنار] H681 | [در کنار] H681 |
-|  | او |  |  |
+| ✱ | در | [در کنار او] H681 אֵצֶל "a side…" | [در کنار] H681 אֵצֶל "a side…" |
+| ✱ | کنار | [در کنار او] H681 אֵצֶל "a side…" | [در کنار] H681 אֵצֶל "a side…" |
+| ✱ | او | [در کنار او] H681 אֵצֶל "a side…" |  |
 | ✱ | بودم |  | H1961 הָיָה "to exist, i.e. be or become…" |
 |  | و | Hc | Hc |
 | ✱ | هر |  | H3117 יוֹם "a day (as the warm hours)…" |
@@ -410,7 +410,7 @@ Original words:
 |  | می‌کردم | [پایکوبی می‌کردم] H7832 | [پایکوبی می‌کردم] H7832 |
 |  | ؛ |  |  |
 
-### Proverbs 8:31: 6 word(s) changed
+### Proverbs 8:31: 4 word(s) changed
 
 Reply line 13.
 
@@ -432,7 +432,7 @@ Original words:
 | ✱ | و | [و پایکوبی] H7832 שָׂחַק "to laugh (in pleasure or…" |  |
 | ✱ | پایکوبی | [و پایکوبی] H7832 שָׂחַק "to laugh (in pleasure or…" | H7832 שָׂחַק "to laugh (in pleasure or…" |
 |  | من |  |  |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | جهانِ | H776 | H776 |
 |  | مسکونِ | H8398 | H8398 |
 |  | او |  |  |
@@ -440,11 +440,11 @@ Original words:
 |  | لذت | H8191 | H8191 |
 |  | من |  |  |
 | ✱ | در |  | H854 אֵת "properly…" |
-| ✱ | بنی‌آدم | H120 אָדָם "ruddy i.e. a human being (an…" | H1121 בֵּן "a son (as a builder of the…"; H120 אָדָם "ruddy i.e. a human being (an…" |
+|  | بنی‌آدم | H1121 H120 | H1121 H120 |
 |  | بود |  |  |
 |  | . |  |  |
 
-### Proverbs 8:32: 2 word(s) changed
+### Proverbs 8:32: 3 word(s) changed
 
 Reply line 14.
 
@@ -476,7 +476,7 @@ Original words:
 |  | فرا~دهید | [گوش فرا~دهید] H8085 | [گوش فرا~دهید] H8085 |
 |  | ؛ |  |  |
 |  | خوشا | H835 | H835 |
-|  | به |  |  |
+| ✱ | به | Hl "to" |  |
 | ✱ | حال | H6258 עַתָּה "at this time, whether adverb…" |  |
 |  | آنان |  |  |
 |  | که |  |  |
@@ -552,8 +552,8 @@ Original words:
 |  | و |  |  |
 |  | هر | H3117 | H3117 |
 |  | روزه | H3117 | H3117 |
-|  | بر | H5921 | H5921 |
-| ✱ | دروازه‌های | H1817 דֶּלֶת "something swinging…"; H4201 מְזוּזָה "a door-post (as prominent)" | H1817 דֶּלֶת "something swinging…" |
+| ✱ | بر |  | H5921 עַל "above, over, upon…" |
+|  | دروازه‌های | H1817 | H1817 |
 |  | من |  |  |
 |  | دید‌بانی | [دید‌بانی کند] H8245 | [دید‌بانی کند] H8245 |
 |  | کند | [دید‌بانی کند] H8245 | [دید‌بانی کند] H8245 |
@@ -601,7 +601,7 @@ Original words:
 | ✱ | می‌شود |  | [شامل حالش می‌شود] H6329 פּוּק "to issue, i.e. furnish…" |
 |  | . |  |  |
 
-### Proverbs 8:36: 5 word(s) changed
+### Proverbs 8:36: 4 word(s) changed
 
 Reply line 18.
 
@@ -628,9 +628,9 @@ Original words:
 |  | من |  |  |
 |  | درمانَد | H2398 | H2398 |
 |  | ، |  |  |
-| ✱ | بر | H2554 חָמַס "to be violent…" |  |
-| ✱ | جان | H2554 חָמַס "to be violent…"; H5315 נֶפֶשׁ "properly…" | H5315 נֶפֶשׁ "properly…" |
-| ✱ | خود | H5315 נֶפֶשׁ "properly…" |  |
+|  | بر |  |  |
+| ✱ | جان | [جان خود] H5315 נֶפֶשׁ "properly…" | H5315 נֶפֶשׁ "properly…" |
+| ✱ | خود | [جان خود] H5315 נֶפֶשׁ "properly…" |  |
 | ✱ | زیان | H2554 חָמַס "to be violent…" | [زیان رسانده_است] H2554 חָמַס "to be violent…" |
 | ✱ | رسانده_است |  | [زیان رسانده_است] H2554 חָמַס "to be violent…" |
 |  | و |  |  |

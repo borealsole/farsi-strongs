@@ -1,6 +1,6 @@
 # Check of 20_Proverbs_010.001-010.016.md
 
-Generated 2026-10-04 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
 ## 13 verse(s) with changes
 
@@ -81,7 +81,7 @@ Original words:
 |  | می‌بخشد | [رهایی می‌بخشد] H5337 | [رهایی می‌بخشد] H5337 |
 |  | . |  |  |
 
-### Proverbs 10:3: 3 word(s) changed
+### Proverbs 10:3: 4 word(s) changed
 
 Reply line 4.
 
@@ -108,7 +108,7 @@ Original words:
 | ✱ | نمی‌گذارد | H3808 לֹא "not (the simple or abs.…"; H5315 נֶפֶשׁ "properly…" | H3808 לֹא "not (the simple or abs.…" |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
-|  | شریران | H7563 | H7563 |
+| ✱ | شریران | H1942 הַוָּה "by implication, of falling)…" | H7563 רָשָׁע "morally wrong…" |
 |  | را |  |  |
 |  | از |  |  |
 | ✱ | رسیدن | H1942 הַוָּה "by implication, of falling)…" |  |
@@ -142,13 +142,13 @@ Original words:
 |  | فقیر | H7326 | H7326 |
 | ✱ | می‌سازد |  | H6213 עָשָׂה "to do or make…" |
 |  | ، |  |  |
-| ✱ | دستانِ | H7326 רוּשׁ "to be destitute"; H6213 עָשָׂה "to do or make…"; H3709 כַּף "the hollow hand or palm (so…"; H3027 יָד "a hand (the open one…" | H3027 יָד "a hand (the open one…" |
+| ✱ | دستانِ | H3709 כַּף "the hollow hand or palm (so…"; H3027 יָד "a hand (the open one…" | H3027 יָד "a hand (the open one…" |
 |  | کاری | H2742 | H2742 |
 |  | ، |  |  |
 |  | دولتمند | H6238 | H6238 |
 |  | . |  |  |
 
-### Proverbs 10:5: 3 word(s) changed
+### Proverbs 10:5: 1 word(s) changed
 
 Reply line 6.
 
@@ -172,7 +172,7 @@ Original words:
 |  | است | [عاقل است] H7919 | [عاقل است] H7919 |
 |  | پسری | H1121 | H1121 |
 |  | که |  |  |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | تابستان | H7019 | H7019 |
 |  | گِرد | [گِرد می‌آورد] H103 | [گِرد می‌آورد] H103 |
 |  | می‌آورد | [گِرد می‌آورد] H103 | [گِرد می‌آورد] H103 |
@@ -183,7 +183,7 @@ Original words:
 | ✱ | در |  | Hb "in" |
 |  | فصل | [فصل درو] H7105 | [فصل درو] H7105 |
 |  | درو | [فصل درو] H7105 | [فصل درو] H7105 |
-| ✱ | می‌خوابد |  | H7290 רָדַם "to stun…" |
+|  | می‌خوابد | H7290 | H7290 |
 |  | ، |  |  |
 |  | شرمسار | [شرمسار می‌سازد] H954 | [شرمسار می‌سازد] H954 |
 |  | می‌سازد | [شرمسار می‌سازد] H954 | [شرمسار می‌سازد] H954 |
@@ -281,12 +281,12 @@ Original words:
 |  | ، |  |  |
 |  | اما | Hc | Hc |
 |  | نادانِ | H191 | H191 |
-| ✱ | پرگو | H3820 לֵב "the heart…"; H8193 שָׂפָה "the lip (as a natural…" | H8193 שָׂפָה "the lip (as a natural…" |
+| ✱ | پرگو | H3820 לֵב "the heart…" | H8193 שָׂפָה "the lip (as a natural…" |
 | ✱ | تلف |  | [تلف خواهد_شد] H3832 לָבַט "to overthrow…" |
 | ✱ | خواهد_شد | H3832 לָבַט "to overthrow…" | [تلف خواهد_شد] H3832 לָבַט "to overthrow…" |
 |  | . |  |  |
 
-### Proverbs 10:9: 5 word(s) changed
+### Proverbs 10:9: 4 word(s) changed
 
 Reply line 10.
 
@@ -307,10 +307,10 @@ Original words:
 | --- | --- | --- | --- |
 |  | آن |  |  |
 |  | که |  |  |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | صداقت | H8537 | H8537 |
-| ✱ | گام | H1980 הָלַךְ "to walk (in a great variety…"; H983 בֶּטַח "properly, a place of refuge…" | [گام برمی‌دارد] H1980 הָלַךְ "to walk (in a great variety…" |
-| ✱ | برمی‌دارد |  | [گام برمی‌دارد] H1980 הָלַךְ "to walk (in a great variety…" |
+| ✱ | گام | H1980 הָלַךְ "to walk (in a great variety…" | [گام برمی‌دارد] H1980 הָלַךְ "to walk (in a great variety…" |
+| ✱ | برمی‌دارد | H3212 יָלַךְ "to walk (literally or…" | [گام برمی‌دارد] H1980 הָלַךְ "to walk (in a great variety…" |
 |  | در |  |  |
 |  | راهِ |  |  |
 |  | بی‌خطر | H983 | H983 |
@@ -327,7 +327,7 @@ Original words:
 |  | خواهد_شد | [رسوا خواهد_شد] H3045 | [رسوا خواهد_شد] H3045 |
 |  | . |  |  |
 
-### Proverbs 10:10: 11 word(s) changed
+### Proverbs 10:10: 12 word(s) changed
 
 Reply line 11.
 
@@ -349,23 +349,23 @@ Original words:
 |  | آن |  |  |
 | ✱ | که | H7169 קָרַץ "to pinch…" |  |
 | ✱ | رِندانه | H191 אֱוִיל "(figuratively) silly" |  |
-| ✱ | چشمک | [چشمک می‌زند] H7169 קָרַץ "to pinch…" | [چشمک می‌زند] H7169 קָרַץ "to pinch…"; H5869 עַיִן "an eye (literally or…" |
-| ✱ | می‌زند | [چشمک می‌زند] H7169 קָרַץ "to pinch…" | [چشمک می‌زند] H7169 קָרַץ "to pinch…"; H5869 עַיִן "an eye (literally or…" |
-|  | دلریش | H6094 | H6094 |
+| ✱ | چشمک |  | [چشمک می‌زند] H7169 קָרַץ "to pinch…"; H5869 עַיִן "an eye (literally or…" |
+| ✱ | می‌زند |  | [چشمک می‌زند] H7169 קָרַץ "to pinch…"; H5869 עַיִן "an eye (literally or…" |
+| ✱ | دلریش |  | H6094 עַצֶּבֶת "a idol; also, a pain or wound" |
 | ✱ | می‌سازد |  | H5414 נָתַן "to give…" |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
 |  | آن |  |  |
 | ✱ | که | H7169 קָרַץ "to pinch…" |  |
 | ✱ | بی‌پرده | H8193 שָׂפָה "the lip (as a natural…" |  |
-| ✱ | نکوهش | [نکوهش می‌کند] H3832 לָבַט "to overthrow…" | [نکوهش می‌کند]  |
-| ✱ | می‌کند | [نکوهش می‌کند] H3832 לָבַט "to overthrow…" | [نکوهش می‌کند]  |
+| ✱ | نکوهش | H8193 שָׂפָה "the lip (as a natural…"; H3832 לָבַט "to overthrow…" | [نکوهش می‌کند]  |
+| ✱ | می‌کند |  | [نکوهش می‌کند]  |
 | ✱ | باعث | H5414 נָתַן "to give…" |  |
 | ✱ | صلح | H6094 עַצֶּבֶת "a idol; also, a pain or wound" |  |
 |  | می‌شود |  |  |
 |  | . |  |  |
 
-### Proverbs 10:12: 1 word(s) changed
+### Proverbs 10:12: 2 word(s) changed
 
 Reply line 12.
 
@@ -390,7 +390,7 @@ Original words:
 |  | نزاعها | H4090 | H4090 |
 |  | برمی‌انگیزد | H5782 | H5782 |
 |  | ، |  |  |
-|  | اما | Hc | Hc |
+| ✱ | اما |  | Hc "and" |
 |  | محبت | H160 | H160 |
 |  | ، |  |  |
 | ✱ | خطاپوش | H6588 פֶּשַׁע "a revolt (national…" | H6588 פֶּשַׁע "a revolt (national…"; H3680 כָּסָה "properly, to plump…" |

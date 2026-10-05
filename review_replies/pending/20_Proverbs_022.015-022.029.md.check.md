@@ -4,7 +4,7 @@ Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change
 
 ## 14 verse(s) with changes
 
-### Proverbs 22:15: 2 word(s) changed
+### Proverbs 22:15: 1 word(s) changed
 
 Reply line 2.
 
@@ -25,7 +25,7 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | حماقت | H200 | H200 |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | دل | H3820 | H3820 |
 |  | جوان | H5288 | H5288 |
 |  | لانه | [لانه کرده_است] H7194 | [لانه کرده_است] H7194 |
@@ -42,7 +42,7 @@ Original words:
 |  | می‌کند | [دور می‌کند] H7368 | [دور می‌کند] H7368 |
 |  | . |  |  |
 
-### Proverbs 22:16: 6 word(s) changed
+### Proverbs 22:16: 10 word(s) changed
 
 Reply line 3.
 
@@ -62,20 +62,20 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | آن | H6231 עָשַׁק "to press upon, i.e. oppress…" |  |
-|  | که |  |  |
-|  | بر |  |  |
+| ✱ | آن | [آن که بر] H6231 עָשַׁק "to press upon, i.e. oppress…" |  |
+| ✱ | که | [آن که بر] H6231 עָשַׁק "to press upon, i.e. oppress…" |  |
+| ✱ | بر | [آن که بر] H6231 עָשַׁק "to press upon, i.e. oppress…" |  |
 |  | بینوایان | H1800 | H1800 |
 |  | ظلم | [ظلم کند] H6231 | [ظلم کند] H6231 |
 |  | کند | [ظلم کند] H6231 | [ظلم کند] H6231 |
 | ✱ | تا |  | Hl "to" |
-|  | بر |  |  |
+| ✱ | بر | H6231 עָשַׁק "to press upon, i.e. oppress…" |  |
 | ✱ | مال | [مال خویش بیفزاید] H7235 רָבָה "to increase (in whatever…" |  |
 | ✱ | خویش | [مال خویش بیفزاید] H7235 רָבָה "to increase (in whatever…" |  |
 | ✱ | بیفزاید | [مال خویش بیفزاید] H7235 רָבָה "to increase (in whatever…" | H7235 רָבָה "to increase (in whatever…" |
 |  | و |  |  |
 |  | یا |  |  |
-|  | به | Hl | Hl |
+| ✱ | به |  | Hl "to" |
 |  | ثروتمندان | H6223 | H6223 |
 | ✱ | ببخشد |  | H5414 נָתַן "to give…" |
 |  | ، |  |  |
@@ -123,7 +123,7 @@ Original words:
 |  | بسپار | H7896 | H7896 |
 |  | ، |  |  |
 
-### Proverbs 22:18: 7 word(s) changed
+### Proverbs 22:18: 6 word(s) changed
 
 Reply line 5.
 
@@ -150,17 +150,17 @@ Original words:
 | ✱ | نگاه | H3588 כִּי "by implication) very widely…" | [نگاه داشتن] H8104 שָׁמַר "properly…" |
 | ✱ | داشتن | H8104 שָׁמַר "properly…" | [نگاه داشتن] H8104 שָׁמַר "properly…" |
 |  | آنها |  |  |
-| ✱ | در | H990 בֶּטֶן "the belly…" | Hb "in" |
+| ✱ | در |  | Hb "in" |
 | ✱ | درونت |  | H990 בֶּטֶן "the belly…" |
 |  | و |  |  |
-| ✱ | آماده | H5273 נָעִים "delightful (objective or…"; H3559 כּוּן "properly…" | [آماده داشتن] H3559 כּוּן "properly…" |
+| ✱ | آماده | H3559 כּוּן "properly…" | [آماده داشتن] H3559 כּוּן "properly…" |
 | ✱ | داشتن | H8104 שָׁמַר "properly…" | [آماده داشتن] H3559 כּוּן "properly…" |
 |  | آنها |  |  |
-| ✱ | بر |  | H5921 עַל "above, over, upon…" |
+|  | بر | H5921 | H5921 |
 |  | لبانت | H8193 | H8193 |
 |  | . |  |  |
 
-### Proverbs 22:19: 3 word(s) changed
+### Proverbs 22:19: 4 word(s) changed
 
 Reply line 6.
 
@@ -184,7 +184,7 @@ Original words:
 |  | را |  |  |
 |  | به |  |  |
 |  | تو |  |  |
-|  | آموختم | H3045 | H3045 |
+| ✱ | آموختم |  | H3045 יָדַע "to know (properly…" |
 |  | ، |  |  |
 |  | آری | H637 | H637 |
 |  | به |  |  |
@@ -197,7 +197,7 @@ Original words:
 | ✱ | کنی |  | [توکل کنی] H1961 הָיָה "to exist, i.e. be or become…"; H4009 מִבְטָח "properly, a refuge…" |
 |  | . |  |  |
 
-### Proverbs 22:20: 4 word(s) changed
+### Proverbs 22:20: 3 word(s) changed
 
 Reply line 7.
 
@@ -221,7 +221,7 @@ Original words:
 |  | برایت | Hl | Hl |
 | ✱ | ننگاشتم | H8032 שִׁלְשׁוֹם "trebly…" | H3808 לֹא "not (the simple or abs.…"; H3789 כָּתַב "to grave, by implication…" |
 |  | ، |  |  |
-| ✱ | از |  | Hb "in" |
+|  | از | Hb | Hb |
 |  | مشورت | H4156 | H4156 |
 |  | و | Hc | Hc |
 |  | معرفت | H1847 | H1847 |
@@ -259,14 +259,14 @@ Original words:
 |  | دارم | [معلوم دارم] H3045 | [معلوم دارم] H3045 |
 |  | ، |  |  |
 | ✱ | تا |  | Hl "to" |
-|  | بتوانی |  |  |
-| ✱ | کلمات |  | H561 אֵמֶר "something said" |
-| ✱ | حقیقی | H7189 קֹשֶׁט "equity (as evenly weighed)…" | H571 אֶמֶת "stability…" |
+| ✱ | بتوانی | H7189 קֹשֶׁט "equity (as evenly weighed)…" |  |
+|  | کلمات | H561 | H561 |
+| ✱ | حقیقی | H7189 קֹשֶׁט "equity (as evenly weighed)…"; H571 אֶמֶת "stability…" | H571 אֶמֶת "stability…" |
 |  | را |  |  |
 | ✱ | نزد |  | Hl "to" |
 | ✱ | فرستندگان |  | H7971 שָׁלַח "to send away, for…" |
 |  | خود |  |  |
-| ✱ | باز |  | [باز بری] H7725 שׁוּב "to turn back (hence…" |
+| ✱ | باز | H7725 שׁוּב "to turn back (hence…" | [باز بری] H7725 שׁוּב "to turn back (hence…" |
 | ✱ | بری |  | [باز بری] H7725 שׁוּב "to turn back (hence…" |
 |  | ؟ |  |  |
 
@@ -298,17 +298,17 @@ Original words:
 | ✱ | ضعیفند | H1792 דָּכָא "to crumble…" | H1800 דַּל "properly, dangling…"; H1931 הוּא "he (she or it)…" |
 |  | ، |  |  |
 |  | تاراج | H1497 | H1497 |
-| ✱ | مکن | H408 אַל "not (the qualified negation…"; H1800 דַּל "properly, dangling…" | H408 אַל "not (the qualified negation…" |
-|  | و | Hc | Hc |
+| ✱ | مکن | H1800 דַּל "properly, dangling…" | H408 אַל "not (the qualified negation…" |
+| ✱ | و |  | Hc "and" |
 |  | ستمدیدگان | H6041 | H6041 |
 |  | را |  |  |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | محکمه | H8179 | H8179 |
 | ✱ | لگدمال |  | H1792 דָּכָא "to crumble…" |
 | ✱ | منما |  | H408 אַל "not (the qualified negation…" |
 |  | ، |  |  |
 
-### Proverbs 22:23: 4 word(s) changed
+### Proverbs 22:23: 2 word(s) changed
 
 Reply line 10.
 
@@ -336,17 +336,17 @@ Original words:
 |  | حقِ | H7379 | H7379 |
 |  | آنها |  |  |
 | ✱ | بر |  | [بر خواهد_خاست] H7378 רִיב "properly, to toss…" |
-| ✱ | خواهد_خاست |  | [بر خواهد_خاست] H7378 רִיב "properly, to toss…" |
+| ✱ | خواهد_خاست | H7379 רִיב "a contest (personal or legal)" | [بر خواهد_خاست] H7378 רִיב "properly, to toss…" |
 |  | و | Hc | Hc |
 |  | جان | H5315 | H5315 |
 |  | غارتگرانِ | H6906 | H6906 |
 |  | آنها |  |  |
 |  | را | H853 | H853 |
-| ✱ | غارت | H6906 קָבַע "to cover…" | [غارت خواهد_کرد] H6906 קָבַע "to cover…" |
-| ✱ | خواهد_کرد | H6906 קָבַע "to cover…" | [غارت خواهد_کرد] H6906 קָבַע "to cover…" |
+|  | غارت | [غارت خواهد_کرد] H6906 | [غارت خواهد_کرد] H6906 |
+|  | خواهد_کرد | [غارت خواهد_کرد] H6906 | [غارت خواهد_کرد] H6906 |
 |  | . |  |  |
 
-### Proverbs 22:24: 9 word(s) changed
+### Proverbs 22:24: 8 word(s) changed
 
 Reply line 11.
 
@@ -370,7 +370,7 @@ Original words:
 | --- | --- | --- | --- |
 | ✱ | با |  | H854 אֵת "properly…" |
 | ✱ | مرد | H1167 בַּעַל "a master…"; H376 אִישׁ "a man as an individual or a…" | H1167 בַּעַל "a master…" |
-| ✱ | تندخو |  | H639 אַף "properly, the nose or nostril…" |
+| ✱ | تندخو | H2534 חֵמָה "heat…" | H639 אַף "properly, the nose or nostril…" |
 |  | دوستی | H7462 | H7462 |
 |  | مکن | H408 | H408 |
 |  | ، |  |  |
@@ -381,7 +381,7 @@ Original words:
 |  | زود |  |  |
 |  | به |  |  |
 | ✱ | خشم | H639 אַף "properly, the nose or nostril…"; H2534 חֵמָה "heat…" | H2534 חֵמָה "heat…" |
-| ✱ | آید | H935 בּוֹא "to go or come (in a wide…" |  |
+|  | آید |  |  |
 |  | ، |  |  |
 | ✱ | دمساز |  | H935 בּוֹא "to go or come (in a wide…" |
 | ✱ | مشو |  | H3808 לֹא "not (the simple or abs.…" |
@@ -411,8 +411,8 @@ Original words:
 |  | را |  |  |
 | ✱ | بیاموزی | H3947 לָקַח "to take (in the widest…" | H502 אָלַף "hence…" |
 |  | و | Hc | Hc |
-| ✱ | جان | H502 אָלַף "hence…"; H5315 נֶפֶשׁ "properly…" | H5315 נֶפֶשׁ "properly…" |
-| ✱ | خویش | H5315 נֶפֶשׁ "properly…" |  |
+| ✱ | جان | [جان خویش] H5315 נֶפֶשׁ "properly…" | H5315 נֶפֶשׁ "properly…" |
+| ✱ | خویش | [جان خویش] H5315 נֶפֶשׁ "properly…" |  |
 |  | را |  |  |
 |  | به |  |  |
 |  | دام | H4170 | H4170 |
@@ -442,8 +442,8 @@ Original words:
 |  | آنان |  |  |
 | ✱ | مباش | H408 אַל "not (the qualified negation…" | H408 אַל "not (the qualified negation…"; H1961 הָיָה "to exist, i.e. be or become…" |
 |  | که |  |  |
-| ✱ | دست | [دست می‌دهند] H3709 כַּף "the hollow hand or palm (so…" | [دست می‌دهند] H8628 תָּקַע "to clatter…"; H3709 כַּף "the hollow hand or palm (so…" |
-| ✱ | می‌دهند | [دست می‌دهند] H3709 כַּף "the hollow hand or palm (so…" | [دست می‌دهند] H8628 תָּקַע "to clatter…"; H3709 כַּף "the hollow hand or palm (so…" |
+| ✱ | دست | H3709 כַּף "the hollow hand or palm (so…" | [دست می‌دهند] H8628 תָּקַע "to clatter…"; H3709 כַּף "the hollow hand or palm (so…" |
+| ✱ | می‌دهند | H8628 תָּקַע "to clatter…"; H3709 כַּף "the hollow hand or palm (so…" | [دست می‌دهند] H8628 תָּקַע "to clatter…"; H3709 כַּף "the hollow hand or palm (so…" |
 |  | و |  |  |
 | ✱ | ضامن | H6148 עָרַב "to braid, i.e. intermix…"; H4859 מַשָּׁאָה "a loan" | H6148 עָרַב "to braid, i.e. intermix…" |
 |  | بدهکار | H4859 | H4859 |
@@ -481,7 +481,7 @@ Original words:
 |  | مکن | H408 | H408 |
 |  | . |  |  |
 
-### Proverbs 22:29: 6 word(s) changed
+### Proverbs 22:29: 5 word(s) changed
 
 Reply line 15.
 
@@ -517,7 +517,7 @@ Original words:
 |  | او |  |  |
 | ✱ | در |  | Hl "to" |
 |  | خدمت | H6440 | H6440 |
-| ✱ | پادشاهان | H4428 מֶלֶךְ "a king"; H2823 חָשֹׁךְ "dark (figuratively…" | H4428 מֶלֶךְ "a king" |
+|  | پادشاهان | H4428 | H4428 |
 | ✱ | خواهد_بود |  | H3320 יָצַב "to place (any thing so as to…" |
 |  | و |  |  |
 |  | نه | H1077 | H1077 |

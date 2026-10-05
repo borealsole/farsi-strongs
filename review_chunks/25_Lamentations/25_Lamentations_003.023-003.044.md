@@ -131,7 +131,7 @@ Persian entries and current tags:
 - p8: من
 - p9: است
 - p10: ،
-- p11: پس  → H3651
+- p11: پس  → H5921 H3651
 - p12: بر  → H5921
 - p13: او
 - p14: امید خواهم_بست  → H3176
@@ -240,7 +240,7 @@ Persian entries and current tags:
 - p9: یوغ  → H5190
 - p10: بر  → H5921
 - p11: او
-- p12: نهاده  → H5190
+- p12: نهاده
 - p13: می‌شود
 - p14: ؛
 
@@ -286,7 +286,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: بگذار
-- p2: رخسار  → H3895
+- p2: رخسار
 - p3: خود
 - p4: را
 - p5: به  → Hl
@@ -346,8 +346,8 @@ Persian entries and current tags:
 - p7: بر
 - p8: حسب  → Hk
 - p9: کثرت  → H7230
-- p10: محبتش رحم  → H7355 H2617
-- p11: خواهد_کرد
+- p10: محبتش  → H7355 H2617
+- p11: رحم خواهد_کرد  → H7355
 - p12: ؛
 
 ### Lamentations 3:33
@@ -368,15 +368,14 @@ Persian entries and current tags:
 - p1: زیرا  → H3588
 - p2: از  → Hm H3820
 - p3: دل  → H3820
-- p4: نمی‌خواهد  → H3808
-- p5: آدمی
-- p6: را
-- p7: به
-- p8: مصیبت  → H6031
-- p9: و  → Hc
-- p10: اندوه  → H376
-- p11: دچار سازد  → H3013
-- p12: .
+- p4: نمی‌خواهد آدمی  → H3808
+- p5: را
+- p6: به
+- p7: مصیبت  → H6031
+- p8: و  → Hc
+- p9: اندوه  → H376
+- p10: دچار سازد  → H3013
+- p11: .
 
 ### Lamentations 3:34
 
@@ -392,7 +391,7 @@ Original words:
 - o6: אָרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsa]
 
 Persian entries and current tags:
-- p1: اسیرانِ  → H1792 H615
+- p1: اسیرانِ  → H615
 - p2: زمین  → H776
 - p3: را
 - p4: جملگی  → H3605
@@ -441,12 +440,12 @@ Persian entries and current tags:
 - p1: دادرسیِ  → H7379
 - p2: کسی  → H120
 - p3: را
-- p4: در
+- p4: در  → Hb
 - p5: محکمه
 - p6: منحرف ساختن  → H5791
 - p7: ،
 - p8: این‌گونه
-- p9: کارها  → H120
+- p9: کارها
 - p10: پسندیدۀ
 - p11: خداوندگار  → H136
 - p12: نیست  → H3808
@@ -478,8 +477,9 @@ Persian entries and current tags:
 - p9: اگر  → H3808
 - p10: خداوندگار  → H136
 - p11: بدان
-- p12: امر نکرده_باشد  → H6680
-- p13: ؟
+- p12: امر  → H6680
+- p13: نکرده_باشد  → H3808
+- p14: ؟
 
 ### Lamentations 3:38
 
@@ -508,9 +508,8 @@ Persian entries and current tags:
 - p11: و  → Hc
 - p12: هم
 - p13: خوشی  → H7451 H2896
-- p14: صادر
-- p15: می‌شود  → H3318
-- p16: ؟
+- p14: صادر می‌شود  → H3318
+- p15: ؟
 
 ### Lamentations 3:39
 
@@ -570,10 +569,10 @@ Persian entries and current tags:
 - p7: و  → Hc
 - p8: آنها
 - p9: را
-- p10: بیازماییم
+- p10: بیازماییم  → H2713
 - p11: ؛
 - p12: بیایید
-- p13: تا  → H2664 H5704
+- p13: تا  → H5704
 - p14: به
 - p15: سوی
 - p16: خداوند  → H3068
@@ -601,11 +600,11 @@ Persian entries and current tags:
 - p4: و
 - p5: دستانمان  → H3709
 - p6: را
-- p7: به
-- p8: سوی  → H413
+- p7: به  → H413
+- p8: سوی
 - p9: خدایی  → H410
 - p10: که
-- p11: در
+- p11: در  → Hb
 - p12: آسمان  → H8064
 - p13: است
 - p14: برافراشته  → H5375
@@ -656,7 +655,7 @@ Persian entries and current tags:
 - p1: «
 - p2: خویشتن
 - p3: را
-- p4: به
+- p4: به  → Hb
 - p5: خشم  → H639
 - p6: پوشانیدی  → H5526
 - p7: و  → Hc

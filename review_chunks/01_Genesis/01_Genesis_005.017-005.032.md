@@ -139,13 +139,13 @@ Original words:
 
 Persian entries and current tags:
 - p1: یارِد  → H3382
-- p2: صد  → H3967
+- p2: صد
 - p3: و  → Hc
 - p4: شصت
 - p5: و  → Hc
-- p6: دو  → H8147 H3967
+- p6: دو  → H8147 H8141 H3967
 - p7: ساله  → H8141
-- p8: بود
+- p8: بود  → H3205
 - p9: که
 - p10: خَنوخ  → H2585
 - p11: را  → H853
@@ -180,7 +180,7 @@ Persian entries and current tags:
 - p6: هشتصد  → H8083 H3967
 - p7: سال  → H8141
 - p8: زندگی کرد  → H2421
-- p9: و  → Hc
+- p9: و
 - p10: پسران  → H1121
 - p11: و  → Hc
 - p12: دختران  → H3205 H1323
@@ -218,7 +218,7 @@ Persian entries and current tags:
 - p9: و  → Hc
 - p10: شصت
 - p11: و  → Hc
-- p12: دو
+- p12: دو  → H8147
 - p13: سال  → H8141
 - p14: بود
 - p15: ؛
@@ -248,7 +248,7 @@ Persian entries and current tags:
 - p3: و  → Hc
 - p4: پنج  → H2568
 - p5: ساله  → H8141
-- p6: بود
+- p6: بود  → H3205
 - p7: که
 - p8: مَتوشالَح  → H4968
 - p9: را  → H853
@@ -287,7 +287,7 @@ Persian entries and current tags:
 - p8: سال  → H8141
 - p9: با  → H854
 - p10: خدا  → H430
-- p11: راه
+- p11: راه  → H1980
 - p12: می‌رفت
 - p13: و  → Hc
 - p14: پسران  → H1121
@@ -322,11 +322,11 @@ Persian entries and current tags:
 - p5: به
 - p6: تمامی  → H3605
 - p7: ،
-- p8: سیصد  → H3967
+- p8: سیصد  → H7969
 - p9: و  → Hc
 - p10: شصت
 - p11: و  → Hc
-- p12: پنج  → H2568 H8346 H7969
+- p12: پنج  → H2568 H7969
 - p13: سال  → H8141
 - p14: بود
 - p15: .
@@ -349,7 +349,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: خَنوخ  → H2585
-- p2: با
+- p2: با  → H854
 - p3: خدا  → H430
 - p4: راه می‌رفت  → H1980
 - p5: ،
@@ -384,13 +384,13 @@ Original words:
 
 Persian entries and current tags:
 - p1: مَتوشالَح  → H4968
-- p2: صد  → H2421 H3967
+- p2: صد  → H2421
 - p3: و  → Hc
 - p4: هشتاد
 - p5: و  → Hc
 - p6: هفت  → H7651 H8141
 - p7: ساله  → H8141
-- p8: بود
+- p8: بود  → H3205
 - p9: که
 - p10: لَمِک  → H3929
 - p11: را  → H853
@@ -430,7 +430,7 @@ Persian entries and current tags:
 - p8: و  → Hc
 - p9: هشتاد
 - p10: و  → Hc
-- p11: دو  → H8147 H8084 H7651 H3967
+- p11: دو  → H8147 H8084 H8141 H7651 H3967
 - p12: سال  → H8141
 - p13: زندگی کرد  → H2421
 - p14: و  → Hc
@@ -502,7 +502,7 @@ Persian entries and current tags:
 - p3: و  → Hc
 - p4: هشتاد
 - p5: و  → Hc
-- p6: دو  → H8147 H3967
+- p6: دو  → H8147 H8141 H3967
 - p7: ساله  → H8141
 - p8: بود
 - p9: که
@@ -670,11 +670,11 @@ Persian entries and current tags:
 - p1: نوح  → H5146
 - p2: پانصد  → H2568 H3967
 - p3: ساله  → H8141
-- p4: بود
+- p4: بود  → H3205
 - p5: که
-- p6: سام  → H8035
+- p6: سام
 - p7: و
-- p8: حام  → H2526
+- p8: حام
 - p9: و  → Hc
 - p10: یافِث  → H3315
 - p11: را  → H853

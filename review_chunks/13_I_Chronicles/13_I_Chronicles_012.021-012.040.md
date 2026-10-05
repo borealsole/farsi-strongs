@@ -275,7 +275,7 @@ Original words:
 - o9: וּ/מֵאָה = Hc "and" + H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HC/Acbsa]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → H4480
 - p2: مردان
 - p3: شمعون  → H8095
 - p4: ۷۱۰۰  → H7651 H505 H3967
@@ -301,7 +301,7 @@ Original words:
 - o7: מֵאוֹת = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbpa]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → H4480
 - p2: مردان
 - p3: لاوی  → H1121 H3878
 - p4: ۴۶۰۰  → H702 H8337
@@ -331,7 +331,7 @@ Persian entries and current tags:
 - p5: ،
 - p6: با  → H5973
 - p7: ۳۷۰۰  → H7969 H7651
-- p8: تن  → H505 H3967
+- p8: تن  → H505 H7651 H3967
 - p9: ،
 
 ### I Chronicles 12:28
@@ -397,20 +397,19 @@ Persian entries and current tags:
 - p6: خویشان  → H251
 - p7: شائول  → H7586
 - p8: ،
-- p9: ۳۰۰۰  → H7969
-- p10: تن  → H7969 H505
-- p11: ،
-- p12: که
-- p13: اکثرشان  → H4768
-- p14: تا  → H5704
-- p15: آن
-- p16: هنگام
-- p17: به
-- p18: خاندان  → H1004
-- p19: شائول  → H7586
-- p20: وفادار  → H4931
-- p21: مانده_بودند
-- p22: ؛
+- p9: ۳۰۰۰ تن  → H7969 H505
+- p10: ،
+- p11: که
+- p12: اکثرشان  → H4768
+- p13: تا  → H5704
+- p14: آن
+- p15: هنگام
+- p16: به
+- p17: خاندان  → H1004
+- p18: شائول  → H7586
+- p19: وفادار  → H4931
+- p20: مانده_بودند  → H8104
+- p21: ؛
 
 ### I Chronicles 12:30
 
@@ -481,16 +480,15 @@ Persian entries and current tags:
 - p7: ،
 - p8: که  → H834
 - p9: به  → Hb
-- p10: نام  → H5344 H8034
-- p11: تعیین شده_بودند  → H5344
-- p12: تا
-- p13: بیایند  → H935
-- p14: و
-- p15: داوود  → H4519 H1732
-- p16: را  → H853
-- p17: پادشاه  → H4427
-- p18: سازند  → H1732
-- p19: ؛
+- p10: نام تعیین شده_بودند  → H5344
+- p11: تا
+- p12: بیایند  → H935
+- p13: و
+- p14: داوود  → H4519 H1732
+- p15: را  → H853
+- p16: پادشاه  → H4427
+- p17: سازند  → H1732
+- p18: ؛
 
 ### I Chronicles 12:32
 
@@ -565,11 +563,11 @@ Persian entries and current tags:
 - p1: از  → Hm
 - p2: زِبولون  → H2074
 - p3: ،
-- p4: ۵۰۰۰۰  → H2572 H505
-- p5: سپاهیِ  → H6635
+- p4: ۵۰۰۰۰  → H3318 H2572 H505
+- p5: سپاهیِ  → H3318 H6635
 - p6: ورزیده  → H3318
 - p7: و  → Hc
-- p8: مجهز  → H6635 H6186
+- p8: مجهز
 - p9: به
 - p10: تمامیِ  → H3605
 - p11: سلاح‌های  → H3627
@@ -635,7 +633,7 @@ Original words:
 - o9: מֵאוֹת = H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HAcbpa]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → H4480
 - p2: مردان
 - p3: دان  → H1839
 - p4: ،
@@ -662,11 +660,11 @@ Persian entries and current tags:
 - p1: از  → Hm
 - p2: اَشیر  → H836
 - p3: ،
-- p4: ۴۰۰۰۰  → H705 H505
+- p4: ۴۰۰۰۰  → H705
 - p5: سپاهیِ  → H6635 H6186 H4421
 - p6: ورزیده  → H6186
 - p7: و
-- p8: آمادۀ  → H3318 H6186
+- p8: آمادۀ  → H6186
 - p9: جنگ  → H6635 H4421
 - p10: ؛
 
@@ -699,7 +697,7 @@ Persian entries and current tags:
 - p4: سوی  → H5676
 - p5: اردن  → H3383
 - p6: ،
-- p7: از
+- p7: از  → H4480
 - p8: مردان
 - p9: رِئوبین  → H7206
 - p10: و  → Hc
@@ -779,8 +777,8 @@ Persian entries and current tags:
 - p24: اسرائیل  → H3478
 - p25: نیز  → H1571
 - p26: به
-- p27: همین  → H1571
-- p28: ترتیب
+- p27: همین
+- p28: ترتیب  → Hc
 - p29: جملگی  → H3605
 - p30: برای  → Hl
 - p31: پادشاه ساختنِ  → H4427
@@ -824,8 +822,9 @@ Persian entries and current tags:
 - p13: برادرانشان  → H251
 - p14: برای  → Hl
 - p15: ایشان
-- p16: تدارک دیده_بودند  → H3559
-- p17: .
+- p16: تدارک  → H3559
+- p17: دیده_بودند
+- p18: .
 
 ### I Chronicles 12:40
 
@@ -892,7 +891,7 @@ Persian entries and current tags:
 - p30: و  → Hc
 - p31: قرص کشمش  → H6778
 - p32: و  → Hc
-- p33: شراب
+- p33: شراب  → H3196
 - p34: و  → Hc
 - p35: روغن
 - p36: و  → Hc

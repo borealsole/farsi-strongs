@@ -106,17 +106,17 @@ Original words:
 - o17: מִ/לְ/מָעְלָ/ה = Hm "from" + Hl "to" + H4605 מַעַל "properly, the upper part…" [HR/R/D/Sd]
 
 Persian entries and current tags:
-- p1: سپس
+- p1: سپس  → Hc
 - p2: شهادت  → H5715
 - p3: را  → H853
-- p4: برگرفته  → H3947
+- p4: برگرفته  → Hc
 - p5: ،
 - p6: درون
 - p7: صندوق  → H727
 - p8: قرار
 - p9: داد  → H5414
 - p10: ،
-- p11: و  → Hc
+- p11: و
 - p12: تیرکها  → H905
 - p13: را  → H853
 - p14: به  → H5921
@@ -165,10 +165,10 @@ Persian entries and current tags:
 - p6: مسکن  → H4908
 - p7: برد  → H935
 - p8: و  → Hc
-- p9: حجاب  → H6532 H5715
+- p9: حجاب  → H5715
 - p10: حائل  → H4539
 - p11: را  → H853
-- p12: آویخت  → H7760 H4539
+- p12: آویخت  → H7760
 - p13: به
 - p14: گونه‌ای
 - p15: که
@@ -211,7 +211,7 @@ Persian entries and current tags:
 - p2: میز  → H7979
 - p3: را  → H853
 - p4: نیز
-- p5: در
+- p5: در  → Hb
 - p6: خیمۀ  → H168
 - p7: ملاقات  → H4150
 - p8: ،
@@ -221,7 +221,7 @@ Persian entries and current tags:
 - p12: در  → H5921
 - p13: ضلع  → H3409
 - p14: شمالی  → H6828
-- p15: مسکن  → H4908
+- p15: مسکن
 - p16: قرار
 - p17: داد
 
@@ -259,7 +259,7 @@ Persian entries and current tags:
 - p13: به  → Hl
 - p14: حضور  → H6440
 - p15: خداوند  → H3068
-- p16: نهاد
+- p16: نهاد  → H6186 H6187
 - p17: .
 
 ### Exodus 40:24
@@ -350,7 +350,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: سپس  → Hc
-- p2: مذبح  → H4196
+- p2: مذبح
 - p3: زرین  → H4196 H2091
 - p4: را  → H853
 - p5: در
@@ -449,11 +449,11 @@ Persian entries and current tags:
 - p6: مسکن  → H4908
 - p7: ،
 - p8: یعنی
-- p9: خیمۀ
+- p9: خیمۀ  → H4908
 - p10: ملاقات  → H4150
 - p11: ،
 - p12: قرار
-- p13: داد
+- p13: داد  → H7760
 - p14: و  → Hc
 - p15: بر  → H5921
 - p16: آن
@@ -532,17 +532,16 @@ Persian entries and current tags:
 - p3: هارون  → H175
 - p4: و  → Hc
 - p5: پسرانش  → H1121
-- p6: از
-- p7: آن  → H4480
-- p8: آب
-- p9: برای
-- p10: شستن  → H7364
-- p11: دست  → H3027
-- p12: و  → Hc
-- p13: پایشان  → H7272
-- p14: استفاده
-- p15: می‌کردند  → H7364
-- p16: .
+- p6: از آن  → H4480
+- p7: آب
+- p8: برای
+- p9: شستن  → H7364
+- p10: دست  → H3027
+- p11: و  → Hc
+- p12: پایشان  → H7272
+- p13: استفاده
+- p14: می‌کردند  → H7364
+- p15: .
 
 ### Exodus 40:32
 
@@ -621,7 +620,7 @@ Persian entries and current tags:
 - p8: مذبح  → H4196
 - p9: بر
 - p10: پا
-- p11: داشت
+- p11: داشت  → H6965
 - p12: و  → Hc
 - p13: پرده  → H4539
 - p14: را  → H853
@@ -658,7 +657,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: آنگاه  → Hc
-- p2: ابر  → H6051
+- p2: ابر
 - p3: ،
 - p4: خیمۀ  → H168
 - p5: ملاقات  → H4150
@@ -705,7 +704,7 @@ Persian entries and current tags:
 - p7: درآید
 - p8: ،
 - p9: زیرا  → H3588
-- p10: ابر  → H6051
+- p10: ابر
 - p11: بر  → H5921
 - p12: آن
 - p13: ساکن بود  → H7931
@@ -833,8 +832,8 @@ Persian entries and current tags:
 - p25: شب  → H3915
 - p26: ،
 - p27: آتش  → H784
-- p28: در  → Hb
-- p29: ابر
+- p28: در
+- p29: ابر  → H6051
 - p30: .
 
 ## Neighbouring verses (context only, not for review)

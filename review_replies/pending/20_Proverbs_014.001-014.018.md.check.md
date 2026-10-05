@@ -1,10 +1,10 @@
 # Check of 20_Proverbs_014.001-014.018.md
 
-Generated 2026-10-04 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
 ## 16 verse(s) with changes
 
-### Proverbs 14:1: 3 word(s) changed
+### Proverbs 14:1: 2 word(s) changed
 
 Reply line 2.
 
@@ -31,7 +31,7 @@ Original words:
 |  | بنا | [بنا می‌کند] H1129 | [بنا می‌کند] H1129 |
 |  | می‌کند | [بنا می‌کند] H1129 | [بنا می‌کند] H1129 |
 |  | ، |  |  |
-| ✱ | اما |  | Hc "and" |
+|  | اما | Hc | Hc |
 |  | زن |  |  |
 | ✱ | نادان | H2454 חׇכְמוֹת "wisdom"; H200 אִוֶּלֶת "silliness" | H200 אִוֶּלֶת "silliness" |
 |  | به | Hb | Hb |
@@ -43,7 +43,7 @@ Original words:
 |  | می‌سازد | [ویران می‌سازد] H2040 | [ویران می‌سازد] H2040 |
 |  | . |  |  |
 
-### Proverbs 14:2: 3 word(s) changed
+### Proverbs 14:2: 2 word(s) changed
 
 Reply line 3.
 
@@ -64,7 +64,7 @@ Original words:
 | --- | --- | --- | --- |
 |  | آن |  |  |
 |  | که |  |  |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | راستی | H3476 | H3476 |
 |  | خود |  |  |
 | ✱ | گام | H1980 הָלַךְ "to walk (in a great variety…" | [گام برمی‌دارد] H1980 הָלַךְ "to walk (in a great variety…" |
@@ -122,7 +122,7 @@ Original words:
 |  | می‌کند | [محافظت می‌کند] H8104 | [محافظت می‌کند] H8104 |
 |  | . |  |  |
 
-### Proverbs 14:4: 1 word(s) changed
+### Proverbs 14:4: 2 word(s) changed
 
 Reply line 5.
 
@@ -152,9 +152,9 @@ Original words:
 |  | است |  |  |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
-|  | از | Hb | Hb |
+| ✱ | از |  | Hb "in" |
 |  | قوّت | H3581 | H3581 |
-| ✱ | گاو | H18 אֵבוּס "a manger or stall"; H7794 שׁוֹר "a bullock (as a traveller)" | H7794 שׁוֹר "a bullock (as a traveller)" |
+| ✱ | گاو | H504 אֶלֶף "a family…"; H7794 שׁוֹר "a bullock (as a traveller)" | H7794 שׁוֹר "a bullock (as a traveller)" |
 |  | است |  |  |
 |  | که |  |  |
 |  | محصول | H8393 | H8393 |
@@ -162,7 +162,7 @@ Original words:
 |  | می‌شود |  |  |
 |  | . |  |  |
 
-### Proverbs 14:5: 4 word(s) changed
+### Proverbs 14:5: 5 word(s) changed
 
 Reply line 6.
 
@@ -185,11 +185,11 @@ Original words:
 | ✱ | شاهد | H5707 עֵד "concretely, a witness…"; H529 אֵמוּן "established…" | H5707 עֵד "concretely, a witness…" |
 |  | امین | H529 | H529 |
 | ✱ | دروغ | H3576 כָּזַב "to lie (i.e. deceive)…"; H3577 כָּזָב "falsehood…" | [دروغ نمی‌گوید] H3808 לֹא "not (the simple or abs.…"; H3576 כָּזַב "to lie (i.e. deceive)…" |
-| ✱ | نمی‌گوید |  | [دروغ نمی‌گوید] H3808 לֹא "not (the simple or abs.…"; H3576 כָּזַב "to lie (i.e. deceive)…" |
+| ✱ | نمی‌گوید | H3808 לֹא "not (the simple or abs.…" | [دروغ نمی‌گوید] H3808 לֹא "not (the simple or abs.…"; H3576 כָּזַב "to lie (i.e. deceive)…" |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
 | ✱ | شاهد | H529 אֵמוּן "established…"; H5707 עֵד "concretely, a witness…" | H5707 עֵד "concretely, a witness…" |
-|  | کاذب | H8267 | H8267 |
+| ✱ | کاذب | H6315 פּוּחַ "to puff…"; H8267 שֶׁקֶר "an untruth…" | H8267 שֶׁקֶר "an untruth…" |
 |  | دروغ | H3577 | H3577 |
 |  | می‌بافد | H6315 | H6315 |
 |  | ! |  |  |
@@ -259,7 +259,7 @@ Original words:
 | ✱ | نخواهی_یافت | H1077 בַּל "properly, a failure…" | H1077 בַּל "properly, a failure…"; H3045 יָדַע "to know (properly…" |
 |  | . |  |  |
 
-### Proverbs 14:10: 6 word(s) changed
+### Proverbs 14:10: 4 word(s) changed
 
 Reply line 9.
 
@@ -279,7 +279,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | تنها | H4787 מׇרָּה "trouble" |  |
+|  | تنها |  |  |
 |  | دل | H3820 | H3820 |
 |  | از |  |  |
 | ✱ | تلخی | H4787 מׇרָּה "trouble"; H8057 שִׂמְחָה "blithesomeness or glee…" | H4787 מׇרָּה "trouble" |
@@ -290,14 +290,14 @@ Original words:
 | ✱ | نیز |  | Hc "and" |
 |  | هیچ | H3808 | H3808 |
 |  | بیگانه | H2114 | H2114 |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | شادی | H8057 | H8057 |
 |  | آن |  |  |
 | ✱ | شریک |  | [شریک نیست] H6148 עָרַב "to braid, i.e. intermix…" |
 | ✱ | نیست | H6148 עָרַב "to braid, i.e. intermix…" | [شریک نیست] H6148 עָרַב "to braid, i.e. intermix…" |
 |  | . |  |  |
 
-### Proverbs 14:11: 3 word(s) changed
+### Proverbs 14:11: 1 word(s) changed
 
 Reply line 10.
 
@@ -317,8 +317,8 @@ Original words:
 | --- | --- | --- | --- |
 |  | خانۀ | H1004 | H1004 |
 | ✱ | شریران |  | H7563 רָשָׁע "morally wrong…" |
-| ✱ | ویران | [ویران خواهد_شد] H8045 שָׁמַד "to desolate"; H6524 פָּרַח "to break forth as a bud…" | [ویران خواهد_شد] H8045 שָׁמַד "to desolate" |
-| ✱ | خواهد_شد | [ویران خواهد_شد] H8045 שָׁמַד "to desolate"; H6524 פָּרַח "to break forth as a bud…" | [ویران خواهد_شد] H8045 שָׁמַד "to desolate" |
+|  | ویران | [ویران خواهد_شد] H8045 | [ویران خواهد_شد] H8045 |
+|  | خواهد_شد | [ویران خواهد_شد] H8045 | [ویران خواهد_شد] H8045 |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
 |  | خیمۀ | H168 | H168 |
@@ -365,7 +365,7 @@ Original words:
 |  | می‌انجامد |  |  |
 |  | . |  |  |
 
-### Proverbs 14:13: 3 word(s) changed
+### Proverbs 14:13: 2 word(s) changed
 
 Reply line 12.
 
@@ -385,7 +385,7 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | حتی | H1571 | H1571 |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | خنده | H7814 | H7814 |
 | ✱ | نیز |  | H1571 גַּם "properly, assemblage…" |
 |  | دل | H3820 | H3820 |
@@ -492,7 +492,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | حکیم | H2450 חָכָם "wise, (i.e. intelligent…"; H3373 יָרֵא "fearing; morally, reverent" | H2450 חָכָם "wise, (i.e. intelligent…" |
+|  | حکیم | H2450 | H2450 |
 |  | می‌ترسد | H3373 | H3373 |
 |  | و | Hc | Hc |
 |  | از | Hm | Hm |
@@ -500,7 +500,7 @@ Original words:
 |  | اجتناب | [اجتناب می‌کند] H5493 | [اجتناب می‌کند] H5493 |
 |  | می‌کند | [اجتناب می‌کند] H5493 | [اجتناب می‌کند] H5493 |
 |  | ، |  |  |
-|  | اما | Hc | Hc |
+| ✱ | اما |  | Hc "and" |
 |  | نادان | H3684 | H3684 |
 |  | ، |  |  |
 |  | آسوده‌خیال | H982 | H982 |

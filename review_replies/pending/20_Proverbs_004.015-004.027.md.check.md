@@ -1,10 +1,12 @@
 # Check of 20_Proverbs_004.015-004.027.md
 
-Generated 2026-10-04 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
-## 13 verse(s) with changes
+No change from the current tags (will be skipped): Proverbs 4:17.
 
-### Proverbs 4:15: 10 word(s) changed
+## 12 verse(s) with changes
+
+### Proverbs 4:15: 11 word(s) changed
 
 Reply line 2.
 
@@ -27,13 +29,13 @@ Original words:
 |  | آن |  |  |
 | ✱ | دوری |  | [دوری کن] H6544 פָּרַע "to loosen…" |
 | ✱ | کن |  | [دوری کن] H6544 פָּרַע "to loosen…" |
-|  | و |  |  |
-| ✱ | در |  | Hb "in" |
+| ✱ | و | Hc "and" |  |
+| ✱ | در | H5674 עָבַר "to cross over…" | Hb "in" |
 |  | آن |  |  |
 | ✱ | ره |  | [ره مسپار] H408 אַל "not (the qualified negation…"; H5674 עָבַר "to cross over…" |
-| ✱ | مسپار | H7847 שָׂטָה "to deviate from duty" | [ره مسپار] H408 אַל "not (the qualified negation…"; H5674 עָבַר "to cross over…" |
+| ✱ | مسپار | H408 אַל "not (the qualified negation…"; H7847 שָׂטָה "to deviate from duty" | [ره مسپار] H408 אַל "not (the qualified negation…"; H5674 עָבַר "to cross over…" |
 |  | ؛ |  |  |
-| ✱ | از | H6544 פָּרַע "to loosen…"; Hm "from" | Hm "from"; H5921 עַל "above, over, upon…" |
+| ✱ | از |  | Hm "from"; H5921 עַל "above, over, upon…" |
 |  | آن |  |  |
 |  | ، |  |  |
 | ✱ | روی |  | [روی بگردان] H7847 שָׂטָה "to deviate from duty" |
@@ -45,7 +47,7 @@ Original words:
 |  | رو | H5674 | H5674 |
 |  | . |  |  |
 
-### Proverbs 4:16: 6 word(s) changed
+### Proverbs 4:16: 7 word(s) changed
 
 Reply line 3.
 
@@ -69,53 +71,23 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | زیرا | H3588 | H3588 |
-|  | تا | H518 | H518 |
+| ✱ | تا | H518 אִם "used very widely as…"; H3808 לֹא "not (the simple or abs.…" | H518 אִם "used very widely as…" |
 | ✱ | شرارتی | [شرارتی نکنند] H7489 רָעַע "properly, to spoil (literally…"; H3782 כָּשַׁל "to totter or waver (through…" | [شرارتی نکنند] H3808 לֹא "not (the simple or abs.…"; H7489 רָעַע "properly, to spoil (literally…" |
 | ✱ | نکنند | [شرارتی نکنند] H7489 רָעַע "properly, to spoil (literally…"; H3782 כָּשַׁל "to totter or waver (through…" | [شرارتی نکنند] H3808 לֹא "not (the simple or abs.…"; H7489 רָעַע "properly, to spoil (literally…" |
 | ✱ | نمی‌خُسبند | H3462 יָשֵׁן "properly…" | H3808 לֹא "not (the simple or abs.…"; H3462 יָשֵׁן "properly…" |
 |  | ، |  |  |
 |  | و | Hc | Hc |
 |  | تا | H518 | H518 |
-| ✱ | کسی | H3808 לֹא "not (the simple or abs.…" |  |
+|  | کسی |  |  |
 |  | را |  |  |
 | ✱ | نلغزانند | H1497 גָּזַל "to pluck off…" | H3808 לֹא "not (the simple or abs.…"; H3782 כָּשַׁל "to totter or waver (through…" |
-|  | خواب | H8142 | H8142 |
+| ✱ | خواب | H8142 שֵׁנָה "sleep"; H3782 כָּשַׁל "to totter or waver (through…" | H8142 שֵׁנָה "sleep" |
 |  | به |  |  |
 |  | چشمشان |  |  |
 | ✱ | نمی‌آید |  | H1497 גָּזַל "to pluck off…" |
 |  | . |  |  |
 
-### Proverbs 4:17: 1 word(s) changed
-
-Reply line 4.
-
-Original: כִּי לָחֲמוּ לֶחֶם רֶשַׁע וְ/יֵין חֲמָסִים יִשְׁתּוּ
-
-Persian: نانِ شرارت را می‌خورند و شرابِ خشونت را می‌نوشند.
-
-Original words:
-- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
-- o2: לָחֲמוּ = H3898 לָחַם "to feed on; figuratively, to consume…" [HVqp3cp]
-- o3: לֶחֶם = H3899 לֶחֶם "food (for man or beast), especially bread…" [HNcbsc]
-- o4: רֶשַׁע = H7562 רֶשַׁע "a wrong (especially moral)" [HNcmsa]
-- o5: וְ/יֵין = Hc "and" + H3196 יַיִן "wine (as fermented); by implication, intoxication" [HC/Ncmsc]
-- o6: חֲמָסִים = H2555 חָמָס "violence; by implication, wrong…" [HNcmpa]
-- o7: יִשְׁתּוּ = H8354 שָׁתָה "to imbibe (literally or figuratively)" [HVqi3mp]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | نانِ | H3899 | H3899 |
-|  | شرارت | H7562 | H7562 |
-|  | را |  |  |
-|  | می‌خورند | H3898 | H3898 |
-|  | و | Hc | Hc |
-|  | شرابِ | H3196 | H3196 |
-| ✱ | خشونت | H7562 רֶשַׁע "a wrong (especially moral)"; H2555 חָמָס "violence…" | H2555 חָמָס "violence…" |
-|  | را |  |  |
-|  | می‌نوشند | H8354 | H8354 |
-|  | . |  |  |
-
-### Proverbs 4:18: 7 word(s) changed
+### Proverbs 4:18: 5 word(s) changed
 
 Reply line 5.
 
@@ -140,7 +112,7 @@ Original words:
 |  | پارسایان | H6662 | H6662 |
 |  | همچون | Hk | Hk |
 | ✱ | طلوع |  | H216 אוֹר "illumination or (concrete)…" |
-| ✱ | سپیده‌دمان |  | H5051 נֹגַהּ "brilliancy (literally or…" |
+| ✱ | سپیده‌دمان | H216 אוֹר "illumination or (concrete)…" | H5051 נֹגַהּ "brilliancy (literally or…" |
 |  | است |  |  |
 |  | ، |  |  |
 |  | که |  |  |
@@ -148,15 +120,15 @@ Original words:
 | ✱ | روشنایی | H216 אוֹר "illumination or (concrete)…"; H215 אוֹר "to be (causative…" | H3559 כּוּן "properly…" |
 | ✱ | نیمروز | H3559 כּוּן "properly…" | H3117 יוֹם "a day (as the warm hours)…" |
 |  | ، |  |  |
-| ✱ | نور | H216 אוֹר "illumination or (concrete)…"; H5051 נֹגַהּ "brilliancy (literally or…" | H215 אוֹר "to be (causative…" |
+| ✱ | نور | H216 אוֹר "illumination or (concrete)…" | H215 אוֹר "to be (causative…" |
 |  | آن |  |  |
 |  | هر |  |  |
 |  | دم |  |  |
-| ✱ | فزونی | H5051 נֹגַהּ "brilliancy (literally or…"; H1980 הָלַךְ "to walk (in a great variety…" | [فزونی می‌گیرد] H1980 הָלַךְ "to walk (in a great variety…" |
-| ✱ | می‌گیرد |  | [فزونی می‌گیرد] H1980 הָלַךְ "to walk (in a great variety…" |
+|  | فزونی | [فزونی می‌گیرد] H1980 | [فزونی می‌گیرد] H1980 |
+|  | می‌گیرد | [فزونی می‌گیرد] H1980 | [فزونی می‌گیرد] H1980 |
 |  | . |  |  |
 
-### Proverbs 4:19: 2 word(s) changed
+### Proverbs 4:19: 1 word(s) changed
 
 Reply line 6.
 
@@ -183,7 +155,7 @@ Original words:
 |  | غلیظ |  |  |
 |  | است |  |  |
 |  | و |  |  |
-| ✱ | نمی‌دانند | H3045 יָדַע "to know (properly…" | H3808 לֹא "not (the simple or abs.…"; H3045 יָדַע "to know (properly…" |
+|  | نمی‌دانند | H3808 H3045 | H3808 H3045 |
 |  | که |  |  |
 | ✱ | از |  | Hb "in" |
 |  | چه | H4100 | H4100 |
@@ -224,7 +196,7 @@ Original words:
 |  | فرا~ده | H5186 | H5186 |
 |  | . |  |  |
 
-### Proverbs 4:21: 5 word(s) changed
+### Proverbs 4:21: 3 word(s) changed
 
 Reply line 8.
 
@@ -251,8 +223,8 @@ Original words:
 |  | بلکه |  |  |
 | ✱ | در | H8432 תָּוֶךְ "a bisection…" | Hb "in"; H8432 תָּוֶךְ "a bisection…" |
 |  | قلبت | H3824 | H3824 |
-| ✱ | نگاهشان | H5869 עַיִן "an eye (literally or…"; H8104 שָׁמַר "properly…" | [نگاهشان بدار] H8104 שָׁמַר "properly…" |
-| ✱ | بدار | H8104 שָׁמַר "properly…" | [نگاهشان بدار] H8104 שָׁמַר "properly…" |
+|  | نگاهشان | [نگاهشان بدار] H8104 | [نگاهشان بدار] H8104 |
+|  | بدار | [نگاهشان بدار] H8104 | [نگاهشان بدار] H8104 |
 |  | ؛ |  |  |
 
 ### Proverbs 4:22: 1 word(s) changed
@@ -360,7 +332,7 @@ Original words:
 |  | کن | [دور کن] H7368 | [دور کن] H7368 |
 |  | . |  |  |
 
-### Proverbs 4:25: 2 word(s) changed
+### Proverbs 4:25: 1 word(s) changed
 
 Reply line 12.
 
@@ -379,7 +351,7 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | چشمانت | H5869 | H5869 |
-| ✱ | مستقیم | H5227 נֹכַח "properly, the front part…"; H5048 נֶגֶד "a front, i.e. part opposite…" | H5227 נֹכַח "properly, the front part…" |
+|  | مستقیم | H5227 | H5227 |
 |  | به | Hl | Hl |
 |  | جلو | H5227 | H5227 |
 |  | بنگرد | H5027 | H5027 |
@@ -422,7 +394,7 @@ Original words:
 |  | خواهد_شد | [استوار خواهد_شد] H3559 | [استوار خواهد_شد] H3559 |
 |  | . |  |  |
 
-### Proverbs 4:27: 6 word(s) changed
+### Proverbs 4:27: 7 word(s) changed
 
 Reply line 14.
 
@@ -444,9 +416,9 @@ Original words:
 |  | به |  |  |
 |  | راست | H3225 | H3225 |
 | ✱ | یا |  | Hc "and" |
-|  | چپ | H8040 | H8040 |
+| ✱ | چپ |  | H8040 שְׂמֹאול "properly, dark (as enveloped)…" |
 | ✱ | کج | H5186 נָטָה "to stretch or spread out…"; H5493 סוּר "to turn off (literal or…" | [کج مشو] H408 אַל "not (the qualified negation…"; H5186 נָטָה "to stretch or spread out…" |
-| ✱ | مشو | H5186 נָטָה "to stretch or spread out…" | [کج مشو] H408 אַל "not (the qualified negation…"; H5186 נָטָה "to stretch or spread out…" |
+| ✱ | مشو | H408 אַל "not (the qualified negation…"; H5186 נָטָה "to stretch or spread out…" | [کج مشو] H408 אַל "not (the qualified negation…"; H5186 נָטָה "to stretch or spread out…" |
 |  | ؛ |  |  |
 |  | پای | H7272 | H7272 |
 | ✱ | خویش | H5493 סוּר "to turn off (literal or…" |  |

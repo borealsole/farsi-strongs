@@ -103,7 +103,7 @@ Original words:
 - o14: בְּ/כִסְלֵו = Hb "in" + H3691 כִּסְלֵו "Kisleu, the 9th Hebrew month" [HR/Np]
 
 Persian entries and current tags:
-- p1: در
+- p1: در  → Hb
 - p2: چهارمین  → H702
 - p3: سال  → H8141
 - p4: داریوش  → H1867
@@ -121,7 +121,7 @@ Persian entries and current tags:
 - p16: ماه  → H2320
 - p17: کِسلِو  → H3691
 - p18: ،
-- p19: بر
+- p19: بر  → H413
 - p20: زکریا  → H2148
 - p21: نازل
 - p22: شد
@@ -195,7 +195,7 @@ Persian entries and current tags:
 - p3: کاهنان  → H3548
 - p4: خانۀ  → H1004
 - p5: خداوند
-- p6: لشکرها  → H1058
+- p6: لشکرها
 - p7: و  → H559 Hc
 - p8: از
 - p9: انبیا  → H5030
@@ -204,7 +204,7 @@ Persian entries and current tags:
 - p12: «
 - p13: آیا  → Hi
 - p14: باید
-- p15: در
+- p15: در  → Hb
 - p16: ماه  → H2320
 - p17: پنجم  → H2549
 - p18: ماتم
@@ -237,13 +237,14 @@ Persian entries and current tags:
 - p1: آنگاه  → Hc
 - p2: کلام  → H1697
 - p3: خداوند  → H3068
-- p4: لشکرها  → H6635
+- p4: لشکرها
 - p5: بر
 - p6: من
-- p7: نازل شده  → H1961
-- p8: ،
-- p9: گفت  → H559
-- p10: :
+- p7: نازل
+- p8: شده
+- p9: ،
+- p10: گفت  → H559
+- p11: :
 
 ### Zechariah 7:5
 
@@ -275,7 +276,7 @@ Persian entries and current tags:
 - p1: «
 - p2: تمامی  → H3605
 - p3: مردم  → H5971
-- p4: این  → Hd
+- p4: این
 - p5: سرزمین  → H776
 - p6: و  → Hc
 - p7: کاهنان  → H3548
@@ -288,7 +289,7 @@ Persian entries and current tags:
 - p14: این  → H2088
 - p15: هفتاد  → H7657
 - p16: سال  → H8141
-- p17: در
+- p17: در  → Hb
 - p18: ماههای
 - p19: پنجم  → H2549
 - p20: و  → Hc
@@ -332,7 +333,7 @@ Persian entries and current tags:
 - p8: آیا  → Hi
 - p9: برای
 - p10: خود
-- p11: نمی‌خورید  → H398
+- p11: نمی‌خورید  → H3808 H398
 - p12: و  → Hc
 - p13: برای
 - p14: خود
@@ -415,12 +416,13 @@ Persian entries and current tags:
 - p1: و  → Hc
 - p2: کلام  → H1697
 - p3: خداوند  → H3068
-- p4: بر
+- p4: بر  → H413
 - p5: زکریا  → H2148
-- p6: نازل شده  → H1961
-- p7: ،
-- p8: گفت  → H559
-- p9: :
+- p6: نازل
+- p7: شده
+- p8: ،
+- p9: گفت  → H559
+- p10: :
 
 ### Zechariah 7:9
 
@@ -446,7 +448,7 @@ Original words:
 Persian entries and current tags:
 - p1: «
 - p2: خداوند  → H3068
-- p3: لشکرها  → H6635 H4941
+- p3: لشکرها  → H6635
 - p4: چنین  → H3541
 - p5: می‌فرماید  → H559
 - p6: :
@@ -493,7 +495,7 @@ Persian entries and current tags:
 - p6: غریبان  → H1616
 - p7: و  → Hc
 - p8: فقیران  → H6041
-- p9: ظلم  → H6231 H7451
+- p9: ظلم  → H6231
 - p10: مکنید  → H408
 - p11: و  → Hc
 - p12: در  → Hb
@@ -503,7 +505,7 @@ Persian entries and current tags:
 - p16: به
 - p17: یکدیگر  → H251
 - p18: بدی  → H7451
-- p19: میندیشید
+- p19: میندیشید  → H408
 - p20: .
 - p21: »
 
@@ -595,8 +597,8 @@ Persian entries and current tags:
 - p23: ،
 - p24: بشنوند
 - p25: .
-- p26: پس  → Hc
-- p27: خشم  → H7110
+- p26: پس
+- p27: خشم  → H7110 H1419
 - p28: عظیمی  → H1419
 - p29: از  → Hm
 - p30: جانب  → H854
@@ -637,7 +639,7 @@ Persian entries and current tags:
 - p9: ندا می‌دادم  → H7121
 - p10: و  → Hc
 - p11: ایشان
-- p12: نمی‌شنیدند  → H8085
+- p12: نمی‌شنیدند  → H8085 H3808
 - p13: ،
 - p14: همچنان  → H3651
 - p15: ایشان
@@ -677,11 +679,11 @@ Persian entries and current tags:
 - p2: آنان
 - p3: را
 - p4: در
-- p5: میان
+- p5: میان  → H5921
 - p6: تمامی  → H3605
 - p7: قومهایی  → H1471
 - p8: که  → H834
-- p9: نمی‌شناختند
+- p9: نمی‌شناختند  → H3045
 - p10: ،
 - p11: به گردبادی  → H5590
 - p12: پراکنده
@@ -691,7 +693,7 @@ Persian entries and current tags:
 - p16: نتیجه
 - p17: ،
 - p18: سرزمینشان  → H776
-- p19: پس
+- p19: پس  → H310
 - p20: از  → Hm
 - p21: آنها
 - p22: چنان
@@ -700,9 +702,9 @@ Persian entries and current tags:
 - p25: هیچ‌کس
 - p26: در
 - p27: آن
-- p28: آمد
+- p28: آمد  → H5674
 - p29: و  → Hc
-- p30: شد
+- p30: شد  → H7725
 - p31: نمی‌کرد
 - p32: .
 - p33: بدین‌سان

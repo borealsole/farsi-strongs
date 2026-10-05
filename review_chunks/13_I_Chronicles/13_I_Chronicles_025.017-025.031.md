@@ -109,7 +109,7 @@ Persian entries and current tags:
 - p12: بستگانش  → H251
 - p13: بر
 - p14: روی
-- p15: هم
+- p15: هم  → H8147
 - p16: دوازده  → H8147 H6240
 - p17: تن
 - p18: بودند
@@ -144,7 +144,7 @@ Persian entries and current tags:
 - p12: بستگانش  → H251
 - p13: بر
 - p14: روی
-- p15: هم
+- p15: هم  → H8147
 - p16: دوازده  → H8147 H6240
 - p17: تن
 - p18: بودند
@@ -481,7 +481,7 @@ Original words:
 Persian entries and current tags:
 - p1: قرعۀ
 - p2: بیست  → H259 H6242
-- p3: و  → H259 Hc
+- p3: و  → H259 Hc H6242
 - p4: یکم  → H259 H6242
 - p5: به
 - p6: نام
@@ -517,10 +517,10 @@ Original words:
 
 Persian entries and current tags:
 - p1: قرعۀ
-- p2: بیست  → H8147 H6242
-- p3: و  → H8147 Hc
-- p4: دوّم  → H6242 H8147
-- p5: به  → Hl
+- p2: بیست  → H6242
+- p3: و  → H8147 Hc H6242
+- p4: دوّم  → H8147
+- p5: به
 - p6: نام
 - p7: جِدَّلتی  → H1437
 - p8: درآمد
@@ -528,11 +528,11 @@ Persian entries and current tags:
 - p10: که
 - p11: با
 - p12: پسران  → H1121
-- p13: و  → Hc
+- p13: و  → Hc H8147
 - p14: بستگانش  → H251
 - p15: بر
 - p16: روی
-- p17: هم  → H8147
+- p17: هم
 - p18: دوازده  → H8147 H6240
 - p19: تن
 - p20: بودند
@@ -555,9 +555,9 @@ Original words:
 Persian entries and current tags:
 - p1: قرعۀ
 - p2: بیست  → H7969 H6242
-- p3: و  → H7969 Hc
+- p3: و  → H7969 Hc H6242
 - p4: سوّم  → H7969 H6242
-- p5: به  → Hl
+- p5: به
 - p6: نام
 - p7: مَحَزیوت  → H4238
 - p8: درآمد
@@ -565,7 +565,7 @@ Persian entries and current tags:
 - p10: که
 - p11: با
 - p12: پسران  → H1121
-- p13: و  → H7969 Hc
+- p13: و  → Hc
 - p14: بستگانش  → H251
 - p15: بر
 - p16: روی
@@ -593,7 +593,7 @@ Original words:
 Persian entries and current tags:
 - p1: قرعۀ
 - p2: بیست  → H702 H6242
-- p3: و  → H702 Hc
+- p3: و  → H702 Hc H6242
 - p4: چهارم  → H702 H6242
 - p5: به
 - p6: نام
@@ -603,7 +603,7 @@ Persian entries and current tags:
 - p10: که
 - p11: با
 - p12: پسران  → H1121
-- p13: و  → H702 Hc
+- p13: و  → Hc
 - p14: بستگانش  → H251
 - p15: بر
 - p16: روی

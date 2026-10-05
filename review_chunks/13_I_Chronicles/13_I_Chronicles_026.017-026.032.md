@@ -102,7 +102,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: شش  → H3881 H8337
-- p2: تن
+- p2: تن  → H702
 - p3: از
 - p4: لاویان
 - p5: هر
@@ -120,7 +120,7 @@ Persian entries and current tags:
 - p17: شمالی  → H6828
 - p18: ،
 - p19: چهار  → H702
-- p20: تن
+- p20: تن  → H702
 - p21: هر
 - p22: روز  → H3117
 - p23: در
@@ -185,11 +185,11 @@ Original words:
 - o7: מְרָרִי = H4847 מְרָרִי "Merari, an Israelite" [HNp]
 
 Persian entries and current tags:
-- p1: این
+- p1: این  → H428
 - p2: بود
 - p3: گروه‌بندی  → H4256
 - p4: محافظان  → H7778
-- p5: دروازه‌ها  → H7145 H1121
+- p5: دروازه‌ها  → H7145
 - p6: از پسران  → H1121 H7145
 - p7: قورَح  → H7145
 - p8: و  → Hc
@@ -312,7 +312,7 @@ Original words:
 - o4: לָ/עָזִּיאֵלִי = Hl "to" + H5817 עׇזִּיאֵלִי "an Uzzielite (collectively) or descendants of…" [HRd/Ngmsa]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: عَمرامیان  → H6020
 - p3: و
 - p4: یِصهاریان  → H3325
@@ -463,9 +463,9 @@ Persian entries and current tags:
 - p2: بخشی
 - p3: از
 - p4: غنایم  → H7998
-- p5: جنگی  → H4421
+- p5: جنگی  → H4421 H6942
 - p6: را
-- p7: برای  → Hl
+- p7: برای
 - p8: تعمیر  → H2388
 - p9: خانۀ  → H1004
 - p10: خداوند  → H3068
@@ -526,7 +526,7 @@ Persian entries and current tags:
 - p25: نظارت  → H3027
 - p26: شِلومیت  → H8019
 - p27: و  → Hc
-- p28: بستگانش  → H251
+- p28: بستگانش  → H6942 H251
 - p29: بود
 - p30: .
 
@@ -547,14 +547,14 @@ Original words:
 - o9: וּ/לְ/שֹׁפְטִים = Hc "and" + Hl "to" + H8199 שָׁפַט "to judge…" [HC/R/Vqrmpa]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: یِصهاریان  → H3325
 - p3: :
 - p4: کِنَنیا  → H3663
 - p5: و  → Hc
 - p6: پسرانش  → H1121
 - p7: به
-- p8: عنوان  → Hl
+- p8: عنوان
 - p9: صاحبمنصبان  → H7860
 - p10: و  → Hc
 - p11: داوران  → H8199
@@ -598,7 +598,7 @@ Original words:
 - o19: הַ/מֶּלֶךְ = Hd "the" + H4428 מֶלֶךְ "a king" [HTd/Ncmsa]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: حِبرونیان  → H2276
 - p3: :
 - p4: حَشَبیا  → H2811
@@ -608,7 +608,7 @@ Persian entries and current tags:
 - p8: که
 - p9: یکهزار  → H505
 - p10: و  → Hc
-- p11: هفتصد  → H7651 H3967
+- p11: هفتصد  → H505 H7651 H3967
 - p12: مرد  → H1121
 - p13: توانا  → H2428
 - p14: بودند
@@ -632,7 +632,7 @@ Persian entries and current tags:
 - p32: نظارت  → H6486
 - p33: بر  → H5921
 - p34: اسرائیل  → H3478
-- p35: برگماشته  → H6486
+- p35: برگماشته
 - p36: شدند
 - p37: .
 
@@ -661,7 +661,7 @@ Original words:
 - o17: גִּלְעָד = H1568 גִּלְעָד "Gilad, a region East of the Jordan…" [HNp]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: حِبرونیان  → H2276
 - p3: ،
 - p4: بنا
@@ -673,7 +673,7 @@ Persian entries and current tags:
 - p10: رئیس  → H7218
 - p11: بود
 - p12: .
-- p13: در
+- p13: در  → Hb
 - p14: سال  → H8141
 - p15: چهلم  → H705
 - p16: سلطنت  → H4438
@@ -733,12 +733,12 @@ Persian entries and current tags:
 - p5: دو  → H505 H7651 H3967
 - p6: هزار  → H505 H3967
 - p7: و  → Hc
-- p8: هفتصد  → H7651 H3967
+- p8: هفتصد  → H505 H7651 H3967
 - p9: مرد  → H1121
 - p10: بودند
 - p11: ،
 - p12: که
-- p13: مردانی  → H7218
+- p13: مردانی  → H1121 H7218
 - p14: توانا  → H2428
 - p15: و  → Hc
 - p16: سَرِ  → H7218

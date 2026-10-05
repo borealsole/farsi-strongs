@@ -102,7 +102,7 @@ Persian entries and current tags:
 - p1: چون  → H3588
 - p2: با  → H854
 - p3: حاکمی  → H4910
-- p4: به  → Hl
+- p4: به
 - p5: طعام
 - p6: می‌نشینی  → H3427 H3898
 - p7: ،
@@ -111,9 +111,8 @@ Persian entries and current tags:
 - p10: پیش  → H6440
 - p11: روی
 - p12: توست
-- p13: تأمل
-- p14: کن
-- p15: ،
+- p13: تأمل کن  → H995
+- p14: ،
 
 ### Proverbs 23:2
 
@@ -132,7 +131,7 @@ Original words:
 Persian entries and current tags:
 - p1: و  → Hc
 - p2: اگر  → H518
-- p3: شکمباره‌ای  → H7915 H3930
+- p3: شکمباره‌ای  → H3930
 - p4: ،
 - p5: کارد
 - p6: بر
@@ -189,7 +188,7 @@ Persian entries and current tags:
 - p7: پا  → H6238
 - p8: مَیَفکن  → H3021
 - p9: ؛
-- p10: از  → Hm
+- p10: از
 - p11: اندیشیدن  → H998
 - p12: بدان
 - p13: بازایست  → H2308
@@ -217,7 +216,7 @@ Original words:
 Persian entries and current tags:
 - p1: تا
 - p2: چشم  → H5869
-- p3: بر
+- p3: بر  → Hb
 - p4: آن
 - p5: بدوزی
 - p6: از
@@ -228,7 +227,7 @@ Persian entries and current tags:
 - p11: ثروت  → H3671
 - p12: چون  → H6213 Hk
 - p13: عقاب  → H5404
-- p14: بال  → H3671
+- p14: بال
 - p15: می‌گیرد  → H6213
 - p16: و  → Hc
 - p17: می‌پَرَد  → H6213 H5774 H8064
@@ -254,7 +253,7 @@ Persian entries and current tags:
 - p1: از
 - p2: سفرۀ
 - p3: مرد
-- p4: خسیس  → H7451 H5869
+- p4: خسیس  → H3898 H7451
 - p5: مخور  → H3899 H5869
 - p6: ،
 - p7: و  → Hc
@@ -335,7 +334,7 @@ Persian entries and current tags:
 - p5: ،
 - p6: قی خواهی_کرد  → H6958
 - p7: و  → Hc
-- p8: تعارفاتت  → H1697 H5273
+- p8: تعارفاتت  → H1697
 - p9: را
 - p10: نیز
 - p11: به
@@ -361,7 +360,7 @@ Original words:
 Persian entries and current tags:
 - p1: نادان  → H3684
 - p2: را
-- p3: نصیحت  → H241
+- p3: نصیحت
 - p4: مکن  → H408
 - p5: ،
 - p6: چه  → H3588
@@ -422,8 +421,8 @@ Persian entries and current tags:
 - p1: زیرا  → H3588
 - p2: ولیّ  → H1350
 - p3: آنها
-- p4: نیرومند  → H1350 H2389
-- p5: است
+- p4: نیرومند  → H2389
+- p5: است  → H1931
 - p6: و
 - p7: علیه
 - p8: تو
@@ -461,8 +460,8 @@ Persian entries and current tags:
 - p9: گوش‌خود  → H241
 - p10: را
 - p11: به  → Hl
-- p12: سخنان  → H561 H1847
-- p13: معرفت  → H1847
+- p12: سخنان  → H561
+- p13: معرفت  → H935 H1847
 - p14: .
 
 ### Proverbs 23:13
@@ -487,7 +486,7 @@ Persian entries and current tags:
 - p3: کردن
 - p4: جوان  → H5288
 - p5: اِبا
-- p6: مکن  → H408 H4513
+- p6: مکن  → H4513
 - p7: ؛
 - p8: چوب  → H7626
 - p9: تنبیه  → H5221
@@ -594,10 +593,10 @@ Original words:
 
 Persian entries and current tags:
 - p1: دلت  → H3820
-- p2: بر  → Hb
+- p2: بر
 - p3: گنهکاران  → H2400
 - p4: حسد  → H7065
-- p5: مبَرد
+- p5: مبَرد  → H2400
 - p6: ،
 - p7: بلکه  → H3588
 - p8: همۀ  → H3605
@@ -630,7 +629,7 @@ Persian entries and current tags:
 - p5: و  → Hc
 - p6: امیدت  → H8615
 - p7: زایل  → H3772
-- p8: نخواهد_شد  → H3808
+- p8: نخواهد_شد  → H3808 H3772
 - p9: .
 
 ## Neighbouring verses (context only, not for review)

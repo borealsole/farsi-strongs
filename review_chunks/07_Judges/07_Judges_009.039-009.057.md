@@ -96,7 +96,7 @@ Original words:
 - o7: בַּ/אֲבִימֶלֶךְ = Hb "in" + H40 אֲבִימֶלֶךְ "Abimelek…" [HR/Np]
 
 Persian entries and current tags:
-- p1: پس  → Hc
+- p1: پس
 - p2: جَعَل  → H1603
 - p3: پیشاپیشِ  → H6440
 - p4: رهبران  → H1167
@@ -171,7 +171,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: اَبیمِلِک  → H40
-- p2: در
+- p2: در  → Hb
 - p3: اَرومَه  → H725
 - p4: ماند  → H3427
 - p5: ،
@@ -185,7 +185,7 @@ Persian entries and current tags:
 - p13: بیرون راند  → H1644
 - p14: تا
 - p15: نتوانند
-- p16: در
+- p16: در  → Hb
 - p17: شِکیم  → H725 H7927
 - p18: ساکن شوند  → H3427
 - p19: .
@@ -248,7 +248,7 @@ Original words:
 - o17: וַ/יַּכֵּ/ם = Hc "and" + H5221 נָכָה "to strike (lightly or severely…" [HC/Vhw3ms/Sp3mp]
 
 Persian entries and current tags:
-- p1: پس  → Hc
+- p1: پس
 - p2: مردان  → H5971
 - p3: خود
 - p4: را  → H853
@@ -328,7 +328,7 @@ Persian entries and current tags:
 - p13: مدخل  → H6607
 - p14: دروازۀ
 - p15: شهر  → H5892
-- p16: ایستادند  → H5975 H6584
+- p16: ایستادند  → H6584 H5975
 - p17: ،
 - p18: و  → Hc
 - p19: دو  → H8147
@@ -338,7 +338,7 @@ Persian entries and current tags:
 - p23: تمامی  → H3605
 - p24: آنان
 - p25: که  → H834
-- p26: در
+- p26: در  → Hb
 - p27: صحرا  → H7704
 - p28: بودند
 - p29: هجوم
@@ -382,12 +382,12 @@ Persian entries and current tags:
 - p2: تمامی  → H3605
 - p3: آن
 - p4: روز  → H3117
-- p5: با
+- p5: با  → Hb
 - p6: شهر
 - p7: جنگید  → H3898
 - p8: ،
 - p9: و  → Hc
-- p10: شهر  → H5892
+- p10: شهر
 - p11: را  → H853
 - p12: گرفته  → H3920
 - p13: ،
@@ -397,10 +397,10 @@ Persian entries and current tags:
 - p17: کشت  → H2026
 - p18: .
 - p19: سپس  → Hc
-- p20: شهر  → H5892
+- p20: شهر
 - p21: را  → H853
 - p22: با
-- p23: خاک  → H4417
+- p23: خاک
 - p24: یکسان کرد  → H5422
 - p25: و  → Hc
 - p26: بر
@@ -441,7 +441,7 @@ Persian entries and current tags:
 - p11: اتاقکِ زیرزمینی  → H6877
 - p12: معبد  → H1004
 - p13: ئیل‌بِریت  → H410 H1286
-- p14: درآمدند  → H1286
+- p14: درآمدند  → H935
 - p15: .
 
 ### Judges 9:47
@@ -519,7 +519,7 @@ Persian entries and current tags:
 - p4: همۀ  → H3605
 - p5: مردانی  → H5971
 - p6: که  → H834
-- p7: با
+- p7: با  → H854
 - p8: وی
 - p9: بودند
 - p10: به
@@ -535,7 +535,7 @@ Persian entries and current tags:
 - p20: شاخه‌ای  → H7754
 - p21: از
 - p22: درختان  → H7134 H6086
-- p23: برید  → H3772
+- p23: برید
 - p24: و  → Hc
 - p25: آن
 - p26: را  → H853
@@ -554,7 +554,7 @@ Persian entries and current tags:
 - p39: گفت  → H559
 - p40: :
 - p41: «
-- p42: آنچه
+- p42: آنچه  → H4100
 - p43: دیدید  → H7200
 - p44: من
 - p45: کردم  → H6213
@@ -612,9 +612,9 @@ Persian entries and current tags:
 - p9: بریده  → H3772
 - p10: ،
 - p11: از
-- p12: پی  → H310
+- p12: پی  → H3212 H310
 - p13: اَبیمِلِک  → H40
-- p14: روانه  → H3212
+- p14: روانه  → H3772 H3212
 - p15: شدند  → H7760
 - p16: و  → Hc
 - p17: شاخه‌ها
@@ -635,7 +635,7 @@ Persian entries and current tags:
 - p32: داخل
 - p33: آن
 - p34: بودند
-- p35: به
+- p35: به  → Hb
 - p36: آتش  → H784
 - p37: کشیدند  → H3341
 - p38: ،
@@ -649,7 +649,7 @@ Persian entries and current tags:
 - p46: برج  → H4026
 - p47: شِکیم  → H7927
 - p48: بودند
-- p49: نیز  → H1571
+- p49: نیز
 - p50: جان  → H4191
 - p51: باختند
 - p52: ،
@@ -722,7 +722,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: اما  → Hc
-- p2: در
+- p2: در  → Hb
 - p3: داخل  → H8432
 - p4: شهر  → H5892
 - p5: برجی  → H4026
@@ -785,10 +785,10 @@ Persian entries and current tags:
 - p9: برد
 - p10: و  → Hc
 - p11: به
-- p12: دروازۀ
+- p12: دروازۀ  → H6607
 - p13: برج  → H4026
 - p14: نزدیک شد  → H5066
-- p15: تا  → H5704
+- p15: تا
 - p16: آن
 - p17: را
 - p18: به  → Hb
@@ -817,8 +817,8 @@ Original words:
 Persian entries and current tags:
 - p1: اما  → Hc
 - p2: زنی  → H802
-- p3: سنگ  → H6400
-- p4: آسیابی  → H6400 H7393
+- p3: سنگ
+- p4: آسیابی  → H7393
 - p5: بر  → H5921
 - p6: سر  → H7218
 - p7: اَبیمِلِک  → H40
@@ -869,9 +869,9 @@ Persian entries and current tags:
 - p10: گفت  → H559
 - p11: :
 - p12: «
-- p13: شمشیرت  → H8025 H2719
+- p13: شمشیرت  → H2719
 - p14: را
-- p15: بَرکِش
+- p15: بَرکِش  → H8025
 - p16: و  → Hc
 - p17: مرا
 - p18: بکش  → H4191
@@ -888,10 +888,10 @@ Persian entries and current tags:
 - p29: .
 - p30: “
 - p31: »
-- p32: پس  → Hc
+- p32: پس
 - p33: آن
 - p34: جوان  → H5288
-- p35: شمشیر  → H5288 H5375 H3627
+- p35: شمشیر  → H5375 H3627 H5288
 - p36: خود
 - p37: را
 - p38: در  → H1856
@@ -934,7 +934,7 @@ Persian entries and current tags:
 - p12: به  → Hl
 - p13: خانه‌های  → H4725
 - p14: خود
-- p15: بازگشتند  → H3212
+- p15: بازگشتند
 - p16: .
 
 ### Judges 9:56
@@ -969,13 +969,13 @@ Persian entries and current tags:
 - p10: هفتاد  → H7657
 - p11: برادرش  → H251
 - p12: نسبت
-- p13: به  → Hl
+- p13: به
 - p14: پدر  → H1
 - p15: خود
 - p16: مرتکب شده_بود  → H6213
 - p17: ،
-- p18: جزا
-- p19: داد
+- p18: جزا  → H7725
+- p19: داد  → H7725 H853
 - p20: .
 
 ### Judges 9:57
@@ -1008,17 +1008,17 @@ Persian entries and current tags:
 - p6: شِکیم  → H7927
 - p7: را  → H853
 - p8: نیز
-- p9: بر
+- p9: بر  → Hb
 - p10: سر خودشان  → H7218
 - p11: برگرداند  → H7725
 - p12: ،
-- p13: و  → Hc
+- p13: و
 - p14: لعنت  → H7045
 - p15: یوتام  → H3147
 - p16: پسر  → H1121
 - p17: یِروبَّعَل  → H3378
 - p18: دامنگیرشان
-- p19: شد  → H935
+- p19: شد
 - p20: .
 
 ## Neighbouring verses (context only, not for review)

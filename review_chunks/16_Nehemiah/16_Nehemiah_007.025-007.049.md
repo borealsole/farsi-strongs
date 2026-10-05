@@ -96,7 +96,7 @@ Persian entries and current tags:
 - p1: پسران  → H1121
 - p2: جِبعون  → H1391
 - p3: ،
-- p4: ۹۵.  → H8673
+- p4: ۹۵.  → H8673 H2568
 
 ### Nehemiah 7:26
 
@@ -282,7 +282,7 @@ Persian entries and current tags:
 - p2: عیلامِ  → H5867
 - p3: دیگر  → H312
 - p4: ،
-- p5: ۱۲۵۴.  → H505 H3967 H2572 H702
+- p5: ۱۲۵۴.  → H2572 H702
 
 ### Nehemiah 7:35
 
@@ -362,9 +362,9 @@ Original words:
 
 Persian entries and current tags:
 - p1: پسران  → H1121
-- p2: سِنائَه  → H5570
+- p2: سِنائَه  → H5570 H3967
 - p3: ،
-- p4: ۳۹۳۰.  → H7969 H505 H8672 H3967 H7970
+- p4: ۳۹۳۰.  → H7969 H8672 H7970
 
 ### Nehemiah 7:39
 
@@ -545,7 +545,7 @@ Persian entries and current tags:
 - p18: پسران  → H1121
 - p19: شوبای  → H7630
 - p20: ،
-- p21: ۱۳۸.  → H3967 H8083
+- p21: ۱۳۸.  → H3967 H7970 H8083
 
 ### Nehemiah 7:46
 

@@ -109,7 +109,7 @@ Persian entries and current tags:
 - p7: اِفرات  → H672
 - p8: را  → H853
 - p9: به
-- p10: زنی  → H3947
+- p10: زنی
 - p11: گرفت
 - p12: ،
 - p13: و  → Hc
@@ -232,7 +232,7 @@ Persian entries and current tags:
 - p9: جِلعاد  → H1568
 - p10: بیست  → H6242 H7969
 - p11: و  → H6242 Hc
-- p12: سه  → H7969
+- p12: سه  → H6242 H7969
 - p13: شهر  → H5892
 - p14: داشت
 - p15: .
@@ -315,15 +315,15 @@ Original words:
 - o14: תְקוֹעַ = H8620 תְּקוֹעַ "Tekoa, a place in Palestine" [HNp]
 
 Persian entries and current tags:
-- p1: پس  → H310
+- p1: پس  → Hc H310
 - p2: از
 - p3: مرگ  → H4194
 - p4: حِصرون  → H2696
-- p5: در
+- p5: در  → Hb
 - p6: کالیبِ  → H3613
 - p7: اِفراتَه  → H3613
 - p8: ،
-- p9: اَبیّا  → H29
+- p9: اَبیّا
 - p10: زن  → H802
 - p11: حِصرون  → H2696
 - p12: ،
@@ -366,7 +366,7 @@ Persian entries and current tags:
 - p10: بودند
 - p11: :
 - p12: نخست‌زاده‌اش  → H1060
-- p13: رام  → H946
+- p13: رام  → H7410 H946
 - p14: ،
 - p15: بونَه
 - p16: ،
@@ -399,7 +399,7 @@ Persian entries and current tags:
 - p3: زن  → H802
 - p4: دیگری  → H312
 - p5: داشت
-- p6: به
+- p6: به  → Hl
 - p7: نام  → H8034
 - p8: عَطارَه  → H5851
 - p9: ،
@@ -533,7 +533,7 @@ Persian entries and current tags:
 - p8: .
 - p9: سِلِد  → H5540
 - p10: بی‌اولاد
-- p11: مُرد  → H4191 H1121
+- p11: مُرد  → H1121 H4191
 - p12: .
 
 ### I Chronicles 2:31
@@ -628,7 +628,7 @@ Persian entries and current tags:
 - p6: زازا  → H2117
 - p7: بودند
 - p8: .
-- p9: اینها
+- p9: اینها  → H428
 - p10: نوادگان  → H1121
 - p11: یِرَخمِئیل  → H3396
 - p12: بودند
@@ -662,7 +662,7 @@ Persian entries and current tags:
 - p6: نبود
 - p7: ،
 - p8: بلکه  → H3588
-- p9: تنها  → H518
+- p9: تنها  → H3588 H518
 - p10: دختران  → H1323
 - p11: داشت
 - p12: .
@@ -708,7 +708,7 @@ Persian entries and current tags:
 - p10: زنی  → H802
 - p11: داد  → H5414
 - p12: ،
-- p13: و
+- p13: و  → Hc
 - p14: او
 - p15: عَتّای  → H6262
 - p16: را  → H853

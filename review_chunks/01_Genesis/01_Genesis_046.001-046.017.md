@@ -142,7 +142,7 @@ Original words:
 Persian entries and current tags:
 - p1: و  → Hc
 - p2: خدا  → H430
-- p3: در
+- p3: در  → Hb
 - p4: رؤیاهای  → H4759
 - p5: شب  → H3915
 - p6: ،
@@ -162,7 +162,7 @@ Persian entries and current tags:
 - p20: داد  → H559
 - p21: :
 - p22: «
-- p23: لبیک  → H2009
+- p23: لبیک
 - p24: !
 - p25: »
 
@@ -307,7 +307,7 @@ Persian entries and current tags:
 - p14: و  → Hc
 - p15: زنانشان  → H802
 - p16: را  → H853
-- p17: بر
+- p17: بر  → Hb
 - p18: ارابه‌هایی  → H5699
 - p19: که  → H834
 - p20: فرعون  → H6547
@@ -399,7 +399,7 @@ Persian entries and current tags:
 - p9: نیز
 - p10: دختران  → H1323
 - p11: و  → Hc
-- p12: دخترانِ  → H1121 H1323
+- p12: دخترانِ  → H1323
 - p13: پسران  → H1121
 - p14: خویش
 - p15: ،
@@ -407,7 +407,7 @@ Persian entries and current tags:
 - p17: همۀ  → H3605
 - p18: نسلش  → H2233
 - p19: را
-- p20: با
+- p20: با  → H854
 - p21: خود
 - p22: به
 - p23: مصر  → H4714
@@ -439,7 +439,7 @@ Persian entries and current tags:
 - p4: پسران  → H1121
 - p5: اسرائیل  → H3478
 - p6: یعنی
-- p7: یعقوب  → H3478 H3290
+- p7: یعقوب  → H3290
 - p8: و  → Hc
 - p9: نسلش  → H1121
 - p10: که
@@ -683,7 +683,7 @@ Persian entries and current tags:
 - p10: خود
 - p11: دینَه  → H1783
 - p12: ،
-- p13: در
+- p13: در  → Hb
 - p14: فَدّان‌اَرام  → H6307
 - p15: برای  → Hl
 - p16: یعقوب  → H3290
@@ -697,7 +697,7 @@ Persian entries and current tags:
 - p24: جملگی  → H3605
 - p25: سی  → H7970 H7969
 - p26: و  → Hc
-- p27: سه  → H7969
+- p27: سه  → H7970 H7969
 - p28: تن
 - p29: بودند
 - p30: .

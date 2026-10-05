@@ -486,9 +486,8 @@ Persian entries and current tags:
 - p13: ساکنین  → H3427
 - p14: جَت  → H1661
 - p15: را  → H853
-- p16: بیرون
-- p17: راندند  → H1272
-- p18: ،
+- p16: بیرون راندند  → H1272
+- p17: ،
 
 ### I Chronicles 8:14
 

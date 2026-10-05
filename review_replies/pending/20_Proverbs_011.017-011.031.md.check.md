@@ -1,6 +1,6 @@
 # Check of 20_Proverbs_011.017-011.031.md
 
-Generated 2026-10-04 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
 ## 13 verse(s) with changes
 
@@ -36,7 +36,7 @@ Original words:
 |  | زیان | H5916 | H5916 |
 |  | . |  |  |
 
-### Proverbs 11:19: 5 word(s) changed
+### Proverbs 11:19: 4 word(s) changed
 
 Reply line 3.
 
@@ -57,22 +57,22 @@ Original words:
 |  | پارسای | H6666 | H6666 |
 | ✱ | راستین |  | H3651 כֵּן "properly, set upright…" |
 | ✱ | رو | H3651 כֵּן "properly, set upright…" |  |
-|  | به | Hl | Hl |
+| ✱ | به |  | Hl "to" |
 |  | سوی |  |  |
 |  | حیات | H2416 | H2416 |
 |  | دارد |  |  |
 |  | ، |  |  |
 |  | پیرو | H7291 | H7291 |
-| ✱ | شرارت | H6666 צְדָקָה "rightness (abstractly)…"; H7451 רַע "bad or (as noun) evil…" | H7451 רַע "bad or (as noun) evil…" |
+|  | شرارت | H7451 | H7451 |
 |  | ، |  |  |
 |  | رو |  |  |
 | ✱ | به |  | Hl "to" |
 |  | سوی |  |  |
-| ✱ | مرگ | H7451 רַע "bad or (as noun) evil…"; H4194 מָוֶת "death (natural or violent)…" | H4194 מָוֶת "death (natural or violent)…" |
+|  | مرگ | H4194 | H4194 |
 |  | خویش |  |  |
 |  | . |  |  |
 
-### Proverbs 11:20: 5 word(s) changed
+### Proverbs 11:20: 3 word(s) changed
 
 Reply line 4.
 
@@ -93,7 +93,7 @@ Original words:
 | --- | --- | --- | --- |
 |  | خداوند | H3068 | H3068 |
 |  | از |  |  |
-| ✱ | کج‌دلان | H6141 עִקֵּשׁ "distorted; hence, false" | H6141 עִקֵּשׁ "distorted; hence, false"; H3820 לֵב "the heart…" |
+|  | کج‌دلان | H6141 H3820 | H6141 H3820 |
 | ✱ | کراهت | H8441 תּוֹעֵבַה "properly…" | [کراهت دارد] H8441 תּוֹעֵבַה "properly…" |
 | ✱ | دارد |  | [کراهت دارد] H8441 תּוֹעֵבַה "properly…" |
 |  | ، |  |  |
@@ -104,7 +104,7 @@ Original words:
 |  | آنان |  |  |
 |  | که |  |  |
 |  | طریقشان | H1870 | H1870 |
-| ✱ | راست | H7522 רָצוֹן "delight (especially as shown)"; H8549 תָּמִים "entire (literally…" | H8549 תָּמִים "entire (literally…" |
+|  | راست | H8549 | H8549 |
 |  | است |  |  |
 |  | . |  |  |
 
@@ -165,7 +165,7 @@ Original words:
 | ✱ | حلقه‌ایست | H5141 נֶזֶם "a nose-ring"; H2386 חֲזִיר "a hog (perhaps as penned)" | H5141 נֶזֶם "a nose-ring" |
 |  | زرین | H2091 | H2091 |
 | ✱ | در |  | Hb "in" |
-| ✱ | بینی | H639 אַף "properly, the nose or nostril…"; H2386 חֲזִיר "a hog (perhaps as penned)" | H639 אַף "properly, the nose or nostril…" |
+| ✱ | بینی | H2386 חֲזִיר "a hog (perhaps as penned)" | H639 אַף "properly, the nose or nostril…" |
 | ✱ | گراز | H639 אַף "properly, the nose or nostril…" | H2386 חֲזִיר "a hog (perhaps as penned)" |
 |  | ، |  |  |
 |  | زنِ | H802 | H802 |
@@ -242,7 +242,7 @@ Original words:
 | ✱ | می‌شود | H2820 חָשַׂךְ "to restrain or (reflex.)…" |  |
 |  | ! |  |  |
 
-### Proverbs 11:25: 3 word(s) changed
+### Proverbs 11:25: 1 word(s) changed
 
 Reply line 9.
 
@@ -273,8 +273,8 @@ Original words:
 |  | ، |  |  |
 | ✱ | خود |  | H1931 הוּא "he (she or it)…" |
 |  | نیز | H1571 | H1571 |
-| ✱ | سیراب |  | [سیراب خواهد_شد] H3384 יָרָה "properly…" |
-| ✱ | خواهد_شد |  | [سیراب خواهد_شد] H3384 יָרָה "properly…" |
+|  | سیراب | [سیراب خواهد_شد] H3384 | [سیراب خواهد_شد] H3384 |
+|  | خواهد_شد | [سیراب خواهد_شد] H3384 | [سیراب خواهد_شد] H3384 |
 |  | . |  |  |
 
 ### Proverbs 11:26: 5 word(s) changed
@@ -355,7 +355,7 @@ Original words:
 |  | خواهند_شکفت | H6524 | H6524 |
 |  | . |  |  |
 
-### Proverbs 11:29: 2 word(s) changed
+### Proverbs 11:29: 3 word(s) changed
 
 Reply line 12.
 
@@ -389,7 +389,7 @@ Original words:
 |  | نادان | H191 | H191 |
 |  | ، |  |  |
 |  | خادم | H5650 | H5650 |
-|  | حکیمان | H2450 H3820 | H2450 H3820 |
+| ✱ | حکیمان | H2450 חָכָם "wise, (i.e. intelligent…" | H2450 חָכָם "wise, (i.e. intelligent…"; H3820 לֵב "the heart…" |
 |  | خواهد_شد |  |  |
 |  | . |  |  |
 
@@ -429,7 +429,7 @@ Original words:
 | ✱ | می‌کند | H3947 לָקַח "to take (in the widest…" | [صید می‌کند] H3947 לָקַח "to take (in the widest…" |
 |  | . |  |  |
 
-### Proverbs 11:31: 5 word(s) changed
+### Proverbs 11:31: 4 word(s) changed
 
 Reply line 14.
 
@@ -463,7 +463,7 @@ Original words:
 |  | ، |  |  |
 |  | شریران | H7563 | H7563 |
 |  | و | Hc | Hc |
-| ✱ | گنهکاران | [گنهکاران سزایشان] H2398 חָטָא "properly, to miss…" | H2398 חָטָא "properly, to miss…" |
-| ✱ | سزایشان | [گنهکاران سزایشان] H2398 חָטָא "properly, to miss…" |  |
+|  | گنهکاران | H2398 | H2398 |
+| ✱ | سزایشان | H7999 שָׁלַם "to be safe (in mind…" |  |
 |  | را |  |  |
 |  | ! |  |  |

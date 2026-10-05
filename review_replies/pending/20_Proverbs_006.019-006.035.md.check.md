@@ -1,6 +1,6 @@
 # Check of 20_Proverbs_006.019-006.035.md
 
-Generated 2026-10-04 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
 ## 16 verse(s) with changes
 
@@ -25,9 +25,9 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | شاهد | H5707 | H5707 |
-| ✱ | دروغینی | H3577 כָּזָב "falsehood…" | H8267 שֶׁקֶר "an untruth…" |
+| ✱ | دروغینی | H3577 כָּזָב "falsehood…"; H8267 שֶׁקֶר "an untruth…" | H8267 שֶׁקֶר "an untruth…" |
 |  | که |  |  |
-| ✱ | دروغها | H6315 פּוּחַ "to puff…"; H3577 כָּזָב "falsehood…"; H8267 שֶׁקֶר "an untruth…" | H3577 כָּזָב "falsehood…" |
+| ✱ | دروغها | H3577 כָּזָב "falsehood…"; H8267 שֶׁקֶר "an untruth…" | H3577 כָּזָב "falsehood…" |
 |  | می‌بافد | H6315 | H6315 |
 |  | و | Hc | Hc |
 |  | آن |  |  |
@@ -149,8 +149,8 @@ Original words:
 | ✱ | نگاهبانی | H8104 שָׁמַר "properly…"; H5921 עַל "above, over, upon…" | [نگاهبانی خواهد_کرد] H8104 שָׁמַר "properly…" |
 | ✱ | خواهد_کرد |  | [نگاهبانی خواهد_کرد] H8104 שָׁמַר "properly…" |
 |  | ؛ |  |  |
-| ✱ | و |  | Hc "and" |
-| ✱ | آنگاه | Hc "and" |  |
+| ✱ | و | [و آنگاه] Hc "and" | Hc "and" |
+| ✱ | آنگاه | [و آنگاه] Hc "and" |  |
 |  | که |  |  |
 | ✱ | برخیزی |  | H6974 קוּץ "to awake (literally or…" |
 |  | ، |  |  |
@@ -218,7 +218,7 @@ Original words:
 |  | او |  |  |
 | ✱ | در |  | Hb "in" |
 |  | دل | H3824 | H3824 |
-| ✱ | مپرور |  | H408 אַל "not (the qualified negation…"; H2530 חָמַד "to delight in" |
+| ✱ | مپرور | H408 אַל "not (the qualified negation…" | H408 אַל "not (the qualified negation…"; H2530 חָמַד "to delight in" |
 |  | و | Hc | Hc |
 |  | مژگانش | H6079 | H6079 |
 |  | تو |  |  |
@@ -253,7 +253,7 @@ Original words:
 | --- | --- | --- | --- |
 |  | زیرا | H3588 | H3588 |
 |  | زن | H802 | H802 |
-| ✱ | فاحشه | H2181 זָנָה "to commit adultery (usually…"; H802 אִשָּׁה "a woman" | H2181 זָנָה "to commit adultery (usually…" |
+| ✱ | فاحشه | H802 אִשָּׁה "a woman"; H2181 זָנָה "to commit adultery (usually…" | H2181 זָנָה "to commit adultery (usually…" |
 |  | را |  |  |
 |  | به |  |  |
 |  | قُرصی | H3603 | H3603 |
@@ -303,7 +303,7 @@ Original words:
 |  | نسوزد | H3808 H8313 | H3808 H8313 |
 |  | ؟ |  |  |
 
-### Proverbs 6:28: 5 word(s) changed
+### Proverbs 6:28: 6 word(s) changed
 
 Reply line 10.
 
@@ -325,7 +325,7 @@ Original words:
 | --- | --- | --- | --- |
 |  | آیا | H518 | H518 |
 |  | کسی | H376 | H376 |
-|  | تواند |  |  |
+| ✱ | تواند | H1980 הָלַךְ "to walk (in a great variety…" |  |
 |  | بر | H5921 | H5921 |
 | ✱ | اخگرهای | H1513 גֶּחֶל "an ember" | [اخگرهای سوزان] H1513 גֶּחֶל "an ember" |
 | ✱ | سوزان |  | [اخگرهای سوزان] H1513 גֶּחֶל "an ember" |
@@ -336,7 +336,7 @@ Original words:
 | ✱ | نسوزد | H3554 כָּוָה "properly…" | H3808 לֹא "not (the simple or abs.…"; H3554 כָּוָה "properly…" |
 |  | ؟ |  |  |
 
-### Proverbs 6:29: 5 word(s) changed
+### Proverbs 6:29: 6 word(s) changed
 
 Reply line 11.
 
@@ -375,12 +375,12 @@ Original words:
 |  | را |  |  |
 |  | لمس | [لمس کند] H5060 | [لمس کند] H5060 |
 |  | کند | [لمس کند] H5060 | [لمس کند] H5060 |
-| ✱ | از | H5352 נָקָה "to be (or make) clean…"; Hb "in" |  |
-|  | مجازات | H5352 | H5352 |
-| ✱ | نخواهد_رَست | H3808 לֹא "not (the simple or abs.…" | H3808 לֹא "not (the simple or abs.…"; H5352 נָקָה "to be (or make) clean…" |
+| ✱ | از | H5352 נָקָה "to be (or make) clean…" |  |
+| ✱ | مجازات |  | H5352 נָקָה "to be (or make) clean…" |
+| ✱ | نخواهد_رَست |  | H3808 לֹא "not (the simple or abs.…"; H5352 נָקָה "to be (or make) clean…" |
 |  | . |  |  |
 
-### Proverbs 6:30: 11 word(s) changed
+### Proverbs 6:30: 10 word(s) changed
 
 Reply line 12.
 
@@ -406,21 +406,21 @@ Original words:
 | ✱ | که |  | H3588 כִּי "by implication) very widely…" |
 |  | تنها |  |  |
 |  | برای | Hl | Hl |
-| ✱ | سیر | [سیر کردن] H4390 מָלֵא "to fill or (intransitively)…"; H7456 רָעֵב "to hunger" | [سیر کردن] H4390 מָלֵא "to fill or (intransitively)…" |
-| ✱ | کردن | [سیر کردن] H4390 מָלֵא "to fill or (intransitively)…"; H7456 רָעֵב "to hunger" | [سیر کردن] H4390 מָלֵא "to fill or (intransitively)…" |
-|  | شکم | H5315 | H5315 |
+|  | سیر | [سیر کردن] H4390 | [سیر کردن] H4390 |
+|  | کردن | [سیر کردن] H4390 | [سیر کردن] H4390 |
+| ✱ | شکم | H1590 גַּנָּב "a stealer"; H5315 נֶפֶשׁ "properly…" | H5315 נֶפֶשׁ "properly…" |
 |  | خود |  |  |
 | ✱ | در | H3588 כִּי "by implication) very widely…" | [در وقت] H3588 כִּי "by implication) very widely…" |
 | ✱ | وقت |  | [در وقت] H3588 כִּי "by implication) very widely…" |
 |  | گرسنگی | H7456 | H7456 |
-| ✱ | دزدی | H1590 גַּנָּב "a stealer"; H1589 גָּנַב "to thieve (literally or…" | [دزدی کند] H1589 גָּנַב "to thieve (literally or…" |
+| ✱ | دزدی | H1590 גַּנָּב "a stealer" | [دزدی کند] H1589 גָּנַב "to thieve (literally or…" |
 | ✱ | کند | H1589 גָּנַב "to thieve (literally or…" | [دزدی کند] H1589 גָּנַב "to thieve (literally or…" |
 |  | ، |  |  |
-| ✱ | تحقیر | [تحقیر نمی‌کنند] H936 בּוּז "to disrespect" | [تحقیر نمی‌کنند] H3808 לֹא "not (the simple or abs.…"; H936 בּוּז "to disrespect" |
-| ✱ | نمی‌کنند | [تحقیر نمی‌کنند] H936 בּוּז "to disrespect" | [تحقیر نمی‌کنند] H3808 לֹא "not (the simple or abs.…"; H936 בּוּז "to disrespect" |
+| ✱ | تحقیر | H936 בּוּז "to disrespect" | [تحقیر نمی‌کنند] H3808 לֹא "not (the simple or abs.…"; H936 בּוּז "to disrespect" |
+| ✱ | نمی‌کنند | H3808 לֹא "not (the simple or abs.…" | [تحقیر نمی‌کنند] H3808 לֹא "not (the simple or abs.…"; H936 בּוּז "to disrespect" |
 |  | . |  |  |
 
-### Proverbs 6:31: 7 word(s) changed
+### Proverbs 6:31: 5 word(s) changed
 
 Reply line 13.
 
@@ -448,8 +448,8 @@ Original words:
 |  | گرفتار | [گرفتار شود] H4672 | [گرفتار شود] H4672 |
 |  | شود | [گرفتار شود] H4672 | [گرفتار شود] H4672 |
 | ✱ | باید | H7999 שָׁלַם "to be safe (in mind…" |  |
-| ✱ | هفت | H7659 שִׁבְעָתַיִם "seven-times" | [هفت برابر] H7659 שִׁבְעָתַיִם "seven-times" |
-| ✱ | برابر |  | [هفت برابر] H7659 שִׁבְעָתַיִם "seven-times" |
+|  | هفت | [هفت برابر] H7659 | [هفت برابر] H7659 |
+|  | برابر | [هفت برابر] H7659 | [هفت برابر] H7659 |
 | ✱ | تاوان |  | [تاوان دهد] H7999 שָׁלַם "to be safe (in mind…" |
 | ✱ | دهد |  | [تاوان دهد] H7999 שָׁלַם "to be safe (in mind…" |
 |  | ، |  |  |
@@ -537,7 +537,7 @@ Original words:
 | ✱ | نخواهد_گشت | H3808 לֹא "not (the simple or abs.…"; H4229 מָחָה "properly, to stroke or rub…" | [پاک نخواهد_گشت] H3808 לֹא "not (the simple or abs.…"; H4229 מָחָה "properly, to stroke or rub…" |
 |  | . |  |  |
 
-### Proverbs 6:34: 7 word(s) changed
+### Proverbs 6:34: 6 word(s) changed
 
 Reply line 16.
 
@@ -564,7 +564,7 @@ Original words:
 | ✱ | شوهر | H2534 חֵמָה "heat…"; H1397 גֶּבֶר "properly…" | H1397 גֶּבֶר "properly…" |
 |  | را |  |  |
 |  | بر |  |  |
-| ✱ | خواهد_انگیخت | H7068 קִנְאָה "jealousy or envy" |  |
+|  | خواهد_انگیخت |  |  |
 |  | و | Hc | Hc |
 | ✱ | چون | H3117 יוֹם "a day (as the warm hours)…" | Hb "in"; H3117 יוֹם "a day (as the warm hours)…" |
 | ✱ | به | [به انتقام] H5359 נָקָם "revenge" |  |
@@ -574,7 +574,7 @@ Original words:
 | ✱ | نخواهد_کرد | H3808 לֹא "not (the simple or abs.…" | [رحم نخواهد_کرد] H3808 לֹא "not (the simple or abs.…"; H2550 חָמַל "to commiserate…" |
 |  | . |  |  |
 
-### Proverbs 6:35: 5 word(s) changed
+### Proverbs 6:35: 4 word(s) changed
 
 Reply line 17.
 
@@ -605,7 +605,7 @@ Original words:
 | ✱ | هر | H3605 כֹּל "properly, the whole…" |  |
 |  | اندازه |  |  |
 |  | هم |  |  |
-| ✱ | که |  | H3588 כִּי "by implication) very widely…" |
+|  | که | H3588 | H3588 |
 |  | بر |  |  |
 |  | هدیه‌ها | H7810 | H7810 |
 |  | بیفزایی | H7235 | H7235 |

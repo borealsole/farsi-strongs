@@ -1,6 +1,6 @@
 # Check of 20_Proverbs_012.015-012.028.md
 
-Generated 2026-10-04 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
 ## 14 verse(s) with changes
 
@@ -25,13 +25,13 @@ Original words:
 | --- | --- | --- | --- |
 |  | راه | H1870 | H1870 |
 |  | نادان | H191 | H191 |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | نظر | H5869 | H5869 |
 |  | خودش |  |  |
 |  | درست | H3477 | H3477 |
 |  | است |  |  |
 |  | ، |  |  |
-|  | اما | Hc | Hc |
+| ✱ | اما |  | Hc "and" |
 |  | حکیم | H2450 | H2450 |
 |  | مشورت | H6098 | H6098 |
 |  | را |  |  |
@@ -73,7 +73,7 @@ Original words:
 |  | می‌گیرد | [ناشنیده می‌گیرد] H3680 | [ناشنیده می‌گیرد] H3680 |
 |  | . |  |  |
 
-### Proverbs 12:17: 1 word(s) changed
+### Proverbs 12:17: 4 word(s) changed
 
 Reply line 4.
 
@@ -93,12 +93,12 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | شخص |  |  |
-|  | امین | H530 | H530 |
+| ✱ | امین | H6315 פּוּחַ "to puff…" | H530 אֱמוּנָה "literally firmness…" |
 |  | ، |  |  |
 | ✱ | حقیقت |  | H6664 צֶדֶק "the right (natural…" |
 |  | را |  |  |
-|  | بیان | [بیان می‌کند] H6315 H5046 | [بیان می‌کند] H6315 H5046 |
-|  | می‌کند | [بیان می‌کند] H6315 H5046 | [بیان می‌کند] H6315 H5046 |
+| ✱ | بیان | [بیان می‌کند] H5046 נָגַד "properly, to front…" | [بیان می‌کند] H6315 פּוּחַ "to puff…"; H5046 נָגַד "properly, to front…" |
+| ✱ | می‌کند | [بیان می‌کند] H5046 נָגַד "properly, to front…" | [بیان می‌کند] H6315 פּוּחַ "to puff…"; H5046 נָגַד "properly, to front…" |
 |  | ، |  |  |
 |  | شاهد | H5707 | H5707 |
 |  | دروغین | H8267 | H8267 |
@@ -142,7 +142,7 @@ Original words:
 |  | می‌بخشد |  |  |
 |  | . |  |  |
 
-### Proverbs 12:19: 4 word(s) changed
+### Proverbs 12:19: 5 word(s) changed
 
 Reply line 6.
 
@@ -172,9 +172,9 @@ Original words:
 |  | اما | Hc | Hc |
 |  | زبان | H3956 | H3956 |
 |  | دروغگو | H8267 | H8267 |
-| ✱ | دمی | H5704 עַד "as far (or long, or much) as…" | H5704 עַד "as far (or long, or much) as…"; H7280 רָגַע "properly…" |
+| ✱ | دمی | H3559 כּוּן "properly…"; H5704 עַד "as far (or long, or much) as…" | H5704 עַד "as far (or long, or much) as…"; H7280 רָגַע "properly…" |
 |  | بیش |  |  |
-|  | نمی‌پاید |  |  |
+| ✱ | نمی‌پاید | H7280 רָגַע "properly…" |  |
 |  | . |  |  |
 
 ### Proverbs 12:20: 3 word(s) changed
@@ -198,7 +198,7 @@ Original words:
 | --- | --- | --- | --- |
 |  | خیانت | H4820 | H4820 |
 |  | است |  |  |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | دل | H3820 | H3820 |
 |  | کسانی |  |  |
 |  | که |  |  |
@@ -212,12 +212,12 @@ Original words:
 |  | کسانی |  |  |
 |  | است |  |  |
 |  | که |  |  |
-|  | صلح | H7965 | H7965 |
-| ✱ | برقرار | H2790 חָרַשׁ "to scratch…" | [برقرار می‌کنند] H3289 יָעַץ "to advise…" |
+| ✱ | صلح | [صلح برقرار] H7965 שָׁלוֹם "safe…" | H7965 שָׁלוֹם "safe…" |
+| ✱ | برقرار | [صلح برقرار] H7965 שָׁלוֹם "safe…" | [برقرار می‌کنند] H3289 יָעַץ "to advise…" |
 | ✱ | می‌کنند | H3289 יָעַץ "to advise…" | [برقرار می‌کنند] H3289 יָעַץ "to advise…" |
 |  | . |  |  |
 
-### Proverbs 12:21: 4 word(s) changed
+### Proverbs 12:21: 5 word(s) changed
 
 Reply line 8.
 
@@ -244,15 +244,15 @@ Original words:
 | ✱ | نخواهد_بود | H579 אָנָה "to approach…" | H3808 לֹא "not (the simple or abs.…"; H579 אָנָה "to approach…" |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
-|  | شریران | H7563 | H7563 |
+| ✱ | شریران |  | H7563 רָשָׁע "morally wrong…" |
 |  | به |  |  |
-|  | بلای | H7451 | H7451 |
-|  | بسیار |  |  |
-| ✱ | گرفتار |  | [گرفتار خواهند_آمد] H4390 מָלֵא "to fill or (intransitively)…" |
-| ✱ | خواهند_آمد |  | [گرفتار خواهند_آمد] H4390 מָלֵא "to fill or (intransitively)…" |
+| ✱ | بلای | [بلای بسیار] H7451 רַע "bad or (as noun) evil…" | H7451 רַע "bad or (as noun) evil…" |
+| ✱ | بسیار | [بلای بسیار] H7451 רַע "bad or (as noun) evil…" |  |
+|  | گرفتار | [گرفتار خواهند_آمد] H4390 | [گرفتار خواهند_آمد] H4390 |
+|  | خواهند_آمد | [گرفتار خواهند_آمد] H4390 | [گرفتار خواهند_آمد] H4390 |
 |  | . |  |  |
 
-### Proverbs 12:22: 2 word(s) changed
+### Proverbs 12:22: 3 word(s) changed
 
 Reply line 9.
 
@@ -278,7 +278,7 @@ Original words:
 |  | کراهت | H8441 | H8441 |
 |  | دارد |  |  |
 |  | ، |  |  |
-|  | اما | Hc | Hc |
+| ✱ | اما |  | Hc "and" |
 | ✱ | راستکرداران | H530 אֱמוּנָה "literally firmness…" | H6213 עָשָׂה "to do or make…"; H530 אֱמוּנָה "literally firmness…" |
 |  | پسندیدۀ | H7522 | H7522 |
 |  | اویند |  |  |
@@ -319,7 +319,7 @@ Original words:
 | ✱ | می‌زند |  | [جار می‌زند] H7121 קָרָא "to call out to (i.e. properly…" |
 |  | ! |  |  |
 
-### Proverbs 12:24: 4 word(s) changed
+### Proverbs 12:24: 3 word(s) changed
 
 Reply line 11.
 
@@ -338,7 +338,7 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | دستان | H3027 | H3027 |
-| ✱ | سخت‌کوش |  | H2742 חֲרוּץ "properly…" |
+|  | سخت‌کوش | H2742 | H2742 |
 | ✱ | حُکم |  | [حُکم خواهد_راند] H4910 מָשַׁל "to rule" |
 | ✱ | خواهد_راند | H4910 מָשַׁל "to rule" | [حُکم خواهد_راند] H4910 מָשַׁל "to rule" |
 |  | ، |  |  |
@@ -444,12 +444,12 @@ Original words:
 |  | خود |  |  |
 |  | را |  |  |
 |  | نیز |  |  |
-| ✱ | بریان | [بریان نمی‌کند] H2760 חָרַךְ "to braid (i.e. to entangle or…" | [بریان نمی‌کند] H3808 לֹא "not (the simple or abs.…"; H2760 חָרַךְ "to braid (i.e. to entangle or…" |
-| ✱ | نمی‌کند | [بریان نمی‌کند] H2760 חָרַךְ "to braid (i.e. to entangle or…" | [بریان نمی‌کند] H3808 לֹא "not (the simple or abs.…"; H2760 חָרַךְ "to braid (i.e. to entangle or…" |
+| ✱ | بریان | H2760 חָרַךְ "to braid (i.e. to entangle or…" | [بریان نمی‌کند] H3808 לֹא "not (the simple or abs.…"; H2760 חָרַךְ "to braid (i.e. to entangle or…" |
+| ✱ | نمی‌کند | H3808 לֹא "not (the simple or abs.…" | [بریان نمی‌کند] H3808 לֹא "not (the simple or abs.…"; H2760 חָרַךְ "to braid (i.e. to entangle or…" |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
 | ✱ | شخص |  | H120 אָדָם "ruddy i.e. a human being (an…" |
-| ✱ | سخت‌کوش | H7423 רְמִיָּה "remissness, treachery"; H2742 חֲרוּץ "properly…" | H2742 חֲרוּץ "properly…" |
+| ✱ | سخت‌کوش |  | H2742 חֲרוּץ "properly…" |
 |  | قدر | H3368 | H3368 |
 |  | دارایی | H1952 | H1952 |
 |  | خود |  |  |

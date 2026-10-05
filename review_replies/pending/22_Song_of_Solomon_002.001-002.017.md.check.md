@@ -1,36 +1,12 @@
 # Check of 22_Song_of_Solomon_002.001-002.017.md
 
-Generated 2026-10-04 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
-## 15 verse(s) with changes
+No change from the current tags (will be skipped): Song of Solomon 2:1.
 
-### Song of Solomon 2:1: 1 word(s) changed
+## 14 verse(s) with changes
 
-Reply line 2.
-
-Original: אֲנִי חֲבַצֶּלֶת הַ/שָּׁרוֹן שׁוֹשַׁנַּת הָ/עֲמָקִים
-
-Persian: من نرگسِ شارونم، من سوسن وادیهایم.
-
-Original words:
-- o1: אֲנִי = H589 אֲנִי "I" [HPp1cs]
-- o2: חֲבַצֶּלֶת = H2261 חֲבַצֶּלֶת "probably meadow-saffron" [HNcfsc]
-- o3: הַ/שָּׁרוֹן = Hd "the" + H8289 שָׁרוֹן "plain, Sharon, the name of a place in Palestine" [HTd/Np]
-- o4: שׁוֹשַׁנַּת = H7799 שׁוּשַׁן "a lily (from its whiteness)…" [HNcbsc]
-- o5: הָ/עֲמָקִים = Hd "the" + H6010 עֵמֶק "a vale (i.e. broad depression)" [HTd/Ncmpa]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | من | H589 | H589 |
-| ✱ | نرگسِ |  | H2261 חֲבַצֶּלֶת "probably meadow-saffron" |
-|  | شارونم | H8289 | H8289 |
-|  | ، |  |  |
-|  | من |  |  |
-|  | سوسن | H7799 | H7799 |
-|  | وادیهایم | H6010 | H6010 |
-|  | . |  |  |
-
-### Song of Solomon 2:3: 5 word(s) changed
+### Song of Solomon 2:3: 4 word(s) changed
 
 Reply line 3.
 
@@ -58,7 +34,7 @@ Original words:
 |  | همچون | Hk | Hk |
 |  | درخت | [درخت سیبی] H8598 | [درخت سیبی] H8598 |
 |  | سیبی | [درخت سیبی] H8598 | [درخت سیبی] H8598 |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | میان |  |  |
 |  | درختان | H6086 | H6086 |
 |  | جنگل | H3293 | H3293 |
@@ -87,7 +63,7 @@ Original words:
 |  | است |  |  |
 |  | . |  |  |
 
-### Song of Solomon 2:4: 1 word(s) changed
+### Song of Solomon 2:4: 2 word(s) changed
 
 Reply line 4.
 
@@ -110,7 +86,7 @@ Original words:
 |  | مرا |  |  |
 |  | به | H413 | H413 |
 | ✱ | میخانه | H1004 בַּיִת "a house (in the greatest…" | H1004 בַּיִת "a house (in the greatest…"; H3196 יַיִן "wine (as fermented)…" |
-|  | درآورده | H935 | H935 |
+| ✱ | درآورده | H935 בּוֹא "to go or come (in a wide…"; H3196 יַיִן "wine (as fermented)…" | H935 בּוֹא "to go or come (in a wide…" |
 |  | ، |  |  |
 |  | و | Hc | Hc |
 |  | عشق | H160 | H160 |
@@ -229,7 +205,7 @@ Original words:
 |  | شما |  |  |
 |  | را | H853 | H853 |
 |  | به | Hb | Hb |
-|  | غزالها | H6643 | H6643 |
+| ✱ | غزالها | H6643 צְבִי "splendor (as conspicuous)…"; H7704 שָׂדֶה "a field (as flat)" | H6643 צְבִי "splendor (as conspicuous)…" |
 |  | و | H176 | H176 |
 |  | آهوانِ | H355 | H355 |
 |  | صحرا | H7704 | H7704 |
@@ -239,12 +215,12 @@ Original words:
 |  | عشق | H160 | H160 |
 |  | را | H853 | H853 |
 |  | تا | H5704 | H5704 |
-| ✱ | سیر | H5782 עוּר "to wake (literally or…" | [سیر نگشته] H2654 חָפֵץ "properly, to incline to…" |
+| ✱ | سیر |  | [سیر نگشته] H2654 חָפֵץ "properly, to incline to…" |
 | ✱ | نگشته | H518 אִם "used very widely as…" | [سیر نگشته] H2654 חָפֵץ "properly, to incline to…" |
 |  | ، |  |  |
 | ✱ | زحمت | H5782 עוּר "to wake (literally or…"; H2654 חָפֵץ "properly, to incline to…" | [زحمت مرسانید] H5782 עוּר "to wake (literally or…" |
-| ✱ | مرسانید |  | [زحمت مرسانید] H5782 עוּר "to wake (literally or…" |
-| ✱ | و | H176 אוֹ "desire (and so probably in…"; Hc "and" | Hc "and" |
+| ✱ | مرسانید | H5782 עוּר "to wake (literally or…" | [زحمت مرسانید] H5782 עוּר "to wake (literally or…" |
+|  | و | Hc | Hc |
 |  | بازمدارید | H5782 | H5782 |
 |  | ! |  |  |
 
@@ -293,7 +269,7 @@ Original words:
 |  | تپه‌ها | H1389 | H1389 |
 |  | . |  |  |
 
-### Song of Solomon 2:9: 12 word(s) changed
+### Song of Solomon 2:9: 11 word(s) changed
 
 Reply line 9.
 
@@ -341,10 +317,10 @@ Original words:
 |  | ایستاده_است | H5975 | H5975 |
 |  | ! |  |  |
 | ✱ | از |  | H4480 מִן "properly, a part of…" |
-| ✱ | پنجره‌ها | H2762 חֶרֶךְ "properly, a net…" | H2474 חַלּוֹן "a window (as perforated)" |
+| ✱ | پنجره‌ها |  | H2474 חַלּוֹן "a window (as perforated)" |
 | ✱ | می‌نگرد | H6692 צוּץ "to twinkle, i.e. glance…" | H7688 שָׁגַח "to peep…" |
 |  | ، |  |  |
-| ✱ | از |  | H4480 מִן "properly, a part of…" |
+|  | از | H4480 | H4480 |
 |  | میان |  |  |
 | ✱ | شبکه‌ها | H2474 חַלּוֹן "a window (as perforated)" | H2762 חֶרֶךְ "properly, a net…" |
 | ✱ | نگاه | [نگاه می‌کند] H7688 שָׁגַח "to peep…" | [نگاه می‌کند] H6692 צוּץ "to twinkle, i.e. glance…" |
@@ -377,7 +353,7 @@ Original words:
 |  | من |  |  |
 | ✱ | ندا |  | [ندا در داده] H6030 עָנָה "properly…" |
 | ✱ | در |  | [ندا در داده] H6030 עָנָה "properly…" |
-| ✱ | داده |  | [ندا در داده] H6030 עָנָה "properly…" |
+| ✱ | داده | H6030 עָנָה "properly…" | [ندا در داده] H6030 עָנָה "properly…" |
 |  | ، |  |  |
 |  | مرا |  |  |
 |  | گوید | H559 | H559 |
@@ -433,7 +409,7 @@ Original words:
 |  | است |  |  |
 |  | ! |  |  |
 
-### Song of Solomon 2:12: 1 word(s) changed
+### Song of Solomon 2:12: 2 word(s) changed
 
 Reply line 12.
 
@@ -457,7 +433,7 @@ Original words:
 | --- | --- | --- | --- |
 |  | زمین | H776 | H776 |
 |  | گلشن | H5339 | H5339 |
-| ✱ | گشته |  | H7200 רָאָה "to see…" |
+| ✱ | گشته | H776 אֶרֶץ "the earth (at large…" | H7200 רָאָה "to see…" |
 |  | ، |  |  |
 |  | زمان | H6256 | H6256 |
 |  | نغمه‌سرایی | H2159 | H2159 |
@@ -465,7 +441,7 @@ Original words:
 |  | ، |  |  |
 |  | و | Hc | Hc |
 |  | آواز | H6963 | H6963 |
-|  | فاخته | H8449 | H8449 |
+| ✱ | فاخته | H7200 רָאָה "to see…"; H8449 תּוֹר "a ring-dove…" | H8449 תּוֹר "a ring-dove…" |
 |  | در | Hb | Hb |
 |  | ولایت | H776 | H776 |
 |  | ما |  |  |
@@ -528,7 +504,7 @@ Original words:
 |  | ! |  |  |
 |  | » |  |  |
 
-### Song of Solomon 2:14: 7 word(s) changed
+### Song of Solomon 2:14: 5 word(s) changed
 
 Reply line 14.
 
@@ -561,9 +537,9 @@ Original words:
 |  | من |  |  |
 |  | ، |  |  |
 |  | که |  |  |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | شکافهای | H2288 | H2288 |
-| ✱ | صخره | H5553 סֶלַע "a craggy rock…"; H4095 מַדְרֵגָה "properly, a step…" | H5553 סֶלַע "a craggy rock…" |
+|  | صخره | H5553 | H5553 |
 |  | و |  |  |
 | ✱ | جایهای |  | [جایهای مخفی] H5643 סֵתֶר "a cover (in a good or a bad…" |
 | ✱ | مخفی | H5643 סֵתֶר "a cover (in a good or a bad…" | [جایهای مخفی] H5643 סֵתֶר "a cover (in a good or a bad…" |
@@ -630,7 +606,7 @@ Original words:
 |  | می‌چرَد | H7462 | H7462 |
 |  | . |  |  |
 
-### Song of Solomon 2:17: 11 word(s) changed
+### Song of Solomon 2:17: 12 word(s) changed
 
 Reply line 16.
 
@@ -665,7 +641,7 @@ Original words:
 | ✱ | پیش | H5704 עַד "as far (or long, or much) as…" | [پیش از آنکه] H5704 עַד "as far (or long, or much) as…"; Hs "which" |
 | ✱ | از |  | [پیش از آنکه] H5704 עַד "as far (or long, or much) as…"; Hs "which" |
 | ✱ | آنکه |  | [پیش از آنکه] H5704 עַד "as far (or long, or much) as…"; Hs "which" |
-|  | نسیمِ |  |  |
+| ✱ | نسیمِ | H6315 פּוּחַ "to puff…" |  |
 |  | روز | H3117 | H3117 |
 |  | وزیدن | [وزیدن گیرد] H6315 | [وزیدن گیرد] H6315 |
 |  | گیرد | [وزیدن گیرد] H6315 | [وزیدن گیرد] H6315 |

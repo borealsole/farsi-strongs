@@ -1,8 +1,10 @@
 # Check of 20_Proverbs_005.001-005.023.md
 
-Generated 2026-10-04 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
-## 21 verse(s) with changes
+No change from the current tags (will be skipped): Proverbs 5:16.
+
+## 20 verse(s) with changes
 
 ### Proverbs 5:1: 1 word(s) changed
 
@@ -35,11 +37,11 @@ Original words:
 |  | بصیرت | H8394 | H8394 |
 |  | من |  |  |
 |  | نیک |  |  |
-|  | گوش | H241 | H241 |
-| ✱ | فرا~ده |  | H5186 נָטָה "to stretch or spread out…" |
+| ✱ | گوش | H8394 תָּבוּן "intelligence…"; H241 אֹזֶן "broadness. i.e. (concrete)…" | H241 אֹזֶן "broadness. i.e. (concrete)…" |
+|  | فرا~ده | H5186 | H5186 |
 |  | ؛ |  |  |
 
-### Proverbs 5:2: 2 word(s) changed
+### Proverbs 5:2: 4 word(s) changed
 
 Reply line 3.
 
@@ -59,8 +61,8 @@ Original words:
 | ✱ | تا |  | Hl "to" |
 |  | دوراندیشی | H4209 | H4209 |
 |  | را |  |  |
-|  | پاس | [پاس داری] H8104 | [پاس داری] H8104 |
-|  | داری | [پاس داری] H8104 | [پاس داری] H8104 |
+| ✱ | پاس | H8104 שָׁמַר "properly…" | [پاس داری] H8104 שָׁמַר "properly…" |
+| ✱ | داری | H4209 מְזִמָּה "a plan…" | [پاس داری] H8104 שָׁמַר "properly…" |
 |  | و | Hc | Hc |
 |  | لبانت | H8193 | H8193 |
 | ✱ | معرفت | H4209 מְזִמָּה "a plan…"; H1847 דַּעַת "knowledge" | H1847 דַּעַת "knowledge" |
@@ -69,7 +71,7 @@ Original words:
 |  | دارد | [نگاه دارد] H5341 | [نگاه دارد] H5341 |
 |  | . |  |  |
 
-### Proverbs 5:3: 3 word(s) changed
+### Proverbs 5:3: 4 word(s) changed
 
 Reply line 4.
 
@@ -93,9 +95,9 @@ Original words:
 |  | از |  |  |
 |  | لبان | H8193 | H8193 |
 | ✱ | زن | H2114 זוּר "to turn aside (especially for…" | [زن زناکار] H2114 זוּר "to turn aside (especially for…" |
-| ✱ | زناکار | H5197 נָטַף "to ooze…" | [زن زناکار] H2114 זוּר "to turn aside (especially for…" |
+| ✱ | زناکار | H5197 נָטַף "to ooze…"; H2114 זוּר "to turn aside (especially for…" | [زن زناکار] H2114 זוּר "to turn aside (especially for…" |
 | ✱ | عسل | H5317 נֹפֶת "a dripping i.e. of honey…"; H5197 נָטַף "to ooze…" | H5317 נֹפֶת "a dripping i.e. of honey…" |
-|  | می‌چکد | H5197 | H5197 |
+| ✱ | می‌چکد |  | H5197 נָטַף "to ooze…" |
 |  | ، |  |  |
 |  | و | Hc | Hc |
 |  | زبان | H2441 | H2441 |
@@ -140,7 +142,7 @@ Original words:
 | ✱ | دم | H2719 חֶרֶב "drought…"; H6310 פֶּה "the mouth (as the means of…" | [دو دم] H6310 פֶּה "the mouth (as the means of…" |
 |  | . |  |  |
 
-### Proverbs 5:5: 4 word(s) changed
+### Proverbs 5:5: 3 word(s) changed
 
 Reply line 6.
 
@@ -158,7 +160,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | پاهایش | H7272 רֶגֶל "a foot (as used in walking)…"; H6806 צַעַד "a pace or regular step" | H7272 רֶגֶל "a foot (as used in walking)…" |
+|  | پاهایش | H7272 | H7272 |
 |  | به |  |  |
 |  | کام |  |  |
 |  | مرگ | H4194 | H4194 |
@@ -172,7 +174,7 @@ Original words:
 | ✱ | می‌انجامد |  | H8551 תָּמַךְ "to sustain…" |
 |  | . |  |  |
 
-### Proverbs 5:6: 4 word(s) changed
+### Proverbs 5:6: 5 word(s) changed
 
 Reply line 7.
 
@@ -204,7 +206,7 @@ Original words:
 |  | اما |  |  |
 |  | این |  |  |
 |  | را |  |  |
-|  | نمی‌داند | H3808 H3045 | H3808 H3045 |
+| ✱ | نمی‌داند | H3045 יָדַע "to know (properly…" | H3808 לֹא "not (the simple or abs.…"; H3045 יָדַע "to know (properly…" |
 |  | . |  |  |
 
 ### Proverbs 5:7: 1 word(s) changed
@@ -266,7 +268,7 @@ Original words:
 | --- | --- | --- | --- |
 |  | راه | H1870 | H1870 |
 |  | خویش |  |  |
-| ✱ | از | Hm "from" | Hm "from"; H5921 עַל "above, over, upon…" |
+| ✱ | از |  | Hm "from"; H5921 עַל "above, over, upon…" |
 |  | او |  |  |
 | ✱ | دور | H7368 רָחַק "to widen (in any direction)…" | [دور نگاه دار] H7368 רָחַק "to widen (in any direction)…" |
 | ✱ | نگاه | H408 אַל "not (the qualified negation…" | [دور نگاه دار] H7368 רָחַק "to widen (in any direction)…" |
@@ -301,7 +303,7 @@ Original words:
 | ✱ | پایانِ | H319 אַחֲרִית "the last or end, hence…"; H3615 כָּלָה "to end…" | [پایانِ عمر] H319 אַחֲרִית "the last or end, hence…" |
 | ✱ | عمر | H319 אַחֲרִית "the last or end, hence…" | [پایانِ عمر] H319 אַחֲרִית "the last or end, hence…" |
 |  | ، |  |  |
-| ✱ | ناله |  | [ناله سر دهی] H5098 נָהַם "to growl" |
+| ✱ | ناله | H5098 נָהַם "to growl" | [ناله سر دهی] H5098 נָהַם "to growl" |
 | ✱ | سر |  | [ناله سر دهی] H5098 נָהַם "to growl" |
 | ✱ | دهی | H5098 נָהַם "to growl" | [ناله سر دهی] H5098 נָהַם "to growl" |
 |  | ، |  |  |
@@ -314,7 +316,7 @@ Original words:
 |  | شده_باشد | [زایل شده_باشد] H3615 | [زایل شده_باشد] H3615 |
 |  | . |  |  |
 
-### Proverbs 5:12: 5 word(s) changed
+### Proverbs 5:12: 4 word(s) changed
 
 Reply line 11.
 
@@ -345,7 +347,7 @@ Original words:
 |  | بودم | [بیزار بودم] H8130 | [بیزار بودم] H8130 |
 |  | ! |  |  |
 |  | و | Hc | Hc |
-| ✱ | افسوس | H8433 תּוֹכֵחָה "chastisement…" |  |
+|  | افسوس |  |  |
 | ✱ | که | H349 אֵיךְ "how? or how!; also where" |  |
 |  | دل | H3820 | H3820 |
 |  | من |  |  |
@@ -409,9 +411,9 @@ Original words:
 |  | و |  |  |
 |  | در | Hb | Hb |
 |  | میان | H8432 | H8432 |
-| ✱ | قوم |  | H6951 קָהָל "assemblage (usually…" |
+| ✱ | قوم | H5712 עֵדָה "a stated assemblage…" | H6951 קָהָל "assemblage (usually…" |
 |  | و | Hc | Hc |
-| ✱ | جماعت | H6951 קָהָל "assemblage (usually…" | H5712 עֵדָה "a stated assemblage…" |
+| ✱ | جماعت | H6951 קָהָל "assemblage (usually…"; H5712 עֵדָה "a stated assemblage…" | H5712 עֵדָה "a stated assemblage…" |
 |  | ، |  |  |
 |  | به |  |  |
 |  | لبۀ | H4592 | H4592 |
@@ -453,37 +455,6 @@ Original words:
 |  | خویشتن |  |  |
 |  | . |  |  |
 
-### Proverbs 5:16: 1 word(s) changed
-
-Reply line 15.
-
-Original: יָפוּצוּ מַעְיְנֹתֶי/ךָ חוּצָ/ה בָּ/רְחֹבוֹת פַּלְגֵי מָיִם
-
-Persian: چرا چشمه‌هایت در کویها جاری شود و نهرهایت در معابر عمومی؟
-
-Original words:
-- o1: יָפוּצוּ = H6327 פּוּץ "to dash in pieces…" [HVqi3mp]
-- o2: מַעְיְנֹתֶי/ךָ = H4599 מַעְיָן "a fountain (also collectively), figuratively…" [HNcmpc/Sp2ms]
-- o3: חוּצָ/ה = H2351 חוּץ "properly, separate by awall, i.e. outside…" [HNcmsa/Sd]
-- o4: בָּ/רְחֹבוֹת = Hb "in" + H7339 רְחֹב "a width, i.e. (concretely) avenue or area" [HRd/Ncfpa]
-- o5: פַּלְגֵי = H6388 פֶּלֶג "a rill (i.e. small channel of water…" [HNcmpc]
-- o6: מָיִם = H4325 מַיִם "water; figuratively, juice…" [HNcmpa]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | چرا |  |  |
-|  | چشمه‌هایت | H4599 | H4599 |
-|  | در |  |  |
-| ✱ | کویها | H2351 חוּץ "properly, separate by awall…"; H7339 רְחֹב "a width…" | H2351 חוּץ "properly, separate by awall…" |
-|  | جاری | [جاری شود] H6327 | [جاری شود] H6327 |
-|  | شود | [جاری شود] H6327 | [جاری شود] H6327 |
-|  | و |  |  |
-|  | نهرهایت | H6388 | H6388 |
-|  | در | Hb | Hb |
-|  | معابر | [معابر عمومی] H7339 | [معابر عمومی] H7339 |
-|  | عمومی | [معابر عمومی] H7339 | [معابر عمومی] H7339 |
-|  | ؟ |  |  |
-
 ### Proverbs 5:17: 3 word(s) changed
 
 Reply line 16.
@@ -517,7 +488,7 @@ Original words:
 | ✱ | مساز |  | [سهیم مساز] H369 אַיִן "a non-entity…"; H854 אֵת "properly…" |
 |  | . |  |  |
 
-### Proverbs 5:18: 3 word(s) changed
+### Proverbs 5:18: 1 word(s) changed
 
 Reply line 17.
 
@@ -542,14 +513,14 @@ Original words:
 |  | و | Hc | Hc |
 |  | از | Hm | Hm |
 |  | همسر | H802 | H802 |
-| ✱ | روزگار |  | [روزگار جوانیِ] H5271 נָעוּר "only in plural collectively…" |
-| ✱ | جوانیِ | H5271 נָעוּר "only in plural collectively…" | [روزگار جوانیِ] H5271 נָעוּר "only in plural collectively…" |
+|  | روزگار | [روزگار جوانیِ] H5271 | [روزگار جوانیِ] H5271 |
+|  | جوانیِ | [روزگار جوانیِ] H5271 | [روزگار جوانیِ] H5271 |
 |  | خویش |  |  |
 |  | شادمان | [شادمان باش] H8055 | [شادمان باش] H8055 |
 |  | باش | [شادمان باش] H8055 | [شادمان باش] H8055 |
 |  | ؛ |  |  |
 
-### Proverbs 5:19: 7 word(s) changed
+### Proverbs 5:19: 5 word(s) changed
 
 Reply line 18.
 
@@ -576,7 +547,7 @@ Original words:
 |  | غزالی | H365 | H365 |
 |  | دلپذیر | H158 | H158 |
 |  | و | Hc | Hc |
-| ✱ | آهویی |  | H3280 יַעֲלָה "an ibex (as climbing)" |
+| ✱ | آهویی | H2580 חֵן "graciousness…" | H3280 יַעֲלָה "an ibex (as climbing)" |
 | ✱ | زیبا | H7301 רָוָה "to slake the thirst…" | H2580 חֵן "graciousness…" |
 |  | ، |  |  |
 |  | پستانهایش | H1717 | H1717 |
@@ -588,8 +559,8 @@ Original words:
 |  | و |  |  |
 |  | عشق | H160 | H160 |
 |  | او |  |  |
-| ✱ | سرمستت | [سرمستت کند] H7301 רָוָה "to slake the thirst…"; H7686 שָׁגָה "to stray (causatively…" | [سرمستت کند] H7686 שָׁגָה "to stray (causatively…" |
-| ✱ | کند | [سرمستت کند] H7301 רָוָה "to slake the thirst…"; H7686 שָׁגָה "to stray (causatively…" | [سرمستت کند] H7686 שָׁגָה "to stray (causatively…" |
+|  | سرمستت | [سرمستت کند] H7686 | [سرمستت کند] H7686 |
+|  | کند | [سرمستت کند] H7686 | [سرمستت کند] H7686 |
 |  | . |  |  |
 
 ### Proverbs 5:20: 10 word(s) changed
@@ -661,7 +632,7 @@ Original words:
 |  | می‌سنجد | H6424 | H6424 |
 |  | . |  |  |
 
-### Proverbs 5:22: 4 word(s) changed
+### Proverbs 5:22: 5 word(s) changed
 
 Reply line 21.
 
@@ -687,7 +658,7 @@ Original words:
 | ✱ | می‌افکنَد | H3920 לָכַד "to catch (in a net…" | [به دامش می‌افکنَد] H3920 לָכַד "to catch (in a net…" |
 |  | ، |  |  |
 |  | و | Hc | Hc |
-|  | در |  |  |
+| ✱ | در | Hb "in" |  |
 |  | بندِ | H2256 | H2256 |
 |  | گناهان | H2403 | H2403 |
 | ✱ | خویش | H7563 רָשָׁע "morally wrong…" |  |

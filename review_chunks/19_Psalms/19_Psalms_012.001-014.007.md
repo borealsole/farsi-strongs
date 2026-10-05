@@ -116,9 +116,10 @@ Persian entries and current tags:
 - p10: وفاداران  → H539
 - p11: از  → Hm
 - p12: میان
-- p13: بنی‌آدم  → H8067 H1732 H1121 H120
-- p14: محو گردیده‌اند  → H6461
-- p15: .
+- p13: بنی‌آدم  → H1121 H120
+- p14: محو
+- p15: گردیده‌اند  → H6461
+- p16: .
 
 ### Psalms 12:2
 
@@ -140,11 +141,11 @@ Original words:
 Persian entries and current tags:
 - p1: همه
 - p2: به
-- p3: یکدیگر  → H7453
+- p3: یکدیگر
 - p4: دروغ  → H7723
 - p5: می‌گویند  → H1696
 - p6: ؛
-- p7: لبهای  → H8193 H2513
+- p7: لبهای  → H8193
 - p8: چاپلوسشان  → H2513
 - p9: به
 - p10: ریا  → H7453
@@ -250,7 +251,7 @@ Persian entries and current tags:
 - p8: ستمدیدگان  → H6041
 - p9: ،
 - p10: و
-- p11: نالۀ
+- p11: نالۀ  → H603
 - p12: نیازمندان  → H6041 H34
 - p13: ،
 - p14: اکنون  → H6258
@@ -258,7 +259,7 @@ Persian entries and current tags:
 - p16: .
 - p17: ایشان
 - p18: را
-- p19: در
+- p19: در  → Hb
 - p20: امنیتی  → H3468
 - p21: که
 - p22: برایش
@@ -321,7 +322,7 @@ Original words:
 Persian entries and current tags:
 - p1: خداوندا  → H3068
 - p2: ،
-- p3: تو  → H859
+- p3: تو  → H859 H8104
 - p4: ایشان
 - p5: را
 - p6: نگاه خواهی_داشت  → H8104
@@ -363,7 +364,7 @@ Persian entries and current tags:
 - p9: فرومایگی  → H7311 H2149
 - p10: در  → Hl
 - p11: میان
-- p12: آدمیان  → H120
+- p12: آدمیان  → H1121 H120
 - p13: برافراشته شود  → H7311
 - p14: .
 
@@ -390,14 +391,14 @@ Original words:
 
 Persian entries and current tags:
 - p1: تا
-- p2: به
+- p2: به  → Hl
 - p3: کی  → H575
 - p4: ،
 - p5: خداوندا  → H5329 H3068
 - p6: ؟
 - p7: آیا
 - p8: مرا
-- p9: تا
+- p9: تا  → H5704
 - p10: ابد  → H5331
 - p11: فراموش خواهی_کرد  → H7911
 - p12: ؟
@@ -407,7 +408,7 @@ Persian entries and current tags:
 - p16: روی  → H5641
 - p17: خود  → H6440
 - p18: را  → H853
-- p19: از
+- p19: از  → H4480
 - p20: من
 - p21: خواهی_پوشانید  → H5331
 - p22: ؟
@@ -433,14 +434,14 @@ Original words:
 - o13: עָלָ/י = H5921 עַל "above, over, upon…" [HR/Sp1cs]
 
 Persian entries and current tags:
-- p1: تا  → H5704
+- p1: تا  → H5704 H575
 - p2: به
 - p3: کی  → H575
 - p4: با  → H7896
 - p5: اندیشه‌هایم  → H6098
 - p6: دست
 - p7: به
-- p8: گریبان
+- p8: گریبان  → H3015
 - p9: باشم
 - p10: ،
 - p11: و
@@ -451,7 +452,7 @@ Persian entries and current tags:
 - p16: غم  → H3015
 - p17: باشد
 - p18: ؟
-- p19: تا  → H5704
+- p19: تا  → H575 H5704
 - p20: به
 - p21: کی  → H575
 - p22: دشمنم  → H341
@@ -497,7 +498,7 @@ Persian entries and current tags:
 - p18: به  → H215
 - p19: خواب  → H3462
 - p20: مرگ  → H4194
-- p21: بخسبم
+- p21: بخسبم  → H3462
 - p22: ؛
 
 ### Psalms 13:4
@@ -528,7 +529,7 @@ Persian entries and current tags:
 - p10: ،
 - p11: و
 - p12: خصمانم  → H6862
-- p13: از
+- p13: از  → H3588
 - p14: تزلزلم
 - p15: شادمان شوند  → H1523 H4131
 - p16: .
@@ -547,17 +548,17 @@ Original words:
 - o6: בִּ/ישׁוּעָתֶ/ךָ = Hb "in" + H3444 יְשׁוּעָה "something saved, i.e. (abstractly) deliverance…" [HR/Ncfsc/Sp2ms]
 
 Persian entries and current tags:
-- p1: و اما  → Hc
-- p2: من  → H589
-- p3: ،
-- p4: بر  → Hb
-- p5: محبت  → H2617
-- p6: تو
-- p7: توکل
-- p8: می‌دارم
+- p1: و  → Hc
+- p2: اما
+- p3: من  → H589
+- p4: ،
+- p5: بر  → Hb
+- p6: محبت  → H2617
+- p7: تو
+- p8: توکل می‌دارم  → H982
 - p9: ؛
 - p10: دلم  → H3820
-- p11: در
+- p11: در  → Hb
 - p12: نجات  → H2617 H3444
 - p13: تو
 - p14: شادی  → H1523
@@ -608,7 +609,7 @@ Original words:
 - o13: טוֹב = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAamsa]
 
 Persian entries and current tags:
-- p1: ابله  → H5329 H5036
+- p1: ابله  → H5329
 - p2: در  → Hb
 - p3: دل  → H3820
 - p4: خود
@@ -691,7 +692,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: همه  → H3605
-- p2: گمراه
+- p2: گمراه  → H444
 - p3: گشته‌اند  → H5493
 - p4: ،
 - p5: و
@@ -729,10 +730,10 @@ Persian entries and current tags:
 - p1: آیا  → Hi
 - p2: بدکاران  → H6466 H205
 - p3: را
-- p4: شناختی  → H3899
-- p5: نیست  → H3808
+- p4: شناختی  → H3045 H3899
+- p5: نیست
 - p6: ؟
-- p7: آنان  → H6466
+- p7: آنان  → H6466 H205
 - p8: که
 - p9: قوم  → H5971
 - p10: مرا

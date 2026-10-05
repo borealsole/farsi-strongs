@@ -1,10 +1,12 @@
 # Check of 20_Proverbs_017.015-017.028.md
 
-Generated 2026-10-04 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
-## 12 verse(s) with changes
+No change from the current tags (will be skipped): Proverbs 17:18.
 
-### Proverbs 17:15: 5 word(s) changed
+## 11 verse(s) with changes
+
+### Proverbs 17:15: 4 word(s) changed
 
 Reply line 2.
 
@@ -29,7 +31,7 @@ Original words:
 |  | و | Hc | Hc |
 | ✱ | محکوم | [محکوم کردن] H6663 צָדַק "to be (causatively…"; H7561 רָשַׁע "to be (causatively…" | [محکوم کردن] H7561 רָשַׁע "to be (causatively…" |
 | ✱ | کردن | [محکوم کردن] H6663 צָדַק "to be (causatively…"; H7561 רָשַׁע "to be (causatively…" | [محکوم کردن] H7561 רָשַׁע "to be (causatively…" |
-| ✱ | بی‌گناهان | H7563 רָשָׁע "morally wrong…"; H6662 צַדִּיק "just" | H6662 צַדִּיק "just" |
+|  | بی‌گناهان | H6662 | H6662 |
 |  | ! |  |  |
 |  | خداوند | H3068 | H3068 |
 |  | از |  |  |
@@ -63,25 +65,25 @@ Original words:
 |  | بهای | H4242 | H4242 |
 | ✱ | خریدِ | H4242 מְחִיר "price, payment, wages"; H7069 קָנָה "to erect, i.e. create…" | H7069 קָנָה "to erect, i.e. create…" |
 |  | حکمت | H2451 | H2451 |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | دست | H3027 | H3027 |
 |  | جاهل | H3684 | H3684 |
 |  | به | Hl | Hl |
 |  | چه | H4100 | H4100 |
-|  | کار |  |  |
+| ✱ | کار | H3820 לֵב "the heart…" |  |
 |  | آید |  |  |
 |  | ، |  |  |
-|  | چه |  |  |
+| ✱ | چه | H4100 מָה "properly…" |  |
 |  | او |  |  |
 |  | را |  |  |
 |  | دل | H3820 | H3820 |
 |  | برای |  |  |
 | ✱ | این | H369 אַיִן "a non-entity…" |  |
-| ✱ | کار | H3820 לֵב "the heart…" |  |
+|  | کار |  |  |
 |  | نیست | H369 | H369 |
 |  | . |  |  |
 
-### Proverbs 17:17: 4 word(s) changed
+### Proverbs 17:17: 5 word(s) changed
 
 Reply line 4.
 
@@ -101,7 +103,7 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | دوست | H7453 | H7453 |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | همه | H3605 | H3605 |
 |  | حال | H6256 | H6256 |
 |  | محبت | [محبت می‌کند] H157 | [محبت می‌کند] H157 |
@@ -110,42 +112,11 @@ Original words:
 |  | و | Hc | Hc |
 |  | برادر | H251 | H251 |
 |  | برای | Hl | Hl |
-|  | روز |  |  |
-|  | تنگی | H6869 | H6869 |
+| ✱ | روز | [روز تنگی] H6869 צָרָה "tightness (i.e. figuratively…" |  |
+| ✱ | تنگی | [روز تنگی] H6869 צָרָה "tightness (i.e. figuratively…" | H6869 צָרָה "tightness (i.e. figuratively…" |
 | ✱ | به |  | [به دنیا آمده_است] H3205 יָלַד "to bear young…" |
 | ✱ | دنیا | [دنیا آمده_است] H3205 יָלַד "to bear young…" | [به دنیا آمده_است] H3205 יָלַד "to bear young…" |
 | ✱ | آمده_است | [دنیا آمده_است] H3205 יָלַד "to bear young…" | [به دنیا آمده_است] H3205 יָלַד "to bear young…" |
-|  | . |  |  |
-
-### Proverbs 17:18: 2 word(s) changed
-
-Reply line 5.
-
-Original: אָדָם חֲסַר לֵב תּוֹקֵעַ כָּף עֹרֵב עֲרֻבָּה לִ/פְנֵי רֵעֵ/הוּ
-
-Persian: مرد کم‌عقل دست می‌دهد و ضامن دیگری می‌شود.
-
-Original words:
-- o1: אָדָם = H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HNcmsa]
-- o2: חֲסַר = H2638 חָסֵר "lacking; hence, without" [HAamsc]
-- o3: לֵב = H3820 לֵב "the heart…" [HNcmsa]
-- o4: תּוֹקֵעַ = H8628 תָּקַע "to clatter, i.e. slap (the hands together)…" [HVqrmsa]
-- o5: כָּף = H3709 כַּף "the hollow hand or palm (so of the paw of an…" [HNcfsa]
-- o6: עֹרֵב = H6148 עָרַב "to braid, i.e. intermix…" [HVqrmsa]
-- o7: עֲרֻבָּה = H6161 עֲרֻבָּה "something given as security…" [HNcfsa]
-- o8: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
-- o9: רֵעֵ/הוּ = H7453 רֵעַ "an associate (more or less close)" [HNcmsc/Sp3ms]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | مرد | H120 | H120 |
-|  | کم‌عقل | H2638 H3820 | H2638 H3820 |
-|  | دست | H3709 | H3709 |
-| ✱ | می‌دهد |  | H8628 תָּקַע "to clatter…" |
-|  | و |  |  |
-|  | ضامن | H6148 H6161 | H6148 H6161 |
-| ✱ | دیگری |  | H7453 רֵעַ "an associate (more or less…" |
-|  | می‌شود | H6148 | H6148 |
 |  | . |  |  |
 
 ### Proverbs 17:19: 7 word(s) changed
@@ -216,7 +187,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | کج‌دِل | H6141 עִקֵּשׁ "distorted; hence, false" | H6141 עִקֵּשׁ "distorted; hence, false"; H3820 לֵב "the heart…" |
+| ✱ | کج‌دِل | H6141 עִקֵּשׁ "distorted; hence, false"; H2896 טוֹב "good (as an adjective) in the…" | H6141 עִקֵּשׁ "distorted; hence, false"; H3820 לֵב "the heart…" |
 |  | ، |  |  |
 | ✱ | کامروا |  | H4672 מָצָא "properly, to come forth to…"; H2896 טוֹב "good (as an adjective) in the…" |
 |  | نخواهد_شد | H3808 | H3808 |
@@ -333,7 +304,7 @@ Original words:
 |  | مایۀ | [مایۀ تلخی] H4470 | [مایۀ تلخی] H4470 |
 |  | تلخی | [مایۀ تلخی] H4470 | [مایۀ تلخی] H4470 |
 | ✱ | جانِ | H3708 כַּעַס "vexation" |  |
-| ✱ | مادر | H4470 מֶמֶר "sorrow" | H3205 יָלַד "to bear young…" |
+| ✱ | مادر |  | H3205 יָלַד "to bear young…" |
 |  | خویش |  |  |
 |  | است |  |  |
 |  | . |  |  |
@@ -372,7 +343,7 @@ Original words:
 |  | صداقتشان | H3476 | H3476 |
 |  | ! |  |  |
 
-### Proverbs 17:27: 6 word(s) changed
+### Proverbs 17:27: 5 word(s) changed
 
 Reply line 12.
 
@@ -397,7 +368,7 @@ Original words:
 |  | زبان | H561 | H561 |
 |  | خود |  |  |
 |  | را |  |  |
-| ✱ | بازمی‌دارد |  | H2820 חָשַׂךְ "to restrain or (reflex.)…" |
+|  | بازمی‌دارد | H2820 | H2820 |
 |  | صاحب | H3045 | H3045 |
 | ✱ | معرفت | H1847 דַּעַת "knowledge"; H8394 תָּבוּן "intelligence…" | H1847 דַּעַת "knowledge" |
 |  | است |  |  |
@@ -411,7 +382,7 @@ Original words:
 |  | دارد |  |  |
 |  | . |  |  |
 
-### Proverbs 17:28: 6 word(s) changed
+### Proverbs 17:28: 5 word(s) changed
 
 Reply line 13.
 
@@ -449,5 +420,5 @@ Original words:
 | ✱ | می‌دارد | H331 אָטַם "to close (the lips or ears)…" | [بسته نگاه می‌دارد] H331 אָטַם "to close (the lips or ears)…" |
 |  | ، |  |  |
 |  | فهیم | H995 | H995 |
-| ✱ | شمرده_می‌شود |  | H2803 חָשַׁב "properly…" |
+|  | شمرده_می‌شود | H2803 | H2803 |
 |  | . |  |  |

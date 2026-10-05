@@ -111,7 +111,7 @@ Persian entries and current tags:
 - p3: نخستِ  → H259
 - p4: ماه  → H2320
 - p5: دوّم  → H8145
-- p6: از
+- p6: از  → Hb
 - p7: سال  → H8141
 - p8: دوّم  → H8145
 - p9: پس
@@ -123,7 +123,7 @@ Persian entries and current tags:
 - p15: مصر  → H4714
 - p16: ،
 - p17: خداوند  → H3068
-- p18: در  → Hb
+- p18: در
 - p19: صحرای  → H4057
 - p20: سینا  → H5514
 - p21: در  → Hb
@@ -169,7 +169,7 @@ Persian entries and current tags:
 - p9: و
 - p10: خاندانشان  → H4940 H1004
 - p11: و
-- p12: بر  → Hb
+- p12: بر
 - p13: طبق
 - p14: شمار  → H4557
 - p15: نامهای  → H8034
@@ -212,7 +212,7 @@ Persian entries and current tags:
 - p5: مردان
 - p6: اسرائیل  → H1121 H3478
 - p7: را  → H853
-- p8: از
+- p8: از  → Hm
 - p9: بیست  → H6242
 - p10: ساله  → H1121 H8141
 - p11: و  → Hc
@@ -252,7 +252,7 @@ Original words:
 Persian entries and current tags:
 - p1: از
 - p2: هر  → H376
-- p3: قبیله  → H4294 H376
+- p3: قبیله  → H376 H4294
 - p4: یک
 - p5: مرد  → H376
 - p6: که
@@ -286,7 +286,7 @@ Original words:
 - o10: שְׁדֵיאוּר = H7707 שְׁדֵיאוּר "Shedejur, an Israelite" [HNp]
 
 Persian entries and current tags:
-- p1: این
+- p1: این  → H428
 - p2: است
 - p3: نامهای  → H8034
 - p4: مردانی  → H376
@@ -317,7 +317,7 @@ Original words:
 - o4: צוּרִישַׁדָּי = H6701 צוּרִישַׁדַּי "Tsurishaddai, an Israelite" [HNp]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: شمعون  → H8095
 - p3: ،
 - p4: شِلومیئیل  → H8017 H6701
@@ -337,7 +337,7 @@ Original words:
 - o4: עַמִּינָדָב = H5992 עַמִּינָדָב "Amminadab, the name of four Israelites" [HNp]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: یهودا  → H3063
 - p3: ،
 - p4: نَحشون  → H5177
@@ -357,7 +357,7 @@ Original words:
 - o4: צוּעָר = H6686 צוּעָר "Tsuar, an Israelite" [HNp]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: یِساکار  → H3485
 - p3: ،
 - p4: نِتَنئیل  → H5417
@@ -377,7 +377,7 @@ Original words:
 - o4: חֵלֹן = H2497 חֵלֹן "Chelon, an Israelite" [HNp]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: زِبولون  → H2074
 - p3: ،
 - p4: اِلیاب  → H446
@@ -403,18 +403,18 @@ Original words:
 - o10: פְּדָהצוּר = H6301 פְּדָהצוּר "Pedahtsur, an Israelite" [HNp]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: پسران  → H1121
 - p3: یوسف  → H3130
 - p4: :
-- p5: از
+- p5: از  → Hl
 - p6: اِفرایِم  → H669
 - p7: ،
 - p8: اِلیشَمَع  → H476
 - p9: پسر  → H1121
 - p10: عَمّیهود  → H5989
 - p11: ؛
-- p12: از
+- p12: از  → Hl
 - p13: مَنَسی  → H4519
 - p14: ،
 - p15: جَمَلیئیل  → H1583
@@ -434,7 +434,7 @@ Original words:
 - o4: גִּדְעֹנִי = H1441 גִּדְעֹנִי "Gidoni, an Israelite" [HNp]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: بِنیامین  → H1144
 - p3: ،
 - p4: اَبیدان  → H27
@@ -454,7 +454,7 @@ Original words:
 - o4: עַמִּישַׁדָּי = H5996 עַמִּישַׁדַּי "Ammishaddai, an Israelite" [HNp]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: دان  → H1835
 - p3: ،
 - p4: اَخیعِزِر  → H295
@@ -474,7 +474,7 @@ Original words:
 - o4: עָכְרָן = H5918 עׇכְרָן "Okran, an Israelite" [HNp]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: اَشیر  → H836
 - p3: ،
 - p4: پَجیئیل  → H6295
@@ -494,7 +494,7 @@ Original words:
 - o4: דְּעוּאֵל = H1845 דְּעוּאֵל "Deuel, an Israelite" [HNp]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: جاد  → H1410
 - p3: ،
 - p4: اِلیاساف  → H460
@@ -514,7 +514,7 @@ Original words:
 - o4: עֵינָן = H5881 עֵינָן "Enan, an Israelite" [HNp]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: نَفتالی  → H5321
 - p3: ،
 - p4: اَخیرَع  → H299
@@ -553,7 +553,7 @@ Persian entries and current tags:
 - p10: ایشان
 - p11: و
 - p12: سران  → H7218
-- p13: طایفه‌های  → H4294 H505
+- p13: طایفه‌های  → H505
 - p14: اسرائیل  → H3478
 - p15: .
 
@@ -574,7 +574,7 @@ Original words:
 - o9: בְּ/שֵׁמוֹת = Hb "in" + H8034 שֵׁם "an appellation…" [HR/Ncmpa]
 
 Persian entries and current tags:
-- p1: پس  → H3947
+- p1: پس
 - p2: موسی  → H4872
 - p3: و  → Hc
 - p4: هارون  → H175
@@ -583,11 +583,10 @@ Persian entries and current tags:
 - p7: را  → H853
 - p8: که  → H834
 - p9: به  → Hb
-- p10: نام  → H5344 H8034
-- p11: تعیین شدند  → H5344
-- p12: ،
-- p13: برگرفتند
-- p14: ،
+- p10: نام تعیین شدند  → H5344
+- p11: ،
+- p12: برگرفتند  → H3947
+- p13: ،
 
 ### Numbers 1:18
 
@@ -617,7 +616,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: و  → Hc
-- p2: در
+- p2: در  → Hb
 - p3: روز
 - p4: نخست  → H259
 - p5: از
@@ -635,32 +634,31 @@ Persian entries and current tags:
 - p17: نامهای  → H1004
 - p18: خود
 - p19: را  → H853
-- p20: بر
+- p20: بر  → H5921
 - p21: حسب  → Hl
 - p22: طایفه
 - p23: و
 - p24: خاندانشان  → H4940 H1004
-- p25: ثبت
-- p26: کردند
-- p27: .
-- p28: بدین‌سان
-- p29: کسانی
-- p30: که
-- p31: بیست  → H6242
-- p32: ساله  → H8141
-- p33: یا
-- p34: بالاتر  → H1121 H4605
-- p35: بودند
-- p36: ،
-- p37: مطابق
-- p38: شمار  → H4557
-- p39: نامهایشان  → H8034
-- p40: یک
-- p41: به
-- p42: یک
-- p43: ثبت
-- p44: شدند
-- p45: .
+- p25: ثبت کردند  → H3205
+- p26: .
+- p27: بدین‌سان
+- p28: کسانی
+- p29: که
+- p30: بیست  → H6242
+- p31: ساله  → H8141
+- p32: یا
+- p33: بالاتر  → H1121 H4605
+- p34: بودند
+- p35: ،
+- p36: مطابق
+- p37: شمار  → H4557
+- p38: نامهایشان  → H8034
+- p39: یک
+- p40: به
+- p41: یک
+- p42: ثبت  → H3205 H4557
+- p43: شدند
+- p44: .
 
 ## Neighbouring verses (context only, not for review)
 

@@ -194,7 +194,7 @@ Persian entries and current tags:
 - p9: تو  → H859
 - p10: می‌کنی  → H6213
 - p11: ،
-- p12: نیکو  → H3808 H2896
+- p12: نیکو  → H2896
 - p13: نیست
 - p14: .
 
@@ -224,14 +224,14 @@ Original words:
 
 Persian entries and current tags:
 - p1: به‌یقین
-- p2: تو  → H859
+- p2: تو  → H859 H1571
 - p3: و  → H1571
 - p4: این
 - p5: قوم  → H5971
 - p6: که  → H834
 - p7: با  → H5973
 - p8: تواَند
-- p9: از  → H5034
+- p9: از
 - p10: پا
 - p11: خواهید_افتاد
 - p12: .
@@ -248,7 +248,7 @@ Persian entries and current tags:
 - p23: آن
 - p24: را
 - p25: نمی‌توانی  → H3808 H3201
-- p26: کرد  → H905
+- p26: کرد  → H6213 H905
 - p27: .
 
 ### Exodus 18:19
@@ -278,7 +278,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: حال  → H6258
-- p2: به  → H8085 Hb
+- p2: به  → H8085
 - p3: سخن  → H6963
 - p4: من
 - p5: گوش  → H8085
@@ -394,9 +394,9 @@ Persian entries and current tags:
 - p5: قوم  → H5971
 - p6: ،
 - p7: مردانی  → H376
-- p8: قابل
+- p8: قابل  → H2428
 - p9: که
-- p10: خداترس  → H3373 H430
+- p10: خداترس  → H430
 - p11: ،
 - p12: امین  → H571
 - p13: و
@@ -453,7 +453,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: آنان
-- p2: در
+- p2: در  → Hb
 - p3: همۀ  → H3605
 - p4: اوقات  → H6256
 - p5: بر
@@ -466,7 +466,7 @@ Persian entries and current tags:
 - p12: نزد  → H413
 - p13: تو
 - p14: آورند  → H935
-- p15: اما  → Hc
+- p15: اما
 - p16: مسائل  → H1697
 - p17: جزئی  → H6996
 - p18: را  → H853
@@ -536,7 +536,7 @@ Persian entries and current tags:
 - p22: در  → Hb
 - p23: صلح  → H7965
 - p24: و
-- p25: صفا
+- p25: صفا  → H7965
 - p26: به  → H5921
 - p27: خانه‌های  → H4725
 - p28: خود
@@ -655,7 +655,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: آنان
-- p2: در
+- p2: در  → Hb
 - p3: همۀ  → H3605
 - p4: اوقات  → H6256
 - p5: به
@@ -672,13 +672,14 @@ Persian entries and current tags:
 - p16: موسی  → H4872
 - p17: می‌آوردند  → H935
 - p18: ،
-- p19: ولی  → Hc
+- p19: ولی
 - p20: مسائل  → H1697
 - p21: جزئی  → H6996
 - p22: را  → H853
 - p23: خود
-- p24: داوری می‌کردند  → H8199
-- p25: .
+- p24: داوری  → H8199
+- p25: می‌کردند  → H1992
+- p26: .
 
 ### Exodus 18:27
 

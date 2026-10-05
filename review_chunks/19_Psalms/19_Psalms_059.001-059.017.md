@@ -109,11 +109,11 @@ Persian entries and current tags:
 - p2: خدایم  → H430
 - p3: ،
 - p4: مرا
-- p5: از  → Hm
+- p5: از
 - p6: دشمنانم  → H341
 - p7: برهان  → H5337
 - p8: ،
-- p9: و  → Hc
+- p9: و
 - p10: از
 - p11: آنان
 - p12: که
@@ -215,7 +215,7 @@ Original words:
 - o7: וּ/רְאֵה = Hc "and" + H7200 רָאָה "to see…" [HC/Vqv2ms]
 
 Persian entries and current tags:
-- p1: بی‌آنکه
+- p1: بی‌آنکه  → H1097
 - p2: تقصیری  → H5771
 - p3: کرده_باشم
 - p4: ،
@@ -278,10 +278,11 @@ Persian entries and current tags:
 - p17: !
 - p18: بر
 - p19: خائنان  → H898
-- p20: شریر شفقت  → H205
-- p21: مفرما
-- p22: !
-- p23: سِلاه  → H5542
+- p20: شریر  → H205
+- p21: شفقت  → H2603
+- p22: مفرما
+- p23: !
+- p24: سِلاه  → H5542
 
 ### Psalms 59:6
 
@@ -303,7 +304,7 @@ Persian entries and current tags:
 - p4: و
 - p5: چون  → Hk
 - p6: سگان  → H3611
-- p7: پارس  → H1993
+- p7: پارس
 - p8: می‌کنند  → H5437
 - p9: ،
 - p10: و  → Hc
@@ -441,7 +442,7 @@ Persian entries and current tags:
 - p15: تا
 - p16: پیروزمندانه  → H7200
 - p17: بر  → Hb
-- p18: دشمنانم  → H8324
+- p18: دشمنانم  → H2617 H8324
 - p19: بنگرم
 - p20: .
 
@@ -465,13 +466,13 @@ Original words:
 Persian entries and current tags:
 - p1: اما
 - p2: ،
-- p3: ای  → H408
+- p3: ای
 - p4: خداوندگار  → H136
 - p5: ،
 - p6: که  → H6435
 - p7: سپرِ  → H4043
 - p8: ما
-- p9: هستی
+- p9: هستی  → H7911
 - p10: ،
 - p11: ایشان
 - p12: را
@@ -484,7 +485,7 @@ Persian entries and current tags:
 - p19: !
 - p20: ایشان
 - p21: را
-- p22: در
+- p22: در  → Hb
 - p23: قوّت  → H2428
 - p24: خویش
 - p25: بلرزان  → H5128
@@ -519,7 +520,7 @@ Persian entries and current tags:
 - p6: سخنان  → H1697
 - p7: لبانشان  → H8193
 - p8: ،
-- p9: در
+- p9: در  → Hb
 - p10: غرور  → H1347
 - p11: خویش
 - p12: گرفتار آیند  → H3920
@@ -555,7 +556,7 @@ Original words:
 Persian entries and current tags:
 - p1: ایشان
 - p2: را
-- p3: در
+- p3: در  → Hb
 - p4: خشم  → H2534
 - p5: نابود ساز  → H3615
 - p6: !
@@ -566,7 +567,7 @@ Persian entries and current tags:
 - p11: !
 - p12: آنگاه  → Hc
 - p13: تا
-- p14: به  → Hl
+- p14: به
 - p15: کرانهای  → H657
 - p16: زمین  → H776
 - p17: خواهند_دانست  → H3045
@@ -574,9 +575,10 @@ Persian entries and current tags:
 - p19: خدا  → H430
 - p20: بر  → Hb
 - p21: یعقوب  → H3290
-- p22: فرمان می‌راند  → H4910
-- p23: .
-- p24: سِلاه  → H5542
+- p22: فرمان  → H4910
+- p23: می‌راند
+- p24: .
+- p25: سِلاه  → H5542
 
 ### Psalms 59:14
 
@@ -597,14 +599,15 @@ Persian entries and current tags:
 - p3: ،
 - p4: چون  → Hk
 - p5: سگان  → H3611
-- p6: پارس می‌کنند  → H1993
-- p7: ،
-- p8: و  → Hc
-- p9: گِرد  → H5437
-- p10: شهر  → H5892
-- p11: پرسه
-- p12: می‌زنند  → H5437
-- p13: !
+- p6: پارس
+- p7: می‌کنند
+- p8: ،
+- p9: و  → Hc
+- p10: گِرد  → H5437
+- p11: شهر  → H5892
+- p12: پرسه
+- p13: می‌زنند  → H5437
+- p14: !
 
 ### Psalms 59:15
 
@@ -621,7 +624,7 @@ Original words:
 - o7: וַ/יָּלִינוּ = Hc "and" + H3885 לוּן "to stop (usually over night)…" [HC/Vqw3mp]
 
 Persian entries and current tags:
-- p1: در
+- p1: در  → H5128
 - p2: پی
 - p3: طعا‌م می‌گردند  → H398
 - p4: ،
@@ -678,7 +681,7 @@ Persian entries and current tags:
 - p21: و  → Hc
 - p22: پناهگاه  → H4498
 - p23: من  → H589
-- p24: در
+- p24: در  → Hb
 - p25: روز  → H3117
 - p26: تنگی  → H6862
 - p27: .

@@ -107,8 +107,8 @@ Persian entries and current tags:
 - p10: بصیرت  → H8394
 - p11: من
 - p12: نیک
-- p13: گوش  → H241
-- p14: فرا~ده
+- p13: گوش  → H8394 H241
+- p14: فرا~ده  → H5186
 - p15: ؛
 
 ### Proverbs 5:2
@@ -127,13 +127,14 @@ Persian entries and current tags:
 - p1: تا
 - p2: دوراندیشی  → H4209
 - p3: را
-- p4: پاس داری  → H8104
-- p5: و  → Hc
-- p6: لبانت  → H8193
-- p7: معرفت  → H4209 H1847
-- p8: را
-- p9: نگاه دارد  → H5341
-- p10: .
+- p4: پاس  → H8104
+- p5: داری  → H4209
+- p6: و  → Hc
+- p7: لبانت  → H8193
+- p8: معرفت  → H4209 H1847
+- p9: را
+- p10: نگاه دارد  → H5341
+- p11: .
 
 ### Proverbs 5:3
 
@@ -155,9 +156,9 @@ Persian entries and current tags:
 - p2: از
 - p3: لبان  → H8193
 - p4: زن  → H2114
-- p5: زناکار  → H5197
+- p5: زناکار  → H5197 H2114
 - p6: عسل  → H5317 H5197
-- p7: می‌چکد  → H5197
+- p7: می‌چکد
 - p8: ،
 - p9: و  → Hc
 - p10: زبان  → H2441
@@ -211,7 +212,7 @@ Original words:
 - o6: יִתְמֹכוּ = H8551 תָּמַךְ "to sustain; by implication, to obtain, keep fast…" [HVqi3mp]
 
 Persian entries and current tags:
-- p1: پاهایش  → H7272 H6806
+- p1: پاهایش  → H7272
 - p2: به
 - p3: کام
 - p4: مرگ  → H4194
@@ -252,7 +253,7 @@ Persian entries and current tags:
 - p9: اما
 - p10: این
 - p11: را
-- p12: نمی‌داند  → H3808 H3045
+- p12: نمی‌داند  → H3045
 - p13: .
 
 ### Proverbs 5:7
@@ -305,7 +306,7 @@ Original words:
 Persian entries and current tags:
 - p1: راه  → H1870
 - p2: خویش
-- p3: از  → Hm
+- p3: از
 - p4: او
 - p5: دور  → H7368
 - p6: نگاه  → H408
@@ -336,14 +337,14 @@ Persian entries and current tags:
 - p2: عنفوان جوانی  → H1935
 - p3: خود
 - p4: را
-- p5: به  → Hl
+- p5: به
 - p6: دیگران  → H312
 - p7: بدهی  → H5414
 - p8: و  → Hc
 - p9: سالهای  → H8141
 - p10: خویش
 - p11: را
-- p12: به  → Hl
+- p12: به
 - p13: آن
 - p14: که
 - p15: بی‌رحم  → H394
@@ -400,7 +401,7 @@ Persian entries and current tags:
 - p3: پایانِ  → H319 H3615
 - p4: عمر  → H319
 - p5: ،
-- p6: ناله
+- p6: ناله  → H5098
 - p7: سر
 - p8: دهی  → H5098
 - p9: ،
@@ -437,7 +438,7 @@ Persian entries and current tags:
 - p8: بیزار بودم  → H8130
 - p9: !
 - p10: و  → Hc
-- p11: افسوس  → H8433
+- p11: افسوس
 - p12: که  → H349
 - p13: دل  → H3820
 - p14: من
@@ -493,9 +494,9 @@ Persian entries and current tags:
 - p1: و
 - p2: در  → Hb
 - p3: میان  → H8432
-- p4: قوم
+- p4: قوم  → H5712
 - p5: و  → Hc
-- p6: جماعت  → H6951
+- p6: جماعت  → H6951 H5712
 - p7: ،
 - p8: به
 - p9: لبۀ  → H4592
@@ -550,7 +551,7 @@ Persian entries and current tags:
 - p1: چرا
 - p2: چشمه‌هایت  → H4599
 - p3: در
-- p4: کویها  → H2351 H7339
+- p4: کویها  → H2351
 - p5: جاری شود  → H6327
 - p6: و
 - p7: نهرهایت  → H6388
@@ -608,11 +609,10 @@ Persian entries and current tags:
 - p5: و  → Hc
 - p6: از  → Hm
 - p7: همسر  → H802
-- p8: روزگار
-- p9: جوانیِ  → H5271
-- p10: خویش
-- p11: شادمان باش  → H8055
-- p12: ؛
+- p8: روزگار جوانیِ  → H5271
+- p9: خویش
+- p10: شادمان باش  → H8055
+- p11: ؛
 
 ### Proverbs 5:19
 
@@ -637,7 +637,7 @@ Persian entries and current tags:
 - p2: غزالی  → H365
 - p3: دلپذیر  → H158
 - p4: و  → Hc
-- p5: آهویی
+- p5: آهویی  → H2580
 - p6: زیبا  → H7301
 - p7: ،
 - p8: پستانهایش  → H1717
@@ -648,7 +648,7 @@ Persian entries and current tags:
 - p13: و
 - p14: عشق  → H160
 - p15: او
-- p16: سرمستت کند  → H7301 H7686
+- p16: سرمستت کند  → H7686
 - p17: .
 
 ### Proverbs 5:20
@@ -733,7 +733,7 @@ Persian entries and current tags:
 - p5: می‌افکنَد  → H3920
 - p6: ،
 - p7: و  → Hc
-- p8: در
+- p8: در  → Hb
 - p9: بندِ  → H2256
 - p10: گناهان  → H2403
 - p11: خویش  → H7563

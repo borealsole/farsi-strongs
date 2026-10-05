@@ -111,7 +111,7 @@ Persian entries and current tags:
 - p3: مرا
 - p4: از
 - p5: این
-- p6: زمین  → H127
+- p6: زمین  → H127 H6440
 - p7: طرد کردی  → H1644
 - p8: و  → Hc
 - p9: از  → Hm
@@ -119,7 +119,7 @@ Persian entries and current tags:
 - p11: تو
 - p12: پنهان خواهم_بود  → H5641
 - p13: .
-- p14: پس  → Hc
+- p14: پس
 - p15: در  → Hb
 - p16: جهان  → H776
 - p17: آواره  → H5128
@@ -191,8 +191,8 @@ Persian entries and current tags:
 - p27: قائن  → H7014
 - p28: نهاد  → H7760
 - p29: تا
-- p30: اگر
-- p31: کسی
+- p30: اگر  → H3605
+- p31: کسی  → H1115
 - p32: او
 - p33: را  → H853
 - p34: بیابد  → H4672
@@ -227,7 +227,7 @@ Persian entries and current tags:
 - p6: بیرون رفت  → H3318
 - p7: ،
 - p8: و  → Hc
-- p9: در
+- p9: در  → Hb
 - p10: سرزمین  → H776
 - p11: نْود  → H5113
 - p12: در
@@ -316,7 +316,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: و  → Hc
-- p2: برای  → Hl
+- p2: برای
 - p3: خَنوخ  → H2585
 - p4: عیراد  → H5897
 - p5: زاده شد  → H3205
@@ -394,7 +394,7 @@ Persian entries and current tags:
 - p4: را  → H853
 - p5: زایید  → H3205
 - p6: ؛
-- p7: او  → H1931
+- p7: او
 - p8: پدر  → H1
 - p9: چادر‌نشینان  → H168
 - p10: و  → Hc
@@ -428,7 +428,7 @@ Persian entries and current tags:
 - p6: ؛
 - p7: او
 - p8: پدر  → H1
-- p9: همۀ  → H251 H3605
+- p9: همۀ  → H3605
 - p10: نوازندگان  → H8610
 - p11: بربط  → H3658
 - p12: و  → Hc
@@ -548,7 +548,7 @@ Persian entries and current tags:
 - p37: و  → Hc
 - p38: جوانی  → H3206
 - p39: را
-- p40: به  → Hl
+- p40: به
 - p41: سبب
 - p42: جراحتی  → H2250
 - p43: که
@@ -583,7 +583,7 @@ Persian entries and current tags:
 - p8: لَمِک  → H3929
 - p9: ،
 - p10: هفتاد  → H7657 H7651
-- p11: و  → H7657 Hc
+- p11: و  → H7657 Hc H7651
 - p12: هفت چندان  → H7659
 - p13: .
 - p14: »
@@ -644,7 +644,7 @@ Persian entries and current tags:
 - p24: جای  → H8478
 - p25: هابیل  → H1893
 - p26: که  → H3588
-- p27: قائن  → H7014
+- p27: قائن
 - p28: او
 - p29: را  → H853
 - p30: کشت  → H2026
@@ -689,7 +689,7 @@ Persian entries and current tags:
 - p7: او
 - p8: را  → H853
 - p9: اِنوش  → H583
-- p10: نامید  → H7121
+- p10: نامید  → H7121 H8034
 - p11: .
 - p12: در
 - p13: آن
@@ -697,7 +697,7 @@ Persian entries and current tags:
 - p15: ،
 - p16: مردم
 - p17: به  → Hl
-- p18: خواندن  → H7121
+- p18: خواندن
 - p19: نام  → H8034
 - p20: خداوند  → H3068
 - p21: آغاز کردند  → H2490

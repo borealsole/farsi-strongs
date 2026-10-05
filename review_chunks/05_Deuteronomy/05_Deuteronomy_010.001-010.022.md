@@ -119,7 +119,7 @@ Persian entries and current tags:
 - p10: لوح  → H3871
 - p11: سنگی  → H68
 - p12: دیگر
-- p13: همانند
+- p13: همانند  → Hk
 - p14: لوحهای  → H3871
 - p15: نخست  → H7223
 - p16: برای
@@ -214,7 +214,7 @@ Persian entries and current tags:
 - p1: پس
 - p2: صندوقی  → H727
 - p3: از
-- p4: چوب  → H6086 H7848
+- p4: چوب  → H6086
 - p5: اقاقیا  → H7848
 - p6: ساختم  → H6213
 - p7: و  → Hc
@@ -334,7 +334,7 @@ Persian entries and current tags:
 - p9: و  → Hc
 - p10: لوحها  → H3871
 - p11: را  → H853
-- p12: در
+- p12: در  → Hb
 - p13: صندوقی  → H727
 - p14: که  → H834
 - p15: ساخته_بودم  → H6213
@@ -490,7 +490,7 @@ Persian entries and current tags:
 - p21: بایستند  → H5975
 - p22: ،
 - p23: و  → Hc
-- p24: به  → Hb
+- p24: به
 - p25: نام  → H8034
 - p26: او
 - p27: برکت دهند  → H1288
@@ -528,7 +528,7 @@ Original words:
 - o17: ל/וֹ = Hl "to" [HR/Sp3ms]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → H5921
 - p2: این
 - p3: روست
 - p4: که
@@ -546,15 +546,16 @@ Persian entries and current tags:
 - p16: زیرا
 - p17: خداوند  → H3068 H430
 - p18: میراث  → H5159
-- p19: اوست  → H1931
+- p19: اوست
 - p20: ،
-- p21: چنانکه  → Hk H834
-- p22: یهوه خدایتان  → H3068
-- p23: به  → Hl
-- p24: او
-- p25: گفته_بود  → H1696
-- p26: .
-- p27: )
+- p21: چنانکه  → H834
+- p22: یهوه  → H3068
+- p23: خدایتان  → H3068 H430
+- p24: به  → Hl
+- p25: او
+- p26: گفته_بود  → H1696
+- p27: .
+- p28: )
 
 ### Deuteronomy 10:10
 
@@ -585,7 +586,7 @@ Original words:
 Persian entries and current tags:
 - p1: «
 - p2: پس  → Hc
-- p3: من  → H595
+- p3: من
 - p4: همچون  → H5975 Hk
 - p5: روزهای  → H3117
 - p6: نخست  → H7223
@@ -595,7 +596,7 @@ Persian entries and current tags:
 - p10: و  → Hc
 - p11: چهل  → H705
 - p12: شب  → H3915
-- p13: در  → Hb
+- p13: در
 - p14: کوه  → H2022
 - p15: ماندم  → H5975
 - p16: .
@@ -612,7 +613,7 @@ Persian entries and current tags:
 - p27: نخواست  → H14
 - p28: شما
 - p29: را
-- p30: نابود کند  → H14 H7843
+- p30: نابود کند  → H7843
 - p31: .
 
 ### Deuteronomy 10:11
@@ -659,7 +660,7 @@ Persian entries and current tags:
 - p17: پدرانشان  → H1
 - p18: سوگند خوردم  → H7650
 - p19: که
-- p20: به  → Hl
+- p20: به
 - p21: ایشان
 - p22: بدهم  → H5414
 - p23: ،
@@ -784,7 +785,7 @@ Persian entries and current tags:
 - p11: برای  → Hl
 - p12: خیریت  → H2896
 - p13: تو
-- p14: به  → Hl
+- p14: به
 - p15: تو
 - p16: امر  → H6680
 - p17: می‌فرمایم  → H595 H6680
@@ -860,7 +861,7 @@ Persian entries and current tags:
 - p4: ،
 - p5: خداوند  → H3068
 - p6: دل  → H2836
-- p7: در
+- p7: در  → Hb
 - p8: پدران  → H1
 - p9: شما
 - p10: بست
@@ -878,7 +879,7 @@ Persian entries and current tags:
 - p22: یعنی
 - p23: شما
 - p24: را  → H853
-- p25: از  → Hm
+- p25: از
 - p26: میان
 - p27: همۀ  → H3605
 - p28: قومها  → H5971
@@ -913,8 +914,8 @@ Persian entries and current tags:
 - p6: کنید
 - p7: و  → Hc
 - p8: دیگر  → H5750
-- p9: گردنکشی  → H6190 H6203 H7185
-- p10: منمایید  → H7185
+- p9: گردنکشی  → H6203 H7185
+- p10: منمایید  → H3808
 - p11: .
 
 ### Deuteronomy 10:17
@@ -988,11 +989,11 @@ Original words:
 - o10: וְ/שִׂמְלָה = Hc "and" + H8071 שִׂמְלָה "a dress, especially a mantle" [HC/Ncfsa]
 
 Persian entries and current tags:
-- p1: یتیمان  → H3490
+- p1: یتیمان
 - p2: و  → Hc
 - p3: بیوه‌زنان  → H3490 H490
 - p4: را
-- p5: دادرسی  → H4941
+- p5: دادرسی  → H6213 H4941
 - p6: می‌کند  → H6213
 - p7: و  → Hc
 - p8: غریبان  → H1616

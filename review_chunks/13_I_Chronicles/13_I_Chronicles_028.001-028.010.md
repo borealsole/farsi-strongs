@@ -218,7 +218,7 @@ Persian entries and current tags:
 - p15: قوم  → H5971
 - p16: من  → H589
 - p17: ،
-- p18: به
+- p18: به  → H8085
 - p19: من
 - p20: گوش
 - p21: فرا~دهید
@@ -277,7 +277,7 @@ Persian entries and current tags:
 - p5: گفت  → H559
 - p6: :
 - p7: ”تو
-- p8: برای  → Hl
+- p8: برای
 - p9: نام  → H8034
 - p10: من
 - p11: خانه‌ای  → H1129 H1004
@@ -358,7 +358,7 @@ Persian entries and current tags:
 - p24: را
 - p25: به  → Hl
 - p26: رهبری  → H5057
-- p27: برگزید  → H1 H977
+- p27: برگزید  → H977 H1
 - p28: ،
 - p29: و  → Hc
 - p30: از
@@ -366,7 +366,7 @@ Persian entries and current tags:
 - p32: یهودا  → H3063
 - p33: خاندان پدرم  → H1004 H1
 - p34: را
-- p35: برگزید  → H977 H1
+- p35: برگزید  → H1 H977
 - p36: ،
 - p37: و  → Hc
 - p38: از
@@ -425,11 +425,11 @@ Persian entries and current tags:
 - p16: را
 - p17: برگزید  → H977
 - p18: تا
-- p19: بر
+- p19: بر  → H5921
 - p20: تخت  → H3678
 - p21: پادشاهی  → H4438
 - p22: خداوند  → H3068
-- p23: بر
+- p23: بر  → H5921
 - p24: اسرائیل  → H3478
 - p25: بنشیند  → H3427
 - p26: .
@@ -534,8 +534,8 @@ Persian entries and current tags:
 - p20: تا  → H5704
 - p21: به  → Hl
 - p22: ابد  → H5769
-- p23: استوار  → H3559 H5769
-- p24: خواهم_ساخت  → H6213
+- p23: استوار  → H5769 H2388
+- p24: خواهم_ساخت  → H3559 H6213
 - p25: .
 - p26: “
 
@@ -583,7 +583,7 @@ Persian entries and current tags:
 - p10: هستند
 - p11: ،
 - p12: و  → Hc
-- p13: در
+- p13: در  → Hb
 - p14: حضور  → H241
 - p15: خدای  → H430
 - p16: ما
@@ -659,7 +659,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: «
-- p2: تو  → H859
+- p2: تو
 - p3: ای
 - p4: پسرم  → H1121
 - p5: سلیمان  → H8010
@@ -671,7 +671,7 @@ Persian entries and current tags:
 - p11: و  → Hc
 - p12: او
 - p13: را  → H853
-- p14: با
+- p14: با  → Hb
 - p15: دلی  → H3820
 - p16: کامل  → H8003
 - p17: و  → Hc
@@ -713,8 +713,9 @@ Persian entries and current tags:
 - p53: تو
 - p54: را  → H853
 - p55: به
-- p56: دور خواهد_افکند  → H2186
-- p57: .
+- p56: دور  → H2186
+- p57: خواهد_افکند  → H5703
+- p58: .
 
 ### I Chronicles 28:10
 

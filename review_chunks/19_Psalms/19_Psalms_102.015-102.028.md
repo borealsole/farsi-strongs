@@ -134,7 +134,7 @@ Persian entries and current tags:
 - p4: را
 - p5: بنا خواهد_کرد  → H1129
 - p6: و
-- p7: در
+- p7: در  → Hb
 - p8: جلال  → H3519
 - p9: خویش
 - p10: نمایان
@@ -233,8 +233,8 @@ Persian entries and current tags:
 - p8: ؛
 - p9: خداوند  → H3068
 - p10: از  → Hm
-- p11: آسمان
-- p12: بر
+- p11: آسمان  → H8064
+- p12: بر  → H413
 - p13: زمین  → H776
 - p14: نظر افکند  → H5027
 - p15: ،
@@ -291,7 +291,7 @@ Persian entries and current tags:
 - p8: زبان
 - p9: رانند  → H5608
 - p10: و  → Hc
-- p11: ستایش  → H8416
+- p11: ستایش  → H5608 H8416
 - p12: او
 - p13: را
 - p14: در
@@ -319,7 +319,7 @@ Persian entries and current tags:
 - p4: ملتها  → H5971
 - p5: گرد  → H6908
 - p6: هم  → H3162
-- p7: آیند  → H6908 H3162
+- p7: آیند  → H6908
 - p8: و  → Hc
 - p9: ممالک  → H4467
 - p10: نیز
@@ -343,7 +343,7 @@ Original words:
 - o5: יָמָ/י = H3117 יוֹם "a day (as the warm hours)…" [HNcmpc/Sp1cs]
 
 Persian entries and current tags:
-- p1: در
+- p1: در  → Hb
 - p2: میانۀ
 - p3: راه  → H1870
 - p4: قوّتِ  → H3581
@@ -382,7 +382,7 @@ Persian entries and current tags:
 - p7: من
 - p8: ،
 - p9: مرا  → H408
-- p10: در
+- p10: در  → Hb
 - p11: نیمۀ  → H2677
 - p12: عمرم  → H3117
 - p13: برمگیر  → H5927
@@ -443,7 +443,7 @@ Original words:
 - o10: וְ/יַחֲלֹפוּ = Hc "and" + H2498 חָלַף "properly, to slide by…" [HC/Vqi3mp]
 
 Persian entries and current tags:
-- p1: آنها
+- p1: آنها  → H1992
 - p2: از
 - p3: میان
 - p4: می‌روند  → H5975
@@ -492,9 +492,8 @@ Persian entries and current tags:
 - p7: سالهای  → H8141
 - p8: تو
 - p9: را
-- p10: پایانی  → H8552
-- p11: نیست  → H3808
-- p12: !
+- p10: پایانی نیست  → H8552
+- p11: !
 
 ### Psalms 102:28
 
@@ -510,7 +509,7 @@ Original words:
 - o6: יִכּוֹן = H3559 כּוּן "properly, to be erect (i.e. stand perpendicular)…" [HVNi3ms]
 
 Persian entries and current tags:
-- p1: فرزندانِ  → H1121
+- p1: فرزندانِ  → H1121 H5650
 - p2: خدمتگزارانت  → H5650
 - p3: قرار خواهند_یافت  → H7931
 - p4: ،

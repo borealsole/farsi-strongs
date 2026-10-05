@@ -99,18 +99,18 @@ Original words:
 - o10: מִ/תְּחִנָּתִ/י = Hm "from" + H8467 תְּחִנָּה "graciousness; causatively, entreaty" [HR/Ncfsc/Sp1cs]
 
 Persian entries and current tags:
-- p1: خدایا  → H430
+- p1: خدایا  → H5329 H430
 - p2: ،
 - p3: به
 - p4: دعایم  → H8605
 - p5: گوش  → H238
-- p6: فرا~ده  → H5058
+- p6: فرا~ده
 - p7: ،
 - p8: و  → Hc
 - p9: خود
 - p10: را
 - p11: از  → Hm
-- p12: فریادِ  → H8605
+- p12: فریادِ
 - p13: التماسم  → H8467
 - p14: پنهان  → H5956
 - p15: مکن  → H408
@@ -132,7 +132,7 @@ Original words:
 Persian entries and current tags:
 - p1: به
 - p2: من
-- p3: گوش  → H7300
+- p3: گوش
 - p4: بسپار  → H7181
 - p5: و  → Hc
 - p6: اجابتم فرما  → H7181 H6030
@@ -205,17 +205,18 @@ Persian entries and current tags:
 - p2: در
 - p3: سینه‌ام
 - p4: به
-- p5: درد آمده  → H2342
-- p6: ،
-- p7: و  → Hc
-- p8: رعب
-- p9: و  → Hc
-- p10: وحشتِ  → H367
-- p11: مرگ  → H4194
-- p12: بر  → H5921
-- p13: من
-- p14: مستولی شده_است  → H5307
-- p15: .
+- p5: درد  → H2342
+- p6: آمده  → H5307
+- p7: ،
+- p8: و
+- p9: رعب
+- p10: و  → Hc
+- p11: وحشتِ  → H367
+- p12: مرگ  → H4194
+- p13: بر  → H5921
+- p14: من
+- p15: مستولی شده_است  → H5307
+- p16: .
 
 ### Psalms 55:5
 
@@ -231,7 +232,7 @@ Original words:
 - o6: פַּלָּצוּת = H6427 פַּלָּצוּת "affright" [HNcfsa]
 
 Persian entries and current tags:
-- p1: ترس  → H3374 H7461
+- p1: ترس  → H3374
 - p2: و  → Hc
 - p3: لرز  → H7461
 - p4: مرا
@@ -269,7 +270,7 @@ Persian entries and current tags:
 - p6: کاش  → H4310
 - p7: مرا
 - p8: بالهای  → H83
-- p9: کبوتر  → H3123
+- p9: کبوتر
 - p10: بود  → H5414
 - p11: ،
 - p12: تا
@@ -298,7 +299,7 @@ Persian entries and current tags:
 - p4: دوردستها  → H7368
 - p5: می‌گریختم  → H5074
 - p6: و
-- p7: در
+- p7: در  → Hb
 - p8: صحرا  → H4057
 - p9: مأوا  → H3885
 - p10: می‌گزیدم
@@ -327,7 +328,7 @@ Persian entries and current tags:
 - p6: به  → Hl
 - p7: دور
 - p8: از
-- p9: تندباد  → H7307 H5584 H5591
+- p9: تندباد  → H7307 H5584
 - p10: و
 - p11: توفان  → H5591
 - p12: !
@@ -352,9 +353,9 @@ Original words:
 Persian entries and current tags:
 - p1: خداوندگارا  → H136
 - p2: ،
-- p3: شریران
+- p3: شریران  → H6385
 - p4: را
-- p5: هلاک کن  → H6385
+- p5: هلاک کن  → H1104 H6385
 - p6: ،
 - p7: و
 - p8: زبانشان  → H3956
@@ -364,7 +365,7 @@ Persian entries and current tags:
 - p12: ،
 - p13: زیرا  → H3588
 - p14: که
-- p15: در
+- p15: در  → Hb
 - p16: شهر  → H5892
 - p17: خشونت  → H2555
 - p18: و  → Hc
@@ -399,7 +400,7 @@ Persian entries and current tags:
 - p9: جنایت  → H205
 - p10: و  → Hc
 - p11: شرارت  → H5999
-- p12: در
+- p12: در  → Hb
 - p13: درون  → H7130
 - p14: آن
 - p15: است
@@ -421,7 +422,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: ویرانگری  → H1942
-- p2: در
+- p2: در  → Hb
 - p3: میان  → H7130
 - p4: آن
 - p5: غوغا
@@ -434,8 +435,9 @@ Persian entries and current tags:
 - p12: از  → Hm
 - p13: میدان  → H7339
 - p14: آن
-- p15: دور نمی‌شود  → H4185
-- p16: .
+- p15: دور  → H4185
+- p16: نمی‌شود  → H3808 H4185
+- p17: .
 
 ### Psalms 55:12
 
@@ -457,7 +459,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: زیرا  → H3588
-- p2: دشمنِ  → H341
+- p2: دشمنِ  → H341 H8130
 - p3: من
 - p4: نیست
 - p5: که
@@ -472,7 +474,7 @@ Persian entries and current tags:
 - p14: و  → Hc
 - p15: بدخواه
 - p16: من
-- p17: نیست  → H3808
+- p17: نیست
 - p18: که
 - p19: در  → H1431
 - p20: برابرم  → H5921
@@ -505,7 +507,7 @@ Persian entries and current tags:
 - p5: همتای
 - p6: من
 - p7: ،
-- p8: یار  → H6187
+- p8: یار
 - p9: خالص
 - p10: و  → Hc
 - p11: دوست  → H3045
@@ -565,7 +567,7 @@ Persian entries and current tags:
 - p1: مرگ  → H3451
 - p2: بر  → H5921
 - p3: ایشان
-- p4: ناگهان
+- p4: ناگهان  → H3451
 - p5: بیاید
 - p6: ،
 - p7: و
@@ -576,11 +578,11 @@ Persian entries and current tags:
 - p12: .
 - p13: زیرا  → H3588
 - p14: شرارت  → H7451
-- p15: در
+- p15: در  → Hb
 - p16: مسکنهای  → H4033
 - p17: ایشان
 - p18: و
-- p19: در
+- p19: در  → Hb
 - p20: میانشان  → H7130
 - p21: است
 - p22: .
@@ -637,7 +639,7 @@ Persian entries and current tags:
 - p9: ؛
 - p10: و  → Hc
 - p11: او
-- p12: صدایم  → H7878 H6963
+- p12: صدایم  → H6963
 - p13: را
 - p14: می‌شنود  → H8085
 - p15: .
@@ -720,7 +722,7 @@ Persian entries and current tags:
 - p16: و  → Hc
 - p17: ترسی  → H3372
 - p18: از
-- p19: خدا  → H410
+- p19: خدا  → H410 H430
 - p20: ندارند  → H3808
 - p21: .
 
@@ -741,7 +743,7 @@ Persian entries and current tags:
 - p2: من
 - p3: دست  → H3027
 - p4: خویش
-- p5: بر
+- p5: بر  → Hb
 - p6: دوستان  → H7965
 - p7: خود
 - p8: بلند کرده  → H7971
@@ -772,7 +774,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: زبانش  → H6310
-- p2: چرب  → H2505
+- p2: چرب  → H4260
 - p3: و  → Hc
 - p4: نرم  → H4260
 - p5: است
@@ -813,12 +815,12 @@ Original words:
 - o11: לַ/צַּדִּיק = Hl "to" + H6662 צַדִּיק "just" [HRd/Aamsa]
 
 Persian entries and current tags:
-- p1: نگرانی  → H7993 H3053
+- p1: نگرانی  → H7993
 - p2: خود
 - p3: را
 - p4: به  → H5921
 - p5: خداوند  → H3068
-- p6: بسپار
+- p6: بسپار  → H3053
 - p7: ،
 - p8: که
 - p9: او
@@ -828,7 +830,7 @@ Persian entries and current tags:
 - p13: ؛
 - p14: او
 - p15: هرگز  → H5769
-- p16: نخواهد_گذاشت  → H3808 H5769
+- p16: نخواهد_گذاشت  → H3808
 - p17: پارسایان  → H6662
 - p18: جنبش خورند  → H4131
 - p19: .

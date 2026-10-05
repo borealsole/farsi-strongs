@@ -106,7 +106,7 @@ Persian entries and current tags:
 - p4: تمامی  → H3605
 - p5: شهرهایش  → H5892
 - p6: که  → H834
-- p7: در
+- p7: در  → Hb
 - p8: فلات  → H4334
 - p9: است
 - p10: یعنی
@@ -149,7 +149,7 @@ Original words:
 - o6: הָ/עֵמֶק = Hd "the" + H6010 עֵמֶק "a vale (i.e. broad depression)" [HTd/Ncmsa]
 
 Persian entries and current tags:
-- p1: قَریه‌تایِم  → H7156 H6890
+- p1: قَریه‌تایِم  → H7156
 - p2: ،
 - p3: سِبمَه  → H7643
 - p4: ،
@@ -229,7 +229,7 @@ Persian entries and current tags:
 - p3: شهرهای  → H5892
 - p4: فلات  → H4334
 - p5: و  → Hc
-- p6: سرتاسر  → H3605
+- p6: سرتاسر
 - p7: مملکت  → H4468
 - p8: سیحون  → H5511
 - p9: پادشاه  → H4428
@@ -297,7 +297,7 @@ Persian entries and current tags:
 - p6: شمشیر  → H7080 H2719
 - p7: کشته_شدند  → H2026 H2491
 - p8: ،
-- p9: بنی‌اسرائیل  → H3478
+- p9: بنی‌اسرائیل
 - p10: بَلعام  → H1109
 - p11: پسر  → H1121
 - p12: بِعور  → H1160
@@ -371,7 +371,7 @@ Persian entries and current tags:
 - p3: قبیلۀ  → H4294
 - p4: جاد  → H1410
 - p5: بر
-- p6: حسب  → Hl
+- p6: حسب
 - p7: طوایف  → H4940
 - p8: ایشان
 - p9: میراث
@@ -487,7 +487,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: و  → Hc
-- p2: در
+- p2: در  → Hb
 - p3: وادی  → H6010
 - p4: بِیت‌هارام  → H1027
 - p5: ،
@@ -540,7 +540,7 @@ Persian entries and current tags:
 - p4: روستاهایشان  → H2691
 - p5: ،
 - p6: میراث  → H5159
-- p7: جادیان  → H1121 H1410
+- p7: جادیان  → H1410
 - p8: بود
 - p9: بر
 - p10: حسب  → Hl
@@ -575,7 +575,7 @@ Persian entries and current tags:
 - p7: بخشید  → H5414
 - p8: که
 - p9: برای  → Hl
-- p10: نیم‌قبیلۀ  → H2677 H4294
+- p10: نیم‌قبیلۀ  → H7626 H2677 H4294
 - p11: مَنَسی  → H4519
 - p12: بر
 - p13: حسب  → Hl
@@ -671,7 +671,7 @@ Persian entries and current tags:
 - p10: شهرهای  → H5892
 - p11: مملکت  → H4468
 - p12: عوج  → H5747
-- p13: در
+- p13: در  → Hb
 - p14: باشان  → H1316
 - p15: را
 - p16: شامل
@@ -719,7 +719,7 @@ Persian entries and current tags:
 - p1: اینهاست  → H428
 - p2: آنچه  → H834
 - p3: موسی  → H4872
-- p4: در
+- p4: در  → Hb
 - p5: دشتهای  → H6160
 - p6: موآب  → H4124
 - p7: ،

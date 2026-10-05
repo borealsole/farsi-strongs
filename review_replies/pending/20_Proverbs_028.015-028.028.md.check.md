@@ -39,7 +39,7 @@ Original words:
 |  | بینوا | H1800 | H1800 |
 |  | . |  |  |
 
-### Proverbs 28:17: 5 word(s) changed
+### Proverbs 28:17: 4 word(s) changed
 
 Reply line 3.
 
@@ -70,11 +70,11 @@ Original words:
 |  | است | [آلوده است] H6231 | [آلوده است] H6231 |
 | ✱ | به |  | H5704 עַד "as far (or long, or much) as…" |
 | ✱ | گور |  | H953 בּוֹר "a pit hole (especially one…" |
-| ✱ | می‌گریزد |  | H5127 נוּס "to flit…" |
+|  | می‌گریزد | H5127 | H5127 |
 |  | ! |  |  |
 | ✱ | مباد |  | H408 אַל "not (the qualified negation…" |
 |  | که |  |  |
-| ✱ | کسی | H5315 נֶפֶשׁ "properly…" |  |
+| ✱ | کسی | H408 אַל "not (the qualified negation…" |  |
 |  | حمایتش | [حمایتش کند] H8551 | [حمایتش کند] H8551 |
 |  | کند | [حمایتش کند] H8551 | [حمایتش کند] H8551 |
 |  | . |  |  |
@@ -121,7 +121,7 @@ Original words:
 |  | می‌کند | [سقوط می‌کند] H5307 | [سقوط می‌کند] H5307 |
 |  | . |  |  |
 
-### Proverbs 28:19: 1 word(s) changed
+### Proverbs 28:19: 5 word(s) changed
 
 Reply line 5.
 
@@ -141,8 +141,8 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | آن |  |  |
-|  | که |  |  |
+| ✱ | آن | [آن که] H5647 עָבַד "to work (in any sense)…" |  |
+| ✱ | که | [آن که] H5647 עָבַד "to work (in any sense)…" |  |
 |  | بر |  |  |
 |  | زمین | H127 | H127 |
 |  | خود |  |  |
@@ -154,8 +154,8 @@ Original words:
 |  | سیر | [سیر خواهد_خورد] H7646 | [سیر خواهد_خورد] H7646 |
 |  | خواهد_خورد | [سیر خواهد_خورد] H7646 | [سیر خواهد_خورد] H7646 |
 |  | ، |  |  |
-|  | آن |  |  |
-|  | که |  |  |
+| ✱ | آن | [آن که] H5647 עָבַד "to work (in any sense)…" |  |
+| ✱ | که | [آن که] H5647 עָבַד "to work (in any sense)…" |  |
 |  | از |  |  |
 |  | پی | H7291 | H7291 |
 |  | باد | H7386 | H7386 |
@@ -203,7 +203,7 @@ Original words:
 | ✱ | نخواهد_ماند | H3808 לֹא "not (the simple or abs.…"; H5352 נָקָה "to be (or make) clean…" | H3808 לֹא "not (the simple or abs.…" |
 |  | . |  |  |
 
-### Proverbs 28:21: 5 word(s) changed
+### Proverbs 28:21: 6 word(s) changed
 
 Reply line 7.
 
@@ -227,7 +227,7 @@ Original words:
 |  | جانبداری | H5234 H6440 | H5234 H6440 |
 |  | به |  |  |
 | ✱ | هیچ | H3808 לֹא "not (the simple or abs.…" |  |
-|  | وجه |  |  |
+| ✱ | وجه | H6595 פַּת "a bit" |  |
 |  | نیکو | H2896 | H2896 |
 | ✱ | نیست |  | H3808 לֹא "not (the simple or abs.…" |
 |  | ، |  |  |
@@ -279,7 +279,7 @@ Original words:
 |  | اوست |  |  |
 |  | . |  |  |
 
-### Proverbs 28:23: 2 word(s) changed
+### Proverbs 28:23: 3 word(s) changed
 
 Reply line 9.
 
@@ -298,7 +298,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | توبیخ‌کننده | H3198 H120 | H3198 H120 |
+| ✱ | توبیخ‌کننده | H3198 יָכַח "to be right (i.e. correct)…" | H3198 יָכַח "to be right (i.e. correct)…"; H120 אָדָם "ruddy i.e. a human being (an…" |
 |  | در | [در آخر] H310 | [در آخر] H310 |
 |  | آخر | [در آخر] H310 | [در آخر] H310 |
 | ✱ | محبوب‌تر | H4672 מָצָא "properly, to come forth to…" | H2580 חֵן "graciousness…"; H4672 מָצָא "properly, to come forth to…" |
@@ -353,7 +353,7 @@ Original words:
 | ✱ | است | [اراذل است] H7843 שָׁחַת "to decay…" | H1931 הוּא "he (she or it)…" |
 |  | . |  |  |
 
-### Proverbs 28:25: 2 word(s) changed
+### Proverbs 28:25: 1 word(s) changed
 
 Reply line 11.
 
@@ -384,7 +384,7 @@ Original words:
 |  | که |  |  |
 |  | را |  |  |
 |  | که |  |  |
-| ✱ | بر |  | H5921 עַל "above, over, upon…" |
+|  | بر | H5921 | H5921 |
 |  | خداوند | H3068 | H3068 |
 |  | توکل | [توکل کند] H982 | [توکل کند] H982 |
 |  | کند | [توکل کند] H982 | [توکل کند] H982 |
@@ -393,7 +393,7 @@ Original words:
 |  | خواهد_بود | [فراوانی خواهد_بود] H1878 | [فراوانی خواهد_بود] H1878 |
 |  | . |  |  |
 
-### Proverbs 28:26: 6 word(s) changed
+### Proverbs 28:26: 9 word(s) changed
 
 Reply line 12.
 
@@ -414,10 +414,10 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | نادان | H3684 | H3684 |
-|  | است | H1931 | H1931 |
+| ✱ | است |  | H1931 הוּא "he (she or it)…" |
 |  | آن |  |  |
 |  | که |  |  |
-|  | بر | Hb | Hb |
+| ✱ | بر |  | Hb "in" |
 |  | خویشتن | H3820 | H3820 |
 |  | توکل | [توکل دارد] H982 | [توکل دارد] H982 |
 |  | دارد | [توکل دارد] H982 | [توکل دارد] H982 |
@@ -426,7 +426,7 @@ Original words:
 |  | آن |  |  |
 |  | که |  |  |
 | ✱ | در |  | Hb "in" |
-|  | طریق |  |  |
+| ✱ | طریق | H1980 הָלַךְ "to walk (in a great variety…" |  |
 |  | حکمت | H2451 | H2451 |
 | ✱ | گام | H1980 הָלַךְ "to walk (in a great variety…" | [گام بر‌دارد] H1980 הָלַךְ "to walk (in a great variety…" |
 | ✱ | بر‌دارد |  | [گام بر‌دارد] H1980 הָלַךְ "to walk (in a great variety…" |
@@ -458,17 +458,17 @@ Original words:
 | --- | --- | --- | --- |
 |  | آن |  |  |
 |  | که |  |  |
-|  | به | Hl | Hl |
+| ✱ | به |  | Hl "to" |
 |  | فقیران | H7326 | H7326 |
 |  | می‌بخشد | H5414 | H5414 |
 |  | ، |  |  |
 |  | به |  |  |
 |  | ناداری | H4270 | H4270 |
-| ✱ | گرفتار | H3994 מְאֵרָה "an execration" | [گرفتار نمی‌آید] H369 אַיִן "a non-entity…" |
-| ✱ | نمی‌آید |  | [گرفتار نمی‌آید] H369 אַיִן "a non-entity…" |
+| ✱ | گرفتار |  | [گرفتار نمی‌آید] H369 אַיִן "a non-entity…" |
+| ✱ | نمی‌آید | H369 אַיִן "a non-entity…" | [گرفتار نمی‌آید] H369 אַיִן "a non-entity…" |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
-| ✱ | لعنت |  | H3994 מְאֵרָה "an execration" |
+|  | لعنت | H3994 | H3994 |
 |  | بسیار | H7227 | H7227 |
 |  | نصیب |  |  |
 |  | کسی |  |  |

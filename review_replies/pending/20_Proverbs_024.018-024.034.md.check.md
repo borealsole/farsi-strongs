@@ -4,7 +4,7 @@ Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change
 
 ## 17 verse(s) with changes
 
-### Proverbs 24:18: 5 word(s) changed
+### Proverbs 24:18: 2 word(s) changed
 
 Reply line 2.
 
@@ -26,12 +26,12 @@ Original words:
 | --- | --- | --- | --- |
 |  | مبادا | H6435 | H6435 |
 |  | خداوند | H3068 | H3068 |
-| ✱ | ببیند | H7200 רָאָה "to see…"; H7489 רָעַע "properly, to spoil (literally…"; H5869 עַיִן "an eye (literally or…" | H7200 רָאָה "to see…" |
+| ✱ | ببیند | H7200 רָאָה "to see…"; H7489 רָעַע "properly, to spoil (literally…" | H7200 רָאָה "to see…" |
 |  | و | Hc | Hc |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | نظرش | H5869 | H5869 |
-| ✱ | ناپسند | H7489 רָעַע "properly, to spoil (literally…"; H5869 עַיִן "an eye (literally or…" | [ناپسند آید] H7489 רָעַע "properly, to spoil (literally…" |
-| ✱ | آید |  | [ناپسند آید] H7489 רָעַע "properly, to spoil (literally…" |
+|  | ناپسند | [ناپسند آید] H7489 | [ناپسند آید] H7489 |
+|  | آید | [ناپسند آید] H7489 | [ناپسند آید] H7489 |
 |  | و | Hc | Hc |
 |  | غضبش | H639 | H639 |
 |  | را |  |  |
@@ -40,7 +40,7 @@ Original words:
 |  | بگرداند | H7725 | H7725 |
 |  | . |  |  |
 
-### Proverbs 24:19: 6 word(s) changed
+### Proverbs 24:19: 8 word(s) changed
 
 Reply line 3.
 
@@ -63,11 +63,11 @@ Original words:
 |  | بدکاران | H7489 | H7489 |
 |  | خویشتن |  |  |
 |  | را |  |  |
-| ✱ | آزرده | H2734 חָרָה "to glow or grow warm…"; H7065 קָנָא "to be (causatively…" | [آزرده مساز] H408 אַל "not (the qualified negation…"; H2734 חָרָה "to glow or grow warm…" |
+| ✱ | آزرده | H7065 קָנָא "to be (causatively…" | [آزرده مساز] H408 אַל "not (the qualified negation…"; H2734 חָרָה "to glow or grow warm…" |
 | ✱ | مساز | H2734 חָרָה "to glow or grow warm…" | [آزرده مساز] H408 אַל "not (the qualified negation…"; H2734 חָרָה "to glow or grow warm…" |
 |  | و |  |  |
-|  | بر | Hb | Hb |
-|  | شریران | H7563 | H7563 |
+| ✱ | بر |  | Hb "in" |
+| ✱ | شریران |  | H7563 רָשָׁע "morally wrong…" |
 | ✱ | حسد | H7065 קָנָא "to be (causatively…" | [حسد مبر] H408 אַל "not (the qualified negation…"; H7065 קָנָא "to be (causatively…" |
 | ✱ | مبر | H408 אַל "not (the qualified negation…" | [حسد مبر] H408 אַל "not (the qualified negation…"; H7065 קָנָא "to be (causatively…" |
 |  | ، |  |  |
@@ -146,7 +146,7 @@ Original words:
 | ✱ | مکن | H408 אַל "not (the qualified negation…" | [همنشینی مکن] H408 אַל "not (the qualified negation…"; H6148 עָרַב "to braid, i.e. intermix…" |
 |  | . |  |  |
 
-### Proverbs 24:22: 3 word(s) changed
+### Proverbs 24:22: 4 word(s) changed
 
 Reply line 6.
 
@@ -183,7 +183,7 @@ Original words:
 |  | دست |  |  |
 |  | آن |  |  |
 |  | دو | H8147 | H8147 |
-|  | نازل |  |  |
+| ✱ | نازل | H6597 פִּתְאוֹם "instantly" |  |
 |  | تواند |  |  |
 |  | شد |  |  |
 |  | ؟ |  |  |
@@ -424,7 +424,7 @@ Original words:
 |  | او |  |  |
 | ✱ | چنان |  | H3651 כֵּן "properly, set upright…" |
 |  | خواهم_کرد | H6213 | H6213 |
-| ✱ | که | H834 אֲשֶׁר "who, which, what, that…"; H3651 כֵּן "properly, set upright…" | Hk "like"; H834 אֲשֶׁר "who, which, what, that…" |
+| ✱ | که | H834 אֲשֶׁר "who, which, what, that…" | Hk "like"; H834 אֲשֶׁר "who, which, what, that…" |
 | ✱ | با |  | Hl "to" |
 |  | من |  |  |
 |  | کرده_است | H6213 | H6213 |
@@ -476,7 +476,7 @@ Original words:
 | ✱ | گذشتم |  | H5674 עָבַר "to cross over…" |
 |  | ؛ |  |  |
 
-### Proverbs 24:31: 6 word(s) changed
+### Proverbs 24:31: 3 word(s) changed
 
 Reply line 15.
 
@@ -499,13 +499,13 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | همه | H3605 | H3605 |
-| ✱ | جا | H7063 קִמָּשׁוֹן "a prickly plant" |  |
+|  | جا |  |  |
 |  | را |  |  |
 | ✱ | خار | [خار گرفته_بود] H5927 עָלָה "to ascend…" | H7063 קִמָּשׁוֹן "a prickly plant" |
 | ✱ | گرفته_بود | [خار گرفته_بود] H5927 עָלָה "to ascend…" | H5927 עָלָה "to ascend…" |
 |  | ، |  |  |
-| ✱ | علفِ | H7063 קִמָּשׁוֹן "a prickly plant" | [علفِ هرز] H2738 חָרוּל "properly, pointed…" |
-| ✱ | هرز | H2738 חָרוּל "properly, pointed…" | [علفِ هرز] H2738 חָרוּל "properly, pointed…" |
+|  | علفِ | [علفِ هرز] H2738 | [علفِ هرز] H2738 |
+|  | هرز | [علفِ هرز] H2738 | [علفِ هرز] H2738 |
 |  | زمین | H6440 | H6440 |
 |  | را |  |  |
 | ✱ | پوشانده_بود | H7063 קִמָּשׁוֹן "a prickly plant"; H3680 כָּסָה "properly, to plump…" | H3680 כָּסָה "properly, to plump…" |
@@ -574,7 +574,7 @@ Original words:
 |  | خواب | H8142 | H8142 |
 |  | ، |  |  |
 |  | اندکی | H4592 | H4592 |
-| ✱ | چشم |  | [چشم بر هم نهادن] H8572 תְּנוּמָה "drowsiness, i.e. sleep" |
+| ✱ | چشم | H8142 שֵׁנָה "sleep" | [چشم بر هم نهادن] H8572 תְּנוּמָה "drowsiness, i.e. sleep" |
 | ✱ | بر |  | [چشم بر هم نهادن] H8572 תְּנוּמָה "drowsiness, i.e. sleep" |
 | ✱ | هم |  | [چشم بر هم نهادن] H8572 תְּנוּמָה "drowsiness, i.e. sleep" |
 | ✱ | نهادن | H8572 תְּנוּמָה "drowsiness, i.e. sleep" | [چشم بر هم نهادن] H8572 תְּנוּמָה "drowsiness, i.e. sleep" |
@@ -588,7 +588,7 @@ Original words:
 |  | استراحت | H7901 | H7901 |
 |  | ، |  |  |
 
-### Proverbs 24:34: 2 word(s) changed
+### Proverbs 24:34: 1 word(s) changed
 
 Reply line 18.
 
@@ -608,7 +608,7 @@ Original words:
 | --- | --- | --- | --- |
 |  | و | Hc | Hc |
 |  | فقر | H7389 | H7389 |
-| ✱ | همچون | Hk "like" |  |
+|  | همچون |  |  |
 |  | راهزن | H1980 | H1980 |
 |  | بر |  |  |
 |  | تو |  |  |

@@ -232,7 +232,7 @@ Persian entries and current tags:
 - p7: ،
 - p8: زیرا  → H3588
 - p9: که
-- p10: او  → H1931
+- p10: او
 - p11: امر فرمود  → H6680
 - p12: ،
 - p13: و  → Hc
@@ -323,7 +323,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: ای
-- p2: آذرخش
+- p2: آذرخش  → H6213
 - p3: و  → Hc
 - p4: تگرگ
 - p5: و
@@ -366,7 +366,7 @@ Persian entries and current tags:
 - p6: ،
 - p7: ای
 - p8: درختان  → H6086
-- p9: میوه  → H6529 H730
+- p9: میوه  → H6529
 - p10: و  → Hc
 - p11: همۀ  → H3605
 - p12: سروها  → H730
@@ -395,7 +395,7 @@ Persian entries and current tags:
 - p7: ای
 - p8: خزندگان  → H2416
 - p9: و  → Hc
-- p10: پرندگان  → H6833 H3671
+- p10: پرندگان  → H6833
 - p11: بالدار  → H3671
 - p12: ؛
 
@@ -532,14 +532,13 @@ Persian entries and current tags:
 - p12: ،
 - p13: برای  → Hl
 - p14: بنی‌اسرائیل  → H3478
-- p15: که  → H5971
-- p16: قومی  → H1121
-- p17: نزدیک  → H7138
-- p18: به
-- p19: اویند
-- p20: .
-- p21: هللویاه  → H1984 H3050
-- p22: !
+- p15: که قومی  → H5971
+- p16: نزدیک  → H7138
+- p17: به
+- p18: اویند
+- p19: .
+- p20: هللویاه  → H1984 H3050
+- p21: !
 
 ### Psalms 149:1
 
@@ -591,7 +590,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: اسرائیل  → H3478
-- p2: در
+- p2: در  → Hb
 - p3: صانع  → H6213
 - p4: خود
 - p5: شادی کند  → H8055
@@ -599,7 +598,7 @@ Persian entries and current tags:
 - p7: و
 - p8: فرزندان  → H1121
 - p9: صَهیون  → H6726
-- p10: از
+- p10: از  → Hb
 - p11: شاه  → H4428
 - p12: خود
 - p13: به
@@ -630,7 +629,7 @@ Persian entries and current tags:
 - p7: و  → Hc
 - p8: با
 - p9: دف  → H8596
-- p10: و  → Hc
+- p10: و
 - p11: بربط  → H3658
 - p12: برایش  → Hl
 - p13: بنوازند  → H4234
@@ -653,7 +652,7 @@ Original words:
 Persian entries and current tags:
 - p1: زیرا  → H3588
 - p2: خداوند  → H3068
-- p3: از
+- p3: از  → Hb
 - p4: قوم  → H5971
 - p5: خویش
 - p6: خشنود است  → H7521
@@ -737,16 +736,16 @@ Original words:
 Persian entries and current tags:
 - p1: تا
 - p2: از  → Hb
-- p3: قومها  → H1471
+- p3: قومها  → H1471 H3816
 - p4: انتقام  → H6213 H5360
 - p5: کشند  → H6213 H8433
 - p6: ،
 - p7: و
-- p8: ملتها  → H8433 H3816
+- p8: ملتها  → H3816
 - p9: را
 - p10: به
-- p11: مجازات  → H6213
-- p12: رسانند
+- p11: مجازات  → H6213 H8433
+- p12: رسانند  → H8433
 - p13: ؛
 
 ### Psalms 149:8
@@ -808,7 +807,7 @@ Persian entries and current tags:
 - p10: .
 - p11: این
 - p12: افتخار  → H1926
-- p13: است
+- p13: است  → H1931
 - p14: برای  → Hl
 - p15: همۀ  → H3605 H2623
 - p16: سرسپردگان  → H2623

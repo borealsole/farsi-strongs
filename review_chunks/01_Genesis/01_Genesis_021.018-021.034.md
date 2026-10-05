@@ -195,7 +195,7 @@ Persian entries and current tags:
 - p1: باری
 - p2: ،
 - p3: خدا  → H430
-- p4: با
+- p4: با  → H854
 - p5: آن
 - p6: پسر  → H5288
 - p7: بود
@@ -211,9 +211,8 @@ Persian entries and current tags:
 - p17: کرد
 - p18: و  → Hc
 - p19: تیراندازی
-- p20: ماهر  → H7235
-- p21: گشت  → H7199
-- p22: .
+- p20: ماهر گشت  → H7235
+- p21: .
 
 ### Genesis 21:21
 
@@ -233,11 +232,11 @@ Original words:
 
 Persian entries and current tags:
 - p1: او
-- p2: در
+- p2: در  → Hb
 - p3: صحرای  → H4057
 - p4: فاران  → H6290
 - p5: زندگی می‌کرد  → H3427
-- p6: و  → Hc
+- p6: و
 - p7: مادرش  → H517
 - p8: زنی  → H802
 - p9: از  → Hm
@@ -272,7 +271,7 @@ Original words:
 - o17: עֹשֶׂה = H6213 עָשָׂה "to do or make…" [HVqrmsa]
 
 Persian entries and current tags:
-- p1: در
+- p1: در  → Hb
 - p2: آن
 - p3: زمان  → H6256
 - p4: ،
@@ -345,7 +344,7 @@ Persian entries and current tags:
 - p17: نوادگانم  → H5220
 - p18: خیانت نکنی  → H8266
 - p19: ؛
-- p20: بلکه
+- p20: بلکه  → H518
 - p21: چنانکه  → Hk
 - p22: من
 - p23: به
@@ -468,9 +467,9 @@ Persian entries and current tags:
 - p12: .
 - p13: تو  → H859
 - p14: به  → H5046 Hl
-- p15: من  → H595
+- p15: من
 - p16: چیزی
-- p17: نگفتی  → H3808 H5046
+- p17: نگفتی  → H5046 H3808
 - p18: و  → Hc
 - p19: تا  → H1115
 - p20: امروز  → H3117
@@ -538,7 +537,7 @@ Persian entries and current tags:
 - p3: برۀ ماده  → H3535
 - p4: از
 - p5: گله  → H6629
-- p6: جدا  → H905
+- p6: جدا  → H5324 H905
 - p7: کرد  → H5324
 - p8: ،
 
@@ -694,7 +693,7 @@ Persian entries and current tags:
 - p3: بستن  → H3772
 - p4: آن
 - p5: پیمان  → H1285
-- p6: در
+- p6: در  → Hb
 - p7: بِئِرشِبَع  → H884
 - p8: ،
 - p9: اَبیمِلِک  → H40
@@ -729,13 +728,13 @@ Original words:
 
 Persian entries and current tags:
 - p1: ابراهیم
-- p2: در
+- p2: در  → Hb
 - p3: بِئِرشِبَع  → H884
 - p4: درختچۀ گزی  → H815
 - p5: کاشت  → H5193
 - p6: ،
 - p7: و  → Hc
-- p8: در
+- p8: در  → Hb
 - p9: آنجا  → H8033
 - p10: نام  → H8034
 - p11: خداوند  → H3068
@@ -765,11 +764,13 @@ Persian entries and current tags:
 - p2: ابراهیم  → H85
 - p3: مدتی  → H3117
 - p4: دراز
-- p5: در
+- p5: در  → Hb
 - p6: سرزمین  → H776
-- p7: فلسطینیان  → H6430 H7227
-- p8: غربت اختیار کرد  → H1481
-- p9: .
+- p7: فلسطینیان  → H6430
+- p8: غربت  → H1481
+- p9: اختیار
+- p10: کرد  → H1481
+- p11: .
 
 ## Neighbouring verses (context only, not for review)
 

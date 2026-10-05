@@ -36,7 +36,7 @@ Original words:
 |  | تمسخر | [تمسخر کند] H3932 | [تمسخر کند] H3932 |
 |  | کند | [تمسخر کند] H3932 | [تمسخر کند] H3932 |
 |  | و | Hc | Hc |
-| ✱ | اطاعت | H936 בּוּז "to disrespect"; H3349 יִקָּהָה "obedience" | H3349 יִקָּהָה "obedience" |
+| ✱ | اطاعت |  | H3349 יִקָּהָה "obedience" |
 |  | از |  |  |
 |  | مادر | H517 | H517 |
 |  | را |  |  |
@@ -93,7 +93,7 @@ Original words:
 | ✱ | درنمی‌یابم |  | H3808 לֹא "not (the simple or abs.…"; H3045 יָדַע "to know (properly…" |
 |  | : |  |  |
 
-### Proverbs 30:19: 5 word(s) changed
+### Proverbs 30:19: 4 word(s) changed
 
 Reply line 4.
 
@@ -138,12 +138,12 @@ Original words:
 |  | و | Hc | Hc |
 |  | راهِ | H1870 | H1870 |
 |  | مرد | H1397 | H1397 |
-| ✱ | با |  | Hb "in" |
+|  | با | Hb | Hb |
 | ✱ | دختر |  | [دختر جوان] H5959 עַלְמָה "a lass (as veiled or private)" |
 | ✱ | جوان | H5959 עַלְמָה "a lass (as veiled or private)" | [دختر جوان] H5959 עַלְמָה "a lass (as veiled or private)" |
 |  | . |  |  |
 
-### Proverbs 30:20: 4 word(s) changed
+### Proverbs 30:20: 5 word(s) changed
 
 Reply line 5.
 
@@ -183,9 +183,9 @@ Original words:
 |  | و | Hc | Hc |
 |  | می‌گوید | H559 | H559 |
 |  | : |  |  |
-| ✱ | ”کارِ |  | H6466 פָּעַל "to do or make (systematically…" |
-| ✱ | بدی |  | H205 אָוֶן "strictly nothingness…" |
-|  | نکردم | H3808 H6466 | H3808 H6466 |
+| ✱ | ”کارِ | [”کارِ بدی] H205 אָוֶן "strictly nothingness…" | H6466 פָּעַל "to do or make (systematically…" |
+| ✱ | بدی | [”کارِ بدی] H205 אָוֶן "strictly nothingness…" | H205 אָוֶן "strictly nothingness…" |
+| ✱ | نکردم | H3808 לֹא "not (the simple or abs.…" | H3808 לֹא "not (the simple or abs.…"; H6466 פָּעַל "to do or make (systematically…" |
 |  | . |  |  |
 |  | “ |  |  |
 
@@ -280,8 +280,8 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | زن |  | H8130 שָׂנֵא "to hate (personally)" |
-|  | آکنده | H8130 | H8130 |
+|  | زن | H8130 | H8130 |
+| ✱ | آکنده |  | H8130 שָׂנֵא "to hate (personally)" |
 |  | از |  |  |
 | ✱ | نفرت | H8130 שָׂנֵא "to hate (personally)"; H8198 שִׁפְחָה "a female slave (as a member…" | H8130 שָׂנֵא "to hate (personally)" |
 | ✱ | که |  | H3588 כִּי "by implication) very widely…" |
@@ -331,7 +331,7 @@ Original words:
 |  | می‌کنند | [فراهم می‌کنند] H3559 | [فراهم می‌کنند] H3559 |
 |  | ؛ |  |  |
 
-### Proverbs 30:26: 2 word(s) changed
+### Proverbs 30:26: 1 word(s) changed
 
 Reply line 10.
 
@@ -358,12 +358,12 @@ Original words:
 |  | خانۀ | H1004 | H1004 |
 |  | خود |  |  |
 |  | را |  |  |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | پرتگاهها | H5553 | H5553 |
 |  | می‌سازند | H7760 | H7760 |
 |  | ؛ |  |  |
 
-### Proverbs 30:27: 5 word(s) changed
+### Proverbs 30:27: 6 word(s) changed
 
 Reply line 11.
 
@@ -386,14 +386,14 @@ Original words:
 |  | پادشاهی | H4428 | H4428 |
 |  | نیست | H369 | H369 |
 |  | ، |  |  |
-|  | اما | Hc | Hc |
-| ✱ | گروه | H2686 חָצַץ "properly, to chop into…" | [گروه گروه] H2686 חָצַץ "properly, to chop into…" |
+| ✱ | اما |  | Hc "and" |
+| ✱ | گروه |  | [گروه گروه] H2686 חָצַץ "properly, to chop into…" |
 | ✱ | گروه |  | [گروه گروه] H2686 חָצַץ "properly, to chop into…" |
 | ✱ | پیش |  | [پیش می‌روند] H3318 יָצָא "to go (causatively…" |
 | ✱ | می‌روند | H3318 יָצָא "to go (causatively…" | [پیش می‌روند] H3318 יָצָא "to go (causatively…" |
 |  | ؛ |  |  |
 
-### Proverbs 30:28: 3 word(s) changed
+### Proverbs 30:28: 1 word(s) changed
 
 Reply line 12.
 
@@ -413,13 +413,13 @@ Original words:
 | --- | --- | --- | --- |
 |  | مارمولک | H8079 | H8079 |
 |  | را |  |  |
-| ✱ | با |  | Hb "in" |
+|  | با | Hb | Hb |
 |  | دست | H3027 | H3027 |
 |  | توان | [توان گرفت] H8610 | [توان گرفت] H8610 |
 |  | گرفت | [توان گرفت] H8610 | [توان گرفت] H8610 |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | قصرهای | H1964 | H1964 |
 | ✱ | شاهان | H1964 הֵיכָל "a large public building…"; H4428 מֶלֶךְ "a king" | H4428 מֶלֶךְ "a king" |
 |  | یافت |  |  |
@@ -464,7 +464,7 @@ Original words:
 |  | می‌خرامد | H3212 | H3212 |
 |  | : |  |  |
 
-### Proverbs 30:30: 5 word(s) changed
+### Proverbs 30:30: 7 word(s) changed
 
 Reply line 14.
 
@@ -492,8 +492,8 @@ Original words:
 |  | و | Hc | Hc |
 | ✱ | در |  | [در برابر] Hm "from"; H6440 פָּנִים "the face (as the part that…" |
 | ✱ | برابر | H6440 פָּנִים "the face (as the part that…" | [در برابر] Hm "from"; H6440 פָּנִים "the face (as the part that…" |
-|  | هیچ | [هیچ چیز] H3605 | [هیچ چیز] H3605 |
-|  | چیز | [هیچ چیز] H3605 | [هیچ چیز] H3605 |
+| ✱ | هیچ |  | [هیچ چیز] H3605 כֹּל "properly, the whole…" |
+| ✱ | چیز | H3605 כֹּל "properly, the whole…" | [هیچ چیز] H3605 כֹּל "properly, the whole…" |
 | ✱ | واپس | H7725 שׁוּב "to turn back (hence…" | [واپس نمی‌نشیند] H3808 לֹא "not (the simple or abs.…"; H7725 שׁוּב "to turn back (hence…" |
 | ✱ | نمی‌نشیند | H3808 לֹא "not (the simple or abs.…" | [واپس نمی‌نشیند] H3808 לֹא "not (the simple or abs.…"; H7725 שׁוּב "to turn back (hence…" |
 |  | ؛ |  |  |
@@ -572,7 +572,7 @@ Original words:
 |  | بگذار |  |  |
 |  | ! |  |  |
 
-### Proverbs 30:33: 3 word(s) changed
+### Proverbs 30:33: 7 word(s) changed
 
 Reply line 17.
 
@@ -597,12 +597,12 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | زیرا | H3588 | H3588 |
-|  | از |  |  |
+| ✱ | زیرا | [زیرا از] H3588 כִּי "by implication) very widely…" | H3588 כִּי "by implication) very widely…" |
+| ✱ | از | [زیرا از] H3588 כִּי "by implication) very widely…" |  |
 |  | فشردن | H4330 | H4330 |
 |  | شیر | H2461 | H2461 |
 |  | ، |  |  |
-|  | کره | H2529 | H2529 |
+| ✱ | کره |  | H2529 חֶמְאָה "curdled milk or cheese" |
 | ✱ | به |  | [به دست می‌آید] H3318 יָצָא "to go (causatively…" |
 | ✱ | دست |  | [به دست می‌آید] H3318 יָצָא "to go (causatively…" |
 | ✱ | می‌آید |  | [به دست می‌آید] H3318 יָצָא "to go (causatively…" |
@@ -614,7 +614,7 @@ Original words:
 |  | خون | H1818 | H1818 |
 |  | ، |  |  |
 |  | و | Hc | Hc |
-|  | از |  |  |
+| ✱ | از | H3588 כִּי "by implication) very widely…" |  |
 |  | فشردن | H4330 | H4330 |
 |  | خشم | H639 | H639 |
 |  | ، |  |  |

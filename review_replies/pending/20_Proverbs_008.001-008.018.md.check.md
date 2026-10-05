@@ -1,6 +1,6 @@
 # Check of 20_Proverbs_008.001-008.018.md
 
-Generated 2026-10-04 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
 ## 17 verse(s) with changes
 
@@ -100,7 +100,7 @@ Original words:
 | ✱ | برمی‌آورد |  | [بانگ برمی‌آورد] H7442 רָנַן "properly…" |
 |  | : |  |  |
 
-### Proverbs 8:4: 4 word(s) changed
+### Proverbs 8:4: 2 word(s) changed
 
 Reply line 5.
 
@@ -129,9 +129,9 @@ Original words:
 |  | ، |  |  |
 |  | آوای | [آوای خویش] H6963 | [آوای خویش] H6963 |
 |  | خویش | [آوای خویش] H6963 | [آوای خویش] H6963 |
-| ✱ | بر |  | H413 אֵל "near, with or among…" |
+|  | بر | H413 | H413 |
 |  | همۀ |  |  |
-| ✱ | آدمیان | H120 אָדָם "ruddy i.e. a human being (an…" | H1121 בֵּן "a son (as a builder of the…"; H120 אָדָם "ruddy i.e. a human being (an…" |
+|  | آدمیان | H1121 H120 | H1121 H120 |
 | ✱ | بلند | H6963 קוֹל "a voice or sound" |  |
 |  | می‌کنم |  |  |
 |  | . |  |  |
@@ -164,7 +164,7 @@ Original words:
 |  | ای |  |  |
 |  | جاهلان | H3684 | H3684 |
 |  | ، |  |  |
-| ✱ | دانادلی | H995 בִּין "to separate mentally (or…"; H3820 לֵב "the heart…" | H3820 לֵב "the heart…" |
+| ✱ | دانادلی | H995 בִּין "to separate mentally (or…" | H3820 לֵב "the heart…" |
 |  | را |  |  |
 | ✱ | به |  | [به دست آرید] H995 בִּין "to separate mentally (or…" |
 | ✱ | دست |  | [به دست آرید] H995 בִּין "to separate mentally (or…" |
@@ -195,13 +195,13 @@ Original words:
 |  | ، |  |  |
 |  | زیرا | H3588 | H3588 |
 | ✱ | گفتنیهای | H5057 נָגִיד "a commander (as occupying the…"; H1696 דָבַר "perhaps properly, to arrange…" | H1696 דָבַר "perhaps properly, to arrange…" |
-| ✱ | ارزنده |  | H5057 נָגִיד "a commander (as occupying the…" |
+| ✱ | ارزنده | H4669 מִפְתָּח "an aperture…" | H5057 נָגִיד "a commander (as occupying the…" |
 |  | دارم |  |  |
-|  | و | Hc | Hc |
+| ✱ | و |  | Hc "and" |
 |  | لبانم | H8193 | H8193 |
 |  | را |  |  |
 | ✱ | به | H4669 מִפְתָּח "an aperture…" |  |
-| ✱ | بیان | H5057 נָגִיד "a commander (as occupying the…" |  |
+|  | بیان |  |  |
 | ✱ | درستیها |  | H4339 מֵישָׁר "evenness…" |
 | ✱ | می‌گشایم | H8193 שָׂפָה "the lip (as a natural…" | H4669 מִפְתָּח "an aperture…" |
 |  | . |  |  |
@@ -329,7 +329,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | رهنمود | H3947 לָקַח "to take (in the widest…"; H4148 מוּסָר "properly, chastisement…" | H4148 מוּסָר "properly, chastisement…" |
+|  | رهنمود | H4148 | H4148 |
 |  | مرا |  |  |
 | ✱ | به |  | [به جای] Hc "and"; H408 אַל "not (the qualified negation…" |
 | ✱ | جای |  | [به جای] Hc "and"; H408 אַל "not (the qualified negation…" |
@@ -341,8 +341,8 @@ Original words:
 |  | دانش | H1847 | H1847 |
 |  | را |  |  |
 |  | بیش |  |  |
-|  | از | Hm | Hm |
-| ✱ | طلای | H3701 כֶּסֶף "silver (from its pale color)…" | H2742 חֲרוּץ "properly…" |
+| ✱ | از |  | Hm "from" |
+| ✱ | طلای | H3701 כֶּסֶף "silver (from its pale color)…"; H2742 חֲרוּץ "properly…" | H2742 חֲרוּץ "properly…" |
 |  | ناب | H977 | H977 |
 |  | . |  |  |
 
@@ -420,7 +420,7 @@ Original words:
 | ✱ | برخوردارم |  | H4672 מָצָא "properly, to come forth to…" |
 |  | . |  |  |
 
-### Proverbs 8:14: 7 word(s) changed
+### Proverbs 8:14: 6 word(s) changed
 
 Reply line 14.
 
@@ -450,7 +450,7 @@ Original words:
 |  | من | H589 | H589 |
 |  | فهم | H998 | H998 |
 |  | و |  |  |
-| ✱ | قوّت | H8454 תּוּשִׁיָּה "support or (by implication)…"; H1369 גְּבוּרָה "force (literally or…" | H1369 גְּבוּרָה "force (literally or…" |
+|  | قوّت | H1369 | H1369 |
 |  | را |  |  |
 | ✱ | در |  | [در اختیار دارم] Hl "to" |
 | ✱ | اختیار |  | [در اختیار دارم] Hl "to" |
@@ -475,7 +475,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | به |  | [به مدد] Hb "in" |
+| ✱ | به | Hb "in" | [به مدد] Hb "in" |
 | ✱ | مدد |  | [به مدد] Hb "in" |
 |  | من |  |  |
 |  | پادشاهان | H4428 | H4428 |
@@ -489,7 +489,7 @@ Original words:
 | ✱ | می‌نمایند |  | [حکم می‌نمایند] H2710 חָקַק "properly, to hack…" |
 |  | . |  |  |
 
-### Proverbs 8:16: 5 word(s) changed
+### Proverbs 8:16: 6 word(s) changed
 
 Reply line 16.
 
@@ -517,7 +517,7 @@ Original words:
 | ✱ | می‌رانند |  | [حکم می‌رانند] H8323 שָׂרַר "to have (transitively…" |
 |  | ، |  |  |
 |  | و | Hc | Hc |
-|  | نیز |  |  |
+| ✱ | نیز | H3605 כֹּל "properly, the whole…" |  |
 |  | شریفان | H5081 | H5081 |
 |  | و |  |  |
 | ✱ | جملۀ |  | H3605 כֹּל "properly, the whole…" |
@@ -525,7 +525,7 @@ Original words:
 |  | عادل | H6664 | H6664 |
 |  | . |  |  |
 
-### Proverbs 8:17: 4 word(s) changed
+### Proverbs 8:17: 5 word(s) changed
 
 Reply line 17.
 
@@ -554,15 +554,15 @@ Original words:
 |  | و | Hc | Hc |
 |  | آنان |  |  |
 |  | که |  |  |
-|  | مرا |  |  |
-| ✱ | به |  | [به جِدّ بجویند] H7836 שָׁחַר "properly, to dawn…" |
-| ✱ | جِدّ | [جِدّ بجویند] H7836 שָׁחַר "properly, to dawn…" | [به جِدّ بجویند] H7836 שָׁחַר "properly, to dawn…" |
-| ✱ | بجویند | [جِدّ بجویند] H7836 שָׁחַר "properly, to dawn…" | [به جِدّ بجویند] H7836 שָׁחַר "properly, to dawn…" |
+| ✱ | مرا | [مرا به جِدّ بجویند] H7836 שָׁחַר "properly, to dawn…" |  |
+| ✱ | به | [مرا به جِدّ بجویند] H7836 שָׁחַר "properly, to dawn…" | [به جِدّ بجویند] H7836 שָׁחַר "properly, to dawn…" |
+| ✱ | جِدّ | [مرا به جِدّ بجویند] H7836 שָׁחַר "properly, to dawn…" | [به جِدّ بجویند] H7836 שָׁחַר "properly, to dawn…" |
+| ✱ | بجویند | [مرا به جِدّ بجویند] H7836 שָׁחַר "properly, to dawn…" | [به جِدّ بجویند] H7836 שָׁחַר "properly, to dawn…" |
 |  | ، |  |  |
 | ✱ | می‌یابند |  | H4672 מָצָא "properly, to come forth to…" |
 |  | . |  |  |
 
-### Proverbs 8:18: 4 word(s) changed
+### Proverbs 8:18: 3 word(s) changed
 
 Reply line 18.
 
@@ -582,7 +582,7 @@ Original words:
 | --- | --- | --- | --- |
 | ✱ | دولت | H6239 עֹשֶׁר "wealth"; H1952 הוֹן "wealth; by implication, enough" | H6239 עֹשֶׁר "wealth" |
 |  | و | Hc | Hc |
-| ✱ | جلال | H6239 עֹשֶׁר "wealth"; H3519 כָּבוֹד "properly, weight…" | H3519 כָּבוֹד "properly, weight…" |
+|  | جلال | H3519 | H3519 |
 |  | با | H854 | H854 |
 |  | من |  |  |
 |  | است |  |  |

@@ -112,7 +112,7 @@ Persian entries and current tags:
 - p3: روز  → H3117
 - p4: هفت  → H7651
 - p5: زن  → H802
-- p6: دست
+- p6: دست  → H2388
 - p7: به  → Hb
 - p8: دامان
 - p9: یک  → H259
@@ -231,7 +231,7 @@ Persian entries and current tags:
 - p19: آن
 - p20: کس
 - p21: که
-- p22: در
+- p22: در  → Hb
 - p23: اورشلیم  → H3389
 - p24: برای  → Hl
 - p25: حیات  → H2416
@@ -371,7 +371,7 @@ Persian entries and current tags:
 - p1: که
 - p2: سایه‌بان  → H5521 H6738
 - p3: به
-- p4: جهت
+- p4: جهت  → Hl
 - p5: گرمای  → H2721
 - p6: روز  → H3119
 - p7: و  → Hc

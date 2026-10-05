@@ -75,7 +75,7 @@ Original words:
 Persian entries and current tags:
 - p1: زیرا  → G1063
 - p2: تمام  → G3956
-- p3: شریعت
+- p3: شریعت  → G3551
 - p4: در  → G1722
 - p5: یک  → G1520
 - p6: حکم  → G3056
@@ -129,7 +129,7 @@ Persian entries and current tags:
 - p16: یکدیگر  → G240
 - p17: از
 - p18: میان
-- p19: نروید  → G3361 G240 G355
+- p19: نروید  → G240 G3361 G355
 - p20: .
 
 ### Galatians 5:16
@@ -280,8 +280,8 @@ Original words:
 Persian entries and current tags:
 - p1: اعمال  → G2041
 - p2: نَفْس  → G4561
-- p3: روشن  → G5318
-- p4: است  → G1510
+- p3: روشن  → G5318 G1161
+- p4: است
 - p5: :
 - p6: بی‌عفتی  → G4202
 - p7: ،
@@ -310,7 +310,7 @@ Original words:
 Persian entries and current tags:
 - p1: بت‌پرستی  → G1495
 - p2: و
-- p3: جادوگری  → G5331
+- p3: جادوگری  → G5331 G2205
 - p4: ؛
 - p5: دشمنی  → G2189
 - p6: ،
@@ -324,7 +324,7 @@ Persian entries and current tags:
 - p14: ،
 - p15: نفاق  → G1370
 - p16: ،
-- p17: دسته‌بندی  → G139
+- p17: دسته‌بندی  → G1370 G139
 - p18: ،
 
 ### Galatians 5:21
@@ -374,7 +374,7 @@ Persian entries and current tags:
 - p16: باز
 - p17: می‌گویم
 - p18: که  → G3754
-- p19: کنندگان  → G4302
+- p19: کنندگان
 - p20: چنین کارها  → G5108
 - p21: پادشاهی  → G932
 - p22: خدا  → G2316
@@ -411,7 +411,7 @@ Persian entries and current tags:
 - p4: ،
 - p5: محبت  → G26
 - p6: ،
-- p7: شادی  → G5479 G1515
+- p7: شادی  → G5479
 - p8: ،
 - p9: آرامش  → G1515 G3115
 - p10: ،
@@ -539,13 +539,13 @@ Persian entries and current tags:
 - p4: از
 - p5: به
 - p6: خشم  → G2755
-- p7: آوردن  → G4292 G5354
+- p7: آوردن  → G4292
 - p8: یکدیگر  → G240
 - p9: و
 - p10: حسادت  → G5354
 - p11: نسبت
 - p12: به
-- p13: هم
+- p13: هم  → G240
 - p14: دست
 - p15: بداریم
 - p16: .

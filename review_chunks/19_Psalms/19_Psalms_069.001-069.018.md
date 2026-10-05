@@ -107,7 +107,7 @@ Persian entries and current tags:
 - p5: آبها  → H4325
 - p6: تا  → H5704
 - p7: به
-- p8: گردنم  → H5329 H5315
+- p8: گردنم  → H5315
 - p9: برآمده
 - p10: است
 - p11: .
@@ -130,7 +130,7 @@ Original words:
 - o10: שְׁטָפָתְ/נִי = H7857 שָׁטַף "to gush; by implication, to inundate, cleanse…" [HVqp3fs/Sp1cs]
 
 Persian entries and current tags:
-- p1: در
+- p1: در  → Hb
 - p2: لجن‌زارِ
 - p3: ژرف  → H3121 H4688
 - p4: فرو~رفته‌ام  → H2883
@@ -138,11 +138,11 @@ Persian entries and current tags:
 - p6: جایی
 - p7: که
 - p8: نتوان  → H369
-- p9: ایستاد  → H2883 H4613
+- p9: ایستاد  → H4613
 - p10: .
 - p11: به
 - p12: آبهای  → H4325
-- p13: ژرف  → H3121 H4688
+- p13: ژرف  → H3121
 - p14: درآمده‌ام  → H935
 - p15: و  → Hc
 - p16: سیلابها  → H7641
@@ -230,7 +230,7 @@ Persian entries and current tags:
 - p22: که
 - p23: بر  → H341
 - p24: من
-- p25: تهمت  → H1497
+- p25: تهمت
 - p26: ناروا  → H8267
 - p27: می‌زنند
 - p28: .
@@ -295,8 +295,8 @@ Original words:
 - o13: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
 
 Persian entries and current tags:
-- p1: ای  → H408
-- p2: خداوندگار  → H136 H3069
+- p1: ای
+- p2: خداوندگار  → H3069
 - p3: ،
 - p4: خداوندِ
 - p5: لشکرها  → H6635
@@ -305,19 +305,19 @@ Persian entries and current tags:
 - p8: که
 - p9: بر
 - p10: تو
-- p11: امید بسته‌اند  → H6960
-- p12: به
+- p11: امید  → H6960
+- p12: بسته‌اند به  → H954
 - p13: سبب
 - p14: من
 - p15: شرمنده نشوند  → H954
 - p16: .
-- p17: ای  → H408
+- p17: ای
 - p18: خدای  → H430
 - p19: اسرائیل  → H3478
 - p20: ،
 - p21: جویندگان  → H1245
 - p22: تو
-- p23: به
+- p23: به  → H954
 - p24: سبب
 - p25: من
 - p26: رسوا نگردند  → H3637
@@ -380,7 +380,7 @@ Persian entries and current tags:
 - p10: مادرم  → H517
 - p11: ،
 - p12: اجنبی  → H5237
-- p13: می‌نمایم
+- p13: می‌نمایم  → Hl
 - p14: ؛
 
 ### Psalms 69:9
@@ -486,9 +486,9 @@ Original words:
 - o7: שֵׁכָר = H7941 שֵׁכָר "an intoxicant, i.e. intensely alcoholic liquor" [HNcmsa]
 
 Persian entries and current tags:
-- p1: موضوع
+- p1: موضوع  → H5058
 - p2: گفتگوی  → H7878
-- p3: دروازه‌نشینانم  → H8179
+- p3: دروازه‌نشینانم  → H3427 H8179
 - p4: و  → Hc
 - p5: ترانۀ
 - p6: میگساران  → H5058 H8354 H7941
@@ -515,35 +515,36 @@ Original words:
 - o12: יִשְׁעֶ/ךָ = H3468 יֶשַׁע "liberty, deliverance, prosperity" [HNcmsc/Sp2ms]
 
 Persian entries and current tags:
-- p1: و اما  → Hc
-- p2: من  → H589
-- p3: ،
-- p4: خداوندا  → H3068
-- p5: ،
-- p6: در
-- p7: زمان  → H6256
-- p8: لطف  → H7522 H2617
-- p9: تو
-- p10: ،
-- p11: به
-- p12: درگاهت
-- p13: دعا  → H8605
-- p14: خواهم_کرد
-- p15: ؛
-- p16: در
-- p17: کثرت  → H7230
-- p18: محبت  → H2617
-- p19: خویش
-- p20: ،
-- p21: خدایا  → H430
-- p22: ،
-- p23: و
-- p24: در
-- p25: امانت  → H571
-- p26: نجاتبخش‌خود  → H3468
-- p27: ،
-- p28: اجابتم فرما  → H6030
-- p29: .
+- p1: و  → Hc
+- p2: اما
+- p3: من  → H589
+- p4: ،
+- p5: خداوندا  → H3068
+- p6: ،
+- p7: در
+- p8: زمان  → H6256
+- p9: لطف  → H7522 H2617
+- p10: تو
+- p11: ،
+- p12: به  → Hl
+- p13: درگاهت  → H8605 H571
+- p14: دعا  → H8605
+- p15: خواهم_کرد
+- p16: ؛
+- p17: در  → Hb
+- p18: کثرت  → H7230
+- p19: محبت  → H2617
+- p20: خویش
+- p21: ،
+- p22: خدایا  → H430
+- p23: ،
+- p24: و
+- p25: در  → Hb
+- p26: امانت  → H571 H3468
+- p27: نجاتبخش‌خود  → H3468
+- p28: ،
+- p29: اجابتم فرما  → H6030
+- p30: .
 
 ### Psalms 69:14
 
@@ -561,7 +562,7 @@ Original words:
 - o8: מָיִם = H4325 מַיִם "water; figuratively, juice…" [HNcmpa]
 
 Persian entries and current tags:
-- p1: مرا
+- p1: مرا  → H5337
 - p2: از  → Hm
 - p3: لجن‌زار  → H2916
 - p4: خلاصی  → H2883
@@ -655,7 +656,7 @@ Persian entries and current tags:
 - p15: ،
 - p16: روی  → H6437
 - p17: به  → H413
-- p18: جانبم  → H6437
+- p18: جانبم
 - p19: بگردان
 - p20: .
 
@@ -681,7 +682,7 @@ Persian entries and current tags:
 - p3: از  → Hm
 - p4: خدمتگزار  → H5650
 - p5: خویش
-- p6: مپوشان  → H4118
+- p6: مپوشان
 - p7: ،
 - p8: به‌زودی  → H4118
 - p9: اجابتم  → H5641 H6030
@@ -716,10 +717,10 @@ Persian entries and current tags:
 - p7: بازخرید کن  → H1350 H6299
 - p8: ،
 - p9: به
-- p10: سبب
+- p10: سبب  → H4616
 - p11: دشمنانم  → H341
 - p12: مرا
-- p13: فدیه نما  → H1350 H6299
+- p13: فدیه نما  → H1350
 - p14: .
 
 ## Neighbouring verses (context only, not for review)

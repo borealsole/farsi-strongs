@@ -1,6 +1,6 @@
 # Check of 20_Proverbs_014.019-014.035.md
 
-Generated 2026-10-04 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
 ## 17 verse(s) with changes
 
@@ -157,7 +157,7 @@ Original words:
 | ✱ | دارند |  | [در سر دارند] H2790 חָרַשׁ "to scratch…" |
 |  | . |  |  |
 
-### Proverbs 14:23: 2 word(s) changed
+### Proverbs 14:23: 3 word(s) changed
 
 Reply line 6.
 
@@ -191,7 +191,7 @@ Original words:
 |  | ، |  |  |
 |  | تنها | H389 | H389 |
 |  | فقر | H4270 | H4270 |
-|  | به | Hl | Hl |
+| ✱ | به |  | Hl "to" |
 |  | بار |  |  |
 |  | آید |  |  |
 |  | . |  |  |
@@ -252,14 +252,14 @@ Original words:
 | --- | --- | --- | --- |
 |  | شاهد | H5707 | H5707 |
 |  | راستگو | H571 | H571 |
-|  | جانها | H5315 | H5315 |
+| ✱ | جانها | H5337 נָצַל "to snatch away…"; H5315 נֶפֶשׁ "properly…" | H5315 נֶפֶשׁ "properly…" |
 |  | را |  |  |
 |  | می‌رهاند | H5337 | H5337 |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
 |  | آن |  |  |
 |  | که |  |  |
-| ✱ | دروغ | H6315 פּוּחַ "to puff…"; H3577 כָּזָב "falsehood…" | H3577 כָּזָב "falsehood…" |
+|  | دروغ | H3577 | H3577 |
 |  | می‌بافد | H6315 | H6315 |
 |  | ، |  |  |
 |  | فریبکار | H4820 | H4820 |
@@ -410,7 +410,7 @@ Original words:
 | ✱ | می‌گذارد | H7311 רוּם "to be high actively…" | [به نمایش می‌گذارد] H7311 רוּם "to be high actively…" |
 |  | . |  |  |
 
-### Proverbs 14:30: 2 word(s) changed
+### Proverbs 14:30: 3 word(s) changed
 
 Reply line 13.
 
@@ -437,14 +437,14 @@ Original words:
 |  | می‌بخشد |  |  |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
-|  | حسادت | H7068 | H7068 |
+| ✱ | حسادت | H7538 רָקָב "decay (by caries)"; H7068 קִנְאָה "jealousy or envy" | H7068 קִנְאָה "jealousy or envy" |
 |  | ، |  |  |
 |  | استخوانها | H6106 | H6106 |
 |  | را |  |  |
 | ✱ | می‌پوساند |  | H7538 רָקָב "decay (by caries)" |
 |  | . |  |  |
 
-### Proverbs 14:31: 9 word(s) changed
+### Proverbs 14:31: 8 word(s) changed
 
 Reply line 14.
 
@@ -478,8 +478,8 @@ Original words:
 |  | ، |  |  |
 |  | اما | Hc | Hc |
 |  | هر |  |  |
-| ✱ | که | [که بر] H6231 עָשַׁק "to press upon, i.e. oppress…" |  |
-| ✱ | بر | [که بر] H6231 עָשַׁק "to press upon, i.e. oppress…" |  |
+| ✱ | که | H6231 עָשַׁק "to press upon, i.e. oppress…" |  |
+|  | بر |  |  |
 |  | نیازمند | H34 | H34 |
 |  | شفقت | [شفقت کند] H2603 | [شفقت کند] H2603 |
 |  | کند | [شفقت کند] H2603 | [شفقت کند] H2603 |
@@ -490,7 +490,7 @@ Original words:
 |  | می‌دارد | [حرمت می‌دارد] H3513 | [حرمت می‌دارد] H3513 |
 |  | . |  |  |
 
-### Proverbs 14:32: 2 word(s) changed
+### Proverbs 14:32: 1 word(s) changed
 
 Reply line 15.
 
@@ -518,14 +518,14 @@ Original words:
 |  | اما | Hc | Hc |
 |  | پارسایان | H6662 | H6662 |
 |  | را |  |  |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | مرگ | H4194 | H4194 |
 |  | نیز |  |  |
 |  | پناهی | [پناهی هست] H2620 | [پناهی هست] H2620 |
 |  | هست | [پناهی هست] H2620 | [پناهی هست] H2620 |
 |  | . |  |  |
 
-### Proverbs 14:33: 5 word(s) changed
+### Proverbs 14:33: 3 word(s) changed
 
 Reply line 16.
 
@@ -545,7 +545,7 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 | ✱ | حکمت | H5117 נוּחַ "to rest, i.e. settle down…"; H2451 חׇכְמָה "wisdom (in a good sense)" | H2451 חׇכְמָה "wisdom (in a good sense)" |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | دل | H3820 | H3820 |
 |  | شخص |  |  |
 |  | فهیم | H995 | H995 |
@@ -554,7 +554,7 @@ Original words:
 |  | ، |  |  |
 |  | اما | Hc | Hc |
 |  | آیا |  |  |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | میان | H7130 | H7130 |
 |  | جاهلان | H3684 | H3684 |
 |  | شناخته_شده_است | H3045 | H3045 |
@@ -615,7 +615,7 @@ Original words:
 | --- | --- | --- | --- |
 | ✱ | خشنودیِ | H7522 רָצוֹן "delight (especially as shown)"; H5650 עֶבֶד "a servant" | H7522 רָצוֹן "delight (especially as shown)" |
 |  | پادشاه | H4428 | H4428 |
-| ✱ | نصیب | H7522 רָצוֹן "delight (especially as shown)" | Hl "to" |
+| ✱ | نصیب |  | Hl "to" |
 |  | خادم | H5650 | H5650 |
 | ✱ | عاقل | [عاقل است] H7919 שָׂכַל "to be (causatively…" | H7919 שָׂכַל "to be (causatively…" |
 | ✱ | است | [عاقل است] H7919 שָׂכַל "to be (causatively…" |  |

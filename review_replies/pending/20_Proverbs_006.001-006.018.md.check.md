@@ -1,10 +1,10 @@
 # Check of 20_Proverbs_006.001-006.018.md
 
-Generated 2026-10-04 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
 ## 17 verse(s) with changes
 
-### Proverbs 6:1: 5 word(s) changed
+### Proverbs 6:1: 4 word(s) changed
 
 Reply line 2.
 
@@ -27,7 +27,7 @@ Original words:
 |  | ، |  |  |
 |  | اگر | H518 | H518 |
 |  | برای | Hl | Hl |
-| ✱ | دیگری |  | H7453 רֵעַ "an associate (more or less…" |
+|  | دیگری | H7453 | H7453 |
 | ✱ | ضامن | [ضامن شده‌ای] H6148 עָרַב "to braid, i.e. intermix…"; H8628 תָּקַע "to clatter…" | [ضامن شده‌ای] H6148 עָרַב "to braid, i.e. intermix…" |
 | ✱ | شده‌ای | [ضامن شده‌ای] H6148 עָרַב "to braid, i.e. intermix…"; H8628 תָּקַע "to clatter…" | [ضامن شده‌ای] H6148 עָרַב "to braid, i.e. intermix…" |
 |  | و |  |  |
@@ -37,7 +37,7 @@ Original words:
 | ✱ | سپرده‌ای |  | [تعهد سپرده‌ای] H8628 תָּקַע "to clatter…"; H3709 כַּף "the hollow hand or palm (so…" |
 |  | ؛ |  |  |
 
-### Proverbs 6:2: 6 word(s) changed
+### Proverbs 6:2: 7 word(s) changed
 
 Reply line 3.
 
@@ -64,13 +64,13 @@ Original words:
 | ✱ | افتاده‌ای |  | [به دام افتاده‌ای] H3369 יָקֹשׁ "to ensnare (literally or…" |
 |  | و |  |  |
 | ✱ | از |  | Hb "in" |
-|  | کلام | H561 | H561 |
+| ✱ | کلام |  | H561 אֵמֶר "something said" |
 |  | دهانت | H6310 | H6310 |
 |  | گرفتار | [گرفتار آمده‌ای] H3920 | [گرفتار آمده‌ای] H3920 |
 |  | آمده‌ای | [گرفتار آمده‌ای] H3920 | [گرفتار آمده‌ای] H3920 |
 |  | ؛ |  |  |
 
-### Proverbs 6:3: 9 word(s) changed
+### Proverbs 6:3: 10 word(s) changed
 
 Reply line 4.
 
@@ -99,7 +99,7 @@ Original words:
 |  | ، |  |  |
 |  | پسرم | H1121 | H1121 |
 |  | ، |  |  |
-|  | چنین | H2063 | H2063 |
+| ✱ | چنین |  | H2063 זֹאת "this (often used adverb)" |
 | ✱ | کن |  | H6213 עָשָׂה "to do or make…" |
 | ✱ | تا |  | Hc "and" |
 |  | رهایی | [رهایی یابی] H5337 | [رهایی یابی] H5337 |
@@ -120,8 +120,8 @@ Original words:
 |  | و | Hc | Hc |
 |  | به |  |  |
 |  | او | H7453 | H7453 |
-| ✱ | التماس | [التماس کن] H7511 רָפַס "to trample, i.e. prostrate"; H7292 רָהַב "to urge severely…" | [التماس کن] H7292 רָהַב "to urge severely…" |
-| ✱ | کن | [التماس کن] H7511 רָפַס "to trample, i.e. prostrate"; H7292 רָהַב "to urge severely…" | [التماس کن] H7292 רָהַב "to urge severely…" |
+| ✱ | التماس |  | [التماس کن] H7292 רָהַב "to urge severely…" |
+| ✱ | کن |  | [التماس کن] H7292 רָהַב "to urge severely…" |
 |  | ! |  |  |
 
 ### Proverbs 6:4: 3 word(s) changed
@@ -155,7 +155,7 @@ Original words:
 |  | پِلکهایت | H6079 | H6079 |
 |  | . |  |  |
 
-### Proverbs 6:5: 6 word(s) changed
+### Proverbs 6:5: 7 word(s) changed
 
 Reply line 6.
 
@@ -185,9 +185,9 @@ Original words:
 |  | و | Hc | Hc |
 |  | همچون | Hk | Hk |
 | ✱ | پرنده‌ای | H6833 צִפּוֹר "a little bird (as hopping)"; H3353 יָקוּשׁ "properly, entangled…" | H6833 צִפּוֹר "a little bird (as hopping)" |
-|  | از | Hm | Hm |
-| ✱ | دام | [دام صیاد] H3353 יָקוּשׁ "properly, entangled…" | H3027 יָד "a hand (the open one…" |
-| ✱ | صیاد | [دام صیاد] H3353 יָקוּשׁ "properly, entangled…" | H3353 יָקוּשׁ "properly, entangled…" |
+| ✱ | از |  | Hm "from" |
+| ✱ | دام | H3353 יָקוּשׁ "properly, entangled…" | H3027 יָד "a hand (the open one…" |
+| ✱ | صیاد |  | H3353 יָקוּשׁ "properly, entangled…" |
 |  | . |  |  |
 
 ### Proverbs 6:6: 5 word(s) changed
@@ -255,7 +255,7 @@ Original words:
 |  | حاکمی | H4910 | H4910 |
 |  | ؛ |  |  |
 
-### Proverbs 6:8: 5 word(s) changed
+### Proverbs 6:8: 6 word(s) changed
 
 Reply line 9.
 
@@ -286,9 +286,9 @@ Original words:
 |  | و |  |  |
 | ✱ | آذوقۀ | H103 אָגַר "to harvest" | H3978 מַאֲכָל "an eatable (includ. provender…" |
 |  | خویش |  |  |
-| ✱ | در |  | Hb "in" |
-|  | موسم | [موسم حصاد] H7105 | [موسم حصاد] H7105 |
-|  | حصاد | [موسم حصاد] H7105 | [موسم حصاد] H7105 |
+|  | در | Hb | Hb |
+| ✱ | موسم | H7105 קָצִיר "severed…" | [موسم حصاد] H7105 קָצִיר "severed…" |
+| ✱ | حصاد | H7019 קַיִץ "harvest (as the crop)…"; H7105 קָצִיר "severed…" | [موسم حصاد] H7105 קָצִיר "severed…" |
 | ✱ | گرد |  | [گرد می‌آورد] H103 אָגַר "to harvest" |
 | ✱ | می‌آورد | H103 אָגַר "to harvest" | [گرد می‌آورد] H103 אָגַר "to harvest" |
 |  | . |  |  |
@@ -427,7 +427,7 @@ Original words:
 | ✱ | می‌گردد |  | H1980 הָלַךְ "to walk (in a great variety…" |
 |  | ، |  |  |
 
-### Proverbs 6:13: 4 word(s) changed
+### Proverbs 6:13: 5 word(s) changed
 
 Reply line 14.
 
@@ -456,7 +456,7 @@ Original words:
 | ✱ | می‌دهد | H4448 מָלַל "to speak (mostly poetical) or…" | [علامت می‌دهد] H4448 מָלַל "to speak (mostly poetical) or…" |
 |  | ، |  |  |
 |  | به | Hb | Hb |
-|  | انگشت | H676 | H676 |
+| ✱ | انگشت | H3384 יָרָה "properly…"; H676 אֶצְבַּע "something to sieze with…" | H676 אֶצְבַּע "something to sieze with…" |
 | ✱ | اشاره |  | [اشاره می‌کند] H3384 יָרָה "properly…" |
 | ✱ | می‌کند |  | [اشاره می‌کند] H3384 יָרָה "properly…" |
 |  | ، |  |  |
@@ -495,7 +495,7 @@ Original words:
 |  | می‌پاشد | H7971 | H7971 |
 |  | . |  |  |
 
-### Proverbs 6:15: 12 word(s) changed
+### Proverbs 6:15: 11 word(s) changed
 
 Reply line 16.
 
@@ -520,7 +520,7 @@ Original words:
 | ✱ | این |  | [از این رو] H5921 עַל "above, over, upon…"; H3651 כֵּן "properly, set upright…" |
 | ✱ | رو | H5921 עַל "above, over, upon…"; H3651 כֵּן "properly, set upright…" | [از این رو] H5921 עַל "above, over, upon…"; H3651 כֵּן "properly, set upright…" |
 |  | ، |  |  |
-| ✱ | ناگهان | H6597 פִּתְאוֹם "instantly"; H6621 פֶּתַע "a wink…" | H6597 פִּתְאוֹם "instantly" |
+|  | ناگهان | H6597 | H6597 |
 |  | بلا | H343 | H343 |
 |  | بر |  |  |
 |  | او |  |  |
@@ -608,7 +608,7 @@ Original words:
 |  | ، |  |  |
 |  | پاهایی | H7272 | H7272 |
 |  | که |  |  |
-| ✱ | برای | H4116 מָהַר "properly…" | Hl "to" |
+| ✱ | برای | H4116 מָהַר "properly…"; Hl "to" | Hl "to" |
 |  | بدی | H7451 | H7451 |
 | ✱ | تیزرو |  | H4116 מָהַר "properly…"; H7323 רוּץ "to run (for whatever reason…" |
 |  | است |  |  |

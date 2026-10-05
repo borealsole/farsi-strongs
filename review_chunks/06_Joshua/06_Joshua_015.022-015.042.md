@@ -151,8 +151,8 @@ Original words:
 Persian entries and current tags:
 - p1: حاصورحَدَتَه  → H2675
 - p2: ،
-- p3: قِریوت‌حِصرون  → H7152 H2696
-- p4: یعنی  → H1931
+- p3: قِریوت‌حِصرون  → H7152
+- p4: یعنی
 - p5: حاصور  → H2674
 - p6: ،
 
@@ -167,7 +167,7 @@ Original words:
 - o3: וּ/מוֹלָדָה = Hc "and" + H4137 מוֹלָדָה "Moladah, a place in Palestine" [HC/Np]
 
 Persian entries and current tags:
-- p1: اَمام  → H538 Hc
+- p1: اَمام  → H538
 - p2: ،
 - p3: شِماع  → H8090
 - p4: ،
@@ -287,7 +287,7 @@ Original words:
 Persian entries and current tags:
 - p1: لِباعوت  → H3822
 - p2: ،
-- p3: شِلخیم  → H3822 H7978
+- p3: شِلخیم  → H7978
 - p4: ،
 - p5: عَین  → H5871
 - p6: و  → Hc
@@ -297,7 +297,7 @@ Persian entries and current tags:
 - p10: بر
 - p11: روی
 - p12: هم
-- p13: بیست  → H6242 H8672
+- p13: بیست  → H6242
 - p14: و  → Hc
 - p15: نه  → H6242 H8672
 - p16: شهر  → H5892

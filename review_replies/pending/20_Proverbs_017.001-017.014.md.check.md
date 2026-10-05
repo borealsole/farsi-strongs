@@ -1,6 +1,6 @@
 # Check of 20_Proverbs_017.001-017.014.md
 
-Generated 2026-10-04 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
 ## 13 verse(s) with changes
 
@@ -65,7 +65,7 @@ Original words:
 | --- | --- | --- | --- |
 |  | غلام | H5650 | H5650 |
 |  | حکیم | H7919 | H7919 |
-| ✱ | بر | H4910 מָשַׁל "to rule" | Hb "in" |
+| ✱ | بر | H4910 מָשַׁל "to rule"; Hb "in" | Hb "in" |
 |  | پسرِ | H1121 | H1121 |
 |  | شرم‌آفرین | H954 | H954 |
 | ✱ | حکم | H4910 מָשַׁל "to rule" | [حکم خواهد_راند] H4910 מָשַׁל "to rule" |
@@ -117,7 +117,7 @@ Original words:
 |  | دلها | H3826 | H3826 |
 |  | . |  |  |
 
-### Proverbs 17:4: 5 word(s) changed
+### Proverbs 17:4: 7 word(s) changed
 
 Reply line 5.
 
@@ -141,19 +141,19 @@ Original words:
 | --- | --- | --- | --- |
 |  | شخص |  |  |
 |  | بدکار | H7489 | H7489 |
-|  | به | H5921 | H5921 |
+| ✱ | به |  | H5921 עַל "above, over, upon…" |
 |  | لبهای | H8193 | H8193 |
 | ✱ | فتنه‌انگیز | H1942 הַוָּה "by implication, of falling)…" | H205 אָוֶן "strictly nothingness…" |
-| ✱ | گوش |  | [گوش می‌سپارد] H7181 קָשַׁב "to prick up the ears…" |
+| ✱ | گوش | H8193 שָׂפָה "the lip (as a natural…"; H238 אָזַן "to broaden out the ear (with…" | [گوش می‌سپارد] H7181 קָשַׁב "to prick up the ears…" |
 | ✱ | می‌سپارد | H7181 קָשַׁב "to prick up the ears…" | [گوش می‌سپارد] H7181 קָשַׁב "to prick up the ears…" |
 |  | ؛ |  |  |
 | ✱ | دروغگو | H8267 שֶׁקֶר "an untruth…"; H238 אָזַן "to broaden out the ear (with…" | H8267 שֶׁקֶר "an untruth…" |
-|  | به | H5921 | H5921 |
+| ✱ | به |  | H5921 עַל "above, over, upon…" |
 |  | زبان | H3956 | H3956 |
 | ✱ | خرابکار | H205 אָוֶן "strictly nothingness…" | H1942 הַוָּה "by implication, of falling)…" |
 |  | . |  |  |
 
-### Proverbs 17:5: 4 word(s) changed
+### Proverbs 17:5: 5 word(s) changed
 
 Reply line 6.
 
@@ -179,7 +179,7 @@ Original words:
 |  | را |  |  |
 |  | تمسخر | [تمسخر کند] H3932 | [تمسخر کند] H3932 |
 |  | کند | [تمسخر کند] H3932 | [تمسخر کند] H3932 |
-|  | به |  |  |
+| ✱ | به | Hl "to" |  |
 |  | آفرینندۀ | H6213 | H6213 |
 |  | آنها |  |  |
 |  | اهانت | [اهانت می‌ورزد] H2778 | [اهانت می‌ورزد] H2778 |
@@ -188,8 +188,8 @@ Original words:
 |  | آن |  |  |
 |  | که |  |  |
 | ✱ | از |  | Hl "to" |
-| ✱ | مصیبت | H8056 שָׂמֵחַ "blithe or gleeful"; H343 אֵיד "oppression…"; H5352 נָקָה "to be (or make) clean…" | H343 אֵיד "oppression…" |
-|  | شادمان | H8056 | H8056 |
+|  | مصیبت | H343 | H343 |
+| ✱ | شادمان |  | H8056 שָׂמֵחַ "blithe or gleeful" |
 |  | شود |  |  |
 |  | ، |  |  |
 | ✱ | بی‌سزا | H5352 נָקָה "to be (or make) clean…" | [بی‌سزا نمی‌ماند] H3808 לֹא "not (the simple or abs.…"; H5352 נָקָה "to be (or make) clean…" |
@@ -226,7 +226,7 @@ Original words:
 | ✱ | نشاید |  | H3808 לֹא "not (the simple or abs.…"; H5000 נָאוֶה "suitable, or beautiful" |
 |  | ، |  |  |
 | ✱ | چقدر | H637 אַף "meaning accession (used as an…" | [چقدر کمتر] H637 אַף "meaning accession (used as an…"; H3588 כִּי "by implication) very widely…" |
-| ✱ | کمتر | H3588 כִּי "by implication) very widely…" | [چقدر کمتر] H637 אַף "meaning accession (used as an…"; H3588 כִּי "by implication) very widely…" |
+| ✱ | کمتر | H637 אַף "meaning accession (used as an…"; H3588 כִּי "by implication) very widely…" | [چقدر کمتر] H637 אַף "meaning accession (used as an…"; H3588 כִּי "by implication) very widely…" |
 |  | ، |  |  |
 |  | زبان | H8193 | H8193 |
 |  | دروغگو | H8267 | H8267 |
@@ -275,7 +275,7 @@ Original words:
 |  | می‌سازد | [کامیابشان می‌سازد] H7919 | [کامیابشان می‌سازد] H7919 |
 |  | . |  |  |
 
-### Proverbs 17:9: 1 word(s) changed
+### Proverbs 17:9: 2 word(s) changed
 
 Reply line 9.
 
@@ -312,7 +312,7 @@ Original words:
 |  | بازگو | [بازگو می‌کند] H8138 | [بازگو می‌کند] H8138 |
 |  | می‌کند | [بازگو می‌کند] H8138 | [بازگو می‌کند] H8138 |
 |  | ، |  |  |
-|  | میان |  |  |
+| ✱ | میان | H6504 פָּרַד "to break through…" |  |
 |  | دوستانِ | H441 | H441 |
 |  | خالص |  |  |
 |  | جدایی | [جدایی می‌افکند] H6504 | [جدایی می‌افکند] H6504 |
@@ -337,10 +337,10 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | اثر |  |  |
+| ✱ | اثر | H5181 נָחַת "to sink, i.e. descend…" |  |
 |  | یک |  |  |
 |  | نکوهش | H1606 | H1606 |
-| ✱ | بر |  | Hb "in" |
+|  | بر | Hb | Hb |
 |  | شخص |  |  |
 |  | فهیم | H995 | H995 |
 |  | ، |  |  |
@@ -355,7 +355,7 @@ Original words:
 |  | نادان | H3684 | H3684 |
 |  | . |  |  |
 
-### Proverbs 17:11: 3 word(s) changed
+### Proverbs 17:11: 4 word(s) changed
 
 Reply line 11.
 
@@ -379,7 +379,7 @@ Original words:
 |  | تنها | H389 | H389 |
 | ✱ | در |  | [در پی] H1245 בָּקַשׁ "to search out (by any method…" |
 | ✱ | پی | H1245 בָּקַשׁ "to search out (by any method…" | [در پی] H1245 בָּקַשׁ "to search out (by any method…" |
-|  | طغیان | H4805 | H4805 |
+| ✱ | طغیان | H4805 מְרִי "bitterness…"; H7451 רַע "bad or (as noun) evil…" | H4805 מְרִי "bitterness…" |
 |  | است | H1245 | H1245 |
 |  | ؛ |  |  |
 |  | مأمور | H4397 | H4397 |
@@ -390,7 +390,7 @@ Original words:
 |  | خواهد_شد | [گسیل خواهد_شد] H7971 | [گسیل خواهد_شد] H7971 |
 |  | . |  |  |
 
-### Proverbs 17:12: 5 word(s) changed
+### Proverbs 17:12: 4 word(s) changed
 
 Reply line 12.
 
@@ -409,7 +409,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | برخوردن |  | H6298 פָּגַשׁ "to come in contact with…" |
+|  | برخوردن | H6298 | H6298 |
 |  | به |  |  |
 |  | خرسی | H1677 | H1677 |
 |  | که |  |  |
@@ -427,7 +427,7 @@ Original words:
 |  | حماقتش | H200 | H200 |
 |  | . |  |  |
 
-### Proverbs 17:13: 4 word(s) changed
+### Proverbs 17:13: 5 word(s) changed
 
 Reply line 13.
 
@@ -459,10 +459,10 @@ Original words:
 |  | از | Hm | Hm |
 |  | خانه‌اش | H1004 | H1004 |
 |  | دور | H4185 | H4185 |
-|  | نخواهد_شد | H3808 H4185 | H3808 H4185 |
+| ✱ | نخواهد_شد | H3808 לֹא "not (the simple or abs.…" | H3808 לֹא "not (the simple or abs.…"; H4185 מוּשׁ "to withdraw (both literally…" |
 |  | . |  |  |
 
-### Proverbs 17:14: 5 word(s) changed
+### Proverbs 17:14: 6 word(s) changed
 
 Reply line 14.
 
@@ -489,7 +489,7 @@ Original words:
 |  | آب | H4325 | H4325 |
 |  | است |  |  |
 |  | ؛ |  |  |
-|  | پس | Hc | Hc |
+| ✱ | پس |  | Hc "and" |
 |  | ، |  |  |
 |  | از |  |  |
 |  | آن |  |  |

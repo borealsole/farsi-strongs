@@ -158,7 +158,7 @@ Original words:
 - o8: אֱמוּנָה = H530 אֱמוּנָה "literally firmness; figuratively security…" [HNcfsa]
 
 Persian entries and current tags:
-- p1: بر  → H982 Hb
+- p1: بر  → H982
 - p2: خداوند  → H3068
 - p3: توکل نما  → H982
 - p4: و  → Hc
@@ -196,7 +196,7 @@ Persian entries and current tags:
 - p5: ،
 - p6: و  → Hc
 - p7: او
-- p8: مراد  → H4862
+- p8: مراد
 - p9: دلت  → H4862 H3820
 - p10: را
 - p11: به  → H5414
@@ -228,7 +228,7 @@ Persian entries and current tags:
 - p6: بسپار  → H1556
 - p7: ،
 - p8: و  → Hc
-- p9: بر  → H5921
+- p9: بر
 - p10: او
 - p11: توکل کن  → H982
 - p12: ،
@@ -265,8 +265,8 @@ Persian entries and current tags:
 - p13: تو
 - p14: را
 - p15: ،
-- p16: چون  → Hk
-- p17: آفتابِ
+- p16: چون
+- p17: آفتابِ  → H216
 - p18: نیمروز  → H6672
 - p19: .
 
@@ -292,7 +292,7 @@ Persian entries and current tags:
 - p1: در
 - p2: حضور
 - p3: خداوند  → H3068
-- p4: آرام باش  → H1826 H2734
+- p4: آرام باش  → H1826
 - p5: ،
 - p6: و  → Hc
 - p7: صبورانه
@@ -321,8 +321,9 @@ Persian entries and current tags:
 - p30: ،
 - p31: خویشتن
 - p32: را
-- p33: مکدر مساز  → H2734
-- p34: !
+- p33: مکدر  → H2734
+- p34: مساز
+- p35: !
 
 ### Psalms 37:8
 
@@ -412,7 +413,7 @@ Persian entries and current tags:
 - p3: اندک  → H4592
 - p4: زمانی
 - p5: ،
-- p6: دیگر  → H369
+- p6: دیگر  → H5750
 - p7: شریری  → H7563
 - p8: نخواهد_بود
 - p9: ؛
@@ -472,14 +473,16 @@ Persian entries and current tags:
 - p1: شریران  → H7563
 - p2: بر
 - p3: پارسایان  → H6662
-- p4: دسیسه می‌کنند  → H2161
-- p5: و  → Hc
-- p6: بر  → H5921
-- p7: ایشان
-- p8: دندان  → H8127
-- p9: به
-- p10: هم می‌سایند  → H2786
-- p11: ؛
+- p4: دسیسه  → H2161 H2786
+- p5: می‌کنند  → H2161
+- p6: و  → Hc
+- p7: بر  → H5921
+- p8: ایشان
+- p9: دندان  → H2786 H8127
+- p10: به
+- p11: هم
+- p12: می‌سایند  → H2786
+- p13: ؛
 
 ### Psalms 37:13
 
@@ -549,12 +552,12 @@ Persian entries and current tags:
 - p17: زیر
 - p18: افکنند  → H2873
 - p19: و
-- p20: راستروان
+- p20: راستروان  → H3477
 - p21: را
 - p22: از
 - p23: دم  → H3477
 - p24: تیغ
-- p25: بگذرانند
+- p25: بگذرانند  → H2873
 - p26: .
 
 ### Psalms 37:15
@@ -606,8 +609,8 @@ Persian entries and current tags:
 - p6: است
 - p7: از  → Hm
 - p8: ثروت  → H1995
-- p9: شریرانِ  → H7227
-- p10: بی‌شمار
+- p9: شریرانِ
+- p10: بی‌شمار  → H7227
 - p11: ؛
 
 ### Psalms 37:17
@@ -681,14 +684,14 @@ Original words:
 
 Persian entries and current tags:
 - p1: آنان
-- p2: در
+- p2: در  → Hb
 - p3: زمان  → H6256
 - p4: بلا  → H7451
 - p5: سرافکنده  → H954
 - p6: نخواهند_شد  → H3808
 - p7: ؛
 - p8: و  → Hc
-- p9: در
+- p9: در  → Hb
 - p10: زمان  → H6256 H3117
 - p11: قحطی  → H7459
 - p12: سیر خواهند_گشت  → H7646

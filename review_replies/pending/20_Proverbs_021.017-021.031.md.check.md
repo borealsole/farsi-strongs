@@ -40,10 +40,10 @@ Original words:
 |  | آید |  |  |
 |  | ؛ |  |  |
 |  | دوستدار | H157 | H157 |
-| ✱ | شراب | H8057 שִׂמְחָה "blithesomeness or glee…"; H3196 יַיִן "wine (as fermented)…" | H3196 יַיִן "wine (as fermented)…" |
+|  | شراب | H3196 | H3196 |
 |  | و | Hc | Hc |
 |  | روغن | H8081 | H8081 |
-|  | دولتمند | H6238 | H6238 |
+| ✱ | دولتمند | H4270 מַחְסוֹר "deficiency…"; H6238 עָשַׁר "properly, to accumulate…" | H6238 עָשַׁר "properly, to accumulate…" |
 |  | نخواهد_گردید | H3808 | H3808 |
 |  | . |  |  |
 
@@ -77,7 +77,7 @@ Original words:
 |  | صالحان | H3477 | H3477 |
 |  | . |  |  |
 
-### Proverbs 21:19: 6 word(s) changed
+### Proverbs 21:19: 5 word(s) changed
 
 Reply line 4.
 
@@ -97,8 +97,8 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | سکونت | H3427 | H3427 |
-| ✱ | در |  | Hb "in" |
-|  | بیابانِ | H4057 | H4057 |
+|  | در | Hb | Hb |
+| ✱ | بیابانِ |  | H4057 מִדְבָּר "a pasture (i.e. open field…" |
 |  | بی‌آب |  |  |
 | ✱ | و | Hc "and" |  |
 | ✱ | علف | H3708 כַּעַס "vexation" |  |
@@ -109,7 +109,7 @@ Original words:
 |  | با |  |  |
 |  | زن | H802 | H802 |
 |  | ستیزه‌جو | H4066 | H4066 |
-| ✱ | و |  | Hc "and" |
+|  | و | Hc | Hc |
 |  | بدخُلق | H3708 | H3708 |
 |  | . |  |  |
 
@@ -224,7 +224,7 @@ Original words:
 |  | قلعۀ | H5797 | H5797 |
 |  | اعتمادشان | H4009 | H4009 |
 |  | را |  |  |
-| ✱ | فرو~خواهد | H3381 יָרַד "to descend (literally…" | [فرو~خواهد ریخت] H3381 יָרַד "to descend (literally…" |
+| ✱ | فرو~خواهد |  | [فرو~خواهد ریخت] H3381 יָרַד "to descend (literally…" |
 | ✱ | ریخت |  | [فرو~خواهد ریخت] H3381 יָרַד "to descend (literally…" |
 |  | . |  |  |
 
@@ -263,7 +263,7 @@ Original words:
 | ✱ | می‌دارد |  | [در امان می‌دارد] H8104 שָׁמַר "properly…" |
 |  | . |  |  |
 
-### Proverbs 21:24: 2 word(s) changed
+### Proverbs 21:24: 1 word(s) changed
 
 Reply line 9.
 
@@ -291,7 +291,7 @@ Original words:
 |  | تمسخرگرش | H3887 | H3887 |
 | ✱ | نامند |  | H8034 שֵׁם "an appellation…" |
 |  | ، |  |  |
-| ✱ | با |  | Hb "in" |
+|  | با | Hb | Hb |
 |  | نِخوَت | H2087 | H2087 |
 |  | بی‌حد | H5678 | H5678 |
 |  | عمل | [عمل می‌کند] H6213 | [عمل می‌کند] H6213 |
@@ -323,8 +323,8 @@ Original words:
 |  | او |  |  |
 |  | را |  |  |
 | ✱ | به |  | [به کشتن می‌دهد] H4191 מוּת "to die (literally or…" |
-| ✱ | کشتن |  | [به کشتن می‌دهد] H4191 מוּת "to die (literally or…" |
-| ✱ | می‌دهد | H4191 מוּת "to die (literally or…" | [به کشتن می‌دهد] H4191 מוּת "to die (literally or…" |
+| ✱ | کشتن | [کشتن می‌دهد] H4191 מוּת "to die (literally or…" | [به کشتن می‌دهد] H4191 מוּת "to die (literally or…" |
+| ✱ | می‌دهد | [کشتن می‌دهد] H4191 מוּת "to die (literally or…" | [به کشتن می‌دهد] H4191 מוּת "to die (literally or…" |
 |  | ، |  |  |
 |  | زیرا | H3588 | H3588 |
 |  | که |  |  |
@@ -335,7 +335,7 @@ Original words:
 |  | دارند | [ابا دارند] H3985 | [ابا دارند] H3985 |
 |  | . |  |  |
 
-### Proverbs 21:26: 5 word(s) changed
+### Proverbs 21:26: 6 word(s) changed
 
 Reply line 11.
 
@@ -366,7 +366,7 @@ Original words:
 |  | اما | Hc | Hc |
 |  | پارسایان | H6662 | H6662 |
 |  | می‌بخشند | H5414 | H5414 |
-|  | و | Hc | Hc |
+| ✱ | و |  | Hc "and" |
 | ✱ | دریغ | H2820 חָשַׂךְ "to restrain or (reflex.)…" | [دریغ نمی‌کنند] H3808 לֹא "not (the simple or abs.…"; H2820 חָשַׂךְ "to restrain or (reflex.)…" |
 | ✱ | نمی‌کنند | H3808 לֹא "not (the simple or abs.…" | [دریغ نمی‌کنند] H3808 לֹא "not (the simple or abs.…"; H2820 חָשַׂךְ "to restrain or (reflex.)…" |
 |  | . |  |  |

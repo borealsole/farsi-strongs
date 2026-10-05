@@ -98,7 +98,7 @@ Original words:
 - o9: שַׁדָּי = H6701 צוּרִישַׁדַּי "Tsurishaddai, an Israelite" [HNp]
 
 Persian entries and current tags:
-- p1: فرماندۀ
+- p1: فرماندۀ  → H5921
 - p2: لشکر  → H6635
 - p3: قبیلۀ  → H4294
 - p4: بنی‌شمعون  → H8095
@@ -129,7 +129,7 @@ Persian entries and current tags:
 - p2: فرماندۀ
 - p3: لشکر  → H6635
 - p4: قبیلۀ  → H4294
-- p5: بنی‌جاد  → H1410
+- p5: بنی‌جاد  → H1121 H1410
 - p6: ،
 - p7: اِلیاساف  → H460
 - p8: پسر  → H1121
@@ -153,7 +153,7 @@ Original words:
 - o9: בֹּאָ/ם = H935 בּוֹא "to go or come (in a wide variety of applications)" [HVqc/Sp3mp]
 
 Persian entries and current tags:
-- p1: سپس
+- p1: سپس  → Hc
 - p2: قُهاتیان  → H6956
 - p3: که
 - p4: حاملان  → H5375
@@ -190,7 +190,7 @@ Original words:
 - o11: עַמִּיהוּד = H5989 עַמִּיהוּד "Ammihud, the name of three Israelites" [HNp]
 
 Persian entries and current tags:
-- p1: سپس
+- p1: سپس  → Hc
 - p2: عَلَم  → H1714
 - p3: اردوی  → H4264
 - p4: بنی‌اِفرایِم  → H669
@@ -225,7 +225,7 @@ Original words:
 - o9: צוּר = H6301 פְּדָהצוּר "Pedahtsur, an Israelite" [HNp]
 
 Persian entries and current tags:
-- p1: فرماندۀ
+- p1: فرماندۀ  → H5921
 - p2: لشکر  → H6635
 - p3: قبیلۀ  → H4294
 - p4: بنی‌مَنَسی  → H4519
@@ -285,10 +285,10 @@ Original words:
 - o14: עַמִּישַׁדָּי = H5996 עַמִּישַׁדַּי "Ammishaddai, an Israelite" [HNp]
 
 Persian entries and current tags:
-- p1: سپس
+- p1: سپس  → Hc
 - p2: عَلَم  → H1714
 - p3: اردوی  → H4264
-- p4: بنی‌دان  → H1835
+- p4: بنی‌دان  → H1121 H1835
 - p5: به
 - p6: عنوان
 - p7: پسقراول  → H622
@@ -300,7 +300,7 @@ Persian entries and current tags:
 - p13: لشکرهایشان  → H6635
 - p14: عزیمت کردند  → H5265
 - p15: .
-- p16: فرماندۀ
+- p16: فرماندۀ  → H1714
 - p17: لشکر  → H6635
 - p18: ایشان
 - p19: ،
@@ -326,7 +326,7 @@ Original words:
 - o8: עָכְרָן = H5918 עׇכְרָן "Okran, an Israelite" [HNp]
 
 Persian entries and current tags:
-- p1: فرماندۀ
+- p1: فرماندۀ  → H5921
 - p2: لشکر  → H6635
 - p3: قبیلۀ  → H4294
 - p4: بنی‌اَشیر  → H836
@@ -538,26 +538,25 @@ Persian entries and current tags:
 - p2: گفت  → H559
 - p3: :
 - p4: «
-- p5: تمنا  → H4994
-- p6: دارم
-- p7: ترکمان  → H5800
-- p8: نکنی  → H408
-- p9: .
-- p10: زیرا  → H3588 H5921 H3651
-- p11: تو
-- p12: می‌دانی  → H3045
-- p13: کجای
-- p14: صحرا  → H4057
-- p15: باید
-- p16: اردو زد  → H2583
-- p17: و  → Hc
-- p18: می‌توانی
-- p19: در
-- p20: حکم
-- p21: چشمان  → H4057 H5869
-- p22: ما
-- p23: باشی
-- p24: .
+- p5: تمنا دارم  → H4994
+- p6: ترکمان  → H5800
+- p7: نکنی  → H408
+- p8: .
+- p9: زیرا  → H3588 H3651
+- p10: تو
+- p11: می‌دانی  → H3045
+- p12: کجای
+- p13: صحرا  → H4057
+- p14: باید
+- p15: اردو زد  → H2583
+- p16: و  → Hc
+- p17: می‌توانی
+- p18: در
+- p19: حکم
+- p20: چشمان  → H5869
+- p21: ما
+- p22: باشی
+- p23: .
 
 ### Numbers 10:32
 
@@ -718,7 +717,7 @@ Persian entries and current tags:
 - p13: ،
 - p14: تا  → H6327
 - p15: دشمنانت  → H341
-- p16: پراکنده_شوند  → H6327
+- p16: پراکنده_شوند  → H6327 H5127
 - p17: ،
 - p18: و  → Hc
 - p19: آنان
@@ -762,7 +761,7 @@ Persian entries and current tags:
 - p12: ؛
 - p13: نزدِ
 - p14: هزاران  → H7233 H505
-- p15: هزارِ  → H7233
+- p15: هزارِ
 - p16: اسرائیل  → H3478
 - p17: بازگرد  → H7725
 - p18: .

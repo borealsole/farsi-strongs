@@ -98,14 +98,15 @@ Persian entries and current tags:
 - p1: در  → Hb
 - p2: خیمه‌های  → H168
 - p3: خود
-- p4: همهمه کردند  → H7279
-- p5: ،
-- p6: و  → Hc
-- p7: آواز  → H6963
-- p8: خداوند  → H3068
-- p9: را
-- p10: نشنیدند  → H7279 H3808 H8085
-- p11: .
+- p4: همهمه
+- p5: کردند
+- p6: ،
+- p7: و  → Hc
+- p8: آواز  → H6963
+- p9: خداوند  → H3068
+- p10: را
+- p11: نشنیدند  → H7279 H3808 H8085
+- p12: .
 
 ### Psalms 106:26
 
@@ -130,7 +131,7 @@ Persian entries and current tags:
 - p7: که
 - p8: ایشان
 - p9: را  → H853
-- p10: در
+- p10: در  → Hb
 - p11: بیابان  → H4057
 - p12: از
 - p13: پا
@@ -154,7 +155,7 @@ Persian entries and current tags:
 - p1: و  → Hc
 - p2: نسلشان  → H2233
 - p3: را
-- p4: در
+- p4: در  → Hb
 - p5: میان قومها  → H1471
 - p6: پخش خواهد_کرد  → H5307
 - p7: ،
@@ -207,7 +208,7 @@ Original words:
 - o5: מַגֵּפָה = H4046 מַגֵּפָה "a pestilence; by analogy, defeat" [HNcfsa]
 
 Persian entries and current tags:
-- p1: با
+- p1: با  → Hb
 - p2: کارهای  → H4611
 - p3: خود
 - p4: خداوند
@@ -215,7 +216,7 @@ Persian entries and current tags:
 - p6: به
 - p7: خشم آوردند  → H3707
 - p8: ،
-- p9: پس  → Hc
+- p9: پس
 - p10: طاعون  → H4046
 - p11: در  → H6555
 - p12: میان
@@ -239,7 +240,7 @@ Original words:
 Persian entries and current tags:
 - p1: آنگاه  → Hc
 - p2: فینِحاس  → H6372
-- p3: ایستاد  → H5975 H6419
+- p3: ایستاد  → H5975
 - p4: و  → Hc
 - p5: میانجیگری کرد  → H6419
 - p6: ،
@@ -265,7 +266,7 @@ Original words:
 Persian entries and current tags:
 - p1: و  → Hc
 - p2: این
-- p3: برای
+- p3: برای  → Hl
 - p4: او
 - p5: پارسایی  → H6666
 - p6: محسوب گشت  → H2803
@@ -293,7 +294,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: همچنین  → Hc
-- p2: نزد
+- p2: نزد  → H5921
 - p3: آبهای  → H4325
 - p4: مِریبَه  → H4808
 - p5: خداوند
@@ -332,7 +333,7 @@ Persian entries and current tags:
 - p6: ،
 - p7: و  → Hc
 - p8: سخن نسنجیده  → H981
-- p9: بر  → Hb
+- p9: بر
 - p10: زبان  → H8193
 - p11: او
 - p12: جاری
@@ -384,7 +385,7 @@ Persian entries and current tags:
 - p1: بلکه
 - p2: با  → Hb
 - p3: قومها  → H1471
-- p4: درآمیختند  → H3925
+- p4: درآمیختند  → H6148 H3925
 - p5: و  → Hc
 - p6: کارهای  → H4639
 - p7: ایشان
@@ -507,11 +508,11 @@ Original words:
 Persian entries and current tags:
 - p1: پس  → Hc
 - p2: با  → Hb
-- p3: کارهای  → H4639
+- p3: کارهای  → H4639 H4611
 - p4: خود
 - p5: نجس گردیدند  → H2930
 - p6: و  → Hc
-- p7: به
+- p7: به  → Hb
 - p8: اعمال  → H4611
 - p9: خویش
 - p10: خودفروشی کردند  → H2181
@@ -541,7 +542,7 @@ Persian entries and current tags:
 - p7: ،
 - p8: و  → Hc
 - p9: از
-- p10: میراث  → H5159
+- p10: میراث
 - p11: خویش
 - p12: منزجر گشت  → H8581
 - p13: .
@@ -562,7 +563,7 @@ Original words:
 Persian entries and current tags:
 - p1: آنان
 - p2: را
-- p3: به  → Hb
+- p3: به
 - p4: دست  → H3027
 - p5: قومها  → H1471
 - p6: تسلیم
@@ -618,7 +619,7 @@ Original words:
 - o8: בַּ/עֲוֺנָ/ם = Hb "in" + H5771 עָוֺן "perversity, i.e. (moral) evil" [HR/Ncbsc/Sp3mp]
 
 Persian entries and current tags:
-- p1: بارها  → H6471 H7227
+- p1: بارها  → H6471
 - p2: ایشان
 - p3: را
 - p4: رهایی  → H5337
@@ -656,17 +657,18 @@ Persian entries and current tags:
 - p2: این
 - p3: همه
 - p4: ،
-- p5: بر  → Hb
+- p5: بر
 - p6: تنگی  → H6862
 - p7: ایشان
-- p8: نظر افکند  → H7200
-- p9: ،
-- p10: هنگامی
-- p11: که
-- p12: فریادشان  → H7440
-- p13: را  → H853
-- p14: شنید  → H8085 H7440
-- p15: .
+- p8: نظر
+- p9: افکند
+- p10: ،
+- p11: هنگامی
+- p12: که
+- p13: فریادشان  → H7440
+- p14: را  → H853
+- p15: شنید  → H8085 H7440
+- p16: .
 
 ### Psalms 106:45
 
@@ -682,7 +684,7 @@ Original words:
 - o6: חסד/ו = H2617 חֵסֵד "kindness; by implication (towards God) piety…" [HNcmsc/Sp3ms]
 
 Persian entries and current tags:
-- p1: به‌خاطر
+- p1: به‌خاطر  → H2142
 - p2: آنها
 - p3: عهد  → H1285
 - p4: خویش

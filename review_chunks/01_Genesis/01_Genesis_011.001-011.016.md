@@ -129,7 +129,7 @@ Original words:
 Persian entries and current tags:
 - p1: و  → Hc
 - p2: چون
-- p3: مردم
+- p3: مردم  → H5265
 - p4: از  → Hm
 - p5: مشرق  → H6924
 - p6: کوچ می‌کردند  → H5265
@@ -178,7 +178,7 @@ Persian entries and current tags:
 - p6: «
 - p7: بیایید  → H3835
 - p8: خشتها  → H3843
-- p9: بزنیم  → H3051
+- p9: بزنیم
 - p10: و  → Hc
 - p11: آنها
 - p12: را
@@ -194,7 +194,7 @@ Persian entries and current tags:
 - p22: سنگ  → H68
 - p23: و  → Hc
 - p24: قیر  → H2564
-- p25: به
+- p25: به  → Hl
 - p26: جای
 - p27: ملات  → H2563
 - p28: بود  → H1961
@@ -231,7 +231,7 @@ Persian entries and current tags:
 - p4: «
 - p5: بیایید
 - p6: شهری  → H5892
-- p7: برای
+- p7: برای  → Hl
 - p8: خود
 - p9: بسازیم  → H1129
 - p10: و  → Hc
@@ -244,7 +244,7 @@ Persian entries and current tags:
 - p17: ،
 - p18: و  → Hc
 - p19: نامی  → H8034
-- p20: برای  → Hl
+- p20: برای
 - p21: خود
 - p22: پیدا کنیم  → H6213
 - p23: ،
@@ -352,7 +352,7 @@ Persian entries and current tags:
 - p32: از  → Hm
 - p33: ایشان
 - p34: بازداشته
-- p35: نخواهد_شد  → H1219
+- p35: نخواهد_شد
 - p36: .
 
 ### Genesis 11:7
@@ -459,7 +459,7 @@ Persian entries and current tags:
 - p4: آنجا
 - p5: را
 - p6: بابِل  → H894
-- p7: نامیدند  → H8034
+- p7: نامیدند  → H7121 H8034
 - p8: ،
 - p9: زیرا  → H3588
 - p10: در
@@ -505,7 +505,7 @@ Original words:
 - o13: הַ/מַּבּוּל = Hd "the" + H3999 מַבּוּל "a deluge" [HTd/Ncmsa]
 
 Persian entries and current tags:
-- p1: این
+- p1: این  → H428
 - p2: است
 - p3: تاریخچۀ نسل  → H8435
 - p4: سام  → H8035
@@ -514,7 +514,7 @@ Persian entries and current tags:
 - p7: سام  → H8035
 - p8: صد  → H3967
 - p9: ساله  → H8141
-- p10: بود  → H1121
+- p10: بود
 - p11: ،
 - p12: دو
 - p13: سال  → H8141
@@ -632,7 +632,7 @@ Persian entries and current tags:
 - p15: و  → Hc
 - p16: دختران  → H3205 H1323
 - p17: دیگر
-- p18: آورد  → H3205
+- p18: آورد
 - p19: .
 
 ### Genesis 11:14
@@ -653,7 +653,7 @@ Persian entries and current tags:
 - p1: شِلَخ  → H7974
 - p2: سی  → H7970
 - p3: ساله  → H8141
-- p4: بود
+- p4: بود  → H3205
 - p5: که
 - p6: عِبِر  → H5677
 - p7: را  → H853
@@ -723,7 +723,7 @@ Persian entries and current tags:
 - p3: و  → Hc
 - p4: چهار  → H702
 - p5: ساله  → H8141
-- p6: بود
+- p6: بود  → H3205
 - p7: که
 - p8: فِلِج  → H6389
 - p9: را  → H853

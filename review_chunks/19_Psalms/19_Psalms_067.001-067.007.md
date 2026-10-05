@@ -108,7 +108,7 @@ Persian entries and current tags:
 - p6: برکت  → H1288
 - p7: عطا
 - p8: فرماید
-- p9: و
+- p9: و  → Hc
 - p10: روی  → H6440
 - p11: خود
 - p12: را
@@ -136,12 +136,12 @@ Persian entries and current tags:
 - p1: تا
 - p2: راههای  → H1870
 - p3: تو
-- p4: در
+- p4: در  → Hb
 - p5: جهان  → H776
 - p6: شناخته_شود  → H3045
 - p7: و
 - p8: نجاتت  → H3444
-- p9: در
+- p9: در  → Hb
 - p10: میان
 - p11: همۀ  → H3605
 - p12: قومها  → H1471
@@ -202,7 +202,7 @@ Persian entries and current tags:
 - p6: برآورند  → H7442
 - p7: چراکه  → H3588
 - p8: تو
-- p9: قومها  → H3816
+- p9: قومها  → H3816 H5971
 - p10: را
 - p11: به
 - p12: انصاف  → H4334
@@ -272,8 +272,9 @@ Persian entries and current tags:
 - p12: ،
 - p13: ما
 - p14: را
-- p15: مبارک خواهد_ساخت  → H1288
-- p16: .
+- p15: مبارک  → H1288
+- p16: خواهد_ساخت  → H5414
+- p17: .
 
 ### Psalms 67:7
 
@@ -300,7 +301,7 @@ Persian entries and current tags:
 - p8: زمین  → H776
 - p9: از  → H3372
 - p10: او
-- p11: خواهند_ترسید  → H3372
+- p11: خواهند_ترسید  → H1288 H3372
 - p12: .
 
 ## Neighbouring verses (context only, not for review)

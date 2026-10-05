@@ -1,10 +1,10 @@
 # Check of 20_Proverbs_003.019-003.035.md
 
-Generated 2026-10-04 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
 ## 15 verse(s) with changes
 
-### Proverbs 3:21: 3 word(s) changed
+### Proverbs 3:21: 4 word(s) changed
 
 Reply line 2.
 
@@ -25,7 +25,7 @@ Original words:
 | --- | --- | --- | --- |
 |  | پسرم | H1121 | H1121 |
 |  | ، |  |  |
-|  | خردمندی | H8454 | H8454 |
+| ✱ | خردمندی | H8454 תּוּשִׁיָּה "support or (by implication)…"; H4209 מְזִמָּה "a plan…" | H8454 תּוּשִׁיָּה "support or (by implication)…" |
 |  | و | Hc | Hc |
 |  | دوراندیشی | H4209 | H4209 |
 |  | را |  |  |
@@ -35,8 +35,8 @@ Original words:
 |  | مگذار | H408 | H408 |
 |  | از | Hm | Hm |
 | ✱ | نظرت | H5869 עַיִן "an eye (literally or…"; H8454 תּוּשִׁיָּה "support or (by implication)…"; H4209 מְזִמָּה "a plan…" | H5869 עַיִן "an eye (literally or…" |
-| ✱ | دور | [دور شوند] H5341 נָצַר "to guard…" | [دور شوند] H3868 לוּז "to turn aside…" |
-| ✱ | شوند | [دور شوند] H5341 נָצַר "to guard…" | [دور شوند] H3868 לוּז "to turn aside…" |
+| ✱ | دور | [دور شوند] H3868 לוּז "to turn aside…"; H5341 נָצַר "to guard…" | [دور شوند] H3868 לוּז "to turn aside…" |
+| ✱ | شوند | [دور شوند] H3868 לוּז "to turn aside…"; H5341 נָצַר "to guard…" | [دور شوند] H3868 לוּז "to turn aside…" |
 |  | ؛ |  |  |
 
 ### Proverbs 3:22: 2 word(s) changed
@@ -155,13 +155,13 @@ Original words:
 |  | از | Hm | Hm |
 | ✱ | بلایِ |  | H6343 פַּחַד "a (sudden) alarm (properly…" |
 |  | ناگهان | H6597 | H6597 |
-| ✱ | بیم | H408 אַל "not (the qualified negation…" | [بیم نخواهی_داشت] H408 אַל "not (the qualified negation…"; H3372 יָרֵא "to fear; morally, to revere…" |
-| ✱ | نخواهی_داشت | H3372 יָרֵא "to fear; morally, to revere…" | [بیم نخواهی_داشت] H408 אַל "not (the qualified negation…"; H3372 יָרֵא "to fear; morally, to revere…" |
+| ✱ | بیم |  | [بیم نخواهی_داشت] H408 אַל "not (the qualified negation…"; H3372 יָרֵא "to fear; morally, to revere…" |
+| ✱ | نخواهی_داشت |  | [بیم نخواهی_داشت] H408 אַל "not (the qualified negation…"; H3372 יָרֵא "to fear; morally, to revere…" |
 |  | و | Hc | Hc |
 |  | نه |  |  |
 |  | از | Hm | Hm |
 |  | هلاکتِ | H7722 | H7722 |
-| ✱ | شریران | H6343 פַּחַד "a (sudden) alarm (properly…" | H7563 רָשָׁע "morally wrong…" |
+| ✱ | شریران |  | H7563 רָשָׁע "morally wrong…" |
 |  | ، |  |  |
 |  | چون | H3588 | H3588 |
 | ✱ | واقع |  | [واقع شود] H935 בּוֹא "to go or come (in a wide…" |
@@ -286,7 +286,7 @@ Original words:
 | ✱ | توست |  | H3426 יֵשׁ "there is or are (or any other…" |
 |  | . |  |  |
 
-### Proverbs 3:29: 4 word(s) changed
+### Proverbs 3:29: 6 word(s) changed
 
 Reply line 10.
 
@@ -309,8 +309,8 @@ Original words:
 | --- | --- | --- | --- |
 |  | در |  |  |
 | ✱ | اندیشۀ |  | H2790 חָרַשׁ "to scratch…" |
-|  | بدی | H7451 | H7451 |
-|  | کردن |  |  |
+| ✱ | بدی | [بدی کردن] H7451 רַע "bad or (as noun) evil…" | H7451 רַע "bad or (as noun) evil…" |
+| ✱ | کردن | [بدی کردن] H7451 רַע "bad or (as noun) evil…" |  |
 |  | بر | H5921 | H5921 |
 |  | همسایه‌ات | H7453 | H7453 |
 |  | مباش | H408 | H408 |
@@ -325,7 +325,7 @@ Original words:
 |  | است | [ساکن است] H3427 | [ساکن است] H3427 |
 |  | . |  |  |
 
-### Proverbs 3:30: 2 word(s) changed
+### Proverbs 3:30: 4 word(s) changed
 
 Reply line 11.
 
@@ -351,10 +351,10 @@ Original words:
 |  | که |  |  |
 |  | به |  |  |
 |  | تو |  |  |
-|  | بدی | H7451 | H7451 |
-| ✱ | نکرده | H408 אַל "not (the qualified negation…" | H3808 לֹא "not (the simple or abs.…"; H1580 גָּמַל "to treat a person (well or…" |
+| ✱ | بدی |  | H7451 רַע "bad or (as noun) evil…" |
+| ✱ | نکرده | H3808 לֹא "not (the simple or abs.…" | H3808 לֹא "not (the simple or abs.…"; H1580 גָּמַל "to treat a person (well or…" |
 |  | ، |  |  |
-|  | بی‌سبب | H2600 | H2600 |
+| ✱ | بی‌سبب | H2600 חִנָּם "gratis, i.e. devoid of cost…"; H3808 לֹא "not (the simple or abs.…" | H2600 חִנָּם "gratis, i.e. devoid of cost…" |
 | ✱ | جدال | H7451 רַע "bad or (as noun) evil…" | H7378 רִיב "properly, to toss…" |
 |  | مکن | H408 | H408 |
 |  | . |  |  |
@@ -392,7 +392,7 @@ Original words:
 | ✱ | برمگزین | H977 בָּחַר "properly, to try…" | H408 אַל "not (the qualified negation…"; H977 בָּחַר "properly, to try…" |
 |  | . |  |  |
 
-### Proverbs 3:32: 2 word(s) changed
+### Proverbs 3:32: 4 word(s) changed
 
 Reply line 13.
 
@@ -422,13 +422,13 @@ Original words:
 |  | اما | Hc | Hc |
 |  | صالحان | H3477 | H3477 |
 |  | را |  |  |
-|  | مَحرم |  |  |
-|  | راز | H5475 | H5475 |
+| ✱ | مَحرم | [مَحرم راز] H5475 סוֹד "a session…" |  |
+| ✱ | راز | [مَحرم راز] H5475 סוֹד "a session…" | H5475 סוֹד "a session…" |
 |  | خود |  |  |
 |  | می‌سازد |  |  |
 |  | . |  |  |
 
-### Proverbs 3:33: 4 word(s) changed
+### Proverbs 3:33: 2 word(s) changed
 
 Reply line 14.
 
@@ -449,20 +449,20 @@ Original words:
 | --- | --- | --- | --- |
 |  | لعنتِ | H3994 | H3994 |
 | ✱ | خداوند |  | H3068 יְהֹוָה "Jehovah…" |
-| ✱ | بر |  | Hb "in" |
+|  | بر | Hb | Hb |
 |  | خانۀ | H1004 | H1004 |
 |  | شریران | H7563 | H7563 |
 |  | است |  |  |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
-| ✱ | مسکنِ | H3068 יְהֹוָה "Jehovah…"; H5116 נָוֶה "adjectively) at home…" | H5116 נָוֶה "adjectively) at home…" |
+|  | مسکنِ | H5116 | H5116 |
 | ✱ | پارسایان | H5116 נָוֶה "adjectively) at home…"; H6662 צַדִּיק "just" | H6662 צַדִּיק "just" |
 |  | را |  |  |
 |  | برکت | [برکت می‌دهد] H1288 | [برکت می‌دهد] H1288 |
 |  | می‌دهد | [برکت می‌دهد] H1288 | [برکت می‌دهد] H1288 |
 |  | . |  |  |
 
-### Proverbs 3:34: 4 word(s) changed
+### Proverbs 3:34: 2 word(s) changed
 
 Reply line 15.
 
@@ -487,8 +487,8 @@ Original words:
 |  | تمسخر | [تمسخر می‌کند] H3887 | [تمسخر می‌کند] H3887 |
 |  | می‌کند | [تمسخر می‌کند] H3887 | [تمسخر می‌کند] H3887 |
 |  | ، |  |  |
-| ✱ | ولی |  | Hc "and" |
-| ✱ | فروتنان |  | H6041 עָנִי "depressed…" |
+|  | ولی | Hc | Hc |
+|  | فروتنان | H6041 | H6041 |
 |  | را |  |  |
 |  | فیض | H2580 | H2580 |
 | ✱ | می‌بخشد |  | H5414 נָתַן "to give…" |
@@ -518,7 +518,7 @@ Original words:
 | ✱ | می‌شوند |  | H5157 נָחַל "to inherit (as a (figurative)…" |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
-| ✱ | نصیب |  | H7311 רוּם "to be high actively…" |
+| ✱ | نصیب | H7036 קָלוֹן "disgrace…" | H7311 רוּם "to be high actively…" |
 |  | جاهلان | H3684 | H3684 |
 |  | رسوایی | H7036 | H7036 |
 | ✱ | خواهد_بود | H7311 רוּם "to be high actively…" |  |

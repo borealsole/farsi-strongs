@@ -1,10 +1,10 @@
 # Check of 20_Proverbs_004.001-004.014.md
 
-Generated 2026-10-04 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
 ## 14 verse(s) with changes
 
-### Proverbs 4:1: 9 word(s) changed
+### Proverbs 4:1: 8 word(s) changed
 
 Reply line 2.
 
@@ -29,8 +29,8 @@ Original words:
 |  | به |  |  |
 |  | رهنمود | H4148 | H4148 |
 |  | یک |  |  |
-| ✱ | پدر | [پدر گوش] H1 אָב "father…" | H1 אָב "father…" |
-| ✱ | گوش | [پدر گوش] H1 אָב "father…" | [گوش فرا~دهید] H8085 שָׁמַע "to hear intelligently (often…" |
+|  | پدر | H1 | H1 |
+| ✱ | گوش |  | [گوش فرا~دهید] H8085 שָׁמַע "to hear intelligently (often…" |
 | ✱ | فرا~دهید |  | [گوش فرا~دهید] H8085 שָׁמַע "to hear intelligently (often…" |
 |  | ؛ |  |  |
 |  | توجه | [توجه کنید] H7181 | [توجه کنید] H7181 |
@@ -39,7 +39,7 @@ Original words:
 |  | فهم | H998 | H998 |
 |  | را |  |  |
 | ✱ | به |  | [به دست آورید] H3045 יָדַע "to know (properly…" |
-| ✱ | دست |  | [به دست آورید] H3045 יָדַע "to know (properly…" |
+| ✱ | دست | H3045 יָדַע "to know (properly…" | [به دست آورید] H3045 יָדַע "to know (properly…" |
 | ✱ | آورید | H7181 קָשַׁב "to prick up the ears…" | [به دست آورید] H3045 יָדַע "to know (properly…" |
 |  | . |  |  |
 
@@ -67,8 +67,8 @@ Original words:
 |  | شما |  |  |
 |  | را |  |  |
 |  | آموزشِ | H3948 | H3948 |
-| ✱ | نیکو | H3948 לֶקַח "properly, something received…"; H2896 טוֹב "good (as an adjective) in the…" | H2896 טוֹב "good (as an adjective) in the…" |
-|  | می‌دهم | H5414 | H5414 |
+|  | نیکو | H2896 | H2896 |
+| ✱ | می‌دهم |  | H5414 נָתַן "to give…" |
 |  | ، |  |  |
 |  | تعلیم | H8451 | H8451 |
 | ✱ | مرا | H408 אַל "not (the qualified negation…" |  |
@@ -114,7 +114,7 @@ Original words:
 |  | مادرم | H517 | H517 |
 |  | . |  |  |
 
-### Proverbs 4:4: 7 word(s) changed
+### Proverbs 4:4: 8 word(s) changed
 
 Reply line 5.
 
@@ -144,7 +144,7 @@ Original words:
 |  | « |  |  |
 |  | دل | H3820 | H3820 |
 |  | تو |  |  |
-| ✱ | به | Hl "to"; H8551 תָּמַךְ "to sustain…" |  |
+|  | به |  |  |
 | ✱ | سخنان | H1697 דָּבָר "a word…"; H4687 מִצְוָה "a command…" | H1697 דָּבָר "a word…" |
 |  | من |  |  |
 | ✱ | تمسک |  | [تمسک جوید] H8551 תָּמַךְ "to sustain…" |
@@ -155,8 +155,8 @@ Original words:
 |  | نگاه | [نگاه دار] H8104 | [نگاه دار] H8104 |
 |  | دار | [نگاه دار] H8104 | [نگاه دار] H8104 |
 | ✱ | تا |  | Hc "and" |
-|  | زنده | [زنده بمانی] H2421 | [زنده بمانی] H2421 |
-|  | بمانی | [زنده بمانی] H2421 | [زنده بمانی] H2421 |
+| ✱ | زنده | H2421 חָיָה "to live…" | [زنده بمانی] H2421 חָיָה "to live…" |
+| ✱ | بمانی |  | [زنده بمانی] H2421 חָיָה "to live…" |
 |  | . |  |  |
 
 ### Proverbs 4:5: 9 word(s) changed
@@ -195,7 +195,7 @@ Original words:
 |  | کلمات | H561 | H561 |
 |  | دهانم | H6310 | H6310 |
 |  | را |  |  |
-| ✱ | از | Hm "from" | [از یاد مبر] H408 אַל "not (the qualified negation…"; H7911 שָׁכַח "to mislay…" |
+| ✱ | از |  | [از یاد مبر] H408 אַל "not (the qualified negation…"; H7911 שָׁכַח "to mislay…" |
 | ✱ | یاد | H7911 שָׁכַח "to mislay…" | [از یاد مبر] H408 אַל "not (the qualified negation…"; H7911 שָׁכַח "to mislay…" |
 | ✱ | مبر | H408 אַל "not (the qualified negation…" | [از یاد مبر] H408 אַל "not (the qualified negation…"; H7911 שָׁכַח "to mislay…" |
 |  | و | Hc | Hc |
@@ -278,7 +278,7 @@ Original words:
 |  | ، |  |  |
 |  | فهم | H998 | H998 |
 |  | را |  |  |
-| ✱ | کسب | H7075 קִנְיָן "creation…" | [کسب کن] H7069 קָנָה "to erect, i.e. create…" |
+| ✱ | کسب | H7069 קָנָה "to erect, i.e. create…" | [کسب کن] H7069 קָנָה "to erect, i.e. create…" |
 | ✱ | کن | H7069 קָנָה "to erect, i.e. create…" | [کسب کن] H7069 קָנָה "to erect, i.e. create…" |
 |  | . |  |  |
 
@@ -345,7 +345,7 @@ Original words:
 | ✱ | سرت |  | H7218 רֹאשׁ "the head (as most easily…" |
 |  | خواهد_نهاد | H5414 | H5414 |
 |  | و |  |  |
-| ✱ | افسر | H4042 מָגַן "properly, to shield…" | H5850 עֲטָרָה "a crown" |
+| ✱ | افسر | H5850 עֲטָרָה "a crown"; H4042 מָגַן "properly, to shield…" | H5850 עֲטָרָה "a crown" |
 | ✱ | جلال | H5850 עֲטָרָה "a crown"; H8597 תִּפְאָרָה "ornament (abstractly or…" | H8597 תִּפְאָרָה "ornament (abstractly or…" |
 |  | به |  |  |
 |  | تو |  |  |
@@ -353,7 +353,7 @@ Original words:
 |  | . |  |  |
 |  | » |  |  |
 
-### Proverbs 4:10: 4 word(s) changed
+### Proverbs 4:10: 3 word(s) changed
 
 Reply line 11.
 
@@ -378,9 +378,9 @@ Original words:
 |  | گوش | [گوش فرا~ده] H8085 | [گوش فرا~ده] H8085 |
 |  | فرا~ده | [گوش فرا~ده] H8085 | [گوش فرا~ده] H8085 |
 |  | و | Hc | Hc |
-| ✱ | آنچه |  | [آنچه می‌گویم] H561 אֵמֶר "something said" |
+| ✱ | آنچه | H3947 לָקַח "to take (in the widest…" | [آنچه می‌گویم] H561 אֵמֶר "something said" |
 | ✱ | می‌گویم | H561 אֵמֶר "something said" | [آنچه می‌گویم] H561 אֵמֶר "something said" |
-| ✱ | بپذیر |  | H3947 לָקַח "to take (in the widest…" |
+|  | بپذیر | H3947 | H3947 |
 | ✱ | که |  | Hc "and" |
 |  | سالهای | H8141 | H8141 |
 |  | عمرت | H2416 | H2416 |
@@ -388,7 +388,7 @@ Original words:
 |  | خواهد_شد | [بسیار خواهد_شد] H7235 | [بسیار خواهد_شد] H7235 |
 |  | . |  |  |
 
-### Proverbs 4:11: 4 word(s) changed
+### Proverbs 4:11: 2 word(s) changed
 
 Reply line 12.
 
@@ -414,9 +414,9 @@ Original words:
 |  | تو |  |  |
 |  | می‌آموزم | H3384 | H3384 |
 |  | و |  |  |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | مسیر | H4570 | H4570 |
-| ✱ | راست |  | H3476 יֹשֶׁר "the right" |
+|  | راست | H3476 | H3476 |
 | ✱ | هدایتت | H1869 דָּרַךְ "to tread…"; H3476 יֹשֶׁר "the right" | [هدایتت می‌کنم] H1869 דָּרַךְ "to tread…" |
 | ✱ | می‌کنم |  | [هدایتت می‌کنم] H1869 דָּרַךְ "to tread…" |
 |  | . |  |  |
@@ -479,9 +479,9 @@ Original words:
 | --- | --- | --- | --- |
 |  | رهنمود | H4148 | H4148 |
 |  | را |  |  |
-| ✱ | به |  | [به چنگ گیر] H2388 חָזַק "to fasten upon…" |
+| ✱ | به | Hb "in" | [به چنگ گیر] H2388 חָזַק "to fasten upon…" |
 | ✱ | چنگ |  | [به چنگ گیر] H2388 חָזַק "to fasten upon…" |
-| ✱ | گیر | H4148 מוּסָר "properly, chastisement…" | [به چنگ گیر] H2388 חָזַק "to fasten upon…" |
+| ✱ | گیر |  | [به چنگ گیر] H2388 חָזַק "to fasten upon…" |
 |  | و |  |  |
 |  | آن |  |  |
 |  | را |  |  |

@@ -120,7 +120,7 @@ Persian entries and current tags:
 - p12: و  → Hc
 - p13: سران  → H7218
 - p14: خاندانهای  → H1
-- p15: قبایل  → H1121 H4294
+- p15: قبایل  → H4294 H1121
 - p16: بنی‌اسرائیل  → H3478
 - p17: آمدند
 - p18: .
@@ -217,7 +217,7 @@ Persian entries and current tags:
 - p11: چراگاههای  → H4054
 - p12: زیر
 - p13: را  → H853
-- p14: به  → Hl H413
+- p14: به  → H413
 - p15: لاویان  → H3881
 - p16: دادند  → H5414
 - p17: :
@@ -252,7 +252,7 @@ Original words:
 Persian entries and current tags:
 - p1: قرعۀ  → H1486
 - p2: نخست
-- p3: به  → Hl
+- p3: به
 - p4: نام
 - p5: طایفه‌های  → H4940
 - p6: قُهاتیان  → H6956
@@ -263,17 +263,17 @@ Persian entries and current tags:
 - p11: که
 - p12: پسران  → H1121
 - p13: هارون  → H175
-- p14: کاهن
+- p14: کاهن  → H3548
 - p15: بودند
 - p16: ،
 - p17: سیزده  → H7969 H6240
 - p18: شهر  → H5892
-- p19: از
+- p19: از  → Hm
 - p20: شهرهای  → H4294
 - p21: قبایل  → H4294
 - p22: یهودا  → H3881 H4294 H3063
 - p23: ،
-- p24: شمعون  → H4294 H8099
+- p24: شمعون  → H4294 H3063 H8099
 - p25: و  → Hc
 - p26: بِنیامین  → H1144
 - p27: به  → Hb
@@ -323,7 +323,7 @@ Persian entries and current tags:
 - p16: نیم‌قبیلۀ  → H2677 H4294
 - p17: مَنَسی  → H4519
 - p18: به  → Hb
-- p19: قرعه  → H6955
+- p19: قرعه  → H1121 H6955
 - p20: ،
 - p21: تعلق
 - p22: گرفت
@@ -359,7 +359,7 @@ Persian entries and current tags:
 - p3: سیزده  → H7969 H6240
 - p4: شهر  → H5892
 - p5: از  → Hm
-- p6: شهرهای
+- p6: شهرهای  → H5892
 - p7: طوایف  → H4940
 - p8: قبیلۀ  → H4294
 - p9: یِساکار  → H3485
@@ -372,7 +372,7 @@ Persian entries and current tags:
 - p16: و  → Hc
 - p17: نیم‌قبیلۀ  → H2677 H4294
 - p18: مَنَسی  → H4519
-- p19: در
+- p19: در  → Hb
 - p20: باشان  → H1316
 - p21: ،
 - p22: به  → Hb
@@ -411,7 +411,7 @@ Persian entries and current tags:
 - p7: خود
 - p8: دوازده  → H8147 H6240
 - p9: شهر  → H5892
-- p10: از
+- p10: از  → Hm
 - p11: شهرهای  → H5892
 - p12: قبیلۀ  → H4294
 - p13: رِئوبین  → H7205
@@ -494,7 +494,7 @@ Original words:
 - o14: בְּ/שֵׁם = Hb "in" + H8034 שֵׁם "an appellation…" [HR/Ncmsa]
 
 Persian entries and current tags:
-- p1: از  → Hm
+- p1: از
 - p2: قبیلۀ  → H4294
 - p3: یهودا  → H3063
 - p4: و  → Hc
@@ -538,9 +538,9 @@ Persian entries and current tags:
 - p5: هارون  → H175
 - p6: که
 - p7: یکی
-- p8: از
+- p8: از  → Hm
 - p9: طوایف  → H4940
-- p10: قُهاتیان  → H1121 H6956
+- p10: قُهاتیان  → H6956 H1121
 - p11: و
 - p12: از  → Hm
 - p13: قبیلۀ
@@ -553,7 +553,7 @@ Persian entries and current tags:
 - p20: زیرا  → H3588
 - p21: نخستین  → H7223
 - p22: قرعه
-- p23: به
+- p23: به  → Hl
 - p24: نام
 - p25: ایشان
 - p26: بود
@@ -591,10 +591,10 @@ Persian entries and current tags:
 - p8: با
 - p9: چراگاههای  → H4054
 - p10: اطرافش  → H5439
-- p11: در
+- p11: در  → Hb
 - p12: نواحی مرتفع  → H2022
 - p13: یهودا  → H3063
-- p14: به
+- p14: به  → Hl
 - p15: ایشان
 - p16: دادند  → H5414
 - p17: (
@@ -731,7 +731,7 @@ Original words:
 - o8: מִגְרָשֶׁ/הָ = H4054 מִגְרָשׁ "a suburb (i.e. open country whither flocks are…" [HNcmpc/Sp3fs]
 
 Persian entries and current tags:
-- p1: حولون  → H2473 H4054
+- p1: حولون  → H2473
 - p2: ،
 - p3: دِبیر  → H1688
 - p4: ،
@@ -899,8 +899,8 @@ Persian entries and current tags:
 - p3: به  → Hl
 - p4: طایفه‌های  → H4940
 - p5: قُهاتی  → H6955
-- p6: از
-- p7: لاویان  → H1121 H3881 H6955
+- p6: از  → Hm
+- p7: لاویان  → H1121 H3881
 - p8: ،
 - p9: شهرهایی  → H5892
 - p10: از  → Hm
@@ -940,7 +940,7 @@ Persian entries and current tags:
 - p1: پس  → Hc
 - p2: شِکیم  → H7927
 - p3: را  → H853
-- p4: در  → Hb
+- p4: در
 - p5: نواحی مرتفع  → H2022
 - p6: اِفرایِم  → H669
 - p7: که
@@ -975,7 +975,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: و  → Hc
-- p2: قِبصایِم  → H6911
+- p2: قِبصایِم  → H6911 H4054
 - p3: و  → Hc
 - p4: بِیت‌حورون  → H1032
 - p5: را  → H853

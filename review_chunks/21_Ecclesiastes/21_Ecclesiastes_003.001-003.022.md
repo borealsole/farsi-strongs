@@ -372,7 +372,7 @@ Original words:
 Persian entries and current tags:
 - p1: کارگر  → H6213
 - p2: را
-- p3: از  → H834
+- p3: از
 - p4: محنت  → H6001
 - p5: خویش  → H1931
 - p6: چه  → H4100
@@ -444,10 +444,10 @@ Original words:
 
 Persian entries and current tags:
 - p1: او
-- p2: هر
+- p2: هر  → H6213
 - p3: چیز  → H3605
 - p4: را  → H853
-- p5: در
+- p5: در  → Hb
 - p6: وقتش  → H6256
 - p7: زیبا  → H3303
 - p8: ساخته_است  → H6213
@@ -455,7 +455,7 @@ Persian entries and current tags:
 - p10: نیز  → H1571
 - p11: ابدیت  → H5769
 - p12: را  → H853
-- p13: در
+- p13: در  → Hb
 - p14: دلهای  → H3820
 - p15: ایشان
 - p16: نهاده
@@ -464,7 +464,7 @@ Persian entries and current tags:
 - p19: بی‌آنکه  → H1097 H3808
 - p20: بتوانند
 - p21: آغاز  → H7218
-- p22: و  → Hc H5704
+- p22: و  → Hc
 - p23: انجامِ  → H6213
 - p24: کار  → H4639
 - p25: خدا  → H430
@@ -499,7 +499,7 @@ Persian entries and current tags:
 - p6: بهتر  → H2896
 - p7: از
 - p8: آن
-- p9: نیست  → H369
+- p9: نیست
 - p10: که  → H3588
 - p11: مادام
 - p12: که  → H3588
@@ -531,18 +531,18 @@ Original words:
 - o12: הִיא = H1931 הוּא "he (she or it)…" [HPp3fs]
 
 Persian entries and current tags:
-- p1: و  → Hc H1571
+- p1: و  → Hc
 - p2: اینکه
 - p3: هر  → H3605 H120
 - p4: یک
-- p5: بخورند  → H398 H2896
-- p6: و  → H1571 Hc
+- p5: بخورند  → H398
+- p6: و  → Hc
 - p7: بنوشند  → H8354
-- p8: و  → H1571 Hc
+- p8: و  → Hc
 - p9: از
 - p10: دسترنج  → H5999
 - p11: خویش
-- p12: خرسند  → H2896
+- p12: خرسند
 - p13: باشند
 - p14: ،
 - p15: که
@@ -590,7 +590,7 @@ Persian entries and current tags:
 - p10: ابد پایدار است  → H5769
 - p11: و  → Hc
 - p12: چیزی  → H369
-- p13: نتوان
+- p13: نتوان  → H369
 - p14: بر
 - p15: آن
 - p16: افزود  → H3254 H1639
@@ -642,7 +642,7 @@ Persian entries and current tags:
 - p9: ،
 - p10: و  → Hc
 - p11: آنچه  → H4100 H834
-- p12: خواهد_بود  → H1961
+- p12: خواهد_بود
 - p13: ،
 - p14: از
 - p15: پیش  → H3528
@@ -693,7 +693,7 @@ Persian entries and current tags:
 - p13: و  → Hc
 - p14: در
 - p15: جایگاه  → H4725
-- p16: انصاف  → H4941 H6664
+- p16: انصاف  → H6664
 - p17: ،
 - p18: ظلم  → H7562
 - p19: .
@@ -724,7 +724,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: پس  → H589
-- p2: در
+- p2: در  → Hb
 - p3: دل  → H3820
 - p4: خویش
 - p5: گفتم  → H559 H589
@@ -775,7 +775,7 @@ Persian entries and current tags:
 - p1: نیز  → H589
 - p2: دربارۀ  → H5921 H1700
 - p3: بنی‌آدم  → H1121 H120
-- p4: در
+- p4: در  → Hb
 - p5: دل  → H3820
 - p6: خویش
 - p7: گفتم  → H559
@@ -838,11 +838,11 @@ Persian entries and current tags:
 - p10: همان‌گونه  → Hk
 - p11: که
 - p12: این  → H2088
-- p13: می‌میرد
+- p13: می‌میرد  → H4195
 - p14: ،
 - p15: آن  → H2088
 - p16: نیز
-- p17: می‌میرد
+- p17: می‌میرد  → H4195
 - p18: .
 - p19: آری
 - p20: ،
@@ -853,7 +853,7 @@ Persian entries and current tags:
 - p25: است
 - p26: ،
 - p27: و  → Hc
-- p28: آدمی  → H929 H120
+- p28: آدمی  → H120 H929
 - p29: را
 - p30: بر  → H4480
 - p31: وحوش  → H929
@@ -895,7 +895,7 @@ Persian entries and current tags:
 - p5: می‌روند  → H1980
 - p6: :
 - p7: همه  → H3605
-- p8: از
+- p8: از  → H4480
 - p9: خاکند  → H6083
 - p10: و  → Hc
 - p11: همه  → H3605
@@ -980,7 +980,7 @@ Persian entries and current tags:
 - p9: این
 - p10: نیست
 - p11: که  → H3588 H834
-- p12: در
+- p12: در  → Hb
 - p13: کار  → H4639
 - p14: خویش
 - p15: شادمان باشد  → H8055
@@ -999,7 +999,7 @@ Persian entries and current tags:
 - p28: بازآوَرَد  → H935
 - p29: تا
 - p30: ببیند  → H7200
-- p31: پس
+- p31: پس  → H310
 - p32: از
 - p33: او
 - p34: چه  → H4100

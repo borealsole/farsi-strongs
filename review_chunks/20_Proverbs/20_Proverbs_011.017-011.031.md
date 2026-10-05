@@ -136,7 +136,7 @@ Persian entries and current tags:
 - p9: می‌کارد  → H2232
 - p10: ،
 - p11: مزد  → H7938
-- p12: حقیقی  → H571
+- p12: حقیقی  → H7563 H571
 - p13: .
 
 ### Proverbs 11:19
@@ -156,18 +156,18 @@ Persian entries and current tags:
 - p1: پارسای  → H6666
 - p2: راستین
 - p3: رو  → H3651
-- p4: به  → Hl
+- p4: به
 - p5: سوی
 - p6: حیات  → H2416
 - p7: دارد
 - p8: ،
 - p9: پیرو  → H7291
-- p10: شرارت  → H6666 H7451
+- p10: شرارت  → H7451
 - p11: ،
 - p12: رو
 - p13: به
 - p14: سوی
-- p15: مرگ  → H7451 H4194
+- p15: مرگ  → H4194
 - p16: خویش
 - p17: .
 
@@ -188,7 +188,7 @@ Original words:
 Persian entries and current tags:
 - p1: خداوند  → H3068
 - p2: از
-- p3: کج‌دلان  → H6141
+- p3: کج‌دلان  → H6141 H3820
 - p4: کراهت  → H8441
 - p5: دارد
 - p6: ،
@@ -199,7 +199,7 @@ Persian entries and current tags:
 - p11: آنان
 - p12: که
 - p13: طریقشان  → H1870
-- p14: راست  → H7522 H8549
+- p14: راست  → H8549
 - p15: است
 - p16: .
 
@@ -252,7 +252,7 @@ Persian entries and current tags:
 - p1: حلقه‌ایست  → H5141 H2386
 - p2: زرین  → H2091
 - p3: در
-- p4: بینی  → H639 H2386
+- p4: بینی  → H2386
 - p5: گراز  → H639
 - p6: ،
 - p7: زنِ  → H802
@@ -345,9 +345,8 @@ Persian entries and current tags:
 - p8: ،
 - p9: خود
 - p10: نیز  → H1571
-- p11: سیراب
-- p12: خواهد_شد
-- p13: .
+- p11: سیراب خواهد_شد  → H3384
+- p12: .
 
 ### Proverbs 11:26
 
@@ -403,7 +402,7 @@ Persian entries and current tags:
 - p2: که
 - p3: نیکویی  → H2896
 - p4: را
-- p5: بجوید  → H7836
+- p5: بجوید  → H7836 H1245
 - p6: ،
 - p7: مقبول  → H7522
 - p8: خواهد_شد  → H1245
@@ -482,7 +481,7 @@ Persian entries and current tags:
 - p11: نادان  → H191
 - p12: ،
 - p13: خادم  → H5650
-- p14: حکیمان  → H2450 H3820
+- p14: حکیمان  → H2450
 - p15: خواهد_شد
 - p16: .
 
@@ -548,9 +547,10 @@ Persian entries and current tags:
 - p12: ،
 - p13: شریران  → H7563
 - p14: و  → Hc
-- p15: گنهکاران سزایشان  → H2398
-- p16: را
-- p17: !
+- p15: گنهکاران  → H2398
+- p16: سزایشان  → H7999
+- p17: را
+- p18: !
 
 ## Neighbouring verses (context only, not for review)
 

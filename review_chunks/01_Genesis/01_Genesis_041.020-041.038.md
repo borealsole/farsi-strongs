@@ -222,7 +222,7 @@ Persian entries and current tags:
 - p9: که
 - p10: پژمرده  → H6798
 - p11: و
-- p12: لاغر  → H1851 H7710
+- p12: لاغر  → H1851
 - p13: و
 - p14: از
 - p15: باد
@@ -405,7 +405,7 @@ Persian entries and current tags:
 - p6: که
 - p7: پس  → H310
 - p8: از
-- p9: آنها
+- p9: آنها  → H310
 - p10: بیرون آمدند  → H5927
 - p11: و  → Hc
 - p12: نیز
@@ -486,8 +486,8 @@ Persian entries and current tags:
 - p3: سال  → H8141
 - p4: فراوانیِ  → H7647
 - p5: بسیار  → H1419
-- p6: در
-- p7: سرتاسر
+- p6: در  → Hb
+- p7: سرتاسر  → H3605
 - p8: سرزمین  → H776
 - p9: مصر  → H4714
 - p10: می‌آید
@@ -528,7 +528,7 @@ Persian entries and current tags:
 - p11: و  → Hc
 - p12: همۀ  → H3605
 - p13: فراوانی  → H7647
-- p14: در
+- p14: در  → Hb
 - p15: سرزمین  → H776
 - p16: مصر  → H4714
 - p17: فراموش خواهد_شد  → H7911
@@ -565,7 +565,7 @@ Persian entries and current tags:
 - p2: فراوانی  → H7647
 - p3: در
 - p4: آن
-- p5: معلوم  → H3808 H3045
+- p5: معلوم  → H3045
 - p6: نخواهد_بود  → H3808
 - p7: ،
 - p8: به
@@ -573,7 +573,7 @@ Persian entries and current tags:
 - p10: قحطی  → H7458
 - p11: که
 - p12: پس  → H310 H3651
-- p13: از
+- p13: از  → Hm
 - p14: آن
 - p15: خواهد_آمد
 - p16: ،
@@ -612,8 +612,8 @@ Persian entries and current tags:
 - p4: فرعون  → H6547
 - p5: بدین
 - p6: معناست  → H6471
-- p7: که
-- p8: این  → Hd
+- p7: که  → H3588
+- p8: این
 - p9: امر  → H1697
 - p10: از  → Hm
 - p11: جانب  → H5973
@@ -752,8 +752,8 @@ Persian entries and current tags:
 - p19: ذخیره
 - p20: کنند
 - p21: و  → Hc
-- p22: خوراک  → H400
-- p23: در
+- p22: خوراک  → H1250 H400
+- p23: در  → Hb
 - p24: شهرها  → H5892
 - p25: نگاه دارند  → H8104
 - p26: .
@@ -781,18 +781,18 @@ Original words:
 - o15: בָּ/רָעָב = Hb "in" + H7458 רָעָב "hunger (more or less extensive)" [HRd/Ncmsa]
 
 Persian entries and current tags:
-- p1: این  → Hd
+- p1: این
 - p2: آذوقه  → H400
 - p3: باید
 - p4: برای
 - p5: مملکت  → H776
 - p6: به
-- p7: جهت
+- p7: جهت  → Hl
 - p8: هفت  → H7651
 - p9: سال  → H8141
 - p10: خشکسالی  → H7458
 - p11: که  → H834
-- p12: در
+- p12: در  → Hb
 - p13: سرزمین  → H776
 - p14: مصر  → H4714
 - p15: خواهد_آمد
@@ -801,7 +801,7 @@ Persian entries and current tags:
 - p18: ،
 - p19: تا
 - p20: مملکت  → H776
-- p21: در
+- p21: در  → Hb
 - p22: اثر
 - p23: خشکسالی  → H7458
 - p24: تباه  → H3772
@@ -873,7 +873,7 @@ Persian entries and current tags:
 - p18: که  → H834
 - p19: روح  → H7307
 - p20: خدا  → H430
-- p21: در
+- p21: در  → Hb
 - p22: او  → H834
 - p23: باشد
 - p24: ؟

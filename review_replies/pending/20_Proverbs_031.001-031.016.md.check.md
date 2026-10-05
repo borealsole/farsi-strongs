@@ -4,7 +4,7 @@ Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change
 
 ## 15 verse(s) with changes
 
-### Proverbs 31:2: 2 word(s) changed
+### Proverbs 31:2: 4 word(s) changed
 
 Reply line 2.
 
@@ -26,12 +26,12 @@ Original words:
 | --- | --- | --- | --- |
 |  | « |  |  |
 | ✱ | چه | H4100 מָה "properly…" | [چه گویم] H4100 מָה "properly…" |
-| ✱ | گویم | H4100 מָה "properly…" | [چه گویم] H4100 מָה "properly…" |
+| ✱ | گویم |  | [چه گویم] H4100 מָה "properly…" |
 |  | ای |  |  |
 |  | پسرم | H1248 | H1248 |
 |  | ، |  |  |
-|  | چه | [چه گویم] H4100 | [چه گویم] H4100 |
-|  | گویم | [چه گویم] H4100 | [چه گویم] H4100 |
+| ✱ | چه | H4100 מָה "properly…" | [چه گویم] H4100 מָה "properly…" |
+| ✱ | گویم |  | [چه گویم] H4100 מָה "properly…" |
 |  | ای |  |  |
 |  | پسر | H1248 | H1248 |
 |  | رحِمِ | H990 | H990 |
@@ -45,7 +45,7 @@ Original words:
 |  | من |  |  |
 |  | ؟ |  |  |
 
-### Proverbs 31:3: 8 word(s) changed
+### Proverbs 31:3: 7 word(s) changed
 
 Reply line 3.
 
@@ -67,16 +67,16 @@ Original words:
 |  | نیروی | H2428 | H2428 |
 |  | خویش |  |  |
 |  | را |  |  |
-| ✱ | صرف |  | H5414 נָתַן "to give…" |
+| ✱ | صرف | H4229 מָחָה "properly, to stroke or rub…" | H5414 נָתַן "to give…" |
 |  | زنان | H802 | H802 |
 | ✱ | مکن | H408 אַל "not (the qualified negation…" | H408 אַל "not (the qualified negation…"; H5414 נָתַן "to give…" |
 |  | ، |  |  |
 |  | و | Hc | Hc |
 | ✱ | نه |  | H408 אַל "not (the qualified negation…" |
-| ✱ | قوّت |  | H1870 דֶּרֶךְ "a road (as trodden)…" |
+|  | قوّت | H1870 | H1870 |
 |  | خویش |  |  |
 |  | را |  |  |
-| ✱ | صرف |  | H5414 נָתַן "to give…" |
+| ✱ | صرف | H4229 מָחָה "properly, to stroke or rub…" | H5414 נָתַן "to give…" |
 |  | آنان |  |  |
 |  | که |  |  |
 |  | شاهان | H4428 | H4428 |
@@ -86,7 +86,7 @@ Original words:
 | ✱ | می‌کشند | [نابودی می‌کشند] H4229 מָחָה "properly, to stroke or rub…" | [به نابودی می‌کشند] H4229 מָחָה "properly, to stroke or rub…" |
 |  | . |  |  |
 
-### Proverbs 31:4: 4 word(s) changed
+### Proverbs 31:4: 3 word(s) changed
 
 Reply line 4.
 
@@ -123,7 +123,7 @@ Original words:
 | ✱ | شراب | H8354 שָׁתָה "to imbibe (literally or…"; H3196 יַיִן "wine (as fermented)…" | H3196 יַיִן "wine (as fermented)…" |
 |  | نوشند | H8354 | H8354 |
 |  | ، |  |  |
-| ✱ | و | Hc "and"; H176 אוֹ "desire (and so probably in…" | Hc "and" |
+|  | و | Hc | Hc |
 |  | نه |  |  |
 |  | حاکمان | H7336 | H7336 |
 |  | را |  |  |
@@ -172,7 +172,7 @@ Original words:
 | ✱ | کنند | [سلب کنند] H7911 שָׁכַח "to mislay…" | [سلب کنند] H8138 שָׁנָה "to fold…" |
 |  | . |  |  |
 
-### Proverbs 31:6: 1 word(s) changed
+### Proverbs 31:6: 2 word(s) changed
 
 Reply line 6.
 
@@ -200,7 +200,7 @@ Original words:
 |  | می‌شوند | [هلاک می‌شوند] H6 | [هلاک می‌شوند] H6 |
 |  | ، |  |  |
 |  | و | Hc | Hc |
-|  | شراب | H3196 | H3196 |
+| ✱ | شراب | H7941 שֵׁכָר "an intoxicant…"; H3196 יַיִן "wine (as fermented)…" | H3196 יַיִן "wine (as fermented)…" |
 |  | را |  |  |
 |  | به | Hl | Hl |
 |  | تلخکامان | H4751 H5315 | H4751 H5315 |
@@ -275,7 +275,7 @@ Original words:
 | ✱ | بیچارگان | H2475 חֲלוֹף "properly, surviving…" | H1121 בֵּן "a son (as a builder of the…"; H2475 חֲלוֹף "properly, surviving…" |
 |  | . |  |  |
 
-### Proverbs 31:9: 1 word(s) changed
+### Proverbs 31:9: 2 word(s) changed
 
 Reply line 9.
 
@@ -294,8 +294,8 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | دهان | H6310 | H6310 |
-| ✱ | بگشا | H6605 פָּתַח "to open wide (literally or…"; H6310 פֶּה "the mouth (as the means of…" | H6605 פָּתַח "to open wide (literally or…" |
+| ✱ | دهان | [دهان بگشا] H6605 פָּתַח "to open wide (literally or…"; H6310 פֶּה "the mouth (as the means of…" | H6310 פֶּה "the mouth (as the means of…" |
+| ✱ | بگشا | [دهان بگشا] H6605 פָּתַח "to open wide (literally or…"; H6310 פֶּה "the mouth (as the means of…" | H6605 פָּתַח "to open wide (literally or…" |
 |  | و | Hc | Hc |
 |  | عادلانه | H6664 | H6664 |
 |  | داوری | [داوری کن] H8199 | [داوری کن] H8199 |
@@ -310,7 +310,7 @@ Original words:
 |  | . |  |  |
 |  | » |  |  |
 
-### Proverbs 31:10: 6 word(s) changed
+### Proverbs 31:10: 5 word(s) changed
 
 Reply line 10.
 
@@ -332,16 +332,16 @@ Original words:
 |  | کیست | [کیست که] H4310 | [کیست که] H4310 |
 |  | که | [کیست که] H4310 | [کیست که] H4310 |
 |  | همسری | H802 | H802 |
-| ✱ | شایسته |  | H2428 חַיִל "probably a force…" |
-| ✱ | تواند | H4310 מִי "who? (occasionally…" | [تواند یافت] H4672 מָצָא "properly, to come forth to…" |
+|  | شایسته | H2428 | H2428 |
+| ✱ | تواند |  | [تواند یافت] H4672 מָצָא "properly, to come forth to…" |
 | ✱ | یافت | H4672 מָצָא "properly, to come forth to…" | [تواند یافت] H4672 מָצָא "properly, to come forth to…" |
 |  | ؟ |  |  |
 | ✱ | ارج |  | H4377 מֶכֶר "merchandise; also value" |
 |  | او |  |  |
 |  | از | Hm | Hm |
 |  | یاقوت | H6443 | H6443 |
-| ✱ | بس | [بس فزونتر] H4377 מֶכֶר "merchandise; also value" | [بس فزونتر] H7350 רָחוֹק "remote…" |
-| ✱ | فزونتر | [بس فزونتر] H4377 מֶכֶר "merchandise; also value" | [بس فزونتر] H7350 רָחוֹק "remote…" |
+| ✱ | بس | H4377 מֶכֶר "merchandise; also value" | [بس فزونتر] H7350 רָחוֹק "remote…" |
+| ✱ | فزونتر | H7350 רָחוֹק "remote…"; H4377 מֶכֶר "merchandise; also value" | [بس فزونتر] H7350 רָחוֹק "remote…" |
 |  | است |  |  |
 |  | . |  |  |
 
@@ -474,7 +474,7 @@ Original words:
 |  | می‌آورد | H935 | H935 |
 |  | . |  |  |
 
-### Proverbs 31:15: 6 word(s) changed
+### Proverbs 31:15: 5 word(s) changed
 
 Reply line 15.
 
@@ -494,7 +494,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | آنگاه | Hc "and"; H6965 קוּם "to rise (in various…" | Hc "and" |
+|  | آنگاه | Hc | Hc |
 |  | که |  |  |
 | ✱ | هنوز | H5750 עוֹד "properly…" | Hb "in"; H5750 עוֹד "properly…" |
 |  | شب | H3915 | H3915 |
@@ -548,7 +548,7 @@ Original words:
 |  | از | Hm | Hm |
 | ✱ | دسترنج |  | H6529 פְּרִי "fruit (literally or…"; H3709 כַּף "the hollow hand or palm (so…" |
 |  | خویش |  |  |
-| ✱ | تاکستانی | [تاکستانی غرس] H3754 כֶּרֶם "a garden or vineyard" | H3754 כֶּרֶם "a garden or vineyard" |
-| ✱ | غرس | [تاکستانی غرس] H3754 כֶּרֶם "a garden or vineyard" | [غرس می‌کند] H5193 נָטַע "properly, to strike in…" |
+| ✱ | تاکستانی |  | H3754 כֶּרֶם "a garden or vineyard" |
+| ✱ | غرس | H3754 כֶּרֶם "a garden or vineyard" | [غرس می‌کند] H5193 נָטַע "properly, to strike in…" |
 | ✱ | می‌کند | H5193 נָטַע "properly, to strike in…" | [غرس می‌کند] H5193 נָטַע "properly, to strike in…" |
 |  | . |  |  |

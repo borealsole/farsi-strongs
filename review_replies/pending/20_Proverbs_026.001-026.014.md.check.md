@@ -2,9 +2,11 @@
 
 Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
-## 13 verse(s) with changes
+No change from the current tags (will be skipped): Proverbs 26:3.
 
-### Proverbs 26:1: 5 word(s) changed
+## 12 verse(s) with changes
+
+### Proverbs 26:1: 3 word(s) changed
 
 Reply line 2.
 
@@ -30,19 +32,19 @@ Original words:
 |  | تابستان | H7019 | H7019 |
 |  | و | Hc | Hc |
 |  | باران | H4306 | H4306 |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | موسم | [موسم حصاد] H7105 | [موسم حصاد] H7105 |
 |  | حصاد | [موسم حصاد] H7105 | [موسم حصاد] H7105 |
 |  | ! |  |  |
 |  | همچنان | H3651 | H3651 |
 | ✱ | حرمت | H3684 כְּסִיל "properly, fat…"; H3519 כָּבוֹד "properly, weight…" | H3519 כָּבוֹד "properly, weight…" |
 |  | نیز |  |  |
-| ✱ | نادان | H5000 נָאוֶה "suitable, or beautiful"; H3684 כְּסִיל "properly, fat…" | H3684 כְּסִיל "properly, fat…" |
+|  | نادان | H3684 | H3684 |
 |  | را |  |  |
-| ✱ | نشاید |  | H3808 לֹא "not (the simple or abs.…"; H5000 נָאוֶה "suitable, or beautiful" |
+| ✱ | نشاید | H5000 נָאוֶה "suitable, or beautiful" | H3808 לֹא "not (the simple or abs.…"; H5000 נָאוֶה "suitable, or beautiful" |
 |  | . |  |  |
 
-### Proverbs 26:2: 4 word(s) changed
+### Proverbs 26:2: 3 word(s) changed
 
 Reply line 3.
 
@@ -71,7 +73,7 @@ Original words:
 |  | در | Hl | Hl |
 |  | پرواز | H5774 | H5774 |
 |  | ، |  |  |
-| ✱ | لعنتِ | H3651 כֵּן "properly, set upright…"; H7045 קְלָלָה "vilification" | H7045 קְלָלָה "vilification" |
+|  | لعنتِ | H7045 | H7045 |
 |  | ناروا | H2600 | H2600 |
 | ✱ | نیز |  | H3651 כֵּן "properly, set upright…" |
 |  | بر |  |  |
@@ -80,42 +82,7 @@ Original words:
 | ✱ | نگیرد | H3808 לֹא "not (the simple or abs.…" | [قرار نگیرد] H3808 לֹא "not (the simple or abs.…"; H935 בּוֹא "to go or come (in a wide…" |
 |  | . |  |  |
 
-### Proverbs 26:3: 1 word(s) changed
-
-Reply line 4.
-
-Original: שׁוֹט לַ/סּוּס מֶתֶג לַ/חֲמוֹר וְ/שֵׁבֶט לְ/גֵו כְּסִילִים
-
-Persian: تازیانه برای اسب، افسار برای الاغ، و چوب برای پشت جاهلان است!
-
-Original words:
-- o1: שׁוֹט = H7752 שׁוֹט "a lash (literally or figuratively)" [HNcmsa]
-- o2: לַ/סּוּס = Hl "to" + H5483 סוּס "a horse (as leaping)…" [HRd/Ncmsa]
-- o3: מֶתֶג = H4964 מֶתֶג "a bit" [HNcmsa]
-- o4: לַ/חֲמוֹר = Hl "to" + H2543 חֲמוֹר "a male ass (from its dun red)" [HRd/Ncbsa]
-- o5: וְ/שֵׁבֶט = Hc "and" + H7626 שֵׁבֶט "a scion, i.e. (literally) a stick (for punishing…" [HC/Ncmsa]
-- o6: לְ/גֵו = Hl "to" + H1460 גֵּו "the back; by analogy, the middle" [HR/Ncmsc]
-- o7: כְּסִילִים = H3684 כְּסִיל "properly, fat, i.e. (figuratively) stupid or silly" [HAampa]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | تازیانه | H7752 | H7752 |
-|  | برای | Hl | Hl |
-|  | اسب | H5483 | H5483 |
-|  | ، |  |  |
-|  | افسار | H4964 | H4964 |
-|  | برای | Hl | Hl |
-|  | الاغ | H2543 | H2543 |
-|  | ، |  |  |
-|  | و | Hc | Hc |
-| ✱ | چوب | H4964 מֶתֶג "a bit"; H7626 שֵׁבֶט "a scion…" | H7626 שֵׁבֶט "a scion…" |
-|  | برای | Hl | Hl |
-|  | پشت | H1460 | H1460 |
-|  | جاهلان | H3684 | H3684 |
-|  | است |  |  |
-|  | ! |  |  |
-
-### Proverbs 26:4: 5 word(s) changed
+### Proverbs 26:4: 4 word(s) changed
 
 Reply line 5.
 
@@ -143,7 +110,7 @@ Original words:
 | ✱ | پاسخ | H6030 עָנָה "properly…" | [پاسخ مده] H408 אַל "not (the qualified negation…"; H6030 עָנָה "properly…" |
 | ✱ | مده |  | [پاسخ مده] H408 אַל "not (the qualified negation…"; H6030 עָנָה "properly…" |
 |  | ، |  |  |
-| ✱ | مبادا | H6030 עָנָה "properly…"; H6435 פֵּן "properly, removal…" | H6435 פֵּן "properly, removal…" |
+|  | مبادا | H6435 | H6435 |
 | ✱ | تو | H1571 גַּם "properly, assemblage…"; H859 אַתָּה "thou and thee…" | H859 אַתָּה "thou and thee…" |
 |  | نیز | H1571 | H1571 |
 |  | همچون | H7737 | H7737 |
@@ -151,7 +118,7 @@ Original words:
 | ✱ | شوی |  | H7737 שָׁוָה "properly, to level…" |
 |  | . |  |  |
 
-### Proverbs 26:5: 2 word(s) changed
+### Proverbs 26:5: 1 word(s) changed
 
 Reply line 6.
 
@@ -177,7 +144,7 @@ Original words:
 |  | پاسخ | [پاسخ ده] H6030 | [پاسخ ده] H6030 |
 |  | ده | [پاسخ ده] H6030 | [پاسخ ده] H6030 |
 |  | ، |  |  |
-| ✱ | مبادا | H3684 כְּסִיל "properly, fat…"; H6435 פֵּן "properly, removal…" | H6435 פֵּן "properly, removal…" |
+|  | مبادا | H6435 | H6435 |
 |  | در | Hb | Hb |
 |  | نظر | H5869 | H5869 |
 |  | خود |  |  |
@@ -211,7 +178,7 @@ Original words:
 | ✱ | بریدن |  | H7096 קָצָה "to cut off…" |
 |  | و |  |  |
 |  | جام |  |  |
-| ✱ | خشونت | H2555 חָמָס "violence…"; H3684 כְּסִיל "properly, fat…" | H2555 חָמָס "violence…" |
+| ✱ | خشونت |  | H2555 חָמָס "violence…" |
 | ✱ | نوشیدن | [نوشیدن است] H8354 שָׁתָה "to imbibe (literally or…" | H8354 שָׁתָה "to imbibe (literally or…" |
 | ✱ | است | [نوشیدن است] H8354 שָׁתָה "to imbibe (literally or…" |  |
 |  | فرستادن | H7971 | H7971 |
@@ -241,8 +208,8 @@ Original words:
 | --- | --- | --- | --- |
 |  | همچون |  |  |
 |  | پاهای | H7785 | H7785 |
-| ✱ | آویزان | [آویزان مرد] H6455 פִּסֵּחַ "lame" | H1809 דָּלַל "to slacken or be feeble…" |
-| ✱ | مرد | [آویزان مرد] H6455 פִּסֵּחַ "lame" |  |
+| ✱ | آویزان | H1809 דָּלַל "to slacken or be feeble…"; H6455 פִּסֵּחַ "lame" | H1809 דָּלַל "to slacken or be feeble…" |
+| ✱ | مرد | H6455 פִּסֵּחַ "lame" |  |
 | ✱ | لنگ | H1809 דָּלַל "to slacken or be feeble…"; H6455 פִּסֵּחַ "lame" | H6455 פִּסֵּחַ "lame" |
 |  | است |  |  |
 |  | ، |  |  |
@@ -304,7 +271,7 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 | ✱ | بوتۀ |  | [بوتۀ خار] H2336 חוֹחַ "a thorn…" |
-| ✱ | خار | H2336 חוֹחַ "a thorn…"; H7910 שִׁכּוֹר "intoxicated…" | [بوتۀ خار] H2336 חוֹחַ "a thorn…" |
+| ✱ | خار | H2336 חוֹחַ "a thorn…" | [بوتۀ خار] H2336 חוֹחַ "a thorn…" |
 |  | است |  |  |
 |  | افراشته | H5927 | H5927 |
 |  | به | Hb | Hb |
@@ -345,17 +312,17 @@ Original words:
 |  | ، |  |  |
 |  | آن |  |  |
 |  | که |  |  |
-| ✱ | نادان | H7936 שָׂכַר "to hire" | H3684 כְּסִיל "properly, fat…" |
+| ✱ | نادان | H7936 שָׂכַר "to hire"; H3684 כְּסִיל "properly, fat…" | H3684 כְּסִיל "properly, fat…" |
 | ✱ | یا |  | Hc "and" |
-|  | هر | H3605 | H3605 |
-| ✱ | رهگذری | H3684 כְּסִיל "properly, fat…"; H5674 עָבַר "to cross over…" | H5674 עָבַר "to cross over…" |
+| ✱ | هر |  | H3605 כֹּל "properly, the whole…" |
+|  | رهگذری | H5674 | H5674 |
 |  | را |  |  |
 | ✱ | به |  | [به مزد گیرد] H7936 שָׂכַר "to hire" |
-| ✱ | مزد |  | [به مزد گیرد] H7936 שָׂכַר "to hire" |
+| ✱ | مزد | H7936 שָׂכַר "to hire" | [به مزد گیرد] H7936 שָׂכַר "to hire" |
 | ✱ | گیرد | H7936 שָׂכַר "to hire" | [به مزد گیرد] H7936 שָׂכַר "to hire" |
 |  | . |  |  |
 
-### Proverbs 26:12: 3 word(s) changed
+### Proverbs 26:12: 1 word(s) changed
 
 Reply line 12.
 
@@ -377,7 +344,7 @@ Original words:
 |  | مردی | H376 | H376 |
 |  | را |  |  |
 |  | که |  |  |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | نظر | H5869 | H5869 |
 |  | خویش |  |  |
 |  | حکیم | H2450 | H2450 |
@@ -386,7 +353,7 @@ Original words:
 |  | می‌بینی | H7200 | H7200 |
 |  | ؟ |  |  |
 | ✱ | به |  | Hl "to" |
-| ✱ | مرد | H376 אִישׁ "a man as an individual or a…" |  |
+|  | مرد |  |  |
 |  | نادان | H3684 | H3684 |
 |  | بیش | [بیش از او] H4480 | [بیش از او] H4480 |
 |  | از | [بیش از او] H4480 | [بیش از او] H4480 |
@@ -395,7 +362,7 @@ Original words:
 |  | هست |  |  |
 |  | ! |  |  |
 
-### Proverbs 26:13: 4 word(s) changed
+### Proverbs 26:13: 3 word(s) changed
 
 Reply line 13.
 
@@ -423,20 +390,20 @@ Original words:
 |  | : |  |  |
 |  | « |  |  |
 |  | شیری | H7826 | H7826 |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | راه | H1870 | H1870 |
 |  | در |  |  |
-| ✱ | کمین | H7339 רְחֹב "a width…" |  |
+|  | کمین |  |  |
 |  | است |  |  |
 |  | ، |  |  |
 | ✱ | شیری | H7826 שַׁחַל "a lion (from his…"; H738 אֲרִי "a lion" | H738 אֲרִי "a lion" |
 |  | در |  |  |
-|  | وسط | H996 | H996 |
+| ✱ | وسط |  | H996 בֵּין "between (repeated before each…" |
 |  | خیابانهاست | H7339 | H7339 |
 |  | ! |  |  |
 |  | » |  |  |
 
-### Proverbs 26:14: 4 word(s) changed
+### Proverbs 26:14: 2 word(s) changed
 
 Reply line 14.
 
@@ -458,9 +425,9 @@ Original words:
 | ✱ | در |  | H1817 דֶּלֶת "something swinging…" |
 |  | بر | H5921 | H5921 |
 |  | پاشنه‌اش | H6735 | H6735 |
-| ✱ | می‌گردد |  | H5437 סָבַב "to revolve, surround…" |
+|  | می‌گردد | H5437 | H5437 |
 |  | ، |  |  |
 |  | کاهل | H6102 | H6102 |
-| ✱ | بر |  | H5921 עַל "above, over, upon…" |
+|  | بر | H5921 | H5921 |
 | ✱ | بسترش | H6102 עָצֵל "indolent"; H4296 מִטָּה "a bed (as extended)…" | H4296 מִטָּה "a bed (as extended)…" |
 |  | ! |  |  |

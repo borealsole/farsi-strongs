@@ -66,7 +66,7 @@ Original words:
 |  | از |  |  |
 |  | جان | H5315 | H5315 |
 |  | خویش |  |  |
-| ✱ | محافظت |  | [محافظت می‌کند] H8104 שָׁמַר "properly…" |
+| ✱ | محافظت | H8104 שָׁמַר "properly…" | [محافظت می‌کند] H8104 שָׁמַר "properly…" |
 | ✱ | می‌کند | H8104 שָׁמַר "properly…" | [محافظت می‌کند] H8104 שָׁמַר "properly…" |
 |  | ، |  |  |
 |  | اما |  |  |
@@ -120,7 +120,7 @@ Original words:
 | ✱ | خواهد_داد |  | H7999 שָׁלַם "to be safe (in mind…" |
 |  | . |  |  |
 
-### Proverbs 19:18: 1 word(s) changed
+### Proverbs 19:18: 2 word(s) changed
 
 Reply line 5.
 
@@ -145,7 +145,7 @@ Original words:
 |  | فرزندت | H1121 | H1121 |
 |  | را |  |  |
 |  | تا | H3588 | H3588 |
-|  | هنوز |  |  |
+| ✱ | هنوز | H3426 יֵשׁ "there is or are (or any other…" |  |
 |  | امیدی | H8615 | H8615 |
 |  | هست | H3426 | H3426 |
 |  | ادب | [ادب کن] H3256 | [ادب کن] H3256 |
@@ -155,10 +155,10 @@ Original words:
 |  | به | H413 | H413 |
 |  | نابودی | H4191 | H4191 |
 |  | او |  |  |
-| ✱ | برمبند |  | H408 אַל "not (the qualified negation…"; H5375 נָשָׂא "to lift…" |
+| ✱ | برمبند | H408 אַל "not (the qualified negation…" | H408 אַל "not (the qualified negation…"; H5375 נָשָׂא "to lift…" |
 |  | ! |  |  |
 
-### Proverbs 19:19: 4 word(s) changed
+### Proverbs 19:19: 6 word(s) changed
 
 Reply line 6.
 
@@ -180,10 +180,10 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | مرد |  |  |
-|  | تندخو | H1632 H2534 | H1632 H2534 |
+| ✱ | تندخو | H2534 חֵמָה "heat…" | H1632 גָּרֹל "harsh"; H2534 חֵמָה "heat…" |
 |  | باید |  |  |
 | ✱ | سزا |  | H6066 עֹנֶשׁ "a fine" |
-| ✱ | بیند | H6066 עֹנֶשׁ "a fine" | H5375 נָשָׂא "to lift…" |
+| ✱ | بیند |  | H5375 נָשָׂא "to lift…" |
 |  | ؛ |  |  |
 |  | اگر | H518 | H518 |
 |  | او |  |  |
@@ -195,7 +195,7 @@ Original words:
 | ✱ | تکرار |  | H3254 יָסַף "to add or augment (often…" |
 |  | کار |  |  |
 |  | خود |  |  |
-|  | خواهی_بود |  |  |
+| ✱ | خواهی_بود | H518 אִם "used very widely as…" |  |
 |  | . |  |  |
 
 ### Proverbs 19:20: 6 word(s) changed
@@ -224,15 +224,15 @@ Original words:
 |  | ، |  |  |
 |  | مشورت | H6098 | H6098 |
 |  | را |  |  |
-| ✱ | گوش |  | [گوش گیر] H8085 שָׁמַע "to hear intelligently (often…" |
+| ✱ | گوش | H8085 שָׁמַע "to hear intelligently (often…" | [گوش گیر] H8085 שָׁמַע "to hear intelligently (often…" |
 | ✱ | گیر | H4148 מוּסָר "properly, chastisement…" | [گوش گیر] H8085 שָׁמַע "to hear intelligently (often…" |
 | ✱ | و |  | Hc "and" |
-| ✱ | رهنمود | H4148 מוּסָר "properly, chastisement…"; H2449 חָכַם "to be wise (in mind…" | H4148 מוּסָר "properly, chastisement…" |
+| ✱ | رهنمود | H2449 חָכַם "to be wise (in mind…" | H4148 מוּסָר "properly, chastisement…" |
 |  | را |  |  |
 | ✱ | بپذیر |  | H6901 קָבַל "to admit…" |
 |  | . |  |  |
 
-### Proverbs 19:21: 2 word(s) changed
+### Proverbs 19:21: 3 word(s) changed
 
 Reply line 8.
 
@@ -265,7 +265,7 @@ Original words:
 | ✱ | مانَد |  | [استوار مانَد] H6965 קוּם "to rise (in various…" |
 |  | مشورت | H6098 | H6098 |
 |  | خداوند | H3068 | H3068 |
-|  | است |  |  |
+| ✱ | است | H1931 הוּא "he (she or it)…" |  |
 |  | . |  |  |
 
 ### Proverbs 19:22: 1 word(s) changed
@@ -294,13 +294,13 @@ Original words:
 |  | است |  |  |
 |  | ، |  |  |
 |  | و | Hc | Hc |
-| ✱ | فقیر | H7326 רוּשׁ "to be destitute"; H3577 כָּזָב "falsehood…" | H7326 רוּשׁ "to be destitute" |
+| ✱ | فقیر | H7326 רוּשׁ "to be destitute"; H376 אִישׁ "a man as an individual or a…" | H7326 רוּשׁ "to be destitute" |
 |  | از | Hm | Hm |
 |  | دروغگو | H376 H3577 | H376 H3577 |
 |  | بهتر | H2896 | H2896 |
 |  | . |  |  |
 
-### Proverbs 19:23: 7 word(s) changed
+### Proverbs 19:23: 8 word(s) changed
 
 Reply line 10.
 
@@ -330,8 +330,8 @@ Original words:
 |  | انسان |  |  |
 |  | با |  |  |
 | ✱ | شکم | H7649 שָׂבֵעַ "satiated (in a pleasant or…" | [شکم سیر] H7649 שָׂבֵעַ "satiated (in a pleasant or…" |
-| ✱ | سیر | H7649 שָׂבֵעַ "satiated (in a pleasant or…"; H3885 לוּן "to stop (usually over night)…" | [شکم سیر] H7649 שָׂבֵעַ "satiated (in a pleasant or…" |
-|  | شب | H3885 | H3885 |
+| ✱ | سیر | [سیر شب] H3885 לוּן "to stop (usually over night)…" | [شکم سیر] H7649 שָׂבֵעַ "satiated (in a pleasant or…" |
+| ✱ | شب | [سیر شب] H3885 לוּן "to stop (usually over night)…" | H3885 לוּן "to stop (usually over night)…" |
 |  | را |  |  |
 | ✱ | به |  | [به سر می‌برد] H3885 לוּן "to stop (usually over night)…" |
 | ✱ | سر |  | [به سر می‌برد] H3885 לוּן "to stop (usually over night)…" |
@@ -340,7 +340,7 @@ Original words:
 | ✱ | گزندی |  | H7451 רַע "bad or (as noun) evil…" |
 |  | به |  |  |
 |  | او |  |  |
-| ✱ | نمی‌رسد | H3885 לוּן "to stop (usually over night)…" | H1077 בַּל "properly, a failure…"; H6485 פָּקַד "to visit (with friendly or…" |
+| ✱ | نمی‌رسد | H3885 לוּן "to stop (usually over night)…"; H1077 בַּל "properly, a failure…" | H1077 בַּל "properly, a failure…"; H6485 פָּקַד "to visit (with friendly or…" |
 |  | . |  |  |
 
 ### Proverbs 19:24: 3 word(s) changed
@@ -483,7 +483,7 @@ Original words:
 |  | پسرم | H1121 | H1121 |
 |  | ، |  |  |
 |  | اگر |  |  |
-| ✱ | خواهی_از | H2308 חָדַל "properly, to be flabby…"; Hm "from" | Hm "from" |
+|  | خواهی_از | Hm | Hm |
 |  | سخنان | H561 | H561 |
 |  | معرفت | H1847 | H1847 |
 |  | منحرف | [منحرف شوی] H7686 | [منحرف شوی] H7686 |
@@ -492,7 +492,7 @@ Original words:
 |  | از |  |  |
 | ✱ | گوش | H8085 שָׁמַע "to hear intelligently (often…" | [گوش سپردن] H8085 שָׁמַע "to hear intelligently (often…" |
 | ✱ | سپردن |  | [گوش سپردن] H8085 שָׁמַע "to hear intelligently (often…" |
-|  | به |  |  |
+| ✱ | به | Hl "to" |  |
 | ✱ | رهنمود | H4148 מוּסָר "properly, chastisement…"; H7686 שָׁגָה "to stray (causatively…" | H4148 מוּסָר "properly, chastisement…" |
 |  | بازایست | H2308 | H2308 |
 |  | ! |  |  |

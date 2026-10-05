@@ -107,7 +107,7 @@ Persian entries and current tags:
 - p4: کوچ
 - p5: بنی‌اسرائیل  → H1121
 - p6: هنگامی
-- p7: که  → H834
+- p7: که
 - p8: به  → Hb
 - p9: دست  → H3027
 - p10: موسی  → H4872
@@ -144,7 +144,7 @@ Original words:
 Persian entries and current tags:
 - p1: موسی  → H4872
 - p2: بنا
-- p3: به  → H5921
+- p3: به
 - p4: فرمایش  → H6310
 - p5: خداوند  → H3068
 - p6: نقطۀ  → H3789 H4161
@@ -152,7 +152,7 @@ Persian entries and current tags:
 - p8: سفرها  → H4550
 - p9: را  → H853
 - p10: مرحله
-- p11: به
+- p11: به  → Hl
 - p12: مرحله
 - p13: ثبت کرد  → H3789
 - p14: .
@@ -195,14 +195,14 @@ Original words:
 - o19: מִצְרָיִם = H4713 מִצְרִי "a Mitsrite, or inhabitant of Mitsrajim" [HNp]
 
 Persian entries and current tags:
-- p1: در
+- p1: در  → Hb
 - p2: ماه  → H2320
 - p3: اوّل  → H7223
-- p4: از  → Hm
+- p4: از
 - p5: رَمِسیس  → H7486
 - p6: کوچ کردند  → H5265
 - p7: ،
-- p8: در
+- p8: در  → Hb
 - p9: روز  → H3117
 - p10: پانزدهم  → H2568 H6240
 - p11: ماه  → H2320
@@ -214,7 +214,7 @@ Persian entries and current tags:
 - p17: پِسَخ  → H6453
 - p18: ،
 - p19: بنی‌اسرائیل  → H1121
-- p20: در
+- p20: در  → Hb
 - p21: نظر  → H5869
 - p22: تمامی  → H3605
 - p23: مصریان  → H4713
@@ -288,12 +288,12 @@ Original words:
 
 Persian entries and current tags:
 - p1: پس  → Hc
-- p2: بنی‌اسرائیل  → H1121 H3478
+- p2: بنی‌اسرائیل  → H1121
 - p3: از  → Hm
 - p4: رَمِسیس  → H7486
 - p5: کوچ کردند  → H5265
 - p6: و  → Hc
-- p7: در
+- p7: در  → Hb
 - p8: سُکّوت  → H5523
 - p9: اردو زدند  → H2583
 - p10: .
@@ -318,11 +318,11 @@ Persian entries and current tags:
 - p3: سُکّوت  → H5523
 - p4: کوچ کرده  → H5265
 - p5: ،
-- p6: در
+- p6: در  → Hb
 - p7: ایتام  → H864
 - p8: که  → H834
 - p9: کنار
-- p10: بیابان  → H4057
+- p10: بیابان
 - p11: است
 - p12: ،
 - p13: اردو زدند  → H2583
@@ -404,8 +404,8 @@ Persian entries and current tags:
 - p9: به
 - p10: بیابان  → H4057
 - p11: عبور کردند  → H5674
-- p12: و  → Hc
-- p13: در  → Hb
+- p12: و
+- p13: در
 - p14: بیابانِ  → H4057
 - p15: ایتام  → H864
 - p16: سفر  → H1870
@@ -413,7 +413,7 @@ Persian entries and current tags:
 - p18: روز  → H3117
 - p19: کرده
 - p20: ،
-- p21: در
+- p21: در  → Hb
 - p22: مارَه  → H4785
 - p23: اردو زدند  → H2583
 - p24: .
@@ -509,7 +509,7 @@ Persian entries and current tags:
 - p4: سرخ  → H5488
 - p5: کوچ کرده  → H5265
 - p6: ،
-- p7: در
+- p7: در  → Hb
 - p8: بیابان  → H4057
 - p9: سین  → H5512
 - p10: اردو زدند  → H2583
@@ -534,7 +534,7 @@ Persian entries and current tags:
 - p4: سین  → H5512
 - p5: کوچ کرده  → H5265
 - p6: ،
-- p7: در
+- p7: در  → Hb
 - p8: دُفقَه  → H1850
 - p9: اردو زدند  → H2583
 - p10: .
@@ -615,7 +615,7 @@ Persian entries and current tags:
 - p3: رِفیدیم  → H7508
 - p4: کوچ کرده  → H5265
 - p5: ،
-- p6: در
+- p6: در  → Hb
 - p7: بیابان  → H4057
 - p8: سینا  → H5514
 - p9: اردو زدند  → H2583
@@ -641,7 +641,7 @@ Persian entries and current tags:
 - p4: سینا  → H5514
 - p5: کوچ کرده  → H5265
 - p6: ،
-- p7: در
+- p7: در  → Hb
 - p8: قِبروت‌هَتّاوَه  → H6914
 - p9: اردو زدند  → H2583
 - p10: .
@@ -709,7 +709,7 @@ Persian entries and current tags:
 - p3: ریتمَه  → H7575
 - p4: کوچ کرده  → H5265
 - p5: ،
-- p6: در
+- p6: در  → Hb
 - p7: رِمّون‌فِرِص  → H7428
 - p8: اردو زدند  → H2583
 - p9: .

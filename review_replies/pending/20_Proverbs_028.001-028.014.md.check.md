@@ -38,7 +38,7 @@ Original words:
 |  | شجاع‌اند | H982 | H982 |
 |  | . |  |  |
 
-### Proverbs 28:2: 6 word(s) changed
+### Proverbs 28:2: 5 word(s) changed
 
 Reply line 3.
 
@@ -59,7 +59,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | از |  | Hb "in" |
+|  | از | Hb | Hb |
 |  | شورشگریِ | H6588 | H6588 |
 |  | مملکت | H776 | H776 |
 |  | ، |  |  |
@@ -78,7 +78,7 @@ Original words:
 | ✱ | می‌آورد | H748 אָרַךְ "to be (causative…" | [به بار می‌آورد] H748 אָרַךְ "to be (causative…" |
 |  | . |  |  |
 
-### Proverbs 28:3: 2 word(s) changed
+### Proverbs 28:3: 1 word(s) changed
 
 Reply line 4.
 
@@ -98,7 +98,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | مرد |  | H1397 גֶּבֶר "properly…" |
+|  | مرد | H1397 | H1397 |
 |  | فقیر | H7326 | H7326 |
 |  | که |  |  |
 | ✱ | بر | H6231 עָשַׁק "to press upon, i.e. oppress…" |  |
@@ -116,7 +116,7 @@ Original words:
 |  | نمی‌گذارد | H369 | H369 |
 |  | . |  |  |
 
-### Proverbs 28:4: 9 word(s) changed
+### Proverbs 28:4: 6 word(s) changed
 
 Reply line 5.
 
@@ -139,7 +139,7 @@ Original words:
 |  | آنان |  |  |
 |  | که |  |  |
 | ✱ | به | H5800 עָזַב "to loosen, i.e. relinquish…" |  |
-| ✱ | شریعت | H8451 תּוֹרָה "a precept or statute…"; H7563 רָשָׁע "morally wrong…" | H8451 תּוֹרָה "a precept or statute…" |
+|  | شریعت | H8451 | H8451 |
 | ✱ | پشت |  | [پشت می‌کنند] H5800 עָזַב "to loosen, i.e. relinquish…" |
 | ✱ | می‌کنند |  | [پشت می‌کنند] H5800 עָזַב "to loosen, i.e. relinquish…" |
 |  | ، |  |  |
@@ -150,7 +150,7 @@ Original words:
 |  | اما | Hc | Hc |
 |  | آنان |  |  |
 |  | که |  |  |
-| ✱ | شریعت | H7563 רָשָׁע "morally wrong…"; H8451 תּוֹרָה "a precept or statute…" | H8451 תּוֹרָה "a precept or statute…" |
+|  | شریعت | H8451 | H8451 |
 |  | را |  |  |
 | ✱ | نگاه | H5800 עָזַב "to loosen, i.e. relinquish…"; H8104 שָׁמַר "properly…" | [نگاه می‌دارند] H8104 שָׁמַר "properly…" |
 | ✱ | می‌دارند | H8104 שָׁמַר "properly…" | [نگاه می‌دارند] H8104 שָׁמַר "properly…" |
@@ -159,10 +159,10 @@ Original words:
 |  | مبارزه | H1624 | H1624 |
 |  | با | Hb | Hb |
 |  | ایشان |  |  |
-| ✱ | برمی‌خیزند |  | H1624 גָּרָה "properly, to grate…" |
+|  | برمی‌خیزند | H1624 | H1624 |
 |  | . |  |  |
 
-### Proverbs 28:5: 3 word(s) changed
+### Proverbs 28:5: 2 word(s) changed
 
 Reply line 6.
 
@@ -186,7 +186,7 @@ Original words:
 | ✱ | مردمان | H376 אִישׁ "a man as an individual or a…"; H7451 רַע "bad or (as noun) evil…" | H376 אִישׁ "a man as an individual or a…" |
 |  | شریر | H7451 | H7451 |
 |  | ، |  |  |
-| ✱ | عدالت | H4941 מִשְׁפָּט "properly…"; H995 בִּין "to separate mentally (or…" | H4941 מִשְׁפָּט "properly…" |
+|  | عدالت | H4941 | H4941 |
 |  | را |  |  |
 | ✱ | درنمی‌یابند | H995 בִּין "to separate mentally (or…" | H3808 לֹא "not (the simple or abs.…"; H995 בִּין "to separate mentally (or…" |
 |  | ، |  |  |
@@ -200,7 +200,7 @@ Original words:
 |  | می‌کنند | [درک می‌کنند] H995 | [درک می‌کنند] H995 |
 |  | . |  |  |
 
-### Proverbs 28:6: 3 word(s) changed
+### Proverbs 28:6: 4 word(s) changed
 
 Reply line 7.
 
@@ -220,8 +220,8 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | فقیر | H7326 רוּשׁ "to be destitute"; H6141 עִקֵּשׁ "distorted; hence, false" | H7326 רוּשׁ "to be destitute" |
-|  | بودن |  |  |
+| ✱ | فقیر | [فقیر بودن] H7326 רוּשׁ "to be destitute" | H7326 רוּשׁ "to be destitute" |
+| ✱ | بودن | [فقیر بودن] H7326 רוּשׁ "to be destitute" |  |
 |  | با | Hb | Hb |
 |  | راستی | H8537 | H8537 |
 |  | ، |  |  |
@@ -233,7 +233,7 @@ Original words:
 | ✱ | کج‌رَوی | H6141 עִקֵּשׁ "distorted; hence, false"; H6223 עָשִׁיר "rich…" | H6141 עִקֵּשׁ "distorted; hence, false"; H1870 דֶּרֶךְ "a road (as trodden)…" |
 |  | . |  |  |
 
-### Proverbs 28:7: 3 word(s) changed
+### Proverbs 28:7: 4 word(s) changed
 
 Reply line 8.
 
@@ -263,7 +263,7 @@ Original words:
 | ✱ | می‌سپارد | H5341 נָצַר "to guard…" | [گوش می‌سپارد] H5341 נָצַר "to guard…" |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
-|  | رفیق | H7462 | H7462 |
+| ✱ | رفیق |  | H7462 רָעָה "to tend a flock…" |
 |  | عیاشان | H2151 | H2151 |
 |  | مایۀ |  |  |
 |  | ننگ | H3637 | H3637 |
@@ -272,7 +272,7 @@ Original words:
 |  | است |  |  |
 |  | . |  |  |
 
-### Proverbs 28:8: 2 word(s) changed
+### Proverbs 28:8: 1 word(s) changed
 
 Reply line 9.
 
@@ -295,7 +295,7 @@ Original words:
 |  | که |  |  |
 | ✱ | ثروت | H1952 הוֹן "wealth; by implication, enough"; H5392 נֶשֶׁךְ "interest on a debt" | H1952 הוֹן "wealth; by implication, enough" |
 |  | خویش |  |  |
-| ✱ | با |  | Hb "in" |
+|  | با | Hb | Hb |
 |  | بهرۀ | H5392 | H5392 |
 |  | گزاف | H8636 | H8636 |
 |  | بیفزاید | H7235 | H7235 |
@@ -339,8 +339,8 @@ Original words:
 |  | به |  |  |
 |  | شریعت | H8451 | H8451 |
 | ✱ | سر |  | [سر باز زند] H5493 סוּר "to turn off (literal or…" |
-| ✱ | باز |  | [سر باز زند] H5493 סוּר "to turn off (literal or…" |
-| ✱ | زند | H5493 סוּר "to turn off (literal or…" | [سر باز زند] H5493 סוּר "to turn off (literal or…" |
+| ✱ | باز | [باز زند] H5493 סוּר "to turn off (literal or…" | [سر باز زند] H5493 סוּר "to turn off (literal or…" |
+| ✱ | زند | [باز زند] H5493 סוּר "to turn off (literal or…" | [سر باز زند] H5493 סוּר "to turn off (literal or…" |
 |  | ، |  |  |
 |  | حتی | H1571 | H1571 |
 |  | دعایش | H8605 | H8605 |
@@ -348,7 +348,7 @@ Original words:
 |  | است |  |  |
 |  | . |  |  |
 
-### Proverbs 28:10: 2 word(s) changed
+### Proverbs 28:10: 3 word(s) changed
 
 Reply line 11.
 
@@ -375,17 +375,17 @@ Original words:
 |  | صالحان | H3477 | H3477 |
 |  | را |  |  |
 |  | به | Hb | Hb |
-|  | راه | H1870 | H1870 |
+| ✱ | راه | H1870 דֶּרֶךְ "a road (as trodden)…"; H7451 רַע "bad or (as noun) evil…" | H1870 דֶּרֶךְ "a road (as trodden)…" |
 |  | بد | H7451 | H7451 |
 |  | منحرف | [منحرف سازد] H7686 | [منحرف سازد] H7686 |
 |  | سازد | [منحرف سازد] H7686 | [منحرف سازد] H7686 |
 |  | ، |  |  |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | چاهی | H7816 | H7816 |
 |  | که |  |  |
 |  | خود |  |  |
 | ✱ | کنده | H7816 שְׁחוּת "pit" |  |
-|  | است |  |  |
+| ✱ | است | H1931 הוּא "he (she or it)…" |  |
 |  | خواهد_افتاد | H5307 | H5307 |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
@@ -396,7 +396,7 @@ Original words:
 |  | خواهد_بود |  |  |
 |  | . |  |  |
 
-### Proverbs 28:11: 2 word(s) changed
+### Proverbs 28:11: 1 word(s) changed
 
 Reply line 12.
 
@@ -426,14 +426,14 @@ Original words:
 |  | اما | Hc | Hc |
 |  | بینوای | H1800 | H1800 |
 |  | خردمند | H995 | H995 |
-| ✱ | مشت |  | H2713 חָקַר "properly, to penetrate…" |
+|  | مشت | H2713 | H2713 |
 |  | او |  |  |
 |  | را |  |  |
 |  | باز | [باز می‌کند] H2713 | [باز می‌کند] H2713 |
 |  | می‌کند | [باز می‌کند] H2713 | [باز می‌کند] H2713 |
 |  | . |  |  |
 
-### Proverbs 28:12: 7 word(s) changed
+### Proverbs 28:12: 8 word(s) changed
 
 Reply line 13.
 
@@ -462,7 +462,7 @@ Original words:
 |  | بار |  |  |
 |  | می‌آورد |  |  |
 |  | ؛ |  |  |
-|  | اما | Hc | Hc |
+| ✱ | اما |  | Hc "and" |
 | ✱ | چون |  | Hb "in" |
 |  | شریران | H7563 | H7563 |
 | ✱ | به |  | [به پا می‌خیزند] H6965 קוּם "to rise (in various…" |
@@ -473,7 +473,7 @@ Original words:
 | ✱ | خود | H2664 חָפַשׂ "to seek…" |  |
 |  | را |  |  |
 | ✱ | پنهان |  | [پنهان می‌کنند] H2664 חָפַשׂ "to seek…" |
-| ✱ | می‌کنند | H2664 חָפַשׂ "to seek…" | [پنهان می‌کنند] H2664 חָפַשׂ "to seek…" |
+| ✱ | می‌کنند |  | [پنهان می‌کنند] H2664 חָפַשׂ "to seek…" |
 |  | . |  |  |
 
 ### Proverbs 28:13: 2 word(s) changed
@@ -520,7 +520,7 @@ Original words:
 |  | خواهد_یافت | [رحمت خواهد_یافت] H7355 | [رحمت خواهد_یافت] H7355 |
 |  | . |  |  |
 
-### Proverbs 28:14: 6 word(s) changed
+### Proverbs 28:14: 5 word(s) changed
 
 Reply line 15.
 
@@ -557,7 +557,7 @@ Original words:
 | ✱ | سخت | H7185 קָשָׁה "properly, to be dense…" | [سخت سازد] H7185 קָשָׁה "properly, to be dense…" |
 | ✱ | سازد | H5307 נָפַל "to fall…" | [سخت سازد] H7185 קָשָׁה "properly, to be dense…" |
 |  | ، |  |  |
-| ✱ | به |  | Hb "in" |
+|  | به | Hb | Hb |
 | ✱ | بلا | [بلا گرفتار] H7451 רַע "bad or (as noun) evil…" | H7451 רַע "bad or (as noun) evil…" |
 | ✱ | گرفتار | [بلا گرفتار] H7451 רַע "bad or (as noun) evil…" | [گرفتار خواهد_شد] H5307 נָפַל "to fall…" |
 | ✱ | خواهد_شد |  | [گرفتار خواهد_شد] H5307 נָפַל "to fall…" |

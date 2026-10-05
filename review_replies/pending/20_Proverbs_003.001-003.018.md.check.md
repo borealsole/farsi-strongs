@@ -1,8 +1,10 @@
 # Check of 20_Proverbs_003.001-003.018.md
 
-Generated 2026-10-04 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
-## 16 verse(s) with changes
+No change from the current tags (will be skipped): Proverbs 3:2.
+
+## 15 verse(s) with changes
 
 ### Proverbs 3:1: 4 word(s) changed
 
@@ -38,38 +40,6 @@ Original words:
 |  | نگاه | [نگاه دارد] H5341 | [نگاه دارد] H5341 |
 |  | دارد | [نگاه دارد] H5341 | [نگاه دارد] H5341 |
 |  | ، |  |  |
-
-### Proverbs 3:2: 1 word(s) changed
-
-Reply line 3.
-
-Original: כִּי אֹרֶךְ יָמִים וּ/שְׁנוֹת חַיִּים וְ/שָׁלוֹם יוֹסִיפוּ לָ/ךְ
-
-Persian: زیرا بر روزها و سالهای عمرت خواهد_افزود و سعادتمند خواهی_شد.
-
-Original words:
-- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
-- o2: אֹרֶךְ = H753 אֹרֶךְ "length" [HNcmsc]
-- o3: יָמִים = H3117 יוֹם "a day (as the warm hours)…" [HNcmpa]
-- o4: וּ/שְׁנוֹת = Hc "and" + H8141 שָׁנֶה "a year (as a revolution of time)" [HC/Ncfpc]
-- o5: חַיִּים = H2416 חַי "alive; hence, raw (flesh)…" [HNcmpa]
-- o6: וְ/שָׁלוֹם = Hc "and" + H7965 שָׁלוֹם "safe, i.e. (figuratively) well, happy, friendly…" [HC/Ncmsa]
-- o7: יוֹסִיפוּ = H3254 יָסַף "to add or augment (often adverbial…" [HVhi3mp]
-- o8: לָ/ךְ = Hl "to" [HR/Sp2fs]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | زیرا | H3588 | H3588 |
-|  | بر |  |  |
-|  | روزها | H3117 | H3117 |
-|  | و | Hc | Hc |
-|  | سالهای | H8141 | H8141 |
-|  | عمرت | H2416 | H2416 |
-|  | خواهد_افزود | H3254 | H3254 |
-|  | و | Hc | Hc |
-| ✱ | سعادتمند |  | H7965 שָׁלוֹם "safe…" |
-|  | خواهی_شد |  |  |
-|  | . |  |  |
 
 ### Proverbs 3:3: 1 word(s) changed
 
@@ -147,7 +117,7 @@ Original words:
 |  | خواهی_یافت | H4672 | H4672 |
 |  | . |  |  |
 
-### Proverbs 3:5: 4 word(s) changed
+### Proverbs 3:5: 3 word(s) changed
 
 Reply line 6.
 
@@ -178,7 +148,7 @@ Original words:
 |  | کن | [توکل کن] H982 | [توکل کن] H982 |
 |  | ، |  |  |
 |  | و | Hc | Hc |
-| ✱ | بر |  | H413 אֵל "near, with or among…" |
+|  | بر | H413 | H413 |
 |  | عقل | H998 | H998 |
 |  | خویش |  |  |
 | ✱ | تکیه | H8172 שָׁעַן "to support one's self" | [تکیه منما] H408 אַל "not (the qualified negation…"; H8172 שָׁעַן "to support one's self" |
@@ -211,7 +181,7 @@ Original words:
 |  | را |  |  |
 | ✱ | در |  | [در نظر داشته باش] H3045 יָדַע "to know (properly…" |
 | ✱ | نظر |  | [در نظر داشته باش] H3045 יָדַע "to know (properly…" |
-| ✱ | داشته | H3045 יָדַע "to know (properly…" | [در نظر داشته باش] H3045 יָדַע "to know (properly…" |
+| ✱ | داشته |  | [در نظر داشته باش] H3045 יָדַע "to know (properly…" |
 | ✱ | باش |  | [در نظر داشته باش] H3045 יָדַע "to know (properly…" |
 |  | ، |  |  |
 |  | و | Hc | Hc |
@@ -258,7 +228,7 @@ Original words:
 |  | کن | [دوری کن] H5493 | [دوری کن] H5493 |
 |  | . |  |  |
 
-### Proverbs 3:8: 4 word(s) changed
+### Proverbs 3:8: 3 word(s) changed
 
 Reply line 9.
 
@@ -276,7 +246,7 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | این |  |  |
-| ✱ | برای |  | Hl "to" |
+|  | برای | Hl | Hl |
 | ✱ | ناف | H7500 רִפְאוּת "a cure" | H8270 שֹׁר "a string (as twisted )…" |
 |  | تو |  |  |
 | ✱ | شفا | H8270 שֹׁר "a string (as twisted )…" | H7500 רִפְאוּת "a cure" |
@@ -380,7 +350,7 @@ Original words:
 | ✱ | تأدیب | H4148 מוּסָר "properly, chastisement…"; H3988 מָאַס "to spurn…"; H8433 תּוֹכֵחָה "chastisement…" | H4148 מוּסָר "properly, chastisement…" |
 | ✱ | خداوند |  | H3068 יְהֹוָה "Jehovah…" |
 |  | را |  |  |
-| ✱ | خوار |  | [خوار مشمار] H408 אַל "not (the qualified negation…"; H3988 מָאַס "to spurn…" |
+| ✱ | خوار | H3988 מָאַס "to spurn…" | [خوار مشمار] H408 אַל "not (the qualified negation…"; H3988 מָאַס "to spurn…" |
 | ✱ | مشمار | H6973 קוּץ "to be (causatively…" | [خوار مشمار] H408 אַל "not (the qualified negation…"; H3988 מָאַס "to spurn…" |
 |  | ، |  |  |
 |  | و | Hc | Hc |
@@ -472,7 +442,7 @@ Original words:
 | ✱ | آورد | H6329 פּוּק "to issue, i.e. furnish…" | [به دست آورد] H6329 פּוּק "to issue, i.e. furnish…" |
 |  | . |  |  |
 
-### Proverbs 3:15: 1 word(s) changed
+### Proverbs 3:15: 6 word(s) changed
 
 Reply line 15.
 
@@ -494,8 +464,8 @@ Original words:
 | --- | --- | --- | --- |
 |  | از | Hm | Hm |
 |  | یاقوت | H6443 | H6443 |
-|  | گرانبهاتر | H3368 | H3368 |
-|  | است |  |  |
+| ✱ | گرانبهاتر | H3368 יָקָר "valuable (objectively or…"; H6443 פָּנִין "probably a pearl (as round)" | H3368 יָקָר "valuable (objectively or…" |
+| ✱ | است | H1931 הוּא "he (she or it)…" |  |
 |  | ، |  |  |
 |  | و | Hc | Hc |
 |  | هیچ‌یک | H3605 H3808 | H3605 H3808 |
@@ -504,9 +474,9 @@ Original words:
 |  | تو |  |  |
 | ✱ | با |  | Hb "in" |
 |  | آن |  |  |
-|  | برابری | [برابری نتواند کرد] H7737 | [برابری نتواند کرد] H7737 |
-|  | نتواند | [برابری نتواند کرد] H7737 | [برابری نتواند کرد] H7737 |
-|  | کرد | [برابری نتواند کرد] H7737 | [برابری نتواند کرد] H7737 |
+| ✱ | برابری | H7737 שָׁוָה "properly, to level…" | [برابری نتواند کرد] H7737 שָׁוָה "properly, to level…" |
+| ✱ | نتواند | H3808 לֹא "not (the simple or abs.…"; H7737 שָׁוָה "properly, to level…" | [برابری نتواند کرد] H7737 שָׁוָה "properly, to level…" |
+| ✱ | کرد |  | [برابری نتواند کرد] H7737 שָׁוָה "properly, to level…" |
 |  | . |  |  |
 
 ### Proverbs 3:16: 4 word(s) changed
@@ -575,7 +545,7 @@ Original words:
 |  | آنان |  |  |
 |  | را |  |  |
 |  | که |  |  |
-| ✱ | به | Hb "in" | [به چنگش گیرند] H8551 תָּמַךְ "to sustain…" |
+| ✱ | به |  | [به چنگش گیرند] H8551 תָּמַךְ "to sustain…" |
 | ✱ | چنگش | [چنگش گیرند] H8551 תָּמַךְ "to sustain…" | [به چنگش گیرند] H8551 תָּמַךְ "to sustain…" |
 | ✱ | گیرند | [چنگش گیرند] H8551 תָּמַךְ "to sustain…" | [به چنگش گیرند] H8551 תָּמַךְ "to sustain…" |
 |  | ، |  |  |

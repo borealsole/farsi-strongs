@@ -1,10 +1,10 @@
 # Check of 20_Proverbs_001.017-001.033.md
 
-Generated 2026-10-04 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
 ## 17 verse(s) with changes
 
-### Proverbs 1:17: 3 word(s) changed
+### Proverbs 1:17: 4 word(s) changed
 
 Reply line 2.
 
@@ -32,8 +32,8 @@ Original words:
 |  | دام | H7568 | H7568 |
 |  | گستردن | H2219 | H2219 |
 | ✱ | در |  | [در برابر] Hb "in" |
-| ✱ | برابر |  | [در برابر] Hb "in" |
-|  | چشم | H5869 | H5869 |
+| ✱ | برابر | [برابر چشم] H5869 עַיִן "an eye (literally or…" | [در برابر] Hb "in" |
+| ✱ | چشم | [برابر چشم] H5869 עַיִן "an eye (literally or…" | H5869 עַיִן "an eye (literally or…" |
 |  | پرنده‌ای | H1167 H3671 | H1167 H3671 |
 |  | ! |  |  |
 
@@ -116,7 +116,7 @@ Original words:
 |  | می‌ستاند | H3947 | H3947 |
 |  | . |  |  |
 
-### Proverbs 1:20: 8 word(s) changed
+### Proverbs 1:20: 7 word(s) changed
 
 Reply line 5.
 
@@ -143,15 +143,15 @@ Original words:
 | ✱ | درمی‌دهد | H5414 נָתַן "to give…" | [ندا درمی‌دهد] H7442 רָנַן "properly…" |
 |  | و |  |  |
 | ✱ | در |  | Hb "in" |
-| ✱ | میدانها | H2351 חוּץ "properly, separate by awall…"; H7339 רְחֹב "a width…" | H7339 רְחֹב "a width…" |
+|  | میدانها | H7339 | H7339 |
 |  | آواز | H6963 | H6963 |
 |  | خود |  |  |
 |  | را |  |  |
 | ✱ | بلند |  | [بلند می‌کند] H5414 נָתַן "to give…" |
-| ✱ | می‌کند |  | [بلند می‌کند] H5414 נָתַן "to give…" |
+| ✱ | می‌کند | H7442 רָנַן "properly…" | [بلند می‌کند] H5414 נָתַן "to give…" |
 |  | ؛ |  |  |
 
-### Proverbs 1:21: 6 word(s) changed
+### Proverbs 1:21: 7 word(s) changed
 
 Reply line 6.
 
@@ -179,14 +179,14 @@ Original words:
 | ✱ | می‌دهد |  | [بانگ در می‌دهد] H7121 קָרָא "to call out to (i.e. properly…" |
 |  | و |  |  |
 | ✱ | بر |  | Hb "in" |
-|  | دروازه‌های | H6607 H8179 | H6607 H8179 |
+| ✱ | دروازه‌های | H6607 פֶּתַח "an opening (literally)…" | H6607 פֶּתַח "an opening (literally)…"; H8179 שַׁעַר "an opening, i.e. door or gate" |
 |  | شهر | H5892 | H5892 |
 |  | ، |  |  |
 | ✱ | سخن | H561 אֵמֶר "something said"; H559 אָמַר "to say (used with great…" | H561 אֵמֶר "something said" |
-| ✱ | می‌راند | H7121 קָרָא "to call out to (i.e. properly…" | H559 אָמַר "to say (used with great…" |
+| ✱ | می‌راند |  | H559 אָמַר "to say (used with great…" |
 |  | : |  |  |
 
-### Proverbs 1:22: 5 word(s) changed
+### Proverbs 1:22: 4 word(s) changed
 
 Reply line 7.
 
@@ -215,7 +215,7 @@ Original words:
 |  | ساده‌لوحان | H6612 | H6612 |
 |  | ، |  |  |
 |  | تا | H5704 | H5704 |
-| ✱ | چند |  | H4970 מָתַי "properly, extent (of time)…" |
+|  | چند | H4970 | H4970 |
 |  | ساده‌لوحی | H6612 | H6612 |
 |  | را |  |  |
 |  | دوست | [دوست خواهید_داشت] H157 | [دوست خواهید_داشت] H157 |
@@ -309,8 +309,8 @@ Original words:
 | ✱ | فرا~خواندم | [که فرا~خواندم] H7121 קָרָא "to call out to (i.e. properly…" | H7121 קָרָא "to call out to (i.e. properly…" |
 |  | مرا |  |  |
 |  | نپذیرفتید | H3985 | H3985 |
-| ✱ | و | [و آنگاه] Hc "and" |  |
-| ✱ | آنگاه | [و آنگاه] Hc "and" |  |
+| ✱ | و | Hc "and" |  |
+| ✱ | آنگاه | Hc "and" |  |
 | ✱ | که | H7121 קָרָא "to call out to (i.e. properly…" |  |
 |  | دست | H3027 | H3027 |
 |  | خویش |  |  |
@@ -322,7 +322,7 @@ Original words:
 |  | نکرد | [اعتنا نکرد] H7181 | [اعتنا نکرد] H7181 |
 |  | ؛ |  |  |
 
-### Proverbs 1:25: 6 word(s) changed
+### Proverbs 1:25: 5 word(s) changed
 
 Reply line 10.
 
@@ -346,14 +346,14 @@ Original words:
 | ✱ | یکسره | [یکسره نادیده گرفتید] H6544 פָּרַע "to loosen…" | H3605 כֹּל "properly, the whole…" |
 | ✱ | نادیده | [یکسره نادیده گرفتید] H6544 פָּרַע "to loosen…" | [نادیده گرفتید] H6544 פָּרַע "to loosen…" |
 | ✱ | گرفتید | [یکسره نادیده گرفتید] H6544 פָּרַע "to loosen…" | [نادیده گرفتید] H6544 פָּרַע "to loosen…" |
-| ✱ | و | Hc "and"; H14 אָבָה "to breathe after…" | Hc "and" |
+|  | و | Hc | Hc |
 | ✱ | نخواستید | H14 אָבָה "to breathe after…" | H3808 לֹא "not (the simple or abs.…"; H14 אָבָה "to breathe after…" |
 |  | توبیخ | H8433 | H8433 |
 |  | مرا |  |  |
 | ✱ | بپذیرید | H8433 תּוֹכֵחָה "chastisement…" |  |
 |  | ، |  |  |
 
-### Proverbs 1:26: 3 word(s) changed
+### Proverbs 1:26: 4 word(s) changed
 
 Reply line 11.
 
@@ -374,25 +374,25 @@ Original words:
 | --- | --- | --- | --- |
 |  | من | H589 | H589 |
 |  | نیز | H1571 | H1571 |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | مصیبت | H343 | H343 |
 |  | شما |  |  |
-|  | خواهم_خندید | H7832 | H7832 |
+| ✱ | خواهم_خندید | H7832 שָׂחַק "to laugh (in pleasure or…"; H3932 לָעַג "to deride…" | H7832 שָׂחַק "to laugh (in pleasure or…" |
 |  | و |  |  |
 | ✱ | چون |  | Hb "in" |
 |  | آنچه | H6343 | H6343 |
 |  | از |  |  |
 |  | آن |  |  |
-| ✱ | می‌ترسید |  | H6343 פַּחַד "a (sudden) alarm (properly…" |
+| ✱ | می‌ترسید | H343 אֵיד "oppression…"; H6343 פַּחַד "a (sudden) alarm (properly…" | H6343 פַּחַד "a (sudden) alarm (properly…" |
 |  | بر |  |  |
 |  | سرتان |  |  |
-|  | آید | H935 | H935 |
+| ✱ | آید |  | H935 בּוֹא "to go or come (in a wide…" |
 |  | ، |  |  |
 |  | تمسخر | [تمسخر خواهم_کرد] H3932 | [تمسخر خواهم_کرد] H3932 |
 |  | خواهم_کرد | [تمسخر خواهم_کرد] H3932 | [تمسخر خواهم_کرد] H3932 |
 |  | - |  |  |
 
-### Proverbs 1:27: 9 word(s) changed
+### Proverbs 1:27: 10 word(s) changed
 
 Reply line 12.
 
@@ -420,10 +420,10 @@ Original words:
 | ✱ | آنچه |  | H6343 פַּחַד "a (sudden) alarm (properly…" |
 |  | از |  |  |
 |  | آن |  |  |
-| ✱ | می‌ترسید |  | H6343 פַּחַד "a (sudden) alarm (properly…" |
+| ✱ | می‌ترسید | H343 אֵיד "oppression…" | H6343 פַּחַד "a (sudden) alarm (properly…" |
 |  | همچون | Hk | Hk |
 | ✱ | توفان | H5492 סוּפָה "a hurricane" | H7584 שַׁאֲוָה "a tempest (as rushing)" |
-|  | بر |  |  |
+| ✱ | بر | H935 בּוֹא "to go or come (in a wide…" |  |
 |  | شما |  |  |
 | ✱ | عارض | H343 אֵיד "oppression…" | [عارض شود] H935 בּוֹא "to go or come (in a wide…" |
 | ✱ | شود | H857 אָתָה "to arrive" | [عارض شود] H935 בּוֹא "to go or come (in a wide…" |
@@ -434,19 +434,19 @@ Original words:
 |  | گردباد | H5492 | H5492 |
 |  | شما |  |  |
 |  | را |  |  |
-| ✱ | فرو~پیچد |  | H857 אָתָה "to arrive" |
+|  | فرو~پیچد | H857 | H857 |
 |  | ، |  |  |
 |  | و |  |  |
 |  | تنگی | H6869 | H6869 |
 |  | و | Hc | Hc |
 |  | فشار | H6695 | H6695 |
-|  | بر | H5921 | H5921 |
+| ✱ | بر | H935 בּוֹא "to go or come (in a wide…"; H5921 עַל "above, over, upon…" | H5921 עַל "above, over, upon…" |
 |  | شما |  |  |
 | ✱ | چیره | H6695 צוֹק "a strait…" | [چیره آید] H935 בּוֹא "to go or come (in a wide…" |
 | ✱ | آید |  | [چیره آید] H935 בּוֹא "to go or come (in a wide…" |
 |  | . |  |  |
 
-### Proverbs 1:28: 3 word(s) changed
+### Proverbs 1:28: 5 word(s) changed
 
 Reply line 13.
 
@@ -475,13 +475,13 @@ Original words:
 | ✱ | نخواهم_داد | H3808 לֹא "not (the simple or abs.…" | [پاسخ نخواهم_داد] H3808 לֹא "not (the simple or abs.…"; H6030 עָנָה "properly…" |
 |  | ؛ |  |  |
 |  | مرا |  |  |
-|  | بسیار |  |  |
-|  | خواهند_جُست | H7836 | H7836 |
+| ✱ | بسیار | [بسیار خواهند_جُست] H7836 שָׁחַר "properly, to dawn…" |  |
+| ✱ | خواهند_جُست | [بسیار خواهند_جُست] H7836 שָׁחַר "properly, to dawn…" | H7836 שָׁחַר "properly, to dawn…" |
 |  | و | Hc | Hc |
 | ✱ | نخواهند_یافت | H4672 מָצָא "properly, to come forth to…" | H3808 לֹא "not (the simple or abs.…"; H4672 מָצָא "properly, to come forth to…" |
 |  | . |  |  |
 
-### Proverbs 1:29: 3 word(s) changed
+### Proverbs 1:29: 2 word(s) changed
 
 Reply line 14.
 
@@ -501,7 +501,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | چراکه | H3588 כִּי "by implication) very widely…" | H8478 תַּחַת "the bottom (as depressed)…"; H3588 כִּי "by implication) very widely…" |
+|  | چراکه | H8478 H3588 | H8478 H3588 |
 | ✱ | از | H8130 שָׂנֵא "to hate (personally)" |  |
 |  | دانش | H1847 | H1847 |
 |  | بیزار | [بیزار بودند] H8130 | [بیزار بودند] H8130 |
@@ -510,10 +510,10 @@ Original words:
 |  | ترس | H3374 | H3374 |
 |  | خداوند | H3068 | H3068 |
 |  | را |  |  |
-| ✱ | برنگزیدند |  | H3808 לֹא "not (the simple or abs.…"; H977 בָּחַר "properly, to try…" |
+| ✱ | برنگزیدند | H977 בָּחַר "properly, to try…" | H3808 לֹא "not (the simple or abs.…"; H977 בָּחַר "properly, to try…" |
 |  | ؛ |  |  |
 
-### Proverbs 1:30: 3 word(s) changed
+### Proverbs 1:30: 1 word(s) changed
 
 Reply line 15.
 
@@ -539,11 +539,11 @@ Original words:
 |  | توبیخ | H8433 | H8433 |
 |  | مرا |  |  |
 |  | سراسر | H3605 | H3605 |
-| ✱ | خوار | H6098 עֵצָה "advice; by implication, plan…" | [خوار شمردند] H5006 נָאַץ "to scorn" |
-| ✱ | شمردند | H5006 נָאַץ "to scorn" | [خوار شمردند] H5006 נָאַץ "to scorn" |
+|  | خوار | [خوار شمردند] H5006 | [خوار شمردند] H5006 |
+|  | شمردند | [خوار شمردند] H5006 | [خوار شمردند] H5006 |
 |  | . |  |  |
 
-### Proverbs 1:31: 7 word(s) changed
+### Proverbs 1:31: 4 word(s) changed
 
 Reply line 16.
 
@@ -562,7 +562,7 @@ Original words:
 | --- | --- | --- | --- |
 |  | پس | Hc | Hc |
 |  | ثمرۀ | H6529 | H6529 |
-| ✱ | طریقهای | H1870 דֶּרֶךְ "a road (as trodden)…"; H4156 מוֹעֵצָה "a purpose" | H1870 דֶּרֶךְ "a road (as trodden)…" |
+|  | طریقهای | H1870 | H1870 |
 |  | خود |  |  |
 |  | را |  |  |
 |  | خواهند_خورد | H398 | H398 |
@@ -571,11 +571,11 @@ Original words:
 | ✱ | میوۀ | H6529 פְּרִי "fruit (literally or…" |  |
 | ✱ | تدبیرهای | [تدبیرهای خویش] H4156 מוֹעֵצָה "a purpose" | H4156 מוֹעֵצָה "a purpose" |
 | ✱ | خویش | [تدبیرهای خویش] H4156 מוֹעֵצָה "a purpose" |  |
-| ✱ | سیر |  | [سیر خواهند_شد] H7646 שָׂבַע "to sate…" |
-| ✱ | خواهند_شد |  | [سیر خواهند_شد] H7646 שָׂבַע "to sate…" |
+|  | سیر | [سیر خواهند_شد] H7646 | [سیر خواهند_شد] H7646 |
+|  | خواهند_شد | [سیر خواهند_شد] H7646 | [سیر خواهند_شد] H7646 |
 |  | . |  |  |
 
-### Proverbs 1:32: 7 word(s) changed
+### Proverbs 1:32: 6 word(s) changed
 
 Reply line 17.
 
@@ -598,7 +598,7 @@ Original words:
 | ✱ | از‌ |  | [از‌ راه برگشتن] H4878 מְשׁוּבָה "apostasy" |
 | ✱ | راه |  | [از‌ راه برگشتن] H4878 מְשׁוּבָה "apostasy" |
 | ✱ | برگشتن | H4878 מְשׁוּבָה "apostasy" | [از‌ راه برگشتن] H4878 מְשׁוּבָה "apostasy" |
-| ✱ | ساده‌لوحان |  | H6612 פְּתִי "silly (i.e. seducible)" |
+|  | ساده‌لوحان | H6612 | H6612 |
 |  | آنان |  |  |
 |  | را |  |  |
 | ✱ | به |  | [به کشتن خواهد_داد] H2026 הָרַג "to smite with deadly intent" |
@@ -613,7 +613,7 @@ Original words:
 |  | خواهد_کرد | [هلاک خواهد_کرد] H6 | [هلاک خواهد_کرد] H6 |
 |  | . |  |  |
 
-### Proverbs 1:33: 6 word(s) changed
+### Proverbs 1:33: 7 word(s) changed
 
 Reply line 18.
 
@@ -640,13 +640,13 @@ Original words:
 | ✱ | گوش | H8085 שָׁמַע "to hear intelligently (often…" | [گوش فرا~دهد] H8085 שָׁמַע "to hear intelligently (often…" |
 | ✱ | فرا~دهد |  | [گوش فرا~دهد] H8085 שָׁמַע "to hear intelligently (often…" |
 |  | ، |  |  |
-|  | در |  |  |
+| ✱ | در | Hl "to" |  |
 |  | امنیت | H983 | H983 |
 |  | ساکن | [ساکن خواهد_بود] H7931 | [ساکن خواهد_بود] H7931 |
 |  | خواهد_بود | [ساکن خواهد_بود] H7931 | [ساکن خواهد_بود] H7931 |
 |  | و | Hc | Hc |
 |  | از | Hm | Hm |
-| ✱ | بیمِ | H7599 שָׁאַן "to loll, i.e. be peaceful" | H6343 פַּחַד "a (sudden) alarm (properly…" |
+| ✱ | بیمِ |  | H6343 פַּחַד "a (sudden) alarm (properly…" |
 |  | بلا | H7451 | H7451 |
 | ✱ | آسوده | H6343 פַּחַד "a (sudden) alarm (properly…" | [آسوده خواهد_ماند] H7599 שָׁאַן "to loll, i.e. be peaceful" |
 | ✱ | خواهد_ماند |  | [آسوده خواهد_ماند] H7599 שָׁאַן "to loll, i.e. be peaceful" |

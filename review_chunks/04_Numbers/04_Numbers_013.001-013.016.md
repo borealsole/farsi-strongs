@@ -140,7 +140,7 @@ Persian entries and current tags:
 - p6: کنعان  → H3667
 - p7: را  → H853
 - p8: که  → H834
-- p9: به
+- p9: به  → Hl
 - p10: بنی‌اسرائیل  → H3478
 - p11: می‌دهم  → H5414
 - p12: ،
@@ -151,7 +151,7 @@ Persian entries and current tags:
 - p17: قبیلۀ  → H4294
 - p18: اجدادی  → H1
 - p19: ،
-- p20: یکی  → H259 H3605
+- p20: یکی  → H259
 - p21: را  → H853
 - p22: که  → H834
 - p23: از
@@ -248,7 +248,7 @@ Original words:
 - o5: חוֹרִי = H2753 חֹרִי "Chori, the name of two men" [HNp]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: قبیلۀ  → H4294
 - p3: شمعون  → H8095
 - p4: ،
@@ -270,7 +270,7 @@ Original words:
 - o5: יְפֻנֶּה = H3312 יְפֻנֶּה "Jephunneh, the name of two Israelites" [HNp]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: قبیلۀ  → H4294
 - p3: یهودا  → H3063
 - p4: ،
@@ -292,7 +292,7 @@ Original words:
 - o5: יוֹסֵף = H3130 יוֹסֵף "Joseph, the name of seven Israelites" [HNp]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: قبیلۀ  → H4294
 - p3: یِساکار  → H3485
 - p4: ،
@@ -314,7 +314,7 @@ Original words:
 - o5: נוּן = H5126 נוּן "Nun or Non, the father of Joshua" [HNp]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: قبیلۀ  → H4294
 - p3: اِفرایِم  → H669
 - p4: ،
@@ -336,7 +336,7 @@ Original words:
 - o5: רָפוּא = H7505 רָפוּא "Raphu, an Israelite" [HNp]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: قبیلۀ  → H4294
 - p3: بِنیامین  → H1144
 - p4: ،
@@ -358,7 +358,7 @@ Original words:
 - o5: סוֹדִי = H5476 סוֹדִי "Sodi, an Israelite" [HNp]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: قبیلۀ  → H4294
 - p3: زِبولون  → H2074
 - p4: ،
@@ -382,7 +382,7 @@ Original words:
 - o7: סוּסִי = H5485 סוּסִי "Susi, an Israelite" [HNp]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: قبیلۀ  → H4294
 - p3: یوسف  → H3130
 - p4: ،
@@ -409,7 +409,7 @@ Original words:
 - o5: גְּמַלִּי = H1582 גְּמַלִּי "Gemalli, an Israelite" [HNp]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: قبیلۀ  → H4294
 - p3: دان  → H1835
 - p4: ،
@@ -431,7 +431,7 @@ Original words:
 - o5: מִיכָאֵל = H4317 מִיכָאֵל "Mikael…" [HNp]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: قبیلۀ  → H4294
 - p3: اَشیر  → H836
 - p4: ،
@@ -453,7 +453,7 @@ Original words:
 - o5: וָפְסִי = H2058 וׇפְסִי "Vophsi, an Israelite" [HNp]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: قبیلۀ  → H4294
 - p3: نَفتالی  → H5321
 - p4: ،
@@ -475,7 +475,7 @@ Original words:
 - o5: מָכִי = H4352 מָכִי "Maki, an Israelite" [HNp]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: قبیلۀ  → H4294
 - p3: جاد  → H1410
 - p4: ،
@@ -513,7 +513,7 @@ Persian entries and current tags:
 - p4: مردانی  → H376
 - p5: که  → H834
 - p6: موسی  → H4872
-- p7: برای  → Hl
+- p7: برای
 - p8: تجسس  → H8446
 - p9: زمین  → H776
 - p10: فرستاد  → H7971
@@ -523,7 +523,7 @@ Persian entries and current tags:
 - p14: ،
 - p15: هوشع  → H1954
 - p16: پسر  → H1121
-- p17: نون  → H5126
+- p17: نون
 - p18: را  → H853
 - p19: یوشَع  → H1954
 - p20: نام

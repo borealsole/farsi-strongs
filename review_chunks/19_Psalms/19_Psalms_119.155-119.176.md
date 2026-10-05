@@ -210,24 +210,23 @@ Original words:
 - o7: חַיֵּ/נִי = H2421 חָיָה "to live, whether literally or figuratively…" [HVpv2ms/Sp1cs]
 
 Persian entries and current tags:
-- p1: ببین  → H7200
-- p2: که
-- p3: احکام  → H6490 H3068
-- p4: تو
-- p5: را
-- p6: چقدر  → H3588
-- p7: دوست می‌دارم  → H157
-- p8: ،
-- p9: بر
-- p10: حسب  → Hk
-- p11: محبت  → H2617
-- p12: خود
-- p13: ،
-- p14: خداوندا  → H3068
-- p15: ،
-- p16: مرا زنده  → H2421
-- p17: بدار
-- p18: !
+- p1: ببین که  → H7200
+- p2: احکام  → H6490
+- p3: تو
+- p4: را
+- p5: چقدر  → H3588
+- p6: دوست می‌دارم  → H157
+- p7: ،
+- p8: بر
+- p9: حسب  → Hk
+- p10: محبت  → H2617
+- p11: خود
+- p12: ،
+- p13: خداوندا  → H3068
+- p14: ،
+- p15: مرا زنده  → H2421
+- p16: بدار
+- p17: !
 
 ### Psalms 119:160
 
@@ -333,7 +332,7 @@ Persian entries and current tags:
 - p5: کراهت  → H8581
 - p6: دارم  → H8130
 - p7: ،
-- p8: اما  → Hc
+- p8: اما
 - p9: شریعت  → H8451
 - p10: تو
 - p11: را
@@ -501,7 +500,7 @@ Persian entries and current tags:
 - p1: خداوندا  → H3068
 - p2: ،
 - p3: فریادم  → H7440
-- p4: به
+- p4: به  → Hl
 - p5: درگاه  → H6440 H995
 - p6: تو
 - p7: برسد
@@ -533,7 +532,7 @@ Persian entries and current tags:
 - p3: به  → H935 Hl
 - p4: درگاه  → H6440
 - p5: تو
-- p6: برسد  → H935
+- p6: برسد
 - p7: ؛
 - p8: بر
 - p9: حسب  → Hk
@@ -556,7 +555,7 @@ Original words:
 - o6: חֻקֶּי/ךָ = H2706 חֹק "an enactment…" [HNcmpc/Sp2ms]
 
 Persian entries and current tags:
-- p1: ستایش  → H8416
+- p1: ستایش  → H8193 H8416
 - p2: از
 - p3: لبهایم  → H8193
 - p4: جاری خواهد_شد  → H5042
@@ -670,21 +669,20 @@ Original words:
 - o5: יַעֲזְרֻ/נִי = H5826 עָזַר "to surround, i.e. protect or aid" [HVqi3mp/Sp1cs]
 
 Persian entries and current tags:
-- p1: جان  → H5315
-- p2: مرا
-- p3: زنده  → H2421
-- p4: بدار
-- p5: تا
-- p6: تو
-- p7: را
-- p8: بستایم  → H1984
-- p9: و  → Hc
-- p10: قوانین  → H4941
-- p11: تو
-- p12: مرا  → H5315
-- p13: مدد  → H5826
-- p14: رساند
-- p15: .
+- p1: جان مرا  → H5315
+- p2: زنده  → H2421
+- p3: بدار
+- p4: تا
+- p5: تو
+- p6: را
+- p7: بستایم  → H1984
+- p8: و  → Hc
+- p9: قوانین  → H4941
+- p10: تو
+- p11: مرا  → H5315
+- p12: مدد  → H5826
+- p13: رساند
+- p14: .
 
 ### Psalms 119:176
 
@@ -709,7 +707,7 @@ Persian entries and current tags:
 - p4: ،
 - p5: گمراه گشته‌ام  → H8582
 - p6: ؛
-- p7: خادمت  → H5650 H4687
+- p7: خادمت  → H5650
 - p8: را
 - p9: بجوی  → H1245
 - p10: ،
@@ -719,8 +717,9 @@ Persian entries and current tags:
 - p14: تو
 - p15: را
 - p16: از
-- p17: یاد نبرده‌ام  → H7911
-- p18: !
+- p17: یاد  → H7911
+- p18: نبرده‌ام
+- p19: !
 
 ## Neighbouring verses (context only, not for review)
 

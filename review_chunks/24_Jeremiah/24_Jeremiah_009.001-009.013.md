@@ -103,7 +103,7 @@ Original words:
 - o14: עַמִּ/י = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp1cs]
 
 Persian entries and current tags:
-- p1: کاش  → H4310 H7218
+- p1: کاش  → H4310
 - p2: سَرِ  → H7218
 - p3: من
 - p4: آب  → H4325
@@ -122,7 +122,7 @@ Persian entries and current tags:
 - p17: بر
 - p18: کُشتگانِ  → H2491
 - p19: قوم  → H5971
-- p20: عزیزم  → H1323
+- p20: عزیزم
 - p21: می‌گریستم  → H1058
 - p22: !
 
@@ -152,7 +152,7 @@ Persian entries and current tags:
 - p1: کاش  → H4310
 - p2: که
 - p3: مرا
-- p4: در
+- p4: در  → Hb
 - p5: بیابان
 - p6: منزلگه  → H4411
 - p7: مسافرین بود  → H732
@@ -208,13 +208,13 @@ Persian entries and current tags:
 - p2: زبان  → H3956
 - p3: خویش
 - p4: را  → H853
-- p5: همچون
-- p6: کَمان  → H7198
+- p5: همچون  → H1869
+- p6: کَمان
 - p7: به
 - p8: دروغ  → H7198 H8267
 - p9: برمی‌کِشند  → H1869
 - p10: ؛
-- p11: در
+- p11: در  → Hb
 - p12: زمین  → H776
 - p13: نیرومند گشته‌اند  → H1396
 - p14: اما  → Hc
@@ -231,7 +231,7 @@ Persian entries and current tags:
 - p25: ،
 - p26: و  → Hc
 - p27: مرا
-- p28: نمی‌شناسند  → H3808
+- p28: نمی‌شناسند  → H3808 H3045
 - p29: »
 - p30: ؛
 - p31: این
@@ -267,7 +267,7 @@ Original words:
 Persian entries and current tags:
 - p1: پس
 - p2: هر یک  → H376
-- p3: از
+- p3: از  → Hm
 - p4: شما
 - p5: از
 - p6: دوستان  → H7453
@@ -278,7 +278,7 @@ Persian entries and current tags:
 - p11: به  → H5921
 - p12: هیچ  → H3605
 - p13: برادری  → H251
-- p14: اعتماد  → H8104 H982
+- p14: اعتماد  → H982
 - p15: مکنید  → H408
 - p16: ،
 - p17: زیرا  → H3588
@@ -315,7 +315,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: هر کس  → H376
-- p2: دیگری
+- p2: دیگری  → H7453
 - p3: را
 - p4: می‌فریبد  → H2048
 - p5: ،
@@ -357,7 +357,7 @@ Original words:
 Persian entries and current tags:
 - p1: مسکن  → H3427
 - p2: آنها
-- p3: در
+- p3: در  → Hb
 - p4: میان  → H8432
 - p5: فریب  → H3427 H4820
 - p6: است  → H3427
@@ -372,7 +372,7 @@ Persian entries and current tags:
 - p15: ؛
 - p16: این
 - p17: است  → H3427
-- p18: فرمودۀ  → H3045 H5002
+- p18: فرمودۀ  → H5002
 - p19: خداوند  → H3068
 - p20: .
 
@@ -398,11 +398,11 @@ Original words:
 - o14: עַמִּ/י = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp1cs]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: این  → H3651
 - p3: رو  → H3541
 - p4: خداوند  → H3068
-- p5: لشکرها  → H6635
+- p5: لشکرها
 - p6: می‌فرماید  → H559
 - p7: :
 - p8: «
@@ -421,7 +421,7 @@ Persian entries and current tags:
 - p21: عزیز  → H1323
 - p22: خود
 - p23: ،
-- p24: دیگر
+- p24: دیگر  → H349
 - p25: چه
 - p26: می‌توانم
 - p27: کرد  → H6213
@@ -461,7 +461,7 @@ Persian entries and current tags:
 - p11: به
 - p12: زبان  → H6310
 - p13: خویش
-- p14: با
+- p14: با  → H854
 - p15: همنوع  → H7453
 - p16: خود
 - p17: سخن  → H1696
@@ -469,7 +469,7 @@ Persian entries and current tags:
 - p19: می‌گویند  → H1696
 - p20: ،
 - p21: اما  → Hc
-- p22: در
+- p22: در  → Hb
 - p23: دل  → H7130
 - p24: خود
 - p25: برایش
@@ -511,13 +511,13 @@ Persian entries and current tags:
 - p10: این چیزها  → H428
 - p11: جَزایشان دهم  → H6485
 - p12: ؟
-- p13: آیا  → H518
+- p13: آیا  → Hi
 - p14: نمی‌باید  → H3808
 - p15: از
 - p16: چنین
 - p17: ملتی  → H1471
 - p18: انتقام  → H5358
-- p19: بکشم  → H5315
+- p19: بکشم  → H5358 H5315
 - p20: ؟
 
 ### Jeremiah 9:10
@@ -573,8 +573,8 @@ Persian entries and current tags:
 - p19: ویران
 - p20: گشته‌اند
 - p21: که
-- p22: هیچ‌کس  → H376
-- p23: از
+- p22: هیچ‌کس  → H1097 H376
+- p23: از  → Hm
 - p24: آنها
 - p25: گذر نمی‌کند  → H5674
 - p26: ؛
@@ -623,7 +623,7 @@ Persian entries and current tags:
 - p6: تَلی  → H1530
 - p7: از
 - p8: آوار  → H1530
-- p9: و  → Hc
+- p9: و
 - p10: به
 - p11: لانۀ  → H4583
 - p12: شغالان  → H8577
@@ -701,7 +701,7 @@ Persian entries and current tags:
 - p31: متروک گشته  → H3341
 - p32: که
 - p33: کسی  → H1097
-- p34: از  → Hm
+- p34: از
 - p35: آن
 - p36: گذر نمی‌کند  → H5674
 - p37: ؟
@@ -733,7 +733,7 @@ Persian entries and current tags:
 - p2: می‌فرماید  → H559
 - p3: :
 - p4: «
-- p5: از  → H5921
+- p5: از
 - p6: آن
 - p7: روست
 - p8: که  → H834
@@ -751,15 +751,14 @@ Persian entries and current tags:
 - p20: به  → Hb
 - p21: آواز  → H6963
 - p22: من
-- p23: گوش  → H8085
-- p24: نگرفتند  → H3808 H8085
-- p25: و  → Hc
-- p26: بر
-- p27: طبق
-- p28: آن
-- p29: زندگی  → H1980
-- p30: نکردند  → H3808 H1980
-- p31: ،
+- p23: گوش نگرفتند  → H8085
+- p24: و  → Hc
+- p25: بر
+- p26: طبق
+- p27: آن
+- p28: زندگی  → H1980
+- p29: نکردند  → H3808 H1980
+- p30: ،
 
 ## Neighbouring verses (context only, not for review)
 

@@ -4,7 +4,7 @@ Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change
 
 ## 16 verse(s) with changes
 
-### Proverbs 24:1: 3 word(s) changed
+### Proverbs 24:1: 2 word(s) changed
 
 Reply line 2.
 
@@ -31,7 +31,7 @@ Original words:
 |  | مبر | H408 | H408 |
 |  | ، |  |  |
 | ✱ | و | Hc "and"; H408 אַל "not (the qualified negation…" | Hc "and" |
-| ✱ | مشتاق | H7065 קָנָא "to be (causatively…"; H183 אָוָה "to wish for" | H183 אָוָה "to wish for" |
+|  | مشتاق | H183 | H183 |
 | ✱ | همنشینی |  | H1961 הָיָה "to exist, i.e. be or become…" |
 |  | با | H854 | H854 |
 |  | آنها |  |  |
@@ -103,7 +103,7 @@ Original words:
 |  | نفایس | H5273 | H5273 |
 |  | . |  |  |
 
-### Proverbs 24:5: 2 word(s) changed
+### Proverbs 24:5: 1 word(s) changed
 
 Reply line 5.
 
@@ -122,7 +122,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | مرد |  | H1397 גֶּבֶר "properly…" |
+|  | مرد | H1397 | H1397 |
 |  | حکیم | H2450 | H2450 |
 |  | را |  |  |
 |  | نیرویی | H5797 | H5797 |
@@ -137,7 +137,7 @@ Original words:
 |  | می‌افزاید | H553 | H553 |
 |  | ؛ |  |  |
 
-### Proverbs 24:6: 4 word(s) changed
+### Proverbs 24:6: 5 word(s) changed
 
 Reply line 6.
 
@@ -161,12 +161,12 @@ Original words:
 |  | تدبیرهای | H8458 | H8458 |
 |  | نیکو |  |  |
 |  | می‌توان |  |  |
-|  | به |  |  |
+| ✱ | به | Hl "to" |  |
 |  | جنگ | H4421 | H4421 |
-| ✱ | رفت |  | H6213 עָשָׂה "to do or make…" |
+|  | رفت | H6213 | H6213 |
 |  | ، |  |  |
 |  | و | Hc | Hc |
-|  | با | Hb | Hb |
+| ✱ | با |  | Hb "in" |
 |  | مشاوران | H3289 | H3289 |
 |  | بسیار | H7230 | H7230 |
 |  | می‌توان |  |  |
@@ -174,7 +174,7 @@ Original words:
 | ✱ | شد |  | [پیروز شد] H8668 תְּשׁוּעָה "rescue (literal or figurative…" |
 |  | . |  |  |
 
-### Proverbs 24:7: 6 word(s) changed
+### Proverbs 24:7: 5 word(s) changed
 
 Reply line 7.
 
@@ -194,12 +194,12 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 | ✱ | دست | H2454 חׇכְמוֹת "wisdom" |  |
-| ✱ | نادان | H7311 רוּם "to be high actively…"; H191 אֱוִיל "(figuratively) silly" | Hl "to"; H191 אֱוִיל "(figuratively) silly" |
+| ✱ | نادان | H191 אֱוִיל "(figuratively) silly" | Hl "to"; H191 אֱוִיל "(figuratively) silly" |
 |  | به |  |  |
 |  | حکمت | H2454 | H2454 |
 | ✱ | نمی‌رسد | H3808 לֹא "not (the simple or abs.…" | H7311 רוּם "to be high actively…" |
 |  | ؛ |  |  |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | مجلس | H8179 | H8179 |
 |  | بزرگان |  |  |
 |  | ، |  |  |
@@ -240,7 +240,7 @@ Original words:
 | ✱ | شناخته_خواهد_شد |  | H7121 קָרָא "to call out to (i.e. properly…" |
 |  | . |  |  |
 
-### Proverbs 24:9: 3 word(s) changed
+### Proverbs 24:9: 2 word(s) changed
 
 Reply line 9.
 
@@ -260,7 +260,7 @@ Original words:
 | --- | --- | --- | --- |
 |  | تدبیر | H2154 | H2154 |
 |  | جاهلانه | H200 | H200 |
-| ✱ | گناه | H200 אִוֶּלֶת "silliness"; H2403 חַטָּאָה "an offence (sometimes…" | H2403 חַטָּאָה "an offence (sometimes…" |
+|  | گناه | H2403 | H2403 |
 |  | است |  |  |
 |  | ، |  |  |
 |  | مردمان | H120 | H120 |
@@ -442,14 +442,14 @@ Original words:
 |  | ؛ |  |  |
 | ✱ | عسل | H1706 דְּבַשׁ "honey (from its stickiness)…"; H5317 נֹפֶת "a dripping i.e. of honey…" | H5317 נֹפֶת "a dripping i.e. of honey…" |
 |  | از |  |  |
-|  | شانه | H5317 | H5317 |
-| ✱ | به |  | H5921 עַל "above, over, upon…" |
+| ✱ | شانه |  | H5317 נֹפֶת "a dripping i.e. of honey…" |
+|  | به | H5921 | H5921 |
 |  | کامت | H2441 | H2441 |
 |  | شیرین | H4966 | H4966 |
 |  | خواهد_بود |  |  |
 |  | . |  |  |
 
-### Proverbs 24:14: 9 word(s) changed
+### Proverbs 24:14: 11 word(s) changed
 
 Reply line 14.
 
@@ -472,8 +472,8 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | و |  |  |
-|  | بدان | H3045 | H3045 |
+| ✱ | و | [و بدان] H3045 יָדַע "to know (properly…" |  |
+| ✱ | بدان | [و بدان] H3045 יָדַע "to know (properly…" | H3045 יָדַע "to know (properly…" |
 | ✱ | که | H3651 כֵּן "properly, set upright…" |  |
 |  | حکمت | H2451 | H2451 |
 |  | نیز |  |  |
@@ -495,7 +495,7 @@ Original words:
 | ✱ | و | H3045 יָדַע "to know (properly…"; Hc "and" | Hc "and" |
 |  | امیدت | H8615 | H8615 |
 | ✱ | زایل | H3772 כָּרַת "to cut (off, down or asunder)…" | [زایل نخواهد_شد] H3808 לֹא "not (the simple or abs.…"; H3772 כָּרַת "to cut (off, down or asunder)…" |
-| ✱ | نخواهد_شد | H3808 לֹא "not (the simple or abs.…" | [زایل نخواهد_شد] H3808 לֹא "not (the simple or abs.…"; H3772 כָּרַת "to cut (off, down or asunder)…" |
+| ✱ | نخواهد_شد | H3808 לֹא "not (the simple or abs.…"; H3772 כָּרַת "to cut (off, down or asunder)…" | [زایل نخواهد_شد] H3808 לֹא "not (the simple or abs.…"; H3772 כָּרַת "to cut (off, down or asunder)…" |
 |  | . |  |  |
 
 ### Proverbs 24:15: 6 word(s) changed
@@ -518,7 +518,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | ای | H408 אַל "not (the qualified negation…"; H693 אָרַב "to lurk" |  |
+| ✱ | ای | H693 אָרַב "to lurk" |  |
 |  | شریر | H7563 | H7563 |
 |  | ، |  |  |
 | ✱ | در | Hl "to" |  |
@@ -536,7 +536,7 @@ Original words:
 | ✱ | مکن | H408 אַל "not (the qualified negation…" | [تاراج مکن] H408 אַל "not (the qualified negation…"; H7703 שָׁדַד "properly, to be burly…" |
 |  | ؛ |  |  |
 
-### Proverbs 24:16: 7 word(s) changed
+### Proverbs 24:16: 6 word(s) changed
 
 Reply line 16.
 
@@ -566,9 +566,9 @@ Original words:
 | ✱ | نیز | H6965 קוּם "to rise (in various…" |  |
 |  | بیفتد | H5307 | H5307 |
 |  | ، |  |  |
-| ✱ | باز | H6965 קוּם "to rise (in various…" |  |
+|  | باز |  |  |
 | ✱ | بر |  | [بر خواهد_خاست] H6965 קוּם "to rise (in various…" |
-| ✱ | خواهد_خاست |  | [بر خواهد_خاست] H6965 קוּם "to rise (in various…" |
+| ✱ | خواهد_خاست | H6965 קוּם "to rise (in various…" | [بر خواهد_خاست] H6965 קוּם "to rise (in various…" |
 |  | ؛ |  |  |
 |  | اما | Hc | Hc |
 | ✱ | شریران | H7451 רַע "bad or (as noun) evil…" | H7563 רָשָׁע "morally wrong…" |
@@ -578,7 +578,7 @@ Original words:
 |  | خواهند_شد | [سرنگون خواهند_شد] H3782 | [سرنگون خواهند_شد] H3782 |
 |  | . |  |  |
 
-### Proverbs 24:17: 6 word(s) changed
+### Proverbs 24:17: 5 word(s) changed
 
 Reply line 17.
 
@@ -598,7 +598,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | از |  | Hb "in" |
+|  | از | Hb | Hb |
 | ✱ | فرو~افتادن |  | H5307 נָפַל "to fall…" |
 |  | دشمنت | H341 | H341 |
 |  | شادمان | H8055 | H8055 |

@@ -187,7 +187,7 @@ Persian entries and current tags:
 - p2: زمین  → H776
 - p3: در
 - p4: دست  → H3027
-- p5: اوست  → H834 H4278
+- p5: اوست  → H834
 - p6: ،
 - p7: و  → Hc
 - p8: فرازهای  → H8443
@@ -245,13 +245,13 @@ Original words:
 - o7: עֹשֵׂ/נוּ = H6213 עָשָׂה "to do or make…" [HVqrmsc/Sp1cp]
 
 Persian entries and current tags:
-- p1: بیایید  → H1288
+- p1: بیایید
 - p2: تا
 - p3: پرستش  → H7812
 - p4: و  → Hc
 - p5: سَجده کنیم  → H3766
 - p6: ،
-- p7: و  → Hc
+- p7: و
 - p8: در  → Hl H6440
 - p9: پیشگاه  → H6440
 - p10: آفرینندۀ  → H6213
@@ -259,8 +259,9 @@ Persian entries and current tags:
 - p12: ،
 - p13: خداوند  → H3068 H6213
 - p14: ،
-- p15: زانو زنیم  → H3766
-- p16: .
+- p15: زانو
+- p16: زنیم
+- p17: .
 
 ### Psalms 95:7
 
@@ -283,7 +284,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: زیرا  → H3588
-- p2: او  → H1931
+- p2: او
 - p3: خدای  → H430
 - p4: ماست
 - p5: ،
@@ -428,7 +429,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: پس  → H834
-- p2: در
+- p2: در  → Hb
 - p3: خشم  → H639
 - p4: خود
 - p5: سوگند خوردم  → H7650
@@ -530,7 +531,7 @@ Persian entries and current tags:
 - p8: و
 - p9: اعمال شگفتش  → H6381
 - p10: را
-- p11: در  → Hb
+- p11: در
 - p12: میان  → H1471
 - p13: همۀ  → H3605
 - p14: قومها  → H5971
@@ -628,8 +629,8 @@ Persian entries and current tags:
 - p8: و
 - p9: توانایی  → H5797
 - p10: و  → Hc
-- p11: زیبایی  → H1926 H8597
-- p12: در
+- p11: زیبایی  → H8597
+- p12: در  → Hb
 - p13: قُدس  → H4720
 - p14: وی
 - p15: .
@@ -659,7 +660,7 @@ Persian entries and current tags:
 - p7: را
 - p8: بگویید  → H3051
 - p9: !
-- p10: وصف  → H3051
+- p10: وصف
 - p11: جلال  → H3519
 - p12: و  → Hc
 - p13: قوّت  → H5797
@@ -694,7 +695,7 @@ Persian entries and current tags:
 - p8: هدیه  → H5375 H4503
 - p9: بیاورید
 - p10: و  → Hc
-- p11: به
+- p11: به  → Hl
 - p12: صحنهای  → H2691
 - p13: او
 - p14: بیایید  → H935
@@ -718,12 +719,12 @@ Original words:
 Persian entries and current tags:
 - p1: خداوند  → H3068
 - p2: را
-- p3: در
+- p3: در  → Hb
 - p4: فرّ  → H1927
 - p5: قدوسیتش  → H6944
 - p6: بپرستید  → H7812
 - p7: !
-- p8: ای
+- p8: ای  → H7812
 - p9: تمامی  → H3605
 - p10: زمین  → H776
 - p11: ،
@@ -755,7 +756,7 @@ Original words:
 Persian entries and current tags:
 - p1: باشد  → H559
 - p2: که
-- p3: در
+- p3: در  → Hb
 - p4: میان قومها  → H1471
 - p5: بگویید  → H559
 - p6: ،
@@ -807,11 +808,10 @@ Persian entries and current tags:
 - p10: چه
 - p11: آن
 - p12: را
-- p13: پر  → H4393
-- p14: می‌سازد
-- p15: ،
-- p16: غُرّش کند  → H7481
-- p17: ؛
+- p13: پر می‌سازد  → H4393
+- p14: ،
+- p15: غُرّش کند  → H7481
+- p16: ؛
 
 ### Psalms 96:12
 
@@ -834,7 +834,7 @@ Persian entries and current tags:
 - p1: صحرا  → H7704
 - p2: و  → Hc
 - p3: هرآنچه  → H3605 H834
-- p4: در  → Hb
+- p4: در
 - p5: آن
 - p6: است
 - p7: ،
@@ -870,35 +870,34 @@ Original words:
 - o13: בֶּ/אֱמוּנָת/וֹ = Hb "in" + H530 אֱמוּנָה "literally firmness; figuratively security…" [HR/Ncfsc/Sp3ms]
 
 Persian entries and current tags:
-- p1: پیش  → H6440
-- p2: روی
-- p3: خداوند  → H3068
-- p4: ،
-- p5: زیرا  → H3588
-- p6: که
-- p7: می‌آید  → H935
-- p8: ،
-- p9: آری  → H3588
-- p10: او
-- p11: می‌آید  → H935
-- p12: تا
-- p13: زمین  → H776
-- p14: را
-- p15: داوری کند  → H8199
-- p16: .
-- p17: او
-- p18: جهان  → H8398
-- p19: را
-- p20: به  → Hb
-- p21: انصاف  → H6664
-- p22: داوری خواهد_کرد  → H8199
-- p23: ،
-- p24: و  → Hc
-- p25: ملتها  → H5971
-- p26: را
-- p27: به  → Hb
-- p28: امانت خویش  → H530
-- p29: .
+- p1: پیش روی  → H6440
+- p2: خداوند  → H3068
+- p3: ،
+- p4: زیرا  → H3588
+- p5: که
+- p6: می‌آید  → H935
+- p7: ،
+- p8: آری  → H3588
+- p9: او
+- p10: می‌آید  → H935
+- p11: تا
+- p12: زمین  → H776
+- p13: را
+- p14: داوری کند  → H8199
+- p15: .
+- p16: او
+- p17: جهان  → H8398
+- p18: را
+- p19: به  → Hb
+- p20: انصاف  → H6664
+- p21: داوری خواهد_کرد  → H8199
+- p22: ،
+- p23: و  → Hc
+- p24: ملتها  → H5971
+- p25: را
+- p26: به  → Hb
+- p27: امانت خویش  → H530
+- p28: .
 
 ## Neighbouring verses (context only, not for review)
 

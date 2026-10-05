@@ -4,7 +4,7 @@ Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change
 
 ## 13 verse(s) with changes
 
-### Proverbs 27:15: 4 word(s) changed
+### Proverbs 27:15: 1 word(s) changed
 
 Reply line 2.
 
@@ -23,10 +23,10 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | چکیدنِ | [چکیدنِ پیوستۀ آب] H1812 דֶּלֶף "a dripping" | H1812 דֶּלֶף "a dripping" |
-| ✱ | پیوستۀ | [چکیدنِ پیوستۀ آب] H1812 דֶּלֶף "a dripping" | H2956 טָרַד "to drive on…" |
-| ✱ | آب | [چکیدنِ پیوستۀ آب] H1812 דֶּלֶף "a dripping" |  |
-| ✱ | در |  | Hb "in" |
+|  | چکیدنِ | H1812 | H1812 |
+| ✱ | پیوستۀ |  | H2956 טָרַד "to drive on…" |
+|  | آب |  |  |
+|  | در | Hb | Hb |
 |  | روز | H3117 | H3117 |
 |  | بارانی | H5464 | H5464 |
 |  | و | Hc | Hc |
@@ -67,7 +67,7 @@ Original words:
 |  | دست | H3225 | H3225 |
 |  | . |  |  |
 
-### Proverbs 27:17: 1 word(s) changed
+### Proverbs 27:17: 3 word(s) changed
 
 Reply line 4.
 
@@ -89,8 +89,8 @@ Original words:
 |  | آهن | H1270 | H1270 |
 |  | آهن | H1270 | H1270 |
 |  | را |  |  |
-|  | تیز | [تیز می‌کند] H2300 | [تیز می‌کند] H2300 |
-|  | می‌کند | [تیز می‌کند] H2300 | [تیز می‌کند] H2300 |
+| ✱ | تیز | H2300 חָדַד "to be (causatively…" | [تیز می‌کند] H2300 חָדַד "to be (causatively…" |
+| ✱ | می‌کند | H2300 חָדַד "to be (causatively…" | [تیز می‌کند] H2300 חָדַד "to be (causatively…" |
 |  | ، |  |  |
 |  | مرد | H376 | H376 |
 |  | ، |  |  |
@@ -166,7 +166,7 @@ Original words:
 | ✱ | چهرۀ |  | H6440 פָּנִים "the face (as the part that…" |
 |  | انسان | H120 | H120 |
 |  | را |  |  |
-| ✱ | منعکس | H3651 כֵּן "properly, set upright…" | [منعکس می‌کند]  |
+| ✱ | منعکس |  | [منعکس می‌کند]  |
 | ✱ | می‌کند |  | [منعکس می‌کند]  |
 |  | ، |  |  |
 |  | دل | H3820 | H3820 |
@@ -236,7 +236,7 @@ Original words:
 |  | برای | Hl | Hl |
 |  | طلاست | H2091 | H2091 |
 |  | ، |  |  |
-| ✱ | ستایش |  | H4110 מַהֲלָל "fame" |
+| ✱ | ستایش | H3564 כּוּר "a pot or furnace (as if…" | H4110 מַהֲלָל "fame" |
 | ✱ | نیز |  | Hc "and" |
 |  | برای | Hl | Hl |
 | ✱ | آزمایش | H4110 מַהֲלָל "fame" |  |
@@ -271,7 +271,7 @@ Original words:
 |  | احمق | H191 | H191 |
 |  | را | H853 | H853 |
 |  | چون |  |  |
-| ✱ | گندم | H4388 מַכְתֵּשׁ "a mortar…"; H7383 רִיפָה "only plural)…" | H7383 רִיפָה "only plural)…" |
+| ✱ | گندم | H4388 מַכְתֵּשׁ "a mortar…" | H7383 רִיפָה "only plural)…" |
 |  | نیز |  |  |
 | ✱ | در |  | Hb "in" |
 | ✱ | هاون | H5940 עֱלִי "a pestle (as lifted)" | H4388 מַכְתֵּשׁ "a mortar…" |
@@ -346,7 +346,7 @@ Original words:
 | ✱ | نه |  | H518 אִם "used very widely as…" |
 |  | حتی |  |  |
 | ✱ | تاج | H5145 נֶזֶר "properly, something set apart…" | [تاج و تخت] H5145 נֶזֶר "properly, something set apart…" |
-| ✱ | و | Hc "and" | [تاج و تخت] H5145 נֶזֶר "properly, something set apart…" |
+| ✱ | و |  | [تاج و تخت] H5145 נֶזֶר "properly, something set apart…" |
 | ✱ | تخت | H5145 נֶזֶר "properly, something set apart…" | [تاج و تخت] H5145 נֶזֶר "properly, something set apart…" |
 |  | ، |  |  |
 |  | باقی |  |  |
@@ -378,7 +378,7 @@ Original words:
 | --- | --- | --- | --- |
 | ✱ | پس | Hc "and" |  |
 | ✱ | چون | H7200 רָאָה "to see…" |  |
-| ✱ | علفها | H2682 חָצִיר "grass…"; H1877 דֶּשֶׁא "a sprout; by analogy, grass" | H2682 חָצִיר "grass…" |
+| ✱ | علفها | H1877 דֶּשֶׁא "a sprout; by analogy, grass" | H2682 חָצִיר "grass…" |
 |  | را |  |  |
 |  | بزنند | H1540 | H1540 |
 |  | و | Hc | Hc |

@@ -4,7 +4,7 @@ Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change
 
 ## 13 verse(s) with changes
 
-### Proverbs 27:1: 3 word(s) changed
+### Proverbs 27:1: 2 word(s) changed
 
 Reply line 2.
 
@@ -32,7 +32,7 @@ Original words:
 |  | مکن | H408 | H408 |
 |  | ، |  |  |
 |  | زیرا | H3588 | H3588 |
-| ✱ | نمی‌دانی | H1984 הָלַל "to be clear (orig. of sound…"; H3808 לֹא "not (the simple or abs.…"; H3045 יָדַע "to know (properly…" | H3808 לֹא "not (the simple or abs.…"; H3045 יָדַע "to know (properly…" |
+|  | نمی‌دانی | H3808 H3045 | H3808 H3045 |
 |  | روز | H3117 | H3117 |
 |  | چه | H4100 | H4100 |
 |  | خواهد_زایید | H3205 | H3205 |
@@ -116,7 +116,7 @@ Original words:
 |  | است |  |  |
 |  | ! |  |  |
 
-### Proverbs 27:4: 6 word(s) changed
+### Proverbs 27:4: 5 word(s) changed
 
 Reply line 5.
 
@@ -136,12 +136,12 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | خشم | H2534 חֵמָה "heat…"; H639 אַף "properly, the nose or nostril…" | H2534 חֵמָה "heat…" |
+|  | خشم | H2534 | H2534 |
 |  | ، |  |  |
-|  | خانمان‌سوز | H395 | H395 |
+| ✱ | خانمان‌سوز | H395 אַכְזְרִיּוּת "fierceness"; H7858 שֶׁטֶף "a deluge (literally or…" | H395 אַכְזְרִיּוּת "fierceness" |
 |  | است |  |  |
 |  | و | Hc | Hc |
-| ✱ | غضب | H2534 חֵמָה "heat…"; H639 אַף "properly, the nose or nostril…" | H639 אַף "properly, the nose or nostril…" |
+|  | غضب | H639 | H639 |
 |  | ، |  |  |
 |  | سیل‌آسا | H7858 | H7858 |
 |  | ، |  |  |
@@ -155,7 +155,7 @@ Original words:
 | ✱ | آورد |  | [تاب آورد] H5975 עָמַד "to stand…" |
 |  | ؟ |  |  |
 
-### Proverbs 27:5: 3 word(s) changed
+### Proverbs 27:5: 4 word(s) changed
 
 Reply line 6.
 
@@ -175,13 +175,13 @@ Original words:
 |  | توبیخِ | H8433 | H8433 |
 | ✱ | آشکار | H8433 תּוֹכֵחָה "chastisement…"; H1540 גָּלָה "to denude (especially in a…" | H1540 גָּלָה "to denude (especially in a…" |
 |  | ، |  |  |
-|  | بِه | H2896 | H2896 |
+| ✱ | بِه |  | H2896 טוֹב "good (as an adjective) in the…" |
 | ✱ | از | Hm "from"; H5641 סָתַר "to hide (by covering)…" | Hm "from" |
 | ✱ | محبت | H8433 תּוֹכֵחָה "chastisement…"; H160 אַהֲבָה "affection (in a good or a bad…" | H160 אַהֲבָה "affection (in a good or a bad…" |
 |  | پنهان | H5641 | H5641 |
 |  | . |  |  |
 
-### Proverbs 27:6: 8 word(s) changed
+### Proverbs 27:6: 9 word(s) changed
 
 Reply line 7.
 
@@ -208,7 +208,7 @@ Original words:
 | ✱ | وفادار | [وفادار است] H6280 עָתַר "to be (causatively…" | [وفادار است] H539 אָמַן "properly…" |
 | ✱ | است | [وفادار است] H6280 עָתַר "to be (causatively…" | [وفادار است] H539 אָמַן "properly…" |
 |  | ، |  |  |
-|  | اما | Hc | Hc |
+| ✱ | اما |  | Hc "and" |
 |  | به |  |  |
 | ✱ | صد |  | H6280 עָתַר "to be (causatively…" |
 |  | بوسۀ | H5390 | H5390 |
@@ -219,7 +219,7 @@ Original words:
 | ✱ | کرد | [اعتماد کرد] H539 אָמַן "properly…" | [اعتماد کرد]  |
 |  | . |  |  |
 
-### Proverbs 27:7: 4 word(s) changed
+### Proverbs 27:7: 2 word(s) changed
 
 Reply line 8.
 
@@ -241,16 +241,16 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | شکمِ | H5315 | H5315 |
-| ✱ | سیر | H7649 שָׂבֵעַ "satiated (in a pleasant or…"; H7457 רָעֵב "hungry (more or less…" | H7649 שָׂבֵעַ "satiated (in a pleasant or…" |
+|  | سیر | H7649 | H7649 |
 |  | از |  |  |
 | ✱ | شانِ | H947 בּוּס "to trample (literally or…" | H5317 נֹפֶת "a dripping i.e. of honey…" |
 |  | عسل | H5317 | H5317 |
-| ✱ | کراهت |  | [کراهت دارد] H947 בּוּס "to trample (literally or…" |
-| ✱ | دارد | H947 בּוּס "to trample (literally or…" | [کراهت دارد] H947 בּוּס "to trample (literally or…" |
+|  | کراهت | [کراهت دارد] H947 | [کراهت دارد] H947 |
+|  | دارد | [کراهت دارد] H947 | [کراهت دارد] H947 |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
 |  | برای |  |  |
-|  | شکم | H5315 | H5315 |
+| ✱ | شکم |  | H5315 נֶפֶשׁ "properly…" |
 |  | گرسنه | H7457 | H7457 |
 |  | ، |  |  |
 |  | هر | H3605 | H3605 |
@@ -392,7 +392,7 @@ Original words:
 |  | است |  |  |
 |  | . |  |  |
 
-### Proverbs 27:12: 4 word(s) changed
+### Proverbs 27:12: 3 word(s) changed
 
 Reply line 12.
 
@@ -425,7 +425,7 @@ Original words:
 | ✱ | پیش | H5674 עָבַר "to cross over…" | [پیش می‌رود] H5674 עָבַר "to cross over…" |
 | ✱ | می‌رود |  | [پیش می‌رود] H5674 עָבַר "to cross over…" |
 |  | و |  |  |
-| ✱ | تاوانش | H5641 סָתַר "to hide (by covering)…"; H6064 עָנַשׁ "properly, to urge…" | H6064 עָנַשׁ "properly, to urge…" |
+|  | تاوانش | H6064 | H6064 |
 |  | را |  |  |
 | ✱ | می‌دهد |  | H6064 עָנַשׁ "properly, to urge…" |
 |  | ! |  |  |
@@ -475,7 +475,7 @@ Original words:
 | ✱ | دار |  | [گرو نگاه دار] H2254 חָבַל "to wind tightly (as a rope)…" |
 |  | . |  |  |
 
-### Proverbs 27:14: 1 word(s) changed
+### Proverbs 27:14: 2 word(s) changed
 
 Reply line 14.
 
@@ -504,7 +504,7 @@ Original words:
 |  | خود |  |  |
 |  | را |  |  |
 |  | به | Hb | Hb |
-|  | صدای | H6963 | H6963 |
+| ✱ | صدای | H6963 קוֹל "a voice or sound"; H1419 גָּדוֹל "great (in any sense)…" | H6963 קוֹל "a voice or sound" |
 |  | بلند | H1419 | H1419 |
 |  | برکت | [برکت دهد] H1288 | [برکت دهد] H1288 |
 |  | دهد | [برکت دهد] H1288 | [برکت دهد] H1288 |

@@ -114,7 +114,7 @@ Persian entries and current tags:
 - p5: ،
 - p6: به
 - p7: تو
-- p8: پناه  → H7692 H3568 H2620
+- p8: پناه  → H7692 H2620
 - p9: می‌آورم
 - p10: ؛
 - p11: مرا
@@ -149,11 +149,12 @@ Persian entries and current tags:
 - p6: بدرند  → H2963
 - p7: ،
 - p8: و  → Hc
-- p9: پاره پاره‌ام کنند  → H2963
-- p10: و  → Hc
-- p11: رهاننده‌ای  → H5337
-- p12: نباشد  → H369
-- p13: .
+- p9: پاره
+- p10: پاره‌ام کنند  → H2963
+- p11: و  → Hc
+- p12: رهاننده‌ای  → H5337
+- p13: نباشد  → H369
+- p14: .
 
 ### Psalms 7:3
 
@@ -182,7 +183,7 @@ Persian entries and current tags:
 - p8: را
 - p9: کرده_باشم  → H6213
 - p10: و
-- p11: دستانم  → H3709
+- p11: دستانم  → H3426 H3709
 - p12: به
 - p13: ظلم  → H5766
 - p14: آلوده
@@ -213,11 +214,11 @@ Persian entries and current tags:
 - p7: عوض داده_باشم  → H1580
 - p8: ،
 - p9: یا
-- p10: دشمنم  → H6887
+- p10: دشمنم  → H2502 H6887
 - p11: را
 - p12: بی‌سبب  → H7387
 - p13: تاراج
-- p14: کرده_باشم
+- p14: کرده_باشم  → H2502
 - p15: ،
 
 ### Psalms 7:5
@@ -249,7 +250,7 @@ Persian entries and current tags:
 - p8: من
 - p9: برسد  → H5381
 - p10: ؛
-- p11: بگذار
+- p11: بگذار  → H7291
 - p12: حیاتم  → H2416
 - p13: را
 - p14: بر
@@ -260,10 +261,9 @@ Persian entries and current tags:
 - p19: را
 - p20: در  → Hl
 - p21: خاک  → H6083
-- p22: ساکن  → H3519 H7931
-- p23: سازد
-- p24: .
-- p25: سِلاه  → H5542
+- p22: ساکن سازد  → H7931
+- p23: .
+- p24: سِلاه  → H5542
 
 ### Psalms 7:6
 
@@ -285,13 +285,13 @@ Original words:
 Persian entries and current tags:
 - p1: خداوندا  → H6965 H3068
 - p2: ،
-- p3: در
+- p3: در  → Hb
 - p4: خشم  → H639
 - p5: خویش
 - p6: برخیز  → H6965
 - p7: ،
 - p8: و
-- p9: در
+- p9: در  → Hb
 - p10: برابر
 - p11: غضب  → H5678
 - p12: دشمنانم  → H6887
@@ -330,7 +330,7 @@ Persian entries and current tags:
 - p6: گرد
 - p7: آیند
 - p8: ،
-- p9: فوق
+- p9: فوق  → H5921
 - p10: ایشان
 - p11: به  → Hl
 - p12: مقام
@@ -413,7 +413,7 @@ Persian entries and current tags:
 - p17: و  → Hc
 - p18: پارسایان  → H6662
 - p19: را
-- p20: استوار  → H3559
+- p20: استوار  → H3559 H974
 - p21: گردان
 - p22: .
 
@@ -579,7 +579,7 @@ Original words:
 - o6: יִפְעָל = H6466 פָּעַל "to do or make (systematically and habitually)…" [HVqi3ms]
 
 Persian entries and current tags:
-- p1: حفره‌ای  → H7845
+- p1: حفره‌ای  → H953
 - p2: می‌کَنَد  → H3738
 - p3: و  → Hc
 - p4: آن
@@ -587,11 +587,11 @@ Persian entries and current tags:
 - p6: گود می‌کُند  → H2658
 - p7: ،
 - p8: و  → Hc
-- p9: در
+- p9: در  → Hb
 - p10: چاهی  → H953 H7845
 - p11: که
 - p12: خود
-- p13: کنده  → H3738 H6466
+- p13: کنده  → H6466
 - p14: است
 - p15: ،
 - p16: فرو~می‌افتد  → H5307
@@ -614,7 +614,7 @@ Original words:
 Persian entries and current tags:
 - p1: فتنۀ  → H5999
 - p2: او
-- p3: بر
+- p3: بر  → Hb
 - p4: سرش  → H7218
 - p5: خواهد_برگشت  → H7725
 - p6: ،
@@ -623,9 +623,8 @@ Persian entries and current tags:
 - p9: بر  → H5921
 - p10: فرق  → H6936
 - p11: سرش
-- p12: فرود  → H3381
-- p13: خواهد_آمد  → H6936 H3381
-- p14: .
+- p12: فرود خواهد_آمد  → H3381
+- p13: .
 
 ### Psalms 7:17
 

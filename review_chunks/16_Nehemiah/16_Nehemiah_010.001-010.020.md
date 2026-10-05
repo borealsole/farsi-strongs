@@ -127,9 +127,9 @@ Original words:
 Persian entries and current tags:
 - p1: سِرایا  → H8304
 - p2: ،
-- p3: عَزَریا  → H5838 H3414
+- p3: عَزَریا  → H5838
 - p4: ،
-- p5: اِرمیا  → H5838 H3414
+- p5: اِرمیا  → H3414
 - p6: ،
 
 ### Nehemiah 10:3

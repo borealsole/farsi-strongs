@@ -135,7 +135,7 @@ Persian entries and current tags:
 - p6: عمرت  → H2416
 - p7: خواهد_افزود  → H3254
 - p8: و  → Hc
-- p9: سعادتمند
+- p9: سعادتمند  → H7965
 - p10: خواهی_شد
 - p11: .
 
@@ -232,7 +232,7 @@ Persian entries and current tags:
 - p7: توکل کن  → H982
 - p8: ،
 - p9: و  → Hc
-- p10: بر
+- p10: بر  → H413
 - p11: عقل  → H998
 - p12: خویش
 - p13: تکیه  → H8172
@@ -261,7 +261,7 @@ Persian entries and current tags:
 - p6: را
 - p7: در
 - p8: نظر
-- p9: داشته  → H3045
+- p9: داشته
 - p10: باش
 - p11: ،
 - p12: و  → Hc
@@ -317,7 +317,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: این
-- p2: برای
+- p2: برای  → Hl
 - p3: ناف  → H7500
 - p4: تو
 - p5: شفا  → H8270
@@ -405,7 +405,7 @@ Persian entries and current tags:
 - p3: تأدیب  → H4148 H3988 H8433
 - p4: خداوند
 - p5: را
-- p6: خوار
+- p6: خوار  → H3988
 - p7: مشمار  → H6973
 - p8: ،
 - p9: و  → Hc
@@ -514,7 +514,7 @@ Persian entries and current tags:
 - p11: آن
 - p12: از  → Hm
 - p13: طلا  → H2742
-- p14: نیکوتر  → H2896
+- p14: نیکوتر
 - p15: .
 
 ### Proverbs 3:15
@@ -535,8 +535,8 @@ Original words:
 Persian entries and current tags:
 - p1: از  → Hm
 - p2: یاقوت  → H6443
-- p3: گرانبهاتر  → H3368
-- p4: است
+- p3: گرانبهاتر  → H3368 H6443
+- p4: است  → H1931
 - p5: ،
 - p6: و  → Hc
 - p7: هیچ‌یک  → H3605 H3808
@@ -545,8 +545,10 @@ Persian entries and current tags:
 - p10: تو
 - p11: با
 - p12: آن
-- p13: برابری نتواند کرد  → H7737
-- p14: .
+- p13: برابری  → H7737
+- p14: نتواند  → H3808 H7737
+- p15: کرد
+- p16: .
 
 ### Proverbs 3:16
 
@@ -631,7 +633,7 @@ Persian entries and current tags:
 - p12: آنان
 - p13: را
 - p14: که
-- p15: به  → Hb
+- p15: به
 - p16: چنگش گیرند  → H8551
 - p17: ،
 - p18: برکت  → H833

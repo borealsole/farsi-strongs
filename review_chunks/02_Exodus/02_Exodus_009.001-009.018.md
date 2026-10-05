@@ -114,7 +114,7 @@ Persian entries and current tags:
 - p5: گفت  → H559
 - p6: :
 - p7: «
-- p8: نزد  → H413 H559
+- p8: نزد  → H559 H413
 - p9: فرعون  → H6547
 - p10: برو
 - p11: و  → Hc
@@ -159,8 +159,9 @@ Persian entries and current tags:
 - p7: همچنان  → H5750
 - p8: مانع
 - p9: از
-- p10: رفتنشان شوی  → H7971
-- p11: ،
+- p10: رفتنشان
+- p11: شوی
+- p12: ،
 
 ### Exodus 9:3
 
@@ -195,10 +196,10 @@ Persian entries and current tags:
 - p8: در  → Hb
 - p9: صحرایند  → H7704
 - p10: -
-- p11: از
+- p11: از  → Hb
 - p12: اسب  → H5483 H1581
 - p13: و
-- p14: الاغ  → H2543
+- p14: الاغ  → H7704
 - p15: و
 - p16: شتر  → H1581
 - p17: گرفته
@@ -246,7 +247,7 @@ Persian entries and current tags:
 - p12: به
 - p13: گونه‌ای
 - p14: که
-- p15: از
+- p15: از  → Hm
 - p16: حیوانات  → H1121
 - p17: بنی‌اسرائیل  → H3478
 - p18: هیچ  → H3808
@@ -472,7 +473,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: دوده
-- p2: به
+- p2: به  → Hl
 - p3: غبار  → H80
 - p4: تبدیل
 - p5: شده
@@ -521,8 +522,8 @@ Original words:
 
 Persian entries and current tags:
 - p1: پس  → Hc
-- p2: موسی  → H4872
-- p3: و  → Hc
+- p2: موسی
+- p3: و
 - p4: هارون
 - p5: از
 - p6: کوره‌ای  → H3536
@@ -580,10 +581,10 @@ Persian entries and current tags:
 - p3: سبب  → H6440
 - p4: دُمَلها  → H2748 H7822
 - p5: نتوانستند  → H3808 H3201
-- p6: در  → H5975
+- p6: در  → H5975 Hb
 - p7: حضور  → H6440
 - p8: فرعون  → H4872
-- p9: بایستند
+- p9: بایستند  → H5975
 - p10: ،
 - p11: زیرا  → H3588
 - p12: بر
@@ -625,7 +626,7 @@ Persian entries and current tags:
 - p5: را  → H853
 - p6: سخت کرد  → H2388
 - p7: ،
-- p8: و  → Hc
+- p8: و
 - p9: او
 - p10: چنانکه  → H834
 - p11: خداوند  → H3068
@@ -635,11 +636,11 @@ Persian entries and current tags:
 - p15: ،
 - p16: همچنان
 - p17: به  → H413
-- p18: سخنان  → H8085 H1696
+- p18: سخنان  → H8085
 - p19: آن
 - p20: دو
 - p21: گوش  → H8085
-- p22: نسپرد
+- p22: نسپرد  → H3808
 - p23: .
 
 ### Exodus 9:13
@@ -732,7 +733,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: وگرنه  → H3588
-- p2: این  → H2063
+- p2: این
 - p3: بار  → H6471
 - p4: تمامی  → H3605
 - p5: بلایای  → H4046
@@ -752,7 +753,7 @@ Persian entries and current tags:
 - p19: تا
 - p20: بدانی  → H3045
 - p21: که  → H3588
-- p22: در
+- p22: در  → Hb
 - p23: تمامی  → H3605
 - p24: جهان  → H776
 - p25: مانند  → H3644
@@ -786,7 +787,7 @@ Persian entries and current tags:
 - p3: دست  → H3027
 - p4: خود
 - p5: را  → H853
-- p6: دراز کنم  → H7971 H3582
+- p6: دراز کنم  → H7971
 - p7: و  → Hc
 - p8: تا
 - p9: هم‌اکنون  → H6258
@@ -846,7 +847,7 @@ Persian entries and current tags:
 - p17: و  → Hc
 - p18: تا  → H4616
 - p19: نامم  → H8034
-- p20: در  → H5608
+- p20: در  → H5608 Hb
 - p21: سراسر  → H3605
 - p22: جهان  → H776
 - p23: اعلام گردد  → H5608
@@ -912,9 +913,9 @@ Persian entries and current tags:
 - p6: تگرگی  → H4305 H1259
 - p7: چنان  → H3966
 - p8: سخت  → H3515
-- p9: بر  → Hb
+- p9: بر
 - p10: مصر  → H4714
-- p11: ببارانم
+- p11: ببارانم  → H1259
 - p12: که  → H834
 - p13: نظیر  → H3644
 - p14: آن
@@ -927,7 +928,7 @@ Persian entries and current tags:
 - p21: تا  → H5704
 - p22: به
 - p23: حال  → H6258
-- p24: نیامده  → H3808
+- p24: نیامده  → H4305 H3808
 - p25: است
 - p26: .
 

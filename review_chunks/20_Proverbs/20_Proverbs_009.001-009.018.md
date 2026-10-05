@@ -130,7 +130,7 @@ Persian entries and current tags:
 - p4: را
 - p5: طبخ کرده  → H2873
 - p6: ،
-- p7: شراب  → H3196
+- p7: شراب  → H2874 H3196
 - p8: خویش
 - p9: را
 - p10: برآمیخته  → H4537
@@ -138,7 +138,7 @@ Persian entries and current tags:
 - p12: و
 - p13: سفره‌اش  → H7979
 - p14: را
-- p15: نیز
+- p15: نیز  → H637
 - p16: آراسته است  → H6186
 - p17: .
 
@@ -165,7 +165,7 @@ Persian entries and current tags:
 - p6: بالاترین نقطۀ  → H4791
 - p7: شهر  → H7176
 - p8: ندا  → H7121
-- p9: در  → H5921
+- p9: در
 - p10: می‌دهد
 - p11: :
 
@@ -197,7 +197,7 @@ Persian entries and current tags:
 - p10: »
 - p11: و
 - p12: به
-- p13: کم‌عقلان  → H2638
+- p13: کم‌عقلان  → H2638 H3820
 - p14: ،
 - p15: می‌گوید  → H559
 - p16: :
@@ -284,9 +284,9 @@ Persian entries and current tags:
 - p5: را
 - p6: تأدیب کند  → H3256
 - p7: ،
-- p8: به  → Hl
+- p8: به  → Hl H3971
 - p9: استقبال  → H7036
-- p10: بی‌حرمتی
+- p10: بی‌حرمتی  → H3971
 - p11: می‌رود  → H3947
 - p12: ؛
 - p13: هر
@@ -294,11 +294,12 @@ Persian entries and current tags:
 - p15: مرد
 - p16: شریر  → H3887 H7563
 - p17: را
-- p18: توبیخ کند  → H3198
-- p19: ،
-- p20: بد
-- p21: می‌بیند
-- p22: .
+- p18: توبیخ  → H3198
+- p19: کند  → H3256
+- p20: ،
+- p21: بد
+- p22: می‌بیند
+- p23: .
 
 ### Proverbs 9:8
 
@@ -321,7 +322,7 @@ Persian entries and current tags:
 - p3: توبیخ  → H3198
 - p4: مکن  → H408
 - p5: ،
-- p6: مبادا  → H6435 H3198
+- p6: مبادا  → H6435
 - p7: از
 - p8: تو
 - p9: نفرت کند  → H8130
@@ -354,7 +355,7 @@ Original words:
 Persian entries and current tags:
 - p1: حکیم  → H2450
 - p2: را
-- p3: بیاموز
+- p3: بیاموز  → H2449
 - p4: که
 - p5: حکیمتر خواهد_شد  → H2449
 - p6: ؛
@@ -393,7 +394,7 @@ Persian entries and current tags:
 - p8: و  → Hc
 - p9: شناخت  → H1847
 - p10: آن
-- p11: قدوس  → H6918 H998
+- p11: قدوس  → H6918
 - p12: ،
 - p13: بصیرت  → H998
 - p14: .
@@ -531,7 +532,7 @@ Original words:
 - o5: אֹרְחוֹתָ/ם = H734 אֹרַח "a well-trodden road (literally or figuratively)…" [HNcbpc/Sp3mp]
 
 Persian entries and current tags:
-- p1: و
+- p1: و  → H7121
 - p2: رهگذران  → H5674
 - p3: را
 - p4: ندا می‌دهد  → H7121
@@ -635,7 +636,7 @@ Persian entries and current tags:
 - p9: و
 - p10: مهمانان  → H7121
 - p11: او
-- p12: در
+- p12: در  → Hb
 - p13: اعماق  → H6012
 - p14: گورند  → H7585
 - p15: .

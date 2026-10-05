@@ -1,10 +1,10 @@
 # Check of 22_Song_of_Solomon_005.001-005.016.md
 
-Generated 2026-10-04 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
 ## 15 verse(s) with changes
 
-### Song of Solomon 5:1: 5 word(s) changed
+### Song of Solomon 5:1: 8 word(s) changed
 
 Reply line 2.
 
@@ -38,7 +38,7 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | من |  |  |
-|  | به | Hl | Hl |
+| ✱ | به |  | Hl "to" |
 |  | باغ | H1588 | H1588 |
 |  | خویش |  |  |
 |  | درآمده‌ام | H935 | H935 |
@@ -59,8 +59,8 @@ Original words:
 |  | عطر | H1313 | H1313 |
 |  | خویش |  |  |
 |  | ؛ |  |  |
-|  | شانۀ | [شانۀ عسل] H3293 | [شانۀ عسل] H3293 |
-|  | عسل | [شانۀ عسل] H3293 | [شانۀ عسل] H3293 |
+| ✱ | شانۀ | H3293 יַעַר "a copse of bushes…" | [شانۀ عسل] H3293 יַעַר "a copse of bushes…" |
+| ✱ | عسل | H3293 יַעַר "a copse of bushes…"; H1706 דְּבַשׁ "honey (from its stickiness)…" | [شانۀ عسل] H3293 יַעַר "a copse of bushes…" |
 |  | خود |  |  |
 |  | را |  |  |
 |  | خورده‌ام | H398 | H398 |
@@ -241,11 +241,11 @@ Original words:
 |  | از |  |  |
 |  | برایش | H5921 | H5921 |
 | ✱ | به | H4480 מִן "properly, a part of…" | [به حرکت آمد] H1993 הָמָה "to make a loud sound (like…" |
-| ✱ | حرکت | H3027 יָד "a hand (the open one…" | [به حرکت آمد] H1993 הָמָה "to make a loud sound (like…" |
-| ✱ | آمد |  | [به حرکت آمد] H1993 הָמָה "to make a loud sound (like…" |
+| ✱ | حرکت | [حرکت آمد] H7971 שָׁלַח "to send away, for…" | [به حرکت آمد] H1993 הָמָה "to make a loud sound (like…" |
+| ✱ | آمد | [حرکت آمد] H7971 שָׁלַח "to send away, for…" | [به حرکت آمد] H1993 הָמָה "to make a loud sound (like…" |
 |  | . |  |  |
 
-### Song of Solomon 5:5: 10 word(s) changed
+### Song of Solomon 5:5: 9 word(s) changed
 
 Reply line 6.
 
@@ -270,7 +270,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | برخاستم | H6965 קוּם "to rise (in various…"; H5197 נָטַף "to ooze…" | H6965 קוּם "to rise (in various…" |
+|  | برخاستم | H6965 | H6965 |
 | ✱ | تا |  | Hl "to" |
 |  | در |  |  |
 | ✱ | بر |  | Hl "to" |
@@ -292,7 +292,7 @@ Original words:
 |  | مایع | H5674 | H5674 |
 |  | . |  |  |
 
-### Song of Solomon 5:6: 16 word(s) changed
+### Song of Solomon 5:6: 18 word(s) changed
 
 Reply line 7.
 
@@ -350,8 +350,8 @@ Original words:
 |  | را |  |  |
 |  | جُستم | H1245 | H1245 |
 |  | ، |  |  |
-|  | اما | Hc | Hc |
-|  | نیافتم | H3808 H4672 | H3808 H4672 |
+| ✱ | اما |  | Hc "and" |
+| ✱ | نیافتم | H4672 מָצָא "properly, to come forth to…"; H3808 לֹא "not (the simple or abs.…" | H3808 לֹא "not (the simple or abs.…"; H4672 מָצָא "properly, to come forth to…" |
 |  | ! |  |  |
 |  | او |  |  |
 |  | را |  |  |
@@ -455,7 +455,7 @@ Original words:
 |  | عشقم | H160 | H160 |
 |  | ! |  |  |
 
-### Song of Solomon 5:9: 7 word(s) changed
+### Song of Solomon 5:9: 9 word(s) changed
 
 Reply line 10.
 
@@ -478,7 +478,7 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | ای |  |  |
-|  | دلرباترینِ | H3303 | H3303 |
+| ✱ | دلرباترینِ |  | H3303 יָפֶה "beautiful (literally or…" |
 |  | زنان | H802 | H802 |
 |  | ، |  |  |
 |  | دلدادۀ | H1730 | H1730 |
@@ -497,7 +497,7 @@ Original words:
 | ✱ | بر |  | Hm "from" |
 |  | دلدادگان | H1730 | H1730 |
 |  | دیگر |  |  |
-|  | چه |  |  |
+| ✱ | چه | H4100 מָה "properly…" |  |
 | ✱ | فضیلت | [فضیلت است] H7650 שָׁבַע "to seven oneself…" | [فضیلت است]  |
 | ✱ | است | [فضیلت است] H7650 שָׁבַע "to seven oneself…" | [فضیلت است]  |
 |  | ، |  |  |
@@ -509,7 +509,7 @@ Original words:
 |  | می‌دهی | [قسم می‌دهی] H7650 | [قسم می‌دهی] H7650 |
 |  | ؟ |  |  |
 
-### Song of Solomon 5:10: 4 word(s) changed
+### Song of Solomon 5:10: 6 word(s) changed
 
 Reply line 11.
 
@@ -537,8 +537,8 @@ Original words:
 |  | برجسته | H1713 | H1713 |
 | ✱ | در |  | [در میان] Hm "from" |
 | ✱ | میان |  | [در میان] Hm "from" |
-|  | دهها | [دهها هزار] H7233 | [دهها هزار] H7233 |
-|  | هزار | [دهها هزار] H7233 | [دهها هزار] H7233 |
+| ✱ | دهها | H7233 רְבָבָה "abundance (in number)…" | [دهها هزار] H7233 רְבָבָה "abundance (in number)…" |
+| ✱ | هزار |  | [دهها هزار] H7233 רְבָבָה "abundance (in number)…" |
 |  | ! |  |  |
 
 ### Song of Solomon 5:11: 2 word(s) changed
@@ -608,7 +608,7 @@ Original words:
 |  | شیر | H2461 | H2461 |
 |  | شسته | H7364 | H7364 |
 |  | ، |  |  |
-| ✱ | برنشانده | H7364 רָחַץ "to lave (the whole or a part…" | H3427 יָשַׁב "properly…" |
+| ✱ | برنشانده | H5921 עַל "above, over, upon…" | H3427 יָשַׁב "properly…" |
 | ✱ | همچون | Hk "like" |  |
 |  | نگین‌ | H4402 | H4402 |
 |  | . |  |  |
@@ -693,7 +693,7 @@ Original words:
 | ✱ | کبود |  | [یاقوتِ کبود] H5601 סַפִּיר "a gem (perhaps used for…" |
 |  | ! |  |  |
 
-### Song of Solomon 5:15: 1 word(s) changed
+### Song of Solomon 5:15: 3 word(s) changed
 
 Reply line 16.
 
@@ -724,8 +724,8 @@ Original words:
 |  | شده | [بنا شده] H3245 | [بنا شده] H3245 |
 |  | بر | H5921 | H5921 |
 |  | پایه‌های | H134 | H134 |
-|  | طلای | [طلای ناب] H6337 | [طلای ناب] H6337 |
-|  | ناب | [طلای ناب] H6337 | [طلای ناب] H6337 |
+| ✱ | طلای | H6337 פָּז "pure (gold)…" | [طلای ناب] H6337 פָּז "pure (gold)…" |
+| ✱ | ناب | H6337 פָּז "pure (gold)…"; H977 בָּחַר "properly, to try…" | [طلای ناب] H6337 פָּז "pure (gold)…" |
 |  | ! |  |  |
 |  | سیمایش | H4758 | H4758 |
 |  | همچون | Hk | Hk |

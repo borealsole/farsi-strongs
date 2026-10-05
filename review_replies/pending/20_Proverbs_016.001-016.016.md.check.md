@@ -1,6 +1,6 @@
 # Check of 20_Proverbs_016.001-016.016.md
 
-Generated 2026-10-04 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
 ## 14 verse(s) with changes
 
@@ -38,7 +38,7 @@ Original words:
 |  | می‌آید |  |  |
 |  | . |  |  |
 
-### Proverbs 16:3: 1 word(s) changed
+### Proverbs 16:3: 2 word(s) changed
 
 Reply line 3.
 
@@ -56,7 +56,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | کارهای | H4639 | H4639 |
+| ✱ | کارهای | H4639 מַעֲשֶׂה "an action (good or bad)…"; H4284 מַחֲשָׁבָה "a contrivance…" | H4639 מַעֲשֶׂה "an action (good or bad)…" |
 |  | خویش |  |  |
 |  | را |  |  |
 |  | به | H413 | H413 |
@@ -99,7 +99,7 @@ Original words:
 | ✱ | کراهت | H8441 תּוֹעֵבַה "properly…" | [کراهت دارد] H8441 תּוֹעֵבַה "properly…" |
 | ✱ | دارد |  | [کراهت دارد] H8441 תּוֹעֵבַה "properly…" |
 |  | ، |  |  |
-| ✱ | یقین | H3027 יָד "a hand (the open one…" | [یقین دان] H3027 יָד "a hand (the open one…"; Hl "to" |
+| ✱ | یقین |  | [یقین دان] H3027 יָד "a hand (the open one…"; Hl "to" |
 | ✱ | دان |  | [یقین دان] H3027 יָד "a hand (the open one…"; Hl "to" |
 |  | که |  |  |
 |  | چنین |  |  |
@@ -108,7 +108,7 @@ Original words:
 | ✱ | نخواهد_ماند | H3808 לֹא "not (the simple or abs.…"; H5352 נָקָה "to be (or make) clean…" | [بی‌سزا نخواهد_ماند] H3808 לֹא "not (the simple or abs.…"; H5352 נָקָה "to be (or make) clean…" |
 |  | . |  |  |
 
-### Proverbs 16:6: 2 word(s) changed
+### Proverbs 16:6: 1 word(s) changed
 
 Reply line 5.
 
@@ -128,7 +128,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | از |  | Hb "in" |
+|  | از | Hb | Hb |
 |  | محبت | H2617 | H2617 |
 |  | و | Hc | Hc |
 |  | امانت | H571 | H571 |
@@ -148,7 +148,7 @@ Original words:
 |  | می‌کند | [اجتناب می‌کند] H5493 | [اجتناب می‌کند] H5493 |
 |  | . |  |  |
 
-### Proverbs 16:7: 6 word(s) changed
+### Proverbs 16:7: 5 word(s) changed
 
 Reply line 6.
 
@@ -183,7 +183,7 @@ Original words:
 | ✱ | نیز |  | H1571 גַּם "properly, assemblage…" |
 |  | به |  |  |
 |  | صلح | H7999 | H7999 |
-| ✱ | با |  | H854 אֵת "properly…" |
+|  | با | H854 | H854 |
 |  | او |  |  |
 | ✱ | وا |  | [وا می‌دارد] H7999 שָׁלַם "to be safe (in mind…" |
 | ✱ | می‌دارد |  | [وا می‌دارد] H7999 שָׁלַם "to be safe (in mind…" |
@@ -352,7 +352,7 @@ Original words:
 |  | پادشاهان | H4428 | H4428 |
 |  | از |  |  |
 |  | شرارت | H7562 | H7562 |
-| ✱ | کراهت | H8441 תּוֹעֵבַה "properly…" | [کراهت دارند] H8441 תּוֹעֵבַה "properly…" |
+| ✱ | کراهت |  | [کراهت دارند] H8441 תּוֹעֵבַה "properly…" |
 | ✱ | دارند |  | [کراهت دارند] H8441 תּוֹעֵבַה "properly…" |
 |  | ، |  |  |
 |  | زیرا | H3588 | H3588 |
@@ -390,13 +390,13 @@ Original words:
 | ✱ | راستگوست |  | H6664 צֶדֶק "the right (natural…" |
 |  | ، |  |  |
 |  | آنان |  |  |
-| ✱ | راستگویان | H3477 יָשָׁר "straight (literally or…" | H1696 דָבַר "perhaps properly, to arrange…"; H3477 יָשָׁר "straight (literally or…" |
+| ✱ | راستگویان | H6664 צֶדֶק "the right (natural…"; H3477 יָשָׁר "straight (literally or…" | H1696 דָבַר "perhaps properly, to arrange…"; H3477 יָשָׁר "straight (literally or…" |
 |  | را |  |  |
 |  | دوست | [دوست می‌دارند] H157 | [دوست می‌دارند] H157 |
 |  | می‌دارند | [دوست می‌دارند] H157 | [دوست می‌دارند] H157 |
 |  | . |  |  |
 
-### Proverbs 16:14: 2 word(s) changed
+### Proverbs 16:14: 1 word(s) changed
 
 Reply line 13.
 
@@ -423,7 +423,7 @@ Original words:
 |  | ، |  |  |
 |  | اما | Hc | Hc |
 |  | مرد | H376 | H376 |
-| ✱ | حکیم | H2450 חָכָם "wise, (i.e. intelligent…"; H3722 כָּפַר "to cover (specifically with…" | H2450 חָכָם "wise, (i.e. intelligent…" |
+|  | حکیم | H2450 | H2450 |
 |  | آن |  |  |
 |  | را |  |  |
 | ✱ | فرو~می‌نشاند |  | H3722 כָּפַר "to cover (specifically with…" |

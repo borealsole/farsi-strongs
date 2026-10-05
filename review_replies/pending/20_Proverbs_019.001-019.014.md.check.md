@@ -2,47 +2,11 @@
 
 Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
-## 14 verse(s) with changes
+No change from the current tags (will be skipped): Proverbs 19:1, Proverbs 19:12.
 
-### Proverbs 19:1: 1 word(s) changed
+## 12 verse(s) with changes
 
-Reply line 2.
-
-Original: טוֹב רָשׁ הוֹלֵךְ בְּ/תֻמּ/וֹ מֵ/עִקֵּשׁ שְׂפָתָי/ו וְ/הוּא כְסִיל
-
-Persian: فقیری که در راستی خویش گام برمی‌دارد، بِه از نادانی است که زبان کج دارد.
-
-Original words:
-- o1: טוֹב = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAamsa]
-- o2: רָשׁ = H7326 רוּשׁ "to be destitute" [HVqrmsa]
-- o3: הוֹלֵךְ = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVqrmsa]
-- o4: בְּ/תֻמּ/וֹ = Hb "in" + H8537 תֹּם "completeness; figuratively, prosperity…" [HR/Ncmsc/Sp3ms]
-- o5: מֵ/עִקֵּשׁ = Hm "from" + H6141 עִקֵּשׁ "distorted; hence, false" [HR/Aamsc]
-- o6: שְׂפָתָי/ו = H8193 שָׂפָה "the lip (as a natural boundary)…" [HNcfdc/Sp3ms]
-- o7: וְ/הוּא = Hc "and" + H1931 הוּא "he (she or it)…" [HC/Pp3ms]
-- o8: כְסִיל = H3684 כְּסִיל "properly, fat, i.e. (figuratively) stupid or silly" [HAamsa]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | فقیری | H7326 | H7326 |
-|  | که |  |  |
-| ✱ | در |  | Hb "in" |
-|  | راستی | H8537 | H8537 |
-|  | خویش |  |  |
-|  | گام | [گام برمی‌دارد] H1980 | [گام برمی‌دارد] H1980 |
-|  | برمی‌دارد | [گام برمی‌دارد] H1980 | [گام برمی‌دارد] H1980 |
-|  | ، |  |  |
-|  | بِه | H2896 | H2896 |
-|  | از | Hm | Hm |
-|  | نادانی | H3684 | H3684 |
-|  | است |  |  |
-|  | که |  |  |
-|  | زبان | H8193 | H8193 |
-|  | کج | H6141 | H6141 |
-|  | دارد |  |  |
-|  | . |  |  |
-
-### Proverbs 19:2: 6 word(s) changed
+### Proverbs 19:2: 7 word(s) changed
 
 Reply line 3.
 
@@ -73,7 +37,7 @@ Original words:
 |  | که |  |  |
 |  | می‌شتابد | H213 | H213 |
 |  | ، |  |  |
-|  | راه |  |  |
+| ✱ | راه | H2398 חָטָא "properly, to miss…" |  |
 | ✱ | به |  | [به خطا می‌رود] H2398 חָטָא "properly, to miss…" |
 | ✱ | خطا | H2398 חָטָא "properly, to miss…" | [به خطا می‌رود] H2398 חָטָא "properly, to miss…" |
 | ✱ | می‌رود |  | [به خطا می‌رود] H2398 חָטָא "properly, to miss…" |
@@ -175,7 +139,7 @@ Original words:
 |  | شاهد | H5707 | H5707 |
 |  | دروغگو | H8267 | H8267 |
 | ✱ | بی‌سزا | H5352 נָקָה "to be (or make) clean…" | [بی‌سزا نمی‌ماند] H3808 לֹא "not (the simple or abs.…"; H5352 נָקָה "to be (or make) clean…" |
-| ✱ | نمی‌ماند | H5352 נָקָה "to be (or make) clean…"; H3808 לֹא "not (the simple or abs.…" | [بی‌سزا نمی‌ماند] H3808 לֹא "not (the simple or abs.…"; H5352 נָקָה "to be (or make) clean…" |
+| ✱ | نمی‌ماند | H3808 לֹא "not (the simple or abs.…"; H5352 נָקָה "to be (or make) clean…" | [بی‌سزا نمی‌ماند] H3808 לֹא "not (the simple or abs.…"; H5352 נָקָה "to be (or make) clean…" |
 |  | ، |  |  |
 |  | آن |  |  |
 |  | که |  |  |
@@ -185,7 +149,7 @@ Original words:
 |  | نخواهد_رَست | H3808 H4422 | H3808 H4422 |
 |  | . |  |  |
 
-### Proverbs 19:6: 3 word(s) changed
+### Proverbs 19:6: 1 word(s) changed
 
 Reply line 7.
 
@@ -208,8 +172,8 @@ Original words:
 |  | بسیاری | H7227 | H7227 |
 |  | نزد | H6440 | H6440 |
 |  | نجبا | H5081 | H5081 |
-| ✱ | چاپلوسی |  | [چاپلوسی می‌کنند] H2470 חָלָה "properly…" |
-| ✱ | می‌کنند | H2470 חָלָה "properly…" | [چاپلوسی می‌کنند] H2470 חָלָה "properly…" |
+|  | چاپلوسی | [چاپلوسی می‌کنند] H2470 | [چاپلوسی می‌کنند] H2470 |
+|  | می‌کنند | [چاپلوسی می‌کنند] H2470 | [چاپلوسی می‌کنند] H2470 |
 |  | ، |  |  |
 |  | همه | H3605 | H3605 |
 |  | خواهان |  |  |
@@ -244,7 +208,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | بستگان | H251 | H251 |
+| ✱ | بستگان | H3605 כֹּל "properly, the whole…"; H251 אָח "a brother (used in the widest…" | H251 אָח "a brother (used in the widest…" |
 |  | فقیر | H7326 | H7326 |
 |  | ، |  |  |
 | ✱ | همگی |  | H3605 כֹּל "properly, the whole…" |
@@ -263,15 +227,15 @@ Original words:
 | ✱ | می‌جویند |  | [دوری می‌جویند] H7368 רָחַק "to widen (in any direction)…" |
 |  | ! |  |  |
 | ✱ | التماس‌کنان |  | H561 אֵמֶר "something said" |
-| ✱ | از | H8130 שָׂנֵא "to hate (personally)" | [از پی‌شان می‌دود] H7291 רָדַף "to run after (usually with…" |
+| ✱ | از | H4480 מִן "properly, a part of…" | [از پی‌شان می‌دود] H7291 רָדַף "to run after (usually with…" |
 | ✱ | پی‌شان | [پی‌شان می‌دود] H7291 רָדַף "to run after (usually with…" | [از پی‌شان می‌دود] H7291 רָדַף "to run after (usually with…" |
 | ✱ | می‌دود | [پی‌شان می‌دود] H7291 רָדַף "to run after (usually with…" | [از پی‌شان می‌دود] H7291 רָדַף "to run after (usually with…" |
 |  | ، |  |  |
 |  | اما |  |  |
-| ✱ | نیستند | H3808 לֹא "not (the simple or abs.…" | H3808 לֹא "not (the simple or abs.…"; H1992 הֵם "they (only used when emphatic)" |
+|  | نیستند | H3808 H1992 | H3808 H1992 |
 |  | . |  |  |
 
-### Proverbs 19:8: 3 word(s) changed
+### Proverbs 19:8: 4 word(s) changed
 
 Reply line 9.
 
@@ -303,7 +267,7 @@ Original words:
 | ✱ | پاسدارِ |  | H8104 שָׁמַר "properly…" |
 |  | فهم | H8394 | H8394 |
 |  | ، |  |  |
-|  | به | Hl | Hl |
+| ✱ | به |  | Hl "to" |
 |  | گنج | H2896 | H2896 |
 | ✱ | دست |  | [دست می‌یابد] H4672 מָצָא "properly, to come forth to…" |
 | ✱ | می‌یابد |  | [دست می‌یابد] H4672 מָצָא "properly, to come forth to…" |
@@ -367,16 +331,16 @@ Original words:
 | ✱ | را |  | Hl "to" |
 | ✱ | زندگی |  | [زندگی مجلل] H8588 תַּעֲנוּג "luxury" |
 | ✱ | مجلل | H5000 נָאוֶה "suitable, or beautiful" | [زندگی مجلل] H8588 תַּעֲנוּג "luxury" |
-|  | نمی‌شاید | H3808 H5000 | H3808 H5000 |
+| ✱ | نمی‌شاید |  | H3808 לֹא "not (the simple or abs.…"; H5000 נָאוֶה "suitable, or beautiful" |
 |  | ، |  |  |
 | ✱ | بسی | H637 אַף "meaning accession (used as an…" | [بسی کمتر] H637 אַף "meaning accession (used as an…"; H3588 כִּי "by implication) very widely…" |
-| ✱ | کمتر | H3588 כִּי "by implication) very widely…" | [بسی کمتر] H637 אַף "meaning accession (used as an…"; H3588 כִּי "by implication) very widely…" |
+| ✱ | کمتر | H637 אַף "meaning accession (used as an…"; H3588 כִּי "by implication) very widely…" | [بسی کمتر] H637 אַף "meaning accession (used as an…"; H3588 כִּי "by implication) very widely…" |
 |  | ، |  |  |
 |  | برده‌ای | H5650 | H5650 |
 | ✱ | را |  | Hl "to" |
 |  | که |  |  |
 | ✱ | بر |  | Hb "in" |
-| ✱ | شاهزادگان | H8588 תַּעֲנוּג "luxury"; H8269 שַׂר "a head person (of any rank or…" | H8269 שַׂר "a head person (of any rank or…" |
+|  | شاهزادگان | H8269 | H8269 |
 |  | حکمرانی | [حکمرانی کند] H4910 | [حکمرانی کند] H4910 |
 |  | کند | [حکمرانی کند] H4910 | [حکمرانی کند] H4910 |
 |  | ! |  |  |
@@ -416,41 +380,6 @@ Original words:
 |  | خطاست | H6588 | H6588 |
 |  | . |  |  |
 
-### Proverbs 19:12: 1 word(s) changed
-
-Reply line 13.
-
-Original: נַהַם כַּ/כְּפִיר זַעַף מֶלֶךְ וּ/כְ/טַל עַל עֵשֶׂב רְצוֹנ/וֹ
-
-Persian: خشمِ شاه همچون شیر می‌غرد، خشنودی او مانند شبنم است بر چمنزار.
-
-Original words:
-- o1: נַהַם = H5099 נַהַם "a snarl" [HNcmsa]
-- o2: כַּ/כְּפִיר = Hk "like" + H3715 כְּפִיר "a village (as covered in by walls)…" [HRd/Ncmsa]
-- o3: זַעַף = H2197 זַעַף "anger" [HNcmsc]
-- o4: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsa]
-- o5: וּ/כְ/טַל = Hc "and" + Hk "like" + H2919 טַל "dew (as covering vegetation)" [HC/R/Ncmsa]
-- o6: עַל = H5921 עַל "above, over, upon…" [HR]
-- o7: עֵשֶׂב = H6212 עֶשֶׂב "grass (or any tender shoot)" [HNcmsa]
-- o8: רְצוֹנ/וֹ = H7522 רָצוֹן "delight (especially as shown)" [HNcmsc/Sp3ms]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-| ✱ | خشمِ | H2197 זַעַף "anger"; H4428 מֶלֶךְ "a king" | H2197 זַעַף "anger" |
-|  | شاه | H4428 | H4428 |
-|  | همچون | Hk | Hk |
-|  | شیر | H3715 | H3715 |
-|  | می‌غرد | H5099 | H5099 |
-|  | ، |  |  |
-|  | خشنودی | H7522 | H7522 |
-|  | او |  |  |
-|  | مانند | Hk | Hk |
-|  | شبنم | H2919 | H2919 |
-|  | است |  |  |
-|  | بر | H5921 | H5921 |
-|  | چمنزار | H6212 | H6212 |
-|  | . |  |  |
-
 ### Proverbs 19:13: 6 word(s) changed
 
 Reply line 14.
@@ -474,7 +403,7 @@ Original words:
 | ✱ | فرزند |  | H1121 בֵּן "a son (as a builder of the…" |
 | ✱ | نادان | H1121 בֵּן "a son (as a builder of the…"; H3684 כְּסִיל "properly, fat…" | H3684 כְּסִיל "properly, fat…" |
 |  | ، |  |  |
-| ✱ | مایۀ | H1942 הַוָּה "by implication, of falling)…"; H802 אִשָּׁה "a woman" | [مایۀ تباهی] H1942 הַוָּה "by implication, of falling)…" |
+| ✱ | مایۀ | H802 אִשָּׁה "a woman" | [مایۀ تباهی] H1942 הַוָּה "by implication, of falling)…" |
 | ✱ | تباهی | H1942 הַוָּה "by implication, of falling)…"; H3684 כְּסִיל "properly, fat…" | [مایۀ تباهی] H1942 הַוָּה "by implication, of falling)…" |
 |  | پدر | H1 | H1 |
 |  | خویش |  |  |
@@ -513,8 +442,8 @@ Original words:
 | ✱ | ثروت | H1952 הוֹן "wealth; by implication, enough"; H7919 שָׂכַל "to be (causatively…" | H1952 הוֹן "wealth; by implication, enough" |
 |  | از |  |  |
 |  | پدران | H1 | H1 |
-| ✱ | به | H5159 נַחֲלָה "properly, something inherited…" | [به ارث می‌رسد] H5159 נַחֲלָה "properly, something inherited…" |
-| ✱ | ارث |  | [به ارث می‌رسد] H5159 נַחֲלָה "properly, something inherited…" |
+| ✱ | به | [به ارث] H5159 נַחֲלָה "properly, something inherited…" | [به ارث می‌رسد] H5159 נַחֲלָה "properly, something inherited…" |
+| ✱ | ارث | [به ارث] H5159 נַחֲלָה "properly, something inherited…" | [به ارث می‌رسد] H5159 נַחֲלָה "properly, something inherited…" |
 | ✱ | می‌رسد |  | [به ارث می‌رسد] H5159 נַחֲלָה "properly, something inherited…" |
 |  | ، |  |  |
 |  | اما | Hc | Hc |

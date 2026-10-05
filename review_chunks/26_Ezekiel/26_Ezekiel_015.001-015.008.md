@@ -99,10 +99,11 @@ Persian entries and current tags:
 - p3: خداوند  → H3068
 - p4: بر
 - p5: من
-- p6: نازل شده  → H1961
-- p7: ،
-- p8: گفت  → H559
-- p9: :
+- p6: نازل
+- p7: شده
+- p8: ،
+- p9: گفت  → H559
+- p10: :
 
 ### Ezekiel 15:2
 
@@ -168,7 +169,7 @@ Persian entries and current tags:
 - p1: آیا  → Hi
 - p2: چوب  → H6086
 - p3: آن
-- p4: برای  → Hl
+- p4: برای
 - p5: ساختن  → H6213
 - p6: چیزی
 - p7: به  → Hl
@@ -180,7 +181,7 @@ Persian entries and current tags:
 - p13: از  → H4480
 - p14: چوب  → H6086
 - p15: آن
-- p16: میخی  → H3489
+- p16: میخی
 - p17: برای  → Hl
 - p18: آویزان کردن  → H8518
 - p19: چیزی
@@ -215,7 +216,7 @@ Persian entries and current tags:
 - p4: به
 - p5: عنوان
 - p6: هیزم  → H402
-- p7: در
+- p7: در  → Hl
 - p8: آتش  → H784
 - p9: می‌افکنند
 - p10: .
@@ -316,7 +317,7 @@ Persian entries and current tags:
 - p6: :
 - p7: همچون  → Hk
 - p8: چوب  → H6086
-- p9: تاک  → H1612
+- p9: تاک
 - p10: که  → H834
 - p11: آن
 - p12: را  → H853
@@ -326,7 +327,7 @@ Persian entries and current tags:
 - p16: جنگل
 - p17: به
 - p18: عنوان
-- p19: هیزم  → H402
+- p19: هیزم
 - p20: به
 - p21: آتش  → H784
 - p22: تسلیم کرده‌ام  → H5414
@@ -416,12 +417,12 @@ Original words:
 Persian entries and current tags:
 - p1: و  → Hc
 - p2: من
-- p3: این  → Hd
+- p3: این
 - p4: سرزمین  → H776
 - p5: را  → H853
 - p6: به
-- p7: سبب
-- p8: بی‌وفایی  → H4603 H4604
+- p7: سبب  → H3282
+- p8: بی‌وفایی  → H4604
 - p9: ایشان
 - p10: ویران  → H8077
 - p11: خواهم_ساخت  → H5414

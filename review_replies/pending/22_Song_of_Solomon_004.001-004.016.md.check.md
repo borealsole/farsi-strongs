@@ -1,6 +1,6 @@
 # Check of 22_Song_of_Solomon_004.001-004.016.md
 
-Generated 2026-10-04 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
 ## 16 verse(s) with changes
 
@@ -65,7 +65,7 @@ Original words:
 | ✱ | آیند |  | [فرود آیند] H1570 גָּלַשׁ "probably to caper (as a goat)" |
 |  | . |  |  |
 
-### Song of Solomon 4:2: 11 word(s) changed
+### Song of Solomon 4:2: 10 word(s) changed
 
 Reply line 3.
 
@@ -90,7 +90,7 @@ Original words:
 | --- | --- | --- | --- |
 |  | دندانهایت | H8127 | H8127 |
 | ✱ | به |  | Hk "like" |
-| ✱ | گله‌ای | H5739 עֵדֶר "an arrangement…"; H8382 תָּאַם "to be (causatively…" | H5739 עֵדֶר "an arrangement…" |
+|  | گله‌ای | H5739 | H5739 |
 |  | پشم‌بریده | H7094 | H7094 |
 | ✱ | مانَد |  | Hk "like" |
 |  | ، |  |  |
@@ -119,7 +119,7 @@ Original words:
 |  | نیست | H369 | H369 |
 |  | . |  |  |
 
-### Song of Solomon 4:3: 1 word(s) changed
+### Song of Solomon 4:3: 3 word(s) changed
 
 Reply line 4.
 
@@ -153,7 +153,7 @@ Original words:
 |  | چه |  |  |
 |  | زیباست | H5000 | H5000 |
 |  | ! |  |  |
-|  | شقیقه‌هایت | H7541 | H7541 |
+| ✱ | شقیقه‌هایت |  | H7541 רַקָּה "properly, thinness…" |
 |  | از | Hm | Hm |
 |  | پسِ | H1157 | H1157 |
 | ✱ | روی‌بَندِ | H6400 פֶּלַח "a slice"; H7416 רִמּוֹן "a pomegranate…" | H6777 צַמָּה "a veil" |
@@ -161,7 +161,7 @@ Original words:
 |  | ، |  |  |
 |  | همچون | Hk | Hk |
 |  | پار‌ۀ | H6400 | H6400 |
-|  | انار | H7416 | H7416 |
+| ✱ | انار |  | H7416 רִמּוֹן "a pomegranate…" |
 |  | است |  |  |
 |  | . |  |  |
 
@@ -254,7 +254,7 @@ Original words:
 |  | سوسن‌زاران | H7799 | H7799 |
 |  | . |  |  |
 
-### Song of Solomon 4:6: 6 word(s) changed
+### Song of Solomon 4:6: 8 word(s) changed
 
 Reply line 7.
 
@@ -294,11 +294,11 @@ Original words:
 |  | به | H413 | H413 |
 |  | کوهِ | H2022 | H2022 |
 |  | مُر | H4753 | H4753 |
-|  | خواهم_رفت | H3212 | H3212 |
+| ✱ | خواهم_رفت |  | H3212 יָלַךְ "to walk (literally or…" |
 |  | و | Hc | Hc |
 |  | به | H413 | H413 |
 |  | تپۀ | H1389 | H1389 |
-|  | کُندُر | H3828 | H3828 |
+| ✱ | کُندُر |  | H3828 לְבוֹנָה "frankincense (from its…" |
 |  | . |  |  |
 
 ### Song of Solomon 4:7: 2 word(s) changed
@@ -320,12 +320,12 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | ای |  |  |
-|  | نازنین | H7474 | H7474 |
+| ✱ | نازنین |  | H7474 רַעְיָה "a female associate" |
 |  | من |  |  |
 |  | ، |  |  |
 |  | تو |  |  |
 |  | به‌تمامی | H3605 | H3605 |
-| ✱ | زیبایی | H3303 יָפֶה "beautiful (literally or…"; H7474 רַעְיָה "a female associate" | H3303 יָפֶה "beautiful (literally or…" |
+|  | زیبایی | H3303 | H3303 |
 |  | ؛ |  |  |
 | ✱ | در |  | Hb "in" |
 |  | تو |  |  |
@@ -334,7 +334,7 @@ Original words:
 |  | نیست | H369 | H369 |
 |  | . |  |  |
 
-### Song of Solomon 4:8: 5 word(s) changed
+### Song of Solomon 4:8: 4 word(s) changed
 
 Reply line 9.
 
@@ -362,7 +362,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | با |  | H854 אֵת "properly…" |
+|  | با | H854 | H854 |
 |  | من |  |  |
 |  | از | Hm | Hm |
 |  | لبنان | H3844 | H3844 |
@@ -398,7 +398,7 @@ Original words:
 | ✱ | بیا | H935 בּוֹא "to go or come (in a wide…" | [به زیر بیا] H7789 שׁוּר "to spy out…" |
 |  | ! |  |  |
 
-### Song of Solomon 4:9: 6 word(s) changed
+### Song of Solomon 4:9: 7 word(s) changed
 
 Reply line 10.
 
@@ -426,12 +426,12 @@ Original words:
 |  | عروسم | H3618 | H3618 |
 |  | ، |  |  |
 |  | تو |  |  |
-|  | دل | H3823 | H3823 |
+| ✱ | دل |  | H3823 לָבַב "in a good sense) transport…" |
 |  | مرا |  |  |
 |  | ربوده‌ای | H3823 | H3823 |
 |  | ؛ |  |  |
 |  | تو |  |  |
-| ✱ | به |  | Hb "in" |
+| ✱ | به | H259 אֶחָד "properly, united, i.e. one…" | Hb "in" |
 | ✱ | نگاهی |  | H259 אֶחָד "properly, united, i.e. one…"; H5869 עַיִן "an eye (literally or…" |
 | ✱ | دل |  | H3823 לָבַב "in a good sense) transport…" |
 |  | مرا |  |  |
@@ -476,13 +476,13 @@ Original words:
 |  | ، |  |  |
 |  | عشقت | H1730 | H1730 |
 |  | چه | H4100 | H4100 |
-| ✱ | دلنشین | [دلنشین است] H2895 טוֹב "to be (transitively…" | [دلنشین است] H3302 יָפָה "properly, to be bright…" |
-| ✱ | است | [دلنشین است] H2895 טוֹב "to be (transitively…" | [دلنشین است] H3302 יָפָה "properly, to be bright…" |
+| ✱ | دلنشین |  | [دلنشین است] H3302 יָפָה "properly, to be bright…" |
+| ✱ | است |  | [دلنشین است] H3302 יָפָה "properly, to be bright…" |
 |  | ! |  |  |
 |  | عشق | H1730 | H1730 |
 |  | تو |  |  |
 |  | از | Hm | Hm |
-| ✱ | شراب | H1314 בֶּשֶׂם "fragrance…" | H3196 יַיִן "wine (as fermented)…" |
+|  | شراب | H3196 | H3196 |
 | ✱ | بسی |  | H4100 מָה "properly…" |
 | ✱ | نیکوتر |  | [نیکوتر است] H2895 טוֹב "to be (transitively…" |
 | ✱ | است |  | [نیکوتر است] H2895 טוֹב "to be (transitively…" |
@@ -492,10 +492,10 @@ Original words:
 |  | از | Hm | Hm |
 | ✱ | جمیع | H7381 רֵיחַ "odor (as if blown)" | H3605 כֹּל "properly, the whole…" |
 | ✱ | عطرها | H8081 שֶׁמֶן "grease…"; H1314 בֶּשֶׂם "fragrance…" | H1314 בֶּשֶׂם "fragrance…" |
-|  | خوش‌تر |  |  |
+| ✱ | خوش‌تر | H7381 רֵיחַ "odor (as if blown)" |  |
 |  | ! |  |  |
 
-### Song of Solomon 4:11: 3 word(s) changed
+### Song of Solomon 4:11: 5 word(s) changed
 
 Reply line 12.
 
@@ -537,8 +537,8 @@ Original words:
 |  | است |  |  |
 |  | ، |  |  |
 |  | و | Hc | Hc |
-|  | رایحۀ | H7381 | H7381 |
-|  | خوش |  |  |
+| ✱ | رایحۀ | [رایحۀ خوش] H7381 רֵיחַ "odor (as if blown)" | H7381 רֵיחַ "odor (as if blown)" |
+| ✱ | خوش | [رایحۀ خوش] H7381 רֵיחַ "odor (as if blown)" |  |
 |  | جامه‌ات | H8008 | H8008 |
 |  | ، |  |  |
 |  | همچون | Hk | Hk |
@@ -585,7 +585,7 @@ Original words:
 |  | مَمهور | H2856 | H2856 |
 |  | ! |  |  |
 
-### Song of Solomon 4:13: 6 word(s) changed
+### Song of Solomon 4:13: 5 word(s) changed
 
 Reply line 14.
 
@@ -613,7 +613,7 @@ Original words:
 |  | ، |  |  |
 | ✱ | پر |  | [پر از] H5973 עִם "adverb or preposition…" |
 | ✱ | از |  | [پر از] H5973 עִם "adverb or preposition…" |
-| ✱ | میوه‌های | H7416 רִמּוֹן "a pomegranate…"; H6529 פְּרִי "fruit (literally or…" | H6529 פְּרִי "fruit (literally or…" |
+|  | میوه‌های | H6529 | H6529 |
 | ✱ | گوارا | H3724 כֹּפֶר "properly, a cover…" | H4022 מֶגֶד "properly…" |
 |  | ، |  |  |
 |  | و |  |  |
@@ -654,12 +654,12 @@ Original words:
 |  | و | Hc | Hc |
 |  | زعفران | H3750 | H3750 |
 |  | ، |  |  |
-| ✱ | نی | H5373 נֵרְדְּ "nard, an aromatic"; H7070 קָנֶה "a reed (as erect)…" | H7070 קָנֶה "a reed (as erect)…" |
+|  | نی | H7070 | H7070 |
 |  | و | Hc | Hc |
 |  | دارچین | H7076 | H7076 |
 | ✱ | و |  | H5973 עִם "adverb or preposition…" |
 | ✱ | انواع | H6086 עֵץ "a tree (from its firmness)…" | H3605 כֹּל "properly, the whole…"; H6086 עֵץ "a tree (from its firmness)…" |
-|  | کُندُر | H3828 | H3828 |
+| ✱ | کُندُر |  | H3828 לְבוֹנָה "frankincense (from its…" |
 |  | ، |  |  |
 |  | و |  |  |
 |  | مُر | H4753 | H4753 |

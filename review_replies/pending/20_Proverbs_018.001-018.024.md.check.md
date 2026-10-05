@@ -2,9 +2,11 @@
 
 Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
-## 21 verse(s) with changes
+No change from the current tags (will be skipped): Proverbs 18:21.
 
-### Proverbs 18:1: 5 word(s) changed
+## 20 verse(s) with changes
+
+### Proverbs 18:1: 6 word(s) changed
 
 Reply line 2.
 
@@ -32,14 +34,14 @@ Original words:
 |  | است | H1245 | H1245 |
 |  | ؛ |  |  |
 |  | او |  |  |
-|  | با | Hb | Hb |
+| ✱ | با |  | Hb "in" |
 |  | هر | H3605 | H3605 |
 | ✱ | قضاوت |  | [قضاوت صحیح] H8454 תּוּשִׁיָּה "support or (by implication)…" |
 | ✱ | صحیح | H8454 תּוּשִׁיָּה "support or (by implication)…" | [قضاوت صحیح] H8454 תּוּשִׁיָּה "support or (by implication)…" |
 |  | می‌ستیزد | H1566 | H1566 |
 |  | . |  |  |
 
-### Proverbs 18:3: 3 word(s) changed
+### Proverbs 18:3: 5 word(s) changed
 
 Reply line 3.
 
@@ -72,11 +74,11 @@ Original words:
 |  | با | H5973 | H5973 |
 |  | قباحت | H7036 | H7036 |
 |  | ، |  |  |
-|  | تقبیح | H2781 | H2781 |
-|  | فرا~می‌رسد |  |  |
+| ✱ | تقبیح | [تقبیح فرا~می‌رسد] H2781 חֶרְפָּה "contumely, disgrace…" | H2781 חֶרְפָּה "contumely, disgrace…" |
+| ✱ | فرا~می‌رسد | [تقبیح فرا~می‌رسد] H2781 חֶרְפָּה "contumely, disgrace…" |  |
 |  | . |  |  |
 
-### Proverbs 18:4: 3 word(s) changed
+### Proverbs 18:4: 4 word(s) changed
 
 Reply line 4.
 
@@ -105,8 +107,8 @@ Original words:
 |  | آدمی | H376 | H376 |
 |  | ، |  |  |
 |  | نهر | H5158 | H5158 |
-| ✱ | جوشان | H4726 מָקוֹר "properly, something dug…" | H5042 נָבַע "to gush forth…" |
-|  | است |  |  |
+| ✱ | جوشان | [جوشان است] H5042 נָבַע "to gush forth…" | H5042 נָבַע "to gush forth…" |
+| ✱ | است | [جوشان است] H5042 נָבַע "to gush forth…" |  |
 |  | چشمۀ | H4726 | H4726 |
 |  | حکمت | H2451 | H2451 |
 |  | . |  |  |
@@ -163,7 +165,7 @@ Original words:
 | --- | --- | --- | --- |
 |  | لبهای | H8193 | H8193 |
 |  | جاهل | H3684 | H3684 |
-| ✱ | درگیر |  | H935 בּוֹא "to go or come (in a wide…" |
+| ✱ | درگیر | Hb "in" | H935 בּוֹא "to go or come (in a wide…" |
 |  | نزاع | H7379 | H7379 |
 |  | می‌شود | H935 | H935 |
 |  | ، |  |  |
@@ -174,7 +176,7 @@ Original words:
 |  | می‌شتابد | H7121 | H7121 |
 |  | . |  |  |
 
-### Proverbs 18:8: 3 word(s) changed
+### Proverbs 18:8: 6 word(s) changed
 
 Reply line 7.
 
@@ -196,14 +198,14 @@ Original words:
 |  | سخنان | H1697 | H1697 |
 |  | سخن‌چین | H5372 | H5372 |
 |  | همچون | Hk | Hk |
-|  | لقمه‌های | H3859 | H3859 |
-| ✱ | لذیذ | [لذیذ است] H5372 נִרְגָּן "a slanderer"; H3859 לָהַם "properly, to burn in…" | H3859 לָהַם "properly, to burn in…" |
-| ✱ | است | [لذیذ است] H5372 נִרְגָּן "a slanderer"; H3859 לָהַם "properly, to burn in…" |  |
+| ✱ | لقمه‌های | [لقمه‌های لذیذ است] H3859 לָהַם "properly, to burn in…" | H3859 לָהַם "properly, to burn in…" |
+| ✱ | لذیذ | [لقمه‌های لذیذ است] H3859 לָהַם "properly, to burn in…" | H3859 לָהַם "properly, to burn in…" |
+| ✱ | است | [لقمه‌های لذیذ است] H3859 לָהַם "properly, to burn in…" |  |
 | ✱ | که |  | Hc "and"; H1992 הֵם "they (only used when emphatic)" |
 |  | به |  |  |
 |  | اعماق | H2315 | H2315 |
-|  | وجود | [وجود انسان] H990 | [وجود انسان] H990 |
-|  | انسان | [وجود انسان] H990 | [وجود انسان] H990 |
+| ✱ | وجود |  | [وجود انسان] H990 בֶּטֶן "the belly…" |
+| ✱ | انسان | H990 בֶּטֶן "the belly…" | [وجود انسان] H990 בֶּטֶן "the belly…" |
 |  | فرو~می‌رود | H3381 | H3381 |
 |  | . |  |  |
 
@@ -228,14 +230,14 @@ Original words:
 | --- | --- | --- | --- |
 |  | آن |  |  |
 |  | که |  |  |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | کار | H4399 | H4399 |
 |  | خود |  |  |
 | ✱ | سستی | H7503 רָפָה "to slacken (in many…" | [سستی می‌کند] H7503 רָפָה "to slacken (in many…" |
 | ✱ | می‌کند | H1167 בַּעַל "a master…"; H7843 שָׁחַת "to decay…" | [سستی می‌کند] H7503 רָפָה "to slacken (in many…" |
 |  | ، |  |  |
 |  | برادر | H251 | H251 |
-|  | خرابکار | H1167 H7843 | H1167 H7843 |
+| ✱ | خرابکار | H7843 שָׁחַת "to decay…" | H1167 בַּעַל "a master…"; H7843 שָׁחַת "to decay…" |
 | ✱ | است |  | H1931 הוּא "he (she or it)…" |
 |  | . |  |  |
 
@@ -273,12 +275,12 @@ Original words:
 |  | می‌دود | H7323 | H7323 |
 |  | و | Hc | Hc |
 |  | در |  |  |
-| ✱ | بلندی |  | H7682 שָׂגַב "to be (causatively…" |
-| ✱ | ایمن | H7682 שָׂגַב "to be (causatively…" | [ایمن می‌ماند] H7682 שָׂגַב "to be (causatively…" |
+| ✱ | بلندی | [بلندی ایمن] H7682 שָׂגַב "to be (causatively…" | H7682 שָׂגַב "to be (causatively…" |
+| ✱ | ایمن | [بلندی ایمن] H7682 שָׂגַב "to be (causatively…" | [ایمن می‌ماند] H7682 שָׂגַב "to be (causatively…" |
 | ✱ | می‌ماند |  | [ایمن می‌ماند] H7682 שָׂגַב "to be (causatively…" |
 |  | . |  |  |
 
-### Proverbs 18:11: 3 word(s) changed
+### Proverbs 18:11: 2 word(s) changed
 
 Reply line 10.
 
@@ -307,7 +309,7 @@ Original words:
 |  | همچون | Hk | Hk |
 | ✱ | حصاری | H2346 חוֹמָה "a wall of protection"; H7682 שָׂגַב "to be (causatively…" | H2346 חוֹמָה "a wall of protection" |
 |  | است |  |  |
-| ✱ | بلند |  | H7682 שָׂגַב "to be (causatively…" |
+|  | بلند | H7682 | H7682 |
 | ✱ | در |  | Hb "in" |
 |  | خیال | H4906 | H4906 |
 |  | او |  |  |
@@ -416,8 +418,8 @@ Original words:
 |  | روح | H7307 | H7307 |
 |  | افسرده | H5218 | H5218 |
 |  | را |  |  |
-| ✱ | کیست |  | H4310 מִי "who? (occasionally…" |
-| ✱ | که | H4310 מִי "who? (occasionally…" |  |
+| ✱ | کیست | [کیست که] H4310 מִי "who? (occasionally…" | H4310 מִי "who? (occasionally…" |
+| ✱ | که | [کیست که] H4310 מִי "who? (occasionally…" |  |
 | ✱ | تحمل | H5375 נָשָׂא "to lift…" | [تحمل تواند کرد] H5375 נָשָׂא "to lift…" |
 | ✱ | تواند |  | [تحمل تواند کرد] H5375 נָשָׂא "to lift…" |
 | ✱ | کرد |  | [تحمل تواند کرد] H5375 נָשָׂא "to lift…" |
@@ -457,7 +459,7 @@ Original words:
 |  | می‌رساند | H5148 | H5148 |
 |  | . |  |  |
 
-### Proverbs 18:17: 4 word(s) changed
+### Proverbs 18:17: 3 word(s) changed
 
 Reply line 15.
 
@@ -482,7 +484,7 @@ Original words:
 |  | قاضی | H7379 | H7379 |
 |  | می‌رود |  |  |
 | ✱ | برحق |  | H6662 צַדִּיק "just" |
-| ✱ | می‌نماید | H6662 צַדִּיק "just" |  |
+|  | می‌نماید |  |  |
 |  | ، |  |  |
 |  | تا |  |  |
 |  | آنگاه |  |  |
@@ -523,7 +525,7 @@ Original words:
 |  | ، |  |  |
 |  | و | Hc | Hc |
 | ✱ | حریفان | H6099 עָצוּם "powerful (specifically…" | [حریفان قوی] H6099 עָצוּם "powerful (specifically…" |
-| ✱ | قوی | H6504 פָּרַד "to break through…" | [حریفان قوی] H6099 עָצוּם "powerful (specifically…" |
+| ✱ | قوی |  | [حریفان قوی] H6099 עָצוּם "powerful (specifically…" |
 |  | را |  |  |
 | ✱ | از |  | [از هم] H996 בֵּין "between (repeated before each…" |
 | ✱ | هم | H996 בֵּין "between (repeated before each…" | [از هم] H996 בֵּין "between (repeated before each…" |
@@ -531,7 +533,7 @@ Original words:
 |  | می‌سازد | [جدا می‌سازد] H6504 | [جدا می‌سازد] H6504 |
 |  | . |  |  |
 
-### Proverbs 18:19: 1 word(s) changed
+### Proverbs 18:19: 2 word(s) changed
 
 Reply line 17.
 
@@ -556,7 +558,7 @@ Original words:
 |  | از | Hm | Hm |
 |  | شهر | H7151 | H7151 |
 | ✱ | حصاردار |  | H5797 עֹז "strength in various…" |
-|  | تسخیرناپذیرتر |  |  |
+| ✱ | تسخیرناپذیرتر | Hc "and" |  |
 |  | است |  |  |
 |  | ؛ |  |  |
 |  | مجادله | H4066 | H4066 |
@@ -568,7 +570,7 @@ Original words:
 |  | است |  |  |
 |  | . |  |  |
 
-### Proverbs 18:20: 3 word(s) changed
+### Proverbs 18:20: 1 word(s) changed
 
 Reply line 18.
 
@@ -600,44 +602,8 @@ Original words:
 |  | از |  |  |
 |  | محصول | H8393 | H8393 |
 |  | لبهایش | H8193 | H8193 |
-| ✱ | سیر |  | [سیر می‌گردد] H7646 שָׂבַע "to sate…" |
-| ✱ | می‌گردد |  | [سیر می‌گردد] H7646 שָׂבַע "to sate…" |
-|  | . |  |  |
-
-### Proverbs 18:21: 1 word(s) changed
-
-Reply line 19.
-
-Original: מָוֶת וְ/חַיִּים בְּ/יַד לָשׁוֹן וְ/אֹהֲבֶי/הָ יֹאכַל פִּרְיָ/הּ
-
-Persian: مرگ و زندگی در قدرت زبان است آنان که دوستش می‌دارند، از میوه‌اش خواهند_خورد.
-
-Original words:
-- o1: מָוֶת = H4194 מָוֶת "death (natural or violent)…" [HNcmsa]
-- o2: וְ/חַיִּים = Hc "and" + H2416 חַי "alive; hence, raw (flesh)…" [HC/Ncmpa]
-- o3: בְּ/יַד = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc]
-- o4: לָשׁוֹן = H3956 לָשׁוֹן "the tongue (of man or animals)…" [HNcbsa]
-- o5: וְ/אֹהֲבֶי/הָ = Hc "and" + H157 אָהַב "to have affection for (sexually or otherwise)" [HC/Vqrmpc/Sp3fs]
-- o6: יֹאכַל = H398 אָכַל "to eat (literally or figuratively)" [HVqi3ms]
-- o7: פִּרְיָ/הּ = H6529 פְּרִי "fruit (literally or figuratively)" [HNcmsc/Sp3fs]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | مرگ | H4194 | H4194 |
-|  | و | Hc | Hc |
-|  | زندگی | H2416 | H2416 |
-| ✱ | در |  | Hb "in" |
-|  | قدرت | H3027 | H3027 |
-|  | زبان | H3956 | H3956 |
-|  | است |  |  |
-|  | آنان |  |  |
-|  | که |  |  |
-|  | دوستش | [دوستش می‌دارند] H157 | [دوستش می‌دارند] H157 |
-|  | می‌دارند | [دوستش می‌دارند] H157 | [دوستش می‌دارند] H157 |
-|  | ، |  |  |
-|  | از |  |  |
-|  | میوه‌اش | H6529 | H6529 |
-|  | خواهند_خورد | H398 | H398 |
+|  | سیر | [سیر می‌گردد] H7646 | [سیر می‌گردد] H7646 |
+|  | می‌گردد | [سیر می‌گردد] H7646 | [سیر می‌گردد] H7646 |
 |  | . |  |  |
 
 ### Proverbs 18:22: 6 word(s) changed
@@ -666,7 +632,7 @@ Original words:
 |  | ، |  |  |
 |  | چیز |  |  |
 |  | نیکو | H2896 | H2896 |
-| ✱ | یافته |  | H4672 מָצָא "properly, to come forth to…" |
+| ✱ | یافته | H6329 פּוּק "to issue, i.e. furnish…" | H4672 מָצָא "properly, to come forth to…" |
 | ✱ | و |  | Hc "and" |
 | ✱ | خشنودی | H6329 פּוּק "to issue, i.e. furnish…"; H7522 רָצוֹן "delight (especially as shown)" | H7522 רָצוֹן "delight (especially as shown)" |
 |  | خداوند | H3068 | H3068 |
@@ -697,7 +663,7 @@ Original words:
 |  | فقیر | H7326 | H7326 |
 |  | ملتمسانه | H8469 | H8469 |
 | ✱ | سخن | H8469 תַּחֲנוּן "earnest prayer"; H1696 דָבַר "perhaps properly, to arrange…" | [سخن می‌گوید] H1696 דָבַר "perhaps properly, to arrange…" |
-| ✱ | می‌گوید |  | [سخن می‌گوید] H1696 דָבַר "perhaps properly, to arrange…" |
+| ✱ | می‌گوید | H1696 דָבַר "perhaps properly, to arrange…" | [سخن می‌گوید] H1696 דָבַר "perhaps properly, to arrange…" |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
 |  | ثروتمند | H6223 | H6223 |
@@ -707,7 +673,7 @@ Original words:
 | ✱ | می‌دهد | H5794 עַז "strong, vehement, harsh" | [پاسخ می‌دهد] H6030 עָנָה "properly…" |
 |  | . |  |  |
 
-### Proverbs 18:24: 2 word(s) changed
+### Proverbs 18:24: 3 word(s) changed
 
 Reply line 22.
 
@@ -739,7 +705,7 @@ Original words:
 |  | اما | Hc | Hc |
 |  | دوستی | H157 | H157 |
 |  | هم |  |  |
-|  | هست | H3426 | H3426 |
+| ✱ | هست | H3426 יֵשׁ "there is or are (or any other…"; H1695 דָּבֵק "adhering" | H3426 יֵשׁ "there is or are (or any other…" |
 |  | که |  |  |
 |  | از | Hm | Hm |
 |  | برادر | H251 | H251 |

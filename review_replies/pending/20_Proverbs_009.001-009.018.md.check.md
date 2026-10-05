@@ -1,8 +1,10 @@
 # Check of 20_Proverbs_009.001-009.018.md
 
-Generated 2026-10-04 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
-## 17 verse(s) with changes
+No change from the current tags (will be skipped): Proverbs 9:10.
+
+## 16 verse(s) with changes
 
 ### Proverbs 9:2: 1 word(s) changed
 
@@ -30,7 +32,7 @@ Original words:
 |  | طبخ | [طبخ کرده] H2873 | [طبخ کرده] H2873 |
 |  | کرده | [طبخ کرده] H2873 | [طبخ کرده] H2873 |
 |  | ، |  |  |
-|  | شراب | H3196 | H3196 |
+| ✱ | شراب | H2874 טֶבַח "properly…"; H3196 יַיִן "wine (as fermented)…" | H3196 יַיִן "wine (as fermented)…" |
 |  | خویش |  |  |
 |  | را |  |  |
 |  | برآمیخته | H4537 | H4537 |
@@ -38,7 +40,7 @@ Original words:
 |  | و |  |  |
 |  | سفره‌اش | H7979 | H7979 |
 |  | را |  |  |
-| ✱ | نیز |  | H637 אַף "meaning accession (used as an…" |
+|  | نیز | H637 | H637 |
 |  | آراسته | [آراسته است] H6186 | [آراسته است] H6186 |
 |  | است | [آراسته است] H6186 | [آراسته است] H6186 |
 |  | . |  |  |
@@ -72,11 +74,11 @@ Original words:
 | ✱ | نقطۀ | [بالاترین نقطۀ] H4791 מָרוֹם "altitude…" | [بالاترین نقطۀ] H1610 גַּף "the back…"; H4791 מָרוֹם "altitude…" |
 |  | شهر | H7176 | H7176 |
 | ✱ | ندا | H7121 קָרָא "to call out to (i.e. properly…" | [ندا در می‌دهد] H7121 קָרָא "to call out to (i.e. properly…" |
-| ✱ | در | H5921 עַל "above, over, upon…" | [ندا در می‌دهد] H7121 קָרָא "to call out to (i.e. properly…" |
+| ✱ | در |  | [ندا در می‌دهد] H7121 קָרָא "to call out to (i.e. properly…" |
 | ✱ | می‌دهد |  | [ندا در می‌دهد] H7121 קָרָא "to call out to (i.e. properly…" |
 |  | : |  |  |
 
-### Proverbs 9:4: 5 word(s) changed
+### Proverbs 9:4: 4 word(s) changed
 
 Reply line 4.
 
@@ -108,7 +110,7 @@ Original words:
 |  | » |  |  |
 |  | و |  |  |
 | ✱ | به |  | Hl "to" |
-| ✱ | کم‌عقلان | H2638 חָסֵר "lacking; hence, without" | H2638 חָסֵר "lacking; hence, without"; H3820 לֵב "the heart…" |
+|  | کم‌عقلان | H2638 H3820 | H2638 H3820 |
 |  | ، |  |  |
 |  | می‌گوید | H559 | H559 |
 |  | : |  |  |
@@ -181,7 +183,7 @@ Original words:
 |  | . |  |  |
 |  | » |  |  |
 
-### Proverbs 9:7: 6 word(s) changed
+### Proverbs 9:7: 8 word(s) changed
 
 Reply line 7.
 
@@ -209,9 +211,9 @@ Original words:
 |  | تأدیب | [تأدیب کند] H3256 | [تأدیب کند] H3256 |
 |  | کند | [تأدیب کند] H3256 | [تأدیب کند] H3256 |
 |  | ، |  |  |
-| ✱ | به | Hl "to" | H3947 לָקַח "to take (in the widest…" |
+| ✱ | به | Hl "to"; H3971 מאוּם "to stain…" | H3947 לָקַח "to take (in the widest…" |
 | ✱ | استقبال | H7036 קָלוֹן "disgrace…" | H3947 לָקַח "to take (in the widest…" |
-| ✱ | بی‌حرمتی |  | H7036 קָלוֹן "disgrace…" |
+| ✱ | بی‌حرمتی | H3971 מאוּם "to stain…" | H7036 קָלוֹן "disgrace…" |
 |  | می‌رود | H3947 | H3947 |
 |  | ؛ |  |  |
 |  | هر |  |  |
@@ -219,14 +221,14 @@ Original words:
 |  | مرد |  |  |
 | ✱ | شریر | H3887 לוּץ "properly, to make mouths at…"; H7563 רָשָׁע "morally wrong…" | H7563 רָשָׁע "morally wrong…" |
 |  | را |  |  |
-|  | توبیخ | [توبیخ کند] H3198 | [توبیخ کند] H3198 |
-|  | کند | [توبیخ کند] H3198 | [توبیخ کند] H3198 |
+| ✱ | توبیخ | H3198 יָכַח "to be right (i.e. correct)…" | [توبیخ کند] H3198 יָכַח "to be right (i.e. correct)…" |
+| ✱ | کند | H3256 יָסַר "to chastise…" | [توبیخ کند] H3198 יָכַח "to be right (i.e. correct)…" |
 |  | ، |  |  |
 | ✱ | بد |  | [بد می‌بیند] H3971 מאוּם "to stain…" |
 | ✱ | می‌بیند |  | [بد می‌بیند] H3971 מאוּם "to stain…" |
 |  | . |  |  |
 
-### Proverbs 9:8: 4 word(s) changed
+### Proverbs 9:8: 3 word(s) changed
 
 Reply line 8.
 
@@ -251,7 +253,7 @@ Original words:
 | ✱ | توبیخ | H3198 יָכַח "to be right (i.e. correct)…" | [توبیخ مکن] H408 אַל "not (the qualified negation…"; H3198 יָכַח "to be right (i.e. correct)…" |
 | ✱ | مکن | H408 אַל "not (the qualified negation…" | [توبیخ مکن] H408 אַל "not (the qualified negation…"; H3198 יָכַח "to be right (i.e. correct)…" |
 |  | ، |  |  |
-| ✱ | مبادا | H6435 פֵּן "properly, removal…"; H3198 יָכַח "to be right (i.e. correct)…" | H6435 פֵּן "properly, removal…" |
+|  | مبادا | H6435 | H6435 |
 |  | از |  |  |
 |  | تو |  |  |
 |  | نفرت | [نفرت کند] H8130 | [نفرت کند] H8130 |
@@ -291,7 +293,7 @@ Original words:
 | --- | --- | --- | --- |
 |  | حکیم | H2450 | H2450 |
 |  | را |  |  |
-| ✱ | بیاموز |  | H5414 נָתַן "to give…" |
+| ✱ | بیاموز | H2449 חָכַם "to be wise (in mind…" | H5414 נָתַן "to give…" |
 | ✱ | که |  | Hc "and" |
 | ✱ | حکیمتر | [حکیمتر خواهد_شد] H2449 חָכַם "to be wise (in mind…" | [حکیمتر خواهد_شد] H2449 חָכַם "to be wise (in mind…"; H5750 עוֹד "properly…" |
 | ✱ | خواهد_شد | [حکیمتر خواهد_شد] H2449 חָכַם "to be wise (in mind…" | [حکیمتر خواهد_شد] H2449 חָכַם "to be wise (in mind…"; H5750 עוֹד "properly…" |
@@ -304,40 +306,6 @@ Original words:
 |  | آموخته‌هایش | H3948 | H3948 |
 | ✱ | افزون |  | [افزون خواهد_گشت] H3254 יָסַף "to add or augment (often…" |
 | ✱ | خواهد_گشت |  | [افزون خواهد_گشت] H3254 יָסַף "to add or augment (often…" |
-|  | . |  |  |
-
-### Proverbs 9:10: 1 word(s) changed
-
-Reply line 10.
-
-Original: תְּחִלַּת חָכְמָה יִרְאַת יְהוָה וְ/דַעַת קְדֹשִׁים בִּינָה
-
-Persian: « ترس خداوند آغاز حکمت است، و شناخت آن قدوس، بصیرت.
-
-Original words:
-- o1: תְּחִלַּת = H8462 תְּחִלָּה "a commencement; rel. original (adverb, -ly)" [HNcfsc]
-- o2: חָכְמָה = H2451 חׇכְמָה "wisdom (in a good sense)" [HNcfsa]
-- o3: יִרְאַת = H3374 יִרְאָה "fear (also used as infinitive); morally, reverence" [HNcfsc]
-- o4: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
-- o5: וְ/דַעַת = Hc "and" + H1847 דַּעַת "knowledge" [HC/Ncfsc]
-- o6: קְדֹשִׁים = H6918 קָדוֹשׁ "sacred (ceremonially or morally)…" [HAampa]
-- o7: בִּינָה = H998 בִּינָה "understanding" [HNcfsa]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | « |  |  |
-|  | ترس | H3374 | H3374 |
-|  | خداوند | H3068 | H3068 |
-|  | آغاز | H8462 | H8462 |
-|  | حکمت | H2451 | H2451 |
-|  | است |  |  |
-|  | ، |  |  |
-|  | و | Hc | Hc |
-|  | شناخت | H1847 | H1847 |
-|  | آن |  |  |
-| ✱ | قدوس | H6918 קָדוֹשׁ "sacred (ceremonially or…"; H998 בִּינָה "understanding" | H6918 קָדוֹשׁ "sacred (ceremonially or…" |
-|  | ، |  |  |
-|  | بصیرت | H998 | H998 |
 |  | . |  |  |
 
 ### Proverbs 9:11: 3 word(s) changed
@@ -481,7 +449,7 @@ Original words:
 |  | شهر | H7176 | H7176 |
 |  | ، |  |  |
 
-### Proverbs 9:15: 1 word(s) changed
+### Proverbs 9:15: 2 word(s) changed
 
 Reply line 15.
 
@@ -498,7 +466,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | و |  |  |
+| ✱ | و | H7121 קָרָא "to call out to (i.e. properly…" |  |
 | ✱ | رهگذران | H5674 עָבַר "to cross over…" | H5674 עָבַר "to cross over…"; H1870 דֶּרֶךְ "a road (as trodden)…" |
 |  | را |  |  |
 |  | ندا | [ندا می‌دهد] H7121 | [ندا می‌دهد] H7121 |
@@ -584,7 +552,7 @@ Original words:
 |  | . |  |  |
 |  | » |  |  |
 
-### Proverbs 9:18: 2 word(s) changed
+### Proverbs 9:18: 1 word(s) changed
 
 Reply line 18.
 
@@ -615,7 +583,7 @@ Original words:
 |  | و |  |  |
 |  | مهمانان | H7121 | H7121 |
 |  | او |  |  |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | اعماق | H6012 | H6012 |
 |  | گورند | H7585 | H7585 |
 |  | . |  |  |

@@ -170,9 +170,10 @@ Persian entries and current tags:
 - p21: از
 - p22: معنی
 - p23: رؤیا  → H4758
-- p24: آگاه ساز  → H995
-- p25: !
-- p26: »
+- p24: آگاه
+- p25: ساز  → H995
+- p26: !
+- p27: »
 
 ### Daniel 8:17
 
@@ -199,7 +200,7 @@ Original words:
 - o17: הֶ/חָזוֹן = Hd "the" + H2377 חָזוֹן "a sight (mentally), i.e. a dream, revelation…" [HTd/Ncmsa]
 
 Persian entries and current tags:
-- p1: پس  → Hc
+- p1: پس
 - p2: او
 - p3: نزدیکِ  → H681
 - p4: جایی
@@ -259,7 +260,7 @@ Original words:
 Persian entries and current tags:
 - p1: چون
 - p2: او
-- p3: با  → Hb H5973
+- p3: با  → H5973
 - p4: من
 - p5: سخن  → H1696
 - p6: می‌گفت
@@ -269,7 +270,7 @@ Persian entries and current tags:
 - p10: زمین  → H776
 - p11: به
 - p12: خوابی
-- p13: عمیق  → H7290
+- p13: عمیق
 - p14: فرو~رفتم
 - p15: .
 - p16: اما  → Hc
@@ -278,9 +279,9 @@ Persian entries and current tags:
 - p19: لمس کرده  → H5060
 - p20: ،
 - p21: بر
-- p22: پاهایم
+- p22: پاهایم  → H5921
 - p23: به
-- p24: پا  → H5921
+- p24: پا
 - p25: داشت  → H5975
 - p26: .
 
@@ -322,11 +323,12 @@ Persian entries and current tags:
 - p17: رؤیا
 - p18: مربوط
 - p19: به  → Hl
-- p20: زمان مقرر  → H4150
-- p21: در
-- p22: آخر  → H7093
-- p23: است
-- p24: .
+- p20: زمان
+- p21: مقرر  → H4150
+- p22: در
+- p23: آخر  → H7093
+- p24: است
+- p25: .
 
 ### Daniel 8:20
 
@@ -379,7 +381,7 @@ Original words:
 Persian entries and current tags:
 - p1: بز  → H6842 H8163
 - p2: پر
-- p3: موی  → H6842 H8163
+- p3: موی
 - p4: ،
 - p5: پادشاه  → H4428
 - p6: یونان  → H3120
@@ -416,7 +418,7 @@ Persian entries and current tags:
 - p1: چهار  → H702
 - p2: شاخی  → H4438
 - p3: که
-- p4: پس  → Hc
+- p4: پس
 - p5: از
 - p6: شکسته شدن  → H7665
 - p7: آن
@@ -507,7 +509,7 @@ Persian entries and current tags:
 - p4: ،
 - p5: اما  → Hc
 - p6: نه  → H3808
-- p7: از
+- p7: از  → Hb
 - p8: تواناییِ  → H3581
 - p9: خودش
 - p10: ،
@@ -517,17 +519,18 @@ Persian entries and current tags:
 - p14: ،
 - p15: و  → Hc
 - p16: در
-- p17: آنچه می‌کند  → H6213
-- p18: کامیاب خواهد_گشت  → H7843 H6743
-- p19: .
-- p20: او
-- p21: قدرتمندان  → H6099
-- p22: و  → Hc
-- p23: قوم  → H5971
-- p24: مقدس  → H6918
-- p25: را
-- p26: نابود خواهد_کرد  → H7843
-- p27: .
+- p17: آنچه
+- p18: می‌کند
+- p19: کامیاب خواهد_گشت  → H7843 H6743
+- p20: .
+- p21: او
+- p22: قدرتمندان  → H6099
+- p23: و  → Hc
+- p24: قوم  → H5971
+- p25: مقدس  → H6918
+- p26: را
+- p27: نابود خواهد_کرد  → H7843
+- p28: .
 
 ### Daniel 8:25
 
@@ -555,12 +558,12 @@ Original words:
 
 Persian entries and current tags:
 - p1: او
-- p2: به  → H5921
+- p2: به
 - p3: زیرکی  → H7922
 - p4: ،
 - p5: فریب  → H4820
 - p6: را
-- p7: در
+- p7: در  → Hb
 - p8: دستش  → H3027
 - p9: رونق خواهد_داد  → H6743
 - p10: ،
@@ -585,7 +588,7 @@ Persian entries and current tags:
 - p29: سروران  → H8269
 - p30: خواهد_ایستاد  → H5975
 - p31: ،
-- p32: ولی  → Hc
+- p32: ولی
 - p33: شکسته_خواهد_شد  → H7665
 - p34: اما
 - p35: نه  → H657
@@ -624,7 +627,7 @@ Persian entries and current tags:
 - p7: گفته_شد  → H559
 - p8: ،
 - p9: حقیقت  → H571
-- p10: است
+- p10: است  → H1931
 - p11: ،
 - p12: اما  → Hc
 - p13: تو  → H859
@@ -677,7 +680,7 @@ Persian entries and current tags:
 - p7: زمانی  → H3117
 - p8: چند
 - p9: ضعیف
-- p10: و
+- p10: و  → Hc
 - p11: بیمار گشتم  → H2470
 - p12: .
 - p13: سپس  → Hc
@@ -688,13 +691,13 @@ Persian entries and current tags:
 - p18: پادشاه  → H4428
 - p19: پرداختم  → H6213
 - p20: ،
-- p21: اما
+- p21: اما  → Hc
 - p22: از  → H5921
 - p23: آن
 - p24: رؤیا  → H4758
 - p25: در
 - p26: حیرت بودم  → H8074
-- p27: و  → Hc
+- p27: و
 - p28: آن
 - p29: را  → H853
 - p30: درک  → H995

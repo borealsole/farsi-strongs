@@ -1,6 +1,6 @@
 # Check of 20_Proverbs_015.001-015.016.md
 
-Generated 2026-10-04 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
 ## 14 verse(s) with changes
 
@@ -62,7 +62,7 @@ Original words:
 |  | حکیمان | H2450 | H2450 |
 | ✱ | معرفت | H1847 דַּעַת "knowledge"; H3684 כְּסִיל "properly, fat…" | H1847 דַּעַת "knowledge" |
 |  | را |  |  |
-| ✱ | دل‌انگیز |  | [دل‌انگیز می‌سازد] H3190 יָטַב "to be (causative) make well…" |
+| ✱ | دل‌انگیز | H200 אִוֶּלֶת "silliness" | [دل‌انگیز می‌سازد] H3190 יָטַב "to be (causative) make well…" |
 | ✱ | می‌سازد | H3190 יָטַב "to be (causative) make well…" | [دل‌انگیز می‌سازد] H3190 יָטַב "to be (causative) make well…" |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
@@ -112,7 +112,7 @@ Original words:
 | ✱ | می‌شکند | H5558 סֶלֶף "distortion…" | [در هم می‌شکند] H7667 שֶׁבֶר "a fracture, figuratively…" |
 |  | . |  |  |
 
-### Proverbs 15:5: 3 word(s) changed
+### Proverbs 15:5: 4 word(s) changed
 
 Reply line 5.
 
@@ -143,8 +143,8 @@ Original words:
 |  | اما | Hc | Hc |
 | ✱ | هر | [هر که] H8104 שָׁמַר "properly…" | [هر که]  |
 | ✱ | که | [هر که] H8104 שָׁמַר "properly…" | [هر که]  |
-| ✱ | پذیرای |  | H8104 שָׁמַר "properly…" |
-|  | توبیخ | H8433 | H8433 |
+| ✱ | پذیرای | [پذیرای توبیخ] H8433 תּוֹכֵחָה "chastisement…" | H8104 שָׁמַר "properly…" |
+| ✱ | توبیخ | [پذیرای توبیخ] H8433 תּוֹכֵחָה "chastisement…" | H8433 תּוֹכֵחָה "chastisement…" |
 |  | باشد | H8104 | H8104 |
 |  | عاقل | [عاقل است] H6191 | [عاقل است] H6191 |
 |  | است | [عاقل است] H6191 | [عاقل است] H6191 |
@@ -240,7 +240,7 @@ Original words:
 | ✱ | خداوند | H7563 רָשָׁע "morally wrong…"; H3068 יְהֹוָה "Jehovah…" | H3068 יְהֹוָה "Jehovah…" |
 |  | از |  |  |
 |  | قربانیهای | H2077 | H2077 |
-| ✱ | شریران | H7563 רָשָׁע "morally wrong…"; H3477 יָשָׁר "straight (literally or…" | H7563 רָשָׁע "morally wrong…" |
+| ✱ | شریران |  | H7563 רָשָׁע "morally wrong…" |
 | ✱ | کراهت | H8441 תּוֹעֵבַה "properly…" | [کراهت دارد] H8441 תּוֹעֵבַה "properly…" |
 | ✱ | دارد |  | [کراهت دارد] H8441 תּוֹעֵבַה "properly…" |
 |  | ، |  |  |
@@ -271,11 +271,11 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | راه | H1870 | H1870 |
-|  | شریران | H7563 | H7563 |
+| ✱ | شریران |  | H7563 רָשָׁע "morally wrong…" |
 |  | در |  |  |
 |  | نظر |  |  |
 | ✱ | خداوند | H3068 יְהֹוָה "Jehovah…"; H7563 רָשָׁע "morally wrong…" | H3068 יְהֹוָה "Jehovah…" |
-| ✱ | کراهت‌آور | H8441 תּוֹעֵבַה "properly…"; H6666 צְדָקָה "rightness (abstractly)…" | H8441 תּוֹעֵבַה "properly…" |
+|  | کراهت‌آور | H8441 | H8441 |
 |  | است |  |  |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
@@ -287,7 +287,7 @@ Original words:
 | ✱ | می‌دارد | H7291 רָדַף "to run after (usually with…" | [دوست می‌دارد] H157 אָהַב "to have affection for…" |
 |  | . |  |  |
 
-### Proverbs 15:10: 2 word(s) changed
+### Proverbs 15:10: 1 word(s) changed
 
 Reply line 10.
 
@@ -309,14 +309,14 @@ Original words:
 |  | تأدیب | H4148 | H4148 |
 |  | سخت | H7451 | H7451 |
 |  | در | Hl | Hl |
-|  | انتظار |  |  |
+| ✱ | انتظار | H5800 עָזַב "to loosen, i.e. relinquish…" |  |
 |  | کسی |  |  |
 |  | است |  |  |
 |  | که |  |  |
 |  | طریقت | H734 | H734 |
 |  | را |  |  |
-| ✱ | ترک | H5800 עָזַב "to loosen, i.e. relinquish…" | [ترک گوید] H5800 עָזַב "to loosen, i.e. relinquish…" |
-| ✱ | گوید |  | [ترک گوید] H5800 עָזַב "to loosen, i.e. relinquish…" |
+|  | ترک | [ترک گوید] H5800 | [ترک گوید] H5800 |
+|  | گوید | [ترک گوید] H5800 | [ترک گوید] H5800 |
 |  | ؛ |  |  |
 |  | آن |  |  |
 |  | که |  |  |
@@ -328,7 +328,7 @@ Original words:
 |  | خواهد_مرد | H4191 | H4191 |
 |  | . |  |  |
 
-### Proverbs 15:11: 6 word(s) changed
+### Proverbs 15:11: 5 word(s) changed
 
 Reply line 11.
 
@@ -359,7 +359,7 @@ Original words:
 |  | ، |  |  |
 | ✱ | چقدر | H637 אַף "meaning accession (used as an…" | [چقدر بیشتر] H637 אַף "meaning accession (used as an…"; H3588 כִּי "by implication) very widely…" |
 | ✱ | بیشتر | H637 אַף "meaning accession (used as an…"; H3588 כִּי "by implication) very widely…" | [چقدر بیشتر] H637 אַף "meaning accession (used as an…"; H3588 כִּי "by implication) very widely…" |
-| ✱ | دل |  | H3826 לִבָּה "the heart" |
+|  | دل | H3826 | H3826 |
 | ✱ | آدمی | H120 אָדָם "ruddy i.e. a human being (an…" | H1121 בֵּן "a son (as a builder of the…"; H120 אָדָם "ruddy i.e. a human being (an…" |
 |  | ! |  |  |
 
@@ -388,7 +388,7 @@ Original words:
 | ✱ | توبیخ | H3887 לוּץ "properly, to make mouths at…"; H3198 יָכַח "to be right (i.e. correct)…" | H3198 יָכַח "to be right (i.e. correct)…" |
 |  | را |  |  |
 | ✱ | خوش | H3198 יָכַח "to be right (i.e. correct)…" | [خوش نمی‌دارد] H3808 לֹא "not (the simple or abs.…"; H157 אָהַב "to have affection for…" |
-| ✱ | نمی‌دارد | H3808 לֹא "not (the simple or abs.…"; H157 אָהַב "to have affection for…" | [خوش نمی‌دارد] H3808 לֹא "not (the simple or abs.…"; H157 אָהַב "to have affection for…" |
+| ✱ | نمی‌دارد | H157 אָהַב "to have affection for…" | [خوش نمی‌دارد] H3808 לֹא "not (the simple or abs.…"; H157 אָהַב "to have affection for…" |
 |  | ، |  |  |
 | ✱ | گریزان |  | [گریزان است] H3808 לֹא "not (the simple or abs.…"; H3212 יָלַךְ "to walk (literally or…" |
 | ✱ | است |  | [گریزان است] H3808 לֹא "not (the simple or abs.…"; H3212 יָלַךְ "to walk (literally or…" |
@@ -469,7 +469,7 @@ Original words:
 |  | می‌چَرَد | H7462 | H7462 |
 |  | . |  |  |
 
-### Proverbs 15:16: 3 word(s) changed
+### Proverbs 15:16: 2 word(s) changed
 
 Reply line 15.
 
@@ -490,7 +490,7 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 | ✱ | کم | H2896 טוֹב "good (as an adjective) in the…"; H4592 מְעַט "a little or few (often…" | H4592 מְעַט "a little or few (often…" |
-| ✱ | داشتن | H2896 טוֹב "good (as an adjective) in the…" |  |
+|  | داشتن |  |  |
 |  | با | Hb | Hb |
 |  | ترس | H3374 | H3374 |
 |  | خداوند | H3068 | H3068 |

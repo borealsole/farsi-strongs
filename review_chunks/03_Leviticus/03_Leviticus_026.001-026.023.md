@@ -120,12 +120,12 @@ Persian entries and current tags:
 - p9: و  → Hc
 - p10: ستون  → H4676
 - p11: بر
-- p12: پا  → H6965
+- p12: پا
 - p13: مکنید
 - p14: و  → Hc
 - p15: تندیس  → H4906
 - p16: سنگی  → H68
-- p17: در
+- p17: در  → Hb
 - p18: سرزمین  → H776
 - p19: خود
 - p20: مگذارید  → H5414
@@ -189,7 +189,7 @@ Original words:
 Persian entries and current tags:
 - p1: «
 - p2: اگر  → H518
-- p3: در
+- p3: در  → Hb
 - p4: فرایض  → H2708
 - p5: من
 - p6: گام  → H3212
@@ -202,8 +202,9 @@ Persian entries and current tags:
 - p13: آنها
 - p14: را  → H853
 - p15: به
-- p16: جا آورید  → H6213
-- p17: ،
+- p16: جا
+- p17: آورید
+- p18: ،
 
 ### Leviticus 26:4
 
@@ -226,7 +227,7 @@ Persian entries and current tags:
 - p1: آنگاه  → Hc
 - p2: بارانتان  → H1653
 - p3: را
-- p4: در
+- p4: در  → Hb
 - p5: موسمش  → H6256
 - p6: خواهم_فرستاد  → H5414
 - p7: ،
@@ -285,7 +286,7 @@ Persian entries and current tags:
 - p14: نان  → H3899
 - p15: خود
 - p16: را  → H853
-- p17: سیر  → H398 H7648
+- p17: سیر  → H7648
 - p18: خواهید_خورد  → H398
 - p19: ،
 - p20: و  → Hc
@@ -338,7 +339,7 @@ Persian entries and current tags:
 - p16: حیوانات  → H2416
 - p17: موذی  → H7451
 - p18: را
-- p19: از
+- p19: از  → H4480
 - p20: زمین  → H776
 - p21: بر
 - p22: خواهم_داشت
@@ -376,7 +377,7 @@ Persian entries and current tags:
 - p8: برابر  → H6440
 - p9: شما
 - p10: به  → Hl
-- p11: شمشیر  → H2719
+- p11: شمشیر  → H5307 H2719
 - p12: خواهند_افتاد  → H5307
 - p13: .
 
@@ -401,7 +402,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: پنج  → H2568
-- p2: تن  → H3967
+- p2: تن
 - p3: از
 - p4: شما
 - p5: صد  → H3967
@@ -409,12 +410,12 @@ Persian entries and current tags:
 - p7: را
 - p8: تعقیب خواهند_کرد  → H7291
 - p9: ،
-- p10: صد نفر  → H3967
-- p11: از  → Hm
-- p12: شما
-- p13: ده  → H7233
-- p14: هزار
-- p15: تن  → H3967
+- p10: صد  → H3967
+- p11: نفر  → H3967
+- p12: از  → Hm
+- p13: شما
+- p14: ده هزار  → H7233
+- p15: تن
 - p16: را
 - p17: خواهند_راند  → H7291
 - p18: ،
@@ -460,7 +461,7 @@ Persian entries and current tags:
 - p12: عهدِ  → H1285
 - p13: خود
 - p14: را  → H853
-- p15: با
+- p15: با  → H854
 - p16: شما
 - p17: استوار خواهم_ساخت  → H6965
 - p18: .
@@ -488,14 +489,14 @@ Persian entries and current tags:
 - p6: باید
 - p7: کهنه  → H3465
 - p8: را
-- p9: دور
+- p9: دور  → H3318
 - p10: بریزید
 - p11: تا
 - p12: برای
 - p13: محصولِ
 - p14: نو  → H2319
 - p15: جا
-- p16: باز
+- p16: باز  → H6440
 - p17: شود
 - p18: .
 
@@ -550,16 +551,16 @@ Original words:
 - o9: לְ/עָם = Hl "to" + H5971 עַם "a people (as a congregated unit)…" [HR/Ncmsa]
 
 Persian entries and current tags:
-- p1: در
+- p1: در  → Hb
 - p2: میان  → H8432
 - p3: شما
 - p4: گام خواهم_زد  → H1980
 - p5: و  → Hc
-- p6: خدای  → H430 H1961
+- p6: خدای  → H430
 - p7: شما
 - p8: خواهم_بود
 - p9: ،
-- p10: و  → Hc
+- p10: و
 - p11: شما
 - p12: قوم  → H5971
 - p13: من
@@ -612,7 +613,7 @@ Persian entries and current tags:
 - p19: من
 - p20: بندهای  → H4133
 - p21: یوغ  → H5923
-- p22: شما
+- p22: شما  → H3318
 - p23: را  → H853
 - p24: شکستم  → H7665
 - p25: تا
@@ -693,7 +694,7 @@ Persian entries and current tags:
 - p12: که
 - p13: فرمانهای  → H2708 H4687
 - p14: مرا
-- p15: به
+- p15: به  → Hl
 - p16: جا
 - p17: نیاورید
 - p18: بلکه
@@ -740,7 +741,7 @@ Persian entries and current tags:
 - p7: خواهم_کرد
 - p8: :
 - p9: وحشت  → H928 H7829
-- p10: و
+- p10: و  → Hc
 - p11: بیماریِ  → H7829 H6920
 - p12: جانکاه  → H7829
 - p13: و  → Hc
@@ -753,7 +754,7 @@ Persian entries and current tags:
 - p20: و  → Hc
 - p21: جان  → H5315
 - p22: را  → H853
-- p23: نحیف  → H928
+- p23: نحیف
 - p24: سازد
 - p25: بر
 - p26: شما
@@ -850,8 +851,8 @@ Persian entries and current tags:
 - p2: اگر  → H518
 - p3: با
 - p4: وجود
-- p5: این
-- p6: همه
+- p5: این  → H428
+- p6: همه  → H5704
 - p7: ،
 - p8: به
 - p9: من
@@ -865,7 +866,7 @@ Persian entries and current tags:
 - p17: سبب  → H5921
 - p18: گناهانتان  → H2403
 - p19: هفت  → H7651
-- p20: چندان  → H3254 H7651
+- p20: چندان  → H3254
 - p21: تأدیب خواهم_کرد  → H8085 H3256
 - p22: .
 
@@ -901,7 +902,7 @@ Persian entries and current tags:
 - p11: شما
 - p12: را  → H853
 - p13: مانند  → Hk
-- p14: آهن  → H1270 H5154
+- p14: آهن  → H1270
 - p15: و  → Hc
 - p16: زمینتان  → H776
 - p17: را  → H853
@@ -984,9 +985,9 @@ Persian entries and current tags:
 - p5: خلاف  → H7147
 - p6: من
 - p7: گام  → H3212 H7147
-- p8: بردارید  → H7147
+- p8: بردارید
 - p9: و  → Hc
-- p10: به
+- p10: به  → Hl
 - p11: من
 - p12: گوش  → H8085
 - p13: فرا~ندهید
@@ -999,10 +1000,9 @@ Persian entries and current tags:
 - p20: هفت  → H7651
 - p21: چندان
 - p22: به  → H5921
-- p23: بلا  → H4347 H2403
-- p24: دچار  → H4347
-- p25: خواهم_کرد
-- p26: .
+- p23: بلا دچار  → H4347
+- p24: خواهم_کرد
+- p25: .
 
 ### Leviticus 26:22
 
@@ -1027,9 +1027,9 @@ Original words:
 
 Persian entries and current tags:
 - p1: وحوش  → H2416
-- p2: صحرا  → H7704
+- p2: صحرا  → H2416 H7704
 - p3: را  → H853
-- p4: بر  → Hb
+- p4: بر
 - p5: شما
 - p6: گسیل خواهم_داشت  → H7971
 - p7: تا
@@ -1050,7 +1050,7 @@ Persian entries and current tags:
 - p22: از
 - p23: شمار  → H4591
 - p24: شما
-- p25: بکاهند  → H4591
+- p25: بکاهند
 - p26: ،
 - p27: آن‌سان
 - p28: که
@@ -1078,19 +1078,19 @@ Persian entries and current tags:
 - p1: «
 - p2: و  → Hc
 - p3: اگر  → H518
-- p4: با
+- p4: با  → Hb
 - p5: این  → H428
 - p6: همه
 - p7: از
 - p8: من
 - p9: تأدیب  → H3256
-- p10: نپذیرید
+- p10: نپذیرید  → H3808
 - p11: بلکه
 - p12: به
 - p13: خلاف  → H7147
 - p14: من
 - p15: گام  → H1980 H7147
-- p16: بردارید  → H7147
+- p16: بردارید
 - p17: ،
 
 ## Neighbouring verses (context only, not for review)

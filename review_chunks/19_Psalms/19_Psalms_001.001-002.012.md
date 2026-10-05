@@ -109,18 +109,18 @@ Persian entries and current tags:
 - p3: حال
 - p4: کسی  → H376
 - p5: که  → H834
-- p6: در
+- p6: در  → Hb
 - p7: مشورت  → H6098
 - p8: شریران
 - p9: گام نزند  → H1980
 - p10: و  → Hc
-- p11: در
+- p11: در  → Hb
 - p12: راه  → H1870
 - p13: گنهکاران  → H2400
 - p14: نایستد
 - p15: و  → Hc
 - p16: در
-- p17: محفل
+- p17: محفل  → H4186
 - p18: تمسخرگران  → H3887
 - p19: ننشیند  → H3427
 - p20: ؛
@@ -150,7 +150,7 @@ Persian entries and current tags:
 - p6: باشد
 - p7: و  → Hc
 - p8: شبانه‌روز  → H3119 H3915
-- p9: در
+- p9: در  → Hb
 - p10: شریعت  → H8451
 - p11: او
 - p12: تأمل کند  → H1897
@@ -182,7 +182,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: او
-- p2: بسان
+- p2: بسان  → Hk
 - p3: درختیست  → H6086
 - p4: نشانده  → H8362
 - p5: بر  → H5921
@@ -192,7 +192,7 @@ Persian entries and current tags:
 - p9: که  → H834
 - p10: میوۀ  → H6529
 - p11: خویش
-- p12: در
+- p12: در  → Hb
 - p13: موسمش  → H6256
 - p14: آرد  → H5034
 - p15: به
@@ -233,7 +233,7 @@ Persian entries and current tags:
 - p2: چنین  → H3651
 - p3: نیستند  → H3808
 - p4: شریران
-- p5: بلکه  → H518
+- p5: بلکه
 - p6: همچو  → Hk
 - p7: کاهند  → H4671
 - p8: که  → H834
@@ -259,7 +259,7 @@ Original words:
 - o9: צַדִּיקִים = H6662 צַדִּיק "just" [HAampa]
 
 Persian entries and current tags:
-- p1: پس  → H3651
+- p1: پس  → H5921 H3651
 - p2: شریران  → H7563
 - p3: را
 - p4: در  → Hb
@@ -318,7 +318,7 @@ Original words:
 - o6: רִיק = H7385 רִיק "emptiness; figuratively, a worthless thing…" [HNcmsa]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: چه  → H4100
 - p3: سبب
 - p4: قومها  → H1471
@@ -443,7 +443,7 @@ Persian entries and current tags:
 - p6: سخن خواهد_گفت  → H1696
 - p7: ،
 - p8: و  → Hc
-- p9: به  → H413 Hb
+- p9: به  → Hb
 - p10: غضب  → H2740
 - p11: خویش
 - p12: ایشان
@@ -542,7 +542,7 @@ Original words:
 - o8: אָרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsa]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → H4480
 - p2: من
 - p3: بخواه  → H7592
 - p4: ،
@@ -583,11 +583,10 @@ Persian entries and current tags:
 - p6: خواهی_شکست  → H7489
 - p7: و
 - p8: همچون  → Hk
-- p9: کوزۀ  → H3627 H3335
-- p10: کوزه‌گر  → H3335
-- p11: خُردشان  → H5310
-- p12: خواهی_کرد  → H3627
-- p13: .
+- p9: کوزۀ کوزه‌گر  → H3335
+- p10: خُردشان  → H5310
+- p11: خواهی_کرد  → H3627
+- p12: .
 
 ### Psalms 2:10
 
@@ -603,7 +602,7 @@ Original words:
 - o6: אָרֶץ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsa]
 
 Persian entries and current tags:
-- p1: پس  → Hc
+- p1: پس  → Hc H6258
 - p2: حال  → H6258
 - p3: خردمند باشید  → H7919
 - p4: ،
@@ -636,13 +635,15 @@ Persian entries and current tags:
 - p2: را  → H853
 - p3: با  → Hb
 - p4: ترس  → H3374
-- p5: عبادت کنید  → H5647
-- p6: و  → Hc
-- p7: با  → Hb
-- p8: لرز  → H7461
-- p9: به
-- p10: وجد آیید  → H1523
-- p11: .
+- p5: عبادت  → H5647
+- p6: کنید  → H1523
+- p7: و  → Hc
+- p8: با  → Hb
+- p9: لرز  → H7461
+- p10: به
+- p11: وجد  → H1523
+- p12: آیید  → H5647 H1523
+- p13: .
 
 ### Psalms 2:12
 
@@ -677,15 +678,15 @@ Persian entries and current tags:
 - p9: و  → Hc
 - p10: در
 - p11: راه  → H1870
-- p12: هلاک شوید  → H6
-- p13: ،
-- p14: زیرا  → H3588
-- p15: خشم  → H639
-- p16: او
-- p17: به
-- p18: دمی
-- p19: افروخته  → H1197 H4592
-- p20: می‌شود
+- p12: هلاک
+- p13: شوید  → H6
+- p14: ،
+- p15: زیرا  → H3588
+- p16: خشم  → H639
+- p17: او
+- p18: به
+- p19: دمی
+- p20: افروخته می‌شود  → H1197
 - p21: .
 - p22: خوشا  → H835
 - p23: به
@@ -694,9 +695,8 @@ Persian entries and current tags:
 - p26: که
 - p27: به
 - p28: او
-- p29: پناه  → H2620
-- p30: می‌برند
-- p31: .
+- p29: پناه می‌برند  → H2620
+- p30: .
 
 ## Neighbouring verses (context only, not for review)
 

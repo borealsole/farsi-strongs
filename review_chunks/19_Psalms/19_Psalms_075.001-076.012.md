@@ -113,7 +113,7 @@ Persian entries and current tags:
 - p8: تو
 - p9: را
 - p10: سپاس  → H3034
-- p11: می‌گوییم  → H516
+- p11: می‌گوییم
 - p12: زیرا
 - p13: نام  → H8034
 - p14: تو
@@ -226,7 +226,7 @@ Persian entries and current tags:
 - p13: را
 - p14: می‌گویم
 - p15: :
-- p16: ”شاخ  → H7161
+- p16: ”شاخ  → H7311 H7161
 - p17: خود
 - p18: را
 - p19: برمیفرازید  → H7311
@@ -357,7 +357,7 @@ Persian entries and current tags:
 - p5: پیاله‌ای  → H3563
 - p6: است
 - p7: با
-- p8: شرابی  → H3563
+- p8: شرابی  → H3563 H3196
 - p9: پرجوش  → H2560 H4392
 - p10: و  → Hc
 - p11: آمیخته
@@ -372,7 +372,7 @@ Persian entries and current tags:
 - p20: شریران  → H7563
 - p21: زمین  → H776
 - p22: جملگی  → H3605
-- p23: آن
+- p23: آن  → H2088
 - p24: را
 - p25: تا
 - p26: آخرین
@@ -399,7 +399,7 @@ Persian entries and current tags:
 - p3: من  → H589
 - p4: ،
 - p5: تا
-- p6: به  → Hl
+- p6: به
 - p7: ابد  → H5769
 - p8: این
 - p9: را
@@ -430,7 +430,7 @@ Original words:
 Persian entries and current tags:
 - p1: همۀ  → H3605
 - p2: شاخهای  → H7161
-- p3: شریران  → H7563
+- p3: شریران
 - p4: را
 - p5: قطع خواهم_کرد  → H1438
 - p6: ،
@@ -466,7 +466,7 @@ Persian entries and current tags:
 - p5: را
 - p6: می‌شناسند  → H3045
 - p7: ؛
-- p8: در  → Hb
+- p8: در
 - p9: اسرائیل  → H3478
 - p10: ،
 - p11: نام  → H8034
@@ -490,14 +490,14 @@ Original words:
 Persian entries and current tags:
 - p1: منزلگاه  → H5520
 - p2: او
-- p3: در
+- p3: در  → Hb
 - p4: سالیم  → H8004
 - p5: است
 - p6: ،
 - p7: و  → Hc
 - p8: مسکن  → H4585
 - p9: او
-- p10: در
+- p10: در  → Hb
 - p11: صَهیون  → H6726
 - p12: .
 
@@ -578,7 +578,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: دلاوران  → H47 H3820
-- p2: تاراج شدند  → H5123
+- p2: تاراج شدند  → H7997 H5123
 - p3: ؛
 - p4: و  → Hc
 - p5: خواب  → H7997 H8142
@@ -624,8 +624,8 @@ Persian entries and current tags:
 - p7: یعقوب  → H3290
 - p8: اسب  → H7393 H5483
 - p9: و  → Hc
-- p10: ارابه  → H1606 H5483
-- p11: از
+- p10: ارابه  → H5483
+- p11: از  → Hm
 - p12: حرکت بازایستادند  → H7290
 - p13: !
 
@@ -651,7 +651,7 @@ Persian entries and current tags:
 - p4: مَهیب  → H3372
 - p5: هستی  → H859
 - p6: !
-- p7: آنگاه  → H227
+- p7: آنگاه
 - p8: که
 - p9: خشم  → H639
 - p10: گیری
@@ -660,7 +660,7 @@ Persian entries and current tags:
 - p13: که
 - p14: در
 - p15: حضورت  → H6440
-- p16: تواند  → H4310
+- p16: تواند
 - p17: ایستاد  → H5975
 - p18: ؟
 
@@ -756,7 +756,7 @@ Persian entries and current tags:
 - p14: بر
 - p15: کمر  → H2296
 - p16: خود
-- p17: خواهی_بست  → H2296
+- p17: خواهی_بست
 - p18: .
 
 ### Psalms 76:11

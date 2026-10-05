@@ -108,7 +108,7 @@ Persian entries and current tags:
 - p5: و  → Hc
 - p6: بسیار  → H3966
 - p7: درخورِ
-- p8: ستایش  → H4210 H1984
+- p8: ستایش  → H1984
 - p9: ؛
 - p10: در  → Hb
 - p11: شهر  → H5892
@@ -178,7 +178,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: خدا  → H430
-- p2: در
+- p2: در  → Hb
 - p3: دژهای  → H759
 - p4: آن
 - p5: است
@@ -325,7 +325,7 @@ Persian entries and current tags:
 - p6: خود
 - p7: دیدیم  → H7200
 - p8: ،
-- p9: در
+- p9: در  → Hb
 - p10: شهر  → H5892
 - p11: خداوندِ
 - p12: لشکرها  → H6635
@@ -394,7 +394,7 @@ Persian entries and current tags:
 - p5: ،
 - p6: همچون  → Hk
 - p7: آوازۀ
-- p8: نامت  → H8034
+- p8: نامت  → H8416
 - p9: ،
 - p10: تا
 - p11: به

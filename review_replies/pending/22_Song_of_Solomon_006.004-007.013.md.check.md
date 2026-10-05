@@ -1,6 +1,6 @@
 # Check of 22_Song_of_Solomon_006.004-007.013.md
 
-Generated 2026-10-04 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
 ## 21 verse(s) with changes
 
@@ -92,7 +92,7 @@ Original words:
 | ✱ | آیند |  | [فرود آیند] H1570 גָּלַשׁ "probably to caper (as a goat)" |
 |  | . |  |  |
 
-### Song of Solomon 6:6: 6 word(s) changed
+### Song of Solomon 6:6: 4 word(s) changed
 
 Reply line 4.
 
@@ -117,10 +117,10 @@ Original words:
 | --- | --- | --- | --- |
 |  | دندانهایت | H8127 | H8127 |
 | ✱ | به |  | Hk "like" |
-| ✱ | گله‌ای | H5739 עֵדֶר "an arrangement…"; H8382 תָּאַם "to be (causatively…" | H5739 עֵדֶר "an arrangement…" |
+|  | گله‌ای | H5739 | H5739 |
 | ✱ | مانَد | H7353 רָחֵל "a ewe (the females being the…" | Hk "like" |
 | ✱ | که |  | Hs "which" |
-| ✱ | تازه | H7367 רַחְצָה "a bathing place" |  |
+|  | تازه |  |  |
 |  | از | H4480 | H4480 |
 |  | شستشو | H7367 | H7367 |
 |  | برآمده | [برآمده باشند] H5927 | [برآمده باشند] H5927 |
@@ -171,7 +171,7 @@ Original words:
 |  | است |  |  |
 |  | . |  |  |
 
-### Song of Solomon 6:8: 3 word(s) changed
+### Song of Solomon 6:8: 4 word(s) changed
 
 Reply line 6.
 
@@ -202,10 +202,10 @@ Original words:
 |  | ، |  |  |
 |  | و | Hc | Hc |
 |  | دوشیزگانِ | H5959 | H5959 |
-|  | بی‌شمار | H369 H4557 | H369 H4557 |
+| ✱ | بی‌شمار | H4557 מִסְפָּר "a number…" | H369 אַיִן "a non-entity…"; H4557 מִסְפָּר "a number…" |
 |  | ، |  |  |
 
-### Song of Solomon 6:9: 7 word(s) changed
+### Song of Solomon 6:9: 8 word(s) changed
 
 Reply line 7.
 
@@ -245,7 +245,7 @@ Original words:
 | ✱ | است |  | H1931 הוּא "he (she or it)…" |
 |  | ! |  |  |
 | ✱ | یگانه |  | H259 אֶחָד "properly, united, i.e. one…" |
-|  | دُختِ |  |  |
+| ✱ | دُختِ | H1931 הוּא "he (she or it)…" |  |
 |  | مادر | H517 | H517 |
 |  | خویش |  |  |
 |  | ، |  |  |
@@ -306,7 +306,7 @@ Original words:
 |  | که |  |  |
 | ✱ | چونان | H8259 שָׁקַף "properly…" | H3644 כְּמוֹ "a form of the prefix 'k-'…" |
 | ✱ | شَفَق |  | H7837 שַׁחַר "dawn (literal…" |
-| ✱ | رُخ | H7837 שַׁחַר "dawn (literal…" | [رُخ می‌نماید] H8259 שָׁקַף "properly…" |
+| ✱ | رُخ |  | [رُخ می‌نماید] H8259 שָׁקַף "properly…" |
 | ✱ | می‌نماید |  | [رُخ می‌نماید] H8259 שָׁקַף "properly…" |
 |  | ، |  |  |
 | ✱ | به |  | Hk "like" |
@@ -325,7 +325,7 @@ Original words:
 |  | ؟ |  |  |
 |  | » |  |  |
 
-### Song of Solomon 6:11: 8 word(s) changed
+### Song of Solomon 6:11: 7 word(s) changed
 
 Reply line 9.
 
@@ -360,7 +360,7 @@ Original words:
 |  | شکوفه‌های | H3 | H3 |
 |  | وادی | H5158 | H5158 |
 |  | را |  |  |
-| ✱ | بنگرم | H6524 פָּרַח "to break forth as a bud…" | H7200 רָאָה "to see…" |
+|  | بنگرم | H7200 | H7200 |
 |  | ؛ |  |  |
 | ✱ | تا |  | Hl "to" |
 |  | ببینم | H7200 | H7200 |
@@ -406,7 +406,7 @@ Original words:
 |  | مرا |  |  |
 |  | مانند |  |  |
 |  | ارابه‌های | H4818 | H4818 |
-| ✱ | عَمیناداب |  | H5971 עַם "a people (as a congregated…"; H5081 נָדִיב "properly, voluntary…" |
+| ✱ | عَمیناداب | H5971 עַם "a people (as a congregated…" | H5971 עַם "a people (as a congregated…"; H5081 נָדִיב "properly, voluntary…" |
 | ✱ | ساخت | H5081 נָדִיב "properly, voluntary…" | H7760 שׂוּם "to put (used in a great…" |
 |  | ! |  |  |
 
@@ -438,16 +438,16 @@ Original words:
 | ✱ | آی | H7725 שׁוּב "to turn back (hence…" | [باز آی] H7725 שׁוּב "to turn back (hence…" |
 |  | ، |  |  |
 |  | ای |  |  |
-|  | دختر |  |  |
+| ✱ | دختر | H4264 מַחֲנֶה "an encampment (of travellers…" |  |
 |  | شولَمّی | H7759 | H7759 |
 |  | ، |  |  |
-| ✱ | باز | H7725 שׁוּב "to turn back (hence…" | [باز آی] H7725 שׁוּב "to turn back (hence…" |
-| ✱ | آی | H7759 שׁוּלַמִּית "peaceful (with the article…"; H7725 שׁוּב "to turn back (hence…" | [باز آی] H7725 שׁוּב "to turn back (hence…" |
+|  | باز | [باز آی] H7725 | [باز آی] H7725 |
+|  | آی | [باز آی] H7725 | [باز آی] H7725 |
 |  | ! |  |  |
 |  | باز | [باز آی] H7725 | [باز آی] H7725 |
 |  | آی | [باز آی] H7725 | [باز آی] H7725 |
 | ✱ | تا |  | Hc "and" |
-|  | بر | Hb | Hb |
+| ✱ | بر |  | Hb "in" |
 |  | تو |  |  |
 |  | بنگریم | H2372 | H2372 |
 |  | ، |  |  |
@@ -455,7 +455,7 @@ Original words:
 | ✱ | آی | H7725 שׁוּב "to turn back (hence…"; H7759 שׁוּלַמִּית "peaceful (with the article…" | [باز آی] H7725 שׁוּב "to turn back (hence…" |
 |  | ! |  |  |
 
-### Song of Solomon 7:1: 3 word(s) changed
+### Song of Solomon 7:1: 1 word(s) changed
 
 Reply line 12.
 
@@ -482,9 +482,9 @@ Original words:
 | --- | --- | --- | --- |
 |  | چه | H4100 | H4100 |
 |  | زیباست | H3303 | H3303 |
-| ✱ | پاهای | H6471 פַּעַם "a stroke…"; H3409 יָרֵךְ "the thigh (from its fleshy…" | H6471 פַּעַם "a stroke…" |
+|  | پاهای | H6471 | H6471 |
 |  | تو |  |  |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | صَندَلها | H5275 | H5275 |
 |  | ، |  |  |
 |  | ای |  |  |
@@ -501,7 +501,7 @@ Original words:
 |  | هنرمند | H542 | H542 |
 |  | ! |  |  |
 
-### Song of Solomon 7:2: 8 word(s) changed
+### Song of Solomon 7:2: 4 word(s) changed
 
 Reply line 13.
 
@@ -524,19 +524,19 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | نافِ |  | H8326 שֹׁרֶר "the umbilical cord…" |
+|  | نافِ | H8326 | H8326 |
 |  | تو |  |  |
 |  | همچون |  |  |
-| ✱ | پیاله‌ای | H101 אַגָּן "a bowl (as pounded out hollow)"; H6194 עָרֵם "a heap; specifically, a sheaf" | H101 אַגָּן "a bowl (as pounded out hollow)" |
+|  | پیاله‌ای | H101 | H101 |
 |  | گِرد | H5469 | H5469 |
 |  | است |  |  |
 |  | ، |  |  |
 |  | که |  |  |
 |  | هرگز | H408 | H408 |
 | ✱ | از | H2637 חָסֵר "to lack…" |  |
-| ✱ | شرابِ | [شرابِ آمیخته خالی] H4197 מֶזֶג "tempered wine" | [شرابِ آمیخته] H4197 מֶזֶג "tempered wine" |
-| ✱ | آمیخته | [شرابِ آمیخته خالی] H4197 מֶזֶג "tempered wine" | [شرابِ آمیخته] H4197 מֶזֶג "tempered wine" |
-| ✱ | خالی | [شرابِ آمیخته خالی] H4197 מֶזֶג "tempered wine" | [خالی نیست] H2637 חָסֵר "to lack…" |
+|  | شرابِ | [شرابِ آمیخته] H4197 | [شرابِ آمیخته] H4197 |
+|  | آمیخته | [شرابِ آمیخته] H4197 | [شرابِ آمیخته] H4197 |
+| ✱ | خالی |  | [خالی نیست] H2637 חָסֵר "to lack…" |
 | ✱ | نیست | H2637 חָסֵר "to lack…" | [خالی نیست] H2637 חָסֵר "to lack…" |
 |  | ! |  |  |
 |  | شکمت | H990 | H990 |
@@ -551,7 +551,7 @@ Original words:
 |  | کرده_باشند | [احاطه‌اش کرده_باشند] H5473 | [احاطه‌اش کرده_باشند] H5473 |
 |  | . |  |  |
 
-### Song of Solomon 7:3: 4 word(s) changed
+### Song of Solomon 7:3: 3 word(s) changed
 
 Reply line 14.
 
@@ -576,11 +576,11 @@ Original words:
 |  | ، |  |  |
 |  | مانند |  |  |
 | ✱ | بره‌های | H6646 צְבִיָּה "a female gazelle" |  |
-| ✱ | توأمان |  | H8380 תָּאוֹם "a twin (in plural only)…" |
+|  | توأمان | H8380 | H8380 |
 | ✱ | غزال | H6082 עֹפֶר "a fawn (from the dusty color)"; H6646 צְבִיָּה "a female gazelle" | H6646 צְבִיָּה "a female gazelle" |
 |  | . |  |  |
 
-### Song of Solomon 7:4: 3 word(s) changed
+### Song of Solomon 7:4: 2 word(s) changed
 
 Reply line 15.
 
@@ -608,7 +608,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | گردنت | H6677 צַוָּאר "the back of the neck (as that…"; H1295 בְּרֵכָה "a reservoir (at which camels…" | H6677 צַוָּאר "the back of the neck (as that…" |
+|  | گردنت | H6677 | H6677 |
 |  | همچون | Hk | Hk |
 |  | بُرجِ | H4026 | H4026 |
 |  | عاج | H8127 | H8127 |
@@ -712,7 +712,7 @@ Original words:
 |  | خرما |  |  |
 |  | ! |  |  |
 
-### Song of Solomon 7:8: 11 word(s) changed
+### Song of Solomon 7:8: 8 word(s) changed
 
 Reply line 18.
 
@@ -738,14 +738,14 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | گفتم | H559 | H559 |
-| ✱ | به |  | Hb "in" |
+|  | به | Hb | Hb |
 | ✱ | درخت | H8558 תָּמָר "a palm tree" | [درخت نخل] H8558 תָּמָר "a palm tree" |
 | ✱ | نخل | H8558 תָּמָר "a palm tree"; H5577 סַנְסִן "a twig (as tapering)" | [درخت نخل] H8558 תָּמָר "a palm tree" |
 |  | برآیم | H5927 | H5927 |
 |  | ، |  |  |
-| ✱ | و | Hc "and" |  |
+|  | و |  |  |
 | ✱ | خوشه‌هایش | H811 אֶשְׁכּוֹל "a bunch of grapes or other…" | H5577 סַנְסִן "a twig (as tapering)" |
-| ✱ | برگیرم |  | H270 אָחַז "to seize (often with the…" |
+|  | برگیرم | H270 | H270 |
 |  | ؛ |  |  |
 |  | سینه‌هایت | H7699 | H7699 |
 | ✱ | چونان |  | Hk "like" |
@@ -790,7 +790,7 @@ Original words:
 |  | است |  |  |
 |  | . |  |  |
 
-### Song of Solomon 7:11: 6 word(s) changed
+### Song of Solomon 7:11: 5 word(s) changed
 
 Reply line 20.
 
@@ -823,7 +823,7 @@ Original words:
 |  | و |  |  |
 |  | شب | H3885 | H3885 |
 |  | را |  |  |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | دهات | H3723 | H3723 |
 | ✱ | به |  | [به روز آوریم] H3885 לוּן "to stop (usually over night)…" |
 | ✱ | روز |  | [به روز آوریم] H3885 לוּן "to stop (usually over night)…" |
@@ -925,8 +925,8 @@ Original words:
 |  | درهای | H6607 | H6607 |
 |  | ما |  |  |
 |  | هر | H3605 | H3605 |
-| ✱ | گونه | H4022 מֶגֶד "properly…" |  |
-| ✱ | طعامِ | H1736 דּוּדַי "a boiler or basket…"; H4022 מֶגֶד "properly…" | [طعامِ نیکوست] H4022 מֶגֶד "properly…" |
+| ✱ | گونه | [گونه طعامِ] H4022 מֶגֶד "properly…" |  |
+| ✱ | طعامِ | [گونه طعامِ] H4022 מֶגֶד "properly…" | [طعامِ نیکوست] H4022 מֶגֶד "properly…" |
 | ✱ | نیکوست |  | [طعامِ نیکوست] H4022 מֶגֶד "properly…" |
 |  | ، |  |  |
 |  | تازه | H2319 | H2319 |
@@ -938,7 +938,7 @@ Original words:
 |  | آنها |  |  |
 |  | را |  |  |
 | ✱ | از |  | [از بهر] Hl "to" |
-| ✱ | بهر |  | [از بهر] Hl "to" |
+| ✱ | بهر | Hl "to" | [از بهر] Hl "to" |
 |  | تو |  |  |
 |  | ، |  |  |
 |  | ای |  |  |

@@ -1,10 +1,10 @@
 # Check of 20_Proverbs_007.001-007.014.md
 
-Generated 2026-10-04 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
 ## 11 verse(s) with changes
 
-### Proverbs 7:2: 3 word(s) changed
+### Proverbs 7:2: 5 word(s) changed
 
 Reply line 2.
 
@@ -27,8 +27,8 @@ Original words:
 |  | نگاه | [نگاه دار] H8104 | [نگاه دار] H8104 |
 |  | دار | [نگاه دار] H8104 | [نگاه دار] H8104 |
 | ✱ | تا |  | Hc "and" |
-|  | زنده | [زنده بمانی] H2421 | [زنده بمانی] H2421 |
-|  | بمانی | [زنده بمانی] H2421 | [زنده بمانی] H2421 |
+| ✱ | زنده | H2421 חָיָה "to live…" | [زنده بمانی] H2421 חָיָה "to live…" |
+| ✱ | بمانی |  | [زنده بمانی] H2421 חָיָה "to live…" |
 |  | ؛ |  |  |
 |  | تعلیمات | H8451 | H8451 |
 |  | مرا |  |  |
@@ -77,7 +77,7 @@ Original words:
 |  | بخوان | H7121 | H7121 |
 |  | . |  |  |
 
-### Proverbs 7:5: 6 word(s) changed
+### Proverbs 7:5: 7 word(s) changed
 
 Reply line 4.
 
@@ -98,16 +98,16 @@ Original words:
 | ✱ | تا |  | Hl "to" |
 |  | تو |  |  |
 |  | را |  |  |
-|  | از | Hm | Hm |
+| ✱ | از |  | Hm "from" |
 |  | زن | H802 | H802 |
 | ✱ | زناکار | H802 אִשָּׁה "a woman"; H2114 זוּר "to turn aside (especially for…" | H2114 זוּר "to turn aside (especially for…" |
 |  | حفظ | [حفظ کنند] H8104 | [حفظ کنند] H8104 |
 |  | کنند | [حفظ کنند] H8104 | [حفظ کنند] H8104 |
 |  | ، |  |  |
 |  | و |  |  |
-|  | از | Hm | Hm |
+| ✱ | از |  | Hm "from" |
 | ✱ | زن |  | H5237 נׇכְרִי "strange…" |
-| ✱ | بیگانه | H2114 זוּר "to turn aside (especially for…"; H5237 נׇכְרִי "strange…" | H5237 נׇכְרִי "strange…" |
+|  | بیگانه | H5237 | H5237 |
 |  | که |  |  |
 |  | سخنان | H561 | H561 |
 | ✱ | تملّق‌آمیز | H2505 חָלַק "to be smooth (figuratively)…" | [تملّق‌آمیز می‌گوید] H2505 חָלַק "to be smooth (figuratively)…" |
@@ -134,7 +134,7 @@ Original words:
 | --- | --- | --- | --- |
 |  | زیرا | H3588 | H3588 |
 | ✱ | از |  | Hb "in" |
-| ✱ | پنجرۀ | H2474 חַלּוֹן "a window (as perforated)"; H822 אֶשְׁנָב "a latticed window" | H2474 חַלּוֹן "a window (as perforated)" |
+| ✱ | پنجرۀ | H822 אֶשְׁנָב "a latticed window" | H2474 חַלּוֹן "a window (as perforated)" |
 |  | خانۀ | H1004 | H1004 |
 |  | خویش |  |  |
 |  | و |  |  |
@@ -205,8 +205,8 @@ Original words:
 |  | نزدیکی | H681 | H681 |
 |  | گوشۀ | H6438 | H6438 |
 |  | او |  |  |
-|  | می‌گذشت | H5674 | H5674 |
-| ✱ | و | Hc "and"; H6805 צָעַד "to pace, i.e. step regularly…" | Hc "and" |
+| ✱ | می‌گذشت |  | H5674 עָבַר "to cross over…" |
+|  | و | Hc | Hc |
 |  | از |  |  |
 |  | راهِ | H1870 | H1870 |
 |  | خانۀ | H1004 | H1004 |
@@ -312,10 +312,10 @@ Original words:
 | ✱ | در |  | Hb "in" |
 |  | خانه | H1004 | H1004 |
 | ✱ | تاب |  | [تاب نمی‌آورَد] H3808 לֹא "not (the simple or abs.…"; H7931 שָׁכַן "to reside or permanently stay…" |
-| ✱ | نمی‌آورَد | H7931 שָׁכַן "to reside or permanently stay…" | [تاب نمی‌آورَد] H3808 לֹא "not (the simple or abs.…"; H7931 שָׁכַן "to reside or permanently stay…" |
+| ✱ | نمی‌آورَد | H3808 לֹא "not (the simple or abs.…"; H7931 שָׁכַן "to reside or permanently stay…" | [تاب نمی‌آورَد] H3808 לֹא "not (the simple or abs.…"; H7931 שָׁכַן "to reside or permanently stay…" |
 |  | ؛ |  |  |
 
-### Proverbs 7:12: 6 word(s) changed
+### Proverbs 7:12: 4 word(s) changed
 
 Reply line 11.
 
@@ -336,12 +336,12 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | دَمی | H6471 | H6471 |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | کوچه‌ها | H2351 | H2351 |
 |  | و | Hc | Hc |
 |  | دمی | H6471 | H6471 |
 |  | دیگر |  |  |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | میدانها | H7339 | H7339 |
 | ✱ | در |  | H681 אֵצֶל "a side…" |
 |  | گوشه‌ای | H6438 | H6438 |
@@ -350,7 +350,7 @@ Original words:
 | ✱ | است | [کمین است] H693 אָרַב "to lurk" | [به کمین است] H693 אָרַב "to lurk" |
 |  | . |  |  |
 
-### Proverbs 7:14: 1 word(s) changed
+### Proverbs 7:14: 2 word(s) changed
 
 Reply line 12.
 
@@ -377,7 +377,7 @@ Original words:
 |  | ؛ |  |  |
 |  | زیرا |  |  |
 |  | امروز | H3117 | H3117 |
-|  | نذرهایم | H5088 | H5088 |
+| ✱ | نذرهایم | H8002 שֶׁלֶם "properly, requital…"; H5088 נֶדֶר "a promise (to God)…" | H5088 נֶדֶר "a promise (to God)…" |
 |  | را |  |  |
 |  | ادا | [ادا کرده‌ام] H7999 | [ادا کرده‌ام] H7999 |
 |  | کرده‌ام | [ادا کرده‌ام] H7999 | [ادا کرده‌ام] H7999 |

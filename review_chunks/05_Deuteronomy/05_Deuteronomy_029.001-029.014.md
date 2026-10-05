@@ -122,7 +122,7 @@ Persian entries and current tags:
 - p11: موسی  → H4872
 - p12: فرمان  → H6680
 - p13: داد
-- p14: با
+- p14: با  → H854
 - p15: بنی‌اسرائیل  → H3478
 - p16: ببندد
 - p17: ،
@@ -130,9 +130,9 @@ Persian entries and current tags:
 - p19: آن
 - p20: عهد  → H1285
 - p21: که  → H834
-- p22: در
+- p22: در  → Hb
 - p23: حوریب  → H2722
-- p24: با
+- p24: با  → H854
 - p25: ایشان
 - p26: بسته_بود  → H3772
 - p27: .
@@ -195,7 +195,7 @@ Persian entries and current tags:
 - p26: کرد  → H6213
 - p27: ،
 - p28: شما
-- p29: به  → Hl
+- p29: به
 - p30: چشم  → H5869
 - p31: خود
 - p32: دیدید  → H7200
@@ -302,7 +302,7 @@ Persian entries and current tags:
 - p6: من
 - p7: شما
 - p8: را  → H853
-- p9: در
+- p9: در  → Hb
 - p10: بیابان  → H4057
 - p11: رهبری کردم  → H3212
 - p12: ،
@@ -313,7 +313,7 @@ Persian entries and current tags:
 - p17: و
 - p18: کفش  → H5275
 - p19: در  → H5921
-- p20: پای  → H5921 H7272
+- p20: پای  → H7272
 - p21: شما
 - p22: پاره  → H1086
 - p23: نگشت  → H3808
@@ -343,10 +343,10 @@ Persian entries and current tags:
 - p1: نان  → H3899 H398
 - p2: نخوردید  → H398
 - p3: و  → Hc
-- p4: شراب
+- p4: شراب  → H3899 H3196
 - p5: و  → Hc
 - p6: مُسکِرات  → H7941
-- p7: ننوشیدید  → H8354
+- p7: ننوشیدید  → H3808 H8354
 - p8: ،
 - p9: تا  → H4616
 - p10: بدانید  → H3045
@@ -391,7 +391,7 @@ Persian entries and current tags:
 - p9: پادشاه  → H4428
 - p10: حِشبون  → H2809
 - p11: و  → Hc
-- p12: عوج  → H5747
+- p12: عوج
 - p13: پادشاه  → H4428
 - p14: باشان  → H1316
 - p15: به  → Hl
@@ -400,7 +400,7 @@ Persian entries and current tags:
 - p18: ما
 - p19: بیرون آمدند  → H3318
 - p20: ،
-- p21: ولی  → Hc
+- p21: ولی
 - p22: ما
 - p23: آنها
 - p24: را
@@ -428,7 +428,7 @@ Persian entries and current tags:
 - p1: زمینشان  → H776
 - p2: را  → H853
 - p3: گرفته
-- p4: به
+- p4: به  → Hl
 - p5: رِئوبینیان  → H7206
 - p6: و  → Hc
 - p7: جادیان  → H1425
@@ -461,7 +461,7 @@ Original words:
 - o13: תַּעֲשׂוּ/ן = H6213 עָשָׂה "to do or make…" [HVqi2mp/Sn]
 
 Persian entries and current tags:
-- p1: پس  → Hc
+- p1: پس
 - p2: کلمات  → H1697
 - p3: این
 - p4: عهد  → H1285
@@ -567,7 +567,7 @@ Persian entries and current tags:
 - p18: که
 - p19: برایتان
 - p20: آب  → H4325
-- p21: می‌کشند  → H2404 H7579
+- p21: می‌کشند  → H7579
 - p22: .
 
 ### Deuteronomy 29:12
@@ -650,7 +650,7 @@ Persian entries and current tags:
 - p11: خدایتان  → H430
 - p12: باشد
 - p13: ،
-- p14: چنانکه  → Hk H834
+- p14: چنانکه  → H834
 - p15: به
 - p16: شما
 - p17: وعده داد  → H1696
@@ -688,8 +688,8 @@ Original words:
 Persian entries and current tags:
 - p1: من
 - p2: این
-- p3: عهد  → H1285
-- p4: و  → Hc H423
+- p3: عهد
+- p4: و  → Hc
 - p5: سوگند  → H423
 - p6: را  → H853
 - p7: تنها  → H905

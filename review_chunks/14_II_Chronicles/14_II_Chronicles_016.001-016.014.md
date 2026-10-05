@@ -112,7 +112,7 @@ Original words:
 Persian entries and current tags:
 - p1: در  → Hb
 - p2: سی  → H7970
-- p3: و  → H7970 Hc
+- p3: و  → H7970 Hc H8337
 - p4: ششمین  → H8337
 - p5: سال  → H8141
 - p6: پادشاهی  → H4438
@@ -125,11 +125,11 @@ Persian entries and current tags:
 - p13: جنگ
 - p14: یهودا  → H3063
 - p15: برآمد  → H5927
-- p16: و  → H8337 Hc
+- p16: و  → Hc
 - p17: رامَه  → H7414
 - p18: را  → H853
 - p19: بنا کرد  → H1129
-- p20: تا  → H1115
+- p20: تا
 - p21: نگذارد  → H5414
 - p22: کسی
 - p23: نزد
@@ -175,14 +175,14 @@ Persian entries and current tags:
 - p3: سیم  → H3701
 - p4: و  → Hc
 - p5: زر  → H2091
-- p6: از  → Hm
+- p6: از
 - p7: خزانه‌های  → H214
 - p8: خانۀ  → H1004
 - p9: خداوند  → H3068
 - p10: و  → Hc
 - p11: از
 - p12: کاخ  → H1004
-- p13: شاهی‌گرفت  → H3318 H4428
+- p13: شاهی‌گرفت  → H4428
 - p14: ،
 - p15: و  → Hc
 - p16: آنها
@@ -193,7 +193,7 @@ Persian entries and current tags:
 - p21: اَرام  → H758
 - p22: فرستاد  → H7971
 - p23: که
-- p24: در
+- p24: در  → Hb
 - p25: دمشق  → H1834
 - p26: زندگی می‌کرد  → H3427
 - p27: ،
@@ -260,7 +260,7 @@ Persian entries and current tags:
 - p26: پیمان  → H1285
 - p27: خود
 - p28: را
-- p29: با
+- p29: با  → H854
 - p30: بَعَشا  → H1201
 - p31: ،
 - p32: پادشاه  → H4428
@@ -270,7 +270,7 @@ Persian entries and current tags:
 - p36: ،
 - p37: تا
 - p38: از  → Hm
-- p39: نزد
+- p39: نزد  → H5921
 - p40: من
 - p41: عقب‌نشینی کند  → H5927
 - p42: .
@@ -325,11 +325,11 @@ Persian entries and current tags:
 - p11: را  → H853
 - p12: برای  → Hl
 - p13: جنگ
-- p14: با
+- p14: با  → H413
 - p15: شهرهای  → H5892
 - p16: اسرائیل  → H3478
 - p17: گسیل
-- p18: داشت
+- p18: داشت  → H7971
 - p19: .
 - p20: و  → Hc
 - p21: ایشان
@@ -420,7 +420,7 @@ Persian entries and current tags:
 - p7: گرد
 - p8: آورد
 - p9: ،
-- p10: و  → Hc
+- p10: و
 - p11: ایشان
 - p12: سنگها  → H68
 - p13: و  → Hc
@@ -435,21 +435,19 @@ Persian entries and current tags:
 - p22: کار
 - p23: برده_بود
 - p24: از
-- p25: آنجا
-- p26: نقل
-- p27: کردند
-- p28: ،
-- p29: و  → Hc
-- p30: او
-- p31: با
-- p32: آنها
-- p33: جِبَع  → H1387
-- p34: و  → Hc
-- p35: مِصفَه  → H4709
-- p36: را  → H853
-- p37: بنا  → H1129
-- p38: کرد  → H1129
-- p39: .
+- p25: آنجا نقل کردند  → H5375
+- p26: ،
+- p27: و  → Hc
+- p28: او
+- p29: با
+- p30: آنها
+- p31: جِبَع  → H1387
+- p32: و  → Hc
+- p33: مِصفَه  → H4709
+- p34: را  → H853
+- p35: بنا  → H1129
+- p36: کرد  → H1129
+- p37: .
 
 ### II Chronicles 16:7
 
@@ -486,7 +484,7 @@ Original words:
 - o27: מִ/יָּדֶ/ךָ = Hm "from" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbsc/Sp2ms]
 
 Persian entries and current tags:
-- p1: در
+- p1: در  → Hb
 - p2: آن
 - p3: زمان  → H6256
 - p4: ،
@@ -574,7 +572,7 @@ Persian entries and current tags:
 - p23: او
 - p24: ایشان
 - p25: را
-- p26: به  → Hb
+- p26: به
 - p27: دست  → H3027
 - p28: تو
 - p29: تسلیم
@@ -611,7 +609,7 @@ Persian entries and current tags:
 - p1: زیرا  → H3588
 - p2: چشمان  → H5869
 - p3: خداوند  → H3068
-- p4: در
+- p4: در  → Hb
 - p5: تمام  → H3605
 - p6: جهان  → H776
 - p7: گردش
@@ -632,7 +630,7 @@ Persian entries and current tags:
 - p22: سازد
 - p23: .
 - p24: تو
-- p25: در  → H5921
+- p25: در
 - p26: این  → H2063 H3588
 - p27: کار
 - p28: ابلهانه  → H5528
@@ -678,7 +676,7 @@ Original words:
 Persian entries and current tags:
 - p1: اما  → Hc
 - p2: آسا  → H609
-- p3: بر
+- p3: بر  → H413
 - p4: آن
 - p5: نبی  → H7200
 - p6: خشم گرفته  → H3707
@@ -701,7 +699,7 @@ Persian entries and current tags:
 - p23: افروخته شده_بود  → H7533
 - p24: .
 - p25: آسا  → H609
-- p26: در
+- p26: در  → Hb
 - p27: همان  → H1931
 - p28: زمان  → H6256
 - p29: بر
@@ -777,9 +775,9 @@ Original words:
 
 Persian entries and current tags:
 - p1: آسا  → H609
-- p2: در
+- p2: در  → Hb
 - p3: سی  → H7970 H8672
-- p4: و  → Hc
+- p4: و  → H7970 Hc H8672
 - p5: نهمین  → H8672
 - p6: سال  → H8141
 - p7: سلطنتش  → H4438
@@ -831,8 +829,8 @@ Original words:
 Persian entries and current tags:
 - p1: آسا  → H609
 - p2: در
-- p3: چهل  → H705 H259
-- p4: و  → H705 Hc H259
+- p3: چهل  → H705
+- p4: و  → Hc H259
 - p5: یکمین  → H259
 - p6: سال  → H8141
 - p7: سلطنتش  → H4427
@@ -877,12 +875,12 @@ Persian entries and current tags:
 - p1: و  → Hc
 - p2: او
 - p3: را
-- p4: در
+- p4: در  → Hb
 - p5: مقبره‌ای  → H6913
 - p6: که  → H834
 - p7: برای  → Hl
 - p8: خود
-- p9: در
+- p9: در  → Hb
 - p10: شهر  → H5892
 - p11: داوود  → H1732
 - p12: کنده  → H3738
@@ -911,7 +909,7 @@ Persian entries and current tags:
 - p35: درآمیخته شده_بود  → H4842
 - p36: ،
 - p37: و  → Hc
-- p38: برایش
+- p38: برایش  → Hl
 - p39: آتشی  → H8316
 - p40: به‌غایت  → H3966
 - p41: عظیم  → H1419

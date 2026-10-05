@@ -94,7 +94,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: غزل  → H7892
-- p2: غزلها
+- p2: غزلها  → H7892
 - p3: که  → H834
 - p4: از  → Hl
 - p5: آنِ سلیمان  → H8010
@@ -158,7 +158,7 @@ Persian entries and current tags:
 - p6: !
 - p7: نامت  → H8081 H8034
 - p8: همچون
-- p9: عطریست
+- p9: عطریست  → H2896
 - p10: ریخته شده  → H7324
 - p11: ؛
 - p12: شگفت
@@ -198,13 +198,13 @@ Persian entries and current tags:
 - p6: ؛
 - p7: بیا
 - p8: تا
-- p9: بدویم
+- p9: بدویم  → H2142
 - p10: !
 - p11: پادشاه  → H4428
 - p12: مرا
 - p13: به
 - p14: حجله‌های  → H2315 H2142
-- p15: خویش
+- p15: خویش  → H1730
 - p16: درآورده است  → H935 H8055
 - p17: .
 
@@ -274,8 +274,8 @@ Original words:
 
 Persian entries and current tags:
 - p1: بر
-- p2: سیه‌چِردگی‌ام
-- p3: خیره  → H7840 H7805
+- p2: سیه‌چِردگی‌ام  → H408
+- p3: خیره
 - p4: منگرید  → H7200
 - p5: ،
 - p6: زیرا
@@ -393,7 +393,7 @@ Persian entries and current tags:
 - p7: ،
 - p8: ردِ  → H3318
 - p9: پای  → H6119
-- p10: گله‌ها  → H6629 H4908
+- p10: گله‌ها  → H6629
 - p11: را  → H853
 - p12: بگیر
 - p13: و  → Hc
@@ -504,7 +504,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: حینی
-- p2: که
+- p2: که  → H5704
 - p3: پادشاه  → H4428
 - p4: بر  → Hb
 - p5: سفرۀ  → H4524
@@ -513,7 +513,7 @@ Persian entries and current tags:
 - p8: ،
 - p9: رایحۀ عطرِ  → H7381
 - p10: من
-- p11: فضا  → H5373
+- p11: فضا
 - p12: را
 - p13: آکند  → H5414
 - p14: .
@@ -543,11 +543,12 @@ Persian entries and current tags:
 - p8: ،
 - p9: که
 - p10: تمامِ
-- p11: شب در  → H3885
-- p12: میان  → H996
-- p13: سینه‌هایم  → H6872 H7699
-- p14: می‌آرَمَد
-- p15: .
+- p11: شب  → H3885
+- p12: در  → Hl H3885
+- p13: میان  → H996
+- p14: سینه‌هایم  → H6872 H7699
+- p15: می‌آرَمَد
+- p16: .
 
 ### Song of Solomon 1:14
 
@@ -570,7 +571,7 @@ Persian entries and current tags:
 - p4: همچون
 - p5: خوشۀ  → H811 H3724
 - p6: حناست  → H3724
-- p7: در
+- p7: در  → Hb
 - p8: تاکستانهای  → H3754
 - p9: عِین‌جِدی  → H5872
 - p10: !
@@ -595,7 +596,7 @@ Persian entries and current tags:
 - p3: زیبایی  → H3303
 - p4: ،
 - p5: ای
-- p6: نازنین  → H7474
+- p6: نازنین
 - p7: من
 - p8: ،
 - p9: وه
@@ -635,7 +636,7 @@ Persian entries and current tags:
 - p7: من
 - p8: ،
 - p9: و
-- p10: براستی  → H637
+- p10: براستی
 - p11: دل‌انگیز  → H5273
 - p12: !
 - p13: سبزه‌های  → H6210
@@ -656,7 +657,7 @@ Original words:
 - o5: בְּרוֹתִים = H1266 בְּרוֹת "the cypress (or some elastic tree)" [HNcmpa]
 
 Persian entries and current tags:
-- p1: سرو  → H6982
+- p1: سرو  → H6982 H730
 - p2: آزاد  → H730
 - p3: است
 - p4: تیرکهای  → H6982
@@ -664,7 +665,7 @@ Persian entries and current tags:
 - p6: ،
 - p7: صنوبر  → H7351
 - p8: است
-- p9: سقفِ  → H7351 H1266
+- p9: سقفِ  → H1266
 - p10: آن
 - p11: !
 

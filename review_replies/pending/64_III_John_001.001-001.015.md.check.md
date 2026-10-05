@@ -42,7 +42,7 @@ Original words:
 | ✱ | می‌دارم | G1473 ἐγώ "I, me" | [دوست می‌دارم] G1473 ἐγώ "I, me"; G25 ἀγαπάω "(be-)love(-ed)" |
 |  | . |  |  |
 
-### III John 1:2: 14 word(s) changed
+### III John 1:2: 15 word(s) changed
 
 Reply line 3.
 
@@ -87,14 +87,14 @@ Original words:
 | ✱ | بَری |  | [تندرستی به سر بَری] G5198 ὑγιαίνω "be in health…" |
 |  | ، |  |  |
 | ✱ | همچنان |  | [همچنان که] G2531 καθώς "according to, (according…" |
-| ✱ | که |  | [همچنان که] G2531 καθώς "according to, (according…" |
-| ✱ | جانت | G5590 ψυχή "heart (+ -ily), life, mind…" | G4771 σύ "thou"; G5590 ψυχή "heart (+ -ily), life, mind…" |
-|  | نیز |  |  |
+| ✱ | که | G4012 περί "there-)about, above, against…" | [همچنان که] G2531 καθώς "according to, (according…" |
+| ✱ | جانت | [جانت نیز] G5590 ψυχή "heart (+ -ily), life, mind…" | G4771 σύ "thou"; G5590 ψυχή "heart (+ -ily), life, mind…" |
+| ✱ | نیز | [جانت نیز] G5590 ψυχή "heart (+ -ily), life, mind…" |  |
 | ✱ | کامیاب | G2137 εὐοδόω "(have a) prosper(-ous journey)" | [کامیاب است] G2137 εὐοδόω "(have a) prosper(-ous journey)" |
 | ✱ | است | G2172 εὔχομαι "pray, will, wish" | [کامیاب است] G2137 εὐοδόω "(have a) prosper(-ous journey)" |
 |  | . |  |  |
 
-### III John 1:3: 6 word(s) changed
+### III John 1:3: 4 word(s) changed
 
 Reply line 4.
 
@@ -122,8 +122,8 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | بسی | G3029 | G3029 |
-| ✱ | شادمان | G5463 χαίρω "farewell, be glad, God speed…"; G3029 λίαν "exceeding, great(-ly), sore…" | [شادمان شدم] G5463 χαίρω "farewell, be glad, God speed…" |
-| ✱ | شدم | G5463 χαίρω "farewell, be glad, God speed…" | [شادمان شدم] G5463 χαίρω "farewell, be glad, God speed…" |
+|  | شادمان | [شادمان شدم] G5463 | [شادمان شدم] G5463 |
+|  | شدم | [شادمان شدم] G5463 | [شادمان شدم] G5463 |
 |  | که |  |  |
 |  | برادران | G80 | G80 |
 |  | آمده | G2064 | G2064 |
@@ -174,7 +174,7 @@ Original words:
 |  | از |  |  |
 | ✱ | این |  | G3778 οὗτος "he (it was that), hereof, it…" |
 |  | شاد | G5479 | G5479 |
-| ✱ | نمی‌کند |  | G3756 οὐ "+ long, nay, neither, never…" |
+| ✱ | نمی‌کند | G2192 ἔχω "be (able, hold…" | G3756 οὐ "+ long, nay, neither, never…" |
 | ✱ | که |  | G2443 ἵνα "albeit, because…" |
 | ✱ | بشنوم |  | G191 ἀκούω "give (in the) audience (of)…" |
 | ✱ | فرزندانم | G5043 τέκνον "child, daughter, son" | G1699 ἐμός "of me, mine (own), my"; G5043 τέκνον "child, daughter, son" |
@@ -184,7 +184,7 @@ Original words:
 |  | می‌کنند | [سلوک می‌کنند] G4043 | [سلوک می‌کنند] G4043 |
 |  | . |  |  |
 
-### III John 1:5: 7 word(s) changed
+### III John 1:5: 6 word(s) changed
 
 Reply line 6.
 
@@ -212,13 +212,13 @@ Original words:
 |  | عزیز | G27 | G27 |
 |  | ، |  |  |
 |  | تو |  |  |
-|  | در |  |  |
+| ✱ | در | G1437 ἐάν "before, but, except, (and) if…" |  |
 | ✱ | همۀ |  | G3739 ὅς "one, (an-, the) other, some…"; G1437 ἐάν "before, but, except, (and) if…" |
 |  | کارهایت | G2038 | G2038 |
 |  | برای | G1519 | G1519 |
-| ✱ | برادران | G80 ἀδελφός "brother"; G2532 καί "and, also, both, but, even…" | G80 ἀδελφός "brother" |
+|  | برادران | G80 | G80 |
 |  | ، |  |  |
-| ✱ | امانت | G4103 πιστός "believe(-ing, -r)…"; G3581 ξένος "host, strange(-r)" | G4103 πιστός "believe(-ing, -r)…" |
+|  | امانت | G4103 | G4103 |
 |  | خود |  |  |
 |  | را |  |  |
 | ✱ | نشان |  | [نشان می‌دهی] G4160 ποιέω "abide, + agree, appoint…" |
@@ -231,7 +231,7 @@ Original words:
 |  | بیگانه‌اند | G3581 | G3581 |
 |  | . |  |  |
 
-### III John 1:6: 3 word(s) changed
+### III John 1:6: 2 word(s) changed
 
 Reply line 7.
 
@@ -269,8 +269,8 @@ Original words:
 |  | داده‌اند | [شهادت داده‌اند] G3140 | [شهادت داده‌اند] G3140 |
 |  | ؛ |  |  |
 |  | پس |  |  |
-|  | کاری |  |  |
-|  | نیکو | G2573 | G2573 |
+| ✱ | کاری | [کاری نیکو] G2573 καλῶς "in a) good (place), honestly…" |  |
+| ✱ | نیکو | [کاری نیکو] G2573 καλῶς "in a) good (place), honestly…" | G2573 καλῶς "in a) good (place), honestly…" |
 |  | می‌کنی | G4160 | G4160 |
 |  | اگر |  |  |
 |  | ایشان | G3739 | G3739 |
@@ -281,9 +281,9 @@ Original words:
 |  | سزاوار | G516 | G516 |
 |  | خداست | G2316 | G2316 |
 |  | ، |  |  |
-| ✱ | روانۀ |  | [روانۀ سفر کنی] G4311 προπέμπω "accompany…" |
-| ✱ | سفر | [سفر کنی] G4311 προπέμπω "accompany…" | [روانۀ سفر کنی] G4311 προπέμπω "accompany…" |
-| ✱ | کنی | [سفر کنی] G4311 προπέμπω "accompany…" | [روانۀ سفر کنی] G4311 προπέμπω "accompany…" |
+|  | روانۀ | [روانۀ سفر کنی] G4311 | [روانۀ سفر کنی] G4311 |
+|  | سفر | [روانۀ سفر کنی] G4311 | [روانۀ سفر کنی] G4311 |
+|  | کنی | [روانۀ سفر کنی] G4311 | [روانۀ سفر کنی] G4311 |
 |  | . |  |  |
 
 ### III John 1:7: 5 word(s) changed
@@ -321,8 +321,8 @@ Original words:
 |  | از | G575 | G575 |
 |  | غیریهودیان | G1482 | G1482 |
 |  | کمکی | G3367 | G3367 |
-| ✱ | دریافت | G2983 λαμβάνω "accept, + be amazed, assay…" | [دریافت نداشته‌اند] G3367 μηδείς "any (man, thing), no (man)…"; G2983 λαμβάνω "accept, + be amazed, assay…" |
-| ✱ | نداشته‌اند | G1482 ἐθνικός "heathen (man)" | [دریافت نداشته‌اند] G3367 μηδείς "any (man, thing), no (man)…"; G2983 λαμβάνω "accept, + be amazed, assay…" |
+| ✱ | دریافت | [دریافت نداشته‌اند] G2983 λαμβάνω "accept, + be amazed, assay…" | [دریافت نداشته‌اند] G3367 μηδείς "any (man, thing), no (man)…"; G2983 λαμβάνω "accept, + be amazed, assay…" |
+| ✱ | نداشته‌اند | [دریافت نداشته‌اند] G2983 λαμβάνω "accept, + be amazed, assay…" | [دریافت نداشته‌اند] G3367 μηδείς "any (man, thing), no (man)…"; G2983 λαμβάνω "accept, + be amazed, assay…" |
 |  | . |  |  |
 
 ### III John 1:8: 5 word(s) changed
@@ -399,7 +399,7 @@ Original words:
 |  | امّا | G235 | G235 |
 |  | دیوتْرِفیس | G1361 | G1361 |
 |  | که | G3588 | G3588 |
-| ✱ | جایگاه | G846 αὐτός "her, it(-self), one…" | G5383 φιλοπρωτεύω "love to have the preeminence" |
+| ✱ | جایگاه |  | G5383 φιλοπρωτεύω "love to have the preeminence" |
 |  | نخست | G5383 | G5383 |
 |  | را |  |  |
 |  | دوست | [دوست می‌دارد] G5383 | [دوست می‌دارد] G5383 |
@@ -409,7 +409,7 @@ Original words:
 |  | ما | G2249 | G2249 |
 |  | را |  |  |
 | ✱ | گردن | G1361 Διοτρεφής "Diotrephes" | [گردن نمی‌نهد] G3756 οὐ "+ long, nay, neither, never…"; G1926 ἐπιδέχομαι "receive" |
-| ✱ | نمی‌نهد |  | [گردن نمی‌نهد] G3756 οὐ "+ long, nay, neither, never…"; G1926 ἐπιδέχομαι "receive" |
+| ✱ | نمی‌نهد | G3756 οὐ "+ long, nay, neither, never…" | [گردن نمی‌نهد] G3756 οὐ "+ long, nay, neither, never…"; G1926 ἐπιδέχομαι "receive" |
 |  | . |  |  |
 
 ### III John 1:10: 13 word(s) changed
@@ -478,7 +478,7 @@ Original words:
 | ✱ | به |  | G1909 ἐπί "about (the times), above…" |
 |  | این | G3778 | G3778 |
 |  | هم |  |  |
-| ✱ | بسنده | G714 ἀρκέω "be content, be enough…" | [بسنده نکرده] G3361 μή "any but (that), forbear…"; G714 ἀρκέω "be content, be enough…" |
+| ✱ | بسنده |  | [بسنده نکرده] G3361 μή "any but (that), forbear…"; G714 ἀρκέω "be content, be enough…" |
 | ✱ | نکرده | G3361 μή "any but (that), forbear…" | [بسنده نکرده] G3361 μή "any but (that), forbear…"; G714 ἀρκέω "be content, be enough…" |
 |  | ، |  |  |
 |  | از |  |  |
@@ -549,7 +549,7 @@ Original words:
 |  | ، |  |  |
 |  | بلکه | G235 | G235 |
 | ✱ | از | G1537 ἐκ "after, among, are, at…" |  |
-|  | نیکویی | G18 | G18 |
+| ✱ | نیکویی | G2556 κακός "bad, evil, harm, ill, noisome…"; G18 ἀγαθός "benefit, good(-s, things)…" | G18 ἀγαθός "benefit, good(-s, things)…" |
 |  | سرمشق | [سرمشق گیر] G3401 | [سرمشق گیر] G3401 |
 |  | گیر | [سرمشق گیر] G3401 | [سرمشق گیر] G3401 |
 |  | ؛ |  |  |
@@ -559,13 +559,13 @@ Original words:
 | ✱ | خداست | G2316 θεός "exceeding, God, god(-ly…" | G2316 θεός "exceeding, God, god(-ly…"; G1510 εἰμί "am, have been, it is I, was" |
 |  | ، |  |  |
 |  | امّا |  |  |
-| ✱ | بدکردار | G2554 κακοποιέω "do(ing) evil"; G3708 ὁράω "behold, perceive, see…" | G2554 κακοποιέω "do(ing) evil" |
+|  | بدکردار | G2554 | G2554 |
 |  | خدا | G2316 | G2316 |
 |  | را |  |  |
 |  | ندیده_است | G3756 G3708 | G3756 G3708 |
 |  | . |  |  |
 
-### III John 1:12: 2 word(s) changed
+### III John 1:12: 4 word(s) changed
 
 Reply line 13.
 
@@ -609,8 +609,8 @@ Original words:
 |  | خودِ | G846 | G846 |
 |  | حق | G225 | G225 |
 |  | . |  |  |
-|  | ما | G2249 | G2249 |
-|  | نیز | G2532 G1161 | G2532 G1161 |
+| ✱ | ما | G2532 καί "and, also, both, but, even…"; G2249 ἡμεῖς "us, we (ourselves)" | G2249 ἡμεῖς "us, we (ourselves)" |
+| ✱ | نیز |  | G2532 καί "and, also, both, but, even…"; G1161 δέ "also, and, but, moreover…" |
 |  | چنین |  |  |
 |  | شهادت | [شهادت می‌دهیم] G3140 | [شهادت می‌دهیم] G3140 |
 |  | می‌دهیم | [شهادت می‌دهیم] G3140 | [شهادت می‌دهیم] G3140 |
@@ -623,7 +623,7 @@ Original words:
 | ✱ | است |  | G1510 εἰμί "am, have been, it is I, was" |
 |  | . |  |  |
 
-### III John 1:13: 5 word(s) changed
+### III John 1:13: 6 word(s) changed
 
 Reply line 14.
 
@@ -652,7 +652,7 @@ Original words:
 | ✱ | چیزها |  | [بسیار چیزها] G4183 πολύς "abundant, + altogether…" |
 |  | داشتم | G2192 | G2192 |
 |  | به |  |  |
-|  | تو | G4771 | G4771 |
+| ✱ | تو |  | G4771 σύ "thou" |
 |  | بنویسم | G1125 | G1125 |
 |  | ، |  |  |
 |  | لیکن | G235 | G235 |
@@ -664,7 +664,7 @@ Original words:
 |  | باشد | G1125 | G1125 |
 |  | . |  |  |
 
-### III John 1:14: 2 word(s) changed
+### III John 1:14: 3 word(s) changed
 
 Reply line 15.
 
@@ -693,11 +693,11 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | امّا | G1161 | G1161 |
-|  | امیدوارم | G1679 | G1679 |
+| ✱ | امیدوارم | G1679 ἐλπίζω "have, thing) hope(-d) (for)…"; G1161 δέ "also, and, but, moreover…" | G1679 ἐλπίζω "have, thing) hope(-d) (for)…" |
 |  | بزودی | G2112 | G2112 |
 |  | تو | G4771 | G4771 |
 |  | را |  |  |
-| ✱ | ببینم |  | G3708 ὁράω "behold, perceive, see…" |
+| ✱ | ببینم | G1679 ἐλπίζω "have, thing) hope(-d) (for)…"; G1161 δέ "also, and, but, moreover…"; G3708 ὁράω "behold, perceive, see…" | G3708 ὁράω "behold, perceive, see…" |
 |  | و | G2532 | G2532 |
 | ✱ | رویاروی | G4750 στόμα "edge, face, mouth" | G4750 στόμα "edge, face, mouth"; G4314 πρός "about, according to , against…" |
 |  | گفتگو | [گفتگو کنیم] G2980 | [گفتگو کنیم] G2980 |
@@ -729,21 +729,21 @@ Original words:
 | --- | --- | --- | --- |
 |  | سلامتی | G1515 | G1515 |
 |  | بر |  |  |
-| ✱ | تو |  | G4771 σύ "thou" |
+|  | تو | G4771 | G4771 |
 |  | باد |  |  |
 |  | ! |  |  |
 |  | دوستان | G5384 | G5384 |
-| ✱ | برای | G782 ἀσπάζομαι "embrace, greet, salute…" |  |
+|  | برای |  |  |
 |  | تو | G4771 | G4771 |
-| ✱ | سلام | G782 ἀσπάζομαι "embrace, greet, salute…" | [سلام می‌فرستند] G782 ἀσπάζομαι "embrace, greet, salute…" |
+| ✱ | سلام |  | [سلام می‌فرستند] G782 ἀσπάζομαι "embrace, greet, salute…" |
 | ✱ | می‌فرستند | G782 ἀσπάζομαι "embrace, greet, salute…" | [سلام می‌فرستند] G782 ἀσπάζομαι "embrace, greet, salute…" |
 |  | . |  |  |
 |  | دوستان | G5384 | G5384 |
 |  | را |  |  |
 |  | در |  |  |
-| ✱ | آنجا | G3686 ὄνομα "called, (+ sur-)name(-d)" |  |
+| ✱ | آنجا | G2596 κατά "about, according as (to)…"; G3686 ὄνομα "called, (+ sur-)name(-d)" |  |
 | ✱ | به |  | G2596 κατά "about, according as (to)…" |
 |  | نام | G3686 | G3686 |
-|  | سلام | [سلام بده] G782 | [سلام بده] G782 |
-|  | بده | [سلام بده] G782 | [سلام بده] G782 |
+| ✱ | سلام | G782 ἀσπάζομαι "embrace, greet, salute…" | [سلام بده] G782 ἀσπάζομαι "embrace, greet, salute…" |
+| ✱ | بده | G782 ἀσπάζομαι "embrace, greet, salute…" | [سلام بده] G782 ἀσπάζομαι "embrace, greet, salute…" |
 |  | . |  |  |

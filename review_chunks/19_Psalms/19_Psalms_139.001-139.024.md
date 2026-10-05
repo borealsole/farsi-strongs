@@ -150,11 +150,11 @@ Original words:
 Persian entries and current tags:
 - p1: تو
 - p2: راه  → H734
-- p3: رفتن  → H7252 H2219
+- p3: رفتن  → H7252
 - p4: و  → Hc
 - p5: آرمیدنم
 - p6: را
-- p7: سنجیده‌ای  → H2219
+- p7: سنجیده‌ای
 - p8: ،
 - p9: و  → Hc
 - p10: با
@@ -196,7 +196,7 @@ Persian entries and current tags:
 - p15: تمامی  → H3605
 - p16: از
 - p17: آن
-- p18: آگاهی  → H2005 H3045
+- p18: آگاهی  → H3045
 - p19: .
 
 ### Psalms 139:5
@@ -215,7 +215,7 @@ Original words:
 Persian entries and current tags:
 - p1: از
 - p2: پیش  → H6924
-- p3: و
+- p3: و  → Hc
 - p4: از
 - p5: پس
 - p6: احاطه‌ام
@@ -309,7 +309,7 @@ Persian entries and current tags:
 - p3: آسمان  → H5266 H8064
 - p4: فرا~روم  → H5266
 - p5: ،
-- p6: تو  → H859
+- p6: تو
 - p7: آنجایی  → H8033
 - p8: ،
 - p9: و  → Hc
@@ -341,13 +341,13 @@ Original words:
 Persian entries and current tags:
 - p1: اگر
 - p2: بر  → H5375
-- p3: بالهای  → H3671
+- p3: بالهای
 - p4: سحر  → H7837
 - p5: پرواز  → H3671
 - p6: کنم
 - p7: ،
 - p8: و
-- p9: در
+- p9: در  → Hb
 - p10: دوردست‌ترین کرانهای  → H319
 - p11: دریا  → H3220
 - p12: قرار
@@ -405,18 +405,17 @@ Persian entries and current tags:
 - p5: بی‌گمان  → H389
 - p6: تاریکی  → H2822
 - p7: مرا
-- p8: پنهان
-- p9: خواهد_کرد
-- p10: ،
-- p11: و  → Hc
-- p12: نورِ  → H216
-- p13: گرداگردم  → H1157
-- p14: به
-- p15: شب  → H3915
-- p16: بدل
-- p17: خواهد_شد
-- p18: »
-- p19: ،
+- p8: پنهان خواهد_کرد  → H7779
+- p9: ،
+- p10: و  → Hc
+- p11: نورِ  → H216
+- p12: گرداگردم  → H1157
+- p13: به
+- p14: شب  → H3915
+- p15: بدل
+- p16: خواهد_شد
+- p17: »
+- p18: ،
 
 ### Psalms 139:12
 
@@ -483,13 +482,12 @@ Persian entries and current tags:
 - p6: ؛
 - p7: تو
 - p8: مرا
-- p9: در
-- p10: رَحِم  → H990 H517
+- p9: در  → Hb
+- p10: رَحِم  → H990
 - p11: مادرم  → H517
 - p12: در
-- p13: هم  → H5526
-- p14: تنیدی
-- p15: .
+- p13: هم تنیدی  → H5526
+- p14: .
 
 ### Psalms 139:14
 
@@ -514,7 +512,7 @@ Persian entries and current tags:
 - p3: سپاس  → H3034
 - p4: می‌گویم
 - p5: ،
-- p6: زیرا  → H5921 H3588
+- p6: زیرا  → H3588
 - p7: عجیب  → H6381
 - p8: و  → Hc
 - p9: مَهیب  → H3372 H6395
@@ -529,7 +527,7 @@ Persian entries and current tags:
 - p18: من
 - p19: این
 - p20: را
-- p21: نیک
+- p21: نیک  → H3045
 - p22: می‌داند  → H3045 H3966
 - p23: .
 
@@ -558,7 +556,7 @@ Persian entries and current tags:
 - p5: نبود  → H3808
 - p6: ،
 - p7: چون  → H834
-- p8: در
+- p8: در  → Hb
 - p9: نهان  → H5643
 - p10: ساخته_می‌شدم  → H6213
 - p11: .
@@ -590,7 +588,7 @@ Original words:
 - o12: בָּ/הֶם = Hb "in" [HR/Sp3mp]
 
 Persian entries and current tags:
-- p1: دیدگانت  → H1564 H5869
+- p1: دیدگانت  → H5869
 - p2: کالبد  → H1564
 - p3: شکل  → H3335
 - p4: ناگرفتۀ  → H1564
@@ -613,8 +611,9 @@ Persian entries and current tags:
 - p21: آنکه
 - p22: هیچ‌یک  → H3808 H259
 - p23: هنوز
-- p24: پدید آمده_باشد  → H3335
-- p25: .
+- p24: پدید
+- p25: آمده_باشد
+- p26: .
 
 ### Psalms 139:17
 
@@ -661,7 +660,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: اگر
-- p2: بخواهم
+- p2: بخواهم  → H2344
 - p3: آنها
 - p4: را
 - p5: بر‌شمارم  → H5608
@@ -695,7 +694,7 @@ Original words:
 - o8: מֶ/נִּי = Hm "from" + H4480 מִן "properly, a part of…" [HR/Sp1cs]
 
 Persian entries and current tags:
-- p1: خدایا  → H518 H433
+- p1: خدایا  → H433
 - p2: ،
 - p3: کاش  → H7563
 - p4: که
@@ -741,7 +740,7 @@ Persian entries and current tags:
 - p13: را
 - p14: به
 - p15: باطل  → H7723
-- p16: می‌برند  → H5375 H6145
+- p16: می‌برند  → H5375
 - p17: .
 
 ### Psalms 139:21
@@ -764,14 +763,14 @@ Persian entries and current tags:
 - p4: از  → H8130
 - p5: آنان
 - p6: که
-- p7: از  → H8130
+- p7: از
 - p8: تو
 - p9: نفرت دارند  → H8130
 - p10: ،
 - p11: متنفر نیستم  → H8130
 - p12: ،
 - p13: و  → Hc
-- p14: از  → H8130
+- p14: از
 - p15: آنان
 - p16: که
 - p17: علیه
@@ -795,14 +794,14 @@ Original words:
 - o6: לִ/י = Hl "to" [HR/Sp1cs]
 
 Persian entries and current tags:
-- p1: آری
+- p1: آری  → H8130
 - p2: ،
 - p3: با
 - p4: نفرت  → H8135 H8130
 - p5: کامل  → H8503
 - p6: از
 - p7: آنان
-- p8: متنفرم
+- p8: متنفرم  → H8130
 - p9: ،
 - p10: و
 - p11: ایشان
@@ -830,7 +829,7 @@ Persian entries and current tags:
 - p1: خدایا  → H410
 - p2: مرا
 - p3: بیازما  → H3045
-- p4: و  → Hc
+- p4: و
 - p5: دلم  → H3824
 - p6: را
 - p7: بشناس  → H2713

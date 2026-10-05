@@ -35,10 +35,10 @@ Original words:
 |  | را |  |  |
 | ✱ | به |  | [به کار می‌گیرد] H553 אָמַץ "to be alert…" |
 | ✱ | کار |  | [به کار می‌گیرد] H553 אָמַץ "to be alert…" |
-| ✱ | می‌گیرد |  | [به کار می‌گیرد] H553 אָמַץ "to be alert…" |
+| ✱ | می‌گیرد | H553 אָמַץ "to be alert…" | [به کار می‌گیرد] H553 אָמַץ "to be alert…" |
 |  | . |  |  |
 
-### Proverbs 31:18: 3 word(s) changed
+### Proverbs 31:18: 2 word(s) changed
 
 Reply line 3.
 
@@ -66,7 +66,7 @@ Original words:
 |  | ، |  |  |
 |  | و |  |  |
 |  | چراغش | H5216 | H5216 |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | شب | H3915 | H3915 |
 |  | خاموش | H3518 | H3518 |
 |  | نمی‌گردد | H3808 | H3808 |
@@ -133,7 +133,7 @@ Original words:
 |  | به | Hl | Hl |
 |  | روی |  |  |
 |  | نیازمندان | H34 | H34 |
-| ✱ | می‌گشاید |  | H7971 שָׁלַח "to send away, for…" |
+| ✱ | می‌گشاید | H6566 פָּרַשׂ "to break apart, disperse, etc" | H7971 שָׁלַח "to send away, for…" |
 |  | . |  |  |
 
 ### Proverbs 31:21: 11 word(s) changed
@@ -365,7 +365,7 @@ Original words:
 | ✱ | خانۀ | H1004 בַּיִת "a house (in the greatest…" | [اهل خانۀ] H1004 בַּיִת "a house (in the greatest…" |
 |  | خویش |  |  |
 | ✱ | نظارت |  | [نظارت می‌کند] H6822 צָפָה "properly, to lean forward…" |
-| ✱ | می‌کند |  | [نظارت می‌کند] H6822 צָפָה "properly, to lean forward…" |
+| ✱ | می‌کند | H6822 צָפָה "properly, to lean forward…" | [نظارت می‌کند] H6822 צָפָה "properly, to lean forward…" |
 |  | ، |  |  |
 |  | و | Hc | Hc |
 |  | نان | H3899 | H3899 |
@@ -373,7 +373,7 @@ Original words:
 | ✱ | نمی‌خورد | H398 אָכַל "to eat (literally or…" | H3808 לֹא "not (the simple or abs.…"; H398 אָכַל "to eat (literally or…" |
 |  | . |  |  |
 
-### Proverbs 31:28: 3 word(s) changed
+### Proverbs 31:28: 1 word(s) changed
 
 Reply line 13.
 
@@ -393,19 +393,19 @@ Original words:
 |  | فرزندانش | H1121 | H1121 |
 |  | برخاسته | H6965 | H6965 |
 |  | ، |  |  |
-| ✱ | او | H833 אָשַׁר "to be straight (used in the…" |  |
+|  | او |  |  |
 |  | را |  |  |
 |  | مبارک | [مبارک می‌خوانند] H833 | [مبارک می‌خوانند] H833 |
 |  | می‌خوانند | [مبارک می‌خوانند] H833 | [مبارک می‌خوانند] H833 |
 |  | ؛ |  |  |
 |  | شوهرش | H1167 | H1167 |
 | ✱ | نیز |  | Hc "and" |
-| ✱ | او | H833 אָשַׁר "to be straight (used in the…" |  |
+|  | او |  |  |
 |  | را |  |  |
 |  | می‌ستاید | H1984 | H1984 |
 |  | : |  |  |
 
-### Proverbs 31:29: 6 word(s) changed
+### Proverbs 31:29: 7 word(s) changed
 
 Reply line 14.
 
@@ -429,12 +429,12 @@ Original words:
 |  | زنان | H1323 | H1323 |
 |  | بسیار | H7227 | H7227 |
 | ✱ | کارهای | H6213 עָשָׂה "to do or make…"; H2428 חַיִל "probably a force…" | H2428 חַיִל "probably a force…" |
-| ✱ | شایسته | [شایسته کرده‌اند] H5927 עָלָה "to ascend…" | H2428 חַיִל "probably a force…" |
-| ✱ | کرده‌اند | [شایسته کرده‌اند] H5927 עָלָה "to ascend…" | H6213 עָשָׂה "to do or make…" |
+| ✱ | شایسته | H2428 חַיִל "probably a force…"; H5927 עָלָה "to ascend…" | H2428 חַיִל "probably a force…" |
+| ✱ | کرده‌اند |  | H6213 עָשָׂה "to do or make…" |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
 |  | تو | H859 | H859 |
-|  | بر | H5921 | H5921 |
+| ✱ | بر |  | H5921 עַל "above, over, upon…" |
 |  | آنها |  |  |
 | ✱ | همه | H5921 עַל "above, over, upon…"; H3605 כֹּל "properly, the whole…" | H3605 כֹּל "properly, the whole…" |
 | ✱ | پیشی |  | [پیشی گرفته‌ای] H5927 עָלָה "to ascend…" |
@@ -442,7 +442,7 @@ Original words:
 |  | . |  |  |
 |  | » |  |  |
 
-### Proverbs 31:31: 5 word(s) changed
+### Proverbs 31:31: 3 word(s) changed
 
 Reply line 15.
 
@@ -470,10 +470,10 @@ Original words:
 |  | ، |  |  |
 |  | باشد |  |  |
 |  | که |  |  |
-| ✱ | کَرده‌هایش |  | H4639 מַעֲשֶׂה "an action (good or bad)…" |
+|  | کَرده‌هایش | H4639 | H4639 |
 |  | وی |  |  |
 |  | را |  |  |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 | ✱ | دروازه‌های |  | H8179 שַׁעַר "an opening, i.e. door or gate" |
 | ✱ | شهر | H8179 שַׁעַר "an opening, i.e. door or gate" |  |
 |  | بستایند | H1984 | H1984 |

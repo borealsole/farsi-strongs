@@ -1,6 +1,6 @@
 # Check of 20_Proverbs_002.001-002.022.md
 
-Generated 2026-10-04 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
 ## 20 verse(s) with changes
 
@@ -37,7 +37,7 @@ Original words:
 |  | بیندوزی | H6845 | H6845 |
 |  | ؛ |  |  |
 
-### Proverbs 2:2: 4 word(s) changed
+### Proverbs 2:2: 5 word(s) changed
 
 Reply line 3.
 
@@ -58,7 +58,7 @@ Original words:
 |  | اگر |  |  |
 | ✱ | گوش | H7181 קָשַׁב "to prick up the ears…"; H241 אֹזֶן "broadness. i.e. (concrete)…" | H241 אֹזֶן "broadness. i.e. (concrete)…" |
 |  | خود |  |  |
-|  | به | Hl | Hl |
+| ✱ | به |  | Hl "to" |
 |  | حکمت | H2451 | H2451 |
 |  | بسپاری | H7181 | H7181 |
 |  | و |  |  |
@@ -70,7 +70,7 @@ Original words:
 | ✱ | گردانی |  | [مایل گردانی] H5186 נָטָה "to stretch or spread out…" |
 |  | ؛ |  |  |
 
-### Proverbs 2:3: 4 word(s) changed
+### Proverbs 2:3: 6 word(s) changed
 
 Reply line 4.
 
@@ -90,15 +90,15 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 | ✱ | اگر | H518 אִם "used very widely as…" | H3588 כִּי "by implication) very widely…"; H518 אִם "used very widely as…" |
-|  | بصیرت | H998 | H998 |
+| ✱ | بصیرت | H998 בִּינָה "understanding"; H8394 תָּבוּן "intelligence…" | H998 בִּינָה "understanding" |
 |  | را |  |  |
-| ✱ | فرا~خوانی | H998 בִּינָה "understanding" | H7121 קָרָא "to call out to (i.e. properly…" |
+|  | فرا~خوانی | H7121 | H7121 |
 |  | و |  |  |
-|  | فهم | H8394 | H8394 |
+| ✱ | فهم | H998 בִּינָה "understanding"; H8394 תָּבוּן "intelligence…" | H8394 תָּבוּן "intelligence…" |
 |  | را |  |  |
 |  | به |  |  |
 |  | بانگ | H6963 | H6963 |
-|  | بلند |  |  |
+| ✱ | بلند | H5414 נָתַן "to give…" |  |
 | ✱ | ندا |  | [ندا کنی] H5414 נָתַן "to give…" |
 | ✱ | کنی |  | [ندا کنی] H5414 נָתַן "to give…" |
 |  | ؛ |  |  |
@@ -311,7 +311,7 @@ Original words:
 |  | خواهد_بود | [گوارا خواهد_بود] H5276 | [گوارا خواهد_بود] H5276 |
 |  | . |  |  |
 
-### Proverbs 2:11: 1 word(s) changed
+### Proverbs 2:11: 3 word(s) changed
 
 Reply line 11.
 
@@ -338,8 +338,8 @@ Original words:
 |  | ، |  |  |
 |  | تو |  |  |
 |  | را |  |  |
-|  | پاس | [پاس خواهد_داشت] H5341 | [پاس خواهد_داشت] H5341 |
-|  | خواهد_داشت | [پاس خواهد_داشت] H5341 | [پاس خواهد_داشت] H5341 |
+| ✱ | پاس | H5341 נָצַר "to guard…" | [پاس خواهد_داشت] H5341 נָצַר "to guard…" |
+| ✱ | خواهد_داشت | H8104 שָׁמַר "properly…" | [پاس خواهد_داشت] H5341 נָצַר "to guard…" |
 |  | . |  |  |
 
 ### Proverbs 2:12: 1 word(s) changed
@@ -376,7 +376,7 @@ Original words:
 |  | می‌گویند | H1696 | H1696 |
 |  | ؛ |  |  |
 
-### Proverbs 2:13: 8 word(s) changed
+### Proverbs 2:13: 6 word(s) changed
 
 Reply line 13.
 
@@ -396,19 +396,19 @@ Original words:
 | --- | --- | --- | --- |
 |  | که |  |  |
 |  | راه | H734 | H734 |
-| ✱ | راست |  | H3476 יֹשֶׁר "the right" |
+|  | راست | H3476 | H3476 |
 |  | را |  |  |
 | ✱ | ترک | H5800 עָזַב "to loosen, i.e. relinquish…"; H3212 יָלַךְ "to walk (literally or…" | [ترک می‌کنند] H5800 עָזַב "to loosen, i.e. relinquish…" |
 | ✱ | می‌کنند | H5800 עָזַב "to loosen, i.e. relinquish…" | [ترک می‌کنند] H5800 עָזַב "to loosen, i.e. relinquish…" |
 | ✱ | تا |  | Hl "to" |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 | ✱ | راههای | H734 אֹרַח "a well-trodden road…"; H1870 דֶּרֶךְ "a road (as trodden)…" | H1870 דֶּרֶךְ "a road (as trodden)…" |
 |  | تاریک | H2822 | H2822 |
 | ✱ | گام | H3212 יָלַךְ "to walk (literally or…" | [گام بردارند] H3212 יָלַךְ "to walk (literally or…" |
 | ✱ | بردارند |  | [گام بردارند] H3212 יָלַךְ "to walk (literally or…" |
 |  | ؛ |  |  |
 
-### Proverbs 2:14: 4 word(s) changed
+### Proverbs 2:14: 3 word(s) changed
 
 Reply line 14.
 
@@ -433,7 +433,7 @@ Original words:
 |  | خشنودند | H8056 | H8056 |
 |  | و |  |  |
 | ✱ | از |  | Hb "in" |
-| ✱ | انحرافی | H1523 גִּיל "properly…"; H8419 תַּהְפֻּכָה "a perversity or fraud" | H8419 תַּהְפֻּכָה "a perversity or fraud" |
+|  | انحرافی | H8419 | H8419 |
 |  | که |  |  |
 |  | در |  |  |
 | ✱ | شرارت | H8419 תַּהְפֻּכָה "a perversity or fraud"; H7451 רַע "bad or (as noun) evil…" | H7451 רַע "bad or (as noun) evil…" |
@@ -470,7 +470,7 @@ Original words:
 | ✱ | گمراهند | H6141 עִקֵּשׁ "distorted; hence, false" | H3868 לוּז "to turn aside…" |
 |  | . |  |  |
 
-### Proverbs 2:16: 4 word(s) changed
+### Proverbs 2:16: 6 word(s) changed
 
 Reply line 16.
 
@@ -497,13 +497,13 @@ Original words:
 | ✱ | رهایی | H5337 נָצַל "to snatch away…" | [رهایی خواهد_بخشید] H5337 נָצַל "to snatch away…" |
 | ✱ | خواهد_بخشید |  | [رهایی خواهد_بخشید] H5337 נָצַל "to snatch away…" |
 |  | و |  |  |
-|  | از | Hm | Hm |
+| ✱ | از |  | Hm "from" |
 |  | زن |  |  |
-|  | بیگانه | H5237 | H5237 |
+| ✱ | بیگانه | H2114 זוּר "to turn aside (especially for…"; H5237 נׇכְרִי "strange…" | H5237 נׇכְרִי "strange…" |
 |  | که |  |  |
 |  | سخنان | H561 | H561 |
 | ✱ | تملق‌آمیز | H2505 חָלַק "to be smooth (figuratively)…" | [تملق‌آمیز می‌گوید] H2505 חָלַק "to be smooth (figuratively)…" |
-| ✱ | می‌گوید | H561 אֵמֶר "something said" | [تملق‌آمیز می‌گوید] H2505 חָלַק "to be smooth (figuratively)…" |
+| ✱ | می‌گوید |  | [تملق‌آمیز می‌گوید] H2505 חָלַק "to be smooth (figuratively)…" |
 |  | ، |  |  |
 
 ### Proverbs 2:17: 6 word(s) changed
@@ -587,7 +587,7 @@ Original words:
 | ✱ | نخواهد_یافت | [دست نخواهد_یافت] H5381 נָשַׂג "to reach (literally or…" | [دست نخواهد_یافت] H3808 לֹא "not (the simple or abs.…"; H5381 נָשַׂג "to reach (literally or…" |
 |  | . |  |  |
 
-### Proverbs 2:20: 5 word(s) changed
+### Proverbs 2:20: 4 word(s) changed
 
 Reply line 19.
 
@@ -607,7 +607,7 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | پس | H4616 | H4616 |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | راه | H1870 | H1870 |
 |  | مردمانِ |  |  |
 |  | نیکو | H2896 | H2896 |
