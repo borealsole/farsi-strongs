@@ -806,14 +806,15 @@ Original words of verses next to the ones above. Where the Persian verse divisio
 - o17: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
 - o18: συνείδησιν = G4893 συνείδησις "conscience" [N-ASF]
 - o19: ὑμῶν = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
-- o20: ἀπὸ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
-- o21: νεκρῶν = G3498 νεκρός "dead" [A-GPN]
-- o22: ἔργων = G2041 ἔργον "deed, doing, labour, work" [N-GPN]
-- o23: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
-- o24: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
-- o25: λατρεύειν = G3000 λατρεύω "serve, do the service, worship(-per)" [V-PAN]
-- o26: θεῷ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-DSM]
-- o27: ζῶντι. = G2198 ζάω "life(-time), (a-)live(-ly), quick" [V-PAP-DSM]
+- o20: ημων = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP] (variant reading, WHNU)
+- o21: ἀπὸ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
+- o22: νεκρῶν = G3498 νεκρός "dead" [A-GPN]
+- o23: ἔργων = G2041 ἔργον "deed, doing, labour, work" [N-GPN]
+- o24: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o25: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o26: λατρεύειν = G3000 λατρεύω "serve, do the service, worship(-per)" [V-PAN]
+- o27: θεῷ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-DSM]
+- o28: ζῶντι. = G2198 ζάω "life(-time), (a-)live(-ly), quick" [V-PAP-DSM]
 
 ### Hebrews 10:1 (context)
 

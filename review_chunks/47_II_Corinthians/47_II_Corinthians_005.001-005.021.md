@@ -661,7 +661,7 @@ Persian entries and current tags:
 
 ### II Corinthians 5:14
 
-Original: ἡ γὰρ ἀγάπη τοῦ Χριστοῦ συνέχει ἡμᾶς,
+Original: ἡ γὰρ ἀγάπη τοῦ Χριστοῦ συνέχει ἡμᾶς, ⟨κριναντας⟩ ⟨τουτο⟩ ⟨οτι⟩ ⟨εις⟩ ⟨υπερ⟩ ⟨παντων⟩ ⟨απεθανεν⟩ ⟨αρα⟩
 Persian: زیرا محبت مسیح بر ما حکمفرماست، چون یقین داریم که یک تن به خاطر همه مرد، پس همه مردند.
 
 Original words:
@@ -672,6 +672,14 @@ Original words:
 - o5: Χριστοῦ = G5547 Χριστός "Christ" [N-GSM]
 - o6: συνέχει = G4912 συνέχω "constrain, hold, keep in, press, lie sick of…" [V-PAI-3S]
 - o7: ἡμᾶς, = G2249 ἡμεῖς "us, we (ourselves)" [P-1AP]
+- o8: κριναντας = G2919 κρίνω "avenge, conclude, condemn, damn, decree…" [V-AAP-APM] (variant reading, WHNU)
+- o9: τουτο = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-ASN] (variant reading, WHNU)
+- o10: οτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ] (variant reading, WHNU)
+- o11: εις = G1520 εἷς "a(-n, -ny, certain), + abundantly, man…" [A-NSM] (variant reading, WHNU)
+- o12: υπερ = G5228 ὑπέρ "+ exceeding, abundantly) above…" [PREP] (variant reading, WHNU)
+- o13: παντων = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-GPM] (variant reading, WHNU)
+- o14: απεθανεν = G599 ἀποθνήσκω "be dead, death, die, lie a-dying, be slain ( with)" [V-2AAI-3S] (variant reading, WHNU)
+- o15: αρα = G686 ἄρα "haply, (what) manner (of man), no doubt, perhaps…" [PRT] (variant reading, WHNU)
 
 Persian entries and current tags:
 - p1: زیرا  → G1063

@@ -136,31 +136,32 @@ Persian entries and current tags:
 
 ### Philemon 1:16
 
-Original: οὐκ ἔτι ὡς δοῦλον ἀλλὰ ὑπὲρ δοῦλον, ἀδελφὸν ἀγαπητόν, μάλιστα ἐμοί, πόσῳ δὲ μᾶλλον σοὶ καὶ ἐν σαρκὶ καὶ ἐν κυρίῳ.
+Original: οὐκ ἔτι ⟨ουκετι⟩ ὡς δοῦλον ἀλλὰ ὑπὲρ δοῦλον, ἀδελφὸν ἀγαπητόν, μάλιστα ἐμοί, πόσῳ δὲ μᾶλλον σοὶ καὶ ἐν σαρκὶ καὶ ἐν κυρίῳ.
 Persian: امّا دیگر نه چون غلام، بلکه بالاتر از آن، چون برادری عزیز. او مرا بس عزیز است، امّا تو را به مراتب عزیزتر است، خواه در مقام یک انسان و خواه در مقام برادری در خداوند.
 
 Original words:
 - o1: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
 - o2: ἔτι = G2089 ἔτι "after that, also, ever, (any) further…" [ADV]
-- o3: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
-- o4: δοῦλον = G1401 δοῦλος "bond(-man), servant" [N-ASM]
-- o5: ἀλλὰ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
-- o6: ὑπὲρ = G5228 ὑπέρ "+ exceeding, abundantly) above…" [PREP]
-- o7: δοῦλον, = G1401 δοῦλος "bond(-man), servant" [N-ASM]
-- o8: ἀδελφὸν = G80 ἀδελφός "brother" [N-ASM]
-- o9: ἀγαπητόν, = G27 ἀγαπητός "(dearly, well) beloved, dear" [A-ASM]
-- o10: μάλιστα = G3122 μάλιστα "chiefly, most of all, (e-)specially" [ADV-S]
-- o11: ἐμοί, = G1473 ἐγώ "I, me" [P-1DS]
-- o12: πόσῳ = G4214 πόσος "how great (long, many), what" [Q-DSN]
-- o13: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
-- o14: μᾶλλον = G3123 μᾶλλον "+ better, far, (the) more (and more)…" [ADV]
-- o15: σοὶ = G4771 σύ "thou" [P-2DS]
-- o16: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o17: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
-- o18: σαρκὶ = G4561 σάρξ "carnal(-ly, + -ly minded), flesh(-ly)" [N-DSF]
-- o19: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o20: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
-- o21: κυρίῳ. = G2962 κύριος "God, Lord, master, Sir" [N-DSM]
+- o3: ουκετι = G3765 οὐκέτι "after that (not), (not) any more…" [ADV-N] (variant reading, WHNU)
+- o4: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
+- o5: δοῦλον = G1401 δοῦλος "bond(-man), servant" [N-ASM]
+- o6: ἀλλὰ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o7: ὑπὲρ = G5228 ὑπέρ "+ exceeding, abundantly) above…" [PREP]
+- o8: δοῦλον, = G1401 δοῦλος "bond(-man), servant" [N-ASM]
+- o9: ἀδελφὸν = G80 ἀδελφός "brother" [N-ASM]
+- o10: ἀγαπητόν, = G27 ἀγαπητός "(dearly, well) beloved, dear" [A-ASM]
+- o11: μάλιστα = G3122 μάλιστα "chiefly, most of all, (e-)specially" [ADV-S]
+- o12: ἐμοί, = G1473 ἐγώ "I, me" [P-1DS]
+- o13: πόσῳ = G4214 πόσος "how great (long, many), what" [Q-DSN]
+- o14: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o15: μᾶλλον = G3123 μᾶλλον "+ better, far, (the) more (and more)…" [ADV]
+- o16: σοὶ = G4771 σύ "thou" [P-2DS]
+- o17: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o18: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o19: σαρκὶ = G4561 σάρξ "carnal(-ly, + -ly minded), flesh(-ly)" [N-DSF]
+- o20: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o21: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o22: κυρίῳ. = G2962 κύριος "God, Lord, master, Sir" [N-DSM]
 
 Persian entries and current tags:
 - p1: امّا

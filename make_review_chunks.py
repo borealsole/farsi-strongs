@@ -14,7 +14,7 @@ import os
 import re
 import shutil
 
-from retag import data, manual, original, persian
+from retag import data, manual, original, persian, variants
 
 OUT_DIR = os.path.join(data.REPO, 'review_chunks')
 
@@ -73,8 +73,14 @@ def original_lines(verse, dictionary):
         lemmas = word[1].split('/')
         parts = [f'{l} {gloss(l, dictionary)}' for l in lemmas]
         morph = f' [{word[2]}]' if len(word) > 2 and word[2] else ''
-        lines.append(f'- o{n}: {plain(word[0])} = ' + ' + '.join(parts) + morph)
+        source = f' (variant reading, {word[3]})' if variants.is_variant(word) else ''
+        lines.append(f'- o{n}: {plain(word[0])} = ' + ' + '.join(parts) + morph + source)
     return lines
+
+
+def original_text(verse):
+    '''The original as running text, with words from variant readings in ⟨ ⟩.'''
+    return ' '.join(f'⟨{plain(w[0])}⟩' if variants.is_variant(w) else plain(w[0]) for w in verse)
 
 
 def persian_lines(verse, strip_markers=False):
@@ -96,7 +102,7 @@ def persian_text(verse):
 
 def verse_block(key, verse, original_verse, dictionary, heading='###', example=False):
     out = [f'{heading} {data.reference(key)}', '']
-    out.append('Original: ' + ' '.join(plain(w[0]) for w in original_verse))
+    out.append('Original: ' + original_text(original_verse))
     out.append('Persian: ' + persian_text(verse))
     out.append('')
     out.append('Original words:')
@@ -174,12 +180,14 @@ def main():
                         help='Most characters of verse data in one chunk (excluding the examples)')
     parser.add_argument('--window', type=int, default=1,
                         help='Neighbouring verses either side whose Strong\'s numbers may be used (default 1)')
+    parser.add_argument('--no-variants', action='store_true',
+                        help='Show accented.json alone, without the Greek variant readings from WHNU.json and TR.json')
     args = parser.parse_args()
 
     paths = data.sync_bible_paths(args.sync_bible)
     dictionary = data.load_json(os.path.join(args.sync_bible, 'public', 'data', 'strongsDictionary.json'))
-    accented = data.load_bible(paths['accented'])
     grid = data.load_token_grid()
+    accented = variants.load_original(args.sync_bible, grid, variants=not args.no_variants)
     current = data.align_to_grid(data.load_bible(paths['nmv_strongs']), grid)
     missing = sorted(set(grid) - set(current))
     if missing:

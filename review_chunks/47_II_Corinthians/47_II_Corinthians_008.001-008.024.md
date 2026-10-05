@@ -643,7 +643,7 @@ Persian entries and current tags:
 
 ### II Corinthians 8:12
 
-Original: εἰ γὰρ ἡ προθυμία πρόκειται, καθὸ ἂν ἔχῃ εὐπρόσδεκτος, οὐ καθὸ οὐκ ἔχει.
+Original: εἰ γὰρ ἡ προθυμία πρόκειται, καθὸ ἂν ⟨εαν⟩ ἔχῃ εὐπρόσδεκτος, οὐ καθὸ οὐκ ἔχει.
 Persian: زیرا اگر اشتیاق باشد، هدیۀ شخص مقبول می‌افتد، البته بر حسب آنچه کسی دارد، نه آنچه ندارد.
 
 Original words:
@@ -654,12 +654,13 @@ Original words:
 - o5: πρόκειται, = G4295 πρόκειμαι "be first, set before (forth)" [V-PNI-3S]
 - o6: καθὸ = G2526 καθό "according to that, (inasmuch) as" [ADV]
 - o7: ἂν = G302 ἄν "(what-, where-, wither-, who-)soever" [PRT]
-- o8: ἔχῃ = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAS-3S]
-- o9: εὐπρόσδεκτος, = G2144 εὐπρόσδεκτος "acceptable(-ted)" [A-NSF]
-- o10: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
-- o11: καθὸ = G2526 καθό "according to that, (inasmuch) as" [ADV]
-- o12: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
-- o13: ἔχει. = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAI-3S]
+- o8: εαν = G1437 ἐάν "before, but, except, (and) if, (if) so, (what-…" [COND] (variant reading, WHNU)
+- o9: ἔχῃ = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAS-3S]
+- o10: εὐπρόσδεκτος, = G2144 εὐπρόσδεκτος "acceptable(-ted)" [A-NSF]
+- o11: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o12: καθὸ = G2526 καθό "according to that, (inasmuch) as" [ADV]
+- o13: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o14: ἔχει. = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAI-3S]
 
 Persian entries and current tags:
 - p1: زیرا  → G1063

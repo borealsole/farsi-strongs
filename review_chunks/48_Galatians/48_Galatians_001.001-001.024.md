@@ -183,7 +183,7 @@ Persian entries and current tags:
 
 ### Galatians 1:4
 
-Original: τοῦ δόντος ἑαυτὸν περὶ τῶν ἁμαρτιῶν ἡμῶν ὅπως ἐξέληται ἡμᾶς ἐκ τοῦ αἰῶνος τοῦ ἐνεστῶτος πονηροῦ κατὰ τὸ θέλημα τοῦ θεοῦ καὶ πατρὸς ἡμῶν,
+Original: τοῦ δόντος ἑαυτὸν περὶ ⟨υπερ⟩ τῶν ἁμαρτιῶν ἡμῶν ὅπως ἐξέληται ἡμᾶς ἐκ τοῦ αἰῶνος τοῦ ἐνεστῶτος πονηροῦ κατὰ τὸ θέλημα τοῦ θεοῦ καὶ πατρὸς ἡμῶν,
 Persian: که جان خود را در راه گناهان ما داد تا ما را به ارادۀ خدا و پدر ما، از عصرِ شریرِ حاضر رهایی بخشد.
 
 Original words:
@@ -191,26 +191,27 @@ Original words:
 - o2: δόντος = G1325 δίδωμι "adventure, bestow, bring forth, commit…" [V-2AAP-GSM]
 - o3: ἑαυτὸν = G1438 ἑαυτοῦ "alone, her (own, -self), (he) himself, his (own)…" [F-3ASM]
 - o4: περὶ = G4012 περί "there-)about, above, against, at, on behalf of…" [PREP]
-- o5: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPF]
-- o6: ἁμαρτιῶν = G266 ἁμαρτία "offence, sin(-ful)" [N-GPF]
-- o7: ἡμῶν = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
-- o8: ὅπως = G3704 ὅπως "because, how, (so) that, to, when" [ADV]
-- o9: ἐξέληται = G1807 ἐξαιρέω "deliver, pluck out, rescue" [V-2AMS-3S]
-- o10: ἡμᾶς = G2249 ἡμεῖς "us, we (ourselves)" [P-1AP]
-- o11: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
-- o12: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
-- o13: αἰῶνος = G165 αἰών "age, course, eternal, (for) ever(-more), (n-)ever…" [N-GSM]
-- o14: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
-- o15: ἐνεστῶτος = G1764 ἐνίστημι "come, be at hand, present" [V-RAP-GSM]
-- o16: πονηροῦ = G4190 πονηρός "bad, evil, grievous, harm, lewd, malicious…" [A-GSM]
-- o17: κατὰ = G2596 κατά "about, according as (to), after, against…" [PREP]
-- o18: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
-- o19: θέλημα = G2307 θέλημα "desire, pleasure, will" [N-ASN]
-- o20: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
-- o21: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
-- o22: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o23: πατρὸς = G3962 πατήρ "father, parent" [N-GSM]
-- o24: ἡμῶν, = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+- o5: υπερ = G5228 ὑπέρ "+ exceeding, abundantly) above…" [PREP] (variant reading, WHNU)
+- o6: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPF]
+- o7: ἁμαρτιῶν = G266 ἁμαρτία "offence, sin(-ful)" [N-GPF]
+- o8: ἡμῶν = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+- o9: ὅπως = G3704 ὅπως "because, how, (so) that, to, when" [ADV]
+- o10: ἐξέληται = G1807 ἐξαιρέω "deliver, pluck out, rescue" [V-2AMS-3S]
+- o11: ἡμᾶς = G2249 ἡμεῖς "us, we (ourselves)" [P-1AP]
+- o12: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o13: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o14: αἰῶνος = G165 αἰών "age, course, eternal, (for) ever(-more), (n-)ever…" [N-GSM]
+- o15: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o16: ἐνεστῶτος = G1764 ἐνίστημι "come, be at hand, present" [V-RAP-GSM]
+- o17: πονηροῦ = G4190 πονηρός "bad, evil, grievous, harm, lewd, malicious…" [A-GSM]
+- o18: κατὰ = G2596 κατά "about, according as (to), after, against…" [PREP]
+- o19: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o20: θέλημα = G2307 θέλημα "desire, pleasure, will" [N-ASN]
+- o21: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o22: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o23: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o24: πατρὸς = G3962 πατήρ "father, parent" [N-GSM]
+- o25: ἡμῶν, = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
 
 Persian entries and current tags:
 - p1: که  → G3588
@@ -516,25 +517,26 @@ Persian entries and current tags:
 
 ### Galatians 1:11
 
-Original: Γνωρίζω δὲ ὑμῖν, ἀδελφοί, τὸ εὐαγγέλιον τὸ εὐαγγελισθὲν ὑπ’ ἐμοῦ ὅτι οὐκ ἔστιν κατὰ ἄνθρωπον·
+Original: Γνωρίζω δὲ ⟨γαρ⟩ ὑμῖν, ἀδελφοί, τὸ εὐαγγέλιον τὸ εὐαγγελισθὲν ὑπ’ ἐμοῦ ὅτι οὐκ ἔστιν κατὰ ἄνθρωπον·
 Persian: ای برادران، می‌خواهم بدانید انجیلی که من بدان بشارت دادم، انجیلی بشری نیست،
 
 Original words:
 - o1: Γνωρίζω = G1107 γνωρίζω "certify, declare, make known, give to understand…" [V-PAI-1S]
 - o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
-- o3: ὑμῖν, = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
-- o4: ἀδελφοί, = G80 ἀδελφός "brother" [N-VPM]
-- o5: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
-- o6: εὐαγγέλιον = G2098 εὐαγγέλιον "gospel" [N-ASN]
-- o7: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
-- o8: εὐαγγελισθὲν = G2097 εὐαγγελίζω "declare, bring (declare…" [V-APP-ASN]
-- o9: ὑπ’ = G5259 ὑπό "among, by, from, in, of, under, with" [PREP]
-- o10: ἐμοῦ = G1473 ἐγώ "I, me" [P-1GS]
-- o11: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
-- o12: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
-- o13: ἔστιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
-- o14: κατὰ = G2596 κατά "about, according as (to), after, against…" [PREP]
-- o15: ἄνθρωπον· = G444 ἄνθρωπος "certain, man" [N-ASM]
+- o3: γαρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ] (variant reading, WHNU)
+- o4: ὑμῖν, = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
+- o5: ἀδελφοί, = G80 ἀδελφός "brother" [N-VPM]
+- o6: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o7: εὐαγγέλιον = G2098 εὐαγγέλιον "gospel" [N-ASN]
+- o8: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o9: εὐαγγελισθὲν = G2097 εὐαγγελίζω "declare, bring (declare…" [V-APP-ASN]
+- o10: ὑπ’ = G5259 ὑπό "among, by, from, in, of, under, with" [PREP]
+- o11: ἐμοῦ = G1473 ἐγώ "I, me" [P-1GS]
+- o12: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o13: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o14: ἔστιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o15: κατὰ = G2596 κατά "about, according as (to), after, against…" [PREP]
+- o16: ἄνθρωπον· = G444 ἄνθρωπος "certain, man" [N-ASM]
 
 Persian entries and current tags:
 - p1: ای
@@ -706,26 +708,27 @@ Persian entries and current tags:
 
 ### Galatians 1:15
 
-Original: ὅτε δὲ εὐδόκησεν ὁ ἀφορίσας με ἐκ κοιλίας μητρός μου καὶ καλέσας διὰ τῆς χάριτος αὐτοῦ
+Original: ὅτε δὲ εὐδόκησεν ⟨θεος⟩ ὁ ἀφορίσας με ἐκ κοιλίας μητρός μου καὶ καλέσας διὰ τῆς χάριτος αὐτοῦ
 Persian: امّا چون خشنودی او که مرا از رَحِم مادرم وقف کار خود کرد و به واسطۀ فیض خود مرا فرا~خواند در این بود
 
 Original words:
 - o1: ὅτε = G3753 ὅτε "after (that), as soon as, that, when, while" [ADV]
 - o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
 - o3: εὐδόκησεν = G2106 εὐδοκέω "think good, (be well) please(-d)…" [V-AAI-3S]
-- o4: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
-- o5: ἀφορίσας = G873 ἀφορίζω "divide, separate, sever" [V-AAP-NSM]
-- o6: με = G1473 ἐγώ "I, me" [P-1AS]
-- o7: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
-- o8: κοιλίας = G2836 κοιλία "belly, womb" [N-GSF]
-- o9: μητρός = G3384 μήτηρ "mother" [N-GSF]
-- o10: μου = G1473 ἐγώ "I, me" [P-1GS]
-- o11: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o12: καλέσας = G2564 καλέω "bid, call (forth), (whose…" [V-AAP-NSM]
-- o13: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
-- o14: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
-- o15: χάριτος = G5485 χάρις "acceptable, benefit, favour, gift, grace(- ious)…" [N-GSF]
-- o16: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o4: θεος = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-NSM] (variant reading, WHNU)
+- o5: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o6: ἀφορίσας = G873 ἀφορίζω "divide, separate, sever" [V-AAP-NSM]
+- o7: με = G1473 ἐγώ "I, me" [P-1AS]
+- o8: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o9: κοιλίας = G2836 κοιλία "belly, womb" [N-GSF]
+- o10: μητρός = G3384 μήτηρ "mother" [N-GSF]
+- o11: μου = G1473 ἐγώ "I, me" [P-1GS]
+- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o13: καλέσας = G2564 καλέω "bid, call (forth), (whose…" [V-AAP-NSM]
+- o14: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o15: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o16: χάριτος = G5485 χάρις "acceptable, benefit, favour, gift, grace(- ious)…" [N-GSF]
+- o17: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
 
 Persian entries and current tags:
 - p1: امّا  → G1161

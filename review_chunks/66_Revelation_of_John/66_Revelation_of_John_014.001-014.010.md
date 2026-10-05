@@ -776,6 +776,9 @@ Original words of verses next to the ones above. Where the Persian verse divisio
 - o19: ἀριθμὸς = G706 ἀριθμός "number" [N-NSM]
 - o20: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSN]
 - o21: χξϛʹ. = G5516 χξϛ "six hundred threescore and six" [A-NUI-ABB]
+- o22: εξακοσιοι = G1812 ἑξακόσιοι "six hundred" [A-NPM] (variant reading, WHNU)
+- o23: εξηκοντα = G1835 ἑξήκοντα "sixty(-fold), threescore" [A-NUI] (variant reading, WHNU)
+- o24: εξ = G1803 ἕξ "six" [A-NUI] (variant reading, WHNU)
 
 ### Revelation of John 14:11 (context)
 

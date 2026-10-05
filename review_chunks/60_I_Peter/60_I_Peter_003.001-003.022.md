@@ -544,21 +544,22 @@ Persian entries and current tags:
 
 ### I Peter 3:11
 
-Original: ἐκκλινάτω ἀπὸ κακοῦ καὶ ποιησάτω ἀγαθόν, ζητησάτω εἰρήνην καὶ διωξάτω αὐτήν,
+Original: ἐκκλινάτω ⟨δε⟩ ἀπὸ κακοῦ καὶ ποιησάτω ἀγαθόν, ζητησάτω εἰρήνην καὶ διωξάτω αὐτήν,
 Persian: باید از بدی روی بگرداند و نیکویی پیشه کند؛ آرام بجوید و در پی صلح باشد.
 
 Original words:
 - o1: ἐκκλινάτω = G1578 ἐκκλίνω "avoid, eschew, go out of the way" [V-AAM-3S]
-- o2: ἀπὸ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
-- o3: κακοῦ = G2556 κακός "bad, evil, harm, ill, noisome, wicked" [A-GSN]
-- o4: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o5: ποιησάτω = G4160 ποιέω "abide, + agree, appoint, avenge, + band together…" [V-AAM-3S]
-- o6: ἀγαθόν, = G18 ἀγαθός "benefit, good(-s, things), well" [A-ASN]
-- o7: ζητησάτω = G2212 ζητέω "be (go) about, desire, endeavour, enquire (for)…" [V-AAM-3S]
-- o8: εἰρήνην = G1515 εἰρήνη "one, peace, quietness, rest, + set at one again" [N-ASF]
-- o9: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o10: διωξάτω = G1377 διώκω "ensue, follow (after), given to…" [V-AAM-3S]
-- o11: αὐτήν, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASF]
+- o2: δε = G1161 δέ "also, and, but, moreover…" [CONJ] (variant reading, WHNU)
+- o3: ἀπὸ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
+- o4: κακοῦ = G2556 κακός "bad, evil, harm, ill, noisome, wicked" [A-GSN]
+- o5: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o6: ποιησάτω = G4160 ποιέω "abide, + agree, appoint, avenge, + band together…" [V-AAM-3S]
+- o7: ἀγαθόν, = G18 ἀγαθός "benefit, good(-s, things), well" [A-ASN]
+- o8: ζητησάτω = G2212 ζητέω "be (go) about, desire, endeavour, enquire (for)…" [V-AAM-3S]
+- o9: εἰρήνην = G1515 εἰρήνη "one, peace, quietness, rest, + set at one again" [N-ASF]
+- o10: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o11: διωξάτω = G1377 διώκω "ensue, follow (after), given to…" [V-AAM-3S]
+- o12: αὐτήν, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASF]
 
 Persian entries and current tags:
 - p1: باید

@@ -152,7 +152,7 @@ Persian entries and current tags:
 
 ### Revelation of John 5:3
 
-Original: καὶ οὐδεὶς ἐδύνατο ἐν τῷ οὐρανῷ οὔτε ἐπὶ τῆς γῆς οὔτε ὑποκάτω τῆς γῆς ἀνοῖξαι τὸ βιβλίον οὔτε βλέπειν αὐτό.
+Original: καὶ οὐδεὶς ἐδύνατο ἐν τῷ οὐρανῷ οὔτε ⟨ουδε⟩ ἐπὶ τῆς γῆς οὔτε ὑποκάτω τῆς γῆς ἀνοῖξαι τὸ βιβλίον οὔτε βλέπειν αὐτό.
 Persian: و هیچ‌کس، نه در آسمان، نه بر زمین، و نه در زیر زمین، توانِ آن نداشت که طومار را برگشاید یا حتی در آن نظر کند.
 
 Original words:
@@ -163,19 +163,20 @@ Original words:
 - o5: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
 - o6: οὐρανῷ = G3772 οὐρανός "air, heaven(-ly), sky" [N-DSM]
 - o7: οὔτε = G3777 οὔτε "neither, none, nor (yet), (no, yet) not, nothing" [CONJ-N]
-- o8: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
-- o9: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
-- o10: γῆς = G1093 γῆ "country, earth(-ly), ground, land, world" [N-GSF]
-- o11: οὔτε = G3777 οὔτε "neither, none, nor (yet), (no, yet) not, nothing" [CONJ-N]
-- o12: ὑποκάτω = G5270 ὑποκάτω "under" [ADV]
-- o13: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
-- o14: γῆς = G1093 γῆ "country, earth(-ly), ground, land, world" [N-GSF]
-- o15: ἀνοῖξαι = G455 ἀνοίγω "open" [V-AAN]
-- o16: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
-- o17: βιβλίον = G975 βιβλίον "bill, book, scroll, writing" [N-ASN]
-- o18: οὔτε = G3777 οὔτε "neither, none, nor (yet), (no, yet) not, nothing" [CONJ-N]
-- o19: βλέπειν = G991 βλέπω "behold, beware, lie, look (on, to), perceive…" [V-PAN]
-- o20: αὐτό. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASN]
+- o8: ουδε = G3761 οὐδέ "neither (indeed), never, no (more, nor, not)…" [CONJ-N] (variant reading, WHNU)
+- o9: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o10: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o11: γῆς = G1093 γῆ "country, earth(-ly), ground, land, world" [N-GSF]
+- o12: οὔτε = G3777 οὔτε "neither, none, nor (yet), (no, yet) not, nothing" [CONJ-N]
+- o13: ὑποκάτω = G5270 ὑποκάτω "under" [ADV]
+- o14: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o15: γῆς = G1093 γῆ "country, earth(-ly), ground, land, world" [N-GSF]
+- o16: ἀνοῖξαι = G455 ἀνοίγω "open" [V-AAN]
+- o17: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o18: βιβλίον = G975 βιβλίον "bill, book, scroll, writing" [N-ASN]
+- o19: οὔτε = G3777 οὔτε "neither, none, nor (yet), (no, yet) not, nothing" [CONJ-N]
+- o20: βλέπειν = G991 βλέπω "behold, beware, lie, look (on, to), perceive…" [V-PAN]
+- o21: αὐτό. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASN]
 
 Persian entries and current tags:
 - p1: و  → G2532

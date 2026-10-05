@@ -158,18 +158,20 @@ Persian entries and current tags:
 
 ### Matthew 5:4
 
-Original: μακάριοι οἱ πραεῖς, ὅτι αὐτοὶ κληρονομήσουσιν τήν γῆν.
+Original: μακάριοι οἱ πραεῖς, ⟨πενθουντες⟩ ὅτι αὐτοὶ κληρονομήσουσιν τήν γῆν. ⟨παρακληθησονται⟩
 Persian: خوشا به حال ماتمیان، زیرا آنان تسلی خواهند_یافت.
 
 Original words:
 - o1: μακάριοι = G3107 μακάριος "blessed, happy( -ier)" [A-NPM]
 - o2: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
 - o3: πραεῖς, = G4239 πραΰς "meek" [A-NPM]
-- o4: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
-- o5: αὐτοὶ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-NPM]
-- o6: κληρονομήσουσιν = G2816 κληρονομέω "be heir, (obtain by) inherit(-ance)" [V-FAI-3P]
-- o7: τήν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
-- o8: γῆν. = G1093 γῆ "country, earth(-ly), ground, land, world" [N-ASF]
+- o4: πενθουντες = G3996 πενθέω "mourn, (be-)wail" [V-PAP-NPM] (variant reading, WHNU)
+- o5: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o6: αὐτοὶ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-NPM]
+- o7: κληρονομήσουσιν = G2816 κληρονομέω "be heir, (obtain by) inherit(-ance)" [V-FAI-3P]
+- o8: τήν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o9: γῆν. = G1093 γῆ "country, earth(-ly), ground, land, world" [N-ASF]
+- o10: παρακληθησονται = G3870 παρακαλέω "beseech, call for, (be of good) comfort, desire…" [V-FPI-3P] (variant reading, WHNU)
 
 Persian entries and current tags:
 - p1: خوشا  → G3107
@@ -184,16 +186,19 @@ Persian entries and current tags:
 
 ### Matthew 5:5
 
-Original: μακάριοι οἱ πενθοῦντες, ὅτι αὐτοὶ παρακληθήσονται.
+Original: μακάριοι οἱ πενθοῦντες, ⟨πραεις⟩ ὅτι αὐτοὶ παρακληθήσονται. ⟨κληρονομησουσιν⟩ ⟨γην⟩
 Persian: خوشا به حال حلیمان، زیرا آنان زمین را به میراث خواهند_برد.
 
 Original words:
 - o1: μακάριοι = G3107 μακάριος "blessed, happy( -ier)" [A-NPM]
 - o2: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
 - o3: πενθοῦντες, = G3996 πενθέω "mourn, (be-)wail" [V-PAP-NPM]
-- o4: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
-- o5: αὐτοὶ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-NPM]
-- o6: παρακληθήσονται. = G3870 παρακαλέω "beseech, call for, (be of good) comfort, desire…" [V-FPI-3P]
+- o4: πραεις = G4239 πραΰς "meek" [A-NPM] (variant reading, WHNU)
+- o5: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o6: αὐτοὶ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-NPM]
+- o7: παρακληθήσονται. = G3870 παρακαλέω "beseech, call for, (be of good) comfort, desire…" [V-FPI-3P]
+- o8: κληρονομησουσιν = G2816 κληρονομέω "be heir, (obtain by) inherit(-ance)" [V-FAI-3P] (variant reading, WHNU)
+- o9: γην = G1093 γῆ "country, earth(-ly), ground, land, world" [N-ASF] (variant reading, WHNU)
 
 Persian entries and current tags:
 - p1: خوشا  → G3107

@@ -106,7 +106,7 @@ Persian entries and current tags:
 
 ### I Peter 5:2
 
-Original: ποιμάνατε τὸ ἐν ὑμῖν ποίμνιον τοῦ θεοῦ, μὴ ἀναγκαστῶς ἀλλὰ ἑκουσίως κατὰ θεόν, μηδὲ αἰσχροκερδῶς ἀλλὰ προθύμως,
+Original: ποιμάνατε τὸ ἐν ὑμῖν ποίμνιον τοῦ θεοῦ, ⟨επισκοπουντες⟩ μὴ ἀναγκαστῶς ἀλλὰ ἑκουσίως κατὰ θεόν, μηδὲ αἰσχροκερδῶς ἀλλὰ προθύμως,
 Persian: گلۀ خدا را که به دست شما سپرده_شده_است شبانی و نظارت کنید، امّا نه به اجبار بلکه با میل و رغبت،[ آن‌گونه که خدا می‌خواهد]؛ و نه برای منافع نامشروع بلکه با عشق و علاقه.
 
 Original words:
@@ -117,16 +117,17 @@ Original words:
 - o5: ποίμνιον = G4168 ποίμνιον "flock" [N-ASN]
 - o6: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
 - o7: θεοῦ, = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
-- o8: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
-- o9: ἀναγκαστῶς = G317 ἀναγκαστῶς "by constraint" [ADV]
-- o10: ἀλλὰ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
-- o11: ἑκουσίως = G1596 ἑκουσίως "wilfully, willingly" [ADV]
-- o12: κατὰ = G2596 κατά "about, according as (to), after, against…" [PREP]
-- o13: θεόν, = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-ASM]
-- o14: μηδὲ = G3366 μηδέ "neither, nor (yet), (no) not (once, so much as)" [CONJ-N]
-- o15: αἰσχροκερδῶς = G147 αἰσχροκερδῶς "for filthy lucre's sake" [ADV]
-- o16: ἀλλὰ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
-- o17: προθύμως, = G4290 προθύμως "willingly" [ADV]
+- o8: επισκοπουντες = G1983 ἐπισκοπέω "look diligently, take the oversight" [V-PAP-NPM] (variant reading, TR)
+- o9: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o10: ἀναγκαστῶς = G317 ἀναγκαστῶς "by constraint" [ADV]
+- o11: ἀλλὰ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o12: ἑκουσίως = G1596 ἑκουσίως "wilfully, willingly" [ADV]
+- o13: κατὰ = G2596 κατά "about, according as (to), after, against…" [PREP]
+- o14: θεόν, = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-ASM]
+- o15: μηδὲ = G3366 μηδέ "neither, nor (yet), (no) not (once, so much as)" [CONJ-N]
+- o16: αἰσχροκερδῶς = G147 αἰσχροκερδῶς "for filthy lucre's sake" [ADV]
+- o17: ἀλλὰ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o18: προθύμως, = G4290 προθύμως "willingly" [ADV]
 
 Persian entries and current tags:
 - p1: گلۀ  → G4168

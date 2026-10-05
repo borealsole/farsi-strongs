@@ -489,7 +489,7 @@ Persian entries and current tags:
 
 ### Matthew 8:10
 
-Original: ἀκούσας δὲ ὁ Ἰησοῦς ἐθαύμασεν καὶ εἶπεν τοῖς ἀκολουθοῦσιν, ἀμὴν λέγω ὑμῖν, οὐδὲ ἐν τῷ Ἰσραὴλ τοσαύτην πίστιν εὗρον.
+Original: ἀκούσας δὲ ὁ Ἰησοῦς ἐθαύμασεν καὶ εἶπεν τοῖς ἀκολουθοῦσιν, ἀμὴν λέγω ὑμῖν, οὐδὲ ⟨παρ⟩ ⟨ουδενι⟩ ἐν τῷ Ἰσραὴλ τοσαύτην πίστιν εὗρον.
 Persian: عیسی چون سخنان او را شنید، به شگفت آمد و به کسانی که از پی‌اش می‌آمدند، گفت:« آمین، به شما می‌گویم، چنین ایمانی حتی در اسرائیل هم ندیده‌ام.
 
 Original words:
@@ -506,12 +506,14 @@ Original words:
 - o11: λέγω = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-1S]
 - o12: ὑμῖν, = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
 - o13: οὐδὲ = G3761 οὐδέ "neither (indeed), never, no (more, nor, not)…" [CONJ-N]
-- o14: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
-- o15: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
-- o16: Ἰσραὴλ = G2474 Ἰσραήλ "Israel" [N-PRI]
-- o17: τοσαύτην = G5118 τοσοῦτος "as large, so great (long, many, much), these many" [D-ASF]
-- o18: πίστιν = G4102 πίστις "assurance, belief, believe, faith, fidelity" [N-ASF]
-- o19: εὗρον. = G2147 εὑρίσκω "find, get, obtain, perceive, see" [V-2AAI-1S]
+- o14: παρ = G3844 παρά "above, against, among, at, before, by…" [PREP] (variant reading, WHNU)
+- o15: ουδενι = G3762 οὐδείς "any (man), aught, man, neither any (thing)…" [A-DSM-N] (variant reading, WHNU)
+- o16: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o17: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o18: Ἰσραὴλ = G2474 Ἰσραήλ "Israel" [N-PRI]
+- o19: τοσαύτην = G5118 τοσοῦτος "as large, so great (long, many, much), these many" [D-ASF]
+- o20: πίστιν = G4102 πίστις "assurance, belief, believe, faith, fidelity" [N-ASF]
+- o21: εὗρον. = G2147 εὑρίσκω "find, get, obtain, perceive, see" [V-2AAI-1S]
 
 Persian entries and current tags:
 - p1: عیسی  → G2424
@@ -608,7 +610,7 @@ Persian entries and current tags:
 
 ### Matthew 8:12
 
-Original: οἱ δὲ υἱοὶ τῆς βασιλείας ἐξελεύσονται εἰς τὸ σκότος τὸ ἐξώτερον· ἐκεῖ ἔσται ὁ κλαυθμὸς καὶ ὁ βρυγμὸς τῶν ὀδόντων.
+Original: οἱ δὲ υἱοὶ τῆς βασιλείας ἐξελεύσονται ⟨εκβληθησονται⟩ εἰς τὸ σκότος τὸ ἐξώτερον· ἐκεῖ ἔσται ὁ κλαυθμὸς καὶ ὁ βρυγμὸς τῶν ὀδόντων.
 Persian: امّا فرزندان این پادشاهی به تاریکیِ بیرون افکنده خواهند_شد، جایی که گریه و دندان بر هم ساییدن خواهد_بود.»
 
 Original words:
@@ -618,20 +620,21 @@ Original words:
 - o4: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
 - o5: βασιλείας = G932 βασιλεία "kingdom, + reign" [N-GSF]
 - o6: ἐξελεύσονται = G1831 ἐξέρχομαι "come (forth, out), depart (out of), escape…" [V-FDI-3P]
-- o7: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
-- o8: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
-- o9: σκότος = G4655 σκότος "darkness" [N-ASN]
-- o10: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
-- o11: ἐξώτερον· = G1857 ἐξώτερος "outer" [A-ASN-C]
-- o12: ἐκεῖ = G1563 ἐκεῖ "there, thither(-ward), (to) yonder (place)" [ADV]
-- o13: ἔσται = G1510 εἰμί "am, have been, it is I, was" [V-FDI-3S]
-- o14: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
-- o15: κλαυθμὸς = G2805 κλαυθμός "wailing, weeping, wept" [N-NSM]
-- o16: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o17: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
-- o18: βρυγμὸς = G1030 βρυγμός "gnashing" [N-NSM]
-- o19: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
-- o20: ὀδόντων. = G3599 ὀδούς "tooth" [N-GPM]
+- o7: εκβληθησονται = G1544 ἐκβάλλω "bring forth, cast (forth, out), drive (out)…" [V-FPI-3P] (variant reading, WHNU)
+- o8: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o9: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o10: σκότος = G4655 σκότος "darkness" [N-ASN]
+- o11: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o12: ἐξώτερον· = G1857 ἐξώτερος "outer" [A-ASN-C]
+- o13: ἐκεῖ = G1563 ἐκεῖ "there, thither(-ward), (to) yonder (place)" [ADV]
+- o14: ἔσται = G1510 εἰμί "am, have been, it is I, was" [V-FDI-3S]
+- o15: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o16: κλαυθμὸς = G2805 κλαυθμός "wailing, weeping, wept" [N-NSM]
+- o17: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o18: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o19: βρυγμὸς = G1030 βρυγμός "gnashing" [N-NSM]
+- o20: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o21: ὀδόντων. = G3599 ὀδούς "tooth" [N-GPM]
 
 Persian entries and current tags:
 - p1: امّا  → G1161

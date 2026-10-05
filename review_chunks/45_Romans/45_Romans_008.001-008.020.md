@@ -1039,15 +1039,16 @@ Original words of verses next to the ones above. Where the Persian verse divisio
 - o13: αὐτὸς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-NSM]
 - o14: ἐγὼ = G1473 ἐγώ "I, me" [P-1NS]
 - o15: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
-- o16: νοῒ = G3563 νοῦς "mind, understanding" [N-DSM]
-- o17: δουλεύω = G1398 δουλεύω "be in bondage, (do) serve(-ice)" [V-PAI-1S]
-- o18: νόμῳ = G3551 νόμος "law" [N-DSM]
-- o19: θεοῦ, = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
-- o20: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
-- o21: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
-- o22: σαρκὶ = G4561 σάρξ "carnal(-ly, + -ly minded), flesh(-ly)" [N-DSF]
-- o23: νόμῳ = G3551 νόμος "law" [N-DSM]
-- o24: ἁμαρτίας. = G266 ἁμαρτία "offence, sin(-ful)" [N-GSF]
+- o16: μεν = G3303 μέν "even, indeed, so, some, truly, verily" [PRT] (variant reading, WHNU)
+- o17: νοῒ = G3563 νοῦς "mind, understanding" [N-DSM]
+- o18: δουλεύω = G1398 δουλεύω "be in bondage, (do) serve(-ice)" [V-PAI-1S]
+- o19: νόμῳ = G3551 νόμος "law" [N-DSM]
+- o20: θεοῦ, = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o21: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o22: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o23: σαρκὶ = G4561 σάρξ "carnal(-ly, + -ly minded), flesh(-ly)" [N-DSF]
+- o24: νόμῳ = G3551 νόμος "law" [N-DSM]
+- o25: ἁμαρτίας. = G266 ἁμαρτία "offence, sin(-ful)" [N-GSF]
 
 ### Romans 8:21 (context)
 

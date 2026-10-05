@@ -1,7 +1,6 @@
-# NMV Strong's review: Matthew 17:14–27
+# NMV Strong's review: Matthew 17:15–27
 
-Chunk file: 40_Matthew_017.014-017.027.md. 13 verses to review.
-No original text, not included: Matthew 17:21.
+Chunk file: 40_Matthew_017.015-017.027.md. 13 verses to review.
 
 ## Worked examples (already reviewed by hand; follow these conventions)
 
@@ -49,42 +48,6 @@ Correct Persian tags (reviewed by hand):
 - p20: ،
 
 ## Verses to review
-
-### Matthew 17:14
-
-Original: Καὶ ἐλθόντων πρὸς τὸν ὄχλον, προσῆλθεν αὐτῷ ἄνθρωπος γονυπετῶν αὐτὸν
-Persian: چون نزد جماعت بازگشتند، مردی به عیسی نزدیک شد و در برابر او زانو زد و گفت:
-
-Original words:
-- o1: Καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o2: ἐλθόντων = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-2AAP-GPM]
-- o3: πρὸς = G4314 πρός "about, according to , against, among, at…" [PREP]
-- o4: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
-- o5: ὄχλον, = G3793 ὄχλος "company, multitude, number (of people), people…" [N-ASM]
-- o6: προσῆλθεν = G4334 προσέρχομαι "as soon as he) come (unto), come thereunto…" [V-2AAI-3S]
-- o7: αὐτῷ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
-- o8: ἄνθρωπος = G444 ἄνθρωπος "certain, man" [N-NSM]
-- o9: γονυπετῶν = G1120 γονυπετέω "bow the knee, kneel down" [V-PAP-NSM]
-- o10: αὐτὸν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASM]
-
-Persian entries and current tags:
-- p1: چون
-- p2: نزد  → G4314
-- p3: جماعت  → G3793
-- p4: بازگشتند  → G2064
-- p5: ،
-- p6: مردی  → G444
-- p7: به
-- p8: عیسی
-- p9: نزدیک شد  → G4334
-- p10: و  → G2532
-- p11: در  → G1120
-- p12: برابر
-- p13: او  → G846
-- p14: زانو زد  → G1120
-- p15: و  → G2532
-- p16: گفت
-- p17: :
 
 ### Matthew 17:15
 
@@ -325,41 +288,44 @@ Persian entries and current tags:
 
 ### Matthew 17:20
 
-Original: ὁ δὲ λέγει αὐτοῖς· διὰ τὴν ὀλιγοπιστίαν ὑμῶν· ἀμὴν γὰρ λέγω ὑμῖν, ἐὰν ἔχητε πίστιν ὡς κόκκον σινάπεως, ἐρεῖτε τῷ ὄρει τούτῳ· μετάβα ἔνθεν ἐκεῖ, καὶ μεταβήσεται, καὶ οὐδὲν ἀδυνατήσει ὑμῖν.
+Original: ὁ δὲ ⟨ιησους⟩ λέγει αὐτοῖς· διὰ τὴν ὀλιγοπιστίαν ⟨απιστιαν⟩ ὑμῶν· ἀμὴν γὰρ λέγω ὑμῖν, ἐὰν ἔχητε πίστιν ὡς κόκκον σινάπεως, ἐρεῖτε τῷ ὄρει τούτῳ· μετάβα ἔνθεν ⟨εντευθεν⟩ ἐκεῖ, καὶ μεταβήσεται, καὶ οὐδὲν ἀδυνατήσει ὑμῖν.
 Persian: پاسخ داد:« از آن رو که ایمانتان کم است. آمین، به شما می‌گویم، اگر ایمانی به کوچکی دانۀ خردل داشته_باشید، می‌توانید به این کوه بگویید ”از اینجا به آنجا منتقل شو“ و منتقل خواهد_شد و هیچ امری برای شما ناممکن نخواهد_بود.[
 
 Original words:
 - o1: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
 - o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
-- o3: λέγει = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-3S]
-- o4: αὐτοῖς· = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPM]
-- o5: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
-- o6: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
-- o7: ὀλιγοπιστίαν = G3640 ὀλιγόπιστος "of little faith" [N-ASF]
-- o8: ὑμῶν· = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
-- o9: ἀμὴν = G281 ἀμήν "amen, verily" [HEB]
-- o10: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
-- o11: λέγω = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-1S]
-- o12: ὑμῖν, = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
-- o13: ἐὰν = G1437 ἐάν "before, but, except, (and) if, (if) so, (what-…" [COND]
-- o14: ἔχητε = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAS-2P]
-- o15: πίστιν = G4102 πίστις "assurance, belief, believe, faith, fidelity" [N-ASF]
-- o16: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
-- o17: κόκκον = G2848 κόκκος "corn, grain" [N-ASM]
-- o18: σινάπεως, = G4615 σίναπι "mustard" [N-GSN]
-- o19: ἐρεῖτε = G2046 ἐρέω "call, say, speak (of), tell" [V-FAI-2P]
-- o20: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSN]
-- o21: ὄρει = G3735 ὄρος "hill, mount(-ain)" [N-DSN]
-- o22: τούτῳ· = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-DSN]
-- o23: μετάβα = G3327 μεταβαίνω "depart, go, pass, remove" [V-2AAM-2S]
-- o24: ἔνθεν = G1759 ἐνθάδε "(t-)here, hither" [ADV]
-- o25: ἐκεῖ, = G1563 ἐκεῖ "there, thither(-ward), (to) yonder (place)" [ADV]
-- o26: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o27: μεταβήσεται, = G3327 μεταβαίνω "depart, go, pass, remove" [V-FDI-3S]
-- o28: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o29: οὐδὲν = G3762 οὐδείς "any (man), aught, man, neither any (thing)…" [A-NSN-N]
-- o30: ἀδυνατήσει = G101 ἀδυνατέω "be impossible" [V-FAI-3S]
-- o31: ὑμῖν. = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
+- o3: ιησους = G2424 Ἰησοῦς "Jesus" [N-NSM] (variant reading, TR)
+- o4: λέγει = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-3S]
+- o5: αὐτοῖς· = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPM]
+- o6: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o7: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o8: ὀλιγοπιστίαν = G3640 ὀλιγόπιστος "of little faith" [N-ASF]
+- o9: απιστιαν = G570 ἀπιστία "unbelief" [N-ASF] (variant reading, TR)
+- o10: ὑμῶν· = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
+- o11: ἀμὴν = G281 ἀμήν "amen, verily" [HEB]
+- o12: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o13: λέγω = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-1S]
+- o14: ὑμῖν, = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
+- o15: ἐὰν = G1437 ἐάν "before, but, except, (and) if, (if) so, (what-…" [COND]
+- o16: ἔχητε = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAS-2P]
+- o17: πίστιν = G4102 πίστις "assurance, belief, believe, faith, fidelity" [N-ASF]
+- o18: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
+- o19: κόκκον = G2848 κόκκος "corn, grain" [N-ASM]
+- o20: σινάπεως, = G4615 σίναπι "mustard" [N-GSN]
+- o21: ἐρεῖτε = G2046 ἐρέω "call, say, speak (of), tell" [V-FAI-2P]
+- o22: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSN]
+- o23: ὄρει = G3735 ὄρος "hill, mount(-ain)" [N-DSN]
+- o24: τούτῳ· = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-DSN]
+- o25: μετάβα = G3327 μεταβαίνω "depart, go, pass, remove" [V-2AAM-2S]
+- o26: ἔνθεν = G1759 ἐνθάδε "(t-)here, hither" [ADV]
+- o27: εντευθεν = G1782 ἐντεῦθεν "(from) hence, on either side" [ADV] (variant reading, TR)
+- o28: ἐκεῖ, = G1563 ἐκεῖ "there, thither(-ward), (to) yonder (place)" [ADV]
+- o29: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o30: μεταβήσεται, = G3327 μεταβαίνω "depart, go, pass, remove" [V-FDI-3S]
+- o31: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o32: οὐδὲν = G3762 οὐδείς "any (man), aught, man, neither any (thing)…" [A-NSN-N]
+- o33: ἀδυνατήσει = G101 ἀδυνατέω "be impossible" [V-FAI-3S]
+- o34: ὑμῖν. = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
 
 Persian entries and current tags:
 - p1: پاسخ  → G1161
@@ -408,6 +374,40 @@ Persian entries and current tags:
 - p44: ناممکن نخواهد_بود  → G101
 - p45: .
 - p46: [
+
+### Matthew 17:21
+
+Original: ⟨τουτο⟩ ⟨δε⟩ ⟨το⟩ ⟨γενος⟩ ⟨ουκ⟩ ⟨εκπορευεται⟩ ⟨ει⟩ ⟨μη⟩ ⟨εν⟩ ⟨προσευχη⟩ ⟨και⟩ ⟨νηστεια⟩
+Persian: امّا این جنس جز به روزه و دعا بیرون نمی‌رود.]»
+
+Original words:
+- o1: τουτο = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-NSN] (variant reading, TR)
+- o2: δε = G1161 δέ "also, and, but, moreover…" [CONJ] (variant reading, TR)
+- o3: το = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN] (variant reading, TR)
+- o4: γενος = G1085 γένος "born, country(-man), diversity, generation…" [N-NSN] (variant reading, TR)
+- o5: ουκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N] (variant reading, TR)
+- o6: εκπορευεται = G1607 ἐκπορεύομαι "come (forth, out of), depart, go (forth, out)…" [V-PNI-3S] (variant reading, TR)
+- o7: ει = G1487 εἰ "forasmuch as, if, that, (al-)though, whether" [COND] (variant reading, TR)
+- o8: μη = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N] (variant reading, TR)
+- o9: εν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP] (variant reading, TR)
+- o10: προσευχη = G4335 προσευχή "pray earnestly, prayer" [N-DSF] (variant reading, TR)
+- o11: και = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ] (variant reading, TR)
+- o12: νηστεια = G3521 νηστεία "fast(-ing)" [N-DSF] (variant reading, TR)
+
+Persian entries and current tags:
+- p1: امّا
+- p2: این
+- p3: جنس
+- p4: جز
+- p5: به
+- p6: روزه
+- p7: و
+- p8: دعا
+- p9: بیرون
+- p10: نمی‌رود
+- p11: .
+- p12: ]
+- p13: »
 
 ### Matthew 17:22
 
@@ -776,19 +776,18 @@ Persian entries and current tags:
 
 Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
 
-### Matthew 17:13 (context)
+### Matthew 17:14 (context)
 
-- o1: τότε = G5119 τότε "that time, then" [ADV]
-- o2: συνῆκαν = G4920 συνίημι "consider, understand, be wise" [V-AAI-3P]
-- o3: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
-- o4: μαθηταὶ = G3101 μαθητής "disciple" [N-NPM]
-- o5: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
-- o6: περὶ = G4012 περί "there-)about, above, against, at, on behalf of…" [PREP]
-- o7: Ἰωάννου = G2491 Ἰωάννης "John" [N-GSM]
-- o8: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
-- o9: βαπτιστοῦ = G910 Βαπτιστής "Baptist" [N-GSM]
-- o10: εἶπεν = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-2AAI-3S]
-- o11: αὐτοῖς. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPM]
+- o1: Καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἐλθόντων = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-2AAP-GPM]
+- o3: πρὸς = G4314 πρός "about, according to , against, among, at…" [PREP]
+- o4: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o5: ὄχλον, = G3793 ὄχλος "company, multitude, number (of people), people…" [N-ASM]
+- o6: προσῆλθεν = G4334 προσέρχομαι "as soon as he) come (unto), come thereunto…" [V-2AAI-3S]
+- o7: αὐτῷ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
+- o8: ἄνθρωπος = G444 ἄνθρωπος "certain, man" [N-NSM]
+- o9: γονυπετῶν = G1120 γονυπετέω "bow the knee, kneel down" [V-PAP-NSM]
+- o10: αὐτὸν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASM]
 
 ### Matthew 18:1 (context)
 

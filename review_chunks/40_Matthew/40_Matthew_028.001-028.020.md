@@ -489,7 +489,7 @@ Persian entries and current tags:
 
 ### Matthew 28:10
 
-Original: τότε λέγει αὐταῖς ὁ Ἰησοῦς· μὴ φοβεῖσθε· ὑπάγετε ἀπαγγείλατε τοῖς ἀδελφοῖς μου ἵνα ἀπέλθωσιν εἰς τὴν Γαλιλαίαν, καὶ ἐκεῖ με ὄψονται.
+Original: τότε λέγει αὐταῖς ὁ Ἰησοῦς· μὴ φοβεῖσθε· ὑπάγετε ἀπαγγείλατε τοῖς ἀδελφοῖς μου ἵνα ἀπέλθωσιν εἰς τὴν Γαλιλαίαν, καὶ ἐκεῖ ⟨κακει⟩ με ὄψονται.
 Persian: آنگاه عیسی به ایشان فرمود:« مترسید! بروید و به برادرانم بگویید که به جلیل بروند. در آنجا مرا خواهند_دید.»
 
 Original words:
@@ -512,8 +512,9 @@ Original words:
 - o17: Γαλιλαίαν, = G1056 Γαλιλαία "Galilee" [N-ASF]
 - o18: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
 - o19: ἐκεῖ = G1563 ἐκεῖ "there, thither(-ward), (to) yonder (place)" [ADV]
-- o20: με = G1473 ἐγώ "I, me" [P-1AS]
-- o21: ὄψονται. = G3708 ὁράω "behold, perceive, see, take heed" [V-FDI-3P]
+- o20: κακει = G2546 κἀκεῖ "and there, there (thither) also" [ADV-K] (variant reading, WHNU)
+- o21: με = G1473 ἐγώ "I, me" [P-1AS]
+- o22: ὄψονται. = G3708 ὁράω "behold, perceive, see, take heed" [V-FDI-3P]
 
 Persian entries and current tags:
 - p1: آنگاه  → G5119
@@ -717,7 +718,7 @@ Persian entries and current tags:
 
 ### Matthew 28:15
 
-Original: οἱ δὲ λαβόντες τὰ ἀργύρια ἐποίησαν ὡς ἐδιδάχθησαν· καὶ ἐφημίσθη ὁ λόγος οὗτος παρὰ Ἰουδαίοις μέχρι τῆς σήμερον.
+Original: οἱ δὲ λαβόντες τὰ ἀργύρια ἐποίησαν ὡς ἐδιδάχθησαν· καὶ ἐφημίσθη ⟨διεφημισθη⟩ ὁ λόγος οὗτος παρὰ Ἰουδαίοις μέχρι τῆς σήμερον. ⟨ημερας⟩
 Persian: پس آنها پول را گرفتند و طبق آنچه به آنها گفته_شده_بود عمل کردند. و این داستان تا به امروز در میان یهودیان شایع است.
 
 Original words:
@@ -731,14 +732,16 @@ Original words:
 - o8: ἐδιδάχθησαν· = G1321 διδάσκω "teach" [V-API-3P]
 - o9: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
 - o10: ἐφημίσθη = G5346 φημί "affirm, say" [V-API-3S]
-- o11: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
-- o12: λόγος = G3056 λόγος "account, cause, communication, concerning…" [N-NSM]
-- o13: οὗτος = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-NSM]
-- o14: παρὰ = G3844 παρά "above, against, among, at, before, by…" [PREP]
-- o15: Ἰουδαίοις = G2453 Ἰουδαῖος "Jew(-ess), of Judæa" [A-DPM]
-- o16: μέχρι = G3360 μέχρι "till, (un-)to, until" [ADV]
-- o17: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
-- o18: σήμερον. = G4594 σήμερον "this (to-)day" [ADV]
+- o11: διεφημισθη = G1310 διαφημίζω "blaze abroad, commonly report, spread abroad, fame" [V-API-3S] (variant reading, WHNU)
+- o12: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o13: λόγος = G3056 λόγος "account, cause, communication, concerning…" [N-NSM]
+- o14: οὗτος = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-NSM]
+- o15: παρὰ = G3844 παρά "above, against, among, at, before, by…" [PREP]
+- o16: Ἰουδαίοις = G2453 Ἰουδαῖος "Jew(-ess), of Judæa" [A-DPM]
+- o17: μέχρι = G3360 μέχρι "till, (un-)to, until" [ADV]
+- o18: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o19: σήμερον. = G4594 σήμερον "this (to-)day" [ADV]
+- o20: ημερας = G2250 ἡμέρα "age, + alway, (mid-)day (by day, (-ly))…" [N-GSF] (variant reading, WHNU)
 
 Persian entries and current tags:
 - p1: پس  → G1161
@@ -889,29 +892,30 @@ Persian entries and current tags:
 
 ### Matthew 28:19
 
-Original: πορευθέντες μαθητεύσατε πάντα τὰ ἔθνη, βαπτίζοντες αὐτοὺς εἰς τὸ ὄνομα τοῦ πατρὸς καὶ τοῦ υἱοῦ καὶ τοῦ ἁγίου πνεύματος,
+Original: πορευθέντες ⟨ουν⟩ μαθητεύσατε πάντα τὰ ἔθνη, βαπτίζοντες αὐτοὺς εἰς τὸ ὄνομα τοῦ πατρὸς καὶ τοῦ υἱοῦ καὶ τοῦ ἁγίου πνεύματος,
 Persian: پس بروید و همۀ قومها را شاگرد سازید و ایشان را به نام پدر و پسر و روح‌القدس تعمید دهید
 
 Original words:
 - o1: πορευθέντες = G4198 πορεύομαι "--depart, go (away, forth, one's way, up)…" [V-AOP-NPM]
-- o2: μαθητεύσατε = G3100 μαθητεύω "be disciple, instruct, teach" [V-AAM-2P]
-- o3: πάντα = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-APN]
-- o4: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
-- o5: ἔθνη, = G1484 ἔθνος "Gentile, heathen, nation, people" [N-APN]
-- o6: βαπτίζοντες = G907 βαπτίζω "Baptist, baptize, wash" [V-PAP-NPM]
-- o7: αὐτοὺς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-APM]
-- o8: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
-- o9: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
-- o10: ὄνομα = G3686 ὄνομα "called, (+ sur-)name(-d)" [N-ASN]
-- o11: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
-- o12: πατρὸς = G3962 πατήρ "father, parent" [N-GSM]
-- o13: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o14: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
-- o15: υἱοῦ = G5207 υἱός "child, foal, son" [N-GSM]
-- o16: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o17: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
-- o18: ἁγίου = G40 ἅγιος "(most) holy (one, thing), saint" [A-GSN]
-- o19: πνεύματος, = G4151 πνεῦμα "ghost, life, spirit(-ual, -ually), mind" [N-GSN]
+- o2: ουν = G3767 οὖν "and (so, truly), but, now (then)…" [CONJ] (variant reading, WHNU)
+- o3: μαθητεύσατε = G3100 μαθητεύω "be disciple, instruct, teach" [V-AAM-2P]
+- o4: πάντα = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-APN]
+- o5: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
+- o6: ἔθνη, = G1484 ἔθνος "Gentile, heathen, nation, people" [N-APN]
+- o7: βαπτίζοντες = G907 βαπτίζω "Baptist, baptize, wash" [V-PAP-NPM]
+- o8: αὐτοὺς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-APM]
+- o9: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o10: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o11: ὄνομα = G3686 ὄνομα "called, (+ sur-)name(-d)" [N-ASN]
+- o12: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o13: πατρὸς = G3962 πατήρ "father, parent" [N-GSM]
+- o14: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o15: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o16: υἱοῦ = G5207 υἱός "child, foal, son" [N-GSM]
+- o17: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o18: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
+- o19: ἁγίου = G40 ἅγιος "(most) holy (one, thing), saint" [A-GSN]
+- o20: πνεύματος, = G4151 πνεῦμα "ghost, life, spirit(-ual, -ually), mind" [N-GSN]
 
 Persian entries and current tags:
 - p1: پس بروید  → G4198

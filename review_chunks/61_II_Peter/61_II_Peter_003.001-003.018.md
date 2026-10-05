@@ -520,7 +520,7 @@ Persian entries and current tags:
 
 ### II Peter 3:10
 
-Original: Ἥξει δὲ ἡμέρα κυρίου ὡς κλέπτης, ἐν ᾗ οἱ οὐρανοὶ ῥοιζηδὸν παρελεύσονται, στοιχεῖα δὲ καυσούμενα λυθήσεται, καὶ γῆ καὶ τὰ ἐν αὐτῇ ἔργα κατακαήσεται.
+Original: Ἥξει δὲ ἡμέρα κυρίου ὡς κλέπτης, ἐν ᾗ οἱ οὐρανοὶ ῥοιζηδὸν παρελεύσονται, στοιχεῖα δὲ καυσούμενα λυθήσεται, καὶ γῆ καὶ τὰ ἐν αὐτῇ ἔργα κατακαήσεται. ⟨ευρεθησεται⟩
 Persian: امّا روز خداوند چون دزد خواهد_آمد، که در آن آسمانها با غریوی مَهیب از میان خواهد_رفت و اجرام سماوی سوخته شده فرو~خواهد پاشید، زمین و همۀ کارهایش عیان خواهد_شد.
 
 Original words:
@@ -548,6 +548,7 @@ Original words:
 - o22: αὐτῇ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSF]
 - o23: ἔργα = G2041 ἔργον "deed, doing, labour, work" [N-NPN]
 - o24: κατακαήσεται. = G2618 κατακαίω "burn (up, utterly)" [V-2FPI-3S]
+- o25: ευρεθησεται = G2147 εὑρίσκω "find, get, obtain, perceive, see" [V-FPI-3S] (variant reading, WHNU)
 
 Persian entries and current tags:
 - p1: امّا  → G1161
@@ -581,23 +582,24 @@ Persian entries and current tags:
 
 ### II Peter 3:11
 
-Original: τούτων οὖν πάντων λυομένων ποταποὺς δεῖ ὑπάρχειν ὑμᾶς ἐν ἁγίαις ἀναστροφαῖς καὶ εὐσεβείαις,
+Original: τούτων οὖν ⟨ουτως⟩ πάντων λυομένων ποταποὺς δεῖ ὑπάρχειν ὑμᾶς ἐν ἁγίαις ἀναστροφαῖς καὶ εὐσεβείαις,
 Persian: پس حال که همۀ اینها بدین سان فرو~خواهد پاشید، شما چگونه مردمان باید باشید؟ بر شماست که زندگی مقدّس و خداپسندانه‌ای داشته،
 
 Original words:
 - o1: τούτων = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-GPN]
 - o2: οὖν = G3767 οὖν "and (so, truly), but, now (then)…" [CONJ]
-- o3: πάντων = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-GPN]
-- o4: λυομένων = G3089 λύω "break (up), destroy, dissolve, (un-)loose, melt…" [V-PPP-GPN]
-- o5: ποταποὺς = G4217 ποταπός "what (manner of)" [A-APM]
-- o6: δεῖ = G1163 δεῖ "behoved, be meet, must (needs), (be) need(-ful)…" [V-PAI-3S]
-- o7: ὑπάρχειν = G5225 ὑπάρχω "after, behave, live" [V-PAN]
-- o8: ὑμᾶς = G5210 ὑμεῖς "ye (yourselves), you" [P-2AP]
-- o9: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
-- o10: ἁγίαις = G40 ἅγιος "(most) holy (one, thing), saint" [A-DPF]
-- o11: ἀναστροφαῖς = G391 ἀναστροφή "conversation" [N-DPF]
-- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o13: εὐσεβείαις, = G2150 εὐσέβεια "godliness, holiness" [N-DPF]
+- o3: ουτως = G3779 οὕτω "after that, after (in) this manner, as, even (so)…" [ADV] (variant reading, WHNU)
+- o4: πάντων = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-GPN]
+- o5: λυομένων = G3089 λύω "break (up), destroy, dissolve, (un-)loose, melt…" [V-PPP-GPN]
+- o6: ποταποὺς = G4217 ποταπός "what (manner of)" [A-APM]
+- o7: δεῖ = G1163 δεῖ "behoved, be meet, must (needs), (be) need(-ful)…" [V-PAI-3S]
+- o8: ὑπάρχειν = G5225 ὑπάρχω "after, behave, live" [V-PAN]
+- o9: ὑμᾶς = G5210 ὑμεῖς "ye (yourselves), you" [P-2AP]
+- o10: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o11: ἁγίαις = G40 ἅγιος "(most) holy (one, thing), saint" [A-DPF]
+- o12: ἀναστροφαῖς = G391 ἀναστροφή "conversation" [N-DPF]
+- o13: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o14: εὐσεβείαις, = G2150 εὐσέβεια "godliness, holiness" [N-DPF]
 
 Persian entries and current tags:
 - p1: پس  → G3956

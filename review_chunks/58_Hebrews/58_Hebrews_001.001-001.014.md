@@ -485,7 +485,7 @@ Persian entries and current tags:
 
 ### Hebrews 1:9
 
-Original: ἠγάπησας δικαιοσύνην καὶ ἐμίσησας ἀδικίαν· διὰ τοῦτο ἔχρισέν σε ὁ θεός, ὁ θεός σου, ἔλαιον ἀγαλλιάσεως παρὰ τοὺς μετόχους σου·
+Original: ἠγάπησας δικαιοσύνην καὶ ἐμίσησας ἀδικίαν· ⟨ανομιαν⟩ διὰ τοῦτο ἔχρισέν σε ὁ θεός, ὁ θεός σου, ἔλαιον ἀγαλλιάσεως παρὰ τοὺς μετόχους σου·
 Persian: تو پارسایی را دوست می‌داری و شرارت را دشمن؛ از این رو خدا، خدای تو، تو را بیش از همقطارانت به روغن شادمانی مسح کرده_است.»
 
 Original words:
@@ -494,21 +494,22 @@ Original words:
 - o3: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
 - o4: ἐμίσησας = G3404 μισέω "hate(-ful)" [V-AAI-2S]
 - o5: ἀδικίαν· = G93 ἀδικία "iniquity, unjust, unrighteousness, wrong" [N-ASF]
-- o6: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
-- o7: τοῦτο = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-ASN]
-- o8: ἔχρισέν = G5548 χρίω "anoint" [V-AAI-3S]
-- o9: σε = G4771 σύ "thou" [P-2AS]
-- o10: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
-- o11: θεός, = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-NSM]
-- o12: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
-- o13: θεός = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-NSM]
-- o14: σου, = G4771 σύ "thou" [P-2GS]
-- o15: ἔλαιον = G1637 ἔλαιον "oil" [N-ASN]
-- o16: ἀγαλλιάσεως = G20 ἀγαλλίασις "gladness, (exceeding) joy" [N-GSF]
-- o17: παρὰ = G3844 παρά "above, against, among, at, before, by…" [PREP]
-- o18: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
-- o19: μετόχους = G3353 μέτοχος "fellow, partaker, partner" [A-APM]
-- o20: σου· = G4771 σύ "thou" [P-2GS]
+- o6: ανομιαν = G458 ἀνομία "iniquity, transgress(-ion of) the law…" [N-ASF] (variant reading, WHNU)
+- o7: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o8: τοῦτο = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-ASN]
+- o9: ἔχρισέν = G5548 χρίω "anoint" [V-AAI-3S]
+- o10: σε = G4771 σύ "thou" [P-2AS]
+- o11: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o12: θεός, = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-NSM]
+- o13: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o14: θεός = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-NSM]
+- o15: σου, = G4771 σύ "thou" [P-2GS]
+- o16: ἔλαιον = G1637 ἔλαιον "oil" [N-ASN]
+- o17: ἀγαλλιάσεως = G20 ἀγαλλίασις "gladness, (exceeding) joy" [N-GSF]
+- o18: παρὰ = G3844 παρά "above, against, among, at, before, by…" [PREP]
+- o19: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o20: μετόχους = G3353 μέτοχος "fellow, partaker, partner" [A-APM]
+- o21: σου· = G4771 σύ "thou" [P-2GS]
 
 Persian entries and current tags:
 - p1: تو
@@ -625,7 +626,7 @@ Persian entries and current tags:
 
 ### Hebrews 1:12
 
-Original: καὶ ὡσεὶ περιβόλαιον ἀλλάξεις αὐτούς, καὶ ἀλλαγήσονται, σὺ δὲ ὁ αὐτὸς εἶ καὶ τὰ ἔτη σου οὐκ ἐκλείψουσιν.
+Original: καὶ ὡσεὶ περιβόλαιον ἀλλάξεις ⟨ελιξεις⟩ αὐτούς, ⟨ως⟩ ⟨ιματιον⟩ καὶ ἀλλαγήσονται, σὺ δὲ ὁ αὐτὸς εἶ καὶ τὰ ἔτη σου οὐκ ἐκλείψουσιν.
 Persian: آنها را چون ردایی در هم خواهی_پیچید، و بسان جامه‌ای جایگزین خواهند_شد. امّا تو همان هستی، و سالهای تو را پایانی نیست!»
 
 Original words:
@@ -633,20 +634,23 @@ Original words:
 - o2: ὡσεὶ = G5616 ὡσεί "about, as (it had been, it were), like (as)" [ADV]
 - o3: περιβόλαιον = G4018 περιβόλαιον "covering, vesture" [N-ASN]
 - o4: ἀλλάξεις = G236 ἀλλάσσω "change" [V-FAI-2S]
-- o5: αὐτούς, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-APM]
-- o6: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o7: ἀλλαγήσονται, = G236 ἀλλάσσω "change" [V-2FPI-3P]
-- o8: σὺ = G4771 σύ "thou" [P-2NS]
-- o9: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
-- o10: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
-- o11: αὐτὸς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-NSM]
-- o12: εἶ = G1510 εἰμί "am, have been, it is I, was" [V-PAI-2S]
-- o13: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o14: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPN]
-- o15: ἔτη = G2094 ἔτος "year" [N-NPN]
-- o16: σου = G4771 σύ "thou" [P-2GS]
-- o17: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
-- o18: ἐκλείψουσιν. = G1587 ἐκλείπω "fail" [V-FAI-3P]
+- o5: ελιξεις = G1667 ἑλίσσω "fold up" [V-FAI-2S] (variant reading, WHNU)
+- o6: αὐτούς, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-APM]
+- o7: ως = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV] (variant reading, WHNU)
+- o8: ιματιον = G2440 ἱμάτιον "apparel, cloke, clothes, garment, raiment, robe…" [N-ASN] (variant reading, WHNU)
+- o9: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o10: ἀλλαγήσονται, = G236 ἀλλάσσω "change" [V-2FPI-3P]
+- o11: σὺ = G4771 σύ "thou" [P-2NS]
+- o12: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o13: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o14: αὐτὸς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-NSM]
+- o15: εἶ = G1510 εἰμί "am, have been, it is I, was" [V-PAI-2S]
+- o16: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o17: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPN]
+- o18: ἔτη = G2094 ἔτος "year" [N-NPN]
+- o19: σου = G4771 σύ "thou" [P-2GS]
+- o20: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o21: ἐκλείψουσιν. = G1587 ἐκλείπω "fail" [V-FAI-3P]
 
 Persian entries and current tags:
 - p1: آنها  → G846

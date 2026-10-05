@@ -135,7 +135,7 @@ Persian entries and current tags:
 
 ### II Corinthians 11:3
 
-Original: φοβοῦμαι δὲ μήπως, ὡς ὁ ὄφις ἐξηπάτησεν Εὔαν ἐν τῇ πανουργίᾳ αὐτοῦ, φθαρῇ τὰ νοήματα ὑμῶν ἀπὸ τῆς ἁπλότητος τῆς εἰς Χριστόν.
+Original: φοβοῦμαι δὲ μήπως, ὡς ὁ ὄφις ἐξηπάτησεν Εὔαν ἐν τῇ πανουργίᾳ αὐτοῦ, φθαρῇ τὰ νοήματα ὑμῶν ἀπὸ τῆς ἁπλότητος ⟨και⟩ ⟨αγνοτητος⟩ τῆς εἰς Χριστόν.
 Persian: امّا بیم دارم همان‌گونه که حوا فریب حیلۀ مار را خورد، فکر شما نیز از سرسپردگی صادقانه و خالصی که به مسیح دارید، منحرف شود.
 
 Original words:
@@ -158,9 +158,11 @@ Original words:
 - o17: ἀπὸ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
 - o18: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
 - o19: ἁπλότητος = G572 ἁπλότης "bountifulness, liberal(-ity), simplicity…" [N-GSF]
-- o20: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
-- o21: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
-- o22: Χριστόν. = G5547 Χριστός "Christ" [N-ASM]
+- o20: και = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ] (variant reading, WHNU)
+- o21: αγνοτητος = G54 ἁγνότης "pureness" [N-GSF] (variant reading, WHNU)
+- o22: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o23: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o24: Χριστόν. = G5547 Χριστός "Christ" [N-ASM]
 
 Persian entries and current tags:
 - p1: امّا  → G1161
@@ -440,29 +442,35 @@ Persian entries and current tags:
 
 ### II Corinthians 11:9
 
-Original: τὸ γὰρ ὑστέρημά μου προσανεπλήρωσαν οἱ ἀδελφοὶ ἐλθόντες ἀπὸ Μακεδονίας· καὶ ἐν παντὶ ἀβαρῆ ἐμαυτὸν ὑμῖν ἐτήρησα καὶ τηρήσω.
+Original: ⟨παρων⟩ ⟨προς⟩ ⟨υστερηθεις⟩ ⟨ου⟩ ⟨κατεναρκησα⟩ ⟨ουθενος⟩ τὸ γὰρ ὑστέρημά μου προσανεπλήρωσαν οἱ ἀδελφοὶ ἐλθόντες ἀπὸ Μακεδονίας· καὶ ἐν παντὶ ἀβαρῆ ἐμαυτὸν ὑμῖν ἐτήρησα καὶ τηρήσω.
 Persian: و در مدت اقامتم بین شما، هر گاه به چیزی نیاز داشتم، باری بر دوش کسی ننهادم، زیرا برادرانی که از مقدونیه آمدند احتیاجات مرا برآوردند. و من به هیچ روی باری بر دوشتان نبوده‌ام و از این پس نیز نخواهم_بود.
 
 Original words:
-- o1: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
-- o2: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
-- o3: ὑστέρημά = G5303 ὑστέρημα "that which is behind, (that which was) lack(-ing)…" [N-ASN]
-- o4: μου = G1473 ἐγώ "I, me" [P-1GS]
-- o5: προσανεπλήρωσαν = G4322 προσαναπληρόω "supply" [V-AAI-3P]
-- o6: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
-- o7: ἀδελφοὶ = G80 ἀδελφός "brother" [N-NPM]
-- o8: ἐλθόντες = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-2AAP-NPM]
-- o9: ἀπὸ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
-- o10: Μακεδονίας· = G3109 Μακεδονία "Macedonia" [N-GSF]
-- o11: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o12: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
-- o13: παντὶ = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-DSN]
-- o14: ἀβαρῆ = G4 ἀβαρής "from being burdensome" [A-ASM]
-- o15: ἐμαυτὸν = G1683 ἐμαυτοῦ "me, mine own (self), myself" [F-1ASM]
-- o16: ὑμῖν = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
-- o17: ἐτήρησα = G5083 τηρέω "hold fast, keep(- er), (pre-, re-)serve, watch" [V-AAI-1S]
-- o18: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o19: τηρήσω. = G5083 τηρέω "hold fast, keep(- er), (pre-, re-)serve, watch" [V-FAI-1S]
+- o1: παρων = G3918 πάρειμι "come, have, be here, + lack, (be here) present" [V-PAP-NSM] (variant reading, WHNU)
+- o2: προς = G4314 πρός "about, according to , against, among, at…" [PREP] (variant reading, WHNU)
+- o3: υστερηθεις = G5302 ὑστερέω "come behind (short), be destitute, fail, lack…" [V-APP-NSM] (variant reading, WHNU)
+- o4: ου = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N] (variant reading, WHNU)
+- o5: κατεναρκησα = G2655 καταναρκάω "be burdensome (chargeable)" [V-AAI-1S] (variant reading, WHNU)
+- o6: ουθενος = G3762 οὐδείς "any (man), aught, man, neither any (thing)…" [A-GSM-N] (variant reading, WHNU)
+- o7: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o8: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o9: ὑστέρημά = G5303 ὑστέρημα "that which is behind, (that which was) lack(-ing)…" [N-ASN]
+- o10: μου = G1473 ἐγώ "I, me" [P-1GS]
+- o11: προσανεπλήρωσαν = G4322 προσαναπληρόω "supply" [V-AAI-3P]
+- o12: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o13: ἀδελφοὶ = G80 ἀδελφός "brother" [N-NPM]
+- o14: ἐλθόντες = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-2AAP-NPM]
+- o15: ἀπὸ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
+- o16: Μακεδονίας· = G3109 Μακεδονία "Macedonia" [N-GSF]
+- o17: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o18: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o19: παντὶ = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-DSN]
+- o20: ἀβαρῆ = G4 ἀβαρής "from being burdensome" [A-ASM]
+- o21: ἐμαυτὸν = G1683 ἐμαυτοῦ "me, mine own (self), myself" [F-1ASM]
+- o22: ὑμῖν = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
+- o23: ἐτήρησα = G5083 τηρέω "hold fast, keep(- er), (pre-, re-)serve, watch" [V-AAI-1S]
+- o24: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o25: τηρήσω. = G5083 τηρέω "hold fast, keep(- er), (pre-, re-)serve, watch" [V-FAI-1S]
 
 Persian entries and current tags:
 - p1: و  → G2532

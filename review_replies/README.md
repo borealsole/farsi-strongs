@@ -28,8 +28,10 @@ review_replies/
    - **Problems** that would stop it being applied, such as:
      - invalid JSON;
      - Persian words that don't match the verse;
-     - a Strong's number that is neither in that verse's original nor in the verse
-       immediately before or after it (`--window` widens this);
+     - a Strong's number that is neither in that verse's original (including the Greek
+       variant readings from `WHNU.json` and `TR.json`; see
+       [retag/README.md](../retag/README.md#greek-variant-readings-variantspy)) nor in the
+       verse immediately before or after it (`--window` widens this);
      - tagged punctuation, or a group that includes punctuation;
      - a verse already hand-reviewed;
      - the same verse proposed twice.
@@ -37,6 +39,7 @@ review_replies/
    - **Each changed verse:** the original words with meanings, and a table of every Persian
      word with its current and proposed tags. Rows marked ✱ change, and changed tags show
      their meanings.
+   - **Numbers from Greek variant readings,** labelled e.g. `(variant reading, WHNU)`.
    - **Numbers taken from a neighbouring verse,** for places where the Persian and original
      verse divisions differ. Each is labelled with its source verse (e.g. `(from Revelation
      of John 12:18)`), and that verse's original words are shown so you can check it.

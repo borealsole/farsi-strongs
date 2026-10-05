@@ -1,7 +1,6 @@
 # NMV Strong's review: Matthew 23:1–20
 
-Chunk file: 40_Matthew_023.001-023.020.md. 19 verses to review.
-No original text, not included: Matthew 23:14.
+Chunk file: 40_Matthew_023.001-023.020.md. 20 verses to review.
 
 ## Worked examples (already reviewed by hand; follow these conventions)
 
@@ -595,6 +594,78 @@ Persian entries and current tags:
 - p32: داخل شوند  → G1525
 - p33: .
 - p34: [
+
+### Matthew 23:14
+
+Original: ⟨υμιν⟩ ⟨γραμματεις⟩ ⟨και⟩ ⟨φαρισαιοι⟩ ⟨υποκριται⟩ ⟨οτι⟩ ⟨κατεσθιετε⟩ ⟨τας⟩ ⟨οικιας⟩ ⟨των⟩ ⟨χηρων⟩ ⟨και⟩ ⟨προφασει⟩ ⟨μακρα⟩ ⟨προσευχομενοι⟩ ⟨δια⟩ ⟨τουτο⟩ ⟨ληψεσθε⟩ ⟨περισσοτερον⟩ ⟨κριμα⟩
+Persian: « وای بر شما ای علمای دین و فَریسیان ریاکار! شما از سویی خانۀ بیوه‌زنان را غارت می‌کنید و از دیگر سو، برای تظاهر، دعای خود را طول می‌دهید. از همین رو، مکافاتتان بسی سخت‌تر خواهد_بود.]
+
+Original words:
+- o1: υμιν = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP] (variant reading, TR)
+- o2: γραμματεις = G1122 γραμματεύς "scribe, town-clerk" [N-VPM] (variant reading, TR)
+- o3: και = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ] (variant reading, TR)
+- o4: φαρισαιοι = G5330 Φαρισαῖος "Pharisee" [N-VPM] (variant reading, TR)
+- o5: υποκριται = G5273 ὑποκριτής "hypocrite" [N-VPM] (variant reading, TR)
+- o6: οτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ] (variant reading, TR)
+- o7: κατεσθιετε = G2719 κατεσθίω "devour" [V-PAI-2P] (variant reading, TR)
+- o8: τας = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APF] (variant reading, TR)
+- o9: οικιας = G3614 οἰκία "home, house(-hold)" [N-APF] (variant reading, TR)
+- o10: των = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPF] (variant reading, TR)
+- o11: χηρων = G5503 χήρα "widow" [N-GPF] (variant reading, TR)
+- o12: και = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ] (variant reading, TR)
+- o13: προφασει = G4392 πρόφασις "cloke, colour, pretence, show" [N-DSF] (variant reading, TR)
+- o14: μακρα = G3117 μακρός "far, long" [A-APN] (variant reading, TR)
+- o15: προσευχομενοι = G4336 προσεύχομαι "pray ( earnestly, for), make prayer" [V-PNP-NPM] (variant reading, TR)
+- o16: δια = G1223 διά "after, always, among, at, to avoid…" [PREP] (variant reading, TR)
+- o17: τουτο = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-ASN] (variant reading, TR)
+- o18: ληψεσθε = G2983 λαμβάνω "accept, + be amazed, assay, attain, bring…" [V-FDI-2P] (variant reading, TR)
+- o19: περισσοτερον = G4053 περισσός "exceeding abundantly above, more abundantly…" [A-ASN-C] (variant reading, TR)
+- o20: κριμα = G2917 κρίμα "avenge, condemned, condemnation, damnation…" [N-ASN] (variant reading, TR)
+
+Persian entries and current tags:
+- p1: «
+- p2: وای
+- p3: بر
+- p4: شما
+- p5: ای
+- p6: علمای
+- p7: دین
+- p8: و
+- p9: فَریسیان
+- p10: ریاکار
+- p11: !
+- p12: شما
+- p13: از
+- p14: سویی
+- p15: خانۀ
+- p16: بیوه‌زنان
+- p17: را
+- p18: غارت
+- p19: می‌کنید
+- p20: و
+- p21: از
+- p22: دیگر
+- p23: سو
+- p24: ،
+- p25: برای
+- p26: تظاهر
+- p27: ،
+- p28: دعای
+- p29: خود
+- p30: را
+- p31: طول
+- p32: می‌دهید
+- p33: .
+- p34: از
+- p35: همین
+- p36: رو
+- p37: ،
+- p38: مکافاتتان
+- p39: بسی
+- p40: سخت‌تر
+- p41: خواهد_بود
+- p42: .
+- p43: ]
 
 ### Matthew 23:15
 

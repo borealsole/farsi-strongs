@@ -704,7 +704,7 @@ Original words:
 
 Reply line 14.
 
-Original: ἀσπάζεταί σε τὰ τέκνα τῆς ἀδελφῆς σου τῆς ἐκλεκτῆς.
+Original: ἀσπάζεταί σε τὰ τέκνα τῆς ἀδελφῆς σου τῆς ἐκλεκτῆς. ⟨αμην⟩
 
 Persian: فرزندان خواهرِ برگزیده‌ات، برای تو سلام می‌فرستند.[ آمین!]
 
@@ -718,6 +718,7 @@ Original words:
 - o7: σου = G4771 σύ "thou" [P-2GS]
 - o8: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
 - o9: ἐκλεκτῆς. = G1588 ἐκλεκτός "chosen, elect" [A-GSF]
+- o10: αμην = G281 ἀμήν "amen, verily" [HEB] (variant reading, TR)
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |

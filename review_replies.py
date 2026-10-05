@@ -18,8 +18,8 @@ import os
 import shutil
 import sys
 
-from make_review_chunks import gloss, original_lines, persian_text, plain
-from retag import data, manual, original, persian
+from make_review_chunks import gloss, original_lines, original_text, persian_text
+from retag import data, manual, original, persian, variants
 
 ROOT = os.path.join(data.REPO, 'review_replies')
 PENDING = os.path.join(ROOT, 'pending')
@@ -34,6 +34,7 @@ class Proposal:
         self.key = None
         self.errors = []
         self.borrowed = {}  # Strong's number -> neighbouring verse key it was taken from
+        self.variant = {}  # Strong's number -> Greek text (WHNU, TR) of the variant reading it comes from
 
     def where(self):
         return f'{os.path.basename(self.path)}, line {self.line} ({self.ref})'
@@ -68,12 +69,12 @@ def parse_reply(path):
 
 
 class Context:
-    def __init__(self, sync_bible, window=1):
+    def __init__(self, sync_bible, window=1, use_variants=True):
         self.window = window
         paths = data.sync_bible_paths(sync_bible)
         self.nmv_path = paths['nmv_strongs']
         self.grid = data.load_token_grid()
-        self.accented = data.load_bible(paths['accented'])
+        self.accented = variants.load_original(sync_bible, self.grid, variants=use_variants)
         self.nmv = data.load_bible(self.nmv_path)
         self.current = data.align_to_grid(self.nmv, self.grid)
         missing = set(self.grid) - set(self.current)
@@ -132,7 +133,9 @@ def validate(p, ctx):
         p.errors.append(f'Persian words differ from the verse at word {first + 1}: got "{got}", expected "{want}"')
         return
 
-    lemmas = {l for _, l in original.morphemes(ctx.original(p.key))}
+    verse = ctx.original(p.key)
+    lemmas = {l for _, l in original.morphemes(verse)}
+    variant_lemmas = {l: w[3] for w in verse if variants.is_variant(w) for l in w[1].split('/')}
     nearby = ctx.nearby_lemmas(p.key)
     for n, entry in enumerate(entries, 1):
         words = entry[0].split(' ')
@@ -145,6 +148,8 @@ def validate(p, ctx):
             p.errors.append(f'entry {n} "{entry[0]}": punctuation cannot be tagged')
         for tag in tags:
             if tag in lemmas:
+                if tag in variant_lemmas:
+                    p.variant[tag] = variant_lemmas[tag]
                 continue
             if tag in nearby:
                 p.borrowed[tag] = nearby[tag]
@@ -174,10 +179,11 @@ def load_and_validate(files, ctx):
     return proposals, problems
 
 
-def tag_text(tags, ctx, borrowed=None):
-    borrowed = borrowed or {}
+def tag_text(tags, ctx, borrowed=None, variant=None):
+    borrowed, variant = borrowed or {}, variant or {}
     return '; '.join(f'{t} {gloss(t, ctx.dictionary, limit=30)}'
                      + (f' (from {data.reference(borrowed[t])})' if t in borrowed else '')
+                     + (f' (variant reading, {variant[t]})' if t in variant else '')
                      for t in tags.split()) if tags else ''
 
 
@@ -191,8 +197,11 @@ def report_verse(p, ctx):
            f'Reply line {p.line}.'
            + (f' Uses numbers from neighbouring verses: '
               + ', '.join(f'{t} ({data.reference(k)})' for t, k in sorted(p.borrowed.items())) + '.'
-              if p.borrowed else ''), '',
-           'Original: ' + ' '.join(plain(w[0]) for w in ctx.original(p.key)),
+              if p.borrowed else '')
+           + (' Uses numbers from Greek variant readings: '
+              + ', '.join(f'{t} ({s})' for t, s in sorted(p.variant.items())) + '.'
+              if p.variant else ''), '',
+           'Original: ' + original_text(ctx.original(p.key)),
            '', 'Persian: ' + persian_text(current), '', 'Original words:']
     out += original_lines(ctx.original(p.key), ctx.dictionary)
     for key in sorted(set(p.borrowed.values())):
@@ -203,14 +212,14 @@ def report_verse(p, ctx):
     for token, (c_text, c_tags), (n_text, n_tags) in zip(tokens, cur_rows, new_rows):
         mark = '✱' if (c_text, c_tags) != (n_text, n_tags) else ''
         c_label = (f'[{c_text}] ' if ' ' in c_text else '') + (tag_text(c_tags, ctx) if mark else c_tags)
-        n_label = (f'[{n_text}] ' if ' ' in n_text else '') + (tag_text(n_tags, ctx, p.borrowed) if mark else n_tags)
+        n_label = (f'[{n_text}] ' if ' ' in n_text else '') + (tag_text(n_tags, ctx, p.borrowed, p.variant) if mark else n_tags)
         out.append(f'| {mark} | {token} | {c_label} | {n_label} |')
     out.append('')
     return out, changed
 
 
 def check(args):
-    ctx = Context(args.sync_bible, args.window)
+    ctx = Context(args.sync_bible, args.window, not args.no_variants)
     total_errors = 0
     for folder in (PENDING, APPROVED):
         for path in reply_files(folder):
@@ -249,7 +258,7 @@ def apply(args):
     files = reply_files(APPROVED)
     if not files:
         raise SystemExit('Nothing to apply: no replies in review_replies/approved/.')
-    ctx = Context(args.sync_bible, args.window)
+    ctx = Context(args.sync_bible, args.window, not args.no_variants)
     proposals, problems = load_and_validate(files, ctx)
     errors = problems + [f'{p.where()}: {e}' for p in proposals for e in p.errors]
     if errors:
@@ -295,6 +304,8 @@ def main():
                        help='Path to a sync.bible checkout (default: ../sync.bible)')
         p.add_argument('--window', type=int, default=1,
                        help='Also accept Strong\'s numbers from this many verses either side (default 1; 0 = this verse only)')
+        p.add_argument('--no-variants', action='store_true',
+                       help='Only accept numbers from accented.json, not the Greek variant readings from WHNU.json and TR.json')
         if name == 'apply':
             p.add_argument('--dry-run', action='store_true', help='Validate and count, but write nothing')
     args = parser.parse_args()

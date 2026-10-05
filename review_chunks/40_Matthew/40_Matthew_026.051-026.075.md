@@ -539,25 +539,29 @@ Persian entries and current tags:
 
 ### Matthew 26:61
 
-Original: εἶπον· οὗτος ἔφη· δύναμαι καταλῦσαι τὸν ναὸν τοῦ θεοῦ καὶ διὰ τριῶν ἡμερῶν αὐτὸν οἰκοδομῆσαι.
+Original: ⟨υστερον⟩ ⟨δε⟩ ⟨προσελθοντες⟩ ⟨δυο⟩ εἶπον· οὗτος ἔφη· δύναμαι καταλῦσαι τὸν ναὸν τοῦ θεοῦ καὶ διὰ τριῶν ἡμερῶν αὐτὸν οἰκοδομῆσαι.
 Persian: گفتند:« این مرد گفته_است، ”من می‌توانم معبد خدا را ویران کنم و ظرف سه روز آن را از نو بسازم.“‌»
 
 Original words:
-- o1: εἶπον· = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-2AAI-3P]
-- o2: οὗτος = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-NSM]
-- o3: ἔφη· = G5346 φημί "affirm, say" [V-IAI-3S]
-- o4: δύναμαι = G1410 δύναμαι "be able, can (do, + -not), could, may, might…" [V-PNI-1S]
-- o5: καταλῦσαι = G2647 καταλύω "destroy, dissolve, be guest, lodge…" [V-AAN]
-- o6: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
-- o7: ναὸν = G3485 ναός "shrine, temple" [N-ASM]
-- o8: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
-- o9: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
-- o10: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o11: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
-- o12: τριῶν = G5140 τρεῖς "three" [A-GPF]
-- o13: ἡμερῶν = G2250 ἡμέρα "age, + alway, (mid-)day (by day, (-ly))…" [N-GPF]
-- o14: αὐτὸν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASM]
-- o15: οἰκοδομῆσαι. = G3618 οἰκοδομέω "(be in) build(-er, -ing, up), edify, embolden" [V-AAN]
+- o1: υστερον = G5305 ὕστερον "afterward, (at the) last (of all)" [ADV] (variant reading, WHNU)
+- o2: δε = G1161 δέ "also, and, but, moreover…" [CONJ] (variant reading, WHNU)
+- o3: προσελθοντες = G4334 προσέρχομαι "as soon as he) come (unto), come thereunto…" [V-2AAP-NPM] (variant reading, WHNU)
+- o4: δυο = G1417 δύο "both, twain, two" [A-NUI] (variant reading, WHNU)
+- o5: εἶπον· = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-2AAI-3P]
+- o6: οὗτος = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-NSM]
+- o7: ἔφη· = G5346 φημί "affirm, say" [V-IAI-3S]
+- o8: δύναμαι = G1410 δύναμαι "be able, can (do, + -not), could, may, might…" [V-PNI-1S]
+- o9: καταλῦσαι = G2647 καταλύω "destroy, dissolve, be guest, lodge…" [V-AAN]
+- o10: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o11: ναὸν = G3485 ναός "shrine, temple" [N-ASM]
+- o12: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o13: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o14: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o15: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o16: τριῶν = G5140 τρεῖς "three" [A-GPF]
+- o17: ἡμερῶν = G2250 ἡμέρα "age, + alway, (mid-)day (by day, (-ly))…" [N-GPF]
+- o18: αὐτὸν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASM]
+- o19: οἰκοδομῆσαι. = G3618 οἰκοδομέω "(be in) build(-er, -ing, up), edify, embolden" [V-AAN]
 
 Persian entries and current tags:
 - p1: گفتند  → G3004

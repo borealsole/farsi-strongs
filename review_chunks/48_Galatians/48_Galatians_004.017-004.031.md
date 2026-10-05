@@ -396,29 +396,30 @@ Persian entries and current tags:
 
 ### Galatians 4:25
 
-Original: τὸ γὰρ Σινᾶ ὄρος ἐστὶν ἐν τῇ Ἀραβίᾳ· συνστοιχεῖ δὲ τῇ νῦν Ἱερουσαλήμ, δουλεύει γὰρ μετὰ τῶν τέκνων αὐτῆς.
+Original: τὸ γὰρ ⟨αγαρ⟩ Σινᾶ ὄρος ἐστὶν ἐν τῇ Ἀραβίᾳ· συνστοιχεῖ δὲ τῇ νῦν Ἱερουσαλήμ, δουλεύει γὰρ μετὰ τῶν τέκνων αὐτῆς.
 Persian: هاجَر کوه سیناست، در عربستان، و بر شهر اورشلیم کنونی انطباق دارد، زیرا با فرزندانش در بندگی به سر می‌بَرد.
 
 Original words:
 - o1: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
 - o2: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
-- o3: Σινᾶ = G4614 Σινᾶ "Sina" [N-PRI]
-- o4: ὄρος = G3735 ὄρος "hill, mount(-ain)" [N-NSN]
-- o5: ἐστὶν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
-- o6: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
-- o7: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
-- o8: Ἀραβίᾳ· = G688 Ἀραβία "Arabia" [N-DSF]
-- o9: συνστοιχεῖ = G4960 συστοιχέω "answer to" [V-PAI-3S]
-- o10: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
-- o11: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
-- o12: νῦν = G3568 νῦν "henceforth, + hereafter, of late, soon, present…" [ADV]
-- o13: Ἱερουσαλήμ, = G2419 Ἱερουσαλήμ "Jerusalem" [N-PRI]
-- o14: δουλεύει = G1398 δουλεύω "be in bondage, (do) serve(-ice)" [V-PAI-3S]
-- o15: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
-- o16: μετὰ = G3326 μετά "after(-ward), that he again, against, among, and…" [PREP]
-- o17: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPN]
-- o18: τέκνων = G5043 τέκνον "child, daughter, son" [N-GPN]
-- o19: αὐτῆς. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSF]
+- o3: αγαρ = G28 Ἄγαρ "Hagar" [N-PRI] (variant reading, WHNU)
+- o4: Σινᾶ = G4614 Σινᾶ "Sina" [N-PRI]
+- o5: ὄρος = G3735 ὄρος "hill, mount(-ain)" [N-NSN]
+- o6: ἐστὶν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o7: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o8: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o9: Ἀραβίᾳ· = G688 Ἀραβία "Arabia" [N-DSF]
+- o10: συνστοιχεῖ = G4960 συστοιχέω "answer to" [V-PAI-3S]
+- o11: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o12: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o13: νῦν = G3568 νῦν "henceforth, + hereafter, of late, soon, present…" [ADV]
+- o14: Ἱερουσαλήμ, = G2419 Ἱερουσαλήμ "Jerusalem" [N-PRI]
+- o15: δουλεύει = G1398 δουλεύω "be in bondage, (do) serve(-ice)" [V-PAI-3S]
+- o16: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o17: μετὰ = G3326 μετά "after(-ward), that he again, against, among, and…" [PREP]
+- o18: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPN]
+- o19: τέκνων = G5043 τέκνον "child, daughter, son" [N-GPN]
+- o20: αὐτῆς. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSF]
 
 Persian entries and current tags:
 - p1: هاجَر

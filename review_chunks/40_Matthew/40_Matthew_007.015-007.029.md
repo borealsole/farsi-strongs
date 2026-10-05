@@ -177,7 +177,7 @@ Persian entries and current tags:
 
 ### Matthew 7:18
 
-Original: οὐ δύναται δένδρον ἀγαθὸν καρποὺς πονηροὺς ἐνεγκεῖν, οὐδὲ δένδρον σαπρὸν καρποὺς καλοὺς ἐνεγκεῖν.
+Original: οὐ δύναται δένδρον ἀγαθὸν καρποὺς πονηροὺς ἐνεγκεῖν, οὐδὲ δένδρον σαπρὸν καρποὺς καλοὺς ἐνεγκεῖν. ⟨ποιειν⟩
 Persian: درخت نیکو نمی‌تواند میوۀ بد بدهد، و درخت بد نیز نمی‌تواند میوۀ نیکو آوَرَد.
 
 Original words:
@@ -194,6 +194,7 @@ Original words:
 - o11: καρποὺς = G2590 καρπός "fruit" [N-APM]
 - o12: καλοὺς = G2570 καλός "better, fair, good(-ly), honest, meet, well…" [A-APM]
 - o13: ἐνεγκεῖν. = G5342 φέρω "be, bear, bring (forth), carry, come…" [V-2AAN]
+- o14: ποιειν = G4160 ποιέω "abide, + agree, appoint, avenge, + band together…" [V-PAN] (variant reading, WHNU)
 
 Persian entries and current tags:
 - p1: درخت  → G1186

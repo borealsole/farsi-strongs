@@ -1,7 +1,6 @@
 # NMV Strong's review: Matthew 18:1–18
 
-Chunk file: 40_Matthew_018.001-018.018.md. 17 verses to review.
-No original text, not included: Matthew 18:11.
+Chunk file: 40_Matthew_018.001-018.018.md. 18 verses to review.
 
 ## Worked examples (already reviewed by hand; follow these conventions)
 
@@ -628,6 +627,35 @@ Persian entries and current tags:
 - p32: .
 - p33: [
 
+### Matthew 18:11
+
+Original: ⟨ηλθεν⟩ ⟨γαρ⟩ ⟨ο⟩ ⟨υιος⟩ ⟨του⟩ ⟨ανθρωπου⟩ ⟨σωσαι⟩ ⟨το⟩ ⟨απολωλος⟩
+Persian: زیرا پسر انسان آمده_است تا گمشده را نجات بخشد.]
+
+Original words:
+- o1: ηλθεν = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-2AAI-3S] (variant reading, TR)
+- o2: γαρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ] (variant reading, TR)
+- o3: ο = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM] (variant reading, TR)
+- o4: υιος = G5207 υἱός "child, foal, son" [N-NSM] (variant reading, TR)
+- o5: του = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM] (variant reading, TR)
+- o6: ανθρωπου = G444 ἄνθρωπος "certain, man" [N-GSM] (variant reading, TR)
+- o7: σωσαι = G4982 σώζω "heal, preserve, save (self), do well…" [V-AAN] (variant reading, TR)
+- o8: το = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN] (variant reading, TR)
+- o9: απολωλος = G622 ἀπόλλυμι "destroy, die, lose, mar, perish" [V-2RAP-ASN] (variant reading, TR)
+
+Persian entries and current tags:
+- p1: زیرا
+- p2: پسر
+- p3: انسان
+- p4: آمده_است
+- p5: تا
+- p6: گمشده
+- p7: را
+- p8: نجات
+- p9: بخشد
+- p10: .
+- p11: ]
+
 ### Matthew 18:12
 
 Original: Τί ὑμῖν δοκεῖ; ἐὰν γένηταί τινι ἀνθρώπῳ ἑκατὸν πρόβατα καὶ πλανηθῇ ἓν ἐξ αὐτῶν, οὐχὶ ἀφεὶς τὰ ἐνενήκοντα ἐννέα ἐπὶ τὰ ὄρη πορευθεὶς ζητεῖ τὸ πλανώμενον;
@@ -860,7 +888,7 @@ Persian entries and current tags:
 
 ### Matthew 18:16
 
-Original: ἐὰν δὲ μὴ ἀκούσῃ, παράλαβε μετὰ σεαυτοῦ ἔτι ἕνα ἢ δύο, ἵνα ἐπὶ στόματος δύο μαρτύρων ἢ τριῶν σταθῇ πᾶν ῥῆμα.
+Original: ἐὰν δὲ μὴ ἀκούσῃ, παράλαβε μετὰ σεαυτοῦ ⟨σου⟩ ἔτι ἕνα ἢ δύο, ἵνα ἐπὶ στόματος δύο μαρτύρων ἢ τριῶν σταθῇ πᾶν ῥῆμα.
 Persian: امّا اگر نپذیرفت، یک یا دو نفر دیگر را با خود ببر تا ”هر سخنی با گواهیِ دو یا سه شاهد ثابت شود.“
 
 Original words:
@@ -871,20 +899,21 @@ Original words:
 - o5: παράλαβε = G3880 παραλαμβάνω "receive, take (unto, with)" [V-2AAM-2S]
 - o6: μετὰ = G3326 μετά "after(-ward), that he again, against, among, and…" [PREP]
 - o7: σεαυτοῦ = G4572 σεαυτοῦ "thee, thine own self, (thou) thy(-self)" [F-2GSM]
-- o8: ἔτι = G2089 ἔτι "after that, also, ever, (any) further…" [ADV]
-- o9: ἕνα = G1520 εἷς "a(-n, -ny, certain), + abundantly, man…" [A-ASM]
-- o10: ἢ = G2228 ἤ "and, but (either), (n-)either, except it be…" [PRT]
-- o11: δύο, = G1417 δύο "both, twain, two" [A-NUI]
-- o12: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
-- o13: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
-- o14: στόματος = G4750 στόμα "edge, face, mouth" [N-GSN]
-- o15: δύο = G1417 δύο "both, twain, two" [A-NUI]
-- o16: μαρτύρων = G3144 μάρτυς "martyr, record, witness" [N-GPM]
-- o17: ἢ = G2228 ἤ "and, but (either), (n-)either, except it be…" [PRT]
-- o18: τριῶν = G5140 τρεῖς "three" [A-GPM]
-- o19: σταθῇ = G2476 ἵστημι "abide, appoint, bring, continue, covenant…" [V-APS-3S]
-- o20: πᾶν = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-NSN]
-- o21: ῥῆμα. = G4487 ῥῆμα "+ evil, + nothing, saying, word" [N-NSN]
+- o8: σου = G4771 σύ "thou" [P-2GS] (variant reading, WHNU)
+- o9: ἔτι = G2089 ἔτι "after that, also, ever, (any) further…" [ADV]
+- o10: ἕνα = G1520 εἷς "a(-n, -ny, certain), + abundantly, man…" [A-ASM]
+- o11: ἢ = G2228 ἤ "and, but (either), (n-)either, except it be…" [PRT]
+- o12: δύο, = G1417 δύο "both, twain, two" [A-NUI]
+- o13: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o14: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o15: στόματος = G4750 στόμα "edge, face, mouth" [N-GSN]
+- o16: δύο = G1417 δύο "both, twain, two" [A-NUI]
+- o17: μαρτύρων = G3144 μάρτυς "martyr, record, witness" [N-GPM]
+- o18: ἢ = G2228 ἤ "and, but (either), (n-)either, except it be…" [PRT]
+- o19: τριῶν = G5140 τρεῖς "three" [A-GPM]
+- o20: σταθῇ = G2476 ἵστημι "abide, appoint, bring, continue, covenant…" [V-APS-3S]
+- o21: πᾶν = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-NSN]
+- o22: ῥῆμα. = G4487 ῥῆμα "+ evil, + nothing, saying, word" [N-NSN]
 
 Persian entries and current tags:
 - p1: امّا  → G1161
@@ -1068,29 +1097,30 @@ Original words of verses next to the ones above. Where the Persian verse divisio
 ### Matthew 18:19 (context)
 
 - o1: Πάλιν = G3825 πάλιν "again" [ADV]
-- o2: λέγω = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-1S]
-- o3: ὑμῖν = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
-- o4: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
-- o5: ἐὰν = G1437 ἐάν "before, but, except, (and) if, (if) so, (what-…" [COND]
-- o6: δύο = G1417 δύο "both, twain, two" [A-NUI]
-- o7: συμφωνήσουσιν = G4856 συμφωνέω "agree (together, with)" [V-FAI-3P]
-- o8: ἐξ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
-- o9: ὑμῶν = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
-- o10: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
-- o11: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
-- o12: γῆς = G1093 γῆ "country, earth(-ly), ground, land, world" [N-GSF]
-- o13: περὶ = G4012 περί "there-)about, above, against, at, on behalf of…" [PREP]
-- o14: παντὸς = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-GSN]
-- o15: πράγματος = G4229 πρᾶγμα "business, matter, thing, work" [N-GSN]
-- o16: οὗ = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-GSN]
-- o17: ἐὰν = G1437 ἐάν "before, but, except, (and) if, (if) so, (what-…" [COND]
-- o18: αἰτήσωνται, = G154 αἰτέω "ask, beg, call for, crave, desire, require" [V-AMS-3P]
-- o19: γενήσεται = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-FDI-3S]
-- o20: αὐτοῖς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPM]
-- o21: παρὰ = G3844 παρά "above, against, among, at, before, by…" [PREP]
-- o22: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
-- o23: πατρός = G3962 πατήρ "father, parent" [N-GSM]
-- o24: μου = G1473 ἐγώ "I, me" [P-1GS]
-- o25: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
-- o26: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
-- o27: οὐρανοῖς. = G3772 οὐρανός "air, heaven(-ly), sky" [N-DPM]
+- o2: αμην = G281 ἀμήν "amen, verily" [HEB] (variant reading, WHNU)
+- o3: λέγω = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-1S]
+- o4: ὑμῖν = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
+- o5: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o6: ἐὰν = G1437 ἐάν "before, but, except, (and) if, (if) so, (what-…" [COND]
+- o7: δύο = G1417 δύο "both, twain, two" [A-NUI]
+- o8: συμφωνήσουσιν = G4856 συμφωνέω "agree (together, with)" [V-FAI-3P]
+- o9: ἐξ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o10: ὑμῶν = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
+- o11: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o12: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o13: γῆς = G1093 γῆ "country, earth(-ly), ground, land, world" [N-GSF]
+- o14: περὶ = G4012 περί "there-)about, above, against, at, on behalf of…" [PREP]
+- o15: παντὸς = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-GSN]
+- o16: πράγματος = G4229 πρᾶγμα "business, matter, thing, work" [N-GSN]
+- o17: οὗ = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-GSN]
+- o18: ἐὰν = G1437 ἐάν "before, but, except, (and) if, (if) so, (what-…" [COND]
+- o19: αἰτήσωνται, = G154 αἰτέω "ask, beg, call for, crave, desire, require" [V-AMS-3P]
+- o20: γενήσεται = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-FDI-3S]
+- o21: αὐτοῖς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPM]
+- o22: παρὰ = G3844 παρά "above, against, among, at, before, by…" [PREP]
+- o23: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o24: πατρός = G3962 πατήρ "father, parent" [N-GSM]
+- o25: μου = G1473 ἐγώ "I, me" [P-1GS]
+- o26: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o27: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o28: οὐρανοῖς. = G3772 οὐρανός "air, heaven(-ly), sky" [N-DPM]

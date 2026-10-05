@@ -291,33 +291,34 @@ Persian entries and current tags:
 
 ### Revelation of John 19:5
 
-Original: καὶ φωνὴ ἐκ τοῦ θρόνου ἐξῆλθεν λέγουσα, αἰνεῖτε τῷ θεῷ ἡμῶν, πάντες οἱ δοῦλοι αὐτοῦ, οἱ φοβούμενοι αὐτόν, οἱ μικροὶ καὶ οἱ μεγάλοι.
+Original: καὶ φωνὴ ἐκ ⟨απο⟩ τοῦ θρόνου ἐξῆλθεν λέγουσα, αἰνεῖτε τῷ θεῷ ἡμῶν, πάντες οἱ δοῦλοι αὐτοῦ, οἱ φοβούμενοι αὐτόν, οἱ μικροὶ καὶ οἱ μεγάλοι.
 Persian: آنگاه صدایی از تخت برآمد که می‌گفت:« سپاس گویید خدای ما را، ای همۀ بندگان او، ای شما که ترس از او دارید، از خُرد و از بزرگ!»
 
 Original words:
 - o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
 - o2: φωνὴ = G5456 φωνή "noise, sound, voice" [N-NSF]
 - o3: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
-- o4: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
-- o5: θρόνου = G2362 θρόνος "seat, throne" [N-GSM]
-- o6: ἐξῆλθεν = G1831 ἐξέρχομαι "come (forth, out), depart (out of), escape…" [V-2AAI-3S]
-- o7: λέγουσα, = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAP-NSF]
-- o8: αἰνεῖτε = G134 αἰνέω "praise" [V-PAM-2P]
-- o9: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
-- o10: θεῷ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-DSM]
-- o11: ἡμῶν, = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
-- o12: πάντες = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-NPM]
-- o13: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
-- o14: δοῦλοι = G1401 δοῦλος "bond(-man), servant" [N-NPM]
-- o15: αὐτοῦ, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
-- o16: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
-- o17: φοβούμενοι = G5399 φοβέω "be (+ sore) afraid, fear (exceedingly), reverence" [V-PNP-NPM]
-- o18: αὐτόν, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASM]
-- o19: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
-- o20: μικροὶ = G3398 μικρός "least, less, little, small" [A-NPM]
-- o21: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o22: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
-- o23: μεγάλοι. = G3173 μέγας "+ fear) exceedingly, great(-est), high, large…" [A-NPM]
+- o4: απο = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP] (variant reading, WHNU)
+- o5: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o6: θρόνου = G2362 θρόνος "seat, throne" [N-GSM]
+- o7: ἐξῆλθεν = G1831 ἐξέρχομαι "come (forth, out), depart (out of), escape…" [V-2AAI-3S]
+- o8: λέγουσα, = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAP-NSF]
+- o9: αἰνεῖτε = G134 αἰνέω "praise" [V-PAM-2P]
+- o10: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o11: θεῷ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-DSM]
+- o12: ἡμῶν, = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+- o13: πάντες = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-NPM]
+- o14: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o15: δοῦλοι = G1401 δοῦλος "bond(-man), servant" [N-NPM]
+- o16: αὐτοῦ, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o17: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o18: φοβούμενοι = G5399 φοβέω "be (+ sore) afraid, fear (exceedingly), reverence" [V-PNP-NPM]
+- o19: αὐτόν, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASM]
+- o20: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o21: μικροὶ = G3398 μικρός "least, less, little, small" [A-NPM]
+- o22: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o23: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o24: μεγάλοι. = G3173 μέγας "+ fear) exceedingly, great(-est), high, large…" [A-NPM]
 
 Persian entries and current tags:
 - p1: آنگاه  → G2532

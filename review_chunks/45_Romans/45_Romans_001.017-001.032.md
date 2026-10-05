@@ -697,7 +697,7 @@ Persian entries and current tags:
 
 ### Romans 1:29
 
-Original: πεπληρωμένους πάσῃ ἀδικίᾳ πονηρίᾳ κακίᾳ πλεονεξίᾳ, μεστοὺς φθόνου φόνου ἔριδος δόλου κακοηθείας,
+Original: πεπληρωμένους πάσῃ ἀδικίᾳ πονηρίᾳ κακίᾳ πλεονεξίᾳ, μεστοὺς φθόνου φόνου ἔριδος δόλου κακοηθείας, ⟨ψιθυριστας⟩
 Persian: ایشان از هر گونه نادرستی، شرارت، طمع و خباثت آکنده‌اند. مملو از حسد، قتل، جدال، فریب و بدخواهی‌اند. شایعه‌ساز،
 
 Original words:
@@ -713,6 +713,7 @@ Original words:
 - o10: ἔριδος = G2054 ἔρις "contention, debate, strife, variance" [N-GSF]
 - o11: δόλου = G1388 δόλος "craft, deceit, guile, subtilty" [N-GSM]
 - o12: κακοηθείας, = G2550 κακοήθεια "malignity" [N-GSF]
+- o13: ψιθυριστας = G5588 ψιθυριστής "whisperer" [N-APM] (variant reading, WHNU)
 
 Persian entries and current tags:
 - p1: ایشان

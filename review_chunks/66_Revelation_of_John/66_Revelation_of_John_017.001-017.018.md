@@ -241,7 +241,7 @@ Persian entries and current tags:
 
 ### Revelation of John 17:4
 
-Original: καὶ ἡ γυνὴ ἦν περιβεβλημένη πορφυροῦν καὶ κόκκινον, καὶ κεχρυσωμένη χρυσῷ καὶ λίθῳ τιμίῳ καὶ μαργαρίταις, ἔχουσα ποτήριον χρυσοῦν ἐν τῇ χειρὶ αὐτῆς γέμων βδελυγμάτων καὶ τὰ ἀκάθαρτα τῆς πορνείας αὐτῆς,
+Original: καὶ ἡ γυνὴ ἦν περιβεβλημένη πορφυροῦν καὶ κόκκινον, καὶ κεχρυσωμένη χρυσῷ ⟨χρυσιω⟩ καὶ λίθῳ τιμίῳ καὶ μαργαρίταις, ἔχουσα ποτήριον χρυσοῦν ἐν τῇ χειρὶ αὐτῆς γέμων βδελυγμάτων καὶ τὰ ἀκάθαρτα τῆς πορνείας αὐτῆς,
 Persian: و زن جامۀ سرخ و ارغوانی بر تن داشت و در برقِ طلا و جواهر و مروارید می‌درخشید. جامی زرّین به دست داشت سرشار از همۀ زشتیها و آکنده از ناپاکیِ هم‌آغوشی‌هایش.
 
 Original words:
@@ -256,26 +256,27 @@ Original words:
 - o9: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
 - o10: κεχρυσωμένη = G5558 χρυσόω "deck" [V-RPP-NSF]
 - o11: χρυσῷ = G5557 χρυσός "gold" [N-DSM]
-- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o13: λίθῳ = G3037 λίθος "(mill-, stumbling-)stone" [N-DSM]
-- o14: τιμίῳ = G5093 τίμιος "dear, honourable, (more, most) precious…" [A-DSM]
-- o15: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o16: μαργαρίταις, = G3135 μαργαρίτης "pearl" [N-DPM]
-- o17: ἔχουσα = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAP-NSF]
-- o18: ποτήριον = G4221 ποτήριον "cup" [N-ASN]
-- o19: χρυσοῦν = G5552 χρύσεος "of gold, golden" [A-ASN]
-- o20: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
-- o21: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
-- o22: χειρὶ = G5495 χείρ "hand" [N-DSF]
-- o23: αὐτῆς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSF]
-- o24: γέμων = G1073 γέμω "be full" [V-PAP-NSM]
-- o25: βδελυγμάτων = G946 βδέλυγμα "abomination" [N-GPN]
-- o26: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o27: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
-- o28: ἀκάθαρτα = G169 ἀκάθαρτος "foul, unclean" [A-APN]
-- o29: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
-- o30: πορνείας = G4202 πορνεία "fornication" [N-GSF]
-- o31: αὐτῆς, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSF]
+- o12: χρυσιω = G5553 χρυσίον "gold" [N-DSN] (variant reading, WHNU)
+- o13: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o14: λίθῳ = G3037 λίθος "(mill-, stumbling-)stone" [N-DSM]
+- o15: τιμίῳ = G5093 τίμιος "dear, honourable, (more, most) precious…" [A-DSM]
+- o16: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o17: μαργαρίταις, = G3135 μαργαρίτης "pearl" [N-DPM]
+- o18: ἔχουσα = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAP-NSF]
+- o19: ποτήριον = G4221 ποτήριον "cup" [N-ASN]
+- o20: χρυσοῦν = G5552 χρύσεος "of gold, golden" [A-ASN]
+- o21: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o22: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o23: χειρὶ = G5495 χείρ "hand" [N-DSF]
+- o24: αὐτῆς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSF]
+- o25: γέμων = G1073 γέμω "be full" [V-PAP-NSM]
+- o26: βδελυγμάτων = G946 βδέλυγμα "abomination" [N-GPN]
+- o27: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o28: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
+- o29: ἀκάθαρτα = G169 ἀκάθαρτος "foul, unclean" [A-APN]
+- o30: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o31: πορνείας = G4202 πορνεία "fornication" [N-GSF]
+- o32: αὐτῆς, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSF]
 
 Persian entries and current tags:
 - p1: و  → G2532

@@ -558,7 +558,7 @@ Persian entries and current tags:
 
 ### I Timothy 3:14
 
-Original: Ταῦτά σοι γράφω, ἐλπίζων ἐλθεῖν πρὸς σὲ τάχιον·
+Original: Ταῦτά σοι γράφω, ἐλπίζων ἐλθεῖν πρὸς σὲ τάχιον· ⟨εν⟩ ⟨ταχει⟩
 Persian: گرچه امید آن دارم که به‌زودی نزدت آیم، ولی اینها را به تو می‌نویسم،
 
 Original words:
@@ -570,6 +570,8 @@ Original words:
 - o6: πρὸς = G4314 πρός "about, according to , against, among, at…" [PREP]
 - o7: σὲ = G4771 σύ "thou" [P-2AS]
 - o8: τάχιον· = G5032 τάχιον "out (run), quickly, shortly, sooner" [ADV-C]
+- o9: εν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP] (variant reading, WHNU)
+- o10: ταχει = G5034 τάχος "+ quickly, + shortly, + speedily" [N-DSN] (variant reading, WHNU)
 
 Persian entries and current tags:
 - p1: گرچه

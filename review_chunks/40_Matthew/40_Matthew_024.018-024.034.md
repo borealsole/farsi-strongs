@@ -498,7 +498,7 @@ Persian entries and current tags:
 
 ### Matthew 24:29
 
-Original: Εὐθέως δὲ μετὰ τὴν θλῖψιν τῶν ἡμερῶν ἐκείνων ὁ ἥλιος σκοτισθήσεται καὶ ἡ σελήνη οὐ δώσει τὸ φέγγος αὐτῆς, καὶ οἱ ἀστέρες πεσοῦνται ἐκ τοῦ οὐρανοῦ, καὶ αἱ δυνάμεις τῶν οὐρανῶν σαλευθήσονται.
+Original: Εὐθέως δὲ μετὰ τὴν θλῖψιν τῶν ἡμερῶν ἐκείνων ὁ ἥλιος σκοτισθήσεται καὶ ἡ σελήνη οὐ δώσει τὸ φέγγος αὐτῆς, καὶ οἱ ἀστέρες πεσοῦνται ἐκ ⟨απο⟩ τοῦ οὐρανοῦ, καὶ αἱ δυνάμεις τῶν οὐρανῶν σαλευθήσονται.
 Persian: « بلافاصله، پس از مصیبتِ آن روزها« ”خورشید تاریک خواهد_شد و ماه دیگر نور نخواهد_افشاند؛ ستارگان از آسمان فرو~خواهند ریخت، و نیروهای آسمان به لرزه در‌ خواهند_آمد.“
 
 Original words:
@@ -526,14 +526,15 @@ Original words:
 - o22: ἀστέρες = G792 ἀστήρ "star" [N-NPM]
 - o23: πεσοῦνται = G4098 πίπτω "fail, fall (down), light on" [V-FNI-3P]
 - o24: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
-- o25: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
-- o26: οὐρανοῦ, = G3772 οὐρανός "air, heaven(-ly), sky" [N-GSM]
-- o27: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o28: αἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPF]
-- o29: δυνάμεις = G1411 δύναμις "ability, abundance, meaning, might(-ily, -y…" [N-NPF]
-- o30: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
-- o31: οὐρανῶν = G3772 οὐρανός "air, heaven(-ly), sky" [N-GPM]
-- o32: σαλευθήσονται. = G4531 σαλεύω "move, shake (together), which can(-not) be shaken…" [V-FPI-3P]
+- o25: απο = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP] (variant reading, WHNU)
+- o26: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o27: οὐρανοῦ, = G3772 οὐρανός "air, heaven(-ly), sky" [N-GSM]
+- o28: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o29: αἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPF]
+- o30: δυνάμεις = G1411 δύναμις "ability, abundance, meaning, might(-ily, -y…" [N-NPF]
+- o31: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o32: οὐρανῶν = G3772 οὐρανός "air, heaven(-ly), sky" [N-GPM]
+- o33: σαλευθήσονται. = G4531 σαλεύω "move, shake (together), which can(-not) be shaken…" [V-FPI-3P]
 
 Persian entries and current tags:
 - p1: «
@@ -809,24 +810,25 @@ Persian entries and current tags:
 
 ### Matthew 24:34
 
-Original: ἀμὴν λέγω ὑμῖν, οὐ μὴ παρέλθῃ ἡ γενεὰ αὕτη ἕως ἂν πάντα ταῦτα γένηται.
+Original: ἀμὴν λέγω ὑμῖν, ⟨οτι⟩ οὐ μὴ παρέλθῃ ἡ γενεὰ αὕτη ἕως ἂν πάντα ταῦτα γένηται.
 Persian: آمین، به شما می‌گویم، تا این همه روی ندهد، این نسل از میان نخواهد_رفت.
 
 Original words:
 - o1: ἀμὴν = G281 ἀμήν "amen, verily" [HEB]
 - o2: λέγω = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-1S]
 - o3: ὑμῖν, = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
-- o4: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
-- o5: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
-- o6: παρέλθῃ = G3928 παρέρχομαι "come (forth), go, pass (away, by, over), past…" [V-2AAS-3S]
-- o7: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
-- o8: γενεὰ = G1074 γενεά "age, generation, nation, time" [N-NSF]
-- o9: αὕτη = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-NSF]
-- o10: ἕως = G2193 ἕως "even (until, unto), (as) far (as), how long…" [ADV]
-- o11: ἂν = G302 ἄν "(what-, where-, wither-, who-)soever" [PRT]
-- o12: πάντα = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-NPN]
-- o13: ταῦτα = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-NPN]
-- o14: γένηται. = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-2ADS-3S]
+- o4: οτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ] (variant reading, WHNU)
+- o5: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o6: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o7: παρέλθῃ = G3928 παρέρχομαι "come (forth), go, pass (away, by, over), past…" [V-2AAS-3S]
+- o8: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o9: γενεὰ = G1074 γενεά "age, generation, nation, time" [N-NSF]
+- o10: αὕτη = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-NSF]
+- o11: ἕως = G2193 ἕως "even (until, unto), (as) far (as), how long…" [ADV]
+- o12: ἂν = G302 ἄν "(what-, where-, wither-, who-)soever" [PRT]
+- o13: πάντα = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-NPN]
+- o14: ταῦτα = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-NPN]
+- o15: γένηται. = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-2ADS-3S]
 
 Persian entries and current tags:
 - p1: آمین  → G281

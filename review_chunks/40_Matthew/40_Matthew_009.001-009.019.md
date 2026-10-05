@@ -926,7 +926,7 @@ Persian entries and current tags:
 
 ### Matthew 9:18
 
-Original: Ταῦτα αὐτοῦ λαλοῦντος αὐτοῖς, ἰδοὺ ἄρχων εἰσελθὼν προσεκύνει αὐτῷ, λέγων· ἡ θυγάτηρ μου ἄρτι ἐτελεύτησεν, ἀλλὰ ἐλθὼν ἐπίθες τὴν χεῖρά σου ἐπ’ αὐτήν, καὶ ζήσεται.
+Original: Ταῦτα αὐτοῦ λαλοῦντος αὐτοῖς, ἰδοὺ ἄρχων εἰσελθὼν προσεκύνει αὐτῷ, λέγων· ⟨οτι⟩ ἡ θυγάτηρ μου ἄρτι ἐτελεύτησεν, ἀλλὰ ἐλθὼν ἐπίθες τὴν χεῖρά σου ἐπ’ αὐτήν, καὶ ζήσεται.
 Persian: در همان حال که عیسی این سخنان را برای آنان بیان می‌کرد، یکی از رئیسان نزد وی آمد و در برابرش زانو زد و گفت:« دخترم هم‌اکنون مرد. با این حال بیا و دست خود را بر او بگذار که زنده خواهد_شد.»
 
 Original words:
@@ -940,21 +940,22 @@ Original words:
 - o8: προσεκύνει = G4352 προσκυνέω "worship" [V-IAI-3S]
 - o9: αὐτῷ, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
 - o10: λέγων· = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAP-NSM]
-- o11: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
-- o12: θυγάτηρ = G2364 θυγάτηρ "daughter" [N-NSF]
-- o13: μου = G1473 ἐγώ "I, me" [P-1GS]
-- o14: ἄρτι = G737 ἄρτι "this day (hour), hence(-forth), here(-after)…" [ADV]
-- o15: ἐτελεύτησεν, = G5053 τελευτάω "be dead, decease, die" [V-AAI-3S]
-- o16: ἀλλὰ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
-- o17: ἐλθὼν = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-2AAP-NSM]
-- o18: ἐπίθες = G2007 ἐπιτίθημι "add unto, lade, lay upon, put (up) on…" [V-2AAM-2S]
-- o19: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
-- o20: χεῖρά = G5495 χείρ "hand" [N-ASF]
-- o21: σου = G4771 σύ "thou" [P-2GS]
-- o22: ἐπ’ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
-- o23: αὐτήν, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASF]
-- o24: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o25: ζήσεται. = G2198 ζάω "life(-time), (a-)live(-ly), quick" [V-FDI-3S]
+- o11: οτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ] (variant reading, WHNU)
+- o12: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o13: θυγάτηρ = G2364 θυγάτηρ "daughter" [N-NSF]
+- o14: μου = G1473 ἐγώ "I, me" [P-1GS]
+- o15: ἄρτι = G737 ἄρτι "this day (hour), hence(-forth), here(-after)…" [ADV]
+- o16: ἐτελεύτησεν, = G5053 τελευτάω "be dead, decease, die" [V-AAI-3S]
+- o17: ἀλλὰ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o18: ἐλθὼν = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-2AAP-NSM]
+- o19: ἐπίθες = G2007 ἐπιτίθημι "add unto, lade, lay upon, put (up) on…" [V-2AAM-2S]
+- o20: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o21: χεῖρά = G5495 χείρ "hand" [N-ASF]
+- o22: σου = G4771 σύ "thou" [P-2GS]
+- o23: ἐπ’ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o24: αὐτήν, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASF]
+- o25: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o26: ζήσεται. = G2198 ζάω "life(-time), (a-)live(-ly), quick" [V-FDI-3S]
 
 Persian entries and current tags:
 - p1: در

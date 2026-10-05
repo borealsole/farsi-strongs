@@ -759,32 +759,33 @@ Persian entries and current tags:
 
 ### Matthew 13:17
 
-Original: ἀμὴν λέγω ὑμῖν ὅτι πολλοὶ προφῆται καὶ δίκαιοι ἐπεθύμησαν ἰδεῖν ἃ βλέπετε καὶ οὐκ ἴδαν, καὶ ἀκοῦσαι ἃ ἀκούετε καὶ οὐκ ἤκουσαν.
+Original: ἀμὴν ⟨γαρ⟩ λέγω ὑμῖν ὅτι πολλοὶ προφῆται καὶ δίκαιοι ἐπεθύμησαν ἰδεῖν ἃ βλέπετε καὶ οὐκ ἴδαν, καὶ ἀκοῦσαι ἃ ἀκούετε καὶ οὐκ ἤκουσαν.
 Persian: آمین، به شما می‌گویم، بسیاری از انبیا و پارسایان مشتاق بودند آنچه را شما می‌بینید، ببینند و ندیدند، و آنچه را شما می‌شنوید، بشنوند و نشنیدند.
 
 Original words:
 - o1: ἀμὴν = G281 ἀμήν "amen, verily" [HEB]
-- o2: λέγω = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-1S]
-- o3: ὑμῖν = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
-- o4: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
-- o5: πολλοὶ = G4183 πολύς "abundant, + altogether, common, + far (passed…" [A-NPM]
-- o6: προφῆται = G4396 προφήτης "prophet" [N-NPM]
-- o7: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o8: δίκαιοι = G1342 δίκαιος "just, meet, right(-eous)" [A-NPM]
-- o9: ἐπεθύμησαν = G1937 ἐπιθυμέω "covet, desire, would fain, lust (after)" [V-AAI-3P]
-- o10: ἰδεῖν = G3708 ὁράω "behold, perceive, see, take heed" [V-2AAN]
-- o11: ἃ = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-APN]
-- o12: βλέπετε = G991 βλέπω "behold, beware, lie, look (on, to), perceive…" [V-PAI-2P]
-- o13: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o14: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
-- o15: ἴδαν, = G3708 ὁράω "behold, perceive, see, take heed" [V-2AAI-3P]
-- o16: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o17: ἀκοῦσαι = G191 ἀκούω "give (in the) audience (of), come (to the ears)…" [V-AAN]
-- o18: ἃ = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-APN]
-- o19: ἀκούετε = G191 ἀκούω "give (in the) audience (of), come (to the ears)…" [V-PAI-2P]
-- o20: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o21: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
-- o22: ἤκουσαν. = G191 ἀκούω "give (in the) audience (of), come (to the ears)…" [V-AAI-3P]
+- o2: γαρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ] (variant reading, WHNU)
+- o3: λέγω = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-1S]
+- o4: ὑμῖν = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
+- o5: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o6: πολλοὶ = G4183 πολύς "abundant, + altogether, common, + far (passed…" [A-NPM]
+- o7: προφῆται = G4396 προφήτης "prophet" [N-NPM]
+- o8: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o9: δίκαιοι = G1342 δίκαιος "just, meet, right(-eous)" [A-NPM]
+- o10: ἐπεθύμησαν = G1937 ἐπιθυμέω "covet, desire, would fain, lust (after)" [V-AAI-3P]
+- o11: ἰδεῖν = G3708 ὁράω "behold, perceive, see, take heed" [V-2AAN]
+- o12: ἃ = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-APN]
+- o13: βλέπετε = G991 βλέπω "behold, beware, lie, look (on, to), perceive…" [V-PAI-2P]
+- o14: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o15: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o16: ἴδαν, = G3708 ὁράω "behold, perceive, see, take heed" [V-2AAI-3P]
+- o17: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o18: ἀκοῦσαι = G191 ἀκούω "give (in the) audience (of), come (to the ears)…" [V-AAN]
+- o19: ἃ = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-APN]
+- o20: ἀκούετε = G191 ἀκούω "give (in the) audience (of), come (to the ears)…" [V-PAI-2P]
+- o21: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o22: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o23: ἤκουσαν. = G191 ἀκούω "give (in the) audience (of), come (to the ears)…" [V-AAI-3P]
 
 Persian entries and current tags:
 - p1: آمین  → G281

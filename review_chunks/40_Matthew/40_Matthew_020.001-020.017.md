@@ -770,7 +770,7 @@ Persian entries and current tags:
 
 ### Matthew 20:17
 
-Original: Καὶ ἀναβαίνων ὁ Ἰησοῦς εἰς Ἱεροσόλυμα παρέλαβεν τοὺς δώδεκα κατ’ ἰδίαν, καὶ ἐν τῇ ὁδῷ εἶπεν αὐτοῖς·
+Original: Καὶ ἀναβαίνων ὁ Ἰησοῦς εἰς Ἱεροσόλυμα παρέλαβεν τοὺς δώδεκα ⟨μαθητας⟩ κατ’ ἰδίαν, καὶ ἐν τῇ ὁδῷ εἶπεν αὐτοῖς·
 Persian: هنگامی که عیسی به سوی اورشلیم می‌رفت، در راه، دوازده شاگرد خود را به کناری برد و به ایشان گفت:
 
 Original words:
@@ -783,14 +783,15 @@ Original words:
 - o7: παρέλαβεν = G3880 παραλαμβάνω "receive, take (unto, with)" [V-2AAI-3S]
 - o8: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
 - o9: δώδεκα = G1427 δώδεκα "twelve" [A-NUI]
-- o10: κατ’ = G2596 κατά "about, according as (to), after, against…" [PREP]
-- o11: ἰδίαν, = G2398 ἴδιος "his acquaintance, when they were alone, apart…" [A-ASF]
-- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o13: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
-- o14: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
-- o15: ὁδῷ = G3598 ὁδός "journey, (high-)way" [N-DSF]
-- o16: εἶπεν = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-2AAI-3S]
-- o17: αὐτοῖς· = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPM]
+- o10: μαθητας = G3101 μαθητής "disciple" [N-APM] (variant reading, WHNU)
+- o11: κατ’ = G2596 κατά "about, according as (to), after, against…" [PREP]
+- o12: ἰδίαν, = G2398 ἴδιος "his acquaintance, when they were alone, apart…" [A-ASF]
+- o13: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o14: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o15: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o16: ὁδῷ = G3598 ὁδός "journey, (high-)way" [N-DSF]
+- o17: εἶπεν = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-2AAI-3S]
+- o18: αὐτοῖς· = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPM]
 
 Persian entries and current tags:
 - p1: هنگامی

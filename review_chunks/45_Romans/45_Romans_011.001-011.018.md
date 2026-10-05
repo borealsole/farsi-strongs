@@ -313,7 +313,7 @@ Persian entries and current tags:
 
 ### Romans 11:6
 
-Original: εἰ δὲ χάριτι, οὐκέτι ἐξ ἔργων, ἐπεὶ ἡ χάρις οὐκέτι γίνεται χάρις.
+Original: εἰ δὲ χάριτι, οὐκέτι ἐξ ἔργων, ἐπεὶ ἡ χάρις οὐκέτι γίνεται χάρις. ⟨εστιν⟩
 Persian: امّا اگر از راه فیض باشد، دیگر بر پایۀ اعمال نیست؛ وگرنه فیض دیگر فیض نیست.[ امّا اگر از راه اعمال باشد، دیگر بر پایۀ فیض نیست؛ وگرنه عمل دیگر عمل نیست.]
 
 Original words:
@@ -329,6 +329,7 @@ Original words:
 - o10: οὐκέτι = G3765 οὐκέτι "after that (not), (not) any more…" [ADV-N]
 - o11: γίνεται = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-PNI-3S]
 - o12: χάρις. = G5485 χάρις "acceptable, benefit, favour, gift, grace(- ious)…" [N-NSF]
+- o13: εστιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S] (variant reading, TR)
 
 Persian entries and current tags:
 - p1: امّا  → G1161

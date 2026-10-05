@@ -150,7 +150,7 @@ Persian entries and current tags:
 
 ### Matthew 20:20
 
-Original: Τότε προσῆλθεν αὐτῷ ἡ μήτηρ τῶν υἱῶν Ζεβεδαίου μετὰ τῶν υἱῶν αὐτῆς, προσκυνοῦσα καὶ αἰτοῦσά τι παρ’ αὐτοῦ.
+Original: Τότε προσῆλθεν αὐτῷ ἡ μήτηρ τῶν υἱῶν Ζεβεδαίου μετὰ τῶν υἱῶν αὐτῆς, προσκυνοῦσα καὶ αἰτοῦσά τι παρ’ ⟨απ⟩ αὐτοῦ.
 Persian: آنگاه مادرِ پسران زِبِدی با دو پسرش نزد عیسی آمد و در برابر او زانو زد و از وی درخواست کرد که آرزویش را برآورده سازد.
 
 Original words:
@@ -171,7 +171,8 @@ Original words:
 - o15: αἰτοῦσά = G154 αἰτέω "ask, beg, call for, crave, desire, require" [V-PAP-NSF]
 - o16: τι = G5100 τὶς "a (kind of), any (man, thing, thing at all)…" [X-ASN]
 - o17: παρ’ = G3844 παρά "above, against, among, at, before, by…" [PREP]
-- o18: αὐτοῦ. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o18: απ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP] (variant reading, WHNU)
+- o19: αὐτοῦ. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
 
 Persian entries and current tags:
 - p1: آنگاه  → G5119
@@ -416,19 +417,20 @@ Persian entries and current tags:
 
 ### Matthew 20:24
 
-Original: ἀκούσαντες δὲ οἱ δέκα ἠγανάκτησαν περὶ τῶν δύο ἀδελφῶν.
+Original: ⟨και⟩ ἀκούσαντες δὲ οἱ δέκα ἠγανάκτησαν περὶ τῶν δύο ἀδελφῶν.
 Persian: چون ده شاگردِ دیگر از این امر آگاه شدند، بر آن دو برادر خشم گرفتند.
 
 Original words:
-- o1: ἀκούσαντες = G191 ἀκούω "give (in the) audience (of), come (to the ears)…" [V-AAP-NPM]
-- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
-- o3: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
-- o4: δέκα = G1176 δέκα "(eight-)een, ten" [A-NUI]
-- o5: ἠγανάκτησαν = G23 ἀγανακτέω "be much (sore) displeased, have (be moved with…" [V-AAI-3P]
-- o6: περὶ = G4012 περί "there-)about, above, against, at, on behalf of…" [PREP]
-- o7: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
-- o8: δύο = G1417 δύο "both, twain, two" [A-NUI]
-- o9: ἀδελφῶν. = G80 ἀδελφός "brother" [N-GPM]
+- o1: και = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ] (variant reading, WHNU)
+- o2: ἀκούσαντες = G191 ἀκούω "give (in the) audience (of), come (to the ears)…" [V-AAP-NPM]
+- o3: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o4: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o5: δέκα = G1176 δέκα "(eight-)een, ten" [A-NUI]
+- o6: ἠγανάκτησαν = G23 ἀγανακτέω "be much (sore) displeased, have (be moved with…" [V-AAI-3P]
+- o7: περὶ = G4012 περί "there-)about, above, against, at, on behalf of…" [PREP]
+- o8: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o9: δύο = G1417 δύο "both, twain, two" [A-NUI]
+- o10: ἀδελφῶν. = G80 ἀδελφός "brother" [N-GPM]
 
 Persian entries and current tags:
 - p1: چون
@@ -899,14 +901,15 @@ Original words of verses next to the ones above. Where the Persian verse divisio
 - o7: παρέλαβεν = G3880 παραλαμβάνω "receive, take (unto, with)" [V-2AAI-3S]
 - o8: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
 - o9: δώδεκα = G1427 δώδεκα "twelve" [A-NUI]
-- o10: κατ’ = G2596 κατά "about, according as (to), after, against…" [PREP]
-- o11: ἰδίαν, = G2398 ἴδιος "his acquaintance, when they were alone, apart…" [A-ASF]
-- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o13: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
-- o14: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
-- o15: ὁδῷ = G3598 ὁδός "journey, (high-)way" [N-DSF]
-- o16: εἶπεν = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-2AAI-3S]
-- o17: αὐτοῖς· = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPM]
+- o10: μαθητας = G3101 μαθητής "disciple" [N-APM] (variant reading, WHNU)
+- o11: κατ’ = G2596 κατά "about, according as (to), after, against…" [PREP]
+- o12: ἰδίαν, = G2398 ἴδιος "his acquaintance, when they were alone, apart…" [A-ASF]
+- o13: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o14: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o15: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o16: ὁδῷ = G3598 ὁδός "journey, (high-)way" [N-DSF]
+- o17: εἶπεν = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-2AAI-3S]
+- o18: αὐτοῖς· = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPM]
 
 ### Matthew 21:1 (context)
 

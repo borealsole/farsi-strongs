@@ -98,7 +98,7 @@ Persian entries and current tags:
 
 ### I Corinthians 16:2
 
-Original: κατὰ μίαν σαββάτου ἕκαστος ὑμῶν παρ’ ἑαυτῷ τιθέτω θησαυρίζων ὅ τι ἂν εὐοδῶται, ἵνα μὴ ὅταν ἔλθω τότε λογίαι γίνωνται.
+Original: κατὰ μίαν σαββάτου ἕκαστος ὑμῶν παρ’ ἑαυτῷ τιθέτω θησαυρίζων ὅ τι ἂν ⟨εαν⟩ εὐοδῶται, ἵνα μὴ ὅταν ἔλθω τότε λογίαι γίνωνται.
 Persian: روز اوّل هر هفته، هر یک از شما به فراخور درآمد خود پولی کنار گذاشته، پس‌انداز کند، تا به هنگام آمدنم نزد شما، لزومی به جمع‌آوری هدایا نباشد.
 
 Original words:
@@ -114,14 +114,15 @@ Original words:
 - o10: ὅ = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-ASN]
 - o11: τι = G5100 τὶς "a (kind of), any (man, thing, thing at all)…" [X-ASN]
 - o12: ἂν = G302 ἄν "(what-, where-, wither-, who-)soever" [PRT]
-- o13: εὐοδῶται, = G2137 εὐοδόω "(have a) prosper(-ous journey)" [V-PPS-3S]
-- o14: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
-- o15: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
-- o16: ὅταν = G3752 ὅταν "as long (soon) as, that, + till, when(-soever)…" [CONJ]
-- o17: ἔλθω = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-2AAS-1S]
-- o18: τότε = G5119 τότε "that time, then" [ADV]
-- o19: λογίαι = G3048 λογία "collection, gathering" [N-NPF]
-- o20: γίνωνται. = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-PNS-3P]
+- o13: εαν = G1437 ἐάν "before, but, except, (and) if, (if) so, (what-…" [COND] (variant reading, WHNU)
+- o14: εὐοδῶται, = G2137 εὐοδόω "(have a) prosper(-ous journey)" [V-PPS-3S]
+- o15: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o16: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o17: ὅταν = G3752 ὅταν "as long (soon) as, that, + till, when(-soever)…" [CONJ]
+- o18: ἔλθω = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-2AAS-1S]
+- o19: τότε = G5119 τότε "that time, then" [ADV]
+- o20: λογίαι = G3048 λογία "collection, gathering" [N-NPF]
+- o21: γίνωνται. = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-PNS-3P]
 
 Persian entries and current tags:
 - p1: روز  → G2596

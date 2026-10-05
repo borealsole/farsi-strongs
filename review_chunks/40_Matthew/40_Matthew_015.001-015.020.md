@@ -291,7 +291,7 @@ Persian entries and current tags:
 
 ### Matthew 15:6
 
-Original: καὶ ἠκυρώσατε τὸν νόμον τοῦ θεοῦ διὰ τὴν παράδοσιν ὑμῶν.
+Original: καὶ ἠκυρώσατε τὸν νόμον ⟨λογον⟩ τοῦ θεοῦ διὰ τὴν παράδοσιν ὑμῶν.
 Persian: در این صورت، دیگر بر او واجب نیست این‌گونه پدرِ خود را گرامی دارد. این‌چنین شما برای حفظ سنّت خویش کلام خدا را باطل می‌شمارید.
 
 Original words:
@@ -299,12 +299,13 @@ Original words:
 - o2: ἠκυρώσατε = G208 ἀκυρόω "disannul, make of none effect" [V-AAI-2P]
 - o3: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
 - o4: νόμον = G3551 νόμος "law" [N-ASM]
-- o5: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
-- o6: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
-- o7: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
-- o8: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
-- o9: παράδοσιν = G3862 παράδοσις "ordinance, tradition" [N-ASF]
-- o10: ὑμῶν. = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
+- o5: λογον = G3056 λόγος "account, cause, communication, concerning…" [N-ASM] (variant reading, WHNU)
+- o6: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o7: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o8: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o9: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o10: παράδοσιν = G3862 παράδοσις "ordinance, tradition" [N-ASF]
+- o11: ὑμῶν. = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
 
 Persian entries and current tags:
 - p1: در

@@ -349,7 +349,7 @@ Persian entries and current tags:
 
 ### II Corinthians 12:7
 
-Original: καὶ τῇ ὑπερβολῇ τῶν ἀποκαλύψεων ἵνα μὴ ὑπεραίρωμαι, ἐδόθη μοι σκόλοψ τῇ σαρκί, ἄγγελος σατανᾶ, ἵνα με κολαφίζῃ, ἵνα μὴ ὑπεραίρωμαι.
+Original: καὶ τῇ ὑπερβολῇ τῶν ἀποκαλύψεων ⟨διο⟩ ἵνα μὴ ὑπεραίρωμαι, ἐδόθη μοι σκόλοψ τῇ σαρκί, ἄγγελος σατανᾶ, ἵνα με κολαφίζῃ, ἵνα μὴ ὑπεραίρωμαι.
 Persian: امّا برای اینکه عظمت بی‌اندازۀ این مکاشفات مغرورم نسازد، خاری در جسمم به من داده_شد، یعنی عامل شیطان، تا آزارم دهد و مرا از غرور بازدارد.
 
 Original words:
@@ -358,22 +358,23 @@ Original words:
 - o3: ὑπερβολῇ = G5236 ὑπερβολή "abundance, (far more) exceeding, excellency…" [N-DSF]
 - o4: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPF]
 - o5: ἀποκαλύψεων = G602 ἀποκάλυψις "appearing, coming, lighten, manifestation…" [N-GPF]
-- o6: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
-- o7: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
-- o8: ὑπεραίρωμαι, = G5229 ὑπεραίρομαι "exalt self, be exalted above measure" [V-PPS-1S]
-- o9: ἐδόθη = G1325 δίδωμι "adventure, bestow, bring forth, commit…" [V-API-3S]
-- o10: μοι = G1473 ἐγώ "I, me" [P-1DS]
-- o11: σκόλοψ = G4647 σκόλοψ "thorn" [N-NSM]
-- o12: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
-- o13: σαρκί, = G4561 σάρξ "carnal(-ly, + -ly minded), flesh(-ly)" [N-DSF]
-- o14: ἄγγελος = G32 ἄγγελος "angel, messenger" [N-NSM]
-- o15: σατανᾶ, = G4567 Σατανᾶς "Satan" [N-GSM]
-- o16: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
-- o17: με = G1473 ἐγώ "I, me" [P-1AS]
-- o18: κολαφίζῃ, = G2852 κολαφίζω "buffet" [V-PAS-3S]
-- o19: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
-- o20: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
-- o21: ὑπεραίρωμαι. = G5229 ὑπεραίρομαι "exalt self, be exalted above measure" [V-PPS-1S]
+- o6: διο = G1352 διό "for which cause, therefore, wherefore" [CONJ] (variant reading, WHNU)
+- o7: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o8: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o9: ὑπεραίρωμαι, = G5229 ὑπεραίρομαι "exalt self, be exalted above measure" [V-PPS-1S]
+- o10: ἐδόθη = G1325 δίδωμι "adventure, bestow, bring forth, commit…" [V-API-3S]
+- o11: μοι = G1473 ἐγώ "I, me" [P-1DS]
+- o12: σκόλοψ = G4647 σκόλοψ "thorn" [N-NSM]
+- o13: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o14: σαρκί, = G4561 σάρξ "carnal(-ly, + -ly minded), flesh(-ly)" [N-DSF]
+- o15: ἄγγελος = G32 ἄγγελος "angel, messenger" [N-NSM]
+- o16: σατανᾶ, = G4567 Σατανᾶς "Satan" [N-GSM]
+- o17: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o18: με = G1473 ἐγώ "I, me" [P-1AS]
+- o19: κολαφίζῃ, = G2852 κολαφίζω "buffet" [V-PAS-3S]
+- o20: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o21: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o22: ὑπεραίρωμαι. = G5229 ὑπεραίρομαι "exalt self, be exalted above measure" [V-PPS-1S]
 
 Persian entries and current tags:
 - p1: امّا

@@ -1,6 +1,6 @@
-# NMV Strong's review: Matthew 21:1–22
+# NMV Strong's review: Matthew 21:1–23
 
-Chunk file: 40_Matthew_021.001-021.022.md. 22 verses to review.
+Chunk file: 40_Matthew_021.001-021.023.md. 23 verses to review.
 
 ## Worked examples (already reviewed by hand; follow these conventions)
 
@@ -296,7 +296,7 @@ Persian entries and current tags:
 
 ### Matthew 21:6
 
-Original: πορευθέντες δὲ οἱ μαθηταὶ καὶ ποιήσαντες καθὼς προσέταξεν αὐτοῖς ὁ Ἰησοῦς,
+Original: πορευθέντες δὲ οἱ μαθηταὶ καὶ ποιήσαντες καθὼς προσέταξεν ⟨συνεταξεν⟩ αὐτοῖς ὁ Ἰησοῦς,
 Persian: آن دو شاگرد رفتند و طبق فرمان عیسی عمل کردند.
 
 Original words:
@@ -308,9 +308,10 @@ Original words:
 - o6: ποιήσαντες = G4160 ποιέω "abide, + agree, appoint, avenge, + band together…" [V-AAP-NPM]
 - o7: καθὼς = G2531 καθώς "according to, (according, even) as, how, when" [ADV]
 - o8: προσέταξεν = G4367 προστάσσω "bid, command" [V-AAI-3S]
-- o9: αὐτοῖς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPM]
-- o10: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
-- o11: Ἰησοῦς, = G2424 Ἰησοῦς "Jesus" [N-NSM]
+- o9: συνεταξεν = G4929 συντάσσω "appoint" [V-AAI-3S] (variant reading, WHNU)
+- o10: αὐτοῖς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPM]
+- o11: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o12: Ἰησοῦς, = G2424 Ἰησοῦς "Jesus" [N-NSM]
 
 Persian entries and current tags:
 - p1: آن دو  → G1161
@@ -1185,29 +1186,12 @@ Persian entries and current tags:
 - p11: .
 - p12: »
 
-## Neighbouring verses (context only, not for review)
+### Matthew 21:23
 
-Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+Original: Καὶ ἐλθόντος αὐτοῦ εἰς τὸ ἱερὸν προσῆλθον αὐτῷ διδάσκοντι οἱ ἀρχιερεῖς καὶ οἱ πρεσβύτεροι τοῦ λαοῦ λέγοντες· ἐν ποίᾳ ἐξουσίᾳ ταῦτα ποιεῖς; καὶ τίς σοι ἔδωκεν τὴν ἐξουσίαν ταύτην;
+Persian: آنگاه عیسی وارد معبد شد و به تعلیم مردم پرداخت. در این هنگام، سران کاهنان و مشایخ قوم نزد او آمدند و گفتند:« به چه اجازه‌ای این کارها را می‌کنی؟ چه کسی این اقتدار را به تو داده_است؟»
 
-### Matthew 20:34 (context)
-
-- o1: σπλαγχνισθεὶς = G4697 σπλαγχνίζομαι "have (be moved with) compassion" [V-AOP-NSM]
-- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
-- o3: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
-- o4: Ἰησοῦς = G2424 Ἰησοῦς "Jesus" [N-NSM]
-- o5: ἥψατο = G680 ἅπτομαι "touch" [V-ADI-3S]
-- o6: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPN]
-- o7: ὀμμάτων = G3659 ὄμμα "eye" [N-GPN]
-- o8: αὐτῶν, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]
-- o9: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o10: εὐθέως = G2112 εὐθέως "anon, as soon as, forthwith, immediately, shortly…" [ADV]
-- o11: ἀνέβλεψαν = G308 ἀναβλέπω "look (up), see, receive sight" [V-AAI-3P]
-- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o13: ἠκολούθησαν = G190 ἀκολουθέω "follow, reach" [V-AAI-3P]
-- o14: αὐτῷ. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
-
-### Matthew 21:23 (context)
-
+Original words:
 - o1: Καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
 - o2: ἐλθόντος = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-2AAP-GSM]
 - o3: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
@@ -1237,3 +1221,96 @@ Original words of verses next to the ones above. Where the Persian verse divisio
 - o27: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
 - o28: ἐξουσίαν = G1849 ἐξουσία "authority, jurisdiction, liberty, power, right…" [N-ASF]
 - o29: ταύτην; = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-ASF]
+
+Persian entries and current tags:
+- p1: آنگاه  → G2532
+- p2: عیسی  → G846
+- p3: وارد  → G2064 G1519
+- p4: معبد  → G2411
+- p5: شد
+- p6: و
+- p7: به
+- p8: تعلیم  → G1321
+- p9: مردم  → G2992
+- p10: پرداخت
+- p11: .
+- p12: در
+- p13: این
+- p14: هنگام
+- p15: ،
+- p16: سران کاهنان  → G749
+- p17: و  → G2532
+- p18: مشایخ  → G4245
+- p19: قوم  → G2992
+- p20: نزد
+- p21: او  → G846
+- p22: آمدند  → G4334
+- p23: و
+- p24: گفتند  → G3004
+- p25: :
+- p26: «
+- p27: به
+- p28: چه  → G4169
+- p29: اجازه‌ای  → G1849
+- p30: این  → G3778
+- p31: کارها  → G4160
+- p32: را
+- p33: می‌کنی
+- p34: ؟
+- p35: چه  → G4169 G5101
+- p36: کسی
+- p37: این  → G3778
+- p38: اقتدار  → G1849
+- p39: را
+- p40: به
+- p41: تو  → G4771
+- p42: داده_است  → G1325
+- p43: ؟
+- p44: »
+
+## Neighbouring verses (context only, not for review)
+
+Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
+
+### Matthew 20:34 (context)
+
+- o1: σπλαγχνισθεὶς = G4697 σπλαγχνίζομαι "have (be moved with) compassion" [V-AOP-NSM]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o4: Ἰησοῦς = G2424 Ἰησοῦς "Jesus" [N-NSM]
+- o5: ἥψατο = G680 ἅπτομαι "touch" [V-ADI-3S]
+- o6: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPN]
+- o7: ὀμμάτων = G3659 ὄμμα "eye" [N-GPN]
+- o8: αὐτῶν, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]
+- o9: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o10: εὐθέως = G2112 εὐθέως "anon, as soon as, forthwith, immediately, shortly…" [ADV]
+- o11: ἀνέβλεψαν = G308 ἀναβλέπω "look (up), see, receive sight" [V-AAI-3P]
+- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o13: ἠκολούθησαν = G190 ἀκολουθέω "follow, reach" [V-AAI-3P]
+- o14: αὐτῷ. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
+
+### Matthew 21:24 (context)
+
+- o1: ἀποκριθεὶς = G611 ἀποκρίνομαι "answer" [V-AOP-NSM]
+- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o3: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o4: Ἰησοῦς = G2424 Ἰησοῦς "Jesus" [N-NSM]
+- o5: εἶπεν = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-2AAI-3S]
+- o6: αὐτοῖς· = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPM]
+- o7: ἐρωτήσω = G2065 ἐρωτάω "ask, beseech, desire, intreat, pray" [V-FAI-1S]
+- o8: ὑμᾶς = G5210 ὑμεῖς "ye (yourselves), you" [P-2AP]
+- o9: κἀγὼ = G2504 κἀγώ "and, even, even so, so) I (also, in like wise)…" [P-1NS-K]
+- o10: λόγον = G3056 λόγος "account, cause, communication, concerning…" [N-ASM]
+- o11: ἕνα, = G1520 εἷς "a(-n, -ny, certain), + abundantly, man…" [A-ASM]
+- o12: ὃν = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-ASM]
+- o13: ἐὰν = G1437 ἐάν "before, but, except, (and) if, (if) so, (what-…" [COND]
+- o14: εἴπητέ = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-2AAS-2P]
+- o15: μοι = G1473 ἐγώ "I, me" [P-1DS]
+- o16: κἀγὼ = G2504 κἀγώ "and, even, even so, so) I (also, in like wise)…" [P-1NS-K]
+- o17: ὑμῖν = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
+- o18: ἐρῶ = G2046 ἐρέω "call, say, speak (of), tell" [V-FAI-1S]
+- o19: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o20: ποίᾳ = G4169 ποῖος "what (manner of), which" [I-DSF]
+- o21: ἐξουσίᾳ = G1849 ἐξουσία "authority, jurisdiction, liberty, power, right…" [N-DSF]
+- o22: ταῦτα = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-APN]
+- o23: ποιῶ· = G4160 ποιέω "abide, + agree, appoint, avenge, + band together…" [V-PAI-1S]

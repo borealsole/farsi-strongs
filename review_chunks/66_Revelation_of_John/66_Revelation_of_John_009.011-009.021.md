@@ -644,7 +644,7 @@ Persian entries and current tags:
 
 ### Revelation of John 9:21
 
-Original: καὶ οὐ μετενόησαν ἐκ τῶν φόνων αὐτῶν οὔτε ἐκ τῶν φαρμακιῶν αὐτῶν οὔτε ἐκ τῆς πορνείας αὐτῶν οὔτε ἐκ τῶν κλεμμάτων αὐτῶν.
+Original: καὶ οὐ μετενόησαν ἐκ τῶν φόνων αὐτῶν οὔτε ἐκ τῶν φαρμακιῶν ⟨φαρμακων⟩ αὐτῶν οὔτε ἐκ τῆς πορνείας αὐτῶν οὔτε ἐκ τῶν κλεμμάτων αὐτῶν.
 Persian: نه نیز از آدمکُشیها و جادوگریها و بی‌عفتیها و دزدیهای خود توبه کردند.
 
 Original words:
@@ -659,17 +659,18 @@ Original words:
 - o9: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
 - o10: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPF]
 - o11: φαρμακιῶν = G5331 φαρμακεία "sorcery, witchcraft" [N-GPF]
-- o12: αὐτῶν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]
-- o13: οὔτε = G3777 οὔτε "neither, none, nor (yet), (no, yet) not, nothing" [CONJ-N]
-- o14: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
-- o15: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
-- o16: πορνείας = G4202 πορνεία "fornication" [N-GSF]
-- o17: αὐτῶν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]
-- o18: οὔτε = G3777 οὔτε "neither, none, nor (yet), (no, yet) not, nothing" [CONJ-N]
-- o19: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
-- o20: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPN]
-- o21: κλεμμάτων = G2809 κλέμμα "theft" [N-GPN]
-- o22: αὐτῶν. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]
+- o12: φαρμακων = G5333 φάρμακος "sorcerer" [N-GPN] (variant reading, WHNU)
+- o13: αὐτῶν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]
+- o14: οὔτε = G3777 οὔτε "neither, none, nor (yet), (no, yet) not, nothing" [CONJ-N]
+- o15: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o16: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o17: πορνείας = G4202 πορνεία "fornication" [N-GSF]
+- o18: αὐτῶν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]
+- o19: οὔτε = G3777 οὔτε "neither, none, nor (yet), (no, yet) not, nothing" [CONJ-N]
+- o20: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o21: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPN]
+- o22: κλεμμάτων = G2809 κλέμμα "theft" [N-GPN]
+- o23: αὐτῶν. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]
 
 Persian entries and current tags:
 - p1: نه  → G2532 G3756

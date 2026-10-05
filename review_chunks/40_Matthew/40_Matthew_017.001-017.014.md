@@ -1,6 +1,6 @@
-# NMV Strong's review: Matthew 17:1–13
+# NMV Strong's review: Matthew 17:1–14
 
-Chunk file: 40_Matthew_017.001-017.013.md. 13 verses to review.
+Chunk file: 40_Matthew_017.001-017.014.md. 14 verses to review.
 
 ## Worked examples (already reviewed by hand; follow these conventions)
 
@@ -695,6 +695,42 @@ Persian entries and current tags:
 - p10: می‌گوید  → G3004
 - p11: .
 
+### Matthew 17:14
+
+Original: Καὶ ἐλθόντων πρὸς τὸν ὄχλον, προσῆλθεν αὐτῷ ἄνθρωπος γονυπετῶν αὐτὸν
+Persian: چون نزد جماعت بازگشتند، مردی به عیسی نزدیک شد و در برابر او زانو زد و گفت:
+
+Original words:
+- o1: Καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: ἐλθόντων = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-2AAP-GPM]
+- o3: πρὸς = G4314 πρός "about, according to , against, among, at…" [PREP]
+- o4: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o5: ὄχλον, = G3793 ὄχλος "company, multitude, number (of people), people…" [N-ASM]
+- o6: προσῆλθεν = G4334 προσέρχομαι "as soon as he) come (unto), come thereunto…" [V-2AAI-3S]
+- o7: αὐτῷ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
+- o8: ἄνθρωπος = G444 ἄνθρωπος "certain, man" [N-NSM]
+- o9: γονυπετῶν = G1120 γονυπετέω "bow the knee, kneel down" [V-PAP-NSM]
+- o10: αὐτὸν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASM]
+
+Persian entries and current tags:
+- p1: چون
+- p2: نزد  → G4314
+- p3: جماعت  → G3793
+- p4: بازگشتند  → G2064
+- p5: ،
+- p6: مردی  → G444
+- p7: به
+- p8: عیسی
+- p9: نزدیک شد  → G4334
+- p10: و  → G2532
+- p11: در  → G1120
+- p12: برابر
+- p13: او  → G846
+- p14: زانو زد  → G1120
+- p15: و  → G2532
+- p16: گفت
+- p17: :
+
 ## Neighbouring verses (context only, not for review)
 
 Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
@@ -728,15 +764,28 @@ Original words of verses next to the ones above. Where the Persian verse divisio
 - o25: βασιλείᾳ = G932 βασιλεία "kingdom, + reign" [N-DSF]
 - o26: αὐτοῦ. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
 
-### Matthew 17:14 (context)
+### Matthew 17:15 (context)
 
-- o1: Καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o2: ἐλθόντων = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-2AAP-GPM]
-- o3: πρὸς = G4314 πρός "about, according to , against, among, at…" [PREP]
-- o4: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
-- o5: ὄχλον, = G3793 ὄχλος "company, multitude, number (of people), people…" [N-ASM]
-- o6: προσῆλθεν = G4334 προσέρχομαι "as soon as he) come (unto), come thereunto…" [V-2AAI-3S]
-- o7: αὐτῷ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
-- o8: ἄνθρωπος = G444 ἄνθρωπος "certain, man" [N-NSM]
-- o9: γονυπετῶν = G1120 γονυπετέω "bow the knee, kneel down" [V-PAP-NSM]
-- o10: αὐτὸν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASM]
+- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o2: λέγων· = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAP-NSM]
+- o3: κύριε, = G2962 κύριος "God, Lord, master, Sir" [N-VSM]
+- o4: ἐλέησόν = G1653 ἐλεέω "have compassion (pity on), have (obtain, receive…" [V-AAM-2S]
+- o5: μου = G1473 ἐγώ "I, me" [P-1GS]
+- o6: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o7: υἱόν, = G5207 υἱός "child, foal, son" [N-ASM]
+- o8: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o9: σεληνιάζεται = G4583 σεληνιάζομαι "be a lunatic" [V-PNI-3S]
+- o10: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o11: κακῶς = G2560 κακῶς "amiss, diseased, evil, grievously, miserably…" [ADV]
+- o12: πάσχει· = G3958 πάσχω "feel, passion, suffer, vex" [V-PAI-3S]
+- o13: πολλάκις = G4178 πολλάκις "oft(-en, -entimes, -times)" [ADV]
+- o14: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o15: πίπτει = G4098 πίπτω "fail, fall (down), light on" [V-PAI-3S]
+- o16: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o17: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o18: πῦρ = G4442 πῦρ "fiery, fire" [N-ASN]
+- o19: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o20: πολλάκις = G4178 πολλάκις "oft(-en, -entimes, -times)" [ADV]
+- o21: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o22: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o23: ὕδωρ. = G5204 ὕδωρ "water" [N-ASN]

@@ -388,7 +388,7 @@ Persian entries and current tags:
 
 ### I Timothy 2:9
 
-Original: ὡσαύτως καὶ γυναῖκας ἐν καταστολῇ κοσμίῳ μετὰ αἰδοῦς καὶ σωφροσύνης κοσμεῖν ἑαυτάς, μὴ ἐν πλέγμασιν καὶ χρυσῷ ἢ μαργαρίταις ἢ ἱματισμῷ πολυτελεῖ,
+Original: ὡσαύτως καὶ γυναῖκας ἐν καταστολῇ κοσμίῳ μετὰ αἰδοῦς καὶ σωφροσύνης κοσμεῖν ἑαυτάς, μὴ ἐν πλέγμασιν καὶ χρυσῷ ⟨χρυσιω⟩ ἢ μαργαρίταις ἢ ἱματισμῷ πολυτελεῖ,
 Persian: نیز خواهانم که زنان پوششی شایسته بر تن کنند و خویشتن را به نجابت و متانت بیارایند، نه به گیسوانِ بافته، یا طلا و مروارید، یا جامه‌های فاخر،
 
 Original words:
@@ -409,11 +409,12 @@ Original words:
 - o15: πλέγμασιν = G4117 πλέγμα "broidered hair" [N-DPN]
 - o16: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
 - o17: χρυσῷ = G5557 χρυσός "gold" [N-DSM]
-- o18: ἢ = G2228 ἤ "and, but (either), (n-)either, except it be…" [PRT]
-- o19: μαργαρίταις = G3135 μαργαρίτης "pearl" [N-DPM]
-- o20: ἢ = G2228 ἤ "and, but (either), (n-)either, except it be…" [PRT]
-- o21: ἱματισμῷ = G2441 ἱματισμός "apparel ( -led), array, raiment, vesture" [N-DSM]
-- o22: πολυτελεῖ, = G4185 πολυτελής "costly, very precious, of great price" [A-DSM]
+- o18: χρυσιω = G5553 χρυσίον "gold" [N-DSN] (variant reading, WHNU)
+- o19: ἢ = G2228 ἤ "and, but (either), (n-)either, except it be…" [PRT]
+- o20: μαργαρίταις = G3135 μαργαρίτης "pearl" [N-DPM]
+- o21: ἢ = G2228 ἤ "and, but (either), (n-)either, except it be…" [PRT]
+- o22: ἱματισμῷ = G2441 ἱματισμός "apparel ( -led), array, raiment, vesture" [N-DSM]
+- o23: πολυτελεῖ, = G4185 πολυτελής "costly, very precious, of great price" [A-DSM]
 
 Persian entries and current tags:
 - p1: نیز  → G2532

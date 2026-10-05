@@ -51,37 +51,39 @@ Correct Persian tags (reviewed by hand):
 
 ### Revelation of John 13:1
 
-Original: καὶ εἶδον ἐκ τῆς θαλάσσης θηρίον ἀναβαῖνον, ἔχον κέρατα δέκα καὶ κεφαλὰς ἑπτά, καὶ ἐπὶ τῶν κεράτων αὐτοῦ δέκα διαδήματα, καὶ ἐπὶ τὰς κεφαλὰς αὐτοῦ ὀνόματα βλασφημίας.
+Original: ⟨εσταθη⟩ ⟨αμμον⟩ καὶ εἶδον ἐκ τῆς θαλάσσης θηρίον ἀναβαῖνον, ἔχον κέρατα δέκα καὶ κεφαλὰς ἑπτά, καὶ ἐπὶ τῶν κεράτων αὐτοῦ δέκα διαδήματα, καὶ ἐπὶ τὰς κεφαλὰς αὐτοῦ ὀνόματα βλασφημίας.
 Persian: و اژدها بر شنهای کنار دریا ایستاد. آنگاه دیدم وحشی از دریا بیرون می‌آید. ده شاخ داشت و هفت سر، با ده تاج بر شاخهایش؛ و بر هر سرش نامی کفرآمیز نوشته_شده_بود.
 
 Original words:
-- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o2: εἶδον = G3708 ὁράω "behold, perceive, see, take heed" [V-2AAI-1S]
-- o3: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
-- o4: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
-- o5: θαλάσσης = G2281 θάλασσα "sea" [N-GSF]
-- o6: θηρίον = G2342 θηρίον "(venomous, wild) beast" [N-ASN]
-- o7: ἀναβαῖνον, = G305 ἀναβαίνω "arise, ascend (up), climb (go, grow, rise…" [V-PAP-ASN]
-- o8: ἔχον = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAP-ASN]
-- o9: κέρατα = G2768 κέρας "horn" [N-APN]
-- o10: δέκα = G1176 δέκα "(eight-)een, ten" [A-NUI]
-- o11: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o12: κεφαλὰς = G2776 κεφαλή "head" [N-APF]
-- o13: ἑπτά, = G2033 ἑπτά "seven" [A-NUI]
-- o14: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o15: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
-- o16: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPN]
-- o17: κεράτων = G2768 κέρας "horn" [N-GPN]
-- o18: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSN]
-- o19: δέκα = G1176 δέκα "(eight-)een, ten" [A-NUI]
-- o20: διαδήματα, = G1238 διάδημα "crown" [N-APN]
-- o21: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o22: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
-- o23: τὰς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APF]
-- o24: κεφαλὰς = G2776 κεφαλή "head" [N-APF]
-- o25: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSN]
-- o26: ὀνόματα = G3686 ὄνομα "called, (+ sur-)name(-d)" [N-APN]
-- o27: βλασφημίας. = G988 βλασφημία "blasphemy, evil speaking, railing" [N-GSF]
+- o1: εσταθη = G2476 ἵστημι "abide, appoint, bring, continue, covenant…" [V-API-3S] (variant reading, WHNU)
+- o2: αμμον = G285 ἄμμος "sand" [N-ASF] (variant reading, WHNU)
+- o3: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o4: εἶδον = G3708 ὁράω "behold, perceive, see, take heed" [V-2AAI-1S]
+- o5: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o6: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o7: θαλάσσης = G2281 θάλασσα "sea" [N-GSF]
+- o8: θηρίον = G2342 θηρίον "(venomous, wild) beast" [N-ASN]
+- o9: ἀναβαῖνον, = G305 ἀναβαίνω "arise, ascend (up), climb (go, grow, rise…" [V-PAP-ASN]
+- o10: ἔχον = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAP-ASN]
+- o11: κέρατα = G2768 κέρας "horn" [N-APN]
+- o12: δέκα = G1176 δέκα "(eight-)een, ten" [A-NUI]
+- o13: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o14: κεφαλὰς = G2776 κεφαλή "head" [N-APF]
+- o15: ἑπτά, = G2033 ἑπτά "seven" [A-NUI]
+- o16: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o17: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o18: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPN]
+- o19: κεράτων = G2768 κέρας "horn" [N-GPN]
+- o20: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSN]
+- o21: δέκα = G1176 δέκα "(eight-)een, ten" [A-NUI]
+- o22: διαδήματα, = G1238 διάδημα "crown" [N-APN]
+- o23: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o24: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o25: τὰς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APF]
+- o26: κεφαλὰς = G2776 κεφαλή "head" [N-APF]
+- o27: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSN]
+- o28: ὀνόματα = G3686 ὄνομα "called, (+ sur-)name(-d)" [N-APN]
+- o29: βλασφημίας. = G988 βλασφημία "blasphemy, evil speaking, railing" [N-GSF]
 
 Persian entries and current tags:
 - p1: و  → G2532
@@ -1109,7 +1111,7 @@ Persian entries and current tags:
 
 ### Revelation of John 13:18
 
-Original: ὧδε ἡ σοφία ἐστίν· ὁ ἔχων νοῦν ψηφισάτω τὸν ἀριθμὸν τοῦ θηρίου, ἀριθμὸς γὰρ ἀνθρώπου ἐστίν· καὶ ὁ ἀριθμὸς αὐτοῦ χξϛʹ.
+Original: ὧδε ἡ σοφία ἐστίν· ὁ ἔχων νοῦν ψηφισάτω τὸν ἀριθμὸν τοῦ θηρίου, ἀριθμὸς γὰρ ἀνθρώπου ἐστίν· καὶ ὁ ἀριθμὸς αὐτοῦ χξϛʹ. ⟨εξακοσιοι⟩ ⟨εξηκοντα⟩ ⟨εξ⟩
 Persian: و این حکمت می‌طلبد. هر که بصیرت دارد، بگذار تا عدد آن وحش را محاسبه کند، چرا که آن، عدد انسان است. و عدد او ششصد و شصت و شش است.
 
 Original words:
@@ -1134,6 +1136,9 @@ Original words:
 - o19: ἀριθμὸς = G706 ἀριθμός "number" [N-NSM]
 - o20: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSN]
 - o21: χξϛʹ. = G5516 χξϛ "six hundred threescore and six" [A-NUI-ABB]
+- o22: εξακοσιοι = G1812 ἑξακόσιοι "six hundred" [A-NPM] (variant reading, WHNU)
+- o23: εξηκοντα = G1835 ἑξήκοντα "sixty(-fold), threescore" [A-NUI] (variant reading, WHNU)
+- o24: εξ = G1803 ἕξ "six" [A-NUI] (variant reading, WHNU)
 
 Persian entries and current tags:
 - p1: و

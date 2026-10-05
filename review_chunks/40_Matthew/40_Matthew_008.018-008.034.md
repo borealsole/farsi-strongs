@@ -242,24 +242,25 @@ Persian entries and current tags:
 
 ### Matthew 8:22
 
-Original: ὁ δὲ λέγει αὐτῷ, ἀκολούθει μοι, καὶ ἄφες τοὺς νεκροὺς θάψαι τοὺς ἑαυτῶν νεκρούς.
+Original: ὁ δὲ ⟨ιησους⟩ λέγει αὐτῷ, ἀκολούθει μοι, καὶ ἄφες τοὺς νεκροὺς θάψαι τοὺς ἑαυτῶν νεκρούς.
 Persian: امّا عیسی به او گفت:« مرا پیروی کن و بگذار مردگان، مردگانِ خود را به خاک بسپارند.»
 
 Original words:
 - o1: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
 - o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
-- o3: λέγει = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-3S]
-- o4: αὐτῷ, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
-- o5: ἀκολούθει = G190 ἀκολουθέω "follow, reach" [V-PAM-2S]
-- o6: μοι, = G1473 ἐγώ "I, me" [P-1DS]
-- o7: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o8: ἄφες = G863 ἀφίημι "cry, forgive, forsake, lay aside, leave…" [V-2AAM-2S]
-- o9: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
-- o10: νεκροὺς = G3498 νεκρός "dead" [A-APM]
-- o11: θάψαι = G2290 θάπτω "bury" [V-AAN]
-- o12: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
-- o13: ἑαυτῶν = G1438 ἑαυτοῦ "alone, her (own, -self), (he) himself, his (own)…" [F-3GPM]
-- o14: νεκρούς. = G3498 νεκρός "dead" [A-APM]
+- o3: ιησους = G2424 Ἰησοῦς "Jesus" [N-NSM] (variant reading, WHNU)
+- o4: λέγει = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-3S]
+- o5: αὐτῷ, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
+- o6: ἀκολούθει = G190 ἀκολουθέω "follow, reach" [V-PAM-2S]
+- o7: μοι, = G1473 ἐγώ "I, me" [P-1DS]
+- o8: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o9: ἄφες = G863 ἀφίημι "cry, forgive, forsake, lay aside, leave…" [V-2AAM-2S]
+- o10: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o11: νεκροὺς = G3498 νεκρός "dead" [A-APM]
+- o12: θάψαι = G2290 θάπτω "bury" [V-AAN]
+- o13: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o14: ἑαυτῶν = G1438 ἑαυτοῦ "alone, her (own, -self), (he) himself, his (own)…" [F-3GPM]
+- o15: νεκρούς. = G3498 νεκρός "dead" [A-APM]
 
 Persian entries and current tags:
 - p1: امّا  → G1161

@@ -562,7 +562,7 @@ Persian entries and current tags:
 
 ### Colossians 3:13
 
-Original: ἀνεχόμενοι ἀλλήλων καὶ χαριζόμενοι ἑαυτοῖς ἐάν τις πρός τινα ἔχῃ μομφήν· καθὼς καὶ ὁ Χριστὸς ἐχαρίσατο ὑμῖν οὕτως καὶ ὑμεῖς·
+Original: ἀνεχόμενοι ἀλλήλων καὶ χαριζόμενοι ἑαυτοῖς ἐάν τις πρός τινα ἔχῃ μομφήν· καθὼς καὶ ὁ Χριστὸς ⟨κυριος⟩ ἐχαρίσατο ὑμῖν οὕτως καὶ ὑμεῖς·
 Persian: نسبت به یکدیگر بردبار باشید و چنانچه کسی نسبت به دیگری کدورتی دارد، او را ببخشاید. چنانکه خداوند شما را بخشود، شما نیز یکدیگر را ببخشایید.
 
 Original words:
@@ -581,11 +581,12 @@ Original words:
 - o13: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
 - o14: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
 - o15: Χριστὸς = G5547 Χριστός "Christ" [N-NSM]
-- o16: ἐχαρίσατο = G5483 χαρίζομαι "deliver, (frankly) forgive, (freely) give, grant" [V-ADI-3S]
-- o17: ὑμῖν = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
-- o18: οὕτως = G3779 οὕτω "after that, after (in) this manner, as, even (so)…" [ADV]
-- o19: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o20: ὑμεῖς· = G5210 ὑμεῖς "ye (yourselves), you" [P-2NP]
+- o16: κυριος = G2962 κύριος "God, Lord, master, Sir" [N-NSM] (variant reading, WHNU)
+- o17: ἐχαρίσατο = G5483 χαρίζομαι "deliver, (frankly) forgive, (freely) give, grant" [V-ADI-3S]
+- o18: ὑμῖν = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
+- o19: οὕτως = G3779 οὕτω "after that, after (in) this manner, as, even (so)…" [ADV]
+- o20: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o21: ὑμεῖς· = G5210 ὑμεῖς "ye (yourselves), you" [P-2NP]
 
 Persian entries and current tags:
 - p1: نسبت  → G430
@@ -795,7 +796,7 @@ Persian entries and current tags:
 
 ### Colossians 3:17
 
-Original: καὶ πᾶν ὅ τι ἂν ποιῆτε ἐν λόγῳ ἢ ἐν ἔργῳ, πάντα ἐν ὀνόματι κυρίου Ἰησοῦ, εὐχαριστοῦντες τῷ θεῷ πατρὶ δι’ αὐτοῦ.
+Original: καὶ πᾶν ὅ τι ἂν ⟨εαν⟩ ποιῆτε ἐν λόγῳ ἢ ἐν ἔργῳ, πάντα ἐν ὀνόματι κυρίου Ἰησοῦ, εὐχαριστοῦντες τῷ θεῷ πατρὶ δι’ αὐτοῦ.
 Persian: و هرآنچه کنید، چه در گفتار و چه در کردار، همه را به نام خداوندْ عیسی انجام دهید، و به واسطۀ او خدای پدر را شکر‌گزارید.
 
 Original words:
@@ -804,23 +805,24 @@ Original words:
 - o3: ὅ = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-ASN]
 - o4: τι = G5100 τὶς "a (kind of), any (man, thing, thing at all)…" [X-ASN]
 - o5: ἂν = G302 ἄν "(what-, where-, wither-, who-)soever" [PRT]
-- o6: ποιῆτε = G4160 ποιέω "abide, + agree, appoint, avenge, + band together…" [V-PAS-2P]
-- o7: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
-- o8: λόγῳ = G3056 λόγος "account, cause, communication, concerning…" [N-DSM]
-- o9: ἢ = G2228 ἤ "and, but (either), (n-)either, except it be…" [PRT]
-- o10: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
-- o11: ἔργῳ, = G2041 ἔργον "deed, doing, labour, work" [N-DSN]
-- o12: πάντα = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-APN]
-- o13: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
-- o14: ὀνόματι = G3686 ὄνομα "called, (+ sur-)name(-d)" [N-DSN]
-- o15: κυρίου = G2962 κύριος "God, Lord, master, Sir" [N-GSM]
-- o16: Ἰησοῦ, = G2424 Ἰησοῦς "Jesus" [N-GSM]
-- o17: εὐχαριστοῦντες = G2168 εὐχαριστέω "(give) thank(-ful, -s)" [V-PAP-NPM]
-- o18: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
-- o19: θεῷ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-DSM]
-- o20: πατρὶ = G3962 πατήρ "father, parent" [N-DSM]
-- o21: δι’ = G1223 διά "after, always, among, at, to avoid…" [PREP]
-- o22: αὐτοῦ. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o6: εαν = G1437 ἐάν "before, but, except, (and) if, (if) so, (what-…" [COND] (variant reading, WHNU)
+- o7: ποιῆτε = G4160 ποιέω "abide, + agree, appoint, avenge, + band together…" [V-PAS-2P]
+- o8: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o9: λόγῳ = G3056 λόγος "account, cause, communication, concerning…" [N-DSM]
+- o10: ἢ = G2228 ἤ "and, but (either), (n-)either, except it be…" [PRT]
+- o11: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o12: ἔργῳ, = G2041 ἔργον "deed, doing, labour, work" [N-DSN]
+- o13: πάντα = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-APN]
+- o14: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o15: ὀνόματι = G3686 ὄνομα "called, (+ sur-)name(-d)" [N-DSN]
+- o16: κυρίου = G2962 κύριος "God, Lord, master, Sir" [N-GSM]
+- o17: Ἰησοῦ, = G2424 Ἰησοῦς "Jesus" [N-GSM]
+- o18: εὐχαριστοῦντες = G2168 εὐχαριστέω "(give) thank(-ful, -s)" [V-PAP-NPM]
+- o19: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o20: θεῷ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-DSM]
+- o21: πατρὶ = G3962 πατήρ "father, parent" [N-DSM]
+- o22: δι’ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o23: αὐτοῦ. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
 
 Persian entries and current tags:
 - p1: و  → G2532

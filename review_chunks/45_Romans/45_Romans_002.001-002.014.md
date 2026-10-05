@@ -120,25 +120,26 @@ Persian entries and current tags:
 
 ### Romans 2:2
 
-Original: οἴδαμεν γὰρ ὅτι τὸ κρίμα τοῦ θεοῦ ἐστιν κατὰ ἀλήθειαν ἐπὶ τοὺς τὰ τοιαῦτα πράσσοντας.
+Original: οἴδαμεν γὰρ ⟨δε⟩ ὅτι τὸ κρίμα τοῦ θεοῦ ἐστιν κατὰ ἀλήθειαν ἐπὶ τοὺς τὰ τοιαῦτα πράσσοντας.
 Persian: ما می‌دانیم که داوری خدا بر کسانی که این‌گونه اعمال را انجام می‌دهند، بر حق است.
 
 Original words:
 - o1: οἴδαμεν = G1492 εἴδω "be aware, behold, can (+ not tell), consider…" [V-RAI-1P]
 - o2: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
-- o3: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
-- o4: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
-- o5: κρίμα = G2917 κρίμα "avenge, condemned, condemnation, damnation…" [N-NSN]
-- o6: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
-- o7: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
-- o8: ἐστιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
-- o9: κατὰ = G2596 κατά "about, according as (to), after, against…" [PREP]
-- o10: ἀλήθειαν = G225 ἀλήθεια "true, truly, truth, verity" [N-ASF]
-- o11: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
-- o12: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
-- o13: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
-- o14: τοιαῦτα = G5108 τοιοῦτος "like, such (an one)" [D-APN]
-- o15: πράσσοντας. = G4238 πράσσω "commit, deeds, do, exact, keep, require, use arts" [V-PAP-APM]
+- o3: δε = G1161 δέ "also, and, but, moreover…" [CONJ] (variant reading, WHNU)
+- o4: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o5: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o6: κρίμα = G2917 κρίμα "avenge, condemned, condemnation, damnation…" [N-NSN]
+- o7: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o8: θεοῦ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o9: ἐστιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o10: κατὰ = G2596 κατά "about, according as (to), after, against…" [PREP]
+- o11: ἀλήθειαν = G225 ἀλήθεια "true, truly, truth, verity" [N-ASF]
+- o12: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o13: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o14: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
+- o15: τοιαῦτα = G5108 τοιοῦτος "like, such (an one)" [D-APN]
+- o16: πράσσοντας. = G4238 πράσσω "commit, deeds, do, exact, keep, require, use arts" [V-PAP-APM]
 
 Persian entries and current tags:
 - p1: ما

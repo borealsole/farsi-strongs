@@ -279,7 +279,7 @@ Persian entries and current tags:
 
 ### Matthew 26:7
 
-Original: προσῆλθεν αὐτῷ γυνὴ ἔχουσα ἀλάβαστρον μύρου πολυτίμου καὶ κατέχεεν ἐπὶ τῆς κεφαλῆς αὐτοῦ ἀνακειμένου.
+Original: προσῆλθεν αὐτῷ γυνὴ ἔχουσα ἀλάβαστρον μύρου πολυτίμου ⟨βαρυτιμου⟩ καὶ κατέχεεν ἐπὶ τῆς κεφαλῆς αὐτοῦ ἀνακειμένου.
 Persian: زنی با ظرفی مرمرین از عطر بسیار گرانبها نزد او آمد و هنگامی که عیسی بر سر سفره نشسته_بود، عطر را بر سر او ریخت.
 
 Original words:
@@ -290,13 +290,14 @@ Original words:
 - o5: ἀλάβαστρον = G211 ἀλάβαστρον "(alabaster) box" [N-ASN]
 - o6: μύρου = G3464 μύρον "ointment" [N-GSN]
 - o7: πολυτίμου = G4186 πολύτιμος "very costly, of great price" [A-GSN]
-- o8: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o9: κατέχεεν = G2708 καταχέω "pour" [V-AAI-3S]
-- o10: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
-- o11: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
-- o12: κεφαλῆς = G2776 κεφαλή "head" [N-GSF]
-- o13: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
-- o14: ἀνακειμένου. = G345 ἀνακεῖμαι "guest, lean, lie, sit (down, at meat)…" [V-PNP-GSM]
+- o8: βαρυτιμου = G927 βαρύτιμος "very precious" [A-GSN] (variant reading, WHNU)
+- o9: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o10: κατέχεεν = G2708 καταχέω "pour" [V-AAI-3S]
+- o11: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o12: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o13: κεφαλῆς = G2776 κεφαλή "head" [N-GSF]
+- o14: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o15: ἀνακειμένου. = G345 ἀνακεῖμαι "guest, lean, lie, sit (down, at meat)…" [V-PNP-GSM]
 
 Persian entries and current tags:
 - p1: زنی  → G1135
@@ -608,7 +609,7 @@ Persian entries and current tags:
 
 ### Matthew 26:15
 
-Original: εἶπεν· τί θέλετέ μοι δοῦναι, καὶ ἐγὼ ὑμῖν παραδώσω αὐτόν; οἱ δὲ ἔστησαν αὐτῷ τριάκοντα ἀργύρια.
+Original: εἶπεν· τί θέλετέ μοι δοῦναι, καὶ ἐγὼ ὑμῖν ⟨καγω⟩ παραδώσω αὐτόν; οἱ δὲ ἔστησαν αὐτῷ τριάκοντα ἀργύρια.
 Persian: و گفت:« به من چه خواهید_داد اگر عیسی را به شما تسلیم کنم؟» پس آنان سی سکۀ نقره به وی پرداخت کردند.
 
 Original words:
@@ -620,14 +621,15 @@ Original words:
 - o6: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
 - o7: ἐγὼ = G1473 ἐγώ "I, me" [P-1NS]
 - o8: ὑμῖν = G4771 σύ "thou" [P-2DP]
-- o9: παραδώσω = G3860 παραδίδωμι "betray, bring forth, cast, commit, deliver (up)…" [V-FAI-1S]
-- o10: αὐτόν; = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASM]
-- o11: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
-- o12: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
-- o13: ἔστησαν = G2476 ἵστημι "abide, appoint, bring, continue, covenant…" [V-AAI-3P]
-- o14: αὐτῷ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
-- o15: τριάκοντα = G5144 τριάκοντα "thirty" [A-NUI]
-- o16: ἀργύρια. = G694 ἀργύριον "money, (piece of) silver (piece)" [N-APN]
+- o9: καγω = G2504 κἀγώ "and, even, even so, so) I (also, in like wise)…" [P-1NS-K] (variant reading, WHNU)
+- o10: παραδώσω = G3860 παραδίδωμι "betray, bring forth, cast, commit, deliver (up)…" [V-FAI-1S]
+- o11: αὐτόν; = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASM]
+- o12: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o13: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o14: ἔστησαν = G2476 ἵστημι "abide, appoint, bring, continue, covenant…" [V-AAI-3P]
+- o15: αὐτῷ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM]
+- o16: τριάκοντα = G5144 τριάκοντα "thirty" [A-NUI]
+- o17: ἀργύρια. = G694 ἀργύριον "money, (piece of) silver (piece)" [N-APN]
 
 Persian entries and current tags:
 - p1: و

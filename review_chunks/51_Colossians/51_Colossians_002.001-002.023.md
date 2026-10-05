@@ -769,7 +769,7 @@ Persian entries and current tags:
 
 ### Colossians 2:16
 
-Original: Μὴ οὖν τις ὑμᾶς κρινέτω ἐν βρώσει ἢ ἐν πόσει ἢ ἐν μέρει ἑορτῆς ἢ νουμηνίας ἢ σαββάτων,
+Original: Μὴ οὖν τις ὑμᾶς κρινέτω ἐν βρώσει ἢ ⟨και⟩ ἐν πόσει ἢ ἐν μέρει ἑορτῆς ἢ νουμηνίας ἢ σαββάτων,
 Persian: پس مگذارید کسی در خصوص آنچه می‌خورید و می‌آشامید، یا در خصوص نگاه داشتن اعیاد و ماه نو و روز شَبّات، محکومتان کند.
 
 Original words:
@@ -781,16 +781,17 @@ Original words:
 - o6: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
 - o7: βρώσει = G1035 βρῶσις "eating, food, meat" [N-DSF]
 - o8: ἢ = G2228 ἤ "and, but (either), (n-)either, except it be…" [PRT]
-- o9: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
-- o10: πόσει = G4213 πόσις "drink" [N-DSF]
-- o11: ἢ = G2228 ἤ "and, but (either), (n-)either, except it be…" [PRT]
-- o12: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
-- o13: μέρει = G3313 μέρος "behalf, course, coast, craft, particular (+ -ly)…" [N-DSN]
-- o14: ἑορτῆς = G1859 ἑορτή "feast, holyday" [N-GSF]
-- o15: ἢ = G2228 ἤ "and, but (either), (n-)either, except it be…" [PRT]
-- o16: νουμηνίας = G3561 νουμηνία "new moon" [N-GSF]
-- o17: ἢ = G2228 ἤ "and, but (either), (n-)either, except it be…" [PRT]
-- o18: σαββάτων, = G4521 σάββατον "sabbath (day), week" [N-GPN]
+- o9: και = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ] (variant reading, WHNU)
+- o10: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o11: πόσει = G4213 πόσις "drink" [N-DSF]
+- o12: ἢ = G2228 ἤ "and, but (either), (n-)either, except it be…" [PRT]
+- o13: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o14: μέρει = G3313 μέρος "behalf, course, coast, craft, particular (+ -ly)…" [N-DSN]
+- o15: ἑορτῆς = G1859 ἑορτή "feast, holyday" [N-GSF]
+- o16: ἢ = G2228 ἤ "and, but (either), (n-)either, except it be…" [PRT]
+- o17: νουμηνίας = G3561 νουμηνία "new moon" [N-GSF]
+- o18: ἢ = G2228 ἤ "and, but (either), (n-)either, except it be…" [PRT]
+- o19: σαββάτων, = G4521 σάββατον "sabbath (day), week" [N-GPN]
 
 Persian entries and current tags:
 - p1: پس  → G3767

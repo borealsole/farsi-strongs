@@ -167,31 +167,33 @@ Persian entries and current tags:
 
 ### I Corinthians 13:3
 
-Original: καὶ ἐὰν ψωμίσω πάντα τὰ ὑπάρχοντά μου, καὶ ἐὰν παραδῶ τὸ σῶμά μου ἵνα καυθήσομαι, ἀγάπην δὲ μὴ ἔχω, οὐθὲν ὠφελοῦμαι.
+Original: καὶ ἐὰν ⟨καν⟩ ψωμίσω πάντα τὰ ὑπάρχοντά μου, καὶ ἐὰν παραδῶ τὸ σῶμά μου ἵνα καυθήσομαι, ⟨καυχησωμαι⟩ ἀγάπην δὲ μὴ ἔχω, οὐθὲν ὠφελοῦμαι.
 Persian: اگر همۀ دارایی خود را صدقه دهم و تن خویش به شعله‌های آتش بسپارم، امّا محبت نداشته_باشم، هیچ سود نمی‌برم.
 
 Original words:
 - o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
 - o2: ἐὰν = G1437 ἐάν "before, but, except, (and) if, (if) so, (what-…" [COND]
-- o3: ψωμίσω = G5595 ψωμίζω "(bestow to) feed" [V-AAS-1S]
-- o4: πάντα = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-APN]
-- o5: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
-- o6: ὑπάρχοντά = G5225 ὑπάρχω "after, behave, live" [V-PAP-APN]
-- o7: μου, = G1473 ἐγώ "I, me" [P-1GS]
-- o8: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o9: ἐὰν = G1437 ἐάν "before, but, except, (and) if, (if) so, (what-…" [COND]
-- o10: παραδῶ = G3860 παραδίδωμι "betray, bring forth, cast, commit, deliver (up)…" [V-2AAS-1S]
-- o11: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
-- o12: σῶμά = G4983 σῶμα "bodily, body, slave" [N-ASN]
-- o13: μου = G1473 ἐγώ "I, me" [P-1GS]
-- o14: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
-- o15: καυθήσομαι, = G2545 καίω "burn, light" [V-FPI-1S]
-- o16: ἀγάπην = G26 ἀγάπη "(feast of) charity(-ably), dear, love" [N-ASF]
-- o17: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
-- o18: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
-- o19: ἔχω, = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAS-1S]
-- o20: οὐθὲν = G3762 οὐδείς "any (man), aught, man, neither any (thing)…" [A-ASN-N]
-- o21: ὠφελοῦμαι. = G5623 ὠφελέω "advantage, better, prevail, profit" [V-PPI-1S]
+- o3: καν = G2579 κἄν "and (also) if (so much as), if but, at the least…" [COND-K] (variant reading, WHNU)
+- o4: ψωμίσω = G5595 ψωμίζω "(bestow to) feed" [V-AAS-1S]
+- o5: πάντα = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-APN]
+- o6: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
+- o7: ὑπάρχοντά = G5225 ὑπάρχω "after, behave, live" [V-PAP-APN]
+- o8: μου, = G1473 ἐγώ "I, me" [P-1GS]
+- o9: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o10: ἐὰν = G1437 ἐάν "before, but, except, (and) if, (if) so, (what-…" [COND]
+- o11: παραδῶ = G3860 παραδίδωμι "betray, bring forth, cast, commit, deliver (up)…" [V-2AAS-1S]
+- o12: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o13: σῶμά = G4983 σῶμα "bodily, body, slave" [N-ASN]
+- o14: μου = G1473 ἐγώ "I, me" [P-1GS]
+- o15: ἵνα = G2443 ἵνα "albeit, because, to the intent (that), lest…" [CONJ]
+- o16: καυθήσομαι, = G2545 καίω "burn, light" [V-FPI-1S]
+- o17: καυχησωμαι = G2744 καυχάομαι "(make) boast, glory, joy, rejoice" [V-ADS-1S] (variant reading, WHNU)
+- o18: ἀγάπην = G26 ἀγάπη "(feast of) charity(-ably), dear, love" [N-ASF]
+- o19: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o20: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o21: ἔχω, = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAS-1S]
+- o22: οὐθὲν = G3762 οὐδείς "any (man), aught, man, neither any (thing)…" [A-ASN-N]
+- o23: ὠφελοῦμαι. = G5623 ὠφελέω "advantage, better, prevail, profit" [V-PPI-1S]
 
 Persian entries and current tags:
 - p1: اگر  → G1437

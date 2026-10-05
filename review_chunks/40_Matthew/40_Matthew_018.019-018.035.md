@@ -51,37 +51,38 @@ Correct Persian tags (reviewed by hand):
 
 ### Matthew 18:19
 
-Original: Πάλιν λέγω ὑμῖν ὅτι ἐὰν δύο συμφωνήσουσιν ἐξ ὑμῶν ἐπὶ τῆς γῆς περὶ παντὸς πράγματος οὗ ἐὰν αἰτήσωνται, γενήσεται αὐτοῖς παρὰ τοῦ πατρός μου τοῦ ἐν οὐρανοῖς.
+Original: Πάλιν ⟨αμην⟩ λέγω ὑμῖν ὅτι ἐὰν δύο συμφωνήσουσιν ἐξ ὑμῶν ἐπὶ τῆς γῆς περὶ παντὸς πράγματος οὗ ἐὰν αἰτήσωνται, γενήσεται αὐτοῖς παρὰ τοῦ πατρός μου τοῦ ἐν οὐρανοῖς.
 Persian: باز به شما می‌گویم که هر گاه دو نفر از شما بر روی زمین دربارۀ هر مسئله‌ای که در خصوص آن سؤال می‌کنند با هم موافق باشند، همانا از جانب پدر من که در آسمان است برای ایشان به انجام خواهد_رسید.
 
 Original words:
 - o1: Πάλιν = G3825 πάλιν "again" [ADV]
-- o2: λέγω = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-1S]
-- o3: ὑμῖν = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
-- o4: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
-- o5: ἐὰν = G1437 ἐάν "before, but, except, (and) if, (if) so, (what-…" [COND]
-- o6: δύο = G1417 δύο "both, twain, two" [A-NUI]
-- o7: συμφωνήσουσιν = G4856 συμφωνέω "agree (together, with)" [V-FAI-3P]
-- o8: ἐξ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
-- o9: ὑμῶν = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
-- o10: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
-- o11: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
-- o12: γῆς = G1093 γῆ "country, earth(-ly), ground, land, world" [N-GSF]
-- o13: περὶ = G4012 περί "there-)about, above, against, at, on behalf of…" [PREP]
-- o14: παντὸς = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-GSN]
-- o15: πράγματος = G4229 πρᾶγμα "business, matter, thing, work" [N-GSN]
-- o16: οὗ = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-GSN]
-- o17: ἐὰν = G1437 ἐάν "before, but, except, (and) if, (if) so, (what-…" [COND]
-- o18: αἰτήσωνται, = G154 αἰτέω "ask, beg, call for, crave, desire, require" [V-AMS-3P]
-- o19: γενήσεται = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-FDI-3S]
-- o20: αὐτοῖς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPM]
-- o21: παρὰ = G3844 παρά "above, against, among, at, before, by…" [PREP]
-- o22: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
-- o23: πατρός = G3962 πατήρ "father, parent" [N-GSM]
-- o24: μου = G1473 ἐγώ "I, me" [P-1GS]
-- o25: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
-- o26: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
-- o27: οὐρανοῖς. = G3772 οὐρανός "air, heaven(-ly), sky" [N-DPM]
+- o2: αμην = G281 ἀμήν "amen, verily" [HEB] (variant reading, WHNU)
+- o3: λέγω = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-1S]
+- o4: ὑμῖν = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
+- o5: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o6: ἐὰν = G1437 ἐάν "before, but, except, (and) if, (if) so, (what-…" [COND]
+- o7: δύο = G1417 δύο "both, twain, two" [A-NUI]
+- o8: συμφωνήσουσιν = G4856 συμφωνέω "agree (together, with)" [V-FAI-3P]
+- o9: ἐξ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o10: ὑμῶν = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
+- o11: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o12: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o13: γῆς = G1093 γῆ "country, earth(-ly), ground, land, world" [N-GSF]
+- o14: περὶ = G4012 περί "there-)about, above, against, at, on behalf of…" [PREP]
+- o15: παντὸς = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-GSN]
+- o16: πράγματος = G4229 πρᾶγμα "business, matter, thing, work" [N-GSN]
+- o17: οὗ = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-GSN]
+- o18: ἐὰν = G1437 ἐάν "before, but, except, (and) if, (if) so, (what-…" [COND]
+- o19: αἰτήσωνται, = G154 αἰτέω "ask, beg, call for, crave, desire, require" [V-AMS-3P]
+- o20: γενήσεται = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-FDI-3S]
+- o21: αὐτοῖς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPM]
+- o22: παρὰ = G3844 παρά "above, against, among, at, before, by…" [PREP]
+- o23: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o24: πατρός = G3962 πατήρ "father, parent" [N-GSM]
+- o25: μου = G1473 ἐγώ "I, me" [P-1GS]
+- o26: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o27: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o28: οὐρανοῖς. = G3772 οὐρανός "air, heaven(-ly), sky" [N-DPM]
 
 Persian entries and current tags:
 - p1: باز  → G3825

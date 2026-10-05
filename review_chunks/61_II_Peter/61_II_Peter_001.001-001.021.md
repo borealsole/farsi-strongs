@@ -471,7 +471,7 @@ Persian entries and current tags:
 
 ### II Peter 1:9
 
-Original: ᾧ γὰρ μὴ πάρεστιν ταῦτα, τυφλός ἐστιν μυωπάζων, λήθην λαβὼν τοῦ καθαρισμοῦ τῶν πάλαι αὐτοῦ ἁμαρτημάτων.
+Original: ᾧ γὰρ μὴ πάρεστιν ταῦτα, τυφλός ἐστιν μυωπάζων, λήθην λαβὼν τοῦ καθαρισμοῦ τῶν πάλαι αὐτοῦ ἁμαρτημάτων. ⟨αμαρτιων⟩
 Persian: امّا آن که عاری از اینهاست، کور است و کوته‌بین، و از یاد برده که از گناهان گذشتۀ خویش پاک شده_است.
 
 Original words:
@@ -491,6 +491,7 @@ Original words:
 - o14: πάλαι = G3819 πάλαι "any while, a great while ago, (of) old…" [ADV]
 - o15: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
 - o16: ἁμαρτημάτων. = G265 ἁμάρτημα "sin" [N-GPN]
+- o17: αμαρτιων = G266 ἁμαρτία "offence, sin(-ful)" [N-GPF] (variant reading, WHNU)
 
 Persian entries and current tags:
 - p1: امّا  → G1063

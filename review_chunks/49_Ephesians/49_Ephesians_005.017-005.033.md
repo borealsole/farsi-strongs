@@ -487,29 +487,30 @@ Persian entries and current tags:
 
 ### Ephesians 5:28
 
-Original: οὕτως ὀφείλουσιν οἱ ἄνδρες ἀγαπᾶν τὰς ἑαυτῶν γυναῖκας ὡς τὰ ἑαυτῶν σώματα. ὁ ἀγαπῶν τὴν ἑαυτοῦ γυναῖκα ἑαυτὸν ἀγαπᾷ,
+Original: οὕτως ὀφείλουσιν ⟨και⟩ οἱ ἄνδρες ἀγαπᾶν τὰς ἑαυτῶν γυναῖκας ὡς τὰ ἑαυτῶν σώματα. ὁ ἀγαπῶν τὴν ἑαυτοῦ γυναῖκα ἑαυτὸν ἀγαπᾷ,
 Persian: به همین‌سان، شوهران باید همسران خود را همچون بدن خویش محبت کنند. آن که زن خود را محبت می‌کند، خویشتن را محبت می‌نماید.
 
 Original words:
 - o1: οὕτως = G3779 οὕτω "after that, after (in) this manner, as, even (so)…" [ADV]
 - o2: ὀφείλουσιν = G3784 ὀφείλω "behove, be bound, (be) debt(-or), (be) due(-ty)…" [V-PAI-3P]
-- o3: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
-- o4: ἄνδρες = G435 ἀνήρ "fellow, husband, man, sir" [N-NPM]
-- o5: ἀγαπᾶν = G25 ἀγαπάω "(be-)love(-ed)" [V-PAN]
-- o6: τὰς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APF]
-- o7: ἑαυτῶν = G1438 ἑαυτοῦ "alone, her (own, -self), (he) himself, his (own)…" [F-3GPM]
-- o8: γυναῖκας = G1135 γυνή "wife, woman" [N-APF]
-- o9: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
-- o10: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
-- o11: ἑαυτῶν = G1438 ἑαυτοῦ "alone, her (own, -self), (he) himself, his (own)…" [F-3GPM]
-- o12: σώματα. = G4983 σῶμα "bodily, body, slave" [N-APN]
-- o13: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
-- o14: ἀγαπῶν = G25 ἀγαπάω "(be-)love(-ed)" [V-PAP-NSM]
-- o15: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
-- o16: ἑαυτοῦ = G1438 ἑαυτοῦ "alone, her (own, -self), (he) himself, his (own)…" [F-3GSM]
-- o17: γυναῖκα = G1135 γυνή "wife, woman" [N-ASF]
-- o18: ἑαυτὸν = G1438 ἑαυτοῦ "alone, her (own, -self), (he) himself, his (own)…" [F-3ASM]
-- o19: ἀγαπᾷ, = G25 ἀγαπάω "(be-)love(-ed)" [V-PAI-3S]
+- o3: και = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ] (variant reading, WHNU)
+- o4: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o5: ἄνδρες = G435 ἀνήρ "fellow, husband, man, sir" [N-NPM]
+- o6: ἀγαπᾶν = G25 ἀγαπάω "(be-)love(-ed)" [V-PAN]
+- o7: τὰς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APF]
+- o8: ἑαυτῶν = G1438 ἑαυτοῦ "alone, her (own, -self), (he) himself, his (own)…" [F-3GPM]
+- o9: γυναῖκας = G1135 γυνή "wife, woman" [N-APF]
+- o10: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
+- o11: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
+- o12: ἑαυτῶν = G1438 ἑαυτοῦ "alone, her (own, -self), (he) himself, his (own)…" [F-3GPM]
+- o13: σώματα. = G4983 σῶμα "bodily, body, slave" [N-APN]
+- o14: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o15: ἀγαπῶν = G25 ἀγαπάω "(be-)love(-ed)" [V-PAP-NSM]
+- o16: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o17: ἑαυτοῦ = G1438 ἑαυτοῦ "alone, her (own, -self), (he) himself, his (own)…" [F-3GSM]
+- o18: γυναῖκα = G1135 γυνή "wife, woman" [N-ASF]
+- o19: ἑαυτὸν = G1438 ἑαυτοῦ "alone, her (own, -self), (he) himself, his (own)…" [F-3ASM]
+- o20: ἀγαπᾷ, = G25 ἀγαπάω "(be-)love(-ed)" [V-PAI-3S]
 
 Persian entries and current tags:
 - p1: به
@@ -612,7 +613,7 @@ Persian entries and current tags:
 
 ### Ephesians 5:31
 
-Original: ἀντὶ τούτου καταλείψει ἄνθρωπος τὸν πατέρα καὶ τὴν μητέρα καὶ προσκολληθήσεται τῇ γυναικί, καὶ ἔσονται οἱ δύο εἰς σάρκα μίαν.
+Original: ἀντὶ τούτου καταλείψει ἄνθρωπος τὸν πατέρα καὶ τὴν μητέρα καὶ προσκολληθήσεται τῇ γυναικί, ⟨αυτου⟩ καὶ ἔσονται οἱ δύο εἰς σάρκα μίαν.
 Persian: « از این رو مرد، پدر و مادر خود را ترک گفته، به زن خویش خواهد_پیوست، و آن دو یک تن خواهند_شد.»
 
 Original words:
@@ -629,13 +630,14 @@ Original words:
 - o11: προσκολληθήσεται = G4347 προσκολλάω "cleave, join (self)" [V-FPI-3S]
 - o12: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
 - o13: γυναικί, = G1135 γυνή "wife, woman" [N-DSF]
-- o14: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o15: ἔσονται = G1510 εἰμί "am, have been, it is I, was" [V-FDI-3P]
-- o16: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
-- o17: δύο = G1417 δύο "both, twain, two" [A-NUI]
-- o18: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
-- o19: σάρκα = G4561 σάρξ "carnal(-ly, + -ly minded), flesh(-ly)" [N-ASF]
-- o20: μίαν. = G1520 εἷς "a(-n, -ny, certain), + abundantly, man…" [A-ASF]
+- o14: αυτου = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM] (variant reading, WHNU)
+- o15: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o16: ἔσονται = G1510 εἰμί "am, have been, it is I, was" [V-FDI-3P]
+- o17: οἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM]
+- o18: δύο = G1417 δύο "both, twain, two" [A-NUI]
+- o19: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o20: σάρκα = G4561 σάρξ "carnal(-ly, + -ly minded), flesh(-ly)" [N-ASF]
+- o21: μίαν. = G1520 εἷς "a(-n, -ny, certain), + abundantly, man…" [A-ASF]
 
 Persian entries and current tags:
 - p1: «

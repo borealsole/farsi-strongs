@@ -195,7 +195,7 @@ Persian entries and current tags:
 
 ### II Corinthians 10:4
 
-Original: τὰ γὰρ ὅπλα τῆς στρατιᾶς ἡμῶν οὐ σαρκικὰ ἀλλὰ δυνατὰ τῷ θεῷ πρὸς καθαίρεσιν ὀχυρωμάτων,
+Original: τὰ γὰρ ὅπλα τῆς στρατιᾶς ⟨στρατειας⟩ ἡμῶν οὐ σαρκικὰ ἀλλὰ δυνατὰ τῷ θεῷ πρὸς καθαίρεσιν ὀχυρωμάτων,
 Persian: چرا که اسلحۀ جنگ ما دنیوی نیست، بلکه به نیروی الهی قادر به انهدام دژهاست.
 
 Original words:
@@ -204,16 +204,17 @@ Original words:
 - o3: ὅπλα = G3696 ὅπλον "armour, instrument, weapon" [N-NPN]
 - o4: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
 - o5: στρατιᾶς = G4756 στρατιά "host" [N-GSF]
-- o6: ἡμῶν = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
-- o7: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
-- o8: σαρκικὰ = G4559 σαρκικός "carnal, fleshly" [A-NPN]
-- o9: ἀλλὰ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
-- o10: δυνατὰ = G1415 δυνατός "able, could, (that is) mighty (man), possible…" [A-NPN]
-- o11: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
-- o12: θεῷ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-DSM]
-- o13: πρὸς = G4314 πρός "about, according to , against, among, at…" [PREP]
-- o14: καθαίρεσιν = G2506 καθαίρεσις "destruction, pulling down" [N-ASF]
-- o15: ὀχυρωμάτων, = G3794 ὀχύρωμα "stronghold" [N-GPN]
+- o6: στρατειας = G4752 στρατεία "warfare" [N-GSF] (variant reading, WHNU)
+- o7: ἡμῶν = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+- o8: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o9: σαρκικὰ = G4559 σαρκικός "carnal, fleshly" [A-NPN]
+- o10: ἀλλὰ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o11: δυνατὰ = G1415 δυνατός "able, could, (that is) mighty (man), possible…" [A-NPN]
+- o12: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o13: θεῷ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-DSM]
+- o14: πρὸς = G4314 πρός "about, according to , against, among, at…" [PREP]
+- o15: καθαίρεσιν = G2506 καθαίρεσις "destruction, pulling down" [N-ASF]
+- o16: ὀχυρωμάτων, = G3794 ὀχύρωμα "stronghold" [N-GPN]
 
 Persian entries and current tags:
 - p1: چرا  → G1063

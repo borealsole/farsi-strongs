@@ -51,22 +51,23 @@ Correct Persian tags (reviewed by hand):
 
 ### II Corinthians 2:1
 
-Original: Ἔκρινα δὲ ἐμαυτῷ τοῦτο, τὸ μὴ πάλιν ἐν λύπῃ πρὸς ὑμᾶς ἐλθεῖν·
+Original: Ἔκρινα δὲ ⟨γαρ⟩ ἐμαυτῷ τοῦτο, τὸ μὴ πάλιν ἐν λύπῃ πρὸς ὑμᾶς ἐλθεῖν·
 Persian: پس، عزم جزم کردم که دیگر بار، دیداری اندوهبار با شما نداشته_باشم.
 
 Original words:
 - o1: Ἔκρινα = G2919 κρίνω "avenge, conclude, condemn, damn, decree…" [V-AAI-1S]
 - o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
-- o3: ἐμαυτῷ = G1683 ἐμαυτοῦ "me, mine own (self), myself" [F-1DSM]
-- o4: τοῦτο, = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-ASN]
-- o5: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
-- o6: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
-- o7: πάλιν = G3825 πάλιν "again" [ADV]
-- o8: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
-- o9: λύπῃ = G3077 λύπη "grief, grievous, + grudgingly, heaviness, sorrow" [N-DSF]
-- o10: πρὸς = G4314 πρός "about, according to , against, among, at…" [PREP]
-- o11: ὑμᾶς = G5210 ὑμεῖς "ye (yourselves), you" [P-2AP]
-- o12: ἐλθεῖν· = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-2AAN]
+- o3: γαρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ] (variant reading, WHNU)
+- o4: ἐμαυτῷ = G1683 ἐμαυτοῦ "me, mine own (self), myself" [F-1DSM]
+- o5: τοῦτο, = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-ASN]
+- o6: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o7: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o8: πάλιν = G3825 πάλιν "again" [ADV]
+- o9: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o10: λύπῃ = G3077 λύπη "grief, grievous, + grudgingly, heaviness, sorrow" [N-DSF]
+- o11: πρὸς = G4314 πρός "about, according to , against, among, at…" [PREP]
+- o12: ὑμᾶς = G5210 ὑμεῖς "ye (yourselves), you" [P-2AP]
+- o13: ἐλθεῖν· = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-2AAN]
 
 Persian entries and current tags:
 - p1: پس  → G1161

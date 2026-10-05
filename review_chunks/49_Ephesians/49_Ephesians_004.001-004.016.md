@@ -711,7 +711,7 @@ Persian entries and current tags:
 
 ### Ephesians 4:16
 
-Original: ἐξ οὗ πᾶν τὸ σῶμα συναρμολογούμενον καὶ συνβιβαζόμενον διὰ πάσης ἁφῆς τῆς ἐπιχορηγίας κατ’ ἐνέργειαν ἐν μέτρῳ ἑνὸς ἑκάστου μέρους τὴν αὔξησιν τοῦ σώματος ποιεῖται εἰς οἰκοδομὴν αὐτοῦ ἐν ἀγάπῃ.
+Original: ἐξ οὗ πᾶν τὸ σῶμα συναρμολογούμενον καὶ συνβιβαζόμενον διὰ πάσης ἁφῆς τῆς ἐπιχορηγίας κατ’ ἐνέργειαν ἐν μέτρῳ ἑνὸς ἑκάστου μέρους τὴν αὔξησιν τοῦ σώματος ποιεῖται εἰς οἰκοδομὴν αὐτοῦ ⟨εαυτου⟩ ἐν ἀγάπῃ.
 Persian: او منشاء رشد تمامی بدن است، بدنی که به وسیلۀ همۀ مفاصلِ نگاهدارندۀ خود، به هم پیوند و اتصال می‌یابد و در اثر عمل متناسبِ هر عضو رشد می‌کند و خود را در محبت بنا می‌نماید.
 
 Original words:
@@ -743,8 +743,9 @@ Original words:
 - o26: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
 - o27: οἰκοδομὴν = G3619 οἰκοδομή "building, edify(-ication, -ing)" [N-ASF]
 - o28: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
-- o29: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
-- o30: ἀγάπῃ. = G26 ἀγάπη "(feast of) charity(-ably), dear, love" [N-DSF]
+- o29: εαυτου = G1438 ἑαυτοῦ "alone, her (own, -self), (he) himself, his (own)…" [F-3GSM] (variant reading, WHNU)
+- o30: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o31: ἀγάπῃ. = G26 ἀγάπη "(feast of) charity(-ably), dear, love" [N-DSF]
 
 Persian entries and current tags:
 - p1: او  → G3739

@@ -772,5 +772,6 @@ Original words of verses next to the ones above. Where the Persian verse divisio
 - o14: ὑμῖν = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
 - o15: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
 - o16: μαρτύριον = G3142 μαρτύριον "to be testified, testimony, witness" [N-ASN]
-- o17: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
-- o18: θεοῦ. = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o17: μυστηριον = G3466 μυστήριον "mystery" [N-ASN] (variant reading, WHNU)
+- o18: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o19: θεοῦ. = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]

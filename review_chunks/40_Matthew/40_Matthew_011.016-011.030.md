@@ -392,7 +392,7 @@ Persian entries and current tags:
 
 ### Matthew 11:23
 
-Original: καὶ σύ, Καφαρναούμ, μὴ ἕως οὐρανοῦ ὑψωθήσῃ; ἕως ᾅδου καταβιβασθήσῃ, ὅτι εἰ ἐν Σοδόμοις ἐγενήθησαν αἱ δυνάμεις αἱ γενόμεναι ἐν σοί, ἔμεινεν ἂν μέχρι τῆς σήμερον.
+Original: καὶ σύ, Καφαρναούμ, μὴ ἕως οὐρανοῦ ὑψωθήσῃ; ἕως ᾅδου καταβιβασθήσῃ, ⟨καταβηση⟩ ὅτι εἰ ἐν Σοδόμοις ἐγενήθησαν αἱ δυνάμεις αἱ γενόμεναι ἐν σοί, ἔμεινεν ἂν μέχρι τῆς σήμερον.
 Persian: و تو ای کَفَرناحوم، آیا تا به فلک سر خواهی_افراشت؟ هرگز، بلکه تا به اعماق هاویه فرو~خواهی افتاد. زیرا اگر معجزاتی که در تو انجام شد در سُدوم رخ می‌داد، تا به امروز بر جا می‌ماند.
 
 Original words:
@@ -406,22 +406,23 @@ Original words:
 - o8: ἕως = G2193 ἕως "even (until, unto), (as) far (as), how long…" [ADV]
 - o9: ᾅδου = G86 ᾅδης "grave, hell" [N-GSM]
 - o10: καταβιβασθήσῃ, = G2601 καταβιβάζω "bring (thrust) down" [V-FPI-2S]
-- o11: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
-- o12: εἰ = G1487 εἰ "forasmuch as, if, that, (al-)though, whether" [COND]
-- o13: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
-- o14: Σοδόμοις = G4670 Σόδομα "Sodom" [N-DPN]
-- o15: ἐγενήθησαν = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-AOI-3P]
-- o16: αἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPF]
-- o17: δυνάμεις = G1411 δύναμις "ability, abundance, meaning, might(-ily, -y…" [N-NPF]
-- o18: αἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPF]
-- o19: γενόμεναι = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-2ADP-NPF]
-- o20: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
-- o21: σοί, = G4771 σύ "thou" [P-2DS]
-- o22: ἔμεινεν = G3306 μένω "abide, continue, dwell, endure, be present…" [V-AAI-3S]
-- o23: ἂν = G302 ἄν "(what-, where-, wither-, who-)soever" [PRT]
-- o24: μέχρι = G3360 μέχρι "till, (un-)to, until" [ADV]
-- o25: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
-- o26: σήμερον. = G4594 σήμερον "this (to-)day" [ADV]
+- o11: καταβηση = G2597 καταβαίνω "come (get, go, step) down, fall (down)" [V-FDI-2S] (variant reading, WHNU)
+- o12: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o13: εἰ = G1487 εἰ "forasmuch as, if, that, (al-)though, whether" [COND]
+- o14: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o15: Σοδόμοις = G4670 Σόδομα "Sodom" [N-DPN]
+- o16: ἐγενήθησαν = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-AOI-3P]
+- o17: αἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPF]
+- o18: δυνάμεις = G1411 δύναμις "ability, abundance, meaning, might(-ily, -y…" [N-NPF]
+- o19: αἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPF]
+- o20: γενόμεναι = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-2ADP-NPF]
+- o21: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o22: σοί, = G4771 σύ "thou" [P-2DS]
+- o23: ἔμεινεν = G3306 μένω "abide, continue, dwell, endure, be present…" [V-AAI-3S]
+- o24: ἂν = G302 ἄν "(what-, where-, wither-, who-)soever" [PRT]
+- o25: μέχρι = G3360 μέχρι "till, (un-)to, until" [ADV]
+- o26: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o27: σήμερον. = G4594 σήμερον "this (to-)day" [ADV]
 
 Persian entries and current tags:
 - p1: و  → G2532

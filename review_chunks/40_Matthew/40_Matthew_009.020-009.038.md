@@ -136,32 +136,33 @@ Persian entries and current tags:
 
 ### Matthew 9:22
 
-Original: ὁ δὲ στραφεὶς καὶ ἰδὼν αὐτὴν εἶπεν· θάρσει θύγατερ, ἡ πίστις σου σέσωκέν σε. καὶ ἐσώθη ἡ γυνὴ ἀπὸ τῆς ὥρας ἐκείνης.
+Original: ὁ δὲ ⟨ιησους⟩ στραφεὶς καὶ ἰδὼν αὐτὴν εἶπεν· θάρσει θύγατερ, ἡ πίστις σου σέσωκέν σε. καὶ ἐσώθη ἡ γυνὴ ἀπὸ τῆς ὥρας ἐκείνης.
 Persian: عیسی برگشته، او را دید و فرمود:« دخترم، دل قوی دار، ایمانت تو را شفا داده_است.» از آن ساعت، زن شفا یافت.
 
 Original words:
 - o1: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
 - o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
-- o3: στραφεὶς = G4762 στρέφω "convert, turn (again, back again, self…" [V-2APP-NSM]
-- o4: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o5: ἰδὼν = G3708 ὁράω "behold, perceive, see, take heed" [V-2AAP-NSM]
-- o6: αὐτὴν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASF]
-- o7: εἶπεν· = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-2AAI-3S]
-- o8: θάρσει = G2293 θαρσέω "be of good cheer (comfort)" [V-PAM-2S]
-- o9: θύγατερ, = G2364 θυγάτηρ "daughter" [N-VSF]
-- o10: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
-- o11: πίστις = G4102 πίστις "assurance, belief, believe, faith, fidelity" [N-NSF]
-- o12: σου = G4771 σύ "thou" [P-2GS]
-- o13: σέσωκέν = G4982 σώζω "heal, preserve, save (self), do well…" [V-RAI-3S]
-- o14: σε. = G4771 σύ "thou" [P-2AS]
-- o15: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o16: ἐσώθη = G4982 σώζω "heal, preserve, save (self), do well…" [V-API-3S]
-- o17: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
-- o18: γυνὴ = G1135 γυνή "wife, woman" [N-NSF]
-- o19: ἀπὸ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
-- o20: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
-- o21: ὥρας = G5610 ὥρα "day, hour, instant, season, short, (even-)tide…" [N-GSF]
-- o22: ἐκείνης. = G1565 ἐκεῖνος "he, it, the other (same), selfsame, that (same…" [D-GSF]
+- o3: ιησους = G2424 Ἰησοῦς "Jesus" [N-NSM] (variant reading, WHNU)
+- o4: στραφεὶς = G4762 στρέφω "convert, turn (again, back again, self…" [V-2APP-NSM]
+- o5: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o6: ἰδὼν = G3708 ὁράω "behold, perceive, see, take heed" [V-2AAP-NSM]
+- o7: αὐτὴν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASF]
+- o8: εἶπεν· = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-2AAI-3S]
+- o9: θάρσει = G2293 θαρσέω "be of good cheer (comfort)" [V-PAM-2S]
+- o10: θύγατερ, = G2364 θυγάτηρ "daughter" [N-VSF]
+- o11: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o12: πίστις = G4102 πίστις "assurance, belief, believe, faith, fidelity" [N-NSF]
+- o13: σου = G4771 σύ "thou" [P-2GS]
+- o14: σέσωκέν = G4982 σώζω "heal, preserve, save (self), do well…" [V-RAI-3S]
+- o15: σε. = G4771 σύ "thou" [P-2AS]
+- o16: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o17: ἐσώθη = G4982 σώζω "heal, preserve, save (self), do well…" [V-API-3S]
+- o18: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o19: γυνὴ = G1135 γυνή "wife, woman" [N-NSF]
+- o20: ἀπὸ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
+- o21: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o22: ὥρας = G5610 ὥρα "day, hour, instant, season, short, (even-)tide…" [N-GSF]
+- o23: ἐκείνης. = G1565 ἐκεῖνος "he, it, the other (same), selfsame, that (same…" [D-GSF]
 
 Persian entries and current tags:
 - p1: عیسی  → G1161
@@ -239,21 +240,22 @@ Persian entries and current tags:
 
 ### Matthew 9:24
 
-Original: ἀναχωρεῖτε· οὐ γὰρ ἀπέθανεν τὸ κοράσιον ἀλλὰ καθεύδει. καὶ κατεγέλων αὐτοῦ.
+Original: ⟨ελεγεν⟩ ἀναχωρεῖτε· οὐ γὰρ ἀπέθανεν τὸ κοράσιον ἀλλὰ καθεύδει. καὶ κατεγέλων αὐτοῦ.
 Persian: فرمود:« بیرون بروید. دختر نمرده بلکه در خواب است.» امّا آنان به او خندیدند.
 
 Original words:
-- o1: ἀναχωρεῖτε· = G402 ἀναχωρέω "depart, give place, go (turn) aside, withdraw self" [V-PAM-2P]
-- o2: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
-- o3: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
-- o4: ἀπέθανεν = G599 ἀποθνήσκω "be dead, death, die, lie a-dying, be slain ( with)" [V-2AAI-3S]
-- o5: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
-- o6: κοράσιον = G2877 κοράσιον "damsel, maid" [N-NSN]
-- o7: ἀλλὰ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
-- o8: καθεύδει. = G2518 καθεύδω "(be a-)sleep" [V-PAI-3S]
-- o9: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o10: κατεγέλων = G2606 καταγελάω "laugh to scorn" [V-IAI-3P]
-- o11: αὐτοῦ. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o1: ελεγεν = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-IAI-3S] (variant reading, WHNU)
+- o2: ἀναχωρεῖτε· = G402 ἀναχωρέω "depart, give place, go (turn) aside, withdraw self" [V-PAM-2P]
+- o3: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o4: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o5: ἀπέθανεν = G599 ἀποθνήσκω "be dead, death, die, lie a-dying, be slain ( with)" [V-2AAI-3S]
+- o6: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o7: κοράσιον = G2877 κοράσιον "damsel, maid" [N-NSN]
+- o8: ἀλλὰ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o9: καθεύδει. = G2518 καθεύδω "(be a-)sleep" [V-PAI-3S]
+- o10: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o11: κατεγέλων = G2606 καταγελάω "laugh to scorn" [V-IAI-3P]
+- o12: αὐτοῦ. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
 
 Persian entries and current tags:
 - p1: فرمود

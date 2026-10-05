@@ -569,7 +569,7 @@ Persian entries and current tags:
 
 ### Matthew 13:30
 
-Original: ἄφετε συναυξάνεσθαι ἀμφότερα μέχρι τοῦ θερισμοῦ, καὶ ἐν καιρῷ τοῦ θερισμοῦ ἐρῶ τοῖς θερισταῖς· συλλέξατε πρῶτον τὰ ζιζάνια καὶ δήσατε αὐτὰ εἰς δέσμας πρὸς τὸ κατακαῦσαι αὐτά, τὸν δὲ σῖτον συναγάγετε εἰς τὴν ἀποθήκην μου.
+Original: ἄφετε συναυξάνεσθαι ἀμφότερα μέχρι ⟨εως⟩ τοῦ θερισμοῦ, καὶ ἐν καιρῷ τοῦ θερισμοῦ ἐρῶ τοῖς θερισταῖς· συλλέξατε πρῶτον τὰ ζιζάνια καὶ δήσατε αὐτὰ εἰς δέσμας πρὸς τὸ κατακαῦσαι αὐτά, τὸν δὲ σῖτον συναγάγετε εἰς τὴν ἀποθήκην μου.
 Persian: بگذارید هر دو تا فصل درو با هم نمو کنند. در آن زمان به دروگران خواهم_گفت که نخست علفهای هرز را جمع کرده دسته کنند تا سوزانده شود، سپس گندمها را گرد آورده، به انبار من بیاورند.“‌»
 
 Original words:
@@ -577,37 +577,38 @@ Original words:
 - o2: συναυξάνεσθαι = G4885 συναυξάνω "grow together" [V-PPN]
 - o3: ἀμφότερα = G297 ἀμφότερος "both" [A-APN]
 - o4: μέχρι = G3360 μέχρι "till, (un-)to, until" [ADV]
-- o5: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
-- o6: θερισμοῦ, = G2326 θερισμός "harvest" [N-GSM]
-- o7: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o8: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
-- o9: καιρῷ = G2540 καιρός "always, opportunity, (convenient, due) season…" [N-DSM]
-- o10: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
-- o11: θερισμοῦ = G2326 θερισμός "harvest" [N-GSM]
-- o12: ἐρῶ = G2046 ἐρέω "call, say, speak (of), tell" [V-FAI-1S]
-- o13: τοῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPM]
-- o14: θερισταῖς· = G2327 θεριστής "reaper" [N-DPM]
-- o15: συλλέξατε = G4816 συλλέγω "gather (together, up)" [V-AAM-2P]
-- o16: πρῶτον = G4412 πρῶτον "before, at the beginning, chiefly (at…" [ADV-S]
-- o17: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
-- o18: ζιζάνια = G2215 ζιζάνιον "tares" [N-APN]
-- o19: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o20: δήσατε = G1210 δέω "bind, be in bonds, knit, tie, wind" [V-AAM-2P]
-- o21: αὐτὰ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-APN]
-- o22: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
-- o23: δέσμας = G1197 δέσμη "bundle" [N-APF]
-- o24: πρὸς = G4314 πρός "about, according to , against, among, at…" [PREP]
-- o25: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
-- o26: κατακαῦσαι = G2618 κατακαίω "burn (up, utterly)" [V-AAN]
-- o27: αὐτά, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-APN]
-- o28: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
-- o29: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
-- o30: σῖτον = G4621 σῖτος "corn, wheat" [N-ASM]
-- o31: συναγάγετε = G4863 συνάγω "+ accompany, assemble (selves, together), bestow…" [V-AAM-2P]
-- o32: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
-- o33: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
-- o34: ἀποθήκην = G596 ἀποθήκη "barn, garner" [N-ASF]
-- o35: μου. = G1473 ἐγώ "I, me" [P-1GS]
+- o5: εως = G2193 ἕως "even (until, unto), (as) far (as), how long…" [ADV] (variant reading, WHNU)
+- o6: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o7: θερισμοῦ, = G2326 θερισμός "harvest" [N-GSM]
+- o8: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o9: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o10: καιρῷ = G2540 καιρός "always, opportunity, (convenient, due) season…" [N-DSM]
+- o11: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o12: θερισμοῦ = G2326 θερισμός "harvest" [N-GSM]
+- o13: ἐρῶ = G2046 ἐρέω "call, say, speak (of), tell" [V-FAI-1S]
+- o14: τοῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPM]
+- o15: θερισταῖς· = G2327 θεριστής "reaper" [N-DPM]
+- o16: συλλέξατε = G4816 συλλέγω "gather (together, up)" [V-AAM-2P]
+- o17: πρῶτον = G4412 πρῶτον "before, at the beginning, chiefly (at…" [ADV-S]
+- o18: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
+- o19: ζιζάνια = G2215 ζιζάνιον "tares" [N-APN]
+- o20: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o21: δήσατε = G1210 δέω "bind, be in bonds, knit, tie, wind" [V-AAM-2P]
+- o22: αὐτὰ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-APN]
+- o23: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o24: δέσμας = G1197 δέσμη "bundle" [N-APF]
+- o25: πρὸς = G4314 πρός "about, according to , against, among, at…" [PREP]
+- o26: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o27: κατακαῦσαι = G2618 κατακαίω "burn (up, utterly)" [V-AAN]
+- o28: αὐτά, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-APN]
+- o29: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o30: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o31: σῖτον = G4621 σῖτος "corn, wheat" [N-ASM]
+- o32: συναγάγετε = G4863 συνάγω "+ accompany, assemble (selves, together), bestow…" [V-AAM-2P]
+- o33: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o34: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o35: ἀποθήκην = G596 ἀποθήκη "barn, garner" [N-ASF]
+- o36: μου. = G1473 ἐγώ "I, me" [P-1GS]
 
 Persian entries and current tags:
 - p1: بگذارید  → G863
@@ -943,7 +944,7 @@ Persian entries and current tags:
 
 ### Matthew 13:36
 
-Original: Τότε ἀφεὶς τοὺς ὄχλους ἦλθεν εἰς τὴν οἰκίαν. καὶ προσῆλθον αὐτῷ οἱ μαθηταὶ αὐτοῦ λέγοντες· φράσον ἡμῖν τὴν παραβολὴν τῶν ζιζανίων τοῦ ἀγροῦ.
+Original: Τότε ἀφεὶς τοὺς ὄχλους ἦλθεν εἰς τὴν οἰκίαν. καὶ προσῆλθον αὐτῷ οἱ μαθηταὶ αὐτοῦ λέγοντες· φράσον ⟨διασαφησον⟩ ἡμῖν τὴν παραβολὴν τῶν ζιζανίων τοῦ ἀγροῦ.
 Persian: سپس عیسی جمعیت را ترک گفت و به داخل خانه رفت. آنگاه شاگردانش نزد او آمدند و گفتند:« مَثَل علفهای هرز مزرعه را برای ما شرح بده.»
 
 Original words:
@@ -963,13 +964,14 @@ Original words:
 - o14: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
 - o15: λέγοντες· = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAP-NPM]
 - o16: φράσον = G5419 φράζω "declare" [V-AAM-2S]
-- o17: ἡμῖν = G2249 ἡμεῖς "us, we (ourselves)" [P-1DP]
-- o18: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
-- o19: παραβολὴν = G3850 παραβολή "comparison, figure, parable, proverb" [N-ASF]
-- o20: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPN]
-- o21: ζιζανίων = G2215 ζιζάνιον "tares" [N-GPN]
-- o22: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
-- o23: ἀγροῦ. = G68 ἀγρός "country, farm, piece of ground, land" [N-GSM]
+- o17: διασαφησον = G1285 διασαφέω "tell unto" [V-AAM-2S] (variant reading, WHNU)
+- o18: ἡμῖν = G2249 ἡμεῖς "us, we (ourselves)" [P-1DP]
+- o19: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o20: παραβολὴν = G3850 παραβολή "comparison, figure, parable, proverb" [N-ASF]
+- o21: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPN]
+- o22: ζιζανίων = G2215 ζιζάνιον "tares" [N-GPN]
+- o23: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o24: ἀγροῦ. = G68 ἀγρός "country, farm, piece of ground, land" [N-GSM]
 
 Persian entries and current tags:
 - p1: سپس  → G5119

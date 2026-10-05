@@ -974,7 +974,7 @@ Persian entries and current tags:
 
 ### Romans 4:19
 
-Original: καὶ μὴ ἀσθενήσας τῇ πίστει κατενόησεν τὸ ἑαυτοῦ σῶμα νενεκρωμένον, ἑκατονταετής που ὑπάρχων, καὶ τὴν νέκρωσιν τῆς μήτρας Σάρρας·
+Original: καὶ μὴ ἀσθενήσας τῇ πίστει κατενόησεν τὸ ἑαυτοῦ σῶμα ⟨ηδη⟩ νενεκρωμένον, ἑκατονταετής που ὑπάρχων, καὶ τὴν νέκρωσιν τῆς μήτρας Σάρρας·
 Persian: او در ایمان خود سست نشد، آنگاه که بر بدن مردۀ خویش نظر کرد، زیرا حدود صد سال داشت و رَحِم سارا نیز مرده_بود.
 
 Original words:
@@ -987,16 +987,17 @@ Original words:
 - o7: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
 - o8: ἑαυτοῦ = G1438 ἑαυτοῦ "alone, her (own, -self), (he) himself, his (own)…" [F-3GSM]
 - o9: σῶμα = G4983 σῶμα "bodily, body, slave" [N-ASN]
-- o10: νενεκρωμένον, = G3499 νεκρόω "be dead, mortify" [V-RPP-ASN]
-- o11: ἑκατονταετής = G1541 ἑκατονταέτης "hundred years old" [A-NSM]
-- o12: που = G4225 πού "about, a certain place" [ADV]
-- o13: ὑπάρχων, = G5225 ὑπάρχω "after, behave, live" [V-PAP-NSM]
-- o14: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o15: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
-- o16: νέκρωσιν = G3500 νέκρωσις "deadness, dying" [N-ASF]
-- o17: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
-- o18: μήτρας = G3388 μήτρα "womb" [N-GSF]
-- o19: Σάρρας· = G4564 Σάῤῥα "Sara, Sarah" [N-GSF]
+- o10: ηδη = G2235 ἤδη "already, (even) now (already), by this time" [ADV] (variant reading, WHNU)
+- o11: νενεκρωμένον, = G3499 νεκρόω "be dead, mortify" [V-RPP-ASN]
+- o12: ἑκατονταετής = G1541 ἑκατονταέτης "hundred years old" [A-NSM]
+- o13: που = G4225 πού "about, a certain place" [ADV]
+- o14: ὑπάρχων, = G5225 ὑπάρχω "after, behave, live" [V-PAP-NSM]
+- o15: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o16: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o17: νέκρωσιν = G3500 νέκρωσις "deadness, dying" [N-ASF]
+- o18: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o19: μήτρας = G3388 μήτρα "womb" [N-GSF]
+- o20: Σάρρας· = G4564 Σάῤῥα "Sara, Sarah" [N-GSF]
 
 Persian entries and current tags:
 - p1: او

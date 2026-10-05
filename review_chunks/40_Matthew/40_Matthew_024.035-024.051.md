@@ -137,24 +137,25 @@ Persian entries and current tags:
 
 ### Matthew 24:37
 
-Original: ὥσπερ δὲ αἱ ἡμέραι τοῦ Νῶε, οὕτως ἔσται ἡ παρουσία τοῦ υἱοῦ τοῦ ἀνθρώπου.
+Original: ὥσπερ δὲ ⟨γαρ⟩ αἱ ἡμέραι τοῦ Νῶε, οὕτως ἔσται ἡ παρουσία τοῦ υἱοῦ τοῦ ἀνθρώπου.
 Persian: زمان ظهور پسر انسان مانند روزگار نوح خواهد_بود.
 
 Original words:
 - o1: ὥσπερ = G5618 ὥσπερ "(even, like) as" [ADV]
 - o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
-- o3: αἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPF]
-- o4: ἡμέραι = G2250 ἡμέρα "age, + alway, (mid-)day (by day, (-ly))…" [N-NPF]
-- o5: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
-- o6: Νῶε, = G3575 Νῶε "Noe" [N-PRI]
-- o7: οὕτως = G3779 οὕτω "after that, after (in) this manner, as, even (so)…" [ADV]
-- o8: ἔσται = G1510 εἰμί "am, have been, it is I, was" [V-FDI-3S]
-- o9: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
-- o10: παρουσία = G3952 παρουσία "coming, presence" [N-NSF]
-- o11: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
-- o12: υἱοῦ = G5207 υἱός "child, foal, son" [N-GSM]
-- o13: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
-- o14: ἀνθρώπου. = G444 ἄνθρωπος "certain, man" [N-GSM]
+- o3: γαρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ] (variant reading, WHNU)
+- o4: αἱ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPF]
+- o5: ἡμέραι = G2250 ἡμέρα "age, + alway, (mid-)day (by day, (-ly))…" [N-NPF]
+- o6: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o7: Νῶε, = G3575 Νῶε "Noe" [N-PRI]
+- o8: οὕτως = G3779 οὕτω "after that, after (in) this manner, as, even (so)…" [ADV]
+- o9: ἔσται = G1510 εἰμί "am, have been, it is I, was" [V-FDI-3S]
+- o10: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o11: παρουσία = G3952 παρουσία "coming, presence" [N-NSF]
+- o12: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o13: υἱοῦ = G5207 υἱός "child, foal, son" [N-GSM]
+- o14: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o15: ἀνθρώπου. = G444 ἄνθρωπος "certain, man" [N-GSM]
 
 Persian entries and current tags:
 - p1: زمان  → G2250
@@ -169,7 +170,7 @@ Persian entries and current tags:
 
 ### Matthew 24:38
 
-Original: ὡς γὰρ ἦσαν ἐν ταῖς ἡμέραις ταῖς πρὸ τοῦ κατακλυσμοῦ τρώγοντες καὶ πίνοντες, γαμοῦντες καὶ γαμίζοντες, ἄχρι ἧς ἡμέρας εἰσῆλθεν Νῶε εἰς τὴν κιβωτόν,
+Original: ὡς γὰρ ἦσαν ἐν ταῖς ἡμέραις ⟨εκειναις⟩ ταῖς πρὸ τοῦ κατακλυσμοῦ τρώγοντες καὶ πίνοντες, γαμοῦντες καὶ γαμίζοντες, ἄχρι ἧς ἡμέρας εἰσῆλθεν Νῶε εἰς τὴν κιβωτόν,
 Persian: در روزهای پیش از توفان، قبل از اینکه نوح به کشتی درآید، مردم می‌خوردند و می‌نوشیدند و زن می‌گرفتند و شوهر می‌کردند
 
 Original words:
@@ -179,24 +180,25 @@ Original words:
 - o4: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
 - o5: ταῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPF]
 - o6: ἡμέραις = G2250 ἡμέρα "age, + alway, (mid-)day (by day, (-ly))…" [N-DPF]
-- o7: ταῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPF]
-- o8: πρὸ = G4253 πρό "above, ago, before, or ever" [PREP]
-- o9: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
-- o10: κατακλυσμοῦ = G2627 κατακλυσμός "flood" [N-GSM]
-- o11: τρώγοντες = G5176 τρώγω "eat" [V-PAP-NPM]
-- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o13: πίνοντες, = G4095 πίνω "drink" [V-PAP-NPM]
-- o14: γαμοῦντες = G1060 γαμέω "marry (a wife)" [V-PAP-NPM]
-- o15: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o16: γαμίζοντες, = G1061 γαμίσκω "give in marriage" [V-PAP-NPM]
-- o17: ἄχρι = G891 ἄχρι "as far as, for, in(-to), till, (even, un-)to…" [ADV]
-- o18: ἧς = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-GSF]
-- o19: ἡμέρας = G2250 ἡμέρα "age, + alway, (mid-)day (by day, (-ly))…" [N-GSF]
-- o20: εἰσῆλθεν = G1525 εἰσέρχομαι "arise, come (in, into), enter in(-to)…" [V-2AAI-3S]
-- o21: Νῶε = G3575 Νῶε "Noe" [N-PRI]
-- o22: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
-- o23: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
-- o24: κιβωτόν, = G2787 κιβωτός "ark" [N-ASF]
+- o7: εκειναις = G1565 ἐκεῖνος "he, it, the other (same), selfsame, that (same…" [D-DPF] (variant reading, WHNU)
+- o8: ταῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPF]
+- o9: πρὸ = G4253 πρό "above, ago, before, or ever" [PREP]
+- o10: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o11: κατακλυσμοῦ = G2627 κατακλυσμός "flood" [N-GSM]
+- o12: τρώγοντες = G5176 τρώγω "eat" [V-PAP-NPM]
+- o13: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o14: πίνοντες, = G4095 πίνω "drink" [V-PAP-NPM]
+- o15: γαμοῦντες = G1060 γαμέω "marry (a wife)" [V-PAP-NPM]
+- o16: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o17: γαμίζοντες, = G1061 γαμίσκω "give in marriage" [V-PAP-NPM]
+- o18: ἄχρι = G891 ἄχρι "as far as, for, in(-to), till, (even, un-)to…" [ADV]
+- o19: ἧς = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-GSF]
+- o20: ἡμέρας = G2250 ἡμέρα "age, + alway, (mid-)day (by day, (-ly))…" [N-GSF]
+- o21: εἰσῆλθεν = G1525 εἰσέρχομαι "arise, come (in, into), enter in(-to)…" [V-2AAI-3S]
+- o22: Νῶε = G3575 Νῶε "Noe" [N-PRI]
+- o23: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o24: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o25: κιβωτόν, = G2787 κιβωτός "ark" [N-ASF]
 
 Persian entries and current tags:
 - p1: در  → G1722
@@ -603,7 +605,7 @@ Persian entries and current tags:
 
 ### Matthew 24:48
 
-Original: ἐὰν δὲ εἴπῃ ὁ κακὸς δοῦλος ἐν τῇ καρδίᾳ αὐτοῦ· χρονίζει μου ὁ κύριος,
+Original: ἐὰν δὲ εἴπῃ ὁ κακὸς δοῦλος ⟨εκεινος⟩ ἐν τῇ καρδίᾳ αὐτοῦ· χρονίζει μου ὁ κύριος,
 Persian: امّا اگر آن غلام، شریر باشد و با خود بیندیشد که ”اربابم تأخیر کرده_است،“
 
 Original words:
@@ -613,14 +615,15 @@ Original words:
 - o4: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
 - o5: κακὸς = G2556 κακός "bad, evil, harm, ill, noisome, wicked" [A-NSM]
 - o6: δοῦλος = G1401 δοῦλος "bond(-man), servant" [N-NSM]
-- o7: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
-- o8: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
-- o9: καρδίᾳ = G2588 καρδία "(+ broken-)heart(-ed)" [N-DSF]
-- o10: αὐτοῦ· = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
-- o11: χρονίζει = G5549 χρονίζω "delay, tarry" [V-PAI-3S]
-- o12: μου = G1473 ἐγώ "I, me" [P-1GS]
-- o13: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
-- o14: κύριος, = G2962 κύριος "God, Lord, master, Sir" [N-NSM]
+- o7: εκεινος = G1565 ἐκεῖνος "he, it, the other (same), selfsame, that (same…" [D-NSM] (variant reading, WHNU)
+- o8: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o9: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o10: καρδίᾳ = G2588 καρδία "(+ broken-)heart(-ed)" [N-DSF]
+- o11: αὐτοῦ· = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o12: χρονίζει = G5549 χρονίζω "delay, tarry" [V-PAI-3S]
+- o13: μου = G1473 ἐγώ "I, me" [P-1GS]
+- o14: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o15: κύριος, = G2962 κύριος "God, Lord, master, Sir" [N-NSM]
 
 Persian entries and current tags:
 - p1: امّا  → G1161
@@ -779,17 +782,18 @@ Original words of verses next to the ones above. Where the Persian verse divisio
 - o1: ἀμὴν = G281 ἀμήν "amen, verily" [HEB]
 - o2: λέγω = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-1S]
 - o3: ὑμῖν, = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
-- o4: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
-- o5: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
-- o6: παρέλθῃ = G3928 παρέρχομαι "come (forth), go, pass (away, by, over), past…" [V-2AAS-3S]
-- o7: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
-- o8: γενεὰ = G1074 γενεά "age, generation, nation, time" [N-NSF]
-- o9: αὕτη = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-NSF]
-- o10: ἕως = G2193 ἕως "even (until, unto), (as) far (as), how long…" [ADV]
-- o11: ἂν = G302 ἄν "(what-, where-, wither-, who-)soever" [PRT]
-- o12: πάντα = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-NPN]
-- o13: ταῦτα = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-NPN]
-- o14: γένηται. = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-2ADS-3S]
+- o4: οτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ] (variant reading, WHNU)
+- o5: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o6: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o7: παρέλθῃ = G3928 παρέρχομαι "come (forth), go, pass (away, by, over), past…" [V-2AAS-3S]
+- o8: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o9: γενεὰ = G1074 γενεά "age, generation, nation, time" [N-NSF]
+- o10: αὕτη = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-NSF]
+- o11: ἕως = G2193 ἕως "even (until, unto), (as) far (as), how long…" [ADV]
+- o12: ἂν = G302 ἄν "(what-, where-, wither-, who-)soever" [PRT]
+- o13: πάντα = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-NPN]
+- o14: ταῦτα = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-NPN]
+- o15: γένηται. = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-2ADS-3S]
 
 ### Matthew 25:1 (context)
 
@@ -806,8 +810,9 @@ Original words of verses next to the ones above. Where the Persian verse divisio
 - o11: τὰς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APF]
 - o12: λαμπάδας = G2985 λαμπάς "lamp, light, torch" [N-APF]
 - o13: αὐτῶν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPF]
-- o14: ἐξῆλθον = G1831 ἐξέρχομαι "come (forth, out), depart (out of), escape…" [V-2AAI-3P]
-- o15: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
-- o16: ὑπάντησιν = G5222 ὑπάντησις "meeting" [N-ASF]
-- o17: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
-- o18: νυμφίου. = G3566 νυμφίος "bridegroom" [N-GSM]
+- o14: εαυτων = G1438 ἑαυτοῦ "alone, her (own, -self), (he) himself, his (own)…" [F-3GPF] (variant reading, WHNU)
+- o15: ἐξῆλθον = G1831 ἐξέρχομαι "come (forth, out), depart (out of), escape…" [V-2AAI-3P]
+- o16: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o17: ὑπάντησιν = G5222 ὑπάντησις "meeting" [N-ASF]
+- o18: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o19: νυμφίου. = G3566 νυμφίος "bridegroom" [N-GSM]

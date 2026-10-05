@@ -370,7 +370,7 @@ Persian entries and current tags:
 
 ### Matthew 16:8
 
-Original: γνοὺς δὲ ὁ Ἰησοῦς εἶπεν· τί διαλογίζεσθε ἐν ἑαυτοῖς, ὀλιγόπιστοι, ὅτι ἄρτους οὐκ ἐλάβετε;
+Original: γνοὺς δὲ ὁ Ἰησοῦς εἶπεν· τί διαλογίζεσθε ἐν ἑαυτοῖς, ὀλιγόπιστοι, ὅτι ἄρτους οὐκ ἐλάβετε; ⟨εχετε⟩
 Persian: عیسی این را دریافت و به ایشان گفت:« ای سست‌ایمانان، چرا دربارۀ اینکه نان ندارید با هم بحث می‌کنید؟
 
 Original words:
@@ -388,6 +388,7 @@ Original words:
 - o12: ἄρτους = G740 ἄρτος "(shew-)bread, loaf" [N-APM]
 - o13: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
 - o14: ἐλάβετε; = G2983 λαμβάνω "accept, + be amazed, assay, attain, bring…" [V-2AAI-2P]
+- o15: εχετε = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAI-2P] (variant reading, WHNU)
 
 Persian entries and current tags:
 - p1: عیسی  → G1161 G2424

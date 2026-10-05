@@ -762,33 +762,34 @@ Persian entries and current tags:
 
 ### I Corinthians 14:16
 
-Original: ἐπεὶ ἐὰν εὐλογῇς πνεύματι, ὁ ἀναπληρῶν τὸν τόπον τοῦ ἰδιώτου πῶς ἐρεῖ τὸ ἀμήν ἐπὶ τῇ σῇ εὐχαριστίᾳ, ἐπειδὴ τί λέγεις οὐκ οἶδεν;
+Original: ἐπεὶ ἐὰν εὐλογῇς ⟨εν⟩ πνεύματι, ὁ ἀναπληρῶν τὸν τόπον τοῦ ἰδιώτου πῶς ἐρεῖ τὸ ἀμήν ἐπὶ τῇ σῇ εὐχαριστίᾳ, ἐπειδὴ τί λέγεις οὐκ οἶδεν;
 Persian: در غیر این صورت، اگر تو در روح به شکرگزاری مشغول باشی، چگونه کسی که زبانت را نمی‌فهمد به شکرگزاری تو آمین بگوید؟ چرا که نمی‌داند چه می‌گویی!
 
 Original words:
 - o1: ἐπεὶ = G1893 ἐπεί "because, else, for that (then, -asmuch as)…" [CONJ]
 - o2: ἐὰν = G1437 ἐάν "before, but, except, (and) if, (if) so, (what-…" [COND]
 - o3: εὐλογῇς = G2127 εὐλογέω "bless, praise" [V-PAS-2S]
-- o4: πνεύματι, = G4151 πνεῦμα "ghost, life, spirit(-ual, -ually), mind" [N-DSN]
-- o5: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
-- o6: ἀναπληρῶν = G378 ἀναπληρόω "fill up, fulfill, occupy, supply" [V-PAP-NSM]
-- o7: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
-- o8: τόπον = G5117 τόπος "coast, licence, place, plain, quarter, + rock…" [N-ASM]
-- o9: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
-- o10: ἰδιώτου = G2399 ἰδιώτης "ignorant, rude, unlearned" [N-GSM]
-- o11: πῶς = G4459 πῶς "how, after (by) what manner (means), that" [ADV-I]
-- o12: ἐρεῖ = G2046 ἐρέω "call, say, speak (of), tell" [V-FAI-3S]
-- o13: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
-- o14: ἀμήν = G281 ἀμήν "amen, verily" [HEB]
-- o15: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
-- o16: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
-- o17: σῇ = G4674 σός "thine (own), thy (friend)" [S-2SDSF]
-- o18: εὐχαριστίᾳ, = G2169 εὐχαριστία "thankfulness, (giving of) thanks(-giving)" [N-DSF]
-- o19: ἐπειδὴ = G1894 ἐπειδή "after that, because, for (that, -asmuch as)…" [CONJ]
-- o20: τί = G5101 τίς "every man, how (much), + no(-ne, thing)…" [I-ASN]
-- o21: λέγεις = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-2S]
-- o22: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
-- o23: οἶδεν; = G1492 εἴδω "be aware, behold, can (+ not tell), consider…" [V-RAI-3S]
+- o4: εν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP] (variant reading, WHNU)
+- o5: πνεύματι, = G4151 πνεῦμα "ghost, life, spirit(-ual, -ually), mind" [N-DSN]
+- o6: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o7: ἀναπληρῶν = G378 ἀναπληρόω "fill up, fulfill, occupy, supply" [V-PAP-NSM]
+- o8: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o9: τόπον = G5117 τόπος "coast, licence, place, plain, quarter, + rock…" [N-ASM]
+- o10: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o11: ἰδιώτου = G2399 ἰδιώτης "ignorant, rude, unlearned" [N-GSM]
+- o12: πῶς = G4459 πῶς "how, after (by) what manner (means), that" [ADV-I]
+- o13: ἐρεῖ = G2046 ἐρέω "call, say, speak (of), tell" [V-FAI-3S]
+- o14: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o15: ἀμήν = G281 ἀμήν "amen, verily" [HEB]
+- o16: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o17: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o18: σῇ = G4674 σός "thine (own), thy (friend)" [S-2SDSF]
+- o19: εὐχαριστίᾳ, = G2169 εὐχαριστία "thankfulness, (giving of) thanks(-giving)" [N-DSF]
+- o20: ἐπειδὴ = G1894 ἐπειδή "after that, because, for (that, -asmuch as)…" [CONJ]
+- o21: τί = G5101 τίς "every man, how (much), + no(-ne, thing)…" [I-ASN]
+- o22: λέγεις = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-2S]
+- o23: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o24: οἶδεν; = G1492 εἴδω "be aware, behold, can (+ not tell), consider…" [V-RAI-3S]
 
 Persian entries and current tags:
 - p1: در  → G1893

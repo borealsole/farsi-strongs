@@ -705,7 +705,7 @@ Persian entries and current tags:
 
 ### Matthew 24:16
 
-Original: τότε οἱ ἐν τῇ Ἰουδαίᾳ φευγέτωσαν ἐπὶ τὰ ὄρη,
+Original: τότε οἱ ἐν τῇ Ἰουδαίᾳ φευγέτωσαν ἐπὶ ⟨εις⟩ τὰ ὄρη,
 Persian: آنگاه هر که در یهودیه باشد، به کوهها بگریزد؛
 
 Original words:
@@ -716,8 +716,9 @@ Original words:
 - o5: Ἰουδαίᾳ = G2449 Ἰουδαία "Judæa" [N-DSF]
 - o6: φευγέτωσαν = G5343 φεύγω "escape, flee (away)" [V-PAM-3P]
 - o7: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
-- o8: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
-- o9: ὄρη, = G3735 ὄρος "hill, mount(-ain)" [N-APN]
+- o8: εις = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP] (variant reading, WHNU)
+- o9: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
+- o10: ὄρη, = G3735 ὄρος "hill, mount(-ain)" [N-APN]
 
 Persian entries and current tags:
 - p1: آنگاه  → G5119

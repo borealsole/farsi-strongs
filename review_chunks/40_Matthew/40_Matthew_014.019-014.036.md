@@ -305,7 +305,7 @@ Persian entries and current tags:
 
 ### Matthew 14:24
 
-Original: τὸ δὲ πλοῖον ἤδη μέσον τῆς θαλάσσης ἦν βασανιζόμενον ὑπὸ τῶν κυμάτων· ἦν γὰρ ἐναντίος ὁ ἄνεμος.
+Original: τὸ δὲ πλοῖον ἤδη μέσον ⟨σταδιους⟩ ⟨πολλους⟩ ⟨απο⟩ τῆς θαλάσσης ἦν ⟨γης⟩ ⟨απειχεν⟩ βασανιζόμενον ὑπὸ τῶν κυμάτων· ἦν γὰρ ἐναντίος ὁ ἄνεμος.
 Persian: در این هنگام، قایق از ساحل بسیار دور شده و دستخوش تلاطم امواج بود، زیرا بادِ مخالف بر آن می‌وزید.
 
 Original words:
@@ -314,18 +314,23 @@ Original words:
 - o3: πλοῖον = G4143 πλοῖον "ship(-ing)" [N-NSN]
 - o4: ἤδη = G2235 ἤδη "already, (even) now (already), by this time" [ADV]
 - o5: μέσον = G3319 μέσος "among, before them, between, + forth, mid(-day…" [A-ASN]
-- o6: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
-- o7: θαλάσσης = G2281 θάλασσα "sea" [N-GSF]
-- o8: ἦν = G1510 εἰμί "am, have been, it is I, was" [V-IAI-3S]
-- o9: βασανιζόμενον = G928 βασανίζω "pain, toil, torment, toss, vex" [V-PPP-NSN]
-- o10: ὑπὸ = G5259 ὑπό "among, by, from, in, of, under, with" [PREP]
-- o11: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPN]
-- o12: κυμάτων· = G2949 κῦμα "wave" [N-GPN]
-- o13: ἦν = G1510 εἰμί "am, have been, it is I, was" [V-IAI-3S]
-- o14: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
-- o15: ἐναντίος = G1727 ἐναντίος "(over) against, contrary" [A-NSM]
-- o16: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
-- o17: ἄνεμος. = G417 ἄνεμος "wind" [N-NSM]
+- o6: σταδιους = G4712 στάδιον "furlong, race" [N-APM] (variant reading, WHNU)
+- o7: πολλους = G4183 πολύς "abundant, + altogether, common, + far (passed…" [A-APM] (variant reading, WHNU)
+- o8: απο = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP] (variant reading, WHNU)
+- o9: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o10: θαλάσσης = G2281 θάλασσα "sea" [N-GSF]
+- o11: ἦν = G1510 εἰμί "am, have been, it is I, was" [V-IAI-3S]
+- o12: γης = G1093 γῆ "country, earth(-ly), ground, land, world" [N-GSF] (variant reading, WHNU)
+- o13: απειχεν = G568 ἀπέχω "be, have, receive" [V-IAI-3S] (variant reading, WHNU)
+- o14: βασανιζόμενον = G928 βασανίζω "pain, toil, torment, toss, vex" [V-PPP-NSN]
+- o15: ὑπὸ = G5259 ὑπό "among, by, from, in, of, under, with" [PREP]
+- o16: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPN]
+- o17: κυμάτων· = G2949 κῦμα "wave" [N-GPN]
+- o18: ἦν = G1510 εἰμί "am, have been, it is I, was" [V-IAI-3S]
+- o19: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o20: ἐναντίος = G1727 ἐναντίος "(over) against, contrary" [A-NSM]
+- o21: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o22: ἄνεμος. = G417 ἄνεμος "wind" [N-NSM]
 
 Persian entries and current tags:
 - p1: در
@@ -391,27 +396,28 @@ Persian entries and current tags:
 
 ### Matthew 14:26
 
-Original: ἰδόντες δὲ αὐτὸν ἐπὶ τῆς θαλάσσης περιπατοῦντα ἐταράχθησαν λέγοντες ὅτι φάντασμά ἐστιν, καὶ ἀπὸ τοῦ φόβου ἔκραξαν.
+Original: ⟨μαθηται⟩ ἰδόντες δὲ αὐτὸν ἐπὶ τῆς θαλάσσης περιπατοῦντα ἐταράχθησαν λέγοντες ὅτι φάντασμά ἐστιν, καὶ ἀπὸ τοῦ φόβου ἔκραξαν.
 Persian: چون شاگردانْ او را در حال راه رفتن روی آب دیدند، وحشت کرده، گفتند:« شبح است»، و از ترس فریاد زدند.
 
 Original words:
-- o1: ἰδόντες = G3708 ὁράω "behold, perceive, see, take heed" [V-2AAP-NPM]
-- o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
-- o3: αὐτὸν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASM]
-- o4: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
-- o5: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
-- o6: θαλάσσης = G2281 θάλασσα "sea" [N-GSF]
-- o7: περιπατοῦντα = G4043 περιπατέω "go, be occupied with, walk (about)" [V-PAP-ASM]
-- o8: ἐταράχθησαν = G5015 ταράσσω "trouble" [V-API-3P]
-- o9: λέγοντες = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAP-NPM]
-- o10: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
-- o11: φάντασμά = G5326 φάντασμα "spirit" [N-NSN]
-- o12: ἐστιν, = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
-- o13: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o14: ἀπὸ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
-- o15: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
-- o16: φόβου = G5401 φόβος "be afraid, + exceedingly, fear, terror" [N-GSM]
-- o17: ἔκραξαν. = G2896 κράζω "cry (out)" [V-AAI-3P]
+- o1: μαθηται = G3101 μαθητής "disciple" [N-NPM] (variant reading, WHNU)
+- o2: ἰδόντες = G3708 ὁράω "behold, perceive, see, take heed" [V-2AAP-NPM]
+- o3: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o4: αὐτὸν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASM]
+- o5: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o6: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o7: θαλάσσης = G2281 θάλασσα "sea" [N-GSF]
+- o8: περιπατοῦντα = G4043 περιπατέω "go, be occupied with, walk (about)" [V-PAP-ASM]
+- o9: ἐταράχθησαν = G5015 ταράσσω "trouble" [V-API-3P]
+- o10: λέγοντες = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAP-NPM]
+- o11: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o12: φάντασμά = G5326 φάντασμα "spirit" [N-NSN]
+- o13: ἐστιν, = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o14: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o15: ἀπὸ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
+- o16: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o17: φόβου = G5401 φόβος "be afraid, + exceedingly, fear, terror" [N-GSM]
+- o18: ἔκραξαν. = G2896 κράζω "cry (out)" [V-AAI-3P]
 
 Persian entries and current tags:
 - p1: چون
@@ -442,20 +448,21 @@ Persian entries and current tags:
 
 ### Matthew 14:27
 
-Original: εὐθὺς δὲ ἐλάλησεν αὐτοῖς λέγων· θαρσεῖτε, ἐγώ εἰμι· μὴ φοβεῖσθε.
+Original: εὐθὺς δὲ ἐλάλησεν ⟨ιησους⟩ αὐτοῖς λέγων· θαρσεῖτε, ἐγώ εἰμι· μὴ φοβεῖσθε.
 Persian: امّا عیسی بی‌درنگ به آنها گفت:« دل قوی دارید. من هستم، مترسید!»
 
 Original words:
 - o1: εὐθὺς = G2112 εὐθέως "anon, as soon as, forthwith, immediately, shortly…" [ADV]
 - o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
 - o3: ἐλάλησεν = G2980 λαλέω "preach, say, speak (after), talk, tell, utter" [V-AAI-3S]
-- o4: αὐτοῖς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPM]
-- o5: λέγων· = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAP-NSM]
-- o6: θαρσεῖτε, = G2293 θαρσέω "be of good cheer (comfort)" [V-PAM-2P]
-- o7: ἐγώ = G1473 ἐγώ "I, me" [P-1NS]
-- o8: εἰμι· = G1510 εἰμί "am, have been, it is I, was" [V-PAI-1S]
-- o9: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
-- o10: φοβεῖσθε. = G5399 φοβέω "be (+ sore) afraid, fear (exceedingly), reverence" [V-PNM-2P]
+- o4: ιησους = G2424 Ἰησοῦς "Jesus" [N-NSM] (variant reading, WHNU)
+- o5: αὐτοῖς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPM]
+- o6: λέγων· = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAP-NSM]
+- o7: θαρσεῖτε, = G2293 θαρσέω "be of good cheer (comfort)" [V-PAM-2P]
+- o8: ἐγώ = G1473 ἐγώ "I, me" [P-1NS]
+- o9: εἰμι· = G1510 εἰμί "am, have been, it is I, was" [V-PAI-1S]
+- o10: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o11: φοβεῖσθε. = G5399 φοβέω "be (+ sore) afraid, fear (exceedingly), reverence" [V-PNM-2P]
 
 Persian entries and current tags:
 - p1: امّا  → G2112 G1161

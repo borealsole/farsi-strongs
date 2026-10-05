@@ -684,7 +684,7 @@ Persian entries and current tags:
 
 ### Matthew 6:13
 
-Original: καὶ μὴ εἰσενέγκῃς ἡμᾶς εἰς πειρασμόν, ἀλλὰ ῥῦσαι ἡμᾶς ἀπὸ τοῦ πονηροῦ.
+Original: καὶ μὴ εἰσενέγκῃς ἡμᾶς εἰς πειρασμόν, ἀλλὰ ῥῦσαι ἡμᾶς ἀπὸ τοῦ πονηροῦ. ⟨οτι⟩ ⟨σου⟩ ⟨εστιν⟩ ⟨βασιλεια⟩ ⟨δυναμις⟩ ⟨δοξα⟩ ⟨αιωνας⟩ ⟨αμην⟩
 Persian: و ما را در آزمایش میاور، بلکه از آن شریر رهاییمان ده.[ زیرا پادشاهی و قدرت و جلال، تا ابد از آنِ توست. آمین.]
 
 Original words:
@@ -700,6 +700,14 @@ Original words:
 - o10: ἀπὸ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
 - o11: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
 - o12: πονηροῦ. = G4190 πονηρός "bad, evil, grievous, harm, lewd, malicious…" [A-GSM]
+- o13: οτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ] (variant reading, TR)
+- o14: σου = G4771 σύ "thou" [P-2GS] (variant reading, TR)
+- o15: εστιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S] (variant reading, TR)
+- o16: βασιλεια = G932 βασιλεία "kingdom, + reign" [N-NSF] (variant reading, TR)
+- o17: δυναμις = G1411 δύναμις "ability, abundance, meaning, might(-ily, -y…" [N-NSF] (variant reading, TR)
+- o18: δοξα = G1391 δόξα "dignity, glory(-ious), honour, praise, worship" [N-NSF] (variant reading, TR)
+- o19: αιωνας = G165 αἰών "age, course, eternal, (for) ever(-more), (n-)ever…" [N-APM] (variant reading, TR)
+- o20: αμην = G281 ἀμήν "amen, verily" [HEB] (variant reading, TR)
 
 Persian entries and current tags:
 - p1: و  → G2532

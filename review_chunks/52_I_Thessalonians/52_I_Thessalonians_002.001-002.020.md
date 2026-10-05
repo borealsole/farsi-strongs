@@ -365,23 +365,24 @@ Persian entries and current tags:
 
 ### I Thessalonians 2:7
 
-Original: ἀλλὰ ἐγενήθημεν ἤπιοι ἐν μέσῳ ὑμῶν, ὡς ἐὰν τροφὸς θάλπῃ τὰ ἑαυτῆς τέκνα,
+Original: ἀλλὰ ἐγενήθημεν ἤπιοι ⟨νηπιοι⟩ ἐν μέσῳ ὑμῶν, ὡς ἐὰν τροφὸς θάλπῃ τὰ ἑαυτῆς τέκνα,
 Persian: امّا همچون مادری شیرده که از کودکان خود نگهداری می‌کند، با شما به نرمی رفتار کردیم.
 
 Original words:
 - o1: ἀλλὰ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
 - o2: ἐγενήθημεν = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-AOI-1P]
 - o3: ἤπιοι = G2261 ἤπιος "gentle" [A-NPM]
-- o4: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
-- o5: μέσῳ = G3319 μέσος "among, before them, between, + forth, mid(-day…" [A-DSN]
-- o6: ὑμῶν, = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
-- o7: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
-- o8: ἐὰν = G1437 ἐάν "before, but, except, (and) if, (if) so, (what-…" [COND]
-- o9: τροφὸς = G5162 τροφός "nurse" [N-NSF]
-- o10: θάλπῃ = G2282 θάλπω "cherish" [V-PAS-3S]
-- o11: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
-- o12: ἑαυτῆς = G1438 ἑαυτοῦ "alone, her (own, -self), (he) himself, his (own)…" [F-3GSF]
-- o13: τέκνα, = G5043 τέκνον "child, daughter, son" [N-APN]
+- o4: νηπιοι = G3516 νήπιος "babe, child (+ -ish)" [A-NPM] (variant reading, WHNU)
+- o5: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o6: μέσῳ = G3319 μέσος "among, before them, between, + forth, mid(-day…" [A-DSN]
+- o7: ὑμῶν, = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
+- o8: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
+- o9: ἐὰν = G1437 ἐάν "before, but, except, (and) if, (if) so, (what-…" [COND]
+- o10: τροφὸς = G5162 τροφός "nurse" [N-NSF]
+- o11: θάλπῃ = G2282 θάλπω "cherish" [V-PAS-3S]
+- o12: τὰ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN]
+- o13: ἑαυτῆς = G1438 ἑαυτοῦ "alone, her (own, -self), (he) himself, his (own)…" [F-3GSF]
+- o14: τέκνα, = G5043 τέκνον "child, daughter, son" [N-APN]
 
 Persian entries and current tags:
 - p1: امّا  → G235

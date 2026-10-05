@@ -193,7 +193,7 @@ Persian entries and current tags:
 
 ### Matthew 19:4
 
-Original: ὁ δὲ ἀποκριθεὶς εἶπεν· οὐκ ἀνέγνωτε ὅτι ὁ ποιήσας ἀπ’ ἀρχῆς ἄρσεν καὶ θῆλυ ἐποίησεν αὐτούς;
+Original: ὁ δὲ ἀποκριθεὶς εἶπεν· οὐκ ἀνέγνωτε ὅτι ὁ ποιήσας ⟨κτισας⟩ ἀπ’ ἀρχῆς ἄρσεν καὶ θῆλυ ἐποίησεν αὐτούς;
 Persian: عیسی در پاسخ گفت:« مگر نخوانده‌اید که آفرینندۀ جهان در آغاز ”ایشان را مرد و زن آفرید“،
 
 Original words:
@@ -206,13 +206,14 @@ Original words:
 - o7: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
 - o8: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
 - o9: ποιήσας = G4160 ποιέω "abide, + agree, appoint, avenge, + band together…" [V-AAP-NSM]
-- o10: ἀπ’ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
-- o11: ἀρχῆς = G746 ἀρχή "beginning, corner, (at the, the) first (estate)…" [N-GSF]
-- o12: ἄρσεν = G730 ἄῤῥην "male, man" [A-ASN]
-- o13: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o14: θῆλυ = G2338 θῆλυς "female, woman" [A-ASN]
-- o15: ἐποίησεν = G4160 ποιέω "abide, + agree, appoint, avenge, + band together…" [V-AAI-3S]
-- o16: αὐτούς; = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-APM]
+- o10: κτισας = G2936 κτίζω "create, Creator, make" [V-AAP-NSM] (variant reading, WHNU)
+- o11: ἀπ’ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
+- o12: ἀρχῆς = G746 ἀρχή "beginning, corner, (at the, the) first (estate)…" [N-GSF]
+- o13: ἄρσεν = G730 ἄῤῥην "male, man" [A-ASN]
+- o14: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o15: θῆλυ = G2338 θῆλυς "female, woman" [A-ASN]
+- o16: ἐποίησεν = G4160 ποιέω "abide, + agree, appoint, avenge, + band together…" [V-AAI-3S]
+- o17: αὐτούς; = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-APM]
 
 Persian entries and current tags:
 - p1: عیسی

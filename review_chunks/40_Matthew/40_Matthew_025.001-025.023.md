@@ -51,7 +51,7 @@ Correct Persian tags (reviewed by hand):
 
 ### Matthew 25:1
 
-Original: Τότε ὁμοιωθήσεται ἡ βασιλεία τῶν οὐρανῶν δέκα παρθένοις, αἵτινες λαβοῦσαι τὰς λαμπάδας αὐτῶν ἐξῆλθον εἰς ὑπάντησιν τοῦ νυμφίου.
+Original: Τότε ὁμοιωθήσεται ἡ βασιλεία τῶν οὐρανῶν δέκα παρθένοις, αἵτινες λαβοῦσαι τὰς λαμπάδας αὐτῶν ⟨εαυτων⟩ ἐξῆλθον εἰς ὑπάντησιν τοῦ νυμφίου.
 Persian: « در آن روز، پادشاهی آسمان همچون ده باکره خواهد_بود که چراغهای خود را برداشته، به استقبال داماد بیرون رفتند.
 
 Original words:
@@ -68,11 +68,12 @@ Original words:
 - o11: τὰς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APF]
 - o12: λαμπάδας = G2985 λαμπάς "lamp, light, torch" [N-APF]
 - o13: αὐτῶν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPF]
-- o14: ἐξῆλθον = G1831 ἐξέρχομαι "come (forth, out), depart (out of), escape…" [V-2AAI-3P]
-- o15: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
-- o16: ὑπάντησιν = G5222 ὑπάντησις "meeting" [N-ASF]
-- o17: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
-- o18: νυμφίου. = G3566 νυμφίος "bridegroom" [N-GSM]
+- o14: εαυτων = G1438 ἑαυτοῦ "alone, her (own, -self), (he) himself, his (own)…" [F-3GPF] (variant reading, WHNU)
+- o15: ἐξῆλθον = G1831 ἐξέρχομαι "come (forth, out), depart (out of), escape…" [V-2AAI-3P]
+- o16: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o17: ὑπάντησιν = G5222 ὑπάντησις "meeting" [N-ASF]
+- o18: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o19: νυμφίου. = G3566 νυμφίος "bridegroom" [N-GSM]
 
 Persian entries and current tags:
 - p1: «
@@ -663,7 +664,7 @@ Persian entries and current tags:
 
 ### Matthew 25:16
 
-Original: πορευθεὶς ὁ τὰ πέντε τάλαντα λαβὼν ἠργάσατο ἐν αὐτοῖς καὶ ἐποίησεν ἄλλα πέντε τάλαντα·
+Original: πορευθεὶς ὁ τὰ πέντε τάλαντα λαβὼν ἠργάσατο ἐν αὐτοῖς καὶ ἐποίησεν ⟨εκερδησεν⟩ ἄλλα πέντε τάλαντα·
 Persian: مردی که پنج قنطار گرفته_بود، بی‌درنگ با آن به تجارت پرداخت و پنج قنطار دیگر سود کرد.
 
 Original words:
@@ -678,9 +679,10 @@ Original words:
 - o9: αὐτοῖς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPN]
 - o10: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
 - o11: ἐποίησεν = G4160 ποιέω "abide, + agree, appoint, avenge, + band together…" [V-AAI-3S]
-- o12: ἄλλα = G243 ἄλλος "more, one (another), (an-, some an-)other(-s…" [A-APN]
-- o13: πέντε = G4002 πέντε "five" [A-NUI]
-- o14: τάλαντα· = G5007 τάλαντον "talent" [N-APN]
+- o12: εκερδησεν = G2770 κερδαίνω "(get) gain, win" [V-AAI-3S] (variant reading, WHNU)
+- o13: ἄλλα = G243 ἄλλος "more, one (another), (an-, some an-)other(-s…" [A-APN]
+- o14: πέντε = G4002 πέντε "five" [A-NUI]
+- o15: τάλαντα· = G5007 τάλαντον "talent" [N-APN]
 
 Persian entries and current tags:
 - p1: مردی

@@ -872,7 +872,7 @@ Persian entries and current tags:
 
 ### I Timothy 6:17
 
-Original: Τοῖς πλουσίοις ἐν τῷ νῦν αἰῶνι παράγγελλε μὴ ὑψηλὰ φρονεῖν μηδὲ ἠλπικέναι ἐπὶ πλούτου ἀδηλότητι, ἀλλ’ ἐπὶ θεῷ τῷ παρέχοντι ἡμῖν πάντα πλουσίως εἰς ἀπόλαυσιν,
+Original: Τοῖς πλουσίοις ἐν τῷ νῦν αἰῶνι παράγγελλε μὴ ὑψηλὰ φρονεῖν ⟨υψηλοφρονειν⟩ μηδὲ ἠλπικέναι ἐπὶ πλούτου ἀδηλότητι, ἀλλ’ ἐπὶ θεῷ τῷ παρέχοντι ἡμῖν πάντα πλουσίως εἰς ἀπόλαυσιν,
 Persian: ثروتمندانِ این دنیا را حکم نما که متکبّر نباشند و بر مال ناپایدار دنیا امید مبندند. بلکه امیدشان بر خدا باشد که همه چیز را به‌فراوانی برای ما فراهم می‌سازد تا از آنها لذت ببریم.
 
 Original words:
@@ -886,21 +886,22 @@ Original words:
 - o8: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
 - o9: ὑψηλὰ = G5308 ὑψηλός "high(-er, -ly) (esteemed)" [A-APN]
 - o10: φρονεῖν = G5426 φρονέω "set the affection on, (be) care(-ful), (be like-…" [V-PAN]
-- o11: μηδὲ = G3366 μηδέ "neither, nor (yet), (no) not (once, so much as)" [CONJ-N]
-- o12: ἠλπικέναι = G1679 ἐλπίζω "(have, thing) hope(-d) (for), trust" [V-RAN]
-- o13: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
-- o14: πλούτου = G4149 πλοῦτος "riches" [N-GSM]
-- o15: ἀδηλότητι, = G83 ἀδηλότης "uncertain" [N-DSF]
-- o16: ἀλλ’ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
-- o17: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
-- o18: θεῷ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-DSM]
-- o19: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
-- o20: παρέχοντι = G3930 παρέχω "bring, do, give, keep, minister, offer, shew…" [V-PAP-DSM]
-- o21: ἡμῖν = G2249 ἡμεῖς "us, we (ourselves)" [P-1DP]
-- o22: πάντα = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-APN]
-- o23: πλουσίως = G4146 πλουσίως "abundantly, richly" [ADV]
-- o24: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
-- o25: ἀπόλαυσιν, = G619 ἀπόλαυσις "enjoy(-ment)" [N-ASF]
+- o11: υψηλοφρονειν = G5309 ὑψηλοφρονέω "be highminded" [V-PAN] (variant reading, WHNU)
+- o12: μηδὲ = G3366 μηδέ "neither, nor (yet), (no) not (once, so much as)" [CONJ-N]
+- o13: ἠλπικέναι = G1679 ἐλπίζω "(have, thing) hope(-d) (for), trust" [V-RAN]
+- o14: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o15: πλούτου = G4149 πλοῦτος "riches" [N-GSM]
+- o16: ἀδηλότητι, = G83 ἀδηλότης "uncertain" [N-DSF]
+- o17: ἀλλ’ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o18: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o19: θεῷ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-DSM]
+- o20: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o21: παρέχοντι = G3930 παρέχω "bring, do, give, keep, minister, offer, shew…" [V-PAP-DSM]
+- o22: ἡμῖν = G2249 ἡμεῖς "us, we (ourselves)" [P-1DP]
+- o23: πάντα = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-APN]
+- o24: πλουσίως = G4146 πλουσίως "abundantly, richly" [ADV]
+- o25: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o26: ἀπόλαυσιν, = G619 ἀπόλαυσις "enjoy(-ment)" [N-ASF]
 
 Persian entries and current tags:
 - p1: ثروتمندانِ  → G4145

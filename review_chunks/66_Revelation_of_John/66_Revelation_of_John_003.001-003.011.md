@@ -413,7 +413,7 @@ Persian entries and current tags:
 
 ### Revelation of John 3:7
 
-Original: Καὶ τῷ ἀγγέλῳ τῆς ἐν Φιλαδελφίᾳ ἐκκλησίας γράψον· τάδε λέγει ὁ ἅγιος ὁ ἀληθινός, ὁ ἔχων τὴν κλεῖν Δαυείδ, ὁ ἀνοίγων καὶ οὐδεὶς κλείσει, καὶ κλείων καὶ οὐδεὶς ἀνοίξει·
+Original: Καὶ τῷ ἀγγέλῳ τῆς ἐν Φιλαδελφίᾳ ⟨φιλαδελφεια⟩ ἐκκλησίας γράψον· τάδε λέγει ὁ ἅγιος ὁ ἀληθινός, ὁ ἔχων τὴν κλεῖν Δαυείδ, ὁ ἀνοίγων καὶ οὐδεὶς κλείσει, καὶ κλείων καὶ οὐδεὶς ἀνοίξει·
 Persian: « به فرشتۀ کلیسای فیلادِلفیه بنویس:« آن که قدّوس است و حق، آن که کلید داوود را دارد، آن که می‌گشاید و کس نخواهد_بست، و می‌بندد و کس نخواهد_گشود، چنین می‌گوید:
 
 Original words:
@@ -423,29 +423,30 @@ Original words:
 - o4: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
 - o5: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
 - o6: Φιλαδελφίᾳ = G5360 φιλαδελφία "brotherly love (kindness), love of the brethren" [N-DSF]
-- o7: ἐκκλησίας = G1577 ἐκκλησία "assembly, church" [N-GSF]
-- o8: γράψον· = G1125 γράφω "describe, write(-ing, -ten)" [V-AAM-2S]
-- o9: τάδε = G3592 ὅδε "he, she, such, these, thus" [D-APN]
-- o10: λέγει = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-3S]
-- o11: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
-- o12: ἅγιος = G40 ἅγιος "(most) holy (one, thing), saint" [A-NSM]
-- o13: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
-- o14: ἀληθινός, = G228 ἀληθινός "true" [A-NSM]
-- o15: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
-- o16: ἔχων = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAP-NSM]
-- o17: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
-- o18: κλεῖν = G2807 κλείς "key" [N-ASF]
-- o19: Δαυείδ, = G1138 Δαβίδ "David" [N-PRI]
-- o20: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
-- o21: ἀνοίγων = G455 ἀνοίγω "open" [V-PAP-NSM]
-- o22: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o23: οὐδεὶς = G3762 οὐδείς "any (man), aught, man, neither any (thing)…" [A-NSM-N]
-- o24: κλείσει, = G2808 κλείω "shut (up)" [V-FAI-3S]
-- o25: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o26: κλείων = G2808 κλείω "shut (up)" [V-PAP-NSM]
-- o27: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o28: οὐδεὶς = G3762 οὐδείς "any (man), aught, man, neither any (thing)…" [A-NSM-N]
-- o29: ἀνοίξει· = G455 ἀνοίγω "open" [V-FAI-3S]
+- o7: φιλαδελφεια = G5359 Φιλαδέλφεια "Philadelphia" [N-DSF] (variant reading, WHNU)
+- o8: ἐκκλησίας = G1577 ἐκκλησία "assembly, church" [N-GSF]
+- o9: γράψον· = G1125 γράφω "describe, write(-ing, -ten)" [V-AAM-2S]
+- o10: τάδε = G3592 ὅδε "he, she, such, these, thus" [D-APN]
+- o11: λέγει = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAI-3S]
+- o12: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o13: ἅγιος = G40 ἅγιος "(most) holy (one, thing), saint" [A-NSM]
+- o14: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o15: ἀληθινός, = G228 ἀληθινός "true" [A-NSM]
+- o16: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o17: ἔχων = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAP-NSM]
+- o18: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o19: κλεῖν = G2807 κλείς "key" [N-ASF]
+- o20: Δαυείδ, = G1138 Δαβίδ "David" [N-PRI]
+- o21: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o22: ἀνοίγων = G455 ἀνοίγω "open" [V-PAP-NSM]
+- o23: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o24: οὐδεὶς = G3762 οὐδείς "any (man), aught, man, neither any (thing)…" [A-NSM-N]
+- o25: κλείσει, = G2808 κλείω "shut (up)" [V-FAI-3S]
+- o26: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o27: κλείων = G2808 κλείω "shut (up)" [V-PAP-NSM]
+- o28: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o29: οὐδεὶς = G3762 οὐδείς "any (man), aught, man, neither any (thing)…" [A-NSM-N]
+- o30: ἀνοίξει· = G455 ἀνοίγω "open" [V-FAI-3S]
 
 Persian entries and current tags:
 - p1: «

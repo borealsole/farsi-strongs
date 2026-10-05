@@ -557,7 +557,7 @@ Persian entries and current tags:
 
 ### I Thessalonians 5:13
 
-Original: καὶ ἡγεῖσθαι αὐτοὺς ὑπερεκπερισσοῦ ἐν ἀγάπῃ διὰ τὸ ἔργον αὐτῶν. εἰρηνεύετε ἐν αὐτοῖς.
+Original: καὶ ἡγεῖσθαι αὐτοὺς ὑπερεκπερισσοῦ ἐν ἀγάπῃ διὰ τὸ ἔργον αὐτῶν. εἰρηνεύετε ἐν αὐτοῖς. ⟨εαυτοις⟩
 Persian: و با محبت، کمال احترام را به سبب کاری که انجام می‌دهند، برایشان قائل باشید. و با یکدیگر در صلح و صفا زندگی کنید.
 
 Original words:
@@ -574,6 +574,7 @@ Original words:
 - o11: εἰρηνεύετε = G1514 εἰρηνεύω "be at (have, live in) peace, live peaceably" [V-PAM-2P]
 - o12: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
 - o13: αὐτοῖς. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPM]
+- o14: εαυτοις = G1438 ἑαυτοῦ "alone, her (own, -self), (he) himself, his (own)…" [F-2DPM] (variant reading, WHNU)
 
 Persian entries and current tags:
 - p1: و  → G2532

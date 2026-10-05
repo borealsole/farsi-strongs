@@ -497,7 +497,7 @@ Persian entries and current tags:
 
 ### Hebrews 7:26
 
-Original: Τοιοῦτος γὰρ ὑμῖν καὶ ἔπρεπεν ἀρχιερεύς, ὅσιος, ἄκακος, ἀμίαντος, κεχωρισμένος ἀπὸ τῶν ἁμαρτωλῶν, καὶ ὑψηλότερος τῶν οὐρανῶν γενόμενος,
+Original: Τοιοῦτος γὰρ ὑμῖν καὶ ⟨ημιν⟩ ἔπρεπεν ἀρχιερεύς, ὅσιος, ἄκακος, ἀμίαντος, κεχωρισμένος ἀπὸ τῶν ἁμαρτωλῶν, καὶ ὑψηλότερος τῶν οὐρανῶν γενόμενος,
 Persian: ما به چنین کاهن اعظمی نیاز داشتیم، کاهنی قدّوس، بی‌عیب، پاک، جدا از گناهکاران، و فراتر از آسمانها.
 
 Original words:
@@ -505,20 +505,21 @@ Original words:
 - o2: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
 - o3: ὑμῖν = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
 - o4: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o5: ἔπρεπεν = G4241 πρέπω "become, comely" [V-IAI-3S]
-- o6: ἀρχιερεύς, = G749 ἀρχιερεύς "chief (high) priest, chief of the priests" [N-NSM]
-- o7: ὅσιος, = G3741 ὅσιος "holy, mercy, shalt be" [A-NSM]
-- o8: ἄκακος, = G172 ἄκακος "harmless, simple" [A-NSM]
-- o9: ἀμίαντος, = G283 ἀμίαντος "undefiled" [A-NSM]
-- o10: κεχωρισμένος = G5563 χωρίζω "depart, put asunder, separate" [V-RPP-NSM]
-- o11: ἀπὸ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
-- o12: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
-- o13: ἁμαρτωλῶν, = G268 ἁμαρτωλός "sinful, sinner" [A-GPM]
-- o14: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o15: ὑψηλότερος = G5308 ὑψηλός "high(-er, -ly) (esteemed)" [A-NSM-C]
-- o16: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
-- o17: οὐρανῶν = G3772 οὐρανός "air, heaven(-ly), sky" [N-GPM]
-- o18: γενόμενος, = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-2ADP-NSM]
+- o5: ημιν = G2249 ἡμεῖς "us, we (ourselves)" [P-1DP] (variant reading, WHNU)
+- o6: ἔπρεπεν = G4241 πρέπω "become, comely" [V-IAI-3S]
+- o7: ἀρχιερεύς, = G749 ἀρχιερεύς "chief (high) priest, chief of the priests" [N-NSM]
+- o8: ὅσιος, = G3741 ὅσιος "holy, mercy, shalt be" [A-NSM]
+- o9: ἄκακος, = G172 ἄκακος "harmless, simple" [A-NSM]
+- o10: ἀμίαντος, = G283 ἀμίαντος "undefiled" [A-NSM]
+- o11: κεχωρισμένος = G5563 χωρίζω "depart, put asunder, separate" [V-RPP-NSM]
+- o12: ἀπὸ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
+- o13: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o14: ἁμαρτωλῶν, = G268 ἁμαρτωλός "sinful, sinner" [A-GPM]
+- o15: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o16: ὑψηλότερος = G5308 ὑψηλός "high(-er, -ly) (esteemed)" [A-NSM-C]
+- o17: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
+- o18: οὐρανῶν = G3772 οὐρανός "air, heaven(-ly), sky" [N-GPM]
+- o19: γενόμενος, = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-2ADP-NSM]
 
 Persian entries and current tags:
 - p1: ما

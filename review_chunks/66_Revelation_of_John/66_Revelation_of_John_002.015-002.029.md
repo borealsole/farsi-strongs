@@ -85,27 +85,28 @@ Persian entries and current tags:
 
 ### Revelation of John 2:16
 
-Original: μετανόησον· εἰ δὲ μή, ἔρχομαί σοι ταχὺ καὶ πολεμήσω μετ’ αὐτῶν ἐν τῇ ῥομφαίᾳ τοῦ στόματός μου.
+Original: μετανόησον· ⟨ουν⟩ εἰ δὲ μή, ἔρχομαί σοι ταχὺ καὶ πολεμήσω μετ’ αὐτῶν ἐν τῇ ῥομφαίᾳ τοῦ στόματός μου.
 Persian: پس توبه کن، وگرنه به‌زودی نزد تو خواهم_آمد و با شمشیر دهانم با آنها خواهم_جنگید.
 
 Original words:
 - o1: μετανόησον· = G3340 μετανοέω "repent" [V-AAM-2S]
-- o2: εἰ = G1487 εἰ "forasmuch as, if, that, (al-)though, whether" [COND]
-- o3: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
-- o4: μή, = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
-- o5: ἔρχομαί = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-PNI-1S]
-- o6: σοι = G4771 σύ "thou" [P-2DS]
-- o7: ταχὺ = G5035 ταχύ "lightly, quickly" [ADV]
-- o8: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o9: πολεμήσω = G4170 πολεμέω "fight, (make) war" [V-FAI-1S]
-- o10: μετ’ = G3326 μετά "after(-ward), that he again, against, among, and…" [PREP]
-- o11: αὐτῶν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]
-- o12: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
-- o13: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
-- o14: ῥομφαίᾳ = G4501 ῥομφαία "sword" [N-DSF]
-- o15: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
-- o16: στόματός = G4750 στόμα "edge, face, mouth" [N-GSN]
-- o17: μου. = G1473 ἐγώ "I, me" [P-1GS]
+- o2: ουν = G3767 οὖν "and (so, truly), but, now (then)…" [CONJ] (variant reading, WHNU)
+- o3: εἰ = G1487 εἰ "forasmuch as, if, that, (al-)though, whether" [COND]
+- o4: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o5: μή, = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o6: ἔρχομαί = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-PNI-1S]
+- o7: σοι = G4771 σύ "thou" [P-2DS]
+- o8: ταχὺ = G5035 ταχύ "lightly, quickly" [ADV]
+- o9: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o10: πολεμήσω = G4170 πολεμέω "fight, (make) war" [V-FAI-1S]
+- o11: μετ’ = G3326 μετά "after(-ward), that he again, against, among, and…" [PREP]
+- o12: αὐτῶν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]
+- o13: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o14: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o15: ῥομφαίᾳ = G4501 ῥομφαία "sword" [N-DSF]
+- o16: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
+- o17: στόματός = G4750 στόμα "edge, face, mouth" [N-GSN]
+- o18: μου. = G1473 ἐγώ "I, me" [P-1GS]
 
 Persian entries and current tags:
 - p1: پس
@@ -345,7 +346,7 @@ Persian entries and current tags:
 
 ### Revelation of John 2:20
 
-Original: ἀλλ’ ἔχω κατὰ σοῦ ὅτι ἀφεῖς τὴν γυναῖκα Ἰεζάβελ, ἡ λέγουσα αὐτὴν προφῆτιν, καὶ διδάσκει καὶ πλανᾷ τοὺς ἐμοὺς δούλους πορνεῦσαι καὶ φαγεῖν εἰδωλόθυτα.
+Original: ἀλλ’ ἔχω κατὰ σοῦ ὅτι ἀφεῖς τὴν γυναῖκα Ἰεζάβελ, ἡ λέγουσα αὐτὴν ⟨εαυτην⟩ προφῆτιν, καὶ διδάσκει καὶ πλανᾷ τοὺς ἐμοὺς δούλους πορνεῦσαι καὶ φαγεῖν εἰδωλόθυτα.
 Persian: امّا این ایراد را بر تو دارم که بر آن زن ایزابل نام که خود را نبیه می‌خواند، آسان می‌گیری. هم او که با تعلیم خود بندگان مرا می‌فریبد تا دست به بی‌عفتی بیالایند و از خوراک تقدیمی به بتها بخورند.
 
 Original words:
@@ -361,18 +362,19 @@ Original words:
 - o10: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
 - o11: λέγουσα = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAP-NSF]
 - o12: αὐτὴν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-ASF]
-- o13: προφῆτιν, = G4398 προφῆτις "prophetess" [N-ASF]
-- o14: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o15: διδάσκει = G1321 διδάσκω "teach" [V-PAI-3S]
-- o16: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o17: πλανᾷ = G4105 πλανάω "go astray, deceive, err, seduce, wander…" [V-PAI-3S]
-- o18: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
-- o19: ἐμοὺς = G1699 ἐμός "of me, mine (own), my" [S-1SAPM]
-- o20: δούλους = G1401 δοῦλος "bond(-man), servant" [N-APM]
-- o21: πορνεῦσαι = G4203 πορνεύω "commit (fornication)" [V-AAN]
-- o22: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o23: φαγεῖν = G5315 φάγω "eat, meat" [V-2AAN]
-- o24: εἰδωλόθυτα. = G1494 εἰδωλόθυτον "meat, thing that is) offered (in sacrifice…" [A-APN]
+- o13: εαυτην = G1438 ἑαυτοῦ "alone, her (own, -self), (he) himself, his (own)…" [F-3ASF] (variant reading, WHNU)
+- o14: προφῆτιν, = G4398 προφῆτις "prophetess" [N-ASF]
+- o15: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o16: διδάσκει = G1321 διδάσκω "teach" [V-PAI-3S]
+- o17: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o18: πλανᾷ = G4105 πλανάω "go astray, deceive, err, seduce, wander…" [V-PAI-3S]
+- o19: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o20: ἐμοὺς = G1699 ἐμός "of me, mine (own), my" [S-1SAPM]
+- o21: δούλους = G1401 δοῦλος "bond(-man), servant" [N-APM]
+- o22: πορνεῦσαι = G4203 πορνεύω "commit (fornication)" [V-AAN]
+- o23: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o24: φαγεῖν = G5315 φάγω "eat, meat" [V-2AAN]
+- o25: εἰδωλόθυτα. = G1494 εἰδωλόθυτον "meat, thing that is) offered (in sacrifice…" [A-APN]
 
 Persian entries and current tags:
 - p1: امّا  → G235

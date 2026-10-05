@@ -8,7 +8,7 @@ import argparse
 import collections
 import sys
 
-from . import align, data, evaluate, manual, tagger
+from . import align, data, evaluate, manual, tagger, variants
 from . import model as tag_model
 
 
@@ -18,9 +18,10 @@ def log(message):
 
 def prepare(args):
     paths = data.sync_bible_paths(args.sync_bible)
-    log('Loading NMV tokens, accented.json and NMV_strongs.json')
+    log('Loading NMV tokens, accented.json' + ('' if args.no_variants else ' (+ WHNU.json and TR.json variants)')
+        + ' and NMV_strongs.json')
     grid = data.load_token_grid()
-    accented = data.load_bible(paths['accented'])
+    accented = variants.load_original(args.sync_bible, grid, variants=not args.no_variants)
     current_file = data.load_bible(paths['nmv_strongs'])
     current = data.align_to_grid(current_file, grid)
     unmapped = sum(len(v) for ch in current_file.values() for v in ch) - len(current)
@@ -109,6 +110,8 @@ def main():
         p.add_argument('--threshold', type=float, default=0.45,
                        help='Minimum link probability for a tag (higher = fewer, safer tags)')
         p.add_argument('--runs', type=int, default=3, help='Number of eflomal runs to combine')
+        p.add_argument('--no-variants', action='store_true',
+                       help='Use accented.json alone, without the Greek variant readings from WHNU.json and TR.json')
         if name == 'run':
             p.add_argument('--output', help='Where to write (default: overwrite NMV_strongs.json in sync.bible)')
             p.add_argument('--no-group-locked', action='store_true',

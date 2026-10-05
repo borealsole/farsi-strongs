@@ -159,7 +159,7 @@ Persian entries and current tags:
 
 ### Matthew 26:28
 
-Original: τοῦτο γάρ ἐστιν τὸ αἷμά μου τῆς διαθήκης τὸ περὶ πολλῶν ἐκχυννόμενον εἰς ἄφεσιν ἁμαρτιῶν.
+Original: τοῦτο γάρ ἐστιν τὸ αἷμά μου τῆς ⟨καινης⟩ διαθήκης τὸ περὶ πολλῶν ἐκχυννόμενον εἰς ἄφεσιν ἁμαρτιῶν.
 Persian: این است خون من برای عهد[ جدید] که به‌خاطر بسیاری به جهت آمرزش گناهان ریخته_می‌شود.
 
 Original words:
@@ -170,14 +170,15 @@ Original words:
 - o5: αἷμά = G129 αἷμα "blood" [N-NSN]
 - o6: μου = G1473 ἐγώ "I, me" [P-1GS]
 - o7: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
-- o8: διαθήκης = G1242 διαθήκη "covenant, testament" [N-GSF]
-- o9: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
-- o10: περὶ = G4012 περί "there-)about, above, against, at, on behalf of…" [PREP]
-- o11: πολλῶν = G4183 πολύς "abundant, + altogether, common, + far (passed…" [A-GPM]
-- o12: ἐκχυννόμενον = G1632 ἐκχέω "gush (pour) out, run greedily (out), shed (abroad…" [V-PPP-NSN]
-- o13: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
-- o14: ἄφεσιν = G859 ἄφεσις "deliverance, forgiveness, liberty, remission" [N-ASF]
-- o15: ἁμαρτιῶν. = G266 ἁμαρτία "offence, sin(-ful)" [N-GPF]
+- o8: καινης = G2537 καινός "new" [A-GSF] (variant reading, TR)
+- o9: διαθήκης = G1242 διαθήκη "covenant, testament" [N-GSF]
+- o10: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o11: περὶ = G4012 περί "there-)about, above, against, at, on behalf of…" [PREP]
+- o12: πολλῶν = G4183 πολύς "abundant, + altogether, common, + far (passed…" [A-GPM]
+- o13: ἐκχυννόμενον = G1632 ἐκχέω "gush (pour) out, run greedily (out), shed (abroad…" [V-PPP-NSN]
+- o14: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o15: ἄφεσιν = G859 ἄφεσις "deliverance, forgiveness, liberty, remission" [N-ASF]
+- o16: ἁμαρτιῶν. = G266 ἁμαρτία "offence, sin(-ful)" [N-GPF]
 
 Persian entries and current tags:
 - p1: این  → G3778
@@ -676,38 +677,39 @@ Persian entries and current tags:
 
 ### Matthew 26:39
 
-Original: καὶ προσελθὼν μικρὸν ἔπεσεν ἐπὶ πρόσωπον αὐτοῦ προσευχόμενος καὶ λέγων· πάτερ, εἰ δυνατόν ἐστιν, παρελθάτω ἀπ’ ἐμοῦ τὸ ποτήριον τοῦτο· πλὴν οὐχ ὡς ἐγὼ θέλω ἀλλ’ ὡς σύ.
+Original: καὶ προσελθὼν ⟨προελθων⟩ μικρὸν ἔπεσεν ἐπὶ πρόσωπον αὐτοῦ προσευχόμενος καὶ λέγων· πάτερ, εἰ δυνατόν ἐστιν, παρελθάτω ἀπ’ ἐμοῦ τὸ ποτήριον τοῦτο· πλὴν οὐχ ὡς ἐγὼ θέλω ἀλλ’ ὡς σύ.
 Persian: سپس قدری پیش رفته به رویْ بر خاک افتاد و دعا کرد:« ای پدر من، اگر ممکن است این جام از من بگذرد، امّا نه به خواست من، بلکه به ارادۀ تو.»
 
 Original words:
 - o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
 - o2: προσελθὼν = G4334 προσέρχομαι "as soon as he) come (unto), come thereunto…" [V-2AAP-NSM]
-- o3: μικρὸν = G3398 μικρός "least, less, little, small" [A-ASM]
-- o4: ἔπεσεν = G4098 πίπτω "fail, fall (down), light on" [V-2AAI-3S]
-- o5: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
-- o6: πρόσωπον = G4383 πρόσωπον "outward) appearance, before, countenance, face…" [N-ASN]
-- o7: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
-- o8: προσευχόμενος = G4336 προσεύχομαι "pray ( earnestly, for), make prayer" [V-PNP-NSM]
-- o9: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o10: λέγων· = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAP-NSM]
-- o11: πάτερ, = G3962 πατήρ "father, parent" [N-VSM]
-- o12: εἰ = G1487 εἰ "forasmuch as, if, that, (al-)though, whether" [COND]
-- o13: δυνατόν = G1415 δυνατός "able, could, (that is) mighty (man), possible…" [A-NSN]
-- o14: ἐστιν, = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
-- o15: παρελθάτω = G3928 παρέρχομαι "come (forth), go, pass (away, by, over), past…" [V-2AAM-3S]
-- o16: ἀπ’ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
-- o17: ἐμοῦ = G1473 ἐγώ "I, me" [P-1GS]
-- o18: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
-- o19: ποτήριον = G4221 ποτήριον "cup" [N-NSN]
-- o20: τοῦτο· = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-NSN]
-- o21: πλὴν = G4133 πλήν "but (rather), except, nevertheless…" [ADV]
-- o22: οὐχ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
-- o23: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
-- o24: ἐγὼ = G1473 ἐγώ "I, me" [P-1NS]
-- o25: θέλω = G2309 θέλω "desire, be disposed (forward), intend, list, love…" [V-PAI-1S]
-- o26: ἀλλ’ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
-- o27: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
-- o28: σύ. = G4771 σύ "thou" [P-2NS]
+- o3: προελθων = G4281 προέρχομαι "go before (farther, forward), outgo, pass on" [V-2AAP-NSM] (variant reading, WHNU)
+- o4: μικρὸν = G3398 μικρός "least, less, little, small" [A-ASM]
+- o5: ἔπεσεν = G4098 πίπτω "fail, fall (down), light on" [V-2AAI-3S]
+- o6: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o7: πρόσωπον = G4383 πρόσωπον "outward) appearance, before, countenance, face…" [N-ASN]
+- o8: αὐτοῦ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o9: προσευχόμενος = G4336 προσεύχομαι "pray ( earnestly, for), make prayer" [V-PNP-NSM]
+- o10: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o11: λέγων· = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-PAP-NSM]
+- o12: πάτερ, = G3962 πατήρ "father, parent" [N-VSM]
+- o13: εἰ = G1487 εἰ "forasmuch as, if, that, (al-)though, whether" [COND]
+- o14: δυνατόν = G1415 δυνατός "able, could, (that is) mighty (man), possible…" [A-NSN]
+- o15: ἐστιν, = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o16: παρελθάτω = G3928 παρέρχομαι "come (forth), go, pass (away, by, over), past…" [V-2AAM-3S]
+- o17: ἀπ’ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
+- o18: ἐμοῦ = G1473 ἐγώ "I, me" [P-1GS]
+- o19: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o20: ποτήριον = G4221 ποτήριον "cup" [N-NSN]
+- o21: τοῦτο· = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-NSN]
+- o22: πλὴν = G4133 πλήν "but (rather), except, nevertheless…" [ADV]
+- o23: οὐχ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o24: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
+- o25: ἐγὼ = G1473 ἐγώ "I, me" [P-1NS]
+- o26: θέλω = G2309 θέλω "desire, be disposed (forward), intend, list, love…" [V-PAI-1S]
+- o27: ἀλλ’ = G235 ἀλλά "and, but (even), howbeit, indeed, nay…" [CONJ]
+- o28: ὡς = G5613 ὡς "about, after (that), (according) as (it had been…" [ADV]
+- o29: σύ. = G4771 σύ "thou" [P-2NS]
 
 Persian entries and current tags:
 - p1: سپس  → G2532

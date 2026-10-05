@@ -375,19 +375,23 @@ Persian entries and current tags:
 
 ### I Peter 2:8
 
-Original: οἳ προσκόπτουσιν τῷ λόγῳ ἀπειθοῦντες, εἰς ὃ καὶ ἐτέθησαν.
+Original: ⟨λιθος⟩ ⟨προσκομματος⟩ ⟨πετρα⟩ ⟨σκανδαλου⟩ οἳ προσκόπτουσιν τῷ λόγῳ ἀπειθοῦντες, εἰς ὃ καὶ ἐτέθησαν.
 Persian: و نیز،« سنگی که سبب لغزش شود، و صخره‌ای که موجب سقوط گردد.» اینان می‌لغزند چون کلام را فرمان نمی‌برند، که این بر ایشان مقدّر گشته_است.
 
 Original words:
-- o1: οἳ = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-NPM]
-- o2: προσκόπτουσιν = G4350 προσκόπτω "beat upon, dash, stumble (at)" [V-PAI-3P]
-- o3: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
-- o4: λόγῳ = G3056 λόγος "account, cause, communication, concerning…" [N-DSM]
-- o5: ἀπειθοῦντες, = G544 ἀπειθέω "not believe, disobedient, obey not, unbelieving" [V-PAP-NPM]
-- o6: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
-- o7: ὃ = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-ASN]
-- o8: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o9: ἐτέθησαν. = G5087 τίθημι "+ advise, appoint, bow, commit, conceive, give…" [V-API-3P]
+- o1: λιθος = G3037 λίθος "(mill-, stumbling-)stone" [N-NSM] (variant reading, WHNU)
+- o2: προσκομματος = G4348 πρόσκομμα "offence, stumbling(-block, (-stone))" [N-GSN] (variant reading, WHNU)
+- o3: πετρα = G4073 πέτρα "rock" [N-NSF] (variant reading, WHNU)
+- o4: σκανδαλου = G4625 σκάνδαλον "occasion to fall (of stumbling), offence…" [N-GSN] (variant reading, WHNU)
+- o5: οἳ = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-NPM]
+- o6: προσκόπτουσιν = G4350 προσκόπτω "beat upon, dash, stumble (at)" [V-PAI-3P]
+- o7: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
+- o8: λόγῳ = G3056 λόγος "account, cause, communication, concerning…" [N-DSM]
+- o9: ἀπειθοῦντες, = G544 ἀπειθέω "not believe, disobedient, obey not, unbelieving" [V-PAP-NPM]
+- o10: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o11: ὃ = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-ASN]
+- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o13: ἐτέθησαν. = G5087 τίθημι "+ advise, appoint, bow, commit, conceive, give…" [V-API-3P]
 
 Persian entries and current tags:
 - p1: و

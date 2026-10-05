@@ -62,7 +62,38 @@ Each verse is tagged independently, so re-tagging never shifts a hand-corrected 
 The tool also fixes an old bug: the original aligner dropped the 17 verses the ESV omits
 (Matthew 17:21, Acts 8:37, Mark 9:44,46, ...), which shifted every later verse in those 16
 chapters. These verses are restored from `transformations/NMV_hazm.parquet`. Matthew 12:47 is
-tagged. The others have no text in Tischendorf's Greek, so they stay untagged.
+tagged. The others have no text in Tischendorf's Greek; they now take their Greek from
+`TR.json` (see below).
+
+## Greek variant readings (`variants.py`)
+
+The NMV New Testament follows a modern critical text close to NA27/UBS4. Verses found only
+in the Textus Receptus are added in square brackets (Matthew 17:21, Acts 8:37, the doxology
+of Matthew 6:13…). Tischendorf, the Greek in `accented.json`, differs from that text in a few
+hundred places, e.g. Jude 22 (ἐλέγχετε, where the Persian has ἐλεᾶτε "have mercy"),
+Acts 20:28 (κυρίου, where the Persian has θεοῦ "God"), 2 Peter 3:10, 1 Corinthians 2:1, and
+Luke 24:12, which it leaves out. A comparison at 44 well-known variant units ranked the
+Strong's-tagged Greek files in sync.bible: `WHNU.json` (Westcott-Hort with NA27/UBS4
+variants) matched the Persian at 36, `accented.json` and `MorphGNT.json` at 34,
+`grcsbl2010eb.json` at 30, the Byzantine texts at 17-23, and `TR.json` at 19.
+
+So the original text for the New Testament is `accented.json` with words merged in from:
+
+- **`WHNU.json`**, for every verse;
+- **`TR.json`**, for verses whose Persian has square brackets, and for verses neither of the
+  other files has.
+
+Only words whose Strong's number isn't already in the verse are added, inserted where they
+stand in that text. Numbers are converted to the `accented.json` conventions first: no zero
+padding; `G1473`/`G2249` and `G4771`/`G5210` for singular/plural pronouns; and `G1510` for
+TR's forms of εἰμί (`G2076`, `G2258`…). The same word under a different number (πλεῖον,
+G4183 in Tischendorf and G4119 in WHNU) or part of a word written as one (διατί) isn't
+counted as a different reading. About 350 verses get extra words: around 520 words from
+WHNU and 270 from TR. Each added word has a fourth field naming its source, e.g.
+`["ελεατε", "G1653", "V-PAM-2P", "WHNU"]`. The Old Testament is unchanged.
+
+The re-tagger, `make_review_chunks.py` and `review_replies.py` all read the original text
+this way. Each takes `--no-variants` to use `accented.json` alone.
 
 ## How tagging works
 

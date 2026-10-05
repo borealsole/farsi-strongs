@@ -166,7 +166,7 @@ Persian entries and current tags:
 
 ### Matthew 10:3
 
-Original: Φίλιππος καὶ Βαρθολομαῖος, Θωμᾶς καὶ Μαθθαῖος ὁ τελώνης, Ἰάκωβος ὁ τοῦ Ἀλφαίου καὶ Λεββαῖος,
+Original: Φίλιππος καὶ Βαρθολομαῖος, Θωμᾶς καὶ Μαθθαῖος ὁ τελώνης, Ἰάκωβος ὁ τοῦ Ἀλφαίου καὶ Λεββαῖος, ⟨θαδδαιος⟩
 Persian: فیلیپُس و بَرتولْما؛ توما و مَتّای خَراجگیر؛ یعقوب پسر حَلْفای و تَدّای؛
 
 Original words:
@@ -184,6 +184,7 @@ Original words:
 - o12: Ἀλφαίου = G256 Ἀλφαῖος "Alpheus" [N-GSM]
 - o13: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
 - o14: Λεββαῖος, = G3002 Λεββαῖος "Lebbæus" [N-NSM]
+- o15: θαδδαιος = G2280 Θαδδαῖος "Thaddæus" [N-NSM] (variant reading, WHNU)
 
 Persian entries and current tags:
 - p1: فیلیپُس  → G5376 G918

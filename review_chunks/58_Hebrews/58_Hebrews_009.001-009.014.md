@@ -563,7 +563,7 @@ Persian entries and current tags:
 
 ### Hebrews 9:11
 
-Original: Χριστὸς δὲ παραγενόμενος ἀρχιερεὺς τῶν μελλόντων ἀγαθῶν διὰ τῆς μείζονος καὶ τελειοτέρας σκηνῆς οὐ χειροποιήτου, τοῦτ’ ἔστιν οὐ ταύτης τῆς κτίσεως,
+Original: Χριστὸς δὲ παραγενόμενος ἀρχιερεὺς τῶν μελλόντων ⟨γενομενων⟩ ἀγαθῶν διὰ τῆς μείζονος καὶ τελειοτέρας σκηνῆς οὐ χειροποιήτου, τοῦτ’ ἔστιν οὐ ταύτης τῆς κτίσεως,
 Persian: امّا چون مسیح در مقام کاهن اعظمِ آن امورِ نیکو ظاهر گشت که هم‌اکنون واقع شده‌اند، به خیمه‌ای بزرگتر و کاملتر داخل شد که به دست انسان ساخته_نشده_است و به دیگر سخن، به این خلقت تعلّق ندارد.
 
 Original words:
@@ -573,21 +573,22 @@ Original words:
 - o4: ἀρχιερεὺς = G749 ἀρχιερεύς "chief (high) priest, chief of the priests" [N-NSM]
 - o5: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPN]
 - o6: μελλόντων = G3195 μέλλω "about, after that, be (almost), (that which is…" [V-PAP-GPN]
-- o7: ἀγαθῶν = G18 ἀγαθός "benefit, good(-s, things), well" [A-GPN]
-- o8: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
-- o9: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
-- o10: μείζονος = G3173 μέγας "+ fear) exceedingly, great(-est), high, large…" [A-GSF-C]
-- o11: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o12: τελειοτέρας = G5046 τέλειος "of full age, man, perfect" [A-GSF-C]
-- o13: σκηνῆς = G4633 σκηνή "habitation, tabernacle" [N-GSF]
-- o14: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
-- o15: χειροποιήτου, = G5499 χειροποίητος "made by (make with) hands" [A-GSF]
-- o16: τοῦτ’ = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-NSN]
-- o17: ἔστιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
-- o18: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
-- o19: ταύτης = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-GSF]
-- o20: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
-- o21: κτίσεως, = G2937 κτίσις "building, creation, creature, ordinance" [N-GSF]
+- o7: γενομενων = G1096 γίνομαι "arise, be assembled, be(-come, -fall, -have self)…" [V-2ADP-GPN] (variant reading, WHNU)
+- o8: ἀγαθῶν = G18 ἀγαθός "benefit, good(-s, things), well" [A-GPN]
+- o9: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
+- o10: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o11: μείζονος = G3173 μέγας "+ fear) exceedingly, great(-est), high, large…" [A-GSF-C]
+- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o13: τελειοτέρας = G5046 τέλειος "of full age, man, perfect" [A-GSF-C]
+- o14: σκηνῆς = G4633 σκηνή "habitation, tabernacle" [N-GSF]
+- o15: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o16: χειροποιήτου, = G5499 χειροποίητος "made by (make with) hands" [A-GSF]
+- o17: τοῦτ’ = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-NSN]
+- o18: ἔστιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o19: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o20: ταύτης = G3778 οὗτος "he (it was that), hereof, it, she, such as…" [D-GSF]
+- o21: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o22: κτίσεως, = G2937 κτίσις "building, creation, creature, ordinance" [N-GSF]
 
 Persian entries and current tags:
 - p1: امّا  → G1161
@@ -741,7 +742,7 @@ Persian entries and current tags:
 
 ### Hebrews 9:14
 
-Original: πόσῳ μᾶλλον τὸ αἷμα τοῦ Χριστοῦ, ὃς διὰ πνεύματος αἰωνίου ἑαυτὸν προσήνεγκεν ἄμωμον τῷ θεῷ, καθαριεῖ τὴν συνείδησιν ὑμῶν ἀπὸ νεκρῶν ἔργων εἰς τὸ λατρεύειν θεῷ ζῶντι.
+Original: πόσῳ μᾶλλον τὸ αἷμα τοῦ Χριστοῦ, ὃς διὰ πνεύματος αἰωνίου ἑαυτὸν προσήνεγκεν ἄμωμον τῷ θεῷ, καθαριεῖ τὴν συνείδησιν ὑμῶν ⟨ημων⟩ ἀπὸ νεκρῶν ἔργων εἰς τὸ λατρεύειν θεῷ ζῶντι.
 Persian: چقدر بیشتر، خون مسیح که به واسطۀ آن روح جاودانی، خویشتن را بی‌عیب به خدا تقدیم کرد، وجدان ما را از اعمال منتهی به مرگ پاک خواهد_ساخت تا بتوانیم خدای زنده را خدمت کنیم!
 
 Original words:
@@ -764,14 +765,15 @@ Original words:
 - o17: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
 - o18: συνείδησιν = G4893 συνείδησις "conscience" [N-ASF]
 - o19: ὑμῶν = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
-- o20: ἀπὸ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
-- o21: νεκρῶν = G3498 νεκρός "dead" [A-GPN]
-- o22: ἔργων = G2041 ἔργον "deed, doing, labour, work" [N-GPN]
-- o23: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
-- o24: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
-- o25: λατρεύειν = G3000 λατρεύω "serve, do the service, worship(-per)" [V-PAN]
-- o26: θεῷ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-DSM]
-- o27: ζῶντι. = G2198 ζάω "life(-time), (a-)live(-ly), quick" [V-PAP-DSM]
+- o20: ημων = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP] (variant reading, WHNU)
+- o21: ἀπὸ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
+- o22: νεκρῶν = G3498 νεκρός "dead" [A-GPN]
+- o23: ἔργων = G2041 ἔργον "deed, doing, labour, work" [N-GPN]
+- o24: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o25: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o26: λατρεύειν = G3000 λατρεύω "serve, do the service, worship(-per)" [V-PAN]
+- o27: θεῷ = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-DSM]
+- o28: ζῶντι. = G2198 ζάω "life(-time), (a-)live(-ly), quick" [V-PAP-DSM]
 
 Persian entries and current tags:
 - p1: چقدر  → G4214

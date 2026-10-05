@@ -34,6 +34,12 @@ They are generated from:
 
 Hebrew is shown with vowel points but without cantillation marks, to keep chunks smaller.
 
+In the New Testament, the NMV follows a text close to NA27/UBS4 (plus bracketed Textus
+Receptus verses) where `accented.json` has Tischendorf. Greek words from those readings are
+merged into the verse, shown in ⟨ ⟩ in the running text and marked `(variant reading, WHNU)` or
+`(variant reading, TR)` in the word list. Their numbers can be used like any other in the
+verse. `--no-variants` leaves them out.
+
 ## Reviewing a chunk
 
 1. Start a **new chat** for each chunk, so earlier chunks don't crowd the conversation.
@@ -74,7 +80,7 @@ I'm reviewing the Strong's number tags on the NMV Persian Bible for sync.bible. 
 
 For every verse under "Verses to review", check each Persian entry and correct its tags using these rules:
 
-1. A Persian word that translates an original word gets that word's Strong's number. Use the numbers listed for that verse's original words. Only where the Persian verse division differs from the original (the Persian includes words that belong to the original verse just before or after) may you use a number from that neighbouring verse, i.e. the verse before or after in the file, or under "Neighbouring verses". List every such case in your notes.
+1. A Persian word that translates an original word gets that word's Strong's number. Use the numbers listed for that verse's original words, including words marked "variant reading": these come from other Greek texts, which the Persian often follows where the main Greek text differs. Only where the Persian verse division differs from the original (the Persian includes words that belong to the original verse just before or after) may you use a number from that neighbouring verse, i.e. the verse before or after in the file, or under "Neighbouring verses". List every such case in your notes.
 2. A Persian word added in translation, with no original word behind it, has no tag. Punctuation is never tagged.
 3. If one Persian word translates several original words, or several parts of one Hebrew word, give it all their numbers separated by spaces, in original word order (e.g. "Hc H3068").
 4. If adjacent Persian words together translate one original word (e.g. a compound verb such as تسلی می‌دهد), group them into one entry: join their text with a single space and give the group one tag. Never group across punctuation.

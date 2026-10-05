@@ -676,7 +676,7 @@ Persian entries and current tags:
 
 ### Revelation of John 1:11
 
-Original: λεγούσης, ὃ βλέπεις γράψον εἰς βιβλίον καὶ πέμψον ταῖς ἑπτὰ ἐκκλησίαις, εἰς Ἔφεσον καὶ εἰς Ζμύρναν καὶ εἰς Πέργαμον καὶ εἰς Θυάτειρα καὶ εἰς Σάρδεις καὶ εἰς Φιλαδελφίαν καὶ εἰς Λαοδίκιαν.
+Original: λεγούσης, ὃ βλέπεις γράψον εἰς βιβλίον καὶ πέμψον ταῖς ἑπτὰ ἐκκλησίαις, εἰς Ἔφεσον καὶ εἰς Ζμύρναν καὶ εἰς Πέργαμον καὶ εἰς Θυάτειρα καὶ εἰς Σάρδεις καὶ εἰς Φιλαδελφίαν ⟨φιλαδελφειαν⟩ καὶ εἰς Λαοδίκιαν.
 Persian: که می‌گفت:« آنچه را که می‌بینی بر طوماری بنویس و به هفت کلیسای اَفِسُس، اِسمیرنا، پِرگاموم، تیاتیرا، ساردِس، فیلادِلفیه و لائودیکیه بفرست.»
 
 Original words:
@@ -708,9 +708,10 @@ Original words:
 - o26: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
 - o27: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
 - o28: Φιλαδελφίαν = G5360 φιλαδελφία "brotherly love (kindness), love of the brethren" [N-ASF]
-- o29: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o30: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
-- o31: Λαοδίκιαν. = G2993 Λαοδίκεια "Laodicea" [N-ASF]
+- o29: φιλαδελφειαν = G5359 Φιλαδέλφεια "Philadelphia" [N-ASF] (variant reading, WHNU)
+- o30: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o31: εἰς = G1519 εἰς "abundant-)ly, against, among, as, at…" [PREP]
+- o32: Λαοδίκιαν. = G2993 Λαοδίκεια "Laodicea" [N-ASF]
 
 Persian entries and current tags:
 - p1: که می‌گفت  → G3004

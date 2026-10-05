@@ -158,25 +158,26 @@ Persian entries and current tags:
 
 ### Matthew 19:18
 
-Original: ποίας; φησίν ὁ δὲ Ἰησοῦς εἶπεν· τὸ οὐ φονεύσεις, οὐ μοιχεύσεις, οὐ κλέψεις, οὐ ψευδομαρτυρήσεις,
+Original: ⟨αυτω⟩ ποίας; φησίν ὁ δὲ Ἰησοῦς εἶπεν· τὸ οὐ φονεύσεις, οὐ μοιχεύσεις, οὐ κλέψεις, οὐ ψευδομαρτυρήσεις,
 Persian: آن مرد پرسید:« کدام احکام را؟» عیسی گفت:« ”قتل مکن، زنا مکن، دزدی مکن، شهادت دروغ مده،
 
 Original words:
-- o1: ποίας; = G4169 ποῖος "what (manner of), which" [I-APF]
-- o2: φησίν = G5346 φημί "affirm, say" [V-PAI-3S]
-- o3: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
-- o4: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
-- o5: Ἰησοῦς = G2424 Ἰησοῦς "Jesus" [N-NSM]
-- o6: εἶπεν· = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-2AAI-3S]
-- o7: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
-- o8: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
-- o9: φονεύσεις, = G5407 φονεύω "kill, do murder, slay" [V-FAI-2S]
-- o10: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
-- o11: μοιχεύσεις, = G3431 μοιχεύω "commit adultery" [V-FAI-2S]
-- o12: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
-- o13: κλέψεις, = G2813 κλέπτω "steal" [V-FAI-2S]
-- o14: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
-- o15: ψευδομαρτυρήσεις, = G5576 ψευδομαρτυρέω "be a false witness" [V-FAI-2S]
+- o1: αυτω = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DSM] (variant reading, WHNU)
+- o2: ποίας; = G4169 ποῖος "what (manner of), which" [I-APF]
+- o3: φησίν = G5346 φημί "affirm, say" [V-PAI-3S]
+- o4: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o5: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o6: Ἰησοῦς = G2424 Ἰησοῦς "Jesus" [N-NSM]
+- o7: εἶπεν· = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-2AAI-3S]
+- o8: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o9: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o10: φονεύσεις, = G5407 φονεύω "kill, do murder, slay" [V-FAI-2S]
+- o11: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o12: μοιχεύσεις, = G3431 μοιχεύω "commit adultery" [V-FAI-2S]
+- o13: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o14: κλέψεις, = G2813 κλέπτω "steal" [V-FAI-2S]
+- o15: οὐ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
+- o16: ψευδομαρτυρήσεις, = G5576 ψευδομαρτυρέω "be a false witness" [V-FAI-2S]
 
 Persian entries and current tags:
 - p1: آن
@@ -349,7 +350,7 @@ Persian entries and current tags:
 
 ### Matthew 19:22
 
-Original: ἀκούσας δὲ ὁ νεανίσκος ἀπῆλθεν λυπούμενος· ἦν γὰρ ἔχων κτήματα πολλά.
+Original: ἀκούσας δὲ ὁ νεανίσκος ⟨λογον⟩ ἀπῆλθεν λυπούμενος· ἦν γὰρ ἔχων κτήματα πολλά.
 Persian: جوان چون این را شنید، اندوهگین شد و از آنجا رفت، زیرا ثروت بسیار داشت.
 
 Original words:
@@ -357,13 +358,14 @@ Original words:
 - o2: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
 - o3: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
 - o4: νεανίσκος = G3495 νεανίσκος "young man" [N-NSM]
-- o5: ἀπῆλθεν = G565 ἀπέρχομαι "come, depart, go (aside, away, back, out, … ways)…" [V-2AAI-3S]
-- o6: λυπούμενος· = G3076 λυπέω "cause grief, grieve, be in heaviness…" [V-PPP-NSM]
-- o7: ἦν = G1510 εἰμί "am, have been, it is I, was" [V-IAI-3S]
-- o8: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
-- o9: ἔχων = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAP-NSM]
-- o10: κτήματα = G2933 κτῆμα "possession" [N-APN]
-- o11: πολλά. = G4183 πολύς "abundant, + altogether, common, + far (passed…" [A-APN]
+- o5: λογον = G3056 λόγος "account, cause, communication, concerning…" [N-ASM] (variant reading, WHNU)
+- o6: ἀπῆλθεν = G565 ἀπέρχομαι "come, depart, go (aside, away, back, out, … ways)…" [V-2AAI-3S]
+- o7: λυπούμενος· = G3076 λυπέω "cause grief, grieve, be in heaviness…" [V-PPP-NSM]
+- o8: ἦν = G1510 εἰμί "am, have been, it is I, was" [V-IAI-3S]
+- o9: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o10: ἔχων = G2192 ἔχω "be (able, hold, possessed with), accompany…" [V-PAP-NSM]
+- o11: κτήματα = G2933 κτῆμα "possession" [N-APN]
+- o12: πολλά. = G4183 πολύς "abundant, + altogether, common, + far (passed…" [A-APN]
 
 Persian entries and current tags:
 - p1: جوان  → G3495
@@ -439,7 +441,7 @@ Persian entries and current tags:
 
 ### Matthew 19:24
 
-Original: πάλιν δὲ λέγω ὑμῖν ὅτι εὐκοπώτερόν ἐστιν κάμηλον διὰ τρυπήματος ῥαφίδος εἰσελθεῖν ἢ πλούσιον εἰς τὴν βασιλείαν τῶν οὐρανῶν.
+Original: πάλιν δὲ λέγω ὑμῖν ὅτι εὐκοπώτερόν ἐστιν κάμηλον διὰ τρυπήματος ῥαφίδος εἰσελθεῖν ἢ πλούσιον εἰς τὴν βασιλείαν τῶν οὐρανῶν. ⟨θεου⟩
 Persian: باز تأکید می‌کنم که گذشتن شتر از سوراخ سوزن آسانتر است از راهیابی شخص ثروتمند به پادشاهی خدا.»
 
 Original words:
@@ -462,6 +464,7 @@ Original words:
 - o17: βασιλείαν = G932 βασιλεία "kingdom, + reign" [N-ASF]
 - o18: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPM]
 - o19: οὐρανῶν. = G3772 οὐρανός "air, heaven(-ly), sky" [N-GPM]
+- o20: θεου = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM] (variant reading, WHNU)
 
 Persian entries and current tags:
 - p1: باز  → G3825
@@ -617,7 +620,7 @@ Persian entries and current tags:
 
 ### Matthew 19:28
 
-Original: ὁ δὲ Ἰησοῦς εἶπεν αὐτοῖς· ἀμὴν λέγω ὑμῖν ὅτι ὑμεῖς οἱ ἀκολουθήσαντές μοι, ἐν τῇ παλινγενεσίᾳ, ὅταν καθίσῃ ὁ υἱὸς τοῦ ἀνθρώπου ἐπὶ θρόνου δόξης αὐτοῦ, καθίσεσθε καὶ αὐτοὶ ἐπὶ δώδεκα θρόνους κρίνοντες τὰς δώδεκα φυλὰς τοῦ Ἰσραήλ.
+Original: ὁ δὲ Ἰησοῦς εἶπεν αὐτοῖς· ἀμὴν λέγω ὑμῖν ὅτι ὑμεῖς οἱ ἀκολουθήσαντές μοι, ἐν τῇ παλινγενεσίᾳ, ὅταν καθίσῃ ὁ υἱὸς τοῦ ἀνθρώπου ἐπὶ θρόνου δόξης αὐτοῦ, καθίσεσθε ⟨καθησεσθε⟩ καὶ αὐτοὶ ἐπὶ δώδεκα θρόνους κρίνοντες τὰς δώδεκα φυλὰς τοῦ Ἰσραήλ.
 Persian: عیسی به ایشان گفت:« آمین، به شما می‌گویم، در جهان نوین، هنگامی که پسر انسان بر تخت شکوهمند خود بنشیند، شما نیز که از من پیروی کرده‌اید، بر دوازده تخت خواهید_نشست و بر دوازده قبیلۀ اسرائیل داوری خواهید_کرد.
 
 Original words:
@@ -648,17 +651,18 @@ Original words:
 - o25: δόξης = G1391 δόξα "dignity, glory(-ious), honour, praise, worship" [N-GSF]
 - o26: αὐτοῦ, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
 - o27: καθίσεσθε = G2523 καθίζω "continue, set, sit (down), tarry" [V-FMI-2P]
-- o28: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o29: αὐτοὶ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-NPM]
-- o30: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
-- o31: δώδεκα = G1427 δώδεκα "twelve" [A-NUI]
-- o32: θρόνους = G2362 θρόνος "seat, throne" [N-APM]
-- o33: κρίνοντες = G2919 κρίνω "avenge, conclude, condemn, damn, decree…" [V-PAP-NPM]
-- o34: τὰς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APF]
-- o35: δώδεκα = G1427 δώδεκα "twelve" [A-NUI]
-- o36: φυλὰς = G5443 φυλή "kindred, tribe" [N-APF]
-- o37: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
-- o38: Ἰσραήλ. = G2474 Ἰσραήλ "Israel" [N-PRI]
+- o28: καθησεσθε = G2521 κάθημαι "dwell, sit (by, down)" [V-FDI-2P] (variant reading, WHNU)
+- o29: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o30: αὐτοὶ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-NPM]
+- o31: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o32: δώδεκα = G1427 δώδεκα "twelve" [A-NUI]
+- o33: θρόνους = G2362 θρόνος "seat, throne" [N-APM]
+- o34: κρίνοντες = G2919 κρίνω "avenge, conclude, condemn, damn, decree…" [V-PAP-NPM]
+- o35: τὰς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APF]
+- o36: δώδεκα = G1427 δώδεκα "twelve" [A-NUI]
+- o37: φυλὰς = G5443 φυλή "kindred, tribe" [N-APF]
+- o38: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o39: Ἰσραήλ. = G2474 Ἰσραήλ "Israel" [N-PRI]
 
 Persian entries and current tags:
 - p1: عیسی  → G1161 G2424

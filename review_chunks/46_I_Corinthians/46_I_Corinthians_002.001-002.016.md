@@ -51,7 +51,7 @@ Correct Persian tags (reviewed by hand):
 
 ### I Corinthians 2:1
 
-Original: Κἀγὼ ἐλθὼν πρὸς ὑμᾶς, ἀδελφοί, ἦλθον οὐ καθ’ ὑπεροχὴν λόγου ἢ σοφίας καταγγέλλων ὑμῖν τὸ μαρτύριον τοῦ θεοῦ.
+Original: Κἀγὼ ἐλθὼν πρὸς ὑμᾶς, ἀδελφοί, ἦλθον οὐ καθ’ ὑπεροχὴν λόγου ἢ σοφίας καταγγέλλων ὑμῖν τὸ μαρτύριον ⟨μυστηριον⟩ τοῦ θεοῦ.
 Persian: من نیز ای برادران، هنگامی که نزد شما آمدم، با فصاحت و حکمت بشری نیامدم، آنگاه که راز خدا را به شما اعلام می‌کردم.
 
 Original words:
@@ -71,8 +71,9 @@ Original words:
 - o14: ὑμῖν = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
 - o15: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
 - o16: μαρτύριον = G3142 μαρτύριον "to be testified, testimony, witness" [N-ASN]
-- o17: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
-- o18: θεοῦ. = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o17: μυστηριον = G3466 μυστήριον "mystery" [N-ASN] (variant reading, WHNU)
+- o18: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o19: θεοῦ. = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
 
 Persian entries and current tags:
 - p1: من  → G2504

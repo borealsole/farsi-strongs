@@ -342,14 +342,15 @@ Persian entries and current tags:
 
 ### I Thessalonians 5:25
 
-Original: Ἀδελφοί, προσεύχεσθε περὶ ἡμῶν.
+Original: Ἀδελφοί, προσεύχεσθε ⟨και⟩ περὶ ἡμῶν.
 Persian: ای برادران، برای ما دعا کنید.
 
 Original words:
 - o1: Ἀδελφοί, = G80 ἀδελφός "brother" [N-VPM]
 - o2: προσεύχεσθε = G4336 προσεύχομαι "pray ( earnestly, for), make prayer" [V-PNM-2P]
-- o3: περὶ = G4012 περί "there-)about, above, against, at, on behalf of…" [PREP]
-- o4: ἡμῶν. = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
+- o3: και = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ] (variant reading, WHNU)
+- o4: περὶ = G4012 περί "there-)about, above, against, at, on behalf of…" [PREP]
+- o5: ἡμῶν. = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
 
 Persian entries and current tags:
 - p1: ای  → G4336

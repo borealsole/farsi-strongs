@@ -1,6 +1,6 @@
-# NMV Strong's review: Romans 16:1–13
+# NMV Strong's review: Romans 16:1–14
 
-Chunk file: 45_Romans_016.001-016.013.md. 13 verses to review.
+Chunk file: 45_Romans_016.001-016.014.md. 14 verses to review.
 
 ## Worked examples (already reviewed by hand; follow these conventions)
 
@@ -51,7 +51,7 @@ Correct Persian tags (reviewed by hand):
 
 ### Romans 16:1
 
-Original: Συνίστημι δὲ ὑμῖν Φοίβην τὴν ἀδελφὴν ἡμῶν, οὖσαν διάκονον τῆς ἐκκλησίας τῆς ἐν Κενχρεαῖς,
+Original: Συνίστημι δὲ ὑμῖν Φοίβην τὴν ἀδελφὴν ἡμῶν, οὖσαν ⟨και⟩ διάκονον τῆς ἐκκλησίας τῆς ἐν Κενχρεαῖς,
 Persian: خواهرمان فیبی را به شما معرفی می‌کنم. او از خادمان کلیسای شهر کِنخْریه است.
 
 Original words:
@@ -63,12 +63,13 @@ Original words:
 - o6: ἀδελφὴν = G79 ἀδελφή "sister" [N-ASF]
 - o7: ἡμῶν, = G2249 ἡμεῖς "us, we (ourselves)" [P-1GP]
 - o8: οὖσαν = G1510 εἰμί "am, have been, it is I, was" [V-PAP-ASF]
-- o9: διάκονον = G1249 διάκονος "deacon, minister, servant" [N-ASF]
-- o10: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
-- o11: ἐκκλησίας = G1577 ἐκκλησία "assembly, church" [N-GSF]
-- o12: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
-- o13: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
-- o14: Κενχρεαῖς, = G2747 Κεγχρεαί "Cencrea" [N-DPF]
+- o9: και = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ] (variant reading, WHNU)
+- o10: διάκονον = G1249 διάκονος "deacon, minister, servant" [N-ASF]
+- o11: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o12: ἐκκλησίας = G1577 ἐκκλησία "assembly, church" [N-GSF]
+- o13: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o14: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o15: Κενχρεαῖς, = G2747 Κεγχρεαί "Cencrea" [N-DPF]
 
 Persian entries and current tags:
 - p1: خواهرمان  → G79
@@ -632,6 +633,47 @@ Persian entries and current tags:
 - p21: سلام برسانید  → G782
 - p22: .
 
+### Romans 16:14
+
+Original: ἀσπάσασθε Ἀσύνκριτον, Φλέγοντα, Ἑρμῆν, Πατροβᾶν, Ἑρμᾶν, καὶ τοὺς σὺν αὐτοῖς ἀδελφούς.
+Persian: به آسینکْریتوس، فْلِگون، هِرماس، پاتْروباس و هِرمِس و برادران دیگری که با ایشان هستند، سلام گویید.
+
+Original words:
+- o1: ἀσπάσασθε = G782 ἀσπάζομαι "embrace, greet, salute, take leave" [V-ADM-2P]
+- o2: Ἀσύνκριτον, = G799 Ἀσύγκριτος "Asyncritos" [N-ASM]
+- o3: Φλέγοντα, = G5393 Φλέγων "Phlegon" [N-ASM]
+- o4: Ἑρμῆν, = G2060 Ἑρμῆς "Hermes, Mercury" [N-ASM]
+- o5: Πατροβᾶν, = G3969 Πατροβᾶς "Patrobas" [N-ASM]
+- o6: Ἑρμᾶν, = G2057 Ἑρμᾶς "Hermas" [N-ASM]
+- o7: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o8: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o9: σὺν = G4862 σύν "beside, with" [PREP]
+- o10: αὐτοῖς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPM]
+- o11: ἀδελφούς. = G80 ἀδελφός "brother" [N-APM]
+
+Persian entries and current tags:
+- p1: به  → G782
+- p2: آسینکْریتوس  → G799
+- p3: ،
+- p4: فْلِگون  → G5393
+- p5: ،
+- p6: هِرماس  → G2060
+- p7: ،
+- p8: پاتْروباس  → G3969
+- p9: و
+- p10: هِرمِس
+- p11: و  → G2532
+- p12: برادران  → G80
+- p13: دیگری
+- p14: که
+- p15: با  → G4862
+- p16: ایشان  → G846
+- p17: هستند
+- p18: ،
+- p19: سلام
+- p20: گویید  → G782
+- p21: .
+
 ## Neighbouring verses (context only, not for review)
 
 Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
@@ -648,16 +690,22 @@ Original words of verses next to the ones above. Where the Persian verse divisio
 - o8: ὑμῶν· = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
 - o9: ἀμήν. = G281 ἀμήν "amen, verily" [HEB]
 
-### Romans 16:14 (context)
+### Romans 16:15 (context)
 
 - o1: ἀσπάσασθε = G782 ἀσπάζομαι "embrace, greet, salute, take leave" [V-ADM-2P]
-- o2: Ἀσύνκριτον, = G799 Ἀσύγκριτος "Asyncritos" [N-ASM]
-- o3: Φλέγοντα, = G5393 Φλέγων "Phlegon" [N-ASM]
-- o4: Ἑρμῆν, = G2060 Ἑρμῆς "Hermes, Mercury" [N-ASM]
-- o5: Πατροβᾶν, = G3969 Πατροβᾶς "Patrobas" [N-ASM]
-- o6: Ἑρμᾶν, = G2057 Ἑρμᾶς "Hermas" [N-ASM]
-- o7: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o8: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
-- o9: σὺν = G4862 σύν "beside, with" [PREP]
-- o10: αὐτοῖς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPM]
-- o11: ἀδελφούς. = G80 ἀδελφός "brother" [N-APM]
+- o2: Φιλόλογον = G5378 Φιλόλογος "Philologus" [N-ASM]
+- o3: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o4: Ἰουλίαν, = G2456 Ἰουλία "Julia" [N-ASF]
+- o5: Νηρέα = G3517 Νηρεύς "Nereus" [N-ASM]
+- o6: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o7: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o8: ἀδελφὴν = G79 ἀδελφή "sister" [N-ASF]
+- o9: αὐτοῦ, = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GSM]
+- o10: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o11: Ὀλυμπᾶν, = G3652 Ὀλυμπᾶς "Olympas" [N-ASM]
+- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o13: τοὺς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APM]
+- o14: σὺν = G4862 σύν "beside, with" [PREP]
+- o15: αὐτοῖς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPM]
+- o16: πάντας = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-APM]
+- o17: ἁγίους. = G40 ἅγιος "(most) holy (one, thing), saint" [A-APM]

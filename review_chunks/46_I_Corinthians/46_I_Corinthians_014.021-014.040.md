@@ -804,7 +804,7 @@ Persian entries and current tags:
 
 ### I Corinthians 14:37
 
-Original: Εἴ τις δοκεῖ προφήτης εἶναι ἢ πνευματικός, ἐπιγινωσκέτω ἃ γράφω ὑμῖν ὅτι κυρίου ἐστίν·
+Original: Εἴ τις δοκεῖ προφήτης εἶναι ἢ πνευματικός, ἐπιγινωσκέτω ἃ γράφω ὑμῖν ὅτι κυρίου ἐστίν· ⟨εντολη⟩
 Persian: اگر کسی خود را نبی یا فردی روحانی می‌داند، تصدیق کند که آنچه به شما می‌نویسم فرمانی است از جانب خداوند.
 
 Original words:
@@ -822,6 +822,7 @@ Original words:
 - o12: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
 - o13: κυρίου = G2962 κύριος "God, Lord, master, Sir" [N-GSM]
 - o14: ἐστίν· = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o15: εντολη = G1785 ἐντολή "commandment, precept" [N-NSF] (variant reading, WHNU)
 
 Persian entries and current tags:
 - p1: اگر  → G1487

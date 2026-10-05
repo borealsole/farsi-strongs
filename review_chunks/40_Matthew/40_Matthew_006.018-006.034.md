@@ -237,7 +237,7 @@ Persian entries and current tags:
 
 ### Matthew 6:22
 
-Original: Ὁ λύχνος τοῦ σώματός ἐστιν ὁ ὀφθαλμός. ἐὰν ᾖ ὁ ὀφθαλμός σου ἁπλοῦς, ὅλον τὸ σῶμά σου φωτεινὸν ἔσται·
+Original: Ὁ λύχνος τοῦ σώματός ἐστιν ὁ ὀφθαλμός. ἐὰν ⟨ουν⟩ ᾖ ὁ ὀφθαλμός σου ἁπλοῦς, ὅλον τὸ σῶμά σου φωτεινὸν ἔσται·
 Persian: « چشم، چراغ بدن است. اگر چشمت سالم باشد، تمام وجودت روشن خواهد_بود.
 
 Original words:
@@ -249,17 +249,18 @@ Original words:
 - o6: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
 - o7: ὀφθαλμός. = G3788 ὀφθαλμός "eye, sight" [N-NSM]
 - o8: ἐὰν = G1437 ἐάν "before, but, except, (and) if, (if) so, (what-…" [COND]
-- o9: ᾖ = G1510 εἰμί "am, have been, it is I, was" [V-PAS-3S]
-- o10: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
-- o11: ὀφθαλμός = G3788 ὀφθαλμός "eye, sight" [N-NSM]
-- o12: σου = G4771 σύ "thou" [P-2GS]
-- o13: ἁπλοῦς, = G573 ἁπλοῦς "single" [A-NSM]
-- o14: ὅλον = G3650 ὅλος "all, altogether, every whit, + throughout, whole" [A-NSN]
-- o15: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
-- o16: σῶμά = G4983 σῶμα "bodily, body, slave" [N-NSN]
-- o17: σου = G4771 σύ "thou" [P-2GS]
-- o18: φωτεινὸν = G5460 φωτεινός "bright, full of light" [A-NSN]
-- o19: ἔσται· = G1510 εἰμί "am, have been, it is I, was" [V-FDI-3S]
+- o9: ουν = G3767 οὖν "and (so, truly), but, now (then)…" [CONJ] (variant reading, WHNU)
+- o10: ᾖ = G1510 εἰμί "am, have been, it is I, was" [V-PAS-3S]
+- o11: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o12: ὀφθαλμός = G3788 ὀφθαλμός "eye, sight" [N-NSM]
+- o13: σου = G4771 σύ "thou" [P-2GS]
+- o14: ἁπλοῦς, = G573 ἁπλοῦς "single" [A-NSM]
+- o15: ὅλον = G3650 ὅλος "all, altogether, every whit, + throughout, whole" [A-NSN]
+- o16: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o17: σῶμά = G4983 σῶμα "bodily, body, slave" [N-NSN]
+- o18: σου = G4771 σύ "thou" [P-2GS]
+- o19: φωτεινὸν = G5460 φωτεινός "bright, full of light" [A-NSN]
+- o20: ἔσται· = G1510 εἰμί "am, have been, it is I, was" [V-FDI-3S]
 
 Persian entries and current tags:
 - p1: «
@@ -418,7 +419,7 @@ Persian entries and current tags:
 
 ### Matthew 6:25
 
-Original: Διὰ τοῦτο λέγω ὑμῖν, μὴ μεριμνᾶτε τῇ ψυχῇ ὑμῶν τί φάγητε, μηδὲ τῷ σώματι ὑμῶν τί ἐνδύσησθε· οὐχὶ ἡ ψυχὴ πλεῖόν ἐστιν τῆς τροφῆς καὶ τὸ σῶμα τοῦ ἐνδύματος;
+Original: Διὰ τοῦτο λέγω ὑμῖν, μὴ μεριμνᾶτε τῇ ψυχῇ ὑμῶν τί φάγητε, ⟨πιητε⟩ μηδὲ τῷ σώματι ὑμῶν τί ἐνδύσησθε· οὐχὶ ἡ ψυχὴ πλεῖόν ἐστιν τῆς τροφῆς καὶ τὸ σῶμα τοῦ ἐνδύματος;
 Persian: « پس به شما می‌گویم، نگران زندگی خود نباشید که چه بخورید یا چه بنوشید، و نه نگران بدن خود که چه بپوشید. آیا زندگی از خوراک و بدن از پوشاک مهمتر نیست؟
 
 Original words:
@@ -433,24 +434,25 @@ Original words:
 - o9: ὑμῶν = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
 - o10: τί = G5101 τίς "every man, how (much), + no(-ne, thing)…" [I-ASN]
 - o11: φάγητε, = G5315 φάγω "eat, meat" [V-2AAS-2P]
-- o12: μηδὲ = G3366 μηδέ "neither, nor (yet), (no) not (once, so much as)" [CONJ-N]
-- o13: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSN]
-- o14: σώματι = G4983 σῶμα "bodily, body, slave" [N-DSN]
-- o15: ὑμῶν = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
-- o16: τί = G5101 τίς "every man, how (much), + no(-ne, thing)…" [I-ASN]
-- o17: ἐνδύσησθε· = G1746 ἐνδύω "array, clothe (with), endue, have (put) on" [V-AMS-2P]
-- o18: οὐχὶ = G3780 οὐχί "nay, not" [PRT-I]
-- o19: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
-- o20: ψυχὴ = G5590 ψυχή "heart (+ -ily), life, mind, soul, + us, + you" [N-NSF]
-- o21: πλεῖόν = G4183 πολύς "abundant, + altogether, common, + far (passed…" [A-NSN-C]
-- o22: ἐστιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
-- o23: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
-- o24: τροφῆς = G5160 τροφή "food, meat" [N-GSF]
-- o25: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o26: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
-- o27: σῶμα = G4983 σῶμα "bodily, body, slave" [N-NSN]
-- o28: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
-- o29: ἐνδύματος; = G1742 ἔνδυμα "clothing, garment, raiment" [N-GSN]
+- o12: πιητε = G4095 πίνω "drink" [V-2AAS-2P] (variant reading, WHNU)
+- o13: μηδὲ = G3366 μηδέ "neither, nor (yet), (no) not (once, so much as)" [CONJ-N]
+- o14: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSN]
+- o15: σώματι = G4983 σῶμα "bodily, body, slave" [N-DSN]
+- o16: ὑμῶν = G5210 ὑμεῖς "ye (yourselves), you" [P-2GP]
+- o17: τί = G5101 τίς "every man, how (much), + no(-ne, thing)…" [I-ASN]
+- o18: ἐνδύσησθε· = G1746 ἐνδύω "array, clothe (with), endue, have (put) on" [V-AMS-2P]
+- o19: οὐχὶ = G3780 οὐχί "nay, not" [PRT-I]
+- o20: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
+- o21: ψυχὴ = G5590 ψυχή "heart (+ -ily), life, mind, soul, + us, + you" [N-NSF]
+- o22: πλεῖόν = G4183 πολύς "abundant, + altogether, common, + far (passed…" [A-NSN-C]
+- o23: ἐστιν = G1510 εἰμί "am, have been, it is I, was" [V-PAI-3S]
+- o24: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o25: τροφῆς = G5160 τροφή "food, meat" [N-GSF]
+- o26: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o27: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSN]
+- o28: σῶμα = G4983 σῶμα "bodily, body, slave" [N-NSN]
+- o29: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSN]
+- o30: ἐνδύματος; = G1742 ἔνδυμα "clothing, garment, raiment" [N-GSN]
 
 Persian entries and current tags:
 - p1: «

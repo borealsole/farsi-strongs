@@ -632,7 +632,7 @@ Persian entries and current tags:
 
 ### Philippians 3:13
 
-Original: ἀδελφοί, ἐγὼ ἐμαυτὸν οὔπω λογίζομαι κατειληφέναι·
+Original: ἀδελφοί, ἐγὼ ἐμαυτὸν οὔπω λογίζομαι κατειληφέναι· ⟨δε⟩ ⟨τα⟩ ⟨μεν⟩ ⟨οπισω⟩ ⟨επιλανθανομενος⟩ ⟨εμπροσθεν⟩ ⟨επεκτεινομενος⟩
 Persian: برادران، گمان نمی‌کنم هنوز آن را به دست آورده_باشم؛ امّا یک کار می‌کنم، و آن اینکه آنچه در عقب است به فراموشی می‌سپارم و به سوی آنچه در پیش است خود را به جلو کشانده،
 
 Original words:
@@ -642,6 +642,13 @@ Original words:
 - o4: οὔπω = G3768 οὔπω "hitherto not, (no…) as yet, not yet" [ADV-N]
 - o5: λογίζομαι = G3049 λογίζομαι "conclude, (ac-)count (of), + despise, esteem…" [V-PNI-1S]
 - o6: κατειληφέναι· = G2638 καταλαμβάνω "apprehend, attain, come upon, comprehend, find…" [V-2RAN]
+- o7: δε = G1161 δέ "also, and, but, moreover…" [CONJ] (variant reading, WHNU)
+- o8: τα = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-APN] (variant reading, WHNU)
+- o9: μεν = G3303 μέν "even, indeed, so, some, truly, verily" [PRT] (variant reading, WHNU)
+- o10: οπισω = G3694 ὀπίσω "after, back(-ward), (+ get) behind, + follow" [ADV] (variant reading, WHNU)
+- o11: επιλανθανομενος = G1950 ἐπιλανθάνομαι "(be) forget(-ful of)" [V-PNP-NSM] (variant reading, WHNU)
+- o12: εμπροσθεν = G1715 ἔμπροσθεν "against, at, before, (in presence, sight) of" [ADV] (variant reading, WHNU)
+- o13: επεκτεινομενος = G1901 ἐπεκτείνομαι "reach forth" [V-PNP-NSM] (variant reading, WHNU)
 
 Persian entries and current tags:
 - p1: برادران  → G80

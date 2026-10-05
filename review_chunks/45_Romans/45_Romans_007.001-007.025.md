@@ -570,7 +570,7 @@ Persian entries and current tags:
 
 ### Romans 7:9
 
-Original: ἐγὼ δὲ ἔζων χωρὶς νόμου ποτέ· ἐλθούσης δὲ τῆς ἐντολῆς ἡ ἁμαρτία ἀνέζησεν,
+Original: ἐγὼ δὲ ἔζων χωρὶς νόμου ποτέ· ἐλθούσης δὲ τῆς ἐντολῆς ἡ ἁμαρτία ἀνέζησεν, ⟨απεθανον⟩
 Persian: زمانی من جدا از شریعتْ زنده بودم؛ امّا چون حکم آمد، گناه زنده گشت و من مُردم.
 
 Original words:
@@ -587,6 +587,7 @@ Original words:
 - o11: ἡ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSF]
 - o12: ἁμαρτία = G266 ἁμαρτία "offence, sin(-ful)" [N-NSF]
 - o13: ἀνέζησεν, = G326 ἀναζάω "(be a-)live again, revive" [V-AAI-3S]
+- o14: απεθανον = G599 ἀποθνήσκω "be dead, death, die, lie a-dying, be slain ( with)" [V-2AAI-1S] (variant reading, WHNU)
 
 Persian entries and current tags:
 - p1: زمانی  → G4218
@@ -1313,7 +1314,7 @@ Persian entries and current tags:
 
 ### Romans 7:25
 
-Original: χάρις δὲ τῷ θεῷ διὰ Ἰησοῦ Χριστοῦ τοῦ κυρίου ἡμῶν. ἄρα οὖν αὐτὸς ἐγὼ τῷ νοῒ δουλεύω νόμῳ θεοῦ, τῇ δὲ σαρκὶ νόμῳ ἁμαρτίας.
+Original: χάρις δὲ τῷ θεῷ διὰ Ἰησοῦ Χριστοῦ τοῦ κυρίου ἡμῶν. ἄρα οὖν αὐτὸς ἐγὼ τῷ ⟨μεν⟩ νοῒ δουλεύω νόμῳ θεοῦ, τῇ δὲ σαρκὶ νόμῳ ἁμαρτίας.
 Persian: خدا را سپاس باد- به واسطۀ خداوند ما عیسی مسیح! باری، من با ذهن خود شریعت خدا را بندگی می‌کنم، امّا با نَفْس خود قانون گناه را.
 
 Original words:
@@ -1332,15 +1333,16 @@ Original words:
 - o13: αὐτὸς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-NSM]
 - o14: ἐγὼ = G1473 ἐγώ "I, me" [P-1NS]
 - o15: τῷ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSM]
-- o16: νοῒ = G3563 νοῦς "mind, understanding" [N-DSM]
-- o17: δουλεύω = G1398 δουλεύω "be in bondage, (do) serve(-ice)" [V-PAI-1S]
-- o18: νόμῳ = G3551 νόμος "law" [N-DSM]
-- o19: θεοῦ, = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
-- o20: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
-- o21: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
-- o22: σαρκὶ = G4561 σάρξ "carnal(-ly, + -ly minded), flesh(-ly)" [N-DSF]
-- o23: νόμῳ = G3551 νόμος "law" [N-DSM]
-- o24: ἁμαρτίας. = G266 ἁμαρτία "offence, sin(-ful)" [N-GSF]
+- o16: μεν = G3303 μέν "even, indeed, so, some, truly, verily" [PRT] (variant reading, WHNU)
+- o17: νοῒ = G3563 νοῦς "mind, understanding" [N-DSM]
+- o18: δουλεύω = G1398 δουλεύω "be in bondage, (do) serve(-ice)" [V-PAI-1S]
+- o19: νόμῳ = G3551 νόμος "law" [N-DSM]
+- o20: θεοῦ, = G2316 θεός "exceeding, God, god(-ly, -ward)" [N-GSM]
+- o21: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o22: δὲ = G1161 δέ "also, and, but, moreover…" [CONJ]
+- o23: σαρκὶ = G4561 σάρξ "carnal(-ly, + -ly minded), flesh(-ly)" [N-DSF]
+- o24: νόμῳ = G3551 νόμος "law" [N-DSM]
+- o25: ἁμαρτίας. = G266 ἁμαρτία "offence, sin(-ful)" [N-GSF]
 
 Persian entries and current tags:
 - p1: خدا  → G2316

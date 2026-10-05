@@ -671,29 +671,30 @@ Persian entries and current tags:
 
 ### II Peter 2:13
 
-Original: κομιούμενοι μισθὸν ἀδικίας· ἡδονὴν ἡγούμενοι τὴν ἐν ἡμέρᾳ τρυφήν, σπίλοι καὶ μῶμοι ἐντρυφῶντες ἐν ταῖς ἀπάταις αὐτῶν συνευωχούμενοι ὑμῖν,
+Original: κομιούμενοι ⟨αδικουμενοι⟩ μισθὸν ἀδικίας· ἡδονὴν ἡγούμενοι τὴν ἐν ἡμέρᾳ τρυφήν, σπίλοι καὶ μῶμοι ἐντρυφῶντες ἐν ταῖς ἀπάταις αὐτῶν συνευωχούμενοι ὑμῖν,
 Persian: و در سزای آن بدی که کرده‌اند، بد خواهند_دید. تفریح اینان عیش و عشرت در روز روشن است. لکه‌های ننگی هستند که حتی به هنگام شرکت در ضیافت با شما، از غرقه شدن در لذات فریبندۀ خویش دست برنمی‌کشند.
 
 Original words:
 - o1: κομιούμενοι = G2865 κομίζω "bring, receive" [V-FMP-NPM]
-- o2: μισθὸν = G3408 μισθός "hire, reward, wages" [N-ASM]
-- o3: ἀδικίας· = G93 ἀδικία "iniquity, unjust, unrighteousness, wrong" [N-GSF]
-- o4: ἡδονὴν = G2237 ἡδονή "lust, pleasure" [N-ASF]
-- o5: ἡγούμενοι = G2233 ἡγέομαι "account, (be) chief, count, esteem, governor…" [V-PNP-NPM]
-- o6: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
-- o7: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
-- o8: ἡμέρᾳ = G2250 ἡμέρα "age, + alway, (mid-)day (by day, (-ly))…" [N-DSF]
-- o9: τρυφήν, = G5172 τρυφή "delicately, riot" [N-ASF]
-- o10: σπίλοι = G4696 σπίλος "spot" [N-NPM]
-- o11: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o12: μῶμοι = G3470 μῶμος "blemish" [N-NPM]
-- o13: ἐντρυφῶντες = G1792 ἐντρυφάω "sporting selves" [V-PAP-NPM]
-- o14: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
-- o15: ταῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPF]
-- o16: ἀπάταις = G539 ἀπάτη "deceit(-ful, -fulness), deceivableness(-ving)" [N-DPF]
-- o17: αὐτῶν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]
-- o18: συνευωχούμενοι = G4910 συνευωχέω "feast with" [V-PNP-NPM]
-- o19: ὑμῖν, = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
+- o2: αδικουμενοι = G91 ἀδικέω "hurt, injure, be an offender, be unjust, (do…" [V-PPP-NPM] (variant reading, WHNU)
+- o3: μισθὸν = G3408 μισθός "hire, reward, wages" [N-ASM]
+- o4: ἀδικίας· = G93 ἀδικία "iniquity, unjust, unrighteousness, wrong" [N-GSF]
+- o5: ἡδονὴν = G2237 ἡδονή "lust, pleasure" [N-ASF]
+- o6: ἡγούμενοι = G2233 ἡγέομαι "account, (be) chief, count, esteem, governor…" [V-PNP-NPM]
+- o7: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o8: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o9: ἡμέρᾳ = G2250 ἡμέρα "age, + alway, (mid-)day (by day, (-ly))…" [N-DSF]
+- o10: τρυφήν, = G5172 τρυφή "delicately, riot" [N-ASF]
+- o11: σπίλοι = G4696 σπίλος "spot" [N-NPM]
+- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o13: μῶμοι = G3470 μῶμος "blemish" [N-NPM]
+- o14: ἐντρυφῶντες = G1792 ἐντρυφάω "sporting selves" [V-PAP-NPM]
+- o15: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o16: ταῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPF]
+- o17: ἀπάταις = G539 ἀπάτη "deceit(-ful, -fulness), deceivableness(-ving)" [N-DPF]
+- o18: αὐτῶν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]
+- o19: συνευωχούμενοι = G4910 συνευωχέω "feast with" [V-PNP-NPM]
+- o20: ὑμῖν, = G5210 ὑμεῖς "ye (yourselves), you" [P-2DP]
 
 Persian entries and current tags:
 - p1: و  → G2865
@@ -1090,29 +1091,30 @@ Persian entries and current tags:
 
 ### II Peter 2:21
 
-Original: κρεῖσσον γὰρ ἦν αὐτοῖς μὴ ἐπεγνωκέναι τὴν ὁδὸν τῆς δικαιοσύνης ἢ ἐπιγνοῦσιν ὑποστρέψαι ἐκ τῆς παραδοθείσης αὐτοῖς ἁγίας ἐντολῆς.
+Original: κρεῖσσον ⟨κρειττον⟩ γὰρ ἦν αὐτοῖς μὴ ἐπεγνωκέναι τὴν ὁδὸν τῆς δικαιοσύνης ἢ ἐπιγνοῦσιν ὑποστρέψαι ἐκ τῆς παραδοθείσης αὐτοῖς ἁγίας ἐντολῆς.
 Persian: بهتر آن می‌بود که از آغاز، راه پارسایی را نمی‌شناختند، تا اینکه پس از شناختن، از حکم مقدّسی که بدیشان سپرده_شد، روی برتابند.
 
 Original words:
 - o1: κρεῖσσον = G2908 κρεῖσσον "better" [A-NSN]
-- o2: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
-- o3: ἦν = G1510 εἰμί "am, have been, it is I, was" [V-IAI-3S]
-- o4: αὐτοῖς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPM]
-- o5: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
-- o6: ἐπεγνωκέναι = G1921 ἐπιγινώσκω "(ac-, have, take)know(-ledge, well), perceive" [V-RAN]
-- o7: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
-- o8: ὁδὸν = G3598 ὁδός "journey, (high-)way" [N-ASF]
-- o9: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
-- o10: δικαιοσύνης = G1343 δικαιοσύνη "righteousness" [N-GSF]
-- o11: ἢ = G2228 ἤ "and, but (either), (n-)either, except it be…" [PRT]
-- o12: ἐπιγνοῦσιν = G1921 ἐπιγινώσκω "(ac-, have, take)know(-ledge, well), perceive" [V-2AAP-DPM]
-- o13: ὑποστρέψαι = G5290 ὑποστρέφω "come again, return (again, back again)…" [V-AAN]
-- o14: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
-- o15: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
-- o16: παραδοθείσης = G3860 παραδίδωμι "betray, bring forth, cast, commit, deliver (up)…" [V-APP-GSF]
-- o17: αὐτοῖς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPM]
-- o18: ἁγίας = G40 ἅγιος "(most) holy (one, thing), saint" [A-GSF]
-- o19: ἐντολῆς. = G1785 ἐντολή "commandment, precept" [N-GSF]
+- o2: κρειττον = G2909 κρείττων "best, better" [A-NSN-C] (variant reading, WHNU)
+- o3: γὰρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ]
+- o4: ἦν = G1510 εἰμί "am, have been, it is I, was" [V-IAI-3S]
+- o5: αὐτοῖς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPM]
+- o6: μὴ = G3361 μή "any but (that), forbear, + God forbid, + lack…" [PRT-N]
+- o7: ἐπεγνωκέναι = G1921 ἐπιγινώσκω "(ac-, have, take)know(-ledge, well), perceive" [V-RAN]
+- o8: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o9: ὁδὸν = G3598 ὁδός "journey, (high-)way" [N-ASF]
+- o10: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o11: δικαιοσύνης = G1343 δικαιοσύνη "righteousness" [N-GSF]
+- o12: ἢ = G2228 ἤ "and, but (either), (n-)either, except it be…" [PRT]
+- o13: ἐπιγνοῦσιν = G1921 ἐπιγινώσκω "(ac-, have, take)know(-ledge, well), perceive" [V-2AAP-DPM]
+- o14: ὑποστρέψαι = G5290 ὑποστρέφω "come again, return (again, back again)…" [V-AAN]
+- o15: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o16: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o17: παραδοθείσης = G3860 παραδίδωμι "betray, bring forth, cast, commit, deliver (up)…" [V-APP-GSF]
+- o18: αὐτοῖς = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-DPM]
+- o19: ἁγίας = G40 ἅγιος "(most) holy (one, thing), saint" [A-GSF]
+- o20: ἐντολῆς. = G1785 ἐντολή "commandment, precept" [N-GSF]
 
 Persian entries and current tags:
 - p1: بهتر  → G2908 G1063

@@ -6,8 +6,10 @@ numbers of the Hebrew or Greek words it translates. The result is sync.bible's
 `public/bibles/NMV_strongs.json`.
 
 The current approach is the `retag` tool described below. It aligns the Persian directly
-to the original languages in sync.bible's `accented.json`. It keeps every verse corrected
-by hand, and it learns from those corrections. The original 2022 approach (`word_aligner.py`)
+to the original languages in sync.bible's `accented.json`. For the New Testament it also
+uses the Greek readings the NMV follows where Tischendorf differs, taken from `WHNU.json`
+(NA27/UBS4) and `TR.json` (see [retag/README.md](retag/README.md#greek-variant-readings-variantspy)).
+It keeps every verse corrected by hand, and it learns from those corrections. The original 2022 approach (`word_aligner.py`)
 aligned the Persian to the ESV with simalign and took the ESV's Strong's numbers. Its output
 is kept in `outputs/NMV_ESV_strongs.json` and is used as a starting point by `retag`.
 

@@ -283,7 +283,7 @@ Persian entries and current tags:
 
 ### Matthew 15:26
 
-Original: ὁ δὲ ἀποκριθεὶς εἶπεν· οὐκ ἔξεστιν λαβεῖν τὸν ἄρτον τῶν τέκνων καὶ βαλεῖν τοῖς κυναρίοις.
+Original: ὁ δὲ ἀποκριθεὶς εἶπεν· οὐκ ἔξεστιν ⟨καλον⟩ λαβεῖν τὸν ἄρτον τῶν τέκνων καὶ βαλεῖν τοῖς κυναρίοις.
 Persian: او در جواب گفت:« نان فرزندان را گرفتن و پیش سگان انداختن روا نیست.»
 
 Original words:
@@ -293,15 +293,16 @@ Original words:
 - o4: εἶπεν· = G3004 λέγω "ask, bid, boast, call, describe, give out, name…" [V-2AAI-3S]
 - o5: οὐκ = G3756 οὐ "+ long, nay, neither, never, no ( man), none…" [PRT-N]
 - o6: ἔξεστιν = G1832 ἔξεστι "be lawful, let, may(-est)" [V-PAI-3S]
-- o7: λαβεῖν = G2983 λαμβάνω "accept, + be amazed, assay, attain, bring…" [V-2AAN]
-- o8: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
-- o9: ἄρτον = G740 ἄρτος "(shew-)bread, loaf" [N-ASM]
-- o10: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPN]
-- o11: τέκνων = G5043 τέκνον "child, daughter, son" [N-GPN]
-- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o13: βαλεῖν = G906 βάλλω "arise, cast (out), dung, lay, lie, pour, put (up)…" [V-2AAN]
-- o14: τοῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPN]
-- o15: κυναρίοις. = G2952 κυνάριον "dog" [N-DPN]
+- o7: καλον = G2570 καλός "better, fair, good(-ly), honest, meet, well…" [A-NSN] (variant reading, WHNU)
+- o8: λαβεῖν = G2983 λαμβάνω "accept, + be amazed, assay, attain, bring…" [V-2AAN]
+- o9: τὸν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASM]
+- o10: ἄρτον = G740 ἄρτος "(shew-)bread, loaf" [N-ASM]
+- o11: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPN]
+- o12: τέκνων = G5043 τέκνον "child, daughter, son" [N-GPN]
+- o13: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o14: βαλεῖν = G906 βάλλω "arise, cast (out), dung, lay, lie, pour, put (up)…" [V-2AAN]
+- o15: τοῖς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DPN]
+- o16: κυναρίοις. = G2952 κυνάριον "dog" [N-DPN]
 
 Persian entries and current tags:
 - p1: او

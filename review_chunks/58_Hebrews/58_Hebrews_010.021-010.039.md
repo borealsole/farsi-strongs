@@ -79,7 +79,7 @@ Persian entries and current tags:
 
 ### Hebrews 10:22
 
-Original: προσερχώμεθα μετὰ ἀληθινῆς καρδίας ἐν πληροφορίᾳ πίστεως, ῥεραντισμένοι τὰς καρδίας ἀπὸ συνειδήσεως πονηρᾶς
+Original: προσερχώμεθα μετὰ ἀληθινῆς καρδίας ἐν πληροφορίᾳ πίστεως, ῥεραντισμένοι τὰς καρδίας ἀπὸ συνειδήσεως πονηρᾶς ⟨και⟩ ⟨λελουσμενοι⟩ ⟨σωμα⟩ ⟨υδατι⟩ ⟨καθαρω⟩
 Persian: بیایید با اخلاص قلبی و اطمینانِ کاملِ ایمان به حضور خدا نزدیک شویم، در حالی که دلهایمان از هر احساس تقصیر زدوده و بدنهایمان با آبِ پاک شسته شده_است.
 
 Original words:
@@ -96,6 +96,11 @@ Original words:
 - o11: ἀπὸ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
 - o12: συνειδήσεως = G4893 συνείδησις "conscience" [N-GSF]
 - o13: πονηρᾶς = G4190 πονηρός "bad, evil, grievous, harm, lewd, malicious…" [A-GSF]
+- o14: και = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ] (variant reading, WHNU)
+- o15: λελουσμενοι = G3068 λούω "wash" [V-RPP-NPM] (variant reading, WHNU)
+- o16: σωμα = G4983 σῶμα "bodily, body, slave" [N-ASN] (variant reading, WHNU)
+- o17: υδατι = G5204 ὕδωρ "water" [N-DSN] (variant reading, WHNU)
+- o18: καθαρω = G2513 καθαρός "clean, clear, pure" [A-DSN] (variant reading, WHNU)
 
 Persian entries and current tags:
 - p1: بیایید  → G4334

@@ -498,7 +498,7 @@ Persian entries and current tags:
 
 ### Revelation of John 10:8
 
-Original: καὶ ἡ φωνὴ ἣν ἤκουσα ἐκ τοῦ οὐρανοῦ, πάλιν λαλοῦσαν μετ’ ἐμοῦ καὶ λέγουσαν, ὕπαγε λάβε τὸ βιβλαρίδιον τὸ ἠνεῳγμένον ἐν τῇ χειρὶ τοῦ ἀγγέλου τοῦ ἑστῶτος ἐπὶ τῆς θαλάσσης καὶ ἐπὶ τῆς γῆς.
+Original: καὶ ἡ φωνὴ ἣν ἤκουσα ἐκ τοῦ οὐρανοῦ, πάλιν λαλοῦσαν μετ’ ἐμοῦ καὶ λέγουσαν, ὕπαγε λάβε τὸ βιβλαρίδιον ⟨βιβλιον⟩ τὸ ἠνεῳγμένον ἐν τῇ χειρὶ τοῦ ἀγγέλου τοῦ ἑστῶτος ἐπὶ τῆς θαλάσσης καὶ ἐπὶ τῆς γῆς.
 Persian: آنگاه آن صدا که از آسمان شنیده_بودم بار دیگر به من گفت:« برو و آن طومارِ گشوده در دست آن فرشته را که بر دریا و خشکی ایستاده_است، بگیر.»
 
 Original words:
@@ -520,22 +520,23 @@ Original words:
 - o16: λάβε = G2983 λαμβάνω "accept, + be amazed, assay, attain, bring…" [V-2AAM-2S]
 - o17: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
 - o18: βιβλαρίδιον = G974 βιβλιαρίδιον "little book" [N-ASN]
-- o19: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
-- o20: ἠνεῳγμένον = G455 ἀνοίγω "open" [V-RPP-ASN]
-- o21: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
-- o22: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
-- o23: χειρὶ = G5495 χείρ "hand" [N-DSF]
-- o24: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
-- o25: ἀγγέλου = G32 ἄγγελος "angel, messenger" [N-GSM]
-- o26: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
-- o27: ἑστῶτος = G2476 ἵστημι "abide, appoint, bring, continue, covenant…" [V-RAP-GSM]
-- o28: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
-- o29: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
-- o30: θαλάσσης = G2281 θάλασσα "sea" [N-GSF]
-- o31: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o32: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
-- o33: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
-- o34: γῆς. = G1093 γῆ "country, earth(-ly), ground, land, world" [N-GSF]
+- o19: βιβλιον = G975 βιβλίον "bill, book, scroll, writing" [N-ASN] (variant reading, WHNU)
+- o20: τὸ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASN]
+- o21: ἠνεῳγμένον = G455 ἀνοίγω "open" [V-RPP-ASN]
+- o22: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o23: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o24: χειρὶ = G5495 χείρ "hand" [N-DSF]
+- o25: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o26: ἀγγέλου = G32 ἄγγελος "angel, messenger" [N-GSM]
+- o27: τοῦ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSM]
+- o28: ἑστῶτος = G2476 ἵστημι "abide, appoint, bring, continue, covenant…" [V-RAP-GSM]
+- o29: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o30: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o31: θαλάσσης = G2281 θάλασσα "sea" [N-GSF]
+- o32: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o33: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o34: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o35: γῆς. = G1093 γῆ "country, earth(-ly), ground, land, world" [N-GSF]
 
 Persian entries and current tags:
 - p1: آنگاه  → G2532
@@ -785,17 +786,18 @@ Original words of verses next to the ones above. Where the Persian verse divisio
 - o9: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
 - o10: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPF]
 - o11: φαρμακιῶν = G5331 φαρμακεία "sorcery, witchcraft" [N-GPF]
-- o12: αὐτῶν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]
-- o13: οὔτε = G3777 οὔτε "neither, none, nor (yet), (no, yet) not, nothing" [CONJ-N]
-- o14: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
-- o15: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
-- o16: πορνείας = G4202 πορνεία "fornication" [N-GSF]
-- o17: αὐτῶν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]
-- o18: οὔτε = G3777 οὔτε "neither, none, nor (yet), (no, yet) not, nothing" [CONJ-N]
-- o19: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
-- o20: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPN]
-- o21: κλεμμάτων = G2809 κλέμμα "theft" [N-GPN]
-- o22: αὐτῶν. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]
+- o12: φαρμακων = G5333 φάρμακος "sorcerer" [N-GPN] (variant reading, WHNU)
+- o13: αὐτῶν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]
+- o14: οὔτε = G3777 οὔτε "neither, none, nor (yet), (no, yet) not, nothing" [CONJ-N]
+- o15: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o16: τῆς = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GSF]
+- o17: πορνείας = G4202 πορνεία "fornication" [N-GSF]
+- o18: αὐτῶν = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]
+- o19: οὔτε = G3777 οὔτε "neither, none, nor (yet), (no, yet) not, nothing" [CONJ-N]
+- o20: ἐκ = G1537 ἐκ "after, among, are, at, betwixt(-yond)…" [PREP]
+- o21: τῶν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-GPN]
+- o22: κλεμμάτων = G2809 κλέμμα "theft" [N-GPN]
+- o23: αὐτῶν. = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-GPM]
 
 ### Revelation of John 11:1 (context)
 

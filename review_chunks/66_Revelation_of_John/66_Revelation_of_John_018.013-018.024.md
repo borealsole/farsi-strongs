@@ -256,7 +256,7 @@ Persian entries and current tags:
 
 ### Revelation of John 18:16
 
-Original: λέγοντες· οὐαὶ οὐαί, ἡ πόλις ἡ μεγάλη, ἡ περιβεβλημένη βύσσινον καὶ πορφυροῦν καὶ κόκκινον, καὶ κεχρυσωμένη ἐν χρυσῷ καὶ λίθῳ τιμίῳ καὶ μαργαρίτῃ, ὅτι μιᾷ ὥρᾳ ἠρημώθη ὁ τοσοῦτος πλοῦτος.
+Original: λέγοντες· οὐαὶ οὐαί, ἡ πόλις ἡ μεγάλη, ἡ περιβεβλημένη βύσσινον καὶ πορφυροῦν καὶ κόκκινον, καὶ κεχρυσωμένη ἐν χρυσῷ ⟨χρυσιω⟩ καὶ λίθῳ τιμίῳ καὶ μαργαρίτῃ, ὅτι μιᾷ ὥρᾳ ἠρημώθη ὁ τοσοῦτος πλοῦτος.
 Persian: خواهند_گفت:« دریغ، دریغ! ای شهر بزرگ، پوشیده در پارچه‌های نفیس ارغوان و سرخ، رخشنده در برق طلا و جواهر و مروارید!
 
 Original words:
@@ -278,18 +278,19 @@ Original words:
 - o16: κεχρυσωμένη = G5558 χρυσόω "deck" [V-RPP-NSF]
 - o17: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
 - o18: χρυσῷ = G5557 χρυσός "gold" [N-DSM]
-- o19: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o20: λίθῳ = G3037 λίθος "(mill-, stumbling-)stone" [N-DSM]
-- o21: τιμίῳ = G5093 τίμιος "dear, honourable, (more, most) precious…" [A-DSM]
-- o22: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o23: μαργαρίτῃ, = G3135 μαργαρίτης "pearl" [N-DSM]
-- o24: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
-- o25: μιᾷ = G1520 εἷς "a(-n, -ny, certain), + abundantly, man…" [A-DSF]
-- o26: ὥρᾳ = G5610 ὥρα "day, hour, instant, season, short, (even-)tide…" [N-DSF]
-- o27: ἠρημώθη = G2049 ἐρημόω "(bring to, make) desolate(-ion), come to nought" [V-API-3S]
-- o28: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
-- o29: τοσοῦτος = G5118 τοσοῦτος "as large, so great (long, many, much), these many" [D-NSM]
-- o30: πλοῦτος. = G4149 πλοῦτος "riches" [N-NSM]
+- o19: χρυσιω = G5553 χρυσίον "gold" [N-DSN] (variant reading, WHNU)
+- o20: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o21: λίθῳ = G3037 λίθος "(mill-, stumbling-)stone" [N-DSM]
+- o22: τιμίῳ = G5093 τίμιος "dear, honourable, (more, most) precious…" [A-DSM]
+- o23: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o24: μαργαρίτῃ, = G3135 μαργαρίτης "pearl" [N-DSM]
+- o25: ὅτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ]
+- o26: μιᾷ = G1520 εἷς "a(-n, -ny, certain), + abundantly, man…" [A-DSF]
+- o27: ὥρᾳ = G5610 ὥρα "day, hour, instant, season, short, (even-)tide…" [N-DSF]
+- o28: ἠρημώθη = G2049 ἐρημόω "(bring to, make) desolate(-ion), come to nought" [V-API-3S]
+- o29: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o30: τοσοῦτος = G5118 τοσοῦτος "as large, so great (long, many, much), these many" [D-NSM]
+- o31: πλοῦτος. = G4149 πλοῦτος "riches" [N-NSM]
 
 Persian entries and current tags:
 - p1: خواهند_گفت  → G3004
@@ -323,29 +324,35 @@ Persian entries and current tags:
 
 ### Revelation of John 18:17
 
-Original: καὶ πᾶς κυβερνήτης καὶ πᾶς ὁ ἐπὶ τόπον πλέων καὶ ναῦται καὶ ὅσοι τὴν θάλασσαν ἐργάζονται ἀπὸ μακρόθεν ἔστησαν
+Original: ⟨οτι⟩ ⟨μια⟩ ⟨ωρα⟩ ⟨ηρημωθη⟩ ⟨τοσουτος⟩ ⟨πλουτος⟩ καὶ πᾶς κυβερνήτης καὶ πᾶς ὁ ἐπὶ τόπον πλέων καὶ ναῦται καὶ ὅσοι τὴν θάλασσαν ἐργάζονται ἀπὸ μακρόθεν ἔστησαν
 Persian: یک ساعته ثروت سرشار تو تباهی گرفته_است.» و هر ناخدای کشتی و هر آن کسان که با کشتی سفر می‌کنند، چه دریانوردان و چه کسانی که از راه دریا معاش می‌کنند، دورادور خواهند_ایستاد.
 
 Original words:
-- o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o2: πᾶς = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-NSM]
-- o3: κυβερνήτης = G2942 κυβερνήτης "(ship) master" [N-NSM]
-- o4: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o5: πᾶς = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-NSM]
-- o6: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
-- o7: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
-- o8: τόπον = G5117 τόπος "coast, licence, place, plain, quarter, + rock…" [N-ASM]
-- o9: πλέων = G4126 πλέω "sail" [V-PAP-NSM]
+- o1: οτι = G3754 ὅτι "as concerning that, as though, because (that)…" [CONJ] (variant reading, WHNU)
+- o2: μια = G1520 εἷς "a(-n, -ny, certain), + abundantly, man…" [A-DSF] (variant reading, WHNU)
+- o3: ωρα = G5610 ὥρα "day, hour, instant, season, short, (even-)tide…" [N-DSF] (variant reading, WHNU)
+- o4: ηρημωθη = G2049 ἐρημόω "(bring to, make) desolate(-ion), come to nought" [V-API-3S] (variant reading, WHNU)
+- o5: τοσουτος = G5118 τοσοῦτος "as large, so great (long, many, much), these many" [D-NSM] (variant reading, WHNU)
+- o6: πλουτος = G4149 πλοῦτος "riches" [N-NSM] (variant reading, WHNU)
+- o7: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o8: πᾶς = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-NSM]
+- o9: κυβερνήτης = G2942 κυβερνήτης "(ship) master" [N-NSM]
 - o10: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o11: ναῦται = G3492 ναύτης "sailor, shipman" [N-NPM]
-- o12: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o13: ὅσοι = G3745 ὅσος "all (that), as (long, many, much) (as)…" [K-NPM]
-- o14: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
-- o15: θάλασσαν = G2281 θάλασσα "sea" [N-ASF]
-- o16: ἐργάζονται = G2038 ἐργάζομαι "commit, do, labor for, minister about, trade (by)…" [V-PNI-3P]
-- o17: ἀπὸ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
-- o18: μακρόθεν = G3113 μακρόθεν "afar off, from far" [ADV]
-- o19: ἔστησαν = G2476 ἵστημι "abide, appoint, bring, continue, covenant…" [V-AAI-3P]
+- o11: πᾶς = G3956 πᾶς "all (manner of, means), alway(-s), any (one)…" [A-NSM]
+- o12: ὁ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NSM]
+- o13: ἐπὶ = G1909 ἐπί "about (the times), above, after, against, among…" [PREP]
+- o14: τόπον = G5117 τόπος "coast, licence, place, plain, quarter, + rock…" [N-ASM]
+- o15: πλέων = G4126 πλέω "sail" [V-PAP-NSM]
+- o16: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o17: ναῦται = G3492 ναύτης "sailor, shipman" [N-NPM]
+- o18: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o19: ὅσοι = G3745 ὅσος "all (that), as (long, many, much) (as)…" [K-NPM]
+- o20: τὴν = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-ASF]
+- o21: θάλασσαν = G2281 θάλασσα "sea" [N-ASF]
+- o22: ἐργάζονται = G2038 ἐργάζομαι "commit, do, labor for, minister about, trade (by)…" [V-PNI-3P]
+- o23: ἀπὸ = G575 ἀπό "here-)after, ago, at, because of, before…" [PREP]
+- o24: μακρόθεν = G3113 μακρόθεν "afar off, from far" [ADV]
+- o25: ἔστησαν = G2476 ἵστημι "abide, appoint, bring, continue, covenant…" [V-AAI-3P]
 
 Persian entries and current tags:
 - p1: یک

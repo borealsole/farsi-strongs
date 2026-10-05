@@ -132,24 +132,25 @@ Persian entries and current tags:
 
 ### III John 1:3
 
-Original: ἐχάρην λίαν ἐρχομένων ἀδελφῶν καὶ μαρτυρούντων σου τῇ ἀληθείᾳ, καθὼς σὺ ἐν ἀληθείᾳ περιπατεῖς.
+Original: ἐχάρην ⟨γαρ⟩ λίαν ἐρχομένων ἀδελφῶν καὶ μαρτυρούντων σου τῇ ἀληθείᾳ, καθὼς σὺ ἐν ἀληθείᾳ περιπατεῖς.
 Persian: بسی شادمان شدم که برادران آمده، بر وفاداری‌ات به حقیقت و شیوۀ سلوکت در آن شهادت دادند.
 
 Original words:
 - o1: ἐχάρην = G5463 χαίρω "farewell, be glad, God speed, greeting, hall…" [V-2AOI-1S]
-- o2: λίαν = G3029 λίαν "exceeding, great(-ly), sore, very (+ chiefest)" [ADV]
-- o3: ἐρχομένων = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-PNP-GPM]
-- o4: ἀδελφῶν = G80 ἀδελφός "brother" [N-GPM]
-- o5: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
-- o6: μαρτυρούντων = G3140 μαρτυρέω "charge, give (evidence), bear record…" [V-PAP-GPM]
-- o7: σου = G4771 σύ "thou" [P-2GS]
-- o8: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
-- o9: ἀληθείᾳ, = G225 ἀλήθεια "true, truly, truth, verity" [N-DSF]
-- o10: καθὼς = G2531 καθώς "according to, (according, even) as, how, when" [ADV]
-- o11: σὺ = G4771 σύ "thou" [P-2NS]
-- o12: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
-- o13: ἀληθείᾳ = G225 ἀλήθεια "true, truly, truth, verity" [N-DSF]
-- o14: περιπατεῖς. = G4043 περιπατέω "go, be occupied with, walk (about)" [V-PAI-2S]
+- o2: γαρ = G1063 γάρ "and, as, because (that), but, even, for, indeed…" [CONJ] (variant reading, WHNU)
+- o3: λίαν = G3029 λίαν "exceeding, great(-ly), sore, very (+ chiefest)" [ADV]
+- o4: ἐρχομένων = G2064 ἔρχομαι "accompany, appear, bring, come, enter, fall out…" [V-PNP-GPM]
+- o5: ἀδελφῶν = G80 ἀδελφός "brother" [N-GPM]
+- o6: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
+- o7: μαρτυρούντων = G3140 μαρτυρέω "charge, give (evidence), bear record…" [V-PAP-GPM]
+- o8: σου = G4771 σύ "thou" [P-2GS]
+- o9: τῇ = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-DSF]
+- o10: ἀληθείᾳ, = G225 ἀλήθεια "true, truly, truth, verity" [N-DSF]
+- o11: καθὼς = G2531 καθώς "according to, (according, even) as, how, when" [ADV]
+- o12: σὺ = G4771 σύ "thou" [P-2NS]
+- o13: ἐν = G1722 ἐν "about, after, against, + almost, altogether…" [PREP]
+- o14: ἀληθείᾳ = G225 ἀλήθεια "true, truly, truth, verity" [N-DSF]
+- o15: περιπατεῖς. = G4043 περιπατέω "go, be occupied with, walk (about)" [V-PAI-2S]
 
 Persian entries and current tags:
 - p1: بسی  → G3029
@@ -646,7 +647,7 @@ Persian entries and current tags:
 
 ### III John 1:14
 
-Original: ἐλπίζω δὲ εὐθέως σε ἰδεῖν, καὶ στόμα πρὸς στόμα λαλήσομεν.
+Original: ἐλπίζω δὲ εὐθέως σε ἰδεῖν, καὶ στόμα πρὸς στόμα λαλήσομεν. ⟨ειρηνη⟩ ⟨ασπαζονται⟩ ⟨οι⟩ ⟨φιλοι⟩ ⟨κατ⟩ ⟨ονομα⟩
 Persian: امّا امیدوارم بزودی تو را ببینم و رویاروی گفتگو کنیم.
 
 Original words:
@@ -660,6 +661,12 @@ Original words:
 - o8: πρὸς = G4314 πρός "about, according to , against, among, at…" [PREP]
 - o9: στόμα = G4750 στόμα "edge, face, mouth" [N-ASN]
 - o10: λαλήσομεν. = G2980 λαλέω "preach, say, speak (after), talk, tell, utter" [V-FAI-1P]
+- o11: ειρηνη = G1515 εἰρήνη "one, peace, quietness, rest, + set at one again" [N-NSF] (variant reading, WHNU)
+- o12: ασπαζονται = G782 ἀσπάζομαι "embrace, greet, salute, take leave" [V-PNI-3P] (variant reading, WHNU)
+- o13: οι = G3588 ὁ "the, this, that, one, he, she, it, etc" [T-NPM] (variant reading, WHNU)
+- o14: φιλοι = G5384 φίλος "friend" [A-NPM] (variant reading, WHNU)
+- o15: κατ = G2596 κατά "about, according as (to), after, against…" [PREP] (variant reading, WHNU)
+- o16: ονομα = G3686 ὄνομα "called, (+ sur-)name(-d)" [N-ASN] (variant reading, WHNU)
 
 Persian entries and current tags:
 - p1: امّا  → G1161
