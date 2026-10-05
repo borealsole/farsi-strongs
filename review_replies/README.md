@@ -7,8 +7,13 @@ reply reaches sync.bible until a person has checked it and moved it into `approv
 review_replies/
 ├── pending/    replies saved from the chat, waiting to be checked
 ├── approved/   replies a person has checked and accepted
-└── applied/    replies already written into sync.bible (kept as a record)
+├── applied/    replies already written into sync.bible (kept as a record)
+└── superseded/ old replies replaced by a newer review of the same chunk (kept as a record)
 ```
+
+`superseded/` holds the replies made before the Greek variant readings were added (see
+[retag/README.md](../retag/README.md#greek-variant-readings-variantspy)). Those chunks were
+reviewed again, and the new replies are in `pending/`. Nothing reads `superseded/`.
 
 ## Workflow
 
