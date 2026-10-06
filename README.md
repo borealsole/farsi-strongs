@@ -114,6 +114,10 @@ Run `python -m retag evaluate` after adding corrections to see the current figur
 
 ## Reviewing in a chat: `review_chunks/`
 
+To have Claude helper agents review all the chunks in a long, resumable batch, see
+[review_batch/README.md](review_batch/README.md).
+
+
 `python make_review_chunks.py --sync-bible ../sync.bible` splits the current tagging and the
 Hebrew/Greek into ~25-verse files for review in a chat with Claude. Hand-reviewed verses are
 left out. [review_chunks/README.md](review_chunks/README.md) has the workflow and a prompt to use.

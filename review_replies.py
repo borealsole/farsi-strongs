@@ -233,8 +233,11 @@ def report_verse(p, ctx):
 def check(args):
     ctx = Context(args.sync_bible, args.window, not args.no_variants)
     total_errors = 0
+    only = {os.path.abspath(f) for f in args.files}
     for folder in (PENDING, APPROVED):
         for path in reply_files(folder):
+            if only and os.path.abspath(path) not in only:
+                continue
             proposals, problems = load_and_validate([path], ctx)
             lines = [f'# Check of {os.path.basename(path)}', '',
                      f'Generated {datetime.date.today().isoformat()} by `python review_replies.py check`. '
@@ -322,6 +325,8 @@ def main():
                        help='Only accept numbers from accented.json, not the Greek variant readings from WHNU.json and TR.json')
         if name == 'apply':
             p.add_argument('--dry-run', action='store_true', help='Validate and count, but write nothing')
+        else:
+            p.add_argument('files', nargs='*', help='Only check these reply files (default: all pending and approved)')
     args = parser.parse_args()
     {'check': check, 'apply': apply}[args.command](args)
 

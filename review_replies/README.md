@@ -29,6 +29,7 @@ reviewed again, and the new replies are in `pending/`. Nothing reads `superseded
    ```
 
    For each reply this writes a report beside it (`<reply>.check.md`) and prints a summary.
+   Add reply file names at the end to check only those.
    The report lists:
    - **Problems** that would stop it being applied, such as:
      - invalid JSON;
