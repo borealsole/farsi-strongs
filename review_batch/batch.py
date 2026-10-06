@@ -76,7 +76,15 @@ def cmd_status(args):
 
 
 def cmd_next(args):
-    for chunk in state()[3][:args.n]:
+    '''The next chunks not started, after --after (the last chunk handed out, whose helpers
+    may not have written anything yet).'''
+    remaining = state()[3]
+    if args.after:
+        order = all_chunks()
+        start = order.index(args.after) + 1 if args.after in order else 0
+        later = set(order[start:])
+        remaining = [c for c in remaining if c in later]
+    for chunk in remaining[:args.n]:
         print(chunk)
 
 
@@ -153,6 +161,7 @@ def main():
     sub.add_parser('status')
     p = sub.add_parser('next')
     p.add_argument('n', type=int, nargs='?', default=8)
+    p.add_argument('--after', help='Only chunks after this one (e.g. the last one handed out)')
     sub.add_parser('clean')
     p = sub.add_parser('commit')
     p.add_argument('--sync-bible', default=os.path.join(REPO, '..', 'sync.bible'))

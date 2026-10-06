@@ -27,7 +27,7 @@ The session then does this:
    `python review_batch/batch.py commit` commits any replies that were finished, then
    `python review_batch/batch.py clean` deletes half-written ones so they are redone.
 3. **Status:** `python review_batch/batch.py status`.
-4. **Work in waves:** `python review_batch/batch.py next 8` lists the next chunks. Start
+4. **Work in waves:** `python review_batch/batch.py next 8` lists the next chunks (add `--after <last chunk handed out>` while helpers are still running, so chunks they have not written yet are not listed again). Start
    one helper agent per chunk (in the background), each with the task message
    `Follow /home/user/farsi-strongs/review_batch/HELPER.md exactly. CHUNK=<chunk>`.
    When helpers finish, run `python review_batch/batch.py commit` (it checks each finished
