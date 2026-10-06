@@ -131,6 +131,11 @@ Every verse in `retag/locked_verses.txt` is treated as correct:
 
 The more verses are carefully checked and listed, the better the rest of the Bible is tagged.
 
+Chat-review replies in `review_replies/pending/` sit between locked verses and machine
+tagging. They are used in the output and in training (at half weight) before anyone checks
+them, but they are not locked, so a hand edit in the app still overrides them. See
+[retag/README.md](retag/README.md#unchecked-chat-review-replies-repliespy).
+
 ### Verses you corrected in sync.bible
 
 Nothing to do. Retag words in the sync.bible app (alt/ctrl/cmd-click a Persian word, then

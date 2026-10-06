@@ -82,6 +82,11 @@ class Context:
             raise SystemExit(f'{len(missing)} verses are missing from {self.nmv_path}; '
                              'run python -m retag run first.')
         self.locked = manual.read_locked(self.grid)
+        # Machine tags for verses that NMV_strongs.json currently takes from a reply.
+        self.alternatives = {}
+        if os.path.exists(data.REPLY_ALTERNATIVES):
+            for ref, verse in data.load_json(data.REPLY_ALTERNATIVES).items():
+                self.alternatives[data.parse_references(ref, self.grid)[0]] = verse
         self.dictionary = data.load_json(os.path.join(sync_bible, 'public', 'data', 'strongsDictionary.json'))
         self.order = original.verse_order(self.accented)
 
@@ -124,8 +129,8 @@ def validate(p, ctx):
         p.errors.append('"entries" must be a list of ["word"] or ["word", "numbers"]')
         return
 
-    tokens = [t for e in entries for t in e[0].split(' ')]
-    expected = ctx.grid[p.key]
+    tokens = data.verse_words(entries)
+    expected = data.grid_words(ctx.grid[p.key])
     if tokens != expected:
         first = next((i for i, (a, b) in enumerate(zip(tokens, expected)) if a != b), min(len(tokens), len(expected)))
         got = tokens[first] if first < len(tokens) else '(nothing)'
@@ -189,12 +194,19 @@ def tag_text(tags, ctx, borrowed=None, variant=None):
 
 def report_verse(p, ctx):
     current = ctx.current[p.key]
-    tokens = ctx.grid[p.key]
-    cur_rows = [(e[0], data.entry_tags(e) or '') for e in current for _ in e[0].split(' ')]
-    new_rows = [(e[0], e[1] if len(e) > 1 else '') for e in p.entries for _ in e[0].split(' ')]
+    provisional = data.display_verse(current) == data.display_verse(p.entries)
+    # A verse that already uses this reply (python -m retag run puts unchecked replies into
+    # NMV_strongs.json) is compared with what the machine tagging would give instead.
+    base = ctx.alternatives.get(p.key, current) if provisional else current
+    tokens = data.grid_words(ctx.grid[p.key])
+    cur_rows = [(data.display(e[0]), data.entry_tags(e) or '') for e in base for _ in data.entry_words(e)]
+    new_rows = [(data.display(e[0]), e[1] if len(e) > 1 else '') for e in p.entries for _ in data.entry_words(e)]
     changed = sum(c != n for c, n in zip(cur_rows, new_rows))
     out = [f'### {data.reference(p.key)}: {changed} word(s) changed', '',
            f'Reply line {p.line}.'
+           + (' NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.'
+              if provisional and p.key in ctx.alternatives else
+              ' NMV_strongs.json already uses this reply (unchecked).' if provisional else '')
            + (f' Uses numbers from neighbouring verses: '
               + ', '.join(f'{t} ({data.reference(k)})' for t, k in sorted(p.borrowed.items())) + '.'
               if p.borrowed else '')
@@ -267,19 +279,21 @@ def apply(args):
             print(f'  {e}', file=sys.stderr)
         sys.exit(1)
 
-    written = []
+    # Every approved verse is locked, including ones NMV_strongs.json already took from the reply.
+    written, approved = [], []
     for p in proposals:
         book, ci, vi = p.key
-        new = [list(e) for e in p.entries]
-        if new != ctx.nmv[book][ci][vi]:
+        new = data.display_verse(p.entries)
+        approved.append(p.key)
+        if data.display_verse(ctx.nmv[book][ci][vi]) != new:
             ctx.nmv[book][ci][vi] = new
             written.append(p.key)
     if args.dry_run:
-        print(f'Dry run: would write {len(written)} verses from {len(files)} replies.')
+        print(f'Dry run: would write {len(written)} verses and lock {len(approved)} from {len(files)} replies.')
         return
 
     data.write_sync_bible_json(ctx.nmv, ctx.nmv_path)
-    manual.record_locked(written, note='reviewed via chat reply, applied')
+    manual.record_locked(approved, note='reviewed via chat reply, applied')
     os.makedirs(APPLIED, exist_ok=True)
     for path in files:
         for src in (path, path + REPORT_SUFFIX):
@@ -289,7 +303,7 @@ def apply(args):
                     stem, ext = os.path.splitext(dest)
                     dest = f'{stem}.{datetime.datetime.now():%Y%m%d%H%M%S}{ext}'
                 shutil.move(src, dest)
-    print(f'Wrote {len(written)} verses into {ctx.nmv_path}, added them to retag/locked_verses.txt '
+    print(f'Wrote {len(written)} verses into {ctx.nmv_path}, added {len(approved)} to retag/locked_verses.txt '
           f'and moved {len(files)} replies to review_replies/applied/.\n'
           'Commit NMV_strongs.json in sync.bible, and review_replies/ and retag/locked_verses.txt here.')
 

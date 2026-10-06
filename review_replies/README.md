@@ -81,6 +81,13 @@ reviewed again, and the new replies are in `pending/`. Nothing reads `superseded
 
 ## Notes
 
+- **Pending replies are used before they are checked.** `python -m retag run` puts every
+  pending or approved reply line that passes `check` into NMV_strongs.json, in place of the
+  machine tagging. They also train the model at reduced weight. They are not locked, so
+  editing such a verse in the app still overrides the reply. Applying a checked reply locks
+  it. Delete a reply you reject, and the next run goes back to machine tagging for its
+  verses. See [retag/README.md](../retag/README.md#unchecked-chat-review-replies-repliespy).
+
 - **Only changed verses are applied and locked.** Verses the chat left alone are not treated
   as checked. If you also checked those verses and they're right, add them to
   `retag/locked_verses.txt` by hand (see the main README).

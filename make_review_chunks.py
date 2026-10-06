@@ -89,13 +89,13 @@ def persian_lines(verse, strip_markers=False):
         tags = data.entry_tags(entry) or ''
         if strip_markers:
             tags = ' '.join(t for t in tags.split() if data.STRONGS_TAG.match(t))
-        lines.append(f'- p{n}: {entry[0]}' + (f'  → {tags}' if tags else ''))
+        lines.append(f'- p{n}: {data.display(entry[0])}' + (f'  → {tags}' if tags else ''))
     return lines
 
 
 def persian_text(verse):
     text = ''
-    for token in data.verse_tokens(verse):
+    for token in data.verse_words(verse):
         text += ('' if not text or persian.is_punctuation(token) else ' ') + token
     return text
 

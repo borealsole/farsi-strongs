@@ -65,6 +65,39 @@ chapters. These verses are restored from `transformations/NMV_hazm.parquet`. Mat
 tagged. The others have no text in Tischendorf's Greek; they now take their Greek from
 `TR.json` (see below).
 
+## Unchecked chat-review replies (`replies.py`)
+
+Replies saved in `review_replies/pending/` and `approved/` are used before anyone checks
+them, so each verse comes from the first of these that applies:
+
+1. **Hand-corrected (locked) verses:** copied from sync.bible as above. They always win.
+2. **Chat-review replies:** every reply line that passes `python review_replies.py check`
+   is copied into the output for that verse, instead of the machine tagging. Lines with
+   problems are skipped, and the run says how many.
+3. **Machine tagging:** everything else.
+
+Reply verses also train the classifier, at half the weight of a hand-corrected verse
+(`--reply-weight`). Cross-validation still scores only the hand-corrected verses, so the
+accuracy figures stay honest. Pass `--no-replies` to ignore the replies completely.
+
+The reply versions go into `outputs/NMV_strongs_machine.json` too, so they are not taken
+for hand edits. If one of those verses is later changed in the app, it differs from that
+file, so the next run detects it, locks it and keeps your version. Deleting a reply sends
+its verse back to machine tagging, unless it was edited by hand. When a reply is checked and
+applied (`review_replies.py apply`), its verses are locked as gold verses.
+
+For the reply verses, `outputs/machine_tags_for_reply_verses.json` keeps what the machine
+tagging would have given. `review_replies.py check` shows that in its "Now" column, so the
+reports still show what each reply changes.
+
+## Compound words: spaces, not `_` or `~`
+
+The hazm tokens join the parts of a compound verb with `_` (`خواهد_شد`), and the NMV text
+marks some compounds with `~` (`فرو~گرفت`). The output always uses a space instead
+(`خواهد شد`, `فرو گرفت`), including in locked and reply verses. Only the text changes,
+never the tags. The tools compare verses word by word, so either form is read correctly,
+and a change between the two forms is not counted as a hand edit.
+
 ## Greek variant readings (`variants.py`)
 
 The NMV New Testament follows a modern critical text close to NA27/UBS4. Verses found only

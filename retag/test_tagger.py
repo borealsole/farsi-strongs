@@ -103,3 +103,19 @@ class VariantsTest(unittest.TestCase):
         from retag import variants
         out = variants.merge([], [['τουτο', 'G3778', 'D-NSN'], [',']], 'TR')
         self.assertEqual(out, [['τουτο', 'G3778', 'D-NSN', 'TR']])
+
+
+class DisplayTest(unittest.TestCase):
+    def test_compounds_are_shown_with_spaces(self):
+        from retag import data
+        verse = [['او', 'H1931'], ['فرو~گرفت', 'H7363'], ['خواهد_شد', 'H1961'], ['.']]
+        self.assertEqual(data.display_verse(verse),
+                         [['او', 'H1931'], ['فرو گرفت', 'H7363'], ['خواهد شد', 'H1961'], ['.']])
+
+    def test_token_tags_match_either_form(self):
+        from retag import data
+        tokens = ['او', 'فرو~گرفت', 'خواهد_شد', '.']
+        spaced = [['او', 'H1931'], ['فرو گرفت', 'H7363'], ['خواهد', 'H1961'], ['شد', 'Hc'], ['.']]
+        self.assertEqual(data.token_tags(spaced, tokens), ['H1931', 'H7363', 'H1961 Hc', None])
+        joined = [['او', 'H1931'], ['فرو~گرفت', 'H7363'], ['خواهد_شد', 'H1961'], ['.']]
+        self.assertEqual(data.token_tags(joined, tokens), ['H1931', 'H7363', 'H1961', None])
