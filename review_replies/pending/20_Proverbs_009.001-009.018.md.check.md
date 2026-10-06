@@ -1,51 +1,14 @@
 # Check of 20_Proverbs_009.001-009.018.md
 
-Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-06 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
-## 15 verse(s) with changes
+No change from the current tags (will be skipped): Proverbs 9:2.
 
-### Proverbs 9:2: 1 word(s) changed
+## 14 verse(s) with changes
 
-Reply line 2.
+### Proverbs 9:3: 4 word(s) changed
 
-Original: טָבְחָה טִבְחָ/הּ מָסְכָה יֵינָ/הּ אַף עָרְכָה שֻׁלְחָנָ/הּ
-
-Persian: او گوشت خود را طبخ کرده، شراب خویش را برآمیخته، و سفره‌اش را نیز آراسته است.
-
-Original words:
-- o1: טָבְחָה = H2873 טָבַח "to slaughter (animals or men)" [HVqp3fs]
-- o2: טִבְחָ/הּ = H2874 טֶבַח "properly, something slaughtered…" [HNcmsc/Sp3fs]
-- o3: מָסְכָה = H4537 מָסַךְ "to mix, especially wine (with spices)" [HVqp3fs]
-- o4: יֵינָ/הּ = H3196 יַיִן "wine (as fermented); by implication, intoxication" [HNcmsc/Sp3fs]
-- o5: אַף = H637 אַף "meaning accession (used as an adverb or…" [HTa]
-- o6: עָרְכָה = H6186 עָרַךְ "to set in a row, i.e. arrange…" [HVqp3fs]
-- o7: שֻׁלְחָנָ/הּ = H7979 שֻׁלְחָן "a table (as spread out); by implication, a meal" [HNcmsc/Sp3fs]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | او |  |  |
-|  | گوشت | H2874 | H2874 |
-|  | خود |  |  |
-|  | را |  |  |
-|  | طبخ | [طبخ کرده] H2873 | [طبخ کرده] H2873 |
-|  | کرده | [طبخ کرده] H2873 | [طبخ کرده] H2873 |
-|  | ، |  |  |
-| ✱ | شراب | H2874 טֶבַח "properly…"; H3196 יַיִן "wine (as fermented)…" | H3196 יַיִן "wine (as fermented)…" |
-|  | خویش |  |  |
-|  | را |  |  |
-|  | برآمیخته | H4537 | H4537 |
-|  | ، |  |  |
-|  | و |  |  |
-|  | سفره‌اش | H7979 | H7979 |
-|  | را |  |  |
-|  | نیز | H637 | H637 |
-|  | آراسته | [آراسته است] H6186 | [آراسته است] H6186 |
-|  | است | [آراسته است] H6186 | [آراسته است] H6186 |
-|  | . |  |  |
-
-### Proverbs 9:3: 3 word(s) changed
-
-Reply line 3.
+Reply line 3. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: שָׁלְחָה נַעֲרֹתֶי/הָ תִקְרָא עַל גַּפֵּי מְרֹמֵי קָרֶת
 
@@ -67,18 +30,18 @@ Original words:
 |  | گسیل | [گسیل داشته] H7971 | [گسیل داشته] H7971 |
 |  | داشته | [گسیل داشته] H7971 | [گسیل داشته] H7971 |
 |  | و |  |  |
-|  | از | H5921 H1610 | H5921 H1610 |
+| ✱ | از | H5921 עַל "above, over, upon…" | H5921 עַל "above, over, upon…"; H1610 גַּף "the back…" |
 |  | بالاترین | [بالاترین نقطۀ] H4791 | [بالاترین نقطۀ] H4791 |
 |  | نقطۀ | [بالاترین نقطۀ] H4791 | [بالاترین نقطۀ] H4791 |
 |  | شهر | H7176 | H7176 |
 | ✱ | ندا | H7121 קָרָא "to call out to (i.e. properly…" | [ندا در می‌دهد] H7121 קָרָא "to call out to (i.e. properly…" |
-| ✱ | در |  | [ندا در می‌دهد] H7121 קָרָא "to call out to (i.e. properly…" |
+| ✱ | در | H5921 עַל "above, over, upon…" | [ندا در می‌دهد] H7121 קָרָא "to call out to (i.e. properly…" |
 | ✱ | می‌دهد |  | [ندا در می‌دهد] H7121 קָרָא "to call out to (i.e. properly…" |
 |  | : |  |  |
 
 ### Proverbs 9:4: 1 word(s) changed
 
-Reply line 4.
+Reply line 4. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: מִי פֶתִי יָסֻר הֵנָּה חֲסַר לֵב אָמְרָה לּ/וֹ
 
@@ -113,9 +76,9 @@ Original words:
 |  | می‌گوید | H559 | H559 |
 |  | : |  |  |
 
-### Proverbs 9:5: 4 word(s) changed
+### Proverbs 9:5: 1 word(s) changed
 
-Reply line 5.
+Reply line 5. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: לְכוּ לַחֲמוּ בְ/לַחֲמִ/י וּ/שְׁתוּ בְּ/יַיִן מָסָכְתִּי
 
@@ -132,13 +95,13 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | « |  |  |
-| ✱ | بیایید |  | H3212 יָלַךְ "to walk (literally or…" |
-| ✱ | از |  | Hb "in" |
+|  | بیایید | H3212 | H3212 |
+|  | از | Hb | Hb |
 |  | طعام | H3899 | H3899 |
 |  | من |  |  |
 | ✱ | بخورید |  | H3898 לָחַם "to feed on…" |
 |  | و | Hc | Hc |
-| ✱ | از |  | Hb "in" |
+|  | از | Hb | Hb |
 |  | شرابی | H3196 | H3196 |
 |  | که |  |  |
 |  | برآمیخته‌ام | H4537 | H4537 |
@@ -148,11 +111,11 @@ Original words:
 
 ### Proverbs 9:6: 4 word(s) changed
 
-Reply line 6.
+Reply line 6. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: עִזְבוּ פְתָאיִם וִ/חְיוּ וְ/אִשְׁרוּ בְּ/דֶרֶךְ בִּינָה
 
-Persian: ساده‌لوحیِ خود را ترک کنید که خواهید_زیست؛ و در طریق فهم گام بردارید.»
+Persian: ساده‌لوحیِ خود را ترک کنید که خواهید زیست؛ و در طریق فهم گام بردارید.»
 
 Original words:
 - o1: עִזְבוּ = H5800 עָזַב "to loosen, i.e. relinquish, permit, etc" [HVqv2mp]
@@ -170,20 +133,21 @@ Original words:
 |  | ترک | [ترک کنید] H5800 | [ترک کنید] H5800 |
 |  | کنید | [ترک کنید] H5800 | [ترک کنید] H5800 |
 | ✱ | که |  | Hc "and" |
-|  | خواهید_زیست | H2421 | H2421 |
+|  | خواهید | [خواهید زیست] H2421 | [خواهید زیست] H2421 |
+|  | زیست | [خواهید زیست] H2421 | [خواهید زیست] H2421 |
 |  | ؛ |  |  |
 |  | و | Hc | Hc |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | طریق | H1870 | H1870 |
-|  | فهم | H998 | H998 |
-| ✱ | گام |  | [گام بردارید] H833 אָשַׁר "to be straight (used in the…" |
+| ✱ | فهم | [فهم گام] H998 בִּינָה "understanding" | H998 בִּינָה "understanding" |
+| ✱ | گام | [فهم گام] H998 בִּינָה "understanding" | [گام بردارید] H833 אָשַׁר "to be straight (used in the…" |
 | ✱ | بردارید | H833 אָשַׁר "to be straight (used in the…" | [گام بردارید] H833 אָשַׁר "to be straight (used in the…" |
 |  | . |  |  |
 |  | » |  |  |
 
-### Proverbs 9:7: 7 word(s) changed
+### Proverbs 9:7: 5 word(s) changed
 
-Reply line 7.
+Reply line 7. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: יֹסֵר לֵץ לֹקֵחַ ל/וֹ קָלוֹן וּ/מוֹכִיחַ לְ/רָשָׁע מוּמ/וֹ
 
@@ -209,18 +173,18 @@ Original words:
 |  | تأدیب | [تأدیب کند] H3256 | [تأدیب کند] H3256 |
 |  | کند | [تأدیب کند] H3256 | [تأدیب کند] H3256 |
 |  | ، |  |  |
-| ✱ | به | Hl "to"; H3971 מאוּם "to stain…" |  |
+| ✱ | به | Hl "to" |  |
 | ✱ | استقبال | H7036 קָלוֹן "disgrace…" | H3947 לָקַח "to take (in the widest…" |
 | ✱ | بی‌حرمتی | H3971 מאוּם "to stain…" | H7036 קָלוֹן "disgrace…" |
-|  | می‌رود | H3947 | H3947 |
+| ✱ | می‌رود |  | H3947 לָקַח "to take (in the widest…" |
 |  | ؛ |  |  |
 |  | هر |  |  |
 |  | که |  |  |
 |  | مرد |  |  |
-| ✱ | شریر | H3887 לוּץ "properly, to make mouths at…"; H7563 רָשָׁע "morally wrong…" | H7563 רָשָׁע "morally wrong…" |
+|  | شریر | H7563 | H7563 |
 |  | را |  |  |
-| ✱ | توبیخ | H3198 יָכַח "to be right (i.e. correct)…" | [توبیخ کند] H3198 יָכַח "to be right (i.e. correct)…" |
-| ✱ | کند | H3256 יָסַר "to chastise…" | [توبیخ کند] H3198 יָכַח "to be right (i.e. correct)…" |
+|  | توبیخ | [توبیخ کند] H3198 | [توبیخ کند] H3198 |
+|  | کند | [توبیخ کند] H3198 | [توبیخ کند] H3198 |
 |  | ، |  |  |
 | ✱ | بد |  | H3971 מאוּם "to stain…" |
 |  | می‌بیند |  |  |
@@ -228,11 +192,11 @@ Original words:
 
 ### Proverbs 9:8: 1 word(s) changed
 
-Reply line 8.
+Reply line 8. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: אַל תּוֹכַח לֵץ פֶּן יִשְׂנָאֶ/ךָּ הוֹכַח לְ/חָכָם וְ/יֶאֱהָבֶ/ךָּ
 
-Persian: تمسخرگر را توبیخ مکن، مبادا از تو نفرت کند؛ حکیم را توبیخ کن، که تو را دوست خواهد_داشت.
+Persian: تمسخرگر را توبیخ مکن، مبادا از تو نفرت کند؛ حکیم را توبیخ کن، که تو را دوست خواهد داشت.
 
 Original words:
 - o1: אַל = H408 אַל "not (the qualified negation…" [HTn]
@@ -265,17 +229,18 @@ Original words:
 | ✱ | که |  | Hc "and" |
 |  | تو |  |  |
 |  | را |  |  |
-|  | دوست | [دوست خواهد_داشت] H157 | [دوست خواهد_داشت] H157 |
-|  | خواهد_داشت | [دوست خواهد_داشت] H157 | [دوست خواهد_داشت] H157 |
+|  | دوست | [دوست خواهد داشت] H157 | [دوست خواهد داشت] H157 |
+|  | خواهد | [دوست خواهد داشت] H157 | [دوست خواهد داشت] H157 |
+|  | داشت | [دوست خواهد داشت] H157 | [دوست خواهد داشت] H157 |
 |  | . |  |  |
 
-### Proverbs 9:9: 9 word(s) changed
+### Proverbs 9:9: 8 word(s) changed
 
-Reply line 9.
+Reply line 9. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: תֵּן לְ/חָכָם וְ/יֶחְכַּם עוֹד הוֹדַע לְ/צַדִּיק וְ/יוֹסֶף לֶקַח
 
-Persian: حکیم را بیاموز که حکیمتر خواهد_شد؛ پارسا را تعلیم ده که آموخته‌هایش افزون خواهد_گشت.
+Persian: حکیم را بیاموز که حکیمتر خواهد شد؛ پارسا را تعلیم ده که آموخته‌هایش افزون خواهد گشت.
 
 Original words:
 - o1: תֵּן = H5414 נָתַן "to give…" [HVqv2ms]
@@ -293,8 +258,9 @@ Original words:
 |  | را |  |  |
 | ✱ | بیاموز | H2449 חָכַם "to be wise (in mind…" | H5414 נָתַן "to give…" |
 | ✱ | که |  | Hc "and" |
-| ✱ | حکیمتر | [حکیمتر خواهد_شد] H2449 חָכַם "to be wise (in mind…" | [حکیمتر خواهد_شد] H2449 חָכַם "to be wise (in mind…"; H5750 עוֹד "properly…" |
-| ✱ | خواهد_شد | [حکیمتر خواهد_شد] H2449 חָכַם "to be wise (in mind…" | [حکیمتر خواهد_شد] H2449 חָכַם "to be wise (in mind…"; H5750 עוֹד "properly…" |
+| ✱ | حکیمتر | [حکیمتر خواهد شد] H2449 חָכַם "to be wise (in mind…" | [حکیمتر خواهد شد] H2449 חָכַם "to be wise (in mind…"; H5750 עוֹד "properly…" |
+| ✱ | خواهد | [حکیمتر خواهد شد] H2449 חָכַם "to be wise (in mind…" | [حکیمتر خواهد شد] H2449 חָכַם "to be wise (in mind…"; H5750 עוֹד "properly…" |
+| ✱ | شد | [حکیمتر خواهد شد] H2449 חָכַם "to be wise (in mind…" | [حکیمتر خواهد شد] H2449 חָכַם "to be wise (in mind…"; H5750 עוֹד "properly…" |
 |  | ؛ |  |  |
 |  | پارسا | H6662 | H6662 |
 |  | را |  |  |
@@ -302,17 +268,18 @@ Original words:
 | ✱ | ده | H5414 נָתַן "to give…" | [تعلیم ده] H3045 יָדַע "to know (properly…" |
 | ✱ | که |  | Hc "and" |
 |  | آموخته‌هایش | H3948 | H3948 |
-| ✱ | افزون |  | [افزون خواهد_گشت] H3254 יָסַף "to add or augment (often…" |
-| ✱ | خواهد_گشت |  | [افزون خواهد_گشت] H3254 יָסַף "to add or augment (often…" |
+|  | افزون | [افزون خواهد گشت] H3254 | [افزون خواهد گشت] H3254 |
+|  | خواهد | [افزون خواهد گشت] H3254 | [افزون خواهد گشت] H3254 |
+|  | گشت | [افزون خواهد گشت] H3254 | [افزون خواهد گشت] H3254 |
 |  | . |  |  |
 
 ### Proverbs 9:11: 2 word(s) changed
 
-Reply line 10.
+Reply line 10. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: כִּי בִ/י יִרְבּוּ יָמֶי/ךָ וְ/יוֹסִיפוּ לְּ/ךָ שְׁנוֹת חַיִּים
 
-Persian: زیرا به واسطۀ من، روزهای تو بسیار خواهد_شد و بر سالهای عمرت افزوده خواهد_گردید.
+Persian: زیرا به واسطۀ من، روزهای تو بسیار خواهد شد و بر سالهای عمرت افزوده خواهد گردید.
 
 Original words:
 - o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
@@ -333,23 +300,25 @@ Original words:
 |  | ، |  |  |
 |  | روزهای | H3117 | H3117 |
 |  | تو |  |  |
-|  | بسیار | [بسیار خواهد_شد] H7235 | [بسیار خواهد_شد] H7235 |
-|  | خواهد_شد | [بسیار خواهد_شد] H7235 | [بسیار خواهد_شد] H7235 |
+|  | بسیار | [بسیار خواهد شد] H7235 | [بسیار خواهد شد] H7235 |
+|  | خواهد | [بسیار خواهد شد] H7235 | [بسیار خواهد شد] H7235 |
+|  | شد | [بسیار خواهد شد] H7235 | [بسیار خواهد شد] H7235 |
 |  | و | Hc | Hc |
 |  | بر |  |  |
 |  | سالهای | H8141 | H8141 |
 |  | عمرت | H2416 | H2416 |
-|  | افزوده | [افزوده خواهد_گردید] H3254 | [افزوده خواهد_گردید] H3254 |
-|  | خواهد_گردید | [افزوده خواهد_گردید] H3254 | [افزوده خواهد_گردید] H3254 |
+|  | افزوده | [افزوده خواهد گردید] H3254 | [افزوده خواهد گردید] H3254 |
+|  | خواهد | [افزوده خواهد گردید] H3254 | [افزوده خواهد گردید] H3254 |
+|  | گردید | [افزوده خواهد گردید] H3254 | [افزوده خواهد گردید] H3254 |
 |  | . |  |  |
 
-### Proverbs 9:12: 7 word(s) changed
+### Proverbs 9:12: 9 word(s) changed
 
-Reply line 11.
+Reply line 11. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: אִם חָכַמְתָּ חָכַמְתָּ לָּ/ךְ וְ/לַצְתָּ לְ/בַדְּ/ךָ תִשָּׂא
 
-Persian: اگر حکیمی، خود از آن بهره خواهی_برد؛ اگر تمسخرگری، خود به تنهایی زیان خواهی_دید.»
+Persian: اگر حکیمی، خود از آن بهره خواهی برد؛ اگر تمسخرگری، خود به تنهایی زیان خواهی دید.»
 
 Original words:
 - o1: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
@@ -368,8 +337,9 @@ Original words:
 | ✱ | خود |  | Hl "to" |
 |  | از |  |  |
 |  | آن |  |  |
-| ✱ | بهره |  | [بهره خواهی_برد] H2449 חָכַם "to be wise (in mind…" |
-| ✱ | خواهی_برد | H2449 חָכַם "to be wise (in mind…" | [بهره خواهی_برد] H2449 חָכַם "to be wise (in mind…" |
+| ✱ | بهره | H2449 חָכַם "to be wise (in mind…" | [بهره خواهی برد] H2449 חָכַם "to be wise (in mind…" |
+| ✱ | خواهی | [خواهی برد] H2449 חָכַם "to be wise (in mind…" | [بهره خواهی برد] H2449 חָכַם "to be wise (in mind…" |
+| ✱ | برد | [خواهی برد] H2449 חָכַם "to be wise (in mind…" | [بهره خواهی برد] H2449 חָכַם "to be wise (in mind…" |
 |  | ؛ |  |  |
 | ✱ | اگر | H518 אִם "used very widely as…" | Hc "and" |
 |  | تمسخرگری | H3887 | H3887 |
@@ -377,14 +347,15 @@ Original words:
 |  | خود |  |  |
 |  | به | Hl | Hl |
 | ✱ | تنهایی | [تنهایی زیان] H905 בַּד "properly, separation…" | H905 בַּד "properly, separation…" |
-| ✱ | زیان | [تنهایی زیان] H905 בַּד "properly, separation…" | [زیان خواهی_دید] H5375 נָשָׂא "to lift…" |
-| ✱ | خواهی_دید | H5375 נָשָׂא "to lift…" | [زیان خواهی_دید] H5375 נָשָׂא "to lift…" |
+| ✱ | زیان | [تنهایی زیان] H905 בַּד "properly, separation…" | [زیان خواهی دید] H5375 נָשָׂא "to lift…" |
+| ✱ | خواهی | [خواهی دید] H5375 נָשָׂא "to lift…" | [زیان خواهی دید] H5375 נָשָׂא "to lift…" |
+| ✱ | دید | [خواهی دید] H5375 נָשָׂא "to lift…" | [زیان خواهی دید] H5375 נָשָׂא "to lift…" |
 |  | . |  |  |
 |  | » |  |  |
 
-### Proverbs 9:14: 2 word(s) changed
+### Proverbs 9:14: 1 word(s) changed
 
-Reply line 12.
+Reply line 12. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: וְ/יָשְׁבָה לְ/פֶתַח בֵּיתָ/הּ עַל כִּסֵּא מְרֹמֵי קָרֶת
 
@@ -402,7 +373,7 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 | ✱ | بر |  | Hl "to" |
-| ✱ | درِ |  | H6607 פֶּתַח "an opening (literally)…" |
+|  | درِ | H6607 | H6607 |
 |  | خانۀ | H1004 | H1004 |
 |  | خود |  |  |
 |  | می‌نشیند | H3427 | H3427 |
@@ -415,9 +386,9 @@ Original words:
 |  | شهر | H7176 | H7176 |
 |  | ، |  |  |
 
-### Proverbs 9:15: 3 word(s) changed
+### Proverbs 9:15: 2 word(s) changed
 
-Reply line 13.
+Reply line 13. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: לִ/קְרֹא לְ/עֹבְרֵי דָרֶךְ הַ/מְיַשְּׁרִים אֹרְחוֹתָ/ם
 
@@ -432,7 +403,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | و | H7121 קָרָא "to call out to (i.e. properly…" |  |
+|  | و |  |  |
 | ✱ | رهگذران | H5674 עָבַר "to cross over…" | H5674 עָבַר "to cross over…"; H1870 דֶּרֶךְ "a road (as trodden)…" |
 |  | را |  |  |
 |  | ندا | [ندا می‌دهد] H7121 | [ندا می‌دهد] H7121 |
@@ -448,9 +419,9 @@ Original words:
 | ✱ | می‌روند |  | H3474 יָשַׁר "to be straight or even…" |
 |  | : |  |  |
 
-### Proverbs 9:16: 5 word(s) changed
+### Proverbs 9:16: 4 word(s) changed
 
-Reply line 14.
+Reply line 14. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: מִי פֶתִי יָסֻר הֵנָּה וַ/חֲסַר לֵב וְ/אָמְרָה לּ/וֹ
 
@@ -479,18 +450,18 @@ Original words:
 |  | » |  |  |
 |  | و | Hc | Hc |
 | ✱ | به |  | Hl "to" |
-| ✱ | کم‌عقلان | H2638 חָסֵר "lacking; hence, without" | H2638 חָסֵר "lacking; hence, without"; H3820 לֵב "the heart…" |
+|  | کم‌عقلان | H2638 H3820 | H2638 H3820 |
 |  | ، |  |  |
 |  | گوید | H559 | H559 |
 |  | : |  |  |
 
-### Proverbs 9:17: 1 word(s) changed
+### Proverbs 9:17: 2 word(s) changed
 
-Reply line 15.
+Reply line 15. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: מַיִם גְּנוּבִים יִמְתָּקוּ וְ/לֶחֶם סְתָרִים יִנְעָם
 
-Persian: « آبِ دزدیده شیرین است؛ و نانی که پنهانی خورده_شود، لذیذ.»
+Persian: « آبِ دزدیده شیرین است؛ و نانی که پنهانی خورده شود، لذیذ.»
 
 Original words:
 - o1: מַיִם = H4325 מַיִם "water; figuratively, juice…" [HNcmpa]
@@ -505,14 +476,15 @@ Original words:
 |  | « |  |  |
 |  | آبِ | H4325 | H4325 |
 |  | دزدیده | H1589 | H1589 |
-|  | شیرین | H4985 | H4985 |
-| ✱ | است | H4325 מַיִם "water; figuratively, juice…" |  |
+| ✱ | شیرین | [شیرین است] H4985 מָתַק "to suck, by implication…" | H4985 מָתַק "to suck, by implication…" |
+| ✱ | است | [شیرین است] H4985 מָתַק "to suck, by implication…" |  |
 |  | ؛ |  |  |
 |  | و | Hc | Hc |
 |  | نانی | H3899 | H3899 |
 |  | که |  |  |
 |  | پنهانی | H5643 | H5643 |
-|  | خورده_شود |  |  |
+|  | خورده | [خورده شود]  | [خورده شود]  |
+|  | شود | [خورده شود]  | [خورده شود]  |
 |  | ، |  |  |
 |  | لذیذ | H5276 | H5276 |
 |  | . |  |  |
@@ -520,7 +492,7 @@ Original words:
 
 ### Proverbs 9:18: 1 word(s) changed
 
-Reply line 16.
+Reply line 16. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: וְ/לֹא יָדַע כִּי רְפָאִים שָׁם בְּ/עִמְקֵי שְׁאוֹל קְרֻאֶי/הָ
 
@@ -538,8 +510,8 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | اما |  | Hc "and" |
-|  | نمی‌دانند | H3808 H3045 | H3808 H3045 |
+|  | اما | Hc | Hc |
+| ✱ | نمی‌دانند | H3045 יָדַע "to know (properly…" | H3808 לֹא "not (the simple or abs.…"; H3045 יָדַע "to know (properly…" |
 |  | که | H3588 | H3588 |
 |  | مردگان | H7496 | H7496 |
 |  | ، |  |  |

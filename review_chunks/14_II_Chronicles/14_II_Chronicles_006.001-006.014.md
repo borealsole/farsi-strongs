@@ -1,6 +1,6 @@
-# NMV Strong's review: II Chronicles 6:1–21
+# NMV Strong's review: II Chronicles 6:1–14
 
-Chunk file: 14_II_Chronicles_006.001-006.021.md. 21 verses to review.
+Chunk file: 14_II_Chronicles_006.001-006.014.md. 14 verses to review.
 
 ## Worked examples (already reviewed by hand; follow these conventions)
 
@@ -84,7 +84,7 @@ Correct Persian tags (reviewed by hand):
 ### II Chronicles 6:1
 
 Original: אָז אָמַר שְׁלֹמֹה יְהוָה אָמַר לִ/שְׁכּוֹן בָּ/עֲרָפֶל
-Persian: آنگاه سلیمان گفت:« خداوند فرموده_است که در تاریکی غلیظ ساکن می‌شود؛
+Persian: آنگاه سلیمان گفت:« خداوند فرموده است که در تاریکی غلیظ ساکن می‌شود؛
 
 Original words:
 - o1: אָז = H227 אָז "at that time or place…" [HD]
@@ -102,7 +102,7 @@ Persian entries and current tags:
 - p4: :
 - p5: «
 - p6: خداوند  → H3068
-- p7: فرموده_است  → H559
+- p7: فرموده است  → H559
 - p8: که
 - p9: در  → Hb
 - p10: تاریکی غلیظ  → H6205
@@ -135,7 +135,7 @@ Persian entries and current tags:
 - p8: ،
 - p9: مکانی  → H4349
 - p10: که
-- p11: تا
+- p11: تا  → Hl
 - p12: ابد  → H5769
 - p13: در
 - p14: آن
@@ -147,7 +147,7 @@ Persian entries and current tags:
 ### II Chronicles 6:3
 
 Original: וַ/יַּסֵּב הַ/מֶּלֶךְ אֶת פָּנָי/ו וַ/יְבָרֶךְ אֵת כָּל קְהַל יִשְׂרָאֵל וְ/כָל קְהַל יִשְׂרָאֵל עוֹמֵד
-Persian: آنگاه پادشاه روی به سوی تمامی جماعت اسرائیل گردانید، و در حالی که تمامی جماعت اسرائیل ایستاده_بودند برکتشان داد
+Persian: آنگاه پادشاه روی به سوی تمامی جماعت اسرائیل گردانید، و در حالی که تمامی جماعت اسرائیل ایستاده بودند برکتشان داد
 
 Original words:
 - o1: וַ/יַּסֵּב = Hc "and" + H5437 סָבַב "to revolve, surround, or border…" [HC/Vhw3ms]
@@ -182,13 +182,13 @@ Persian entries and current tags:
 - p15: تمامی  → H3605
 - p16: جماعت  → H6951
 - p17: اسرائیل  → H3478
-- p18: ایستاده_بودند  → H5975
+- p18: ایستاده بودند  → H5975
 - p19: برکتشان داد  → H1288
 
 ### II Chronicles 6:4
 
 Original: וַ/יֹּאמֶר בָּרוּךְ יְהוָה אֱלֹהֵי יִשְׂרָאֵל אֲשֶׁר דִּבֶּר בְּ/פִי/ו אֵת דָּוִיד אָבִ/י וּ/בְ/יָדָי/ו מִלֵּא לֵ/אמֹר
-Persian: و گفت:« متبارک باد یهوه خدای اسرائیل، که به دست خود آنچه را که به دهان خویش به پدرم داوود وعده داده_بود به انجام رسانید، آنگاه که فرمود:
+Persian: و گفت:« متبارک باد یهوه خدای اسرائیل، که به دست خود آنچه را که به دهان خویش به پدرم داوود وعده داده بود به انجام رسانید، آنگاه که فرمود:
 
 Original words:
 - o1: וַ/יֹּאמֶר = Hc "and" + H559 אָמַר "to say (used with great latitude)" [HC/Vqw3ms]
@@ -211,28 +211,28 @@ Persian entries and current tags:
 - p2: گفت  → H559
 - p3: :
 - p4: «
-- p5: متبارک  → H1288
-- p6: باد
-- p7: یهوه  → H3068
-- p8: خدای  → H430
-- p9: اسرائیل  → H3478
-- p10: ،
-- p11: که  → H834
-- p12: به
-- p13: دست  → H3027
-- p14: خود
-- p15: آنچه
-- p16: را
-- p17: که  → H834
-- p18: به  → Hb
-- p19: دهان  → H6310
-- p20: خویش
-- p21: به
-- p22: پدرم  → H1
-- p23: داوود  → H1732
-- p24: وعده داده_بود  → H1696
-- p25: به  → Hb
-- p26: انجام رسانید  → H4390
+- p5: متبارک باد  → H1288
+- p6: یهوه  → H3068
+- p7: خدای  → H430
+- p8: اسرائیل  → H3478
+- p9: ،
+- p10: که  → H834
+- p11: به
+- p12: دست  → H3027
+- p13: خود
+- p14: آنچه  → H834
+- p15: را
+- p16: که  → H834
+- p17: به  → Hb
+- p18: دهان  → H6310
+- p19: خویش
+- p20: به
+- p21: پدرم  → H1
+- p22: داوود  → H1732
+- p23: وعده داده بود  → H1696
+- p24: به  → Hb
+- p25: انجام  → H3027 H4390
+- p26: رسانید  → H4390
 - p27: ،
 - p28: آنگاه  → Hc
 - p29: که  → H834
@@ -274,7 +274,7 @@ Original words:
 - o27: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
 
 Persian entries and current tags:
-- p1: ”از
+- p1: ”از  → H4480
 - p2: روزی  → H3117
 - p3: که  → H834
 - p4: قوم  → H5971
@@ -288,13 +288,13 @@ Persian entries and current tags:
 - p12: کنون
 - p13: از  → H4480 Hm
 - p14: هیچ‌یک  → H3808 H3605
-- p15: از  → H4480
+- p15: از  → H4480 Hm
 - p16: قبایل  → H7626
 - p17: اسرائیل  → H3478
 - p18: شهری  → H5892
 - p19: برنگزیده‌ام  → H977
-- p20: تا
-- p21: در
+- p20: تا  → Hl
+- p21: در  → Hb
 - p22: آن
 - p23: خانه‌ای  → H1004
 - p24: بنا شود  → H1129
@@ -306,16 +306,16 @@ Persian entries and current tags:
 - p30: باشد
 - p31: ،
 - p32: و  → Hc
-- p33: کسی  → H376
+- p33: کسی  → H3808 H376
 - p34: را  → H853
 - p35: برنگزیده‌ام  → H977
-- p36: تا
+- p36: تا  → Hl
 - p37: بر  → H5921
 - p38: قوم  → H5971
 - p39: من
 - p40: اسرائیل  → H3478
 - p41: پیشوا  → H5057
-- p42: باشد  → H1961
+- p42: باشد
 - p43: ؛
 
 ### II Chronicles 6:6
@@ -341,7 +341,7 @@ Persian entries and current tags:
 - p2: اورشلیم  → H3389
 - p3: را
 - p4: برگزیده‌ام  → H977
-- p5: تا
+- p5: تا  → Hl
 - p6: نام  → H8034
 - p7: من
 - p8: در
@@ -352,7 +352,7 @@ Persian entries and current tags:
 - p13: داوود  → H1732
 - p14: را
 - p15: برگزیده‌ام  → H977
-- p16: تا
+- p16: تا  → Hl
 - p17: بر  → H5921
 - p18: قوم  → H5971
 - p19: من
@@ -384,12 +384,12 @@ Persian entries and current tags:
 - p1: در  → H5973
 - p2: دل  → H3824
 - p3: پدرم  → H1
-- p4: داوود
+- p4: داوود  → H1732
 - p5: بود
 - p6: که
 - p7: برای  → Hl
 - p8: نام  → H8034
-- p9: یهوه  → H1732 H3068
+- p9: یهوه  → H3068
 - p10: خدای  → H430
 - p11: اسرائیل  → H3478
 - p12: خانه‌ای  → H1004
@@ -429,32 +429,33 @@ Persian entries and current tags:
 - p5: داوود  → H1732
 - p6: فرمود  → H559
 - p7: :
-- p8: ”از اینکه  → H3282
-- p9: در
-- p10: دل  → H3824
-- p11: تو
-- p12: بود
-- p13: که
-- p14: خانه‌ای  → H1004
-- p15: برای  → Hl
-- p16: نام  → H8034
-- p17: من
-- p18: بنا کنی  → H1129
-- p19: ،
-- p20: نیکو کردی  → H2895
-- p21: که
-- p22: این
-- p23: را
-- p24: در
-- p25: دل  → H3824
-- p26: خویش
-- p27: نهادی
-- p28: ،
+- p8: ”از  → H3282
+- p9: اینکه  → H834
+- p10: در  → H5973
+- p11: دل  → H3824
+- p12: تو
+- p13: بود
+- p14: که
+- p15: خانه‌ای  → H1004
+- p16: برای  → Hl
+- p17: نام  → H8034
+- p18: من
+- p19: بنا کنی  → H1129
+- p20: ،
+- p21: نیکو کردی  → H2895
+- p22: که  → H3588
+- p23: این
+- p24: را
+- p25: در  → H5973
+- p26: دل  → H3824
+- p27: خویش
+- p28: نهادی
+- p29: ،
 
 ### II Chronicles 6:9
 
 Original: רַק אַתָּה לֹא תִבְנֶה הַ/בָּיִת כִּי בִנְ/ךָ הַ/יּוֹצֵא מֵ/חֲלָצֶי/ךָ הוּא יִבְנֶה הַ/בַּיִת לִ/שְׁמִ/י
-Persian: لیکن تو خانه را نخواهی_ساخت، بلکه پسرت که برایت زاده خواهد_شد، اوست که خانه را برای نام من بنا خواهد_کرد.“
+Persian: لیکن تو خانه را نخواهی ساخت، بلکه پسرت که برایت زاده خواهد شد، اوست که خانه را برای نام من بنا خواهد کرد.“
 
 Original words:
 - o1: רַק = H7535 רַק "properly, leanness…" [HTa]
@@ -476,29 +477,29 @@ Persian entries and current tags:
 - p2: تو  → H859
 - p3: خانه  → H1004
 - p4: را
-- p5: نخواهی_ساخت  → H1129
+- p5: نخواهی ساخت  → H1129
 - p6: ،
 - p7: بلکه  → H3588
 - p8: پسرت  → H1121
 - p9: که
 - p10: برایت
-- p11: زاده خواهد_شد  → H3318
+- p11: زاده خواهد شد  → H3318
 - p12: ،
-- p13: اوست
+- p13: اوست  → H1931
 - p14: که
 - p15: خانه  → H1004
 - p16: را
 - p17: برای  → Hl
 - p18: نام  → H8034
 - p19: من
-- p20: بنا خواهد_کرد  → H1129
+- p20: بنا خواهد کرد  → H1129
 - p21: .
 - p22: “
 
 ### II Chronicles 6:10
 
 Original: וַ/יָּקֶם יְהוָה אֶת דְּבָר/וֹ אֲשֶׁר דִּבֵּר וָ/אָקוּם תַּחַת דָּוִיד אָבִ/י וָ/אֵשֵׁב עַל כִּסֵּא יִשְׂרָאֵל כַּ/אֲשֶׁר דִּבֶּר יְהוָה וָ/אֶבְנֶה הַ/בַּיִת לְ/שֵׁם יְהוָה אֱלֹהֵי יִשְׂרָאֵל
-Persian: اکنون خداوند به وعده‌ای که داده_بود وفا کرده_است، زیرا من مطابق وعدۀ خداوند به جانشینی پدرم داوود برخاسته و بر تخت پادشاهی اسرائیل نشسته‌ام، و آن خانه را برای نام یهوه خدای اسرائیل بنا کرده‌ام.
+Persian: اکنون خداوند به وعده‌ای که داده بود وفا کرده است، زیرا من مطابق وعدۀ خداوند به جانشینی پدرم داوود برخاسته و بر تخت پادشاهی اسرائیل نشسته‌ام، و آن خانه را برای نام یهوه خدای اسرائیل بنا کرده‌ام.
 
 Original words:
 - o1: וַ/יָּקֶם = Hc "and" + H6965 קוּם "to rise (in various applications, literal…" [HC/Vhw3ms]
@@ -528,40 +529,39 @@ Original words:
 Persian entries and current tags:
 - p1: اکنون
 - p2: خداوند  → H3068
-- p3: به  → H6965
+- p3: به
 - p4: وعده‌ای  → H1697
 - p5: که  → H834
-- p6: داده_بود  → H1696
-- p7: وفا کرده_است  → H6965
+- p6: داده بود  → H1696
+- p7: وفا کرده است  → H6965
 - p8: ،
-- p9: زیرا
+- p9: زیرا  → H834
 - p10: من
 - p11: مطابق  → Hk
 - p12: وعدۀ  → H1696
 - p13: خداوند  → H3068
-- p14: به  → H6965
+- p14: به
 - p15: جانشینی  → H8478
 - p16: پدرم  → H1
 - p17: داوود  → H1732
 - p18: برخاسته  → H6965
 - p19: و  → Hc
 - p20: بر  → H5921
-- p21: تخت  → H3678
-- p22: پادشاهی
-- p23: اسرائیل  → H3478
-- p24: نشسته‌ام  → H3427
-- p25: ،
-- p26: و  → Hc
-- p27: آن
-- p28: خانه  → H1004
-- p29: را  → H853
-- p30: برای  → Hl
-- p31: نام  → H8034
-- p32: یهوه  → H3068
-- p33: خدای  → H430
-- p34: اسرائیل  → H3478
-- p35: بنا کرده‌ام  → H1129
-- p36: .
+- p21: تخت پادشاهی  → H3678
+- p22: اسرائیل  → H3478
+- p23: نشسته‌ام  → H3427
+- p24: ،
+- p25: و  → Hc
+- p26: آن
+- p27: خانه  → H1004
+- p28: را  → H853
+- p29: برای  → Hl
+- p30: نام  → H8034
+- p31: یهوه  → H3068
+- p32: خدای  → H430
+- p33: اسرائیل  → H3478
+- p34: بنا کرده‌ام  → H1129
+- p35: .
 
 ### II Chronicles 6:11
 
@@ -588,13 +588,13 @@ Persian entries and current tags:
 - p2: در
 - p3: آنجا  → H8033
 - p4: صندوقِ  → H727
-- p5: حاوی
+- p5: حاوی  → H834
 - p6: عهدِ  → H1285
 - p7: خداوند  → H3068
 - p8: را  → H853
 - p9: نهاده‌ام  → H7760
 - p10: ،
-- p11: عهدی
+- p11: عهدی  → H1285
 - p12: که  → H834
 - p13: خداوند  → H3068
 - p14: با  → H5973
@@ -624,13 +624,13 @@ Persian entries and current tags:
 - p1: آنگاه  → Hc
 - p2: سلیمان
 - p3: در
-- p4: حضور  → H5048
+- p4: حضور  → H6440 H5048
 - p5: تمامی  → H3605
 - p6: جماعت  → H6951
 - p7: اسرائیل  → H3478
 - p8: ،
 - p9: مقابل  → H6440 H5048
-- p10: مذبح
+- p10: مذبح  → H4196
 - p11: خداوند  → H3068
 - p12: ایستاد  → H5975
 - p13: و  → Hc
@@ -705,23 +705,22 @@ Persian entries and current tags:
 - p26: آن
 - p27: ایستاد  → H5975
 - p28: ،
-- p29: و
-- p30: سپس  → Hc
-- p31: در
-- p32: حضور  → H5048
-- p33: تمامی  → H3605
-- p34: جماعت  → H6951
-- p35: اسرائیل  → H3478
-- p36: زانو  → H1288 H1290
-- p37: زده
-- p38: ،
-- p39: دستهای  → H6566 H3709
-- p40: خود
-- p41: را
-- p42: به
-- p43: سوی
-- p44: آسمان  → H8064
-- p45: برافراشت  → H6566
+- p29: و سپس  → Hc
+- p30: در
+- p31: حضور  → H5048
+- p32: تمامی  → H3605
+- p33: جماعت  → H6951
+- p34: اسرائیل  → H3478
+- p35: زانو  → H1288 H1290
+- p36: زده
+- p37: ،
+- p38: دستهای  → H6566 H3709
+- p39: خود
+- p40: را
+- p41: به
+- p42: سوی
+- p43: آسمان  → H8064
+- p44: برافراشت  → H6566
 
 ### II Chronicles 6:14
 
@@ -782,461 +781,17 @@ Persian entries and current tags:
 - p32: با
 - p33: خادمانت  → H5650
 - p34: که
-- p35: با
+- p35: با  → Hb
 - p36: تمامی  → H3605
 - p37: دل  → H3820
-- p38: در
+- p38: در  → Hb
 - p39: حضور  → H6440
 - p40: تو
-- p41: سلوک  → H2617 H1980
-- p42: می‌کنند  → H1980
-- p43: ،
-- p44: نگاه
-- p45: می‌داری
-- p46: .
-
-### II Chronicles 6:15
-
-Original: אֲשֶׁר שָׁמַרְתָּ לְ/עַבְדְּ/ךָ דָּוִיד אָבִ/י אֵת אֲשֶׁר דִּבַּרְתָּ ל/וֹ וַ/תְּדַבֵּר בְּ/פִי/ךָ וּ/בְ/יָדְ/ךָ מִלֵּאתָ כַּ/יּוֹם הַ/זֶּה
-Persian: تو آن وعده را که به خدمتگزارت، پدرم داوود دادی وفا کردی؛ تو آنچه را که به دهان خود وعده دادی، به دست خویش به انجام رسانیدی، چنانکه امروز شده_است.
-
-Original words:
-- o1: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
-- o2: שָׁמַרְתָּ = H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HVqp2ms]
-- o3: לְ/עַבְדְּ/ךָ = Hl "to" + H5650 עֶבֶד "a servant" [HR/Ncmsc/Sp2ms]
-- o4: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
-- o5: אָבִ/י = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp1cs]
-- o6: אֵת = H853 אֵת "properly…" [HTo]
-- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
-- o8: דִּבַּרְתָּ = H1696 דָבַר "perhaps properly, to arrange…" [HVpp2ms]
-- o9: ל/וֹ = Hl "to" [HR/Sp3ms]
-- o10: וַ/תְּדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw2ms]
-- o11: בְּ/פִי/ךָ = Hb "in" + H6310 פֶּה "the mouth (as the means of blowing)…" [HR/Ncmsc/Sp2ms]
-- o12: וּ/בְ/יָדְ/ךָ = Hc "and" + Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HC/R/Ncbsc/Sp2ms]
-- o13: מִלֵּאתָ = H4390 מָלֵא "to fill or (intransitively) be full of…" [HVpp2ms]
-- o14: כַּ/יּוֹם = Hk "like" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
-- o15: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
-
-Persian entries and current tags:
-- p1: تو  → H834
-- p2: آن
-- p3: وعده
-- p4: را  → H853
-- p5: که  → H834
-- p6: به  → Hl
-- p7: خدمتگزارت  → H5650
-- p8: ،
-- p9: پدرم  → H1
-- p10: داوود
-- p11: دادی
-- p12: وفا
-- p13: کردی  → H1696
-- p14: ؛
-- p15: تو
-- p16: آنچه  → H834
-- p17: را  → H853
-- p18: که
-- p19: به  → Hb
-- p20: دهان  → H6310
-- p21: خود
-- p22: وعده دادی  → H1696
-- p23: ،
-- p24: به  → Hb
-- p25: دست  → H3027 H4390
-- p26: خویش
-- p27: به
-- p28: انجام رسانیدی  → H4390
-- p29: ،
-- p30: چنانکه  → Hk
-- p31: امروز  → H3117 H2088
-- p32: شده_است
-- p33: .
-
-### II Chronicles 6:16
-
-Original: וְ/עַתָּה יְהוָה אֱלֹהֵי יִשְׂרָאֵל שְׁמֹר לְ/עַבְדְּ/ךָ דָוִיד אָבִ/י אֵת אֲשֶׁר דִּבַּרְתָּ לּ/וֹ לֵ/אמֹר לֹא יִכָּרֵת לְ/ךָ אִישׁ מִ/לְּ/פָנַ/י יוֹשֵׁב עַל כִּסֵּא יִשְׂרָאֵל רַק אִם יִשְׁמְרוּ בָנֶי/ךָ אֶת דַּרְכָּ/ם לָ/לֶכֶת בְּ/תוֹרָתִ/י כַּ/אֲשֶׁר הָלַכְתָּ לְ/פָנָ/י
-Persian: پس حال ای یهوه خدای اسرائیل، آن وعده را که به خدمتگزار خود، پدرم داوود دادی وفا کن، که فرمودی: ”تو هرگز کسی را که در حضور من بر تخت پادشاهی اسرائیل بنشیند کم نخواهی_داشت، تنها به شرطی که پسرانت مراقب راههای خود باشند و در شریعت من گام بردارند، همان‌گونه که تو در حضور من سلوک کرده‌ای.“
-
-Original words:
-- o1: וְ/עַתָּה = Hc "and" + H6258 עַתָּה "at this time, whether adverb…" [HC/D]
-- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
-- o3: אֱלֹהֵי = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc]
-- o4: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
-- o5: שְׁמֹר = H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HVqv2ms]
-- o6: לְ/עַבְדְּ/ךָ = Hl "to" + H5650 עֶבֶד "a servant" [HR/Ncmsc/Sp2ms]
-- o7: דָוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
-- o8: אָבִ/י = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp1cs]
-- o9: אֵת = H853 אֵת "properly…" [HTo]
-- o10: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
-- o11: דִּבַּרְתָּ = H1696 דָבַר "perhaps properly, to arrange…" [HVpp2ms]
-- o12: לּ/וֹ = Hl "to" [HR/Sp3ms]
-- o13: לֵ/אמֹר = Hl "to" + H559 אָמַר "to say (used with great latitude)" [HR/Vqc]
-- o14: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
-- o15: יִכָּרֵת = H3772 כָּרַת "to cut (off, down or asunder)…" [HVNi3ms]
-- o16: לְ/ךָ = Hl "to" [HR/Sp2ms]
-- o17: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
-- o18: מִ/לְּ/פָנַ/י = Hm "from" + Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/R/Ncbpc/Sp1cs]
-- o19: יוֹשֵׁב = H3427 יָשַׁב "properly…" [HVqrmsa]
-- o20: עַל = H5921 עַל "above, over, upon…" [HR]
-- o21: כִּסֵּא = H3678 כִּסֵּא "properly, covered, i.e. a throne (as canopied)" [HNcmsc]
-- o22: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
-- o23: רַק = H7535 רַק "properly, leanness…" [HTa]
-- o24: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
-- o25: יִשְׁמְרוּ = H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HVqi3mp]
-- o26: בָנֶי/ךָ = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmpc/Sp2ms]
-- o27: אֶת = H853 אֵת "properly…" [HTo]
-- o28: דַּרְכָּ/ם = H1870 דֶּרֶךְ "a road (as trodden)…" [HNcbsc/Sp3mp]
-- o29: לָ/לֶכֶת = Hl "to" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HR/Vqc]
-- o30: בְּ/תוֹרָתִ/י = Hb "in" + H8451 תּוֹרָה "a precept or statute…" [HR/Ncfsc/Sp1cs]
-- o31: כַּ/אֲשֶׁר = Hk "like" + H834 אֲשֶׁר "who, which, what, that…" [HR/Tr]
-- o32: הָלַכְתָּ = H1980 הָלַךְ "to walk (in a great variety of applications…" [HVqp2ms]
-- o33: לְ/פָנָ/י = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp1cs]
-
-Persian entries and current tags:
-- p1: پس  → Hc H6258
-- p2: حال  → H6258
-- p3: ای
-- p4: یهوه  → H3068
-- p5: خدای  → H430
-- p6: اسرائیل  → H3478
-- p7: ،
-- p8: آن
-- p9: وعده
-- p10: را  → H853
-- p11: که
-- p12: به  → Hl
-- p13: خدمتگزار  → H5650
-- p14: خود
-- p15: ،
-- p16: پدرم  → H1
-- p17: داوود  → H1732
-- p18: دادی
-- p19: وفا
-- p20: کن
-- p21: ،
-- p22: که
-- p23: فرمودی  → H559
-- p24: :
-- p25: ”تو
-- p26: هرگز  → H3772
-- p27: کسی  → H376
-- p28: را  → H853
-- p29: که
-- p30: در
-- p31: حضور  → H6440
-- p32: من
-- p33: بر  → H5921
-- p34: تخت  → H3678
-- p35: پادشاهی
-- p36: اسرائیل  → H3478
-- p37: بنشیند  → H3427
-- p38: کم  → H3772
-- p39: نخواهی_داشت  → H3808
-- p40: ،
-- p41: تنها  → H7535
-- p42: به
-- p43: شرطی
-- p44: که
-- p45: پسرانت  → H1121
-- p46: مراقب  → H8104
-- p47: راههای  → H1870
-- p48: خود
-- p49: باشند
-- p50: و
-- p51: در
-- p52: شریعت  → H8451
-- p53: من
-- p54: گام  → H1980
-- p55: بردارند
-- p56: ،
-- p57: همان‌گونه  → H834 Hk
-- p58: که  → H834
-- p59: تو
-- p60: در  → Hl
-- p61: حضور  → H6440
-- p62: من
-- p63: سلوک کرده‌ای  → H3212 H1980
-- p64: .
-- p65: “
-
-### II Chronicles 6:17
-
-Original: וְ/עַתָּה יְהוָה אֱלֹהֵי יִשְׂרָאֵל יֵאָמֵן דְּבָרְ/ךָ אֲשֶׁר דִּבַּרְתָּ לְ/עַבְדְּ/ךָ לְ/דָוִיד
-Persian: پس اکنون ای یهوه خدای اسرائیل، تمنا اینکه کلامی که به خدمتگزار خود داوود فرمودی به ثبوت برسد.
-
-Original words:
-- o1: וְ/עַתָּה = Hc "and" + H6258 עַתָּה "at this time, whether adverb…" [HC/D]
-- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
-- o3: אֱלֹהֵי = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc]
-- o4: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
-- o5: יֵאָמֵן = H539 אָמַן "properly, to build up or support…" [HVNi3ms]
-- o6: דְּבָרְ/ךָ = H1697 דָּבָר "a word…" [HNcmsc/Sp2ms]
-- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
-- o8: דִּבַּרְתָּ = H1696 דָבַר "perhaps properly, to arrange…" [HVpp2ms]
-- o9: לְ/עַבְדְּ/ךָ = Hl "to" + H5650 עֶבֶד "a servant" [HR/Ncmsc/Sp2ms]
-- o10: לְ/דָוִיד = Hl "to" + H1732 דָּוִד "David, the youngest son of Jesse" [HR/Np]
-
-Persian entries and current tags:
-- p1: پس  → Hc
-- p2: اکنون  → H6258
-- p3: ای
-- p4: یهوه  → H3068
-- p5: خدای  → H430
-- p6: اسرائیل  → H3478
-- p7: ،
-- p8: تمنا
-- p9: اینکه
-- p10: کلامی  → H1697
-- p11: که  → H834
-- p12: به
-- p13: خدمتگزار  → H5650
-- p14: خود
-- p15: داوود  → H1732
-- p16: فرمودی  → H1696
-- p17: به  → Hl
-- p18: ثبوت
-- p19: برسد
-- p20: .
-
-### II Chronicles 6:18
-
-Original: כִּי הַ/אֻמְנָם יֵשֵׁב אֱלֹהִים אֶת הָ/אָדָם עַל הָ/אָרֶץ הִנֵּה שָׁמַיִם וּ/שְׁמֵי הַ/שָּׁמַיִם לֹא יְכַלְכְּלוּ/ךָ אַף כִּי הַ/בַּיִת הַ/זֶּה אֲשֶׁר בָּנִיתִי
-Persian: « ولی آیا خدا براستی بر زمین با آدمیان ساکن خواهد_شد؟ اینک آسمانها، حتی رفیع‌ترین آسمانها، گنجایش تو را ندارد، چه رسد به این خانه که من بنا کرده‌ام!
-
-Original words:
-- o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
-- o2: הַ/אֻמְנָם = Hi "(untranslatable; interrogative particle)" + H552 אֻמְנָם "verily" [HTi/D]
-- o3: יֵשֵׁב = H3427 יָשַׁב "properly…" [HVqi3ms]
-- o4: אֱלֹהִים = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpa]
-- o5: אֶת = H854 אֵת "properly…" [HR]
-- o6: הָ/אָדָם = Hd "the" + H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HTd/Ncmsa]
-- o7: עַל = H5921 עַל "above, over, upon…" [HR]
-- o8: הָ/אָרֶץ = Hd "the" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HTd/Ncbsa]
-- o9: הִנֵּה = H2009 הִנֵּה "lo!" [HTm]
-- o10: שָׁמַיִם = H8064 שָׁמַיִם "the sky (as aloft…" [HNcmpa]
-- o11: וּ/שְׁמֵי = Hc "and" + H8064 שָׁמַיִם "the sky (as aloft…" [HC/Ncmpc]
-- o12: הַ/שָּׁמַיִם = Hd "the" + H8064 שָׁמַיִם "the sky (as aloft…" [HTd/Ncmpa]
-- o13: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
-- o14: יְכַלְכְּלוּ/ךָ = H3557 כּוּל "properly, to keep in; hence, to measure…" [HVli3mp/Sp2ms]
-- o15: אַף = H637 אַף "meaning accession (used as an adverb or…" [HTa]
-- o16: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
-- o17: הַ/בַּיִת = Hd "the" + H1004 בַּיִת "a house (in the greatest variation of…" [HTd/Ncmsa]
-- o18: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
-- o19: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
-- o20: בָּנִיתִי = H1129 בָּנָה "to build (literally and figuratively)" [HVqp1cs]
-
-Persian entries and current tags:
-- p1: «
-- p2: ولی  → H3588
-- p3: آیا  → Hi
-- p4: خدا  → H430
-- p5: براستی  → H552
-- p6: بر  → H5921
-- p7: زمین  → H776
-- p8: با
-- p9: آدمیان  → H120
-- p10: ساکن خواهد_شد  → H3427
-- p11: ؟
-- p12: اینک  → H2009
-- p13: آسمانها  → H8064
-- p14: ،
-- p15: حتی
-- p16: رفیع‌ترین آسمانها  → H8064
-- p17: ،
-- p18: گنجایش  → H3557
-- p19: تو
-- p20: را
-- p21: ندارد  → H3808
-- p22: ،
-- p23: چه
-- p24: رسد  → H637
-- p25: به
-- p26: این  → H2088
-- p27: خانه  → H1004
-- p28: که  → H834
-- p29: من
-- p30: بنا کرده‌ام  → H1129
-- p31: !
-
-### II Chronicles 6:19
-
-Original: וּ/פָנִיתָ אֶל תְּפִלַּת עַבְדְּ/ךָ וְ/אֶל תְּחִנָּת/וֹ יְהוָה אֱלֹהָ/י לִ/שְׁמֹעַ אֶל הָ/רִנָּה וְ/אֶל הַ/תְּפִלָּה אֲשֶׁר עַבְדְּ/ךָ מִתְפַּלֵּל לְ/פָנֶי/ךָ
-Persian: با این همه، ای یهوه خدای من، به دعا و التماس خدمتگزارت توجه فرما و به فریاد بنده‌ات و دعایی که به حضور تو می‌کند، گوش فرا~ده:
-
-Original words:
-- o1: וּ/פָנִיתָ = Hc "and" + H6437 פָּנָה "to turn…" [HC/Vqq2ms]
-- o2: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
-- o3: תְּפִלַּת = H8605 תְּפִלָּה "intercession, supplication; by implication, a hymn" [HNcfsc]
-- o4: עַבְדְּ/ךָ = H5650 עֶבֶד "a servant" [HNcmsc/Sp2ms]
-- o5: וְ/אֶל = Hc "and" + H413 אֵל "near, with or among; often in general, to" [HC/R]
-- o6: תְּחִנָּת/וֹ = H8467 תְּחִנָּה "graciousness; causatively, entreaty" [HNcfsc/Sp3ms]
-- o7: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
-- o8: אֱלֹהָ/י = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp1cs]
-- o9: לִ/שְׁמֹעַ = Hl "to" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HR/Vqc]
-- o10: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
-- o11: הָ/רִנָּה = Hd "the" + H7440 רִנָּה "properly, a creaking (or shrill sound)…" [HTd/Ncfsa]
-- o12: וְ/אֶל = Hc "and" + H413 אֵל "near, with or among; often in general, to" [HC/R]
-- o13: הַ/תְּפִלָּה = Hd "the" + H8605 תְּפִלָּה "intercession, supplication; by implication, a hymn" [HTd/Ncfsa]
-- o14: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
-- o15: עַבְדְּ/ךָ = H5650 עֶבֶד "a servant" [HNcmsc/Sp2ms]
-- o16: מִתְפַּלֵּל = H6419 פָּלַל "to judge (officially or mentally)…" [HVtrmsa]
-- o17: לְ/פָנֶי/ךָ = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp2ms]
-
-Persian entries and current tags:
-- p1: با
-- p2: این
-- p3: همه
-- p4: ،
-- p5: ای
-- p6: یهوه  → H3068
-- p7: خدای  → H430
-- p8: من
-- p9: ،
-- p10: به  → H413
-- p11: دعا  → H8605 H8467
-- p12: و  → Hc
-- p13: التماس  → H8467
-- p14: خدمتگزارت  → H5650
-- p15: توجه فرما  → H6437
-- p16: و
-- p17: به  → H413
-- p18: فریاد  → H7440
-- p19: بنده‌ات  → H5650
-- p20: و  → Hc
-- p21: دعایی  → H8605
-- p22: که  → H834
-- p23: به  → Hl
-- p24: حضور  → H6440
-- p25: تو
-- p26: می‌کند  → H6419
-- p27: ،
-- p28: گوش
-- p29: فرا~ده
-- p30: :
-
-### II Chronicles 6:20
-
-Original: לִ/הְיוֹת עֵינֶי/ךָ פְתֻחוֹת אֶל הַ/בַּיִת הַ/זֶּה יוֹמָם וָ/לַיְלָה אֶל הַ/מָּקוֹם אֲשֶׁר אָמַרְתָּ לָ/שׂוּם שִׁמְ/ךָ שָׁם לִ/שְׁמוֹעַ אֶל הַ/תְּפִלָּה אֲשֶׁר יִתְפַּלֵּל עַבְדְּ/ךָ אֶל הַ/מָּקוֹם הַ/זֶּה
-Persian: چشمان تو روز و شب بر این خانه گشوده_باشد، بر مکانی که درباره‌اش وعده دادی اسم خود را در آن خواهی_نهاد، تا دعای خدمتگزارت را که به سوی این مکان می‌کند، بشنوی.
-
-Original words:
-- o1: לִ/הְיוֹת = Hl "to" + H1961 הָיָה "to exist, i.e. be or become…" [HR/Vqc]
-- o2: עֵינֶי/ךָ = H5869 עַיִן "an eye (literally or figuratively)…" [HNcbdc/Sp2ms]
-- o3: פְתֻחוֹת = H6605 פָּתַח "to open wide (literally or figuratively)…" [HVqsfpa]
-- o4: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
-- o5: הַ/בַּיִת = Hd "the" + H1004 בַּיִת "a house (in the greatest variation of…" [HTd/Ncmsa]
-- o6: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
-- o7: יוֹמָם = H3119 יוֹמָם "daily" [HD]
-- o8: וָ/לַיְלָה = Hc "and" + H3915 לַיִל "properly, a twist (away of the light), i.e. night…" [HC/Ncmsa]
-- o9: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
-- o10: הַ/מָּקוֹם = Hd "the" + H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HTd/Ncmsa]
-- o11: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
-- o12: אָמַרְתָּ = H559 אָמַר "to say (used with great latitude)" [HVqp2ms]
-- o13: לָ/שׂוּם = Hl "to" + H7760 שׂוּם "to put (used in a great variety of applications…" [HR/Vqc]
-- o14: שִׁמְ/ךָ = H8034 שֵׁם "an appellation…" [HNcmsc/Sp2ms]
-- o15: שָׁם = H8033 שָׁם "there (transferring to time) then…" [HD]
-- o16: לִ/שְׁמוֹעַ = Hl "to" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HR/Vqc]
-- o17: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
-- o18: הַ/תְּפִלָּה = Hd "the" + H8605 תְּפִלָּה "intercession, supplication; by implication, a hymn" [HTd/Ncfsa]
-- o19: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
-- o20: יִתְפַּלֵּל = H6419 פָּלַל "to judge (officially or mentally)…" [HVti3ms]
-- o21: עַבְדְּ/ךָ = H5650 עֶבֶד "a servant" [HNcmsc/Sp2ms]
-- o22: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
-- o23: הַ/מָּקוֹם = Hd "the" + H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HTd/Ncmsa]
-- o24: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
-
-Persian entries and current tags:
-- p1: چشمان  → H5869
-- p2: تو
-- p3: روز  → H3119
-- p4: و  → Hc
-- p5: شب  → H3915
-- p6: بر
-- p7: این  → H2088
-- p8: خانه  → H1004
-- p9: گشوده_باشد  → H6605
-- p10: ،
-- p11: بر
-- p12: مکانی  → H4725
-- p13: که  → H834
-- p14: درباره‌اش
-- p15: وعده دادی  → H559
-- p16: اسم  → H8034
-- p17: خود
-- p18: را
-- p19: در  → H7760
-- p20: آن
-- p21: خواهی_نهاد
-- p22: ،
-- p23: تا
-- p24: دعای  → H8605
-- p25: خدمتگزارت  → H5650
-- p26: را
-- p27: که  → H834
-- p28: به
-- p29: سوی
-- p30: این  → H2088
-- p31: مکان  → H4725
-- p32: می‌کند  → H6419
-- p33: ،
-- p34: بشنوی  → H8085
-- p35: .
-
-### II Chronicles 6:21
-
-Original: וְ/שָׁמַעְתָּ אֶל תַּחֲנוּנֵי עַבְדְּ/ךָ וְ/עַמְּ/ךָ יִשְׂרָאֵל אֲשֶׁר יִתְפַּלְלוּ אֶל הַ/מָּקוֹם הַ/זֶּה וְ/אַתָּה תִּשְׁמַע מִ/מְּקוֹם שִׁבְתְּ/ךָ מִן הַ/שָּׁמַיִם וְ/שָׁמַעְתָּ וְ/סָלָחְתָּ
-Persian: تمناهای خدمتگزارت و قوم خویش اسرائیل را که به سوی این مکان دعا می‌کنند، بشنو؛ از سکونتگاه خویش آسمان بشنو، و چون شنیدی، بیامرز.
-
-Original words:
-- o1: וְ/שָׁמַעְתָּ = Hc "and" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HC/Vqq2ms]
-- o2: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
-- o3: תַּחֲנוּנֵי = H8469 תַּחֲנוּן "earnest prayer" [HNcmpc]
-- o4: עַבְדְּ/ךָ = H5650 עֶבֶד "a servant" [HNcmsc/Sp2ms]
-- o5: וְ/עַמְּ/ךָ = Hc "and" + H5971 עַם "a people (as a congregated unit)…" [HC/Ncmsc/Sp2ms]
-- o6: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
-- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
-- o8: יִתְפַּלְלוּ = H6419 פָּלַל "to judge (officially or mentally)…" [HVti3mp]
-- o9: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
-- o10: הַ/מָּקוֹם = Hd "the" + H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HTd/Ncmsa]
-- o11: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
-- o12: וְ/אַתָּה = Hc "and" + H859 אַתָּה "thou and thee, or (plural) ye and you" [HC/Pp2ms]
-- o13: תִּשְׁמַע = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqi2ms]
-- o14: מִ/מְּקוֹם = Hm "from" + H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HR/Ncmsc]
-- o15: שִׁבְתְּ/ךָ = H3427 יָשַׁב "properly…" [HVqc/Sp2ms]
-- o16: מִן = H4480 מִן "properly, a part of…" [HR]
-- o17: הַ/שָּׁמַיִם = Hd "the" + H8064 שָׁמַיִם "the sky (as aloft…" [HTd/Ncmpa]
-- o18: וְ/שָׁמַעְתָּ = Hc "and" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HC/Vqq2ms]
-- o19: וְ/סָלָחְתָּ = Hc "and" + H5545 סָלַח "to forgive" [HC/Vqq2ms]
-
-Persian entries and current tags:
-- p1: تمناهای  → H8469
-- p2: خدمتگزارت  → H5650
-- p3: و  → Hc
-- p4: قوم  → H5971
-- p5: خویش
-- p6: اسرائیل  → H3478
-- p7: را
-- p8: که  → H834
-- p9: به  → H6419
-- p10: سوی
-- p11: این  → H834
-- p12: مکان  → H4725
-- p13: دعا می‌کنند  → H6419
-- p14: ،
-- p15: بشنو  → H8085
-- p16: ؛
-- p17: از  → Hm H4480
-- p18: سکونتگاه  → H4725 H3427 H4480
-- p19: خویش
-- p20: آسمان  → H8064
-- p21: بشنو  → H8085
-- p22: ،
-- p23: و  → Hc
-- p24: چون
-- p25: شنیدی  → H8085
-- p26: ،
-- p27: بیامرز  → H5545
-- p28: .
+- p41: سلوک می‌کنند  → H1980
+- p42: ،
+- p43: نگاه
+- p44: می‌داری
+- p45: .
 
 ## Neighbouring verses (context only, not for review)
 
@@ -1259,19 +814,20 @@ Original words of verses next to the ones above. Where the Persian verse divisio
 - o13: בֵּית = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc]
 - o14: הָ/אֱלֹהִים = Hd "the" + H430 אֱלֹהִים "gods in the ordinary sense…" [HTd/Ncmpa]
 
-### II Chronicles 6:22 (context)
+### II Chronicles 6:15 (context)
 
-- o1: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
-- o2: יֶחֱטָא = H2398 חָטָא "properly, to miss…" [HVqi3ms]
-- o3: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
-- o4: לְ/רֵעֵ/הוּ = Hl "to" + H7453 רֵעַ "an associate (more or less close)" [HR/Ncmsc/Sp3ms]
-- o5: וְ/נָשָׁא = Hc "and" + H5375 נָשָׂא "to lift, in a great variety of applications…" [HC/Vqq3ms]
-- o6: ב/וֹ = Hb "in" [HR/Sp3ms]
-- o7: אָלָה = H422 אָלָה "properly, to adjure…" [HNcfsa]
-- o8: לְ/הַאֲלֹת/וֹ = Hl "to" + H423 אָלָה "an imprecation" [HR/Vhc/Sp3ms]
-- o9: וּ/בָא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqq3ms]
-- o10: אָלָה = H423 אָלָה "an imprecation" [HNcfsa]
-- o11: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
-- o12: מִזְבַּחֲ/ךָ = H4196 מִזְבֵּחַ "an altar" [HNcmsc/Sp2ms]
-- o13: בַּ/בַּיִת = Hb "in" + H1004 בַּיִת "a house (in the greatest variation of…" [HRd/Ncmsa]
-- o14: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
+- o1: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o2: שָׁמַרְתָּ = H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HVqp2ms]
+- o3: לְ/עַבְדְּ/ךָ = Hl "to" + H5650 עֶבֶד "a servant" [HR/Ncmsc/Sp2ms]
+- o4: דָּוִיד = H1732 דָּוִד "David, the youngest son of Jesse" [HNp]
+- o5: אָבִ/י = H1 אָב "father, in a literal and immediate…" [HNcmsc/Sp1cs]
+- o6: אֵת = H853 אֵת "properly…" [HTo]
+- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
+- o8: דִּבַּרְתָּ = H1696 דָבַר "perhaps properly, to arrange…" [HVpp2ms]
+- o9: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o10: וַ/תְּדַבֵּר = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vpw2ms]
+- o11: בְּ/פִי/ךָ = Hb "in" + H6310 פֶּה "the mouth (as the means of blowing)…" [HR/Ncmsc/Sp2ms]
+- o12: וּ/בְ/יָדְ/ךָ = Hc "and" + Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HC/R/Ncbsc/Sp2ms]
+- o13: מִלֵּאתָ = H4390 מָלֵא "to fill or (intransitively) be full of…" [HVpp2ms]
+- o14: כַּ/יּוֹם = Hk "like" + H3117 יוֹם "a day (as the warm hours)…" [HRd/Ncmsa]
+- o15: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]

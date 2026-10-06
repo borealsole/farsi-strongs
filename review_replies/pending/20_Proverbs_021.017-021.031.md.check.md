@@ -1,16 +1,18 @@
 # Check of 20_Proverbs_021.017-021.031.md
 
-Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-06 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
-## 14 verse(s) with changes
+No change from the current tags (will be skipped): Proverbs 21:20, Proverbs 21:24.
 
-### Proverbs 21:17: 5 word(s) changed
+## 12 verse(s) with changes
 
-Reply line 2.
+### Proverbs 21:17: 6 word(s) changed
+
+Reply line 2. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: אִישׁ מַחְסוֹר אֹהֵב שִׂמְחָה אֹהֵב יַיִן וָ/שֶׁמֶן לֹא יַעֲשִׁיר
 
-Persian: آن که عیش و نوش را دوست می‌دارد، به ناداری گرفتار آید؛ دوستدار شراب و روغن دولتمند نخواهد_گردید.
+Persian: آن که عیش و نوش را دوست می‌دارد، به ناداری گرفتار آید؛ دوستدار شراب و روغن دولتمند نخواهد گردید.
 
 Original words:
 - o1: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsc]
@@ -29,10 +31,10 @@ Original words:
 |  | که |  |  |
 | ✱ | عیش | H8057 שִׂמְחָה "blithesomeness or glee…" | [عیش و نوش] H8057 שִׂמְחָה "blithesomeness or glee…" |
 | ✱ | و |  | [عیش و نوش] H8057 שִׂמְחָה "blithesomeness or glee…" |
-| ✱ | نوش |  | [عیش و نوش] H8057 שִׂמְחָה "blithesomeness or glee…" |
+| ✱ | نوش | H4270 מַחְסוֹר "deficiency…" | [عیش و نوش] H8057 שִׂמְחָה "blithesomeness or glee…" |
 |  | را |  |  |
-|  | دوست | [دوست می‌دارد] H157 | [دوست می‌دارد] H157 |
-|  | می‌دارد | [دوست می‌دارد] H157 | [دوست می‌دارد] H157 |
+| ✱ | دوست | H157 אָהַב "to have affection for…" | [دوست می‌دارد] H157 אָהַב "to have affection for…" |
+| ✱ | می‌دارد | H157 אָהַב "to have affection for…" | [دوست می‌دارد] H157 אָהַב "to have affection for…" |
 |  | ، |  |  |
 |  | به |  |  |
 |  | ناداری | H4270 | H4270 |
@@ -43,13 +45,14 @@ Original words:
 |  | شراب | H3196 | H3196 |
 |  | و | Hc | Hc |
 |  | روغن | H8081 | H8081 |
-| ✱ | دولتمند | H4270 מַחְסוֹר "deficiency…"; H6238 עָשַׁר "properly, to accumulate…" | H6238 עָשַׁר "properly, to accumulate…" |
-|  | نخواهد_گردید | H3808 | H3808 |
+|  | دولتمند | H6238 | H6238 |
+|  | نخواهد | [نخواهد گردید] H3808 | [نخواهد گردید] H3808 |
+|  | گردید | [نخواهد گردید] H3808 | [نخواهد گردید] H3808 |
 |  | . |  |  |
 
-### Proverbs 21:19: 4 word(s) changed
+### Proverbs 21:19: 1 word(s) changed
 
-Reply line 3.
+Reply line 3. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: טוֹב שֶׁבֶת בְּ/אֶרֶץ מִדְבָּר מֵ/אֵשֶׁת מדונים וָ/כָעַס
 
@@ -68,10 +71,10 @@ Original words:
 | --- | --- | --- | --- |
 |  | سکونت | H3427 | H3427 |
 |  | در | Hb | Hb |
-| ✱ | بیابانِ |  | H4057 מִדְבָּר "a pasture (i.e. open field…" |
+|  | بیابانِ | H4057 | H4057 |
 |  | بی‌آب |  |  |
-| ✱ | و | Hc "and" |  |
-| ✱ | علف | H3708 כַּעַס "vexation" |  |
+|  | و |  |  |
+|  | علف |  |  |
 |  | ، |  |  |
 | ✱ | بِه |  | H2896 טוֹב "good (as an adjective) in the…" |
 |  | از | Hm | Hm |
@@ -83,51 +86,9 @@ Original words:
 |  | بدخُلق | H3708 | H3708 |
 |  | . |  |  |
 
-### Proverbs 21:20: 1 word(s) changed
+### Proverbs 21:21: 5 word(s) changed
 
-Reply line 4.
-
-Original: אוֹצָר נֶחְמָד וָ/שֶׁמֶן בִּ/נְוֵה חָכָם וּ/כְסִיל אָדָם יְבַלְּעֶ/נּוּ
-
-Persian: در منزل حکیمان، خزانۀ چیزهای مرغوب و روغن است، اما مرد نادان همۀ دارایی خود را تلف می‌کند.
-
-Original words:
-- o1: אוֹצָר = H214 אוֹצָר "a depository" [HNcmsa]
-- o2: נֶחְמָד = H2530 חָמַד "to delight in" [HVNrmsa]
-- o3: וָ/שֶׁמֶן = Hc "and" + H8081 שֶׁמֶן "grease, especially liquid (as from the olive…" [HC/Ncmsa]
-- o4: בִּ/נְוֵה = Hb "in" + H5116 נָוֶה "adjectively) at home…" [HR/Ncbsc]
-- o5: חָכָם = H2450 חָכָם "wise, (i.e. intelligent, skilful or artful)" [HAamsa]
-- o6: וּ/כְסִיל = Hc "and" + H3684 כְּסִיל "properly, fat, i.e. (figuratively) stupid or silly" [HC/Aamsa]
-- o7: אָדָם = H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HNcmsa]
-- o8: יְבַלְּעֶ/נּוּ = H1104 בָּלַע "to make away with (specifically by swallowing)…" [HVpi3ms/Sp3ms]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | در | Hb | Hb |
-|  | منزل | H5116 | H5116 |
-|  | حکیمان | H2450 | H2450 |
-|  | ، |  |  |
-|  | خزانۀ | H214 | H214 |
-|  | چیزهای |  |  |
-| ✱ | مرغوب | H214 אוֹצָר "a depository"; H2530 חָמַד "to delight in"; H3684 כְּסִיל "properly, fat…" | H2530 חָמַד "to delight in" |
-|  | و | Hc | Hc |
-|  | روغن | H8081 | H8081 |
-|  | است |  |  |
-|  | ، |  |  |
-|  | اما | Hc | Hc |
-|  | مرد | H120 | H120 |
-|  | نادان | H3684 | H3684 |
-|  | همۀ |  |  |
-|  | دارایی |  |  |
-|  | خود |  |  |
-|  | را |  |  |
-|  | تلف | [تلف می‌کند] H1104 | [تلف می‌کند] H1104 |
-|  | می‌کند | [تلف می‌کند] H1104 | [تلف می‌کند] H1104 |
-|  | . |  |  |
-
-### Proverbs 21:21: 3 word(s) changed
-
-Reply line 5.
+Reply line 5. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: רֹדֵף צְדָקָה וָ/חָסֶד יִמְצָא חַיִּים צְדָקָה וְ/כָבוֹד
 
@@ -147,8 +108,8 @@ Original words:
 |  | هر |  |  |
 |  | آن |  |  |
 |  | که |  |  |
-|  | در | [در پی] H7291 | [در پی] H7291 |
-|  | پی | [در پی] H7291 | [در پی] H7291 |
+| ✱ | در |  | [در پی] H7291 רָדַף "to run after (usually with…" |
+| ✱ | پی | H7291 רָדַף "to run after (usually with…" | [در پی] H7291 רָדַף "to run after (usually with…" |
 |  | پارسایی | H6666 | H6666 |
 |  | و | Hc | Hc |
 |  | محبت | H2617 | H2617 |
@@ -164,13 +125,13 @@ Original words:
 | ✱ | می‌یابد |  | [دست می‌یابد] H4672 מָצָא "properly, to come forth to…" |
 |  | . |  |  |
 
-### Proverbs 21:22: 4 word(s) changed
+### Proverbs 21:22: 6 word(s) changed
 
-Reply line 6.
+Reply line 6. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: עִיר גִּבֹּרִים עָלָה חָכָם וַ/יֹּרֶד עֹז מִבְטֶחָ/ה
 
-Persian: مرد حکیم به شهر زورمندان بر خواهد_آمد و قلعۀ اعتمادشان را فرو~خواهد ریخت.
+Persian: مرد حکیم به شهر زورمندان بر خواهد آمد و قلعۀ اعتمادشان را فرو خواهد ریخت.
 
 Original words:
 - o1: עִיר = H5892 עִיר "a city (a place guarded by waking or a watch) in…" [HNcfsc]
@@ -188,19 +149,21 @@ Original words:
 |  | به |  |  |
 |  | شهر | H5892 | H5892 |
 |  | زورمندان | H1368 | H1368 |
-| ✱ | بر |  | [بر خواهد_آمد] H5927 עָלָה "to ascend…" |
-| ✱ | خواهد_آمد |  | [بر خواهد_آمد] H5927 עָלָה "to ascend…" |
+| ✱ | بر |  | [بر خواهد آمد] H5927 עָלָה "to ascend…" |
+| ✱ | خواهد | [خواهد آمد]  | [بر خواهد آمد] H5927 עָלָה "to ascend…" |
+| ✱ | آمد | [خواهد آمد]  | [بر خواهد آمد] H5927 עָלָה "to ascend…" |
 |  | و | Hc | Hc |
 |  | قلعۀ | H5797 | H5797 |
 |  | اعتمادشان | H4009 | H4009 |
 |  | را |  |  |
-| ✱ | فرو~خواهد |  | [فرو~خواهد ریخت] H3381 יָרַד "to descend (literally…" |
-| ✱ | ریخت |  | [فرو~خواهد ریخت] H3381 יָרַד "to descend (literally…" |
+| ✱ | فرو | [فرو خواهد] H3381 יָרַד "to descend (literally…" | [فرو خواهد ریخت] H3381 יָרַד "to descend (literally…" |
+| ✱ | خواهد | [فرو خواهد] H3381 יָרַד "to descend (literally…" | [فرو خواهد ریخت] H3381 יָרַד "to descend (literally…" |
+| ✱ | ریخت |  | [فرو خواهد ریخت] H3381 יָרַד "to descend (literally…" |
 |  | . |  |  |
 
 ### Proverbs 21:23: 3 word(s) changed
 
-Reply line 7.
+Reply line 7. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: שֹׁמֵר פִּי/ו וּ/לְשׁוֹנ/וֹ שֹׁמֵר מִ/צָּרוֹת נַפְשׁ/וֹ
 
@@ -233,44 +196,9 @@ Original words:
 | ✱ | می‌دارد |  | [در امان می‌دارد] H8104 שָׁמַר "properly…" |
 |  | . |  |  |
 
-### Proverbs 21:24: 1 word(s) changed
-
-Reply line 8.
-
-Original: זֵד יָהִיר לֵץ שְׁמ/וֹ עוֹשֶׂה בְּ/עֶבְרַת זָדוֹן
-
-Persian: مرد مغرور و متکبر، که تمسخرگرش نامند، با نِخوَت بی‌حد عمل می‌کند.
-
-Original words:
-- o1: זֵד = H2086 זֵד "arrogant" [HAamsa]
-- o2: יָהִיר = H3093 יָהִיר "elated; hence, arrogant" [HAamsa]
-- o3: לֵץ = H3887 לוּץ "properly, to make mouths at, i.e. to scoff…" [HAamsa]
-- o4: שְׁמ/וֹ = H8034 שֵׁם "an appellation…" [HNcmsc/Sp3ms]
-- o5: עוֹשֶׂה = H6213 עָשָׂה "to do or make…" [HVqrmsa]
-- o6: בְּ/עֶבְרַת = Hb "in" + H5678 עֶבְרָה "an outburst of passion" [HR/Ncfsc]
-- o7: זָדוֹן = H2087 זָדוֹן "arrogance" [HNcmsa]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | مرد |  |  |
-|  | مغرور | H2086 | H2086 |
-|  | و |  |  |
-|  | متکبر | H3093 | H3093 |
-|  | ، |  |  |
-|  | که |  |  |
-|  | تمسخرگرش | H3887 | H3887 |
-| ✱ | نامند |  | H8034 שֵׁם "an appellation…" |
-|  | ، |  |  |
-|  | با | Hb | Hb |
-|  | نِخوَت | H2087 | H2087 |
-|  | بی‌حد | H5678 | H5678 |
-|  | عمل | [عمل می‌کند] H6213 | [عمل می‌کند] H6213 |
-|  | می‌کند | [عمل می‌کند] H6213 | [عمل می‌کند] H6213 |
-|  | . |  |  |
-
 ### Proverbs 21:25: 4 word(s) changed
 
-Reply line 9.
+Reply line 9. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: תַּאֲוַת עָצֵל תְּמִיתֶ/נּוּ כִּי מֵאֲנוּ יָדָי/ו לַ/עֲשׂוֹת
 
@@ -305,9 +233,9 @@ Original words:
 |  | دارند | [ابا دارند] H3985 | [ابا دارند] H3985 |
 |  | . |  |  |
 
-### Proverbs 21:26: 6 word(s) changed
+### Proverbs 21:26: 5 word(s) changed
 
-Reply line 10.
+Reply line 10. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: כָּל הַ/יּוֹם הִתְאַוָּה תַאֲוָה וְ/צַדִּיק יִתֵּן וְ/לֹא יַחְשֹׂךְ
 
@@ -336,14 +264,14 @@ Original words:
 |  | اما | Hc | Hc |
 |  | پارسایان | H6662 | H6662 |
 |  | می‌بخشند | H5414 | H5414 |
-| ✱ | و |  | Hc "and" |
+|  | و | Hc | Hc |
 | ✱ | دریغ | H2820 חָשַׂךְ "to restrain or (reflex.)…" | [دریغ نمی‌کنند] H3808 לֹא "not (the simple or abs.…"; H2820 חָשַׂךְ "to restrain or (reflex.)…" |
 | ✱ | نمی‌کنند | H3808 לֹא "not (the simple or abs.…" | [دریغ نمی‌کنند] H3808 לֹא "not (the simple or abs.…"; H2820 חָשַׂךְ "to restrain or (reflex.)…" |
 |  | . |  |  |
 
-### Proverbs 21:27: 8 word(s) changed
+### Proverbs 21:27: 6 word(s) changed
 
-Reply line 11.
+Reply line 11. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: זֶבַח רְשָׁעִים תּוֹעֵבָה אַף כִּי בְ/זִמָּה יְבִיאֶ/נּוּ
 
@@ -361,7 +289,7 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | قربانیِ | H2077 | H2077 |
-| ✱ | شریران |  | H7563 רָשָׁע "morally wrong…" |
+|  | شریران | H7563 | H7563 |
 |  | ، |  |  |
 |  | کراهت‌آور | H8441 | H8441 |
 |  | است |  |  |
@@ -369,20 +297,20 @@ Original words:
 | ✱ | چقدر | H637 אַף "meaning accession (used as an…" | [چقدر بیشتر] H637 אַף "meaning accession (used as an…"; H3588 כִּי "by implication) very widely…" |
 | ✱ | بیشتر | H637 אַף "meaning accession (used as an…"; H3588 כִּי "by implication) very widely…" | [چقدر بیشتر] H637 אַף "meaning accession (used as an…"; H3588 כִּי "by implication) very widely…" |
 |  | هنگامی‌که |  |  |
-| ✱ | با |  | Hb "in" |
+|  | با | Hb | Hb |
 | ✱ | نیت | H2154 זִמָּה "a plan, especially a bad one" | [نیت بد] H2154 זִמָּה "a plan, especially a bad one" |
 | ✱ | بد |  | [نیت بد] H2154 זִמָּה "a plan, especially a bad one" |
 | ✱ | تقدیم |  | [تقدیم شود] H935 בּוֹא "to go or come (in a wide…" |
 | ✱ | شود |  | [تقدیم شود] H935 בּוֹא "to go or come (in a wide…" |
 |  | . |  |  |
 
-### Proverbs 21:28: 4 word(s) changed
+### Proverbs 21:28: 1 word(s) changed
 
-Reply line 12.
+Reply line 12. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: עֵד כְּזָבִים יֹאבֵד וְ/אִישׁ שׁוֹמֵעַ לָ/נֶצַח יְדַבֵּר
 
-Persian: شاهد دروغگو هلاک خواهد_شد، اما آن که گوش فرا~می‌دهد، تا ابد سخن خواهد_گفت!
+Persian: شاهد دروغگو هلاک خواهد شد، اما آن که گوش فرا می‌دهد، تا ابد سخن خواهد گفت!
 
 Original words:
 - o1: עֵד = H5707 עֵד "concretely, a witness; abstractly, testimony…" [HNcmsc]
@@ -397,24 +325,27 @@ Original words:
 | --- | --- | --- | --- |
 |  | شاهد | H5707 | H5707 |
 |  | دروغگو | H3577 | H3577 |
-|  | هلاک | [هلاک خواهد_شد] H6 | [هلاک خواهد_شد] H6 |
-|  | خواهد_شد | [هلاک خواهد_شد] H6 | [هلاک خواهد_شد] H6 |
+|  | هلاک | [هلاک خواهد شد] H6 | [هلاک خواهد شد] H6 |
+|  | خواهد | [هلاک خواهد شد] H6 | [هلاک خواهد شد] H6 |
+|  | شد | [هلاک خواهد شد] H6 | [هلاک خواهد شد] H6 |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
 | ✱ | آن |  | H376 אִישׁ "a man as an individual or a…" |
 |  | که |  |  |
-| ✱ | گوش | H8085 שָׁמַע "to hear intelligently (often…" | [گوش فرا~می‌دهد] H8085 שָׁמַע "to hear intelligently (often…" |
-| ✱ | فرا~می‌دهد |  | [گوش فرا~می‌دهد] H8085 שָׁמַע "to hear intelligently (often…" |
+|  | گوش | [گوش فرا می‌دهد] H8085 | [گوش فرا می‌دهد] H8085 |
+|  | فرا | [گوش فرا می‌دهد] H8085 | [گوش فرا می‌دهد] H8085 |
+|  | می‌دهد | [گوش فرا می‌دهد] H8085 | [گوش فرا می‌دهد] H8085 |
 |  | ، |  |  |
-| ✱ | تا |  | Hl "to" |
+|  | تا | Hl | Hl |
 |  | ابد | H5331 | H5331 |
-|  | سخن | [سخن خواهد_گفت] H1696 | [سخن خواهد_گفت] H1696 |
-|  | خواهد_گفت | [سخن خواهد_گفت] H1696 | [سخن خواهد_گفت] H1696 |
+|  | سخن | [سخن خواهد گفت] H1696 | [سخن خواهد گفت] H1696 |
+|  | خواهد | [سخن خواهد گفت] H1696 | [سخن خواهد گفت] H1696 |
+|  | گفت | [سخن خواهد گفت] H1696 | [سخن خواهد گفت] H1696 |
 |  | ! |  |  |
 
-### Proverbs 21:29: 7 word(s) changed
+### Proverbs 21:29: 6 word(s) changed
 
-Reply line 13.
+Reply line 13. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: הֵעֵז אִישׁ רָשָׁע בְּ/פָנָי/ו וְ/יָשָׁר הוּא יכין דרכי/ו
 
@@ -446,12 +377,12 @@ Original words:
 |  | راههای | H1870 | H1870 |
 |  | خود |  |  |
 |  | را |  |  |
-| ✱ | می‌سنجند |  | H3559 כּוּן "properly…" |
+|  | می‌سنجند | H3559 | H3559 |
 |  | . |  |  |
 
-### Proverbs 21:30: 3 word(s) changed
+### Proverbs 21:30: 2 word(s) changed
 
-Reply line 14.
+Reply line 14. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: אֵין חָכְמָה וְ/אֵין תְּבוּנָה וְ/אֵין עֵצָה לְ/נֶגֶד יְהוָה
 
@@ -478,7 +409,7 @@ Original words:
 |  | و | Hc | Hc |
 |  | هیچ | H369 | H369 |
 |  | مشورتی | H6098 | H6098 |
-| ✱ | نیست |  | H369 אַיִן "a non-entity…" |
+|  | نیست | H369 | H369 |
 |  | که |  |  |
 | ✱ | علیه | H5048 נֶגֶד "a front, i.e. part opposite…" | Hl "to"; H5048 נֶגֶד "a front, i.e. part opposite…" |
 |  | خداوند | H3068 | H3068 |
@@ -489,7 +420,7 @@ Original words:
 
 ### Proverbs 21:31: 2 word(s) changed
 
-Reply line 15.
+Reply line 15. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: סוּס מוּכָן לְ/יוֹם מִלְחָמָה וְ/לַ/יהוָה הַ/תְּשׁוּעָה
 

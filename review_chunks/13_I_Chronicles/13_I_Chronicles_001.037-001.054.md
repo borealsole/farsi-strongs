@@ -140,7 +140,7 @@ Persian entries and current tags:
 - p13: ،
 - p14: اِصِر  → H687
 - p15: و  → Hc
-- p16: دیشان  → H1787
+- p16: دیشان  → H1787 H1789
 - p17: بودند
 - p18: .
 
@@ -167,7 +167,7 @@ Persian entries and current tags:
 - p6: هومام  → H1950
 - p7: بودند
 - p8: و  → Hc
-- p9: خواهر  → H269 H3877
+- p9: خواهر  → H269
 - p10: لوطان  → H3877
 - p11: ،
 - p12: تِمناع  → H8555
@@ -242,7 +242,7 @@ Persian entries and current tags:
 - p7: پسران  → H1121
 - p8: دیشون  → H1787
 - p9: ،
-- p10: حَمران
+- p10: حَمران  → H2566
 - p11: و  → Hc
 - p12: اِشبان  → H790
 - p13: و  → Hc
@@ -276,7 +276,7 @@ Persian entries and current tags:
 - p5: و  → Hc
 - p6: زَعَوان  → H2190
 - p7: و
-- p8: یَعَقان
+- p8: یَعَقان  → H3292
 - p9: بودند
 - p10: .
 - p11: پسرانِ  → H1121
@@ -316,9 +316,9 @@ Persian entries and current tags:
 - p1: پیش  → H6440
 - p2: از
 - p3: آنکه
-- p4: پادشاهی
+- p4: پادشاهی  → H4428
 - p5: بر
-- p6: بنی‌اسرائیل  → H3478
+- p6: بنی‌اسرائیل  → H1121 H3478
 - p7: سلطنت کند  → H4427
 - p8: ،
 - p9: در  → Hb
@@ -626,9 +626,9 @@ Persian entries and current tags:
 - p9: قرار
 - p10: بودند
 - p11: :
-- p12: تِمناع  → H441 H8555
+- p12: تِمناع  → H8555 H441
 - p13: ،
-- p14: عَلیَه  → H8555 H5933 H441
+- p14: عَلیَه  → H5933
 - p15: ،
 - p16: یِتیت  → H441 H3509
 - p17: ،
@@ -647,7 +647,7 @@ Original words:
 - o6: פִּינֹן = H6373 פִּינֹן "Pinon, an Idumaean" [HNp]
 
 Persian entries and current tags:
-- p1: اُهولیبامَه  → H441 H173
+- p1: اُهولیبامَه  → H173
 - p2: ،
 - p3: ایلَه  → H425
 - p4: ،
@@ -668,7 +668,7 @@ Original words:
 - o6: מִבְצָר = H4014 מִבְצָר "Mibtsar, an Idumaean" [HNp]
 
 Persian entries and current tags:
-- p1: قِناز  → H7073
+- p1: قِناز  → H441 H7073
 - p2: ،
 - p3: تیمان  → H8487
 - p4: ،
@@ -690,9 +690,9 @@ Original words:
 - o7: אֱדוֹם = H123 אֱדֹם "Edom, the elder twin-brother of Jacob…" [HNp]
 
 Persian entries and current tags:
-- p1: مَجدیئیل  → H441 H4025
+- p1: مَجدیئیل  → H4025 H441
 - p2: و
-- p3: عیرام  → H441 H5902
+- p3: عیرام  → H5902 H441
 - p4: .
 - p5: اینان  → H428
 - p6: امیرانِ  → H441

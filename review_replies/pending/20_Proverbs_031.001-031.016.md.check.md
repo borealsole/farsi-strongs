@@ -4,9 +4,9 @@ Generated 2026-10-06 by `python review_replies.py check`. Rows marked ✱ change
 
 ## 15 verse(s) with changes
 
-### Proverbs 31:2: 4 word(s) changed
+### Proverbs 31:2: 6 word(s) changed
 
-Reply line 2.
+Reply line 2. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: מַה בְּרִ/י וּ/מַה בַּר בִּטְנִ/י וּ/מֶה בַּר נְדָרָ/י
 
@@ -37,17 +37,17 @@ Original words:
 |  | رحِمِ | H990 | H990 |
 |  | من |  |  |
 |  | ، |  |  |
-|  | چه | [چه گویم] H4100 | [چه گویم] H4100 |
-|  | گویم | [چه گویم] H4100 | [چه گویم] H4100 |
+| ✱ | چه | H4100 מָה "properly…" | [چه گویم] H4100 מָה "properly…" |
+| ✱ | گویم |  | [چه گویم] H4100 מָה "properly…" |
 |  | ای |  |  |
 |  | پسر | H1248 | H1248 |
 |  | نذرهای | H5088 | H5088 |
 |  | من |  |  |
 |  | ؟ |  |  |
 
-### Proverbs 31:3: 3 word(s) changed
+### Proverbs 31:3: 4 word(s) changed
 
-Reply line 3.
+Reply line 3. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: אַל תִּתֵּן לַ/נָּשִׁים חֵילֶ/ךָ וּ/דְרָכֶי/ךָ לַ/מְחוֹת מְלָכִין
 
@@ -67,13 +67,13 @@ Original words:
 |  | نیروی | H2428 | H2428 |
 |  | خویش |  |  |
 |  | را |  |  |
-| ✱ | صرف | H4229 מָחָה "properly, to stroke or rub…" | H5414 נָתַן "to give…" |
+| ✱ | صرف |  | H5414 נָתַן "to give…" |
 |  | زنان | H802 | H802 |
 | ✱ | مکن | H408 אַל "not (the qualified negation…" | H408 אַל "not (the qualified negation…"; H5414 נָתַן "to give…" |
 |  | ، |  |  |
 |  | و | Hc | Hc |
 |  | نه |  |  |
-|  | قوّت | H1870 | H1870 |
+| ✱ | قوّت |  | H1870 דֶּרֶךְ "a road (as trodden)…" |
 |  | خویش |  |  |
 |  | را |  |  |
 | ✱ | صرف | H4229 מָחָה "properly, to stroke or rub…" | H5414 נָתַן "to give…" |
@@ -86,9 +86,9 @@ Original words:
 |  | می‌کشند | [نابودی می‌کشند] H4229 | [نابودی می‌کشند] H4229 |
 |  | . |  |  |
 
-### Proverbs 31:4: 3 word(s) changed
+### Proverbs 31:4: 2 word(s) changed
 
-Reply line 4.
+Reply line 4. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: אַל לַ/מְלָכִים לְמוֹאֵל אַל לַ/מְלָכִים שְׁתוֹ יָיִן וּ/לְ/רוֹזְנִים או שֵׁכָר
 
@@ -129,13 +129,13 @@ Original words:
 |  | را |  |  |
 |  | که |  |  |
 | ✱ | مشتاق |  | H176 אוֹ "desire (and so probably in…" |
-| ✱ | مُسکِرات |  | H7941 שֵׁכָר "an intoxicant…" |
+|  | مُسکِرات | H7941 | H7941 |
 |  | باشند |  |  |
 |  | . |  |  |
 
 ### Proverbs 31:5: 6 word(s) changed
 
-Reply line 5.
+Reply line 5. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: פֶּן יִשְׁתֶּה וְ/יִשְׁכַּח מְחֻקָּק וִ/ישַׁנֶּה דִּין כָּל בְּנֵי עֹנִי
 
@@ -160,21 +160,21 @@ Original words:
 |  | قوانین | H2710 | H2710 |
 |  | را |  |  |
 | ✱ | از |  | [از یاد ببرند] H7911 שָׁכַח "to mislay…" |
-| ✱ | یاد | H7911 שָׁכַח "to mislay…"; H2710 חָקַק "properly, to hack…" | [از یاد ببرند] H7911 שָׁכַח "to mislay…" |
-| ✱ | ببرند | H7911 שָׁכַח "to mislay…" | [از یاد ببرند] H7911 שָׁכַח "to mislay…" |
+| ✱ | یاد | H7911 שָׁכַח "to mislay…" | [از یاد ببرند] H7911 שָׁכַח "to mislay…" |
+| ✱ | ببرند |  | [از یاد ببرند] H7911 שָׁכַח "to mislay…" |
 |  | ، |  |  |
 |  | و | Hc | Hc |
 |  | حق | H1779 | H1779 |
 |  | را |  |  |
 |  | از |  |  |
 | ✱ | مظلومان | H6040 עֳנִי "depression, i.e. misery" | H1121 בֵּן "a son (as a builder of the…"; H6040 עֳנִי "depression, i.e. misery" |
-| ✱ | سلب | [سلب کنند] H7911 שָׁכַח "to mislay…" | [سلب کنند] H8138 שָׁנָה "to fold…" |
-| ✱ | کنند | [سلب کنند] H7911 שָׁכַח "to mislay…" | [سلب کنند] H8138 שָׁנָה "to fold…" |
+| ✱ | سلب |  | [سلب کنند] H8138 שָׁנָה "to fold…" |
+| ✱ | کنند |  | [سلب کنند] H8138 שָׁנָה "to fold…" |
 |  | . |  |  |
 
-### Proverbs 31:6: 2 word(s) changed
+### Proverbs 31:6: 1 word(s) changed
 
-Reply line 6.
+Reply line 6. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: תְּנוּ שֵׁכָר לְ/אוֹבֵד וְ/יַיִן לְ/מָרֵי נָפֶשׁ
 
@@ -200,7 +200,7 @@ Original words:
 |  | می‌شوند | [هلاک می‌شوند] H6 | [هلاک می‌شوند] H6 |
 |  | ، |  |  |
 |  | و | Hc | Hc |
-| ✱ | شراب | H7941 שֵׁכָר "an intoxicant…"; H3196 יַיִן "wine (as fermented)…" | H3196 יַיִן "wine (as fermented)…" |
+|  | شراب | H3196 | H3196 |
 |  | را |  |  |
 |  | به | Hl | Hl |
 |  | تلخکامان | H4751 H5315 | H4751 H5315 |
@@ -208,7 +208,7 @@ Original words:
 
 ### Proverbs 31:7: 3 word(s) changed
 
-Reply line 7.
+Reply line 7. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: יִשְׁתֶּה וְ/יִשְׁכַּח רִישׁ/וֹ וַ/עֲמָל/וֹ לֹא יִזְכָּר עוֹד
 
@@ -241,9 +241,9 @@ Original words:
 | ✱ | نیاورند |  | [به یاد نیاورند] H3808 לֹא "not (the simple or abs.…"; H2142 זָכַר "properly…" |
 |  | . |  |  |
 
-### Proverbs 31:8: 2 word(s) changed
+### Proverbs 31:8: 1 word(s) changed
 
-Reply line 8.
+Reply line 8. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: פְּתַח פִּי/ךָ לְ/אִלֵּם אֶל דִּין כָּל בְּנֵי חֲלוֹף
 
@@ -272,12 +272,12 @@ Original words:
 | ✱ | به‌خاطر |  | H413 אֵל "near, with or among…" |
 |  | دادرسی | H1779 | H1779 |
 |  | همۀ | H3605 | H3605 |
-| ✱ | بیچارگان | H2475 חֲלוֹף "properly, surviving…" | H1121 בֵּן "a son (as a builder of the…"; H2475 חֲלוֹף "properly, surviving…" |
+|  | بیچارگان | H1121 H2475 | H1121 H2475 |
 |  | . |  |  |
 
 ### Proverbs 31:9: 2 word(s) changed
 
-Reply line 9.
+Reply line 9. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: פְּתַח פִּי/ךָ שְׁפָט צֶדֶק וְ/דִין עָנִי וְ/אֶבְיוֹן
 
@@ -312,7 +312,7 @@ Original words:
 
 ### Proverbs 31:10: 3 word(s) changed
 
-Reply line 10.
+Reply line 10. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: אֵשֶׁת חַיִל מִי יִמְצָא וְ/רָחֹק מִ/פְּנִינִים מִכְרָ/הּ
 
@@ -340,18 +340,18 @@ Original words:
 |  | او |  |  |
 |  | از | Hm | Hm |
 |  | یاقوت | H6443 | H6443 |
-| ✱ | بس | H4377 מֶכֶר "merchandise; also value" |  |
-| ✱ | فزونتر | H7350 רָחוֹק "remote…"; H4377 מֶכֶר "merchandise; also value" | H7350 רָחוֹק "remote…" |
+| ✱ | بس | [بس فزونتر] H4377 מֶכֶר "merchandise; also value" |  |
+| ✱ | فزونتر | [بس فزونتر] H4377 מֶכֶר "merchandise; also value" | H7350 רָחוֹק "remote…" |
 |  | است |  |  |
 |  | . |  |  |
 
 ### Proverbs 31:11: 4 word(s) changed
 
-Reply line 11.
+Reply line 11. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: בָּטַח בָּ/הּ לֵב בַּעְלָ/הּ וְ/שָׁלָל לֹא יֶחְסָר
 
-Persian: دل شوهرش بر وی اعتماد دارد و از هیچ سودی کم نخواهد_داشت.
+Persian: دل شوهرش بر وی اعتماد دارد و از هیچ سودی کم نخواهد داشت.
 
 Original words:
 - o1: בָּטַח = H982 בָּטַח "figuratively, to trust, be confident or sure" [HVqp3ms]
@@ -366,7 +366,7 @@ Original words:
 | --- | --- | --- | --- |
 |  | دل | H3820 | H3820 |
 |  | شوهرش | H1167 | H1167 |
-| ✱ | بر |  | Hb "in" |
+|  | بر | Hb | Hb |
 |  | وی |  |  |
 |  | اعتماد | [اعتماد دارد] H982 | [اعتماد دارد] H982 |
 |  | دارد | [اعتماد دارد] H982 | [اعتماد دارد] H982 |
@@ -374,17 +374,18 @@ Original words:
 |  | از |  |  |
 | ✱ | هیچ | H3808 לֹא "not (the simple or abs.…" |  |
 |  | سودی | H7998 | H7998 |
-| ✱ | کم | [کم نخواهد_داشت] H2637 חָסֵר "to lack…" | [کم نخواهد_داشت] H3808 לֹא "not (the simple or abs.…"; H2637 חָסֵר "to lack…" |
-| ✱ | نخواهد_داشت | [کم نخواهد_داشت] H2637 חָסֵר "to lack…" | [کم نخواهد_داشت] H3808 לֹא "not (the simple or abs.…"; H2637 חָסֵר "to lack…" |
+| ✱ | کم | [کم نخواهد داشت] H2637 חָסֵר "to lack…" | [کم نخواهد داشت] H3808 לֹא "not (the simple or abs.…"; H2637 חָסֵר "to lack…" |
+| ✱ | نخواهد | [کم نخواهد داشت] H2637 חָסֵר "to lack…" | [کم نخواهد داشت] H3808 לֹא "not (the simple or abs.…"; H2637 חָסֵר "to lack…" |
+| ✱ | داشت | [کم نخواهد داشت] H2637 חָסֵר "to lack…" | [کم نخواهد داشت] H3808 לֹא "not (the simple or abs.…"; H2637 חָסֵר "to lack…" |
 |  | . |  |  |
 
-### Proverbs 31:12: 3 word(s) changed
+### Proverbs 31:12: 2 word(s) changed
 
-Reply line 12.
+Reply line 12. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: גְּמָלַתְ/הוּ טוֹב וְ/לֹא רָע כֹּל יְמֵי חַיֶּי/ה
 
-Persian: در همۀ روزهای زندگی خویش به شوهرش نیکی خواهد_کرد، نه بدی.
+Persian: در همۀ روزهای زندگی خویش به شوهرش نیکی خواهد کرد، نه بدی.
 
 Original words:
 - o1: גְּמָלַתְ/הוּ = H1580 גָּמַל "to treat a person (well or ill)…" [HVqp3fs/Sp3ms]
@@ -402,18 +403,19 @@ Original words:
 |  | روزهای | H3117 | H3117 |
 |  | زندگی | H2416 | H2416 |
 |  | خویش |  |  |
-| ✱ | به | H1580 גָּמַל "to treat a person (well or…" |  |
+|  | به |  |  |
 |  | شوهرش |  |  |
 |  | نیکی | H2896 | H2896 |
-| ✱ | خواهد_کرد |  | H1580 גָּמַל "to treat a person (well or…" |
+| ✱ | خواهد | [خواهد کرد]  | [خواهد کرد] H1580 גָּמַל "to treat a person (well or…" |
+| ✱ | کرد | [خواهد کرد]  | [خواهد کرد] H1580 גָּמַל "to treat a person (well or…" |
 |  | ، |  |  |
 |  | نه | H3808 | H3808 |
-| ✱ | بدی | H2896 טוֹב "good (as an adjective) in the…"; H7451 רַע "bad or (as noun) evil…" | H7451 רַע "bad or (as noun) evil…" |
+|  | بدی | H7451 | H7451 |
 |  | . |  |  |
 
-### Proverbs 31:13: 2 word(s) changed
+### Proverbs 31:13: 3 word(s) changed
 
-Reply line 13.
+Reply line 13. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: דָּרְשָׁה צֶמֶר וּ/פִשְׁתִּים וַ/תַּעַשׂ בְּ/חֵפֶץ כַּפֶּי/הָ
 
@@ -435,7 +437,7 @@ Original words:
 |  | را |  |  |
 | ✱ | می‌جوید |  | H1875 דָּרַשׁ "properly…" |
 |  | و | Hc | Hc |
-|  | با |  |  |
+| ✱ | با | Hb "in" |  |
 |  | دستان | H3709 | H3709 |
 |  | خویش |  |  |
 | ✱ | به |  | Hb "in" |
@@ -446,7 +448,7 @@ Original words:
 
 ### Proverbs 31:14: 2 word(s) changed
 
-Reply line 14.
+Reply line 14. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: הָיְתָה כָּ/אֳנִיּוֹת סוֹחֵר מִ/מֶּרְחָק תָּבִיא לַחְמָ/הּ
 
@@ -476,7 +478,7 @@ Original words:
 
 ### Proverbs 31:15: 4 word(s) changed
 
-Reply line 15.
+Reply line 15. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: וַ/תָּקָם בְּ/עוֹד לַיְלָה וַ/תִּתֵּן טֶרֶף לְ/בֵיתָ/הּ וְ/חֹק לְ/נַעֲרֹתֶי/הָ
 
@@ -494,7 +496,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | آنگاه | Hc | Hc |
+| ✱ | آنگاه | Hc "and"; H6965 קוּם "to rise (in various…" | Hc "and" |
 |  | که |  |  |
 |  | هنوز | H5750 | H5750 |
 |  | شب | H3915 | H3915 |
@@ -513,13 +515,13 @@ Original words:
 |  | کنیزان | H5291 | H5291 |
 |  | خویش |  |  |
 |  | را |  |  |
-| ✱ | نصیبها |  | H2706 חֹק "an enactment…" |
+|  | نصیبها | H2706 | H2706 |
 |  | می‌دهد | H5414 | H5414 |
 |  | . |  |  |
 
 ### Proverbs 31:16: 7 word(s) changed
 
-Reply line 16.
+Reply line 16. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: זָמְמָה שָׂדֶה וַ/תִּקָּחֵ/הוּ מִ/פְּרִי כַפֶּי/הָ נטע כָּרֶם
 
@@ -546,9 +548,9 @@ Original words:
 |  | می‌خرد | H3947 | H3947 |
 |  | ؛ |  |  |
 |  | از | Hm | Hm |
-| ✱ | دسترنج |  | H6529 פְּרִי "fruit (literally or…"; H3709 כַּף "the hollow hand or palm (so…" |
-|  | خویش |  |  |
-| ✱ | تاکستانی |  | H3754 כֶּרֶם "a garden or vineyard" |
-| ✱ | غرس | H3754 כֶּרֶם "a garden or vineyard" | [غرس می‌کند] H5193 נָטַע "properly, to strike in…" |
+| ✱ | دسترنج | H6529 פְּרִי "fruit (literally or…" | H6529 פְּרִי "fruit (literally or…"; H3709 כַּף "the hollow hand or palm (so…" |
+| ✱ | خویش | H3709 כַּף "the hollow hand or palm (so…" |  |
+|  | تاکستانی | H3754 | H3754 |
+| ✱ | غرس | H5193 נָטַע "properly, to strike in…"; H3754 כֶּרֶם "a garden or vineyard" | [غرس می‌کند] H5193 נָטַע "properly, to strike in…" |
 | ✱ | می‌کند | H5193 נָטַע "properly, to strike in…" | [غرس می‌کند] H5193 נָטַע "properly, to strike in…" |
 |  | . |  |  |

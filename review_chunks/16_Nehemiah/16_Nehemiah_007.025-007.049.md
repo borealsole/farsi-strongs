@@ -178,7 +178,7 @@ Persian entries and current tags:
 - p3: و  → Hc
 - p4: کِفیرَه  → H3716
 - p5: و  → Hc
-- p6: بِئیروت  → H881
+- p6: بِئیروت  → H7157 H881
 - p7: ،
 - p8: ۷۴۳.  → H7651 H3967 H705 H7969
 
@@ -282,7 +282,7 @@ Persian entries and current tags:
 - p2: عیلامِ  → H5867
 - p3: دیگر  → H312
 - p4: ،
-- p5: ۱۲۵۴.  → H2572 H702
+- p5: ۱۲۵۴.  → H505 H3967 H2572 H702
 
 ### Nehemiah 7:35
 
@@ -388,7 +388,7 @@ Persian entries and current tags:
 - p3: پسران  → H1121
 - p4: یِدَعیا  → H3048
 - p5: ،
-- p6: از
+- p6: از  → Hl
 - p7: خاندان  → H1004
 - p8: یِشوعَ  → H3442
 - p9: ،
@@ -474,8 +474,8 @@ Persian entries and current tags:
 - p7: خاندان
 - p8: قَدمیئیل  → H6934
 - p9: و  → Hc
-- p10: از
-- p11: خاندان
+- p10: از  → Hl
+- p11: خاندان  → H1121
 - p12: هودوا  → H1937
 - p13: ،
 - p14: ۷۴.  → H7657 H702

@@ -103,16 +103,17 @@ Persian entries and current tags:
 - p5: خود
 - p6: را
 - p7: بر  → H5921
-- p8: پیمان زدند  → H2856
-- p9: :
-- p10: نِحِمیای  → H5166
-- p11: فرماندار  → H8660
-- p12: ،
-- p13: پسر  → H1121
-- p14: حَکَلیا  → H2446
-- p15: .
-- p16: صِدِقیا  → H6667
-- p17: ،
+- p8: پیمان
+- p9: زدند
+- p10: :
+- p11: نِحِمیای  → H5166
+- p12: فرماندار  → H8660
+- p13: ،
+- p14: پسر  → H1121
+- p15: حَکَلیا  → H2446
+- p16: .
+- p17: صِدِقیا  → H6667
+- p18: ،
 
 ### Nehemiah 10:2
 
@@ -297,7 +298,7 @@ Persian entries and current tags:
 - p4: :
 - p5: شِبَنیا  → H7645
 - p6: ،
-- p7: هودیا
+- p7: هودیا  → H1940
 - p8: ،
 - p9: قِلیطا  → H7042
 - p10: ،
@@ -353,7 +354,7 @@ Original words:
 - o3: בְּנִינוּ = H1148 בְּנִינוּ "Beninu, an Israelite" [HNp]
 
 Persian entries and current tags:
-- p1: هودیا
+- p1: هودیا  → H1940
 - p2: ،
 - p3: بانی  → H1137
 - p4: و
@@ -455,7 +456,7 @@ Original words:
 - o3: בֵּצָי = H1209 בֵּצַי "Betsai, the name of two Israelites" [HNp]
 
 Persian entries and current tags:
-- p1: هودیا
+- p1: هودیا  → H1940
 - p2: ،
 - p3: حاشوم  → H2828
 - p4: ،

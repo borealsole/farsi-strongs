@@ -1,16 +1,18 @@
 # Check of 20_Proverbs_027.001-027.014.md
 
-Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-06 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
-## 14 verse(s) with changes
+No change from the current tags (will be skipped): Proverbs 27:3, Proverbs 27:5.
 
-### Proverbs 27:1: 2 word(s) changed
+## 12 verse(s) with changes
 
-Reply line 2.
+### Proverbs 27:1: 3 word(s) changed
+
+Reply line 2. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: אַל תִּתְהַלֵּל בְּ/יוֹם מָחָר כִּי לֹא תֵדַע מַה יֵּלֶד יוֹם
 
-Persian: دربارۀ فردا فخر مکن، زیرا نمی‌دانی روز چه خواهد_زایید.
+Persian: دربارۀ فردا فخر مکن، زیرا نمی‌دانی روز چه خواهد زایید.
 
 Original words:
 - o1: אַל = H408 אַל "not (the qualified negation…" [HTn]
@@ -32,15 +34,16 @@ Original words:
 |  | مکن | H408 | H408 |
 |  | ، |  |  |
 |  | زیرا | H3588 | H3588 |
-|  | نمی‌دانی | H3808 H3045 | H3808 H3045 |
+| ✱ | نمی‌دانی | H3045 יָדַע "to know (properly…" | H3808 לֹא "not (the simple or abs.…"; H3045 יָדַע "to know (properly…" |
 |  | روز | H3117 | H3117 |
 |  | چه | H4100 | H4100 |
-|  | خواهد_زایید | H3205 | H3205 |
+|  | خواهد | [خواهد زایید] H3205 | [خواهد زایید] H3205 |
+|  | زایید | [خواهد زایید] H3205 | [خواهد زایید] H3205 |
 |  | . |  |  |
 
-### Proverbs 27:2: 3 word(s) changed
+### Proverbs 27:2: 2 word(s) changed
 
-Reply line 3.
+Reply line 3. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: יְהַלֶּלְ/ךָ זָר וְ/לֹא פִי/ךָ נָכְרִי וְ/אַל שְׂפָתֶי/ךָ
 
@@ -61,7 +64,7 @@ Original words:
 |  | دیگری | H2114 | H2114 |
 |  | تو |  |  |
 |  | را |  |  |
-| ✱ | بستاید |  | H1984 הָלַל "to be clear (orig. of sound…" |
+|  | بستاید | H1984 | H1984 |
 |  | ، |  |  |
 |  | نه | H3808 | H3808 |
 |  | دهان | H6310 | H6310 |
@@ -74,51 +77,9 @@ Original words:
 |  | خودت |  |  |
 |  | . |  |  |
 
-### Proverbs 27:3: 1 word(s) changed
-
-Reply line 4.
-
-Original: כֹּבֶד אֶבֶן וְ/נֵטֶל הַ/חוֹל וְ/כַעַס אֱוִיל כָּבֵד מִ/שְּׁנֵי/הֶם
-
-Persian: سنگ، سنگین است و ریگ، گران، اما تحریک به دست نادان، از هر دو سنگینتر است!
-
-Original words:
-- o1: כֹּבֶד = H3514 כֹּבֶד "weight, multitude, vehemence" [HNcmsc]
-- o2: אֶבֶן = H68 אֶבֶן "a stone" [HNcfsa]
-- o3: וְ/נֵטֶל = Hc "and" + H5192 נֵטֶל "a burden" [HC/Ncmsc]
-- o4: הַ/חוֹל = Hd "the" + H2344 חוֹל "sand (as round or whirling particles)" [HTd/Ncmsa]
-- o5: וְ/כַעַס = Hc "and" + H3708 כַּעַס "vexation" [HC/Ncmsc]
-- o6: אֱוִיל = H191 אֱוִיל "(figuratively) silly" [HAamsa]
-- o7: כָּבֵד = H3515 כָּבֵד "heavy…" [HAamsa]
-- o8: מִ/שְּׁנֵי/הֶם = Hm "from" + H8147 שְׁנַיִם "two; also (as ordinal) twofold" [HR/Acmdc/Sp3mp]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | سنگ | H68 | H68 |
-|  | ، |  |  |
-|  | سنگین | H3514 | H3514 |
-|  | است |  |  |
-|  | و | Hc | Hc |
-|  | ریگ | H2344 | H2344 |
-|  | ، |  |  |
-|  | گران | H5192 | H5192 |
-|  | ، |  |  |
-|  | اما | Hc | Hc |
-|  | تحریک | H3708 | H3708 |
-|  | به |  |  |
-|  | دست |  |  |
-| ✱ | نادان | H3708 כַּעַס "vexation"; H191 אֱוִיל "(figuratively) silly" | H191 אֱוִיל "(figuratively) silly" |
-|  | ، |  |  |
-|  | از | Hm | Hm |
-|  | هر |  |  |
-|  | دو | H8147 | H8147 |
-|  | سنگینتر | H3515 | H3515 |
-|  | است |  |  |
-|  | ! |  |  |
-
 ### Proverbs 27:4: 5 word(s) changed
 
-Reply line 5.
+Reply line 5. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: אַכְזְרִיּוּת חֵמָה וְ/שֶׁטֶף אָף וּ/מִי יַעֲמֹד לִ/פְנֵי קִנְאָה
 
@@ -136,18 +97,18 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | خشم | H2534 | H2534 |
+| ✱ | خشم | H2534 חֵמָה "heat…"; H639 אַף "properly, the nose or nostril…" | H2534 חֵמָה "heat…" |
 |  | ، |  |  |
-| ✱ | خانمان‌سوز | H395 אַכְזְרִיּוּת "fierceness"; H7858 שֶׁטֶף "a deluge (literally or…" | H395 אַכְזְרִיּוּת "fierceness" |
+|  | خانمان‌سوز | H395 | H395 |
 |  | است |  |  |
 |  | و | Hc | Hc |
-|  | غضب | H639 | H639 |
+| ✱ | غضب | H2534 חֵמָה "heat…"; H639 אַף "properly, the nose or nostril…" | H639 אַף "properly, the nose or nostril…" |
 |  | ، |  |  |
 |  | سیل‌آسا | H7858 | H7858 |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
 |  | کیست | H4310 | H4310 |
-| ✱ | که | H5975 עָמַד "to stand…" |  |
+|  | که |  |  |
 | ✱ | در |  | Hl "to" |
 |  | برابر | H6440 | H6440 |
 |  | حسد | H7068 | H7068 |
@@ -155,35 +116,9 @@ Original words:
 | ✱ | آورد |  | [تاب آورد] H5975 עָמַד "to stand…" |
 |  | ؟ |  |  |
 
-### Proverbs 27:5: 4 word(s) changed
+### Proverbs 27:6: 5 word(s) changed
 
-Reply line 6.
-
-Original: טוֹבָה תּוֹכַחַת מְגֻלָּה מֵ/אַהֲבָה מְסֻתָּרֶת
-
-Persian: توبیخِ آشکار، بِه از محبت پنهان.
-
-Original words:
-- o1: טוֹבָה = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAafsa]
-- o2: תּוֹכַחַת = H8433 תּוֹכֵחָה "chastisement…" [HNcfsa]
-- o3: מְגֻלָּה = H1540 גָּלָה "to denude (especially in a disgraceful sense)…" [HVPsfsa]
-- o4: מֵ/אַהֲבָה = Hm "from" + H160 אַהֲבָה "affection (in a good or a bad sense)" [HR/Ncfsa]
-- o5: מְסֻתָּרֶת = H5641 סָתַר "to hide (by covering), literally or figuratively" [HVPsfsa]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | توبیخِ | H8433 | H8433 |
-| ✱ | آشکار | H8433 תּוֹכֵחָה "chastisement…"; H1540 גָּלָה "to denude (especially in a…" | H1540 גָּלָה "to denude (especially in a…" |
-|  | ، |  |  |
-| ✱ | بِه |  | H2896 טוֹב "good (as an adjective) in the…" |
-| ✱ | از | Hm "from"; H5641 סָתַר "to hide (by covering)…" | Hm "from" |
-| ✱ | محبت | H8433 תּוֹכֵחָה "chastisement…"; H160 אַהֲבָה "affection (in a good or a bad…" | H160 אַהֲבָה "affection (in a good or a bad…" |
-|  | پنهان | H5641 | H5641 |
-|  | . |  |  |
-
-### Proverbs 27:6: 9 word(s) changed
-
-Reply line 7.
+Reply line 7. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: נֶאֱמָנִים פִּצְעֵי אוֹהֵב וְ/נַעְתָּרוֹת נְשִׁיקוֹת שׂוֹנֵא
 
@@ -199,7 +134,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | زخمی | H539 אָמַן "properly…"; H6482 פֶּצַע "a wound" | H6482 פֶּצַע "a wound" |
+|  | زخمی | H6482 | H6482 |
 |  | هم |  |  |
 |  | که |  |  |
 |  | از |  |  |
@@ -208,20 +143,20 @@ Original words:
 | ✱ | وفادار | [وفادار است] H6280 עָתַר "to be (causatively…" | [وفادار است] H539 אָמַן "properly…" |
 | ✱ | است | [وفادار است] H6280 עָתַר "to be (causatively…" | [وفادار است] H539 אָמַן "properly…" |
 |  | ، |  |  |
-| ✱ | اما |  | Hc "and" |
+|  | اما | Hc | Hc |
 |  | به |  |  |
 | ✱ | صد |  | H6280 עָתַר "to be (causatively…" |
 |  | بوسۀ | H5390 | H5390 |
-| ✱ | دشمن | H5390 נְשִׁיקָה "a kiss"; H8130 שָׂנֵא "to hate (personally)" | H8130 שָׂנֵא "to hate (personally)" |
+|  | دشمن | H8130 | H8130 |
 |  | هم |  |  |
-| ✱ | نتوان | H6280 עָתַר "to be (causatively…" |  |
+|  | نتوان |  |  |
 | ✱ | اعتماد | [اعتماد کرد] H539 אָמַן "properly…" | [اعتماد کرد]  |
 | ✱ | کرد | [اعتماد کرد] H539 אָמַן "properly…" | [اعتماد کرد]  |
 |  | . |  |  |
 
-### Proverbs 27:7: 2 word(s) changed
+### Proverbs 27:7: 1 word(s) changed
 
-Reply line 8.
+Reply line 8. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: נֶפֶשׁ שְׂבֵעָה תָּבוּס נֹפֶת וְ/נֶפֶשׁ רְעֵבָה כָּל מַר מָתוֹק
 
@@ -250,7 +185,7 @@ Original words:
 |  | ، |  |  |
 |  | اما | Hc | Hc |
 |  | برای |  |  |
-| ✱ | شکم |  | H5315 נֶפֶשׁ "properly…" |
+|  | شکم | H5315 | H5315 |
 |  | گرسنه | H7457 | H7457 |
 |  | ، |  |  |
 |  | هر | H3605 | H3605 |
@@ -262,11 +197,11 @@ Original words:
 
 ### Proverbs 27:8: 3 word(s) changed
 
-Reply line 9.
+Reply line 9. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: כְּ/צִפּוֹר נוֹדֶדֶת מִן קִנָּ/הּ כֵּן אִישׁ נוֹדֵד מִ/מְּקוֹמ/וֹ
 
-Persian: مردی که از خانه‌اش آواره شود، پرنده‌ای را مانَد که از لانه‌اش آواره شده_باشد.
+Persian: مردی که از خانه‌اش آواره شود، پرنده‌ای را مانَد که از لانه‌اش آواره شده باشد.
 
 Original words:
 - o1: כְּ/צִפּוֹר = Hk "like" + H6833 צִפּוֹר "a little bird (as hopping)" [HR/Ncbsa]
@@ -293,13 +228,14 @@ Original words:
 |  | که |  |  |
 |  | از | H4480 | H4480 |
 |  | لانه‌اش | H7064 | H7064 |
-|  | آواره | [آواره شده_باشد] H5074 | [آواره شده_باشد] H5074 |
-|  | شده_باشد | [آواره شده_باشد] H5074 | [آواره شده_باشد] H5074 |
+|  | آواره | [آواره شده باشد] H5074 | [آواره شده باشد] H5074 |
+|  | شده | [آواره شده باشد] H5074 | [آواره شده باشد] H5074 |
+|  | باشد | [آواره شده باشد] H5074 | [آواره شده باشد] H5074 |
 |  | . |  |  |
 
 ### Proverbs 27:9: 2 word(s) changed
 
-Reply line 10.
+Reply line 10. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: שֶׁמֶן וּ/קְטֹרֶת יְשַׂמַּח לֵב וּ/מֶתֶק רֵעֵ/הוּ מֵ/עֲצַת נָפֶשׁ
 
@@ -336,9 +272,9 @@ Original words:
 |  | می‌بخشد |  |  |
 |  | . |  |  |
 
-### Proverbs 27:10: 7 word(s) changed
+### Proverbs 27:10: 3 word(s) changed
 
-Reply line 11.
+Reply line 11. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: רֵעֲ/ךָ ו/רעה אָבִי/ךָ אַל תַּעֲזֹב וּ/בֵית אָחִי/ךָ אַל תָּבוֹא בְּ/יוֹם אֵידֶ/ךָ טוֹב שָׁכֵן קָרוֹב מֵ/אָח רָחוֹק
 
@@ -375,15 +311,15 @@ Original words:
 |  | مکن | H408 | H408 |
 |  | ، |  |  |
 |  | و | Hc | Hc |
-| ✱ | به |  | Hb "in" |
+|  | به | Hb | Hb |
 |  | هنگام | H3117 | H3117 |
-| ✱ | مصیبت | H5800 עָזַב "to loosen, i.e. relinquish…"; H343 אֵיד "oppression…" | H343 אֵיד "oppression…" |
+|  | مصیبت | H343 | H343 |
 |  | به |  |  |
-| ✱ | خانۀ | H1 אָב "father…"; H1004 בַּיִת "a house (in the greatest…" | H1004 בַּיִת "a house (in the greatest…" |
+|  | خانۀ | H1004 | H1004 |
 |  | برادرت | H251 | H251 |
-| ✱ | مرو |  | H408 אַל "not (the qualified negation…"; H935 בּוֹא "to go or come (in a wide…" |
+| ✱ | مرو | H408 אַל "not (the qualified negation…" | H408 אַל "not (the qualified negation…"; H935 בּוֹא "to go or come (in a wide…" |
 |  | ؛ |  |  |
-| ✱ | همسایۀ | H7934 שָׁכֵן "a resident…"; H251 אָח "a brother (used in the widest…" | H7934 שָׁכֵן "a resident…" |
+|  | همسایۀ | H7934 | H7934 |
 |  | نزدیک | H7138 | H7138 |
 | ✱ | بِه |  | H2896 טוֹב "good (as an adjective) in the…" |
 |  | از | Hm | Hm |
@@ -394,7 +330,7 @@ Original words:
 
 ### Proverbs 27:11: 1 word(s) changed
 
-Reply line 12.
+Reply line 12. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: חֲכַם בְּנִ/י וְ/שַׂמַּח לִבִּ/י וְ/אָשִׁיבָה חֹרְפִ/י דָבָר
 
@@ -433,7 +369,7 @@ Original words:
 
 ### Proverbs 27:12: 3 word(s) changed
 
-Reply line 13.
+Reply line 13. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: עָרוּם רָאָה רָעָה נִסְתָּר פְּתָאיִם עָבְרוּ נֶעֱנָשׁוּ
 
@@ -469,9 +405,9 @@ Original words:
 | ✱ | می‌دهد |  | H6064 עָנַשׁ "properly, to urge…" |
 |  | ! |  |  |
 
-### Proverbs 27:13: 11 word(s) changed
+### Proverbs 27:13: 10 word(s) changed
 
-Reply line 14.
+Reply line 14. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: קַח בִּגְד/וֹ כִּי עָרַב זָר וּ/בְעַד נָכְרִיָּה חַבְלֵ/הוּ
 
@@ -503,8 +439,8 @@ Original words:
 |  | کسی |  |  |
 |  | را |  |  |
 | ✱ | که | H3588 כִּי "by implication) very widely…" |  |
-| ✱ | برای |  | H1157 בְּעַד "in up to or over against…" |
-| ✱ | زن |  | [زن بیگانه] H5237 נׇכְרִי "strange…" |
+|  | برای | H1157 | H1157 |
+| ✱ | زن | H5237 נׇכְרִי "strange…" | [زن بیگانه] H5237 נׇכְרִי "strange…" |
 | ✱ | بیگانه | H2114 זוּר "to turn aside (especially for…"; H5237 נׇכְרִי "strange…" | [زن بیگانه] H5237 נׇכְרִי "strange…" |
 | ✱ | ضمانت | [ضمانت می‌کند] H2254 חָבַל "to wind tightly (as a rope)…" | [ضمانت می‌کند] H6148 עָרַב "to braid, i.e. intermix…" |
 | ✱ | می‌کند | [ضمانت می‌کند] H2254 חָבַל "to wind tightly (as a rope)…" | [ضمانت می‌کند] H6148 עָרַב "to braid, i.e. intermix…" |
@@ -514,9 +450,9 @@ Original words:
 | ✱ | دار |  | [گرو نگاه دار] H2254 חָבַל "to wind tightly (as a rope)…" |
 |  | . |  |  |
 
-### Proverbs 27:14: 2 word(s) changed
+### Proverbs 27:14: 3 word(s) changed
 
-Reply line 15.
+Reply line 15. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: מְבָרֵךְ רֵעֵ/הוּ בְּ/קוֹל גָּדוֹל בַּ/בֹּקֶר הַשְׁכֵּים קְלָלָה תֵּחָשֶׁב ל/וֹ
 
@@ -548,7 +484,7 @@ Original words:
 |  | برکت | [برکت دهد] H1288 | [برکت دهد] H1288 |
 |  | دهد | [برکت دهد] H1288 | [برکت دهد] H1288 |
 |  | ، |  |  |
-|  | به |  |  |
+| ✱ | به | Hb "in" |  |
 |  | منزلۀ |  |  |
 |  | لعنت | H7045 | H7045 |
 |  | محسوب | [محسوب می‌شود] H2803 | [محسوب می‌شود] H2803 |

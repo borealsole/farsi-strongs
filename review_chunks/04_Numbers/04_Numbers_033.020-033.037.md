@@ -101,9 +101,8 @@ Persian entries and current tags:
 - p5: ،
 - p6: در  → Hb
 - p7: لِبنَه  → H3841
-- p8: اردو  → H2583
-- p9: زدند  → H5265 H2583
-- p10: .
+- p8: اردو زدند  → H2583
+- p9: .
 
 ### Numbers 33:21
 
@@ -468,7 +467,7 @@ Persian entries and current tags:
 - p6: در  → Hb
 - p7: بیابان  → H4057
 - p8: صین  → H6790
-- p9: که
+- p9: که  → H1931
 - p10: قادِش  → H6946
 - p11: باشد
 - p12: ،

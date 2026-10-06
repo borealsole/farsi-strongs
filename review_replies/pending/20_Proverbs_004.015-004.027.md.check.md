@@ -1,12 +1,12 @@
 # Check of 20_Proverbs_004.015-004.027.md
 
-Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-06 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
 ## 12 verse(s) with changes
 
-### Proverbs 4:15: 10 word(s) changed
+### Proverbs 4:15: 9 word(s) changed
 
-Reply line 2.
+Reply line 2. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: פְּרָעֵ/הוּ אַל תַּעֲבָר בּ/וֹ שְׂטֵה מֵ/עָלָי/ו וַ/עֲבוֹר
 
@@ -23,31 +23,31 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | از | H6544 פָּרַע "to loosen…" |  |
+|  | از |  |  |
 |  | آن |  |  |
-| ✱ | دوری |  | [دوری کن] H6544 פָּרַע "to loosen…" |
-| ✱ | کن |  | [دوری کن] H6544 פָּרַע "to loosen…" |
+| ✱ | دوری | [دوری کن] H7847 שָׂטָה "to deviate from duty" | [دوری کن] H6544 פָּרַע "to loosen…" |
+| ✱ | کن | [دوری کن] H7847 שָׂטָה "to deviate from duty" | [دوری کن] H6544 פָּרַע "to loosen…" |
 |  | و | Hc | Hc |
-| ✱ | در | H5674 עָבַר "to cross over…" | Hb "in" |
+|  | در | Hb | Hb |
 |  | آن |  |  |
 | ✱ | ره |  | [ره مسپار] H408 אַל "not (the qualified negation…"; H5674 עָבַר "to cross over…" |
 | ✱ | مسپار | H408 אַל "not (the qualified negation…"; H7847 שָׂטָה "to deviate from duty" | [ره مسپار] H408 אַל "not (the qualified negation…"; H5674 עָבַר "to cross over…" |
 |  | ؛ |  |  |
-| ✱ | از |  | Hm "from"; H5921 עַל "above, over, upon…" |
+| ✱ | از | Hm "from" | Hm "from"; H5921 עַל "above, over, upon…" |
 |  | آن |  |  |
 |  | ، |  |  |
-| ✱ | روی |  | [روی بگردان] H7847 שָׂטָה "to deviate from duty" |
+| ✱ | روی | H5921 עַל "above, over, upon…" | [روی بگردان] H7847 שָׂטָה "to deviate from duty" |
 | ✱ | بگردان | H6544 פָּרַע "to loosen…"; H5674 עָבַר "to cross over…" | [روی بگردان] H7847 שָׂטָה "to deviate from duty" |
 |  | و | Hc | Hc |
 |  | به |  |  |
 | ✱ | راه | H5674 עָבַר "to cross over…" |  |
 |  | خویش |  |  |
-|  | رو | H5674 | H5674 |
+| ✱ | رو |  | H5674 עָבַר "to cross over…" |
 |  | . |  |  |
 
-### Proverbs 4:16: 7 word(s) changed
+### Proverbs 4:16: 6 word(s) changed
 
-Reply line 3.
+Reply line 3. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: כִּי לֹא יִשְׁנוּ אִם לֹא יָרֵעוּ וְ/נִגְזְלָה שְׁנָתָ/ם אִם לֹא יכשולו
 
@@ -69,25 +69,25 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | زیرا | H3588 | H3588 |
-| ✱ | تا | H518 אִם "used very widely as…"; H3808 לֹא "not (the simple or abs.…" | H518 אִם "used very widely as…" |
-| ✱ | شرارتی | [شرارتی نکنند] H7489 רָעַע "properly, to spoil (literally…"; H3782 כָּשַׁל "to totter or waver (through…" | [شرارتی نکنند] H3808 לֹא "not (the simple or abs.…"; H7489 רָעַע "properly, to spoil (literally…" |
-| ✱ | نکنند | [شرارتی نکنند] H7489 רָעַע "properly, to spoil (literally…"; H3782 כָּשַׁל "to totter or waver (through…" | [شرارتی نکنند] H3808 לֹא "not (the simple or abs.…"; H7489 רָעַע "properly, to spoil (literally…" |
+|  | تا | H518 | H518 |
+| ✱ | شرارتی | H7489 רָעַע "properly, to spoil (literally…" | [شرارتی نکنند] H3808 לֹא "not (the simple or abs.…"; H7489 רָעַע "properly, to spoil (literally…" |
+| ✱ | نکنند | H3808 לֹא "not (the simple or abs.…" | [شرارتی نکنند] H3808 לֹא "not (the simple or abs.…"; H7489 רָעַע "properly, to spoil (literally…" |
 | ✱ | نمی‌خُسبند | H3462 יָשֵׁן "properly…" | H3808 לֹא "not (the simple or abs.…"; H3462 יָשֵׁן "properly…" |
 |  | ، |  |  |
 |  | و | Hc | Hc |
-|  | تا | H518 | H518 |
+| ✱ | تا |  | H518 אִם "used very widely as…" |
 |  | کسی |  |  |
 |  | را |  |  |
 | ✱ | نلغزانند | H1497 גָּזַל "to pluck off…" | H3808 לֹא "not (the simple or abs.…"; H3782 כָּשַׁל "to totter or waver (through…" |
-| ✱ | خواب | H8142 שֵׁנָה "sleep"; H3782 כָּשַׁל "to totter or waver (through…" | H8142 שֵׁנָה "sleep" |
+|  | خواب | H8142 | H8142 |
 |  | به |  |  |
 |  | چشمشان |  |  |
 | ✱ | نمی‌آید |  | H1497 גָּזַל "to pluck off…" |
 |  | . |  |  |
 
-### Proverbs 4:18: 5 word(s) changed
+### Proverbs 4:18: 7 word(s) changed
 
-Reply line 4.
+Reply line 4. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: וְ/אֹרַח צַדִּיקִים כְּ/אוֹר נֹגַהּ הוֹלֵךְ וָ/אוֹר עַד נְכוֹן הַ/יּוֹם
 
@@ -110,7 +110,7 @@ Original words:
 |  | پارسایان | H6662 | H6662 |
 |  | همچون | Hk | Hk |
 | ✱ | طلوع |  | H216 אוֹר "illumination or (concrete)…" |
-| ✱ | سپیده‌دمان | H216 אוֹר "illumination or (concrete)…" | H5051 נֹגַהּ "brilliancy (literally or…" |
+| ✱ | سپیده‌دمان |  | H5051 נֹגַהּ "brilliancy (literally or…" |
 |  | است |  |  |
 |  | ، |  |  |
 |  | که |  |  |
@@ -118,17 +118,17 @@ Original words:
 | ✱ | روشنایی | H216 אוֹר "illumination or (concrete)…"; H215 אוֹר "to be (causative…" |  |
 | ✱ | نیمروز | H3559 כּוּן "properly…" | H3559 כּוּן "properly…"; H3117 יוֹם "a day (as the warm hours)…" |
 |  | ، |  |  |
-| ✱ | نور | H216 אוֹר "illumination or (concrete)…" | H215 אוֹר "to be (causative…" |
+| ✱ | نور | H216 אוֹר "illumination or (concrete)…"; H5051 נֹגַהּ "brilliancy (literally or…" | H215 אוֹר "to be (causative…" |
 |  | آن |  |  |
 |  | هر |  |  |
 |  | دم |  |  |
-|  | فزونی | [فزونی می‌گیرد] H1980 | [فزونی می‌گیرد] H1980 |
-|  | می‌گیرد | [فزونی می‌گیرد] H1980 | [فزونی می‌گیرد] H1980 |
+| ✱ | فزونی | H1980 הָלַךְ "to walk (in a great variety…" | [فزونی می‌گیرد] H1980 הָלַךְ "to walk (in a great variety…" |
+| ✱ | می‌گیرد | H215 אוֹר "to be (causative…" | [فزونی می‌گیرد] H1980 הָלַךְ "to walk (in a great variety…" |
 |  | . |  |  |
 
-### Proverbs 4:19: 1 word(s) changed
+### Proverbs 4:19: 4 word(s) changed
 
-Reply line 5.
+Reply line 5. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: דֶּרֶךְ רְשָׁעִים כָּ/אֲפֵלָה לֹא יָדְעוּ בַּ/מֶּה יִכָּשֵׁלוּ
 
@@ -149,24 +149,24 @@ Original words:
 |  | راه | H1870 | H1870 |
 |  | شریران | H7563 | H7563 |
 |  | همچون | Hk | Hk |
-|  | تاریکیِ | H653 | H653 |
-|  | غلیظ |  |  |
+| ✱ | تاریکیِ | [تاریکیِ غلیظ] H653 אֲפֵלָה "duskiness, figuratively…" | H653 אֲפֵלָה "duskiness, figuratively…" |
+| ✱ | غلیظ | [تاریکیِ غلیظ] H653 אֲפֵלָה "duskiness, figuratively…" |  |
 |  | است |  |  |
-|  | و |  |  |
-|  | نمی‌دانند | H3808 H3045 | H3808 H3045 |
+| ✱ | و | H3808 לֹא "not (the simple or abs.…" |  |
+| ✱ | نمی‌دانند | H3045 יָדַע "to know (properly…" | H3808 לֹא "not (the simple or abs.…"; H3045 יָדַע "to know (properly…" |
 |  | که |  |  |
-| ✱ | از |  | Hb "in" |
+|  | از | Hb | Hb |
 |  | چه | H4100 | H4100 |
 |  | می‌لغزند | H3782 | H3782 |
 |  | . |  |  |
 
 ### Proverbs 4:20: 2 word(s) changed
 
-Reply line 6.
+Reply line 6. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: בְּנִ/י לִ/דְבָרַ/י הַקְשִׁיבָ/ה לַ/אֲמָרַ/י הַט אָזְנֶ/ךָ
 
-Persian: پسرم، به آنچه می‌گویم توجه کن؛ و به سخنانم نیک گوش فرا~ده.
+Persian: پسرم، به آنچه می‌گویم توجه کن؛ و به سخنانم نیک گوش فرا ده.
 
 Original words:
 - o1: בְּנִ/י = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsc/Sp1cs]
@@ -191,12 +191,13 @@ Original words:
 |  | سخنانم | H561 | H561 |
 |  | نیک |  |  |
 |  | گوش | H241 | H241 |
-|  | فرا~ده | H5186 | H5186 |
+|  | فرا | [فرا ده] H5186 | [فرا ده] H5186 |
+|  | ده | [فرا ده] H5186 | [فرا ده] H5186 |
 |  | . |  |  |
 
-### Proverbs 4:21: 1 word(s) changed
+### Proverbs 4:21: 2 word(s) changed
 
-Reply line 7.
+Reply line 7. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: אַל יַלִּיזוּ מֵ/עֵינֶי/ךָ שָׁמְרֵ/ם בְּ/תוֹךְ לְבָבֶ/ךָ
 
@@ -219,15 +220,15 @@ Original words:
 |  | دور | H3868 | H3868 |
 |  | مکن | H408 | H408 |
 |  | بلکه |  |  |
-| ✱ | در | H8432 תָּוֶךְ "a bisection…" | Hb "in"; H8432 תָּוֶךְ "a bisection…" |
+|  | در | Hb H8432 | Hb H8432 |
 |  | قلبت | H3824 | H3824 |
-|  | نگاهشان | [نگاهشان بدار] H8104 | [نگاهشان بدار] H8104 |
-|  | بدار | [نگاهشان بدار] H8104 | [نگاهشان بدار] H8104 |
+| ✱ | نگاهشان | H5869 עַיִן "an eye (literally or…"; H8104 שָׁמַר "properly…" | [نگاهشان بدار] H8104 שָׁמַר "properly…" |
+| ✱ | بدار |  | [نگاهشان بدار] H8104 שָׁמַר "properly…" |
 |  | ؛ |  |  |
 
 ### Proverbs 4:22: 1 word(s) changed
 
-Reply line 8.
+Reply line 8. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: כִּי חַיִּים הֵם לְ/מֹצְאֵי/הֶם וּ/לְ/כָל בְּשָׂר/וֹ מַרְפֵּא
 
@@ -259,7 +260,7 @@ Original words:
 
 ### Proverbs 4:23: 6 word(s) changed
 
-Reply line 9.
+Reply line 9. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: מִ/כָּל מִשְׁמָר נְצֹר לִבֶּ/ךָ כִּי מִמֶּ/נּוּ תּוֹצְאוֹת חַיִּים
 
@@ -280,22 +281,22 @@ Original words:
 |  | دل | H3820 | H3820 |
 |  | خویش |  |  |
 |  | را |  |  |
-| ✱ | با | H4480 מִן "properly, a part of…" | Hm "from" |
+| ✱ | با |  | Hm "from" |
 | ✱ | مراقبتِ | H5341 נָצַר "to guard…" | H4929 מִשְׁמָר "a guard (the man…" |
 |  | تمام | H3605 | H3605 |
 | ✱ | پاس | H4929 מִשְׁמָר "a guard (the man…" | [پاس بدار] H5341 נָצַר "to guard…" |
 | ✱ | بدار | H5341 נָצַר "to guard…" | [پاس بدار] H5341 נָצַר "to guard…" |
 |  | ، |  |  |
 |  | زیرا | H3588 | H3588 |
-| ✱ | سرچشمۀ |  | H8444 תּוֹצָאָה "only in plural collective)…" |
+| ✱ | سرچشمۀ | H4480 מִן "properly, a part of…" | H8444 תּוֹצָאָה "only in plural collective)…" |
 | ✱ | امور | H8444 תּוֹצָאָה "only in plural collective)…" |  |
 |  | حیاتی | H2416 | H2416 |
 |  | است |  |  |
 |  | . |  |  |
 
-### Proverbs 4:24: 2 word(s) changed
+### Proverbs 4:24: 1 word(s) changed
 
-Reply line 10.
+Reply line 10. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: הָסֵר מִמְּ/ךָ עִקְּשׁוּת פֶּה וּ/לְזוּת שְׂפָתַיִם הַרְחֵק מִמֶּ/ךָּ
 
@@ -316,7 +317,7 @@ Original words:
 |  | کج‌گویی | H6143 | H6143 |
 |  | را |  |  |
 |  | از | H4480 | H4480 |
-| ✱ | دهان | H6143 עִקְּשׁוּת "perversity"; H6310 פֶּה "the mouth (as the means of…" | H6310 פֶּה "the mouth (as the means of…" |
+|  | دهان | H6310 | H6310 |
 |  | خود |  |  |
 | ✱ | بزدای |  | H5493 סוּר "to turn off (literal or…" |
 |  | ؛ |  |  |
@@ -330,9 +331,9 @@ Original words:
 |  | کن | [دور کن] H7368 | [دور کن] H7368 |
 |  | . |  |  |
 
-### Proverbs 4:25: 2 word(s) changed
+### Proverbs 4:25: 3 word(s) changed
 
-Reply line 11.
+Reply line 11. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: עֵינֶי/ךָ לְ/נֹכַח יַבִּיטוּ וְ/עַפְעַפֶּי/ךָ יַיְשִׁרוּ נֶגְדֶּ/ךָ
 
@@ -349,7 +350,7 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | چشمانت | H5869 | H5869 |
-|  | مستقیم | H5227 | H5227 |
+| ✱ | مستقیم |  | H5227 נֹכַח "properly, the front part…" |
 |  | به | Hl | Hl |
 |  | جلو | H5227 | H5227 |
 |  | بنگرد | H5027 | H5027 |
@@ -361,13 +362,13 @@ Original words:
 | ✱ | باشد |  | H3474 יָשַׁר "to be straight or even…" |
 |  | . |  |  |
 
-### Proverbs 4:26: 1 word(s) changed
+### Proverbs 4:26: 3 word(s) changed
 
-Reply line 12.
+Reply line 12. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: פַּלֵּס מַעְגַּל רַגְלֶ/ךָ וְ/כָל דְּרָכֶי/ךָ יִכֹּנוּ
 
-Persian: مسیر پاهای خویش را هموار گردان که همۀ راههایت استوار خواهد_شد.
+Persian: مسیر پاهای خویش را هموار گردان که همۀ راههایت استوار خواهد شد.
 
 Original words:
 - o1: פַּלֵּס = H6424 פָּלַס "properly, to roll flat, i.e. prepare (a road)…" [HVpv2ms]
@@ -383,18 +384,19 @@ Original words:
 |  | پاهای | H7272 | H7272 |
 |  | خویش |  |  |
 |  | را |  |  |
-|  | هموار | [هموار گردان] H6424 | [هموار گردان] H6424 |
-|  | گردان | [هموار گردان] H6424 | [هموار گردان] H6424 |
+| ✱ | هموار | H6424 פָּלַס "properly, to roll flat…" | [هموار گردان] H6424 פָּלַס "properly, to roll flat…" |
+| ✱ | گردان |  | [هموار گردان] H6424 פָּלַס "properly, to roll flat…" |
 | ✱ | که |  | Hc "and" |
 |  | همۀ | H3605 | H3605 |
 |  | راههایت | H1870 | H1870 |
-|  | استوار | [استوار خواهد_شد] H3559 | [استوار خواهد_شد] H3559 |
-|  | خواهد_شد | [استوار خواهد_شد] H3559 | [استوار خواهد_شد] H3559 |
+|  | استوار | [استوار خواهد شد] H3559 | [استوار خواهد شد] H3559 |
+|  | خواهد | [استوار خواهد شد] H3559 | [استوار خواهد شد] H3559 |
+|  | شد | [استوار خواهد شد] H3559 | [استوار خواهد شد] H3559 |
 |  | . |  |  |
 
-### Proverbs 4:27: 7 word(s) changed
+### Proverbs 4:27: 5 word(s) changed
 
-Reply line 13.
+Reply line 13. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: אַל תֵּט יָמִין וּ/שְׂמֹאול הָסֵר רַגְלְ/ךָ מֵ/רָע
 
@@ -413,10 +415,10 @@ Original words:
 | --- | --- | --- | --- |
 |  | به |  |  |
 |  | راست | H3225 | H3225 |
-| ✱ | یا |  | Hc "and" |
-| ✱ | چپ |  | H8040 שְׂמֹאול "properly, dark (as enveloped)…" |
+|  | یا | Hc | Hc |
+|  | چپ | H8040 | H8040 |
 | ✱ | کج | H5186 נָטָה "to stretch or spread out…"; H5493 סוּר "to turn off (literal or…" | [کج مشو] H408 אַל "not (the qualified negation…"; H5186 נָטָה "to stretch or spread out…" |
-| ✱ | مشو | H408 אַל "not (the qualified negation…"; H5186 נָטָה "to stretch or spread out…" | [کج مشو] H408 אַל "not (the qualified negation…"; H5186 נָטָה "to stretch or spread out…" |
+| ✱ | مشو | H408 אַל "not (the qualified negation…" | [کج مشو] H408 אַל "not (the qualified negation…"; H5186 נָטָה "to stretch or spread out…" |
 |  | ؛ |  |  |
 |  | پای | H7272 | H7272 |
 | ✱ | خویش | H5493 סוּר "to turn off (literal or…" |  |

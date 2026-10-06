@@ -1,54 +1,14 @@
 # Check of 20_Proverbs_012.001-012.014.md
 
-Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-06 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
-## 13 verse(s) with changes
+No change from the current tags (will be skipped): Proverbs 12:1, Proverbs 12:6.
 
-### Proverbs 12:1: 2 word(s) changed
+## 11 verse(s) with changes
 
-Reply line 2.
+### Proverbs 12:2: 6 word(s) changed
 
-Original: אֹהֵב מוּסָר אֹהֵב דָּעַת וְ/שֹׂנֵא תוֹכַחַת בָּעַר
-
-Persian: هر که تأدیب را دوست بدارد، دوستدار معرفت است، اما آن که از توبیخ نفرت کند، وحشی است.
-
-Original words:
-- o1: אֹהֵב = H157 אָהַב "to have affection for (sexually or otherwise)" [HVqrmsa]
-- o2: מוּסָר = H4148 מוּסָר "properly, chastisement…" [HNcmsa]
-- o3: אֹהֵב = H157 אָהַב "to have affection for (sexually or otherwise)" [HVqrmsa]
-- o4: דָּעַת = H1847 דַּעַת "knowledge" [HNcfsa]
-- o5: וְ/שֹׂנֵא = Hc "and" + H8130 שָׂנֵא "to hate (personally)" [HC/Vqrmsa]
-- o6: תוֹכַחַת = H8433 תּוֹכֵחָה "chastisement…" [HNcfsa]
-- o7: בָּעַר = H1198 בַּעַר "properly, foot (as consumed)…" [HAamsa]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | هر |  |  |
-|  | که |  |  |
-| ✱ | تأدیب | H4148 מוּסָר "properly, chastisement…"; H8433 תּוֹכֵחָה "chastisement…" | H4148 מוּסָר "properly, chastisement…" |
-|  | را |  |  |
-|  | دوست | [دوست بدارد] H157 | [دوست بدارد] H157 |
-|  | بدارد | [دوست بدارد] H157 | [دوست بدارد] H157 |
-|  | ، |  |  |
-|  | دوستدار | H157 | H157 |
-| ✱ | معرفت | H4148 מוּסָר "properly, chastisement…"; H1847 דַּעַת "knowledge" | H1847 דַּעַת "knowledge" |
-|  | است |  |  |
-|  | ، |  |  |
-|  | اما | Hc | Hc |
-|  | آن |  |  |
-|  | که |  |  |
-|  | از |  |  |
-|  | توبیخ | H8433 | H8433 |
-|  | نفرت | [نفرت کند] H8130 | [نفرت کند] H8130 |
-|  | کند | [نفرت کند] H8130 | [نفرت کند] H8130 |
-|  | ، |  |  |
-|  | وحشی | H1198 | H1198 |
-|  | است |  |  |
-|  | . |  |  |
-
-### Proverbs 12:2: 5 word(s) changed
-
-Reply line 3.
+Reply line 3. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: טוֹב יָפִיק רָצוֹן מֵ/יְהוָה וְ/אִישׁ מְזִמּוֹת יַרְשִׁיעַ
 
@@ -75,16 +35,16 @@ Original words:
 | ✱ | می‌آورد | H6329 פּוּק "to issue, i.e. furnish…" | [به دست می‌آورد] H6329 פּוּק "to issue, i.e. furnish…" |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
-|  | دسیسه‌گر | H376 H4209 | H376 H4209 |
+| ✱ | دسیسه‌گر | H4209 מְזִמָּה "a plan…" | H376 אִישׁ "a man as an individual or a…"; H4209 מְזִמָּה "a plan…" |
 |  | را |  |  |
 | ✱ | خداوند | H3068 יְהֹוָה "Jehovah…" |  |
 |  | محکوم | [محکوم می‌کند] H7561 | [محکوم می‌کند] H7561 |
 |  | می‌کند | [محکوم می‌کند] H7561 | [محکوم می‌کند] H7561 |
 |  | . |  |  |
 
-### Proverbs 12:3: 5 word(s) changed
+### Proverbs 12:3: 4 word(s) changed
 
-Reply line 4.
+Reply line 4. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: לֹא יִכּוֹן אָדָם בְּ/רֶשַׁע וְ/שֹׁרֶשׁ צַדִּיקִים בַּל יִמּוֹט
 
@@ -102,12 +62,12 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | آدمی | H3808 לֹא "not (the simple or abs.…"; H120 אָדָם "ruddy i.e. a human being (an…" | H120 אָדָם "ruddy i.e. a human being (an…" |
+|  | آدمی | H120 | H120 |
 |  | با | Hb | Hb |
 |  | شرارت | H7562 | H7562 |
 |  | ، |  |  |
-| ✱ | استوار | [استوار نمی‌گردد] H3559 כּוּן "properly…"; H4131 מוֹט "to waver…" | [استوار نمی‌گردد] H3808 לֹא "not (the simple or abs.…"; H3559 כּוּן "properly…" |
-| ✱ | نمی‌گردد | [استوار نمی‌گردد] H3559 כּוּן "properly…"; H4131 מוֹט "to waver…" | [استوار نمی‌گردد] H3808 לֹא "not (the simple or abs.…"; H3559 כּוּן "properly…" |
+| ✱ | استوار | [استوار نمی‌گردد] H3559 כּוּן "properly…" | [استوار نمی‌گردد] H3808 לֹא "not (the simple or abs.…"; H3559 כּוּן "properly…" |
+| ✱ | نمی‌گردد | [استوار نمی‌گردد] H3559 כּוּן "properly…" | [استوار نمی‌گردد] H3808 לֹא "not (the simple or abs.…"; H3559 כּוּן "properly…" |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
 |  | ریشۀ | H8328 | H8328 |
@@ -119,7 +79,7 @@ Original words:
 
 ### Proverbs 12:4: 5 word(s) changed
 
-Reply line 5.
+Reply line 5. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: אֵשֶׁת חַיִל עֲטֶרֶת בַּעְלָ/הּ וּ/כְ/רָקָב בְּ/עַצְמוֹתָי/ו מְבִישָׁה
 
@@ -144,8 +104,8 @@ Original words:
 |  | شوهر | H1167 | H1167 |
 |  | است |  |  |
 |  | ، |  |  |
-| ✱ | اما |  | Hc "and" |
-|  | زنی | H802 | H802 |
+|  | اما | Hc | Hc |
+| ✱ | زنی |  | H802 אִשָּׁה "a woman" |
 |  | که |  |  |
 | ✱ | شرمساری | H954 בּוּשׁ "properly, to pale…" | [شرمساری به بار آورد] H954 בּוּשׁ "properly, to pale…" |
 | ✱ | به |  | [شرمساری به بار آورد] H954 בּוּשׁ "properly, to pale…" |
@@ -159,43 +119,9 @@ Original words:
 |  | استخوانهایش | H6106 | H6106 |
 |  | . |  |  |
 
-### Proverbs 12:6: 1 word(s) changed
-
-Reply line 6.
-
-Original: דִּבְרֵי רְשָׁעִים אֱרָב דָּם וּ/פִי יְשָׁרִים יַצִּילֵ/ם
-
-Persian: سخنان شریران در کمین خون است، اما دهان صالحان آنان را می‌رهاند.
-
-Original words:
-- o1: דִּבְרֵי = H1697 דָּבָר "a word…" [HNcmpc]
-- o2: רְשָׁעִים = H7563 רָשָׁע "morally wrong…" [HAampa]
-- o3: אֱרָב = H693 אָרַב "to lurk" [HVqc]
-- o4: דָּם = H1818 דָּם "blood (as that which when shed causes death) of…" [HNcmsa]
-- o5: וּ/פִי = Hc "and" + H6310 פֶּה "the mouth (as the means of blowing)…" [HC/Ncmsc]
-- o6: יְשָׁרִים = H3477 יָשָׁר "straight (literally or figuratively)" [HAampa]
-- o7: יַצִּילֵ/ם = H5337 נָצַל "to snatch away, whether in a good or a bad sense" [HVhi3ms/Sp3mp]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | سخنان | H1697 | H1697 |
-| ✱ | شریران |  | H7563 רָשָׁע "morally wrong…" |
-|  | در |  |  |
-|  | کمین | H693 | H693 |
-|  | خون | H1818 | H1818 |
-|  | است |  |  |
-|  | ، |  |  |
-|  | اما | Hc | Hc |
-|  | دهان | H6310 | H6310 |
-|  | صالحان | H3477 | H3477 |
-|  | آنان |  |  |
-|  | را |  |  |
-|  | می‌رهاند | H5337 | H5337 |
-|  | . |  |  |
-
 ### Proverbs 12:7: 4 word(s) changed
 
-Reply line 7.
+Reply line 7. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: הָפוֹךְ רְשָׁעִים וְ/אֵינָ/ם וּ/בֵית צַדִּיקִים יַעֲמֹד
 
@@ -225,13 +151,13 @@ Original words:
 | ✱ | می‌ماند |  | [برقرار می‌ماند] H5975 עָמַד "to stand…" |
 |  | . |  |  |
 
-### Proverbs 12:8: 4 word(s) changed
+### Proverbs 12:8: 5 word(s) changed
 
-Reply line 8.
+Reply line 8. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: לְ/פִי שִׂכְל/וֹ יְהֻלַּל אִישׁ וְ/נַעֲוֵה לֵב יִהְיֶה לָ/בוּז
 
-Persian: آدمی را فراخورِ عقلش می‌ستایند، اما کج‌دلان خوار شمرده_می‌شوند.
+Persian: آدمی را فراخورِ عقلش می‌ستایند، اما کج‌دلان خوار شمرده می‌شوند.
 
 Original words:
 - o1: לְ/פִי = Hl "to" + H6310 פֶּה "the mouth (as the means of blowing)…" [HR/Ncmsc]
@@ -245,21 +171,22 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | آدمی | H376 | H376 |
+| ✱ | آدمی | H6310 פֶּה "the mouth (as the means of…"; H376 אִישׁ "a man as an individual or a…" | H376 אִישׁ "a man as an individual or a…" |
 |  | را |  |  |
 | ✱ | فراخورِ | H1984 הָלַל "to be clear (orig. of sound…" | Hl "to"; H6310 פֶּה "the mouth (as the means of…" |
 |  | عقلش | H7922 | H7922 |
 |  | می‌ستایند | H1984 | H1984 |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
-| ✱ | کج‌دلان | H5753 עָוָה "to crook…" | H5753 עָוָה "to crook…"; H3820 לֵב "the heart…" |
-| ✱ | خوار |  | [خوار شمرده_می‌شوند] H1961 הָיָה "to exist, i.e. be or become…"; Hl "to"; H937 בּוּז "disrespect" |
-| ✱ | شمرده_می‌شوند | H937 בּוּז "disrespect" | [خوار شمرده_می‌شوند] H1961 הָיָה "to exist, i.e. be or become…"; Hl "to"; H937 בּוּז "disrespect" |
+|  | کج‌دلان | H5753 H3820 | H5753 H3820 |
+| ✱ | خوار |  | [خوار شمرده می‌شوند] H1961 הָיָה "to exist, i.e. be or become…"; Hl "to"; H937 בּוּז "disrespect" |
+| ✱ | شمرده | [شمرده می‌شوند] H937 בּוּז "disrespect" | [خوار شمرده می‌شوند] H1961 הָיָה "to exist, i.e. be or become…"; Hl "to"; H937 בּוּז "disrespect" |
+| ✱ | می‌شوند | [شمرده می‌شوند] H937 בּוּז "disrespect" | [خوار شمرده می‌شوند] H1961 הָיָה "to exist, i.e. be or become…"; Hl "to"; H937 בּוּז "disrespect" |
 |  | . |  |  |
 
 ### Proverbs 12:9: 10 word(s) changed
 
-Reply line 9.
+Reply line 9. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: טוֹב נִקְלֶה וְ/עֶבֶד ל/וֹ מִ/מְּתַכַּבֵּד וַ/חֲסַר לָחֶם
 
@@ -288,7 +215,7 @@ Original words:
 |  | از | Hm | Hm |
 | ✱ | خود |  | [خود را کسی پنداشتن] H3513 כָּבַד "to be heavy…" |
 | ✱ | را |  | [خود را کسی پنداشتن] H3513 כָּבַד "to be heavy…" |
-| ✱ | کسی | H2896 טוֹב "good (as an adjective) in the…" | [خود را کسی پنداشتن] H3513 כָּבַד "to be heavy…" |
+| ✱ | کسی |  | [خود را کسی پنداشتن] H3513 כָּבַד "to be heavy…" |
 | ✱ | پنداشتن | H3513 כָּבַד "to be heavy…" | [خود را کسی پنداشتن] H3513 כָּבַד "to be heavy…" |
 |  | و | Hc | Hc |
 |  | لقمه | [لقمه نانی] H3899 | [لقمه نانی] H3899 |
@@ -297,9 +224,9 @@ Original words:
 |  | نداشتن | H2638 | H2638 |
 |  | ! |  |  |
 
-### Proverbs 12:10: 4 word(s) changed
+### Proverbs 12:10: 3 word(s) changed
 
-Reply line 10.
+Reply line 10. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: יוֹדֵעַ צַדִּיק נֶפֶשׁ בְּהֶמְתּ/וֹ וְ/רַחֲמֵי רְשָׁעִים אַכְזָרִי
 
@@ -318,9 +245,9 @@ Original words:
 | --- | --- | --- | --- |
 |  | پارسا | H6662 | H6662 |
 | ✱ | در |  | [در فکر] H3045 יָדַע "to know (properly…" |
-| ✱ | فکر |  | [در فکر] H3045 יָדַע "to know (properly…" |
+| ✱ | فکر | H5315 נֶפֶשׁ "properly…" | [در فکر] H3045 יָדַע "to know (properly…" |
 | ✱ | آسایش |  | H5315 נֶפֶשׁ "properly…" |
-| ✱ | چارپایان | H5315 נֶפֶשׁ "properly…"; H929 בְּהֵמָה "properly, a dumb beast…" | H929 בְּהֵמָה "properly, a dumb beast…" |
+|  | چارپایان | H929 | H929 |
 |  | خود |  |  |
 |  | نیز |  |  |
 |  | هست |  |  |
@@ -336,11 +263,11 @@ Original words:
 
 ### Proverbs 12:11: 7 word(s) changed
 
-Reply line 11.
+Reply line 11. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: עֹבֵד אַדְמָת/וֹ יִשְׂבַּע לָחֶם וּ/מְרַדֵּף רֵיקִים חֲסַר לֵב
 
-Persian: آن که بر زمین خود کار کند، نانِ سیر خواهد_خورد، اما کم‌عقل است آن که از پی باد می‌دود.
+Persian: آن که بر زمین خود کار کند، نانِ سیر خواهد خورد، اما کم‌عقل است آن که از پی باد می‌دود.
 
 Original words:
 - o1: עֹבֵד = H5647 עָבַד "to work (in any sense)…" [HVqrmsa]
@@ -355,7 +282,7 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | آن |  |  |
-| ✱ | که | H5647 עָבַד "to work (in any sense)…" |  |
+|  | که |  |  |
 |  | بر |  |  |
 |  | زمین | H127 | H127 |
 |  | خود |  |  |
@@ -363,23 +290,24 @@ Original words:
 |  | کند | [کار کند] H5647 | [کار کند] H5647 |
 |  | ، |  |  |
 |  | نانِ | H3899 | H3899 |
-|  | سیر | [سیر خواهد_خورد] H7646 | [سیر خواهد_خورد] H7646 |
-|  | خواهد_خورد | [سیر خواهد_خورد] H7646 | [سیر خواهد_خورد] H7646 |
+| ✱ | سیر | H7646 שָׂבַע "to sate…" | [سیر خواهد خورد] H7646 שָׂבַע "to sate…" |
+| ✱ | خواهد | [خواهد خورد] H3899 לֶחֶם "food (for man or beast)…" | [سیر خواهد خورد] H7646 שָׂבַע "to sate…" |
+| ✱ | خورد | [خواهد خورد] H3899 לֶחֶם "food (for man or beast)…" | [سیر خواهد خورد] H7646 שָׂבַע "to sate…" |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
-| ✱ | کم‌عقل | [کم‌عقل است] H2638 חָסֵר "lacking; hence, without" | [کم‌عقل است] H2638 חָסֵר "lacking; hence, without"; H3820 לֵב "the heart…" |
-| ✱ | است | [کم‌عقل است] H2638 חָסֵר "lacking; hence, without" | [کم‌عقل است] H2638 חָסֵר "lacking; hence, without"; H3820 לֵב "the heart…" |
+| ✱ | کم‌عقل | H2638 חָסֵר "lacking; hence, without"; H3820 לֵב "the heart…" | [کم‌عقل است] H2638 חָסֵר "lacking; hence, without"; H3820 לֵב "the heart…" |
+| ✱ | است |  | [کم‌عقل است] H2638 חָסֵר "lacking; hence, without"; H3820 לֵב "the heart…" |
 |  | آن |  |  |
-| ✱ | که | H5647 עָבַד "to work (in any sense)…" |  |
+|  | که |  |  |
 |  | از |  |  |
-| ✱ | پی | H7291 רָדַף "to run after (usually with…"; H7386 רֵיק "empty; figuratively, worthless" | H7291 רָדַף "to run after (usually with…" |
+|  | پی | H7291 | H7291 |
 | ✱ | باد |  | H7386 רֵיק "empty; figuratively, worthless" |
 | ✱ | می‌دود | H7386 רֵיק "empty; figuratively, worthless" | H7291 רָדַף "to run after (usually with…" |
 |  | . |  |  |
 
-### Proverbs 12:12: 6 word(s) changed
+### Proverbs 12:12: 3 word(s) changed
 
-Reply line 12.
+Reply line 12. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: חָמַד רָשָׁע מְצוֹד רָעִים וְ/שֹׁרֶשׁ צַדִּיקִים יִתֵּן
 
@@ -396,10 +324,10 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | شریران | H2530 חָמַד "to delight in" | H7563 רָשָׁע "morally wrong…" |
+|  | شریران | H7563 | H7563 |
 |  | به |  |  |
-| ✱ | مالِ | H4685 מָצוֹד "a net (for capturing animals…" | [مالِ غصبی] H4685 מָצוֹד "a net (for capturing animals…" |
-| ✱ | غصبی |  | [مالِ غصبی] H4685 מָצוֹד "a net (for capturing animals…" |
+|  | مالِ | [مالِ غصبی] H4685 | [مالِ غصبی] H4685 |
+|  | غصبی | [مالِ غصبی] H4685 | [مالِ غصبی] H4685 |
 |  | دیگر |  |  |
 |  | بدکاران | H7451 | H7451 |
 |  | نیز |  |  |
@@ -416,9 +344,9 @@ Original words:
 |  | می‌دهد | H5414 | H5414 |
 |  | . |  |  |
 
-### Proverbs 12:13: 5 word(s) changed
+### Proverbs 12:13: 2 word(s) changed
 
-Reply line 13.
+Reply line 13. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: בְּ/פֶשַׁע שְׂפָתַיִם מוֹקֵשׁ רָע וַ/יֵּצֵא מִ/צָּרָה צַדִּיק
 
@@ -437,9 +365,9 @@ Original words:
 | --- | --- | --- | --- |
 |  | مرد |  |  |
 |  | شریر | H7451 | H7451 |
-| ✱ | در |  | Hb "in" |
-| ✱ | دام | H8193 שָׂפָה "the lip (as a natural…"; H4170 מוֹקֵשׁ "a noose (for catching…" | H4170 מוֹקֵשׁ "a noose (for catching…" |
-| ✱ | زبان |  | H8193 שָׂפָה "the lip (as a natural…" |
+|  | در | Hb | Hb |
+|  | دام | H4170 | H4170 |
+|  | زبان | H8193 | H8193 |
 | ✱ | عِصیانگر |  | H6588 פֶּשַׁע "a revolt (national…" |
 |  | خود |  |  |
 | ✱ | گرفتار | H4170 מוֹקֵשׁ "a noose (for catching…" |  |
@@ -455,7 +383,7 @@ Original words:
 
 ### Proverbs 12:14: 3 word(s) changed
 
-Reply line 14.
+Reply line 14. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: מִ/פְּרִי פִי אִישׁ יִשְׂבַּע טוֹב וּ/גְמוּל יְדֵי אָדָם ישוב ל/וֹ
 
@@ -477,10 +405,10 @@ Original words:
 | --- | --- | --- | --- |
 |  | میوۀ | H6529 | H6529 |
 |  | دهان | H6310 | H6310 |
-| ✱ | آدمی |  | H376 אִישׁ "a man as an individual or a…" |
+|  | آدمی | H376 | H376 |
 |  | او |  |  |
 |  | را |  |  |
-|  | از |  |  |
+| ✱ | از | Hm "from" |  |
 |  | نیکویی | H2896 | H2896 |
 |  | سیر | [سیر می‌سازد] H7646 | [سیر می‌سازد] H7646 |
 |  | می‌سازد | [سیر می‌سازد] H7646 | [سیر می‌سازد] H7646 |

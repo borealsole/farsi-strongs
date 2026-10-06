@@ -6,7 +6,7 @@ Generated 2026-10-06 by `python review_replies.py check`. Rows marked ✱ change
 
 ### Song of Solomon 3:1: 3 word(s) changed
 
-Reply line 2.
+Reply line 2. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: עַל מִשְׁכָּבִ/י בַּ/לֵּילוֹת בִּקַּשְׁתִּי אֵת שֶׁ/אָהֲבָה נַפְשִׁ/י בִּקַּשְׁתִּי/ו וְ/לֹא מְצָאתִי/ו
 
@@ -47,13 +47,13 @@ Original words:
 |  | نیافتم | H3808 H4672 | H3808 H4672 |
 |  | ! |  |  |
 
-### Song of Solomon 3:2: 9 word(s) changed
+### Song of Solomon 3:2: 10 word(s) changed
 
-Reply line 3.
+Reply line 3. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: אָקוּמָה נָּא וַ/אֲסוֹבְבָה בָ/עִיר בַּ/שְּׁוָקִים וּ/בָ/רְחֹבוֹת אֲבַקְשָׁה אֵת שֶׁ/אָהֲבָה נַפְשִׁ/י בִּקַּשְׁתִּי/ו וְ/לֹא מְצָאתִי/ו
 
-Persian: گفتم،« حال برخاسته، شهر را سراسر خواهم_پیمود، و در هر کوی و برزن او را که جانم دوست می‌دارد، خواهم_جُست!» پس او را جُستم، اما نیافتم!
+Persian: گفتم،« حال برخاسته، شهر را سراسر خواهم پیمود، و در هر کوی و برزن او را که جانم دوست می‌دارد، خواهم جُست!» پس او را جُستم، اما نیافتم!
 
 Original words:
 - o1: אָקוּמָה = H6965 קוּם "to rise (in various applications, literal…" [HVqh1cs]
@@ -80,8 +80,9 @@ Original words:
 |  | ، |  |  |
 |  | شهر | H5892 | H5892 |
 | ✱ | را | H853 אֵת "properly…" |  |
-| ✱ | سراسر |  | [سراسر خواهم_پیمود] H5437 סָבַב "to revolve, surround…" |
-| ✱ | خواهم_پیمود | H7784 שׁוּק "a street (as run over)" | [سراسر خواهم_پیمود] H5437 סָבַב "to revolve, surround…" |
+| ✱ | سراسر |  | [سراسر خواهم پیمود] H5437 סָבַב "to revolve, surround…" |
+| ✱ | خواهم | [خواهم پیمود] H7784 שׁוּק "a street (as run over)" | [سراسر خواهم پیمود] H5437 סָבַב "to revolve, surround…" |
+| ✱ | پیمود | [خواهم پیمود] H7784 שׁוּק "a street (as run over)" | [سراسر خواهم پیمود] H5437 סָבַב "to revolve, surround…" |
 |  | ، |  |  |
 |  | و | Hc | Hc |
 |  | در | Hb | Hb |
@@ -96,21 +97,22 @@ Original words:
 |  | دوست | [دوست می‌دارد] H157 | [دوست می‌دارد] H157 |
 |  | می‌دارد | [دوست می‌دارد] H157 | [دوست می‌دارد] H157 |
 |  | ، |  |  |
-|  | خواهم_جُست | H1245 | H1245 |
+|  | خواهم | [خواهم جُست] H1245 | [خواهم جُست] H1245 |
+|  | جُست | [خواهم جُست] H1245 | [خواهم جُست] H1245 |
 |  | ! |  |  |
 |  | » |  |  |
-|  | پس |  |  |
+| ✱ | پس | Hc "and" |  |
 |  | او |  |  |
 | ✱ | را | H853 אֵת "properly…" |  |
 |  | جُستم | H1245 | H1245 |
 |  | ، |  |  |
-| ✱ | اما |  | Hc "and" |
+|  | اما | Hc | Hc |
 |  | نیافتم | H3808 H4672 | H3808 H4672 |
 |  | ! |  |  |
 
 ### Song of Solomon 3:3: 1 word(s) changed
 
-Reply line 4.
+Reply line 4. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: מְצָאוּ/נִי הַ/שֹּׁמְרִים הַ/סֹּבְבִים בָּ/עִיר אֵת שֶׁ/אָהֲבָה נַפְשִׁ/י רְאִיתֶם
 
@@ -145,13 +147,13 @@ Original words:
 |  | ؟ |  |  |
 |  | » |  |  |
 
-### Song of Solomon 3:4: 8 word(s) changed
+### Song of Solomon 3:4: 9 word(s) changed
 
-Reply line 5.
+Reply line 5. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: כִּ/מְעַט שֶׁ/עָבַרְתִּי מֵ/הֶם עַד שֶׁ/מָּצָאתִי אֵת שֶׁ/אָהֲבָה נַפְשִׁ/י אֲחַזְתִּי/ו וְ/לֹא אַרְפֶּ/נּוּ עַד שֶׁ/הֲבֵיאתִי/ו אֶל בֵּית אִמִּ/י וְ/אֶל חֶדֶר הוֹרָתִ/י
 
-Persian: هنوز از ایشان چندان نگذشته_بودم که محبوب جان خویش را یافتم! او را محکم گرفتم و رها نکردم، تا اینکه به خانۀ مادرم درآوردم، به حجرۀ او که به من آبستن شد.
+Persian: هنوز از ایشان چندان نگذشته بودم که محبوب جان خویش را یافتم! او را محکم گرفتم و رها نکردم، تا اینکه به خانۀ مادرم درآوردم، به حجرۀ او که به من آبستن شد.
 
 Original words:
 - o1: כִּ/מְעַט = Hk "like" + H4592 מְעַט "a little or few (often adverbial or compar.)" [HR/Ncmsa]
@@ -176,11 +178,12 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | هنوز |  |  |
-| ✱ | از |  | Hm "from" |
+| ✱ | هنوز | H5704 עַד "as far (or long, or much) as…" |  |
+| ✱ | از | H5674 עָבַר "to cross over…"; Hm "from" | Hm "from" |
 |  | ایشان |  |  |
 |  | چندان | H4592 | H4592 |
-| ✱ | نگذشته_بودم | Hs "which" | H5674 עָבַר "to cross over…" |
+| ✱ | نگذشته | [نگذشته بودم] Hs "which" | [نگذشته بودم] H5674 עָבַר "to cross over…" |
+| ✱ | بودم | [نگذشته بودم] Hs "which" | [نگذشته بودم] H5674 עָבַר "to cross over…" |
 | ✱ | که |  | H5704 עַד "as far (or long, or much) as…"; Hs "which" |
 |  | محبوب | H157 | H157 |
 |  | جان | H5315 | H5315 |
@@ -197,9 +200,9 @@ Original words:
 | ✱ | نکردم | H3808 לֹא "not (the simple or abs.…" | [رها نکردم] H3808 לֹא "not (the simple or abs.…"; H7503 רָפָה "to slacken (in many…" |
 |  | ، |  |  |
 |  | تا | H5704 | H5704 |
-| ✱ | اینکه |  | Hs "which" |
+|  | اینکه | Hs | Hs |
 |  | به | H413 | H413 |
-| ✱ | خانۀ | H1004 בַּיִת "a house (in the greatest…"; H517 אֵם "a mother (as the bond of the…" | H1004 בַּיִת "a house (in the greatest…" |
+|  | خانۀ | H1004 | H1004 |
 |  | مادرم | H517 | H517 |
 |  | درآوردم | H935 | H935 |
 |  | ، |  |  |
@@ -207,7 +210,7 @@ Original words:
 |  | حجرۀ | H2315 | H2315 |
 |  | او |  |  |
 |  | که |  |  |
-|  | به |  |  |
+| ✱ | به | H413 אֵל "near, with or among…" |  |
 |  | من |  |  |
 |  | آبستن | [آبستن شد] H2029 | [آبستن شد] H2029 |
 |  | شد | [آبستن شد] H2029 | [آبستن شد] H2029 |
@@ -215,7 +218,7 @@ Original words:
 
 ### Song of Solomon 3:5: 8 word(s) changed
 
-Reply line 6.
+Reply line 6. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: הִשְׁבַּעְתִּי אֶתְ/כֶם בְּנוֹת יְרוּשָׁלִַם בִּ/צְבָאוֹת אוֹ בְּ/אַיְלוֹת הַ/שָּׂדֶה אִם תָּעִירוּ וְ/אִם תְּעוֹרְרוּ אֶת הָ/אַהֲבָה עַד שֶׁ/תֶּחְפָּץ
 
@@ -241,14 +244,14 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | ای |  |  |
+| ✱ | ای | H7650 שָׁבַע "to seven oneself…" |  |
 |  | دختران | H1323 | H1323 |
 |  | اورشلیم | H3389 | H3389 |
 |  | ، |  |  |
 |  | شما |  |  |
 |  | را | H853 | H853 |
 |  | به | Hb | Hb |
-| ✱ | غزالها | H6643 צְבִי "splendor (as conspicuous)…"; H7704 שָׂדֶה "a field (as flat)" | H6643 צְבִי "splendor (as conspicuous)…" |
+|  | غزالها | H6643 | H6643 |
 |  | و | H176 | H176 |
 |  | آهوانِ | H355 | H355 |
 |  | صحرا | H7704 | H7704 |
@@ -267,9 +270,9 @@ Original words:
 | ✱ | بازمدارید | H5782 עוּר "to wake (literally or…" | H518 אִם "used very widely as…"; H5782 עוּר "to wake (literally or…" |
 |  | ! |  |  |
 
-### Song of Solomon 3:6: 4 word(s) changed
+### Song of Solomon 3:6: 2 word(s) changed
 
-Reply line 7.
+Reply line 7. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: מִי זֹאת עֹלָה מִן הַ/מִּדְבָּר כְּ/תִימֲרוֹת עָשָׁן מְקֻטֶּרֶת מוֹר וּ/לְבוֹנָה מִ/כֹּל אַבְקַת רוֹכֵל
 
@@ -294,7 +297,7 @@ Original words:
 | --- | --- | --- | --- |
 |  | این | H2063 | H2063 |
 |  | کیست | H4310 | H4310 |
-| ✱ | که | H5927 עָלָה "to ascend…" |  |
+|  | که |  |  |
 |  | همچون | Hk | Hk |
 |  | ستونی | H8490 | H8490 |
 |  | از |  |  |
@@ -311,7 +314,7 @@ Original words:
 |  | معطّر | [معطّر است] H6999 | [معطّر است] H6999 |
 |  | است | [معطّر است] H6999 | [معطّر است] H6999 |
 |  | ، |  |  |
-| ✱ | و | Hc "and" |  |
+|  | و |  |  |
 | ✱ | به |  | Hm "from" |
 |  | عطریاتِ | H81 | H81 |
 |  | بازرگانان | H7402 | H7402 |
@@ -321,7 +324,7 @@ Original words:
 
 ### Song of Solomon 3:8: 3 word(s) changed
 
-Reply line 8.
+Reply line 8. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: כֻּלָּ/ם אֲחֻזֵי חֶרֶב מְלֻמְּדֵי מִלְחָמָה אִישׁ חַרְבּ/וֹ עַל יְרֵכ/וֹ מִ/פַּחַד בַּ/לֵּילּוֹת
 
@@ -361,9 +364,9 @@ Original words:
 |  | شب | H3915 | H3915 |
 |  | . |  |  |
 
-### Song of Solomon 3:9: 5 word(s) changed
+### Song of Solomon 3:9: 1 word(s) changed
 
-Reply line 9.
+Reply line 9. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: אַפִּרְיוֹן עָשָׂה ל/וֹ הַ/מֶּלֶךְ שְׁלֹמֹה מֵ/עֲצֵי הַ/לְּבָנוֹן
 
@@ -380,11 +383,11 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | سلیمانِ | [سلیمانِ پادشاه] H8010 שְׁלֹמֹה "Shelomah, David's successor" | H8010 שְׁלֹמֹה "Shelomah, David's successor" |
-| ✱ | پادشاه | [سلیمانِ پادشاه] H8010 שְׁלֹמֹה "Shelomah, David's successor" | H4428 מֶלֶךְ "a king" |
+|  | سلیمانِ | H8010 | H8010 |
+|  | پادشاه | H4428 | H4428 |
 |  | ، |  |  |
-| ✱ | تختِ |  | [تختِ روانی] H668 אַפִּרְיוֹן "a palanquin" |
-| ✱ | روانی | H668 אַפִּרְיוֹן "a palanquin" | [تختِ روانی] H668 אַפִּרְיוֹן "a palanquin" |
+|  | تختِ | [تختِ روانی] H668 | [تختِ روانی] H668 |
+|  | روانی | [تختِ روانی] H668 | [تختِ روانی] H668 |
 |  | از | Hm | Hm |
 |  | سرو | H6086 | H6086 |
 |  | لبنان | H3844 | H3844 |
@@ -395,11 +398,11 @@ Original words:
 
 ### Song of Solomon 3:10: 3 word(s) changed
 
-Reply line 10.
+Reply line 10. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: עַמּוּדָי/ו עָשָׂה כֶסֶף רְפִידָת/וֹ זָהָב מֶרְכָּב/וֹ אַרְגָּמָן תּוֹכ/וֹ רָצוּף אַהֲבָה מִ/בְּנוֹת יְרוּשָׁלִָם
 
-Persian: تیرکهایش از نقره بود، کفِ آن از طلا، و کرسی‌اش از ارغوان! اندرونِ آن را دختران اورشلیم، با عشق دوخته_بودند!
+Persian: تیرکهایش از نقره بود، کفِ آن از طلا، و کرسی‌اش از ارغوان! اندرونِ آن را دختران اورشلیم، با عشق دوخته بودند!
 
 Original words:
 - o1: עַמּוּדָי/ו = H5982 עַמּוּד "a column (as standing)…" [HNcmpc/Sp3ms]
@@ -422,7 +425,7 @@ Original words:
 |  | نقره | H3701 | H3701 |
 |  | بود |  |  |
 |  | ، |  |  |
-| ✱ | کفِ | H7507 רְפִידָה "a railing (as spread along)"; H4817 מֶרְכָּב "a chariot…" | H7507 רְפִידָה "a railing (as spread along)" |
+|  | کفِ | H7507 | H7507 |
 |  | آن |  |  |
 |  | از |  |  |
 |  | طلا | H2091 | H2091 |
@@ -440,12 +443,13 @@ Original words:
 |  | ، |  |  |
 |  | با |  |  |
 |  | عشق | H160 | H160 |
-| ✱ | دوخته_بودند | H6213 עָשָׂה "to do or make…" | H7528 רָצַף "to tessellate…" |
+| ✱ | دوخته | [دوخته بودند]  | [دوخته بودند] H7528 רָצַף "to tessellate…" |
+| ✱ | بودند | [دوخته بودند]  | [دوخته بودند] H7528 רָצַף "to tessellate…" |
 |  | ! |  |  |
 
-### Song of Solomon 3:11: 10 word(s) changed
+### Song of Solomon 3:11: 6 word(s) changed
 
-Reply line 11.
+Reply line 11. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: צְאֶינָה וּ/רְאֶינָה בְּנוֹת צִיּוֹן בַּ/מֶּלֶךְ שְׁלֹמֹה בָּ/עֲטָרָה שֶׁ/עִטְּרָה לּ/וֹ אִמּ/וֹ בְּ/יוֹם חֲתֻנָּת/וֹ וּ/בְ/יוֹם שִׂמְחַת לִבּ/וֹ
 
@@ -475,9 +479,9 @@ Original words:
 |  | صَهیون | H6726 | H6726 |
 |  | ، |  |  |
 | ✱ | بُرون |  | [بُرون آیید] H3318 יָצָא "to go (causatively…" |
-| ✱ | آیید |  | [بُرون آیید] H3318 יָצָא "to go (causatively…" |
+| ✱ | آیید | H3318 יָצָא "to go (causatively…" | [بُرون آیید] H3318 יָצָא "to go (causatively…" |
 |  | و | Hc | Hc |
-| ✱ | بنگرید |  | H7200 רָאָה "to see…" |
+|  | بنگرید | H7200 | H7200 |
 |  | ! |  |  |
 |  | سلیمان | H8010 | H8010 |
 |  | پادشاه | H4428 | H4428 |
@@ -485,16 +489,16 @@ Original words:
 |  | ببینید | H7200 | H7200 |
 |  | ، |  |  |
 |  | با | Hb | Hb |
-| ✱ | تاجی | H5850 עֲטָרָה "a crown"; H5849 עָטַר "to encircle (for attack or…" | H5850 עֲטָרָה "a crown" |
+|  | تاجی | H5850 | H5850 |
 | ✱ | که |  | Hs "which" |
 |  | مادرش | H517 | H517 |
-| ✱ | بر |  | [بر سرش نهاد] H5849 עָטַר "to encircle (for attack or…" |
-| ✱ | سرش | [سرش نهاد] H5849 עָטַר "to encircle (for attack or…" | [بر سرش نهاد] H5849 עָטַר "to encircle (for attack or…" |
-| ✱ | نهاد | [سرش نهاد] H5849 עָטַר "to encircle (for attack or…" | [بر سرش نهاد] H5849 עָטַר "to encircle (for attack or…" |
+| ✱ | بر | Hb "in" | [بر سرش نهاد] H5849 עָטַר "to encircle (for attack or…" |
+| ✱ | سرش |  | [بر سرش نهاد] H5849 עָטַר "to encircle (for attack or…" |
+| ✱ | نهاد | H5849 עָטַר "to encircle (for attack or…" | [بر سرش نهاد] H5849 עָטַר "to encircle (for attack or…" |
 |  | ، |  |  |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | روز | H3117 | H3117 |
-| ✱ | عروسی | H2861 חֲתֻנָּה "a wedding"; H8057 שִׂמְחָה "blithesomeness or glee…" | H2861 חֲתֻנָּה "a wedding" |
+|  | عروسی | H2861 | H2861 |
 |  | ، |  |  |
 |  | در | Hb | Hb |
 |  | روز | H3117 | H3117 |

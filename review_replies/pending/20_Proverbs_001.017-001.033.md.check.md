@@ -1,12 +1,12 @@
 # Check of 20_Proverbs_001.017-001.033.md
 
-Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-06 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
 ## 17 verse(s) with changes
 
-### Proverbs 1:17: 2 word(s) changed
+### Proverbs 1:17: 5 word(s) changed
 
-Reply line 2.
+Reply line 2. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: כִּי חִנָּם מְזֹרָה הָ/רָשֶׁת בְּ/עֵינֵי כָל בַּעַל כָּנָף
 
@@ -26,20 +26,20 @@ Original words:
 | --- | --- | --- | --- |
 |  | براستی | H3588 | H3588 |
 |  | چه |  |  |
-|  | عبث | H2600 | H2600 |
+| ✱ | عبث |  | H2600 חִנָּם "gratis, i.e. devoid of cost…" |
 |  | است |  |  |
 | ✱ | آشکارا | H2600 חִנָּם "gratis, i.e. devoid of cost…" |  |
 |  | دام | H7568 | H7568 |
 |  | گستردن | H2219 | H2219 |
-| ✱ | در |  | Hb "in" |
-|  | برابر | [برابر چشم] H5869 | [برابر چشم] H5869 |
-|  | چشم | [برابر چشم] H5869 | [برابر چشم] H5869 |
-|  | پرنده‌ای | H1167 H3671 | H1167 H3671 |
+|  | در | Hb | Hb |
+| ✱ | برابر |  | [برابر چشم] H5869 עַיִן "an eye (literally or…" |
+| ✱ | چشم | H5869 עַיִן "an eye (literally or…" | [برابر چشم] H5869 עַיִן "an eye (literally or…" |
+| ✱ | پرنده‌ای | H3671 כָּנָף "an edge or extremity…" | H1167 בַּעַל "a master…"; H3671 כָּנָף "an edge or extremity…" |
 |  | ! |  |  |
 
 ### Proverbs 1:18: 5 word(s) changed
 
-Reply line 3.
+Reply line 3. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: וְ/הֵם לְ/דָמָ/ם יֶאֱרֹבוּ יִצְפְּנוּ לְ/נַפְשֹׁתָ/ם
 
@@ -55,24 +55,24 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | اما | Hc | Hc |
-| ✱ | اینان |  | H1992 הֵם "they (only used when emphatic)" |
+|  | اینان | H1992 | H1992 |
 | ✱ | در | Hl "to" | [در کمین] H693 אָרַב "to lurk" |
 | ✱ | کمین | H693 אָרַב "to lurk" | [در کمین] H693 אָרַב "to lurk" |
 |  | خون | H1818 | H1818 |
 |  | خویشتن |  |  |
 | ✱ | می‌نشینند | H6845 צָפַן "to hide (by covering over)…" | H693 אָרַב "to lurk" |
 |  | و |  |  |
-| ✱ | نهانی |  | H6845 צָפַן "to hide (by covering over)…" |
+|  | نهانی | H6845 | H6845 |
 |  | برای | Hl | Hl |
 |  | جان | H5315 | H5315 |
 |  | خود |  |  |
-|  | انتظار | [انتظار می‌کشند] H6845 | [انتظار می‌کشند] H6845 |
-|  | می‌کشند | [انتظار می‌کشند] H6845 | [انتظار می‌کشند] H6845 |
+| ✱ | انتظار |  | [انتظار می‌کشند] H6845 צָפַן "to hide (by covering over)…" |
+| ✱ | می‌کشند |  | [انتظار می‌کشند] H6845 צָפַן "to hide (by covering over)…" |
 |  | ! |  |  |
 
-### Proverbs 1:19: 2 word(s) changed
+### Proverbs 1:19: 5 word(s) changed
 
-Reply line 4.
+Reply line 4. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: כֵּן אָרְחוֹת כָּל בֹּצֵעַ בָּצַע אֶת נֶפֶשׁ בְּעָלָי/ו יִקָּח
 
@@ -100,8 +100,8 @@ Original words:
 |  | که |  |  |
 |  | در |  |  |
 |  | طمعِ | H1214 | H1214 |
-|  | سود | H1215 | H1215 |
-| ✱ | نامشروع | H1214 בָּצַע "figuratively, to finish…"; H1215 בֶּצַע "plunder…" | H1215 בֶּצַע "plunder…" |
+| ✱ | سود | [سود نامشروع] H1215 בֶּצַע "plunder…" | H1215 בֶּצַע "plunder…" |
+| ✱ | نامشروع | [سود نامشروع] H1215 בֶּצַע "plunder…" | H1215 בֶּצַע "plunder…" |
 |  | باشد |  |  |
 |  | ؛ |  |  |
 |  | آنچه |  |  |
@@ -110,15 +110,15 @@ Original words:
 |  | می‌آید |  |  |
 |  | ، |  |  |
 |  | جانِ | H5315 | H5315 |
-|  | صاحب | [صاحب خود] H1167 | [صاحب خود] H1167 |
-|  | خود | [صاحب خود] H1167 | [صاحب خود] H1167 |
+| ✱ | صاحب | H1167 בַּעַל "a master…" | [صاحب خود] H1167 בַּעַל "a master…" |
+| ✱ | خود |  | [صاحب خود] H1167 בַּעַל "a master…" |
 |  | را | H853 | H853 |
 |  | می‌ستاند | H3947 | H3947 |
 |  | . |  |  |
 
-### Proverbs 1:20: 7 word(s) changed
+### Proverbs 1:20: 5 word(s) changed
 
-Reply line 5.
+Reply line 5. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: חָכְמוֹת בַּ/חוּץ תָּרֹנָּה בָּ/רְחֹבוֹת תִּתֵּן קוֹלָ/הּ
 
@@ -135,25 +135,25 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | حکمت | H2454 | H2454 |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | کوی | H2351 | H2351 |
 |  | و |  |  |
 | ✱ | برزن |  | H2351 חוּץ "properly, separate by awall…" |
 | ✱ | ندا |  | [ندا درمی‌دهد] H7442 רָנַן "properly…" |
-| ✱ | درمی‌دهد | H5414 נָתַן "to give…" | [ندا درمی‌دهد] H7442 רָנַן "properly…" |
+| ✱ | درمی‌دهد |  | [ندا درمی‌دهد] H7442 רָנַן "properly…" |
 |  | و |  |  |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | میدانها | H7339 | H7339 |
 |  | آواز | H6963 | H6963 |
 |  | خود |  |  |
 |  | را |  |  |
-| ✱ | بلند |  | [بلند می‌کند] H5414 נָתַן "to give…" |
-| ✱ | می‌کند | H7442 רָנַן "properly…" | [بلند می‌کند] H5414 נָתַן "to give…" |
+| ✱ | بلند | [بلند می‌کند] H7442 רָנַן "properly…" | [بلند می‌کند] H5414 נָתַן "to give…" |
+| ✱ | می‌کند | [بلند می‌کند] H7442 רָנַן "properly…" | [بلند می‌کند] H5414 נָתַן "to give…" |
 |  | ؛ |  |  |
 
 ### Proverbs 1:21: 7 word(s) changed
 
-Reply line 6.
+Reply line 6. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: בְּ/רֹאשׁ הֹמִיּוֹת תִּקְרָא בְּ/פִתְחֵי שְׁעָרִים בָּ/עִיר אֲמָרֶי/הָ תֹאמֵר
 
@@ -172,14 +172,14 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | در | Hb | Hb |
-|  | جاهای | [جاهای پرازدحام] H1993 | [جاهای پرازدحام] H1993 |
-|  | پرازدحام | [جاهای پرازدحام] H1993 | [جاهای پرازدحام] H1993 |
-| ✱ | بانگ |  | [بانگ در می‌دهد] H7121 קָרָא "to call out to (i.e. properly…" |
-| ✱ | در |  | [بانگ در می‌دهد] H7121 קָרָא "to call out to (i.e. properly…" |
+| ✱ | جاهای |  | [جاهای پرازدحام] H1993 הָמָה "to make a loud sound (like…" |
+| ✱ | پرازدحام | H1993 הָמָה "to make a loud sound (like…" | [جاهای پرازدحام] H1993 הָמָה "to make a loud sound (like…" |
+| ✱ | بانگ | H7121 קָרָא "to call out to (i.e. properly…" | [بانگ در می‌دهد] H7121 קָרָא "to call out to (i.e. properly…" |
+| ✱ | در | H6607 פֶּתַח "an opening (literally)…" | [بانگ در می‌دهد] H7121 קָרָא "to call out to (i.e. properly…" |
 | ✱ | می‌دهد |  | [بانگ در می‌دهد] H7121 קָרָא "to call out to (i.e. properly…" |
 |  | و |  |  |
-| ✱ | بر |  | Hb "in" |
-| ✱ | دروازه‌های | H6607 פֶּתַח "an opening (literally)…" | H6607 פֶּתַח "an opening (literally)…"; H8179 שַׁעַר "an opening, i.e. door or gate" |
+|  | بر | Hb | Hb |
+|  | دروازه‌های | H6607 H8179 | H6607 H8179 |
 |  | شهر | H5892 | H5892 |
 |  | ، |  |  |
 | ✱ | سخن | H561 אֵמֶר "something said"; H559 אָמַר "to say (used with great…" | H561 אֵמֶר "something said" |
@@ -188,11 +188,11 @@ Original words:
 
 ### Proverbs 1:22: 4 word(s) changed
 
-Reply line 7.
+Reply line 7. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: עַד מָתַי פְּתָיִם תְּאֵהֲבוּ פֶתִי וְ/לֵצִים לָצוֹן חָמְדוּ לָ/הֶם וּ/כְסִילִים יִשְׂנְאוּ דָעַת
 
-Persian: « ای ساده‌لوحان، تا چند ساده‌لوحی را دوست خواهید_داشت؟ تا چند تمسخرگران از تمسخر لذت خواهند_برد و جاهلان از دانش بیزار خواهند_بود؟
+Persian: « ای ساده‌لوحان، تا چند ساده‌لوحی را دوست خواهید داشت؟ تا چند تمسخرگران از تمسخر لذت خواهند برد و جاهلان از دانش بیزار خواهند بود؟
 
 Original words:
 - o1: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
@@ -218,31 +218,34 @@ Original words:
 |  | چند | H4970 | H4970 |
 |  | ساده‌لوحی | H6612 | H6612 |
 |  | را |  |  |
-|  | دوست | [دوست خواهید_داشت] H157 | [دوست خواهید_داشت] H157 |
-|  | خواهید_داشت | [دوست خواهید_داشت] H157 | [دوست خواهید_داشت] H157 |
+|  | دوست | [دوست خواهید داشت] H157 | [دوست خواهید داشت] H157 |
+|  | خواهید | [دوست خواهید داشت] H157 | [دوست خواهید داشت] H157 |
+|  | داشت | [دوست خواهید داشت] H157 | [دوست خواهید داشت] H157 |
 |  | ؟ |  |  |
-| ✱ | تا |  | H5704 עַד "as far (or long, or much) as…" |
+|  | تا | H5704 | H5704 |
 | ✱ | چند |  | H4970 מָתַי "properly, extent (of time)…" |
 |  | تمسخرگران | H3887 | H3887 |
 |  | از |  |  |
 |  | تمسخر | H3944 | H3944 |
-| ✱ | لذت | H2530 חָמַד "to delight in" | [لذت خواهند_برد] H2530 חָמַד "to delight in" |
-| ✱ | خواهند_برد |  | [لذت خواهند_برد] H2530 חָמַד "to delight in" |
+| ✱ | لذت | H2530 חָמַד "to delight in" | [لذت خواهند برد] H2530 חָמַד "to delight in" |
+| ✱ | خواهند | [خواهند برد]  | [لذت خواهند برد] H2530 חָמַד "to delight in" |
+| ✱ | برد | [خواهند برد]  | [لذت خواهند برد] H2530 חָמַד "to delight in" |
 |  | و | Hc | Hc |
 |  | جاهلان | H3684 | H3684 |
 |  | از |  |  |
 |  | دانش | H1847 | H1847 |
-|  | بیزار | [بیزار خواهند_بود] H8130 | [بیزار خواهند_بود] H8130 |
-|  | خواهند_بود | [بیزار خواهند_بود] H8130 | [بیزار خواهند_بود] H8130 |
+|  | بیزار | [بیزار خواهند بود] H8130 | [بیزار خواهند بود] H8130 |
+|  | خواهند | [بیزار خواهند بود] H8130 | [بیزار خواهند بود] H8130 |
+|  | بود | [بیزار خواهند بود] H8130 | [بیزار خواهند بود] H8130 |
 |  | ؟ |  |  |
 
-### Proverbs 1:23: 6 word(s) changed
+### Proverbs 1:23: 10 word(s) changed
 
-Reply line 8.
+Reply line 8. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: תָּשׁוּבוּ לְ/תוֹכַחְתִּ/י הִנֵּה אַבִּיעָה לָ/כֶם רוּחִ/י אוֹדִיעָה דְבָרַ/י אֶתְ/כֶם
 
-Persian: توبیخ مرا بشنوید و بازگشت کنید، و من روح خود را بر شما فرو~خواهم ریخت و کلمات خویش را بر شما اعلام خواهم_کرد.
+Persian: توبیخ مرا بشنوید و بازگشت کنید، و من روح خود را بر شما فرو خواهم ریخت و کلمات خویش را بر شما اعلام خواهم کرد.
 
 Original words:
 - o1: תָּשׁוּבוּ = H7725 שׁוּב "to turn back (hence…" [HVqi2mp]
@@ -271,25 +274,27 @@ Original words:
 | ✱ | را | H853 אֵת "properly…" |  |
 | ✱ | بر |  | Hl "to" |
 |  | شما |  |  |
-| ✱ | فرو~خواهم | H5042 נָבַע "to gush forth…" | [فرو~خواهم ریخت] H5042 נָבַע "to gush forth…" |
-| ✱ | ریخت |  | [فرو~خواهم ریخت] H5042 נָבַע "to gush forth…" |
+| ✱ | فرو | [فرو خواهم] H5042 נָבַע "to gush forth…" | [فرو خواهم ریخت] H5042 נָבַע "to gush forth…" |
+| ✱ | خواهم | [فرو خواهم] H5042 נָבַע "to gush forth…" | [فرو خواهم ریخت] H5042 נָבַע "to gush forth…" |
+| ✱ | ریخت |  | [فرو خواهم ریخت] H5042 נָבַע "to gush forth…" |
 |  | و |  |  |
 |  | کلمات | H1697 | H1697 |
 |  | خویش |  |  |
 | ✱ | را | H853 אֵת "properly…" |  |
 | ✱ | بر |  | H853 אֵת "properly…" |
 |  | شما |  |  |
-|  | اعلام | [اعلام خواهم_کرد] H3045 | [اعلام خواهم_کرد] H3045 |
-|  | خواهم_کرد | [اعلام خواهم_کرد] H3045 | [اعلام خواهم_کرد] H3045 |
+| ✱ | اعلام | H3045 יָדַע "to know (properly…" | [اعلام خواهم کرد] H3045 יָדַע "to know (properly…" |
+| ✱ | خواهم | [خواهم کرد] H853 אֵת "properly…" | [اعلام خواهم کرد] H3045 יָדַע "to know (properly…" |
+| ✱ | کرد | [خواهم کرد] H853 אֵת "properly…" | [اعلام خواهم کرد] H3045 יָדַע "to know (properly…" |
 |  | . |  |  |
 
-### Proverbs 1:24: 4 word(s) changed
+### Proverbs 1:24: 2 word(s) changed
 
-Reply line 9.
+Reply line 9. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: יַעַן קָרָאתִי וַ/תְּמָאֵנוּ נָטִיתִי יָדִ/י וְ/אֵין מַקְשִׁיב
 
-Persian: اما چون هنگامی که فرا~خواندم مرا نپذیرفتید و آنگاه که دست خویش دراز کردم، کسی اعتنا نکرد؛
+Persian: اما چون هنگامی که فرا خواندم مرا نپذیرفتید و آنگاه که دست خویش دراز کردم، کسی اعتنا نکرد؛
 
 Original words:
 - o1: יַעַן = H3282 יַעַן "properly, heed…" [HC]
@@ -305,13 +310,14 @@ Original words:
 |  | اما |  |  |
 |  | چون | H3282 | H3282 |
 |  | هنگامی |  |  |
-| ✱ | که | [که فرا~خواندم] H7121 קָרָא "to call out to (i.e. properly…" |  |
-| ✱ | فرا~خواندم | [که فرا~خواندم] H7121 קָרָא "to call out to (i.e. properly…" | H7121 קָרָא "to call out to (i.e. properly…" |
+|  | که |  |  |
+|  | فرا | [فرا خواندم] H7121 | [فرا خواندم] H7121 |
+|  | خواندم | [فرا خواندم] H7121 | [فرا خواندم] H7121 |
 |  | مرا |  |  |
 |  | نپذیرفتید | H3985 | H3985 |
-|  | و | Hc | Hc |
-| ✱ | آنگاه | Hc "and" |  |
-| ✱ | که | H7121 קָרָא "to call out to (i.e. properly…" |  |
+| ✱ | و | [و آنگاه] Hc "and" | Hc "and" |
+| ✱ | آنگاه | [و آنگاه] Hc "and" |  |
+|  | که |  |  |
 |  | دست | H3027 | H3027 |
 |  | خویش |  |  |
 |  | دراز | [دراز کردم] H5186 | [دراز کردم] H5186 |
@@ -322,9 +328,9 @@ Original words:
 |  | نکرد | [اعتنا نکرد] H7181 | [اعتنا نکرد] H7181 |
 |  | ؛ |  |  |
 
-### Proverbs 1:25: 5 word(s) changed
+### Proverbs 1:25: 7 word(s) changed
 
-Reply line 10.
+Reply line 10. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: וַ/תִּפְרְעוּ כָל עֲצָתִ/י וְ/תוֹכַחְתִּ/י לֹא אֲבִיתֶם
 
@@ -340,7 +346,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | چون |  |  |
+| ✱ | چون | Hc "and" |  |
 |  | مشورت | H6098 | H6098 |
 |  | مرا |  |  |
 | ✱ | یکسره | [یکسره نادیده گرفتید] H6544 פָּרַע "to loosen…" | H3605 כֹּל "properly, the whole…" |
@@ -349,17 +355,17 @@ Original words:
 |  | و | Hc | Hc |
 | ✱ | نخواستید | H14 אָבָה "to breathe after…" | H3808 לֹא "not (the simple or abs.…"; H14 אָבָה "to breathe after…" |
 |  | توبیخ | H8433 | H8433 |
-|  | مرا |  |  |
+| ✱ | مرا | H3808 לֹא "not (the simple or abs.…" |  |
 | ✱ | بپذیرید | H8433 תּוֹכֵחָה "chastisement…" |  |
 |  | ، |  |  |
 
-### Proverbs 1:26: 4 word(s) changed
+### Proverbs 1:26: 5 word(s) changed
 
-Reply line 11.
+Reply line 11. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: גַּם אֲנִי בְּ/אֵידְ/כֶם אֶשְׂחָק אֶלְעַג בְּ/בֹא פַחְדְּ/כֶם
 
-Persian: من نیز در مصیبت شما خواهم_خندید و چون آنچه از آن می‌ترسید بر سرتان آید، تمسخر خواهم_کرد-
+Persian: من نیز در مصیبت شما خواهم خندید و چون آنچه از آن می‌ترسید بر سرتان آید، تمسخر خواهم کرد-
 
 Original words:
 - o1: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
@@ -377,28 +383,30 @@ Original words:
 |  | در | Hb | Hb |
 |  | مصیبت | H343 | H343 |
 |  | شما |  |  |
-| ✱ | خواهم_خندید | H7832 שָׂחַק "to laugh (in pleasure or…"; H3932 לָעַג "to deride…" | H7832 שָׂחַק "to laugh (in pleasure or…" |
+| ✱ | خواهم | [خواهم خندید] H7832 שָׂחַק "to laugh (in pleasure or…"; H3932 לָעַג "to deride…" | [خواهم خندید] H7832 שָׂחַק "to laugh (in pleasure or…" |
+| ✱ | خندید | [خواهم خندید] H7832 שָׂחַק "to laugh (in pleasure or…"; H3932 לָעַג "to deride…" | [خواهم خندید] H7832 שָׂחַק "to laugh (in pleasure or…" |
 |  | و |  |  |
 | ✱ | چون |  | Hb "in" |
 |  | آنچه | H6343 | H6343 |
 |  | از |  |  |
 |  | آن |  |  |
-| ✱ | می‌ترسید | H343 אֵיד "oppression…"; H6343 פַּחַד "a (sudden) alarm (properly…" | H6343 פַּחַד "a (sudden) alarm (properly…" |
-|  | بر |  |  |
+| ✱ | می‌ترسید |  | H6343 פַּחַד "a (sudden) alarm (properly…" |
+| ✱ | بر | Hb "in" |  |
 |  | سرتان |  |  |
-| ✱ | آید |  | H935 בּוֹא "to go or come (in a wide…" |
+|  | آید | H935 | H935 |
 |  | ، |  |  |
-|  | تمسخر | [تمسخر خواهم_کرد] H3932 | [تمسخر خواهم_کرد] H3932 |
-|  | خواهم_کرد | [تمسخر خواهم_کرد] H3932 | [تمسخر خواهم_کرد] H3932 |
+|  | تمسخر | [تمسخر خواهم کرد] H3932 | [تمسخر خواهم کرد] H3932 |
+|  | خواهم | [تمسخر خواهم کرد] H3932 | [تمسخر خواهم کرد] H3932 |
+|  | کرد | [تمسخر خواهم کرد] H3932 | [تمسخر خواهم کرد] H3932 |
 |  | - |  |  |
 
-### Proverbs 1:27: 10 word(s) changed
+### Proverbs 1:27: 9 word(s) changed
 
-Reply line 12.
+Reply line 12. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: בְּ/בֹא כ/שאוה פַּחְדְּ/כֶם וְ/אֵידְ/כֶם כְּ/סוּפָה יֶאֱתֶה בְּ/בֹא עֲלֵי/כֶם צָרָה וְ/צוּקָה
 
-Persian: آری، چون آنچه از آن می‌ترسید همچون توفان بر شما عارض شود، و مصیبت چون گردباد شما را فرو~پیچد، و تنگی و فشار بر شما چیره آید.
+Persian: آری، چون آنچه از آن می‌ترسید همچون توفان بر شما عارض شود، و مصیبت چون گردباد شما را فرو پیچد، و تنگی و فشار بر شما چیره آید.
 
 Original words:
 - o1: בְּ/בֹא = Hb "in" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HR/Vqc]
@@ -416,14 +424,14 @@ Original words:
 | --- | --- | --- | --- |
 |  | آری |  |  |
 |  | ، |  |  |
-| ✱ | چون |  | Hb "in" |
+| ✱ | چون | Hk "like" | Hb "in" |
 | ✱ | آنچه |  | H6343 פַּחַד "a (sudden) alarm (properly…" |
 |  | از |  |  |
 |  | آن |  |  |
-| ✱ | می‌ترسید | H343 אֵיד "oppression…" | H6343 פַּחַד "a (sudden) alarm (properly…" |
+| ✱ | می‌ترسید |  | H6343 פַּחַד "a (sudden) alarm (properly…" |
 |  | همچون | Hk | Hk |
 | ✱ | توفان | H5492 סוּפָה "a hurricane" | H7584 שַׁאֲוָה "a tempest (as rushing)" |
-| ✱ | بر | H935 בּוֹא "to go or come (in a wide…" |  |
+| ✱ | بر | Hb "in" |  |
 |  | شما |  |  |
 | ✱ | عارض | H343 אֵיד "oppression…" | [عارض شود] H935 בּוֹא "to go or come (in a wide…" |
 | ✱ | شود | H857 אָתָה "to arrive" | [عارض شود] H935 בּוֹא "to go or come (in a wide…" |
@@ -434,25 +442,26 @@ Original words:
 |  | گردباد | H5492 | H5492 |
 |  | شما |  |  |
 |  | را |  |  |
-|  | فرو~پیچد | H857 | H857 |
+|  | فرو | [فرو پیچد] H857 | [فرو پیچد] H857 |
+|  | پیچد | [فرو پیچد] H857 | [فرو پیچد] H857 |
 |  | ، |  |  |
 |  | و |  |  |
 |  | تنگی | H6869 | H6869 |
 |  | و | Hc | Hc |
 |  | فشار | H6695 | H6695 |
-| ✱ | بر | H935 בּוֹא "to go or come (in a wide…"; H5921 עַל "above, over, upon…" | H5921 עַל "above, over, upon…" |
+|  | بر | H5921 | H5921 |
 |  | شما |  |  |
 | ✱ | چیره | H6695 צוֹק "a strait…" | [چیره آید] H935 בּוֹא "to go or come (in a wide…" |
-| ✱ | آید |  | [چیره آید] H935 בּוֹא "to go or come (in a wide…" |
+| ✱ | آید | H935 בּוֹא "to go or come (in a wide…" | [چیره آید] H935 בּוֹא "to go or come (in a wide…" |
 |  | . |  |  |
 
 ### Proverbs 1:28: 3 word(s) changed
 
-Reply line 13.
+Reply line 13. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: אָז יִקְרָאֻ/נְנִי וְ/לֹא אֶעֱנֶה יְשַׁחֲרֻ/נְנִי וְ/לֹא יִמְצָאֻ/נְנִי
 
-Persian: « آنگاه مرا خواهند_خواند، و پاسخ نخواهم_داد؛ مرا بسیار خواهند_جُست و نخواهند_یافت.
+Persian: « آنگاه مرا خواهند خواند، و پاسخ نخواهم داد؛ مرا بسیار خواهند جُست و نخواهند یافت.
 
 Original words:
 - o1: אָז = H227 אָז "at that time or place…" [HD]
@@ -468,22 +477,26 @@ Original words:
 |  | « |  |  |
 |  | آنگاه | H227 | H227 |
 |  | مرا |  |  |
-|  | خواهند_خواند | H7121 | H7121 |
+|  | خواهند | [خواهند خواند] H7121 | [خواهند خواند] H7121 |
+|  | خواند | [خواهند خواند] H7121 | [خواهند خواند] H7121 |
 |  | ، |  |  |
 |  | و | Hc | Hc |
-| ✱ | پاسخ | H6030 עָנָה "properly…" | [پاسخ نخواهم_داد] H3808 לֹא "not (the simple or abs.…"; H6030 עָנָה "properly…" |
-| ✱ | نخواهم_داد | H3808 לֹא "not (the simple or abs.…" | [پاسخ نخواهم_داد] H3808 לֹא "not (the simple or abs.…"; H6030 עָנָה "properly…" |
+| ✱ | پاسخ | H6030 עָנָה "properly…" | [پاسخ نخواهم داد] H3808 לֹא "not (the simple or abs.…"; H6030 עָנָה "properly…" |
+| ✱ | نخواهم | [نخواهم داد] H3808 לֹא "not (the simple or abs.…" | [پاسخ نخواهم داد] H3808 לֹא "not (the simple or abs.…"; H6030 עָנָה "properly…" |
+| ✱ | داد | [نخواهم داد] H3808 לֹא "not (the simple or abs.…" | [پاسخ نخواهم داد] H3808 לֹא "not (the simple or abs.…"; H6030 עָנָה "properly…" |
 |  | ؛ |  |  |
 |  | مرا |  |  |
-|  | بسیار | [بسیار خواهند_جُست] H7836 | [بسیار خواهند_جُست] H7836 |
-|  | خواهند_جُست | [بسیار خواهند_جُست] H7836 | [بسیار خواهند_جُست] H7836 |
+|  | بسیار | [بسیار خواهند جُست] H7836 | [بسیار خواهند جُست] H7836 |
+|  | خواهند | [بسیار خواهند جُست] H7836 | [بسیار خواهند جُست] H7836 |
+|  | جُست | [بسیار خواهند جُست] H7836 | [بسیار خواهند جُست] H7836 |
 |  | و | Hc | Hc |
-| ✱ | نخواهند_یافت | H4672 מָצָא "properly, to come forth to…" | H3808 לֹא "not (the simple or abs.…"; H4672 מָצָא "properly, to come forth to…" |
+|  | نخواهند | [نخواهند یافت] H3808 H4672 | [نخواهند یافت] H3808 H4672 |
+|  | یافت | [نخواهند یافت] H3808 H4672 | [نخواهند یافت] H3808 H4672 |
 |  | . |  |  |
 
 ### Proverbs 1:29: 2 word(s) changed
 
-Reply line 14.
+Reply line 14. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: תַּחַת כִּי שָׂנְאוּ דָעַת וְ/יִרְאַת יְהֹוָה לֹא בָחָרוּ
 
@@ -515,7 +528,7 @@ Original words:
 
 ### Proverbs 1:30: 1 word(s) changed
 
-Reply line 15.
+Reply line 15. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: לֹא אָבוּ לַ/עֲצָתִ/י נָאֲצוּ כָּל תּוֹכַחְתִּ/י
 
@@ -543,13 +556,13 @@ Original words:
 |  | شمردند | [خوار شمردند] H5006 | [خوار شمردند] H5006 |
 |  | . |  |  |
 
-### Proverbs 1:31: 3 word(s) changed
+### Proverbs 1:31: 2 word(s) changed
 
-Reply line 16.
+Reply line 16. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: וְ/יֹאכְלוּ מִ/פְּרִי דַרְכָּ/ם וּ/מִ/מֹּעֲצֹתֵי/הֶם יִשְׂבָּעוּ
 
-Persian: پس ثمرۀ طریقهای خود را خواهند_خورد و از میوۀ تدبیرهای خویش سیر خواهند_شد.
+Persian: پس ثمرۀ طریقهای خود را خواهند خورد و از میوۀ تدبیرهای خویش سیر خواهند شد.
 
 Original words:
 - o1: וְ/יֹאכְלוּ = Hc "and" + H398 אָכַל "to eat (literally or figuratively)" [HC/Vqi3mp]
@@ -565,23 +578,25 @@ Original words:
 |  | طریقهای | H1870 | H1870 |
 |  | خود |  |  |
 |  | را |  |  |
-|  | خواهند_خورد | H398 | H398 |
+|  | خواهند | [خواهند خورد] H398 | [خواهند خورد] H398 |
+|  | خورد | [خواهند خورد] H398 | [خواهند خورد] H398 |
 |  | و | Hc | Hc |
-| ✱ | از |  | Hm "from" |
+|  | از | Hm | Hm |
 |  | میوۀ | H6529 | H6529 |
 | ✱ | تدبیرهای | [تدبیرهای خویش] H4156 מוֹעֵצָה "a purpose" | H4156 מוֹעֵצָה "a purpose" |
 | ✱ | خویش | [تدبیرهای خویش] H4156 מוֹעֵצָה "a purpose" |  |
-|  | سیر | [سیر خواهند_شد] H7646 | [سیر خواهند_شد] H7646 |
-|  | خواهند_شد | [سیر خواهند_شد] H7646 | [سیر خواهند_شد] H7646 |
+|  | سیر | [سیر خواهند شد] H7646 | [سیر خواهند شد] H7646 |
+|  | خواهند | [سیر خواهند شد] H7646 | [سیر خواهند شد] H7646 |
+|  | شد | [سیر خواهند شد] H7646 | [سیر خواهند شد] H7646 |
 |  | . |  |  |
 
-### Proverbs 1:32: 6 word(s) changed
+### Proverbs 1:32: 7 word(s) changed
 
-Reply line 17.
+Reply line 17. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: כִּי מְשׁוּבַת פְּתָיִם תַּהַרְגֵ/ם וְ/שַׁלְוַת כְּסִילִים תְּאַבְּדֵ/ם
 
-Persian: زیرا از‌ راه برگشتن ساده‌لوحان آنان را به کشتن خواهد_داد و آسوده‌خیالی جاهلان ایشان را هلاک خواهد_کرد.
+Persian: زیرا از‌ راه برگشتن ساده‌لوحان آنان را به کشتن خواهد داد و آسوده‌خیالی جاهلان ایشان را هلاک خواهد کرد.
 
 Original words:
 - o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
@@ -601,25 +616,27 @@ Original words:
 |  | ساده‌لوحان | H6612 | H6612 |
 |  | آنان |  |  |
 |  | را |  |  |
-| ✱ | به |  | [به کشتن خواهد_داد] H2026 הָרַג "to smite with deadly intent" |
-| ✱ | کشتن | [کشتن خواهد_داد] H2026 הָרַג "to smite with deadly intent" | [به کشتن خواهد_داد] H2026 הָרַג "to smite with deadly intent" |
-| ✱ | خواهد_داد | [کشتن خواهد_داد] H2026 הָרַג "to smite with deadly intent" | [به کشتن خواهد_داد] H2026 הָרַג "to smite with deadly intent" |
+| ✱ | به |  | [به کشتن خواهد داد] H2026 הָרַג "to smite with deadly intent" |
+| ✱ | کشتن | [کشتن خواهد داد] H2026 הָרַג "to smite with deadly intent" | [به کشتن خواهد داد] H2026 הָרַג "to smite with deadly intent" |
+| ✱ | خواهد | [کشتن خواهد داد] H2026 הָרַג "to smite with deadly intent" | [به کشتن خواهد داد] H2026 הָרַג "to smite with deadly intent" |
+| ✱ | داد | [کشتن خواهد داد] H2026 הָרַג "to smite with deadly intent" | [به کشتن خواهد داد] H2026 הָרַג "to smite with deadly intent" |
 |  | و | Hc | Hc |
 |  | آسوده‌خیالی | H7962 | H7962 |
 |  | جاهلان | H3684 | H3684 |
 |  | ایشان |  |  |
 |  | را |  |  |
-|  | هلاک | [هلاک خواهد_کرد] H6 | [هلاک خواهد_کرد] H6 |
-|  | خواهد_کرد | [هلاک خواهد_کرد] H6 | [هلاک خواهد_کرد] H6 |
+|  | هلاک | [هلاک خواهد کرد] H6 | [هلاک خواهد کرد] H6 |
+|  | خواهد | [هلاک خواهد کرد] H6 | [هلاک خواهد کرد] H6 |
+|  | کرد | [هلاک خواهد کرد] H6 | [هلاک خواهد کرد] H6 |
 |  | . |  |  |
 
-### Proverbs 1:33: 9 word(s) changed
+### Proverbs 1:33: 10 word(s) changed
 
-Reply line 18.
+Reply line 18. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: וְ/שֹׁמֵעַ לִ/י יִשְׁכָּן בֶּטַח וְ/שַׁאֲנַן מִ/פַּחַד רָעָה
 
-Persian: اما هر که به من گوش فرا~دهد، در امنیت ساکن خواهد_بود و از بیمِ بلا آسوده خواهد_ماند.»
+Persian: اما هر که به من گوش فرا دهد، در امنیت ساکن خواهد بود و از بیمِ بلا آسوده خواهد ماند.»
 
 Original words:
 - o1: וְ/שֹׁמֵעַ = Hc "and" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HC/Vqrmsa]
@@ -637,18 +654,21 @@ Original words:
 | ✱ | که |  | [هر که] H8085 שָׁמַע "to hear intelligently (often…" |
 | ✱ | به |  | Hl "to" |
 |  | من |  |  |
-| ✱ | گوش | H8085 שָׁמַע "to hear intelligently (often…" | [گوش فرا~دهد] H8085 שָׁמַע "to hear intelligently (often…" |
-| ✱ | فرا~دهد |  | [گوش فرا~دهد] H8085 שָׁמַע "to hear intelligently (often…" |
+| ✱ | گوش | H8085 שָׁמַע "to hear intelligently (often…" | [گوش فرا دهد] H8085 שָׁמַע "to hear intelligently (often…" |
+| ✱ | فرا | [فرا دهد]  | [گوش فرا دهد] H8085 שָׁמַע "to hear intelligently (often…" |
+| ✱ | دهد | [فرا دهد]  | [گوش فرا دهد] H8085 שָׁמַע "to hear intelligently (often…" |
 |  | ، |  |  |
-| ✱ | در | Hl "to" |  |
+|  | در |  |  |
 |  | امنیت | H983 | H983 |
-|  | ساکن | [ساکن خواهد_بود] H7931 | [ساکن خواهد_بود] H7931 |
-|  | خواهد_بود | [ساکن خواهد_بود] H7931 | [ساکن خواهد_بود] H7931 |
+|  | ساکن | [ساکن خواهد بود] H7931 | [ساکن خواهد بود] H7931 |
+|  | خواهد | [ساکن خواهد بود] H7931 | [ساکن خواهد بود] H7931 |
+|  | بود | [ساکن خواهد بود] H7931 | [ساکن خواهد بود] H7931 |
 |  | و | Hc | Hc |
 |  | از | Hm | Hm |
-| ✱ | بیمِ |  | H6343 פַּחַד "a (sudden) alarm (properly…" |
+| ✱ | بیمِ | H7599 שָׁאַן "to loll, i.e. be peaceful" | H6343 פַּחַד "a (sudden) alarm (properly…" |
 |  | بلا | H7451 | H7451 |
-| ✱ | آسوده | H6343 פַּחַד "a (sudden) alarm (properly…" | [آسوده خواهد_ماند] H7599 שָׁאַן "to loll, i.e. be peaceful" |
-| ✱ | خواهد_ماند |  | [آسوده خواهد_ماند] H7599 שָׁאַן "to loll, i.e. be peaceful" |
+| ✱ | آسوده | H6343 פַּחַד "a (sudden) alarm (properly…" | [آسوده خواهد ماند] H7599 שָׁאַן "to loll, i.e. be peaceful" |
+| ✱ | خواهد | [خواهد ماند]  | [آسوده خواهد ماند] H7599 שָׁאַן "to loll, i.e. be peaceful" |
+| ✱ | ماند | [خواهد ماند]  | [آسوده خواهد ماند] H7599 שָׁאַן "to loll, i.e. be peaceful" |
 |  | . |  |  |
 |  | » |  |  |

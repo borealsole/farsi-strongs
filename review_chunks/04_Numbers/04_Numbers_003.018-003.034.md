@@ -214,7 +214,7 @@ Persian entries and current tags:
 ### Numbers 3:22
 
 Original: פְּקֻדֵי/הֶם בְּ/מִסְפַּר כָּל זָכָר מִ/בֶּן חֹדֶשׁ וָ/מָעְלָ/ה פְּקֻדֵי/הֶם שִׁבְעַת אֲלָפִים וַ/חֲמֵשׁ מֵאוֹת
-Persian: شمار تمامی ذکوران یک ماهه و بالاتر ایشان که شمرده_شدند، ۷۵۰۰ بود.
+Persian: شمار تمامی ذکوران یک ماهه و بالاتر ایشان که شمرده شدند، ۷۵۰۰ بود.
 
 Original words:
 - o1: פְּקֻדֵי/הֶם = H6485 פָּקַד "to visit (with friendly or hostile intent)…" [HVqsmpc/Sp3mp]
@@ -240,10 +240,10 @@ Persian entries and current tags:
 - p7: بالاتر  → H4605
 - p8: ایشان
 - p9: که
-- p10: شمرده_شدند  → H4605 H6485
+- p10: شمرده شدند  → H6485
 - p11: ،
 - p12: ۷۵۰۰  → H7651 H505 H2568 H3967
-- p13: بود  → H6485
+- p13: بود
 - p14: .
 
 ### Numbers 3:23
@@ -269,7 +269,7 @@ Persian entries and current tags:
 - p7: در
 - p8: جانب
 - p9: غربی  → H3220
-- p10: خیمه
+- p10: خیمه  → H4908
 - p11: می‌زدند  → H2583
 - p12: .
 
@@ -334,7 +334,7 @@ Persian entries and current tags:
 - p13: آن
 - p14: و  → Hc
 - p15: پردۀ  → H4539
-- p16: درِ
+- p16: درِ  → H6607
 - p17: خیمۀ  → H168
 - p18: ملاقات  → H4150
 - p19: ،
@@ -369,14 +369,14 @@ Persian entries and current tags:
 - p4: صحن  → H2691
 - p5: و  → Hc
 - p6: حجابِ  → H4539
-- p7: درِ
+- p7: درِ  → H6607
 - p8: صحن  → H2691
 - p9: ،
 - p10: که  → H834
 - p11: گرداگرد  → H5439
 - p12: مسکن  → H4908
 - p13: و  → Hc
-- p14: مذبح
+- p14: مذبح  → H4196
 - p15: بود
 - p16: ،
 - p17: و  → Hc
@@ -412,7 +412,7 @@ Original words:
 - o13: הַ/קְּהָתִי = Hd "the" + H6956 קֳהָתִי "a Kohathite (collectively) or descendants of…" [HTd/Ngmsa]
 
 Persian entries and current tags:
-- p1: از
+- p1: از  → Hl
 - p2: قُهات  → H6955
 - p3: ،
 - p4: طایفۀ  → H4940
@@ -492,7 +492,7 @@ Persian entries and current tags:
 - p2: پسران  → H1121
 - p3: قُهات  → H6955
 - p4: می‌بایست
-- p5: در
+- p5: در  → H5921
 - p6: جانب
 - p7: جنوبی  → H8486
 - p8: مسکن  → H4908
@@ -558,7 +558,7 @@ Persian entries and current tags:
 - p7: و  → Hc
 - p8: چراغدان  → H4501
 - p9: و  → Hc
-- p10: مذبحها  → H4196 H6944
+- p10: مذبحها  → H4196
 - p11: و  → Hc
 - p12: اسباب  → H3627
 - p13: قُدس  → H6944
@@ -609,7 +609,7 @@ Persian entries and current tags:
 - p8: کاهن  → H3548
 - p9: بود
 - p10: .
-- p11: او  → H3548
+- p11: او
 - p12: می‌بایست
 - p13: بر
 - p14: کسانی
@@ -657,7 +657,7 @@ Persian entries and current tags:
 ### Numbers 3:34
 
 Original: וּ/פְקֻדֵי/הֶם בְּ/מִסְפַּר כָּל זָכָר מִ/בֶּן חֹדֶשׁ וָ/מָעְלָ/ה שֵׁשֶׁת אֲלָפִים וּ/מָאתָיִם
-Persian: شمار تمامی ذکوران یک ماهه و بالاتر ایشان که شمرده_شدند، ۶۲۰۰ بود.
+Persian: شمار تمامی ذکوران یک ماهه و بالاتر ایشان که شمرده شدند، ۶۲۰۰ بود.
 
 Original words:
 - o1: וּ/פְקֻדֵי/הֶם = Hc "and" + H6485 פָּקַד "to visit (with friendly or hostile intent)…" [HC/Vqsmpc/Sp3mp]
@@ -672,7 +672,7 @@ Original words:
 - o10: וּ/מָאתָיִם = Hc "and" + H3967 מֵאָה "a hundred; also as a multiplicative and a fraction" [HC/Acbda]
 
 Persian entries and current tags:
-- p1: شمار  → H4557
+- p1: شمار  → H6485 H4557
 - p2: تمامی  → H3605
 - p3: ذکوران  → H2145
 - p4: یک
@@ -681,7 +681,7 @@ Persian entries and current tags:
 - p7: بالاتر  → H4605
 - p8: ایشان
 - p9: که
-- p10: شمرده_شدند  → H6485
+- p10: شمرده شدند
 - p11: ،
 - p12: ۶۲۰۰  → H8337 H505 H3967
 - p13: بود

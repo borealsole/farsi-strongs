@@ -4,9 +4,9 @@ Generated 2026-10-06 by `python review_replies.py check`. Rows marked ✱ change
 
 ## 13 verse(s) with changes
 
-### II John 1:1: 3 word(s) changed
+### II John 1:1: 5 word(s) changed
 
-Reply line 2.
+Reply line 2. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: Ὁ πρεσβύτερος ἐκλεκτῇ κυρίᾳ καὶ τοῖς τέκνοις αὐτῆς, οὓς ἐγὼ ἀγαπῶ ἐν ἀληθείᾳ, καὶ οὐκ ἐγὼ μόνος ἀλλὰ καὶ πάντες οἱ ἐγνωκότες τὴν ἀλήθειαν,
 
@@ -48,9 +48,9 @@ Original words:
 |  | بانوی | G2959 | G2959 |
 |  | برگزیده | G1588 | G1588 |
 |  | و | G2532 | G2532 |
-|  | فرزندانش | G5043 G846 | G5043 G846 |
+| ✱ | فرزندانش | G5043 τέκνον "child, daughter, son" | G5043 τέκνον "child, daughter, son"; G846 αὐτός "her, it(-self), one…" |
 |  | که | G3739 | G3739 |
-|  | ایشان |  |  |
+| ✱ | ایشان | G846 αὐτός "her, it(-self), one…" |  |
 |  | را |  |  |
 |  | در | G1722 | G1722 |
 |  | ’حقیقت‘ | G225 | G225 |
@@ -73,11 +73,11 @@ Original words:
 
 ### II John 1:2: 2 word(s) changed
 
-Reply line 3.
+Reply line 3. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: διὰ τὴν ἀλήθειαν τὴν μένουσαν ἐν ἡμῖν, καὶ μεθ’ ἡμῶν ἔσται εἰς τὸν αἰῶνα.
 
-Persian: به سبب آن حقیقت که در ما ساکن است و تا ابد با ما خواهد_بود.
+Persian: به سبب آن حقیقت که در ما ساکن است و تا ابد با ما خواهد بود.
 
 Original words:
 - o1: διὰ = G1223 διά "after, always, among, at, to avoid…" [PREP]
@@ -107,20 +107,21 @@ Original words:
 |  | ساکن | [ساکن است] G3306 | [ساکن است] G3306 |
 |  | است | [ساکن است] G3306 | [ساکن است] G3306 |
 |  | و | G2532 | G2532 |
-| ✱ | تا | G1519 εἰς "abundant-)ly, against, among…"; G165 αἰών "age, course, eternal…" | G1519 εἰς "abundant-)ly, against, among…" |
+|  | تا | G1519 | G1519 |
 |  | ابد | G165 | G165 |
 |  | با | G3326 | G3326 |
 |  | ما | G2249 | G2249 |
-| ✱ | خواهد_بود |  | G1510 εἰμί "am, have been, it is I, was" |
+| ✱ | خواهد | [خواهد بود]  | [خواهد بود] G1510 εἰμί "am, have been, it is I, was" |
+| ✱ | بود | [خواهد بود]  | [خواهد بود] G1510 εἰμί "am, have been, it is I, was" |
 |  | . |  |  |
 
-### II John 1:3: 5 word(s) changed
+### II John 1:3: 6 word(s) changed
 
-Reply line 4.
+Reply line 4. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: ἔσται μεθ’ ἡμῶν χάρις ἔλεος εἰρήνη παρὰ θεοῦ πατρός, καὶ παρὰ Ἰησοῦ Χριστοῦ τοῦ υἱοῦ τοῦ πατρός, ἐν ἀληθείᾳ καὶ ἀγάπῃ.
 
-Persian: فیض و رحمت و سلامتی از جانب خدای پدر و از جانب عیسی مسیح، پسر آن پدر، در حقیقت و محبت با ما خواهد_بود.
+Persian: فیض و رحمت و سلامتی از جانب خدای پدر و از جانب عیسی مسیح، پسر آن پدر، در حقیقت و محبت با ما خواهد بود.
 
 Original words:
 - o1: ἔσται = G1510 εἰμί "am, have been, it is I, was" [V-FDI-3S]
@@ -172,12 +173,13 @@ Original words:
 |  | محبت | G26 | G26 |
 |  | با | G3326 | G3326 |
 |  | ما | G2249 | G2249 |
-| ✱ | خواهد_بود | G3962 πατήρ "father, parent" | G1510 εἰμί "am, have been, it is I, was" |
+| ✱ | خواهد | [خواهد بود] G3962 πατήρ "father, parent" | [خواهد بود] G1510 εἰμί "am, have been, it is I, was" |
+| ✱ | بود | [خواهد بود] G3962 πατήρ "father, parent" | [خواهد بود] G1510 εἰμί "am, have been, it is I, was" |
 |  | . |  |  |
 
-### II John 1:4: 5 word(s) changed
+### II John 1:4: 3 word(s) changed
 
-Reply line 5.
+Reply line 5. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: Ἐχάρην λίαν ὅτι εὕρηκα ἐκ τῶν τέκνων σου περιπατοῦντας ἐν ἀληθείᾳ, καθὼς ἐντολὴν ἐλάβομεν παρὰ τοῦ πατρός.
 
@@ -211,13 +213,13 @@ Original words:
 |  | دریافتم | G2147 | G2147 |
 |  | برخی | G1537 | G1537 |
 |  | از |  |  |
-| ✱ | فرزندان | G5043 τέκνον "child, daughter, son"; G4043 περιπατέω "go, be occupied with…" | G5043 τέκνον "child, daughter, son" |
+|  | فرزندان | G5043 | G5043 |
 |  | تو | G4771 | G4771 |
 | ✱ | بنا | G2531 καθώς "according to, (according…" | [بنا بر] G2531 καθώς "according to, (according…" |
 | ✱ | بر |  | [بنا بر] G2531 καθώς "according to, (according…" |
 |  | حکمی | G1785 | G1785 |
 | ✱ | که | G3754 ὅτι "as concerning that, as though…" |  |
-| ✱ | از |  | G3844 παρά "above, against, among, at…" |
+|  | از | G3844 | G3844 |
 |  | پدر | G3962 | G3962 |
 |  | یافتیم | G2983 | G2983 |
 |  | ، |  |  |
@@ -229,7 +231,7 @@ Original words:
 
 ### II John 1:5: 4 word(s) changed
 
-Reply line 6.
+Reply line 6. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: καὶ νῦν ἐρωτῶ σε, Κυρία, οὐχ ὡς ἐντολὴν καινὴν γράφων σοι ἀλλὰ ἣν εἴχαμεν ἀπ’ ἀρχῆς, ἵνα ἀγαπῶμεν ἀλλήλους.
 
@@ -261,13 +263,13 @@ Original words:
 |  | امّا | G2532 | G2532 |
 |  | حال | G3568 | G3568 |
 |  | ، |  |  |
-|  | بانوی | [بانوی گرامی] G2959 | [بانوی گرامی] G2959 |
-|  | گرامی | [بانوی گرامی] G2959 | [بانوی گرامی] G2959 |
+| ✱ | بانوی | G2959 Κυρία "lady" | [بانوی گرامی] G2959 Κυρία "lady" |
+| ✱ | گرامی |  | [بانوی گرامی] G2959 Κυρία "lady" |
 |  | ، |  |  |
 |  | از |  |  |
 |  | تو | G4771 | G4771 |
-| ✱ | درخواستی | G2065 ἐρωτάω "ask, beseech, desire, intreat…"; G1785 ἐντολή "commandment, precept" | [درخواستی دارم] G2065 ἐρωτάω "ask, beseech, desire, intreat…" |
-| ✱ | دارم | G2065 ἐρωτάω "ask, beseech, desire, intreat…" | [درخواستی دارم] G2065 ἐρωτάω "ask, beseech, desire, intreat…" |
+|  | درخواستی | [درخواستی دارم] G2065 | [درخواستی دارم] G2065 |
+|  | دارم | [درخواستی دارم] G2065 | [درخواستی دارم] G2065 |
 |  | . |  |  |
 |  | نه | G3756 | G3756 |
 |  | آنکه | G5613 | G5613 |
@@ -280,20 +282,20 @@ Original words:
 |  | بلکه | G235 | G235 |
 |  | همان | G3739 | G3739 |
 |  | که |  |  |
-|  | از |  |  |
+| ✱ | از | G575 ἀπό "here-)after, ago, at…" |  |
 |  | آغاز | G746 | G746 |
 | ✱ | داشته‌ایم |  | G1502 εἴκω "give place" |
 |  | ، |  |  |
-| ✱ | که |  | G2443 ἵνα "albeit, because…" |
+|  | که | G2443 | G2443 |
 |  | یکدیگر | G240 | G240 |
 |  | را |  |  |
 |  | محبت | [محبت کنیم] G25 | [محبت کنیم] G25 |
 |  | کنیم | [محبت کنیم] G25 | [محبت کنیم] G25 |
 |  | . |  |  |
 
-### II John 1:6: 11 word(s) changed
+### II John 1:6: 9 word(s) changed
 
-Reply line 7.
+Reply line 7. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: καὶ αὕτη ἐστὶν ἡ ἀγάπη, ἵνα περιπατῶμεν κατὰ τὰς ἐντολὰς αὐτοῦ· αὕτη ἡ ἐντολή ἐστιν, ἵνα καθὼς ἠκούσατε ἀπ’ ἀρχῆς, ἵνα ἐν αὐτῇ περιπατῆτε.
 
@@ -347,10 +349,10 @@ Original words:
 |  | آغاز | G746 | G746 |
 |  | شنیده‌اید | G191 | G191 |
 |  | ، |  |  |
-| ✱ | حکم |  | G1785 ἐντολή "commandment, precept" |
+|  | حکم | G1785 | G1785 |
 | ✱ | او | G846 αὐτός "her, it(-self), one…" |  |
 |  | این | G3778 | G3778 |
-| ✱ | است |  | G1510 εἰμί "am, have been, it is I, was" |
+|  | است | G1510 | G1510 |
 |  | که | G2443 | G2443 |
 |  | در | G1722 | G1722 |
 | ✱ | محبت | G26 ἀγάπη "feast of) charity(-ably)…" | G846 αὐτός "her, it(-self), one…" |
@@ -358,9 +360,9 @@ Original words:
 |  | کنید | [سلوک کنید] G4043 | [سلوک کنید] G4043 |
 |  | . |  |  |
 
-### II John 1:7: 7 word(s) changed
+### II John 1:7: 9 word(s) changed
 
-Reply line 8.
+Reply line 8. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: ὅτι πολλοὶ πλάνοι ἐξῆλθαν εἰς τὸν κόσμον, οἱ μὴ ὁμολογοῦντες Ἰησοῦν Χριστὸν ἐρχόμενον ἐν σαρκί· οὗτός ἐστιν ὁ πλάνος καὶ ὁ ἀντίχριστος.
 
@@ -407,8 +409,8 @@ Original words:
 |  | عیسی | G2424 | G2424 |
 |  | مسیح | G5547 | G5547 |
 |  | در | G1722 | G1722 |
-|  | جسم | G4561 | G4561 |
-|  | انسانی |  |  |
+| ✱ | جسم | [جسم انسانی] G4561 σάρξ "carnal(-ly, + -ly minded)…" | G4561 σάρξ "carnal(-ly, + -ly minded)…" |
+| ✱ | انسانی | [جسم انسانی] G4561 σάρξ "carnal(-ly, + -ly minded)…" |  |
 | ✱ | اقرار | G3670 ὁμολογέω "con- (pro-)fess…" | [اقرار ندارند] G3361 μή "any but (that), forbear…"; G3670 ὁμολογέω "con- (pro-)fess…" |
 | ✱ | ندارند | G3361 μή "any but (that), forbear…" | [اقرار ندارند] G3361 μή "any but (that), forbear…"; G3670 ὁμολογέω "con- (pro-)fess…" |
 |  | . |  |  |
@@ -421,9 +423,9 @@ Original words:
 | ✱ | ضدّمسیح‌اند | G500 ἀντίχριστος "antichrist" | G1510 εἰμί "am, have been, it is I, was"; G500 ἀντίχριστος "antichrist" |
 |  | . |  |  |
 
-### II John 1:8: 10 word(s) changed
+### II John 1:8: 9 word(s) changed
 
-Reply line 9.
+Reply line 9. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: βλέπετε ἑαυτούς, ἵνα μὴ ἀπολέσητε ἃ εἰργάσασθε, ἀλλὰ μισθὸν πλήρη ἀπολάβητε.
 
@@ -444,10 +446,10 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | بهوش | [بهوش باشید] G991 | [بهوش باشید] G991 |
-|  | باشید | [بهوش باشید] G991 | [بهوش باشید] G991 |
-| ✱ | که |  | G2443 ἵνα "albeit, because…" |
-| ✱ | ثمر |  | G3739 ὅς "one, (an-, the) other, some…" |
+| ✱ | بهوش | G991 βλέπω "behold, beware, lie, look (on…" | [بهوش باشید] G991 βλέπω "behold, beware, lie, look (on…" |
+| ✱ | باشید | G1438 ἑαυτοῦ "alone, her (own, -self)…" | [بهوش باشید] G991 βλέπω "behold, beware, lie, look (on…" |
+|  | که | G2443 | G2443 |
+| ✱ | ثمر | G622 ἀπόλλυμι "destroy, die, lose, mar…" | G3739 ὅς "one, (an-, the) other, some…" |
 | ✱ | کار | G3739 ὅς "one, (an-, the) other, some…" | G2038 ἐργάζομαι "commit, do, labor for…" |
 |  | خود |  |  |
 |  | را |  |  |
@@ -459,13 +461,13 @@ Original words:
 |  | پاداشی | G3408 | G3408 |
 | ✱ | به |  | [به کمال] G4134 πλήρης "full" |
 | ✱ | کمال | G4134 πλήρης "full" | [به کمال] G4134 πλήρης "full" |
-| ✱ | دریافت | G618 ἀπολαμβάνω "receive, take" | [دریافت کنید] G618 ἀπολαμβάνω "receive, take" |
-| ✱ | کنید | G622 ἀπόλλυμι "destroy, die, lose, mar…" | [دریافت کنید] G618 ἀπολαμβάνω "receive, take" |
+|  | دریافت | [دریافت کنید] G618 | [دریافت کنید] G618 |
+|  | کنید | [دریافت کنید] G618 | [دریافت کنید] G618 |
 |  | . |  |  |
 
-### II John 1:9: 8 word(s) changed
+### II John 1:9: 7 word(s) changed
 
-Reply line 10.
+Reply line 10. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: πᾶς ὁ προάγων καὶ μὴ μένων ἐν τῇ διδαχῇ τοῦ Χριστοῦ θεὸν οὐκ ἔχει· ὁ μένων ἐν τῇ διδαχῇ, οὗτος καὶ τὸν πατέρα καὶ τὸν υἱὸν ἔχει.
 
@@ -529,7 +531,7 @@ Original words:
 |  | پایدار | [پایدار مانَد] G3306 | [پایدار مانَد] G3306 |
 |  | مانَد | [پایدار مانَد] G3306 | [پایدار مانَد] G3306 |
 |  | ، |  |  |
-| ✱ | هم |  | G2532 καί "and, also, both, but, even…" |
+|  | هم | G2532 | G2532 |
 |  | پدر | G3962 | G3962 |
 |  | را |  |  |
 |  | دارد | G2192 | G2192 |
@@ -541,7 +543,7 @@ Original words:
 
 ### II John 1:10: 3 word(s) changed
 
-Reply line 11.
+Reply line 11. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: εἴ τις ἔρχεται πρὸς ὑμᾶς καὶ ταύτην τὴν διδαχὴν οὐ φέρει, μὴ λαμβάνετε αὐτὸν εἰς οἰκίαν καὶ χαίρειν αὐτῷ μὴ λέγετε·
 
@@ -587,16 +589,16 @@ Original words:
 |  | را |  |  |
 |  | به | G1519 | G1519 |
 |  | خانۀ | G3614 | G3614 |
-|  | خود |  |  |
+| ✱ | خود | G846 αὐτός "her, it(-self), one…" |  |
 | ✱ | مپذیرید | G2983 λαμβάνω "accept, + be amazed, assay…" | G3361 μή "any but (that), forbear…"; G2983 λαμβάνω "accept, + be amazed, assay…" |
 |  | و | G2532 | G2532 |
-| ✱ | خوشامدش | G5463 χαίρω "farewell, be glad, God speed…" | G5463 χαίρω "farewell, be glad, God speed…"; G846 αὐτός "her, it(-self), one…" |
-| ✱ | مگویید |  | G3361 μή "any but (that), forbear…"; G3004 λέγω "ask, bid, boast, call…" |
+|  | خوشامدش | G5463 G846 | G5463 G846 |
+| ✱ | مگویید | G3004 λέγω "ask, bid, boast, call…" | G3361 μή "any but (that), forbear…"; G3004 λέγω "ask, bid, boast, call…" |
 |  | ؛ |  |  |
 
-### II John 1:11: 4 word(s) changed
+### II John 1:11: 2 word(s) changed
 
-Reply line 12.
+Reply line 12. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: ὁ λέγων γὰρ αὐτῷ χαίρειν κοινωνεῖ τοῖς ἔργοις αὐτοῦ τοῖς πονηροῖς.
 
@@ -618,23 +620,23 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | زیرا | G1063 | G1063 |
-| ✱ | آن | [آن که] G3004 λέγω "ask, bid, boast, call…"; G5463 χαίρω "farewell, be glad, God speed…" | [آن که]  |
-| ✱ | که | [آن که] G3004 λέγω "ask, bid, boast, call…"; G5463 χαίρω "farewell, be glad, God speed…" | [آن که]  |
+| ✱ | آن |  | [آن که]  |
+| ✱ | که | G3004 λέγω "ask, bid, boast, call…" | [آن که]  |
 |  | او | G846 | G846 |
 |  | را |  |  |
 |  | خوشامد | G5463 | G5463 |
-| ✱ | گوید |  | G3004 λέγω "ask, bid, boast, call…" |
+|  | گوید | G3004 | G3004 |
 |  | ، |  |  |
 |  | در |  |  |
 |  | اعمال | G2041 | G2041 |
-| ✱ | بدش | G4190 πονηρός "bad, evil, grievous, harm…" | G846 αὐτός "her, it(-self), one…"; G4190 πονηρός "bad, evil, grievous, harm…" |
+|  | بدش | G846 G4190 | G846 G4190 |
 |  | شریک | [شریک می‌شود] G2841 | [شریک می‌شود] G2841 |
 |  | می‌شود | [شریک می‌شود] G2841 | [شریک می‌شود] G2841 |
 |  | . |  |  |
 
 ### II John 1:12: 9 word(s) changed
 
-Reply line 13.
+Reply line 13. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: Πολλὰ ἔχων ὑμῖν γράφειν οὐκ ἐβουλήθην διὰ χάρτου καὶ μέλανος, ἀλλὰ ἐλπίζω γενέσθαι πρὸς ὑμᾶς καὶ στόμα πρὸς στόμα λαλῆσαι, ἵνα ἡ χαρὰ ἡμῶν πεπληρωμένη ᾖ.
 
@@ -689,7 +691,7 @@ Original words:
 |  | امّا | G235 | G235 |
 |  | امیدوارم | G1679 | G1679 |
 | ✱ | نزدتان | G4314 πρός "about, according to , against…" | G4314 πρός "about, according to , against…"; G5210 ὑμεῖς "ye (yourselves), you" |
-| ✱ | بیایم |  | G1096 γίνομαι "arise, be assembled, be(-come…" |
+| ✱ | بیایم | G5210 ὑμεῖς "ye (yourselves), you" | G1096 γίνομαι "arise, be assembled, be(-come…" |
 |  | و | G2532 | G2532 |
 | ✱ | رویاروی | G4750 στόμα "edge, face, mouth" | G4750 στόμα "edge, face, mouth"; G4314 πρός "about, according to , against…" |
 |  | گفتگو | [گفتگو کنیم] G2980 | [گفتگو کنیم] G2980 |
@@ -700,9 +702,9 @@ Original words:
 | ✱ | شود | [کامل شود] G4137 πληρόω "accomplish, after…" | [کامل شود] G4137 πληρόω "accomplish, after…"; G1510 εἰμί "am, have been, it is I, was" |
 |  | . |  |  |
 
-### II John 1:13: 2 word(s) changed
+### II John 1:13: 1 word(s) changed
 
-Reply line 14. Uses numbers from Greek variant readings: G281 (TR).
+Reply line 14. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead. Uses numbers from Greek variant readings: G281 (TR).
 
 Original: ἀσπάζεταί σε τὰ τέκνα τῆς ἀδελφῆς σου τῆς ἐκλεκτῆς. ⟨αμην⟩
 
@@ -732,6 +734,6 @@ Original words:
 |  | می‌فرستند | [سلام می‌فرستند] G782 | [سلام می‌فرستند] G782 |
 |  | . |  |  |
 |  | [ |  |  |
-| ✱ | آمین |  | G281 ἀμήν "amen, verily" (variant reading, TR) |
+|  | آمین | G281 | G281 |
 |  | ! |  |  |
 |  | ] |  |  |

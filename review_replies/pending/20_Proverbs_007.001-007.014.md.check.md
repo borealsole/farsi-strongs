@@ -1,12 +1,12 @@
 # Check of 20_Proverbs_007.001-007.014.md
 
-Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-06 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
 ## 11 verse(s) with changes
 
-### Proverbs 7:2: 5 word(s) changed
+### Proverbs 7:2: 3 word(s) changed
 
-Reply line 2.
+Reply line 2. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: שְׁמֹר מִצְוֺתַ/י וֶ/חְיֵה וְ/תוֹרָתִ/י כְּ/אִישׁוֹן עֵינֶי/ךָ
 
@@ -27,8 +27,8 @@ Original words:
 |  | نگاه | [نگاه دار] H8104 | [نگاه دار] H8104 |
 |  | دار | [نگاه دار] H8104 | [نگاه دار] H8104 |
 | ✱ | تا |  | Hc "and" |
-| ✱ | زنده | H2421 חָיָה "to live…" | [زنده بمانی] H2421 חָיָה "to live…" |
-| ✱ | بمانی |  | [زنده بمانی] H2421 חָיָה "to live…" |
+|  | زنده | [زنده بمانی] H2421 | [زنده بمانی] H2421 |
+|  | بمانی | [زنده بمانی] H2421 | [زنده بمانی] H2421 |
 |  | ؛ |  |  |
 |  | تعلیمات | H8451 | H8451 |
 |  | مرا |  |  |
@@ -40,9 +40,9 @@ Original words:
 | ✱ | دار |  | [پاس دار] H8104 שָׁמַר "properly…" |
 |  | . |  |  |
 
-### Proverbs 7:4: 1 word(s) changed
+### Proverbs 7:4: 4 word(s) changed
 
-Reply line 3.
+Reply line 3. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: אֱמֹר לַ/חָכְמָה אֲחֹתִ/י אָתְּ וּ/מֹדָע לַ/בִּינָה תִקְרָא
 
@@ -66,20 +66,20 @@ Original words:
 |  | « |  |  |
 | ✱ | تو |  | H859 אַתָּה "thou and thee…" |
 |  | خواهر | H269 | H269 |
-|  | منی |  |  |
+| ✱ | منی | H859 אַתָּה "thou and thee…" |  |
 |  | » |  |  |
 |  | ، |  |  |
 |  | و | Hc | Hc |
 |  | فهم | H998 | H998 |
 |  | را |  |  |
-|  | دوست | [دوست خویش] H4129 | [دوست خویش] H4129 |
-|  | خویش | [دوست خویش] H4129 | [دوست خویش] H4129 |
+| ✱ | دوست | H4129 מוֹדַע "an acquaintance" | [دوست خویش] H4129 מוֹדַע "an acquaintance" |
+| ✱ | خویش |  | [دوست خویش] H4129 מוֹדַע "an acquaintance" |
 |  | بخوان | H7121 | H7121 |
 |  | . |  |  |
 
-### Proverbs 7:5: 8 word(s) changed
+### Proverbs 7:5: 4 word(s) changed
 
-Reply line 4.
+Reply line 4. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: לִ/שְׁמָרְ/ךָ מֵ/אִשָּׁה זָרָה מִ/נָּכְרִיָּה אֲמָרֶי/הָ הֶחֱלִיקָה
 
@@ -95,18 +95,18 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | تا |  | Hl "to" |
+|  | تا | Hl | Hl |
 |  | تو |  |  |
 |  | را |  |  |
-| ✱ | از |  | Hm "from" |
+|  | از | Hm | Hm |
 |  | زن | H802 | H802 |
-| ✱ | زناکار | H802 אִשָּׁה "a woman"; H2114 זוּר "to turn aside (especially for…" | H2114 זוּר "to turn aside (especially for…" |
+|  | زناکار | H2114 | H2114 |
 |  | حفظ | [حفظ کنند] H8104 | [حفظ کنند] H8104 |
 |  | کنند | [حفظ کنند] H8104 | [حفظ کنند] H8104 |
 |  | ، |  |  |
 |  | و |  |  |
-| ✱ | از |  | Hm "from" |
-| ✱ | زن |  | [زن بیگانه] H5237 נׇכְרִי "strange…" |
+|  | از | Hm | Hm |
+| ✱ | زن | H802 אִשָּׁה "a woman" | [زن بیگانه] H5237 נׇכְרִי "strange…" |
 | ✱ | بیگانه | H5237 נׇכְרִי "strange…" | [زن بیگانه] H5237 נׇכְרִי "strange…" |
 |  | که |  |  |
 |  | سخنان | H561 | H561 |
@@ -114,9 +114,9 @@ Original words:
 | ✱ | می‌گوید |  | [تملّق‌آمیز می‌گوید] H2505 חָלַק "to be smooth (figuratively)…" |
 |  | . |  |  |
 
-### Proverbs 7:6: 6 word(s) changed
+### Proverbs 7:6: 3 word(s) changed
 
-Reply line 5.
+Reply line 5. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: כִּי בְּ/חַלּוֹן בֵּיתִ/י בְּעַד אֶשְׁנַבִּ/י נִשְׁקָפְתִּי
 
@@ -133,8 +133,8 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | زیرا | H3588 | H3588 |
-| ✱ | از |  | Hb "in" |
-| ✱ | پنجرۀ | H822 אֶשְׁנָב "a latticed window" | H2474 חַלּוֹן "a window (as perforated)" |
+|  | از | Hb | Hb |
+|  | پنجرۀ | H2474 | H2474 |
 |  | خانۀ | H1004 | H1004 |
 |  | خویش |  |  |
 |  | و |  |  |
@@ -145,11 +145,11 @@ Original words:
 |  | ، |  |  |
 | ✱ | بیرون | H822 אֶשְׁנָב "a latticed window" | H8259 שָׁקַף "properly…" |
 |  | را |  |  |
-| ✱ | نگریستم | H1157 בְּעַד "in up to or over against…"; H8259 שָׁקַף "properly…" | H8259 שָׁקַף "properly…" |
+|  | نگریستم | H8259 | H8259 |
 
 ### Proverbs 7:7: 4 word(s) changed
 
-Reply line 6.
+Reply line 6. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: וָ/אֵרֶא בַ/פְּתָאיִם אָבִינָה בַ/בָּנִים נַעַר חֲסַר לֵב
 
@@ -167,21 +167,21 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | و | Hc | Hc |
-| ✱ | در |  | [در میان] Hb "in" |
+| ✱ | در | Hb "in" | [در میان] Hb "in" |
 | ✱ | میان |  | [در میان] Hb "in" |
 |  | ساده‌لوحان | H6612 | H6612 |
 |  | ، |  |  |
-| ✱ | در |  | [در بین] Hb "in" |
-| ✱ | بین |  | [در بین] Hb "in" |
+| ✱ | در | Hb "in" | [در بین] Hb "in" |
+| ✱ | بین | H995 בִּין "to separate mentally (or…" | [در بین] Hb "in" |
 |  | جوانان | H1121 | H1121 |
 |  | ، |  |  |
 |  | جوانی | H5288 | H5288 |
 |  | کم‌عقل | H2638 H3820 | H2638 H3820 |
 |  | دیدم | H7200 | H7200 |
 
-### Proverbs 7:8: 3 word(s) changed
+### Proverbs 7:8: 1 word(s) changed
 
-Reply line 7.
+Reply line 7. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: עֹבֵר בַּ/שּׁוּק אֵצֶל פִּנָּ/הּ וְ/דֶרֶךְ בֵּיתָ/הּ יִצְעָד
 
@@ -199,13 +199,13 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | که |  |  |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | کوچه | H7784 | H7784 |
 |  | از |  |  |
 |  | نزدیکی | H681 | H681 |
 |  | گوشۀ | H6438 | H6438 |
 |  | او |  |  |
-| ✱ | می‌گذشت |  | H5674 עָבַר "to cross over…" |
+|  | می‌گذشت | H5674 | H5674 |
 |  | و | Hc | Hc |
 |  | از |  |  |
 |  | راهِ | H1870 | H1870 |
@@ -216,7 +216,7 @@ Original words:
 
 ### Proverbs 7:9: 5 word(s) changed
 
-Reply line 8.
+Reply line 8. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: בְּ/נֶשֶׁף בְּ/עֶרֶב יוֹם בְּ/אִישׁוֹן לַיְלָה וַ/אֲפֵלָה
 
@@ -234,9 +234,9 @@ Original words:
 | --- | --- | --- | --- |
 | ✱ | شامگاهان | H5399 נֶשֶׁף "properly, a breeze…"; H6153 עֶרֶב "dusk" | Hb "in"; H5399 נֶשֶׁף "properly, a breeze…" |
 |  | ، |  |  |
-|  | آنگاه |  |  |
+| ✱ | آنگاه | Hb "in" |  |
 |  | که |  |  |
-| ✱ | روز | H6153 עֶרֶב "dusk"; H3117 יוֹם "a day (as the warm hours)…" | H3117 יוֹם "a day (as the warm hours)…" |
+|  | روز | H3117 | H3117 |
 | ✱ | رنگ |  | [رنگ می‌باخت] H6153 עֶרֶב "dusk" |
 | ✱ | می‌باخت | H380 אִישׁוֹן "the little man of the eye…" | [رنگ می‌باخت] H6153 עֶרֶב "dusk" |
 |  | و | Hc | Hc |
@@ -246,9 +246,9 @@ Original words:
 |  | می‌گسترد |  |  |
 |  | . |  |  |
 
-### Proverbs 7:10: 5 word(s) changed
+### Proverbs 7:10: 3 word(s) changed
 
-Reply line 9.
+Reply line 9. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: וְ/הִנֵּה אִשָּׁה לִ/קְרָאת/וֹ שִׁית זוֹנָה וּ/נְצֻרַת לֵב
 
@@ -272,20 +272,20 @@ Original words:
 |  | به | Hl | Hl |
 |  | دیدار | H7125 | H7125 |
 |  | او |  |  |
-|  | آمد |  |  |
+| ✱ | آمد | H7125 קִרְאָה "an encountering, accidental…" |  |
 |  | ، |  |  |
-| ✱ | در | H7897 שִׁית "a dress (as put on)" |  |
+|  | در |  |  |
 | ✱ | لباس | [لباس فاحشه] H2181 זָנָה "to commit adultery (usually…" | H7897 שִׁית "a dress (as put on)" |
 | ✱ | فاحشه | [لباس فاحشه] H2181 זָנָה "to commit adultery (usually…" | H2181 זָנָה "to commit adultery (usually…" |
 |  | ، |  |  |
-| ✱ | با | H5341 נָצַר "to guard…" | Hc "and" |
-| ✱ | خباثت |  | H5341 נָצַר "to guard…" |
+|  | با | Hc | Hc |
+|  | خباثت | H5341 | H5341 |
 |  | دل | H3820 | H3820 |
 |  | . |  |  |
 
-### Proverbs 7:11: 3 word(s) changed
+### Proverbs 7:11: 2 word(s) changed
 
-Reply line 10.
+Reply line 10. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: הֹמִיָּה הִיא וְ/סֹרָרֶת בְּ/בֵיתָ/הּ לֹא יִשְׁכְּנוּ רַגְלֶי/הָ
 
@@ -309,7 +309,7 @@ Original words:
 |  | ، |  |  |
 |  | که |  |  |
 |  | پاهایش | H7272 | H7272 |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | خانه | H1004 | H1004 |
 | ✱ | تاب |  | [تاب نمی‌آورَد] H3808 לֹא "not (the simple or abs.…"; H7931 שָׁכַן "to reside or permanently stay…" |
 | ✱ | نمی‌آورَد | H3808 לֹא "not (the simple or abs.…"; H7931 שָׁכַן "to reside or permanently stay…" | [تاب نمی‌آورَد] H3808 לֹא "not (the simple or abs.…"; H7931 שָׁכַן "to reside or permanently stay…" |
@@ -317,7 +317,7 @@ Original words:
 
 ### Proverbs 7:12: 4 word(s) changed
 
-Reply line 11.
+Reply line 11. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: פַּעַם בַּ/חוּץ פַּעַם בָּ/רְחֹבוֹת וְ/אֵצֶל כָּל פִּנָּה תֶאֱרֹב
 
@@ -350,9 +350,9 @@ Original words:
 | ✱ | است | [کمین است] H693 אָרַב "to lurk" | [به کمین است] H693 אָרַב "to lurk" |
 |  | . |  |  |
 
-### Proverbs 7:14: 2 word(s) changed
+### Proverbs 7:14: 4 word(s) changed
 
-Reply line 12.
+Reply line 12. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: זִבְחֵי שְׁלָמִים עָלָ/י הַ/יּוֹם שִׁלַּמְתִּי נְדָרָ/י
 
@@ -375,10 +375,10 @@ Original words:
 |  | رفاقت | H8002 | H8002 |
 |  | است |  |  |
 |  | ؛ |  |  |
-|  | زیرا |  |  |
+| ✱ | زیرا | H5921 עַל "above, over, upon…" |  |
 |  | امروز | H3117 | H3117 |
-| ✱ | نذرهایم | H8002 שֶׁלֶם "properly, requital…"; H5088 נֶדֶר "a promise (to God)…" | H5088 נֶדֶר "a promise (to God)…" |
+|  | نذرهایم | H5088 | H5088 |
 |  | را |  |  |
-|  | ادا | [ادا کرده‌ام] H7999 | [ادا کرده‌ام] H7999 |
-|  | کرده‌ام | [ادا کرده‌ام] H7999 | [ادا کرده‌ام] H7999 |
+| ✱ | ادا | H7999 שָׁלַם "to be safe (in mind…"; H5088 נֶדֶר "a promise (to God)…" | [ادا کرده‌ام] H7999 שָׁלַם "to be safe (in mind…" |
+| ✱ | کرده‌ام |  | [ادا کرده‌ام] H7999 שָׁלַם "to be safe (in mind…" |
 |  | . |  |  |

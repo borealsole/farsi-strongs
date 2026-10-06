@@ -95,7 +95,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: پسران  → H1121
-- p2: لاوی
+- p2: لاوی  → H3878
 - p3: ،
 - p4: جِرشون  → H1648
 - p5: ،
@@ -168,7 +168,7 @@ Persian entries and current tags:
 - p15: ،
 - p16: اَبیهو  → H30
 - p17: ،
-- p18: اِلعازار
+- p18: اِلعازار  → H499
 - p19: و  → Hc
 - p20: ایتامار  → H385
 - p21: بودند
@@ -351,7 +351,7 @@ Persian entries and current tags:
 - p4: عَزَریا  → H5838
 - p5: ؛
 - p6: عَزَریا  → H5838
-- p7: در
+- p7: در  → Hb
 - p8: معبدی  → H1004
 - p9: که  → H834
 - p10: سلیمان  → H8010
@@ -382,7 +382,7 @@ Persian entries and current tags:
 - p1: عَزَریا  → H5838
 - p2: پدر  → H3205
 - p3: اَمَریا  → H568
-- p4: بود
+- p4: بود  → H3205
 - p5: ،
 - p6: اَمَریا  → H568
 - p7: پدر  → H3205
@@ -484,7 +484,7 @@ Original words:
 Persian entries and current tags:
 - p1: یِهوصاداق  → H3087
 - p2: ،
-- p3: آنگاه
+- p3: آنگاه  → Hc
 - p4: که
 - p5: خداوند  → H3068
 - p6: یهودا  → H3063
@@ -494,7 +494,7 @@ Persian entries and current tags:
 - p10: به  → Hb
 - p11: دست  → H3027
 - p12: نبوکدنصر  → H5019
-- p13: به
+- p13: به  → Hb
 - p14: تبعید  → H1540
 - p15: فرستاد
 - p16: ،
@@ -517,7 +517,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: پسران  → H1121
-- p2: لاوی  → H1647
+- p2: لاوی  → H3878
 - p3: ،
 - p4: جِرشوم  → H1647
 - p5: ،

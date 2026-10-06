@@ -116,7 +116,7 @@ Persian entries and current tags:
 ### Psalms 38:2
 
 Original: כִּי חִצֶּי/ךָ נִחֲתוּ בִ/י וַ/תִּנְחַת עָלַ/י יָדֶ/ךָ
-Persian: زیرا که تیرهای تو در من نشسته، و دستت بر من فرود آمده_است.
+Persian: زیرا که تیرهای تو در من نشسته، و دستت بر من فرود آمده است.
 
 Original words:
 - o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
@@ -132,15 +132,15 @@ Persian entries and current tags:
 - p2: که
 - p3: تیرهای  → H2671
 - p4: تو
-- p5: در
+- p5: در  → Hb
 - p6: من
-- p7: نشسته
+- p7: نشسته  → H5181
 - p8: ،
 - p9: و  → Hc
 - p10: دستت  → H3027
 - p11: بر  → H5921
 - p12: من
-- p13: فرود آمده_است  → H5181
+- p13: فرود آمده است  → H5181
 - p14: .
 
 ### Psalms 38:3
@@ -174,13 +174,13 @@ Persian entries and current tags:
 - p11: ؛
 - p12: و
 - p13: نه  → H369
-- p14: سلامتی  → H4974 H7965
-- p15: در
+- p14: سلامتی  → H7965
+- p15: در  → Hb
 - p16: استخوانهایم  → H6106
 - p17: ،
 - p18: به
 - p19: سبب  → H6440
-- p20: گناه  → H2195 H2403
+- p20: گناه  → H2403
 - p21: .
 
 ### Psalms 38:4
@@ -200,14 +200,14 @@ Original words:
 
 Persian entries and current tags:
 - p1: تقصیراتم  → H5771
-- p2: از
+- p2: از  → H5674
 - p3: سَرَم  → H5771 H7218
 - p4: گذشته  → H5674
 - p5: ،
 - p6: همچون  → Hk
 - p7: باری  → H3515
-- p8: گران  → H4853
-- p9: از
+- p8: گران
+- p9: از  → H4480
 - p10: طاقتم  → H4853
 - p11: سنگینتر  → H3515 H3513
 - p12: است
@@ -216,7 +216,7 @@ Persian entries and current tags:
 ### Psalms 38:5
 
 Original: הִבְאִישׁוּ נָמַקּוּ חַבּוּרֹתָ/י מִ/פְּנֵי אִוַּלְתִּ/י
-Persian: زخمهایم به سبب حماقتم به چرک نشسته و نفرت‌انگیز شده_است.
+Persian: زخمهایم به سبب حماقتم به چرک نشسته و نفرت‌انگیز شده است.
 
 Original words:
 - o1: הִבְאִישׁוּ = H887 בָּאַשׁ "to smell bad…" [HVhp3cp]
@@ -235,7 +235,7 @@ Persian entries and current tags:
 - p7: نشسته  → H887
 - p8: و
 - p9: نفرت‌انگیز  → H4743 H200
-- p10: شده_است
+- p10: شده است
 - p11: .
 
 ### Psalms 38:6
@@ -255,7 +255,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: به
-- p2: خود  → H7817
+- p2: خود
 - p3: می‌پیچم
 - p4: و
 - p5: بسیار  → H3966
@@ -263,7 +263,7 @@ Persian entries and current tags:
 - p7: ؛
 - p8: همۀ  → H3605
 - p9: روز  → H3117
-- p10: ماتم‌کنان  → H7817 H6937
+- p10: ماتم‌کنان  → H6937
 - p11: می‌گردم  → H1980
 - p12: .
 
@@ -289,7 +289,7 @@ Persian entries and current tags:
 - p5: ،
 - p6: و  → Hc
 - p7: در  → Hb
-- p8: تن  → H3689 H1320
+- p8: تن  → H1320
 - p9: من
 - p10: صحتی  → H4974
 - p11: نیست  → H369
@@ -314,7 +314,7 @@ Persian entries and current tags:
 - p2: در
 - p3: من
 - p4: نمانده  → H1794 H3966
-- p5: و  → Hc
+- p5: و
 - p6: سخت  → H3966
 - p7: کوفته شده‌ام  → H6313
 - p8: ؛
@@ -351,15 +351,16 @@ Persian entries and current tags:
 - p7: توست
 - p8: ؛
 - p9: ناله‌هایم  → H585
-- p10: از
+- p10: از  → H4480
 - p11: تو
-- p12: پنهان نیست  → H5641
-- p13: .
+- p12: پنهان  → H5641
+- p13: نیست  → H3808
+- p14: .
 
 ### Psalms 38:10
 
 Original: לִבִּ/י סְחַרְחַר עֲזָבַ/נִי כֹחִ/י וְ/אוֹר עֵינַ/י גַּם הֵם אֵין אִתִּ/י
-Persian: دلم در سینه به تندی می‌تپد، توانم از من رخت برکشیده، نورِ دیدگانم تباه شده_است.
+Persian: دلم در سینه به تندی می‌تپد، توانم از من رخت برکشیده، نورِ دیدگانم تباه شده است.
 
 Original words:
 - o1: לִבִּ/י = H3820 לֵב "the heart…" [HNcmsc/Sp1cs]
@@ -376,12 +377,12 @@ Original words:
 Persian entries and current tags:
 - p1: دلم  → H3820
 - p2: در
-- p3: سینه
+- p3: سینه  → H3581
 - p4: به
 - p5: تندی
 - p6: می‌تپد  → H5503
 - p7: ،
-- p8: توانم
+- p8: توانم  → H3581
 - p9: از
 - p10: من
 - p11: رخت  → H1992
@@ -390,7 +391,7 @@ Persian entries and current tags:
 - p14: نورِ  → H216
 - p15: دیدگانم  → H5869
 - p16: تباه
-- p17: شده_است  → H369
+- p17: شده است  → H369
 - p18: .
 
 ### Psalms 38:11
@@ -411,13 +412,13 @@ Original words:
 Persian entries and current tags:
 - p1: دوستان  → H157 H7453
 - p2: و  → Hc
-- p3: رفیقانم
+- p3: رفیقانم  → H7453
 - p4: از  → Hm
 - p5: زخمهایم  → H5061
 - p6: کناره  → H5048
 - p7: می‌جویند  → H5975
 - p8: ؛
-- p9: نزدیکانم  → H7453 H7138
+- p9: نزدیکانم  → H7138
 - p10: دور  → H7350
 - p11: می‌ایستند  → H5975
 - p12: .
@@ -482,7 +483,7 @@ Persian entries and current tags:
 - p2: من  → H589
 - p3: همچون  → Hk
 - p4: کَرانم  → H2795
-- p5: و
+- p5: و  → H3808
 - p6: نمی‌شنوم  → H8085
 - p7: ،
 - p8: و  → Hc
@@ -491,7 +492,7 @@ Persian entries and current tags:
 - p11: ،
 - p12: که
 - p13: دهان  → H6310
-- p14: نتوانند
+- p14: نتوانند  → H3808
 - p15: گشود  → H6605
 - p16: ؛
 
@@ -530,7 +531,7 @@ Persian entries and current tags:
 ### Psalms 38:15
 
 Original: כִּי לְ/ךָ יְהוָה הוֹחָלְתִּי אַתָּה תַעֲנֶה אֲדֹנָ/י אֱלֹהָ/י
-Persian: در انتظار توام، خداوندا؛ تو ای خداوندگارْ خدایم، پاسخ خواهی_داد.
+Persian: در انتظار توام، خداوندا؛ تو ای خداوندگارْ خدایم، پاسخ خواهی داد.
 
 Original words:
 - o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
@@ -543,7 +544,7 @@ Original words:
 - o8: אֱלֹהָ/י = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp1cs]
 
 Persian entries and current tags:
-- p1: در
+- p1: در  → Hl
 - p2: انتظار  → H3176
 - p3: توام
 - p4: ،
@@ -554,7 +555,7 @@ Persian entries and current tags:
 - p9: خداوندگارْ  → H136
 - p10: خدایم  → H430
 - p11: ،
-- p12: پاسخ خواهی_داد  → H6030
+- p12: پاسخ خواهی داد  → H6030
 - p13: .
 
 ### Psalms 38:16
@@ -582,12 +583,12 @@ Persian entries and current tags:
 - p6: پایم  → H7272
 - p7: بلغزد  → H4131
 - p8: ،
-- p9: مگذار
+- p9: مگذار  → H6435
 - p10: بر  → H5921
 - p11: من
 - p12: شادی کنند  → H8055
 - p13: و
-- p14: فخر  → H7272 H1431
+- p14: فخر  → H1431
 - p15: فروشند  → H4131
 - p16: .
 - p17: »
@@ -611,7 +612,7 @@ Persian entries and current tags:
 - p2: که
 - p3: نزدیک
 - p4: است
-- p5: بیفتم
+- p5: بیفتم  → H6761
 - p6: ،
 - p7: و  → Hc
 - p8: دردم  → H4341
@@ -634,7 +635,7 @@ Original words:
 - o5: מֵ/חַטָּאתִ/י = Hm "from" + H2403 חַטָּאָה "an offence (sometimes habitual sinfulness)…" [HR/Ncfsc/Sp1cs]
 
 Persian entries and current tags:
-- p1: به  → H5046
+- p1: به
 - p2: تقصیر  → H5771
 - p3: خود
 - p4: معترفم  → H5046
@@ -662,7 +663,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: دشمنانم  → H341
-- p2: سرزنده  → H2416
+- p2: سرزنده  → H2416 H6105
 - p3: و  → Hc
 - p4: بسیارند  → H6105
 - p5: ؛
@@ -701,17 +702,17 @@ Persian entries and current tags:
 - p7: بدی  → H7451
 - p8: بر
 - p9: من
-- p10: روا می‌دارند  → H7291
-- p11: ،
-- p12: چون  → H8478
-- p13: در
-- p14: پی  → H7291
-- p15: نیکویی‌ام  → H2896
-- p16: ،
-- p17: بر
-- p18: من
-- p19: اتهام
-- p20: می‌زنند
+- p10: روا
+- p11: می‌دارند
+- p12: ،
+- p13: چون  → H8478
+- p14: در
+- p15: پی  → H7291
+- p16: نیکویی‌ام  → H2896
+- p17: ،
+- p18: بر
+- p19: من
+- p20: اتهام می‌زنند  → H7853
 - p21: .
 
 ### Psalms 38:21
@@ -756,7 +757,7 @@ Original words:
 - o4: תְּשׁוּעָתִ/י = H8668 תְּשׁוּעָה "rescue (literal or figurative, persons…" [HNcfsc/Sp1cs]
 
 Persian entries and current tags:
-- p1: به  → H2363 Hl
+- p1: به  → Hl
 - p2: یاری‌ام  → H5833
 - p3: بشتاب  → H2363
 - p4: ،

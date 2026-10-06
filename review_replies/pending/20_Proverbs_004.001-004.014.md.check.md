@@ -1,16 +1,16 @@
 # Check of 20_Proverbs_004.001-004.014.md
 
-Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-06 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
 ## 14 verse(s) with changes
 
-### Proverbs 4:1: 8 word(s) changed
+### Proverbs 4:1: 7 word(s) changed
 
-Reply line 2.
+Reply line 2. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: שִׁמְעוּ בָנִים מוּסַר אָב וְ/הַקְשִׁיבוּ לָ/דַעַת בִּינָה
 
-Persian: ای پسران، به رهنمود یک پدر گوش فرا~دهید؛ توجه کنید تا فهم را به دست آورید.
+Persian: ای پسران، به رهنمود یک پدر گوش فرا دهید؛ توجه کنید تا فهم را به دست آورید.
 
 Original words:
 - o1: שִׁמְעוּ = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqv2mp]
@@ -24,28 +24,29 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 | ✱ | ای | H8085 שָׁמַע "to hear intelligently (often…" |  |
-| ✱ | پسران | H1121 בֵּן "a son (as a builder of the…"; H4148 מוּסָר "properly, chastisement…" | H1121 בֵּן "a son (as a builder of the…" |
+|  | پسران | H1121 | H1121 |
 |  | ، |  |  |
 |  | به |  |  |
 |  | رهنمود | H4148 | H4148 |
 |  | یک |  |  |
 |  | پدر | H1 | H1 |
-| ✱ | گوش |  | [گوش فرا~دهید] H8085 שָׁמַע "to hear intelligently (often…" |
-| ✱ | فرا~دهید |  | [گوش فرا~دهید] H8085 שָׁמַע "to hear intelligently (often…" |
+| ✱ | گوش | H7181 קָשַׁב "to prick up the ears…" | [گوش فرا دهید] H8085 שָׁמַע "to hear intelligently (often…" |
+| ✱ | فرا | [فرا دهید]  | [گوش فرا دهید] H8085 שָׁמַע "to hear intelligently (often…" |
+| ✱ | دهید | [فرا دهید]  | [گوش فرا دهید] H8085 שָׁמַע "to hear intelligently (often…" |
 |  | ؛ |  |  |
 |  | توجه | [توجه کنید] H7181 | [توجه کنید] H7181 |
 |  | کنید | [توجه کنید] H7181 | [توجه کنید] H7181 |
-| ✱ | تا |  | Hl "to" |
+|  | تا | Hl | Hl |
 |  | فهم | H998 | H998 |
 |  | را |  |  |
 | ✱ | به |  | [به دست آورید] H3045 יָדַע "to know (properly…" |
-| ✱ | دست | H3045 יָדַע "to know (properly…" | [به دست آورید] H3045 יָדַע "to know (properly…" |
-| ✱ | آورید | H7181 קָשַׁב "to prick up the ears…" | [به دست آورید] H3045 יָדַע "to know (properly…" |
+| ✱ | دست | [دست آورید] H3045 יָדַע "to know (properly…" | [به دست آورید] H3045 יָדַע "to know (properly…" |
+| ✱ | آورید | [دست آورید] H3045 יָדַע "to know (properly…" | [به دست آورید] H3045 יָדַע "to know (properly…" |
 |  | . |  |  |
 
-### Proverbs 4:2: 5 word(s) changed
+### Proverbs 4:2: 4 word(s) changed
 
-Reply line 3.
+Reply line 3. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: כִּי לֶקַח טוֹב נָתַתִּי לָ/כֶם תּוֹרָתִ/י אַל תַּעֲזֹבוּ
 
@@ -68,17 +69,17 @@ Original words:
 | ✱ | را |  | Hl "to" |
 |  | آموزشِ | H3948 | H3948 |
 |  | نیکو | H2896 | H2896 |
-| ✱ | می‌دهم |  | H5414 נָתַן "to give…" |
+|  | می‌دهم | H5414 | H5414 |
 |  | ، |  |  |
 |  | تعلیم | H8451 | H8451 |
 | ✱ | مرا | H408 אַל "not (the qualified negation…" |  |
-| ✱ | ترک | [ترک مکنید] H5800 עָזַב "to loosen, i.e. relinquish…" | [ترک مکنید] H408 אַל "not (the qualified negation…"; H5800 עָזַב "to loosen, i.e. relinquish…" |
-| ✱ | مکنید | [ترک مکنید] H5800 עָזַב "to loosen, i.e. relinquish…" | [ترک مکنید] H408 אַל "not (the qualified negation…"; H5800 עָזַב "to loosen, i.e. relinquish…" |
+| ✱ | ترک | H5800 עָזַב "to loosen, i.e. relinquish…" | [ترک مکنید] H408 אַל "not (the qualified negation…"; H5800 עָזַב "to loosen, i.e. relinquish…" |
+| ✱ | مکنید | H408 אַל "not (the qualified negation…"; H5800 עָזַב "to loosen, i.e. relinquish…" | [ترک مکنید] H408 אַל "not (the qualified negation…"; H5800 עָזַב "to loosen, i.e. relinquish…" |
 |  | . |  |  |
 
 ### Proverbs 4:3: 2 word(s) changed
 
-Reply line 4.
+Reply line 4. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: כִּי בֵן הָיִיתִי לְ/אָבִ/י רַךְ וְ/יָחִיד לִ/פְנֵי אִמִּ/י
 
@@ -114,9 +115,9 @@ Original words:
 |  | مادرم | H517 | H517 |
 |  | . |  |  |
 
-### Proverbs 4:4: 8 word(s) changed
+### Proverbs 4:4: 5 word(s) changed
 
-Reply line 5.
+Reply line 5. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: וַ/יֹּרֵ/נִי וַ/יֹּאמֶר לִ/י יִתְמָךְ דְּבָרַ/י לִבֶּ/ךָ שְׁמֹר מִצְוֺתַ/י וֶ/חְיֵה
 
@@ -145,7 +146,7 @@ Original words:
 |  | دل | H3820 | H3820 |
 |  | تو |  |  |
 |  | به |  |  |
-| ✱ | سخنان | H1697 דָּבָר "a word…"; H4687 מִצְוָה "a command…" | H1697 דָּבָר "a word…" |
+|  | سخنان | H1697 | H1697 |
 |  | من |  |  |
 | ✱ | تمسک |  | [تمسک جوید] H8551 תָּמַךְ "to sustain…" |
 | ✱ | جوید | H8551 תָּמַךְ "to sustain…" | [تمسک جوید] H8551 תָּמַךְ "to sustain…" |
@@ -155,13 +156,13 @@ Original words:
 |  | نگاه | [نگاه دار] H8104 | [نگاه دار] H8104 |
 |  | دار | [نگاه دار] H8104 | [نگاه دار] H8104 |
 | ✱ | تا |  | Hc "and" |
-| ✱ | زنده | H2421 חָיָה "to live…" | [زنده بمانی] H2421 חָיָה "to live…" |
-| ✱ | بمانی |  | [زنده بمانی] H2421 חָיָה "to live…" |
+|  | زنده | [زنده بمانی] H2421 | [زنده بمانی] H2421 |
+|  | بمانی | [زنده بمانی] H2421 | [زنده بمانی] H2421 |
 |  | . |  |  |
 
 ### Proverbs 4:5: 9 word(s) changed
 
-Reply line 6.
+Reply line 6. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: קְנֵה חָכְמָה קְנֵה בִינָה אַל תִּשְׁכַּח וְ/אַל תֵּט מֵ/אִמְרֵי פִ/י
 
@@ -188,14 +189,14 @@ Original words:
 |  | و |  |  |
 |  | فهم | H998 | H998 |
 |  | را |  |  |
-| ✱ | به | H7911 שָׁכַח "to mislay…" | [به دست آور] H7069 קָנָה "to erect, i.e. create…" |
+| ✱ | به |  | [به دست آور] H7069 קָנָה "to erect, i.e. create…" |
 | ✱ | دست |  | [به دست آور] H7069 קָנָה "to erect, i.e. create…" |
 | ✱ | آور |  | [به دست آور] H7069 קָנָה "to erect, i.e. create…" |
 |  | ؛ |  |  |
 |  | کلمات | H561 | H561 |
 |  | دهانم | H6310 | H6310 |
 |  | را |  |  |
-| ✱ | از |  | [از یاد مبر] H408 אַל "not (the qualified negation…"; H7911 שָׁכַח "to mislay…" |
+| ✱ | از | Hm "from" | [از یاد مبر] H408 אַל "not (the qualified negation…"; H7911 שָׁכַח "to mislay…" |
 | ✱ | یاد | H7911 שָׁכַח "to mislay…" | [از یاد مبر] H408 אַל "not (the qualified negation…"; H7911 שָׁכַח "to mislay…" |
 | ✱ | مبر | H408 אַל "not (the qualified negation…" | [از یاد مبر] H408 אַל "not (the qualified negation…"; H7911 שָׁכַח "to mislay…" |
 |  | و | Hc | Hc |
@@ -205,13 +206,13 @@ Original words:
 | ✱ | مورز |  | [انحراف مورز] H408 אַל "not (the qualified negation…"; H5186 נָטָה "to stretch or spread out…" |
 |  | . |  |  |
 
-### Proverbs 4:6: 2 word(s) changed
+### Proverbs 4:6: 4 word(s) changed
 
-Reply line 7.
+Reply line 7. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: אַל תַּעַזְבֶ/הָ וְ/תִשְׁמְרֶ/ךָּ אֱהָבֶ/הָ וְ/תִצְּרֶ/ךָּ
 
-Persian: ترکش مکن که نگاهبان تو خواهد_بود؛ دوستش بدار که از تو مراقبت خواهد_کرد.
+Persian: ترکش مکن که نگاهبان تو خواهد بود؛ دوستش بدار که از تو مراقبت خواهد کرد.
 
 Original words:
 - o1: אַל = H408 אַל "not (the qualified negation…" [HTn]
@@ -227,20 +228,22 @@ Original words:
 | ✱ | که |  | Hc "and" |
 |  | نگاهبان | H8104 | H8104 |
 |  | تو |  |  |
-|  | خواهد_بود | H8104 | H8104 |
+|  | خواهد | [خواهد بود] H8104 | [خواهد بود] H8104 |
+|  | بود | [خواهد بود] H8104 | [خواهد بود] H8104 |
 |  | ؛ |  |  |
-|  | دوستش | [دوستش بدار] H157 | [دوستش بدار] H157 |
-|  | بدار | [دوستش بدار] H157 | [دوستش بدار] H157 |
+| ✱ | دوستش | H157 אָהַב "to have affection for…" | [دوستش بدار] H157 אָהַב "to have affection for…" |
+| ✱ | بدار | H5341 נָצַר "to guard…" | [دوستش بدار] H157 אָהַב "to have affection for…" |
 | ✱ | که |  | Hc "and" |
 |  | از |  |  |
 |  | تو |  |  |
-|  | مراقبت | [مراقبت خواهد_کرد] H5341 | [مراقبت خواهد_کرد] H5341 |
-|  | خواهد_کرد | [مراقبت خواهد_کرد] H5341 | [مراقبت خواهد_کرد] H5341 |
+|  | مراقبت | [مراقبت خواهد کرد] H5341 | [مراقبت خواهد کرد] H5341 |
+|  | خواهد | [مراقبت خواهد کرد] H5341 | [مراقبت خواهد کرد] H5341 |
+|  | کرد | [مراقبت خواهد کرد] H5341 | [مراقبت خواهد کرد] H5341 |
 |  | . |  |  |
 
-### Proverbs 4:7: 6 word(s) changed
+### Proverbs 4:7: 8 word(s) changed
 
-Reply line 8.
+Reply line 8. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: רֵאשִׁית חָכְמָה קְנֵה חָכְמָה וּ/בְ/כָל קִנְיָנְ/ךָ קְנֵה בִינָה
 
@@ -263,7 +266,7 @@ Original words:
 |  | برترین | H7225 | H7225 |
 |  | است |  |  |
 |  | ، |  |  |
-|  | پس |  |  |
+| ✱ | پس | H7069 קָנָה "to erect, i.e. create…" |  |
 |  | حکمت | H2451 | H2451 |
 |  | را |  |  |
 | ✱ | به |  | [به دست آور] H7069 קָנָה "to erect, i.e. create…" |
@@ -271,24 +274,24 @@ Original words:
 | ✱ | آور |  | [به دست آور] H7069 קָנָה "to erect, i.e. create…" |
 |  | ؛ |  |  |
 | ✱ | به |  | Hb "in" |
-|  | بهای |  |  |
+| ✱ | بهای | Hb "in" |  |
 |  | همۀ | H3605 | H3605 |
 |  | دارایی | H7075 | H7075 |
 |  | خویش |  |  |
 |  | ، |  |  |
 |  | فهم | H998 | H998 |
 |  | را |  |  |
-| ✱ | کسب | H7069 קָנָה "to erect, i.e. create…" | [کسب کن] H7069 קָנָה "to erect, i.e. create…" |
+| ✱ | کسب | H7075 קִנְיָן "creation…"; H7069 קָנָה "to erect, i.e. create…" | [کسب کن] H7069 קָנָה "to erect, i.e. create…" |
 | ✱ | کن | H7069 קָנָה "to erect, i.e. create…" | [کسب کن] H7069 קָנָה "to erect, i.e. create…" |
 |  | . |  |  |
 
 ### Proverbs 4:8: 7 word(s) changed
 
-Reply line 9.
+Reply line 9. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: סַלְסְלֶ/הָ וּ/תְרוֹמְמֶ/ךָּ תְּכַבֵּדְ/ךָ כִּי תְחַבְּקֶ/נָּה
 
-Persian: آن را برافراز که تو را سرافراز خواهد_ساخت؛ آن را در بر گیر که تو را عزّت خواهد_بخشید.
+Persian: آن را برافراز که تو را سرافراز خواهد ساخت؛ آن را در بر گیر که تو را عزّت خواهد بخشید.
 
 Original words:
 - o1: סַלְסְלֶ/הָ = H5549 סָלַל "to mound up (especially a turnpike)…" [HVlv2ms/Sp3fs]
@@ -305,28 +308,30 @@ Original words:
 | ✱ | که |  | Hc "and" |
 |  | تو |  |  |
 |  | را |  |  |
-|  | سرافراز | [سرافراز خواهد_ساخت] H7311 | [سرافراز خواهد_ساخت] H7311 |
-|  | خواهد_ساخت | [سرافراز خواهد_ساخت] H7311 | [سرافراز خواهد_ساخت] H7311 |
+|  | سرافراز | [سرافراز خواهد ساخت] H7311 | [سرافراز خواهد ساخت] H7311 |
+|  | خواهد | [سرافراز خواهد ساخت] H7311 | [سرافراز خواهد ساخت] H7311 |
+|  | ساخت | [سرافراز خواهد ساخت] H7311 | [سرافراز خواهد ساخت] H7311 |
 |  | ؛ |  |  |
 |  | آن |  |  |
 |  | را |  |  |
 | ✱ | در |  | [در بر گیر] H2263 חָבַק "to clasp (the hands or in…" |
 | ✱ | بر |  | [در بر گیر] H2263 חָבַק "to clasp (the hands or in…" |
-| ✱ | گیر |  | [در بر گیر] H2263 חָבַק "to clasp (the hands or in…" |
-| ✱ | که |  | H3588 כִּי "by implication) very widely…" |
+| ✱ | گیر | H2263 חָבַק "to clasp (the hands or in…" | [در بر گیر] H2263 חָבַק "to clasp (the hands or in…" |
+|  | که | H3588 | H3588 |
 |  | تو |  |  |
 |  | را |  |  |
-| ✱ | عزّت | H2263 חָבַק "to clasp (the hands or in…" | [عزّت خواهد_بخشید] H3513 כָּבַד "to be heavy…" |
-| ✱ | خواهد_بخشید |  | [عزّت خواهد_بخشید] H3513 כָּבַד "to be heavy…" |
+| ✱ | عزّت | H2263 חָבַק "to clasp (the hands or in…" | [عزّت خواهد بخشید] H3513 כָּבַד "to be heavy…" |
+| ✱ | خواهد | [خواهد بخشید]  | [عزّت خواهد بخشید] H3513 כָּבַד "to be heavy…" |
+| ✱ | بخشید | [خواهد بخشید]  | [عزّت خواهد بخشید] H3513 כָּבַד "to be heavy…" |
 |  | . |  |  |
 
 ### Proverbs 4:9: 6 word(s) changed
 
-Reply line 10.
+Reply line 10. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: תִּתֵּן לְ/רֹאשְׁ/ךָ לִוְיַת חֵן עֲטֶרֶת תִּפְאֶרֶת תְּמַגְּנֶ/ךָּ
 
-Persian: تاج زیبایی بر سرت خواهد_نهاد و افسر جلال به تو خواهد_بخشید.»
+Persian: تاج زیبایی بر سرت خواهد نهاد و افسر جلال به تو خواهد بخشید.»
 
 Original words:
 - o1: תִּתֵּן = H5414 נָתַן "to give…" [HVqi3fs]
@@ -339,27 +344,29 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | تاج | H3880 | H3880 |
+| ✱ | تاج | H3880 לִוְיָה "something attached…"; H5850 עֲטָרָה "a crown" | H3880 לִוְיָה "something attached…" |
 | ✱ | زیبایی | H2580 חֵן "graciousness…"; H8597 תִּפְאָרָה "ornament (abstractly or…" | H2580 חֵן "graciousness…" |
 | ✱ | بر |  | Hl "to" |
-| ✱ | سرت |  | H7218 רֹאשׁ "the head (as most easily…" |
-|  | خواهد_نهاد | H5414 | H5414 |
+|  | سرت | H7218 | H7218 |
+|  | خواهد | [خواهد نهاد] H5414 | [خواهد نهاد] H5414 |
+|  | نهاد | [خواهد نهاد] H5414 | [خواهد نهاد] H5414 |
 |  | و |  |  |
 | ✱ | افسر | H5850 עֲטָרָה "a crown"; H4042 מָגַן "properly, to shield…" | H5850 עֲטָרָה "a crown" |
-| ✱ | جلال | H5850 עֲטָרָה "a crown"; H8597 תִּפְאָרָה "ornament (abstractly or…" | H8597 תִּפְאָרָה "ornament (abstractly or…" |
+|  | جلال | H8597 | H8597 |
 |  | به |  |  |
 |  | تو |  |  |
-| ✱ | خواهد_بخشید |  | H4042 מָגַן "properly, to shield…" |
+| ✱ | خواهد | [خواهد بخشید]  | [خواهد بخشید] H4042 מָגַן "properly, to shield…" |
+| ✱ | بخشید | [خواهد بخشید]  | [خواهد بخشید] H4042 מָגַן "properly, to shield…" |
 |  | . |  |  |
 |  | » |  |  |
 
 ### Proverbs 4:10: 3 word(s) changed
 
-Reply line 11.
+Reply line 11. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: שְׁמַע בְּנִ/י וְ/קַח אֲמָרָ/י וְ/יִרְבּוּ לְ/ךָ שְׁנוֹת חַיִּים
 
-Persian: پسرم! گوش فرا~ده و آنچه می‌گویم بپذیر که سالهای عمرت بسیار خواهد_شد.
+Persian: پسرم! گوش فرا ده و آنچه می‌گویم بپذیر که سالهای عمرت بسیار خواهد شد.
 
 Original words:
 - o1: שְׁמַע = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqv2ms]
@@ -375,8 +382,9 @@ Original words:
 | --- | --- | --- | --- |
 |  | پسرم | H1121 | H1121 |
 |  | ! |  |  |
-|  | گوش | [گوش فرا~ده] H8085 | [گوش فرا~ده] H8085 |
-|  | فرا~ده | [گوش فرا~ده] H8085 | [گوش فرا~ده] H8085 |
+|  | گوش | [گوش فرا ده] H8085 | [گوش فرا ده] H8085 |
+|  | فرا | [گوش فرا ده] H8085 | [گوش فرا ده] H8085 |
+|  | ده | [گوش فرا ده] H8085 | [گوش فرا ده] H8085 |
 |  | و | Hc | Hc |
 | ✱ | آنچه | H3947 לָקַח "to take (in the widest…" | [آنچه می‌گویم] H561 אֵמֶר "something said" |
 | ✱ | می‌گویم | H561 אֵמֶר "something said" | [آنچه می‌گویم] H561 אֵמֶר "something said" |
@@ -384,13 +392,14 @@ Original words:
 | ✱ | که |  | Hc "and" |
 |  | سالهای | H8141 | H8141 |
 |  | عمرت | H2416 | H2416 |
-|  | بسیار | [بسیار خواهد_شد] H7235 | [بسیار خواهد_شد] H7235 |
-|  | خواهد_شد | [بسیار خواهد_شد] H7235 | [بسیار خواهد_شد] H7235 |
+|  | بسیار | [بسیار خواهد شد] H7235 | [بسیار خواهد شد] H7235 |
+|  | خواهد | [بسیار خواهد شد] H7235 | [بسیار خواهد شد] H7235 |
+|  | شد | [بسیار خواهد شد] H7235 | [بسیار خواهد شد] H7235 |
 |  | . |  |  |
 
 ### Proverbs 4:11: 2 word(s) changed
 
-Reply line 12.
+Reply line 12. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: בְּ/דֶרֶךְ חָכְמָה הֹרֵתִי/ךָ הִדְרַכְתִּי/ךָ בְּ/מַעְגְּלֵי יֹשֶׁר
 
@@ -421,13 +430,13 @@ Original words:
 | ✱ | می‌کنم |  | [هدایتت می‌کنم] H1869 דָּרַךְ "to tread…" |
 |  | . |  |  |
 
-### Proverbs 4:12: 2 word(s) changed
+### Proverbs 4:12: 3 word(s) changed
 
-Reply line 13.
+Reply line 13. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: בְּ/לֶכְתְּ/ךָ לֹא יֵצַר צַעֲדֶ/ךָ וְ/אִם תָּרוּץ לֹא תִכָּשֵׁל
 
-Persian: چون در راه بروی، قدمهایت را مانعی نخواهد_بود؛ چون بدوی، نخواهی_لغزید.
+Persian: چون در راه بروی، قدمهایت را مانعی نخواهد بود؛ چون بدوی، نخواهی لغزید.
 
 Original words:
 - o1: בְּ/לֶכְתְּ/ךָ = Hb "in" + H3212 יָלַךְ "to walk (literally or figuratively)…" [HR/Vqc/Sp2ms]
@@ -442,28 +451,30 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 | ✱ | چون |  | Hb "in" |
-|  | در |  |  |
+| ✱ | در | Hb "in" |  |
 |  | راه |  |  |
 |  | بروی | H3212 | H3212 |
 |  | ، |  |  |
 |  | قدمهایت | H6806 | H6806 |
 |  | را |  |  |
 |  | مانعی | H3334 | H3334 |
-|  | نخواهد_بود | H3808 | H3808 |
+|  | نخواهد | [نخواهد بود] H3808 | [نخواهد بود] H3808 |
+|  | بود | [نخواهد بود] H3808 | [نخواهد بود] H3808 |
 |  | ؛ |  |  |
-| ✱ | چون |  | Hc "and"; H518 אִם "used very widely as…" |
+| ✱ | چون | H518 אִם "used very widely as…" | Hc "and"; H518 אִם "used very widely as…" |
 |  | بدوی | H7323 | H7323 |
 |  | ، |  |  |
-|  | نخواهی_لغزید | H3808 H3782 | H3808 H3782 |
+|  | نخواهی | [نخواهی لغزید] H3808 H3782 | [نخواهی لغزید] H3808 H3782 |
+|  | لغزید | [نخواهی لغزید] H3808 H3782 | [نخواهی لغزید] H3808 H3782 |
 |  | . |  |  |
 
-### Proverbs 4:13: 4 word(s) changed
+### Proverbs 4:13: 6 word(s) changed
 
-Reply line 14.
+Reply line 14. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: הַחֲזֵק בַּ/מּוּסָר אַל תֶּרֶף נִצְּרֶ/הָ כִּי הִיא חַיֶּי/ךָ
 
-Persian: رهنمود را به چنگ گیر و آن را فرو~مگذار؛ پاسش بدار، زیرا که حیات توست.
+Persian: رهنمود را به چنگ گیر و آن را فرو مگذار؛ پاسش بدار، زیرا که حیات توست.
 
 Original words:
 - o1: הַחֲזֵק = H2388 חָזַק "to fasten upon…" [HVhv2ms]
@@ -481,24 +492,25 @@ Original words:
 |  | را |  |  |
 | ✱ | به | Hb "in" | [به چنگ گیر] H2388 חָזַק "to fasten upon…" |
 | ✱ | چنگ |  | [به چنگ گیر] H2388 חָזַק "to fasten upon…" |
-| ✱ | گیر |  | [به چنگ گیر] H2388 חָזַק "to fasten upon…" |
+| ✱ | گیر | H4148 מוּסָר "properly, chastisement…" | [به چنگ گیر] H2388 חָזַק "to fasten upon…" |
 |  | و |  |  |
 |  | آن |  |  |
 |  | را |  |  |
-| ✱ | فرو~مگذار | H408 אַל "not (the qualified negation…" | H408 אַל "not (the qualified negation…"; H7503 רָפָה "to slacken (in many…" |
+| ✱ | فرو | [فرو مگذار] H408 אַל "not (the qualified negation…" | [فرو مگذار] H408 אַל "not (the qualified negation…"; H7503 רָפָה "to slacken (in many…" |
+| ✱ | مگذار | [فرو مگذار] H408 אַל "not (the qualified negation…" | [فرو مگذار] H408 אַל "not (the qualified negation…"; H7503 רָפָה "to slacken (in many…" |
 |  | ؛ |  |  |
 |  | پاسش | [پاسش بدار] H5341 | [پاسش بدار] H5341 |
 |  | بدار | [پاسش بدار] H5341 | [پاسش بدار] H5341 |
 |  | ، |  |  |
 |  | زیرا | H3588 | H3588 |
-|  | که |  |  |
+| ✱ | که | H1931 הוּא "he (she or it)…" |  |
 |  | حیات | H2416 | H2416 |
 |  | توست |  |  |
 |  | . |  |  |
 
-### Proverbs 4:14: 5 word(s) changed
+### Proverbs 4:14: 4 word(s) changed
 
-Reply line 15.
+Reply line 15. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: בְּ/אֹרַח רְשָׁעִים אַל תָּבֹא וְ/אַל תְּאַשֵּׁר בְּ/דֶרֶךְ רָעִים
 
@@ -518,7 +530,7 @@ Original words:
 | --- | --- | --- | --- |
 |  | به | Hb | Hb |
 |  | راه | H734 | H734 |
-| ✱ | شریران |  | H7563 רָשָׁע "morally wrong…" |
+|  | شریران | H7563 | H7563 |
 | ✱ | پا |  | [پا مگذار] H408 אַל "not (the qualified negation…"; H935 בּוֹא "to go or come (in a wide…" |
 | ✱ | مگذار | H408 אַל "not (the qualified negation…" | [پا مگذار] H408 אַל "not (the qualified negation…"; H935 בּוֹא "to go or come (in a wide…" |
 |  | و | Hc | Hc |

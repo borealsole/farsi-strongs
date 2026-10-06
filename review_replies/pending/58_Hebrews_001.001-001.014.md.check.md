@@ -4,9 +4,9 @@ Generated 2026-10-06 by `python review_replies.py check`. Rows marked ✱ change
 
 ## 14 verse(s) with changes
 
-### Hebrews 1:1: 9 word(s) changed
+### Hebrews 1:1: 5 word(s) changed
 
-Reply line 2.
+Reply line 2. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: Πολυμερῶς καὶ πολυτρόπως πάλαι ὁ θεὸς λαλήσας τοῖς πατράσιν ἐν τοῖς προφήταις ἐπ’ ἐσχάτου τῶν ἡμερῶν τούτων ἐλάλησεν ἡμῖν ἐν υἱῷ,
 
@@ -37,32 +37,32 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | در | [در گذشته] G3819 | [در گذشته] G3819 |
-|  | گذشته | [در گذشته] G3819 | [در گذشته] G3819 |
+| ✱ | در |  | [در گذشته] G3819 πάλαι "any while, a great while ago…" |
+| ✱ | گذشته | G3819 πάλαι "any while, a great while ago…" | [در گذشته] G3819 πάλαι "any while, a great while ago…" |
 |  | ، |  |  |
 |  | خدا | G2316 | G2316 |
 |  | بارها | G4181 | G4181 |
 |  | و | G2532 | G2532 |
 |  | از |  |  |
-| ✱ | راههای | G4187 πολυτρόπως "in divers manners" | [راههای گوناگون] G4187 πολυτρόπως "in divers manners" |
-| ✱ | گوناگون | G4181 πολυμερῶς "at sundry times"; G4187 πολυτρόπως "in divers manners" | [راههای گوناگون] G4187 πολυτρόπως "in divers manners" |
+|  | راههای | [راههای گوناگون] G4187 | [راههای گوناگون] G4187 |
+|  | گوناگون | [راههای گوناگون] G4187 | [راههای گوناگون] G4187 |
 | ✱ | به |  | [به واسطۀ] G1722 ἐν "about, after, against…" |
-| ✱ | واسطۀ |  | [به واسطۀ] G1722 ἐν "about, after, against…" |
-| ✱ | پیامبران | G3962 πατήρ "father, parent"; G4396 προφήτης "prophet" | G4396 προφήτης "prophet" |
+| ✱ | واسطۀ | G1722 ἐν "about, after, against…" | [به واسطۀ] G1722 ἐν "about, after, against…" |
+|  | پیامبران | G4396 | G4396 |
 |  | با |  |  |
-| ✱ | پدران | G3962 πατήρ "father, parent"; G4396 προφήτης "prophet" | G3962 πατήρ "father, parent" |
+|  | پدران | G3962 | G3962 |
 | ✱ | ما | G2249 ἡμεῖς "us, we (ourselves)" |  |
-| ✱ | سخن | G2980 λαλέω "preach, say, speak (after)…" | [سخن گفت] G2980 λαλέω "preach, say, speak (after)…" |
-| ✱ | گفت |  | [سخن گفت] G2980 λαλέω "preach, say, speak (after)…" |
+|  | سخن | [سخن گفت] G2980 | [سخن گفت] G2980 |
+|  | گفت | [سخن گفت] G2980 | [سخن گفت] G2980 |
 |  | ، |  |  |
 
-### Hebrews 1:2: 15 word(s) changed
+### Hebrews 1:2: 16 word(s) changed
 
-Reply line 3. Uses numbers from neighbouring verses: G1722 (Hebrews 1:1), G1909 (Hebrews 1:1), G2078 (Hebrews 1:1), G2249 (Hebrews 1:1), G2250 (Hebrews 1:1), G2980 (Hebrews 1:1), G3778 (Hebrews 1:1), G5207 (Hebrews 1:1).
+Reply line 3. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead. Uses numbers from neighbouring verses: G1722 (Hebrews 1:1), G1909 (Hebrews 1:1), G2078 (Hebrews 1:1), G2249 (Hebrews 1:1), G2250 (Hebrews 1:1), G2980 (Hebrews 1:1), G3778 (Hebrews 1:1), G5207 (Hebrews 1:1).
 
 Original: ὃν ἔθηκεν κληρονόμον πάντων, δι’ οὗ καὶ ἐποίησεν τοὺς αἰῶνας·
 
-Persian: امّا در این ایام آخر به واسطۀ پسر خود با ما سخن گفته_است، پسری که او را وارث همه چیز مقرر داشت و به واسطۀ او جهان را آفرید.
+Persian: امّا در این ایام آخر به واسطۀ پسر خود با ما سخن گفته است، پسری که او را وارث همه چیز مقرر داشت و به واسطۀ او جهان را آفرید.
 
 Original words:
 - o1: ὃν = G3739 ὅς "one, (an-, the) other, some, that, what, which…" [R-ASM]
@@ -105,15 +105,16 @@ Original words of Hebrews 1:1 (neighbouring verse; this reply uses G1722, G1909,
 | ✱ | در |  | G1909 ἐπί "about (the times), above…" (from Hebrews 1:1) |
 | ✱ | این |  | G3778 οὗτος "he (it was that), hereof, it…" (from Hebrews 1:1) |
 | ✱ | ایام |  | G2250 ἡμέρα "age, + alway…" (from Hebrews 1:1) |
-| ✱ | آخر | G165 αἰών "age, course, eternal…" | G2078 ἔσχατος "ends of, last, latter end…" (from Hebrews 1:1) |
+| ✱ | آخر |  | G2078 ἔσχατος "ends of, last, latter end…" (from Hebrews 1:1) |
 | ✱ | به |  | [به واسطۀ] G1722 ἐν "about, after, against…" (from Hebrews 1:1) |
 | ✱ | واسطۀ | G1223 διά "after, always, among, at…" | [به واسطۀ] G1722 ἐν "about, after, against…" (from Hebrews 1:1) |
 | ✱ | پسر |  | G5207 υἱός "child, foal, son" (from Hebrews 1:1) |
 |  | خود |  |  |
 |  | با |  |  |
 | ✱ | ما |  | G2249 ἡμεῖς "us, we (ourselves)" (from Hebrews 1:1) |
-| ✱ | سخن |  | [سخن گفته_است] G2980 λαλέω "preach, say, speak (after)…" (from Hebrews 1:1) |
-| ✱ | گفته_است |  | [سخن گفته_است] G2980 λαλέω "preach, say, speak (after)…" (from Hebrews 1:1) |
+| ✱ | سخن |  | [سخن گفته است] G2980 λαλέω "preach, say, speak (after)…" (from Hebrews 1:1) |
+| ✱ | گفته | [گفته است]  | [سخن گفته است] G2980 λαλέω "preach, say, speak (after)…" (from Hebrews 1:1) |
+| ✱ | است | [گفته است]  | [سخن گفته است] G2980 λαλέω "preach, say, speak (after)…" (from Hebrews 1:1) |
 |  | ، |  |  |
 |  | پسری |  |  |
 |  | که | G3739 | G3739 |
@@ -135,7 +136,7 @@ Original words of Hebrews 1:1 (neighbouring verse; this reply uses G1722, G1909,
 
 ### Hebrews 1:3: 10 word(s) changed
 
-Reply line 4.
+Reply line 4. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: ὃς ὢν ἀπαύγασμα τῆς δόξης καὶ χαρακτὴρ τῆς ὑποστάσεως αὐτοῦ, φέρων τε τὰ πάντα τῷ ῥήματι τῆς δυνάμεως αὐτοῦ, καθαρισμὸν τῶν ἁμαρτιῶν ποιησάμενος ἐκάθισεν ἐν δεξιᾷ τῆς μεγαλωσύνης ἐν ὑψηλοῖς,
 
@@ -191,12 +192,12 @@ Original words:
 |  | را |  |  |
 |  | با |  |  |
 |  | کلام | G4487 | G4487 |
-| ✱ | نیرومند | G5481 χαρακτήρ "express image"; G1411 δύναμις "ability, abundance, meaning…" | G1411 δύναμις "ability, abundance, meaning…" |
+|  | نیرومند | G1411 | G1411 |
 |  | خود | G846 | G846 |
 |  | نگاه | [نگاه می‌دارد] G5342 | [نگاه می‌دارد] G5342 |
 |  | می‌دارد | [نگاه می‌دارد] G5342 | [نگاه می‌دارد] G5342 |
 |  | . |  |  |
-|  | او | G3739 | G3739 |
+| ✱ | او | G846 αὐτός "her, it(-self), one…" | G3739 ὅς "one, (an-, the) other, some…" |
 |  | پس |  |  |
 |  | از |  |  |
 |  | پاک | G2512 | G2512 |
@@ -206,17 +207,17 @@ Original words:
 | ✱ | به |  | G1722 ἐν "about, after, against…" |
 | ✱ | دست |  | [دست راست] G1188 δεξιός "right (hand, side)" |
 | ✱ | راست | G1188 δεξιός "right (hand, side)" | [دست راست] G1188 δεξιός "right (hand, side)" |
-| ✱ | مقام | G3172 μεγαλωσύνη "majesty" |  |
-| ✱ | کبریا |  | G3172 μεγαλωσύνη "majesty" |
+| ✱ | مقام | [مقام کبریا] G3172 μεγαλωσύνη "majesty" |  |
+| ✱ | کبریا | [مقام کبریا] G3172 μεγαλωσύνη "majesty" | G3172 μεγαλωσύνη "majesty" |
 |  | در | G1722 | G1722 |
-| ✱ | عرش | G1188 δεξιός "right (hand, side)" | [عرش برین] G5308 ὑψηλός "high(-er, -ly) (esteemed)" |
+| ✱ | عرش |  | [عرش برین] G5308 ὑψηλός "high(-er, -ly) (esteemed)" |
 | ✱ | برین |  | [عرش برین] G5308 ὑψηλός "high(-er, -ly) (esteemed)" |
 |  | بنشست | G2523 | G2523 |
 |  | . |  |  |
 
-### Hebrews 1:4: 14 word(s) changed
+### Hebrews 1:4: 13 word(s) changed
 
-Reply line 5.
+Reply line 5. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: τοσούτῳ κρείττων γενόμενος τῶν ἀγγέλων ὅσῳ διαφορώτερον παρ’ αὐτοὺς κεκληρονόμηκεν ὄνομα.
 
@@ -238,35 +239,35 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | پس |  |  |
-| ✱ | به | G5118 τοσοῦτος "as large, so great (long…" | [به همان اندازه] G5118 τοσοῦτος "as large, so great (long…" |
+| ✱ | به |  | [به همان اندازه] G5118 τοσοῦτος "as large, so great (long…" |
 | ✱ | همان |  | [به همان اندازه] G5118 τοσοῦτος "as large, so great (long…" |
 | ✱ | اندازه | G5118 τοσοῦτος "as large, so great (long…" | [به همان اندازه] G5118 τοσοῦτος "as large, so great (long…" |
 | ✱ | که |  | G3745 ὅσος "all (that), as (long, many…" |
 |  | نامی | G3686 | G3686 |
-| ✱ | برتر | G2909 κρείττων "best, better" | G1313 διάφορος "differing, divers…" |
+|  | برتر | G1313 | G1313 |
 | ✱ | از |  | G3844 παρά "above, against, among, at…" |
 |  | فرشتگان | G32 | G32 |
-| ✱ | به | G5118 τοσοῦτος "as large, so great (long…" | [به میراث بُرد] G2816 κληρονομέω "be heir…" |
+| ✱ | به |  | [به میراث بُرد] G2816 κληρονομέω "be heir…" |
 | ✱ | میراث | G2816 κληρονομέω "be heir…" | [به میراث بُرد] G2816 κληρονομέω "be heir…" |
 | ✱ | بُرد |  | [به میراث بُرد] G2816 κληρονομέω "be heir…" |
 |  | ، |  |  |
-| ✱ | از | G2909 κρείττων "best, better" |  |
-| ✱ | مقامی | G1313 διάφορος "differing, divers…" |  |
-| ✱ | والاتر |  | G2909 κρείττων "best, better" |
 |  | از |  |  |
+| ✱ | مقامی | [مقامی والاتر] G1313 διάφορος "differing, divers…" |  |
+| ✱ | والاتر | [مقامی والاتر] G1313 διάφορος "differing, divers…" | G2909 κρείττων "best, better" |
+| ✱ | از | G3844 παρά "above, against, among, at…" |  |
 |  | آنها | G846 | G846 |
 |  | نیز |  |  |
 | ✱ | برخوردار |  | [برخوردار شد] G1096 γίνομαι "arise, be assembled, be(-come…" |
 | ✱ | شد |  | [برخوردار شد] G1096 γίνομαι "arise, be assembled, be(-come…" |
 |  | . |  |  |
 
-### Hebrews 1:5: 5 word(s) changed
+### Hebrews 1:5: 4 word(s) changed
 
-Reply line 6.
+Reply line 6. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: τίνι γὰρ εἶπέν ποτε τῶν ἀγγέλων, υἱός μου εἶ σύ, ἐγὼ σήμερον γεγέννηκά σε; καὶ πάλιν, ἐγὼ ἔσομαι αὐτῷ εἰς πατέρα, καὶ αὐτὸς ἔσται μοι εἰς υἱόν;
 
-Persian: زیرا خدا تا کنون به کدام‌یک از فرشتگان گفته_است:« تو پسر من هستی؛ امروز من تو را مولود ساخته‌ام»؟ و یا:« من او را پدر خواهم_بود، و او مرا پسر»؟
+Persian: زیرا خدا تا کنون به کدام‌یک از فرشتگان گفته است:« تو پسر من هستی؛ امروز من تو را مولود ساخته‌ام»؟ و یا:« من او را پدر خواهم بود، و او مرا پسر»؟
 
 Original words:
 - o1: τίνι = G5101 τίς "every man, how (much), + no(-ne, thing)…" [I-DSM]
@@ -301,19 +302,20 @@ Original words:
 | --- | --- | --- | --- |
 |  | زیرا | G1063 | G1063 |
 |  | خدا |  |  |
-| ✱ | تا | G4218 ποτέ "afore-(any, some-)time(-s)…" | [تا کنون] G4218 ποτέ "afore-(any, some-)time(-s)…" |
-| ✱ | کنون |  | [تا کنون] G4218 ποτέ "afore-(any, some-)time(-s)…" |
+| ✱ | تا |  | [تا کنون] G4218 ποτέ "afore-(any, some-)time(-s)…" |
+| ✱ | کنون | G4218 ποτέ "afore-(any, some-)time(-s)…" | [تا کنون] G4218 ποτέ "afore-(any, some-)time(-s)…" |
 |  | به |  |  |
 |  | کدام‌یک | G5101 | G5101 |
 |  | از |  |  |
 |  | فرشتگان | G32 | G32 |
-| ✱ | گفته_است |  | G3004 λέγω "ask, bid, boast, call…" |
+|  | گفته | [گفته است] G3004 | [گفته است] G3004 |
+|  | است | [گفته است] G3004 | [گفته است] G3004 |
 |  | : |  |  |
 |  | « |  |  |
 |  | تو | G4771 | G4771 |
 |  | پسر | G5207 | G5207 |
 |  | من | G1473 | G1473 |
-| ✱ | هستی |  | G1510 εἰμί "am, have been, it is I, was" |
+|  | هستی | G1510 | G1510 |
 |  | ؛ |  |  |
 |  | امروز | G4594 | G4594 |
 |  | من | G1473 | G1473 |
@@ -331,7 +333,8 @@ Original words:
 |  | او | G846 | G846 |
 |  | را |  |  |
 |  | پدر | G3962 | G3962 |
-| ✱ | خواهم_بود |  | G1510 εἰμί "am, have been, it is I, was" |
+| ✱ | خواهم | [خواهم بود]  | [خواهم بود] G1510 εἰμί "am, have been, it is I, was" |
+| ✱ | بود | [خواهم بود]  | [خواهم بود] G1510 εἰμί "am, have been, it is I, was" |
 |  | ، |  |  |
 |  | و | G2532 | G2532 |
 |  | او | G846 | G846 |
@@ -340,9 +343,9 @@ Original words:
 |  | » |  |  |
 |  | ؟ |  |  |
 
-### Hebrews 1:6: 3 word(s) changed
+### Hebrews 1:6: 2 word(s) changed
 
-Reply line 7.
+Reply line 7. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: ὅταν δὲ πάλιν εἰσαγάγῃ τὸν πρωτότοκον εἰς τὴν οἰκουμένην, λέγει, καὶ προσκυνησάτωσαν αὐτῷ πάντες ἄγγελοι θεοῦ.
 
@@ -372,15 +375,15 @@ Original words:
 |  | آن |  |  |
 |  | هنگام | G3752 | G3752 |
 |  | نیز | G3825 | G3825 |
-|  | که | G3752 | G3752 |
-| ✱ | فرزند |  | [فرزند ارشد] G4416 πρωτότοκος "firstbegotten(-born)" |
-| ✱ | ارشد | G4416 πρωτότοκος "firstbegotten(-born)" | [فرزند ارشد] G4416 πρωτότοκος "firstbegotten(-born)" |
+| ✱ | که |  | G3752 ὅταν "as long (soon) as, that…" |
+|  | فرزند | [فرزند ارشد] G4416 | [فرزند ارشد] G4416 |
+|  | ارشد | [فرزند ارشد] G4416 | [فرزند ارشد] G4416 |
 |  | را |  |  |
 |  | به | G1519 | G1519 |
 |  | جهان | G3625 | G3625 |
-|  | می‌آورَد | G1521 | G1521 |
+| ✱ | می‌آورَد |  | G1521 εἰσάγω "bring in(-to)…" |
 |  | ، |  |  |
-| ✱ | می‌فرماید |  | G3004 λέγω "ask, bid, boast, call…" |
+|  | می‌فرماید | G3004 | G3004 |
 |  | : |  |  |
 |  | « |  |  |
 |  | همۀ | G3956 | G3956 |
@@ -392,9 +395,9 @@ Original words:
 |  | . |  |  |
 |  | » |  |  |
 
-### Hebrews 1:7: 2 word(s) changed
+### Hebrews 1:7: 3 word(s) changed
 
-Reply line 8.
+Reply line 8. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: καὶ πρὸς μὲν τοὺς ἀγγέλους λέγει, ὁ ποιῶν τοὺς ἀγγέλους αὐτοῦ πνεύματα, καὶ τοὺς λειτουργοὺς αὐτοῦ πυρὸς φλόγα·
 
@@ -429,7 +432,7 @@ Original words:
 |  | می‌گوید | G3004 | G3004 |
 |  | : |  |  |
 |  | « |  |  |
-|  | فرشتگانش | G32 G846 | G32 G846 |
+| ✱ | فرشتگانش | G32 ἄγγελος "angel, messenger" | G32 ἄγγελος "angel, messenger"; G846 αὐτός "her, it(-self), one…" |
 |  | را |  |  |
 |  | بادها | G4151 | G4151 |
 |  | می‌سازد | G4160 | G4160 |
@@ -444,7 +447,7 @@ Original words:
 
 ### Hebrews 1:8: 3 word(s) changed
 
-Reply line 9.
+Reply line 9. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: πρὸς δὲ τὸν υἱόν, ὁ θρόνος σου, ὁ θεός, εἰς τὸν αἰῶνα τοῦ αἰῶνος, καὶ ἡ ῥάβδος τῆς εὐθύτητος ῥάβδος τῆς βασιλείας σου.
 
@@ -504,11 +507,11 @@ Original words:
 
 ### Hebrews 1:9: 9 word(s) changed
 
-Reply line 10. Uses numbers from Greek variant readings: G458 (WHNU).
+Reply line 10. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead. Uses numbers from Greek variant readings: G458 (WHNU).
 
 Original: ἠγάπησας δικαιοσύνην καὶ ἐμίσησας ἀδικίαν· ⟨ανομιαν⟩ διὰ τοῦτο ἔχρισέν σε ὁ θεός, ὁ θεός σου, ἔλαιον ἀγαλλιάσεως παρὰ τοὺς μετόχους σου·
 
-Persian: تو پارسایی را دوست می‌داری و شرارت را دشمن؛ از این رو خدا، خدای تو، تو را بیش از همقطارانت به روغن شادمانی مسح کرده_است.»
+Persian: تو پارسایی را دوست می‌داری و شرارت را دشمن؛ از این رو خدا، خدای تو، تو را بیش از همقطارانت به روغن شادمانی مسح کرده است.»
 
 Original words:
 - o1: ἠγάπησας = G25 ἀγαπάω "(be-)love(-ed)" [V-AAI-2S]
@@ -538,14 +541,14 @@ Original words:
 |  | تو |  |  |
 |  | پارسایی | G1343 | G1343 |
 |  | را |  |  |
-|  | دوست | [دوست می‌داری] G25 | [دوست می‌داری] G25 |
-|  | می‌داری | [دوست می‌داری] G25 | [دوست می‌داری] G25 |
+| ✱ | دوست | G25 ἀγαπάω "(be-)love(-ed)" | [دوست می‌داری] G25 ἀγαπάω "(be-)love(-ed)" |
+| ✱ | می‌داری | G3404 μισέω "hate(-ful)" | [دوست می‌داری] G25 ἀγαπάω "(be-)love(-ed)" |
 |  | و | G2532 | G2532 |
-| ✱ | شرارت | G1343 δικαιοσύνη "righteousness"; G93 ἀδικία "iniquity, unjust…"; G458 ἀνομία "iniquity…" | G93 ἀδικία "iniquity, unjust…"; G458 ἀνομία "iniquity…" (variant reading, WHNU) |
+|  | شرارت | G93 G458 | G93 G458 |
 |  | را |  |  |
 | ✱ | دشمن | G3404 μισέω "hate(-ful)"; G458 ἀνομία "iniquity…" | G3404 μισέω "hate(-ful)" |
 |  | ؛ |  |  |
-| ✱ | از |  | [از این رو] G1223 διά "after, always, among, at…"; G3778 οὗτος "he (it was that), hereof, it…" |
+| ✱ | از | G1223 διά "after, always, among, at…" | [از این رو] G1223 διά "after, always, among, at…"; G3778 οὗτος "he (it was that), hereof, it…" |
 | ✱ | این | G3778 οὗτος "he (it was that), hereof, it…" | [از این رو] G1223 διά "after, always, among, at…"; G3778 οὗτος "he (it was that), hereof, it…" |
 | ✱ | رو | G1223 διά "after, always, among, at…" | [از این رو] G1223 διά "after, always, among, at…"; G3778 οὗτος "he (it was that), hereof, it…" |
 |  | خدا | G2316 | G2316 |
@@ -553,7 +556,7 @@ Original words:
 |  | خدای | G2316 | G2316 |
 |  | تو | G4771 | G4771 |
 |  | ، |  |  |
-| ✱ | تو |  | G4771 σύ "thou" |
+|  | تو | G4771 | G4771 |
 |  | را |  |  |
 | ✱ | بیش | G3844 παρά "above, against, among, at…" | [بیش از] G3844 παρά "above, against, among, at…" |
 | ✱ | از |  | [بیش از] G3844 παρά "above, against, among, at…" |
@@ -561,14 +564,15 @@ Original words:
 |  | به |  |  |
 |  | روغن | G1637 | G1637 |
 |  | شادمانی | G20 | G20 |
-|  | مسح | [مسح کرده_است] G5548 | [مسح کرده_است] G5548 |
-|  | کرده_است | [مسح کرده_است] G5548 | [مسح کرده_است] G5548 |
+|  | مسح | [مسح کرده است] G5548 | [مسح کرده است] G5548 |
+|  | کرده | [مسح کرده است] G5548 | [مسح کرده است] G5548 |
+|  | است | [مسح کرده است] G5548 | [مسح کرده است] G5548 |
 |  | . |  |  |
 |  | » |  |  |
 
-### Hebrews 1:10: 2 word(s) changed
+### Hebrews 1:10: 4 word(s) changed
 
-Reply line 11.
+Reply line 11. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: καί, σὺ κατ’ ἀρχάς, κύριε, τὴν γῆν ἐθεμελίωσας, καὶ ἔργα τῶν χειρῶν σού εἰσιν οἱ οὐρανοί·
 
@@ -594,8 +598,8 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | و | G2532 | G2532 |
-|  | نیز |  |  |
+| ✱ | و | [و نیز] G2532 καί "and, also, both, but, even…" | G2532 καί "and, also, both, but, even…" |
+| ✱ | نیز | [و نیز] G2532 καί "and, also, both, but, even…" |  |
 |  | می‌فرماید |  |  |
 |  | : |  |  |
 |  | « |  |  |
@@ -620,11 +624,11 @@ Original words:
 
 ### Hebrews 1:11: 6 word(s) changed
 
-Reply line 12.
+Reply line 12. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: αὐτοὶ ἀπολοῦνται, σὺ δὲ διαμένεις· καὶ πάντες ὡς ἱμάτιον παλαιωθήσονται,
 
-Persian: آنها از میان می‌روند، امّا تو بر‌جا می‌مانی! آنها همه چون جامهْ مندرس خواهند_شد!
+Persian: آنها از میان می‌روند، امّا تو بر‌جا می‌مانی! آنها همه چون جامهْ مندرس خواهند شد!
 
 Original words:
 - o1: αὐτοὶ = G846 αὐτός "her, it(-self), one, the other, (mine) own, said…" [P-NPM]
@@ -647,24 +651,25 @@ Original words:
 |  | ، |  |  |
 |  | امّا | G1161 | G1161 |
 |  | تو | G4771 | G4771 |
-| ✱ | بر‌جا | G622 ἀπόλλυμι "destroy, die, lose, mar…" | [بر‌جا می‌مانی] G1265 διαμένω "continue, remain" |
-| ✱ | می‌مانی |  | [بر‌جا می‌مانی] G1265 διαμένω "continue, remain" |
+| ✱ | بر‌جا |  | [بر‌جا می‌مانی] G1265 διαμένω "continue, remain" |
+| ✱ | می‌مانی | G1265 διαμένω "continue, remain" | [بر‌جا می‌مانی] G1265 διαμένω "continue, remain" |
 |  | ! |  |  |
 | ✱ | آنها | G846 αὐτός "her, it(-self), one…" |  |
 |  | همه | G3956 | G3956 |
 |  | چون | G5613 | G5613 |
 |  | جامهْ | G2440 | G2440 |
-|  | مندرس | [مندرس خواهند_شد] G3822 | [مندرس خواهند_شد] G3822 |
-|  | خواهند_شد | [مندرس خواهند_شد] G3822 | [مندرس خواهند_شد] G3822 |
+|  | مندرس | [مندرس خواهند شد] G3822 | [مندرس خواهند شد] G3822 |
+|  | خواهند | [مندرس خواهند شد] G3822 | [مندرس خواهند شد] G3822 |
+|  | شد | [مندرس خواهند شد] G3822 | [مندرس خواهند شد] G3822 |
 |  | ! |  |  |
 
-### Hebrews 1:12: 9 word(s) changed
+### Hebrews 1:12: 5 word(s) changed
 
-Reply line 13. Uses numbers from Greek variant readings: G1667 (WHNU), G2440 (WHNU), G5613 (WHNU).
+Reply line 13. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead. Uses numbers from Greek variant readings: G1667 (WHNU), G2440 (WHNU), G5613 (WHNU).
 
 Original: καὶ ὡσεὶ περιβόλαιον ἀλλάξεις ⟨ελιξεις⟩ αὐτούς, ⟨ως⟩ ⟨ιματιον⟩ καὶ ἀλλαγήσονται, σὺ δὲ ὁ αὐτὸς εἶ καὶ τὰ ἔτη σου οὐκ ἐκλείψουσιν.
 
-Persian: آنها را چون ردایی در هم خواهی_پیچید، و بسان جامه‌ای جایگزین خواهند_شد. امّا تو همان هستی، و سالهای تو را پایانی نیست!»
+Persian: آنها را چون ردایی در هم خواهی پیچید، و بسان جامه‌ای جایگزین خواهند شد. امّا تو همان هستی، و سالهای تو را پایانی نیست!»
 
 Original words:
 - o1: καὶ = G2532 καί "and, also, both, but, even, for, if, or, so, that…" [CONJ]
@@ -695,20 +700,22 @@ Original words:
 |  | را |  |  |
 | ✱ | چون | G2532 καί "and, also, both, but, even…"; G5616 ὡσεί "about, as (it had been…" | G5616 ὡσεί "about, as (it had been…" |
 |  | ردایی | G4018 | G4018 |
-| ✱ | در |  | [در هم خواهی_پیچید] G1667 ἑλίσσω "fold up" (variant reading, WHNU) |
-| ✱ | هم |  | [در هم خواهی_پیچید] G1667 ἑλίσσω "fold up" (variant reading, WHNU) |
-| ✱ | خواهی_پیچید | G1667 ἑλίσσω "fold up" | [در هم خواهی_پیچید] G1667 ἑλίσσω "fold up" (variant reading, WHNU) |
+| ✱ | در |  | [در هم خواهی پیچید] G1667 ἑλίσσω "fold up" (variant reading, WHNU) |
+| ✱ | هم |  | [در هم خواهی پیچید] G1667 ἑλίσσω "fold up" (variant reading, WHNU) |
+| ✱ | خواهی | [خواهی پیچید] G1667 ἑλίσσω "fold up" | [در هم خواهی پیچید] G1667 ἑλίσσω "fold up" (variant reading, WHNU) |
+| ✱ | پیچید | [خواهی پیچید] G1667 ἑλίσσω "fold up" | [در هم خواهی پیچید] G1667 ἑλίσσω "fold up" (variant reading, WHNU) |
 |  | ، |  |  |
-| ✱ | و |  | G2532 καί "and, also, both, but, even…" |
-| ✱ | بسان |  | G5613 ὡς "about, after (that)…" (variant reading, WHNU) |
+|  | و | G2532 | G2532 |
+|  | بسان | G5613 | G5613 |
 |  | جامه‌ای | G2440 | G2440 |
-| ✱ | جایگزین |  | [جایگزین خواهند_شد] G236 ἀλλάσσω "change" |
-| ✱ | خواهند_شد |  | [جایگزین خواهند_شد] G236 ἀλλάσσω "change" |
+|  | جایگزین | [جایگزین خواهند شد] G236 | [جایگزین خواهند شد] G236 |
+|  | خواهند | [جایگزین خواهند شد] G236 | [جایگزین خواهند شد] G236 |
+|  | شد | [جایگزین خواهند شد] G236 | [جایگزین خواهند شد] G236 |
 |  | . |  |  |
 |  | امّا | G1161 | G1161 |
 |  | تو | G4771 | G4771 |
 |  | همان | G846 | G846 |
-| ✱ | هستی |  | G1510 εἰμί "am, have been, it is I, was" |
+|  | هستی | G1510 | G1510 |
 |  | ، |  |  |
 |  | و | G2532 | G2532 |
 |  | سالهای | G2094 | G2094 |
@@ -719,13 +726,13 @@ Original words:
 |  | ! |  |  |
 |  | » |  |  |
 
-### Hebrews 1:13: 9 word(s) changed
+### Hebrews 1:13: 12 word(s) changed
 
-Reply line 14.
+Reply line 14. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: πρὸς τίνα δὲ τῶν ἀγγέλων εἴρηκέν ποτε, κάθου ἐκ δεξιῶν μου ἕως ἂν θῶ τοὺς ἐχθρούς σου ὑποπόδιον τῶν ποδῶν σου;
 
-Persian: خدا تا کنون به کدام‌یک از فرشتگان گفته_است:« به دست راست من بنشین تا آن هنگام که دشمنانت را کرسی زیر پایت سازم»؟
+Persian: خدا تا کنون به کدام‌یک از فرشتگان گفته است:« به دست راست من بنشین تا آن هنگام که دشمنانت را کرسی زیر پایت سازم»؟
 
 Original words:
 - o1: πρὸς = G4314 πρός "about, according to , against, among, at…" [PREP]
@@ -754,39 +761,40 @@ Original words:
 | --- | --- | --- | --- |
 |  | خدا |  |  |
 | ✱ | تا |  | [تا کنون] G4218 ποτέ "afore-(any, some-)time(-s)…" |
-| ✱ | کنون |  | [تا کنون] G4218 ποτέ "afore-(any, some-)time(-s)…" |
+| ✱ | کنون | G4218 ποτέ "afore-(any, some-)time(-s)…" | [تا کنون] G4218 ποτέ "afore-(any, some-)time(-s)…" |
 |  | به | G4314 | G4314 |
 |  | کدام‌یک | G5101 | G5101 |
 |  | از |  |  |
 |  | فرشتگان | G32 | G32 |
-|  | گفته_است | G2046 | G2046 |
+|  | گفته | [گفته است] G2046 | [گفته است] G2046 |
+|  | است | [گفته است] G2046 | [گفته است] G2046 |
 |  | : |  |  |
 |  | « |  |  |
-| ✱ | به |  | G1537 ἐκ "after, among, are, at…" |
+| ✱ | به | G4314 πρός "about, according to , against…" | G1537 ἐκ "after, among, are, at…" |
 |  | دست | [دست راست] G1188 | [دست راست] G1188 |
 |  | راست | [دست راست] G1188 | [دست راست] G1188 |
 |  | من | G1473 | G1473 |
 |  | بنشین | G2521 | G2521 |
-| ✱ | تا | G1161 δέ "also, and, but, moreover…" | [تا آن هنگام که] G2193 ἕως "even (until, unto)…"; G302 ἄν "what-, where-, wither-…" |
+| ✱ | تا | G2193 ἕως "even (until, unto)…" | [تا آن هنگام که] G2193 ἕως "even (until, unto)…"; G302 ἄν "what-, where-, wither-…" |
 | ✱ | آن |  | [تا آن هنگام که] G2193 ἕως "even (until, unto)…"; G302 ἄν "what-, where-, wither-…" |
 | ✱ | هنگام |  | [تا آن هنگام که] G2193 ἕως "even (until, unto)…"; G302 ἄν "what-, where-, wither-…" |
-| ✱ | که | G2193 ἕως "even (until, unto)…" | [تا آن هنگام که] G2193 ἕως "even (until, unto)…"; G302 ἄν "what-, where-, wither-…" |
+| ✱ | که |  | [تا آن هنگام که] G2193 ἕως "even (until, unto)…"; G302 ἄν "what-, where-, wither-…" |
 | ✱ | دشمنانت | G2190 ἐχθρός "enemy, foe" | G2190 ἐχθρός "enemy, foe"; G4771 σύ "thou" |
 |  | را |  |  |
-|  | کرسی | G5286 | G5286 |
-|  | زیر |  |  |
+| ✱ | کرسی | [کرسی زیر] G5286 ὑποπόδιον "footstool" | G5286 ὑποπόδιον "footstool" |
+| ✱ | زیر | [کرسی زیر] G5286 ὑποπόδιον "footstool" |  |
 | ✱ | پایت | G4228 πούς "foot(-stool)" | G4228 πούς "foot(-stool)"; G4771 σύ "thou" |
-|  | سازم | G5087 | G5087 |
+| ✱ | سازم | G4771 σύ "thou" | G5087 τίθημι "+ advise, appoint, bow…" |
 |  | » |  |  |
 |  | ؟ |  |  |
 
 ### Hebrews 1:14: 5 word(s) changed
 
-Reply line 15.
+Reply line 15. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: οὐχὶ πάντες εἰσὶν λειτουργικὰ πνεύματα εἰς διακονίαν ἀποστελλόμενα διὰ τοὺς μέλλοντας κληρονομεῖν σωτηρίαν;
 
-Persian: مگر آنها جملگی روحهایی خدمتگزار نیستند که برای خدمت به وارثان آیندۀ نجات فرستاده_می‌شوند؟
+Persian: مگر آنها جملگی روحهایی خدمتگزار نیستند که برای خدمت به وارثان آیندۀ نجات فرستاده می‌شوند؟
 
 Original words:
 - o1: οὐχὶ = G3780 οὐχί "nay, not" [PRT-I]
@@ -810,13 +818,14 @@ Original words:
 | ✱ | جملگی | G3956 πᾶς "all (manner of, means)…"; G3010 λειτουργικός "ministering" | G3956 πᾶς "all (manner of, means)…" |
 |  | روحهایی | G4151 | G4151 |
 |  | خدمتگزار | G3010 | G3010 |
-| ✱ | نیستند |  | G3780 οὐχί "nay, not"; G1510 εἰμί "am, have been, it is I, was" |
+| ✱ | نیستند | G3780 οὐχί "nay, not" | G3780 οὐχί "nay, not"; G1510 εἰμί "am, have been, it is I, was" |
 |  | که |  |  |
-| ✱ | برای | G1223 διά "after, always, among, at…" | G1519 εἰς "abundant-)ly, against, among…" |
+|  | برای | G1519 | G1519 |
 |  | خدمت | G1248 | G1248 |
-| ✱ | به |  | G1223 διά "after, always, among, at…" |
+|  | به | G1223 | G1223 |
 | ✱ | وارثان |  | G2816 κληρονομέω "be heir…" |
 |  | آیندۀ | G3195 | G3195 |
 |  | نجات | G4991 | G4991 |
-|  | فرستاده_می‌شوند | G649 | G649 |
+| ✱ | فرستاده | [فرستاده می‌شوند] G649 ἀποστέλλω "put in, send (away, forth…"; G2816 κληρονομέω "be heir…" | [فرستاده می‌شوند] G649 ἀποστέλλω "put in, send (away, forth…" |
+| ✱ | می‌شوند | [فرستاده می‌شوند] G649 ἀποστέλλω "put in, send (away, forth…"; G2816 κληρονομέω "be heir…" | [فرستاده می‌شوند] G649 ἀποστέλλω "put in, send (away, forth…" |
 |  | ؟ |  |  |

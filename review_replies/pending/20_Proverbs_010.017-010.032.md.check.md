@@ -1,12 +1,14 @@
 # Check of 20_Proverbs_010.017-010.032.md
 
-Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-06 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
-## 12 verse(s) with changes
+No change from the current tags (will be skipped): Proverbs 10:21, Proverbs 10:27, Proverbs 10:31.
+
+## 9 verse(s) with changes
 
 ### Proverbs 10:17: 10 word(s) changed
 
-Reply line 2.
+Reply line 2. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: אֹרַח לְ/חַיִּים שׁוֹמֵר מוּסָר וְ/עוֹזֵב תּוֹכַחַת מַתְעֶה
 
@@ -23,10 +25,10 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | آن | H8104 שָׁמַר "properly…" |  |
-|  | که |  |  |
-|  | به |  |  |
-| ✱ | تأدیب | H4148 מוּסָר "properly, chastisement…"; H8433 תּוֹכֵחָה "chastisement…" | H4148 מוּסָר "properly, chastisement…" |
+|  | آن |  |  |
+| ✱ | که | H8104 שָׁמַר "properly…" |  |
+| ✱ | به | Hl "to" |  |
+|  | تأدیب | H4148 | H4148 |
 | ✱ | گوش |  | [گوش می‌سپارد] H8104 שָׁמַר "properly…" |
 | ✱ | می‌سپارد | H8104 שָׁמַר "properly…" | [گوش می‌سپارد] H8104 שָׁמַר "properly…" |
 |  | ، |  |  |
@@ -36,8 +38,8 @@ Original words:
 |  | است |  |  |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
-| ✱ | آن | [آن که] H8104 שָׁמַר "properly…" | [آن که]  |
-| ✱ | که | [آن که] H8104 שָׁמַר "properly…" | [آن که]  |
+| ✱ | آن |  | [آن که]  |
+| ✱ | که | H8104 שָׁמַר "properly…" | [آن که]  |
 |  | توبیخ | H8433 | H8433 |
 |  | را |  |  |
 |  | ترک | [ترک می‌گوید] H5800 | [ترک می‌گوید] H5800 |
@@ -51,7 +53,7 @@ Original words:
 
 ### Proverbs 10:18: 2 word(s) changed
 
-Reply line 3.
+Reply line 3. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: מְכַסֶּה שִׂנְאָה שִׂפְתֵי שָׁקֶר וּ/מוֹצִא דִבָּה הוּא כְסִיל
 
@@ -82,16 +84,16 @@ Original words:
 |  | ، |  |  |
 |  | آن |  |  |
 |  | که |  |  |
-| ✱ | شایعه‌پراکنی |  | [شایعه‌پراکنی کند] H3318 יָצָא "to go (causatively…"; H1681 דִּבָּה "slander" |
+| ✱ | شایعه‌پراکنی | H1681 דִּבָּה "slander" | [شایعه‌پراکنی کند] H3318 יָצָא "to go (causatively…"; H1681 דִּבָּה "slander" |
 | ✱ | کند |  | [شایعه‌پراکنی کند] H3318 יָצָא "to go (causatively…"; H1681 דִּבָּה "slander" |
 |  | ، |  |  |
 |  | نادان | H3684 | H3684 |
 |  | است |  |  |
 |  | . |  |  |
 
-### Proverbs 10:19: 5 word(s) changed
+### Proverbs 10:19: 2 word(s) changed
 
-Reply line 4.
+Reply line 4. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: בְּ/רֹב דְּבָרִים לֹא יֶחְדַּל פָּשַׁע וְ/חֹשֵׂךְ שְׂפָתָי/ו מַשְׂכִּיל
 
@@ -112,22 +114,22 @@ Original words:
 |  | پرگویی | H7230 H1697 | H7230 H1697 |
 |  | خالی | H2308 | H2308 |
 |  | از |  |  |
-| ✱ | گناه | H6588 פֶּשַׁע "a revolt (national…"; H7919 שָׂכַל "to be (causatively…" | H6588 פֶּשַׁע "a revolt (national…" |
-| ✱ | نیست |  | H3808 לֹא "not (the simple or abs.…" |
+|  | گناه | H6588 | H6588 |
+|  | نیست | H3808 | H3808 |
 |  | ، |  |  |
 |  | عاقل | H7919 | H7919 |
 |  | آن |  |  |
 |  | است |  |  |
-| ✱ | که | H2820 חָשַׂךְ "to restrain or (reflex.)…" |  |
+|  | که |  |  |
 |  | زبان | H8193 | H8193 |
 |  | خویش |  |  |
 | ✱ | نگاه |  | [نگاه دارد] H2820 חָשַׂךְ "to restrain or (reflex.)…" |
-| ✱ | دارد |  | [نگاه دارد] H2820 חָשַׂךְ "to restrain or (reflex.)…" |
+| ✱ | دارد | H7919 שָׂכַל "to be (causatively…" | [نگاه دارد] H2820 חָשַׂךְ "to restrain or (reflex.)…" |
 |  | . |  |  |
 
-### Proverbs 10:20: 1 word(s) changed
+### Proverbs 10:20: 2 word(s) changed
 
-Reply line 5.
+Reply line 5. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: כֶּסֶף נִבְחָר לְשׁוֹן צַדִּיק לֵב רְשָׁעִים כִּ/מְעָט
 
@@ -147,55 +149,21 @@ Original words:
 |  | زبانِ | H3956 | H3956 |
 |  | پارسایان | H6662 | H6662 |
 |  | ، |  |  |
-| ✱ | نقرۀ |  | H3701 כֶּסֶף "silver (from its pale color)…" |
+|  | نقرۀ | H3701 | H3701 |
 |  | اعلاست | H977 | H977 |
 |  | ، |  |  |
 |  | اما |  |  |
 |  | دلِ | H3820 | H3820 |
 |  | شریران | H7563 | H7563 |
 |  | ، |  |  |
-|  | کم | H4592 | H4592 |
-|  | ارزش |  |  |
+| ✱ | کم | [کم ارزش] H4592 מְעַט "a little or few (often…" | H4592 מְעַט "a little or few (often…" |
+| ✱ | ارزش | [کم ارزش] H4592 מְעַט "a little or few (often…" |  |
 |  | است |  |  |
 |  | ! |  |  |
 
-### Proverbs 10:21: 1 word(s) changed
-
-Reply line 6.
-
-Original: שִׂפְתֵי צַדִּיק יִרְעוּ רַבִּים וֶ/אֱוִילִים בַּ/חֲסַר לֵב יָמוּתוּ
-
-Persian: لبهای پارسایان، بسیاری را می‌پرورد، اما جاهلان از کم‌عقلی می‌میرند.
-
-Original words:
-- o1: שִׂפְתֵי = H8193 שָׂפָה "the lip (as a natural boundary)…" [HNcfdc]
-- o2: צַדִּיק = H6662 צַדִּיק "just" [HAamsa]
-- o3: יִרְעוּ = H7462 רָעָה "to tend a flock; i.e. pasture it…" [HVqi3mp]
-- o4: רַבִּים = H7227 רַב "abundant (in quantity, size, age, number, rank…" [HAampa]
-- o5: וֶ/אֱוִילִים = Hc "and" + H191 אֱוִיל "(figuratively) silly" [HC/Aampa]
-- o6: בַּ/חֲסַר = Hb "in" + H2638 חָסֵר "lacking; hence, without" [HR/Aamsc]
-- o7: לֵב = H3820 לֵב "the heart…" [HNcmsa]
-- o8: יָמוּתוּ = H4191 מוּת "to die (literally or figuratively)…" [HVqi3mp]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | لبهای | H8193 | H8193 |
-|  | پارسایان | H6662 | H6662 |
-|  | ، |  |  |
-|  | بسیاری | H7227 | H7227 |
-|  | را |  |  |
-|  | می‌پرورد | H7462 | H7462 |
-|  | ، |  |  |
-|  | اما | Hc | Hc |
-|  | جاهلان | H191 | H191 |
-| ✱ | از |  | Hb "in" |
-|  | کم‌عقلی | H2638 H3820 | H2638 H3820 |
-|  | می‌میرند | H4191 | H4191 |
-|  | . |  |  |
-
 ### Proverbs 10:22: 2 word(s) changed
 
-Reply line 7.
+Reply line 7. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: בִּרְכַּת יְהוָה הִיא תַעֲשִׁיר וְ/לֹא יוֹסִף עֶצֶב עִמָּ/הּ
 
@@ -228,9 +196,9 @@ Original words:
 | ✱ | نمی‌افزاید | H3254 יָסַף "to add or augment (often…" | H3808 לֹא "not (the simple or abs.…"; H3254 יָסַף "to add or augment (often…" |
 |  | . |  |  |
 
-### Proverbs 10:23: 1 word(s) changed
+### Proverbs 10:23: 2 word(s) changed
 
-Reply line 8.
+Reply line 8. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: כִּ/שְׂחוֹק לִ/כְסִיל עֲשׂוֹת זִמָּה וְ/חָכְמָה לְ/אִישׁ תְּבוּנָה
 
@@ -247,7 +215,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | فساد | H6213 H2154 | H6213 H2154 |
+| ✱ | فساد | H2154 זִמָּה "a plan, especially a bad one" | H6213 עָשָׂה "to do or make…"; H2154 זִמָּה "a plan, especially a bad one" |
 | ✱ | نزد |  | Hl "to" |
 |  | نادان | H3684 | H3684 |
 |  | تفریح | H7814 | H7814 |
@@ -264,7 +232,7 @@ Original words:
 
 ### Proverbs 10:24: 1 word(s) changed
 
-Reply line 9.
+Reply line 9. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: מְגוֹרַת רָשָׁע הִיא תְבוֹאֶ/נּוּ וְ/תַאֲוַת צַדִּיקִים יִתֵּן
 
@@ -283,9 +251,9 @@ Original words:
 | --- | --- | --- | --- |
 |  | هرآنچه |  |  |
 |  | شریر | H7563 | H7563 |
-| ✱ | از | H935 בּוֹא "to go or come (in a wide…" |  |
+|  | از |  |  |
 |  | آن |  |  |
-|  | می‌ترسد | H4034 | H4034 |
+| ✱ | می‌ترسد |  | H4034 מְגוֹרַה "affright" |
 |  | ، |  |  |
 |  | بر |  |  |
 |  | سرش |  |  |
@@ -304,11 +272,11 @@ Original words:
 
 ### Proverbs 10:25: 6 word(s) changed
 
-Reply line 10.
+Reply line 10. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: כַּ/עֲבוֹר סוּפָה וְ/אֵין רָשָׁע וְ/צַדִּיק יְסוֹד עוֹלָם
 
-Persian: توفان که فرو~نشیند، اثری از شریران بر جا نخواهد_بود، اما پارسایان تا ابد استوار خواهند_ماند.
+Persian: توفان که فرو نشیند، اثری از شریران بر جا نخواهد بود، اما پارسایان تا ابد استوار خواهند ماند.
 
 Original words:
 - o1: כַּ/עֲבוֹר = Hk "like" + H5674 עָבַר "to cross over…" [HR/Vqc]
@@ -323,63 +291,33 @@ Original words:
 | --- | --- | --- | --- |
 |  | توفان | H5492 | H5492 |
 | ✱ | که |  | Hk "like" |
-| ✱ | فرو~نشیند |  | H5674 עָבַר "to cross over…" |
+| ✱ | فرو | [فرو نشیند]  | [فرو نشیند] H5674 עָבַר "to cross over…" |
+| ✱ | نشیند | [فرو نشیند]  | [فرو نشیند] H5674 עָבַר "to cross over…" |
 |  | ، |  |  |
 |  | اثری | H369 | H369 |
 |  | از |  |  |
-| ✱ | شریران |  | H7563 רָשָׁע "morally wrong…" |
+|  | شریران | H7563 | H7563 |
 |  | بر |  |  |
 |  | جا |  |  |
-| ✱ | نخواهد_بود |  | H369 אַיִן "a non-entity…" |
+|  | نخواهد | [نخواهد بود] H369 | [نخواهد بود] H369 |
+|  | بود | [نخواهد بود] H369 | [نخواهد بود] H369 |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
 |  | پارسایان | H6662 | H6662 |
 |  | تا |  |  |
 |  | ابد | H5769 | H5769 |
 | ✱ | استوار | H3247 יְסוֹד "a foundation (literally or…"; H5769 עוֹלָם "properly, concealed…" | H3247 יְסוֹד "a foundation (literally or…" |
-| ✱ | خواهند_ماند | H5769 עוֹלָם "properly, concealed…" |  |
+| ✱ | خواهند | [خواهند ماند] H5769 עוֹלָם "properly, concealed…" | [خواهند ماند]  |
+| ✱ | ماند | [خواهند ماند] H5769 עוֹלָם "properly, concealed…" | [خواهند ماند]  |
 |  | . |  |  |
 
-### Proverbs 10:27: 1 word(s) changed
+### Proverbs 10:30: 8 word(s) changed
 
-Reply line 11.
-
-Original: יִרְאַת יְהוָה תּוֹסִיף יָמִים וּ/שְׁנוֹת רְשָׁעִים תִּקְצֹרְנָה
-
-Persian: ترس خداوند بر روزهای عمر می‌افزاید، اما سالهای شریران کوتاه می‌شود.
-
-Original words:
-- o1: יִרְאַת = H3374 יִרְאָה "fear (also used as infinitive); morally, reverence" [HNcfsc]
-- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
-- o3: תּוֹסִיף = H3254 יָסַף "to add or augment (often adverbial…" [HVhi3fs]
-- o4: יָמִים = H3117 יוֹם "a day (as the warm hours)…" [HNcmpa]
-- o5: וּ/שְׁנוֹת = Hc "and" + H8141 שָׁנֶה "a year (as a revolution of time)" [HC/Ncfpc]
-- o6: רְשָׁעִים = H7563 רָשָׁע "morally wrong…" [HAampa]
-- o7: תִּקְצֹרְנָה = H7114 קָצַר "to dock off…" [HVqi3fp]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | ترس | H3374 | H3374 |
-|  | خداوند | H3068 | H3068 |
-|  | بر |  |  |
-|  | روزهای | [روزهای عمر] H3117 | [روزهای عمر] H3117 |
-|  | عمر | [روزهای عمر] H3117 | [روزهای عمر] H3117 |
-|  | می‌افزاید | H3254 | H3254 |
-|  | ، |  |  |
-|  | اما | Hc | Hc |
-|  | سالهای | H8141 | H8141 |
-| ✱ | شریران |  | H7563 רָשָׁע "morally wrong…" |
-|  | کوتاه | [کوتاه می‌شود] H7114 | [کوتاه می‌شود] H7114 |
-|  | می‌شود | [کوتاه می‌شود] H7114 | [کوتاه می‌شود] H7114 |
-|  | . |  |  |
-
-### Proverbs 10:30: 7 word(s) changed
-
-Reply line 12.
+Reply line 12. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: צַדִּיק לְ/עוֹלָם בַּל יִמּוֹט וּ/רְשָׁעִים לֹא יִשְׁכְּנוּ אָרֶץ
 
-Persian: پارسایان هرگز جنبش نخواهند_خورد، اما شریران در سرزمین وعده باقی نخواهند_ماند.
+Persian: پارسایان هرگز جنبش نخواهند خورد، اما شریران در سرزمین وعده باقی نخواهند ماند.
 
 Original words:
 - o1: צַדִּיק = H6662 צַדִּיק "just" [HAamsa]
@@ -395,46 +333,16 @@ Original words:
 | --- | --- | --- | --- |
 |  | پارسایان | H6662 | H6662 |
 | ✱ | هرگز | H5769 עוֹלָם "properly, concealed…" | Hl "to"; H5769 עוֹלָם "properly, concealed…" |
-| ✱ | جنبش | H4131 מוֹט "to waver…" | [جنبش نخواهند_خورد] H1077 בַּל "properly, a failure…"; H4131 מוֹט "to waver…" |
-| ✱ | نخواهند_خورد | H1077 בַּל "properly, a failure…" | [جنبش نخواهند_خورد] H1077 בַּל "properly, a failure…"; H4131 מוֹט "to waver…" |
+| ✱ | جنبش | H4131 מוֹט "to waver…" | [جنبش نخواهند خورد] H1077 בַּל "properly, a failure…"; H4131 מוֹט "to waver…" |
+| ✱ | نخواهند | [نخواهند خورد] H1077 בַּל "properly, a failure…" | [جنبش نخواهند خورد] H1077 בַּל "properly, a failure…"; H4131 מוֹט "to waver…" |
+| ✱ | خورد | [نخواهند خورد] H1077 בַּל "properly, a failure…" | [جنبش نخواهند خورد] H1077 בַּל "properly, a failure…"; H4131 מוֹט "to waver…" |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
-| ✱ | شریران |  | H7563 רָשָׁע "morally wrong…" |
+|  | شریران | H7563 | H7563 |
 | ✱ | در | H7931 שָׁכַן "to reside or permanently stay…" |  |
 |  | سرزمین | H776 | H776 |
 |  | وعده |  |  |
-| ✱ | باقی |  | [باقی نخواهند_ماند] H3808 לֹא "not (the simple or abs.…"; H7931 שָׁכַן "to reside or permanently stay…" |
-| ✱ | نخواهند_ماند | H1077 בַּל "properly, a failure…"; H3808 לֹא "not (the simple or abs.…" | [باقی نخواهند_ماند] H3808 לֹא "not (the simple or abs.…"; H7931 שָׁכַן "to reside or permanently stay…" |
-|  | . |  |  |
-
-### Proverbs 10:31: 1 word(s) changed
-
-Reply line 13.
-
-Original: פִּי צַדִּיק יָנוּב חָכְמָה וּ/לְשׁוֹן תַּהְפֻּכוֹת תִּכָּרֵת
-
-Persian: از دهانِ پارسایان حکمت می‌روید، اما زبانِ منحرف بریده خواهد_شد.
-
-Original words:
-- o1: פִּי = H6310 פֶּה "the mouth (as the means of blowing)…" [HNcmsc]
-- o2: צַדִּיק = H6662 צַדִּיק "just" [HAamsa]
-- o3: יָנוּב = H5107 נוּב "to germinate, i.e. (figuratively) to (causatively…" [HVqi3ms]
-- o4: חָכְמָה = H2451 חׇכְמָה "wisdom (in a good sense)" [HNcfsa]
-- o5: וּ/לְשׁוֹן = Hc "and" + H3956 לָשׁוֹן "the tongue (of man or animals)…" [HC/Ncbsc]
-- o6: תַּהְפֻּכוֹת = H8419 תַּהְפֻּכָה "a perversity or fraud" [HNcfpa]
-- o7: תִּכָּרֵת = H3772 כָּרַת "to cut (off, down or asunder)…" [HVNi3fs]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | از |  |  |
-|  | دهانِ | H6310 | H6310 |
-|  | پارسایان | H6662 | H6662 |
-|  | حکمت | H2451 | H2451 |
-|  | می‌روید | H5107 | H5107 |
-|  | ، |  |  |
-|  | اما | Hc | Hc |
-|  | زبانِ | H3956 | H3956 |
-| ✱ | منحرف | H6662 צַדִּיק "just"; H8419 תַּהְפֻּכָה "a perversity or fraud" | H8419 תַּהְפֻּכָה "a perversity or fraud" |
-|  | بریده | [بریده خواهد_شد] H3772 | [بریده خواهد_شد] H3772 |
-|  | خواهد_شد | [بریده خواهد_شد] H3772 | [بریده خواهد_شد] H3772 |
+| ✱ | باقی |  | [باقی نخواهند ماند] H3808 לֹא "not (the simple or abs.…"; H7931 שָׁכַן "to reside or permanently stay…" |
+| ✱ | نخواهند | [نخواهند ماند] H3808 לֹא "not (the simple or abs.…" | [باقی نخواهند ماند] H3808 לֹא "not (the simple or abs.…"; H7931 שָׁכַן "to reside or permanently stay…" |
+| ✱ | ماند | [نخواهند ماند] H3808 לֹא "not (the simple or abs.…" | [باقی نخواهند ماند] H3808 לֹא "not (the simple or abs.…"; H7931 שָׁכַן "to reside or permanently stay…" |
 |  | . |  |  |

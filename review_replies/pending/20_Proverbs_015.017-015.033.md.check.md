@@ -1,12 +1,14 @@
 # Check of 20_Proverbs_015.017-015.033.md
 
-Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-06 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
-## 14 verse(s) with changes
+No change from the current tags (will be skipped): Proverbs 15:18, Proverbs 15:20, Proverbs 15:26.
 
-### Proverbs 15:17: 2 word(s) changed
+## 11 verse(s) with changes
 
-Reply line 2.
+### Proverbs 15:17: 4 word(s) changed
+
+Reply line 2. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: טוֹב אֲרֻחַת יָרָק וְ/אַהֲבָה שָׁם מִ/שּׁוֹר אָבוּס וְ/שִׂנְאָה ב/וֹ
 
@@ -28,54 +30,21 @@ Original words:
 |  | سفرۀ | H737 | H737 |
 |  | محقر | H3419 | H3419 |
 |  | ، |  |  |
-|  | با |  |  |
+| ✱ | با | Hc "and" |  |
 |  | محبت | H160 | H160 |
 |  | ، |  |  |
 |  | بِه | H2896 | H2896 |
 |  | از | Hm | Hm |
 | ✱ | ضیافت | H75 אָבַס "to fodder" | H7794 שׁוֹר "a bullock (as a traveller)" |
-| ✱ | شاهانه |  | H75 אָבַס "to fodder" |
+| ✱ | شاهانه | H7794 שׁוֹר "a bullock (as a traveller)" | H75 אָבַס "to fodder" |
 |  | ، |  |  |
-|  | با |  |  |
+| ✱ | با | Hc "and" |  |
 |  | نفرت | H8135 | H8135 |
-|  | . |  |  |
-
-### Proverbs 15:18: 1 word(s) changed
-
-Reply line 3.
-
-Original: אִישׁ חֵמָה יְגָרֶה מָדוֹן וְ/אֶרֶך אַפַּיִם יַשְׁקִיט רִיב
-
-Persian: مرد تندخو نزاعها برمی‌انگیزد، اما شخص دیرخشم مرافعه را فرو~می‌نشاند.
-
-Original words:
-- o1: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsc]
-- o2: חֵמָה = H2534 חֵמָה "heat; figuratively, anger, poison (from its fever)" [HNcfsa]
-- o3: יְגָרֶה = H1624 גָּרָה "properly, to grate, i.e. (figuratively) to anger" [HVpi3ms]
-- o4: מָדוֹן = H4066 מָדוֹן "a contest or quarrel" [HNcmsa]
-- o5: וְ/אֶרֶך = Hc "and" + H750 אָרֵךְ "long" [HC/Aamsc]
-- o6: אַפַּיִם = H639 אַף "properly, the nose or nostril…" [HNcmda]
-- o7: יַשְׁקִיט = H8252 שָׁקַט "to repose (usually figurative)" [HVhi3ms]
-- o8: רִיב = H7379 רִיב "a contest (personal or legal)" [HNcbsa]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | مرد | H376 | H376 |
-|  | تندخو | H2534 | H2534 |
-|  | نزاعها | H4066 | H4066 |
-|  | برمی‌انگیزد | H1624 | H1624 |
-|  | ، |  |  |
-|  | اما | Hc | Hc |
-|  | شخص |  |  |
-| ✱ | دیرخشم | H639 אַף "properly, the nose or nostril…" | H750 אָרֵךְ "long"; H639 אַף "properly, the nose or nostril…" |
-|  | مرافعه | H7379 | H7379 |
-|  | را |  |  |
-|  | فرو~می‌نشاند | H8252 | H8252 |
 |  | . |  |  |
 
 ### Proverbs 15:19: 3 word(s) changed
 
-Reply line 4.
+Reply line 4. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: דֶּרֶךְ עָצֵל כִּ/מְשֻׂכַת חָדֶק וְ/אֹרַח יְשָׁרִים סְלֻלָה
 
@@ -103,48 +72,9 @@ Original words:
 |  | شاهراه | H5549 | H5549 |
 |  | . |  |  |
 
-### Proverbs 15:20: 1 word(s) changed
+### Proverbs 15:22: 4 word(s) changed
 
-Reply line 5.
-
-Original: בֵּן חָכָם יְשַׂמַּח אָב וּ/כְסִיל אָדָם בּוֹזֶה אִמּ/וֹ
-
-Persian: فرزند حکیم، مایۀ شادی پدر است، اما مرد نادان، مادر خویش را خوار می‌شمارد.
-
-Original words:
-- o1: בֵּן = H1121 בֵּן "a son (as a builder of the family name)…" [HNcmsa]
-- o2: חָכָם = H2450 חָכָם "wise, (i.e. intelligent, skilful or artful)" [HAamsa]
-- o3: יְשַׂמַּח = H8055 שָׂמַח "probably to brighten up…" [HVpi3ms]
-- o4: אָב = H1 אָב "father, in a literal and immediate…" [HNcmsa]
-- o5: וּ/כְסִיל = Hc "and" + H3684 כְּסִיל "properly, fat, i.e. (figuratively) stupid or silly" [HC/Aamsa]
-- o6: אָדָם = H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HNcmsa]
-- o7: בּוֹזֶה = H959 בָּזָה "to disesteem" [HVqrmsa]
-- o8: אִמּ/וֹ = H517 אֵם "a mother (as the bond of the family)…" [HNcfsc/Sp3ms]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-| ✱ | فرزند |  | H1121 בֵּן "a son (as a builder of the…" |
-|  | حکیم | H2450 | H2450 |
-|  | ، |  |  |
-|  | مایۀ | [مایۀ شادی] H8055 | [مایۀ شادی] H8055 |
-|  | شادی | [مایۀ شادی] H8055 | [مایۀ شادی] H8055 |
-|  | پدر | H1 | H1 |
-|  | است |  |  |
-|  | ، |  |  |
-|  | اما | Hc | Hc |
-|  | مرد | H120 | H120 |
-|  | نادان | H3684 | H3684 |
-|  | ، |  |  |
-|  | مادر | H517 | H517 |
-|  | خویش |  |  |
-|  | را |  |  |
-|  | خوار | [خوار می‌شمارد] H959 | [خوار می‌شمارد] H959 |
-|  | می‌شمارد | [خوار می‌شمارد] H959 | [خوار می‌شمارد] H959 |
-|  | . |  |  |
-
-### Proverbs 15:22: 6 word(s) changed
-
-Reply line 6.
+Reply line 6. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: הָפֵר מַחֲשָׁבוֹת בְּ/אֵין סוֹד וּ/בְ/רֹב יוֹעֲצִים תָּקוּם
 
@@ -164,11 +94,11 @@ Original words:
 | ✱ | بی | H369 אַיִן "a non-entity…" | Hb "in"; H369 אַיִן "a non-entity…" |
 |  | مشورت | H5475 | H5475 |
 |  | ، |  |  |
-| ✱ | تدبیرها | H4284 מַחֲשָׁבָה "a contrivance…"; H5475 סוֹד "a session…" | H4284 מַחֲשָׁבָה "a contrivance…" |
+|  | تدبیرها | H4284 | H4284 |
 |  | باطل | [باطل می‌شود] H6565 | [باطل می‌شود] H6565 |
 |  | می‌شود | [باطل می‌شود] H6565 | [باطل می‌شود] H6565 |
 |  | ، |  |  |
-| ✱ | با |  | Hb "in" |
+|  | با | Hb | Hb |
 |  | مشاوران | H3289 | H3289 |
 |  | بسیار | H7230 | H7230 |
 |  | ، |  |  |
@@ -177,13 +107,13 @@ Original words:
 | ✱ | می‌رسد | H6965 קוּם "to rise (in various…" | [به ثمر می‌رسد] H6965 קוּם "to rise (in various…" |
 |  | . |  |  |
 
-### Proverbs 15:23: 4 word(s) changed
+### Proverbs 15:23: 3 word(s) changed
 
-Reply line 7.
+Reply line 7. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: שִׂמְחָה לָ/אִישׁ בְּ/מַעֲנֵה פִי/ו וְ/דָבָר בְּ/עִתּ/וֹ מַה טּוֹב
 
-Persian: انسان از دادنِ پاسخ شایسته شادمان می‌شود، چه نیکوست سخنی که به وقتش گفته_شود!
+Persian: انسان از دادنِ پاسخ شایسته شادمان می‌شود، چه نیکوست سخنی که به وقتش گفته شود!
 
 Original words:
 - o1: שִׂמְחָה = H8057 שִׂמְחָה "blithesomeness or glee, (religious or festival)" [HNcfsa]
@@ -198,7 +128,7 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | انسان | H376 | H376 |
-| ✱ | از |  | Hb "in" |
+|  | از | Hb | Hb |
 |  | دادنِ |  |  |
 |  | پاسخ | H4617 | H4617 |
 | ✱ | شایسته | H6310 פֶּה "the mouth (as the means of…" |  |
@@ -211,12 +141,13 @@ Original words:
 |  | که |  |  |
 |  | به | Hb | Hb |
 |  | وقتش | H6256 | H6256 |
-|  | گفته_شود |  |  |
+|  | گفته | [گفته شود]  | [گفته شود]  |
+|  | شود | [گفته شود]  | [گفته شود]  |
 |  | ! |  |  |
 
-### Proverbs 15:24: 6 word(s) changed
+### Proverbs 15:24: 4 word(s) changed
 
-Reply line 8.
+Reply line 8. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: אֹרַח חַיִּים לְ/מַעְלָ/ה לְ/מַשְׂכִּיל לְמַעַן סוּר מִ/שְּׁאוֹל מָטָּה
 
@@ -236,12 +167,12 @@ Original words:
 | --- | --- | --- | --- |
 |  | سفر | H734 | H734 |
 |  | زندگی | H2416 | H2416 |
-| ✱ | برای |  | Hl "to" |
+|  | برای | Hl | Hl |
 |  | دانایان | H7919 | H7919 |
 | ✱ | به |  | Hl "to" |
-| ✱ | سوی | [سوی بالا است] H4605 מַעַל "properly, the upper part…" | [سوی بالا] H4605 מַעַל "properly, the upper part…" |
-| ✱ | بالا | [سوی بالا است] H4605 מַעַל "properly, the upper part…" | [سوی بالا] H4605 מַעַל "properly, the upper part…" |
-| ✱ | است | [سوی بالا است] H4605 מַעַל "properly, the upper part…" |  |
+| ✱ | سوی |  | [سوی بالا] H4605 מַעַל "properly, the upper part…" |
+| ✱ | بالا | H4605 מַעַל "properly, the upper part…" | [سوی بالا] H4605 מַעַל "properly, the upper part…" |
+|  | است |  |  |
 |  | ، |  |  |
 |  | تا | H4616 | H4616 |
 |  | آنان |  |  |
@@ -256,7 +187,7 @@ Original words:
 
 ### Proverbs 15:25: 2 word(s) changed
 
-Reply line 9.
+Reply line 9. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: בֵּית גֵּאִים יִסַּח יְהוָה וְ/יַצֵּב גְּבוּל אַלְמָנָה
 
@@ -288,51 +219,13 @@ Original words:
 | ✱ | می‌دارد | H5324 נָצַב "to station…" | [پاس می‌دارد] H5324 נָצַב "to station…" |
 |  | . |  |  |
 
-### Proverbs 15:26: 2 word(s) changed
-
-Reply line 10.
-
-Original: תּוֹעֲבַת יְהוָה מַחְשְׁבוֹת רָע וּ/טְהֹרִים אִמְרֵי נֹעַם
-
-Persian: افکار پلید در نظر خداوند کراهت‌آور است، اما سخنان پسندیده، در نظر او طاهر است.
-
-Original words:
-- o1: תּוֹעֲבַת = H8441 תּוֹעֵבַה "properly, something disgusting (morally)…" [HNcfsc]
-- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
-- o3: מַחְשְׁבוֹת = H4284 מַחֲשָׁבָה "a contrivance, i.e. (concretely) a texture…" [HNcfpc]
-- o4: רָע = H7451 רַע "bad or (as noun) evil (natural or moral)" [HAamsa]
-- o5: וּ/טְהֹרִים = Hc "and" + H2889 טָהוֹר "pure (in a physical, chemical…" [HC/Aampa]
-- o6: אִמְרֵי = H561 אֵמֶר "something said" [HNcmpc]
-- o7: נֹעַם = H5278 נֹעַם "agreeableness, i.e. delight, suitableness…" [HNcmsa]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | افکار | H4284 | H4284 |
-|  | پلید | H7451 | H7451 |
-|  | در |  |  |
-|  | نظر |  |  |
-| ✱ | خداوند | H7451 רַע "bad or (as noun) evil…" | H3068 יְהֹוָה "Jehovah…" |
-|  | کراهت‌آور | H8441 | H8441 |
-|  | است |  |  |
-|  | ، |  |  |
-|  | اما | Hc | Hc |
-| ✱ | سخنان | H4284 מַחֲשָׁבָה "a contrivance…"; H561 אֵמֶר "something said"; H5278 נֹעַם "agreeableness, i.e. delight…" | H561 אֵמֶר "something said" |
-|  | پسندیده | H5278 | H5278 |
-|  | ، |  |  |
-|  | در |  |  |
-|  | نظر |  |  |
-|  | او |  |  |
-|  | طاهر | H2889 | H2889 |
-|  | است |  |  |
-|  | . |  |  |
-
 ### Proverbs 15:27: 6 word(s) changed
 
-Reply line 11.
+Reply line 11. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: עֹכֵר בֵּית/וֹ בּוֹצֵעַ בָּצַע וְ/שׂוֹנֵא מַתָּנֹת יִחְיֶה
 
-Persian: طالبِ سودِ نامشروع، خانوادۀ خویش را به دردسر می‌افکند، اما آن که از رشوه نفرت کند، خواهد_زیست.
+Persian: طالبِ سودِ نامشروع، خانوادۀ خویش را به دردسر می‌افکند، اما آن که از رشوه نفرت کند، خواهد زیست.
 
 Original words:
 - o1: עֹכֵר = H5916 עָכַר "properly, to roil water…" [HVqrmsa]
@@ -346,8 +239,8 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 | ✱ | طالبِ | H5916 עָכַר "properly, to roil water…" | H1214 בָּצַע "figuratively, to finish…" |
-| ✱ | سودِ | H1214 בָּצַע "figuratively, to finish…" | [سودِ نامشروع] H1215 בֶּצַע "plunder…" |
-| ✱ | نامشروع | H1214 בָּצַע "figuratively, to finish…"; H1215 בֶּצַע "plunder…" | [سودِ نامشروع] H1215 בֶּצַע "plunder…" |
+| ✱ | سودِ | H1214 בָּצַע "figuratively, to finish…"; H1215 בֶּצַע "plunder…" | [سودِ نامشروع] H1215 בֶּצַע "plunder…" |
+| ✱ | نامشروع | H1215 בֶּצַע "plunder…" | [سودِ نامشروع] H1215 בֶּצַע "plunder…" |
 |  | ، |  |  |
 |  | خانوادۀ | H1004 | H1004 |
 |  | خویش |  |  |
@@ -364,12 +257,13 @@ Original words:
 |  | نفرت | [نفرت کند] H8130 | [نفرت کند] H8130 |
 |  | کند | [نفرت کند] H8130 | [نفرت کند] H8130 |
 |  | ، |  |  |
-|  | خواهد_زیست | H2421 | H2421 |
+|  | خواهد | [خواهد زیست] H2421 | [خواهد زیست] H2421 |
+|  | زیست | [خواهد زیست] H2421 | [خواهد زیست] H2421 |
 |  | . |  |  |
 
 ### Proverbs 15:28: 5 word(s) changed
 
-Reply line 12.
+Reply line 12. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: לֵב צַדִּיק יֶהְגֶּה לַ/עֲנוֹת וּ/פִי רְשָׁעִים יַבִּיעַ רָעוֹת
 
@@ -396,22 +290,22 @@ Original words:
 |  | ، |  |  |
 |  | اما | Hc | Hc |
 |  | دهانِ | H6310 | H6310 |
-| ✱ | شریران |  | H7563 רָשָׁע "morally wrong…" |
-| ✱ | سیل | H7563 רָשָׁע "morally wrong…" | H5042 נָבַע "to gush forth…" |
-| ✱ | سخنان | H5042 נָבַע "to gush forth…"; H7451 רַע "bad or (as noun) evil…" | H7451 רַע "bad or (as noun) evil…" |
+| ✱ | شریران | [شریران سیل] H7563 רָשָׁע "morally wrong…" | H7563 רָשָׁע "morally wrong…" |
+| ✱ | سیل | [شریران سیل] H7563 רָשָׁע "morally wrong…" | H5042 נָבַע "to gush forth…" |
+| ✱ | سخنان | H5042 נָבַע "to gush forth…" | H7451 רַע "bad or (as noun) evil…" |
 |  | بد | H7451 | H7451 |
 |  | را |  |  |
-| ✱ | روان | H7451 רַע "bad or (as noun) evil…" | [روان می‌سازد] H5042 נָבַע "to gush forth…" |
+| ✱ | روان |  | [روان می‌سازد] H5042 נָבַע "to gush forth…" |
 | ✱ | می‌سازد |  | [روان می‌سازد] H5042 נָבַע "to gush forth…" |
 |  | . |  |  |
 
-### Proverbs 15:31: 4 word(s) changed
+### Proverbs 15:31: 3 word(s) changed
 
-Reply line 13.
+Reply line 13. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: אֹזֶן שֹׁמַעַת תּוֹכַחַת חַיִּים בְּ/קֶרֶב חֲכָמִים תָּלִין
 
-Persian: آن که به توبیخِ جانبخش گوش فرا~می‌دهد، در میان حکیمان ساکن خواهد_شد.
+Persian: آن که به توبیخِ جانبخش گوش فرا می‌دهد، در میان حکیمان ساکن خواهد شد.
 
 Original words:
 - o1: אֹזֶן = H241 אֹזֶן "broadness. i.e. (concrete) the ear (from its form…" [HNcfsa]
@@ -430,18 +324,20 @@ Original words:
 | ✱ | توبیخِ | [توبیخِ جانبخش] H8433 תּוֹכֵחָה "chastisement…" | H8433 תּוֹכֵחָה "chastisement…" |
 | ✱ | جانبخش | [توبیخِ جانبخش] H8433 תּוֹכֵחָה "chastisement…" | H2416 חַי "alive; hence, raw (flesh)…" |
 | ✱ | گوش | H241 אֹזֶן "broadness. i.e. (concrete)…"; H8433 תּוֹכֵחָה "chastisement…" | H241 אֹזֶן "broadness. i.e. (concrete)…" |
-|  | فرا~می‌دهد | H8085 | H8085 |
+|  | فرا | [فرا می‌دهد] H8085 | [فرا می‌دهد] H8085 |
+|  | می‌دهد | [فرا می‌دهد] H8085 | [فرا می‌دهد] H8085 |
 |  | ، |  |  |
-| ✱ | در | Hb "in"; H3885 לוּן "to stop (usually over night)…" | Hb "in" |
+|  | در | Hb | Hb |
 |  | میان | H7130 | H7130 |
 |  | حکیمان | H2450 | H2450 |
-|  | ساکن | [ساکن خواهد_شد] H3885 | [ساکن خواهد_شد] H3885 |
-|  | خواهد_شد | [ساکن خواهد_شد] H3885 | [ساکن خواهد_شد] H3885 |
+|  | ساکن | [ساکن خواهد شد] H3885 | [ساکن خواهد شد] H3885 |
+|  | خواهد | [ساکن خواهد شد] H3885 | [ساکن خواهد شد] H3885 |
+|  | شد | [ساکن خواهد شد] H3885 | [ساکن خواهد شد] H3885 |
 |  | . |  |  |
 
 ### Proverbs 15:32: 13 word(s) changed
 
-Reply line 14.
+Reply line 14. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: פּוֹרֵעַ מוּסָר מוֹאֵס נַפְשׁ/וֹ וְ/שׁוֹמֵעַ תּוֹכַחַת קוֹנֶה לֵּב
 
@@ -461,9 +357,9 @@ Original words:
 | --- | --- | --- | --- |
 |  | آن |  |  |
 |  | که |  |  |
-| ✱ | تأدیب | H4148 מוּסָר "properly, chastisement…"; H8433 תּוֹכֵחָה "chastisement…" | H4148 מוּסָר "properly, chastisement…" |
+|  | تأدیب | H4148 | H4148 |
 |  | را |  |  |
-| ✱ | ترک |  | [ترک گوید] H6544 פָּרַע "to loosen…" |
+| ✱ | ترک | H6544 פָּרַע "to loosen…"; H3988 מָאַס "to spurn…" | [ترک گوید] H6544 פָּרַע "to loosen…" |
 | ✱ | گوید |  | [ترک گوید] H6544 פָּרַע "to loosen…" |
 |  | ، |  |  |
 | ✱ | جان | [جان خویش] H5315 נֶפֶשׁ "properly…" | H5315 נֶפֶשׁ "properly…" |
@@ -475,8 +371,8 @@ Original words:
 |  | اما | Hc | Hc |
 |  | آن |  |  |
 |  | که |  |  |
-| ✱ | پذیرای |  | H8085 שָׁמַע "to hear intelligently (often…" |
-|  | توبیخ | H8433 | H8433 |
+| ✱ | پذیرای | [پذیرای توبیخ] H8433 תּוֹכֵחָה "chastisement…" | H8085 שָׁמַע "to hear intelligently (often…" |
+| ✱ | توبیخ | [پذیرای توبیخ] H8433 תּוֹכֵחָה "chastisement…" | H8433 תּוֹכֵחָה "chastisement…" |
 | ✱ | باشد | H8085 שָׁמַע "to hear intelligently (often…" |  |
 |  | ، |  |  |
 | ✱ | فهم | H7069 קָנָה "to erect, i.e. create…"; H3820 לֵב "the heart…" | H3820 לֵב "the heart…" |
@@ -486,9 +382,9 @@ Original words:
 | ✱ | می‌آورد |  | [به دست می‌آورد] H7069 קָנָה "to erect, i.e. create…" |
 |  | . |  |  |
 
-### Proverbs 15:33: 2 word(s) changed
+### Proverbs 15:33: 1 word(s) changed
 
-Reply line 15.
+Reply line 15. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: יִרְאַת יְהוָה מוּסַר חָכְמָה וְ/לִ/פְנֵי כָבוֹד עֲנָוָה
 
@@ -515,5 +411,5 @@ Original words:
 |  | فروتنی | H6038 | H6038 |
 |  | ، |  |  |
 | ✱ | پیشروِ | H6440 פָּנִים "the face (as the part that…" | Hl "to"; H6440 פָּנִים "the face (as the part that…" |
-| ✱ | عزّت | H3519 כָּבוֹד "properly, weight…"; H6038 עֲנָוָה "condescension…" | H3519 כָּבוֹד "properly, weight…" |
+|  | عزّت | H3519 | H3519 |
 |  | . |  |  |

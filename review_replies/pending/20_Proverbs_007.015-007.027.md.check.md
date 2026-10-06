@@ -1,12 +1,14 @@
 # Check of 20_Proverbs_007.015-007.027.md
 
-Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-06 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
-## 11 verse(s) with changes
+No change from the current tags (will be skipped): Proverbs 7:17.
 
-### Proverbs 7:15: 1 word(s) changed
+## 10 verse(s) with changes
 
-Reply line 2.
+### Proverbs 7:15: 4 word(s) changed
+
+Reply line 2. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: עַל כֵּן יָצָאתִי לִ/קְרָאתֶ/ךָ לְ/שַׁחֵר פָּנֶי/ךָ וָ/אֶמְצָאֶ/ךָּ
 
@@ -23,12 +25,12 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | پس | H5921 H3651 | H5921 H3651 |
+| ✱ | پس | H3651 כֵּן "properly, set upright…" | H5921 עַל "above, over, upon…"; H3651 כֵּן "properly, set upright…" |
 |  | به | Hl | Hl |
 |  | دیدار | H7125 | H7125 |
 |  | تو |  |  |
-|  | بیرون | [بیرون آمدم] H3318 | [بیرون آمدم] H3318 |
-|  | آمدم | [بیرون آمدم] H3318 | [بیرون آمدم] H3318 |
+| ✱ | بیرون | H3318 יָצָא "to go (causatively…" | [بیرون آمدم] H3318 יָצָא "to go (causatively…" |
+| ✱ | آمدم | H7125 קִרְאָה "an encountering, accidental…" | [بیرون آمدم] H3318 יָצָא "to go (causatively…" |
 | ✱ | و |  | Hc "and" |
 |  | تو |  |  |
 |  | را |  |  |
@@ -39,9 +41,9 @@ Original words:
 |  | یافتم | H4672 | H4672 |
 |  | ! |  |  |
 
-### Proverbs 7:16: 3 word(s) changed
+### Proverbs 7:16: 2 word(s) changed
 
-Reply line 3.
+Reply line 3. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: מַרְבַדִּים רָבַדְתִּי עַרְשִׂ/י חֲטֻבוֹת אֵטוּן מִצְרָיִם
 
@@ -63,42 +65,13 @@ Original words:
 | ✱ | دیباها | H4765 מַרְבַד "a coverlet" | H4765 מַרְבַד "a coverlet"; H2405 חֲטֻבָה "properly, a carving…" |
 |  | از |  |  |
 | ✱ | کتان | H2405 חֲטֻבָה "properly, a carving…" | H330 אֵטוּן "properly, twisted (yarn)…" |
-| ✱ | مصری | H330 אֵטוּן "properly, twisted (yarn)…"; H4714 מִצְרַיִם "Mitsrajim…" | H4714 מִצְרַיִם "Mitsrajim…" |
+|  | مصری | H4714 | H4714 |
 |  | گسترانیده‌ام | H7234 | H7234 |
 |  | ؛ |  |  |
 
-### Proverbs 7:17: 1 word(s) changed
-
-Reply line 4.
-
-Original: נַפְתִּי מִשְׁכָּבִ/י מֹר אֲהָלִים וְ/קִנָּמוֹן
-
-Persian: بسترم را با مُر و عود و دارچین عطرآگین کرده‌ام.
-
-Original words:
-- o1: נַפְתִּי = H5130 נוּף "to quiver (i.e. vibrate up and down…" [HVqp1cs]
-- o2: מִשְׁכָּבִ/י = H4904 מִשְׁכָּב "a bed (figuratively, a bier); abstractly, sleep…" [HNcmsc/Sp1cs]
-- o3: מֹר = H4753 מֹר "myrrh (as distilling in drops, and also as bitter)" [HNcmsa]
-- o4: אֲהָלִים = H174 אֲהָלִים "aloe wood (i.e. sticks)" [HNcmpa]
-- o5: וְ/קִנָּמוֹן = Hc "and" + H7076 קִנָּמוֹן "cinnamon bark (as in upright rolls)" [HC/Ncmsa]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-| ✱ | بسترم | H4904 מִשְׁכָּב "a bed (figuratively, a bier)…"; H4753 מֹר "myrrh (as distilling in drops…" | H4904 מִשְׁכָּב "a bed (figuratively, a bier)…" |
-|  | را |  |  |
-|  | با |  |  |
-|  | مُر | H4753 | H4753 |
-|  | و |  |  |
-|  | عود | H174 | H174 |
-|  | و | Hc | Hc |
-|  | دارچین | H7076 | H7076 |
-|  | عطرآگین | [عطرآگین کرده‌ام] H5130 | [عطرآگین کرده‌ام] H5130 |
-|  | کرده‌ام | [عطرآگین کرده‌ام] H5130 | [عطرآگین کرده‌ام] H5130 |
-|  | . |  |  |
-
 ### Proverbs 7:18: 3 word(s) changed
 
-Reply line 5.
+Reply line 5. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: לְכָ/ה נִרְוֶה דֹדִים עַד הַ/בֹּקֶר נִתְעַלְּסָה בָּ/אֳהָבִים
 
@@ -135,11 +108,11 @@ Original words:
 
 ### Proverbs 7:20: 6 word(s) changed
 
-Reply line 6.
+Reply line 6. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: צְרוֹר הַ/כֶּסֶף לָקַח בְּ/יָד/וֹ לְ/יוֹם הַ/כֵּסֶא יָבֹא בֵית/וֹ
 
-Persian: کیسۀ پر از پول با خود برده و تا بَد‌رِ کامل باز نخواهد_گشت.»
+Persian: کیسۀ پر از پول با خود برده و تا بَد‌رِ کامل باز نخواهد گشت.»
 
 Original words:
 - o1: צְרוֹר = H6872 צְרוֹר "a parcel (as packed up)…" [HNcmsc]
@@ -157,21 +130,22 @@ Original words:
 |  | پر |  |  |
 |  | از |  |  |
 |  | پول | H3701 | H3701 |
-| ✱ | با |  | Hb "in" |
-|  | خود | H3027 | H3027 |
+|  | با | Hb | Hb |
+| ✱ | خود |  | H3027 יָד "a hand (the open one…" |
 |  | برده | H3947 | H3947 |
 |  | و |  |  |
-| ✱ | تا |  | Hl "to" |
+|  | تا | Hl | Hl |
 | ✱ | بَد‌رِ | H3117 יוֹם "a day (as the warm hours)…" | [بَد‌رِ کامل] H3677 כֶּסֶא "properly…" |
 | ✱ | کامل | H3677 כֶּסֶא "properly…" | [بَد‌رِ کامل] H3677 כֶּסֶא "properly…" |
-| ✱ | باز |  | [باز نخواهد_گشت] H935 בּוֹא "to go or come (in a wide…" |
-| ✱ | نخواهد_گشت | H1004 בַּיִת "a house (in the greatest…" | [باز نخواهد_گشت] H935 בּוֹא "to go or come (in a wide…" |
+| ✱ | باز | H935 בּוֹא "to go or come (in a wide…" | [باز نخواهد گشت] H935 בּוֹא "to go or come (in a wide…" |
+| ✱ | نخواهد | [نخواهد گشت] H1004 בַּיִת "a house (in the greatest…" | [باز نخواهد گشت] H935 בּוֹא "to go or come (in a wide…" |
+| ✱ | گشت | [نخواهد گشت] H1004 בַּיִת "a house (in the greatest…" | [باز نخواهد گشت] H935 בּוֹא "to go or come (in a wide…" |
 |  | . |  |  |
 |  | » |  |  |
 
-### Proverbs 7:21: 3 word(s) changed
+### Proverbs 7:21: 2 word(s) changed
 
-Reply line 7.
+Reply line 7. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: הִטַּתּ/וּ בְּ/רֹב לִקְחָ/הּ בְּ/חֵלֶק שְׂפָתֶי/הָ תַּדִּיחֶ/נּוּ
 
@@ -193,9 +167,9 @@ Original words:
 |  | با | Hb | Hb |
 |  | سخنان | H3948 | H3948 |
 |  | بسیار | H7230 | H7230 |
-| ✱ | بفریفت |  | H5186 נָטָה "to stretch or spread out…" |
+| ✱ | بفریفت | H2506 חֵלֶק "properly…" | H5186 נָטָה "to stretch or spread out…" |
 |  | و |  |  |
-| ✱ | با |  | Hb "in" |
+|  | با | Hb | Hb |
 | ✱ | چرب‌زبانی | H8193 שָׂפָה "the lip (as a natural…" | H2506 חֵלֶק "properly…"; H8193 שָׂפָה "the lip (as a natural…" |
 |  | اغوا | [اغوا کرد] H5080 | [اغوا کرد] H5080 |
 |  | کرد | [اغوا کرد] H5080 | [اغوا کرد] H5080 |
@@ -203,7 +177,7 @@ Original words:
 
 ### Proverbs 7:22: 4 word(s) changed
 
-Reply line 8.
+Reply line 8. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: הוֹלֵךְ אַחֲרֶי/הָ פִּתְאֹם כְּ/שׁוֹר אֶל טָבַח יָבוֹא וּ/כְ/עֶכֶס אֶל מוּסַר אֱוִיל
 
@@ -248,13 +222,13 @@ Original words:
 |  | می‌آید |  |  |
 |  | ، |  |  |
 
-### Proverbs 7:23: 7 word(s) changed
+### Proverbs 7:23: 5 word(s) changed
 
-Reply line 9.
+Reply line 9. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: עַד יְפַלַּח חֵץ כְּבֵד/וֹ כְּ/מַהֵר צִפּוֹר אֶל פָּח וְ/לֹא יָדַע כִּי בְ/נַפְשׁ/וֹ הוּא
 
-Persian: تا آنگاه که تیری بر جگرش می‌نشیند، چونان پرنده‌ای که به سوی دام می‌شتابد، و نمی‌داند که به بهای جانش تمام خواهد_شد.
+Persian: تا آنگاه که تیری بر جگرش می‌نشیند، چونان پرنده‌ای که به سوی دام می‌شتابد، و نمی‌داند که به بهای جانش تمام خواهد شد.
 
 Original words:
 - o1: עַד = H5704 עַד "as far (or long, or much) as…" [HR]
@@ -281,8 +255,8 @@ Original words:
 |  | جگرش | H3516 | H3516 |
 |  | می‌نشیند | H6398 | H6398 |
 |  | ، |  |  |
-| ✱ | چونان |  | Hk "like" |
-| ✱ | پرنده‌ای | H2671 חֵץ "properly, a piercer…"; H6833 צִפּוֹר "a little bird (as hopping)" | H6833 צִפּוֹר "a little bird (as hopping)" |
+|  | چونان | Hk | Hk |
+|  | پرنده‌ای | H6833 | H6833 |
 |  | که |  |  |
 | ✱ | به |  | [به سوی] H413 אֵל "near, with or among…" |
 | ✱ | سوی | H413 אֵל "near, with or among…" | [به سوی] H413 אֵל "near, with or among…" |
@@ -291,21 +265,22 @@ Original words:
 |  | ، |  |  |
 |  | و | Hc | Hc |
 | ✱ | نمی‌داند | H3045 יָדַע "to know (properly…" | H3808 לֹא "not (the simple or abs.…"; H3045 יָדַע "to know (properly…" |
-| ✱ | که |  | H3588 כִּי "by implication) very widely…" |
-| ✱ | به |  | Hb "in" |
-|  | بهای |  |  |
+|  | که | H3588 | H3588 |
+| ✱ | به | [به بهای] Hb "in" | Hb "in" |
+| ✱ | بهای | [به بهای] Hb "in" |  |
 |  | جانش | H5315 | H5315 |
 |  | تمام |  |  |
-|  | خواهد_شد |  |  |
+|  | خواهد | [خواهد شد]  | [خواهد شد]  |
+|  | شد | [خواهد شد]  | [خواهد شد]  |
 |  | . |  |  |
 
 ### Proverbs 7:24: 3 word(s) changed
 
-Reply line 10.
+Reply line 10. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: וְ/עַתָּה בָנִים שִׁמְעוּ לִ/י וְ/הַקְשִׁיבוּ לְ/אִמְרֵי פִ/י
 
-Persian: پس حال، ای پسرانم، به من گوش فرا~دهید و به آنچه می‌گویم توجه کنید.
+Persian: پس حال، ای پسرانم، به من گوش فرا دهید و به آنچه می‌گویم توجه کنید.
 
 Original words:
 - o1: וְ/עַתָּה = Hc "and" + H6258 עַתָּה "at this time, whether adverb…" [HC/D]
@@ -324,21 +299,22 @@ Original words:
 |  | ای |  |  |
 |  | پسرانم | H1121 | H1121 |
 |  | ، |  |  |
-|  | به | Hl | Hl |
-|  | من |  |  |
-|  | گوش | [گوش فرا~دهید] H8085 | [گوش فرا~دهید] H8085 |
-|  | فرا~دهید | [گوش فرا~دهید] H8085 | [گوش فرا~دهید] H8085 |
-|  | و | Hc | Hc |
 | ✱ | به |  | Hl "to" |
+|  | من |  |  |
+|  | گوش | [گوش فرا دهید] H8085 | [گوش فرا دهید] H8085 |
+|  | فرا | [گوش فرا دهید] H8085 | [گوش فرا دهید] H8085 |
+|  | دهید | [گوش فرا دهید] H8085 | [گوش فرا دهید] H8085 |
+|  | و | Hc | Hc |
+|  | به | Hl | Hl |
 | ✱ | آنچه |  | H561 אֵמֶר "something said" |
-| ✱ | می‌گویم |  | H6310 פֶּה "the mouth (as the means of…" |
+| ✱ | می‌گویم | H561 אֵמֶר "something said" | H6310 פֶּה "the mouth (as the means of…" |
 |  | توجه | [توجه کنید] H7181 | [توجه کنید] H7181 |
 |  | کنید | [توجه کنید] H7181 | [توجه کنید] H7181 |
 |  | . |  |  |
 
 ### Proverbs 7:25: 5 word(s) changed
 
-Reply line 11.
+Reply line 11. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: אַל יֵשְׂטְ אֶל דְּרָכֶי/הָ לִבֶּ/ךָ אַל תֵּתַע בִּ/נְתִיבוֹתֶי/הָ
 
@@ -365,13 +341,13 @@ Original words:
 |  | و |  |  |
 |  | در | Hb | Hb |
 |  | طریقهایش | H5410 | H5410 |
-| ✱ | گمراه | H7847 שָׂטָה "to deviate from duty"; H8582 תָּעָה "to vacillate…" | [گمراه نگردد] H408 אַל "not (the qualified negation…"; H8582 תָּעָה "to vacillate…" |
-| ✱ | نگردد | H408 אַל "not (the qualified negation…"; H8582 תָּעָה "to vacillate…" | [گمراه نگردد] H408 אַל "not (the qualified negation…"; H8582 תָּעָה "to vacillate…" |
+| ✱ | گمراه | [گمراه نگردد] H8582 תָּעָה "to vacillate…" | [گمراه نگردد] H408 אַל "not (the qualified negation…"; H8582 תָּעָה "to vacillate…" |
+| ✱ | نگردد | [گمراه نگردد] H8582 תָּעָה "to vacillate…" | [گمراه نگردد] H408 אַל "not (the qualified negation…"; H8582 תָּעָה "to vacillate…" |
 |  | . |  |  |
 
-### Proverbs 7:27: 3 word(s) changed
+### Proverbs 7:27: 1 word(s) changed
 
-Reply line 12.
+Reply line 12. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: דַּרְכֵי שְׁאוֹל בֵּיתָ/הּ יֹרְדוֹת אֶל חַדְרֵי מָוֶת
 
@@ -399,6 +375,6 @@ Original words:
 |  | به | H413 | H413 |
 |  | حُجره‌های | H2315 | H2315 |
 |  | مرگ | H4194 | H4194 |
-| ✱ | سرازیر |  | [سرازیر می‌شود] H3381 יָרַד "to descend (literally…" |
-| ✱ | می‌شود |  | [سرازیر می‌شود] H3381 יָרַד "to descend (literally…" |
+|  | سرازیر | [سرازیر می‌شود] H3381 | [سرازیر می‌شود] H3381 |
+|  | می‌شود | [سرازیر می‌شود] H3381 | [سرازیر می‌شود] H3381 |
 |  | . |  |  |

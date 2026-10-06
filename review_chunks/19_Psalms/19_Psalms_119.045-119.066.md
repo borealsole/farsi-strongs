@@ -84,7 +84,7 @@ Correct Persian tags (reviewed by hand):
 ### Psalms 119:45
 
 Original: וְ/אֶתְהַלְּכָה בָ/רְחָבָה כִּי פִקֻּדֶי/ךָ דָרָשְׁתִּי
-Persian: در آسایش گام خواهم_زد، زیرا جویای احکام تو بوده‌ام.
+Persian: در آسایش گام خواهم زد، زیرا جویای احکام تو بوده‌ام.
 
 Original words:
 - o1: וְ/אֶתְהַלְּכָה = Hc "and" + H1980 הָלַךְ "to walk (in a great variety of applications…" [HC/Vth1cs]
@@ -94,10 +94,10 @@ Original words:
 - o5: דָרָשְׁתִּי = H1875 דָּרַשׁ "properly, to tread or frequent…" [HVqp1cs]
 
 Persian entries and current tags:
-- p1: در
+- p1: در  → Hb
 - p2: آسایش
 - p3: گام  → H1980 H7342
-- p4: خواهم_زد  → H1980
+- p4: خواهم زد  → H1980
 - p5: ،
 - p6: زیرا  → H3588
 - p7: جویای  → H1875
@@ -109,7 +109,7 @@ Persian entries and current tags:
 ### Psalms 119:46
 
 Original: וַ/אֲדַבְּרָה בְ/עֵדֹתֶי/ךָ נֶגֶד מְלָכִים וְ/לֹא אֵבוֹשׁ
-Persian: در حضور پادشاهان از شهادات تو سخن خواهم_گفت و شرم نخواهم_داشت،
+Persian: در حضور پادشاهان از شهادات تو سخن خواهم گفت و شرم نخواهم داشت،
 
 Original words:
 - o1: וַ/אֲדַבְּרָה = Hc "and" + H1696 דָבַר "perhaps properly, to arrange…" [HC/Vph1cs]
@@ -120,18 +120,17 @@ Original words:
 - o6: אֵבוֹשׁ = H954 בּוּשׁ "properly, to pale…" [HVqi1cs]
 
 Persian entries and current tags:
-- p1: در
+- p1: در  → Hb
 - p2: حضور  → H5048
 - p3: پادشاهان  → H4428
 - p4: از
 - p5: شهادات  → H5713
 - p6: تو
-- p7: سخن  → H1696 H5713
-- p8: خواهم_گفت  → H1696
-- p9: و  → Hc
-- p10: شرم  → H954
-- p11: نخواهم_داشت  → H3808 H954
-- p12: ،
+- p7: سخن خواهم گفت  → H1696
+- p8: و  → Hc
+- p9: شرم  → H954
+- p10: نخواهم داشت  → H3808
+- p11: ،
 
 ### Psalms 119:47
 
@@ -159,7 +158,7 @@ Persian entries and current tags:
 ### Psalms 119:48
 
 Original: וְ/אֶשָּׂא כַפַּ/י אֶל מִצְוֺתֶי/ךָ אֲשֶׁר אָהָבְתִּי וְ/אָשִׂיחָה בְ/חֻקֶּי/ךָ
-Persian: فرمانهای تو را حرمت و دوست خواهم_داشت، و در فرایض تو تفکر خواهم_کرد.
+Persian: فرمانهای تو را حرمت و دوست خواهم داشت، و در فرایض تو تفکر خواهم کرد.
 
 Original words:
 - o1: וְ/אֶשָּׂא = Hc "and" + H5375 נָשָׂא "to lift, in a great variety of applications…" [HC/Vqi1cs]
@@ -172,18 +171,18 @@ Original words:
 - o8: בְ/חֻקֶּי/ךָ = Hb "in" + H2706 חֹק "an enactment…" [HR/Ncmpc/Sp2ms]
 
 Persian entries and current tags:
-- p1: فرمانهای  → H4687 H2706
+- p1: فرمانهای  → H4687
 - p2: تو
 - p3: را
-- p4: حرمت
+- p4: حرمت  → H5375
 - p5: و  → Hc
-- p6: دوست خواهم_داشت  → H157
+- p6: دوست خواهم داشت  → H157
 - p7: ،
 - p8: و  → Hc
 - p9: در  → Hb
 - p10: فرایض  → H2706
 - p11: تو
-- p12: تفکر خواهم_کرد  → H7878
+- p12: تفکر خواهم کرد  → H7878
 - p13: .
 
 ### Psalms 119:49
@@ -205,7 +204,7 @@ Persian entries and current tags:
 - p3: به  → Hl
 - p4: خادمت  → H5650
 - p5: را
-- p6: به
+- p6: به  → H5921
 - p7: یاد آر  → H2142
 - p8: ،
 - p9: که  → H834
@@ -235,11 +234,10 @@ Persian entries and current tags:
 - p6: است
 - p7: که  → H3588
 - p8: وعدۀ  → H565
-- p9: تو  → H2421
+- p9: تو
 - p10: مرا
-- p11: زنده  → H2421
-- p12: می‌گردانَد
-- p13: .
+- p11: زنده می‌گردانَد  → H2421
+- p12: .
 
 ### Psalms 119:51
 
@@ -257,7 +255,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: متکبرانْ  → H2086
-- p2: سخت  → H3966
+- p2: سخت  → H5704 H3966
 - p3: ریشخندم می‌کنند  → H3887
 - p4: ،
 - p5: اما
@@ -265,9 +263,8 @@ Persian entries and current tags:
 - p7: از  → Hm
 - p8: شریعت  → H8451
 - p9: تو
-- p10: روی
-- p11: نمی‌گردانم  → H3808
-- p12: .
+- p10: روی نمی‌گردانم  → H5186
+- p11: .
 
 ### Psalms 119:52
 
@@ -282,7 +279,7 @@ Original words:
 - o5: וָ/אֶתְנֶחָם = Hc "and" + H5162 נָחַם "properly, to sigh, i.e. breathe strongly…" [HC/Vtw1cs]
 
 Persian entries and current tags:
-- p1: خداوندا  → H3068
+- p1: خداوندا  → H2142 H3068
 - p2: ،
 - p3: قوانین  → H4941
 - p4: تو
@@ -293,17 +290,18 @@ Persian entries and current tags:
 - p9: است
 - p10: ،
 - p11: به
-- p12: یاد می‌آورم  → H2142
-- p13: ،
-- p14: و  → Hc
-- p15: تسلی  → H5162
-- p16: می‌پذیرم
-- p17: .
+- p12: یاد
+- p13: می‌آورم
+- p14: ،
+- p15: و  → Hc
+- p16: تسلی  → H5162
+- p17: می‌پذیرم
+- p18: .
 
 ### Psalms 119:53
 
 Original: זַלְעָפָה אֲחָזַתְ/נִי מֵ/רְשָׁעִים עֹזְבֵי תּוֹרָתֶ/ךָ
-Persian: حدت خشم مرا فرو~می‌گیرد، به سبب شریرانی که شریعت تو را ترک کرده‌اند.
+Persian: حدت خشم مرا فرو می‌گیرد، به سبب شریرانی که شریعت تو را ترک کرده‌اند.
 
 Original words:
 - o1: זַלְעָפָה = H2152 זַלְעָפָה "a glow (of wind or anger)…" [HNcfsa]
@@ -315,10 +313,10 @@ Original words:
 Persian entries and current tags:
 - p1: حدت خشم  → H2152
 - p2: مرا
-- p3: فرو~می‌گیرد  → H270
+- p3: فرو می‌گیرد  → H270
 - p4: ،
 - p5: به
-- p6: سبب
+- p6: سبب  → Hm
 - p7: شریرانی  → H7563
 - p8: که
 - p9: شریعت  → H8451
@@ -330,7 +328,7 @@ Persian entries and current tags:
 ### Psalms 119:54
 
 Original: זְמִרוֹת הָיוּ לִ/י חֻקֶּי/ךָ בְּ/בֵית מְגוּרָ/י
-Persian: در خانۀ غربت من، فرایض تو سرود من شده_است.
+Persian: در خانۀ غربت من، فرایض تو سرود من شده است.
 
 Original words:
 - o1: זְמִרוֹת = H2158 זָמִיר "a song to be accompanied with instrumental music" [HNcmpa]
@@ -343,14 +341,14 @@ Original words:
 Persian entries and current tags:
 - p1: در  → Hb
 - p2: خانۀ  → H1004
-- p3: غربت  → H2706 H4033
+- p3: غربت  → H4033
 - p4: من
 - p5: ،
 - p6: فرایض  → H2706
 - p7: تو
-- p8: سرود  → H2158 H4033
+- p8: سرود  → H2158
 - p9: من
-- p10: شده_است
+- p10: شده است
 - p11: .
 
 ### Psalms 119:55
@@ -384,7 +382,7 @@ Persian entries and current tags:
 ### Psalms 119:56
 
 Original: זֹאת הָיְתָה לִּ/י כִּי פִקֻּדֶי/ךָ נָצָרְתִּי
-Persian: این نصیب من شده_است زیرا احکام تو را نگاه داشته‌ام.
+Persian: این نصیب من شده است زیرا احکام تو را نگاه داشته‌ام.
 
 Original words:
 - o1: זֹאת = H2063 זֹאת "this (often used adverb)" [HPdxfs]
@@ -398,7 +396,7 @@ Persian entries and current tags:
 - p1: این  → H2063
 - p2: نصیب
 - p3: من
-- p4: شده_است
+- p4: شده است
 - p5: زیرا  → H3588
 - p6: احکام  → H6490
 - p7: تو
@@ -448,19 +446,17 @@ Persian entries and current tags:
 - p1: از
 - p2: دل  → H3820
 - p3: و
-- p4: جان
-- p5: روی  → H6440
-- p6: تو
-- p7: را
-- p8: می‌طلبم
-- p9: ،
-- p10: بنا
-- p11: به
-- p12: وعده‌ات  → H565
-- p13: مرا
-- p14: فیض  → H2603
-- p15: ببخشا
-- p16: !
+- p4: جان روی  → H6440
+- p5: تو
+- p6: را
+- p7: می‌طلبم  → H2470
+- p8: ،
+- p9: بنا  → Hk
+- p10: به
+- p11: وعده‌ات  → H565
+- p12: مرا
+- p13: فیض ببخشا  → H2603
+- p14: !
 
 ### Psalms 119:59
 
@@ -482,7 +478,7 @@ Persian entries and current tags:
 - p4: اندیشیده‌ام  → H2803
 - p5: ،
 - p6: و  → Hc
-- p7: گامهایم
+- p7: گامهایم  → H7272
 - p8: را
 - p9: به
 - p10: سوی  → H413
@@ -509,7 +505,7 @@ Persian entries and current tags:
 - p3: درنگ  → H4102
 - p4: نمی‌کنم  → H3808
 - p5: ،
-- p6: تا
+- p6: تا  → Hl
 - p7: فرمانهای  → H4687
 - p8: تو
 - p9: را
@@ -531,7 +527,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: ریسمانهای  → H2256
-- p2: شریران
+- p2: شریران  → H7563
 - p3: گرد  → H5749
 - p4: من
 - p5: می‌پیچد  → H5749
@@ -563,15 +559,14 @@ Persian entries and current tags:
 - p1: نیمه‌های  → H2676 H3915
 - p2: شب  → H3915
 - p3: برمی‌خیزم  → H6965
-- p4: تا
-- p5: سپاست  → H3034
-- p6: گویم
-- p7: ،
-- p8: به  → Hl
-- p9: جهت  → H5921
-- p10: قوانین  → H4941
-- p11: عادلانه‌ات  → H6664
-- p12: .
+- p4: تا  → Hl
+- p5: سپاست گویم  → H3034
+- p6: ،
+- p7: به  → Hl
+- p8: جهت  → Hl H5921
+- p9: قوانین  → H4941
+- p10: عادلانه‌ات  → H6664
+- p11: .
 
 ### Psalms 119:63
 
@@ -649,7 +644,7 @@ Original words:
 Persian entries and current tags:
 - p1: خداوندا  → H3068
 - p2: ،
-- p3: بنا
+- p3: بنا  → Hk
 - p4: به
 - p5: وعده‌ات  → H1697
 - p6: بر  → H5973
@@ -675,7 +670,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: مرا  → H3925
-- p2: معرفت  → H2940 H1847
+- p2: معرفت  → H1847
 - p3: و  → Hc
 - p4: تشخیص  → H2940
 - p5: درست  → H2898

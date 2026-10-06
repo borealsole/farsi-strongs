@@ -1,46 +1,14 @@
 # Check of 20_Proverbs_026.015-026.028.md
 
-Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-06 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
-## 12 verse(s) with changes
+No change from the current tags (will be skipped): Proverbs 26:15.
 
-### Proverbs 26:15: 1 word(s) changed
-
-Reply line 2.
-
-Original: טָמַן עָצֵל יָד/וֹ בַּ/צַּלָּחַת נִלְאָה לַ/הֲשִׁיבָ/הּ אֶל פִּי/ו
-
-Persian: کاهل دست به ظرف غذا فرو~می‌برد اما از تنبلی به دهان برنمی‌آورد!
-
-Original words:
-- o1: טָמַן = H2934 טָמַן "to hide (by covering over)" [HVqp3ms]
-- o2: עָצֵל = H6102 עָצֵל "indolent" [HAamsa]
-- o3: יָד/וֹ = H3027 יָד "a hand (the open one (indicating power, means…" [HNcbsc/Sp3ms]
-- o4: בַּ/צַּלָּחַת = Hb "in" + H6747 צַלַּחַת "something advanced or deep, i.e. a bowl…" [HRd/Ncfsa]
-- o5: נִלְאָה = H3811 לָאָה "to tire; (figuratively) to be (or make) disgusted" [HVNp3ms]
-- o6: לַ/הֲשִׁיבָ/הּ = Hl "to" + H7725 שׁוּב "to turn back (hence…" [HR/Vhc/Sp3fs]
-- o7: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
-- o8: פִּי/ו = H6310 פֶּה "the mouth (as the means of blowing)…" [HNcmsc/Sp3ms]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | کاهل | H6102 | H6102 |
-|  | دست | H3027 | H3027 |
-|  | به | Hb | Hb |
-|  | ظرف | [ظرف غذا] H6747 | [ظرف غذا] H6747 |
-|  | غذا | [ظرف غذا] H6747 | [ظرف غذا] H6747 |
-|  | فرو~می‌برد | H2934 | H2934 |
-|  | اما |  |  |
-|  | از |  |  |
-| ✱ | تنبلی |  | H3811 לָאָה "to tire…" |
-|  | به | H413 | H413 |
-|  | دهان | H6310 | H6310 |
-|  | برنمی‌آورد | H7725 | H7725 |
-|  | ! |  |  |
+## 11 verse(s) with changes
 
 ### Proverbs 26:16: 1 word(s) changed
 
-Reply line 3.
+Reply line 3. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: חָכָם עָצֵל בְּ/עֵינָי/ו מִ/שִּׁבְעָה מְשִׁיבֵי טָעַם
 
@@ -71,9 +39,9 @@ Original words:
 | ✱ | می‌دهند |  | H7725 שׁוּב "to turn back (hence…" |
 |  | ! |  |  |
 
-### Proverbs 26:17: 5 word(s) changed
+### Proverbs 26:17: 4 word(s) changed
 
-Reply line 4.
+Reply line 4. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: מַחֲזִיק בְּ/אָזְנֵי כָלֶב עֹבֵר מִתְעַבֵּר עַל רִיב לֹּא ל/וֹ
 
@@ -93,20 +61,20 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | کشیدن | H2388 | H2388 |
-| ✱ | گوش | H241 אֹזֶן "broadness. i.e. (concrete)…"; H3611 כֶּלֶב "a dog…" | H241 אֹזֶן "broadness. i.e. (concrete)…" |
+|  | گوش | H241 | H241 |
 |  | سگ | H3611 | H3611 |
-| ✱ | ولگرد |  | H5674 עָבַר "to cross over…" |
-|  | است |  |  |
+| ✱ | ولگرد | [ولگرد است] H5674 עָבַר "to cross over…" | H5674 עָבַר "to cross over…" |
+| ✱ | است | [ولگرد است] H5674 עָבַר "to cross over…" |  |
 |  | ، |  |  |
 | ✱ | دخالت | H3808 לֹא "not (the simple or abs.…" | H5674 עָבַר "to cross over…" |
-| ✱ | در |  | H5921 עַל "above, over, upon…" |
+|  | در | H5921 | H5921 |
 |  | مشاجرۀ | H7379 | H7379 |
-| ✱ | دیگران | H241 אֹזֶן "broadness. i.e. (concrete)…" | H3808 לֹא "not (the simple or abs.…"; Hl "to" |
+| ✱ | دیگران |  | H3808 לֹא "not (the simple or abs.…"; Hl "to" |
 |  | ! |  |  |
 
-### Proverbs 26:18: 5 word(s) changed
+### Proverbs 26:18: 4 word(s) changed
 
-Reply line 5.
+Reply line 5. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: כְּ/מִתְלַהְלֵהַּ הַ/יֹּרֶה זִקִּים חִצִּים וָ/מָוֶת
 
@@ -125,8 +93,8 @@ Original words:
 |  | را |  |  |
 | ✱ | مانَد | H3384 יָרָה "properly…" | Hk "like" |
 |  | که |  |  |
-| ✱ | تیرهای |  | H2671 חֵץ "properly, a piercer…" |
-| ✱ | آتشین | H2131 זִיקָה "properly, what leaps forth…"; H2671 חֵץ "properly, a piercer…" | H2131 זִיקָה "properly, what leaps forth…" |
+| ✱ | تیرهای | H3384 יָרָה "properly…"; H2671 חֵץ "properly, a piercer…" | H2671 חֵץ "properly, a piercer…" |
+|  | آتشین | H2131 | H2131 |
 |  | و | Hc | Hc |
 |  | مرگبار | H4194 | H4194 |
 | ✱ | پرتاب | H3384 יָרָה "properly…"; H2671 חֵץ "properly, a piercer…" | [پرتاب کند] H3384 יָרָה "properly…" |
@@ -135,7 +103,7 @@ Original words:
 
 ### Proverbs 26:20: 2 word(s) changed
 
-Reply line 6.
+Reply line 6. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: בְּ/אֶפֶס עֵצִים תִּכְבֶּה אֵשׁ וּ/בְ/אֵין נִרְגָּן יִשְׁתֹּק מָדוֹן
 
@@ -160,7 +128,7 @@ Original words:
 |  | خاموش | [خاموش می‌شود] H3518 | [خاموش می‌شود] H3518 |
 |  | می‌شود | [خاموش می‌شود] H3518 | [خاموش می‌شود] H3518 |
 |  | ؛ |  |  |
-| ✱ | بدون |  | Hb "in"; H369 אַיִן "a non-entity…" |
+| ✱ | بدون | H369 אַיִן "a non-entity…" | Hb "in"; H369 אַיִן "a non-entity…" |
 |  | سخن‌چینی | H5372 | H5372 |
 |  | ، |  |  |
 |  | مشاجره | H4066 | H4066 |
@@ -170,7 +138,7 @@ Original words:
 
 ### Proverbs 26:21: 1 word(s) changed
 
-Reply line 7.
+Reply line 7. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: פֶּחָם לְ/גֶחָלִים וְ/עֵצִים לְ/אֵשׁ וְ/אִישׁ מדונים לְ/חַרְחַר רִיב
 
@@ -209,11 +177,11 @@ Original words:
 
 ### Proverbs 26:22: 4 word(s) changed
 
-Reply line 8.
+Reply line 8. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: דִּבְרֵי נִרְגָּן כְּ/מִתְלַהֲמִים וְ/הֵם יָרְדוּ חַדְרֵי בָטֶן
 
-Persian: کلمات سخن‌چین لقمه‌های لذیذ را مانَد که به اعماق وجود انسان فرو~می‌رود.
+Persian: کلمات سخن‌چین لقمه‌های لذیذ را مانَد که به اعماق وجود انسان فرو می‌رود.
 
 Original words:
 - o1: דִּבְרֵי = H1697 דָּבָר "a word…" [HNcmpc]
@@ -228,21 +196,22 @@ Original words:
 | --- | --- | --- | --- |
 |  | کلمات | H1697 | H1697 |
 |  | سخن‌چین | H5372 | H5372 |
-|  | لقمه‌های | [لقمه‌های لذیذ] H3859 | [لقمه‌های لذیذ] H3859 |
-|  | لذیذ | [لقمه‌های لذیذ] H3859 | [لقمه‌های لذیذ] H3859 |
+| ✱ | لقمه‌های | H3859 לָהַם "properly, to burn in…" | [لقمه‌های لذیذ] H3859 לָהַם "properly, to burn in…" |
+| ✱ | لذیذ | H5372 נִרְגָּן "a slanderer"; H3859 לָהַם "properly, to burn in…" | [لقمه‌های لذیذ] H3859 לָהַם "properly, to burn in…" |
 |  | را |  |  |
 | ✱ | مانَد |  | Hk "like" |
 | ✱ | که |  | Hc "and"; H1992 הֵם "they (only used when emphatic)" |
 |  | به |  |  |
 |  | اعماق | H2315 | H2315 |
-| ✱ | وجود |  | [وجود انسان] H990 בֶּטֶן "the belly…" |
-| ✱ | انسان | H990 בֶּטֶן "the belly…" | [وجود انسان] H990 בֶּטֶן "the belly…" |
-|  | فرو~می‌رود | H3381 | H3381 |
+|  | وجود | [وجود انسان] H990 | [وجود انسان] H990 |
+|  | انسان | [وجود انسان] H990 | [وجود انسان] H990 |
+|  | فرو | [فرو می‌رود] H3381 | [فرو می‌رود] H3381 |
+|  | می‌رود | [فرو می‌رود] H3381 | [فرو می‌رود] H3381 |
 |  | . |  |  |
 
-### Proverbs 26:23: 7 word(s) changed
+### Proverbs 26:23: 6 word(s) changed
 
-Reply line 9.
+Reply line 9. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: כֶּסֶף סִיגִים מְצֻפֶּה עַל חָרֶשׂ שְׂפָתַיִם דֹּלְקִים וְ/לֶב רָע
 
@@ -264,12 +233,12 @@ Original words:
 |  | لبهای | H8193 | H8193 |
 | ✱ | پر |  | [پر شور] H1814 דָּלַק "to flame (literally or…" |
 | ✱ | شور | H1814 דָּלַק "to flame (literally or…" | [پر شور] H1814 דָּלַק "to flame (literally or…" |
-| ✱ | با |  | Hc "and" |
+|  | با | Hc | Hc |
 |  | دلی | H3820 | H3820 |
 |  | شریر | H7451 | H7451 |
 |  | ، |  |  |
-| ✱ | ظرفی |  | [ظرفی گِلی] H2789 חֶרֶשׂ "a piece of pottery" |
-| ✱ | گِلی | H5509 סִיג "scoria" | [ظرفی گِلی] H2789 חֶרֶשׂ "a piece of pottery" |
+| ✱ | ظرفی | H2789 חֶרֶשׂ "a piece of pottery" | [ظرفی گِلی] H2789 חֶרֶשׂ "a piece of pottery" |
+| ✱ | گِلی | H3701 כֶּסֶף "silver (from its pale color)…"; H5509 סִיג "scoria" | [ظرفی گِلی] H2789 חֶרֶשׂ "a piece of pottery" |
 |  | است |  |  |
 |  | اندوده | H6823 | H6823 |
 |  | به | H5921 | H5921 |
@@ -278,9 +247,9 @@ Original words:
 | ✱ | زنگار | H5509 סִיג "scoria" | [پُر زنگار] H5509 סִיג "scoria" |
 |  | ! |  |  |
 
-### Proverbs 26:24: 7 word(s) changed
+### Proverbs 26:24: 4 word(s) changed
 
-Reply line 10.
+Reply line 10. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: ב/שפת/ו יִנָּכֵר שׂוֹנֵא וּ/בְ/קִרְבּ/וֹ יָשִׁית מִרְמָה
 
@@ -298,15 +267,15 @@ Original words:
 | --- | --- | --- | --- |
 | ✱ | کینه‌توز | H5234 נָכַר "properly, to scrutinize…"; H8130 שָׂנֵא "to hate (personally)" | H8130 שָׂנֵא "to hate (personally)" |
 |  | با | Hb | Hb |
-| ✱ | سخنانش |  | H8193 שָׂפָה "the lip (as a natural…" |
-| ✱ | کینۀ | [کینۀ خود] H5234 נָכַר "properly, to scrutinize…" |  |
-| ✱ | خود | [کینۀ خود] H5234 נָכַר "properly, to scrutinize…" |  |
+|  | سخنانش | H8193 | H8193 |
+| ✱ | کینۀ | H5234 נָכַר "properly, to scrutinize…"; H8130 שָׂנֵא "to hate (personally)" |  |
+|  | خود |  |  |
 |  | را |  |  |
-| ✱ | پنهان | H7896 שִׁית "to place (in a very wide…" | [پنهان می‌کند] H5234 נָכַר "properly, to scrutinize…" |
-| ✱ | می‌کند | H5234 נָכַר "properly, to scrutinize…" | [پنهان می‌کند] H5234 נָכַר "properly, to scrutinize…" |
+| ✱ | پنهان | [پنهان می‌کند] H7896 שִׁית "to place (in a very wide…" | [پنهان می‌کند] H5234 נָכַר "properly, to scrutinize…" |
+| ✱ | می‌کند | [پنهان می‌کند] H7896 שִׁית "to place (in a very wide…" | [پنهان می‌کند] H5234 נָכַר "properly, to scrutinize…" |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | دل | H7130 | H7130 |
 |  | خویش |  |  |
 |  | فریب | H4820 | H4820 |
@@ -316,7 +285,7 @@ Original words:
 
 ### Proverbs 26:25: 2 word(s) changed
 
-Reply line 11.
+Reply line 11. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: כִּי יְחַנֵּן קוֹל/וֹ אַל תַּאֲמֶן בּ/וֹ כִּי שֶׁבַע תּוֹעֵבוֹת בְּ/לִבּ/וֹ
 
@@ -338,7 +307,7 @@ Original words:
 | --- | --- | --- | --- |
 |  | چون | H3588 | H3588 |
 | ✱ | به |  | [به نیکویی] H2603 חָנַן "properly…" |
-| ✱ | نیکویی |  | [به نیکویی] H2603 חָנַן "properly…" |
+| ✱ | نیکویی | H2603 חָנַן "properly…" | [به نیکویی] H2603 חָנַן "properly…" |
 |  | سخن | H6963 | H6963 |
 |  | گوید |  |  |
 |  | ، |  |  |
@@ -354,13 +323,13 @@ Original words:
 |  | است |  |  |
 |  | . |  |  |
 
-### Proverbs 26:27: 6 word(s) changed
+### Proverbs 26:27: 5 word(s) changed
 
-Reply line 12.
+Reply line 12. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: כֹּרֶה שַּׁחַת בָּ/הּ יִפֹּל וְ/גֹלֵל אֶבֶן אֵלָי/ו תָּשׁוּב
 
-Persian: هر که چاهی بکند، خود در آن خواهد_افتاد؛ هر که سنگی بغلتاند، به سوی او بر خواهد_گشت.
+Persian: هر که چاهی بکند، خود در آن خواهد افتاد؛ هر که سنگی بغلتاند، به سوی او بر خواهد گشت.
 
 Original words:
 - o1: כֹּרֶה = H3738 כָּרָה "properly, to dig; figuratively, to plot…" [HVqrmsa]
@@ -379,26 +348,28 @@ Original words:
 |  | چاهی | H7845 | H7845 |
 |  | بکند | H3738 | H3738 |
 |  | ، |  |  |
-| ✱ | خود | H5307 נָפַל "to fall…" |  |
-| ✱ | در |  | Hb "in" |
+|  | خود |  |  |
+|  | در | Hb | Hb |
 |  | آن |  |  |
-|  | خواهد_افتاد | H5307 | H5307 |
+|  | خواهد | [خواهد افتاد] H5307 | [خواهد افتاد] H5307 |
+|  | افتاد | [خواهد افتاد] H5307 | [خواهد افتاد] H5307 |
 |  | ؛ |  |  |
 |  | هر |  |  |
 |  | که |  |  |
 |  | سنگی | H68 | H68 |
 |  | بغلتاند | H1556 | H1556 |
 |  | ، |  |  |
-| ✱ | به | H413 אֵל "near, with or among…" | [به سوی] H413 אֵל "near, with or among…" |
+| ✱ | به |  | [به سوی] H413 אֵל "near, with or among…" |
 | ✱ | سوی |  | [به سوی] H413 אֵל "near, with or among…" |
 |  | او |  |  |
-| ✱ | بر | [بر خواهد_گشت] H1556 גָּלַל "to roll (literally or…" | [بر خواهد_گشت] H7725 שׁוּב "to turn back (hence…" |
-| ✱ | خواهد_گشت | [بر خواهد_گشت] H1556 גָּלַל "to roll (literally or…" | [بر خواهد_گشت] H7725 שׁוּב "to turn back (hence…" |
+| ✱ | بر |  | [بر خواهد گشت] H7725 שׁוּב "to turn back (hence…" |
+| ✱ | خواهد | [خواهد گشت]  | [بر خواهد گشت] H7725 שׁוּב "to turn back (hence…" |
+| ✱ | گشت | [خواهد گشت]  | [بر خواهد گشت] H7725 שׁוּב "to turn back (hence…" |
 |  | . |  |  |
 
-### Proverbs 26:28: 3 word(s) changed
+### Proverbs 26:28: 4 word(s) changed
 
-Reply line 13.
+Reply line 13. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: לְשׁוֹן שֶׁקֶר יִשְׂנָא דַכָּי/ו וּ/פֶה חָלָק יַעֲשֶׂה מִדְחֶה
 
@@ -426,7 +397,7 @@ Original words:
 |  | ، |  |  |
 |  | و | Hc | Hc |
 |  | دهان | H6310 | H6310 |
-|  | چاپلوس | H2509 | H2509 |
+| ✱ | چاپلوس | H6213 עָשָׂה "to do or make…" | H2509 חָלָק "smooth (especially of tongue)" |
 |  | ویرانی | H4072 | H4072 |
 | ✱ | به |  | [به بار می‌آورد] H6213 עָשָׂה "to do or make…" |
 | ✱ | بار |  | [به بار می‌آورد] H6213 עָשָׂה "to do or make…" |

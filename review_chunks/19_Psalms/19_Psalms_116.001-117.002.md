@@ -84,7 +84,7 @@ Correct Persian tags (reviewed by hand):
 ### Psalms 116:1
 
 Original: אָהַבְתִּי כִּי יִשְׁמַע יְהוָה אֶת קוֹלִ/י תַּחֲנוּנָ/י
-Persian: خداوند را دوست می‌دارم، زیرا که آواز من و فریاد التماسم را شنیده_است.
+Persian: خداوند را دوست می‌دارم، زیرا که آواز من و فریاد التماسم را شنیده است.
 
 Original words:
 - o1: אָהַבְתִּי = H157 אָהַב "to have affection for (sexually or otherwise)" [HVqp1cs]
@@ -105,16 +105,16 @@ Persian entries and current tags:
 - p7: آواز  → H6963
 - p8: من
 - p9: و
-- p10: فریاد
+- p10: فریاد  → H6963
 - p11: التماسم  → H8469
 - p12: را  → H853
-- p13: شنیده_است  → H8085
+- p13: شنیده است  → H8085
 - p14: .
 
 ### Psalms 116:2
 
 Original: כִּי הִטָּה אָזְנ/וֹ לִ/י וּ/בְ/יָמַ/י אֶקְרָא
-Persian: چون گوش خود را به من مایل گردانیده، در روزهای زندگی خود او را خواهم_خواند.
+Persian: چون گوش خود را به من مایل گردانیده، در روزهای زندگی خود او را خواهم خواند.
 
 Original words:
 - o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
@@ -126,7 +126,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: چون  → H3588
-- p2: گوش  → H241
+- p2: گوش  → H5186 H241
 - p3: خود
 - p4: را
 - p5: به  → Hl
@@ -139,7 +139,7 @@ Persian entries and current tags:
 - p12: خود
 - p13: او
 - p14: را
-- p15: خواهم_خواند  → H7121
+- p15: خواهم خواند  → H7121
 - p16: .
 
 ### Psalms 116:3
@@ -171,13 +171,12 @@ Persian entries and current tags:
 - p10: مرا
 - p11: درگرفت  → H4672
 - p12: ،
-- p13: به  → H4672
+- p13: به
 - p14: تنگی  → H6869
 - p15: و  → Hc
 - p16: اندوه  → H3015
-- p17: گرفتار
-- p18: آمدم
-- p19: .
+- p17: گرفتار آمدم  → H4672
+- p18: .
 
 ### Psalms 116:4
 
@@ -203,16 +202,17 @@ Persian entries and current tags:
 - p7: گفتم  → H7121
 - p8: :
 - p9: «
-- p10: آه  → H577 H3068
+- p10: آه  → H577
 - p11: ،
 - p12: ای
 - p13: خداوند  → H3068
 - p14: ،
 - p15: جانم  → H5315
 - p16: را
-- p17: خلاصی ده  → H4422
-- p18: !
-- p19: »
+- p17: خلاصی  → H4422
+- p18: ده  → H577
+- p19: !
+- p20: »
 
 ### Psalms 116:5
 
@@ -227,8 +227,8 @@ Original words:
 - o5: מְרַחֵם = H7355 רָחַם "to fondle…" [HVprmsa]
 
 Persian entries and current tags:
-- p1: خداوند  → H2587
-- p2: فیّاض
+- p1: خداوند  → H3068
+- p2: فیّاض  → H2587
 - p3: و  → Hc
 - p4: عادل  → H6662
 - p5: است
@@ -268,7 +268,7 @@ Persian entries and current tags:
 ### Psalms 116:7
 
 Original: שׁוּבִי נַפְשִׁ/י לִ/מְנוּחָיְ/כִי כִּי יְהוָה גָּמַל עָלָיְ/כִי
-Persian: ای جان من به استراحت خود برگرد، زیرا خداوند بر تو احسان کرده_است.
+Persian: ای جان من به استراحت خود برگرد، زیرا خداوند بر تو احسان کرده است.
 
 Original words:
 - o1: שׁוּבִי = H7725 שׁוּב "to turn back (hence…" [HVqv2fs]
@@ -292,7 +292,7 @@ Persian entries and current tags:
 - p10: خداوند  → H3068
 - p11: بر  → H5921
 - p12: تو
-- p13: احسان کرده_است  → H1580
+- p13: احسان کرده است  → H1580
 - p14: .
 
 ### Psalms 116:8
@@ -315,7 +315,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: زیرا  → H3588
-- p2: که  → H2502
+- p2: که
 - p3: تو
 - p4: جان  → H5315
 - p5: مرا
@@ -326,7 +326,7 @@ Persian entries and current tags:
 - p10: و
 - p11: چشمانم  → H5869
 - p12: را  → H853
-- p13: از
+- p13: از  → H4480
 - p14: اشک  → H1832
 - p15: ،
 - p16: و
@@ -349,7 +349,7 @@ Original words:
 - o5: הַ/חַיִּים = Hd "the" + H2416 חַי "alive; hence, raw (flesh)…" [HTd/Aampa]
 
 Persian entries and current tags:
-- p1: تا
+- p1: تا  → Hl
 - p2: در
 - p3: حضور  → H6440
 - p4: خداوند  → H3068
@@ -402,7 +402,7 @@ Original words:
 Persian entries and current tags:
 - p1: در  → Hb
 - p2: پریشانی  → H2648
-- p3: خود
+- p3: خود  → H589
 - p4: گفتم  → H559
 - p5: :
 - p6: «
@@ -415,7 +415,7 @@ Persian entries and current tags:
 ### Psalms 116:12
 
 Original: מָה אָשִׁיב לַ/יהוָה כָּל תַּגְמוּלוֹ/הִי עָלָ/י
-Persian: دِینِ خود را به خداوند چگونه ادا کنم، برای همۀ احسانهایی که به من کرده_است؟
+Persian: دِینِ خود را به خداوند چگونه ادا کنم، برای همۀ احسانهایی که به من کرده است؟
 
 Original words:
 - o1: מָה = H4100 מָה "properly…" [HTi]
@@ -426,7 +426,7 @@ Original words:
 - o6: עָלָ/י = H5921 עַל "above, over, upon…" [HR/Sp1cs]
 
 Persian entries and current tags:
-- p1: دِینِ  → H8408
+- p1: دِینِ
 - p2: خود
 - p3: را
 - p4: به
@@ -438,15 +438,15 @@ Persian entries and current tags:
 - p10: همۀ  → H3605
 - p11: احسانهایی  → H8408
 - p12: که
-- p13: به
+- p13: به  → H5921
 - p14: من
-- p15: کرده_است  → H7725
+- p15: کرده است
 - p16: ؟
 
 ### Psalms 116:13
 
 Original: כּוֹס יְשׁוּעוֹת אֶשָּׂא וּ/בְ/שֵׁם יְהוָה אֶקְרָא
-Persian: پیالۀ نجات را بر خواهم_افراشت و نام خداوند را خواهم_خواند.
+Persian: پیالۀ نجات را بر خواهم افراشت و نام خداوند را خواهم خواند.
 
 Original words:
 - o1: כּוֹס = H3563 כּוֹס "a cup (as a container), often figuratively…" [HNcfsc]
@@ -461,18 +461,18 @@ Persian entries and current tags:
 - p2: نجات  → H3444
 - p3: را
 - p4: بر
-- p5: خواهم_افراشت
+- p5: خواهم افراشت  → H5375
 - p6: و  → Hc
 - p7: نام  → H8034
 - p8: خداوند  → H3068
 - p9: را
-- p10: خواهم_خواند  → H7121
+- p10: خواهم خواند  → H7121
 - p11: .
 
 ### Psalms 116:14
 
 Original: נְדָרַ/י לַ/יהוָה אֲשַׁלֵּם נֶגְדָ/ה נָּא לְ/כָל עַמּ/וֹ
-Persian: نذرهای خود را به خداوند ادا خواهم_کرد، در حضور تمامی قومش.
+Persian: نذرهای خود را به خداوند ادا خواهم کرد، در حضور تمامی قومش.
 
 Original words:
 - o1: נְדָרַ/י = H5088 נֶדֶר "a promise (to God)…" [HNcmpc/Sp1cs]
@@ -489,7 +489,7 @@ Persian entries and current tags:
 - p3: را
 - p4: به  → Hl
 - p5: خداوند  → H3068
-- p6: ادا خواهم_کرد  → H7999
+- p6: ادا خواهم کرد  → H7999
 - p7: ،
 - p8: در
 - p9: حضور  → H5048
@@ -543,7 +543,7 @@ Persian entries and current tags:
 - p2: ،
 - p3: من  → H589
 - p4: بندۀ  → H5650
-- p5: تو‌ام
+- p5: تو‌ام  → H589
 - p6: ؛
 - p7: بندۀ  → H5650
 - p8: تو
@@ -561,7 +561,7 @@ Persian entries and current tags:
 ### Psalms 116:17
 
 Original: לְ/ךָ אֶזְבַּח זֶבַח תּוֹדָה וּ/בְ/שֵׁם יְהוָה אֶקְרָא
-Persian: قربانی شکرگزاری به تو تقدیم خواهم_کرد و نام خداوند را خواهم_خواند.
+Persian: قربانی شکرگزاری به تو تقدیم خواهم کرد و نام خداوند را خواهم خواند.
 
 Original words:
 - o1: לְ/ךָ = Hl "to" [HR/Sp2ms]
@@ -575,20 +575,20 @@ Original words:
 Persian entries and current tags:
 - p1: قربانی  → H2077
 - p2: شکرگزاری  → H8426
-- p3: به
+- p3: به  → Hl
 - p4: تو
-- p5: تقدیم خواهم_کرد  → H2076
+- p5: تقدیم خواهم کرد  → H2076
 - p6: و  → Hc
 - p7: نام  → H8034
 - p8: خداوند  → H3068
 - p9: را
-- p10: خواهم_خواند  → H7121
+- p10: خواهم خواند  → H7121
 - p11: .
 
 ### Psalms 116:18
 
 Original: נְדָרַ/י לַ/יהוָה אֲשַׁלֵּם נֶגְדָ/ה נָּא לְ/כָל עַמּ/וֹ
-Persian: نذرهای خود را به خداوند ادا خواهم_کرد، در حضور تمامی قومش،
+Persian: نذرهای خود را به خداوند ادا خواهم کرد، در حضور تمامی قومش،
 
 Original words:
 - o1: נְדָרַ/י = H5088 נֶדֶר "a promise (to God)…" [HNcmpc/Sp1cs]
@@ -605,7 +605,7 @@ Persian entries and current tags:
 - p3: را
 - p4: به  → Hl
 - p5: خداوند  → H3068
-- p6: ادا خواهم_کرد  → H7999
+- p6: ادا خواهم کرد  → H7999
 - p7: ،
 - p8: در
 - p9: حضور  → H5048
@@ -633,7 +633,7 @@ Persian entries and current tags:
 - p3: خانۀ  → H1004
 - p4: خداوند  → H3068
 - p5: ،
-- p6: در
+- p6: در  → Hb
 - p7: میان  → H8432
 - p8: تو
 - p9: ،
@@ -663,7 +663,7 @@ Persian entries and current tags:
 - p2: همۀ  → H3605
 - p3: قومها  → H1471
 - p4: ،
-- p5: خداوند
+- p5: خداوند  → H3068
 - p6: را  → H853
 - p7: بستایید  → H1984
 - p8: !
@@ -700,10 +700,10 @@ Persian entries and current tags:
 - p7: ما
 - p8: ،
 - p9: و  → Hc
-- p10: جاودانه  → H571 H5769
+- p10: جاودانه  → H5769
 - p11: است
 - p12: وفاداری  → H571
-- p13: خداوند  → H3068 H5769
+- p13: خداوند  → H3068
 - p14: .
 - p15: هَلِلویاه  → H1984 H3050
 - p16: !

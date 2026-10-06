@@ -84,7 +84,7 @@ Correct Persian tags (reviewed by hand):
 ### Psalms 119:23
 
 Original: גַּם יָשְׁבוּ שָׂרִים בִּ/י נִדְבָּרוּ עַבְדְּ/ךָ יָשִׂיחַ בְּ/חֻקֶּי/ךָ
-Persian: حتی اگر حاکمان در نشست خود بر ضد من فتوا دهند، خادمت در فرایض تو تأمل خواهد_کرد.
+Persian: حتی اگر حاکمان در نشست خود بر ضد من فتوا دهند، خادمت در فرایض تو تأمل خواهد کرد.
 
 Original words:
 - o1: גַּם = H1571 גַּם "properly, assemblage…" [HTa]
@@ -99,9 +99,9 @@ Original words:
 Persian entries and current tags:
 - p1: حتی  → H1571
 - p2: اگر
-- p3: حاکمان  → H3427 H8269
-- p4: در
-- p5: نشست  → H3427 H1696
+- p3: حاکمان  → H8269
+- p4: در  → Hb
+- p5: نشست  → H3427
 - p6: خود
 - p7: بر
 - p8: ضد
@@ -112,7 +112,7 @@ Persian entries and current tags:
 - p13: در  → Hb
 - p14: فرایض  → H2706
 - p15: تو
-- p16: تأمل خواهد_کرد  → H7878
+- p16: تأمل خواهد کرد  → H7878
 - p17: .
 
 ### Psalms 119:24
@@ -180,10 +180,10 @@ Original words:
 - o5: חֻקֶּי/ךָ = H2706 חֹק "an enactment…" [HNcmpc/Sp2ms]
 
 Persian entries and current tags:
-- p1: راههای  → H1870 H2706
+- p1: راههای  → H1870
 - p2: خود
 - p3: را
-- p4: برشمردم
+- p4: برشمردم  → H5608
 - p5: و  → Hc
 - p6: تو
 - p7: مرا
@@ -201,7 +201,7 @@ Persian entries and current tags:
 ### Psalms 119:27
 
 Original: דֶּרֶךְ פִּקּוּדֶי/ךָ הֲבִינֵ/נִי וְ/אָשִׂיחָה בְּ/נִפְלְאוֹתֶי/ךָ
-Persian: طریق احکامِ خود را به من بفهمان؛ آنگاه در شگفتی‌هایت تأمل خواهم_کرد.
+Persian: طریق احکامِ خود را به من بفهمان؛ آنگاه در شگفتی‌هایت تأمل خواهم کرد.
 
 Original words:
 - o1: דֶּרֶךְ = H1870 דֶּרֶךְ "a road (as trodden)…" [HNcbsc]
@@ -220,15 +220,15 @@ Persian entries and current tags:
 - p7: بفهمان  → H995
 - p8: ؛
 - p9: آنگاه  → Hc
-- p10: در
+- p10: در  → Hb
 - p11: شگفتی‌هایت  → H6381
-- p12: تأمل خواهم_کرد  → H7878
+- p12: تأمل خواهم کرد  → H7878
 - p13: .
 
 ### Psalms 119:28
 
 Original: דָּלְפָה נַפְשִׁ/י מִ/תּוּגָה קַיְּמֵ/נִי כִּ/דְבָרֶ/ךָ
-Persian: جان من از فرط اندوه گداخته شده_است؛ طبق کلامت مرا بر پا دار.
+Persian: جان من از فرط اندوه گداخته شده است؛ طبق کلامت مرا بر پا دار.
 
 Original words:
 - o1: דָּלְפָה = H1811 דָּלַף "to drip; by implication, to weep" [HVqp3fs]
@@ -240,18 +240,17 @@ Original words:
 Persian entries and current tags:
 - p1: جان  → H5315
 - p2: من
-- p3: از  → H1811 Hm
+- p3: از  → Hm
 - p4: فرط
 - p5: اندوه  → H8424
-- p6: گداخته شده_است  → H1811
+- p6: گداخته شده است  → H1811
 - p7: ؛
 - p8: طبق  → Hk
 - p9: کلامت  → H1697
 - p10: مرا
 - p11: بر
-- p12: پا
-- p13: دار
-- p14: .
+- p12: پا دار  → H6965
+- p13: .
 
 ### Psalms 119:29
 
@@ -282,7 +281,7 @@ Persian entries and current tags:
 - p13: بر
 - p14: من
 - p15: ارزانی
-- p16: فرما  → H5493 H2603
+- p16: فرما  → H2603
 - p17: .
 
 ### Psalms 119:30
@@ -369,7 +368,7 @@ Persian entries and current tags:
 ### Psalms 119:33
 
 Original: הוֹרֵ/נִי יְהוָה דֶּרֶךְ חֻקֶּי/ךָ וְ/אֶצְּרֶ/נָּה עֵקֶב
-Persian: خداوندا، طریق فرایض خود را به من بیاموز؛ آنگاه آنها را تا به آخر نگاه خواهم_داشت.
+Persian: خداوندا، طریق فرایض خود را به من بیاموز؛ آنگاه آنها را تا به آخر نگاه خواهم داشت.
 
 Original words:
 - o1: הוֹרֵ/נִי = H3384 יָרָה "properly, to flow as water (i.e. to rain)…" [HVhv2ms/Sp1cs]
@@ -396,7 +395,7 @@ Persian entries and current tags:
 - p14: تا
 - p15: به
 - p16: آخر  → H6118
-- p17: نگاه خواهم_داشت  → H5341
+- p17: نگاه خواهم داشت  → H5341
 - p18: .
 
 ### Psalms 119:34
@@ -419,7 +418,7 @@ Persian entries and current tags:
 - p4: شریعت  → H8451
 - p5: تو
 - p6: را
-- p7: نگاه دارم  → H5341
+- p7: نگاه دارم  → H5341 H8104
 - p8: ،
 - p9: و  → Hc
 - p10: آن
@@ -445,19 +444,18 @@ Original words:
 
 Persian entries and current tags:
 - p1: مرا
-- p2: در
+- p2: در  → Hb
 - p3: طریقِ  → H5410
 - p4: فرمانهای  → H4687
 - p5: خود
-- p6: هدایت  → H1869 H2654
-- p7: فرما  → H1869
-- p8: ،
-- p9: زیرا  → H3588
-- p10: رغبت  → H2654
-- p11: من  → H1869
-- p12: در
-- p13: آنهاست
-- p14: .
+- p6: هدایت فرما  → H1869
+- p7: ،
+- p8: زیرا  → H3588
+- p9: رغبت  → H2654
+- p10: من
+- p11: در  → Hb
+- p12: آنهاست
+- p13: .
 
 ### Psalms 119:36
 
@@ -474,17 +472,18 @@ Original words:
 - o7: בָּצַע = H1215 בֶּצַע "plunder; by extension, gain (usually unjust)" [HNcmsa]
 
 Persian entries and current tags:
-- p1: دل مرا  → H3820
-- p2: به  → H413
-- p3: شهادات  → H5715
-- p4: خود
-- p5: مایل گردان  → H5186
-- p6: ،
-- p7: و  → Hc
-- p8: نه  → H408
-- p9: به  → H413
-- p10: سودجویی  → H1215
-- p11: .
+- p1: دل  → H3820
+- p2: مرا
+- p3: به  → H413
+- p4: شهادات  → H5715
+- p5: خود
+- p6: مایل گردان  → H5186
+- p7: ،
+- p8: و  → Hc
+- p9: نه  → H408
+- p10: به  → H413
+- p11: سودجویی  → H1215
+- p12: .
 
 ### Psalms 119:37
 
@@ -500,10 +499,10 @@ Original words:
 - o6: חַיֵּ/נִי = H2421 חָיָה "to live, whether literally or figuratively…" [HVpv2ms/Sp1cs]
 
 Persian entries and current tags:
-- p1: چشمانم  → H5674 H5869
+- p1: چشمانم  → H5869
 - p2: را
 - p3: از  → Hm
-- p4: دیدن  → H7200 H7723
+- p4: دیدن  → H7200
 - p5: بطالت  → H7723
 - p6: بگردان  → H5674
 - p7: ،
@@ -540,7 +539,7 @@ Persian entries and current tags:
 - p10: را
 - p11: به  → Hl
 - p12: ترسندگانت
-- p13: وعده
+- p13: وعده  → H565 H3374
 - p14: فرموده‌ای
 - p15: .
 
@@ -627,7 +626,7 @@ Persian entries and current tags:
 - p10: نجات  → H8668
 - p11: تو
 - p12: ،
-- p13: بنا
+- p13: بنا  → Hk
 - p14: به
 - p15: وعده‌ات  → H565
 - p16: .
@@ -635,7 +634,7 @@ Persian entries and current tags:
 ### Psalms 119:42
 
 Original: וְ/אֶעֱנֶה חֹרְפִ/י דָבָר כִּי בָטַחְתִּי בִּ/דְבָרֶ/ךָ
-Persian: آنگاه خواهم_توانست اهانت‌کنندۀ خود را پاسخ گویم، زیرا بر کلام تو توکل می‌دارم.
+Persian: آنگاه خواهم توانست اهانت‌کنندۀ خود را پاسخ گویم، زیرا بر کلام تو توکل می‌دارم.
 
 Original words:
 - o1: וְ/אֶעֱנֶה = Hc "and" + H6030 עָנָה "properly, to eye or (generally) to heed…" [HC/Vqi1cs]
@@ -647,8 +646,8 @@ Original words:
 
 Persian entries and current tags:
 - p1: آنگاه  → Hc
-- p2: خواهم_توانست
-- p3: اهانت‌کنندۀ  → H2778 H1697
+- p2: خواهم توانست
+- p3: اهانت‌کنندۀ  → H2778
 - p4: خود
 - p5: را
 - p6: پاسخ  → H6030
@@ -679,7 +678,7 @@ Original words:
 - o10: יִחָלְתִּי = H3176 יָחַל "to wait; by implication, to be patient, hope" [HVpp1cs]
 
 Persian entries and current tags:
-- p1: کلام  → H1697 H571
+- p1: کلام  → H1697
 - p2: راستی  → H571
 - p3: را
 - p4: از  → Hm
@@ -698,7 +697,7 @@ Persian entries and current tags:
 ### Psalms 119:44
 
 Original: וְ/אֶשְׁמְרָה תוֹרָתְ/ךָ תָמִיד לְ/עוֹלָם וָ/עֶד
-Persian: شریعت تو را همیشه نگاه خواهم_داشت، تا ابدالآباد!
+Persian: شریعت تو را همیشه نگاه خواهم داشت، تا ابدالآباد!
 
 Original words:
 - o1: וְ/אֶשְׁמְרָה = Hc "and" + H8104 שָׁמַר "properly, to hedge about (as with thorns)…" [HC/Vqh1cs]
@@ -712,10 +711,10 @@ Persian entries and current tags:
 - p2: تو
 - p3: را
 - p4: همیشه  → H8548
-- p5: نگاه خواهم_داشت  → H8104
+- p5: نگاه خواهم داشت  → H8104
 - p6: ،
 - p7: تا
-- p8: ابدالآباد  → H5703
+- p8: ابدالآباد  → H5769 H5703
 - p9: !
 
 ## Neighbouring verses (context only, not for review)

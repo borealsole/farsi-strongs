@@ -94,7 +94,7 @@ Original words:
 Persian entries and current tags:
 - p1: آدم  → H121
 - p2: ،
-- p3: شِیث
+- p3: شِیث  → H8352
 - p4: ،
 - p5: اَنوش  → H583
 - p6: ،
@@ -180,7 +180,7 @@ Persian entries and current tags:
 - p1: پسران  → H1121
 - p2: یافِث  → H3315
 - p3: ،
-- p4: جومِر
+- p4: جومِر  → H1586
 - p5: ،
 - p6: ماجوج  → H4031
 - p7: ،
@@ -235,7 +235,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: پسران  → H1121
-- p2: یاوان
+- p2: یاوان  → H3120
 - p3: ،
 - p4: اِلیشَه  → H473
 - p5: ،
@@ -336,7 +336,7 @@ Persian entries and current tags:
 - p1: کوش  → H3568
 - p2: پدر  → H3205
 - p3: نِمرود  → H5248
-- p4: بود
+- p4: بود  → H1931
 - p5: ،
 - p6: و
 - p7: نِمرود  → H5248
@@ -398,15 +398,15 @@ Persian entries and current tags:
 - p1: و  → Hc
 - p2: نیز
 - p3: پدرِ
-- p4: فَتروسیم  → H6625 H3695
+- p4: فَتروسیم  → H6625
 - p5: ،
-- p6: کَسلوحیم  → H3695
+- p6: کَسلوحیم  → H3695 H8033
 - p7: (
 - p8: که  → H834
 - p9: فلسطینیان  → H6430
 - p10: از  → Hm
 - p11: ایشان
-- p12: پدید  → H3695
+- p12: پدید
 - p13: آمدند  → H3318
 - p14: )
 - p15: ،
@@ -460,7 +460,7 @@ Persian entries and current tags:
 - p3: ،
 - p4: یِبوسیان  → H2983
 - p5: ،
-- p6: اَموریان  → H567 H1622
+- p6: اَموریان  → H567
 - p7: ،
 - p8: جِرجاشیان  → H1622
 - p9: ،
@@ -500,9 +500,9 @@ Original words:
 - o6: הַ/חֲמָתִי = Hd "the" + H2577 חֲמָתִי "a Chamathite or native of Chamath" [HTd/Ngmsa]
 
 Persian entries and current tags:
-- p1: اَروادیان  → H721
+- p1: اَروادیان  → H853 H721
 - p2: ،
-- p3: صِماریان  → H6786
+- p3: صِماریان  → H721 H6786
 - p4: و  → Hc
 - p5: حَماتیان  → H2577
 - p6: بودند
@@ -544,7 +544,7 @@ Persian entries and current tags:
 - p15: پسران  → H1121
 - p16: اَرام  → H758
 - p17: ،
-- p18: عوص  → H2343
+- p18: عوص  → H5780 H2343
 - p19: ،
 - p20: حول  → H5780
 - p21: ،

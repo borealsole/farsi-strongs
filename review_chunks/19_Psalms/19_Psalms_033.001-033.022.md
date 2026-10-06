@@ -101,10 +101,10 @@ Persian entries and current tags:
 - p4: در  → Hb
 - p5: خداوند  → H3068
 - p6: بانگ  → H7442 H3477
-- p7: شادی
+- p7: شادی  → H7442
 - p8: برآورید  → H6662
 - p9: !
-- p10: زیرا  → H8416
+- p10: زیرا
 - p11: صالحان  → H3477
 - p12: را
 - p13: ستایشِ  → H8416
@@ -135,7 +135,7 @@ Persian entries and current tags:
 - p6: بستایید  → H3034
 - p7: !
 - p8: با  → Hb
-- p9: چنگ  → H5035 H2167
+- p9: چنگ  → H5035
 - p10: ده‌تار  → H6218
 - p11: برای  → Hl
 - p12: او
@@ -233,7 +233,7 @@ Persian entries and current tags:
 ### Psalms 33:6
 
 Original: בִּ/דְבַר יְהוָה שָׁמַיִם נַעֲשׂוּ וּ/בְ/רוּחַ פִּי/ו כָּל צְבָאָ/ם
-Persian: به کلام خداوند آسمانها ساخته_شد، و همۀ لشکر آنها، به دَمِ دهان او.
+Persian: به کلام خداوند آسمانها ساخته شد، و همۀ لشکر آنها، به دَمِ دهان او.
 
 Original words:
 - o1: בִּ/דְבַר = Hb "in" + H1697 דָּבָר "a word…" [HR/Ncmsc]
@@ -250,7 +250,7 @@ Persian entries and current tags:
 - p2: کلام  → H1697
 - p3: خداوند  → H3068
 - p4: آسمانها  → H8064
-- p5: ساخته_شد  → H6213
+- p5: ساخته شد  → H6213
 - p6: ،
 - p7: و  → Hc
 - p8: همۀ  → H3605
@@ -289,7 +289,7 @@ Persian entries and current tags:
 - p9: ژرفا  → H8415
 - p10: را
 - p11: در  → Hb
-- p12: خزانه‌ها  → H214 H8415
+- p12: خزانه‌ها  → H214
 - p13: ذخیره
 - p14: می‌کند
 - p15: .
@@ -314,13 +314,13 @@ Persian entries and current tags:
 - p1: تمامی  → H3605
 - p2: اهل
 - p3: زمین  → H776
-- p4: از  → H3372
-- p5: خداوند  → H3068 H4480
+- p4: از  → Hm
+- p5: خداوند  → H3068
 - p6: بترسند  → H3372
 - p7: ،
 - p8: همۀ  → H3605
 - p9: مردم  → H3427
-- p10: جهان  → H8398
+- p10: جهان  → H776 H8398
 - p11: او
 - p12: را
 - p13: حرمت بدارند  → H1481
@@ -342,7 +342,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: زیرا  → H3588
-- p2: او
+- p2: او  → H1931
 - p3: گفت  → H559
 - p4: و  → Hc
 - p5: شد
@@ -431,7 +431,7 @@ Original words:
 Persian entries and current tags:
 - p1: خوشا  → H835
 - p2: به
-- p3: حال
+- p3: حال  → H835
 - p4: امتی  → H1471
 - p5: که  → H834
 - p6: یهوه  → H3068
@@ -564,7 +564,7 @@ Persian entries and current tags:
 - p8: و
 - p9: دلاور  → H1368
 - p10: را
-- p11: عظمت  → H7230 H3581
+- p11: عظمت  → H7230
 - p12: قوّتش  → H3581
 - p13: نمی‌رهاند  → H5337
 - p14: .
@@ -629,7 +629,7 @@ Persian entries and current tags:
 - p9: آنان
 - p10: که
 - p11: به  → Hl
-- p12: محبت  → H3373 H2617
+- p12: محبت  → H2617
 - p13: او
 - p14: امیدوارند  → H3176
 - p15: ،
@@ -647,7 +647,7 @@ Original words:
 - o5: בָּ/רָעָב = Hb "in" + H7458 רָעָב "hunger (more or less extensive)" [HRd/Ncmsa]
 
 Persian entries and current tags:
-- p1: تا
+- p1: تا  → Hl
 - p2: جان  → H5315
 - p3: ایشان
 - p4: را
@@ -659,10 +659,8 @@ Persian entries and current tags:
 - p10: را
 - p11: در  → Hb
 - p12: قحطی  → H7458
-- p13: زنده  → H2421
-- p14: نگاه
-- p15: دارد
-- p16: .
+- p13: زنده نگاه دارد  → H2421
+- p14: .
 
 ### Psalms 33:20
 
@@ -682,13 +680,13 @@ Persian entries and current tags:
 - p2: ما
 - p3: منتظر  → H2442
 - p4: خداوند  → H3068
-- p5: است  → H2442
+- p5: است
 - p6: ؛
 - p7: او
 - p8: اعانت  → H5828
 - p9: و  → Hc
 - p10: سپر  → H4043
-- p11: ماست
+- p11: ماست  → H1931
 - p12: .
 
 ### Psalms 33:21
@@ -707,9 +705,9 @@ Original words:
 - o8: בָטָחְנוּ = H982 בָּטַח "figuratively, to trust, be confident or sure" [HVqp1cp]
 
 Persian entries and current tags:
-- p1: دل  → H3588 H3820
-- p2: ما
-- p3: در
+- p1: دل  → H3820
+- p2: ما  → H3588
+- p3: در  → Hb
 - p4: او
 - p5: شادی می‌کند  → H8055
 - p6: ،
@@ -744,7 +742,7 @@ Persian entries and current tags:
 - p6: ما
 - p7: باد
 - p8: ،
-- p9: چنانکه  → H834
+- p9: چنانکه  → Hk H834
 - p10: امید  → H3176
 - p11: ما
 - p12: بر  → H5921

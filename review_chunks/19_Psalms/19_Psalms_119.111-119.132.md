@@ -99,7 +99,7 @@ Persian entries and current tags:
 - p1: شهادات  → H5715
 - p2: تو
 - p3: را
-- p4: تا
+- p4: تا  → Hl
 - p5: به
 - p6: ابد  → H5769
 - p7: میراث  → H5157
@@ -138,9 +138,9 @@ Persian entries and current tags:
 - p8: مایل  → H5186
 - p9: ساخته‌ام  → H6213
 - p10: ،
-- p11: تا
+- p11: تا  → Hl
 - p12: به
-- p13: ابد  → H2706 H5769
+- p13: ابد  → H5769
 - p14: و
 - p15: تا
 - p16: به
@@ -163,8 +163,8 @@ Persian entries and current tags:
 - p2: مردمانی
 - p3: که
 - p4: سرسپرده  → H5588
-- p5: نیستند
-- p6: کراهت
+- p5: نیستند  → H8130
+- p6: کراهت  → H5588
 - p7: دارم  → H8130
 - p8: ،
 - p9: اما  → Hc
@@ -213,7 +213,7 @@ Original words:
 - o6: אֱלֹהָ/י = H430 אֱלֹהִים "gods in the ordinary sense…" [HNcmpc/Sp1cs]
 
 Persian entries and current tags:
-- p1: ای  → H5493
+- p1: ای
 - p2: بدکاران  → H7489
 - p3: از  → H4480
 - p4: من
@@ -240,23 +240,22 @@ Original words:
 - o6: מִ/שִּׂבְרִ/י = Hm "from" + H7664 שֵׂבֶר "expectation" [HR/Ncmsc/Sp1cs]
 
 Persian entries and current tags:
-- p1: بر  → H5564
+- p1: بر
 - p2: حسب  → Hk
 - p3: وعده‌ات  → H565
 - p4: دست  → H5564
 - p5: مرا
 - p6: بگیر
 - p7: تا
-- p8: زنده  → H2421
-- p9: بمانم
-- p10: ،
-- p11: و  → Hc
-- p12: در
-- p13: امید  → H954 H7664
-- p14: خود
-- p15: سرافکنده  → H954
-- p16: نشوم  → H408
-- p17: !
+- p8: زنده بمانم  → H2421
+- p9: ،
+- p10: و  → Hc
+- p11: در  → Hm
+- p12: امید  → H7664
+- p13: خود
+- p14: سرافکنده  → H954
+- p15: نشوم  → H408
+- p16: !
 
 ### Psalms 119:117
 
@@ -283,9 +282,8 @@ Persian entries and current tags:
 - p10: را
 - p11: همواره  → H8548
 - p12: مد
-- p13: نظر
-- p14: بدارم
-- p15: .
+- p13: نظر بدارم  → H8159
+- p14: .
 
 ### Psalms 119:118
 
@@ -303,7 +301,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: تو
-- p2: آنان
+- p2: آنان  → H3605
 - p3: را
 - p4: که
 - p5: از  → Hm
@@ -339,7 +337,7 @@ Original words:
 Persian entries and current tags:
 - p1: تو
 - p2: همۀ  → H3605
-- p3: شریرانِ  → H7673 H7563
+- p3: شریرانِ  → H7563
 - p4: زمین  → H776
 - p5: را
 - p6: چون
@@ -358,7 +356,7 @@ Persian entries and current tags:
 ### Psalms 119:120
 
 Original: סָמַר מִ/פַּחְדְּ/ךָ בְשָׂרִ/י וּ/מִ/מִּשְׁפָּטֶי/ךָ יָרֵאתִי
-Persian: از ترس تو موی بر تنم راست شده_است؛ از داوریهای تو هراسناکم.
+Persian: از ترس تو موی بر تنم راست شده است؛ از داوریهای تو هراسناکم.
 
 Original words:
 - o1: סָמַר = H5568 סָמַר "to be erect, i.e. bristle as hair" [HVqp3ms]
@@ -374,12 +372,12 @@ Persian entries and current tags:
 - p4: موی  → H1320
 - p5: بر
 - p6: تنم  → H1320
-- p7: راست شده_است  → H5568
+- p7: راست شده است  → H5568
 - p8: ؛
 - p9: از  → Hm
 - p10: داوریهای  → H4941
 - p11: تو
-- p12: هراسناکم
+- p12: هراسناکم  → H3372
 - p13: .
 
 ### Psalms 119:121
@@ -397,8 +395,8 @@ Original words:
 
 Persian entries and current tags:
 - p1: به
-- p2: عدل  → H4941
-- p3: و
+- p2: عدل  → H4941 H6664
+- p3: و  → Hc
 - p4: داد  → H6664
 - p5: عمل کرده‌ام  → H6213
 - p6: ؛
@@ -422,20 +420,19 @@ Original words:
 - o6: זֵדִים = H2086 זֵד "arrogant" [HAampa]
 
 Persian entries and current tags:
-- p1: خیریت  → H6148
+- p1: خیریت  → H6148 H2896
 - p2: خادم  → H5650
 - p3: خود
 - p4: را
-- p5: ضامن  → H6148
-- p6: شو  → H2896
-- p7: ،
-- p8: و
-- p9: مگذار  → H408
-- p10: متکبران  → H2086
-- p11: بر  → H6231
-- p12: من
-- p13: ستم کنند  → H6231
-- p14: .
+- p5: ضامن شو  → H6148
+- p6: ،
+- p7: و
+- p8: مگذار  → H408
+- p9: متکبران  → H2086
+- p10: بر  → H6231
+- p11: من
+- p12: ستم کنند  → H6231
+- p13: .
 
 ### Psalms 119:123
 
@@ -456,16 +453,15 @@ Persian entries and current tags:
 - p4: برای  → Hl
 - p5: نجات  → H3444
 - p6: تو
-- p7: تار
-- p8: گشته
-- p9: ،
-- p10: از
-- p11: انتظار
-- p12: برای  → Hl
-- p13: وعدۀ  → H565
-- p14: عدالت  → H6664
-- p15: تو
-- p16: !
+- p7: تار گشته  → H3615
+- p8: ،
+- p9: از
+- p10: انتظار
+- p11: برای  → Hl
+- p12: وعدۀ  → H565
+- p13: عدالت  → H6664
+- p14: تو
+- p15: !
 
 ### Psalms 119:124
 
@@ -490,7 +486,7 @@ Persian entries and current tags:
 - p7: رفتار کن  → H6213
 - p8: ،
 - p9: و  → Hc
-- p10: فرایض  → H2706
+- p10: فرایض  → H2706 H3925
 - p11: خود
 - p12: را
 - p13: به
@@ -569,7 +565,7 @@ Original words:
 - o6: וּ/מִ/פָּז = Hc "and" + Hm "from" + H6337 פָּז "pure (gold); hence, gold itself (as refined)" [HC/R/Ncmsa]
 
 Persian entries and current tags:
-- p1: بنابراین  → H5921 H3651
+- p1: بنابراین  → H3651
 - p2: ،
 - p3: فرمانهای  → H4687
 - p4: تو
@@ -582,8 +578,9 @@ Persian entries and current tags:
 - p11: ،
 - p12: بیشتر
 - p13: از  → Hm
-- p14: طلای ناب  → H6337
-- p15: .
+- p14: طلای  → H2091 H6337
+- p15: ناب  → H6337
+- p16: .
 
 ### Psalms 119:128
 
@@ -672,9 +669,8 @@ Persian entries and current tags:
 - p6: و
 - p7: ساده‌لوحان  → H995 H6612
 - p8: را
-- p9: فهیم  → H995
-- p10: می‌گرداند  → H6612
-- p11: .
+- p9: فهیم می‌گرداند  → H995
+- p10: .
 
 ### Psalms 119:131
 
@@ -695,17 +691,15 @@ Persian entries and current tags:
 - p3: را
 - p4: گشوده  → H6473
 - p5: ،
-- p6: لَه
-- p7: لَه
-- p8: می‌زنم
-- p9: ،
-- p10: زیرا  → H3588
-- p11: که
-- p12: مشتاق  → H7602
-- p13: فرمانهای  → H4687
-- p14: تو
-- p15: هستم
-- p16: !
+- p6: لَه لَه می‌زنم  → H7602
+- p7: ،
+- p8: زیرا  → H3588
+- p9: که
+- p10: مشتاق  → H7602
+- p11: فرمانهای  → H4687
+- p12: تو
+- p13: هستم  → H2968
+- p14: !
 
 ### Psalms 119:132
 
@@ -721,26 +715,22 @@ Original words:
 - o6: שְׁמֶ/ךָ = H8034 שֵׁם "an appellation…" [HNcmsc/Sp2ms]
 
 Persian entries and current tags:
-- p1: بر  → H6437
+- p1: بر
 - p2: من
-- p3: نظر
-- p4: کن
-- p5: و  → Hc
-- p6: مرا
-- p7: فیض  → H2603
-- p8: عطا
-- p9: فرما  → H2603
-- p10: ،
-- p11: بنا
-- p12: به
-- p13: رسم  → H4941
-- p14: خود
-- p15: در  → Hl
-- p16: حق
-- p17: دوستداران  → H157
-- p18: نام  → H8034
-- p19: خویش
-- p20: .
+- p3: نظر کن  → H6437
+- p4: و  → Hc
+- p5: مرا
+- p6: فیض عطا فرما  → H2603
+- p7: ،
+- p8: بنا  → Hk
+- p9: به
+- p10: رسم  → H4941
+- p11: خود
+- p12: در  → Hl
+- p13: حق دوستداران  → H157
+- p14: نام  → H8034
+- p15: خویش
+- p16: .
 
 ## Neighbouring verses (context only, not for review)
 

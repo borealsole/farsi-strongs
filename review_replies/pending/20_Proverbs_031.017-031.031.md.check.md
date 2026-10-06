@@ -2,11 +2,13 @@
 
 Generated 2026-10-06 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
-## 13 verse(s) with changes
+No change from the current tags (will be skipped): Proverbs 31:24.
 
-### Proverbs 31:17: 8 word(s) changed
+## 12 verse(s) with changes
 
-Reply line 2.
+### Proverbs 31:17: 7 word(s) changed
+
+Reply line 2. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: חָגְרָה בְ/עוֹז מָתְנֶי/הָ וַ/תְּאַמֵּץ זְרֹעוֹתֶי/הָ
 
@@ -30,7 +32,7 @@ Original words:
 |  | می‌گردد | [مشغول می‌گردد] H2296 | [مشغول می‌گردد] H2296 |
 |  | و | Hc | Hc |
 | ✱ | نیروی | H5797 עֹז "strength in various…" | H553 אָמַץ "to be alert…" |
-| ✱ | بازوان | H553 אָמַץ "to be alert…"; H2220 זְרוֹעַ "the arm (as stretched out)…" | H2220 זְרוֹעַ "the arm (as stretched out)…" |
+|  | بازوان | H2220 | H2220 |
 |  | خویش |  |  |
 |  | را |  |  |
 | ✱ | به |  | [به کار می‌گیرد] H553 אָמַץ "to be alert…" |
@@ -40,7 +42,7 @@ Original words:
 
 ### Proverbs 31:18: 4 word(s) changed
 
-Reply line 3.
+Reply line 3. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: טָעֲמָה כִּי טוֹב סַחְרָ/הּ לֹא יִכְבֶּה ב/ליל נֵרָ/הּ
 
@@ -62,7 +64,7 @@ Original words:
 |  | تجارت | H5504 | H5504 |
 |  | خود |  |  |
 |  | را |  |  |
-| ✱ | می‌بیند |  | H2938 טָעַם "to taste…" |
+| ✱ | می‌بیند | H3808 לֹא "not (the simple or abs.…" | H2938 טָעַם "to taste…" |
 |  | ، |  |  |
 |  | و |  |  |
 |  | چراغش | H5216 | H5216 |
@@ -72,9 +74,9 @@ Original words:
 | ✱ | نمی‌گردد | H3808 לֹא "not (the simple or abs.…" | [خاموش نمی‌گردد] H3808 לֹא "not (the simple or abs.…"; H3518 כָּבָה "to expire or (causatively) to…" |
 |  | . |  |  |
 
-### Proverbs 31:19: 5 word(s) changed
+### Proverbs 31:19: 3 word(s) changed
 
-Reply line 4.
+Reply line 4. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: יָדֶי/הָ שִׁלְּחָה בַ/כִּישׁוֹר וְ/כַפֶּי/הָ תָּמְכוּ פָלֶךְ
 
@@ -92,12 +94,12 @@ Original words:
 | --- | --- | --- | --- |
 |  | دستان | H3027 | H3027 |
 |  | خویش |  |  |
-| ✱ | به |  | Hb "in" |
+|  | به | Hb | Hb |
 | ✱ | دوک | H6418 פֶּלֶךְ "a circuit (i.e. district)…" | H3601 כִּישׁוֹר "literally a director…" |
 |  | دراز | [دراز می‌کند] H7971 | [دراز می‌کند] H7971 |
 |  | می‌کند | [دراز می‌کند] H7971 | [دراز می‌کند] H7971 |
 |  | و | Hc | Hc |
-| ✱ | انگشتانش |  | H3709 כַּף "the hollow hand or palm (so…" |
+|  | انگشتانش | H3709 | H3709 |
 | ✱ | چرخ | H3601 כִּישׁוֹר "literally a director…" | H6418 פֶּלֶךְ "a circuit (i.e. district)…" |
 |  | را |  |  |
 | ✱ | می‌گیرد |  | H8551 תָּמַךְ "to sustain…" |
@@ -105,7 +107,7 @@ Original words:
 
 ### Proverbs 31:20: 2 word(s) changed
 
-Reply line 5.
+Reply line 5. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: כַּפָּ/הּ פָּרְשָׂה לֶ/עָנִי וְ/יָדֶי/הָ שִׁלְּחָה לָ/אֶבְיוֹן
 
@@ -133,12 +135,12 @@ Original words:
 |  | به | Hl | Hl |
 |  | روی |  |  |
 |  | نیازمندان | H34 | H34 |
-| ✱ | می‌گشاید | H6566 פָּרַשׂ "to break apart, disperse, etc" | H7971 שָׁלַח "to send away, for…" |
+| ✱ | می‌گشاید |  | H7971 שָׁלַח "to send away, for…" |
 |  | . |  |  |
 
 ### Proverbs 31:21: 6 word(s) changed
 
-Reply line 6.
+Reply line 6. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: לֹא תִירָא לְ/בֵיתָ/הּ מִ/שָּׁלֶג כִּי כָל בֵּיתָ/הּ לָבֻשׁ שָׁנִים
 
@@ -161,7 +163,7 @@ Original words:
 |  | برف | H7950 | H7950 |
 |  | ببارد |  |  |
 |  | ، |  |  |
-| ✱ | دغدغۀ | H3847 לָבַשׁ "properly, wrap around…" | H3372 יָרֵא "to fear; morally, to revere…" |
+| ✱ | دغدغۀ |  | H3372 יָרֵא "to fear; morally, to revere…" |
 |  | اهل |  |  |
 |  | خانۀ | H1004 | H1004 |
 |  | خویش |  |  |
@@ -174,14 +176,14 @@ Original words:
 |  | او |  |  |
 | ✱ | جامۀ | H3847 לָבַשׁ "properly, wrap around…"; H8144 שָׁנִי "crimson, properly…" | [جامۀ گرم] H8144 שָׁנִי "crimson, properly…" |
 | ✱ | گرم | H7950 שֶׁלֶג "snow (probably from its…" | [جامۀ گرم] H8144 שָׁנִי "crimson, properly…" |
-| ✱ | به | H3847 לָבַשׁ "properly, wrap around…" | [به تن دارند] H3847 לָבַשׁ "properly, wrap around…" |
+| ✱ | به |  | [به تن دارند] H3847 לָבַשׁ "properly, wrap around…" |
 | ✱ | تن | H8144 שָׁנִי "crimson, properly…" | [به تن دارند] H3847 לָבַשׁ "properly, wrap around…" |
 | ✱ | دارند |  | [به تن دارند] H3847 לָבַשׁ "properly, wrap around…" |
 |  | . |  |  |
 
-### Proverbs 31:22: 2 word(s) changed
+### Proverbs 31:22: 1 word(s) changed
 
-Reply line 7.
+Reply line 7. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: מַרְבַדִּים עָשְׂתָה לָּ/הּ שֵׁשׁ וְ/אַרְגָּמָן לְבוּשָׁ/הּ
 
@@ -197,7 +199,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | برای |  | Hl "to" |
+|  | برای | Hl | Hl |
 |  | بستر |  |  |
 |  | خود |  |  |
 |  | ملحفه | H4765 | H4765 |
@@ -212,7 +214,7 @@ Original words:
 
 ### Proverbs 31:23: 2 word(s) changed
 
-Reply line 8.
+Reply line 8. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: נוֹדָע בַּ/שְּׁעָרִים בַּעְלָ/הּ בְּ/שִׁבְתּ/וֹ עִם זִקְנֵי אָרֶץ
 
@@ -231,9 +233,9 @@ Original words:
 | --- | --- | --- | --- |
 |  | شوهرش | H1167 | H1167 |
 |  | را |  |  |
-| ✱ | در |  | Hb "in" |
-| ✱ | دروازه‌های |  | H8179 שַׁעַר "an opening, i.e. door or gate" |
-|  | شهر |  |  |
+|  | در | Hb | Hb |
+| ✱ | دروازه‌های | [دروازه‌های شهر] H8179 שַׁעַר "an opening, i.e. door or gate" | H8179 שַׁעַר "an opening, i.e. door or gate" |
+| ✱ | شهر | [دروازه‌های شهر] H8179 שַׁעַר "an opening, i.e. door or gate" |  |
 |  | می‌شناسند | H3045 | H3045 |
 |  | ، |  |  |
 |  | و |  |  |
@@ -243,40 +245,9 @@ Original words:
 |  | می‌نشیند | H3427 | H3427 |
 |  | . |  |  |
 
-### Proverbs 31:24: 1 word(s) changed
-
-Reply line 9.
-
-Original: סָדִין עָשְׂתָה וַ/תִּמְכֹּר וַ/חֲגוֹר נָתְנָה לַ/כְּנַעֲנִי
-
-Persian: جامه‌های کتانْ دوخته، می‌فروشد، برای بازرگانان شالها تهیه می‌کند.
-
-Original words:
-- o1: סָדִין = H5466 סָדִין "a wrapper, i.e. shirt" [HNcmsa]
-- o2: עָשְׂתָה = H6213 עָשָׂה "to do or make…" [HVqp3fs]
-- o3: וַ/תִּמְכֹּר = Hc "and" + H4376 מָכַר "to sell, literally (as merchandise…" [HC/Vqw3fs]
-- o4: וַ/חֲגוֹר = Hc "and" + H2289 חָגוֹר "belted" [HC/Ncmsa]
-- o5: נָתְנָה = H5414 נָתַן "to give…" [HVqp3fs]
-- o6: לַ/כְּנַעֲנִי = Hl "to" + H3669 כְּנַעַנִי "a Kenaanite or inhabitant of Kenaan…" [HRd/Ngmsa]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | جامه‌های | [جامه‌های کتانْ] H5466 | [جامه‌های کتانْ] H5466 |
-|  | کتانْ | [جامه‌های کتانْ] H5466 | [جامه‌های کتانْ] H5466 |
-| ✱ | دوخته |  | H6213 עָשָׂה "to do or make…" |
-|  | ، |  |  |
-|  | می‌فروشد | H4376 | H4376 |
-|  | ، |  |  |
-|  | برای | Hl | Hl |
-|  | بازرگانان | H3669 | H3669 |
-|  | شالها | H2289 | H2289 |
-|  | تهیه | [تهیه می‌کند] H5414 | [تهیه می‌کند] H5414 |
-|  | می‌کند | [تهیه می‌کند] H5414 | [تهیه می‌کند] H5414 |
-|  | . |  |  |
-
 ### Proverbs 31:25: 3 word(s) changed
 
-Reply line 10.
+Reply line 10. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: עֹז וְ/הָדָר לְבוּשָׁ/הּ וַ/תִּשְׂחַק לְ/יוֹם אַחֲרוֹן
 
@@ -309,7 +280,7 @@ Original words:
 
 ### Proverbs 31:26: 1 word(s) changed
 
-Reply line 11.
+Reply line 11. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: פִּי/הָ פָּתְחָה בְ/חָכְמָה וְ/תוֹרַת חֶסֶד עַל לְשׁוֹנָ/הּ
 
@@ -329,7 +300,7 @@ Original words:
 |  | دهان | H6310 | H6310 |
 |  | خود |  |  |
 |  | را |  |  |
-| ✱ | حکیمانه |  | Hb "in"; H2451 חׇכְמָה "wisdom (in a good sense)" |
+| ✱ | حکیمانه | H2451 חׇכְמָה "wisdom (in a good sense)" | Hb "in"; H2451 חׇכְמָה "wisdom (in a good sense)" |
 |  | می‌گشاید | H6605 | H6605 |
 |  | ، |  |  |
 |  | و | Hc | Hc |
@@ -342,7 +313,7 @@ Original words:
 
 ### Proverbs 31:27: 2 word(s) changed
 
-Reply line 12.
+Reply line 12. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: צוֹפִיָּה הֲלִיכוֹת בֵּיתָ/הּ וְ/לֶחֶם עַצְלוּת לֹא תֹאכֵל
 
@@ -365,7 +336,7 @@ Original words:
 |  | خانۀ | H1004 | H1004 |
 |  | خویش |  |  |
 | ✱ | نظارت |  | [نظارت می‌کند] H6822 צָפָה "properly, to lean forward…" |
-| ✱ | می‌کند | H6822 צָפָה "properly, to lean forward…" | [نظارت می‌کند] H6822 צָפָה "properly, to lean forward…" |
+| ✱ | می‌کند |  | [نظارت می‌کند] H6822 צָפָה "properly, to lean forward…" |
 |  | ، |  |  |
 |  | و | Hc | Hc |
 |  | نان | H3899 | H3899 |
@@ -373,9 +344,9 @@ Original words:
 |  | نمی‌خورد | H398 | H398 |
 |  | . |  |  |
 
-### Proverbs 31:29: 7 word(s) changed
+### Proverbs 31:29: 5 word(s) changed
 
-Reply line 13.
+Reply line 13. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: רַבּוֹת בָּנוֹת עָשׂוּ חָיִל וְ/אַתְּ עָלִית עַל כֻּלָּ/נָה
 
@@ -397,14 +368,14 @@ Original words:
 |  | زنان | H1323 | H1323 |
 |  | بسیار | H7227 | H7227 |
 | ✱ | کارهای | H6213 עָשָׂה "to do or make…"; H2428 חַיִל "probably a force…" | [کارهای شایسته] H2428 חַיִל "probably a force…" |
-| ✱ | شایسته | H2428 חַיִל "probably a force…"; H5927 עָלָה "to ascend…" | [کارهای شایسته] H2428 חַיִל "probably a force…" |
+| ✱ | شایسته | H2428 חַיִל "probably a force…" | [کارهای شایسته] H2428 חַיִל "probably a force…" |
 | ✱ | کرده‌اند |  | H6213 עָשָׂה "to do or make…" |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
 |  | تو | H859 | H859 |
-| ✱ | بر |  | H5921 עַל "above, over, upon…" |
+|  | بر | H5921 | H5921 |
 |  | آنها |  |  |
-| ✱ | همه | H5921 עַל "above, over, upon…"; H3605 כֹּל "properly, the whole…" | H3605 כֹּל "properly, the whole…" |
+|  | همه | H3605 | H3605 |
 | ✱ | پیشی |  | [پیشی گرفته‌ای] H5927 עָלָה "to ascend…" |
 | ✱ | گرفته‌ای |  | [پیشی گرفته‌ای] H5927 עָלָה "to ascend…" |
 |  | . |  |  |
@@ -412,7 +383,7 @@ Original words:
 
 ### Proverbs 31:31: 2 word(s) changed
 
-Reply line 14.
+Reply line 14. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: תְּנוּ לָ/הּ מִ/פְּרִי יָדֶי/הָ וִ/יהַלְלוּ/הָ בַ/שְּׁעָרִים מַעֲשֶׂי/הָ
 
@@ -442,7 +413,7 @@ Original words:
 |  | وی |  |  |
 |  | را |  |  |
 |  | در | Hb | Hb |
-| ✱ | دروازه‌های |  | H8179 שַׁעַר "an opening, i.e. door or gate" |
-| ✱ | شهر | H8179 שַׁעַר "an opening, i.e. door or gate" |  |
+| ✱ | دروازه‌های | [دروازه‌های شهر] H8179 שַׁעַר "an opening, i.e. door or gate" | H8179 שַׁעַר "an opening, i.e. door or gate" |
+| ✱ | شهر | [دروازه‌های شهر] H8179 שַׁעַר "an opening, i.e. door or gate" |  |
 |  | بستایند | H1984 | H1984 |
 |  | . |  |  |

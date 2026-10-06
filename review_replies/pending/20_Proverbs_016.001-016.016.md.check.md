@@ -1,12 +1,14 @@
 # Check of 20_Proverbs_016.001-016.016.md
 
-Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-06 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
-## 15 verse(s) with changes
+No change from the current tags (will be skipped): Proverbs 16:4, Proverbs 16:6, Proverbs 16:9, Proverbs 16:14.
+
+## 11 verse(s) with changes
 
 ### Proverbs 16:1: 4 word(s) changed
 
-Reply line 2.
+Reply line 2. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: לְ/אָדָם מַעַרְכֵי לֵב וּ/מֵ/יְהוָה מַעֲנֵה לָשׁוֹן
 
@@ -38,13 +40,13 @@ Original words:
 |  | می‌آید |  |  |
 |  | . |  |  |
 
-### Proverbs 16:3: 2 word(s) changed
+### Proverbs 16:3: 1 word(s) changed
 
-Reply line 3.
+Reply line 3. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: גֹּל אֶל יְהוָה מַעֲשֶׂי/ךָ וְ/יִכֹּנוּ מַחְשְׁבֹתֶי/ךָ
 
-Persian: کارهای خویش را به خداوند بسپار که تدبیرهایت استوار خواهد_شد.
+Persian: کارهای خویش را به خداوند بسپار که تدبیرهایت استوار خواهد شد.
 
 Original words:
 - o1: גֹּל = H1556 גָּלַל "to roll (literally or figuratively)" [HVqv2ms]
@@ -56,7 +58,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | کارهای | H4639 מַעֲשֶׂה "an action (good or bad)…"; H4284 מַחֲשָׁבָה "a contrivance…" | H4639 מַעֲשֶׂה "an action (good or bad)…" |
+|  | کارهای | H4639 | H4639 |
 |  | خویش |  |  |
 |  | را |  |  |
 |  | به | H413 | H413 |
@@ -64,53 +66,18 @@ Original words:
 |  | بسپار | H1556 | H1556 |
 | ✱ | که |  | Hc "and" |
 |  | تدبیرهایت | H4284 | H4284 |
-|  | استوار | [استوار خواهد_شد] H3559 | [استوار خواهد_شد] H3559 |
-|  | خواهد_شد | [استوار خواهد_شد] H3559 | [استوار خواهد_شد] H3559 |
+|  | استوار | [استوار خواهد شد] H3559 | [استوار خواهد شد] H3559 |
+|  | خواهد | [استوار خواهد شد] H3559 | [استوار خواهد شد] H3559 |
+|  | شد | [استوار خواهد شد] H3559 | [استوار خواهد شد] H3559 |
 |  | . |  |  |
 
-### Proverbs 16:4: 1 word(s) changed
+### Proverbs 16:5: 7 word(s) changed
 
-Reply line 4.
-
-Original: כֹּל פָּעַל יְהוָה לַ/מַּעֲנֵ/הוּ וְ/גַם רָשָׁע לְ/יוֹם רָעָה
-
-Persian: خداوند هر چیز را برای هدفش ساخته_است، شریران را نیز برای روز بلا.
-
-Original words:
-- o1: כֹּל = H3605 כֹּל "properly, the whole…" [HNcmsa]
-- o2: פָּעַל = H6466 פָּעַל "to do or make (systematically and habitually)…" [HVqp3ms]
-- o3: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
-- o4: לַ/מַּעֲנֵ/הוּ = Hl "to" + H4617 מַעֲנֶה "a reply (favorable or contradictory)" [HRd/Ncmsc/Sp3ms]
-- o5: וְ/גַם = Hc "and" + H1571 גַּם "properly, assemblage…" [HC/Ta]
-- o6: רָשָׁע = H7563 רָשָׁע "morally wrong…" [HAamsa]
-- o7: לְ/יוֹם = Hl "to" + H3117 יוֹם "a day (as the warm hours)…" [HR/Ncmsc]
-- o8: רָעָה = H7451 רַע "bad or (as noun) evil (natural or moral)" [HNcfsa]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | خداوند | H3068 | H3068 |
-|  | هر | [هر چیز] H3605 | [هر چیز] H3605 |
-|  | چیز | [هر چیز] H3605 | [هر چیز] H3605 |
-|  | را |  |  |
-|  | برای | Hl | Hl |
-|  | هدفش | H4617 | H4617 |
-| ✱ | ساخته_است |  | H6466 פָּעַל "to do or make (systematically…" |
-|  | ، |  |  |
-|  | شریران | H7563 | H7563 |
-|  | را |  |  |
-|  | نیز | H1571 | H1571 |
-|  | برای | Hl | Hl |
-|  | روز | H3117 | H3117 |
-|  | بلا | H7451 | H7451 |
-|  | . |  |  |
-
-### Proverbs 16:5: 6 word(s) changed
-
-Reply line 5.
+Reply line 5. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: תּוֹעֲבַת יְהוָה כָּל גְּבַהּ לֵב יָד לְ/יָד לֹא יִנָּקֶה
 
-Persian: خداوند از هر که دلش متکبر باشد کراهت دارد، یقین دان که چنین کس بی‌سزا نخواهد_ماند.
+Persian: خداوند از هر که دلش متکبر باشد کراهت دارد، یقین دان که چنین کس بی‌سزا نخواهد ماند.
 
 Original words:
 - o1: תּוֹעֲבַת = H8441 תּוֹעֵבַה "properly, something disgusting (morally)…" [HNcfsc]
@@ -135,58 +102,19 @@ Original words:
 | ✱ | کراهت | H8441 תּוֹעֵבַה "properly…" | [کراهت دارد] H8441 תּוֹעֵבַה "properly…" |
 | ✱ | دارد |  | [کراهت دارد] H8441 תּוֹעֵבַה "properly…" |
 |  | ، |  |  |
-| ✱ | یقین |  | [یقین دان] H3027 יָד "a hand (the open one…"; Hl "to" |
+| ✱ | یقین | H3027 יָד "a hand (the open one…" | [یقین دان] H3027 יָד "a hand (the open one…"; Hl "to" |
 | ✱ | دان |  | [یقین دان] H3027 יָד "a hand (the open one…"; Hl "to" |
 |  | که |  |  |
 |  | چنین |  |  |
 |  | کس |  |  |
-| ✱ | بی‌سزا | H5352 נָקָה "to be (or make) clean…" | [بی‌سزا نخواهد_ماند] H3808 לֹא "not (the simple or abs.…"; H5352 נָקָה "to be (or make) clean…" |
-| ✱ | نخواهد_ماند | H3808 לֹא "not (the simple or abs.…"; H5352 נָקָה "to be (or make) clean…" | [بی‌سزا نخواهد_ماند] H3808 לֹא "not (the simple or abs.…"; H5352 נָקָה "to be (or make) clean…" |
+| ✱ | بی‌سزا | H5352 נָקָה "to be (or make) clean…" | [بی‌سزا نخواهد ماند] H3808 לֹא "not (the simple or abs.…"; H5352 נָקָה "to be (or make) clean…" |
+| ✱ | نخواهد | [نخواهد ماند] H3808 לֹא "not (the simple or abs.…"; H5352 נָקָה "to be (or make) clean…" | [بی‌سزا نخواهد ماند] H3808 לֹא "not (the simple or abs.…"; H5352 נָקָה "to be (or make) clean…" |
+| ✱ | ماند | [نخواهد ماند] H3808 לֹא "not (the simple or abs.…"; H5352 נָקָה "to be (or make) clean…" | [بی‌سزا نخواهد ماند] H3808 לֹא "not (the simple or abs.…"; H5352 נָקָה "to be (or make) clean…" |
 |  | . |  |  |
 
-### Proverbs 16:6: 1 word(s) changed
+### Proverbs 16:7: 4 word(s) changed
 
-Reply line 6.
-
-Original: בְּ/חֶסֶד וֶ/אֱמֶת יְכֻפַּר עָוֺן וּ/בְ/יִרְאַת יְהוָה סוּר מֵ/רָע
-
-Persian: از محبت و امانت، تقصیر کفاره می‌شود، از ترسِ خداوند، آدمی از بدی اجتناب می‌کند.
-
-Original words:
-- o1: בְּ/חֶסֶד = Hb "in" + H2617 חֵסֵד "kindness; by implication (towards God) piety…" [HR/Ncmsa]
-- o2: וֶ/אֱמֶת = Hc "and" + H571 אֶמֶת "stability…" [HC/Ncfsa]
-- o3: יְכֻפַּר = H3722 כָּפַר "to cover (specifically with bitumen)…" [HVPi3ms]
-- o4: עָוֺן = H5771 עָוֺן "perversity, i.e. (moral) evil" [HNcbsa]
-- o5: וּ/בְ/יִרְאַת = Hc "and" + Hb "in" + H3374 יִרְאָה "fear (also used as infinitive); morally, reverence" [HC/R/Ncfsc]
-- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
-- o7: סוּר = H5493 סוּר "to turn off (literal or figurative)" [HVqc]
-- o8: מֵ/רָע = Hm "from" + H7451 רַע "bad or (as noun) evil (natural or moral)" [HR/Aamsa]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | از | Hb | Hb |
-|  | محبت | H2617 | H2617 |
-|  | و | Hc | Hc |
-|  | امانت | H571 | H571 |
-|  | ، |  |  |
-|  | تقصیر | H5771 | H5771 |
-|  | کفاره | [کفاره می‌شود] H3722 | [کفاره می‌شود] H3722 |
-|  | می‌شود | [کفاره می‌شود] H3722 | [کفاره می‌شود] H3722 |
-|  | ، |  |  |
-| ✱ | از |  | Hb "in" |
-|  | ترسِ | H3374 | H3374 |
-|  | خداوند | H3068 | H3068 |
-|  | ، |  |  |
-|  | آدمی |  |  |
-|  | از | Hm | Hm |
-|  | بدی | H7451 | H7451 |
-|  | اجتناب | [اجتناب می‌کند] H5493 | [اجتناب می‌کند] H5493 |
-|  | می‌کند | [اجتناب می‌کند] H5493 | [اجتناب می‌کند] H5493 |
-|  | . |  |  |
-
-### Proverbs 16:7: 5 word(s) changed
-
-Reply line 7.
+Reply line 7. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: בִּ/רְצוֹת יְהוָה דַּרְכֵי אִישׁ גַּם אוֹיְבָי/ו יַשְׁלִם אִתּ/וֹ
 
@@ -204,7 +132,7 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | آنگاه |  | [آنگاه که] Hb "in" |
+| ✱ | آنگاه | Hb "in" | [آنگاه که] Hb "in" |
 | ✱ | که |  | [آنگاه که] Hb "in" |
 |  | راههای | H1870 | H1870 |
 |  | انسان | H376 | H376 |
@@ -216,7 +144,7 @@ Original words:
 |  | حتی | H1571 | H1571 |
 |  | دشمنانش | H341 | H341 |
 |  | را |  |  |
-| ✱ | نیز |  | H1571 גַּם "properly, assemblage…" |
+|  | نیز | H1571 | H1571 |
 |  | به |  |  |
 |  | صلح | H7999 | H7999 |
 |  | با | H854 | H854 |
@@ -225,9 +153,9 @@ Original words:
 | ✱ | می‌دارد |  | [وا می‌دارد] H7999 שָׁלַם "to be safe (in mind…" |
 |  | . |  |  |
 
-### Proverbs 16:8: 3 word(s) changed
+### Proverbs 16:8: 4 word(s) changed
 
-Reply line 8.
+Reply line 8. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: טוֹב מְעַט בִּ/צְדָקָה מֵ/רֹב תְּבוּאוֹת בְּ/לֹא מִשְׁפָּט
 
@@ -251,50 +179,15 @@ Original words:
 |  | ، |  |  |
 | ✱ | بِه |  | H2896 טוֹב "good (as an adjective) in the…" |
 |  | از | Hm | Hm |
-|  | عایدیِ | H8393 | H8393 |
-| ✱ | فراوان | H7230 רֹב "abundance (in any respect)"; H3808 לֹא "not (the simple or abs.…"; H4941 מִשְׁפָּט "properly…" | H7230 רֹב "abundance (in any respect)" |
+| ✱ | عایدیِ | H7230 רֹב "abundance (in any respect)"; H8393 תְּבוּאָה "income…" | H8393 תְּבוּאָה "income…" |
+|  | فراوان | H7230 | H7230 |
 |  | با | Hb | Hb |
-|  | بی‌انصافی | H3808 H4941 | H3808 H4941 |
+| ✱ | بی‌انصافی | H4941 מִשְׁפָּט "properly…" | H3808 לֹא "not (the simple or abs.…"; H4941 מִשְׁפָּט "properly…" |
 |  | . |  |  |
 
-### Proverbs 16:9: 1 word(s) changed
+### Proverbs 16:10: 2 word(s) changed
 
-Reply line 9.
-
-Original: לֵב אָדָם יְחַשֵּׁב דַּרְכּ/וֹ וַ/יהוָה יָכִין צַעֲד/וֹ
-
-Persian: دل آدمی به راههایش می‌اندیشد، اما خداوند است که قدمهایش را استوار می‌سازد.
-
-Original words:
-- o1: לֵב = H3820 לֵב "the heart…" [HNcmsc]
-- o2: אָדָם = H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HNcmsa]
-- o3: יְחַשֵּׁב = H2803 חָשַׁב "properly, to plait or interpenetrate…" [HVpi3ms]
-- o4: דַּרְכּ/וֹ = H1870 דֶּרֶךְ "a road (as trodden)…" [HNcbsc/Sp3ms]
-- o5: וַ/יהוָה = Hc "and" + H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HC/Np]
-- o6: יָכִין = H3559 כּוּן "properly, to be erect (i.e. stand perpendicular)…" [HVhi3ms]
-- o7: צַעֲד/וֹ = H6806 צַעַד "a pace or regular step" [HNcmsc/Sp3ms]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | دل | H3820 | H3820 |
-|  | آدمی | H120 | H120 |
-| ✱ | به | H2803 חָשַׁב "properly…" |  |
-|  | راههایش | H1870 | H1870 |
-|  | می‌اندیشد | H2803 | H2803 |
-|  | ، |  |  |
-|  | اما | Hc | Hc |
-|  | خداوند | H3068 | H3068 |
-|  | است |  |  |
-|  | که |  |  |
-|  | قدمهایش | H6806 | H6806 |
-|  | را |  |  |
-|  | استوار | [استوار می‌سازد] H3559 | [استوار می‌سازد] H3559 |
-|  | می‌سازد | [استوار می‌سازد] H3559 | [استوار می‌سازد] H3559 |
-|  | . |  |  |
-
-### Proverbs 16:10: 4 word(s) changed
-
-Reply line 10.
+Reply line 10. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: קֶסֶם עַל שִׂפְתֵי מֶלֶךְ בְּ/מִשְׁפָּט לֹא יִמְעַל פִּי/ו
 
@@ -322,15 +215,15 @@ Original words:
 |  | ، |  |  |
 |  | و |  |  |
 |  | دهانش | H6310 | H6310 |
-| ✱ | به |  | Hb "in" |
-| ✱ | عدالت | H4941 מִשְׁפָּט "properly…"; H4603 מָעַל "properly, to cover up…" | H4941 מִשְׁפָּט "properly…" |
-| ✱ | خیانت | H4603 מָעַל "properly, to cover up…" | [خیانت نمی‌ورزد] H3808 לֹא "not (the simple or abs.…"; H4603 מָעַל "properly, to cover up…" |
-| ✱ | نمی‌ورزد |  | [خیانت نمی‌ورزد] H3808 לֹא "not (the simple or abs.…"; H4603 מָעַל "properly, to cover up…" |
+|  | به | Hb | Hb |
+|  | عدالت | H4941 | H4941 |
+| ✱ | خیانت | [خیانت نمی‌ورزد] H4603 מָעַל "properly, to cover up…" | [خیانت نمی‌ورزد] H3808 לֹא "not (the simple or abs.…"; H4603 מָעַל "properly, to cover up…" |
+| ✱ | نمی‌ورزد | [خیانت نمی‌ورزد] H4603 מָעַל "properly, to cover up…" | [خیانت نمی‌ورزد] H3808 לֹא "not (the simple or abs.…"; H4603 מָעַל "properly, to cover up…" |
 |  | . |  |  |
 
-### Proverbs 16:11: 5 word(s) changed
+### Proverbs 16:11: 3 word(s) changed
 
-Reply line 11.
+Reply line 11. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: פֶּלֶס וּ/מֹאזְנֵי מִשְׁפָּט לַ/יהוָה מַעֲשֵׂ/הוּ כָּל אַבְנֵי כִיס
 
@@ -350,11 +243,11 @@ Original words:
 | --- | --- | --- | --- |
 | ✱ | میزان | H3976 מֹאזֵן "only in the dual) a pair of…" | H6425 פֶּלֶס "a balance" |
 |  | و | Hc | Hc |
-| ✱ | ترازوهای | H6425 פֶּלֶס "a balance" | H3976 מֹאזֵן "only in the dual) a pair of…" |
+|  | ترازوهای | H3976 | H3976 |
 |  | درست | H4941 | H4941 |
-| ✱ | از |  | [از آنِ] Hl "to" |
+| ✱ | از | Hl "to" | [از آنِ] Hl "to" |
 | ✱ | آنِ |  | [از آنِ] Hl "to" |
-| ✱ | خداوند |  | H3068 יְהֹוָה "Jehovah…" |
+|  | خداوند | H3068 | H3068 |
 |  | است |  |  |
 |  | ، |  |  |
 |  | همۀ | H3605 | H3605 |
@@ -365,9 +258,9 @@ Original words:
 |  | اوست |  |  |
 |  | . |  |  |
 
-### Proverbs 16:12: 5 word(s) changed
+### Proverbs 16:12: 4 word(s) changed
 
-Reply line 12.
+Reply line 12. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: תּוֹעֲבַת מְלָכִים עֲשׂוֹת רֶשַׁע כִּי בִ/צְדָקָה יִכּוֹן כִּסֵּא
 
@@ -388,21 +281,21 @@ Original words:
 |  | پادشاهان | H4428 | H4428 |
 |  | از |  |  |
 |  | شرارت | H7562 | H7562 |
-| ✱ | کراهت |  | [کراهت دارند] H8441 תּוֹעֵבַה "properly…" |
+| ✱ | کراهت | H8441 תּוֹעֵבַה "properly…" | [کراهت دارند] H8441 תּוֹעֵבַה "properly…" |
 | ✱ | دارند |  | [کراهت دارند] H8441 תּוֹעֵבַה "properly…" |
 |  | ، |  |  |
 |  | زیرا | H3588 | H3588 |
 |  | تخت | [تخت سلطنت] H3678 | [تخت سلطنت] H3678 |
 |  | سلطنت | [تخت سلطنت] H3678 | [تخت سلطنت] H3678 |
-| ✱ | از |  | Hb "in" |
+|  | از | Hb | Hb |
 |  | پارسایی | H6666 | H6666 |
 | ✱ | استوار | H3559 כּוּן "properly…" | [استوار می‌ماند] H3559 כּוּן "properly…" |
 | ✱ | می‌ماند |  | [استوار می‌ماند] H3559 כּוּן "properly…" |
 |  | . |  |  |
 
-### Proverbs 16:13: 3 word(s) changed
+### Proverbs 16:13: 1 word(s) changed
 
-Reply line 13.
+Reply line 13. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: רְצוֹן מְלָכִים שִׂפְתֵי צֶדֶק וְ/דֹבֵר יְשָׁרִים יֶאֱהָב
 
@@ -419,55 +312,22 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | خشنودی | H7522 רָצוֹן "delight (especially as shown)"; H6664 צֶדֶק "the right (natural…" | H7522 רָצוֹן "delight (especially as shown)" |
+|  | خشنودی | H7522 | H7522 |
 |  | پادشاهان | H4428 | H4428 |
 |  | نصیب |  |  |
 |  | لبهای | H8193 | H8193 |
-| ✱ | راستگوست |  | H6664 צֶדֶק "the right (natural…" |
+|  | راستگوست | H6664 | H6664 |
 |  | ، |  |  |
 |  | آنان |  |  |
-| ✱ | راستگویان | H6664 צֶדֶק "the right (natural…"; H3477 יָשָׁר "straight (literally or…" | H1696 דָבַר "perhaps properly, to arrange…"; H3477 יָשָׁר "straight (literally or…" |
+| ✱ | راستگویان | H3477 יָשָׁר "straight (literally or…" | H1696 דָבַר "perhaps properly, to arrange…"; H3477 יָשָׁר "straight (literally or…" |
 |  | را |  |  |
 |  | دوست | [دوست می‌دارند] H157 | [دوست می‌دارند] H157 |
 |  | می‌دارند | [دوست می‌دارند] H157 | [دوست می‌دارند] H157 |
 |  | . |  |  |
 
-### Proverbs 16:14: 1 word(s) changed
+### Proverbs 16:15: 1 word(s) changed
 
-Reply line 14.
-
-Original: חֲמַת מֶלֶךְ מַלְאֲכֵי מָוֶת וְ/אִישׁ חָכָם יְכַפְּרֶ/נָּה
-
-Persian: غضب پادشاه پیک مرگ است، اما مرد حکیم آن را فرو~می‌نشاند.
-
-Original words:
-- o1: חֲמַת = H2534 חֵמָה "heat; figuratively, anger, poison (from its fever)" [HNcfsc]
-- o2: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsa]
-- o3: מַלְאֲכֵי = H4397 מֲלְאָךְ "a messenger…" [HNcmpc]
-- o4: מָוֶת = H4194 מָוֶת "death (natural or violent)…" [HNcmsa]
-- o5: וְ/אִישׁ = Hc "and" + H376 אִישׁ "a man as an individual or a male person…" [HC/Ncmsa]
-- o6: חָכָם = H2450 חָכָם "wise, (i.e. intelligent, skilful or artful)" [HAamsa]
-- o7: יְכַפְּרֶ/נָּה = H3722 כָּפַר "to cover (specifically with bitumen)…" [HVpi3ms/Sp3fs]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | غضب | H2534 | H2534 |
-|  | پادشاه | H4428 | H4428 |
-|  | پیک | H4397 | H4397 |
-|  | مرگ | H4194 | H4194 |
-|  | است |  |  |
-|  | ، |  |  |
-|  | اما | Hc | Hc |
-|  | مرد | H376 | H376 |
-|  | حکیم | H2450 | H2450 |
-|  | آن |  |  |
-|  | را |  |  |
-| ✱ | فرو~می‌نشاند |  | H3722 כָּפַר "to cover (specifically with…" |
-|  | . |  |  |
-
-### Proverbs 16:15: 5 word(s) changed
-
-Reply line 15.
+Reply line 15. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: בְּ/אוֹר פְּנֵי מֶלֶךְ חַיִּים וּ/רְצוֹנ/וֹ כְּ/עָב מַלְקוֹשׁ
 
@@ -485,7 +345,7 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | روی | H6440 | H6440 |
-| ✱ | خندان |  | H216 אוֹר "illumination or (concrete)…" |
+|  | خندان | H216 | H216 |
 |  | پادشاه | H4428 | H4428 |
 |  | ، |  |  |
 |  | به |  |  |
@@ -496,14 +356,14 @@ Original words:
 |  | خشنودی | H7522 | H7522 |
 |  | او |  |  |
 |  | ، |  |  |
-| ✱ | ابر | [ابر باران‌زای] H5645 עָב "properly, an envelope…" | H5645 עָב "properly, an envelope…" |
-| ✱ | باران‌زای | [ابر باران‌زای] H5645 עָב "properly, an envelope…" | [باران‌زای بهاری] H4456 מַלְקוֹשׁ "the spring rain…" |
-| ✱ | بهاری | H4456 מַלְקוֹשׁ "the spring rain…" | [باران‌زای بهاری] H4456 מַלְקוֹשׁ "the spring rain…" |
+|  | ابر | H5645 | H5645 |
+|  | باران‌زای | [باران‌زای بهاری] H4456 | [باران‌زای بهاری] H4456 |
+|  | بهاری | [باران‌زای بهاری] H4456 | [باران‌زای بهاری] H4456 |
 |  | . |  |  |
 
-### Proverbs 16:16: 3 word(s) changed
+### Proverbs 16:16: 2 word(s) changed
 
-Reply line 16.
+Reply line 16. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: קְנֹה חָכְמָה מַה טּוֹב מֵ/חָרוּץ וּ/קְנוֹת בִּינָה נִבְחָר מִ/כָּסֶף
 
@@ -534,7 +394,7 @@ Original words:
 |  | کسب | H7069 | H7069 |
 |  | فهم | H998 | H998 |
 |  | ، |  |  |
-| ✱ | گزیده‌ای |  | H977 בָּחַר "properly, to try…" |
+|  | گزیده‌ای | H977 | H977 |
 |  | بِه |  |  |
 |  | از | Hm | Hm |
 |  | نقره | H3701 | H3701 |

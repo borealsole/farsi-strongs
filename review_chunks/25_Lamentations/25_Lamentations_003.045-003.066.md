@@ -122,14 +122,13 @@ Persian entries and current tags:
 - p1: «
 - p2: دشمنانمان  → H341
 - p3: جملگی  → H3605
-- p4: دهان  → H6310
+- p4: دهان  → H6475 H6310
 - p5: خویش
 - p6: را
-- p7: بر
-- p8: ضد  → H5921
-- p9: ما
-- p10: می‌گشایند
-- p11: ؛
+- p7: بر ضد  → H5921
+- p8: ما
+- p9: می‌گشایند  → H6310
+- p10: ؛
 
 ### Lamentations 3:47
 
@@ -183,8 +182,8 @@ Persian entries and current tags:
 - p7: جویهای  → H3381
 - p8: اشک
 - p9: از
-- p10: دیدگانم  → H5869 H1323
-- p11: روان  → H6388
+- p10: دیدگانم  → H5869
+- p11: روان
 - p12: است
 - p13: .
 
@@ -251,7 +250,7 @@ Original words:
 Persian entries and current tags:
 - p1: به  → Hl
 - p2: سبب  → Hm
-- p3: جملۀ
+- p3: جملۀ  → H3605
 - p4: دختران  → H1323
 - p5: شهرم  → H5892
 - p6: ،
@@ -260,7 +259,7 @@ Persian entries and current tags:
 - p9: مرا
 - p10: قرین  → H5315
 - p11: اندوه
-- p12: می‌سازد  → H5953
+- p12: می‌سازد
 - p13: .
 
 ### Lamentations 3:52
@@ -293,7 +292,7 @@ Persian entries and current tags:
 ### Lamentations 3:53
 
 Original: צָמְתוּ בַ/בּוֹר חַיָּ/י וַ/יַּדּוּ אֶבֶן בִּ/י
-Persian: جان مرا به گودالی فرو~افکندند، و سنگها بر من فرو~ریختند؛
+Persian: جان مرا به گودالی فرو افکندند، و سنگها بر من فرو ریختند؛
 
 Original words:
 - o1: צָמְתוּ = H6789 צָמַת "to extirpate (literally or figuratively)" [HVqp3cp]
@@ -307,13 +306,13 @@ Persian entries and current tags:
 - p1: جان مرا  → H2416
 - p2: به  → Hb
 - p3: گودالی  → H953
-- p4: فرو~افکندند  → H6789
+- p4: فرو افکندند  → H6789
 - p5: ،
 - p6: و  → Hc
 - p7: سنگها  → H68
 - p8: بر  → Hb
 - p9: من
-- p10: فرو~ریختند  → H3034
+- p10: فرو ریختند  → H3034
 - p11: ؛
 
 ### Lamentations 3:54
@@ -330,8 +329,8 @@ Original words:
 - o6: נִגְזָרְתִּי = H1504 גָּזַר "to cut down or off…" [HVNp1cs]
 
 Persian entries and current tags:
-- p1: آبها  → H6687 H4325
-- p2: از  → H6687 H5921
+- p1: آبها  → H4325
+- p2: از  → H5921
 - p3: سرم  → H7218
 - p4: گذشت
 - p5: ،
@@ -444,9 +443,9 @@ Persian entries and current tags:
 - p2: خداوندگارا  → H136
 - p3: ،
 - p4: تو
-- p5: به  → H7378
+- p5: به
 - p6: دادرسی  → H7379
-- p7: من  → H5315
+- p7: من
 - p8: آمدی
 - p9: ،
 - p10: و
@@ -475,7 +474,7 @@ Persian entries and current tags:
 - p5: را
 - p6: که
 - p7: بر
-- p8: من  → H5792
+- p8: من
 - p9: روا
 - p10: داشته‌اند
 - p11: ،
@@ -541,10 +540,9 @@ Persian entries and current tags:
 - p10: همۀ  → H3605
 - p11: دسیسه‌هایشان  → H4284
 - p12: را
-- p13: بر
-- p14: ضد  → H5921
-- p15: من
-- p16: ؛
+- p13: بر ضد  → H5921
+- p14: من
+- p15: ؛
 
 ### Lamentations 3:62
 
@@ -586,7 +584,7 @@ Original words:
 - o5: מַנְגִּינָתָ/ם = H4485 מַנְגִּינָה "a satire" [HNcfsc/Sp3mp]
 
 Persian entries and current tags:
-- p1: نشست  → H3427 H5027
+- p1: نشست  → H3427
 - p2: و  → Hc
 - p3: برخاستِ  → H7012
 - p4: ایشان
@@ -597,11 +595,10 @@ Persian entries and current tags:
 - p9: زیرا
 - p10: که
 - p11: موضوع
-- p12: سرودهای  → H4485
-- p13: طعنه‌آمیز
-- p14: ایشان
-- p15: گشته‌ام
-- p16: .
+- p12: سرودهای طعنه‌آمیز  → H4485
+- p13: ایشان
+- p14: گشته‌ام
+- p15: .
 
 ### Lamentations 3:64
 
@@ -647,7 +644,7 @@ Persian entries and current tags:
 - p1: دل  → H3820
 - p2: مشوش
 - p3: بدیشان
-- p4: بده
+- p4: بده  → H5414
 - p5: ؛
 - p6: لعنت  → H8381
 - p7: تو

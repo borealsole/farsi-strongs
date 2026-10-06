@@ -4,9 +4,9 @@ Generated 2026-10-06 by `python review_replies.py check`. Rows marked ✱ change
 
 ## 14 verse(s) with changes
 
-### Song of Solomon 2:3: 4 word(s) changed
+### Song of Solomon 2:3: 3 word(s) changed
 
-Reply line 2.
+Reply line 2. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: כְּ/תַפּוּחַ בַּ/עֲצֵי הַ/יַּעַר כֵּן דּוֹדִ/י בֵּין הַ/בָּנִים בְּ/צִלּ/וֹ חִמַּדְתִּי וְ/יָשַׁבְתִּי וּ/פִרְי/וֹ מָתוֹק לְ/חִכִּ/י
 
@@ -48,7 +48,7 @@ Original words:
 |  | ! |  |  |
 |  | از |  |  |
 | ✱ | نشستن | H2530 חָמַד "to delight in"; H3427 יָשַׁב "properly…" | H3427 יָשַׁב "properly…" |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | سایه‌اش | H6738 | H6738 |
 | ✱ | لذت | H2530 חָמַד "to delight in" | [لذت می‌برم] H2530 חָמַד "to delight in" |
 | ✱ | می‌برم |  | [لذت می‌برم] H2530 חָמַד "to delight in" |
@@ -61,9 +61,9 @@ Original words:
 |  | است |  |  |
 |  | . |  |  |
 
-### Song of Solomon 2:4: 4 word(s) changed
+### Song of Solomon 2:4: 3 word(s) changed
 
-Reply line 3.
+Reply line 3. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: הֱבִיאַ/נִי אֶל בֵּית הַ/יָּיִן וְ/דִגְל/וֹ עָלַ/י אַהֲבָה
 
@@ -81,23 +81,23 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | او |  |  |
-|  | مرا |  |  |
+| ✱ | مرا | H935 בּוֹא "to go or come (in a wide…" |  |
 |  | به | H413 | H413 |
 | ✱ | میخانه | H1004 בַּיִת "a house (in the greatest…" | H1004 בַּיִת "a house (in the greatest…"; H3196 יַיִן "wine (as fermented)…" |
-| ✱ | درآورده | H935 בּוֹא "to go or come (in a wide…"; H3196 יַיִן "wine (as fermented)…" | H935 בּוֹא "to go or come (in a wide…" |
+| ✱ | درآورده | H3196 יַיִן "wine (as fermented)…" | H935 בּוֹא "to go or come (in a wide…" |
 |  | ، |  |  |
 |  | و | Hc | Hc |
 |  | عشق | H160 | H160 |
 |  | است |  |  |
 |  | پرچمِ | H1714 | H1714 |
 |  | او |  |  |
-| ✱ | بر | H5921 עַל "above, over, upon…" | [بر فرازم] H5921 עַל "above, over, upon…" |
-| ✱ | فرازم |  | [بر فرازم] H5921 עַל "above, over, upon…" |
+|  | بر | [بر فرازم] H5921 | [بر فرازم] H5921 |
+|  | فرازم | [بر فرازم] H5921 | [بر فرازم] H5921 |
 |  | . |  |  |
 
 ### Song of Solomon 2:5: 4 word(s) changed
 
-Reply line 4.
+Reply line 4. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: סַמְּכוּ/נִי בָּ/אֲשִׁישׁוֹת רַפְּדוּ/נִי בַּ/תַּפּוּחִים כִּי חוֹלַת אַהֲבָה אָנִי
 
@@ -126,7 +126,7 @@ Original words:
 |  | به | Hb | Hb |
 |  | سیبها | H8598 | H8598 |
 | ✱ | تازه |  | [تازه سازید] H7502 רָפַד "to spread (a bed)…" |
-| ✱ | سازید | H5564 סָמַךְ "to prop (literally or…" | [تازه سازید] H7502 רָפַד "to spread (a bed)…" |
+| ✱ | سازید |  | [تازه سازید] H7502 רָפַד "to spread (a bed)…" |
 |  | ، |  |  |
 |  | زیرا | H3588 | H3588 |
 |  | که |  |  |
@@ -135,9 +135,9 @@ Original words:
 |  | عشقم | H160 | H160 |
 |  | ! |  |  |
 
-### Song of Solomon 2:6: 2 word(s) changed
+### Song of Solomon 2:6: 3 word(s) changed
 
-Reply line 5.
+Reply line 5. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: שְׂמֹאל/וֹ תַּחַת לְ/רֹאשִׁ/י וִ/ימִינ/וֹ תְּחַבְּקֵ/נִי
 
@@ -161,16 +161,16 @@ Original words:
 |  | ، |  |  |
 |  | و | Hc | Hc |
 |  | به |  |  |
-| ✱ | دست | H8040 שְׂמֹאול "properly, dark (as enveloped)…" | [دست راستش] H3225 יָמִין "the right hand or side (leg…" |
-| ✱ | راستش | H3225 יָמִין "the right hand or side (leg…" | [دست راستش] H3225 יָמִין "the right hand or side (leg…" |
-|  | در | [در آغوشم کشیده] H2263 | [در آغوشم کشیده] H2263 |
-|  | آغوشم | [در آغوشم کشیده] H2263 | [در آغوشم کشیده] H2263 |
-|  | کشیده | [در آغوشم کشیده] H2263 | [در آغوشم کشیده] H2263 |
+|  | دست | [دست راستش] H3225 | [دست راستش] H3225 |
+|  | راستش | [دست راستش] H3225 | [دست راستش] H3225 |
+| ✱ | در |  | [در آغوشم کشیده] H2263 חָבַק "to clasp (the hands or in…" |
+| ✱ | آغوشم | [آغوشم کشیده] H2263 חָבַק "to clasp (the hands or in…" | [در آغوشم کشیده] H2263 חָבַק "to clasp (the hands or in…" |
+| ✱ | کشیده | [آغوشم کشیده] H2263 חָבַק "to clasp (the hands or in…" | [در آغوشم کشیده] H2263 חָבַק "to clasp (the hands or in…" |
 |  | . |  |  |
 
 ### Song of Solomon 2:7: 6 word(s) changed
 
-Reply line 6.
+Reply line 6. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: הִשְׁבַּעְתִּי אֶתְ/כֶם בְּנוֹת יְרוּשָׁלִַם בִּ/צְבָאוֹת אוֹ בְּ/אַיְלוֹת הַ/שָּׂדֶה אִם תָּעִירוּ וְ/אִם תְּעוֹרְרוּ אֶת הָ/אַהֲבָה עַד שֶׁ/תֶּחְפָּץ
 
@@ -196,14 +196,14 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | ای |  |  |
+| ✱ | ای | H7650 שָׁבַע "to seven oneself…" |  |
 |  | دختران | H1323 | H1323 |
 |  | اورشلیم | H3389 | H3389 |
 |  | ، |  |  |
 |  | شما |  |  |
 |  | را | H853 | H853 |
 |  | به | Hb | Hb |
-| ✱ | غزالها | H6643 צְבִי "splendor (as conspicuous)…"; H7704 שָׂדֶה "a field (as flat)" | H6643 צְבִי "splendor (as conspicuous)…" |
+|  | غزالها | H6643 | H6643 |
 |  | و | H176 | H176 |
 |  | آهوانِ | H355 | H355 |
 |  | صحرا | H7704 | H7704 |
@@ -213,7 +213,7 @@ Original words:
 |  | عشق | H160 | H160 |
 |  | را | H853 | H853 |
 |  | تا | H5704 | H5704 |
-| ✱ | سیر |  | [سیر نگشته] H2654 חָפֵץ "properly, to incline to…" |
+| ✱ | سیر | H5782 עוּר "to wake (literally or…" | [سیر نگشته] H2654 חָפֵץ "properly, to incline to…" |
 | ✱ | نگشته | H518 אִם "used very widely as…" | [سیر نگشته] H2654 חָפֵץ "properly, to incline to…" |
 |  | ، |  |  |
 | ✱ | زحمت | H5782 עוּר "to wake (literally or…"; H2654 חָפֵץ "properly, to incline to…" | [زحمت مرسانید] H5782 עוּר "to wake (literally or…" |
@@ -222,9 +222,9 @@ Original words:
 |  | بازمدارید | H5782 | H5782 |
 |  | ! |  |  |
 
-### Song of Solomon 2:8: 8 word(s) changed
+### Song of Solomon 2:8: 3 word(s) changed
 
-Reply line 7.
+Reply line 7. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: קוֹל דּוֹדִ/י הִנֵּה זֶה בָּא מְדַלֵּג עַל הֶ/הָרִים מְקַפֵּץ עַל הַ/גְּבָעוֹת
 
@@ -246,34 +246,34 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | آوازِ | H6963 | H6963 |
-| ✱ | دلداده‌ام |  | H1730 דּוֹד "figuratively) to love…" |
+|  | دلداده‌ام | H1730 | H1730 |
 |  | را |  |  |
 | ✱ | می‌شنوم | H1730 דּוֹד "figuratively) to love…" |  |
 |  | ! |  |  |
 |  | هان | H2009 | H2009 |
 |  | ، |  |  |
-|  | او | H2088 | H2088 |
+| ✱ | او |  | H2088 זֶה "the masculine demonstrative…" |
 |  | می‌آید | H935 | H935 |
 |  | ، |  |  |
 | ✱ | جَستان | H1801 דָּלַג "to spring"; H7092 קָפַץ "to draw together, i.e. close…" | H1801 דָּלַג "to spring" |
-| ✱ | بر | H5921 עַל "above, over, upon…" | [بر فراز] H5921 עַל "above, over, upon…" |
-| ✱ | فراز |  | [بر فراز] H5921 עַל "above, over, upon…" |
+|  | بر | [بر فراز] H5921 | [بر فراز] H5921 |
+|  | فراز | [بر فراز] H5921 | [بر فراز] H5921 |
 |  | کوه‌ها | H2022 | H2022 |
 |  | ، |  |  |
 |  | و |  |  |
-| ✱ | خیزان |  | H7092 קָפַץ "to draw together, i.e. close…" |
-| ✱ | بر | H5921 עַל "above, over, upon…" | [بر فراز] H5921 עַל "above, over, upon…" |
-| ✱ | فراز |  | [بر فراز] H5921 עַל "above, over, upon…" |
+|  | خیزان | H7092 | H7092 |
+|  | بر | [بر فراز] H5921 | [بر فراز] H5921 |
+|  | فراز | [بر فراز] H5921 | [بر فراز] H5921 |
 |  | تپه‌ها | H1389 | H1389 |
 |  | . |  |  |
 
-### Song of Solomon 2:9: 10 word(s) changed
+### Song of Solomon 2:9: 8 word(s) changed
 
-Reply line 8.
+Reply line 8. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: דּוֹמֶה דוֹדִ/י לִ/צְבִי אוֹ לְ/עֹפֶר הָ/אַיָּלִים הִנֵּה זֶה עוֹמֵד אַחַר כָּתְלֵ/נוּ מַשְׁגִּיחַ מִן הַ/חֲלֹּנוֹת מֵצִיץ מִן הַ/חֲרַכִּים
 
-Persian: دلدادۀ من همچون غزال است و مانند بچه‌آهو. هان، او در پسِ دیوار ما ایستاده_است! از پنجره‌ها می‌نگرد، از میان شبکه‌ها نگاه می‌کند!
+Persian: دلدادۀ من همچون غزال است و مانند بچه‌آهو. هان، او در پسِ دیوار ما ایستاده است! از پنجره‌ها می‌نگرد، از میان شبکه‌ها نگاه می‌کند!
 
 Original words:
 - o1: דּוֹמֶה = H1819 דָּמָה "to compare…" [HVqrmsa]
@@ -312,10 +312,11 @@ Original words:
 |  | پسِ | H310 | H310 |
 |  | دیوار | H3796 | H3796 |
 |  | ما |  |  |
-|  | ایستاده_است | H5975 | H5975 |
+|  | ایستاده | [ایستاده است] H5975 | [ایستاده است] H5975 |
+|  | است | [ایستاده است] H5975 | [ایستاده است] H5975 |
 |  | ! |  |  |
-| ✱ | از |  | H4480 מִן "properly, a part of…" |
-| ✱ | پنجره‌ها |  | H2474 חַלּוֹן "a window (as perforated)" |
+|  | از | H4480 | H4480 |
+|  | پنجره‌ها | H2474 | H2474 |
 | ✱ | می‌نگرد | H6692 צוּץ "to twinkle, i.e. glance…" | H7688 שָׁגַח "to peep…" |
 |  | ، |  |  |
 |  | از | H4480 | H4480 |
@@ -325,9 +326,9 @@ Original words:
 | ✱ | می‌کند | [نگاه می‌کند] H7688 שָׁגַח "to peep…" | [نگاه می‌کند] H6692 צוּץ "to twinkle, i.e. glance…" |
 |  | ! |  |  |
 
-### Song of Solomon 2:10: 5 word(s) changed
+### Song of Solomon 2:10: 4 word(s) changed
 
-Reply line 9.
+Reply line 9. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: עָנָה דוֹדִ/י וְ/אָמַר לִ/י קוּמִי לָ/ךְ רַעְיָתִ/י יָפָתִ/י וּ/לְכִי לָ/ךְ
 
@@ -358,7 +359,7 @@ Original words:
 |  | : |  |  |
 |  | « |  |  |
 |  | ای |  |  |
-| ✱ | نازنینم |  | H7474 רַעְיָה "a female associate" |
+|  | نازنینم | H7474 | H7474 |
 |  | ، |  |  |
 |  | ای |  |  |
 |  | دلربای | H3303 | H3303 |
@@ -371,9 +372,9 @@ Original words:
 |  | بیا | H3212 | H3212 |
 |  | ! |  |  |
 
-### Song of Solomon 2:11: 5 word(s) changed
+### Song of Solomon 2:11: 6 word(s) changed
 
-Reply line 10.
+Reply line 10. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: כִּי הִנֵּה ה/סתו עָבָר הַ/גֶּשֶׁם חָלַף הָלַךְ ל/וֹ
 
@@ -396,7 +397,7 @@ Original words:
 |  | زمستان | H5638 | H5638 |
 |  | درگذشته | H5674 | H5674 |
 |  | و |  |  |
-|  | موسِم |  |  |
+| ✱ | موسِم | H5638 סְתָו "winter (as the dark season)" |  |
 |  | باران | H1653 | H1653 |
 | ✱ | به |  | [به سر آمده] H2498 חָלַף "properly, to slide by…" |
 | ✱ | سر |  | [به سر آمده] H2498 חָלַף "properly, to slide by…" |
@@ -407,13 +408,13 @@ Original words:
 |  | است |  |  |
 |  | ! |  |  |
 
-### Song of Solomon 2:12: 2 word(s) changed
+### Song of Solomon 2:12: 1 word(s) changed
 
-Reply line 11.
+Reply line 11. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: הַ/נִּצָּנִים נִרְאוּ בָ/אָרֶץ עֵת הַ/זָּמִיר הִגִּיעַ וְ/קוֹל הַ/תּוֹר נִשְׁמַע בְּ/אַרְצֵ/נוּ
 
-Persian: زمین گلشن گشته، زمان نغمه‌سرایی فرا~رسیده، و آواز فاخته در ولایت ما شنیده_می‌شود!
+Persian: زمین گلشن گشته، زمان نغمه‌سرایی فرا رسیده، و آواز فاخته در ولایت ما شنیده می‌شود!
 
 Original words:
 - o1: הַ/נִּצָּנִים = Hd "the" + H5339 נִצָּן "a blossom" [HTd/Ncmpa]
@@ -435,24 +436,26 @@ Original words:
 |  | ، |  |  |
 |  | زمان | H6256 | H6256 |
 |  | نغمه‌سرایی | H2159 | H2159 |
-|  | فرا~رسیده | H5060 | H5060 |
+|  | فرا | [فرا رسیده] H5060 | [فرا رسیده] H5060 |
+|  | رسیده | [فرا رسیده] H5060 | [فرا رسیده] H5060 |
 |  | ، |  |  |
 |  | و | Hc | Hc |
 |  | آواز | H6963 | H6963 |
-| ✱ | فاخته | H7200 רָאָה "to see…"; H8449 תּוֹר "a ring-dove…" | H8449 תּוֹר "a ring-dove…" |
+|  | فاخته | H8449 | H8449 |
 |  | در | Hb | Hb |
 |  | ولایت | H776 | H776 |
 |  | ما |  |  |
-|  | شنیده_می‌شود | H8085 | H8085 |
+|  | شنیده | [شنیده می‌شود] H8085 | [شنیده می‌شود] H8085 |
+|  | می‌شود | [شنیده می‌شود] H8085 | [شنیده می‌شود] H8085 |
 |  | ! |  |  |
 
-### Song of Solomon 2:13: 9 word(s) changed
+### Song of Solomon 2:13: 6 word(s) changed
 
-Reply line 12.
+Reply line 12. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: הַ/תְּאֵנָה חָנְטָה פַגֶּי/הָ וְ/הַ/גְּפָנִים סְמָדַר נָתְנוּ רֵיחַ קוּמִי לכי רַעְיָתִ/י יָפָתִ/י וּ/לְכִי לָ/ךְ
 
-Persian: درخت انجیر نخستین میوه‌های خود را آورده، و موها شکوفه کرده، عطرافشان شده_است! ای نازنینم، ای دلربای من، برخیز و با من بیا!»
+Persian: درخت انجیر نخستین میوه‌های خود را آورده، و موها شکوفه کرده، عطرافشان شده است! ای نازنینم، ای دلربای من، برخیز و با من بیا!»
 
 Original words:
 - o1: הַ/תְּאֵנָה = Hd "the" + H8384 תְּאֵן "the fig (tree or fruit)" [HTd/Ncfsa]
@@ -471,9 +474,9 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | درخت |  | [درخت انجیر] H8384 תְּאֵן "the fig (tree or fruit)" |
-| ✱ | انجیر | H8384 תְּאֵן "the fig (tree or fruit)" | [درخت انجیر] H8384 תְּאֵן "the fig (tree or fruit)" |
-| ✱ | نخستین |  | [نخستین میوه‌های] H6291 פַּג "crude; an unripe fig" |
+|  | درخت | [درخت انجیر] H8384 | [درخت انجیر] H8384 |
+|  | انجیر | [درخت انجیر] H8384 | [درخت انجیر] H8384 |
+| ✱ | نخستین | H2590 חָנַט "to spice…" | [نخستین میوه‌های] H6291 פַּג "crude; an unripe fig" |
 | ✱ | میوه‌های | H6291 פַּג "crude; an unripe fig" | [نخستین میوه‌های] H6291 פַּג "crude; an unripe fig" |
 |  | خود |  |  |
 |  | را |  |  |
@@ -485,10 +488,11 @@ Original words:
 | ✱ | کرده |  | [شکوفه کرده] H5563 סְמָדַר "a vine blossom…" |
 |  | ، |  |  |
 | ✱ | عطرافشان | H7381 רֵיחַ "odor (as if blown)" | H5414 נָתַן "to give…"; H7381 רֵיחַ "odor (as if blown)" |
-|  | شده_است |  |  |
+|  | شده | [شده است]  | [شده است]  |
+|  | است | [شده است]  | [شده است]  |
 |  | ! |  |  |
 |  | ای |  |  |
-| ✱ | نازنینم |  | H7474 רַעְיָה "a female associate" |
+|  | نازنینم | H7474 | H7474 |
 |  | ، |  |  |
 |  | ای |  |  |
 |  | دلربای | H3303 | H3303 |
@@ -502,9 +506,9 @@ Original words:
 |  | ! |  |  |
 |  | » |  |  |
 
-### Song of Solomon 2:14: 5 word(s) changed
+### Song of Solomon 2:14: 4 word(s) changed
 
-Reply line 13.
+Reply line 13. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: יוֹנָתִ/י בְּ/חַגְוֵי הַ/סֶּלַע בְּ/סֵתֶר הַ/מַּדְרֵגָה הַרְאִי/נִי אֶתּ מַרְאַיִ/ךְ הַשְׁמִיעִי/נִי אֶת קוֹלֵ/ךְ כִּי קוֹלֵ/ךְ עָרֵב וּ/מַרְאֵי/ךְ נָאוֶה
 
@@ -531,13 +535,13 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | ای |  |  |
-| ✱ | کبوتر |  | H3123 יוֹנָה "a dove (apparently from the…" |
+|  | کبوتر | H3123 | H3123 |
 |  | من |  |  |
 |  | ، |  |  |
 |  | که |  |  |
 |  | در | Hb | Hb |
 |  | شکافهای | H2288 | H2288 |
-|  | صخره | H5553 | H5553 |
+| ✱ | صخره | H5553 סֶלַע "a craggy rock…"; H4095 מַדְרֵגָה "properly, a step…" | H5553 סֶלַע "a craggy rock…" |
 |  | و |  |  |
 | ✱ | جایهای |  | [جایهای مخفی] H5643 סֵתֶר "a cover (in a good or a bad…" |
 | ✱ | مخفی | H5643 סֵתֶר "a cover (in a good or a bad…" | [جایهای مخفی] H5643 סֵתֶר "a cover (in a good or a bad…" |
@@ -553,7 +557,7 @@ Original words:
 |  | و |  |  |
 |  | آوازت | H6963 | H6963 |
 |  | را | H853 | H853 |
-| ✱ | به | H8085 שָׁמַע "to hear intelligently (often…" |  |
+|  | به |  |  |
 |  | من |  |  |
 |  | بشنوان | H8085 | H8085 |
 |  | ، |  |  |
@@ -568,9 +572,9 @@ Original words:
 |  | دلربا | H5000 | H5000 |
 |  | ! |  |  |
 
-### Song of Solomon 2:16: 5 word(s) changed
+### Song of Solomon 2:16: 6 word(s) changed
 
-Reply line 14.
+Reply line 14. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: דּוֹדִ/י לִ/י וַ/אֲנִי ל/וֹ הָ/רֹעֶה בַּ/שּׁוֹשַׁנִּים
 
@@ -587,26 +591,26 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | دلداده‌ام | H1730 | H1730 |
-| ✱ | از |  | [از آنِ] Hl "to" |
+| ✱ | از | Hl "to" | [از آنِ] Hl "to" |
 | ✱ | آنِ |  | [از آنِ] Hl "to" |
 |  | من |  |  |
 |  | است |  |  |
 |  | و | Hc | Hc |
 |  | من | H589 | H589 |
-| ✱ | از |  | [از آنِ] Hl "to" |
+| ✱ | از | Hl "to" | [از آنِ] Hl "to" |
 | ✱ | آنِ |  | [از آنِ] Hl "to" |
-|  | اویم |  |  |
+| ✱ | اویم | H589 אֲנִי "I" |  |
 |  | ؛ |  |  |
 |  | او |  |  |
-| ✱ | در | H7462 רָעָה "to tend a flock…" | Hb "in" |
+|  | در | Hb | Hb |
 |  | میان |  |  |
 |  | سوسن‌ها | H7799 | H7799 |
-|  | می‌چرَد | H7462 | H7462 |
+| ✱ | می‌چرَد | H7462 רָעָה "to tend a flock…"; H7799 שׁוּשַׁן "a lily (from its whiteness)…" | H7462 רָעָה "to tend a flock…" |
 |  | . |  |  |
 
 ### Song of Solomon 2:17: 8 word(s) changed
 
-Reply line 15.
+Reply line 15. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: עַד שֶׁ/יָּפוּחַ הַ/יּוֹם וְ/נָסוּ הַ/צְּלָלִים סֹב דְּמֵה לְ/ךָ דוֹדִ/י לִ/צְבִי אוֹ לְ/עֹפֶר הָ/אַיָּלִים עַל הָרֵי בָתֶר
 
@@ -639,7 +643,7 @@ Original words:
 | ✱ | پیش | H5704 עַד "as far (or long, or much) as…" | [پیش از آنکه] H5704 עַד "as far (or long, or much) as…"; Hs "which" |
 | ✱ | از |  | [پیش از آنکه] H5704 עַד "as far (or long, or much) as…"; Hs "which" |
 | ✱ | آنکه |  | [پیش از آنکه] H5704 עַד "as far (or long, or much) as…"; Hs "which" |
-| ✱ | نسیمِ | H6315 פּוּחַ "to puff…" |  |
+|  | نسیمِ |  |  |
 |  | روز | H3117 | H3117 |
 |  | وزیدن | [وزیدن گیرد] H6315 | [وزیدن گیرد] H6315 |
 |  | گیرد | [وزیدن گیرد] H6315 | [وزیدن گیرد] H6315 |
@@ -647,12 +651,12 @@ Original words:
 |  | و | Hc | Hc |
 |  | سایه‌ها | H6752 | H6752 |
 | ✱ | دامن |  | [دامن بَرکِشند] H5127 נוּס "to flit…" |
-| ✱ | بَرکِشند | H1730 דּוֹד "figuratively) to love…" | [دامن بَرکِشند] H5127 נוּס "to flit…" |
+| ✱ | بَرکِشند | H5127 נוּס "to flit…"; H1730 דּוֹד "figuratively) to love…" | [دامن بَرکِشند] H5127 נוּס "to flit…" |
 |  | ، |  |  |
 | ✱ | بازگرد | H5127 נוּס "to flit…" | H5437 סָבַב "to revolve, surround…" |
 |  | و |  |  |
 |  | همچون | H1819 | H1819 |
-|  | غزال | H6643 H6082 H354 | H6643 H6082 H354 |
+| ✱ | غزال | H6643 צְבִי "splendor (as conspicuous)…"; H6082 עֹפֶר "a fawn (from the dusty color)" | H6643 צְבִי "splendor (as conspicuous)…"; H6082 עֹפֶר "a fawn (from the dusty color)"; H354 אַיָּל "a stag or male deer" |
 |  | و |  |  |
 |  | بچه‌آهو | H354 | H354 |
 |  | بر | H5921 | H5921 |

@@ -1,12 +1,14 @@
 # Check of 20_Proverbs_027.015-027.027.md
 
-Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-06 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
-## 13 verse(s) with changes
+No change from the current tags (will be skipped): Proverbs 27:16.
 
-### Proverbs 27:15: 1 word(s) changed
+## 12 verse(s) with changes
 
-Reply line 2.
+### Proverbs 27:15: 2 word(s) changed
+
+Reply line 2. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: דֶּלֶף טוֹרֵד בְּ/יוֹם סַגְרִיר וְ/אֵשֶׁת מדונים נִשְׁתָּוָה
 
@@ -23,8 +25,8 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-|  | چکیدنِ | H1812 | H1812 |
-| ✱ | پیوستۀ |  | H2956 טָרַד "to drive on…" |
+| ✱ | چکیدنِ | [چکیدنِ پیوستۀ] H1812 דֶּלֶף "a dripping" | H1812 דֶּלֶף "a dripping" |
+| ✱ | پیوستۀ | [چکیدنِ پیوستۀ] H1812 דֶּלֶף "a dripping" | H2956 טָרַד "to drive on…" |
 |  | آب |  |  |
 |  | در | Hb | Hb |
 |  | روز | H3117 | H3117 |
@@ -35,41 +37,9 @@ Original words:
 |  | مشابه‌اند | H7737 | H7737 |
 |  | ؛ |  |  |
 
-### Proverbs 27:16: 1 word(s) changed
+### Proverbs 27:17: 1 word(s) changed
 
-Reply line 3.
-
-Original: צֹפְנֶי/הָ צָפַן רוּחַ וְ/שֶׁמֶן יְמִינ/וֹ יִקְרָא
-
-Persian: بازداشتن او همچون بازداشتن باد است، یا گرفتن روغن با دست.
-
-Original words:
-- o1: צֹפְנֶי/הָ = H6845 צָפַן "to hide (by covering over)…" [HVqrmpc/Sp3fs]
-- o2: צָפַן = H6845 צָפַן "to hide (by covering over)…" [HVqp3ms]
-- o3: רוּחַ = H7307 רוּחַ "wind…" [HNcbsa]
-- o4: וְ/שֶׁמֶן = Hc "and" + H8081 שֶׁמֶן "grease, especially liquid (as from the olive…" [HC/Ncmsc]
-- o5: יְמִינ/וֹ = H3225 יָמִין "the right hand or side (leg…" [HNcfsc/Sp3ms]
-- o6: יִקְרָא = H7121 קָרָא "to call out to (i.e. properly, address by name…" [HVqi3ms]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | بازداشتن | H6845 | H6845 |
-|  | او |  |  |
-|  | همچون |  |  |
-|  | بازداشتن | H6845 | H6845 |
-|  | باد | H7307 | H7307 |
-|  | است |  |  |
-|  | ، |  |  |
-| ✱ | یا |  | Hc "and" |
-|  | گرفتن | H7121 | H7121 |
-|  | روغن | H8081 | H8081 |
-|  | با |  |  |
-|  | دست | H3225 | H3225 |
-|  | . |  |  |
-
-### Proverbs 27:17: 3 word(s) changed
-
-Reply line 4.
+Reply line 4. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: בַּרְזֶל בְּ/בַרְזֶל יָחַד וְ/אִישׁ יַחַד פְּנֵי רֵעֵ/הוּ
 
@@ -89,8 +59,8 @@ Original words:
 |  | آهن | H1270 | H1270 |
 |  | آهن | H1270 | H1270 |
 |  | را |  |  |
-| ✱ | تیز | H2300 חָדַד "to be (causatively…" | [تیز می‌کند] H2300 חָדַד "to be (causatively…" |
-| ✱ | می‌کند | H2300 חָדַד "to be (causatively…" | [تیز می‌کند] H2300 חָדַד "to be (causatively…" |
+|  | تیز | [تیز می‌کند] H2300 | [تیز می‌کند] H2300 |
+|  | می‌کند | [تیز می‌کند] H2300 | [تیز می‌کند] H2300 |
 |  | ، |  |  |
 |  | مرد | H376 | H376 |
 |  | ، |  |  |
@@ -100,11 +70,11 @@ Original words:
 
 ### Proverbs 27:18: 2 word(s) changed
 
-Reply line 5.
+Reply line 5. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: נֹצֵר תְּאֵנָה יֹאכַל פִּרְיָ/הּ וְ/שֹׁמֵר אֲדֹנָי/ו יְכֻבָּד
 
-Persian: آن که از درخت انجیری نگهداری کند، از میوه‌اش خواهد_خورد؛ و آن که از سَرور خود مراقبت نماید، عزّت خواهد_یافت.
+Persian: آن که از درخت انجیری نگهداری کند، از میوه‌اش خواهد خورد؛ و آن که از سَرور خود مراقبت نماید، عزّت خواهد یافت.
 
 Original words:
 - o1: נֹצֵר = H5341 נָצַר "to guard, in a good sense (to protect, maintain…" [HVqrmsc]
@@ -122,12 +92,13 @@ Original words:
 |  | از |  |  |
 |  | درخت | [درخت انجیری] H8384 | [درخت انجیری] H8384 |
 |  | انجیری | [درخت انجیری] H8384 | [درخت انجیری] H8384 |
-| ✱ | نگهداری |  | [نگهداری کند] H5341 נָצַר "to guard…" |
-| ✱ | کند |  | [نگهداری کند] H5341 נָצַר "to guard…" |
+| ✱ | نگهداری | [نگهداری کند] H8104 שָׁמַר "properly…" | [نگهداری کند] H5341 נָצַר "to guard…" |
+| ✱ | کند | [نگهداری کند] H8104 שָׁמַר "properly…" | [نگهداری کند] H5341 נָצַר "to guard…" |
 |  | ، |  |  |
 |  | از |  |  |
 |  | میوه‌اش | H6529 | H6529 |
-|  | خواهد_خورد | H398 | H398 |
+|  | خواهد | [خواهد خورد] H398 | [خواهد خورد] H398 |
+|  | خورد | [خواهد خورد] H398 | [خواهد خورد] H398 |
 |  | ؛ |  |  |
 |  | و | Hc | Hc |
 |  | آن |  |  |
@@ -138,13 +109,14 @@ Original words:
 |  | مراقبت | [مراقبت نماید] H8104 | [مراقبت نماید] H8104 |
 |  | نماید | [مراقبت نماید] H8104 | [مراقبت نماید] H8104 |
 |  | ، |  |  |
-|  | عزّت | [عزّت خواهد_یافت] H3513 | [عزّت خواهد_یافت] H3513 |
-|  | خواهد_یافت | [عزّت خواهد_یافت] H3513 | [عزّت خواهد_یافت] H3513 |
+|  | عزّت | [عزّت خواهد یافت] H3513 | [عزّت خواهد یافت] H3513 |
+|  | خواهد | [عزّت خواهد یافت] H3513 | [عزّت خواهد یافت] H3513 |
+|  | یافت | [عزّت خواهد یافت] H3513 | [عزّت خواهد یافت] H3513 |
 |  | . |  |  |
 
 ### Proverbs 27:19: 3 word(s) changed
 
-Reply line 6.
+Reply line 6. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: כַּ/מַּיִם הַ/פָּנִים לַ/פָּנִים כֵּן לֵב הָ/אָדָם לָ/אָדָם
 
@@ -163,10 +135,10 @@ Original words:
 | --- | --- | --- | --- |
 |  | آب | H4325 | H4325 |
 |  | ، |  |  |
-| ✱ | چهرۀ |  | H6440 פָּנִים "the face (as the part that…" |
+|  | چهرۀ | H6440 | H6440 |
 | ✱ | انسان | H120 אָדָם "ruddy i.e. a human being (an…" |  |
 |  | را |  |  |
-|  | منعکس |  |  |
+| ✱ | منعکس | H3651 כֵּן "properly, set upright…" |  |
 |  | می‌کند |  |  |
 |  | ، |  |  |
 |  | دل | H3820 | H3820 |
@@ -179,7 +151,7 @@ Original words:
 
 ### Proverbs 27:20: 2 word(s) changed
 
-Reply line 7.
+Reply line 7. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: שְׁאוֹל ו/אבדה לֹא תִשְׂבַּעְנָה וְ/עֵינֵי הָ/אָדָם לֹא תִשְׂבַּעְנָה
 
@@ -211,7 +183,7 @@ Original words:
 
 ### Proverbs 27:21: 4 word(s) changed
 
-Reply line 8.
+Reply line 8. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: מַצְרֵף לַ/כֶּסֶף וְ/כוּר לַ/זָּהָב וְ/אִישׁ לְ/פִי מַהֲלָל/וֹ
 
@@ -240,16 +212,16 @@ Original words:
 | ✱ | نیز |  | Hc "and" |
 |  | برای | Hl | Hl |
 | ✱ | آزمایش | H4110 מַהֲלָל "fame" |  |
-| ✱ | آدمی | H376 אִישׁ "a man as an individual or a…"; H6310 פֶּה "the mouth (as the means of…"; H4110 מַהֲלָל "fame" | H376 אִישׁ "a man as an individual or a…" |
+| ✱ | آدمی | H376 אִישׁ "a man as an individual or a…"; H4110 מַהֲלָל "fame" | H376 אִישׁ "a man as an individual or a…" |
 |  | ! |  |  |
 
 ### Proverbs 27:22: 8 word(s) changed
 
-Reply line 9.
+Reply line 9. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: אִם תִּכְתּוֹשׁ אֶת הָ/אֱוִיל בַּ/מַּכְתֵּשׁ בְּ/תוֹךְ הָ/רִיפוֹת בַּ/עֱלִי לֹא תָסוּר מֵ/עָלָי/ו אִוַּלְתּ/וֹ
 
-Persian: اگر احمق را چون گندم نیز در هاون بکوبی، حماقتش را از او دور نخواهی_کرد!
+Persian: اگر احمق را چون گندم نیز در هاون بکوبی، حماقتش را از او دور نخواهی کرد!
 
 Original words:
 - o1: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
@@ -273,7 +245,7 @@ Original words:
 | ✱ | چون |  | Hb "in"; H8432 תָּוֶךְ "a bisection…" |
 | ✱ | گندم | H4388 מַכְתֵּשׁ "a mortar…" | H7383 רִיפָה "only plural)…" |
 |  | نیز |  |  |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 | ✱ | هاون | H5940 עֱלִי "a pestle (as lifted)" | H4388 מַכְתֵּשׁ "a mortar…" |
 |  | بکوبی | H3806 | H3806 |
 |  | ، |  |  |
@@ -281,13 +253,14 @@ Original words:
 | ✱ | را | H853 אֵת "properly…" |  |
 | ✱ | از | Hm "from" | Hm "from"; H5921 עַל "above, over, upon…" |
 |  | او |  |  |
-| ✱ | دور | H5493 סוּר "to turn off (literal or…" | [دور نخواهی_کرد] H3808 לֹא "not (the simple or abs.…"; H5493 סוּר "to turn off (literal or…" |
-| ✱ | نخواهی_کرد | H3808 לֹא "not (the simple or abs.…" | [دور نخواهی_کرد] H3808 לֹא "not (the simple or abs.…"; H5493 סוּר "to turn off (literal or…" |
+| ✱ | دور | H5493 סוּר "to turn off (literal or…" | [دور نخواهی کرد] H3808 לֹא "not (the simple or abs.…"; H5493 סוּר "to turn off (literal or…" |
+| ✱ | نخواهی | [نخواهی کرد] H3808 לֹא "not (the simple or abs.…" | [دور نخواهی کرد] H3808 לֹא "not (the simple or abs.…"; H5493 סוּר "to turn off (literal or…" |
+| ✱ | کرد | [نخواهی کرد] H3808 לֹא "not (the simple or abs.…" | [دور نخواهی کرد] H3808 לֹא "not (the simple or abs.…"; H5493 סוּר "to turn off (literal or…" |
 |  | ! |  |  |
 
-### Proverbs 27:23: 5 word(s) changed
+### Proverbs 27:23: 6 word(s) changed
 
-Reply line 10.
+Reply line 10. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: יָדֹעַ תֵּדַע פְּנֵי צֹאנֶ/ךָ שִׁית לִבְּ/ךָ לַ/עֲדָרִים
 
@@ -305,7 +278,7 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | از |  |  |
-|  | وضع | H6440 | H6440 |
+| ✱ | وضع |  | H6440 פָּנִים "the face (as the part that…" |
 |  | گله‌هایت | H6629 | H6629 |
 |  | نیک | H3045 | H3045 |
 |  | آگاه | [آگاه باش] H3045 | [آگاه باش] H3045 |
@@ -317,9 +290,9 @@ Original words:
 | ✱ | کن |  | [مراقبت کن] H7896 שִׁית "to place (in a very wide…" |
 |  | ؛ |  |  |
 
-### Proverbs 27:24: 1 word(s) changed
+### Proverbs 27:24: 3 word(s) changed
 
-Reply line 11.
+Reply line 11. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: כִּי לֹא לְ/עוֹלָם חֹסֶן וְ/אִם נֵזֶר לְ/דוֹר דור
 
@@ -344,9 +317,9 @@ Original words:
 |  | ، |  |  |
 |  | و | Hc | Hc |
 | ✱ | نه |  | H518 אִם "used very widely as…" |
-|  | حتی |  |  |
+| ✱ | حتی | H518 אִם "used very widely as…" |  |
 |  | تاج | H5145 | H5145 |
-|  | و |  |  |
+| ✱ | و | Hc "and" |  |
 |  | تخت | H5145 | H5145 |
 |  | ، |  |  |
 |  | باقی |  |  |
@@ -359,7 +332,7 @@ Original words:
 
 ### Proverbs 27:25: 6 word(s) changed
 
-Reply line 12.
+Reply line 12. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: גָּלָה חָצִיר וְ/נִרְאָה דֶשֶׁא וְ/נֶאֶסְפוּ עִשְּׂבוֹת הָרִים
 
@@ -378,7 +351,7 @@ Original words:
 | --- | --- | --- | --- |
 | ✱ | پس | Hc "and" |  |
 | ✱ | چون | H7200 רָאָה "to see…" |  |
-| ✱ | علفها | H1877 דֶּשֶׁא "a sprout; by analogy, grass" | H2682 חָצִיר "grass…" |
+| ✱ | علفها | H2682 חָצִיר "grass…"; H1877 דֶּשֶׁא "a sprout; by analogy, grass" | H2682 חָצִיר "grass…" |
 |  | را |  |  |
 |  | بزنند | H1540 | H1540 |
 |  | و | Hc | Hc |
@@ -393,13 +366,13 @@ Original words:
 |  | گردد | [جمع گردد] H622 | [جمع گردد] H622 |
 |  | ، |  |  |
 
-### Proverbs 27:26: 1 word(s) changed
+### Proverbs 27:26: 2 word(s) changed
 
-Reply line 13.
+Reply line 13. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: כְּבָשִׂים לִ/לְבוּשֶׁ/ךָ וּ/מְחִיר שָׂדֶה עַתּוּדִים
 
-Persian: بره‌ها جامۀ تو خواهند_شد و بزها بهای زمینت.
+Persian: بره‌ها جامۀ تو خواهند شد و بزها بهای زمینت.
 
 Original words:
 - o1: כְּבָשִׂים = H3532 כֶּבֶשׂ "a ram (just old enough to butt)" [HNcmpa]
@@ -413,7 +386,8 @@ Original words:
 |  | بره‌ها | H3532 | H3532 |
 |  | جامۀ | H3830 | H3830 |
 |  | تو |  |  |
-| ✱ | خواهند_شد | H3830 לְבוּשׁ "a garment (literally or…" | Hl "to" |
+| ✱ | خواهند | [خواهند شد] H3830 לְבוּשׁ "a garment (literally or…" | [خواهند شد] Hl "to" |
+| ✱ | شد | [خواهند شد] H3830 לְבוּשׁ "a garment (literally or…" | [خواهند شد] Hl "to" |
 |  | و | Hc | Hc |
 |  | بزها | H6260 | H6260 |
 |  | بهای | H4242 | H4242 |
@@ -422,11 +396,11 @@ Original words:
 
 ### Proverbs 27:27: 3 word(s) changed
 
-Reply line 14.
+Reply line 14. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: וְ/דֵי חֲלֵב עִזִּים לְ/לַחְמְ/ךָ לְ/לֶחֶם בֵּיתֶ/ךָ וְ/חַיִּים לְ/נַעֲרוֹתֶי/ךָ
 
-Persian: شیر بزها برای خوراک تو کافی خواهد_بود، و برای خوراک خانواده و معیشت کنیزانت.
+Persian: شیر بزها برای خوراک تو کافی خواهد بود، و برای خوراک خانواده و معیشت کنیزانت.
 
 Original words:
 - o1: וְ/דֵי = Hc "and" + H1767 דַּי "enough (as noun or adverb)…" [HC/Ncmsc]
@@ -446,7 +420,8 @@ Original words:
 |  | خوراک | H3899 | H3899 |
 |  | تو |  |  |
 |  | کافی | H1767 | H1767 |
-|  | خواهد_بود |  |  |
+|  | خواهد | [خواهد بود]  | [خواهد بود]  |
+|  | بود | [خواهد بود]  | [خواهد بود]  |
 |  | ، |  |  |
 | ✱ | و | Hc "and" |  |
 |  | برای | Hl | Hl |

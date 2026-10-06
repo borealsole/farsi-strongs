@@ -1,12 +1,14 @@
 # Check of 20_Proverbs_022.001-022.014.md
 
-Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-06 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
-## 12 verse(s) with changes
+No change from the current tags (will be skipped): Proverbs 22:2, Proverbs 22:12.
 
-### Proverbs 22:1: 2 word(s) changed
+## 10 verse(s) with changes
 
-Reply line 2.
+### Proverbs 22:1: 1 word(s) changed
+
+Reply line 2. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: נִבְחָר שֵׁם מֵ/עֹשֶׁר רָב מִ/כֶּסֶף וּ/מִ/זָּהָב חֵן טוֹב
 
@@ -32,7 +34,7 @@ Original words:
 |  | است |  |  |
 |  | ؛ |  |  |
 |  | و |  |  |
-| ✱ | محبوبیت |  | H2580 חֵן "graciousness…" |
+|  | محبوبیت | H2580 | H2580 |
 |  | از | Hm | Hm |
 |  | سیم | H3701 | H3701 |
 |  | و | Hc | Hc |
@@ -41,42 +43,9 @@ Original words:
 |  | بهتر | H2896 | H2896 |
 |  | . |  |  |
 
-### Proverbs 22:2: 2 word(s) changed
-
-Reply line 3.
-
-Original: עָשִׁיר וָ/רָשׁ נִפְגָּשׁוּ עֹשֵׂה כֻלָּ/ם יְהוָה
-
-Persian: غنی و فقیر در این اشتراک دارند: خداوند آفرینندۀ هر دوی آنهاست.
-
-Original words:
-- o1: עָשִׁיר = H6223 עָשִׁיר "rich, whether literal or figurative (noble)" [HAamsa]
-- o2: וָ/רָשׁ = Hc "and" + H7326 רוּשׁ "to be destitute" [HC/Vqrmsa]
-- o3: נִפְגָּשׁוּ = H6298 פָּגַשׁ "to come in contact with…" [HVNp3cp]
-- o4: עֹשֵׂה = H6213 עָשָׂה "to do or make…" [HVqrmsc]
-- o5: כֻלָּ/ם = H3605 כֹּל "properly, the whole…" [HNcmsc/Sp3mp]
-- o6: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | غنی | H6223 | H6223 |
-|  | و | Hc | Hc |
-|  | فقیر | H7326 | H7326 |
-|  | در |  |  |
-|  | این |  |  |
-| ✱ | اشتراک |  | [اشتراک دارند] H6298 פָּגַשׁ "to come in contact with…" |
-| ✱ | دارند | H6298 פָּגַשׁ "to come in contact with…" | [اشتراک دارند] H6298 פָּגַשׁ "to come in contact with…" |
-|  | : |  |  |
-|  | خداوند | H3068 | H3068 |
-|  | آفرینندۀ | H6213 | H6213 |
-|  | هر | H3605 | H3605 |
-|  | دوی |  |  |
-|  | آنهاست |  |  |
-|  | . |  |  |
-
 ### Proverbs 22:3: 3 word(s) changed
 
-Reply line 4.
+Reply line 4. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: עָרוּם רָאָה רָעָה ו/יסתר וּ/פְתָיִים עָבְרוּ וְ/נֶעֱנָשׁוּ
 
@@ -111,9 +80,9 @@ Original words:
 | ✱ | می‌دهد |  | H6064 עָנַשׁ "properly, to urge…" |
 |  | ! |  |  |
 
-### Proverbs 22:5: 6 word(s) changed
+### Proverbs 22:5: 5 word(s) changed
 
-Reply line 5.
+Reply line 5. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: צִנִּים פַּחִים בְּ/דֶרֶךְ עִקֵּשׁ שׁוֹמֵר נַפְשׁ/וֹ יִרְחַק מֵ/הֶם
 
@@ -144,8 +113,8 @@ Original words:
 |  | که |  |  |
 |  | مراقب | H8104 | H8104 |
 |  | جان | H5315 | H5315 |
-| ✱ | خویش | [خویش باشد] H7368 רָחַק "to widen (in any direction)…" |  |
-| ✱ | باشد | [خویش باشد] H7368 רָחַק "to widen (in any direction)…" | H8104 שָׁמַר "properly…" |
+|  | خویش |  |  |
+| ✱ | باشد |  | H8104 שָׁמַר "properly…" |
 |  | ، |  |  |
 |  | از | Hm | Hm |
 |  | آنها |  |  |
@@ -154,13 +123,13 @@ Original words:
 | ✱ | می‌ماند |  | [در امان می‌ماند] H7368 רָחַק "to widen (in any direction)…" |
 |  | . |  |  |
 
-### Proverbs 22:6: 8 word(s) changed
+### Proverbs 22:6: 7 word(s) changed
 
-Reply line 6.
+Reply line 6. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: חֲנֹךְ לַ/נַּעַר עַל פִּי דַרְכּ/וֹ גַּם כִּי יַזְקִין לֹא יָסוּר מִמֶּ/נָּה
 
-Persian: جوان را در رفتن به راهی که درخور اوست تربیت کن، که تا پیری هم از آن منحرف نخواهد_شد.
+Persian: جوان را در رفتن به راهی که درخور اوست تربیت کن، که تا پیری هم از آن منحرف نخواهد شد.
 
 Original words:
 - o1: חֲנֹךְ = H2596 חָנַךְ "properly, to narrow…" [HVqv2ms]
@@ -184,24 +153,25 @@ Original words:
 |  | به |  |  |
 |  | راهی | H1870 | H1870 |
 |  | که |  |  |
-| ✱ | درخور | H2204 זָקֵן "to be old" | H5921 עַל "above, over, upon…"; H6310 פֶּה "the mouth (as the means of…" |
+| ✱ | درخور |  | H5921 עַל "above, over, upon…"; H6310 פֶּה "the mouth (as the means of…" |
 |  | اوست |  |  |
 | ✱ | تربیت |  | [تربیت کن] H2596 חָנַךְ "properly, to narrow…" |
 | ✱ | کن |  | [تربیت کن] H2596 חָנַךְ "properly, to narrow…" |
 |  | ، |  |  |
-|  | که |  |  |
-| ✱ | تا | H1571 גַּם "properly, assemblage…" | H3588 כִּי "by implication) very widely…" |
+| ✱ | که | H3588 כִּי "by implication) very widely…" |  |
+| ✱ | تا |  | H3588 כִּי "by implication) very widely…" |
 |  | پیری | H2204 | H2204 |
-| ✱ | هم |  | H1571 גַּם "properly, assemblage…" |
-| ✱ | از |  | H4480 מִן "properly, a part of…" |
+|  | هم | H1571 | H1571 |
+|  | از | H4480 | H4480 |
 |  | آن |  |  |
 |  | منحرف | H5493 | H5493 |
-|  | نخواهد_شد | H3808 | H3808 |
+|  | نخواهد | [نخواهد شد] H3808 | [نخواهد شد] H3808 |
+|  | شد | [نخواهد شد] H3808 | [نخواهد شد] H3808 |
 |  | . |  |  |
 
-### Proverbs 22:7: 2 word(s) changed
+### Proverbs 22:7: 1 word(s) changed
 
-Reply line 7.
+Reply line 7. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: עָשִׁיר בְּ/רָשִׁים יִמְשׁוֹל וְ/עֶבֶד לֹוֶה לְ/אִישׁ מַלְוֶה
 
@@ -220,7 +190,7 @@ Original words:
 | --- | --- | --- | --- |
 |  | غنی | H6223 | H6223 |
 |  | بر | Hb | Hb |
-| ✱ | فقیر | H7326 רוּשׁ "to be destitute"; H3867 לָוָה "properly, to twine…" | H7326 רוּשׁ "to be destitute" |
+|  | فقیر | H7326 | H7326 |
 |  | حکومت | [حکومت می‌کند] H4910 | [حکومت می‌کند] H4910 |
 |  | می‌کند | [حکومت می‌کند] H4910 | [حکومت می‌کند] H4910 |
 |  | ، |  |  |
@@ -231,9 +201,9 @@ Original words:
 |  | است |  |  |
 |  | . |  |  |
 
-### Proverbs 22:8: 4 word(s) changed
+### Proverbs 22:8: 3 word(s) changed
 
-Reply line 8.
+Reply line 8. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: זוֹרֵעַ עַוְלָה יקצור אָוֶן וְ/שֵׁבֶט עֶבְרָת/וֹ יִכְלֶה
 
@@ -250,12 +220,12 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | آن | [آن که] H2232 זָרַע "to sow…" | [آن که]  |
-| ✱ | که | [آن که] H2232 זָרַע "to sow…" | [آن که]  |
-| ✱ | ظلم | H5766 עֶוֶל "(moral) evil"; H5678 עֶבְרָה "an outburst of passion" | H5766 עֶוֶל "(moral) evil" |
-| ✱ | می‌کارد | H7114 קָצַר "to dock off…" | H2232 זָרַע "to sow…" |
+| ✱ | آن |  | [آن که]  |
+| ✱ | که |  | [آن که]  |
+|  | ظلم | H5766 | H5766 |
+|  | می‌کارد | H2232 | H2232 |
 |  | ، |  |  |
-|  | بلا | H205 | H205 |
+| ✱ | بلا |  | H205 אָוֶן "strictly nothingness…" |
 |  | می‌دِرَوَد | H7114 | H7114 |
 |  | ، |  |  |
 |  | و | Hc | Hc |
@@ -264,13 +234,13 @@ Original words:
 |  | می‌شکند | H3615 | H3615 |
 |  | . |  |  |
 
-### Proverbs 22:9: 3 word(s) changed
+### Proverbs 22:9: 2 word(s) changed
 
-Reply line 9.
+Reply line 9. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: טוֹב עַיִן הוּא יְבֹרָךְ כִּי נָתַן מִ/לַּחְמ/וֹ לַ/דָּל
 
-Persian: شخص گشاده‌دست خود نیز مبارک خواهد_بود، چراکه از نان خود به بینوایان می‌دهد.
+Persian: شخص گشاده‌دست خود نیز مبارک خواهد بود، چراکه از نان خود به بینوایان می‌دهد.
 
 Original words:
 - o1: טוֹב = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAamsc]
@@ -288,11 +258,12 @@ Original words:
 | ✱ | گشاده‌دست | H2896 טוֹב "good (as an adjective) in the…" | H2896 טוֹב "good (as an adjective) in the…"; H5869 עַיִן "an eye (literally or…" |
 | ✱ | خود |  | H1931 הוּא "he (she or it)…" |
 |  | نیز |  |  |
-|  | مبارک | [مبارک خواهد_بود] H1288 | [مبارک خواهد_بود] H1288 |
-|  | خواهد_بود | [مبارک خواهد_بود] H1288 | [مبارک خواهد_بود] H1288 |
+|  | مبارک | [مبارک خواهد بود] H1288 | [مبارک خواهد بود] H1288 |
+|  | خواهد | [مبارک خواهد بود] H1288 | [مبارک خواهد بود] H1288 |
+|  | بود | [مبارک خواهد بود] H1288 | [مبارک خواهد بود] H1288 |
 |  | ، |  |  |
 |  | چراکه | H3588 | H3588 |
-| ✱ | از |  | Hm "from" |
+|  | از | Hm | Hm |
 |  | نان | H3899 | H3899 |
 |  | خود |  |  |
 |  | به | Hl | Hl |
@@ -300,13 +271,13 @@ Original words:
 |  | می‌دهد | H5414 | H5414 |
 |  | . |  |  |
 
-### Proverbs 22:10: 5 word(s) changed
+### Proverbs 22:10: 6 word(s) changed
 
-Reply line 10.
+Reply line 10. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: גָּרֵשׁ לֵץ וְ/יֵצֵא מָדוֹן וְ/יִשְׁבֹּת דִּין וְ/קָלוֹן
 
-Persian: تمسخرگر را بیرون کن که نزاع نیز خاموش خواهد_شد؛ مشاجره و رسوایی پایان خواهد_پذیرفت.
+Persian: تمسخرگر را بیرون کن که نزاع نیز خاموش خواهد شد؛ مشاجره و رسوایی پایان خواهد پذیرفت.
 
 Original words:
 - o1: גָּרֵשׁ = H1644 גָּרַשׁ "to drive out from a possession…" [HVpv2ms]
@@ -326,57 +297,25 @@ Original words:
 | ✱ | که |  | Hc "and" |
 |  | نزاع | H4066 | H4066 |
 |  | نیز |  |  |
-| ✱ | خاموش | H7673 שָׁבַת "to repose…" | [خاموش خواهد_شد] H3318 יָצָא "to go (causatively…" |
-| ✱ | خواهد_شد | H3318 יָצָא "to go (causatively…" | [خاموش خواهد_شد] H3318 יָצָא "to go (causatively…" |
+| ✱ | خاموش | H7673 שָׁבַת "to repose…" | [خاموش خواهد شد] H3318 יָצָא "to go (causatively…" |
+| ✱ | خواهد | [خواهد شد] H3318 יָצָא "to go (causatively…" | [خاموش خواهد شد] H3318 יָצָא "to go (causatively…" |
+| ✱ | شد | [خواهد شد] H3318 יָצָא "to go (causatively…" | [خاموش خواهد شد] H3318 יָצָא "to go (causatively…" |
 |  | ؛ |  |  |
 |  | مشاجره | H1779 | H1779 |
 |  | و | Hc | Hc |
 |  | رسوایی | H7036 | H7036 |
-|  | پایان | [پایان خواهد_پذیرفت] H7673 | [پایان خواهد_پذیرفت] H7673 |
-|  | خواهد_پذیرفت | [پایان خواهد_پذیرفت] H7673 | [پایان خواهد_پذیرفت] H7673 |
+|  | پایان | [پایان خواهد پذیرفت] H7673 | [پایان خواهد پذیرفت] H7673 |
+|  | خواهد | [پایان خواهد پذیرفت] H7673 | [پایان خواهد پذیرفت] H7673 |
+|  | پذیرفت | [پایان خواهد پذیرفت] H7673 | [پایان خواهد پذیرفت] H7673 |
 |  | . |  |  |
 
-### Proverbs 22:12: 2 word(s) changed
+### Proverbs 22:13: 7 word(s) changed
 
-Reply line 11.
-
-Original: עֵינֵי יְהוָה נָצְרוּ דָעַת וַ/יְסַלֵּף דִּבְרֵי בֹגֵד
-
-Persian: چشمان خداوند معرفت را پاس می‌دارد، او سخن خیانت‌پیشگان را باطل می‌سازد.
-
-Original words:
-- o1: עֵינֵי = H5869 עַיִן "an eye (literally or figuratively)…" [HNcbdc]
-- o2: יְהוָה = H3068 יְהֹוָה "Jehovah, Jewish national name of God" [HNp]
-- o3: נָצְרוּ = H5341 נָצַר "to guard, in a good sense (to protect, maintain…" [HVqp3cp]
-- o4: דָעַת = H1847 דַּעַת "knowledge" [HNcfsa]
-- o5: וַ/יְסַלֵּף = Hc "and" + H5557 סָלַף "properly, to wrench…" [HC/Vpw3ms]
-- o6: דִּבְרֵי = H1697 דָּבָר "a word…" [HNcmpc]
-- o7: בֹגֵד = H898 בָּגַד "to cover (with a garment)…" [HVqrmsa]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | چشمان | H5869 | H5869 |
-|  | خداوند | H3068 | H3068 |
-|  | معرفت | H1847 | H1847 |
-|  | را |  |  |
-|  | پاس | [پاس می‌دارد] H5341 | [پاس می‌دارد] H5341 |
-|  | می‌دارد | [پاس می‌دارد] H5341 | [پاس می‌دارد] H5341 |
-|  | ، |  |  |
-|  | او |  |  |
-|  | سخن | H1697 | H1697 |
-|  | خیانت‌پیشگان | H898 | H898 |
-|  | را |  |  |
-| ✱ | باطل | H5341 נָצַר "to guard…"; H5557 סָלַף "properly, to wrench…" | [باطل می‌سازد] H5557 סָלַף "properly, to wrench…" |
-| ✱ | می‌سازد | H5557 סָלַף "properly, to wrench…" | [باطل می‌سازد] H5557 סָלַף "properly, to wrench…" |
-|  | . |  |  |
-
-### Proverbs 22:13: 4 word(s) changed
-
-Reply line 12.
+Reply line 12. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: אָמַר עָצֵל אֲרִי בַ/חוּץ בְּ/תוֹךְ רְחֹבוֹת אֵרָצֵחַ
 
-Persian: کاهل در خانه می‌ماند و می‌گوید:« شیری بیرون در کمین است!» یا« در خیابان به قتل خواهم_رسید!»
+Persian: کاهل در خانه می‌ماند و می‌گوید:« شیری بیرون در کمین است!» یا« در خیابان به قتل خواهم رسید!»
 
 Original words:
 - o1: אָמַר = H559 אָמַר "to say (used with great latitude)" [HVqp3ms]
@@ -390,7 +329,7 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | کاهل | H6102 | H6102 |
-|  | در |  |  |
+| ✱ | در | Hb "in" |  |
 |  | خانه |  |  |
 |  | می‌ماند |  |  |
 |  | و |  |  |
@@ -399,7 +338,7 @@ Original words:
 |  | « |  |  |
 |  | شیری | H738 | H738 |
 |  | بیرون | H2351 | H2351 |
-|  | در |  |  |
+| ✱ | در | Hb "in" |  |
 |  | کمین |  |  |
 |  | است |  |  |
 |  | ! |  |  |
@@ -408,19 +347,20 @@ Original words:
 |  | « |  |  |
 | ✱ | در |  | Hb "in"; H8432 תָּוֶךְ "a bisection…" |
 |  | خیابان | H7339 | H7339 |
-| ✱ | به |  | [به قتل خواهم_رسید] H7523 רָצַח "properly, to dash in pieces…" |
-| ✱ | قتل | H7523 רָצַח "properly, to dash in pieces…" | [به قتل خواهم_رسید] H7523 רָצַח "properly, to dash in pieces…" |
-| ✱ | خواهم_رسید |  | [به قتل خواهم_رسید] H7523 רָצַח "properly, to dash in pieces…" |
+| ✱ | به |  | [به قتل خواهم رسید] H7523 רָצַח "properly, to dash in pieces…" |
+| ✱ | قتل | H7523 רָצַח "properly, to dash in pieces…" | [به قتل خواهم رسید] H7523 רָצַח "properly, to dash in pieces…" |
+| ✱ | خواهم | [خواهم رسید]  | [به قتل خواهم رسید] H7523 רָצַח "properly, to dash in pieces…" |
+| ✱ | رسید | [خواهم رسید]  | [به قتل خواهم رسید] H7523 רָצַח "properly, to dash in pieces…" |
 |  | ! |  |  |
 |  | » |  |  |
 
-### Proverbs 22:14: 7 word(s) changed
+### Proverbs 22:14: 2 word(s) changed
 
-Reply line 13.
+Reply line 13. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: שׁוּחָה עֲמֻקָּה פִּי זָרוֹת זְעוּם יְהוָה יפול שָׁם
 
-Persian: دهان زن بیگانه گودال عمیق است؛ آن که خداوند بر او غضبناک باشد، در آن خواهد_افتاد.
+Persian: دهان زن بیگانه گودال عمیق است؛ آن که خداوند بر او غضبناک باشد، در آن خواهد افتاد.
 
 Original words:
 - o1: שׁוּחָה = H7745 שׁוּחָה "a chasm" [HNcfsa]
@@ -435,21 +375,22 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | دهان | H6310 | H6310 |
-| ✱ | زن |  | [زن بیگانه] H2114 זוּר "to turn aside (especially for…" |
-| ✱ | بیگانه | H2114 זוּר "to turn aside (especially for…" | [زن بیگانه] H2114 זוּר "to turn aside (especially for…" |
+|  | زن | [زن بیگانه] H2114 | [زن بیگانه] H2114 |
+|  | بیگانه | [زن بیگانه] H2114 | [زن بیگانه] H2114 |
 |  | گودال | H7745 | H7745 |
 |  | عمیق | H6013 | H6013 |
 |  | است |  |  |
 |  | ؛ |  |  |
 |  | آن |  |  |
-| ✱ | که | H2194 זָעַם "properly…" |  |
+|  | که |  |  |
 |  | خداوند | H3068 | H3068 |
 |  | بر |  |  |
 |  | او |  |  |
-| ✱ | غضبناک | [غضبناک باشد] H2194 זָעַם "properly…"; H5307 נָפַל "to fall…" | [غضبناک باشد] H2194 זָעַם "properly…" |
-| ✱ | باشد | [غضبناک باشد] H2194 זָעַם "properly…"; H5307 נָפַל "to fall…" | [غضبناک باشد] H2194 זָעַם "properly…" |
+|  | غضبناک | [غضبناک باشد] H2194 | [غضبناک باشد] H2194 |
+|  | باشد | [غضبناک باشد] H2194 | [غضبناک باشد] H2194 |
 |  | ، |  |  |
 | ✱ | در |  | [در آن] H8033 שָׁם "there (transferring to time)…" |
 | ✱ | آن |  | [در آن] H8033 שָׁם "there (transferring to time)…" |
-|  | خواهد_افتاد | H5307 | H5307 |
+|  | خواهد | [خواهد افتاد] H5307 | [خواهد افتاد] H5307 |
+|  | افتاد | [خواهد افتاد] H5307 | [خواهد افتاد] H5307 |
 |  | . |  |  |

@@ -1,12 +1,14 @@
 # Check of 20_Proverbs_019.001-019.014.md
 
-Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-06 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
-## 11 verse(s) with changes
+No change from the current tags (will be skipped): Proverbs 19:11.
 
-### Proverbs 19:2: 7 word(s) changed
+## 10 verse(s) with changes
 
-Reply line 2.
+### Proverbs 19:2: 6 word(s) changed
+
+Reply line 2. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: גַּם בְּ/לֹא דַעַת נֶפֶשׁ לֹא טוֹב וְ/אָץ בְּ/רַגְלַיִם חוֹטֵא
 
@@ -27,7 +29,7 @@ Original words:
 | --- | --- | --- | --- |
 | ✱ | شوقِ | H1571 גַּם "properly, assemblage…"; H5315 נֶפֶשׁ "properly…" | H5315 נֶפֶשׁ "properly…" |
 | ✱ | بدونِ | H3808 לֹא "not (the simple or abs.…" | Hb "in"; H3808 לֹא "not (the simple or abs.…" |
-| ✱ | معرفت | H1847 דַּעַת "knowledge"; H213 אוּץ "to press…" | H1847 דַּעַת "knowledge" |
+|  | معرفت | H1847 | H1847 |
 |  | نیکو | H2896 | H2896 |
 |  | نیست | H3808 | H3808 |
 |  | ؛ |  |  |
@@ -36,14 +38,14 @@ Original words:
 |  | می‌شتابد | H213 | H213 |
 |  | ، |  |  |
 | ✱ | راه | H2398 חָטָא "properly, to miss…" | [راه به خطا می‌رود] H2398 חָטָא "properly, to miss…" |
-| ✱ | به |  | [راه به خطا می‌رود] H2398 חָטָא "properly, to miss…" |
+| ✱ | به | Hb "in" | [راه به خطا می‌رود] H2398 חָטָא "properly, to miss…" |
 | ✱ | خطا | H2398 חָטָא "properly, to miss…" | [راه به خطا می‌رود] H2398 חָטָא "properly, to miss…" |
 | ✱ | می‌رود |  | [راه به خطا می‌رود] H2398 חָטָא "properly, to miss…" |
 |  | . |  |  |
 
-### Proverbs 19:3: 1 word(s) changed
+### Proverbs 19:3: 3 word(s) changed
 
-Reply line 3.
+Reply line 3. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: אִוֶּלֶת אָדָם תְּסַלֵּף דַּרְכּ/וֹ וְ/עַל יְהוָה יִזְעַף לִבּ/וֹ
 
@@ -62,8 +64,8 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | حماقت | H200 | H200 |
-|  | خودِ | [خودِ انسان] H120 | [خودِ انسان] H120 |
-|  | انسان | [خودِ انسان] H120 | [خودِ انسان] H120 |
+| ✱ | خودِ |  | [خودِ انسان] H120 אָדָם "ruddy i.e. a human being (an…" |
+| ✱ | انسان | H120 אָדָם "ruddy i.e. a human being (an…" | [خودِ انسان] H120 אָדָם "ruddy i.e. a human being (an…" |
 | ✱ | زندگی‌اش |  | H1870 דֶּרֶךְ "a road (as trodden)…" |
 |  | را |  |  |
 |  | تباه | [تباه می‌سازد] H5557 | [تباه می‌سازد] H5557 |
@@ -80,7 +82,7 @@ Original words:
 
 ### Proverbs 19:4: 2 word(s) changed
 
-Reply line 4.
+Reply line 4. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: הוֹן יֹסִיף רֵעִים רַבִּים וְ/דָל מֵרֵע/הוּ יִפָּרֵד
 
@@ -101,7 +103,7 @@ Original words:
 |  | بر |  |  |
 |  | دوستانِ | H7453 | H7453 |
 | ✱ | شخص | H7227 רַב "abundant (in quantity, size…" |  |
-| ✱ | بسی | H1952 הוֹן "wealth; by implication, enough" | H7227 רַב "abundant (in quantity, size…" |
+| ✱ | بسی |  | H7227 רַב "abundant (in quantity, size…" |
 |  | می‌افزاید | H3254 | H3254 |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
@@ -116,7 +118,7 @@ Original words:
 
 ### Proverbs 19:6: 1 word(s) changed
 
-Reply line 5.
+Reply line 5. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: רַבִּים יְחַלּוּ פְנֵי נָדִיב וְ/כָל הָ/רֵעַ לְ/אִישׁ מַתָּן
 
@@ -148,9 +150,9 @@ Original words:
 |  | بخشنده‌اند | H4976 | H4976 |
 |  | . |  |  |
 
-### Proverbs 19:7: 11 word(s) changed
+### Proverbs 19:7: 10 word(s) changed
 
-Reply line 6.
+Reply line 6. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: כָּל אֲחֵי רָשׁ שְׂנֵאֻ/הוּ אַף כִּי מְרֵעֵ/הוּ רָחֲקוּ מִמֶּ/נּוּ מְרַדֵּף אֲמָרִים לא הֵמָּה
 
@@ -173,10 +175,10 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | بستگان | H3605 כֹּל "properly, the whole…"; H251 אָח "a brother (used in the widest…" | H251 אָח "a brother (used in the widest…" |
+|  | بستگان | H251 | H251 |
 |  | فقیر | H7326 | H7326 |
 |  | ، |  |  |
-| ✱ | همگی |  | H3605 כֹּל "properly, the whole…" |
+|  | همگی | H3605 | H3605 |
 |  | از | H8130 | H8130 |
 |  | او |  |  |
 |  | نفرت | [نفرت می‌کنند] H8130 | [نفرت می‌کنند] H8130 |
@@ -193,16 +195,16 @@ Original words:
 |  | ! |  |  |
 | ✱ | التماس‌کنان |  | H561 אֵמֶר "something said" |
 | ✱ | از | H4480 מִן "properly, a part of…" | [از پی‌شان می‌دود] H7291 רָדַף "to run after (usually with…" |
-| ✱ | پی‌شان | [پی‌شان می‌دود] H7291 רָדַף "to run after (usually with…" | [از پی‌شان می‌دود] H7291 רָדַף "to run after (usually with…" |
-| ✱ | می‌دود | [پی‌شان می‌دود] H7291 רָדַף "to run after (usually with…" | [از پی‌شان می‌دود] H7291 רָדַף "to run after (usually with…" |
+| ✱ | پی‌شان | H7291 רָדַף "to run after (usually with…" | [از پی‌شان می‌دود] H7291 רָדַף "to run after (usually with…" |
+| ✱ | می‌دود | H561 אֵמֶר "something said" | [از پی‌شان می‌دود] H7291 רָדַף "to run after (usually with…" |
 |  | ، |  |  |
-|  | اما |  |  |
+| ✱ | اما | H3808 לֹא "not (the simple or abs.…" |  |
 |  | نیستند | H3808 H1992 | H3808 H1992 |
 |  | . |  |  |
 
-### Proverbs 19:8: 3 word(s) changed
+### Proverbs 19:8: 4 word(s) changed
 
-Reply line 7.
+Reply line 7. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: קֹנֶה לֵּב אֹהֵב נַפְשׁ/וֹ שֹׁמֵר תְּבוּנָה לִ/מְצֹא טוֹב
 
@@ -232,19 +234,19 @@ Original words:
 | ✱ | پاسدارِ |  | H8104 שָׁמַר "properly…" |
 |  | فهم | H8394 | H8394 |
 |  | ، |  |  |
-|  | به |  |  |
+| ✱ | به | Hl "to" |  |
 |  | گنج | H2896 | H2896 |
 | ✱ | دست |  | [دست می‌یابد] H4672 מָצָא "properly, to come forth to…" |
-| ✱ | می‌یابد |  | [دست می‌یابد] H4672 מָצָא "properly, to come forth to…" |
+| ✱ | می‌یابد | H4672 מָצָא "properly, to come forth to…" | [دست می‌یابد] H4672 מָצָא "properly, to come forth to…" |
 |  | . |  |  |
 
-### Proverbs 19:9: 1 word(s) changed
+### Proverbs 19:9: 2 word(s) changed
 
-Reply line 8.
+Reply line 8. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: עֵד שְׁקָרִים לֹא יִנָּקֶה וְ/יָפִיחַ כְּזָבִים יֹאבֵד
 
-Persian: شاهد دروغگو بی‌سزا نمی‌ماند، آن که دروغ می‌بافد، هلاک خواهد_شد.
+Persian: شاهد دروغگو بی‌سزا نمی‌ماند، آن که دروغ می‌بافد، هلاک خواهد شد.
 
 Original words:
 - o1: עֵד = H5707 עֵד "concretely, a witness; abstractly, testimony…" [HNcmsc]
@@ -259,21 +261,22 @@ Original words:
 | --- | --- | --- | --- |
 |  | شاهد | H5707 | H5707 |
 |  | دروغگو | H8267 | H8267 |
-|  | بی‌سزا | H5352 | H5352 |
-|  | نمی‌ماند | H3808 H5352 | H3808 H5352 |
+| ✱ | بی‌سزا | [بی‌سزا نمی‌ماند] H5352 נָקָה "to be (or make) clean…" | H5352 נָקָה "to be (or make) clean…" |
+| ✱ | نمی‌ماند | [بی‌سزا نمی‌ماند] H5352 נָקָה "to be (or make) clean…" | H3808 לֹא "not (the simple or abs.…"; H5352 נָקָה "to be (or make) clean…" |
 |  | ، |  |  |
 |  | آن |  |  |
 |  | که |  |  |
-| ✱ | دروغ | H6315 פּוּחַ "to puff…"; H3577 כָּזָב "falsehood…" | H3577 כָּזָב "falsehood…" |
+|  | دروغ | H3577 | H3577 |
 |  | می‌بافد | H6315 | H6315 |
 |  | ، |  |  |
-|  | هلاک | [هلاک خواهد_شد] H6 | [هلاک خواهد_شد] H6 |
-|  | خواهد_شد | [هلاک خواهد_شد] H6 | [هلاک خواهد_شد] H6 |
+|  | هلاک | [هلاک خواهد شد] H6 | [هلاک خواهد شد] H6 |
+|  | خواهد | [هلاک خواهد شد] H6 | [هلاک خواهد شد] H6 |
+|  | شد | [هلاک خواهد شد] H6 | [هلاک خواهد شد] H6 |
 |  | . |  |  |
 
-### Proverbs 19:10: 6 word(s) changed
+### Proverbs 19:10: 5 word(s) changed
 
-Reply line 9.
+Reply line 9. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: לֹא נָאוֶה לִ/כְסִיל תַּעֲנוּג אַף כִּי לְ/עֶבֶד מְשֹׁל בְּ/שָׂרִים
 
@@ -295,59 +298,24 @@ Original words:
 |  | نادان | H3684 | H3684 |
 |  | را |  |  |
 | ✱ | زندگی |  | [زندگی مجلل] H8588 תַּעֲנוּג "luxury" |
-| ✱ | مجلل | H5000 נָאוֶה "suitable, or beautiful" | [زندگی مجلل] H8588 תַּעֲנוּג "luxury" |
-| ✱ | نمی‌شاید |  | H3808 לֹא "not (the simple or abs.…"; H5000 נָאוֶה "suitable, or beautiful" |
+| ✱ | مجلل | [مجلل نمی‌شاید] H5000 נָאוֶה "suitable, or beautiful" | [زندگی مجلل] H8588 תַּעֲנוּג "luxury" |
+| ✱ | نمی‌شاید | [مجلل نمی‌شاید] H5000 נָאוֶה "suitable, or beautiful" | H3808 לֹא "not (the simple or abs.…"; H5000 נָאוֶה "suitable, or beautiful" |
 |  | ، |  |  |
 | ✱ | بسی | H637 אַף "meaning accession (used as an…" | [بسی کمتر] H637 אַף "meaning accession (used as an…"; H3588 כִּי "by implication) very widely…" |
-| ✱ | کمتر | H637 אַף "meaning accession (used as an…"; H3588 כִּי "by implication) very widely…" | [بسی کمتر] H637 אַף "meaning accession (used as an…"; H3588 כִּי "by implication) very widely…" |
+| ✱ | کمتر | H3588 כִּי "by implication) very widely…" | [بسی کمتر] H637 אַף "meaning accession (used as an…"; H3588 כִּי "by implication) very widely…" |
 |  | ، |  |  |
 |  | برده‌ای | H5650 | H5650 |
 |  | را |  |  |
 |  | که |  |  |
-| ✱ | بر |  | Hb "in" |
+|  | بر | Hb | Hb |
 |  | شاهزادگان | H8269 | H8269 |
 |  | حکمرانی | [حکمرانی کند] H4910 | [حکمرانی کند] H4910 |
 |  | کند | [حکمرانی کند] H4910 | [حکمرانی کند] H4910 |
 |  | ! |  |  |
 
-### Proverbs 19:11: 4 word(s) changed
+### Proverbs 19:13: 1 word(s) changed
 
-Reply line 10.
-
-Original: שֵׂכֶל אָדָם הֶאֱרִיךְ אַפּ/וֹ וְ/תִפאַרְתּ/וֹ עֲבֹר עַל פָּשַׁע
-
-Persian: عقل انسان خشم او را بازمی‌دارد؛ جلال او در چشم‌پوشی از خطاست.
-
-Original words:
-- o1: שֵׂכֶל = H7922 שֶׂכֶל "intelligence; by implication, success" [HNcmsc]
-- o2: אָדָם = H120 אָדָם "ruddy i.e. a human being (an individual or the…" [HNcmsa]
-- o3: הֶאֱרִיךְ = H748 אָרַךְ "to be (causative…" [HVhp3ms]
-- o4: אַפּ/וֹ = H639 אַף "properly, the nose or nostril…" [HNcmsc/Sp3ms]
-- o5: וְ/תִפאַרְתּ/וֹ = Hc "and" + H8597 תִּפְאָרָה "ornament (abstractly or concretely…" [HC/Ncfsc/Sp3ms]
-- o6: עֲבֹר = H5674 עָבַר "to cross over…" [HVqc]
-- o7: עַל = H5921 עַל "above, over, upon…" [HR]
-- o8: פָּשַׁע = H6588 פֶּשַׁע "a revolt (national, moral or religious)" [HNcmsa]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-| ✱ | عقل | H7922 שֶׂכֶל "intelligence…"; H748 אָרַךְ "to be (causative…" | H7922 שֶׂכֶל "intelligence…" |
-|  | انسان | H120 | H120 |
-|  | خشم | H639 | H639 |
-| ✱ | او | H120 אָדָם "ruddy i.e. a human being (an…" |  |
-|  | را |  |  |
-|  | بازمی‌دارد | H748 | H748 |
-|  | ؛ |  |  |
-|  | جلال | H8597 | H8597 |
-| ✱ | او | H120 אָדָם "ruddy i.e. a human being (an…" |  |
-|  | در |  |  |
-|  | چشم‌پوشی | H5674 | H5674 |
-| ✱ | از |  | H5921 עַל "above, over, upon…" |
-|  | خطاست | H6588 | H6588 |
-|  | . |  |  |
-
-### Proverbs 19:13: 6 word(s) changed
-
-Reply line 11.
+Reply line 11. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: הַוֺּת לְ/אָבִי/ו בֵּן כְּסִיל וְ/דֶלֶף טֹרֵד מִדְיְנֵי אִשָּׁה
 
@@ -365,11 +333,11 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | فرزند |  | H1121 בֵּן "a son (as a builder of the…" |
-| ✱ | نادان | H1121 בֵּן "a son (as a builder of the…"; H3684 כְּסִיל "properly, fat…" | H3684 כְּסִיל "properly, fat…" |
+|  | فرزند | H1121 | H1121 |
+|  | نادان | H3684 | H3684 |
 |  | ، |  |  |
-| ✱ | مایۀ | H802 אִשָּׁה "a woman" |  |
-| ✱ | تباهی | H1942 הַוָּה "by implication, of falling)…"; H3684 כְּסִיל "properly, fat…" | H1942 הַוָּה "by implication, of falling)…" |
+|  | مایۀ |  |  |
+|  | تباهی | H1942 | H1942 |
 |  | پدر | H1 | H1 |
 |  | خویش |  |  |
 |  | است |  |  |
@@ -378,14 +346,14 @@ Original words:
 |  | نزاعهای | H4079 | H4079 |
 |  | زن | H802 | H802 |
 |  | همچون |  |  |
-| ✱ | چکّۀ |  | H1812 דֶּלֶף "a dripping" |
+|  | چکّۀ | H1812 | H1812 |
 |  | دائمی | H2956 | H2956 |
 | ✱ | آب | H1812 דֶּלֶף "a dripping" |  |
 |  | . |  |  |
 
-### Proverbs 19:14: 4 word(s) changed
+### Proverbs 19:14: 3 word(s) changed
 
-Reply line 12.
+Reply line 12. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: בַּיִת וָ/הוֹן נַחֲלַת אָבוֹת וּ/מֵ/יְהוָה אִשָּׁה מַשְׂכָּלֶת
 
@@ -404,11 +372,11 @@ Original words:
 | --- | --- | --- | --- |
 |  | خانه | H1004 | H1004 |
 |  | و | Hc | Hc |
-| ✱ | ثروت | H1952 הוֹן "wealth; by implication, enough"; H7919 שָׂכַל "to be (causatively…" | H1952 הוֹן "wealth; by implication, enough" |
+|  | ثروت | H1952 | H1952 |
 |  | از |  |  |
 |  | پدران | H1 | H1 |
-| ✱ | به | [به ارث] H5159 נַחֲלָה "properly, something inherited…" | [به ارث می‌رسد] H5159 נַחֲלָה "properly, something inherited…" |
-| ✱ | ارث | [به ارث] H5159 נַחֲלָה "properly, something inherited…" | [به ارث می‌رسد] H5159 נַחֲלָה "properly, something inherited…" |
+| ✱ | به |  | [به ارث می‌رسد] H5159 נַחֲלָה "properly, something inherited…" |
+| ✱ | ارث | H5159 נַחֲלָה "properly, something inherited…" | [به ارث می‌رسد] H5159 נַחֲלָה "properly, something inherited…" |
 | ✱ | می‌رسد |  | [به ارث می‌رسد] H5159 נַחֲלָה "properly, something inherited…" |
 |  | ، |  |  |
 |  | اما | Hc | Hc |

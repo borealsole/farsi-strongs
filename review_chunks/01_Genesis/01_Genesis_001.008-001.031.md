@@ -105,7 +105,7 @@ Persian entries and current tags:
 - p4: ’آسمان‘  → H8064
 - p5: نامید  → H7121
 - p6: .
-- p7: شامگاه
+- p7: شامگاه  → H6153
 - p8: شد
 - p9: و  → Hc
 - p10: بامداد  → H1242
@@ -151,14 +151,13 @@ Persian entries and current tags:
 - p13: آیند
 - p14: و  → Hc
 - p15: خشکی  → H3004
-- p16: پدیدار
-- p17: شود
-- p18: .
-- p19: »
-- p20: و  → Hc
-- p21: چنین  → H3651
-- p22: شد
-- p23: .
+- p16: پدیدار شود  → H7200
+- p17: .
+- p18: »
+- p19: و  → Hc
+- p20: چنین  → H3651
+- p21: شد
+- p22: .
 
 ### Genesis 1:10
 
@@ -194,7 +193,7 @@ Persian entries and current tags:
 - p12: و  → Hc
 - p13: خدا  → H430
 - p14: دید  → H7200
-- p15: که
+- p15: که  → H3588
 - p16: نیکوست  → H2896
 - p17: .
 
@@ -233,16 +232,16 @@ Persian entries and current tags:
 - p5: «
 - p6: زمین  → H776
 - p7: نباتات  → H1876 H1877
-- p8: برویاند
+- p8: برویاند  → H1877
 - p9: ،
 - p10: گیاهانی  → H6212
-- p11: که  → H2232
-- p12: دانه  → H2233 H6529
+- p11: که
+- p12: دانه  → H2233
 - p13: تولید کنند  → H2232
 - p14: و
 - p15: درختان  → H6086
 - p16: میوه‌ای  → H6529
-- p17: که  → H2232 H834
+- p17: که  → H834
 - p18: بر
 - p19: حسب  → Hl
 - p20: گونۀ  → H4327
@@ -251,8 +250,8 @@ Persian entries and current tags:
 - p23: دانه‌دار  → H2233
 - p24: بیاورند
 - p25: ،
-- p26: بر
-- p27: روی
+- p26: بر  → Hb H5921
+- p27: روی  → H5921
 - p28: زمین  → H776
 - p29: .
 - p30: »
@@ -292,7 +291,7 @@ Persian entries and current tags:
 - p3: رویانید
 - p4: ،
 - p5: گیاهانی  → H6212
-- p6: که  → H2232
+- p6: که
 - p7: بر
 - p8: حسب  → Hl
 - p9: گونۀ  → H4327
@@ -303,8 +302,8 @@ Persian entries and current tags:
 - p14: ،
 - p15: و  → Hc
 - p16: درختانی  → H6086
-- p17: که  → H2232 H834
-- p18: بر
+- p17: که  → H834
+- p18: بر  → Hb
 - p19: حسب  → Hl
 - p20: گونۀ  → H4327
 - p21: خود
@@ -315,7 +314,7 @@ Persian entries and current tags:
 - p26: و  → Hc
 - p27: خدا  → H430
 - p28: دید  → H7200
-- p29: که
+- p29: که  → H3588
 - p30: نیکوست  → H2896
 - p31: .
 
@@ -333,7 +332,7 @@ Original words:
 - o6: שְׁלִישִׁי = H7992 שְׁלִישִׁי "third; feminine athird (part)…" [HAomsa]
 
 Persian entries and current tags:
-- p1: شامگاه
+- p1: شامگاه  → H6153
 - p2: شد
 - p3: و  → Hc
 - p4: بامداد  → H1242
@@ -377,7 +376,7 @@ Persian entries and current tags:
 - p8: فَلَک  → H7549
 - p9: آسمان  → H8064
 - p10: باشند
-- p11: تا
+- p11: تا  → Hl
 - p12: روز  → H3117
 - p13: را
 - p14: از
@@ -385,7 +384,7 @@ Persian entries and current tags:
 - p16: جدا کنند  → H914
 - p17: ،
 - p18: و  → Hc
-- p19: تا
+- p19: تا  → Hl
 - p20: نشانه‌ها  → H226
 - p21: باشند
 - p22: برای  → Hl
@@ -420,7 +419,7 @@ Persian entries and current tags:
 - p4: در  → Hb
 - p5: فَلَک  → H7549
 - p6: آسمان  → H8064
-- p7: تا
+- p7: تا  → Hl
 - p8: بر  → H5921
 - p9: زمین  → H776
 - p10: روشنایی بخشند  → H215
@@ -505,11 +504,11 @@ Persian entries and current tags:
 - p1: خدا  → H430
 - p2: آنها
 - p3: را  → H853
-- p4: در
+- p4: در  → Hb
 - p5: فَلَک  → H7549
 - p6: آسمان  → H8064
 - p7: نهاد  → H5414
-- p8: تا
+- p8: تا  → Hl
 - p9: بر  → H5921
 - p10: زمین  → H776
 - p11: روشنایی بخشند  → H215
@@ -535,14 +534,14 @@ Original words:
 
 Persian entries and current tags:
 - p1: و  → Hc
-- p2: بر
+- p2: بر  → H4910
 - p3: روز  → H3117
 - p4: و  → Hc
 - p5: بر  → Hb
 - p6: شب  → H3915
 - p7: سلطنت
 - p8: کنند
-- p9: و
+- p9: و  → Hc
 - p10: نور  → H216
 - p11: را
 - p12: از
@@ -552,7 +551,7 @@ Persian entries and current tags:
 - p16: و  → Hc
 - p17: خدا  → H430
 - p18: دید  → H7200
-- p19: که
+- p19: که  → H3588
 - p20: نیکوست  → H2896
 - p21: .
 
@@ -570,7 +569,7 @@ Original words:
 - o6: רְבִיעִי = H7243 רְבִיעִי "fourth; also (fractionally) a fourth" [HAomsa]
 
 Persian entries and current tags:
-- p1: شامگاه
+- p1: شامگاه  → H6153
 - p2: شد
 - p3: و  → Hc
 - p4: بامداد  → H1242
@@ -615,7 +614,7 @@ Persian entries and current tags:
 - p10: پر شود  → H8317
 - p11: و  → Hc
 - p12: پرندگان  → H5775
-- p13: بر
+- p13: بر  → H5921
 - p14: فراز  → H5921
 - p15: زمین  → H776
 - p16: در  → H6440
@@ -656,7 +655,7 @@ Original words:
 - o23: טוֹב = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAamsa]
 
 Persian entries and current tags:
-- p1: پس
+- p1: پس  → Hc
 - p2: خدا  → H430
 - p3: موجودات  → H8577
 - p4: بزرگ  → H1419
@@ -679,7 +678,7 @@ Persian entries and current tags:
 - p21: ،
 - p22: و  → Hc
 - p23: همۀ  → H3605
-- p24: پرندگان  → H5775 H3671
+- p24: پرندگان  → H5775
 - p25: بالدار  → H3671
 - p26: را  → H853
 - p27: بر
@@ -690,7 +689,7 @@ Persian entries and current tags:
 - p32: و  → Hc
 - p33: خدا  → H430
 - p34: دید  → H7200
-- p35: که
+- p35: که  → H3588
 - p36: نیکوست  → H2896
 - p37: .
 
@@ -719,7 +718,7 @@ Persian entries and current tags:
 - p2: آنها
 - p3: را  → H853
 - p4: برکت داد  → H1288
-- p5: و  → Hc
+- p5: و
 - p6: گفت  → H559
 - p7: :
 - p8: «
@@ -755,7 +754,7 @@ Original words:
 - o6: חֲמִישִׁי = H2549 חֲמִישִׁי "fifth; also a fifth" [HAomsa]
 
 Persian entries and current tags:
-- p1: شامگاه
+- p1: شامگاه  → H6153
 - p2: شد
 - p3: و  → Hc
 - p4: بامداد  → H1242
@@ -803,7 +802,7 @@ Persian entries and current tags:
 - p14: ،
 - p15: چارپایان  → H929
 - p16: و  → Hc
-- p17: خزندگان  → H2416
+- p17: خزندگان  → H7431
 - p18: و  → Hc
 - p19: وحوش  → H2416
 - p20: زمین  → H776
@@ -845,7 +844,7 @@ Original words:
 - o18: טוֹב = H2896 טוֹב "good (as an adjective) in the widest sense…" [HAamsa]
 
 Persian entries and current tags:
-- p1: پس
+- p1: پس  → Hc
 - p2: خدا  → H430
 - p3: وحوش  → H2416
 - p4: زمین  → H776
@@ -856,7 +855,7 @@ Persian entries and current tags:
 - p9: بساخت
 - p10: ،
 - p11: و  → Hc
-- p12: چارپایان  → H2416 H929
+- p12: چارپایان  → H929
 - p13: را  → H853
 - p14: بر
 - p15: حسب  → Hl
@@ -864,7 +863,7 @@ Persian entries and current tags:
 - p17: ،
 - p18: و  → Hc
 - p19: همۀ  → H3605
-- p20: خزندگان  → H2416 H7431
+- p20: خزندگان  → H7431
 - p21: روی
 - p22: زمین  → H776 H127
 - p23: را  → H853
@@ -875,7 +874,7 @@ Persian entries and current tags:
 - p28: و  → Hc
 - p29: خدا  → H430
 - p30: دید  → H7200
-- p31: که
+- p31: که  → H3588
 - p32: نیکوست  → H2896
 - p33: .
 
@@ -923,7 +922,7 @@ Persian entries and current tags:
 - p15: ،
 - p16: و  → Hc
 - p17: او
-- p18: بر
+- p18: بر  → Hb
 - p19: ماهیان  → H1710
 - p20: دریا  → H3220
 - p21: و  → Hc
@@ -946,7 +945,7 @@ Persian entries and current tags:
 - p38: می‌خزند  → H7430
 - p39: ،
 - p40: فرمان
-- p41: براند  → H7287
+- p41: براند
 - p42: .
 - p43: »
 
@@ -1061,11 +1060,11 @@ Persian entries and current tags:
 - p34: هر  → H3605
 - p35: جانداری  → H2416
 - p36: که
-- p37: بر
+- p37: بر  → H5921
 - p38: زمین  → H776
 - p39: حرکت می‌کند  → H7430
 - p40: ،
-- p41: فرمان
+- p41: فرمان  → H7287
 - p42: برانید
 - p43: .
 - p44: »
@@ -1113,7 +1112,7 @@ Persian entries and current tags:
 - p6: اینک  → H2009
 - p7: همۀ  → H3605
 - p8: گیاهان  → H6212
-- p9: دانه‌دار  → H2233 H2232
+- p9: دانه‌دار  → H2232 H2233
 - p10: را  → H853
 - p11: که  → H834
 - p12: بر  → H5921
@@ -1126,12 +1125,12 @@ Persian entries and current tags:
 - p19: درختان  → H6086
 - p20: دارای
 - p21: میوۀ  → H6529
-- p22: دانه‌دار  → H2232 H2233
+- p22: دانه‌دار  → H2233 H2232
 - p23: را  → H853
-- p24: به  → H5414
+- p24: به  → Hl
 - p25: شما
 - p26: بخشیدم
-- p27: تا
+- p27: تا  → Hl
 - p28: خوراک  → H402
 - p29: شما
 - p30: باشد
@@ -1177,8 +1176,8 @@ Persian entries and current tags:
 - p9: آسمان  → H8064
 - p10: و  → Hc
 - p11: همۀ  → H3605
-- p12: خزندگانِ  → H2416 H7430
-- p13: روی
+- p12: خزندگانِ  → H7430
+- p13: روی  → H5921
 - p14: زمین  → H776
 - p15: که  → H834
 - p16: جان  → H5315 H2416
@@ -1188,10 +1187,10 @@ Persian entries and current tags:
 - p20: ،
 - p21: همۀ  → H3605
 - p22: گیاهان  → H6212
-- p23: سبز  → H3418 H402
+- p23: سبز  → H3418
 - p24: را  → H853
 - p25: برای  → Hl
-- p26: خوردن
+- p26: خوردن  → H402
 - p27: بخشیدم
 - p28: .
 - p29: »
@@ -1203,7 +1202,7 @@ Persian entries and current tags:
 ### Genesis 1:31
 
 Original: וַ/יַּרְא אֱלֹהִים אֶת כָּל אֲשֶׁר עָשָׂה וְ/הִנֵּה טוֹב מְאֹד וַ/יְהִי עֶרֶב וַ/יְהִי בֹקֶר יוֹם הַ/שִּׁשִּׁי
-Persian: و خدا هرآنچه را که ساخته_بود دید، و اینک بسیار نیکو بود. شامگاه شد و بامداد آمد، روز ششم.
+Persian: و خدا هرآنچه را که ساخته بود دید، و اینک بسیار نیکو بود. شامگاه شد و بامداد آمد، روز ششم.
 
 Original words:
 - o1: וַ/יַּרְא = Hc "and" + H7200 רָאָה "to see…" [HC/Vqw3ms]
@@ -1228,7 +1227,7 @@ Persian entries and current tags:
 - p3: هرآنچه  → H3605
 - p4: را  → H853
 - p5: که  → H834
-- p6: ساخته_بود  → H6213
+- p6: ساخته بود  → H6213
 - p7: دید  → H7200
 - p8: ،
 - p9: و  → Hc

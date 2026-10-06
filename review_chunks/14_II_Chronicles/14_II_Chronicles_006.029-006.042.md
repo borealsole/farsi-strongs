@@ -1,6 +1,6 @@
-# NMV Strong's review: II Chronicles 6:22–42
+# NMV Strong's review: II Chronicles 6:29–42
 
-Chunk file: 14_II_Chronicles_006.022-006.042.md. 21 verses to review.
+Chunk file: 14_II_Chronicles_006.029-006.042.md. 14 verses to review.
 
 ## Worked examples (already reviewed by hand; follow these conventions)
 
@@ -81,448 +81,10 @@ Correct Persian tags (reviewed by hand):
 
 ## Verses to review
 
-### II Chronicles 6:22
-
-Original: אִם יֶחֱטָא אִישׁ לְ/רֵעֵ/הוּ וְ/נָשָׁא ב/וֹ אָלָה לְ/הַאֲלֹת/וֹ וּ/בָא אָלָה לִ/פְנֵי מִזְבַּחֲ/ךָ בַּ/בַּיִת הַ/זֶּה
-Persian: « اگر کسی به همسایۀ خود گناه ورزد و از او سوگند بخواهند، و او آمده پیش مذبح تو در این خانه سوگند خورَد،
-
-Original words:
-- o1: אִם = H518 אִם "used very widely as demonstrative, lo!…" [HC]
-- o2: יֶחֱטָא = H2398 חָטָא "properly, to miss…" [HVqi3ms]
-- o3: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
-- o4: לְ/רֵעֵ/הוּ = Hl "to" + H7453 רֵעַ "an associate (more or less close)" [HR/Ncmsc/Sp3ms]
-- o5: וְ/נָשָׁא = Hc "and" + H5375 נָשָׂא "to lift, in a great variety of applications…" [HC/Vqq3ms]
-- o6: ב/וֹ = Hb "in" [HR/Sp3ms]
-- o7: אָלָה = H422 אָלָה "properly, to adjure…" [HNcfsa]
-- o8: לְ/הַאֲלֹת/וֹ = Hl "to" + H423 אָלָה "an imprecation" [HR/Vhc/Sp3ms]
-- o9: וּ/בָא = Hc "and" + H935 בּוֹא "to go or come (in a wide variety of applications)" [HC/Vqq3ms]
-- o10: אָלָה = H423 אָלָה "an imprecation" [HNcfsa]
-- o11: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
-- o12: מִזְבַּחֲ/ךָ = H4196 מִזְבֵּחַ "an altar" [HNcmsc/Sp2ms]
-- o13: בַּ/בַּיִת = Hb "in" + H1004 בַּיִת "a house (in the greatest variation of…" [HRd/Ncmsa]
-- o14: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
-
-Persian entries and current tags:
-- p1: «
-- p2: اگر  → H518
-- p3: کسی  → H376
-- p4: به  → Hl
-- p5: همسایۀ  → H7453
-- p6: خود
-- p7: گناه ورزد  → H2398
-- p8: و  → Hc
-- p9: از
-- p10: او
-- p11: سوگند  → H423
-- p12: بخواهند  → H422
-- p13: ،
-- p14: و  → Hc
-- p15: او
-- p16: آمده  → H935
-- p17: پیش  → H6440
-- p18: مذبح  → H4196
-- p19: تو
-- p20: در  → Hb
-- p21: این  → H2088
-- p22: خانه  → H1004
-- p23: سوگند خورَد  → H423
-- p24: ،
-
-### II Chronicles 6:23
-
-Original: וְ/אַתָּה תִּשְׁמַע מִן הַ/שָּׁמַיִם וְ/עָשִׂיתָ וְ/שָׁפַטְתָּ אֶת עֲבָדֶי/ךָ לְ/הָשִׁיב לְ/רָשָׁע לָ/תֵת דַּרְכּ/וֹ בְּ/רֹאשׁ/וֹ וּ/לְ/הַצְדִּיק צַדִּיק לָ/תֶת ל/וֹ כְּ/צִדְקָת/וֹ
-Persian: آنگاه از آسمان بشنو و عمل کرده، خادمانت را داوری کن: مجرم را جزا داده، عمل او را بر سر خودش آور و پارسا را مطابق پارسایی‌اش پاداش داده، تبرئه کن.
-
-Original words:
-- o1: וְ/אַתָּה = Hc "and" + H859 אַתָּה "thou and thee, or (plural) ye and you" [HC/Pp2ms]
-- o2: תִּשְׁמַע = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqi2ms]
-- o3: מִן = H4480 מִן "properly, a part of…" [HR]
-- o4: הַ/שָּׁמַיִם = Hd "the" + H8064 שָׁמַיִם "the sky (as aloft…" [HTd/Ncmpa]
-- o5: וְ/עָשִׂיתָ = Hc "and" + H6213 עָשָׂה "to do or make…" [HC/Vqq2ms]
-- o6: וְ/שָׁפַטְתָּ = Hc "and" + H8199 שָׁפַט "to judge…" [HC/Vqq2ms]
-- o7: אֶת = H853 אֵת "properly…" [HTo]
-- o8: עֲבָדֶי/ךָ = H5650 עֶבֶד "a servant" [HNcmpc/Sp2ms]
-- o9: לְ/הָשִׁיב = Hl "to" + H7725 שׁוּב "to turn back (hence…" [HR/Vhc]
-- o10: לְ/רָשָׁע = Hl "to" + H7563 רָשָׁע "morally wrong…" [HR/Aamsa]
-- o11: לָ/תֵת = Hl "to" + H5414 נָתַן "to give…" [HR/Vqc]
-- o12: דַּרְכּ/וֹ = H1870 דֶּרֶךְ "a road (as trodden)…" [HNcbsc/Sp3ms]
-- o13: בְּ/רֹאשׁ/וֹ = Hb "in" + H7218 רֹאשׁ "the head (as most easily shaken)…" [HR/Ncmsc/Sp3ms]
-- o14: וּ/לְ/הַצְדִּיק = Hc "and" + Hl "to" + H6663 צָדַק "to be (causatively…" [HC/R/Vhc]
-- o15: צַדִּיק = H6662 צַדִּיק "just" [HAamsa]
-- o16: לָ/תֶת = Hl "to" + H5414 נָתַן "to give…" [HR/Vqc]
-- o17: ל/וֹ = Hl "to" [HR/Sp3ms]
-- o18: כְּ/צִדְקָת/וֹ = Hk "like" + H6666 צְדָקָה "rightness (abstractly), subjectively (rectitude)…" [HR/Ncfsc/Sp3ms]
-
-Persian entries and current tags:
-- p1: آنگاه  → Hc
-- p2: از  → H4480
-- p3: آسمان  → H8064 H5650
-- p4: بشنو  → H8085
-- p5: و  → Hc
-- p6: عمل کرده  → H6213
-- p7: ،
-- p8: خادمانت  → H5650 H7725
-- p9: را  → H853
-- p10: داوری کن  → H8199
-- p11: :
-- p12: مجرم  → H7563 H6662
-- p13: را  → H853
-- p14: جزا
-- p15: داده  → H7725
-- p16: ،
-- p17: عمل  → H6213
-- p18: او
-- p19: را  → H853
-- p20: بر  → Hb
-- p21: سر  → H7218
-- p22: خودش
-- p23: آور
-- p24: و  → Hc
-- p25: پارسا  → H6662
-- p26: را  → H853
-- p27: مطابق  → Hk
-- p28: پارسایی‌اش  → H6666
-- p29: پاداش
-- p30: داده
-- p31: ،
-- p32: تبرئه کن  → H5414 H6663
-- p33: .
-
-### II Chronicles 6:24
-
-Original: וְ/אִם יִנָּגֵף עַמְּ/ךָ יִשְׂרָאֵל לִ/פְנֵי אוֹיֵב כִּי יֶחֶטְאוּ לָ/ךְ וְ/שָׁבוּ וְ/הוֹדוּ אֶת שְׁמֶ/ךָ וְ/הִתְפַּלְלוּ וְ/הִתְחַנְּנוּ לְ/פָנֶי/ךָ בַּ/בַּיִת הַ/זֶּה
-Persian: « و چون قوم تو اسرائیل به سبب گناهی که به تو ورزیده_باشند از دشمن شکست خورَند، ولی بازگشت کرده، نام تو را اقرار کنند و نزد تو در این خانه دعا و التماس نمایند،
-
-Original words:
-- o1: וְ/אִם = Hc "and" + H518 אִם "used very widely as demonstrative, lo!…" [HC/C]
-- o2: יִנָּגֵף = H5062 נָגַף "to push, gore, defeat, stub (the toe)…" [HVNi3ms]
-- o3: עַמְּ/ךָ = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp2ms]
-- o4: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
-- o5: לִ/פְנֵי = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc]
-- o6: אוֹיֵב = H341 אֹיֵב "hating; an adversary" [HVqrmsa]
-- o7: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
-- o8: יֶחֶטְאוּ = H2398 חָטָא "properly, to miss…" [HVqi3mp]
-- o9: לָ/ךְ = Hl "to" [HR/Sp2fs]
-- o10: וְ/שָׁבוּ = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vqq3cp]
-- o11: וְ/הוֹדוּ = Hc "and" + H3034 יָדָה "physically, to throw (a stone…" [HC/Vhq3cp]
-- o12: אֶת = H853 אֵת "properly…" [HTo]
-- o13: שְׁמֶ/ךָ = H8034 שֵׁם "an appellation…" [HNcmsc/Sp2ms]
-- o14: וְ/הִתְפַּלְלוּ = Hc "and" + H6419 פָּלַל "to judge (officially or mentally)…" [HC/Vtq3cp]
-- o15: וְ/הִתְחַנְּנוּ = Hc "and" + H2603 חָנַן "properly…" [HC/Vtq3cp]
-- o16: לְ/פָנֶי/ךָ = Hl "to" + H6440 פָּנִים "the face (as the part that turns)…" [HR/Ncbpc/Sp2ms]
-- o17: בַּ/בַּיִת = Hb "in" + H1004 בַּיִת "a house (in the greatest variation of…" [HRd/Ncmsa]
-- o18: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
-
-Persian entries and current tags:
-- p1: «
-- p2: و  → Hc
-- p3: چون  → H518
-- p4: قوم  → H5971
-- p5: تو
-- p6: اسرائیل  → H3478
-- p7: به  → Hl
-- p8: سبب  → H6440 H3588
-- p9: گناهی  → H2398
-- p10: که
-- p11: به
-- p12: تو
-- p13: ورزیده_باشند  → H2398
-- p14: از
-- p15: دشمن  → H341
-- p16: شکست خورَند  → H5062
-- p17: ،
-- p18: ولی
-- p19: بازگشت کرده  → H7725
-- p20: ،
-- p21: نام  → H8034
-- p22: تو
-- p23: را  → H853
-- p24: اقرار کنند  → H3034
-- p25: و  → Hc
-- p26: نزد
-- p27: تو
-- p28: در
-- p29: این  → H2088
-- p30: خانه  → H1004
-- p31: دعا  → H6419
-- p32: و  → Hc
-- p33: التماس  → H2603
-- p34: نمایند
-- p35: ،
-
-### II Chronicles 6:25
-
-Original: וְ/אַתָּה תִּשְׁמַע מִן הַ/שָּׁמַיִם וְ/סָלַחְתָּ לְ/חַטַּאת עַמְּ/ךָ יִשְׂרָאֵל וַ/הֲשֵׁיבוֹתָ/ם אֶל הָ/אֲדָמָה אֲשֶׁר נָתַתָּה לָ/הֶם וְ/לַ/אֲבֹתֵי/הֶם
-Persian: آنگاه از آسمان بشنو و گناه قوم خود اسرائیل را بیامرز و ایشان را به سرزمینی که بدیشان و به پدرانشان بخشیدی، بازآور.
-
-Original words:
-- o1: וְ/אַתָּה = Hc "and" + H859 אַתָּה "thou and thee, or (plural) ye and you" [HC/Pp2ms]
-- o2: תִּשְׁמַע = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqi2ms]
-- o3: מִן = H4480 מִן "properly, a part of…" [HR]
-- o4: הַ/שָּׁמַיִם = Hd "the" + H8064 שָׁמַיִם "the sky (as aloft…" [HTd/Ncmpa]
-- o5: וְ/סָלַחְתָּ = Hc "and" + H5545 סָלַח "to forgive" [HC/Vqq2ms]
-- o6: לְ/חַטַּאת = Hl "to" + H2403 חַטָּאָה "an offence (sometimes habitual sinfulness)…" [HR/Ncfsc]
-- o7: עַמְּ/ךָ = H5971 עַם "a people (as a congregated unit)…" [HNcmsc/Sp2ms]
-- o8: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
-- o9: וַ/הֲשֵׁיבוֹתָ/ם = Hc "and" + H7725 שׁוּב "to turn back (hence…" [HC/Vhq2ms/Sp3mp]
-- o10: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
-- o11: הָ/אֲדָמָה = Hd "the" + H127 אֲדָמָה "soil (from its general redness)" [HTd/Ncfsa]
-- o12: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
-- o13: נָתַתָּה = H5414 נָתַן "to give…" [HVqp2ms]
-- o14: לָ/הֶם = Hl "to" [HR/Sp3mp]
-- o15: וְ/לַ/אֲבֹתֵי/הֶם = Hc "and" + Hl "to" + H1 אָב "father, in a literal and immediate…" [HC/R/Ncmpc/Sp3mp]
-
-Persian entries and current tags:
-- p1: آنگاه  → Hc
-- p2: از  → H4480
-- p3: آسمان  → H8064
-- p4: بشنو  → H8085
-- p5: و  → Hc
-- p6: گناه  → H2403
-- p7: قوم خود  → H5971
-- p8: اسرائیل  → H3478
-- p9: را
-- p10: بیامرز  → H5545
-- p11: و  → Hc
-- p12: ایشان  → H7725
-- p13: را
-- p14: به  → H413
-- p15: سرزمینی  → H127
-- p16: که  → H834
-- p17: بدیشان
-- p18: و  → Hc
-- p19: به  → Hl
-- p20: پدرانشان  → H1
-- p21: بخشیدی  → H5414
-- p22: ،
-- p23: بازآور  → H7725
-- p24: .
-
-### II Chronicles 6:26
-
-Original: בְּ/הֵעָצֵר הַ/שָּׁמַיִם וְ/לֹא יִהְיֶה מָטָר כִּי יֶחֶטְאוּ לָ/ךְ וְ/הִתְפַּלְלוּ אֶל הַ/מָּקוֹם הַ/זֶּה וְ/הוֹדוּ אֶת שְׁמֶ/ךָ מֵ/חַטָּאתָ/ם יְשׁוּבוּ/ן כִּי תַעֲנֵ/ם
-Persian: « هرگاه آسمان بسته_شود و به سبب گناهی که آنان به تو ورزیده_باشند باران نبارد، چنانچه ایشان به سوی این مکان دعا کرده، نام تو را اقرار کنند، و به سبب مکافاتی که به ایشان رسانده_باشی از گناه خود بازگردند،
-
-Original words:
-- o1: בְּ/הֵעָצֵר = Hb "in" + H6113 עָצָר "to inclose; by analogy, to hold back…" [HR/VNc]
-- o2: הַ/שָּׁמַיִם = Hd "the" + H8064 שָׁמַיִם "the sky (as aloft…" [HTd/Ncmpa]
-- o3: וְ/לֹא = Hc "and" + H3808 לֹא "not (the simple or abs. negation)…" [HC/Tn]
-- o4: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
-- o5: מָטָר = H4306 מָטַר "rain" [HNcmsa]
-- o6: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
-- o7: יֶחֶטְאוּ = H2398 חָטָא "properly, to miss…" [HVqi3mp]
-- o8: לָ/ךְ = Hl "to" [HR/Sp2fs]
-- o9: וְ/הִתְפַּלְלוּ = Hc "and" + H6419 פָּלַל "to judge (officially or mentally)…" [HC/Vtq3cp]
-- o10: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
-- o11: הַ/מָּקוֹם = Hd "the" + H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HTd/Ncmsa]
-- o12: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
-- o13: וְ/הוֹדוּ = Hc "and" + H3034 יָדָה "physically, to throw (a stone…" [HC/Vhq3cp]
-- o14: אֶת = H853 אֵת "properly…" [HTo]
-- o15: שְׁמֶ/ךָ = H8034 שֵׁם "an appellation…" [HNcmsc/Sp2ms]
-- o16: מֵ/חַטָּאתָ/ם = Hm "from" + H2403 חַטָּאָה "an offence (sometimes habitual sinfulness)…" [HR/Ncfsc/Sp3mp]
-- o17: יְשׁוּבוּ/ן = H7725 שׁוּב "to turn back (hence…" [HVqi3mp/Sn]
-- o18: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
-- o19: תַעֲנֵ/ם = H6031 עָנָה "to depress literally or figuratively…" [HVhi2ms/Sp3mp]
-
-Persian entries and current tags:
-- p1: «
-- p2: هرگاه
-- p3: آسمان  → H8064
-- p4: بسته_شود  → H6113
-- p5: و  → Hc
-- p6: به
-- p7: سبب
-- p8: گناهی  → H2398
-- p9: که  → H3588
-- p10: آنان
-- p11: به  → Hl
-- p12: تو
-- p13: ورزیده_باشند  → H2398
-- p14: باران  → H4306
-- p15: نبارد
-- p16: ،
-- p17: چنانچه
-- p18: ایشان
-- p19: به  → H413
-- p20: سوی
-- p21: این  → H2088
-- p22: مکان  → H4725
-- p23: دعا کرده  → H6419
-- p24: ،
-- p25: نام  → H8034
-- p26: تو
-- p27: را  → H853
-- p28: اقرار کنند  → H3034
-- p29: ،
-- p30: و  → Hc
-- p31: به
-- p32: سبب
-- p33: مکافاتی  → H6031
-- p34: که  → H3588
-- p35: به
-- p36: ایشان
-- p37: رسانده_باشی
-- p38: از  → Hm
-- p39: گناه  → H2403
-- p40: خود
-- p41: بازگردند  → H7725 H6031
-- p42: ،
-
-### II Chronicles 6:27
-
-Original: וְ/אַתָּה תִּשְׁמַע הַ/שָּׁמַיִם וְ/סָלַחְתָּ לְ/חַטַּאת עֲבָדֶי/ךָ וְ/עַמְּ/ךָ יִשְׂרָאֵל כִּי תוֹרֵ/ם אֶל הַ/דֶּרֶךְ הַ/טּוֹבָה אֲשֶׁר יֵלְכוּ בָ/הּ וְ/נָתַתָּה מָטָר עַל אַרְצְ/ךָ אֲשֶׁר נָתַתָּה לְ/עַמְּ/ךָ לְ/נַחֲלָה
-Persian: از آسمان بشنو و گناه خدمتگزارانت، قوم خود اسرائیل را بیامرز، و راه نیکو را که باید در آن گام بردارند بدیشان بیاموز، و بر سرزمینی که به قومت به میراث بخشیده‌ای، باران بفرست.
-
-Original words:
-- o1: וְ/אַתָּה = Hc "and" + H859 אַתָּה "thou and thee, or (plural) ye and you" [HC/Pp2ms]
-- o2: תִּשְׁמַע = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqi2ms]
-- o3: הַ/שָּׁמַיִם = Hd "the" + H8064 שָׁמַיִם "the sky (as aloft…" [HTd/Ncmpa]
-- o4: וְ/סָלַחְתָּ = Hc "and" + H5545 סָלַח "to forgive" [HC/Vqq2ms]
-- o5: לְ/חַטַּאת = Hl "to" + H2403 חַטָּאָה "an offence (sometimes habitual sinfulness)…" [HR/Ncfsc]
-- o6: עֲבָדֶי/ךָ = H5650 עֶבֶד "a servant" [HNcmpc/Sp2ms]
-- o7: וְ/עַמְּ/ךָ = Hc "and" + H5971 עַם "a people (as a congregated unit)…" [HC/Ncmsc/Sp2ms]
-- o8: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
-- o9: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
-- o10: תוֹרֵ/ם = H3384 יָרָה "properly, to flow as water (i.e. to rain)…" [HVhi2ms/Sp3mp]
-- o11: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
-- o12: הַ/דֶּרֶךְ = Hd "the" + H1870 דֶּרֶךְ "a road (as trodden)…" [HTd/Ncbsa]
-- o13: הַ/טּוֹבָה = Hd "the" + H2896 טוֹב "good (as an adjective) in the widest sense…" [HTd/Aafsa]
-- o14: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
-- o15: יֵלְכוּ = H3212 יָלַךְ "to walk (literally or figuratively)…" [HVqi3mp]
-- o16: בָ/הּ = Hb "in" [HR/Sp3fs]
-- o17: וְ/נָתַתָּה = Hc "and" + H5414 נָתַן "to give…" [HC/Vqq2ms]
-- o18: מָטָר = H4306 מָטַר "rain" [HNcmsa]
-- o19: עַל = H5921 עַל "above, over, upon…" [HR]
-- o20: אַרְצְ/ךָ = H776 אֶרֶץ "the earth (at large, or partitively a land)" [HNcbsc/Sp2ms]
-- o21: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
-- o22: נָתַתָּה = H5414 נָתַן "to give…" [HVqp2ms]
-- o23: לְ/עַמְּ/ךָ = Hl "to" + H5971 עַם "a people (as a congregated unit)…" [HR/Ncmsc/Sp2ms]
-- o24: לְ/נַחֲלָה = Hl "to" + H5159 נַחֲלָה "properly, something inherited…" [HR/Ncfsa]
-
-Persian entries and current tags:
-- p1: از
-- p2: آسمان  → H8064
-- p3: بشنو  → H8085
-- p4: و  → Hc
-- p5: گناه  → H2403
-- p6: خدمتگزارانت  → H5650
-- p7: ،
-- p8: قوم  → H5971
-- p9: خود
-- p10: اسرائیل  → H3478
-- p11: را
-- p12: بیامرز  → H5545
-- p13: ،
-- p14: و  → Hc
-- p15: راه  → H1870
-- p16: نیکو  → H2896
-- p17: را
-- p18: که  → H834
-- p19: باید
-- p20: در  → Hb
-- p21: آن
-- p22: گام بردارند  → H3212
-- p23: بدیشان
-- p24: بیاموز  → H3384
-- p25: ،
-- p26: و  → Hc
-- p27: بر  → H5921
-- p28: سرزمینی  → H776
-- p29: که  → H834
-- p30: به  → Hl
-- p31: قومت  → H5971
-- p32: به  → Hl
-- p33: میراث  → H5159
-- p34: بخشیده‌ای  → H5414
-- p35: ،
-- p36: باران  → H4306
-- p37: بفرست
-- p38: .
-
-### II Chronicles 6:28
-
-Original: רָעָב כִּי יִהְיֶה בָ/אָרֶץ דֶּבֶר כִּי יִהְיֶה שִׁדָּפוֹן וְ/יֵרָקוֹן אַרְבֶּה וְ/חָסִיל כִּי יִהְיֶה כִּי יָצַר ל/וֹ אוֹיְבָי/ו בְּ/אֶרֶץ שְׁעָרָי/ו כָּל נֶגַע וְ/כָל מַחֲלָה
-Persian: « و اگر قحطی در این سرزمین باشد، یا طاعون یا باد سوزان یا کپک یا ملخ یا کرمِ حشره، و یا اگر دشمنانشان ایشان را در هر یک از شهرهایشان در این سرزمین محاصره کنند، هر گونه بلا و هر گونه بیماری که باشد،
-
-Original words:
-- o1: רָעָב = H7458 רָעָב "hunger (more or less extensive)" [HNcmsa]
-- o2: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
-- o3: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
-- o4: בָ/אָרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HRd/Ncbsa]
-- o5: דֶּבֶר = H1698 דֶּבֶר "a pestilence" [HNcmsa]
-- o6: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
-- o7: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
-- o8: שִׁדָּפוֹן = H7711 שְׁדֵפָה "blight" [HNcmsa]
-- o9: וְ/יֵרָקוֹן = Hc "and" + H3420 יֵרָקוֹן "paleness, whether of persons (from fright)…" [HC/Ncmsa]
-- o10: אַרְבֶּה = H697 אַרְבֶּה "a locust (from its rapid increase)" [HNcmsa]
-- o11: וְ/חָסִיל = Hc "and" + H2625 חָסִיל "the ravager, i.e. a locust" [HC/Ncmsa]
-- o12: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
-- o13: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
-- o14: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
-- o15: יָצַר = H6696 צוּר "to cramp, i.e. confine (in many applications…" [HVhi3ms]
-- o16: ל/וֹ = Hl "to" [HR/Sp3ms]
-- o17: אוֹיְבָי/ו = H341 אֹיֵב "hating; an adversary" [HVqrmpc/Sp3ms]
-- o18: בְּ/אֶרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
-- o19: שְׁעָרָי/ו = H8179 שַׁעַר "an opening, i.e. door or gate" [HNcmpc/Sp3ms]
-- o20: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
-- o21: נֶגַע = H5061 נֶגַע "a blow (figuratively, infliction)…" [HNcmsa]
-- o22: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
-- o23: מַחֲלָה = H4245 מַחֲלֶה "sickness" [HNcfsa]
-
-Persian entries and current tags:
-- p1: «
-- p2: و
-- p3: اگر  → H3588
-- p4: قحطی  → H7458
-- p5: در
-- p6: این
-- p7: سرزمین  → H776
-- p8: باشد  → H1961
-- p9: ،
-- p10: یا
-- p11: طاعون  → H1698
-- p12: یا
-- p13: باد
-- p14: سوزان  → H7711
-- p15: یا
-- p16: کپک  → H3420 H2625
-- p17: یا
-- p18: ملخ  → H697
-- p19: یا
-- p20: کرمِ  → H697
-- p21: حشره  → H3420 H2625
-- p22: ،
-- p23: و  → Hc
-- p24: یا
-- p25: اگر  → H3588
-- p26: دشمنانشان  → H341
-- p27: ایشان
-- p28: را
-- p29: در
-- p30: هر
-- p31: یک
-- p32: از
-- p33: شهرهایشان  → H8179
-- p34: در
-- p35: این
-- p36: سرزمین  → H776
-- p37: محاصره کنند  → H6696
-- p38: ،
-- p39: هر
-- p40: گونه
-- p41: بلا  → H5061
-- p42: و  → Hc
-- p43: هر  → H3605
-- p44: گونه
-- p45: بیماری  → H4245
-- p46: که
-- p47: باشد
-- p48: ،
-
 ### II Chronicles 6:29
 
 Original: כָּל תְּפִלָּה כָל תְּחִנָּה אֲשֶׁר יִהְיֶה לְ/כָל הָ/אָדָם וּ/לְ/כֹל עַמְּ/ךָ יִשְׂרָאֵל אֲשֶׁר יֵדְעוּ אִישׁ נִגְע/וֹ וּ/מַכְאֹב/וֹ וּ/פָרַשׂ כַּפָּי/ו אֶל הַ/בַּיִת הַ/זֶּה
-Persian: و هر دعا یا تمنایی که از سوی هر کسی یا از سوی تمامی قومت اسرائیل کرده_شود، به گونه‌ای که هر یک آگاه از مصیبت و غمِ خویش، دستهای خود را به سوی این خانه دراز کنند،
+Persian: و هر دعا یا تمنایی که از سوی هر کسی یا از سوی تمامی قومت اسرائیل کرده شود، به گونه‌ای که هر یک آگاه از مصیبت و غمِ خویش، دستهای خود را به سوی این خانه دراز کنند،
 
 Original words:
 - o1: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
@@ -550,27 +112,27 @@ Original words:
 Persian entries and current tags:
 - p1: و
 - p2: هر  → H3605
-- p3: دعا  → H8605
+- p3: دعا  → H8605 H8467
 - p4: یا
 - p5: تمنایی  → H8467
 - p6: که  → H834
-- p7: از
+- p7: از  → Hl
 - p8: سوی
 - p9: هر  → H3605
 - p10: کسی  → H120
-- p11: یا
+- p11: یا  → Hc
 - p12: از
 - p13: سوی
 - p14: تمامی  → H3605
 - p15: قومت  → H5971
 - p16: اسرائیل  → H3478
-- p17: کرده_شود
+- p17: کرده شود
 - p18: ،
 - p19: به
 - p20: گونه‌ای
 - p21: که  → H834
 - p22: هر  → H3605
-- p23: یک
+- p23: یک  → H376
 - p24: آگاه  → H3045
 - p25: از
 - p26: مصیبت  → H5061
@@ -582,8 +144,8 @@ Persian entries and current tags:
 - p32: خود
 - p33: را
 - p34: به
-- p35: سوی
-- p36: این  → H2088
+- p35: سوی  → H413
+- p36: این  → Hd H2088
 - p37: خانه  → H1004
 - p38: دراز کنند  → H6566
 - p39: ،
@@ -626,12 +188,12 @@ Persian entries and current tags:
 - p5: ،
 - p6: آسمان  → H8064
 - p7: ،
-- p8: بشنو  → H8085
+- p8: بشنو  → H8085 H5545
 - p9: و  → Hc
 - p10: بیامرز  → H5545
 - p11: ،
 - p12: و  → Hc
-- p13: به
+- p13: به  → H5414
 - p14: هر کس  → H376
 - p15: که  → H834
 - p16: از  → H4480
@@ -642,16 +204,17 @@ Persian entries and current tags:
 - p21: مطابق  → Hk H3605
 - p22: تمامی  → H3605
 - p23: راههایش  → H1870 H3824
-- p24: جزا ده  → H5414
-- p25: ،
-- p26: چراکه  → H3588
-- p27: تو  → H859
-- p28: تنها  → H905
-- p29: عارفِ  → H3045
-- p30: قلوب
-- p31: بنی  → H1121
-- p32: آدمی  → H8064 H120
-- p33: ،
+- p24: جزا
+- p25: ده  → H5414
+- p26: ،
+- p27: چراکه  → H3588
+- p28: تو  → H859
+- p29: تنها  → H905
+- p30: عارفِ  → H3045
+- p31: قلوب  → H3824
+- p32: بنی  → H1121
+- p33: آدمی  → H120
+- p34: ،
 
 ### II Chronicles 6:31
 
@@ -706,7 +269,7 @@ Persian entries and current tags:
 ### II Chronicles 6:32
 
 Original: וְ/גַם אֶל הַ/נָּכְרִי אֲשֶׁר לֹא מֵ/עַמְּ/ךָ יִשְׂרָאֵל הוּא וּ/בָא מֵ/אֶרֶץ רְחוֹקָה לְמַעַן שִׁמְ/ךָ הַ/גָּדוֹל וְ/יָדְ/ךָ הַ/חֲזָקָה וּ/זְרוֹעֲ/ךָ הַ/נְּטוּיָה וּ/בָאוּ וְ/הִתְפַּלְלוּ אֶל הַ/בַּיִת הַ/זֶּה
-Persian: « نیز هرگاه غریبی که از قوم تو اسرائیل نباشد و به خاطر نام عظیم تو و دست توانا و بازوی درازت از سرزمینی دوردست آمده_باشد، هرگاه چنین کسی آمده، به سوی این خانه دعا کند،
+Persian: « نیز هرگاه غریبی که از قوم تو اسرائیل نباشد و به خاطر نام عظیم تو و دست توانا و بازوی درازت از سرزمینی دوردست آمده باشد، هرگاه چنین کسی آمده، به سوی این خانه دعا کند،
 
 Original words:
 - o1: וְ/גַם = Hc "and" + H1571 גַּם "properly, assemblage…" [HC/Ta]
@@ -745,7 +308,7 @@ Persian entries and current tags:
 - p9: اسرائیل  → H3478
 - p10: نباشد  → H3808
 - p11: و  → Hc
-- p12: به
+- p12: به  → H935
 - p13: خاطر  → H4616
 - p14: نام  → H8034
 - p15: عظیم  → H1419
@@ -754,24 +317,23 @@ Persian entries and current tags:
 - p18: دست  → H3027
 - p19: توانا  → H2389
 - p20: و  → Hc
-- p21: بازوی
+- p21: بازوی  → H2220
 - p22: درازت  → H5186
 - p23: از  → Hm
 - p24: سرزمینی  → H776
 - p25: دوردست  → H7350 H5186
-- p26: آمده_باشد  → H935
+- p26: آمده باشد  → H935
 - p27: ،
 - p28: هرگاه
 - p29: چنین
 - p30: کسی
 - p31: آمده  → H935
 - p32: ،
-- p33: به  → H413
-- p34: سوی
-- p35: این
-- p36: خانه  → H1004
-- p37: دعا کند  → H6419
-- p38: ،
+- p33: به سوی  → H413
+- p34: این  → H2088
+- p35: خانه  → H1004
+- p36: دعا کند  → H6419
+- p37: ،
 
 ### II Chronicles 6:33
 
@@ -822,7 +384,7 @@ Persian entries and current tags:
 - p7: ،
 - p8: بشنو  → H8085
 - p9: و  → Hc
-- p10: بر
+- p10: بر  → H6213
 - p11: حسب  → Hk
 - p12: هرآنچه  → H3605 H834
 - p13: آن
@@ -840,7 +402,7 @@ Persian entries and current tags:
 - p25: نام  → H8034
 - p26: تو
 - p27: را  → H853
-- p28: بشناسند
+- p28: بشناسند  → H3045
 - p29: و  → Hc
 - p30: همچون  → Hk
 - p31: قوم  → H5971
@@ -910,29 +472,30 @@ Persian entries and current tags:
 - p13: ایشان
 - p14: را
 - p15: می‌فرستی  → H7971
-- p16: بیرون روند  → H3318
-- p17: ،
-- p18: و
-- p19: به  → H413
-- p20: سوی  → H1870
-- p21: این
-- p22: شهر  → H5892
-- p23: که  → H834
-- p24: تو
-- p25: برگزیده‌ای  → H977
-- p26: و  → Hc
-- p27: خانه‌ای  → H1004
-- p28: که  → H834
-- p29: من
-- p30: برای  → Hl
-- p31: نام  → H8034
-- p32: تو
-- p33: بنا کرده‌ام  → H1129
-- p34: ،
-- p35: نزد
-- p36: تو
-- p37: دعا کنند  → H6419
-- p38: ،
+- p16: بیرون  → H3318
+- p17: روند  → H3318 H6419
+- p18: ،
+- p19: و  → Hc
+- p20: به  → H413
+- p21: سوی  → H1870
+- p22: این  → Hd H2063
+- p23: شهر  → H5892
+- p24: که  → H834
+- p25: تو
+- p26: برگزیده‌ای  → H977
+- p27: و  → Hc
+- p28: خانه‌ای  → H1004
+- p29: که  → H834
+- p30: من
+- p31: برای  → Hl
+- p32: نام  → H8034
+- p33: تو
+- p34: بنا کرده‌ام  → H1129
+- p35: ،
+- p36: نزد  → H413
+- p37: تو
+- p38: دعا کنند  → H6419
+- p39: ،
 
 ### II Chronicles 6:35
 
@@ -970,7 +533,7 @@ Persian entries and current tags:
 ### II Chronicles 6:36
 
 Original: כִּי יֶחֶטְאוּ לָ/ךְ כִּי אֵין אָדָם אֲשֶׁר לֹא יֶחֱטָא וְ/אָנַפְתָּ בָ/ם וּ/נְתַתָּ/ם לִ/פְנֵי אוֹיֵב וְ/שָׁבוּ/ם שׁוֹבֵי/הֶם אֶל אֶרֶץ רְחוֹקָה אוֹ קְרוֹבָה
-Persian: « و اگر بر تو گناه ورزند، زیرا انسانی نیست که گناه نکند، و تو از آنان خشمگین شده، ایشان را به دست دشمن تسلیم کنی و ایشان به سرزمینی دور یا نزدیک به اسارت برده_شوند،
+Persian: « و اگر بر تو گناه ورزند، زیرا انسانی نیست که گناه نکند، و تو از آنان خشمگین شده، ایشان را به دست دشمن تسلیم کنی و ایشان به سرزمینی دور یا نزدیک به اسارت برده شوند،
 
 Original words:
 - o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
@@ -1019,22 +582,21 @@ Persian entries and current tags:
 - p21: ،
 - p22: ایشان
 - p23: را
-- p24: به  → Hl H6440
+- p24: به  → Hl
 - p25: دست
 - p26: دشمن  → H341
-- p27: تسلیم
-- p28: کنی
-- p29: و  → Hc
-- p30: ایشان
-- p31: به  → H6440 H413
-- p32: سرزمینی  → H776
-- p33: دور  → H7350
-- p34: یا  → H176
-- p35: نزدیک  → H7138
-- p36: به  → H6440
-- p37: اسارت  → H7617
-- p38: برده_شوند  → H7617
-- p39: ،
+- p27: تسلیم کنی  → H5414
+- p28: و  → Hc
+- p29: ایشان
+- p30: به  → H413
+- p31: سرزمینی  → H776
+- p32: دور  → H7350
+- p33: یا  → H176
+- p34: نزدیک  → H7138
+- p35: به
+- p36: اسارت  → H7617
+- p37: برده شوند  → H7617
+- p38: ،
 
 ### II Chronicles 6:37
 
@@ -1060,39 +622,38 @@ Original words:
 - o16: וְ/רָשָׁעְנוּ = Hc "and" + H7561 רָשַׁע "to be (causatively, do or declare) wrong…" [HC/Vqp1cp]
 
 Persian entries and current tags:
-- p1: چنانچه
+- p1: چنانچه  → H7725
 - p2: ایشان
-- p3: در
+- p3: در  → Hb
 - p4: سرزمینی  → H776
 - p5: که  → H834
 - p6: بدان  → H8033
 - p7: به
 - p8: اسیری برده شده‌اند  → H7617
-- p9: به  → H413
+- p9: به
 - p10: خود
 - p11: آمده
 - p12: ،
-- p13: توبه
-- p14: کنند  → H7725
-- p15: و  → Hc
-- p16: در  → Hb
-- p17: سرزمین  → H776
-- p18: اسارتِ  → H7633
-- p19: خویش
-- p20: التماس‌کنان  → H2603
-- p21: به  → H413
-- p22: تو
-- p23: بگویند  → H559
-- p24: :
-- p25: ”گناه  → H2398
-- p26: و  → Hc
-- p27: انحراف  → H5753 H7561
-- p28: ورزیده‌ایم  → H2398
-- p29: و
-- p30: شریرانه  → H5753 H7561
-- p31: رفتار  → H5753
-- p32: کرده‌ایم“
-- p33: ،
+- p13: توبه کنند  → H7725
+- p14: و  → Hc
+- p15: در  → Hb
+- p16: سرزمین  → H776
+- p17: اسارتِ  → H7633
+- p18: خویش
+- p19: التماس‌کنان  → H2603
+- p20: به  → H413
+- p21: تو
+- p22: بگویند  → H559
+- p23: :
+- p24: ”گناه  → H2398
+- p25: و
+- p26: انحراف  → H5753 H7561
+- p27: ورزیده‌ایم  → H2398
+- p28: و  → Hc
+- p29: شریرانه  → H7561
+- p30: رفتار  → H5753
+- p31: کرده‌ایم“
+- p32: ،
 
 ### II Chronicles 6:38
 
@@ -1128,13 +689,13 @@ Original words:
 Persian entries and current tags:
 - p1: و  → Hc
 - p2: اگر
-- p3: در
+- p3: در  → Hb
 - p4: سرزمین  → H776
 - p5: اسارتِ  → H7633
 - p6: خویش
 - p7: که  → H834
 - p8: بدان
-- p9: به
+- p9: به  → H413
 - p10: اسیری برده شده‌اند  → H7617
 - p11: ،
 - p12: به  → Hb
@@ -1144,15 +705,15 @@ Persian entries and current tags:
 - p16: تمامی  → H3605
 - p17: جان  → H5315
 - p18: خود
-- p19: نزد
+- p19: نزد  → H413
 - p20: تو
-- p21: بازگردند  → H7725 H6419
-- p22: و
+- p21: بازگردند  → H7725
+- p22: و  → Hc
 - p23: به
 - p24: سوی  → H1870
 - p25: سرزمینی  → H776
 - p26: که  → H834
-- p27: به
+- p27: به  → Hl
 - p28: پدرانشان  → H1
 - p29: بخشیده‌ای  → H5414
 - p30: و  → Hc
@@ -1210,7 +771,7 @@ Persian entries and current tags:
 - p14: ایشان
 - p15: را  → H853
 - p16: دادرسی  → H4941
-- p17: فرما  → H6213
+- p17: فرما  → H5545
 - p18: ،
 - p19: و  → Hc
 - p20: قوم  → H5971
@@ -1227,7 +788,7 @@ Persian entries and current tags:
 ### II Chronicles 6:40
 
 Original: עַתָּה אֱלֹהַ/י יִהְיוּ נָא עֵינֶי/ךָ פְּתֻחוֹת וְ/אָזְנֶי/ךָ קַשֻּׁבוֹת לִ/תְפִלַּת הַ/מָּקוֹם הַ/זֶּה
-Persian: « حال، ای خدای من، چشمان تو بر دعایی که در این مکان کرده_می‌شود گشوده_باشد و گوشهایت آن را بشنود.
+Persian: « حال، ای خدای من، چشمان تو بر دعایی که در این مکان کرده می‌شود گشوده باشد و گوشهایت آن را بشنود.
 
 Original words:
 - o1: עַתָּה = H6258 עַתָּה "at this time, whether adverb…" [HD]
@@ -1258,8 +819,8 @@ Persian entries and current tags:
 - p13: در
 - p14: این  → H2088
 - p15: مکان  → H4725
-- p16: کرده_می‌شود
-- p17: گشوده_باشد  → H6605
+- p16: کرده می‌شود
+- p17: گشوده باشد  → H6605
 - p18: و  → Hc
 - p19: گوشهایت  → H241
 - p20: آن
@@ -1302,7 +863,7 @@ Persian entries and current tags:
 - p9: به  → Hl
 - p10: استراحتگاه  → H5118
 - p11: خود
-- p12: بیا
+- p12: بیا  → H6965
 - p13: ،
 - p14: تو  → H859
 - p15: و  → Hc
@@ -1323,8 +884,8 @@ Persian entries and current tags:
 - p30: ملبّس گردند  → H3847
 - p31: ،
 - p32: و  → Hc
-- p33: سرسپردگانت
-- p34: در
+- p33: سرسپردگانت  → H2623
+- p34: در  → Hb
 - p35: نیکویی  → H2896
 - p36: تو
 - p37: شادی کنند  → H8055
@@ -1349,10 +910,10 @@ Original words:
 
 Persian entries and current tags:
 - p1: ای
-- p2: یهوه  → H3068 H2142
+- p2: یهوه  → H3068
 - p3: خدا  → H430
 - p4: ،
-- p5: روی  → H6440
+- p5: روی  → H7725 H6440
 - p6: مسیح  → H4899
 - p7: خود
 - p8: را
@@ -1363,7 +924,7 @@ Persian entries and current tags:
 - p13: را
 - p14: به
 - p15: خدمتگزارت  → H5650
-- p16: داوود  → H4899 H1732
+- p16: داوود  → H1732
 - p17: ،
 - p18: به  → Hl
 - p19: یاد آور  → H2142
@@ -1374,27 +935,31 @@ Persian entries and current tags:
 
 Original words of verses next to the ones above. Where the Persian verse division differs, their Strong's numbers may be used for the verses above.
 
-### II Chronicles 6:21 (context)
+### II Chronicles 6:28 (context)
 
-- o1: וְ/שָׁמַעְתָּ = Hc "and" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HC/Vqq2ms]
-- o2: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
-- o3: תַּחֲנוּנֵי = H8469 תַּחֲנוּן "earnest prayer" [HNcmpc]
-- o4: עַבְדְּ/ךָ = H5650 עֶבֶד "a servant" [HNcmsc/Sp2ms]
-- o5: וְ/עַמְּ/ךָ = Hc "and" + H5971 עַם "a people (as a congregated unit)…" [HC/Ncmsc/Sp2ms]
-- o6: יִשְׂרָאֵל = H3478 יִשְׂרָאֵל "Jisrael, a symbolical name of Jacob…" [HNp]
-- o7: אֲשֶׁר = H834 אֲשֶׁר "who, which, what, that…" [HTr]
-- o8: יִתְפַּלְלוּ = H6419 פָּלַל "to judge (officially or mentally)…" [HVti3mp]
-- o9: אֶל = H413 אֵל "near, with or among; often in general, to" [HR]
-- o10: הַ/מָּקוֹם = Hd "the" + H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HTd/Ncmsa]
-- o11: הַ/זֶּה = Hd "the" + H2088 זֶה "the masculine demonstrative pronoun, this or that" [HTd/Pdxms]
-- o12: וְ/אַתָּה = Hc "and" + H859 אַתָּה "thou and thee, or (plural) ye and you" [HC/Pp2ms]
-- o13: תִּשְׁמַע = H8085 שָׁמַע "to hear intelligently (often with implication of…" [HVqi2ms]
-- o14: מִ/מְּקוֹם = Hm "from" + H4725 מָקוֹם "properly, a standing, i.e. a spot…" [HR/Ncmsc]
-- o15: שִׁבְתְּ/ךָ = H3427 יָשַׁב "properly…" [HVqc/Sp2ms]
-- o16: מִן = H4480 מִן "properly, a part of…" [HR]
-- o17: הַ/שָּׁמַיִם = Hd "the" + H8064 שָׁמַיִם "the sky (as aloft…" [HTd/Ncmpa]
-- o18: וְ/שָׁמַעְתָּ = Hc "and" + H8085 שָׁמַע "to hear intelligently (often with implication of…" [HC/Vqq2ms]
-- o19: וְ/סָלָחְתָּ = Hc "and" + H5545 סָלַח "to forgive" [HC/Vqq2ms]
+- o1: רָעָב = H7458 רָעָב "hunger (more or less extensive)" [HNcmsa]
+- o2: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o3: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o4: בָ/אָרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HRd/Ncbsa]
+- o5: דֶּבֶר = H1698 דֶּבֶר "a pestilence" [HNcmsa]
+- o6: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o7: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o8: שִׁדָּפוֹן = H7711 שְׁדֵפָה "blight" [HNcmsa]
+- o9: וְ/יֵרָקוֹן = Hc "and" + H3420 יֵרָקוֹן "paleness, whether of persons (from fright)…" [HC/Ncmsa]
+- o10: אַרְבֶּה = H697 אַרְבֶּה "a locust (from its rapid increase)" [HNcmsa]
+- o11: וְ/חָסִיל = Hc "and" + H2625 חָסִיל "the ravager, i.e. a locust" [HC/Ncmsa]
+- o12: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o13: יִהְיֶה = H1961 הָיָה "to exist, i.e. be or become…" [HVqi3ms]
+- o14: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
+- o15: יָצַר = H6696 צוּר "to cramp, i.e. confine (in many applications…" [HVhi3ms]
+- o16: ל/וֹ = Hl "to" [HR/Sp3ms]
+- o17: אוֹיְבָי/ו = H341 אֹיֵב "hating; an adversary" [HVqrmpc/Sp3ms]
+- o18: בְּ/אֶרֶץ = Hb "in" + H776 אֶרֶץ "the earth (at large, or partitively a land)" [HR/Ncbsc]
+- o19: שְׁעָרָי/ו = H8179 שַׁעַר "an opening, i.e. door or gate" [HNcmpc/Sp3ms]
+- o20: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
+- o21: נֶגַע = H5061 נֶגַע "a blow (figuratively, infliction)…" [HNcmsa]
+- o22: וְ/כָל = Hc "and" + H3605 כֹּל "properly, the whole…" [HC/Ncmsc]
+- o23: מַחֲלָה = H4245 מַחֲלֶה "sickness" [HNcfsa]
 
 ### II Chronicles 7:1 (context)
 

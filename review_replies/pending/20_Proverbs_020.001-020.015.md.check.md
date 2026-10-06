@@ -1,12 +1,14 @@
 # Check of 20_Proverbs_020.001-020.015.md
 
-Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-06 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
-## 15 verse(s) with changes
+No change from the current tags (will be skipped): Proverbs 20:5, Proverbs 20:8.
 
-### Proverbs 20:1: 8 word(s) changed
+## 13 verse(s) with changes
 
-Reply line 2.
+### Proverbs 20:1: 6 word(s) changed
+
+Reply line 2. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: לֵץ הַ/יַּין הֹמֶה שֵׁכָר וְ/כָל שֹׁגֶה בּ/וֹ לֹא יֶחְכָּם
 
@@ -30,22 +32,22 @@ Original words:
 | ✱ | می‌کند |  | [تمسخر می‌کند] H3887 לוּץ "properly, to make mouths at…" |
 |  | و | Hc | Hc |
 | ✱ | باده | H3196 יַיִן "wine (as fermented)…"; H7941 שֵׁכָר "an intoxicant…" | H7941 שֵׁכָר "an intoxicant…" |
-| ✱ | عربده | H1993 הָמָה "to make a loud sound (like…" | [عربده می‌کشد] H1993 הָמָה "to make a loud sound (like…" |
-| ✱ | می‌کشد | H7941 שֵׁכָר "an intoxicant…" | [عربده می‌کشد] H1993 הָמָה "to make a loud sound (like…" |
+|  | عربده | [عربده می‌کشد] H1993 | [عربده می‌کشد] H1993 |
+|  | می‌کشد | [عربده می‌کشد] H1993 | [عربده می‌کشد] H1993 |
 |  | ؛ |  |  |
-| ✱ | حکیم | H7686 שָׁגָה "to stray (causatively…"; H2449 חָכַם "to be wise (in mind…" | H2449 חָכַם "to be wise (in mind…" |
+| ✱ | حکیم | H7686 שָׁגָה "to stray (causatively…" | H2449 חָכַם "to be wise (in mind…" |
 |  | نیست | H3808 | H3808 |
 |  | هر | H3605 | H3605 |
 |  | آن |  |  |
 |  | که |  |  |
-| ✱ | فریفتۀ | H2449 חָכַם "to be wise (in mind…" | H7686 שָׁגָה "to stray (causatively…" |
+| ✱ | فریفتۀ |  | H7686 שָׁגָה "to stray (causatively…" |
 |  | آنان |  |  |
 | ✱ | شود | H2449 חָכַם "to be wise (in mind…" | H7686 שָׁגָה "to stray (causatively…" |
 |  | . |  |  |
 
 ### Proverbs 20:2: 5 word(s) changed
 
-Reply line 3.
+Reply line 3. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: נַהַם כַּ/כְּפִיר אֵימַת מֶלֶךְ מִתְעַבְּר/וֹ חוֹטֵא נַפְשׁ/וֹ
 
@@ -71,7 +73,7 @@ Original words:
 |  | هر |  |  |
 |  | که |  |  |
 | ✱ | خشمش |  | [خشمش برانگیزد] H5674 עָבַר "to cross over…" |
-| ✱ | برانگیزد |  | [خشمش برانگیزد] H5674 עָבַר "to cross over…" |
+| ✱ | برانگیزد | H2398 חָטָא "properly, to miss…" | [خشمش برانگیزد] H5674 עָבַר "to cross over…" |
 |  | ، |  |  |
 |  | جان | H5315 | H5315 |
 | ✱ | بر |  | [بر باد می‌دهد] H2398 חָטָא "properly, to miss…" |
@@ -79,9 +81,9 @@ Original words:
 | ✱ | می‌دهد | H2398 חָטָא "properly, to miss…" | [بر باد می‌دهد] H2398 חָטָא "properly, to miss…" |
 |  | . |  |  |
 
-### Proverbs 20:3: 3 word(s) changed
+### Proverbs 20:3: 2 word(s) changed
 
-Reply line 4.
+Reply line 4. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: כָּבוֹד לָ/אִישׁ שֶׁבֶת מֵ/רִיב וְ/כָל אֱוִיל יִתְגַּלָּע
 
@@ -105,7 +107,7 @@ Original words:
 | ✱ | عزّت | H3519 כָּבוֹד "properly, weight…"; H7674 שֶׁבֶת "rest, interruption, cessation" | H3519 כָּבוֹד "properly, weight…" |
 |  | آدمی | H376 | H376 |
 |  | است |  |  |
-| ✱ | اما |  | Hc "and" |
+|  | اما | Hc | Hc |
 |  | تن |  |  |
 |  | هر | H3605 | H3605 |
 |  | نادان | H191 | H191 |
@@ -114,9 +116,9 @@ Original words:
 |  | می‌خارد |  |  |
 |  | ! |  |  |
 
-### Proverbs 20:4: 7 word(s) changed
+### Proverbs 20:4: 6 word(s) changed
 
-Reply line 5.
+Reply line 5. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: מֵ/חֹרֶף עָצֵל לֹא יַחֲרֹשׁ ישאל בַּ/קָּצִיר וָ/אָיִן
 
@@ -136,7 +138,7 @@ Original words:
 | ✱ | کاهل | [کاهل زمین] H6102 עָצֵל "indolent" | H6102 עָצֵל "indolent" |
 | ✱ | زمین | [کاهل زمین] H6102 עָצֵל "indolent" |  |
 |  | را |  |  |
-| ✱ | در |  | Hm "from" |
+|  | در | Hm | Hm |
 |  | فصلش | H2779 | H2779 |
 | ✱ | شخم | H2790 חָרַשׁ "to scratch…" | [شخم نمی‌زند] H3808 לֹא "not (the simple or abs.…"; H2790 חָרַשׁ "to scratch…" |
 | ✱ | نمی‌زند | H3808 לֹא "not (the simple or abs.…"; H2790 חָרַשׁ "to scratch…" | [شخم نمی‌زند] H3808 לֹא "not (the simple or abs.…"; H2790 חָרַשׁ "to scratch…" |
@@ -152,47 +154,9 @@ Original words:
 | ✱ | نمی‌یابد |  | [چیزی نمی‌یابد] H369 אַיִן "a non-entity…" |
 |  | . |  |  |
 
-### Proverbs 20:5: 1 word(s) changed
+### Proverbs 20:6: 2 word(s) changed
 
-Reply line 6.
-
-Original: מַיִם עֲמֻקִּים עֵצָה בְ/לֶב אִישׁ וְ/אִישׁ תְּבוּנָה יִדְלֶ/נָּה
-
-Persian: مشورت همچون آبی است عمیق در دل انسان، مردی فهیم خواهد_که آن را بیرون کشد.
-
-Original words:
-- o1: מַיִם = H4325 מַיִם "water; figuratively, juice…" [HNcmpa]
-- o2: עֲמֻקִּים = H6013 עָמֹק "deep (literally or figuratively)" [HAampa]
-- o3: עֵצָה = H6098 עֵצָה "advice; by implication, plan; also prudence" [HNcfsa]
-- o4: בְ/לֶב = Hb "in" + H3820 לֵב "the heart…" [HR/Ncmsc]
-- o5: אִישׁ = H376 אִישׁ "a man as an individual or a male person…" [HNcmsa]
-- o6: וְ/אִישׁ = Hc "and" + H376 אִישׁ "a man as an individual or a male person…" [HC/Ncmsc]
-- o7: תְּבוּנָה = H8394 תָּבוּן "intelligence; by implication, an argument…" [HNcfsa]
-- o8: יִדְלֶ/נָּה = H1802 דָּלָה "properly, to dangle…" [HVqi3ms/Sp3fs]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | مشورت | H6098 | H6098 |
-|  | همچون |  |  |
-|  | آبی | H4325 | H4325 |
-|  | است |  |  |
-|  | عمیق | H6013 | H6013 |
-|  | در | Hb | Hb |
-|  | دل | H3820 | H3820 |
-|  | انسان | H376 | H376 |
-|  | ، |  |  |
-|  | مردی | H376 | H376 |
-|  | فهیم | H8394 | H8394 |
-| ✱ | خواهد_که | H376 אִישׁ "a man as an individual or a…" |  |
-|  | آن |  |  |
-|  | را |  |  |
-|  | بیرون | [بیرون کشد] H1802 | [بیرون کشد] H1802 |
-|  | کشد | [بیرون کشد] H1802 | [بیرون کشد] H1802 |
-|  | . |  |  |
-
-### Proverbs 20:6: 3 word(s) changed
-
-Reply line 7.
+Reply line 7. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: רָב אָדָם יִקְרָא אִישׁ חַסְדּ/וֹ וְ/אִישׁ אֱמוּנִים מִי יִמְצָא
 
@@ -218,7 +182,7 @@ Original words:
 |  | محبتی | H2617 | H2617 |
 | ✱ | پایدارند | H7121 קָרָא "to call out to (i.e. properly…" |  |
 |  | اما | Hc | Hc |
-| ✱ | شخص |  | H376 אִישׁ "a man as an individual or a…" |
+|  | شخص | H376 | H376 |
 |  | وفادار | H529 | H529 |
 |  | را |  |  |
 | ✱ | کهِ |  | H4310 מִי "who? (occasionally…" |
@@ -226,9 +190,9 @@ Original words:
 |  | یافت | H4672 | H4672 |
 |  | ؟ |  |  |
 
-### Proverbs 20:7: 3 word(s) changed
+### Proverbs 20:7: 2 word(s) changed
 
-Reply line 8.
+Reply line 8. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: מִתְהַלֵּךְ בְּ/תֻמּ/וֹ צַדִּיק אַשְׁרֵי בָנָי/ו אַחֲרָי/ו
 
@@ -245,7 +209,7 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | پارسا | H6662 | H6662 |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | راستی | H8537 | H8537 |
 |  | سلوک | [سلوک می‌کند] H1980 | [سلوک می‌کند] H1980 |
 |  | می‌کند | [سلوک می‌کند] H1980 | [سلوک می‌کند] H1980 |
@@ -259,47 +223,9 @@ Original words:
 |  | می‌آیند |  |  |
 |  | ! |  |  |
 
-### Proverbs 20:8: 2 word(s) changed
-
-Reply line 9.
-
-Original: מֶלֶךְ יוֹשֵׁב עַל כִּסֵּא דִין מְזָרֶה בְ/עֵינָי/ו כָּל רָע
-
-Persian: شاه که بر مسند داوری نشیند، به نگاه خود شرارتها را یکسره غربال کند.
-
-Original words:
-- o1: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsa]
-- o2: יוֹשֵׁב = H3427 יָשַׁב "properly…" [HVqrmsa]
-- o3: עַל = H5921 עַל "above, over, upon…" [HR]
-- o4: כִּסֵּא = H3678 כִּסֵּא "properly, covered, i.e. a throne (as canopied)" [HNcmsc]
-- o5: דִין = H1779 דִּין "judgement (the suit, justice…" [HNcmsa]
-- o6: מְזָרֶה = H2219 זָרָה "to toss about; by implication, to diffuse, winnow" [HVprmsa]
-- o7: בְ/עֵינָי/ו = Hb "in" + H5869 עַיִן "an eye (literally or figuratively)…" [HR/Ncbdc/Sp3ms]
-- o8: כָּל = H3605 כֹּל "properly, the whole…" [HNcmsc]
-- o9: רָע = H7451 רַע "bad or (as noun) evil (natural or moral)" [HAamsa]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | شاه | H4428 | H4428 |
-|  | که |  |  |
-|  | بر | H5921 | H5921 |
-|  | مسند | H3678 | H3678 |
-|  | داوری | H1779 | H1779 |
-|  | نشیند | H3427 | H3427 |
-|  | ، |  |  |
-|  | به | Hb | Hb |
-| ✱ | نگاه |  | H5869 עַיִן "an eye (literally or…" |
-|  | خود |  |  |
-|  | شرارتها | H7451 | H7451 |
-|  | را |  |  |
-| ✱ | یکسره |  | H3605 כֹּל "properly, the whole…" |
-|  | غربال | [غربال کند] H2219 | [غربال کند] H2219 |
-|  | کند | [غربال کند] H2219 | [غربال کند] H2219 |
-|  | . |  |  |
-
 ### Proverbs 20:9: 4 word(s) changed
 
-Reply line 10.
+Reply line 10. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: מִי יֹאמַר זִכִּיתִי לִבִּ/י טָהַרְתִּי מֵ/חַטָּאתִ/י
 
@@ -325,7 +251,7 @@ Original words:
 |  | دل | H3820 | H3820 |
 |  | خود |  |  |
 |  | را |  |  |
-| ✱ | طاهر | H2891 טָהֵר "to be pure (physical sound…" | [طاهر ساخته‌ام] H2135 זָכָה "to be translucent…" |
+| ✱ | طاهر | H2135 זָכָה "to be translucent…"; H2891 טָהֵר "to be pure (physical sound…" | [طاهر ساخته‌ام] H2135 זָכָה "to be translucent…" |
 | ✱ | ساخته‌ام | H2135 זָכָה "to be translucent…" | [طاهر ساخته‌ام] H2135 זָכָה "to be translucent…" |
 |  | ؛ |  |  |
 |  | من |  |  |
@@ -337,9 +263,9 @@ Original words:
 |  | » |  |  |
 |  | ؟ |  |  |
 
-### Proverbs 20:10: 4 word(s) changed
+### Proverbs 20:10: 2 word(s) changed
 
-Reply line 11.
+Reply line 11. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: אֶבֶן וָ/אֶבֶן אֵיפָה וְ/אֵיפָה תּוֹעֲבַת יְהוָה גַּם שְׁנֵי/הֶם
 
@@ -367,13 +293,13 @@ Original words:
 |  | از |  |  |
 | ✱ | هر |  | H1571 גַּם "properly, assemblage…" |
 |  | دو | H8147 | H8147 |
-| ✱ | کراهت | H8441 תּוֹעֵבַה "properly…"; H1571 גַּם "properly, assemblage…" | [کراهت دارد] H8441 תּוֹעֵבַה "properly…" |
-| ✱ | دارد |  | [کراهت دارد] H8441 תּוֹעֵבַה "properly…" |
+|  | کراهت | [کراهت دارد] H8441 | [کراهت دارد] H8441 |
+|  | دارد | [کراهت دارد] H8441 | [کراهت دارد] H8441 |
 |  | . |  |  |
 
-### Proverbs 20:11: 5 word(s) changed
+### Proverbs 20:11: 4 word(s) changed
 
-Reply line 12.
+Reply line 12. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: גַּם בְּ/מַעֲלָלָי/ו יִתְנַכֶּר נָעַר אִם זַךְ וְ/אִם יָשָׁר פָּעֳל/וֹ
 
@@ -394,7 +320,7 @@ Original words:
 | --- | --- | --- | --- |
 |  | جوان | H5288 | H5288 |
 |  | را |  |  |
-| ✱ | از |  | Hb "in" |
+|  | از | Hb | Hb |
 |  | کارهایش | H4611 | H4611 |
 | ✱ | براستی |  | H1571 גַּם "properly, assemblage…" |
 | ✱ | می‌توان |  | [می‌توان شناخت] H5234 נָכַר "properly, to scrutinize…" |
@@ -412,9 +338,9 @@ Original words:
 |  | نه |  |  |
 |  | . |  |  |
 
-### Proverbs 20:12: 4 word(s) changed
+### Proverbs 20:12: 2 word(s) changed
 
-Reply line 13.
+Reply line 13. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: אֹזֶן שֹׁמַעַת וְ/עַיִן רֹאָה יְהוָה עָשָׂה גַם שְׁנֵי/הֶם
 
@@ -433,21 +359,21 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 | ✱ | گوش | H241 אֹזֶן "broadness. i.e. (concrete)…"; H8085 שָׁמַע "to hear intelligently (often…" | H241 אֹזֶן "broadness. i.e. (concrete)…" |
-| ✱ | شنوا |  | H8085 שָׁמַע "to hear intelligently (often…" |
+|  | شنوا | H8085 | H8085 |
 |  | و | Hc | Hc |
 |  | چشم | H5869 | H5869 |
 |  | بینا | H7200 | H7200 |
 |  | ، |  |  |
 | ✱ | هر |  | H1571 גַּם "properly, assemblage…" |
 |  | دو | H8147 | H8147 |
-| ✱ | آفریدۀ |  | H6213 עָשָׂה "to do or make…" |
+|  | آفریدۀ | H6213 | H6213 |
 |  | خداوند | H3068 | H3068 |
 |  | است |  |  |
 |  | . |  |  |
 
-### Proverbs 20:13: 7 word(s) changed
+### Proverbs 20:13: 3 word(s) changed
 
-Reply line 14.
+Reply line 14. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: אַל תֶּאֱהַב שֵׁנָה פֶּן תִּוָּרֵשׁ פְּקַח עֵינֶי/ךָ שְׂבַע לָחֶם
 
@@ -469,24 +395,24 @@ Original words:
 |  | خواب | H8142 | H8142 |
 |  | را |  |  |
 | ✱ | دوست | H157 אָהַב "to have affection for…" | [دوست مدار] H408 אַל "not (the qualified negation…"; H157 אָהַב "to have affection for…" |
-| ✱ | مدار |  | [دوست مدار] H408 אַל "not (the qualified negation…"; H157 אָהַב "to have affection for…" |
+| ✱ | مدار | H408 אַל "not (the qualified negation…" | [دوست مدار] H408 אַל "not (the qualified negation…"; H157 אָהַב "to have affection for…" |
 |  | ، |  |  |
 |  | مبادا | H6435 | H6435 |
-| ✱ | فقیر |  | [فقیر شوی] H3423 יָרַשׁ "to occupy (by driving out…" |
-| ✱ | شوی |  | [فقیر شوی] H3423 יָרַשׁ "to occupy (by driving out…" |
+|  | فقیر | [فقیر شوی] H3423 | [فقیر شوی] H3423 |
+|  | شوی | [فقیر شوی] H3423 | [فقیر شوی] H3423 |
 |  | ؛ |  |  |
 | ✱ | چشمانت | H6491 פָּקַח "to open (the senses…"; H5869 עַיִן "an eye (literally or…" | H5869 עַיִן "an eye (literally or…" |
 |  | بگشا | H6491 | H6491 |
 |  | تا |  |  |
 |  | از |  |  |
 |  | نان | H3899 | H3899 |
-| ✱ | سیر | H7646 שָׂבַע "to sate…"; H3899 לֶחֶם "food (for man or beast)…" | [سیر شوی] H7646 שָׂבַע "to sate…" |
-| ✱ | شوی | H7646 שָׂבַע "to sate…" | [سیر شوی] H7646 שָׂבַע "to sate…" |
+|  | سیر | [سیر شوی] H7646 | [سیر شوی] H7646 |
+|  | شوی | [سیر شوی] H7646 | [سیر شوی] H7646 |
 |  | . |  |  |
 
-### Proverbs 20:14: 1 word(s) changed
+### Proverbs 20:14: 2 word(s) changed
 
-Reply line 15.
+Reply line 15. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: רַע רַע יֹאמַר הַ/קּוֹנֶה וְ/אֹזֵל ל/וֹ אָז יִתְהַלָּל
 
@@ -515,18 +441,18 @@ Original words:
 |  | است |  |  |
 |  | » |  |  |
 |  | ، |  |  |
-|  | آنگاه | H227 | H227 |
+| ✱ | آنگاه | Hc "and"; H227 אָז "at that time or place…" | H227 אָז "at that time or place…" |
 |  | می‌رود | H235 | H235 |
 |  | و | Hc | Hc |
-|  | به |  |  |
-| ✱ | خرید | H1984 הָלַל "to be clear (orig. of sound…" |  |
+| ✱ | به | Hl "to" |  |
+|  | خرید |  |  |
 |  | خویش |  |  |
 |  | می‌بالد | H1984 | H1984 |
 |  | ! |  |  |
 
-### Proverbs 20:15: 5 word(s) changed
+### Proverbs 20:15: 2 word(s) changed
 
-Reply line 16.
+Reply line 16. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: יֵשׁ זָהָב וְ/רָב פְּנִינִים וּ/כְלִי יְקָר שִׂפְתֵי דָעַת
 
@@ -545,12 +471,12 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 |  | طلا | H2091 | H2091 |
-| ✱ | یافت |  | [یافت می‌شود] H3426 יֵשׁ "there is or are (or any other…" |
+| ✱ | یافت | H3426 יֵשׁ "there is or are (or any other…" | [یافت می‌شود] H3426 יֵשׁ "there is or are (or any other…" |
 | ✱ | می‌شود |  | [یافت می‌شود] H3426 יֵשׁ "there is or are (or any other…" |
 |  | و | Hc | Hc |
-| ✱ | یاقوت | [یاقوت بسیار] H6443 פָּנִין "probably a pearl (as round)" | H6443 פָּנִין "probably a pearl (as round)" |
-| ✱ | بسیار | [یاقوت بسیار] H6443 פָּנִין "probably a pearl (as round)" | H7230 רֹב "abundance (in any respect)" |
-| ✱ | است | H3426 יֵשׁ "there is or are (or any other…" |  |
+|  | یاقوت | H6443 | H6443 |
+|  | بسیار | H7230 | H7230 |
+|  | است |  |  |
 |  | ، |  |  |
 |  | اما | Hc | Hc |
 |  | لبهایی | H8193 | H8193 |

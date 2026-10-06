@@ -108,7 +108,7 @@ Persian entries and current tags:
 ### Lamentations 3:24
 
 Original: חֶלְקִ/י יְהוָה אָמְרָה נַפְשִׁ/י עַל כֵּן אוֹחִיל ל/וֹ
-Persian: جان من می‌گوید:« خداوند نصیب من است، پس بر او امید خواهم_بست.»
+Persian: جان من می‌گوید:« خداوند نصیب من است، پس بر او امید خواهم بست.»
 
 Original words:
 - o1: חֶלְקִ/י = H2506 חֵלֶק "properly, smoothness (of the tongue)…" [HNcmsc/Sp1cs]
@@ -131,10 +131,10 @@ Persian entries and current tags:
 - p8: من
 - p9: است
 - p10: ،
-- p11: پس  → H5921 H3651
+- p11: پس  → H3651
 - p12: بر  → H5921
 - p13: او
-- p14: امید خواهم_بست  → H3176
+- p14: امید خواهم بست  → H3176
 - p15: .
 - p16: »
 
@@ -159,7 +159,7 @@ Persian entries and current tags:
 - p6: ،
 - p7: و
 - p8: برای  → Hl
-- p9: هر
+- p9: هر  → H5315
 - p10: که
 - p11: او
 - p12: را
@@ -187,7 +187,7 @@ Persian entries and current tags:
 - p6: خداوند  → H3068
 - p7: را
 - p8: انتظار
-- p9: کشیدن
+- p9: کشیدن  → H1748
 - p10: ؛
 
 ### Lamentations 3:27
@@ -240,7 +240,7 @@ Persian entries and current tags:
 - p9: یوغ  → H5190
 - p10: بر  → H5921
 - p11: او
-- p12: نهاده
+- p12: نهاده  → H5190
 - p13: می‌شود
 - p14: ؛
 
@@ -285,16 +285,16 @@ Original words:
 - o5: בְּ/חֶרְפָּה = Hb "in" + H2781 חֶרְפָּה "contumely, disgrace, the pudenda" [HR/Ncfsa]
 
 Persian entries and current tags:
-- p1: بگذار
-- p2: رخسار
+- p1: بگذار  → H5414
+- p2: رخسار  → H3895
 - p3: خود
 - p4: را
 - p5: به  → Hl
-- p6: سیلی‌زنندگان
+- p6: سیلی‌زنندگان  → H5221
 - p7: بسپارد
 - p8: ،
 - p9: و
-- p10: از
+- p10: از  → Hb
 - p11: رسوایی  → H2781
 - p12: سیر شود  → H7646
 - p13: .
@@ -314,9 +314,9 @@ Original words:
 Persian entries and current tags:
 - p1: زیرا  → H3588
 - p2: خداوند  → H136
-- p3: آدمی
+- p3: آدمی  → H3808
 - p4: را
-- p5: تا
+- p5: تا  → Hl
 - p6: به
 - p7: ابد  → H5769
 - p8: ترک  → H2186
@@ -326,7 +326,7 @@ Persian entries and current tags:
 ### Lamentations 3:32
 
 Original: כִּי אִם הוֹגָה וְ/רִחַם כְּ/רֹב חסד/ו
-Persian: بلکه هرچند کسی را محزون سازد، بر حسب کثرت محبتش رحم خواهد_کرد؛
+Persian: بلکه هرچند کسی را محزون سازد، بر حسب کثرت محبتش رحم خواهد کرد؛
 
 Original words:
 - o1: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
@@ -346,8 +346,8 @@ Persian entries and current tags:
 - p7: بر
 - p8: حسب  → Hk
 - p9: کثرت  → H7230
-- p10: محبتش  → H7355 H2617
-- p11: رحم خواهد_کرد  → H7355
+- p10: محبتش  → H2617
+- p11: رحم خواهد کرد  → H7355
 - p12: ؛
 
 ### Lamentations 3:33
@@ -366,7 +366,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: زیرا  → H3588
-- p2: از  → Hm H3820
+- p2: از  → Hm
 - p3: دل  → H3820
 - p4: نمی‌خواهد آدمی  → H3808
 - p5: را
@@ -395,9 +395,10 @@ Persian entries and current tags:
 - p2: زمین  → H776
 - p3: را
 - p4: جملگی  → H3605
-- p5: زیر پا  → H8478 H7272
-- p6: لِه کردن  → H1792
-- p7: ،
+- p5: زیر  → H8478 H7272
+- p6: پا  → H7272
+- p7: لِه کردن  → H1792
+- p8: ،
 
 ### Lamentations 3:35
 
@@ -416,7 +417,7 @@ Persian entries and current tags:
 - p1: در  → H5048
 - p2: حضور  → H6440
 - p3: آن
-- p4: متعال  → H5186 H5945
+- p4: متعال  → H5945
 - p5: حقِ  → H4941
 - p6: انسانی  → H1397
 - p7: را
@@ -454,7 +455,7 @@ Persian entries and current tags:
 ### Lamentations 3:37
 
 Original: מִי זֶה אָמַר וַ/תֶּהִי אֲדֹנָ/י לֹא צִוָּה
-Persian: کیست که سخنی بگوید و واقع شود، اگر خداوندگار بدان امر نکرده_باشد؟
+Persian: کیست که سخنی بگوید و واقع شود، اگر خداوندگار بدان امر نکرده باشد؟
 
 Original words:
 - o1: מִי = H4310 מִי "who? (occasionally, by a peculiar idiom…" [HTi]
@@ -468,18 +469,17 @@ Original words:
 Persian entries and current tags:
 - p1: کیست  → H4310
 - p2: که
-- p3: سخنی
+- p3: سخنی  → H2088
 - p4: بگوید  → H559
 - p5: و  → Hc
-- p6: واقع
-- p7: شود
-- p8: ،
-- p9: اگر  → H3808
-- p10: خداوندگار  → H136
-- p11: بدان
-- p12: امر  → H6680
-- p13: نکرده_باشد  → H3808
-- p14: ؟
+- p6: واقع شود  → H1961
+- p7: ،
+- p8: اگر  → H3808
+- p9: خداوندگار  → H136
+- p10: بدان
+- p11: امر  → H6680
+- p12: نکرده باشد  → H3808
+- p13: ؟
 
 ### Lamentations 3:38
 
@@ -504,10 +504,10 @@ Persian entries and current tags:
 - p7: ،
 - p8: که
 - p9: هم
-- p10: مصیبت  → H7451 H2896
+- p10: مصیبت  → H7451
 - p11: و  → Hc
 - p12: هم
-- p13: خوشی  → H7451 H2896
+- p13: خوشی  → H2896
 - p14: صادر می‌شود  → H3318
 - p15: ؟
 
@@ -541,10 +541,9 @@ Persian entries and current tags:
 - p13: که
 - p14: به
 - p15: سبب  → H5921
-- p16: گناهانش  → H2399
-- p17: مکافات  → H596 H2399
-- p18: می‌بیند
-- p19: ؟
+- p16: گناهانش مکافات  → H2399
+- p17: می‌بیند
+- p18: ؟
 
 ### Lamentations 3:40
 
@@ -561,7 +560,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: بیایید
-- p2: تا  → H2664
+- p2: تا
 - p3: راههای  → H1870
 - p4: خویش
 - p5: را
@@ -569,7 +568,7 @@ Persian entries and current tags:
 - p7: و  → Hc
 - p8: آنها
 - p9: را
-- p10: بیازماییم  → H2713
+- p10: بیازماییم
 - p11: ؛
 - p12: بیایید
 - p13: تا  → H5704
@@ -595,19 +594,19 @@ Original words:
 
 Persian entries and current tags:
 - p1: بیایید
-- p2: تا  → H5375
+- p2: تا
 - p3: دلها  → H3824
 - p4: و
 - p5: دستانمان  → H3709
 - p6: را
-- p7: به  → H413
-- p8: سوی
+- p7: به
+- p8: سوی  → H413
 - p9: خدایی  → H410
 - p10: که
 - p11: در  → Hb
 - p12: آسمان  → H8064
 - p13: است
-- p14: برافراشته  → H5375
+- p14: برافراشته
 - p15: ،
 - p16: بگوییم
 - p17: :
@@ -630,13 +629,12 @@ Persian entries and current tags:
 - p2: ما  → H5168
 - p3: گناه کردیم  → H6586
 - p4: و  → Hc
-- p5: عِصیان  → H4784 H5545
-- p6: ورزیدیم  → H4784
-- p7: ،
-- p8: و
-- p9: تو  → H859
-- p10: نیامرزیدی  → H5545
-- p11: .
+- p5: عِصیان ورزیدیم  → H4784
+- p6: ،
+- p7: و
+- p8: تو  → H859
+- p9: نیامرزیدی  → H3808 H5545
+- p10: .
 
 ### Lamentations 3:43
 
@@ -661,12 +659,11 @@ Persian entries and current tags:
 - p7: و  → Hc
 - p8: ما
 - p9: را
-- p10: تعقیب کرده  → H5526 H7291 H2550
+- p10: تعقیب کرده  → H7291
 - p11: ،
 - p12: بی‌ترحم  → H2550
-- p13: هلاک
-- p14: نمودی
-- p15: ؛
+- p13: هلاک نمودی  → H2026
+- p14: ؛
 
 ### Lamentations 3:44
 
@@ -686,7 +683,7 @@ Persian entries and current tags:
 - p3: به  → Hb
 - p4: ابر  → H6051
 - p5: مستور ساختی  → H5526
-- p6: تا
+- p6: تا  → Hl
 - p7: هیچ
 - p8: دعایی  → H8605
 - p9: به

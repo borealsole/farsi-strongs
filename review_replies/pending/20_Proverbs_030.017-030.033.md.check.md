@@ -1,12 +1,14 @@
 # Check of 20_Proverbs_030.017-030.033.md
 
-Generated 2026-10-05 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
+Generated 2026-10-06 by `python review_replies.py check`. Rows marked ✱ change. Edit or delete lines in the reply to change what is applied, then run check again.
 
-## 16 verse(s) with changes
+No change from the current tags (will be skipped): Proverbs 30:22, Proverbs 30:25, Proverbs 30:26, Proverbs 30:28.
+
+## 12 verse(s) with changes
 
 ### Proverbs 30:17: 7 word(s) changed
 
-Reply line 2.
+Reply line 2. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: עַיִן תִּלְעַג לְ/אָב וְ/תָבוּז לִ/יקֲּהַת אֵם יִקְּרוּ/הָ עֹרְבֵי נַחַל וְ/יֹאכְלוּ/הָ בְנֵי נָשֶׁר
 
@@ -36,8 +38,8 @@ Original words:
 |  | تمسخر | [تمسخر کند] H3932 | [تمسخر کند] H3932 |
 |  | کند | [تمسخر کند] H3932 | [تمسخر کند] H3932 |
 |  | و | Hc | Hc |
-| ✱ | اطاعت |  | H3349 יִקָּהָה "obedience" |
-|  | از |  |  |
+| ✱ | اطاعت | H936 בּוּז "to disrespect" | H3349 יִקָּהָה "obedience" |
+| ✱ | از | Hl "to" |  |
 |  | مادر | H517 | H517 |
 |  | را |  |  |
 | ✱ | خوار | H3349 יִקָּהָה "obedience" | [خوار شمارد] H936 בּוּז "to disrespect" |
@@ -48,18 +50,18 @@ Original words:
 |  | آن |  |  |
 |  | را |  |  |
 | ✱ | به |  | [به در می‌آورند] H5365 נָקַר "to bore (penetrate, quarry)" |
-| ✱ | در | [در می‌آورند] H5365 נָקַר "to bore (penetrate, quarry)" | [به در می‌آورند] H5365 נָקַר "to bore (penetrate, quarry)" |
-| ✱ | می‌آورند | [در می‌آورند] H5365 נָקַר "to bore (penetrate, quarry)" | [به در می‌آورند] H5365 נָקַר "to bore (penetrate, quarry)" |
+| ✱ | در |  | [به در می‌آورند] H5365 נָקַר "to bore (penetrate, quarry)" |
+| ✱ | می‌آورند |  | [به در می‌آورند] H5365 נָקַר "to bore (penetrate, quarry)" |
 |  | و | Hc | Hc |
-| ✱ | کرکسها | H5404 נֶשֶׁר "the eagle (or other large…" | H1121 בֵּן "a son (as a builder of the…"; H5404 נֶשֶׁר "the eagle (or other large…" |
+|  | کرکسها | H1121 H5404 | H1121 H5404 |
 |  | آن |  |  |
 |  | را |  |  |
 |  | می‌خورند | H398 | H398 |
 |  | . |  |  |
 
-### Proverbs 30:18: 3 word(s) changed
+### Proverbs 30:18: 4 word(s) changed
 
-Reply line 3.
+Reply line 3. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: שְׁלֹשָׁה הֵמָּה נִפְלְאוּ מִמֶּ/נִּי ו/ארבע לֹא יְדַעְתִּי/ם
 
@@ -80,7 +82,7 @@ Original words:
 |  | سه | H7969 | H7969 |
 |  | چیز |  |  |
 | ✱ | مرا |  | H4480 מִן "properly, a part of…" |
-|  | بس |  |  |
+| ✱ | بس | H1992 הֵם "they (only used when emphatic)" |  |
 |  | شگفت | [شگفت می‌نماید] H6381 | [شگفت می‌نماید] H6381 |
 |  | می‌نماید | [شگفت می‌نماید] H6381 | [شگفت می‌نماید] H6381 |
 |  | ، |  |  |
@@ -90,12 +92,12 @@ Original words:
 |  | که |  |  |
 |  | آنها |  |  |
 |  | را |  |  |
-| ✱ | درنمی‌یابم |  | H3808 לֹא "not (the simple or abs.…"; H3045 יָדַע "to know (properly…" |
+| ✱ | درنمی‌یابم | H3045 יָדַע "to know (properly…" | H3808 לֹא "not (the simple or abs.…"; H3045 יָדַע "to know (properly…" |
 |  | : |  |  |
 
-### Proverbs 30:19: 4 word(s) changed
+### Proverbs 30:19: 2 word(s) changed
 
-Reply line 4.
+Reply line 4. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: דֶּרֶךְ הַ/נֶּשֶׁר בַּ/שָּׁמַיִם דֶּרֶךְ נָחָשׁ עֲלֵי צוּר דֶּרֶךְ אֳנִיָּה בְ/לֶב יָם וְ/דֶרֶךְ גֶּבֶר בְּ/עַלְמָה
 
@@ -121,7 +123,7 @@ Original words:
 | --- | --- | --- | --- |
 |  | راهِ | H1870 | H1870 |
 |  | عقاب | H5404 | H5404 |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | آسمان | H8064 | H8064 |
 |  | ، |  |  |
 |  | راهِ | H1870 | H1870 |
@@ -131,7 +133,7 @@ Original words:
 |  | ، |  |  |
 |  | راهِ | H1870 | H1870 |
 |  | کشتی | H591 | H591 |
-| ✱ | در |  | Hb "in" |
+|  | در | Hb | Hb |
 |  | پهنۀ | H3820 | H3820 |
 |  | دریا | H3220 | H3220 |
 |  | ، |  |  |
@@ -143,9 +145,9 @@ Original words:
 | ✱ | جوان | H5959 עַלְמָה "a lass (as veiled or private)" | [دختر جوان] H5959 עַלְמָה "a lass (as veiled or private)" |
 |  | . |  |  |
 
-### Proverbs 30:20: 3 word(s) changed
+### Proverbs 30:20: 2 word(s) changed
 
-Reply line 5.
+Reply line 5. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: כֵּן דֶּרֶךְ אִשָּׁה מְנָאָפֶת אָכְלָה וּ/מָחֲתָה פִי/הָ וְ/אָמְרָה לֹא פָעַלְתִּי אָוֶן
 
@@ -185,13 +187,13 @@ Original words:
 |  | : |  |  |
 |  | ”کارِ | [”کارِ بدی] H205 | [”کارِ بدی] H205 |
 |  | بدی | [”کارِ بدی] H205 | [”کارِ بدی] H205 |
-| ✱ | نکردم | H3808 לֹא "not (the simple or abs.…" | H3808 לֹא "not (the simple or abs.…"; H6466 פָּעַל "to do or make (systematically…" |
+|  | نکردم | H3808 H6466 | H3808 H6466 |
 |  | . |  |  |
 |  | “ |  |  |
 
-### Proverbs 30:21: 6 word(s) changed
+### Proverbs 30:21: 5 word(s) changed
 
-Reply line 6.
+Reply line 6. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: תַּחַת שָׁלוֹשׁ רָגְזָה אֶרֶץ וְ/תַחַת אַרְבַּע לֹא תוּכַל שְׂאֵת
 
@@ -225,44 +227,13 @@ Original words:
 |  | است |  |  |
 |  | که |  |  |
 | ✱ | تاب |  | H3201 יָכֹל "to be able, literally (can…" |
-| ✱ | تحملشان |  | H5375 נָשָׂא "to lift…" |
+|  | تحملشان | H5375 | H5375 |
 |  | ندارد | H3808 H3201 | H3808 H3201 |
 |  | : |  |  |
 
-### Proverbs 30:22: 2 word(s) changed
+### Proverbs 30:23: 5 word(s) changed
 
-Reply line 7.
-
-Original: תַּחַת עֶבֶד כִּי יִמְלוֹךְ וְ/נָבָל כִּי יִשְׂבַּע לָחֶם
-
-Persian: غلامی که پادشاه شود، نادانی که سیر باشد،
-
-Original words:
-- o1: תַּחַת = H8478 תַּחַת "the bottom (as depressed)…" [HR]
-- o2: עֶבֶד = H5650 עֶבֶד "a servant" [HNcmsa]
-- o3: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
-- o4: יִמְלוֹךְ = H4427 מָלַךְ "to reign; inceptively, to ascend the throne…" [HVqi3ms]
-- o5: וְ/נָבָל = Hc "and" + H5036 נָבָל "stupid; wicked (especially impious)" [HC/Aamsa]
-- o6: כִּי = H3588 כִּי "by implication) very widely used as a relative…" [HC]
-- o7: יִשְׂבַּע = H7646 שָׂבַע "to sate…" [HVqi3ms]
-- o8: לָחֶם = H3899 לֶחֶם "food (for man or beast), especially bread…" [HNcbsa]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | غلامی | H5650 | H5650 |
-| ✱ | که |  | H3588 כִּי "by implication) very widely…" |
-|  | پادشاه | [پادشاه شود] H4427 | [پادشاه شود] H4427 |
-|  | شود | [پادشاه شود] H4427 | [پادشاه شود] H4427 |
-|  | ، |  |  |
-|  | نادانی | H5036 | H5036 |
-| ✱ | که |  | H3588 כִּי "by implication) very widely…" |
-|  | سیر | [سیر باشد] H7646 | [سیر باشد] H7646 |
-|  | باشد | [سیر باشد] H7646 | [سیر باشد] H7646 |
-|  | ، |  |  |
-
-### Proverbs 30:23: 6 word(s) changed
-
-Reply line 8.
+Reply line 8. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: תַּחַת שְׂנוּאָה כִּי תִבָּעֵל וְ/שִׁפְחָה כִּי תִירַשׁ גְּבִרְתָּ/הּ
 
@@ -283,89 +254,24 @@ Original words:
 | ✱ | زن | H8130 שָׂנֵא "to hate (personally)" | [زن آکنده از نفرت] H8130 שָׂנֵא "to hate (personally)" |
 | ✱ | آکنده |  | [زن آکنده از نفرت] H8130 שָׂנֵא "to hate (personally)" |
 | ✱ | از |  | [زن آکنده از نفرت] H8130 שָׂנֵא "to hate (personally)" |
-| ✱ | نفرت | H8130 שָׂנֵא "to hate (personally)"; H8198 שִׁפְחָה "a female slave (as a member…" | [زن آکنده از نفرت] H8130 שָׂנֵא "to hate (personally)" |
-| ✱ | که |  | H3588 כִּי "by implication) very widely…" |
+| ✱ | نفرت | H8130 שָׂנֵא "to hate (personally)" | [زن آکنده از نفرت] H8130 שָׂנֵא "to hate (personally)" |
+|  | که | H3588 | H3588 |
 |  | ازدواج | [ازدواج کند] H1166 | [ازدواج کند] H1166 |
 |  | کند | [ازدواج کند] H1166 | [ازدواج کند] H1166 |
 |  | ، |  |  |
 |  | و | Hc | Hc |
 |  | کنیزی | H8198 | H8198 |
-| ✱ | که |  | H3588 כִּי "by implication) very widely…" |
+|  | که | H3588 | H3588 |
 |  | جای | H3423 | H3423 |
 |  | خاتون | H1404 | H1404 |
 |  | خویش |  |  |
 |  | را |  |  |
-|  | بگیرد | H3423 | H3423 |
+| ✱ | بگیرد |  | H3423 יָרַשׁ "to occupy (by driving out…" |
 |  | . |  |  |
 
-### Proverbs 30:25: 1 word(s) changed
+### Proverbs 30:27: 2 word(s) changed
 
-Reply line 9.
-
-Original: הַ/נְּמָלִים עַם לֹא עָז וַ/יָּכִינוּ בַ/קַּיִץ לַחְמָ/ם
-
-Persian: مورچگان آفریده‌هایی ناتوانند، اما خوراک خویش را به تابستان فراهم می‌کنند؛
-
-Original words:
-- o1: הַ/נְּמָלִים = Hd "the" + H5244 נְמָלָה "an ant (probably from its almost bisected form)" [HTd/Ncfpa]
-- o2: עַם = H5971 עַם "a people (as a congregated unit)…" [HNcmsa]
-- o3: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
-- o4: עָז = H5794 עַז "strong, vehement, harsh" [HAamsa]
-- o5: וַ/יָּכִינוּ = Hc "and" + H3559 כּוּן "properly, to be erect (i.e. stand perpendicular)…" [HC/Vhw3mp]
-- o6: בַ/קַּיִץ = Hb "in" + H7019 קַיִץ "harvest (as the crop)…" [HRd/Ncmsa]
-- o7: לַחְמָ/ם = H3899 לֶחֶם "food (for man or beast), especially bread…" [HNcbsc/Sp3mp]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | مورچگان | H5244 | H5244 |
-| ✱ | آفریده‌هایی |  | H5971 עַם "a people (as a congregated…" |
-|  | ناتوانند | H3808 H5794 | H3808 H5794 |
-|  | ، |  |  |
-|  | اما | Hc | Hc |
-|  | خوراک | H3899 | H3899 |
-|  | خویش |  |  |
-|  | را |  |  |
-|  | به | Hb | Hb |
-|  | تابستان | H7019 | H7019 |
-|  | فراهم | [فراهم می‌کنند] H3559 | [فراهم می‌کنند] H3559 |
-|  | می‌کنند | [فراهم می‌کنند] H3559 | [فراهم می‌کنند] H3559 |
-|  | ؛ |  |  |
-
-### Proverbs 30:26: 1 word(s) changed
-
-Reply line 10.
-
-Original: שְׁפַנִּים עַם לֹא עָצוּם וַ/יָּשִׂימוּ בַ/סֶּלַע בֵּיתָ/ם
-
-Persian: گورکنان آفریده‌هایی ناتوانند، اما خانۀ خود را در پرتگاهها می‌سازند؛
-
-Original words:
-- o1: שְׁפַנִּים = H8227 שָׁפָן "a species of rockrabbit (from its hiding)…" [HNcmpa]
-- o2: עַם = H5971 עַם "a people (as a congregated unit)…" [HNcmsa]
-- o3: לֹא = H3808 לֹא "not (the simple or abs. negation)…" [HTn]
-- o4: עָצוּם = H6099 עָצוּם "powerful (specifically, a paw)…" [HAamsa]
-- o5: וַ/יָּשִׂימוּ = Hc "and" + H7760 שׂוּם "to put (used in a great variety of applications…" [HC/Vqw3mp]
-- o6: בַ/סֶּלַע = Hb "in" + H5553 סֶלַע "a craggy rock…" [HRd/Ncmsa]
-- o7: בֵּיתָ/ם = H1004 בַּיִת "a house (in the greatest variation of…" [HNcmsc/Sp3mp]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | گورکنان | H8227 | H8227 |
-| ✱ | آفریده‌هایی |  | H5971 עַם "a people (as a congregated…" |
-|  | ناتوانند | H3808 H6099 | H3808 H6099 |
-|  | ، |  |  |
-|  | اما | Hc | Hc |
-|  | خانۀ | H1004 | H1004 |
-|  | خود |  |  |
-|  | را |  |  |
-|  | در | Hb | Hb |
-|  | پرتگاهها | H5553 | H5553 |
-|  | می‌سازند | H7760 | H7760 |
-|  | ؛ |  |  |
-
-### Proverbs 30:27: 5 word(s) changed
-
-Reply line 11.
+Reply line 11. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: מֶלֶךְ אֵין לָ/אַרְבֶּה וַ/יֵּצֵא חֹצֵץ כֻּלּ/וֹ
 
@@ -386,49 +292,16 @@ Original words:
 |  | پادشاهی | H4428 | H4428 |
 |  | نیست | H369 | H369 |
 |  | ، |  |  |
-| ✱ | اما |  | Hc "and" |
-| ✱ | گروه |  | [گروه گروه] H2686 חָצַץ "properly, to chop into…" |
-| ✱ | گروه |  | [گروه گروه] H2686 חָצַץ "properly, to chop into…" |
+|  | اما | Hc | Hc |
+|  | گروه | [گروه گروه] H2686 | [گروه گروه] H2686 |
+|  | گروه | [گروه گروه] H2686 | [گروه گروه] H2686 |
 | ✱ | پیش |  | [پیش می‌روند] H3318 יָצָא "to go (causatively…" |
 | ✱ | می‌روند | H3318 יָצָא "to go (causatively…" | [پیش می‌روند] H3318 יָצָא "to go (causatively…" |
 |  | ؛ |  |  |
 
-### Proverbs 30:28: 1 word(s) changed
+### Proverbs 30:29: 5 word(s) changed
 
-Reply line 12.
-
-Original: שְׂמָמִית בְּ/יָדַיִם תְּתַפֵּשׂ וְ/הִיא בְּ/הֵיכְלֵי מֶלֶךְ
-
-Persian: مارمولک را با دست توان گرفت، اما در قصرهای شاهان یافت می‌شود.
-
-Original words:
-- o1: שְׂמָמִית = H8079 שְׂמָמִית "a lizard (from the superstition of its…" [HNcfsa]
-- o2: בְּ/יָדַיִם = Hb "in" + H3027 יָד "a hand (the open one (indicating power, means…" [HR/Ncbda]
-- o3: תְּתַפֵּשׂ = H8610 תָּפַשׂ "to manipulate, i.e. seize…" [HVpi2ms]
-- o4: וְ/הִיא = Hc "and" + H1931 הוּא "he (she or it)…" [HC/Pp3fs]
-- o5: בְּ/הֵיכְלֵי = Hb "in" + H1964 הֵיכָל "a large public building…" [HR/Ncmpc]
-- o6: מֶלֶךְ = H4428 מֶלֶךְ "a king" [HNcmsa]
-
-| | Persian | Now | Proposed |
-| --- | --- | --- | --- |
-|  | مارمولک | H8079 | H8079 |
-|  | را |  |  |
-|  | با | Hb | Hb |
-|  | دست | H3027 | H3027 |
-|  | توان | [توان گرفت] H8610 | [توان گرفت] H8610 |
-|  | گرفت | [توان گرفت] H8610 | [توان گرفت] H8610 |
-|  | ، |  |  |
-|  | اما | Hc | Hc |
-|  | در | Hb | Hb |
-|  | قصرهای | H1964 | H1964 |
-| ✱ | شاهان | H1964 הֵיכָל "a large public building…"; H4428 מֶלֶךְ "a king" | H4428 מֶלֶךְ "a king" |
-|  | یافت |  |  |
-|  | می‌شود |  |  |
-|  | . |  |  |
-
-### Proverbs 30:29: 7 word(s) changed
-
-Reply line 13.
+Reply line 13. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: שְׁלֹשָׁה הֵמָּה מֵיטִיבֵי צָעַד וְ/אַרְבָּעָה מֵיטִבֵי לָכֶת
 
@@ -449,7 +322,7 @@ Original words:
 |  | سه | H7969 | H7969 |
 |  | چیز |  |  |
 |  | است |  |  |
-| ✱ | که | H3190 יָטַב "to be (causative) make well…" |  |
+|  | که |  |  |
 |  | با |  |  |
 | ✱ | وقار | H6806 צַעַד "a pace or regular step" | H3190 יָטַב "to be (causative) make well…" |
 | ✱ | راه |  | [راه می‌رود] H6806 צַעַד "a pace or regular step" |
@@ -458,7 +331,7 @@ Original words:
 | ✱ | بلکه |  | Hc "and" |
 |  | چهار | H702 | H702 |
 |  | چیز |  |  |
-| ✱ | که | H3190 יָטַב "to be (causative) make well…" |  |
+|  | که |  |  |
 |  | با |  |  |
 | ✱ | متانت | H6806 צַעַד "a pace or regular step" | H3190 יָטַב "to be (causative) make well…" |
 |  | می‌خرامد | H3212 | H3212 |
@@ -466,7 +339,7 @@ Original words:
 
 ### Proverbs 30:30: 7 word(s) changed
 
-Reply line 14.
+Reply line 14. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: לַיִשׁ גִּבּוֹר בַּ/בְּהֵמָה וְ/לֹא יָשׁוּב מִ/פְּנֵי כֹל
 
@@ -490,17 +363,17 @@ Original words:
 |  | تواناست | H1368 | H1368 |
 |  | ، |  |  |
 |  | و | Hc | Hc |
-| ✱ | در |  | [در برابر] Hm "from"; H6440 פָּנִים "the face (as the part that…" |
+| ✱ | در | Hb "in"; Hm "from" | [در برابر] Hm "from"; H6440 פָּנִים "the face (as the part that…" |
 | ✱ | برابر | H6440 פָּנִים "the face (as the part that…" | [در برابر] Hm "from"; H6440 פָּנִים "the face (as the part that…" |
-| ✱ | هیچ |  | [هیچ چیز] H3605 כֹּל "properly, the whole…" |
+| ✱ | هیچ | H3808 לֹא "not (the simple or abs.…"; H3605 כֹּל "properly, the whole…" | [هیچ چیز] H3605 כֹּל "properly, the whole…" |
 | ✱ | چیز | H3605 כֹּל "properly, the whole…" | [هیچ چیز] H3605 כֹּל "properly, the whole…" |
 | ✱ | واپس | H7725 שׁוּב "to turn back (hence…" | [واپس نمی‌نشیند] H3808 לֹא "not (the simple or abs.…"; H7725 שׁוּב "to turn back (hence…" |
-| ✱ | نمی‌نشیند | H3808 לֹא "not (the simple or abs.…" | [واپس نمی‌نشیند] H3808 לֹא "not (the simple or abs.…"; H7725 שׁוּב "to turn back (hence…" |
+| ✱ | نمی‌نشیند |  | [واپس نمی‌نشیند] H3808 לֹא "not (the simple or abs.…"; H7725 שׁוּב "to turn back (hence…" |
 |  | ؛ |  |  |
 
-### Proverbs 30:31: 4 word(s) changed
+### Proverbs 30:31: 2 word(s) changed
 
-Reply line 15.
+Reply line 15. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: זַרְזִיר מָתְנַיִם אוֹ תָיִשׁ וּ/מֶלֶךְ אַלְקוּם עִמּ/וֹ
 
@@ -518,15 +391,15 @@ Original words:
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
 | ✱ | خروسِ | H4975 מֹתֶן "properly…" | H2223 זַרְזִיר "properly, tightly girt…" |
-| ✱ | خرامان |  | H4975 מֹתֶן "properly…" |
+| ✱ | خرامان | H176 אוֹ "desire (and so probably in…" | H4975 מֹתֶן "properly…" |
 |  | ، |  |  |
 |  | بُزِ | [بُزِ نر] H8495 | [بُزِ نر] H8495 |
 |  | نر | [بُزِ نر] H8495 | [بُزِ نر] H8495 |
 |  | ، |  |  |
 |  | و | Hc | Hc |
 |  | شاهی | H4428 | H4428 |
-| ✱ | که | [که سپاهیانش] H510 אַלְקוּם "a non-rising (i.e.…" |  |
-| ✱ | سپاهیانش | [که سپاهیانش] H510 אַלְקוּם "a non-rising (i.e.…" | H510 אַלְקוּם "a non-rising (i.e.…" |
+|  | که |  |  |
+|  | سپاهیانش | H510 | H510 |
 |  | همراه | H5973 | H5973 |
 |  | او |  |  |
 |  | باشند |  |  |
@@ -534,7 +407,7 @@ Original words:
 
 ### Proverbs 30:32: 5 word(s) changed
 
-Reply line 16.
+Reply line 16. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: אִם נָבַלְתָּ בְ/הִתְנַשֵּׂא וְ/אִם זַמּוֹתָ יָד לְ/פֶה
 
@@ -572,9 +445,9 @@ Original words:
 |  | بگذار |  |  |
 |  | ! |  |  |
 
-### Proverbs 30:33: 7 word(s) changed
+### Proverbs 30:33: 3 word(s) changed
 
-Reply line 17.
+Reply line 17. NMV_strongs.json already uses this reply (unchecked); "Now" shows the machine tagging instead.
 
 Original: כִּי מִיץ חָלָב יוֹצִיא חֶמְאָה וּ/מִיץ אַף יוֹצִיא דָם וּ/מִיץ אַפַּיִם יוֹצִיא רִיב
 
@@ -597,12 +470,12 @@ Original words:
 
 | | Persian | Now | Proposed |
 | --- | --- | --- | --- |
-| ✱ | زیرا | [زیرا از] H3588 כִּי "by implication) very widely…" | H3588 כִּי "by implication) very widely…" |
-| ✱ | از | [زیرا از] H3588 כִּי "by implication) very widely…" |  |
+|  | زیرا | H3588 | H3588 |
+|  | از |  |  |
 |  | فشردن | H4330 | H4330 |
 |  | شیر | H2461 | H2461 |
 |  | ، |  |  |
-| ✱ | کره |  | H2529 חֶמְאָה "curdled milk or cheese" |
+|  | کره | H2529 | H2529 |
 | ✱ | به |  | [به دست می‌آید] H3318 יָצָא "to go (causatively…" |
 | ✱ | دست |  | [به دست می‌آید] H3318 יָצָא "to go (causatively…" |
 | ✱ | می‌آید |  | [به دست می‌آید] H3318 יָצָא "to go (causatively…" |
@@ -614,7 +487,7 @@ Original words:
 |  | خون | H1818 | H1818 |
 |  | ، |  |  |
 |  | و | Hc | Hc |
-| ✱ | از | H3588 כִּי "by implication) very widely…" |  |
+|  | از |  |  |
 |  | فشردن | H4330 | H4330 |
 |  | خشم | H639 | H639 |
 |  | ، |  |  |

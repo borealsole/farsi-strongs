@@ -96,7 +96,7 @@ Persian entries and current tags:
 - p2: ،
 - p3: دیمونَه  → H1776
 - p4: ،
-- p5: عَدعَداه  → H5735
+- p5: عَدعَداه  → H1776 H5735
 - p6: ،
 
 ### Joshua 15:23
@@ -151,8 +151,8 @@ Original words:
 Persian entries and current tags:
 - p1: حاصورحَدَتَه  → H2675
 - p2: ،
-- p3: قِریوت‌حِصرون  → H7152
-- p4: یعنی
+- p3: قِریوت‌حِصرون  → H7152 H2696
+- p4: یعنی  → H1931
 - p5: حاصور  → H2674
 - p6: ،
 
@@ -167,7 +167,7 @@ Original words:
 - o3: וּ/מוֹלָדָה = Hc "and" + H4137 מוֹלָדָה "Moladah, a place in Palestine" [HC/Np]
 
 Persian entries and current tags:
-- p1: اَمام  → H538
+- p1: اَمام  → H538 Hc
 - p2: ،
 - p3: شِماع  → H8090
 - p4: ،
@@ -297,12 +297,12 @@ Persian entries and current tags:
 - p10: بر
 - p11: روی
 - p12: هم
-- p13: بیست  → H6242
+- p13: بیست  → H6242 H8672
 - p14: و  → Hc
 - p15: نه  → H6242 H8672
 - p16: شهر  → H5892
 - p17: بود
-- p18: با
+- p18: با  → Hc
 - p19: روستاهای  → H2691
 - p20: آنها
 - p21: .
@@ -400,7 +400,7 @@ Persian entries and current tags:
 - p10: چهارده  → H702 H6240
 - p11: شهر  → H5892
 - p12: بود
-- p13: با
+- p13: با  → Hc
 - p14: روستاهای  → H2691
 - p15: آنها
 - p16: .
@@ -507,7 +507,7 @@ Persian entries and current tags:
 - p10: شانزده  → H8337 H6240
 - p11: شهر  → H5892
 - p12: بود
-- p13: با
+- p13: با  → Hc
 - p14: روستاهای  → H2691
 - p15: آنها
 - p16: .

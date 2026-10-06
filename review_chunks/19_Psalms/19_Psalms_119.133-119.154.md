@@ -99,7 +99,7 @@ Original words:
 Persian entries and current tags:
 - p1: گامهای  → H6471
 - p2: مرا
-- p3: در
+- p3: در  → Hb
 - p4: کلام  → H565
 - p5: خود
 - p6: استوار فرما  → H3559
@@ -107,7 +107,7 @@ Persian entries and current tags:
 - p8: تا
 - p9: هیچ  → H408 H3605
 - p10: بدی  → H205
-- p11: بر
+- p11: بر  → Hb
 - p12: من
 - p13: تسلط نیابد  → H7980
 - p14: .
@@ -153,7 +153,7 @@ Original words:
 - o6: חֻקֶּי/ךָ = H2706 חֹק "an enactment…" [HNcmpc/Sp2ms]
 
 Persian entries and current tags:
-- p1: روی  → H6440 H215
+- p1: روی  → H6440
 - p2: خود
 - p3: را  → H853
 - p4: بر  → Hb
@@ -213,7 +213,7 @@ Original words:
 - o5: מִשְׁפָּטֶי/ךָ = H4941 מִשְׁפָּט "properly…" [HNcmpc/Sp2ms]
 
 Persian entries and current tags:
-- p1: خداوندا  → H6662 H3068
+- p1: خداوندا  → H3068
 - p2: ،
 - p3: تو  → H859
 - p4: عادلی  → H6662
@@ -272,7 +272,7 @@ Persian entries and current tags:
 - p5: زیرا  → H3588
 - p6: که
 - p7: دشمنانم  → H6862
-- p8: کلام  → H7068 H1697
+- p8: کلام  → H1697
 - p9: تو
 - p10: را
 - p11: فراموش می‌کنند  → H7911
@@ -318,7 +318,7 @@ Original words:
 
 Persian entries and current tags:
 - p1: هرچند
-- p2: من
+- p2: من  → H595
 - p3: ناچیز  → H6810 H959
 - p4: و  → Hc
 - p5: حقیرم  → H959
@@ -328,9 +328,8 @@ Persian entries and current tags:
 - p9: تو
 - p10: را
 - p11: از
-- p12: یاد  → H7911
-- p13: نمی‌برم  → H3808 H7911
-- p14: .
+- p12: یاد نمی‌برم  → H7911
+- p13: .
 
 ### Psalms 119:142
 
@@ -349,7 +348,7 @@ Persian entries and current tags:
 - p2: تو
 - p3: عدالتی  → H6664
 - p4: است
-- p5: جاودانه  → H6666 H6664 H5769
+- p5: جاودانه  → H5769
 - p6: ،
 - p7: و  → Hc
 - p8: شریعت  → H8451
@@ -380,8 +379,9 @@ Persian entries and current tags:
 - p7: فرمانهای  → H4687
 - p8: تو
 - p9: لذت  → H8191
-- p10: من است  → H4672
-- p11: .
+- p10: من
+- p11: است
+- p12: .
 
 ### Psalms 119:144
 
@@ -398,22 +398,22 @@ Original words:
 Persian entries and current tags:
 - p1: شهادات  → H5715
 - p2: تو
-- p3: عدل  → H6664 H5715
+- p3: عدل  → H6664
 - p4: است
-- p5: تا ابدالآباد  → H5769
-- p6: ؛
-- p7: مرا
-- p8: فهم  → H995
-- p9: ببخشا
-- p10: تا
-- p11: زنده  → H2421
-- p12: بمانم
+- p5: تا  → Hl
+- p6: ابدالآباد  → H5769
+- p7: ؛
+- p8: مرا
+- p9: فهم  → H995
+- p10: ببخشا
+- p11: تا
+- p12: زنده بمانم  → H2421
 - p13: !
 
 ### Psalms 119:145
 
 Original: קָרָאתִי בְ/כָל לֵב עֲנֵ/נִי יְהוָה חֻקֶּי/ךָ אֶצֹּרָה
-Persian: به تمامی دل فریاد برمی‌آورم؛ خداوندا، مرا اجابت فرما، و من فرایض تو را نگاه خواهم_داشت.
+Persian: به تمامی دل فریاد برمی‌آورم؛ خداوندا، مرا اجابت فرما، و من فرایض تو را نگاه خواهم داشت.
 
 Original words:
 - o1: קָרָאתִי = H7121 קָרָא "to call out to (i.e. properly, address by name…" [HVqp1cs]
@@ -441,14 +441,13 @@ Persian entries and current tags:
 - p14: فرایض  → H2706
 - p15: تو
 - p16: را
-- p17: نگاه  → H2706 H5341
-- p18: خواهم_داشت
-- p19: .
+- p17: نگاه خواهم داشت  → H5341
+- p18: .
 
 ### Psalms 119:146
 
 Original: קְרָאתִי/ךָ הוֹשִׁיעֵ/נִי וְ/אֶשְׁמְרָה עֵדֹתֶי/ךָ
-Persian: تو را می‌خوانم؛ نجاتم دِه! و من شهادات تو را نگاه خواهم_داشت.
+Persian: تو را می‌خوانم؛ نجاتم دِه! و من شهادات تو را نگاه خواهم داشت.
 
 Original words:
 - o1: קְרָאתִי/ךָ = H7121 קָרָא "to call out to (i.e. properly, address by name…" [HVqp1cs/Sp2ms]
@@ -468,7 +467,7 @@ Persian entries and current tags:
 - p9: شهادات  → H5713
 - p10: تو
 - p11: را
-- p12: نگاه خواهم_داشت  → H8104
+- p12: نگاه خواهم داشت  → H8104
 - p13: .
 
 ### Psalms 119:147
@@ -484,19 +483,18 @@ Original words:
 - o5: יִחָלְתִּי = H3176 יָחַל "to wait; by implication, to be patient, hope" [HVpp1cs]
 
 Persian entries and current tags:
-- p1: بر
+- p1: بر  → Hb
 - p2: سپیده‌دم  → H5399
 - p3: سبقت  → H6923
 - p4: می‌جویم  → H5399
 - p5: و  → Hc
-- p6: فریاد  → H7768
-- p7: برمی‌آورم
-- p8: ؛
-- p9: بر
-- p10: کلام  → H1697
-- p11: تو
-- p12: امید بسته‌ام  → H3176
-- p13: .
+- p6: فریاد برمی‌آورم  → H7768
+- p7: ؛
+- p8: بر
+- p9: کلام  → H1697
+- p10: تو
+- p11: امید بسته‌ام  → H3176
+- p12: .
 
 ### Psalms 119:148
 
@@ -512,16 +510,15 @@ Original words:
 
 Persian entries and current tags:
 - p1: چشمانم  → H5869
-- p2: بر  → H6923
+- p2: بر
 - p3: پاسهای شب  → H821
-- p4: پیشی  → H6923
-- p5: می‌گیرد  → H821
-- p6: ،
-- p7: تا
-- p8: در  → Hb
-- p9: وعده‌ات  → H565
-- p10: تأمل کنم  → H7878
-- p11: .
+- p4: پیشی می‌گیرد  → H6923
+- p5: ،
+- p6: تا  → Hl
+- p7: در  → Hb
+- p8: وعده‌ات  → H565
+- p9: تأمل کنم  → H7878
+- p10: .
 
 ### Psalms 119:149
 
@@ -543,18 +540,17 @@ Persian entries and current tags:
 - p4: خود
 - p5: صدایم  → H6963 H8085
 - p6: را
-- p7: بشنو  → H8085 H2617
+- p7: بشنو  → H8085
 - p8: !
 - p9: بر
-- p10: طبق
+- p10: طبق  → Hk
 - p11: قوانین  → H4941
 - p12: خود
 - p13: ،
 - p14: خداوندا  → H3068
 - p15: ،
-- p16: مرا زنده  → H2421
-- p17: بدار
-- p18: !
+- p16: مرا زنده بدار  → H2421
+- p17: !
 
 ### Psalms 119:150
 
@@ -571,7 +567,7 @@ Original words:
 Persian entries and current tags:
 - p1: آنان
 - p2: که
-- p3: در  → H2154
+- p3: در
 - p4: پی  → H7291
 - p5: نقشه‌های  → H2154
 - p6: پلید
@@ -609,7 +605,7 @@ Persian entries and current tags:
 - p7: خداوند  → H3068
 - p8: ؛
 - p9: و  → Hc
-- p10: جملۀ  → H3605 H4687
+- p10: جملۀ  → H3605
 - p11: فرامین  → H4687
 - p12: تو
 - p13: راست  → H571
@@ -637,10 +633,10 @@ Persian entries and current tags:
 - p5: شهادات  → H5713
 - p6: تو
 - p7: دانسته‌ام  → H3045
-- p8: که
+- p8: که  → H3588
 - p9: آنها
 - p10: را
-- p11: جاودانه  → H5713 H5769
+- p11: جاودانه  → H5769
 - p12: بنیان نهاده‌ای  → H3245
 - p13: .
 
@@ -673,9 +669,8 @@ Persian entries and current tags:
 - p12: تو
 - p13: را
 - p14: از
-- p15: یاد  → H7911
-- p16: نبرده‌ام
-- p17: .
+- p15: یاد نبرده‌ام  → H7911
+- p16: .
 
 ### Psalms 119:154
 
@@ -690,23 +685,22 @@ Original words:
 - o5: חַיֵּ/נִי = H2421 חָיָה "to live, whether literally or figuratively…" [HVpv2ms/Sp1cs]
 
 Persian entries and current tags:
-- p1: به  → H7378
-- p2: دفاع  → H7378 H7379
+- p1: به
+- p2: دفاع  → H7378
 - p3: از
-- p4: حقِ  → H7379
+- p4: حقِ  → H7378 H7379
 - p5: من
 - p6: برخیز
 - p7: و  → Hc
 - p8: مرا
-- p9: برهان
+- p9: برهان  → H1350
 - p10: !
 - p11: بر
 - p12: حسب  → Hl
 - p13: وعده‌ات  → H565
 - p14: مرا
-- p15: زنده  → H2421
-- p16: بدار
-- p17: !
+- p15: زنده بدار  → H2421
+- p16: !
 
 ## Neighbouring verses (context only, not for review)
 
