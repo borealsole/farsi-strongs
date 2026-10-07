@@ -41,6 +41,10 @@ in `review_replies/pending/`, `approved/` or `applied/`. A helper adds the line
 `<!-- review complete -->` to its reply as its last step, so `commit` only takes finished
 replies and `clean` only removes unfinished ones.
 
+To keep `git status` (and session stop hooks) quiet while helpers are writing, you can add
+`review_replies/pending/*` to `.git/info/exclude`. That only hides uncommitted replies;
+`batch.py` still finds them, and committed replies are tracked as usual.
+
 **Don't regenerate the chunks during the batch** (`make_review_chunks.py`, which also follows
 `python -m retag run` in the usual routine). Chunk names include their verse ranges, and new
 hand-locked verses can change them, so already reviewed chunks could be handed out again.

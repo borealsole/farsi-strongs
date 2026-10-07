@@ -46,7 +46,8 @@ def tracked_replies():
 def untracked_replies():
     '''{name: complete?} for reply files in pending/ that are not committed yet.'''
     out = {}
-    for line in git('ls-files', '--others', '--exclude-standard', 'review_replies/pending').splitlines():
+    # No --exclude-standard: in-progress replies may be listed in .git/info/exclude (see README).
+    for line in git('ls-files', '--others', 'review_replies/pending').splitlines():
         name = os.path.basename(line)
         if name.endswith('.md') and not name.endswith('.check.md'):
             with open(os.path.join(REPO, line), encoding='utf8') as f:
@@ -139,7 +140,7 @@ def cmd_commit(args):
     if not good:
         return
     files = [f'review_replies/pending/{n}{s}' for n in good for s in ('', '.check.md')]
-    git('add', *files)
+    git('add', '-f', *files)
     label = ', '.join(n[:-3] for n in good) if len(good) <= 3 else f'{len(good)} chunks ({good[0][:-3]} … {good[-1][:-3]})'
     git('commit', '-q', '-m', f'Chat review replies for {label} (pending human check)\n\n'
         'Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>'
