@@ -2,14 +2,19 @@
 
     python review_batch/batch.py status        # how far the batch has got
     python review_batch/batch.py next 8        # the next chunks to hand to helpers
+    python review_batch/batch.py progress NAME # where a helper (re)starts in its chunk
+    python review_batch/batch.py assemble NAME # draft -> reply, check it, mark it complete if OK
     python review_batch/batch.py commit        # verify, commit and push finished replies
-    python review_batch/batch.py clean         # delete half-written replies (no helpers running!)
+    python review_batch/batch.py salvage       # after a cut-off (no helpers running!): keep what is usable
 
 A chunk is done when a reply named after it is committed in review_replies/pending, approved
-or applied. A helper writes its reply into review_replies/pending and, as its very last step,
-appends the line COMPLETE_MARKER. Replies without it were cut off (e.g. by a usage limit) and
-are removed by `clean`, so those chunks are simply handed out again. See review_batch/README.md.'''
+or applied. Helpers don't write the reply directly: they append their verdict on each verse to a
+draft in review_batch/drafts/ as they go, and `assemble` turns the draft into the reply, runs the
+check and appends COMPLETE_MARKER when it passes. A helper cut off by a usage limit leaves its
+draft behind; the next helper for that chunk continues after the last verse in the draft instead
+of starting again. See review_batch/README.md.'''
 import argparse
+import json
 import os
 import re
 import subprocess
@@ -19,6 +24,7 @@ import time
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CHUNKS = os.path.join(REPO, 'review_chunks')
 REPLIES = os.path.join(REPO, 'review_replies')
+DRAFTS = os.path.join(REPO, 'review_batch', 'drafts')
 FOLDERS = ['pending', 'approved', 'applied']
 COMPLETE_MARKER = '<!-- review complete -->'
 CHUNK_NAME = re.compile(r'^\d+_(.+)_(\d{3})\.(\d{3})-(\d{3})\.(\d{3})\.md$')
@@ -32,6 +38,57 @@ def all_chunks():
     '''Chunk paths relative to review_chunks/, in Bible order (as in INDEX.md).'''
     with open(os.path.join(CHUNKS, 'INDEX.md'), encoding='utf8') as f:
         return re.findall(r'^\| \[[^\]]*\]\(([^)]+)\)', f.read(), re.M)
+
+
+def chunk_path(name):
+    '''review_chunks/<book folder>/NAME for a chunk file name.'''
+    for c in all_chunks():
+        if os.path.basename(c) == name:
+            return os.path.join(CHUNKS, c)
+    raise SystemExit(f'No chunk named {name}')
+
+
+def chunk_verses(name):
+    '''The refs under "Verses to review" in a chunk, in order.'''
+    with open(chunk_path(name), encoding='utf8') as f:
+        text = f.read()
+    part = text.split('## Verses to review', 1)[1].split('\n## ', 1)[0]
+    return re.findall(r'^### (.+?)\s*$', part, re.M)
+
+
+def draft_paths(name):
+    return os.path.join(DRAFTS, name[:-3] + '.jsonl'), os.path.join(DRAFTS, name[:-3] + '.notes.md')
+
+
+def read_draft(name):
+    '''([(line number, text, obj or None)], notes text) of a chunk's draft.'''
+    jpath, npath = draft_paths(name)
+    rows, notes = [], ''
+    if os.path.exists(jpath):
+        with open(jpath, encoding='utf8') as f:
+            for n, line in enumerate(f, 1):
+                text = line.strip()
+                if not text:
+                    continue
+                try:
+                    obj = json.loads(text)
+                except json.JSONDecodeError:
+                    obj = None
+                rows.append((n, text, obj))
+    if os.path.exists(npath):
+        with open(npath, encoding='utf8') as f:
+            notes = f.read().strip()
+    return rows, notes
+
+
+def drafted_refs(rows):
+    return {obj['ref'] for _, _, obj in rows if isinstance(obj, dict) and 'ref' in obj}
+
+
+def draft_names():
+    if not os.path.isdir(DRAFTS):
+        return set()
+    return {n[:-len('.jsonl')] + '.md' for n in os.listdir(DRAFTS) if n.endswith('.jsonl')}
 
 
 def tracked_replies():
@@ -66,12 +123,16 @@ def cmd_status(args):
     chunks, done, untracked, remaining = state()
     n_done = sum(os.path.basename(c) in done for c in chunks)
     finished = [n for n, ok in untracked.items() if ok]
-    print(f'{n_done} of {len(chunks)} chunks reviewed and committed, {len(remaining)} not started.')
+    drafts = sorted(draft_names() - done - set(finished))
+    print(f'{n_done} of {len(chunks)} chunks reviewed and committed, {len(remaining)} not finished.')
     if finished:
         print(f'{len(finished)} finished but not committed yet (run commit): {", ".join(sorted(finished))}')
     partial = [n for n, ok in untracked.items() if not ok]
     if partial:
-        print(f'{len(partial)} in progress or cut off (run clean once no helpers are running): {", ".join(sorted(partial))}')
+        print(f'{len(partial)} replies without the completion line (run salvage once no helpers are running): '
+              f'{", ".join(sorted(partial))}')
+    if drafts:
+        print(f'{len(drafts)} partly reviewed (next helper continues the draft): {", ".join(drafts)}')
     if remaining:
         print(f'Next: {remaining[0]}')
 
@@ -89,16 +150,112 @@ def cmd_next(args):
         print(chunk)
 
 
-def cmd_clean(args):
-    removed = 0
+def run_check(path, sync_bible):
+    """(ok, status line, [problems]) from review_replies.py check for one reply."""
+    out = subprocess.run([sys.executable, os.path.join(REPO, 'review_replies.py'), 'check',
+                          '--sync-bible', sync_bible, path], capture_output=True, text=True, cwd=REPO).stdout
+    line = next((l for l in out.splitlines() if f'/{os.path.basename(path)}:' in l), '')
+    problems = []
+    report = path + '.check.md'
+    if os.path.exists(report):
+        with open(report, encoding='utf8') as f:
+            text = f.read()
+        if '## Problems' in text:
+            section = text.split('## Problems', 1)[1].split('\n## ', 1)[0]
+            problems = [l[2:] for l in section.splitlines() if l.startswith('- ')]
+    # A chunk where no verse needs a change gives a reply without verse lines: that's fine.
+    problems = [x for x in problems if not x.endswith(': no verse lines found')]
+    return (', OK.' in line or ' 0 verses with changes, 1 problem(s)' in line) and not problems, line, problems
+
+
+def cmd_salvage(args):
+    """After a cut-off, with no helpers running: keep every bit of finished work."""
+    completed, removed = [], []
     for name, complete in untracked_replies().items():
-        if not complete:
-            for path in (name, name + '.check.md'):
-                full = os.path.join(REPLIES, 'pending', path)
-                if os.path.exists(full):
-                    os.remove(full)
-            removed += 1
-    print(f'Removed {removed} unfinished replies; their chunks will be handed out again.')
+        if complete:
+            continue
+        path = os.path.join(REPLIES, 'pending', name)
+        if name in draft_names():
+            # Written by assemble; the helper was fixing problems when it stopped. The draft
+            # is kept and the next helper re-assembles it.
+            ok = False
+        else:
+            # A whole reply written in one go (older helpers): often only the check was cut off.
+            with open(path, encoding='utf8') as f:
+                text = f.read()
+            ok = text.lstrip().startswith('```jsonl') and text.count('```') >= 2 \
+                and not refs_outside(name, text) and run_check(path, args.sync_bible)[0]
+        if ok:
+            with open(path, 'a', encoding='utf8') as f:
+                f.write(('' if text.endswith('\n') else '\n') + '\n' + COMPLETE_MARKER + '\n')
+            completed.append(name)
+        else:
+            for p in (path, path + '.check.md'):
+                if os.path.exists(p):
+                    os.remove(p)
+            removed.append(name)
+    print(f'Completed {len(completed)} replies whose check passes: {", ".join(completed) or "-"}')
+    print(f'Removed {len(removed)} unusable replies (their drafts, if any, are kept): {", ".join(removed) or "-"}')
+    drafts = sorted(draft_names() - tracked_replies())
+    if drafts:
+        print(f'{len(drafts)} drafts will be continued: {", ".join(drafts)}')
+
+
+def cmd_progress(args):
+    name = os.path.basename(args.name)
+    verses = chunk_verses(name)
+    rows, _ = read_draft(name)
+    seen = drafted_refs(rows)
+    todo = [v for v in verses if v not in seen]
+    if not rows:
+        print(f'{name}: no draft yet; start with {verses[0]} ({len(verses)} verses).')
+    elif not todo:
+        print(f'{name}: all {len(verses)} verses are in the draft; run assemble.')
+    else:
+        print(f'{name}: {len(verses) - len(todo)} of {len(verses)} verses done; continue with {todo[0]}'
+              f' (still to do: {", ".join(todo)}).')
+
+
+def cmd_assemble(args):
+    name = os.path.basename(args.name)
+    verses = chunk_verses(name)
+    rows, notes = read_draft(name)
+    jpath = draft_paths(name)[0]
+    problems = []
+    lines = []
+    for n, text, obj in rows:
+        where = f'{os.path.relpath(jpath, REPO)}, line {n}'
+        if not isinstance(obj, dict) or 'ref' not in obj:
+            problems.append(f'{where}: not a JSON object with "ref"')
+        elif obj['ref'] not in verses:
+            problems.append(f'{where}: {obj["ref"]} is not one of this chunk\'s verses')
+        elif obj.get('unchanged'):
+            continue
+        elif 'entries' not in obj:
+            problems.append(f'{where} ({obj["ref"]}): needs "entries" (or "unchanged": true)')
+        else:
+            lines.append(json.dumps({'ref': obj['ref'], 'entries': obj['entries']}, ensure_ascii=False))
+    missing = [v for v in verses if v not in drafted_refs(rows)]
+    if missing:
+        problems.append(f'not in the draft yet: {", ".join(missing)}')
+    if problems:
+        print(f'{name}: NOT assembled.')
+        for p in problems:
+            print(f'- {p}')
+        return
+    path = os.path.join(REPLIES, 'pending', name)
+    with open(path, 'w', encoding='utf8') as f:
+        f.write('```jsonl\n' + ''.join(l + '\n' for l in lines) + '```\n\n' + (notes or '- No doubtful cases.') + '\n')
+    ok, status, problems = run_check(path, args.sync_bible)
+    if not ok:
+        print(f'{name}: assembled, but the check found problems. Fix the verse lines in the draft '
+              f'({os.path.relpath(jpath, REPO)}) and run assemble again:')
+        for p in problems or [status or 'check did not run']:
+            print(f'- {p}')
+        return
+    with open(path, 'a', encoding='utf8') as f:
+        f.write('\n' + COMPLETE_MARKER + '\n')
+    print(f'{name}: changed {len(lines)} of {len(verses)} verses, check OK, complete.')
 
 
 def refs_outside(name, text):
@@ -131,7 +288,7 @@ def cmd_commit(args):
         line = next((l for l in out.splitlines() if f'/{name}:' in l), '')
         with open(path, encoding='utf8') as f:
             outside = refs_outside(name, f.read())
-        if ', OK.' in line and not outside:
+        if (', OK.' in line or run_check(path, args.sync_bible)[0]) and not outside:
             good.append(name)
         else:
             bad.append(f'{name}: {"refs outside the chunk: " + ", ".join(outside) if outside else line or "not checked"}')
@@ -153,24 +310,37 @@ def cmd_commit(args):
         if subprocess.run(['git', '-C', REPO, 'push', '-q', 'origin', f'HEAD:{args.branch}']).returncode == 0:
             break
         time.sleep(2 ** attempt)
+    for n in good:
+        for p in draft_paths(n):
+            if os.path.exists(p):
+                os.remove(p)
     print(f'Committed and pushed {len(good)}: {", ".join(good)}')
 
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     sub = parser.add_subparsers(dest='command', required=True)
+    sync_bible = os.path.join(REPO, '..', 'sync.bible')
     sub.add_parser('status')
     p = sub.add_parser('next')
     p.add_argument('n', type=int, nargs='?', default=8)
     p.add_argument('--after', help='Only chunks after this one (e.g. the last one handed out)')
-    sub.add_parser('clean')
+    p = sub.add_parser('progress')
+    p.add_argument('name', help='Chunk file name or path')
+    p = sub.add_parser('assemble')
+    p.add_argument('name', help='Chunk file name or path')
+    p.add_argument('--sync-bible', default=sync_bible)
+    for cmd in ('salvage', 'clean'):  # clean: old name
+        p = sub.add_parser(cmd)
+        p.add_argument('--sync-bible', default=sync_bible)
     p = sub.add_parser('commit')
-    p.add_argument('--sync-bible', default=os.path.join(REPO, '..', 'sync.bible'))
+    p.add_argument('--sync-bible', default=sync_bible)
     p.add_argument('--branch', default='review-chunks')
     p.add_argument('--session', default=os.environ.get('CLAUDE_SESSION_URL', ''),
                    help='Claude session link for the commit message (default: $CLAUDE_SESSION_URL)')
     args = parser.parse_args()
-    {'status': cmd_status, 'next': cmd_next, 'clean': cmd_clean, 'commit': cmd_commit}[args.command](args)
+    {'status': cmd_status, 'next': cmd_next, 'progress': cmd_progress, 'assemble': cmd_assemble,
+     'salvage': cmd_salvage, 'clean': cmd_salvage, 'commit': cmd_commit}[args.command](args)
 
 
 if __name__ == '__main__':
