@@ -20,6 +20,7 @@ import re
 import subprocess
 import sys
 import time
+import unicodedata
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CHUNKS = os.path.join(REPO, 'review_chunks')
@@ -115,7 +116,10 @@ def untracked_replies():
 def state():
     done, untracked = tracked_replies(), untracked_replies()
     chunks = all_chunks()
-    remaining = [c for c in chunks if os.path.basename(c) not in done and os.path.basename(c) not in untracked]
+    drafts = draft_names()
+    # An unfinished reply with a draft failed assemble's check: the chunk is handed out again.
+    busy = {n for n, ok in untracked.items() if ok or n not in drafts}
+    remaining = [c for c in chunks if os.path.basename(c) not in done and os.path.basename(c) not in busy]
     return chunks, done, untracked, remaining
 
 
@@ -216,6 +220,54 @@ def cmd_progress(args):
               f' (still to do: {", ".join(todo)}).')
 
 
+MISMATCH = re.compile(r'\((?P<ref>[^)]*)\): Persian words differ from the verse at word \d+: '
+                      r'got "(?P<got>[^"]*)", expected "(?P<want>[^"]*)"')
+
+
+def fix_spelling(name, problems):
+    '''Fix draft words that equal the verse's word up to Unicode normalisation (diacritic order).'''
+    fixes = []
+    for p in problems:
+        m = MISMATCH.search(p)
+        if m and m['got'] != m['want'] and \
+                unicodedata.normalize('NFC', m['got']) == unicodedata.normalize('NFC', m['want']):
+            fixes.append((m['ref'], m['got'], m['want']))
+    if not fixes:
+        return False
+    with open(chunk_path(name), encoding='utf8') as f:
+        chunk = f.read()
+    jpath = draft_paths(name)[0]
+    with open(jpath, encoding='utf8') as f:
+        lines = f.readlines()
+    changed = False
+    for ref, got, _ in fixes:
+        # The verse's own spellings of this word, in order (a verse may spell it differently
+        # in different places), are copied onto the draft line's occurrences in order.
+        section = chunk.split(f'### {ref}\n', 1)[-1].split('\n### ', 1)[0]
+        key = unicodedata.normalize('NFC', got)
+        source = [w for w in re.findall(r'[^\s"\[\],:|`]+', section)
+                  if unicodedata.normalize('NFC', w) == key]
+        for i, line in enumerate(lines):
+            if f'"ref": "{ref}"' not in line:
+                continue
+            spots = [m for m in re.finditer(r'"([^"]+)"', line)
+                     if unicodedata.normalize('NFC', m.group(1)) == key]
+            if source and len(source) >= len(spots):
+                new_line, last = '', 0
+                for m, w in zip(spots, source):
+                    new_line += line[last:m.start(1)] + w
+                    last = m.end(1)
+                new_line += line[last:]
+                if new_line != line:
+                    lines[i] = new_line
+                    changed = True
+            break
+    if changed:
+        with open(jpath, 'w', encoding='utf8') as f:
+            f.writelines(lines)
+    return changed
+
+
 def cmd_assemble(args):
     name = os.path.basename(args.name)
     verses = chunk_verses(name)
@@ -247,6 +299,11 @@ def cmd_assemble(args):
     with open(path, 'w', encoding='utf8') as f:
         f.write('```jsonl\n' + ''.join(l + '\n' for l in lines) + '```\n\n' + (notes or '- No doubtful cases.') + '\n')
     ok, status, problems = run_check(path, args.sync_bible)
+    if not ok and getattr(args, 'fixes', 0) < 3 and fix_spelling(name, problems):
+        args.fixes = getattr(args, 'fixes', 0) + 1
+        # Words that only differ from the verse in the order of their diacritics were
+        # replaced with the verse's own spelling; assemble again.
+        return cmd_assemble(args)
     if not ok:
         print(f'{name}: assembled, but the check found problems. Fix the verse lines in the draft '
               f'({os.path.relpath(jpath, REPO)}) and run assemble again:')
