@@ -23,3 +23,5 @@
 - Ecclesiastes 4:14 p7 (رسیده): tagged H3318 as the loose rendering of יָצָא; doubtful.
 - Ecclesiastes 4:15: پادشاه (p15) left untagged (Hebrew has הַשֵּׁנִי "the second", not "king"); همراه kept H5973 alongside با.
 - Ecclesiastes 4:16 p9 (و): tagged H1571 for גַּם; p5 را tagged Hl (לְכָל); نبوده changed H1961 -> H369 (אֵין).
+
+<!-- review complete -->
